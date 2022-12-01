@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="80" item="2003 Nissan Frontier" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Truck(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) tough(3) ,(4) the(5) V6(6) with(7) 5(8) speed(9) ,(10) roomy(11) interior(12) .(13) 
+			<opinion polarity="+" feature="interior" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) interior(2) could(3) be(4) a(5) little(6) better(7) finished(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) my(3) third(4) Nissan(5) truck(6) ((7) 1986.5(8) Hardbody(9) ,(10) 2000(11) Crewcab(12) )(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) the(3) 2003(4) Desert_Runner(5) model(6) in(7) July_2003(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			After(1) 34,000_miles(2) I(3) have(4) had(5) no(6) issues(7) with(8) the(9) truck(10) and(11) find(12) the(13) V6(14) with(15) 5(16) speed(17) "(18) grunty(19) "(20) with(21) plenty_of(22) power(23) for(24) the(25) freeways(26) ,(27) going(28) to(29) the(30) junkyard(31) or(32) hauling(33) everything(34) from(35) furniture(36) to(37) bikes(38) to(39) groceries(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) biased(3) towards(4) Nissan(5) trucks(6) ,(7) my(8) first(9) vehicle(10) was(11) an(12) 86.5(13) Hardbody(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			We(1) still(2) have(3) it(4) with(5) nearly(6) 300,000_miles(7) on(8) the(9) original(10) engine(11) and(12) transmission(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Nissan(1) trucks(2) are(3) bullet-proof(4) long-term(5) investments(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 14,800(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Desert_Runner_XE(16) V6(17) 
+		</sentence>
+	</text>
+</review>

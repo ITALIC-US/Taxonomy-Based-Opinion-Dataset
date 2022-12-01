@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="434" item="1996 Toyota Camry" rating="4">
+	<title>
+		<sentence id="1">
+			Safe_Bet(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Shocks(1) !(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) and(2) reliable(3) !(4) 
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Although(1) I(2) do(3) not(4) own(5) a(6) Camry(7) ,(8) I(9) worked(10) at(11) a(12) repair(13) shop(14) for(15) 2(16) years(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) will(2) tell(3) you(4) this(5) ,(6) if(7) you(8) can(9) not(10) afford(11) a(12) Lexus(13) ,(14) the(15) Toyota_Camry(16) is(17) the(18) next(19) best(20) thing(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) worked(3) on(4) a(5) number(6) of(7) Camry(8) 's(9) while(10) I(11) was(12) at(13) the(14) repair(15) shop(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) is(3) a(4) dream(5) car(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			It(1) rarely(2) breaks(3) down(4) and(5) only(6) needs(7) minor(8) maintenance(9) like(10) breaks(11) ,(12) oil(13) change(14) ,(15) fuel(16) filter(17) ,(18) air(19) filter(20) ,(21) pcv(22) valve(23) ,(24) spark(25) plugs(26) ,(27) distributor(28) cap(29) ,(30) distributor(31) rotor(32) ,(33) spark(34) plug(35) wires(36) and(37) an(38) occasional(39) transmission(40) filter(41) kit(42) change(43) .(44) 
+		</sentence>
+		<sentence id="6">
+			The(1) boss(2) '(3) wife(4) ,(5) his(6) brother(7) and(8) his(9) sister(10) had(11) camry(12) 's(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) a(3) great(4) car(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) constant(3) problem(4) is(5) the(6) shocks(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			For(1) some(2) reason(3) the(4) shocks(5) and(6) struts(7) are(8) always(9) failing(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			Most(1) of(2) the(3) 1996(4) models(5) and(6) other(7) models(8) have(9) similar(10) problems(11) with(12) the(13) shocks(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			Although(1) it(2) rarely(3) have(4) a(5) transmission(6) failure(7) ,(8) if(9) the(10) transmission(11) breaks(12) down(13) ,(14) you(15) 're(16) going(17) to(18) have(19) a(20) big(21) problem(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			In(1) other(2) to(3) replace(4) the(5) Transmission(6) or(7) even(8) rebuilt(9) it(10) ,(11) the(12) mechanic(13) will(14) have(15) to(16) bring(17) down(18) the(19) chassis(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) a(3) long(4) and(5) hard(6) process(7) to(8) change(9) or(10) take(11) out(12) a(13) transmission(14) on(15) a(16) Camry(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			I(1) 've(2) done(3) it(4) twice(5) out(6) of(7) almost(8) hundreds(9) of(10) camry(11) 's(12) I(13) 've(14) worked(15) on(16) the(17) past(18) 2(19) years(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			It(1) rarely(2) happens(3) ,(4) but(5) if(6) it(7) does(8) ,(9) be(10) prepare(11) to(12) spend(13) at_least(14) $800.00(15) on(16) a(17) new(18) Transmission(19) job(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9,000(7) Model_Year(8) :(9) 1996(10) 
+		</sentence>
+	</text>
+</review>

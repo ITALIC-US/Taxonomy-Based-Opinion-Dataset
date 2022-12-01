@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="441" item="1996 Toyota Camry" rating="4">
+	<title>
+		<sentence id="1">
+			my(1) first(2) car(3) and(4) runnin(5) '(6) strong(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) gas(2) mileage(3) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) so(2) sporty(3) 
+			<opinion polarity="-" feature="car" opWords="1,3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			the(1) camry(2) is(3) an(4) affordably(5) priced(6) car(7) that(8) gives(9) you(10) speed(11) and(12) comfortability(13) for(14) its(15) price(16) .(17) cd(18) player(19) tape(20) deck(21) are(22) both(23) avalable(24) on(25) this(26) car(27) as_well(28) as(29) sun(30) roof(31) ,(32) power(33) windows(34) and(35) locks(36) ,(37) anti(38) lock(39) brakes(40) ,(41) power(42) steering(43) ,(44) and(45) more(46) .(47) i(48) 've(49) added(50) a(51) stereo(52) system(53) ,(54) cd(55) player(56) ,(57) fog(58) lights(59) and(60) more(61) and(62) the(63) car(64) has(65) not(66) given(67) me(68) a(69) single(70) problem(71) yet(72) .(73) it(74) is(75) great(76) for(77) teen(78) agers(79) and(80) classy(81) enough(82) that(83) you(84) might(85) just(86) see(87) the(88) boss(89) drive(90) to(91) work(92) tomorrow(93) .(94) this(95) is(96) the(97) car(98) of(99) choice(100) for(101) millions(102) of(103) families(104) accross(105) the(106) nation(107) .(108) and(109) it(110) is(111) definately(112) the(113) car(114) of(115) choice(116) for(117) me(118) .(119) 
+			<opinion polarity="+" feature="design" opWords="81,82"/>
+			<opinion polarity="+" feature="car" opWords="76"/>
+			<opinion polarity="+" feature="price" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

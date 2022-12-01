@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="349" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Better(1) than(2) expected(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Over(1) all(2) nice(3) car(4) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) blind(2) spots(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) just(2) purchased(3) a(4) used(5) 98(6) Accord_LX(7) w(8) /(9) the(10) v6(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) is(3) overly(4) loaded(5) w(6) /(7) options(8) including(9) leather(10) seats(11) ,(12) cd(13) player(14) and(15) sun(16) roof(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			It(1) just(2) seems(3) strange(4) that(5) so(6) much(7) would(8) go(9) into(10) a(11) car(12) to(13) make(14) it(15) the(16) more(17) elegant(18) and(19) advanced(20) of(21) its(22) class(23) that(24) it(25) would(26) have(27) a(28) cheesey(29) tilt(30) lever(31) on(32) the(33) steering(34) wheel(35) .(36) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) been(3) impressed(4) w(5) /(6) the(7) ride(8) quality(9) and(10) the(11) lack(12) of(13) cabin(14) noise(15) but(16) the(17) nicest(18) thing(19) is(20) the(21) automatic(22) a(23) /(24) c(25) ,(26) i(27) had(28) that(29) in(30) an(31) older(32) thunderbird(33) but(34) this(35) one(36) actually(37) seems(38) to(39) work(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			Best(1) of(2) all(3) is(4) the(5) roominess(6) in(7) the(8) back(9) seat(10) ,(11) it(12) almost(13) seems(14) to(15) have(16) more(17) leg(18) room(19) in(20) the(21) rear(22) than(23) in(24) the(25) front(26) .(27) 
+		</sentence>
+	</text>
+</review>

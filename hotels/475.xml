@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="475" item="Hyatt Regency Milwaukee" rating="3">
+	<title>
+		<sentence id="1">
+			Decent_Lodging(1) in(2) Milwaukee(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) downtown(2) hotel(3) ,(4) reasonable(5) rate(6) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="place" opWords="2"/>
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mediocre(1) service(2) and(3) food(4) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="food" featWords="4" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Unless(1) my(2) budget(3) was(4) more(5) flexible(6) ,(7) I(8) would(9) stay(10) here(11) again(12) next(13) time(14) I(15) 'm(16) in(17) Milwaukee(18) .(19) 
+			<opinion polarity="+" feature="hotel" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			Otherwise(1) ,(2) I(3) would(4) opt(5) for(6) the(7) superb(8) Pfister_Hotel(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Updated(1) 10/6/03(2) with(3) new(4) content(5) and(6) better(7) organization(8) Update(9) 12/18/03(10) How(11) I_Ended_Up_Staying(12) at(13) This_Hotel_I(14) stayed(15) at(16) the(17) Hyatt_Regency_Milwaukee(18) for(19) one(20) night(21) ((22) 9/9/03(23) )(24) on(25) business(26) ,(27) and(28) once(29) before(30) last(31) year(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			I(1) chose(2) this(3) hotel(4) for(5) 2(6) reasons(7) :(8) ((9) 1(10) )(11) my(12) boss(13) told(14) me(15) he(16) 'd(17) been(18) staying(19) at(20) this(21) hotel(22) recently(23) for(24) all(25) his(26) trips(27) to(28) Milwaukee(29) ,(30) and(31) ((32) 2(33) )(34) I(35) 'm(36) a(37) member(38) of(39) the(40) Hyatt_Gold_Passport(41) frequent(42) stay(43) program(44) .(45) 
+		</sentence>
+		<sentence id="3">
+			My(1) boss(2) claims(3) this(4) is(5) the(6) second(7) best(8) hotel(9) in(10) Milwaukee(11) after(12) the(13) Pfister(14) ((15) where(16) I(17) have(18) stayed(19) previously(20) --(21) likely(22) the(23) subject(24) of(25) a(26) future(27) review(28) )(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			I(1) certainly(2) would(3) not(4) go(5) that(6) far(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Location(1) ,(2) Location(3) ,(4) Location_Hyatt_Regency_Milwaukee(5) 333(6) West_Kilbourn_Avenue_Milwaukee(7) ,(8) WI(9) 53203(10) Tel(11) :(12) 414.276.1234(13) Fax(14) :(15) 414.276.6338(16) This(17) 18-floor(18) Hyatt(19) is(20) located(21) in(22) the(23) heart(24) of(25) downtown(26) Milwaukee(27) near(28) the(29) Milwaukee_River(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) connected(3) by(4) skywalks(5) to(6) the(7) Midwest_Express(8) convention(9) center(10) ,(11) Federal_Plaza(12) ,(13) and(14) the(15) Grand_Avenue_Mall(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			It(1) takes(2) about(3) 20-30(4) minutes(5) to(6) drive(7) the(8) 15_miles(9) from(10) Mitchell_International_Airport(11) ((12) MKE(13) )(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) Devil(2) is(3) in(4) the(5) Detail_Check-in(6) 3:00(7) pm(8) Check-out(9) 12:00(10) noon(11) The(12) reservation(13) policy(14) is(15) standard(16) --(17) reservations(18) must(19) be(20) guaranteed(21) with(22) a(23) major(24) credit(25) card(26) ((27) AX(28) ,(29) CB(30) ,(31) DS(32) ,(33) JC(34) ,(35) WB(36) ,(37) CA(38) ,(39) DC(40) ,(41) IK(42) ,(43) MC(44) ,(45) and(46) VI(47) are(48) accepted(49) )(50) ,(51) cancellation(52) without(53) charge(54) allowed(55) at_least(56) 24(57) hours(58) prior(59) to(60) arrival(61) .(62) 
+		</sentence>
+		<sentence id="9">
+			Amenities(1) and(2) Facilities_This_Hyatt(3) is(4) functional(5) ,(6) and(7) fairly(8) run-of-the-mill(9) .(10) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="-" feature="hotel" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="10">
+			Nothing(1) flashy(2) or(3) unusual(4) about(5) it(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Basically(1) the(2) rooms(3) are(4) arranged(5) around(6) the(7) building(8) 's(9) rectangular(10) shape(11) ,(12) with(13) an(14) open(15) atrium(16) space(17) in(18) the(19) center(20) and(21) glass(22) elevators(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			My(1) room(2) was(3) clean(4) enough(5) ,(6) and(7) the(8) bed(9) was(10) decent(11) .(12) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="bed" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="13">
+			As(1) far(2) as(3) I(4) remember(5) ,(6) the(7) decor(8) was(9) modern(10) in(11) typical(12) Hyatt(13) style(14) .(15) 
+			<opinion polarity="+" feature="decoration" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="14">
+			The(1) view(2) from(3) my(4) 15th(5) floor(6) room(7) of(8) the(9) downtown(10) Milwaukee(11) skyline(12) was(13) nice(14) .(15) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="14"/>
+		</sentence>
+		<sentence id="15">
+			For(1) the(2) fitness-oriented(3) ,(4) there(5) is(6) a(7) complimentary(8) fitness(9) center(10) open(11) from(12) 6am(13) to(14) 10pm(15) featuring(16) free(17) weights(18) ,(19) exercise(20) cycles(21) ,(22) stair(23) climbers(24) ,(25) and(26) treadmills(27) .(28) 
+			<opinion polarity="+" feature="gym" featWords="9,10" opWords="8"/>
+		</sentence>
+		<sentence id="16">
+			Where(1) to(2) Eat_As(3) for(4) dining(5) options(6) ,(7) I(8) ate(9) at(10) the(11) nearby(12) Thai(13) restaurant(14) ,(15) The_King(16) and(17) I._Quality_Thai(18) food(19) in(20) a(21) classy(22) atmosphere(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			I(1) recommend(2) the(3) mango(4) curry(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			Due(1) to(2) a(3) bad(4) experience(5) last(6) year(7) at(8) the(9) Pilsner(10) restaurant(11) in(12) the(13) hotel(14) lobby(15) ((16) almost(17) inedible(18) dinner(19) --(20) I(21) think(22) it(23) was(24) some(25) kind(26) of(27) Thai(28) chicken(29) salad(30) )(31) ,(32) I(33) avoided(34) the(35) hotel(36) food(37) .(38) 
+		</sentence>
+		<sentence id="19">
+			Another(1) place(2) I(3) 've(4) tried(5) is(6) the(7) nearby(8) Benihana(9) --(10) unmemorable(11) ,(12) decent(13) Japanese(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			In(1) the(2) hotel(3) ,(4) the(5) rooftop(6) Polaris(7) restaurant(8) ((9) the(10) only(11) revolving(12) restaurant(13) in(14) the(15) state(16) of(17) Wisconsin(18) )(19) is(20) supposed(21) to(22) be(23) good(24) ,(25) but(26) I(27) can(28) not(29) speak(30) from(31) first-hand(32) experience(33) .(34) 
+		</sentence>
+		<sentence id="21">
+			Sarah_'s_Pantry(1) in(2) the(3) lobby(4) is(5) convenient(6) if(7) you(8) 're(9) in(10) a(11) hurry(12) in(13) the(14) morning(15) --(16) it(17) serves(18) Starbuck(19) 's(20) coffee(21) ,(22) bagels(23) ,(24) pastries(25) ,(26) etc.(27) There(28) is(29) also(30) a(31) sports(32) bar(33) called(34) Knuckles(35) .(36) 
+		</sentence>
+		<sentence id="22">
+			The(1) Complaint_Department_My(2) impression(3) of(4) the(5) front(6) desk(7) service(8) was(9) affected(10) by(11) the(12) following(13) minor(14) incident(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			After(1) checking(2) out(3) ,(4) I(5) noticed(6) they(7) had(8) added(9) someone(10) else(11) 's(12) meal(13) charge(14) to(15) my(16) bill(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			When(1) I(2) went(3) back(4) and(5) pointed(6) it(7) out(8) ,(9) the(10) woman(11) was(12) cooperative(13) and(14) removed(15) it(16) immediately(17) ,(18) but(19) I(20) could(21) have(22) sworn(23) she(24) gave(25) me(26) a(27) dirty(28) look(29) ,(30) and(31) I(32) did(33) not(34) think(35) she(36) was(37) sufficiently(38) apologetic(39) .(40) 
+		</sentence>
+		<sentence id="25">
+			Maybe(1) she(2) just(3) needed(4) another(5) cup(6) of(7) coffee(8) .(9) 12/18/2003(10) Update_I(11) stayed(12) at(13) this(14) hotel(15) again(16) on(17) business(18) December(19) 16-17(20) ,(21) 2003(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			As(1) comments(2) on(3) this(4) review(5) have(6) pointed(7) out(8) my(9) omission(10) of(11) certain(12) details(13) ,(14) I(15) shall(16) now(17) provide(18) additional(19) information(20) based(21) on(22) my(23) recent(24) experience(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			First(1) ,(2) a(3) little(4) story(5) .(6) 
+		</sentence>
+		<sentence id="28">
+			This(1) hotel(2) is(3) connected(4) to(5) a(6) little(7) known(8) moment(9) in(10) history(11) .(12) 
+		</sentence>
+		<sentence id="29">
+			According_to(1) a(2) plaque(3) in(4) the(5) lobby(6) ,(7) on(8) October_14_,_1912(9) ,(10) John_Schrank(11) attempted(12) to(13) assassinate(14) Teddy_Roosevelt(15) where(16) this(17) Hyatt(18) stands(19) today(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			That(1) year(2) TR(3) was(4) the(5) Bull_Moose(6) candidate(7) for(8) president(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			The(1) assassin(2) 's(3) aim(4) was(5) true(6) ,(7) but(8) luckily(9) for(10) TR(11) the(12) fifty-page(13) text(14) of(15) his(16) planned(17) speech(18) cushioned(19) the(20) blow(21) to(22) his(23) chest(24) .(25) 
+		</sentence>
+		<sentence id="32">
+			The(1) same(2) day(3) ,(4) against(5) his(6) doctor(7) 's(8) advice(9) ,(10) TR(11) went(12) ahead(13) with(14) the(15) speech(16) ,(17) boasting(18) ,(19) "(20) It(21) takes(22) more(23) than(24) a(25) bullet(26) to(27) stop(28) a(29) Bull_Moose(30) .(31) "(32) At(33) trial(34) Schrank(35) was(36) found(37) criminally(38) insane(39) ,(40) and(41) was(42) confined(43) to(44) a(45) mental(46) institution(47) until(48) his(49) death(50) in_1943(51) .(52) 
+		</sentence>
+		<sentence id="33">
+			TR(1) lived(2) out(3) his(4) life(5) with(6) the(7) bullet(8) lodged(9) inside(10) him(11) to(12) no(13) ill(14) effect(15) ,(16) a(17) wound(18) he(19) likely(20) wore(21) as(22) a(23) badge(24) of(25) honor(26) .(27) 
+		</sentence>
+		<sentence id="34">
+			Getting(1) back(2) to(3) more(4) mundane(5) details(6) ,(7) the(8) room(9) was(10) decorated(11) in(12) a(13) Hyatt(14) dark(15) blue(16) theme(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			It(1) had(2) a(3) desk(4) with(5) two(6) chairs(7) and(8) a(9) recliner(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			Toiletries(1) were(2) a_bit(3) stingy(4) --(5) not(6) that(7) I(8) care(9) about(10) that(11) --(12) only(13) shampoo(14) ,(15) conditioner(16) and(17) two(18) pieces(19) of(20) soap(21) ((22) one(23) for(24) the(25) sink(26) ,(27) one(28) for(29) the(30) bath(31) )(32) .(33) 
+		</sentence>
+		<sentence id="37">
+			A(1) blowdryer(2) was(3) in(4) the(5) bathroom(6) ,(7) and(8) an(9) iron(10) with(11) ironing(12) board(13) was(14) hidden(15) in(16) the(17) closet(18) .(19) 
+		</sentence>
+		<sentence id="38">
+			This(1) time(2) I(3) remembered(4) to(5) get(6) my(7) Gold_Passport(8) number(9) on(10) my(11) reservation(12) ,(13) so(14) I(15) got(16) a(17) room(18) on(19) the(20) 17th(21) floor(22) ((23) the(24) non-smoking(25) Gold_Passport(26) floor(27) )(28) with(29) a(30) nice(31) view(32) of(33) the(34) Milwaukee_River(35) .(36) 
+		</sentence>
+		<sentence id="39">
+			No(1) minibar(2) .(3) 
+		</sentence>
+		<sentence id="40">
+			Hyatt(1) tries(2) to(3) tempt(4) you(5) with(6) a(7) one(8) liter(9) bottle(10) of(11) Aquifina(12) water(13) on(14) the(15) desk(16) for(17) $4.00(18) .(19) 
+		</sentence>
+		<sentence id="41">
+			Each(1) floor(2) has(3) Pepsi(4) vending(5) machines(6) ,(7) $(8) 1(9) .(10) 
+		</sentence>
+		<sentence id="42">
+			The(1) TV(2) offers(3) Fox_News(4) ,(5) ESPN(6) ,(7) HBO(8) ,(9) Starz(10) ,(11) etc.(12) ,(13) and(14) pay(15) movies(16) .(17) 
+		</sentence>
+		<sentence id="43">
+			The(1) phone(2) has(3) a(4) dial-up(5) data(6) port(7) .(8) 
+		</sentence>
+		<sentence id="44">
+			No(1) access(2) charge(3) for(4) 800/8XX(5) numbers(6) ,(7) so(8) if(9) your(10) company(11) or(12) ISP(13) offers(14) a(15) toll-free(16) access(17) number(18) ,(19) you(20) 're(21) in(22) luck(23) .(24) 
+		</sentence>
+		<sentence id="45">
+			Wireless(1) internet(2) access(3) is(4) also(5) available(6) in_all(7) rooms(8) and(9) the(10) lobby(11) for(12) $9.95(13) ((14) per(15) stay(16) ,(17) I(18) think(19) )(20) .(21) 
+		</sentence>
+		<sentence id="46">
+			You(1) can(2) use(3) your(4) own(5) wireless(6) card(7) ,(8) or(9) borrow(10) a(11) wireless(12) adapter(13) at(14) the(15) front(16) desk(17) for(18) $5.95(19) per(20) stay(21) .(22) 
+		</sentence>
+		<sentence id="47">
+			Tech(1) support(2) can(3) be(4) reached(5) 24(6) hours(7) a(8) day(9) at(10) 877-22-HYATT(11) .(12) 
+		</sentence>
+		<sentence id="48">
+			On(1) this(2) trip(3) I(4) finally(5) ate(6) at(7) the(8) Polaris(9) revolving(10) restaurant(11) on(12) the(13) top(14) of(15) the(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			The(1) teriyaki(2) salmon(3) was(4) unmemorable(5) .(6) 
+		</sentence>
+		<sentence id="50">
+			I(1) would(2) not(3) order(4) it(5) again(6) .(7) 
+		</sentence>
+		<sentence id="51">
+			But(1) I(2) suppose(3) it(4) was(5) worth(6) it(7) to(8) take(9) in_the_360(10) degree(11) night(12) view(13) of(14) Milwaukee(15) and(16) to(17) avoid(18) trekking(19) to(20) an(21) outside(22) establishment(23) in(24) the(25) cold(26) for(27) around(28) $30(29) ,(30) including(31) drink(32) .(33) 
+		</sentence>
+		<sentence id="52">
+			Last_Word_I(1) would(2) recommend(3) this(4) hotel(5) without(6) hesitation(7) to(8) economy(9) business(10) travelers(11) and(12) families(13) .(14) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="53">
+			Official(1) website(2) :(3) http://milwaukee.hyatt.com/property/index.jhtml(4) See(5) my(6) other(7) Hyatt(8) review(9) :(10) San_Francisco_Park_Hyatt(11) 
+		</sentence>
+	</text>
+</review>

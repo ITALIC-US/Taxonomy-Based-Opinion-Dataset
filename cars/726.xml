@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="726" item="1997 Subaru Legacy" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) ,(2) not(3) great(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			All-wheel(1) drive(2) ,(3) handling(4) ,(5) space(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) power(3) ,(4) unreliability(5) issues(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Mid-sized(1) sedans(2) that(3) come(4) with(5) manual(6) transmissions(7) and(8) are(9) fun(10) to(11) drive(12) and(13) unfortunately(14) few(15) in(16) number(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Legacy_GT(2) 2.5(3) was(4) one(5) of(6) a(7) handful(8) of(9) cars(10) that(11) fit(12) my(13) needs(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			What(1) won(2) me(3) over(4) was(5) my(6) test(7) drive(8) in(9) the(10) rain(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Thanks(1) to(2) the(3) all-wheel(4) drive(5) ,(6) I(7) absolutely(8) could(9) not(10) break(11) traction(12) in(13) a(14) driving(15) storm(16) unless(17) I(18) really(19) tried(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Four(1) years(2) down(3) the(4) road(5) ,(6) it(7) remains(8) one(9) of(10) the(11) most(12) sure-footed(13) sedans(14) I(15) 've(16) ever(17) driven(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) completely(3) predictable(4) and(5) sticks(6) to(7) the(8) road(9) as_if(10) it(11) 's(12) been(13) glued(14) down(15) to(16) it(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			It(1) has(2) a(3) tendency(4) to(5) understeer(6) ((7) plow(8) )(9) ,(10) but(11) a(12) touch(13) of(14) gas(15) will(16) settle(17) the(18) car(19) in(20) a(21) corner(22) without(23) snapping(24) the(25) rear(26) around(27) ,(28) as(29) can(30) happen(31) with(32) some(33) rear-wheel(34) drive(35) cars(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			Also(1) nice(2) is(3) the(4) pleasant(5) and(6) comfortable(7) interior(8) .(9) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="interior" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="interior" featWords="8" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			There(1) 's(2) plenty_of(3) space(4) for(5) kids(6) or(7) grown-ups(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			The(1) cup(2) holders(3) block(4) the(5) heating(6) /(7) AC(8) controls(9) somewhat(10) and(11) the(12) radio(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			But(1) there(2) are(3) plenty_of(4) places(5) to(6) store(7) stuff(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			The(1) glove(2) compartment(3) is(4) a(5) healthy(6) size(7) in(8) this(9) age(10) of(11) airbag-reduced(12) glove(13) boxes(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Gauges(1) and(2) controls(3) all(4) are(5) clear(6) and(7) conveniently(8) located(9) .(10) 
+			<opinion polarity="+" feature="controls" featWords="3" opWords="8,9"/>
+			<opinion polarity="+" feature="controls" featWords="3" opWords="6"/>
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="8,9"/>
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="6"/>
+		</sentence>
+		<sentence id="14">
+			Seats(1) are(2) OK(3) .(4) 
+			<opinion polarity="+" feature="seat" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="15">
+			They(1) 're(2) generally(3) comfortable(4) ,(5) but(6) the(7) lumbar(8) control(9) is(10) too(11) over-aggressive(12) for(13) my(14) tastes(15) .(16) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) either(3) like(4) a(5) log(6) in(7) the(8) small(9) of(10) my(11) back(12) or(13) just(14) not(15) there(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			Trunk(1) space(2) is(3) adequate(4) ,(5) and(6) the(7) rear(8) seats(9) fold(10) down(11) .(12) 
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			Less(1) nice(2) was(3) a(4) series(5) of(6) blown(7) crankshaft(8) seals(9) shortly(10) before(11) 50,000_miles(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			These(1) failures(2) emptied(3) my(4) engine(5) of(6) oil(7) and(8) have(9) shaken(10) my(11) faith(12) in(13) the(14) car(15) 's(16) reliability(17) ,(18) even_though(19) nothing(20) has(21) gone(22) wrong(23) in_the_12,000(24) miles(25) since(26) then(27) .(28) 
+		</sentence>
+		<sentence id="20">
+			More(1) power(2) would(3) be(4) nice(5) ,(6) too(7) ,(8) although(9) it(10) 's(11) certainly(12) adequate(13) .(14) 
+			<opinion polarity="+" feature="horsepower" featWords="10" featRef="horsepower" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="21">
+			I(1) 'm(2) not(3) a(4) horsepower(5) junkie(6) ((7) I(8) 'm(9) a(10) handling(11) junkie(12) )(13) ,(14) but(15) below(16) 55(17) mph(18) you(19) really(20) need(21) to(22) drop(23) down(24) to(25) fourth(26) or(27) third(28) gear(29) if(30) you(31) need(32) to(33) pass(34) in(35) a(36) hurry(37) .(38) 
+		</sentence>
+		<sentence id="22">
+			On_the_other_hand(1) ,(2) the(3) engine(4) 's(5) low-speed(6) torque(7) is(8) substantial(9) .(10) 
+			<opinion polarity="+" feature="torque" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="23">
+			If(1) you(2) do(3) not(4) need(5) to(6) accelerate(7) in(8) a(9) rush(10) ,(11) the(12) engine(13) pulls(14) from(15) as(16) low(17) as(18) 1500(19) RPM(20) without(21) lugging(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			It(1) 's(2) a(3) great(4) car(5) for(6) places(7) where(8) there(9) 's(10) lots(11) of(12) snow(13) or(14) rain(15) ,(16) and(17) it(18) has(19) the(20) added(21) benefit(22) of(23) not(24) looking(25) as(26) childish(27) as(28) those(29) ridiculous(30) Outback(31) models(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</text>
+</review>

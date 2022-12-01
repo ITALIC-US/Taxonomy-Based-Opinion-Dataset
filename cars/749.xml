@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="749" item="2000 Toyota MR2 Spyder" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) Near_Miss_for_Toyota(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Uhm(1) ...(2) I(3) guess(4) it(5) 's(6) kind(7) of(8) an(9) MR2(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mid-engined_Miata(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			As(1) an(2) avid(3) Toyota(4) MR2(5) fan(6) ,(7) it(8) would(9) be(10) a(11) gross(12) understatement(13) to(14) say(15) I(16) am(17) extremely(18) disappointed(19) by(20) the(21) new(22) MR2(23) Spyder(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="2">
+			When(1) Toyota(2) announced(3) that(4) it(5) would(6) be(7) selling(8) a(9) new(10) MR2(11) ,(12) this(13) time(14) as(15) a(16) roadster(17) ,(18) I(19) was(20) thrilled(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			This(1) announcement(2) came(3) at(4) roughly(5) the(6) same(7) time(8) as(9) the(10) debut(11) of(12) the(13) 240(14) horsepower(15) Honda(16) S2000(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Since(1) the(2) two(3) cars(4) would(5) probably(6) be(7) in(8) direct(9) competition(10) ,(11) I(12) thought(13) ((14) read(15) hoped(16) )(17) that(18) America(19) would(20) again(21) have(22) access(23) to(24) the(25) venerable(26) 3S-GTE(27) engine(28) from(29) the(30) 91-95(31) Toyota(32) MR2(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			For(1) those(2) unfamiliar(3) with(4) the(5) older(6) MR2s(7) ,(8) here(9) is(10) a(11) very(12) brief(13) history(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) MR2(2) came(3) to(4) America(5) as(6) a(7) 1985(8) model(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) a(3) Mid-engine_Rear-wheel-drive(4) ,(5) 2(6) seater(7) ((8) hence(9) the(10) name(11) of(12) the(13) car(14) )(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			In_1991(1) it(2) lost(3) it(4) 's(5) boxy(6) 80(7) 's(8) look(9) and(10) picked(11) up(12) ((13) in(14) my(15) humble(16) opinion(17) )(18) the(19) best(20) engine(21) Toyota(22) ever(23) made(24) ,(25) the(26) 3S-GTE(27) .(28) 
+			<opinion polarity="+" feature="engine" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="9">
+			This(1) engine(2) is(3) a(4) 2.0(5) liter(6) ((7) small(8) and(9) light(10) )(11) ,(12) 200(13) horsepower(14) turbocharged(15) four-cylinder(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			I(1) also(2) imagined(3) the(4) new(5) MR2(6) Spyder(7) would(8) look(9) like(10) the(11) prototype(12) TRD(13) ((14) Toyota_Racing_Design(15) )(16) MR2(17) Spyder(18) ,(19) which(20) was(21) just(22) a(23) 1991-1995(24) with(25) a(26) soft(27) top(28) and(29) speedster-style(30) boot(31) for(32) the(33) top(34) .(35) 
+		</sentence>
+		<sentence id="11">
+			I(1) may(2) be(3) partial(4) ,(5) but(6) it(7) was(8) one(9) of(10) the(11) best(12) looking(13) cars(14) I(15) 've(16) seen(17) in(18) my(19) life(20) .(21) 
+			<opinion polarity="+" feature="design" opWords="12,13"/>
+		</sentence>
+		<sentence id="12">
+			You(1) can(2) now(3) understand(4) my(5) disappointment(6) that(7) the(8) new(9) MR2(10) Spyder(11) is(12) really(13) a(14) mid-engined(15) Miata(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			That(1) 's(2) all(3) it(4) is(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			Take_a_Miata(1) ,(2) remove(3) the(4) trunk(5) ((6) the(7) MR2(8) Spyder(9) has(10) something(11) like(12) 6_cubic_feet(13) of(14) storage(15) )(16) ,(17) move(18) the(19) engine(20) behind(21) the(22) seats(23) ,(24) put(25) the(26) spare(27) tire(28) under(29) the(30) hood(31) ,(32) and(33) take(34) it(35) to(36) a(37) body(38) shop(39) where(40) all(41) the(42) workers(43) are(44) on(45) hardcore(46) hallucinogens(47) ,(48) and(49) I(50) am(51) willing(52) to(53) bet(54) you(55) will(56) have(57) an(58) exact(59) copy(60) of(61) the(62) MR2(63) Spyder(64) .(65) 
+		</sentence>
+		<sentence id="15">
+			I(1) appreciate(2) Toyota(3) 's(4) attempt(5) to(6) bring(7) a(8) little(9) sportiness(10) and(11) performance(12) back(13) to(14) America(15) ,(16) but(17) in(18) my(19) opinion(20) ,(21) the(22) MR2(23) Spyder(24) is(25) a(26) day(27) late(28) and(29) a_dollar(30) short(31) .(32) 
+		</sentence>
+	</text>
+</review>

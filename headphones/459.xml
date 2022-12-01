@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="459" item="Sony MDR-RF960RK Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT_BUY_THESE_HEADPHONES(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nicely(1) styled(2) ,(3) they(4) hug(5) your(6) head(7) ,(8) and(9) setup(10) was(11) quite(12) easy(13) .(14) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) performance(2) and(3) lower(4) range(5) do(6) not(7) make(8) up(9) for(10) money(11) saved(12) .(13) 
+			<opinion polarity="-" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Sony(1) quality(2) has(3) gone(4) way(5) down(6) in(7) the(8) Sony(9) MDR-RF960RK(10) Wireless_Headphones(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) a(3) Sony(4) MDR-RF975R(5) pair(6) of(7) wireless(8) headphones(9) that(10) finally(11) gave(12) out(13) because(14) I(15) used(16) them(17) so(18) much(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			They(1) were(2) comfortable(3) and(4) the(5) receptions(6) was(7) exceptional(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			Naturally(1) ,(2) I(3) sought(4) out(5) their(6) successor(7) model(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) ,(2) they(3) are(4) not(5) as(6) comfortable(7) ((8) watch(9) out(10) if(11) you(12) have(13) slightly(14) larger(15) ears(16) )(17) ,(18) they(19) lack(20) the(21) range(22) of(23) the(24) old(25) ones(26) ,(27) they(28) have(29) smaller(30) speakers(31) ,(32) and(33) ,(34) worst(35) of(36) all(37) ,(38) silibant(39) sounds(40) ((41) s(42) sounds(43) )(44) and(45) speech(46) come(47) through(48) with(49) scratchy(50) static(51) !(52) 
+		</sentence>
+		<sentence id="6">
+			While(1) these(2) new(3) headphones(4) are(5) half(6) the(7) price(8) of(9) the(10) old(11) ones(12) ,(13) I(14) do(15) not(16) recommend(17) them(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Wish(1) someone(2) had(3) let(4) me(5) know(6) these(7) facts(8) before(9) I(10) purchased(11) these(12) headphones(13) .(14) 
+		</sentence>
+	</text>
+</review>

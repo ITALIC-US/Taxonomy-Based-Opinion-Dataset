@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="782" item="Shangri-La Fijian Resort" rating="4">
+	<title>
+		<sentence id="1">
+			SHANGRI-LA_FIJIAN_RESORT_FIJI(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Extremely(1) large(2) 4(3) star(4) resort(5) great(6) for(7) couples(8) ,(9) families(10) a(11) great(12) holiday(13) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Room(1) service(2) not(3) so(4) good(5) but(6) everything(7) else(8) terrific(9) 
+			<opinion polarity="-" feature="room service" featWords="1,2" opWords="3,5"/>
+			<opinion polarity="+" feature="hotel" opWords="9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) to(4) relax(5) go(6) to(7) Fiji_If(8) you(9) want(10) a(11) good(12) Resort(13) then(14) the(15) Shangri-La(16) is(17) great(18) This(19) is(20) a(21) kick(22) back(23) do(24) nothing(25) destination(26) ....(27) enjoy(28) 
+			<opinion polarity="+" feature="hotel" featWords="13" opWords="12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			SHANGRI-LA_FIJIAN_RESORT_An(1) absolutely(2) wonderful(3) Resort(4) on(5) its(6) own(7) little(8) 108_acre(9) island(10) joined(11) by(12) a(13) short(14) causeway(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			We(1) went(2) in(3) November_2005(4) and(5) the(6) resort(7) had(8) 60_%(9) occupancy(10) ,(11) a(12) very(13) pleasant(14) amount(15) of(16) fellow(17) travellers(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Mainly(1) consisting(2) of(3) Aussies(4) and(5) New_Zealanders(6) .(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Checking(1) into(2) Reception(3) was(4) smooth(5) sailing(6) and(7) we(8) were(9) taken(10) to(11) our(12) room(13) where(14) I(15) had(16) previously(17) organized(18) for(19) some(20) arrival(21) Canapes(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			We(1) stayed(2) in(3) a(4) Coral_Wing_Ocean_View(5) room(6) which(7) had(8) a(9) lovely(10) view(11) overlooking(12) the(13) Reef(14) .(15) 
+			<opinion polarity="+" feature="view" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			There(1) was(2) a(3) superb(4) King(5) size(6) bed(7) that(8) when(9) you(10) moved(11) your(12) Partner(13) didnt(14) ,(15) a(16) beautiful(17) marble(18) bathroom(19) ,(20) deep(21) bath(22) and(23) shower(24) with(25) plenty_of(26) amenities(27) .(28) 
+			<opinion polarity="+" feature="bathroom" featWords="19" opWords="17"/>
+			<opinion polarity="+" feature="tub" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) seviced(4) every(5) morning(6) with(7) turn(8) down(9) in(10) the(11) evenings(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) had(3) a(4) great(5) airconditioner(6) ,(7) mini(8) bar(9) ,(10) great(11) safe(12) and(13) plenty_of(14) cupboard(15) space(16) with(17) iron(18) and(19) ironing(20) board(21) ,(22) generally(23) just(24) a(25) terrific(26) size(27) room(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) a(3) lovely(4) balcony(5) from(6) which(7) we(8) were(9) overlooking(10) the(11) Reef(12) and(13) also(14) the(15) Infinity_Pool(16) to(17) your(18) right(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) Coral_Wing(2) is(3) set(4) the(5) furthermost(6) away(7) from(8) Restaurants(9) and(10) main(11) areas(12) of(13) the(14) Resort(15) but(16) we(17) liked(18) this(19) aspect(20) as(21) it(22) involved(23) a_lot_of(24) walking(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			The(1) Shangri-La(2) has(3) 3(4) brilliant(5) swimming(6) pools(7) .(8) 
+			<opinion polarity="+" feature="swimming pool" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="12">
+			The(1) infinity(2) pool(3) is(4) just(5) a(6) picture(7) with(8) the(9) reef(10) as(11) a(12) back(13) drop(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) Takali_Adults(2) only(3) pool(4) is(5) quite(6) big(7) with(8) the(9) Takali_Restaurant(10) and(11) Bar(12) to(13) one(14) side(15) this(16) makes(17) it(18) ideal(19) to(20) get(21) those(22) Cocktails(23) while(24) swimming(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			All(1) this(2) with(3) just(4) the(5) murmur(6) of(7) the(8) Adults(9) talking(10) and(11) no(12) children(13) jumping(14) in(15) and(16) screaming(17) around(18) you(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			Very(1) peaceful(2) if(3) you(4) want(5) to(6) just(7) relax(8) or(9) read(10) that(11) Book(12) .(13) 
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="16">
+			The(1) Lagoon(2) swimming(3) pool(4) is(5) the(6) largest(7) of(8) them(9) all(10) and(11) is(12) a(13) beautiful(14) design(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			Plenty_of(1) activity(2) and(3) room(4) for(5) all(6) with(7) Fish(8) and(9) Chips(10) ,(11) Icecreams(12) and(13) Drinks(14) adjacent(15) for(16) all(17) to(18) enjoy(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			Everything(1) you(2) purchase(3) whether(4) it(5) be(6) drinks(7) ,(8) food(9) ,(10) or(11) meals(12) all(13) gets(14) sent(15) to(16) your(17) room(18) account(19) and(20) you(21) are(22) given(23) a(24) receipt(25) which(26) you(27) sign(28) after(29) each(30) transaction(31) which(32) I(33) kept(34) ,(35) with(36) the(37) exception(38) of(39) the(40) little(41) convenience(42) store(43) .(44) 
+		</sentence>
+		<sentence id="19">
+			What(1) I(2) used(3) to(4) do(5) is(6) at(7) night(8) just(9) quickly(10) add(11) up(12) my(13) receipts(14) and(15) go(16) to(17) the(18) Reception(19) the(20) next(21) morning(22) and(23) pay(24) my(25) Bill(26) ,(27) that(28) way(29) every(30) day(31) started(32) with(33) a(34) Nil(35) balance(36) I(37) know(38) it(39) sounds(40) corney(41) but(42) it(43) worked(44) brilliantly(45) ,(46) and(47) I(48) knew(49) exactly(50) how(51) much(52) we(53) were(54) spending(55) and(56) this(57) made(58) for(59) a(60) great(61) holiday(62) because(63) there(64) were(65) no(66) little(67) surprises(68) .(69) 
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) feel(3) like(4) snorkeling(5) or(6) swimming(7) in(8) the(9) Ocean(10) ,(11) this(12) is(13) just(14) behind(15) the(16) Lagoon_Pool(17) and(18) is(19) just(20) a(21) beautiful(22) sight(23) .(24) 
+		</sentence>
+		<sentence id="21">
+			You(1) have(2) to(3) sign(4) for(5) and(6) return(7) your(8) beach(9) towels(10) by(11) the(12) end(13) of(14) the(15) day(16) or(17) you(18) get(19) charged(20) for(21) them(22) .(23) 
+		</sentence>
+		<sentence id="22">
+			The(1) Resort(2) also(3) has(4) its(5) own(6) set(7) of(8) Shops(9) in(10) a(11) circular(12) arcade(13) along_with(14) a(15) Prouds_Outlet(16) ,(17) Photo_Printing_Shop(18) ,(19) General_Tourist_Shops(20) along_with(21) a(22) Tour(23) office(24) and(25) little(26) corner(27) store(28) of(29) sorts(30) ((31) convenience(32) )(33) and(34) all(35) the(36) Saris(37) ,(38) Polo_Shirts(39) and(40) nic(41) nacs(42) that(43) you(44) want(45) to(46) buy(47) at(48) your(49) Resort(50) are(51) in(52) this(53) Arcade(54) .(55) .(56) 
+		</sentence>
+		<sentence id="23">
+			They(1) also(2) have(3) a(4) Jack_Handicrafts(5) store(6) at(7) the(8) Resort(9) which(10) is(11) a(12) very(13) big(14) Company(15) in(16) Fiji(17) .(18) and(19) rest(20) assured(21) any(22) Wooden(23) products(24) that(25) you(26) purchase(27) and(28) if(29) they(30) are(31) stamped(32) on(33) the(34) back(35) Treated(36) wood(37) then(38) there(39) is(40) no(41) problem(42) brining(43) them(44) back(45) to(46) Australia(47) .(48) 
+		</sentence>
+		<sentence id="24">
+			They(1) also(2) pack(3) and(4) post(5) ,(6) quite(7) expensive(8) to(9) do(10) so(11) but(12) hey(13) if(14) you(15) can(16) afford(17) it(18) .(19) 
+			<opinion polarity="-" feature="price" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="25">
+			The(1) Staff(2) in(3) general(4) are(5) always(6) very(7) nice(8) and(9) are(10) always(11) saying(12) la(13) whenever(14) they(15) pass(16) you(17) with(18) a(19) genuine(20) big(21) smile(22) on(23) their(24) faces(25) .(26) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="26">
+			The(1) Food(2) is(3) Typical_Resort(4) style(5) food(6) with(7) Buffet_Breakfasts(8) and(9) Dinners(10) etc.(11) The_Takali_Restaurant(12) and(13) Lagoon_Restaurant(14) both(15) do(16) a(17) lovely(18) buffet(19) breakfast(20) .(21) 
+			<opinion polarity="+" feature="food" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="27">
+			I(1) found(2) these(3) prices(4) to(5) be(6) on(7) par(8) with(9) other(10) Resorts(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			A(1) buffet(2) Breakfast(3) for(4) two(5) was(6) $50FD(7) which(8) brings(9) it(10) back(11) down(12) to(13) about(14) $20AUD(15) each(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			They(1) also(2) have(3) themed(4) Buffet(5) dinners(6) and(7) ala(8) cart(9) meals(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			The(1) Kalevue_Restaurant(2) ((3) the(4) resorts(5) signature(6) restaurant(7) )(8) is(9) outstanding(10) in(11) every(12) regard(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			The(1) quality(2) ,(3) meals(4) .(5) presentation(6) and(7) service(8) is(9) definitely(10) 5(11) star(12) standard(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			The(1) meals(2) are(3) sensational(4) .(5) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="33">
+			Well(1) worth(2) the(3) special(4) night(5) whilst(6) you(7) are(8) away(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			If(1) they(2) ask(3) you(4) if(5) you(6) want(7) Fiji(8) water(9) ,(10) you(11) pay(12) for(13) it(14) ,(15) so(16) just(17) say(18) normal(19) water(20) and(21) it(22) is(23) chilled(24) and(25) just(26) as(27) pleasant(28) So(29) ,(30) apart_from(31) the(32) Kalevue_Restaurant(33) all(34) meals(35) were(36) say(37) 4(38) star(39) standard(40) ,(41) typical(42) resort(43) meals(44) very(45) pleasant(46) and(47) something(48) for(49) everyone(50) .(51) ,(52) and(53) priced(54) accordingly(55) .(56) 
+		</sentence>
+		<sentence id="35">
+			The(1) Beach_Bar(2) and(3) Grill(4) served(5) very(6) nice(7) snacks(8) /(9) lunch(10) ranging(11) from(12) $11FD(13) to(14) $18FD(15) Try(16) to(17) avoid(18) room(19) service(20) they(21) have(22) yet(23) to(24) get(25) this(26) right(27) .(28) 
+			<opinion polarity="+" feature="food" featWords="10" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="36">
+			If(1) you(2) are(3) starving(4) it(5) wont(6) matter(7) but(8) don(9) t(10) expect(11) it(12) to(13) be(14) too(15) exciting(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			Also(1) guys(2) ,(3) take(4) a(5) bottle(6) opener(7) with(8) you(9) as(10) the(11) rooms(12) do(13) not(14) have(15) these(16) and(17) it(18) took(19) one(20) hour(21) for(22) room(23) service(24) and(25) he(26) didn(27) t(28) want(29) to(30) leave(31) it(32) here(33) which(34) meant(35) he(36) wanted(37) to(38) open(39) all(40) the(41) bottles(42) .(43) 
+		</sentence>
+		<sentence id="38">
+			We(1) persuaded(2) him(3) differently(4) and(5) he(6) came(7) back(8) at(9) 3pm(10) the(11) next(12) afternoon(13) to(14) pick(15) it(16) up(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			One(1) night(2) in_particular(3) that(4) we(5) will(6) always(7) remember(8) was(9) the(10) Seafood_Sensation(11) dinner(12) for(13) 2(14) which(15) is(16) prepared(17) by(18) the(19) Takali_Restaurant(20) in(21) your(22) own(23) Private_Cabana(24) for(25) 2(26) overlooking(27) the(28) Reef(29) which(30) is(31) spectacular(32) .(33) 
+		</sentence>
+		<sentence id="40">
+			For(1) $195FD(2) this(3) includes(4) your(5) own(6) private(7) waiter(8) ,(9) the(10) Cabana(11) all(12) to(13) yourselves(14) ,(15) a(16) seafood(17) platter(18) which(19) is(20) to(21) die(22) for(23) which(24) includes(25) a(26) Whole_Lobster_Mornay(27) ,(28) prawns(29) ,(30) crabs(31) ,(32) salmon(33) steaks(34) ,(35) calamari(36) salad(37) and(38) other(39) beautiful(40) things(41) .(42) 
+		</sentence>
+		<sentence id="41">
+			Along_with(1) a(2) comp(3) .(4) 
+		</sentence>
+		<sentence id="42">
+			Bottle_of_Mad_Dog_Wine(1) and(2) a(3) Comp(4) .(5) 
+		</sentence>
+		<sentence id="43">
+			Glasss_of_Champagne(1) .(2) 
+		</sentence>
+		<sentence id="44">
+			This(1) was(2) a(3) beautiful(4) night(5) ,(6) fantastic(7) food(8) and(9) what(10) a(11) holiday(12) memory(13) is(14) all(15) about(16) .(17) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="45">
+			Cocktails(1) at(2) the(3) Resort(4) are(5) $15FD(6) Coke(7) $4FD(8) Beer(9) $5FD(10) They(11) also(12) play(13) a(14) game(15) of(16) Rugby(17) next(18) to(19) the(20) Lagoon_Pool(21) on(22) Tues(23) ,(24) Thurs(25) and(26) Saturdays(27) it(28) is(29) more(30) fun(31) than(32) an(33) actual(34) game(35) with(36) players(37) ranging(38) from(39) 6(40) 60(41) years(42) .(43) 
+		</sentence>
+		<sentence id="46">
+			The(1) Shangri-La_Resort(2) is(3) a(4) good(5) resort(6) to(7) stay(8) in(9) just(10) choose(11) your(12) time(13) of(14) year(15) carefully(16) ,(17) the(18) higher(19) the(20) season(21) of(22) course(23) the(24) more(25) crowded(26) .(27) .(28) 
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="47">
+			We(1) had(2) a(3) wonderful(4) holiday(5) here(6) and(7) it(8) was(9) everything(10) we(11) expected(12) .(13) 
+		</sentence>
+		<sentence id="48">
+			You(1) come(2) to(3) Fiji(4) to(5) unwind(6) ,(7) get(8) a(9) tan(10) ,(11) eat(12) ,(13) sleep(14) and(15) just(16) generally(17) be(18) merry(19) .(20) 
+		</sentence>
+		<sentence id="49">
+			Everything(1) here(2) is(3) on(4) Fijian_Time(5) which(6) mean(7) things(8) take(9) a(10) little(11) longer(12) to(13) happen(14) but(15) if(16) you(17) keep(18) this(19) in(20) mind(21) you(22) will(23) just(24) go(25) with(26) the(27) flow(28) of(29) things(30) .(31) 
+		</sentence>
+		<sentence id="50">
+			For(1) those(2) who(3) are(4) planning(5) to(6) get(7) married(8) at(9) the(10) Shangri-La(11) in(12) their(13) Church_I(14) have(15) some(16) lovely(17) photos(18) of(19) the(20) Church(21) inside(22) and(23) out(24) .(25) 
+		</sentence>
+		<sentence id="51">
+			I(1) have(2) many(3) photos(4) to(5) share(6) if(7) you(8) are(9) interested(10) in(11) this(12) resort(13) contact(14) me(15) on(16) cheryl.waugh@bigpond.com(17) 
+		</sentence>
+	</text>
+</review>

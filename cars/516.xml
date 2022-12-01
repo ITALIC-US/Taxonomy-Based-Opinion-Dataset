@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="516" item="2001 Hyundai XG300" rating="3">
+	<title>
+		<sentence id="1">
+			Somewhere(1) Satan_Plans_a_Ski_Trip(2) ...(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) ,(2) low(3) price(4) ,(5) lots(6) of(7) gadgets(8) 
+			<opinion polarity="+" feature="price" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			boring(1) exterior(2) ,(3) questionable(4) reliability(5) and(6) resale(7) 
+			<opinion polarity="-" feature="resale value" featWords="7" opWords="4"/>
+			<opinion polarity="-" feature="reliability" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="exterior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			...(1) because(2) I(3) thought(4) Hell(5) would(6) freeze(7) over(8) before(9) Hyundai(10) ever(11) made(12) a(13) car(14) that(15) I(16) found(17) even(18) slightly(19) impressive(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="2">
+			But(1) with(2) the(3) new(4) for(5) 2001(6) XG300(7) ,(8) they(9) have(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) XG(2) first(3) caught(4) my(5) eye(6) when(7) the(8) commercials(9) started(10) running(11) a(12) few(13) months(14) back(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Then(1) after(2) seeing(3) one(4) on(5) the(6) road(7) ,(8) I(9) decided(10) to(11) go(12) in(13) for(14) a(15) test(16) drive(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			At(1) only(2) $24,000(3) ,(4) and(5) with(6) a(7) huge(8) list(9) of(10) luxury(11) features(12) ,(13) the(14) Hyundai(15) XG300(16) has(17) given(18) Accord(19) and(20) Camry(21) buyers(22) a(23) reason(24) to(25) think(26) twice(27) .(28) ((29) or(30) so(31) Hyundai(32) hopes(33) )(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			Exterior_Styling_Overall(1) ,(2) the(3) XG300(4) is(5) not(6) a(7) bad(8) looking(9) car(10) .(11) 
+			<opinion polarity="+" feature="design" opWords="6,8,9"/>
+		</sentence>
+		<sentence id="7">
+			Hyundai(1) gets(2) no(3) points(4) for(5) originality(6) --(7) as(8) the(9) front(10) and(11) side(12) of(13) the(14) car(15) look(16) as_if(17) they(18) have(19) been(20) ripped(21) off(22) a(23) drafting(24) board(25) at(26) Infinity(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			Add(1) a(2) dash(3) of(4) the(5) new(6) Lincoln_LS(7) and(8) a(9) rear(10) end(11) that(12) is(13) just(14) plain(15) ugly(16) ,(17) and(18) you(19) have(20) Hyundai(21) 's(22) new(23) flagship(24) .(25) 
+			<opinion polarity="-" feature="design" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="9">
+			The(1) standard(2) 15_inch(3) alloys(4) are(5) a_bit(6) too(7) small(8) in(9) my(10) eyes(11) --(12) Hyundai(13) should(14) have(15) bumped(16) them(17) up(18) to(19) at_least(20) 16-inchers(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) though(3) ,(4) the(5) exterior(6) is(7) attractive(8) and(9) more(10) grown-up(11) looking(12) than(13) anything(14) the(15) Korean(16) automaker(17) has(18) churned(19) out(20) before(21) .(22) 
+			<opinion polarity="+" feature="exterior" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			Interior_The(1) interior(2) sports(3) the(4) normal(5) near-luxury(6) materials(7) --(8) leather(9) ,(10) acres(11) of(12) faux-wood(13) ,(14) and(15) natty(16) aluminum(17) accents(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			Headroom(1) is(2) snug(3) ,(4) especially(5) with(6) the(7) optional(8) moonroof(9) .(10) 
+			<opinion polarity="+" feature="head room" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			Front(1) seat(2) shoulder(3) room(4) is(5) adequate(6) for(7) most(8) ,(9) but(10) once(11) you(12) get(13) in(14) you(15) realize(16) that(17) the(18) XG300(19) is(20) not(21) as(22) big(23) as(24) it(25) looks(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			While(1) the(2) plastics(3) seemed(4) top-notch(5) and(6) the(7) leather(8) appeared(9) to(10) be(11) durable(12) ,(13) the(14) XG300(15) smelled(16) like(17) an(18) economy(19) car(20) ---(21) a(22) small(23) thing(24) to(25) be(26) sure(27) ,(28) but(29) makes(30) me(31) wonder(32) if(33) the(34) seeming(35) quality(36) is(37) all(38) a(39) ruse(40) .(41) 
+		</sentence>
+		<sentence id="15">
+			Backseat(1) passengers(2) will(3) find(4) plenty_of(5) room(6) ,(7) and(8) are(9) served(10) by(11) a(12) large(13) armrest(14) with(15) flip-out(16) cupholders(17) and(18) a(19) storage(20) tray(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			Adjustable(1) headrests(2) fore(3) and(4) aft(5) are(6) a(7) rarity(8) at(9) this(10) price(11) point(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			The(1) dashboard(2) was(3) attractive(4) and(5) sensibly(6) laid(7) out(8) --(9) except_for(10) a(11) main(12) cruise(13) control(14) switch(15) which(16) fell(17) behind(18) the(19) steering(20) wheel(21) ((22) just(23) above(24) the(25) drivers(26) left(27) knee(28) )(29) .(30) 
+			<opinion polarity="+" feature="dash" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			Numerous(1) storage(2) areas(3) open(4) with(5) a(6) touch(7) ((8) a(9) la(10) Lexus(11) )(12) allowing(13) room(14) for(15) sunglasses(16) ,(17) cups(18) ,(19) and(20) compact(21) discs(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			Missing(1) on(2) my(3) test(4) car(5) was(6) the(7) optional(8) climate(9) control(10) --(11) but(12) one(13) would(14) be(15) hard(16) pressed(17) to(18) come(19) up(20) with(21) more(22) features(23) that(24) Hyundai(25) might(26) have(27) missed(28) .(29) 
+		</sentence>
+		<sentence id="20">
+			Driving(1) the(2) XG300(3) Perhaps(4) the(5) most(6) impressive(7) feature(8) of(9) the(10) XG300(11) was(12) its(13) standard(14) tiptronic-type(15) transmission(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			From(1) DRIVE(2) ,(3) just(4) pop(5) the(6) shifter(7) to(8) the(9) right(10) and(11) you(12) are(13) in(14) manual(15) mode(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			It(1) made(2) driving(3) the(4) car(5) much(6) more(7) enjoyable(8) and(9) got(10) the(11) most(12) power(13) from(14) the(15) six(16) cylinder(17) 192(18) pony(19) engine(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			Also(1) remarkable(2) was(3) just(4) how(5) quiet(6) the(7) Hyundai(8) was(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="24">
+			There(1) was(2) virtually(3) no(4) engine(5) or(6) road(7) noise(8) ,(9) even(10) at(11) 70(12) mph(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			The(1) car(2) cornered(3) admirably(4) ,(5) and(6) acceleration(7) was(8) surprisingly(9) brisk(10) .(11) 
+			<opinion polarity="+" feature="acceleration" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="26">
+			In(1) either(2) mode(3) ,(4) the(5) transmission(6) shifted(7) smoothly(8) .(9) 
+			<opinion polarity="+" feature="transmission" featWords="6" opWords="7,8"/>
+		</sentence>
+		<sentence id="27">
+			Overall_I(1) probably(2) would(3) NOT(4) consider(5) the(6) XG300(7) as(8) a(9) purchase(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			While(1) Hyundai(2) seems(3) to(4) be(5) making(6) great(7) strides(8) in(9) their(10) quality(11) and(12) reliability(13) departments(14) --(15) and(16) are(17) even(18) backing(19) their(20) cars(21) with(22) the(23) best(24) warranty(25) in(26) America(27) ((28) 5(29) years(30) ,(31) 60,000_mile(32) bumper-to-bumper(33) )(34) ,(35) I(36) will(37) need(38) a(39) few(40) more(41) years(42) before(43) I(44) am(45) convinced(46) .(47) 
+		</sentence>
+		<sentence id="29">
+			Resale(1) value(2) has(3) traditionally(4) been(5) abyssmal(6) for(7) the(8) marque(9) .(10) 
+		</sentence>
+		<sentence id="30">
+			However(1) ,(2) the(3) XG300(4) may(5) well(6) be(7) what(8) elevates(9) Hyundai(10) 's(11) status(12) --(13) despite(14) a(15) ho-hum(16) exterior(17) ,(18) the(19) long(20) list(21) of(22) options(23) and(24) powerful(25) drivetrain(26) starting(27) under(28) $24,000(29) will(30) certainly(31) have(32) consumers(33) giving(34) this(35) new(36) sedan(37) a_second(38) glance(39) .(40) 
+			<opinion polarity="+" feature="drive" featWords="26" opWords="25"/>
+		</sentence>
+	</text>
+</review>

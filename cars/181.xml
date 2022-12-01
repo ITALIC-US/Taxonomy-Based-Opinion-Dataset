@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="181" item="2003 Mercedes-Benz SLK-Class" rating="4">
+	<title>
+		<sentence id="1">
+			SLK(1) 230(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) toy-likeFair(3) top(4) speed(5) ((6) 145(7) )(8) HardTopConvertableSounds(9) good(10) for(11) a(12) four-bangerSAFE(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tail(1) lights(2) overheat(3) but(4) there(5) 's(6) a(7) recallInterior(8) paint(9) peels(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Excuse(1) the(2) informal(3) review(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) owned(3) one(4) of(5) these(6) cars(7) for(8) about(9) 2(10) years(11) now(12) and(13) am(14) approaching(15) the(16) 100k_mile(17) mark(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) a(3) zippy(4) little(5) car(6) ,(7) but(8) not(9) a(10) race(11) car(12) ((13) the(14) SLK32(15) is(16) one(17) of(18) the(19) quickest(20) cars(21) on(22) the(23) road(24) ,(25) hands(26) down(27) .(28) It(29) has(30) a(31) 0-60(32) of(33) 4.5_seconds(34) .(35) Most(36) other(37) '(38) fast(39) '(40) cars(41) ((42) Mustang_GT(43) ,(44) WRX_STI(45) ,(46) Lancer_EVO(47) ,(48) Corvette(49) )(50) have(51) a(52) 0-60(53) of(54) 4.9_seconds(55) .(56) 
+			<opinion polarity="+" feature="speed" opWords="39"/>
+			<opinion polarity="+" feature="speed" opWords="20"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) 32(2) breaks(3) that(4) barrier(5) )(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) around(3) 6ft(4) 3in(5) tall(6) and(7) I(8) fit(9) in(10) it(11) okay(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			GREAT(1) safety(2) rating(3) .(4) 
+			<opinion polarity="+" feature="safety" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="7">
+			ANYWAY(1) ,(2) the(3) SLK(4) is(5) a(6) fairly(7) solid(8) car(9) and(10) has(11) served(12) me(13) well(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="12,14"/>
+			<opinion polarity="+" feature="car" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) real(3) big(4) issue(5) everybody(6) has(7) with(8) it(9) is(10) that(11) the(12) interior(13) paint(14) comes(15) off(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) solved(2) that(3) by(4) removing(5) the(6) panels(7) and(8) sand(9) blowing(10) them(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) expect(3) a(4) problem(5) here(6) or(7) there(8) but(9) all(10) in_all(11) it(12) 's(13) a(14) nice(15) vehicle(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="11">
+			The(1) cockpit(2) is(3) not(4) too(5) quiet(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) headlights(2) look(3) a_bit(4) old(5) but(6) you(7) can(8) get(9) new(10) looking(11) ones(12) .(13) 
+			<opinion polarity="-" feature="headlights" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			There(1) are(2) also(3) newer(4) looking(5) tail(6) lights(7) you(8) can(9) get(10) because_of(11) the(12) recall(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) 230(16) Sport(17) 
+		</sentence>
+	</text>
+</review>

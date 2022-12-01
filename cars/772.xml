@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="772" item="2001 Nissan Frontier" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) sure(2) about(3) this(4) truck(5) ...(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Aggressive(1) styling(2) ,(3) lots(4) of(5) features(6) ,(7) comfortable(8) 
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) Nissan(2) 's(3) best(4) ,(5) cheap(6) feel(7) to(8) materials(9) ,(10) mechanically(11) questionable(12) 
+			<opinion polarity="-" feature="car" opWords="12"/>
+			<opinion polarity="-" feature="car" opWords="1,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) steer(3) most(4) people(5) away(6) from(7) this(8) truck(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			If(1) I(2) had(3) to(4) do(5) it(6) over(7) ,(8) I(9) 'd(10) have(11) gone(12) for(13) the(14) less(15) flashy(16) but(17) tighter(18) Tacoma(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) loved(2) the(3) styling(4) when(5) we(6) first(7) saw(8) it(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			It(1) truly(2) is(3) the(4) best(5) looking(6) truck(7) of(8) its(9) kind(10) on(11) the(12) market(13) even(14) today(15) .(16) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="3">
+			It(1) drove(2) great(3) ,(4) and(5) it(6) was(7) just(8) what(9) we(10) needed(11) at(12) the(13) time(14) so(15) we(16) purchased(17) it(18) with(19) around(20) 22k_miles(21) .(22) 
+			<opinion polarity="+" feature="ride quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			Shortly(1) thereafter(2) ,(3) the(4) horn(5) stopped(6) working(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) not(3) a(4) fuse(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			This(1) of(2) course(3) happened(4) right(5) after(6) our(7) factory(8) warranty(9) ran(10) out(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			As(1) time(2) went(3) by(4) ,(5) the(6) recall(7) notices(8) from(9) Nissan(10) started(11) rolling(12) in(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			We(1) received(2) five(3) total(4) ,(5) the(6) last(7) being(8) about(9) a(10) faulty(11) fuel(12) pump(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			This(1) did(2) not(3) instill(4) too(5) much(6) confidence(7) in(8) us(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) fuel(2) mileage(3) was(4) miserable(5) .(6) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			We(1) got(2) around(3) 11_miles(4) to(5) the(6) gallon(7) on(8) average(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Handling(1) was(2) horrible(3) even(4) for(5) a(6) truck(7) .(8) 
+			<opinion polarity="-" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			The(1) vehicle(2) started(3) to(4) lose(5) its(6) "(7) new(8) "(9) feeling(10) very(11) early(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			We(1) never(2) had(3) an(4) outright(5) mechanical(6) failure(7) ,(8) but(9) the(10) engine(11) made(12) lots(13) of(14) noise(15) ,(16) there(17) was(18) creaking(19) and(20) squealing(21) from(22) the(23) undercarriage(24) ,(25) the(26) transmission(27) did(28) not(29) shift(30) as(31) smoothly(32) ,(33) and(34) the(35) car(36) got(37) quite(38) a(39) shimmy(40) at(41) freeway(42) speeds(43) .(44) ((45) we(46) did(47) an(48) alignment(49) every(50) six(51) months(52) )(53) The(54) upholstery(55) was(56) very(57) hard(58) to(59) clean(60) .(61) 
+		</sentence>
+		<sentence id="15">
+			This(1) was(2) all(3) in(4) 60k_miles(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			We(1) decided(2) to(3) sell(4) the(5) truck(6) when(7) our(8) fuel(9) costs(10) got(11) really(12) bad(13) and(14) a(15) truck(16) was(17) no_longer(18) necessary(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			We(1) got(2) a(3) 2000(4) Toyota_Camry(5) that(6) was(7) a(8) year(9) older(10) and(11) had(12) higher(13) mileage(14) ,(15) but(16) it(17) runs(18) silent(19) and(20) drives(21) like(22) new(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+		</sentence>
+		<sentence id="18">
+			We(1) traded(2) the(3) truck(4) to(5) the(6) Camry(7) owner(8) and(9) when(10) he(11) took(12) it(13) in(14) to(15) the(16) Nissan(17) dealership(18) it(19) needed(20) CV(21) joints(22) done(23) ((24) all(25) 4(26) )(27) ,(28) tires(29) ((30) again(31) )(32) ,(33) and(34) brakes(35) ((36) again(37) )(38) .(39) 
+		</sentence>
+		<sentence id="19">
+			Over(1) $1000(2) worth(3) of(4) work(5) on(6) a(7) 3(8) year(9) old(10) car(11) that(12) was(13) driven(14) normally(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) SE-V(16) 6(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

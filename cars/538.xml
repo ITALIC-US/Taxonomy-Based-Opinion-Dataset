@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="538" item="1995 Ford Bronco" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) Ford_Bronco(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			very(1) strong(2) 
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			gas(1) mileage(2) in(3) the(4) city(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) reason(2) I(3) chose(4) this(5) topic(6) is(7) because(8) the(9) thing(10) did(11) not(12) go(13) back(14) far(15) enough(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			What(1) I(2) realy(3) want(4) to(5) write(6) about(7) is(8) the(9) 1980(10) Ford_Bronco(11) ,(12) one(13) of(14) the(15) best(16) and(17) strongest(18) vehicles(19) ever(20) made(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="car" featWords="19" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			The(1) only(2) bummer(3) is(4) gas(5) mileage(6) ,(7) but(8) if(9) you(10) are(11) looking(12) at(13) long(14) distance(15) traveling(16) it(17) actually(18) is(19) pretty(20) good(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="4">
+			These(1) trucks(2) are(3) built(4) really(5) strong(6) and(7) my(8) family(9) always(10) feels(11) safe(12) and(13) secure(14) when(15) riding(16) in(17) the(18) Bronco(19) .(20) 
+			<opinion polarity="+" feature="safety" opWords="14"/>
+			<opinion polarity="+" feature="safety" opWords="12"/>
+			<opinion polarity="+" feature="truck" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) love(2) knowing(3) that(4) the(5) doors(6) and(7) sidealls(8) and(9) double(10) reinforced(11) steel(12) ,(13) and(14) it(15) 's(16) fun(17) to(18) take(19) the(20) top(21) off(22) in(23) the(24) summer(25) time(26) and(27) feels(28) like(29) you(30) are(31) in(32) a(33) fancy(34) pickup(35) truck(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			When(1) you(2) drive(3) a(4) Bronco(5) you(6) feel(7) ike(8) oyu(9) are(10) on(11) the(12) top(13) of(14) the(15) world(16) and(17) nothing(18) can(19) hurt(20) you(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			People(1) who(2) are(3) experienced(4) drivers(5) ,(6) traveling(7) a(8) long(9) distance(10) or(11) living(12) in(13) the(14) mountains(15) should(16) seriously(17) look(18) into(19) buying(20) one(21) of(22) these(23) trucks(24) ,(25) look(26) for(27) one(28) in(29) the(30) 80(31) 's(32) because(33) they(34) were(35) built(36) stronger(37) back(38) then(39) .(40) 
+		</sentence>
+	</text>
+</review>

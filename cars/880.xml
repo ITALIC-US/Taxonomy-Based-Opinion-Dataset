@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="880" item="1999 Mazda Protege" rating="2">
+	<title>
+		<sentence id="1">
+			Shorter_Life_Than_Expected(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) gas(2) mileage(3) ,(4) comfortable(5) for(6) four(7) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			head(1) gasket(2) blew(3) two(4) weeks(5) ago(6) at(7) 58,000_miles(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) purchasing(5) a(6) 1999(7) Protege(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			Our(1) vehicle(2) is(3) not(4) aging(5) well(6) .(7) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4,5,6"/>
+		</sentence>
+		<sentence id="3">
+			At(1) 58,000_miles(2) ,(3) we(4) have(5) an(6) unexplained(7) blown(8) head(9) gasket(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) 1999(4) Mazda_Protege(5) new(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) my(3) husband(4) 's(5) and(6) my(7) first(8) new(9) car(10) and(11) our(12) first(13) married(14) purchase(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) ,(2) we(3) have(4) been(5) very(6) happy(7) with(8) it(9) ,(10) but(11) now(12) that(13) it(14) is(15) aging(16) ,(17) we(18) 're(19) questioning(20) whether(21) we(22) should(23) move(24) on(25) to(26) a(27) different(28) vehicle(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="9" featRef="car" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="4">
+			The(1) air(2) condition(3) has(4) never(5) cooled(6) very(7) well(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			Now(1) that(2) we(3) live(4) in(5) Texas(6) ,(7) this(8) is(9) a(10) bigger(11) deal(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) road(2) noise(3) is(4) high(5) when(6) commuting(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			Now(1) ,(2) at(3) 58,000_miles(4) ,(5) we(6) have(7) a(8) blown(9) head(10) gasket(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) first(3) diagnosed(4) incorrectly(5) as(6) a(7) bad(8) coil(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			We(1) paid(2) to(3) have(4) that(5) repaired(6) ,(7) but(8) the(9) problem(10) remained(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			We(1) are(2) waiting(3) to(4) find(5) out(6) if(7) Mazda(8) will(9) be(10) covering(11) the(12) repair(13) under(14) a(15) "(16) good-faith(17) act(18) .(19) "(20) We(21) hope(22) this(23) is(24) not(25) indicative(26) of(27) a(28) shorter(29) lifespan(30) than(31) we(32) expected(33) out(34) of(35) all(36) the(37) parts(38) .(39) 
+		</sentence>
+		<sentence id="11">
+			Right(1) now(2) ,(3) we(4) just(5) do(6) not(7) know(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			We(1) can(2) not(3) find(4) one(5) person(6) with(7) an(8) explanation(9) as(10) to(11) why(12) this(13) happened(14) after(15) 58,000_miles(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			We(1) have(2) kept(3) all(4) of(5) our(6) regular(7) maintenance(8) up-to-date(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			My(1) advice(2) is(3) to(4) watch(5) reviews(6) carefully(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			Most(1) of(2) these(3) cars(4) would(5) just(6) be(7) beginning(8) to(9) show(10) their(11) age(12) ,(13) like(14) ours(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			I(1) would(2) not(3) recommend(4) buying(5) one(6) ,(7) at_least(8) not(9) until(10) we(11) can(12) get(13) a(14) reasonable(15) explanation(16) on(17) our(18) large(19) repair(20) bill(21) .(22) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 14568.34(7) 
+		</sentence>
+	</text>
+</review>

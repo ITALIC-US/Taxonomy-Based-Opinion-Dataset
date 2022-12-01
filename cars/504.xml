@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="504" item="1995 Chevrolet Camaro" rating="2">
+	<title>
+		<sentence id="1">
+			Some(1) what(2) of(3) a(4) lemon(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stylish(1) ,(2) decent(3) gas(4) mileage(5) for(6) a(7) camaro(8) with(9) a(10) V6(11) 
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) brother(2) bought(3) this(4) car(5) just(6) in_2008(7) with(8) the(9) 3.4L(10) V6(11) engine(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) 41,000(3) Miles(4) on(5) it(6) and(7) ever(8) since(9) he(10) got(11) it(12) ,(13) its(14) been(15) nothing(16) but(17) trouble(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			It(1) did(2) get(3) into(4) a(5) wreck(6) before(7) he(8) got(9) it(10) but(11) it(12) has(13) been(14) fixed(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) problem(3) with(4) it(5) was(6) it(7) leaking(8) oil(9) because_of(10) the(11) oil(12) pan(13) rusted(14) out(15) and(16) the(17) heads(18) are(19) leaking(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) second(2) problem(3) we(4) found(5) was(6) electrical(7) problems(8) because(9) the(10) gauges(11) are(12) always(13) screwing(14) up(15) like(16) the(17) gas(18) gauge(19) is(20) bouncing(21) all(22) over(23) the(24) place(25) and(26) the(27) oil(28) light(29) does'nt(30) come(31) on(32) when(33) its(34) supposed(35) to(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			The(1) third(2) problem(3) is(4) with(5) it(6) overheating(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			I(1) wish(2) it(3) had(4) a(5) V8(6) instead(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			My(1) brother(2) regrets(3) buying(4) it(5) now(6) and(7) wished(8) that(9) he(10) never(11) gave(12) me(13) his(14) old(15) Dodge(16) that(17) never(18) had(19) a(20) problem(21) since(22) he(23) had(24) it(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			He(1) wants(2) to(3) trade(4) the(5) camaro(6) in(7) for(8) Dodge_Ram(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 2500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

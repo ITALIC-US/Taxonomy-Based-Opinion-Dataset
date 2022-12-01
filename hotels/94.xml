@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="94" item="Hotel Shelley - South Beach" rating="2">
+	<title>
+		<sentence id="1">
+			Terrible(1) service(2) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cool(1) lobby(2) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) service(2) ,(3) low(4) quality(5) of(6) rooms(7) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			A(1) friend(2) and(3) I(4) stayed(5) at(6) the(7) Hotel_Shelley(8) in(9) March_2005(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) receptionist(2) was(3) very(4) ...(5) frosty(6) .(7) 
+			<opinion polarity="-" feature="front desk" featWords="2" opWords="6" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			We(1) must(2) have(3) waited(4) ,(5) ignored(6) ,(7) for(8) 15-20(9) minutes(10) before(11) she(12) condescended(13) to(14) check(15) us(16) in(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Very(1) unhelpful(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) are(3) very(4) minimal(5) ,(6) beds(7) made(8) of(9) plywood(10) ,(11) bad(12) paint(13) job(14) ,(15) weird(16) bathroom(17) .(18) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="bed" featWords="7" opWords="8,9,10"/>
+			<opinion polarity="-" feature="bathroom" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="6">
+			We(1) also(2) asked(3) for(4) a(5) wake(6) up(7) call(8) that(9) came(10) almost(11) an(12) hour(13) late(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Good(1) location(2) though(3) ,(4) and(5) for(6) the(7) money(8) ,(9) I(10) do(11) not(12) know(13) if(14) we(15) could(16) have(17) gotten(18) much(19) closer(20) to(21) the(22) beach(23) .(24) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+	</text>
+</review>

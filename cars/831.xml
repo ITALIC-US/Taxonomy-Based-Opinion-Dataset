@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="831" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) disaster(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Just(1) about(2) everything(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Nothing(1) positive(2) to(3) say(4) about(5) this(6) thing(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) owned(3) mine(4) for(5) a(6) couple(7) of(8) months(9) now(10) and(11) it(12) has(13) already(14) had(15) ((16) and(17) still(18) has(19) )(20) so(21) many(22) issues(23) that(24) it(25) just(26) makes(27) me(28) sick(29) to(30) think(31) that(32) I(33) 've(34) traded(35) my(36) Venture(37) in(38) for(39) this(40) disaster(41) .(42) 
+		</sentence>
+		<sentence id="3">
+			It(1) just(2) looks(3) nicer(4) than(5) a(6) Venture(7) and(8) that(9) 's(10) about(11) it(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			For(1) the(2) rest(3) the(4) fit(5) and(6) finish(7) and(8) overall(9) build(10) quality(11) of(12) this(13) vehicle(14) is(15) subpar(16) by(17) any(18) standard(19) .(20) 
+			<opinion polarity="-" feature="car" featWords="14" opWords="16"/>
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,450(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) LT(16) 
+		</sentence>
+	</text>
+</review>

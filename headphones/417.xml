@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="417" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Sennheiser_HD(1) 590(2) review(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Overall(1) sound(2) quality(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) ,(2) apart_from(3) the(4) 100(5) cost(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) a(2) great(3) pair(4) of(5) cans(6) !(7) 
+			<opinion polarity="+" feature="earcups" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Bought(1) them(2) for(3) 100(4) from(5) Richer_Sounds(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) used(3) them(4) to(5) listen(6) to(7) a(8) variety(9) of(10) sources(11) and(12) differing(13) types(14) of(15) music(16) and(17) in_all(18) cases(19) I(20) have(21) found(22) the(23) cans(24) produce(25) a(26) great(27) sound(28) .(29) 
+			<opinion polarity="+" feature="sound quality" featWords="28" opWords="27"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) read(3) that(4) many(5) think(6) the(7) cans(8) emphasis(9) high(10) frequencies(11) too(12) much(13) ,(14) I(15) did(16) not(17) find(18) this(19) to(20) be(21) the(22) case(23) with(24) the(25) two(26) samples(27) I(28) now(29) have(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) is(3) rich(4) ,(5) deep(6) ,(7) dynamic(8) ,(9) involving(10) and(11) very(12) well(13) balanced(14) and(15) I(16) am(17) finding(18) great(19) pleasure(20) in(21) re-listening(22) to(23) many(24) CDs(25) .(26) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) cans(2) are(3) very(4) comfortable(5) to(6) wear(7) for(8) extended(9) periods(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) light(3) ,(4) and(5) fit(6) without(7) causing(8) any(9) discomfort(10) .(11) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+		</sentence>
+	</text>
+</review>

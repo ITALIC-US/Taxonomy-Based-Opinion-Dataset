@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="544" item="Days Inn East Amarillo Texas" rating="2">
+	<title>
+		<sentence id="1">
+			Days_Inn(1) ...(2) Blech(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lobby(1) ,(2) Location(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) days(2) inn(3) is(4) just(5) another(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) need(3) a(4) room(5) and(6) a(7) bed(8) ,(9) and(10) nothing(11) more(12) ,(13) then(14) you(15) should(16) be(17) fine(18) here(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Introduction_Our(1) house(2) was(3) ((4) once(5) again(6) .(7) .(8) )(9) plagued(10) with(11) plumbing(12) issues(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) this(3) time(4) it(5) was(6) a(7) Friday(8) ,(9) and(10) it(11) was(12) on(13) Thanksgiving(14) break(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			We(1) decided(2) we(3) should(4) throw(5) the(6) kids(7) a(8) little(9) "(10) Mini-Vacation(11) "(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			So(1) yes(2) ,(3) we(4) didnt(5) just(6) journey(7) up(8) to(9) the(10) local(11) motel(12) 6(13) ;(14) )(15) ,(16) we(17) forked(18) up(19) 89(20) $(21) and(22) stayed(23) at(24) the(25) 4-story(26) Days(27) inn(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Now(1) that(2) I(3) look(4) back(5) at(6) it(7) ,(8) I(9) wish(10) i(11) did(12) stay(13) at(14) the(15) local(16) motel(17) 6(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) Lobby_The(2) lobby(3) seemed(4) very(5) warm(6) and(7) inviting(8) ,(9) with(10) a(11) snack(12) bar(13) for(14) breakfast(15) ,(16) and(17) even(18) a(19) few(20) televisions(21) sitting(22) around(23) .(24) 
+			<opinion polarity="+" feature="lobby" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="lobby" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			Sofas(1) and(2) chairs(3) were(4) abundant(5) here(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) very(3) obvious(4) that(5) they(6) wanted(7) their(8) customers(9) to(10) be(11) able(12) to(13) relax(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			The(1) great(2) lobby(3) pinned(4) our(5) expectations(6) even(7) higher(8) for(9) the(10) rooms(11) .(12) 
+			<opinion polarity="+" feature="lobby" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="10">
+			The(1) Rooms_Everything(2) else(3) had(4) looked(5) nice(6) so(7) far(8) ,(9) so(10) we(11) were(12) really(13) looking(14) forward(15) to(16) the(17) rooms(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			However(1) ,(2) when(3) we(4) opened(5) the(6) door(7) ,(8) we(9) were(10) much(11) less(12) then(13) excited(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			We(1) opened(2) the(3) door(4) to(5) two(6) small(7) double(8) beds(9) ,(10) an(11) even(12) smaller(13) television(14) ,(15) with(16) an(17) extremely(18) small(19) bathroom(20) to(21) go(22) with(23) it(24) .(25) 
+			<opinion polarity="-" feature="bed" featWords="9" opWords="7"/>
+			<opinion polarity="-" feature="bathroom" featWords="20" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="13">
+			There(1) were(2) even(3) a(4) few(5) flies(6) in(7) the(8) room(9) to(10) complete(11) the(12) look(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			And(1) the(2) icing(3) on(4) the(5) cake(6) :(7) The(8) air(9) conditioning(10) did(11) not(12) work(13) .(14) 
+			<opinion polarity="-" feature="air conditioning units" featWords="9,10" opWords="12,13"/>
+		</sentence>
+		<sentence id="15">
+			There(1) were(2) also(3) pet(4) fur(5) every(6) now(7) and(8) then(9) on(10) the(11) floor(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			The(1) bathrooms(2) Yes(3) ,(4) as(5) I(6) said(7) ,(8) they(9) were(10) very(11) small(12) .(13) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="17">
+			They(1) had(2) enough(3) room(4) for(5) the(6) standard(7) sink(8) ,(9) a(10) small(11) mirror(12) ,(13) and(14) a(15) toilet(16) which(17) was(18) crammed(19) into(20) the(21) corner(22) .(23) 
+			<opinion polarity="-" feature="bathroom" featWords="16" opWords="19"/>
+		</sentence>
+		<sentence id="18">
+			Looking(1) for(2) goodies(3) to(4) take(5) home(6) ?(7) 
+		</sentence>
+		<sentence id="19">
+			Well(1) ,(2) they(3) give(4) you(5) a(6) bar(7) of(8) soap(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			The(1) television(2) The(3) television(4) had(5) very(6) few(7) channels(8) .(9) .(10) among(11) them(12) were(13) :(14) CNN_ESPN(15) ESPN2(16) ABC_CBS_Wanting(17) more(18) of(19) a(20) selection(21) here(22) ?(23) take(24) the(25) elevator(26) ride(27) to(28) the(29) lobby(30) ,(31) where(32) the(33) televisions(34) are(35) much(36) larger(37) ,(38) nicer(39) ,(40) and(41) have(42) more(43) channels(44) .(45) 
+		</sentence>
+		<sentence id="21">
+			The(1) Pool_Being(2) mid-July(3) ,(4) we(5) were(6) hoping(7) for(8) a(9) place(10) that(11) we(12) could(13) get(14) our(15) feet(16) wet(17) ,(18) and(19) that(20) the(21) kids(22) could(23) swim(24) in(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			Luckily(1) ,(2) this(3) pool(4) was(5) good(6) enough(7) for(8) that(9) .(10) 
+			<opinion polarity="+" feature="swimming pool" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="23">
+			However(1) ,(2) right(3) along(4) I-40(5) ,(6) the(7) smell(8) of(9) car(10) exhaust(11) in(12) the(13) air(14) and(15) the(16) sound(17) of(18) cars(19) running(20) by(21) got(22) annoying(23) fairly(24) fast(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			Advice(1) :(2) do(3) not(4) go(5) to(6) the(7) pool(8) during(9) 3_to_5_p.m.(10) The(11) traffic(12) is(13) backed(14) up(15) on(16) 1-40(17) ,(18) and(19) the(20) sound(21) of(22) car(23) horns(24) is(25) abundant(26) .(27) 
+		</sentence>
+		<sentence id="25">
+			Dining(1) options(2) If(3) you(4) get(5) up(6) before(7) about(8) 10(9) A.M.(10) ((11) We(12) did(13) not(14) )(15) ,(16) you(17) can(18) go(19) down(20) to(21) the(22) lobby(23) and(24) enjoy(25) a(26) coffee(27) ,(28) muffin(29) ,(30) bowl(31) of(32) cereal(33) ,(34) or(35) croissant(36) at(37) the(38) "(39) Daybreak(40) "(41) breakfast(42) trailor(43) .(44) 
+		</sentence>
+		<sentence id="26">
+			However(1) ,(2) if(3) you(4) are(5) not(6) an(7) early(8) bird(9) like(10) me(11) ,(12) then(13) you(14) are(15) in(16) luck(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Days_Inn(1) is(2) located(3) near(4) many(5) ,(6) many(7) restaurants(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			The(1) following(2) restaurants(3) are(4) within(5) walking(6) distance(7) :(8) Wendy_'s_Denny_'s_IHOP_La_Fiesta_Restaurants(9) not(10) in(11) immediate(12) walking(13) distance(14) ,(15) but(16) are(17) only(18) a(19) short(20) car(21) ride(22) :(23) Cracker_Barrel_Starz_Drive(24) in(25) Sonic_Drive(26) in(27) Mcdonalds_Burger_King_El(28) tapatio(29) 's(30) Overall(31) ,(32) the(33) food(34) selection(35) in(36) Days(37) inn(38) is(39) not(40) good(41) ,(42) but(43) its(44) location(45) makes(46) up(47) for(48) it(49) .(50) 
+		</sentence>
+		<sentence id="29">
+			Overall_The_Days_Inn(1) is(2) just(3) another(4) hotel(5) .(6) 
+		</sentence>
+		<sentence id="30">
+			It(1) has(2) its(3) ups(4) and(5) downs(6) .(7) 
+		</sentence>
+		<sentence id="31">
+			I(1) personally(2) will(3) not(4) be(5) staying(6) here(7) again(8) unless(9) my(10) car(11) breaks(12) down(13) right(14) in(15) front(16) of(17) it(18) on(19) I-40(20) ;(21) )(22) 
+		</sentence>
+	</text>
+</review>

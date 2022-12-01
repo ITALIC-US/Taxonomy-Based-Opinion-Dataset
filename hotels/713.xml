@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="713" item="Tremont Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) hotel(2) value(3) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) value(2) ,(3) great(4) location(5) and(6) quiet(7) comfortable(8) rooms(9) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lousy(1) room(2) service(3) and(4) some(5) rooms(6) are(7) small(8) 
+			<opinion polarity="-" feature="room service" featWords="2,3" opWords="1"/>
+			<opinion polarity="-" feature="rooms" featWords="6" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) recommend(2) you(3) try(4) it(5) if(6) you(7) can(8) get(9) a(10) good(11) rate(12) because(13) it(14) offers(15) the(16) best(17) dollar(18) value(19) .(20) 
+			<opinion polarity="+" feature="hotel" opWords="2"/>
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) stayed(3) at(4) the(5) Tremont(6) on(7) 4(8) different(9) visits(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) main(2) plus(3) is(4) the(5) Tremont(6) is(7) located(8) in(9) on(10) quiet(11) street(12) 1/2(13) block(14) from(15) Michigan_Avenue(16) and(17) is(18) easy(19) walking(20) distance(21) to(22) all(23) the(24) great(25) shops(26) and(27) restaurants(28) on(29) the(30) miracle(31) mile(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			The(1) beds(2) are(3) very(4) comfortable(5) and(6) room(7) are(8) very(9) quiet(10) .(11) ((12) It(13) is(14) in(15) an(16) old(17) solid(18) building(19) which(20) has(21) thick(22) walls(23) .(24) )(25) The(26) hotel(27) could(28) used(29) some(30) furniture(31) updating(32) but(33) everything(34) is(35) well(36) maintained(37) .(38) 
+			<opinion polarity="-" feature="building" featWords="19" opWords="17"/>
+			<opinion polarity="+" feature="building" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="bed" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="rooms" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="4">
+			A(1) unknown(2) benefit(3) is(4) that(5) they(6) will(7) put(8) a(9) video(10) player(11) in(12) your(13) room(14) free(15) of(16) charge(17) if(18) you(19) ask(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) is(3) friendly(4) and(5) the(6) quiet(7) atmosphere(8) of(9) the(10) hotel(11) is(12) a(13) welcome(14) relief(15) from(16) the(17) large(18) Chicago(19) hotels(20) .(21) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="hotel" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="6">
+			Last(1) time(2) I(3) was(4) there(5) the(6) main(7) passenger(8) elevator(9) was(10) out(11) for(12) a(13) few(14) hours(15) and(16) guests(17) had(18) to(19) take(20) the(21) freight(22) elevator(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			This(1) was(2) a(3) minor(4) aggravation(5) which(6) I(7) hope(8) will(9) be(10) corrected(11) in(12) the(13) future(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) worth(3) while(4) to(5) search(6) the(7) internet(8) for_good(9) rates(10) on(11) this(12) hotel(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Their(1) own(2) website(3) does(4) not(5) give(6) the(7) best(8) rates(9) .(10) 
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="10">
+			In(1) December_2002(2) I(3) got(4) a(5) rate(6) of(7) $99(8) on(9) quikbook(10) ,(11) all(12) rates(13) for(14) nearby(15) hotels(16) were(17) at_least(18) $180(19) during(20) that(21) time(22) period(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			I(1) recommend(2) you(3) try(4) this(5) hotel(6) and(7) save(8) your(9) money(10) for(11) the(12) great(13) restaurants(14) in(15) the(16) area(17) .(18) 
+			<opinion polarity="+" feature="hotel" opWords="2"/>
+			<opinion polarity="+" feature="food" featWords="14" opWords="13"/>
+		</sentence>
+	</text>
+</review>

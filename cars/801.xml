@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="801" item="1994 BMW 5 Series" rating="2">
+	<title>
+		<sentence id="1">
+			dime(1) a(2) dozen(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			German(1) engineering(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) passion(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			With(1) all(2) due(3) respect(4) to(5) those(6) who(7) enjoy(8) their(9) BMWs(10) ,(11) I(12) 've(13) simply(14) never(15) gotten(16) much(17) enjoyment(18) out(19) of(20) any(21) of(22) the(23) ones(24) I(25) 've(26) driven(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Over(1) the(2) years(3) I(4) 've(5) driven(6) a(7) 3(8) ,(9) 5(10) ,(11) and(12) 7(13) series(14) ,(15) as_well(16) as(17) a(18) Z3(19) recently(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Simply(1) put(2) ,(3) their(4) safety(5) measures(6) ((7) weight(8) )(9) render(10) them(11) bulky(12) ,(13) and(14) absolutey(15) not(16) nimble(17) at(18) all(19) .(20) 
+			<opinion polarity="-" feature="car" opWords="16,17"/>
+			<opinion polarity="-" feature="car" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			They(1) 've(2) seemed(3) to(4) gained(5) a(6) sporty(7) reputation(8) ,(9) but(10) they(11) simply(12) do(13) not(14) handle(15) like(16) you(17) 'd(18) expect(19) .(20) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			I(1) currently(2) own(3) an(4) Alfa_Romeo(5) 164(6) ((7) 1993(8) )(9) ,(10) and(11) this(12) car(13) totally(14) outperforms(15) the(16) BMW(17) in(18) it(19) 's(20) class(21) ((22) 530(23) )(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) enjoy(3) having(4) a(5) car(6) that(7) does(8) not(9) appear(10) 7_times(11) on(12) every(13) block(14) ,(15) as(16) does(17) the(18) BMW(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			I(1) also(2) respect(3) BMWs(4) history(5) ,(6) but(7) again(8) Alfa_Romeo(9) has(10) them(11) beat(12) here(13) ,(14) with(15) nearly(16) 100(17) years(18) of(19) design(20) and(21) build(22) history(23) ,(24) pre-dating(25) and(26) including(27) early(28) Ferrari(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			As_well(1) ,(2) BMW(3) now(4) hides(5) their(6) engines(7) under(8) an(9) odd(10) plastic(11) cover(12) ,(13) whereas(14) Alfa(15) leaves(16) the(17) beauty(18) of(19) their(20) amazing(21) power(22) plants(23) in(24) plain(25) view(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) also(3) a(4) shame(5) that(6) BMW(7) only(8) recently(9) began(10) using(11) DeDion(12) suspension(13) ,(14) which(15) has(16) been(17) the(18) norm(19) for(20) Alfa(21) for(22) several(23) years(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			And(1) the(2) Alfa_Romeo(3) 164(4) has(5) any(6) BMW(7) beat(8) as(9) far(10) as(11) engine(12) sound(13) goes(14) ....(15) the(16) smoothest(17) and(18) most(19) beautiful(20) this(21) side(22) of(23) Ferrari(24) .(25) 
+			<opinion polarity="+" feature="design" opWords="20"/>
+			<opinion polarity="+" feature="car" opWords="17"/>
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) want(3) a(4) safe(5) ,(6) predictable(7) ,(8) faux-sporty(9) vehicle(10) ,(11) go(12) for(13) BMW(14) ,(15) but(16) if_not(17) try(18) an(19) Alfa_Romeo(20) 164....you(21) 'll(22) be(23) pleasantly(24) surprised(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="safety" opWords="5"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="543" item="JVC HA-NC100 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Quite(1) pleased(2) with(3) my(4) first(5) pair(6) of(7) noise(8) cancelers(9) ...(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Compact(1) ,(2) good(3) battery(4) life(5) ,(6) inexpensive(7) ,(8) good(9) design(10) ,(11) they(12) work(13) !(14) 
+			<opinion polarity="+" feature="size" opWords="1"/>
+			<opinion polarity="+" feature="battery life" featWords="4,5" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="7"/>
+			<opinion polarity="+" feature="design" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) really(2) .(3) they(4) fit(5) my(6) needs(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Get(1) these(2) if(3) you(4) are(5) looking(6) for(7) an(8) inexpensive(9) set(10) of(11) noise(12) canceling(13) headphones(14) that(15) work(16) well(17) ,(18) easy(19) on(20) the(21) batteries(22) and(23) decently(24) compact(25) .(26) 
+			<opinion polarity="+" feature="price" opWords="9"/>
+			<opinion polarity="+" feature="headphones" opWords="16,17"/>
+			<opinion polarity="+" feature="size" opWords="25" potency="24"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) back(4) in(5) September(6) to(7) help(8) with(9) my(10) commute(11) to(12) work(13) on(14) the(15) train(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) previously(3) using(4) ear(5) buds(6) and(7) had(8) difficulty(9) hearing(10) movies(11) play(12) on(13) my(14) media(15) player(16) even(17) at(18) full(19) volume(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) decided(3) to(4) look(5) into(6) over(7) the(8) ear(9) headphones(10) ,(11) and(12) then(13) seguewayed(14) to(15) noise(16) canceling(17) headphones(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			At(1) first(2) I(3) was(4) a_bit(5) disappointed(6) in(7) the(8) price(9) of(10) '(11) good(12) '(13) models(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Then_I(1) found(2) these(3) at(4) a(5) pretty(6) decent(7) price(8) ((9) $40(10) )(11) and(12) a(13) positive(14) review(15) online(16) .(17) 
+			<opinion polarity="+" feature="price" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			I(1) took(2) a(3) shot(4) on(5) them(6) and(7) could(8) not(9) be(10) happier(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			They(1) block(2) at(3) most(4) '(5) white(6) '(7) noise(8) ,(9) such(10) as(11) a(12) train(13) operating(14) in(15) the(16) background(17) ,(18) or(19) my(20) other(21) favorite(22) use(23) ,(24) computer(25) servers(26) running(27) their(28) noisy(29) fans(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			You(1) can(2) still(3) hear(4) normal(5) voice(6) conversations(7) ((8) although(9) the(10) over(11) the(12) ear(13) design(14) muffles(15) that(16) a_bit(17) )(18) ,(19) and(20) other(21) unpredictable(22) noises(23) ,(24) but(25) as(26) I(27) understand(28) noise(29) canceling(30) ,(31) that(32) 's(33) what(34) it(35) is(36) designed(37) to(38) do(39) .(40) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) I(3) can(4) now(5) hear(6) my(7) movies(8) ((9) better(10) )(11) at(12) a(13) lower(14) volume(15) on(16) my(17) train(18) commute(19) and(20) have(21) not(22) gone(23) back(24) to(25) the(26) ear(27) buds(28) since(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			One(1) ((2) and(3) only(4) one(5) )(6) problem(7) I(8) have(9) noticed(10) is(11) that(12) they(13) seem(14) to(15) pick(16) up(17) interference(18) from(19) cell(20) phones(21) from(22) time(23) to(24) time(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) heard(3) the(4) same(5) interference(6) on(7) other(8) audio(9) devices(10) ,(11) so(12) not(13) too(14) surprised(15) and(16) it(17) may(18) not(19) be(20) the(21) fault(22) of(23) the(24) headphones(25) themselves(26) ((27) or(28) maybe(29) they(30) do(31) not(32) have(33) good(34) enough(35) shielding(36) ?(37) )(38) Anyway(39) ,(40) thought(41) it(42) was(43) worth(44) noting(45) .(46) 
+		</sentence>
+	</text>
+</review>

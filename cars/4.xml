@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="4" item="2004 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Car(1) ,(2) but(3) go(4) with(5) the(6) Prius(7) if(8) you(9) need(10) to(11) save(12) on(13) gas(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			cute(1) ,(2) clean(3) ,(4) sleek(5) ,(6) runs(7) quietly(8) ,(9) decent(10) mpg(11) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="7,8"/>
+			<opinion polarity="+" feature="gas" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			could(1) have(2) a(3) better(4) mpg(5) for(6) being(7) a(8) hybrid(9) ,(10) small(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) a(2) good(3) solid(4) compact(5) car(6) with(7) decent(8) mpg(9) .(10) 
+			<opinion polarity="+" feature="gas" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) owned(2) a(3) '(4) 95(5) civic(6) for(7) about(8) six(9) years(10) before(11) purchasing(12) my(13) '(14) 04(15) Hybrid(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			My(1) '(2) 95(3) ended(4) up(5) needing(6) so(7) much(8) work(9) done(10) that(11) it(12) was(13) cheaper(14) in(15) the(16) long(17) run(18) to(19) purchase(20) a(21) newer(22) car(23) rather(24) than(25) fix(26) the(27) old(28) one(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			With(1) the(2) soaring(3) gas(4) prices(5) ,(6) I(7) was(8) looking(9) at(10) a(11) Hybrid(12) but(13) did(14) not(15) want(16) to(17) buy(18) the(19) same(20) car(21) my(22) parents(23) owned(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) love(2) Hondas(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) reliable(3) ,(4) will(5) drive(6) forever(7) ,(8) and(9) have(10) such(11) a(12) high(13) standard(14) of(15) quality(16) .(17) 
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="13,16"/>
+		</sentence>
+		<sentence id="6">
+			In(1) this(2) regard(3) ,(4) the(5) '(6) 04(7) Civic_Hybrid(8) did(9) not(10) disappoint(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			It(1) looks(2) great(3) both(4) inside(5) and(6) out(7) ,(8) and(9) it(10) runs(11) so(12) quietly(13) .(14) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+			<opinion polarity="+" feature="car" opWords="11,13" potency="12"/>
+		</sentence>
+		<sentence id="8">
+			The(1) downsides(2) are(3) twofold(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			First(1) ,(2) it(3) does(4) not(5) get(6) nearly(7) the(8) gas(9) mileage(10) as(11) the(12) Prius(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) Honda(2) is(3) a(4) Hybrid_ASSIST(5) which(6) means(7) that(8) when(9) you(10) accelerate(11) and(12) brake(13) ,(14) you(15) use(16) more(17) of(18) the(19) battery(20) than(21) petrol(22) fuel(23) .(24) ((25) The(26) Prius(27) ,(28) on_the_other_hand(29) ,(30) uses(31) battery(32) alone(33) when(34) driving(35) under(36) 35mph(37) .(38) )(39) It(40) 's(41) a(42) neat(43) concept(44) ,(45) but(46) I(47) 'm(48) barely(49) getting(50) better(51) mileage(52) than(53) when(54) I(55) drove(56) my(57) '(58) 95(59) Civic(60) .(61) 
+		</sentence>
+		<sentence id="11">
+			Secondly(1) ,(2) it(3) does(4) not(5) accelerate(6) quickly(7) .(8) 
+			<opinion polarity="-" feature="acceleration" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="12">
+			This(1) ,(2) for(3) me(4) ,(5) is(6) incredibly(7) annoying(8) as(9) most(10) of(11) the(12) miles(13) I(14) put(15) on(16) it(17) are(18) freeway(19) miles(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			So(1) to(2) get(3) on(4) the(5) freeway(6) ,(7) I(8) have(9) to(10) slowly(11) accelerate(12) which(13) saves(14) you(15) gas(16) money(17) I(18) suppose(19) in(20) the(21) long(22) run(23) but(24) really(25) irks(26) you(27) and(28) all(29) the(30) other(31) drivers(32) on(33) the(34) road(35) when(36) you(37) can(38) not(39) reach(40) the(41) speed(42) limit(43) quickly(44) .(45) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) a(3) compact(4) car(5) by(6) all(7) means(8) and(9) thus(10) has(11) little(12) leg(13) room(14) for(15) tall(16) people(17) in(18) the(19) back(20) ,(21) but(22) it(23) is(24) so(25) much(26) more(27) comfortable(28) than(29) the(30) Prius(31) for(32) long(33) road(34) trips(35) .(36) 
+			<opinion polarity="-" feature="leg room" featWords="13,14" opWords="12"/>
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) ample(3) storage(4) up_front(5) and(6) the(7) trunk(8) is(9) decently(10) sized(11) ,(12) though(13) could(14) stand(15) to(16) be(17) slightly(18) bigger(19) .(20) 
+			<opinion polarity="+" feature="trunk" featWords="8" opWords="10,11"/>
+			<opinion polarity="+" feature="trunk space" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			The(1) car(2) itself(3) sits(4) up(5) higher(6) than(7) older(8) Civic(9) models(10) which(11) makes(12) climbing(13) in(14) and(15) out(16) much(17) easier(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			It(1) is(2) a(3) really(4) decent(5) car(6) for(7) a(8) Hybrid(9) though(10) needs(11) to(12) work(13) on(14) it(15) 's(16) efficiency(17) more(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) hybrid(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="100" item="1999 GMC Suburban" rating="4">
+	<title>
+		<sentence id="1">
+			Reliable_SUV(1) with(2) a(3) few(4) typical(5) GM(6) bugs(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Safety(1) ,(2) towing(3) ,(4) lots(5) of(6) room(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) electrical(2) problems(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Our(1) GMC(2) 4x4(3) Suburban(4) now(5) has(6) 109000_miles(7) and(8) has(9) been(10) very(11) reliable(12) for(13) our(14) family(15) .(16) 
+			<opinion polarity="+" feature="reliability" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="2">
+			Small(1) electric(2) problems(3) can(4) be(5) a(6) problem(7) for_example(8) the(9) electric(10) windows(11) work(12) when(13) they(14) want(15) to(16) ,(17) and(18) the(19) a(20) /(21) c(22) system(23) is(24) not(25) the(26) best(27) out(28) there(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			These(1) trucks(2) are(3) sturdy(4) and(5) will(6) last(7) a(8) very(9) long(10) time(11) if(12) well(13) maintained(14) though(15) .(16) 
+			<opinion polarity="+" feature="truck" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) SLE(16) ,(17) 4x4(18) 
+		</sentence>
+	</text>
+</review>

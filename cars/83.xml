@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="83" item="2003 Volvo S40" rating="4">
+	<title>
+		<sentence id="1">
+			2(1) years(2) with(3) my(4) Volvo(5) V40(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Volvo(1) history(2) of(3) safety(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Plastic(1) interior(2) features(3) not(4) very(5) durable(6) .(7) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) others(7) looking(8) for(9) a(10) smaller(11) ,(12) more(13) compact(14) station(15) wagon(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) car(4) in_2003(5) after(6) researching(7) it(8) and(9) wanting(10) it(11) for(12) a(13) year(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) choose(2) this(3) car(4) to(5) replace(6) the(7) very(8) large(9) and(10) difficult(11) to(12) maneuver(13) Chevy_Tahoe_SUV_I(14) had(15) been(16) previously(17) driving(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) also(2) purchased(3) this(4) car(5) to(6) use(7) as(8) the(9) primary(10) vehicle(11) to(12) transport(13) my(14) two(15) small(16) children(17) in(18) during(19) the(20) day(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) several(3) things(4) I(5) love(6) about(7) this(8) vehicle(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) always(3) been(4) impressed(5) with(6) the(7) Volvo(8) history(9) especially(10) in(11) regard(12) to(13) safety(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) happy(3) when(4) they(5) introduced(6) a(7) compact(8) Station_Wagon(9) at(10) an(11) affordable(12) price(13) .(14) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) found(3) the(4) car(5) to(6) have(7) plenty_of(8) back(9) seat(10) space(11) for(12) both(13) my(14) children(15) who(16) are(17) in(18) child(19) safety(20) seats(21) with(22) just(23) enough(24) room(25) to(26) fit(27) another(28) in(29) the(30) back(31) seat(32) for(33) when(34) we(35) have(36) a(37) friend(38) with(39) us(40) .(41) 
+		</sentence>
+		<sentence id="8">
+			The(1) cargo(2) space(3) is(4) also(5) very(6) nice(7) with(8) plenty_of(9) room(10) to(11) carry(12) vary(13) large(14) loads(15) .(16) 
+			<opinion polarity="+" feature="trunk space" featWords="2,3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="9">
+			The(1) front(2) drivers(3) and(4) passengers(5) seats(6) are(7) comfortable(8) and(9) there(10) is(11) a(12) nice(13) center(14) consul(15) with(16) good(17) storage(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="10">
+			Although(1) I(2) am(3) not(4) an(5) expert(6) when(7) it(8) comes(9) to(10) driving(11) performance(12) I(13) have(14) been(15) very(16) pleased(17) with(18) the(19) ride(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) smooth(3) ,(4) quick(5) ,(6) zippy(7) ,(8) maneuvers(9) and(10) handles(11) well(12) .(13) 
+			<opinion polarity="+" feature="handling" opWords="11,12"/>
+			<opinion polarity="+" feature="handling" opWords="9,12"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			I(1) get(2) good(3) gas(4) mileage(5) both(6) on(7) street(8) and(9) highway(10) which(11) is(12) nice(13) with(14) increased(15) fuel(16) costs(17) .(18) 
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="13"/>
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			I(1) also(2) appreciated(3) the(4) gas(5) cap(6) attached(7) with(8) a(9) cord(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) been(3) distracted(4) on(5) several(6) occasions(7) in(8) older(9) vehicles(10) and(11) forgotten(12) to(13) replace(14) the(15) gas(16) cap(17) before(18) driving(19) away(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) a(3) convenience(4) I(5) found(6) helpful(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			I(1) do(2) have(3) a(4) few(5) problems(6) with(7) this(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			After(1) only(2) two(3) years(4) of(5) use(6) I(7) have(8) noticed(9) that(10) things(11) are(12) starting(13) to(14) fall(15) apart(16) a_bit(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			The(1) passenger(2) door(3) handle(4) slips(5) out(6) of(7) the(8) socket(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) plastic(2) cover(3) on(4) the(5) rear(6) windshield(7) wiper(8) broke(9) off(10) one(11) day(12) when(13) I(14) closed(15) the(16) trunk(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			The(1) seal(2) along(3) the(4) door(5) is(6) beginning(7) to(8) rip(9) in(10) several(11) areas(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			The(1) speaker(2) located(3) on(4) the(5) upper(6) dash(7) of(8) the(9) front(10) passenger(11) side(12) is(13) loosening(14) and(15) popping(16) up(17) a_bit(18) .(19) 
+			<opinion polarity="-" feature="speakers" featWords="2" opWords="16,17"/>
+			<opinion polarity="-" feature="speakers" featWords="2" opWords="14"/>
+		</sentence>
+		<sentence id="22">
+			The(1) seat(2) fabric(3) has(4) also(5) not(6) held(7) up(8) well(9) to(10) the(11) daily(12) adventures(13) of(14) two(15) toddlers(16) and(17) their(18) friends(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			I(1) have(2) cleaned(3) the(4) seats(5) and(6) fabric(7) many(8) times(9) but(10) they(11) do(12) not(13) repel(14) dirt(15) very(16) well(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Another(1) huge(2) problem(3) I(4) have(5) with(6) the(7) car(8) is(9) the(10) location(11) of(12) the(13) steering(14) wheel(15) adjuster(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			It(1) juts(2) out(3) from(4) under(5) the(6) steering(7) wheel(8) and(9) I(10) have(11) jabbed(12) it(13) into(14) my(15) knee(16) cap(17) several(18) times(19) which(20) is(21) extremely(22) painful(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Sport_Package_Equipped(16) 
+		</sentence>
+	</text>
+</review>

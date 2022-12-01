@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="357" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) car(2) ,(3) minor(4) flaws(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			performance(1) ,(2) handling(3) ,(4) fun(5) to(6) drive(7) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			minor(1) quality(2) issues(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) the(3) 98(4) Accord(5) V6(6) and(7) love(8) the(9) car(10) despite(11) a(12) few(13) small(14) flaws(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			Biggest(1) mistake(2) I(3) made(4) was(5) choice(6) of(7) color(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Black(1) in(2) South_Florida(3) is(4) a(5) BAD(6) idea(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Problems_I(1) had(2) :(3) *(4) Windshield(5) rubber(6) seal(7) -(8) coming(9) off(10) ever(11) since(12) I(13) got(14) the(15) car(16) .(17) *(18) Driver(19) side(20) window(21) -(22) making(23) wind(24) noise(25) since(26) I(27) got(28) car(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			Had(1) rubber(2) seal(3) replaced(4) once(5) ,(6) which(7) helped(8) but(9) it(10) 's(11) still(12) there(13) .(14) *(15) after(16) 43k_miles(17) ,(18) transmission(19) is(20) making(21) a(22) clunking(23) noise(24) when(25) shifting(26) into(27) overdrive(28) at(29) low(30) speeds(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			What(1) I(2) love(3) :(4) *(5) Looks(6) .(7) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) a(3) very(4) nice(5) looking(6) car(7) .(8) *(9) Handling(10) *(11) Performance(12) *(13) Ergonomics(14) *(15) Fuel(16) efficient(17) *(18) Fun(19) to(20) drive(21) Honda(22) has(23) done(24) a(25) great(26) job(27) fine(28) tuning(29) this(30) vehicle(31) .(32) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+			<opinion polarity="+" feature="gas" opWords="16,17"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="5,6" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			Quality(1) in(2) details(3) was(4) better(5) on(6) my(7) 2(8) previous(9) Honda(10) 's(11) ((12) Prelude(13) and(14) Civic(15) )(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Overall(1) ,(2) Honda(3) has(4) to(5) be(6) my(7) favorite(8) manufacturer(9) ((10) besides(11) Porsche(12) )(13) and(14) I(15) will(16) certainly(17) buy(18) one(19) of(20) their(21) models(22) again(23) in(24) the(25) future(26) ((27) most(28) likely(29) Acura(30) 3.2TL(31) )(32) 
+		</sentence>
+	</text>
+</review>

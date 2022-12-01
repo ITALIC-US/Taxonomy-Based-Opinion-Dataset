@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="347" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Quality(1) May(2) Be_Slipping(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Strong(1) acceleration(2) when(3) needed(4) ,(5) quiet(6) engine(7) ,(8) great(9) stereo(10) ,(11) styling(12) ,(13) 4-wheel(14) discs(15) on(16) EX(17) and(18) V6(19) models(20) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="engine" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			squeaks(1) ,(2) ride(3) harshness(4) ,(5) road(6) noise(7) ,(8) hip(9) room(10) in(11) back(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Honda_Accord(2) is(3) the(4) typical(5) family(6) car(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) good(4) choice(5) not(6) only(7) because(8) it(9) is(10) affordably(11) priced(12) ,(13) but(14) it(15) is(16) also(17) large(18) ,(19) stylish(20) ,(21) and(22) laden(23) with(24) features(25) .(26) 
+			<opinion polarity="+" feature="design" opWords="20"/>
+			<opinion polarity="+" feature="price" opWords="11,12"/>
+		</sentence>
+		<sentence id="3">
+			It(1) provides(2) almost(3) untouchable(4) reliability(5) and(6) quality(7) ,(8) although(9) it(10) seems(11) as(12) though(13) the(14) latest(15) model(16) of(17) the(18) Accord(19) ((20) 1998-2001(21) )(22) is(23) slipping(24) in(25) quality(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			I(1) notice(2) that(3) there(4) is(5) more(6) road(7) noise(8) in(9) a(10) '(11) 98(12) EX(13) than(14) there(15) is(16) in(17) a(18) '(19) 97(20) LX(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Is(1) it(2) the(3) fault(4) of(5) the(6) tires(7) ?(8) 
+		</sentence>
+		<sentence id="6">
+			Another(1) good(2) thing(3) is(4) that(5) the(6) transmission(7) could(8) not(9) shift(10) any(11) smoother(12) ,(13) unlike(14) that(15) of(16) the(17) previous(18) models(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) engine(2) is(3) definitely(4) very(5) strong(6) at(7) all(8) times(9) ,(10) if(11) you(12) get(13) an(14) LX(15) or(16) an(17) EX.(18) do(19) not(20) get(21) me(22) wrong(23) ,(24) the(25) DX(26) provides(27) strong(28) acceleration(29) ,(30) but(31) it(32) is(33) nothing(34) to(35) brag(36) about(37) .(38) 
+			<opinion polarity="+" feature="acceleration" featWords="29" opWords="28"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) tires(2) are(3) very(4) grippy(5) ,(6) and(7) the(8) ABS(9) seems(10) to(11) work(12) seamlessly(13) ((14) I(15) have(16) had(17) a(18) chance(19) to(20) test(21) it(22) ,(23) unfortunately(24) )(25) .(26) 
+			<opinion polarity="+" feature="tire" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			There(1) are(2) certainly(3) more(4) squeaks(5) and(6) rattles(7) in(8) the(9) new(10) model(11) ,(12) and(13) the(14) transmission(15) is(16) prone(17) to(18) slipping(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) air(2) conditioner(3) finally(4) cools(5) the(6) car(7) with(8) guts(9) ,(10) not(11) a(12) wimpy(13) stream(14) of(15) air(16) that(17) becomes(18) cool(19) only(20) when(21) you(22) reach(23) your(24) destination(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			The(1) suspension(2) is(3) a_bit(4) firm(5) ,(6) but(7) the(8) seats(9) more(10) than(11) make(12) up(13) for(14) that(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			On(1) a(2) long(3) trip(4) ,(5) no(6) fatigue(7) was(8) noticed(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Kudos(1) to(2) the(3) designers(4) who(5) made(6) those(7) seats(8) !(9) 
+		</sentence>
+		<sentence id="14">
+			Another(1) note(2) :(3) The(4) seat(5) fabric(6) is(7) the(8) richest(9) I(10) have(11) yet(12) encountered(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Smooth(1) and(2) silky(3) against(4) the(5) skin(6) ;(7) something(8) that(9) I(10) have(11) never(12) thought(13) about(14) before(15) .(16) 
+		</sentence>
+	</text>
+</review>

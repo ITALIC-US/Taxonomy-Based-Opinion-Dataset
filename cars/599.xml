@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="599" item="2000 Chevrolet Silverado" rating="2">
+	<title>
+		<sentence id="1">
+			Like(1) a(2) Rock(3) ...(4) buncha(5) crock(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) everything(2) ,(3) heated(4) lumbar(5) seats(6) ,(7) plenty_of(8) power(9) from(10) the(11) V8(12) engine(13) 
+			<opinion polarity="+" feature="seat" featWords="6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			everything(1) else(2) .(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) a(4) Ford(5) fan(6) for(7) years(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Due(1) to(2) recent(3) problems(4) with(5) my(6) 2002(7) taurus(8) and(9) my(10) parents(11) fords(12) ,(13) I(14) decided(15) to-against(16) my(17) better(18) judgement-purchase(19) a(20) chevy(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) a(3) Z-71(4) extended(5) cab(6) LT(7) ,(8) loaded(9) with(10) all(11) the(12) bells(13) and(14) whistles(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Yes(1) ,(2) this(3) was(4) a(5) used(6) vehichle(7) ,(8) but(9) so(10) were(11) my(12) 1997(13) Taurus(14) and(15) Explorer(16) ,(17) and(18) they(19) were(20) exceptional(21) vehichles(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			My(1) 2000(2) Z-71(3) has(4) already(5) had(6) the(7) actuator(8) replaced(9) ,(10) U-joints(11) replaced(12) and(13) there(14) is(15) a(16) knocking(17) in(18) the(19) engine(20) at(21) 1st(22) start-usually(23) when(24) it(25) is(26) cold(27) ,(28) plus(29) there(30) is(31) slack(32) in(33) the(34) transmission(35) ,(36) it(37) squeeks(38) and(39) creaks(40) and(41) rides(42) like(43) a(44) log(45) truck(46) on(47) rough(48) roads(49) .(50) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) a(3) good(4) looking(5) truck(6) with(7) comfortable(8) heated(9) leather(10) lumbar(11) seats(12) ,(13) power(14) everything(15) especially(16) the(17) engine(18) ,(19) this(20) truck(21) will(22) get(23) up(24) and(25) go(26) !(27) but(28) the(29) problems(30) that(31) I(32) have(33) encountered(34) in(35) just(36) 5(37) months(38) of(39) ownership(40) have(41) prompted(42) me(43) to(44) never(45) purchase(46) a(47) GM(48) product(49) again(50) ,(51) by(52) the(53) way(54) this(55) is(56) the(57) 4th(58) GM(59) product(60) that(61) I(62) have(63) owned(64) with(65) similar(66) results(67) .(68) 
+			<opinion polarity="+" feature="seat" featWords="12" opWords="10"/>
+			<opinion polarity="+" feature="seat" featWords="12" opWords="9"/>
+			<opinion polarity="+" feature="seat" featWords="12" opWords="8"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,900(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Z71(16) Silverado_Automatic(17) 
+		</sentence>
+	</text>
+</review>

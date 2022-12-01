@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="962" item="2006 Lexus GS" rating="1">
+	<title>
+		<sentence id="1">
+			Navigation_System(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Full(1) featured(2) ;(3) large(4) display(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Incorrect(1) and(2) inaccurate(3) mapping(4) and(5) directions(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Navigation_System(2) on(3) the(4) 2006(5) Lexus(6) GS300(7) is(8) defective(9) and(10) Lexus(11) has(12) no(13) plans(14) to(15) remedy(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			It(1) can(2) be(3) UNSAFE(4) in(5) certain(6) conditions(7) -(8) it(9) will(10) tell(11) you(12) that(13) the(14) next(15) turn(16) is(17) on(18) the(19) Left(20) when(21) it(22) in(23) fact(24) is(25) on(26) the(27) Right(28) .(29) 
+			<opinion polarity="-" feature="safety" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Multiple(1) ,(2) specific(3) deficiencies(4) have(5) been(6) documented(7) to(8) Lexus(9) in(10) writing(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Their(1) answer(2) is(3) "(4) within(5) specifications(6) "(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			When(1) asked(2) for(3) the(4) specifications(5) ,(6) they(7) decline(8) to(9) provide(10) .(11) 
+		</sentence>
+	</text>
+</review>

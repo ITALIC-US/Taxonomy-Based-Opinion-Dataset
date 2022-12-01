@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="369" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Everything(1) you(2) need(3) ...(4) Nothing(5) you(6) do(7) not(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) performance(2) and(3) handling(4) .(5) 
+			<opinion polarity="+" feature="handling" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) is(2) kind(3) of(4) expensive(5) ,(6) and(7) you(8) see(9) a_lot_of(10) them(11) on(12) the(13) freeway(14) .(15) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) test(2) drove(3) the(4) 1998(5) Honda_Accord_Coupe(6) a(7) while(8) ago(9) ,(10) and(11) let(12) me(13) tell(14) you(15) ,(16) I(17) was(18) thrilled(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) so(3) anxious(4) to(5) go(6) and(7) purchase(8) one(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			But(1) the(2) problem(3) is(4) that(5) I(6) can(7) not(8) afford(9) one(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) kind(3) of(4) expensive(5) for(6) me(7) .(8) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			But(1) it(2) is(3) a(4) good(5) automobile(6) overall(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) all(3) the(4) things(5) I(6) expect(7) from(8) a(9) car(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) has(3) all(4) the(5) goodies(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			The(1) one(2) I(3) test(4) drove(5) had(6) 12(7) CD(8) changer(9) ,(10) AM(11) /(12) FM(13) radio(14) ,(15) and(16) cassette(17) player(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			It(1) has(2) a(3) great(4) interior(5) design(6) and(7) a_lot_of(8) room(9) in(10) both(11) the(12) front(13) and(14) the(15) back(16) .(17) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			And(1) best(2) of(3) all(4) ,(5) cup(6) holders(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			I(1) need(2) those(3) .(4) 
+		</sentence>
+		<sentence id="12">
+			The(1) VTEC(2) provides(3) a(4) relatively(5) silent(6) ride(7) ,(8) and(9) the(10) entire(11) engine(12) is(13) not(14) too(15) loud(16) .(17) 
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			It(1) carries(2) a(3) 2.2L(4) SOHC_VTEC(5) engine(6) that(7) gives(8) off(9) about(10) 150(11) horsepower(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			It(1) has(2) a(3) smooth(4) ride(5) ,(6) and(7) is(8) very(9) convenient(10) vehicle(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) a(3) good(4) amount(5) of(6) trunk(7) space(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			But(1) if(2) your(3) really(4) need(5) a_lot(6) ((7) I(8) mean(9) ...(10) A_LOT(11) )(12) ,(13) of(14) trunk(15) space(16) ,(17) I(18) would(19) suggest(20) looking(21) into(22) the(23) Honda_Accord_Sedan(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			This(1) car(2) is(3) a(4) great(5) family(6) car(7) ,(8) but(9) the(10) Honda_Accord_Sedan(11) would(12) make(13) a(14) better(15) family(16) car(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			It(1) has(2) superb(3) performance(4) and(5) great(6) handling(7) .(8) 
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="performance" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="19">
+			The(1) car(2) is(3) quick(4) and(5) low-profile(6) .(7) 
+			<opinion polarity="+" feature="speed" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			I(1) highly(2) suggest(3) this(4) car(5) to(6) anyone(7) who(8) seeks(9) good(10) performance(11) and(12) convenience(13) 
+			<opinion polarity="+" feature="performance" featWords="11" opWords="10"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="95" item="Koss UR29 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			If(1) Looks_Is_All_You_Care_About_In_A_Headphone(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Looking(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horribly(1) Bright(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Koss(1) is(2) a(3) company(4) that(5) excels(6) in(7) inexpensive(8) headphones(9) ,(10) most(11) notably(12) the(13) UR21(14) or(15) the(16) Porta_Pros(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) UR29(3) is(4) a(5) whole(6) different(7) story(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			They(1) do(2) look(3) cool(4) ,(5) but(6) their(7) sound(8) quality(9) is(10) actually(11) horrid(12) .(13) 
+			<opinion polarity="+" feature="appearance" opWords="3,4"/>
+			<opinion polarity="-" feature="sound quality" featWords="8,9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="4">
+			They(1) lack(2) in(3) bass(4) tones(5) ,(6) have(7) "(8) hilly(9) "(10) mids(11) ,(12) and(13) sounded(14) awfully(15) bright(16) and(17) lacking(18) in(19) any(20) sort(21) of(22) detail(23) .(24) 
+			<opinion polarity="+" feature="mids" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			Very(1) inaccurate(2) sounding(3) headphones(4) .(5) 
+			<opinion polarity="-" feature="sound quality" opWords="2,3" potency="1"/>
+		</sentence>
+		<sentence id="6">
+			Otherwise(1) ,(2) they(3) do(4) look(5) decent(6) ,(7) and(8) they(9) are(10) comfortable(11) ,(12) but(13) those(14) attributes(15) only(16) count(17) if(18) you(19) would(20) like(21) to(22) spend(23) $30(24) on(25) something(26) that(27) is(28) a(29) poser(30) to(31) headphones(32) even(33) in(34) this(35) price(36) range(37) .(38) 
+			<opinion polarity="+" feature="appearance" opWords="5,6"/>
+			<opinion polarity="+" feature="comfort" opWords="11"/>
+		</sentence>
+		<sentence id="7">
+			Even(1) the(2) less(3) expensive(4) Koss(5) UR21(6) or(7) Sennheiser(8) HD202s(9) completely(10) blow(11) these(12) away(13) in(14) terms(15) of(16) sound(17) quality(18) .(19) 
+		</sentence>
+	</text>
+</review>

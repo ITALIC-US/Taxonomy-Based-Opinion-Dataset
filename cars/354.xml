@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="354" item="1998 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			1998(1) Honda_Accord_Sedan(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			powerful(1) ,(2) turns(3) on(4) a(5) dime(6) ,(7) looks(8) good(9) 
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) very(2) comfortable(3) to(4) drive(5) ,(6) small(7) ,(8) cheap(9) parking(10) break(11) 
+			<opinion polarity="-" feature="comfort" opWords="1,3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Ultimately(1) ,(2) I(3) do(4) not(5) recommend(6) this(7) car(8) at(9) all(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="5,6"/>
+		</sentence>
+		<sentence id="2">
+			It(1) seems(2) that(3) what(4) is(5) important(6) was(7) overlooked(8) in(9) the(10) making(11) of(12) this(13) vehicle(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) to(2) tell(3) a(4) little(5) story(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) drive(2) a(3) 1993(4) Toyota(5) camry(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) an(3) option(4) for(5) me(6) this(7) past(8) year(9) to(10) sell(11) my(12) camry(13) and(14) get(15) this(16) 1998(17) Accord(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) stuck(2) with(3) my(4) camry(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Even(1) with(2) all(3) the(4) miles(5) and(6) everything(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Basically(1) the(2) only(3) good(4) things(5) I(6) see(7) in(8) this(9) car(10) are(11) :(12) it(13) is(14) very(15) powerful(16) ((17) though(18) there(19) often(20) is(21) not(22) the(23) need(24) for(25) so(26) much(27) power(28) )(29) ,(30) it(31) can(32) make(33) very(34) tight(35) turns(36) ((37) perfect(38) for(39) driving(40) in(41) the(42) mall(43) )(44) ,(45) lastly(46) it(47) looks(48) sharp(49) .(50) 
+			<opinion polarity="+" feature="horsepower" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="7">
+			These(1) few(2) pros(3) aside(4) ,(5) I(6) think(7) when(8) it(9) comes(10) down(11) to(12) what(13) is(14) really(15) important(16) in(17) a(18) car(19) ;(20) this(21) one(22) is(23) lacking(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Most(1) importantly(2) it(3) drives(4) like(5) a(6) go-cart(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			You(1) tend(2) to(3) feel(4) beat(5) up(6) after(7) you(8) have(9) driven(10) it(11) for(12) any(13) length(14) of(15) time(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) accelerator(2) is(3) not(4) very(5) sensitive(6) so(7) you(8) try(9) to(10) slowly(11) press(12) it(13) and(14) end(15) up(16) having(17) to(18) press(19) harder(20) than(21) you(22) would(23) normally(24) ,(25) which(26) tends(27) to(28) jolt(29) the(30) vehicle(31) forward(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			No(1) matter(2) how(3) many(4) people(5) are(6) inside(7) this(8) car(9) it(10) feels(11) cramped(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			The(1) angles(2) of(3) the(4) interior(5) move(6) toward(7) the(8) center(9) and(10) thereby(11) decrease(12) space(13) and(14) decrease(15) the(16) feeling(17) of(18) space(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			Sitting(1) in(2) the(3) front(4) ,(5) you(6) can(7) see(8) that(9) the(10) car(11) narrows(12) as(13) it(14) goes(15) to(16) the(17) front(18) which(19) makes(20) the(21) windshield(22) smaller(23) and(24) not(25) as(26) deep(27) and(28) therefore(29) harder(30) to(31) see(32) out(33) of(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) often(3) found(4) that(5) when(6) looking(7) over(8) one(9) 's(10) shoulder(11) to(12) check(13) for(14) traffic(15) ,(16) that(17) this(18) car(19) is(20) designed(21) so_that(22) there(23) is(24) something(25) opaque(26) in(27) your(28) way(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			I(1) know(2) I(3) have(4) to(5) maneuver(6) around(7) to(8) be(9) able(10) to(11) see(12) through(13) the(14) window(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Upon(1) entering(2) this(3) car(4) ,(5) you(6) feel(7) that(8) it(9) sits(10) low(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			It(1) is(2) hard(3) to(4) get(5) in(6) and(7) out(8) of(9) because_of(10) this(11) not(12) to(13) mention(14) that(15) it(16) 's(17) tight(18) in(19) there(20) anyway(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			Also(1) ,(2) the(3) parking(4) break(5) is(6) manual(7) .(8) 
+		</sentence>
+		<sentence id="19">
+			This(1) screams(2) '(3) cheap(4) '(5) to(6) me(7) and(8) does(9) not(10) make(11) me(12) feel(13) very(14) safe(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Speaking(1) of(2) cheap(3) ,(4) the(5) interior(6) is(7) very(8) cheap(9) looking(10) whether(11) it(12) is(13) leather(14) or(15) not(16) .(17) 
+			<opinion polarity="-" feature="interior" featWords="6" opWords="9,10"/>
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) seen(3) both(4) and(5) they(6) both(7) look(8) like(9) the(10) best(11) materials(12) were(13) not(14) used(15) .(16) 
+			<opinion polarity="+" feature="material" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="22">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998(12) 
+		</sentence>
+	</text>
+</review>

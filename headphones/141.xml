@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="141" item="Koss R-80 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Finally(1) some(2) good(3) cans(4) and(5) a(6) great(7) price(8) 
+			<opinion polarity="+" feature="earcups" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Coiled(1) ,(2) 3-D(3) DSP(4) ,(5) comfortable(6) 
+			<opinion polarity="+" feature="cord" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cant(1) wear(2) for(3) long(4) periods(5) of(6) time(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) got(2) the(3) R-100(4) and(5) at(6) first(7) glance(8) were(9) blown(10) away(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) packaging(2) seemed(3) professional(4) and(5) the(6) cans(7) were(8) very(9) appealing(10) .(11) 
+			<opinion polarity="+" feature="packaging" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="earcups" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) model(2) I(3) received(4) had(5) two(6) cords(7) ,(8) both(9) with(10) coiled(11) wiring(12) .(13) 
+			<opinion polarity="+" feature="cord" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			One(1) coiled(2) wire(3) had(4) a(5) 3-d(6) DSP(7) on(8) it(9) that(10) was(11) very(12) neat(13) to(14) play(15) with(16) .(17) 
+			<opinion polarity="+" feature="cord" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) cord(3) did(4) not(5) have(6) the(7) DSP(8) so(9) you(10) had(11) an(12) option(13) on(14) what(15) to(16) use(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			EXCELLENT_IDEA(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			The(1) cans(2) are(3) closed(4) ear(5) and(6) the(7) padding(8) is(9) very(10) comfortable(11) .(12) 
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="earpads" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			The(1) sound(2) quality(3) is(4) clear(5) and(6) good(7) bass(8) drives(9) these(10) headphones(11) to(12) the(13) max(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5"/>
+			<opinion polarity="+" feature="bass" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			After(1) trying(2) the(3) Sennheiser(4) 490(5) 's(6) and(7) Koss(8) TD-80(9) 's(10) I(11) finally(12) found(13) a(14) pair(15) to(16) my(17) liking(18) at(19) around(20) 30_dollars(21) ((22) Check_Dealtime(23) .(24) com(25) and(26) jandr(27) .(28) com(29) for_good(30) deals(31) )(32) Excellent(33) for(34) the(35) price(36) !(37) !(38) !(39) 
+		</sentence>
+	</text>
+</review>

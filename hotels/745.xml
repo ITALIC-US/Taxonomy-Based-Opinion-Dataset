@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="745" item="Thirty Thirty Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Great_Price(1) for_Good(2) Nights_Sleep(3) in(4) NYC(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) ,(2) clean(3) ,(4) nice(5) bathrooms(6) ,(7) cable(8) TV(9) ,(10) views(11) of(12) Empire_State_Bldg(13) ,(14) near(15) subway(16) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="bathroom" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Florescent_Lighting(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) a(4) good(5) night(6) sleep(7) with(8) no(9) frills(10) at(11) a(12) no(13) frills(14) price(15) and(16) in(17) a(18) great(19) NYC(20) location(21) ,(22) this(23) is(24) the(25) place(26) .(27) 
+			<opinion polarity="+" feature="place" featWords="21" opWords="19"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stumbled(2) upon(3) Thirty(4) Thirty(5) hotel(6) ,(7) which(8) is(9) in(10) a(11) central(12) location(13) on(14) 30th(15) ,(16) between(17) Madison(18) and(19) Park_Avenues(20) .(21) 
+			<opinion polarity="+" feature="place" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) hotel(4) that(5) is(6) very(7) "(8) European-Travel(9) "(10) in(11) style(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Usually(1) it(2) is(3) filled(4) with(5) highschool(6) tour(7) groups(8) from(9) Europe(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Hotel(1) provides(2) comfortable(3) beds(4) with(5) clean(6) and(7) up-to-date(8) bathrooms(9) ((10) in(11) rooms(12) )(13) at(14) very(15) reasonable(16) prices(17) .(18) 
+			<opinion polarity="+" feature="bed" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="bathroom" featWords="9" opWords="6"/>
+			<opinion polarity="+" feature="bathroom" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="price" featWords="17" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="5">
+			From(1) time-to-time(2) ,(3) there(4) are(5) rooms(6) available(7) on(8) Hoteldiscounts(9) .(10) com(11) for(12) even(13) more(14) reasonable(15) prices(16) .(17) 
+			<opinion polarity="+" feature="price" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) are(3) lucky(4) enough(5) to(6) get(7) a(8) room(9) over(10) looking(11) 30th(12) you(13) will(14) also(15) have(16) views(17) of(18) the(19) Empire_State_Building(20) ,(21) which(22) is(23) only(24) a(25) few(26) blocks(27) away(28) !(29) !(30) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) also(3) located(4) two(5) blocks(6) from(7) the(8) 28th(9) Street(10) subway(11) station(12) ((13) No(14) .(15) 6(16) train(17) )(18) .(19) 
+		</sentence>
+	</text>
+</review>

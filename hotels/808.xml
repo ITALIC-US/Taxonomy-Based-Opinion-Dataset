@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="808" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Good_Services(1) at(2) Budget_Prices(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) maintenance(2) ,(3) fast(4) services(5) ,(6) well(7) furnished(8) rooms(9) 
+			<opinion polarity="+" feature="cleaning staff" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="service" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="7,8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) second(4) time(5) I(6) stayed(7) at(8) California_Suites_Hotel(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			And(1) I(2) must(3) say(4) that(5) the(6) services(7) and(8) the(9) hotel(10) staff(11) are(12) as(13) good(14) as(15) it(16) was(17) six(18) months(19) back(20) ,(21) when(22) I(23) first(24) visited(25) here(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			The(1) specialty(2) of(3) this(4) hotel(5) lies(6) in(7) its(8) fast(9) services(10) and(11) great(12) maintenance(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Rooms(1) do(2) not(3) have(4) that(5) WOW(6) factor(7) but(8) they(9) are(10) clean(11) and(12) well-furnished(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="11"/>
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="13"/>
+		</sentence>
+		<sentence id="5">
+			Free(1) breakfast(2) is(3) served(4) in_plenty(5) and(6) a(7) swim(8) in(9) the(10) large(11) warm(12) pool(13) is(14) just(15) what(16) you(17) need(18) to(19) wash(20) away(21) all(22) your(23) lethargy(24) .(25) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) are(3) on(4) a(5) budget(6) vacation(7) and(8) looking(9) for(10) a(11) good(12) friendly(13) hotel(14) ,(15) then(16) this(17) is(18) a(19) fine(20) place(21) to(22) stay(23) .(24) 
+			<opinion polarity="+" feature="hotel" featWords="14" opWords="12"/>
+			<opinion polarity="+" feature="hotel" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="place" featWords="21" opWords="20"/>
+		</sentence>
+	</text>
+</review>

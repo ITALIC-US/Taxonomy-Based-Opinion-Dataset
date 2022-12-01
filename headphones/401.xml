@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="401" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			These(1) are(2) great(3) headphones(4) ,(5) but(6) .(7) .(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pristine(1) sound(2) ,(3) ergonomic(4) design(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Demand(1) audiophile(2) signal(3) quality(4) and(5) amplification(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			To(1) make(2) the(3) Sennheiser_HD(4) 600(5) 's(6) a(7) worthwhile(8) purchase(9) ,(10) you(11) need(12) very(13) good(14) upstream(15) equipment(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Buying(1) these(2) to(3) plug(4) into(5) your(6) computer(7) ,(8) or(9) into(10) a(11) mass-market(12) CD(13) player(14) is(15) a_bit(16) like(17) mixing(18) 20-year(19) old(20) Scotch(21) into(22) a(23) Long_Island_Iced_Tea(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			For(1) one(2) thing(3) ,(4) these(5) require(6) a(7) fair(8) amount(9) of(10) current(11) to(12) drive(13) them(14) adequately(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			A(1) headphone(2) amplifier(3) ((4) I(5) use(6) the(7) Max_Headroom(8) )(9) is(10) pretty(11) much(12) a(13) necessity(14) for(15) optimal(16) sound(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) requirement(3) is(4) a(5) good(6) music(7) source(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Plugging(1) the(2) Sennheisers(3) into(4) your(5) MP3(6) player(7) will(8) make(9) it(10) painfully(11) obvious(12) that(13) MP3(14) is(15) not(16) an(17) audiophile(18) format(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			So(1) ,(2) if(3) you(4) 're(5) not(6) willing(7) to(8) provide(9) these(10) headphones(11) with(12) the(13) quality(14) of(15) input(16) signal(17) they(18) 're(19) designed(20) for(21) ,(22) all(23) you(24) have(25) is(26) a(27) large(28) ,(29) inefficient(30) ,(31) overpriced(32) accessory(33) ,(34) albeit(35) one(36) that(37) is(38) more(39) comfortable(40) than(41) most(42) other(43) headphones(44) .(45) 
+		</sentence>
+		<sentence id="8">
+			To(1) maximize(2) their(3) value(4) ,(5) they(6) basically(7) have(8) to(9) be(10) the(11) cheapest(12) link(13) in(14) the(15) audio(16) chain(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			One(1) minor(2) gripe(3) :(4) to(5) emphasize(6) their(7) status(8) as(9) a(10) luxury(11) item(12) ,(13) I(14) suppose(15) ,(16) these(17) come(18) in(19) a(20) silly(21) and(22) extravagant(23) jewelry(24) case(25) of(26) a(27) box(28) .(29) 
+			<opinion polarity="-" feature="case" featWords="25" opWords="21"/>
+			<opinion polarity="-" feature="case" featWords="25" opWords="23"/>
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) have(3) preferred(4) simpler(5) packaging(6) ,(7) with(8) maybe(9) a(10) spare(11) cable(12) or(13) something(14) useful(15) .(16) 
+		</sentence>
+	</text>
+</review>

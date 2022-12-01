@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="192" item="2002 Toyota Land Cruiser" rating="2">
+	<title>
+		<sentence id="1">
+			Awful_Service(1) !(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			AWD(1) ,(2) ABS(3) ,(4) Navigation(5) ,(6) leather(7) ,(8) luxury(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) ,(2) repairs(3) ,(4) worst(5) service(6) ever(7) !(8) 
+			<opinion polarity="-" feature="service" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Toyota(1) has(2) awful(3) service(4) but(5) a(6) great(7) car(8) if(9) it(10) does(11) not(12) have(13) problems(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="service" featWords="4" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			First(1) of(2) all(3) let(4) me(5) start(6) by(7) saying(8) that(9) my(10) Land_Cruiser(11) looks(12) nothing(13) like(14) the(15) one(16) showed(17) on(18) epinions(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			It(1) looks(2) like(3) the(4) 2003(5) but(6) it(7) is(8) a(9) 2002(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) Land_Cruiser(2) is(3) Toyota(4) 's(5) high(6) quality(7) SUV(8) and(9) runs(10) at(11) about(12) 57,000_dollars(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6,7"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) their(3) most(4) expensive(5) model(6) and(7) is(8) not(9) exactly(10) worth(11) that(12) much(13) either(14) .(15) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) my(3) Land_Cruiser(4) with(5) everything(6) including(7) the(8) navigation(9) system(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) thing(3) I(4) did(5) not(6) get(7) was(8) the(9) rear(10) seat(11) DVD(12) player(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) comes(3) standard(4) with(5) a(6) V8(7) engine(8) ,(9) leather(10) seats(11) ,(12) power(13) seats(14) ,(15) auto(16) down(17) /(18) up(19) all(20) windows(21) ,(22) remote(23) entry(24) ,(25) ABS(26) ,(27) rear(28) air(29) and(30) everything(31) that(32) comes(33) on(34) a(35) fully(36) loaded(37) luxury(38) car(39) .(40) 
+			<opinion polarity="+" feature="car" featWords="39" opWords="36,37"/>
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="8">
+			Mine(1) came(2) to(3) about(4) 60(5) grand(6) all(7) in_all(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			I(1) loved(2) this(3) car(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) the(3) best(4) thing(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			It(1) can(2) go(3) through(4) everything(5) and(6) is(7) an(8) awesome(9) SUV(10) for(11) anyone(12) who(13) wants(14) to(15) fork(16) over(17) 60(18) grand(19) for(20) a(21) Toyota(22) which(23) seems(24) a(25) little(26) crazy(27) !(28) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="12">
+			This(1) past(2) week(3) their(4) were(5) some(6) on(7) going(8) problems(9) with(10) my(11) Toyota(12) and(13) I(14) sent(15) it(16) to(17) the(18) Toyota(19) dealer(20) to(21) have(22) it(23) repaired(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			The(1) remote(2) needed(3) a(4) new(5) battery(6) ,(7) the(8) rear(9) lights(10) needed(11) a(12) new(13) bulb(14) ,(15) the(16) window(17) lagged(18) when(19) it(20) came(21) up(22) ,(23) and(24) finally(25) there(26) was(27) a(28) squeeking(29) noise(30) that(31) was(32) very(33) irritating(34) when(35) driving(36) .(37) 
+		</sentence>
+		<sentence id="14">
+			So(1) off(2) it(3) went(4) to(5) the(6) repair(7) shop(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			I(1) was(2) pondering(3) getting(4) a(5) new(6) Land_Cruiser(7) or(8) the(9) Lexus_GX(10) or(11) LX(12) but(13) needed(14) to(15) get(16) these(17) issues(18) fixed(19) so(20) I(21) could(22) get(23) somewhat(24) good(25) of(26) a(27) trade(28) in(29) value(30) for(31) it(32) .(33) 
+		</sentence>
+		<sentence id="16">
+			So(1) off(2) it(3) went(4) on(5) Wednesday(6) to(7) the(8) repair(9) shop(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			They(1) test(2) drove(3) it(4) and(5) said(6) that(7) they(8) did(9) not(10) hear(11) any(12) noise(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			Now(1) if(2) I(3) heard(4) it(5) for(6) the(7) pat(8) 2(9) months(10) is(11) it(12) likely(13) that(14) it(15) just(16) would(17) not(18) make(19) noise(20) when(21) they(22) drove(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			Pure(1) laziness(2) on(3) Toyota(4) 's(5) part(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			They(1) said(2) they(3) needed(4) 4(5) hours(6) to(7) look(8) at(9) the(10) lights(11) and(12) it(13) would(14) not(15) be(16) ready(17) that(18) day(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			Did(1) they(2) offer(3) to(4) rent(5) me(6) a(7) car(8) ?(9) ?(10) ?(11) 
+		</sentence>
+		<sentence id="22">
+			NO(1) !(2) !(3) !(4) 
+		</sentence>
+		<sentence id="23">
+			They(1) did(2) not(3) !(4) 
+		</sentence>
+		<sentence id="24">
+			What(1) really(2) angers(3) me(4) is(5) that(6) they(7) did(8) nothing(9) to(10) it(11) the(12) day(13) I(14) sent(15) it(16) in(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			I(1) was(2) ticked(3) off(4) .(5) 
+		</sentence>
+		<sentence id="26">
+			Today(1) ((2) Thursday(3) )(4) I(5) heard(6) nothing(7) from(8) them(9) at(10) all(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			So(1) I(2) called(3) at(4) about(5) 5:30(6) and(7) it(8) still(9) was(10) not(11) ready(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			I(1) was(2) really(3) mad(4) .(5) 
+		</sentence>
+		<sentence id="29">
+			All(1) in_all(2) Toyota(3) has(4) by(5) far(6) the(7) worst(8) customer(9) service(10) ever(11) .(12) 
+			<opinion polarity="-" feature="service" featWords="9,10" opWords="8"/>
+		</sentence>
+		<sentence id="30">
+			If(1) you(2) choose(3) to(4) buy(5) this(6) car(7) you(8) better(9) hope(10) that(11) nothing(12) goes(13) wrong(14) with(15) it(16) or(17) else(18) you(19) might(20) be(21) without(22) it(23) for(24) a(25) few(26) days(27) .(28) 
+		</sentence>
+		<sentence id="31">
+			I(1) can(2) not(3) wait(4) to(5) see(6) the(7) bill(8) for(9) these(10) repairs(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			The(1) whole(2) situation(3) is(4) awful(5) and(6) I(7) am(8) planning(9) on(10) writing(11) a(12) letter(13) to(14) Toyota(15) 's(16) customer(17) service(18) on(19) how(20) much(21) it(22) absolutely(23) sucks(24) !(25) 
+			<opinion polarity="-" feature="service" featWords="17,18" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="33">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 60,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Navigation(16) 
+		</sentence>
+	</text>
+</review>

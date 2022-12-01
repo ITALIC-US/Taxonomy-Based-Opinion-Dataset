@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="391" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			small(1) size(2) ,(3) huge(4) styles(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Much(1) more(2) smaller(3) .(4) .(5) much(6) more(7) compact(8) .(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			causes(1) much(2) more(3) wonderful(4) on(5) the(6) site(7) and(8) much(9) more(10) easier(11) to(12) the(13) eye(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			the(1) BMW(2) Z3(3) is(4) a(5) grateful(6) compact(7) automobile(8) for(9) youngs(10) ,(11) and(12) it(13) 's(14) the(15) first(16) and(17) the(18) latest(19) chosen(20) ,(21) because(22) it(23) 's(24) from(25) the(26) BMW(27) co.(28) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) BMW(2) automobiles(3) ,(4) one(5) of(6) the(7) most(8) titanic(9) companies(10) in(11) the(12) world(13) ,(14) did(15) not(16) satisfy(17) oneself(18) with(19) a(20) salon(21) ,(22) high(23) class(24) cars(25) ,(26) they(27) also(28) produced(29) a(30) revolution(31) in(32) the(33) compact(34) cars(35) making(36) ,(37) The(38) Z3(39) with(40) it(41) 's(42) shaped(43) brinks(44) and(45) its(46) compressed(47) body(48) ,(49) mixed(50) with(51) the(52) luxuriousness(53) of(54) its(55) inside(56) furniture(57) ,(58) combined(59) with(60) a(61) great(62) powerful(63) ,(64) economic(65) engine(66) ,(67) gave(68) the(69) Z3(70) a(71) high(72) standard(73) of(74) high(75) quality(76) making(77) .(78) 
+			<opinion polarity="+" feature="car" featWords="35" opWords="34"/>
+			<opinion polarity="+" feature="engine" featWords="66" opWords="65"/>
+			<opinion polarity="+" feature="horsepower" opWords="63"/>
+			<opinion polarity="+" feature="engine" featWords="66" opWords="62"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Z3(2) is(3) useful(4) ,(5) in(6) my(7) opinion(8) ,(9) for(10) only(11) the(12) teenagers(13) and(14) young(15) people(16) ,(17) cause(18) it(19) 's(20) a(21) sport(22) car(23) ,(24) not(25) for(26) businessmen(27) or(28) any(29) old(30) people(31) .(32) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			When(1) you(2) want(3) to(4) be(5) boastful(6) of(7) your(8) self(9) ,(10) try(11) to(12) ride(13) the(14) Z3(15) and(16) cross(17) the(18) streets(19) with(20) it(21) ,(22) you(23) 'll(24) see(25) all(26) the(27) nice(28) girls(29) looking(30) at(31) the(32) Z3(33) ,(34) NOT(35) on(36) you(37) ,(38) it(39) 's(40) really(41) wonderful(42) ,(43) such(44) that(45) you(46) can(47) ;(48) t(49) move(50) your(51) sight(52) from(53) it(54) until(55) it(56) gets(57) away(58) .(59) 
+			<opinion polarity="+" feature="car" opWords="42" potency="41"/>
+		</sentence>
+		<sentence id="4">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30.000.00(7) 
+		</sentence>
+	</text>
+</review>

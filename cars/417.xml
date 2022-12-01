@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="417" item="2001 Honda Accord" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) slight(2) disappointment(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Attractive(1) ,(2) uncluttered(3) interior(4) ,(5) decent(6) features(7) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) works(2) too(3) hard(4) to(5) accelerate(6) ,(7) bad(8) first(9) /(10) second(11) shifting(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Take(1) a(2) really(3) long(4) test(5) drive(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) 're(3) ok(4) with(5) the(6) power(7) train(8) and(9) wind(10) noise(11) ,(12) you(13) 'll(14) probably(15) like(16) the(17) car(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) owned(2) a(3) 1995(4) 4(5) cylinder(6) Accord_LX(7) and(8) wanted(9) to(10) step(11) up(12) to(13) something(14) a(15) little(16) more(17) plush(18) ,(19) so(20) I(21) purchased(22) a(23) 2001(24) EX(25) V6(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			After(1) reading(2) a_lot_of(3) good(4) press(5) ,(6) I(7) did(8) not(9) put(10) that(11) much(12) time(13) into(14) my(15) shopping(16) ,(17) having(18) been(19) very(20) satisfied(21) with(22) my(23) last(24) Honda(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="3">
+			First(1) ,(2) let(3) me(4) say(5) that(6) I(7) am(8) mostly(9) happy(10) with(11) my(12) car(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="4">
+			Honda(1) deserves(2) its(3) reputation(4) for(5) building(6) car(7) with(8) tasteful(9) asthetics(10) and(11) high(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			While(1) not(2) stunningly(3) attractive(4) ,(5) I(6) think(7) Hondas(8) look(9) good(10) over(11) time(12) ,(13) and(14) I(15) usually(16) keep(17) a(18) car(19) for(20) a(21) while(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) almost(3) 100(4) degrees(5) outside(6) when(7) I(8) was(9) test(10) drove(11) the(12) Accord(13) ,(14) and(15) it(16) was(17) just(18) not(19) possible(20) to(21) drive(22) without(23) the(24) A(25) /(26) C(27) for(28) more(29) than(30) a(31) couple(32) of(33) minutes(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			Unfortunately(1) ,(2) this(3) hid(4) the(5) fact(6) that(7) the(8) Accord(9) is(10) not(11) a(12) very(13) quiet(14) car(15) .(16) 
+			<opinion polarity="-" feature="car" featWords="15" opWords="11,14" potency="13"/>
+		</sentence>
+		<sentence id="8">
+			The(1) V6(2) makes(3) quite(4) a_bit(5) of(6) strained(7) noise(8) during(9) even(10) moderate(11) acceleration(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Perhaps(1) even(2) more(3) disappointing(4) is(5) the(6) amount(7) of(8) wind(9) noise(10) at(11) highway(12) speeds(13) ,(14) and(15) if(16) there(17) are(18) buffeting(19) side(20) winds(21) ,(22) get(23) ready(24) for(25) some(26) howling(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			The(1) whole(2) driving(3) experience(4) is(5) a(6) little(7) numb(8) compared(9) to(10) that(11) of(12) my(13) last(14) Accord(15) ,(16) and(17) the(18) V6(19) does(20) not(21) feel(22) much(23) more(24) powerful(25) than(26) the(27) old(28) 4(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			The(1) transmission(2) is(3) also(4) less(5) refined(6) than(7) I(8) expected(9) ,(10) with(11) terrible(12) management(13) of(14) the(15) 1st/2nd(16) gear(17) transition(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			At(1) times(2) the(3) first(4) gear(5) almost(6) seems(7) optional(8) ,(9) as(10) the(11) car(12) shifts(13) *(14) immediately(15) *(16) to(17) second(18) gear(19) under(20) light(21) acceleration(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Pressing(1) a(2) little(3) harder(4) forces(5) the(6) car(7) to(8) remain(9) in(10) first(11) gear(12) too(13) long(14) ,(15) and(16) I(17) sometimes(18) let(19) off(20) the(21) gas(22) a(23) little(24) just(25) to(26) get(27) it(28) to(29) shift(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			This(1) contributes(2) to(3) the(4) perception(5) of(6) a(7) noisy(8) engine(9) .(10) 
+			<opinion polarity="-" feature="engine" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="15">
+			Furthermore(1) ,(2) when(3) I(4) slow(5) to(6) around(7) 5(8) mph(9) to(10) take(11) a(12) turn(13) ,(14) or(15) when(16) a(17) red(18) light(19) turns(20) green(21) before(22) I(23) come(24) to(25) a(26) complete(27) stop(28) ,(29) the(30) transmission(31) usually(32) shifts(33) quite(34) roughly(35) as(36) I(37) resume(38) acceleration(39) .(40) 
+		</sentence>
+		<sentence id="16">
+			It(1) does(2) not(3) seem(4) to(5) know(6) which(7) gear(8) to(9) select(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			The(1) verdict(2) ?(3) 
+		</sentence>
+		<sentence id="18">
+			I(1) still(2) think(3) it(4) is(5) a(6) well(7) built(8) car(9) that(10) will(11) give(12) me(13) little(14) trouble(15) over(16) the(17) years(18) ,(19) but(20) I(21) guess(22) I(23) was(24) hoping(25) for(26) a(27) little(28) more(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,400(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX(16) V6(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

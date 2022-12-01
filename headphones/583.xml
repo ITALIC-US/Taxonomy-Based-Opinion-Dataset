@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="583" item="Panasonic RP-HC150 Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) Great_Buy_for_the_Price(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) comfort(3) ,(4) sound(5) quality(6) ,(7) compact(8) design(9) ,(10) noise(11) cancellation(12) .(13) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			In(1) that(2) order(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) using(4) my(5) RP-HC150(6) 's(7) for(8) a(9) couple(10) of(11) months(12) now(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) thing(3) that(4) attracted(5) me(6) to(7) these(8) headphones(9) was(10) the(11) price(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Also(1) ,(2) it(3) was(4) important(5) that(6) I(7) have(8) the(9) over-the-ear(10) design(11) and(12) the(13) noise(14) cancellation(15) feature(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			These(1) are(2) very(3) comfortable(4) to(5) wear(6) for(7) extended(8) periods(9) of(10) time(11) .(12) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) noise(2) cancellation(3) feature(4) is(5) nice(6) ,(7) but(8) really(9) only(10) on(11) an(12) airplane(13) where(14) there(15) is(16) that(17) constant(18) low-end(19) drone(20) of(21) the(22) engines(23) .(24) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			These(1) do(2) a(3) nice(4) job(5) of(6) blocking(7) out(8) the(9) engine(10) noise(11) ,(12) not(13) so(14) much(15) other(16) people(17) 's(18) voices(19) on(20) the(21) plane(22) ,(23) however(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) frequency(2) range(3) is(4) pretty(5) good(6) .(7) 
+			<opinion polarity="+" feature="frequency response" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) hear(3) all(4) the(5) lows(6) and(7) all(8) the(9) highs(10) you(11) need(12) to(13) hear(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			I(1) also(2) use(3) these(4) to(5) plug(6) into(7) my(8) guitar(9) amplifier(10) for(11) late(12) night(13) jamming(14) ,(15) and(16) they(17) sound(18) great(19) .(20) 
+			<opinion polarity="+" feature="sound quality" opWords="18,19"/>
+		</sentence>
+		<sentence id="10">
+			Another(1) plus(2) is(3) they(4) fold(5) up(6) nicely(7) so(8) you(9) can(10) shove(11) them(12) into(13) a(14) coat(15) pocket(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			The(1) RP-HC150(2) 's(3) do(4) not(5) offer(6) the(7) richness(8) of(9) sound(10) that(11) you(12) would(13) get(14) in(15) a(16) more(17) expensive(18) model(19) ,(20) but(21) I(22) think(23) these(24) sound(25) better(26) than(27) they(28) are(29) priced(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			I(1) will(2) use(3) these(4) until(5) they(6) quit(7) on(8) me(9) and(10) will(11) not(12) look(13) for(14) another(15) headphone(16) until(17) then(18) .(19) 
+		</sentence>
+	</text>
+</review>

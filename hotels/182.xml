@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="182" item="Hudson" rating="3">
+	<title>
+		<sentence id="1">
+			So(1) much(2) style(3) ,(4) so(5) little(6) substance(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Super-trendy(1) lobby(2) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) much(2) else(3) :(4) small(5) ,(6) inconvenient(7) rooms(8) with(9) bad(10) service(11) 
+			<opinion polarity="-" feature="rooms" featWords="8" opWords="5"/>
+			<opinion polarity="-" feature="rooms" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="service" featWords="11" opWords="10"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) get(4) a(5) cheap(6) room(7) and(8) are(9) staying(10) alone(11) ,(12) why(13) not(14) ?(15) 
+			<opinion polarity="+" feature="rooms" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Otherwise(1) ,(2) take(3) your(4) business(5) elsewhere(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) 's(2) easy(3) to(4) expect(5) very(6) little(7) from(8) a(9) Manhattan(10) hotel(11) room(12) :(13) a(14) little(15) space(16) ,(17) a(18) clean(19) bathroom(20) ,(21) and(22) service(23) that(24) does(25) not(26) make(27) you(28) want(29) to(30) run(31) and(32) hide(33) .(34) 
+			<opinion polarity="+" feature="bathroom" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			Still(1) ,(2) Hudson(3) delivers(4) on(5) none(6) of(7) those(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) stylish(3) ,(4) sure(5) ,(6) but(7) style(8) only(9) goes(10) so(11) far(12) :(13) sooner_or_later(14) you(15) need(16) to(17) go(18) to(19) sleep(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Decor_Another(1) amazing(2) Philippe_Starck(3) lobby(4) --(5) the(6) ceiling(7) alone(8) is(9) worth(10) a(11) visit(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Ignore(1) the(2) functionality(3) ,(4) the(5) front-desk(6) is(7) an(8) amazing(9) piece(10) of(11) art.(12) And(13) then(14) there(15) 's(16) the(17) color(18) scheme(19) :(20) gorgeous(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) minimalist(3) and(4) trendy(5) ,(6) and(7) just(8) plain(9) exciting(10) to(11) be(12) there(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) lighting(2) evokes(3) more(4) of(5) a(6) sense(7) of(8) a(9) club(10) than(11) a(12) hotel(13) ,(14) and(15) there(16) 's(17) no(18) argument(19) that(20) it(21) does(22) not(23) work(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			The(1) theme(2) continues(3) up(4) to(5) the(6) rooms(7) :(8) cold(9) steel(10) ,(11) tight(12) lines(13) ,(14) and(15) the(16) questionable(17) wisdom(18) of(19) a(20) shower(21) that(22) opens(23) to(24) the(25) bedroom(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			Eek(1) !(2) 
+		</sentence>
+		<sentence id="10">
+			Amenities_Here(1) 's(2) where(3) things(4) come(5) off(6) the(7) rails(8) :(9) the(10) rooms(11) are(12) tiny(13) ,(14) with(15) barely(16) enough(17) room(18) to(19) maneuver(20) around(21) a(22) queen-sized(23) bed(24) .(25) 
+			<opinion polarity="-" feature="rooms" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="11">
+			No(1) real(2) storage(3) is(4) available(5) ,(6) although(7) there(8) 's(9) a(10) mini(11) stereo(12) and(13) mini-TV(14) ,(15) as_well(16) as(17) very(18) pricy(19) internet(20) access(21) .(22) 
+			<opinion polarity="-" feature="price" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="12">
+			And(1) ,(2) of(3) course(4) ,(5) that(6) exhibitionist(7) shower(8) does(9) provide(10) a(11) useful(12) amenity(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Still(1) ,(2) if(3) you(4) 're(5) not(6) staying(7) alone(8) ,(9) it(10) 's(11) just(12) plain(13) too(14) tight(15) for(16) anything(17) but(18) enforced(19) intimacy(20) ,(21) and(22) in(23) this(24) case(25) ,(26) it(27) just(28) is(29) not(30) sexy(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			Service_Most(1) of(2) the(3) staff(4) look(5) like(6) escaped(7) models(8) ,(9) and(10) while(11) I(12) know(13) they(14) 're(15) a_lot(16) cooler(17) than(18) me(19) ,(20) I(21) do(22) not(23) need(24) to(25) be(26) reminded(27) of(28) that(29) with(30) attitude(31) at(32) every(33) turn(34) .(35) 
+		</sentence>
+		<sentence id="15">
+			Yes(1) ,(2) I(3) 'm(4) a(5) dowdy(6) traveler(7) from(8) a(9) less(10) exciting(11) place(12) than(13) Manhattan(14) ,(15) but(16) would(17) it(18) kill(19) them(20) to(21) smile(22) and(23) show(24) a_bit(25) of(26) human(27) emotion(28) when(29) talking(30) with(31) me(32) ?(33) 
+		</sentence>
+		<sentence id="16">
+			And(1) ,(2) dealing(3) with(4) any(5) issue(6) ((7) room(8) ,(9) late(10) check-out(11) ,(12) directions(13) )(14) gets(15) a(16) tight-lipped(17) and(18) minimally(19) helpful(20) suggestion(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Even(1) the(2) doormen(3) ,(4) usually(5) a(6) good(7) fit(8) ,(9) were(10) hard(11) to(12) coax(13) information(14) out(15) of(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Dining_Really(1) ?(2) 
+		</sentence>
+		<sentence id="19">
+			You(1) 're(2) going(3) to(4) eat(5) at(6) a(7) place(8) called(9) the(10) Hudson_Cafeteria(11) when(12) you(13) 're(14) in(15) Manhattan(16) ?(17) 
+		</sentence>
+		<sentence id="20">
+			Please(1) do(2) not(3) do(4) that(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			Leave(1) the(2) hotel(3) .(4) 
+		</sentence>
+		<sentence id="22">
+			Eat(1) somewhere(2) good(3) .(4) 
+		</sentence>
+		<sentence id="23">
+			Heck(1) ,(2) it(3) 'll(4) probably(5) even(6) be(7) cheaper(8) .(9) 
+		</sentence>
+	</text>
+</review>

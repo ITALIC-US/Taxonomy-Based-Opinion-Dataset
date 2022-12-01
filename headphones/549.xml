@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="549" item="Etymotic Research Isolator�?� ER-6i Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) but(4) questionable(5) build(6) -(7) Buy(8) the(9) black(10) ones(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Outstanding(1) sound(2) isolation(3) ,(4) good(5) sound(6) .(7) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Delicate(1) ,(2) easily(3) damaged(4) .(5) 
+			<opinion polarity="-" feature="durability" opWords="1"/>
+			<opinion polarity="-" feature="durability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			Also(1) ,(2) the(3) bass(4) seems(5) a(6) little(7) light(8) to(9) my(10) untrained(11) ears(12) .(13) 
+			<opinion polarity="-" feature="bass" featWords="4" opWords="8" potency="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) earphones(2) with(3) a(4) weak(5) cord(6) .(7) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="cord" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Try(1) the(2) black(3) ones(4) as(5) their(6) cord(7) looks(8) stronger(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) love(2) the(3) sound(4) on(5) these(6) and(7) the(8) sound(9) isolation(10) is(11) the(12) best(13) I(14) 've(15) tried(16) ,(17) but(18) I(19) have(20) had(21) problems(22) with(23) durability(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) not(3) baby(4) my(5) stuff(6) ,(7) but(8) I(9) do(10) not(11) abuse(12) it(13) either(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Several(1) month(2) after(3) I(4) got(5) these(6) I(7) started(8) getting(9) intermittent(10) sound(11) on(12) one(13) side(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) wires(2) inside(3) the(4) cord(5) were(6) broken(7) where(8) the(9) cord(10) meets(11) the(12) plug(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			At(1) this(2) point(3) I(4) noticed(5) that(6) the(7) stress(8) relief(9) ((10) flexible(11) end(12) of(13) the(14) plug(15) on(16) any(17) earphones(18) )(19) was(20) a_lot(21) less(22) flexible(23) than(24) most(25) other(26) earphones(27) I(28) have(29) and(30) that(31) the(32) cord(33) is(34) thinner(35) than(36) most(37) .(38) 
+		</sentence>
+		<sentence id="6">
+			These(1) facts(2) combine(3) to(4) make(5) the(6) cord(7) tend(8) to(9) bend(10) sharply(11) where(12) it(13) meets(14) the(15) plug(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) got(2) the(3) earphones(4) replaced(5) under(6) warranty(7) and(8) was(9) then(10) much(11) more(12) careful(13) with(14) them(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Still(1) ,(2) several(3) months(4) later(5) -(6) and(7) after(8) the(9) warranty(10) expired(11) -(12) I(13) got(14) the(15) exact(16) same(17) problem(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			I(1) sent(2) an(3) e-mail(4) about(5) this(6) asking(7) how(8) much(9) they(10) 'd(11) cost(12) to(13) repair(14) and(15) was(16) told(17) that(18) if(19) I(20) sent(21) my(22) phones(23) back(24) in(25) ,(26) they(27) 'd(28) send(29) me(30) a(31) new(32) pair(33) for(34) $79(35) ((36) close(37) to(38) what(39) they(40) cost(41) new(42) )(43) .(44) 
+		</sentence>
+		<sentence id="10">
+			The(1) response(2) also(3) pointed(4) out(5) that(6) the(7) black(8) version(9) has(10) a(11) right(12) angle(13) plug(14) ,(15) which(16) tends(17) to(18) reduce(19) some(20) of(21) the(22) tendency(23) for(24) the(25) plug(26) to(27) be(28) damaged(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) looking(3) at(4) the(5) picture(6) here(7) ,(8) it(9) looks(10) like(11) the(12) stress(13) relief(14) on(15) the(16) black(17) ones(18) may(19) be(20) longer(21) ,(22) and(23) hopefully(24) more(25) flexible(26) ,(27) than(28) the(29) stress(30) relief(31) on(32) the(33) white(34) ones(35) .(36) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="877" item="Renaissance London Chancery Court Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) Great_Hotel(2) in(3) the(4) Heart_of_London(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) nice(2) hotel(3) for(4) the(5) price(6) ,(7) modern(8) amenities(9) ,(10) Tube(11) station(12) a(13) block(14) away(15) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="amenities" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Breakfast(1) and(2) other(3) extras(4) are(5) expensive(6) ,(7) rooms(8) are(9) a_bit(10) corporate(11) 
+			<opinion polarity="-" feature="price" opWords="6"/>
+			<opinion polarity="-" feature="rooms" featWords="8" opWords="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Brand(1) new(2) hotel(3) with(4) modern(5) amenities(6) ,(7) a(8) nice(9) staff(10) ,(11) and(12) easy(13) access(14) to(15) the(16) entire(17) city(18) less(19) than(20) a(21) bock(22) away(23) at(24) the(25) Holborn_Tube(26) station(27) .(28) 
+			<opinion polarity="+" feature="staff" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="1,2"/>
+			<opinion polarity="+" feature="amenities" featWords="6" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) was(3) such(4) a(5) great(6) find(7) that(8) I(9) almost(10) hate(11) to(12) let(13) the(14) rest(15) of(16) the(17) world(18) know(19) about(20) it(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) located(3) in(4) a(5) wonderful(6) old(7) building(8) that(9) once(10) housed(11) an(12) insurance(13) agency(14) .(15) 
+			<opinion polarity="+" feature="building" featWords="8" opWords="6"/>
+			<opinion polarity="-" feature="building" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			You(1) enter(2) off(3) a(4) busy(5) street(6) into(7) a(8) lovely(9) courtyard(10) that(11) is(12) apparently(13) regularly(14) used(15) in(16) period(17) movies(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Marriott(1) retained(2) the(3) charm(4) of(5) the(6) old(7) building(8) outside(9) and(10) in(11) details(12) like(13) a(14) lovely(15) marble(16) staircase(17) ((18) a(19) little(20) hidden(21) )(22) .(23) 
+			<opinion polarity="-" feature="building" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) the(3) rest(4) of(5) the(6) interior(7) has(8) been(9) completely(10) modernized(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			You(1) will(2) not(3) find(4) old(5) European(6) style(7) hotel(8) rooms(9) that(10) have(11) undergone(12) a(13) hodge(14) podge(15) of(16) updates(17) over(18) the(19) years(20) here(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			These(1) rooms(2) are(3) huge(4) by(5) London(6) standards(7) with(8) big(9) king(10) size(11) beds(12) ,(13) lots(14) of(15) pillows(16) ,(17) fluffy(18) robes(19) ,(20) brand(21) new(22) big(23) marble(24) bathrooms(25) with(26) tubs(27) and(28) showers(29) ,(30) hairdryers(31) ,(32) a(33) tea(34) kettle(35) ,(36) turn(37) down(38) service(39) and(40) lots(41) of(42) very(43) hot(44) water(45) .(46) 
+			<opinion polarity="+" feature="bathroom" featWords="25" opWords="21,22"/>
+			<opinion polarity="+" feature="bathroom" featWords="25" opWords="23"/>
+			<opinion polarity="+" feature="bed" featWords="12" opWords="9"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) disappointment(3) in(4) the(5) room(6) was(7) a(8) completely(9) unusable(10) ((11) and(12) expensive(13) )(14) internet(15) service(16) provided(17) through(18) the(19) television(20) .(21) 
+			<opinion polarity="-" feature="price" opWords="13"/>
+			<opinion polarity="-" feature="internet" featWords="15" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="9">
+			Instead(1) we(2) ended(3) up(4) using(5) the(6) internet(7) in(8) the(9) business(10) center(11) which(12) was(13) great(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			You(1) purchase(2) a(3) card(4) for(5) 15(6) minute(7) increments(8) ,(9) and(10) we(11) never(12) had(13) to(14) wait(15) to(16) use(17) a(18) computer(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) a(3) little(4) concerned(5) about(6) the(7) location(8) in(9) looking(10) at(11) where(12) the(13) hotel(14) was(15) on(16) a(17) map(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			But(1) it(2) turned(3) out(4) to(5) be(6) great(7) as_well(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			The(1) Holborn(2) tube(3) station(4) is(5) a_half(6) block(7) away(8) and(9) connected(10) us(11) to(12) everywhere(13) we(14) wanted(15) to(16) go(17) in(18) one(19) or(20) two(21) tube(22) stops(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			After(1) the(2) theater(3) each(4) evening(5) when(6) it(7) is(8) impossible(9) to(10) get(11) a(12) taxi(13) ,(14) we(15) could(16) easily(17) walk(18) back(19) to(20) the(21) hotel(22) from(23) the(24) Covent_Garden(25) area(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			The(1) British_Museum(2) was(3) also(4) an(5) easy(6) 10(7) minute(8) walk(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) a(3) Starbucks(4) across(5) the(6) street(7) and(8) several(9) restaurants(10) and(11) pubs(12) within(13) walking(14) distance(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			However(1) ,(2) this(3) area(4) does(5) shut(6) down(7) early(8) and(9) is(10) quiet(11) on(12) weekends(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			The(1) friends(2) we(3) were(4) traveling(5) with(6) used(7) the(8) gym(9) and(10) were(11) quite(12) happy(13) with(14) its(15) offerings(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			Afternoon(1) tea(2) is(3) served(4) in(5) a(6) lovely(7) room(8) off(9) the(10) lobby(11) and(12) there(13) is(14) a(15) great(16) bar(17) which(18) was(19) always(20) busy(21) while(22) we(23) were(24) there(25) .(26) 
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="food" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="20">
+			Breakfast(1) was(2) the(3) only(4) meal(5) we(6) had(7) at(8) the(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			There(1) is(2) an(3) extensive(4) breakfast(5) buffet(6) each(7) morning(8) off(9) the(10) lobby(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			I(1) would(2) recommend(3) trying(4) to(5) find(6) a(7) room(8) rate(9) with(10) this(11) included(12) because(13) it(14) is(15) extremely(16) expensive(17) .(18) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="-" feature="price" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="23">
+			We(1) thought(2) we(3) would(4) have(5) a(6) simple(7) breakfast(8) instead(9) one(10) morning(11) and(12) tried(13) to(14) order(15) off(16) the(17) breakfast(18) menu(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			Avoid(1) this(2) at(3) all(4) costs(5) .(6) 
+		</sentence>
+		<sentence id="25">
+			Apparently(1) all(2) food(3) is(4) prepared(5) at(6) the(7) restaurant(8) located(9) on(10) the(11) other(12) side(13) of(14) the(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			Toast(1) and(2) cereal(3) took(4) at_least(5) an(6) hour(7) and(8) the(9) wait(10) staff(11) was(12) completely(13) unprepared(14) to(15) deal(16) with(17) guests(18) that(19) were(20) not(21) eating(22) the(23) buffet(24) .(25) 
+		</sentence>
+		<sentence id="27">
+			Eggs(1) benedict(2) and(3) french(4) toast(5) the(6) next(7) morning(8) from(9) room(10) service(11) was(12) much(13) faster(14) and(15) less(16) expensive(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			Overall_I(1) thought(2) this(3) was(4) a(5) tremendous(6) hotel(7) for(8) the(9) price(10) .(11) 
+			<opinion polarity="+" feature="hotel" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="29">
+			There(1) was(2) great(3) attention(4) to(5) detail(6) ,(7) an(8) incredibly(9) helpful(10) staff(11) ,(12) and(13) all(14) the(15) modern(16) amenities(17) .(18) 
+			<opinion polarity="+" feature="amenities" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="staff" featWords="11" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="30">
+			We(1) paid(2) a(3) weekend(4) rate(5) of(6) about(7) 150(8) to(9) 170(10) GBP(11) but(12) the(13) price(14) almost(15) doubled(16) for(17) week(18) nights(19) .(20) 
+		</sentence>
+	</text>
+</review>

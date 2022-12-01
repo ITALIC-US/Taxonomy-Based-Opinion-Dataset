@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="97" item="Red Lion Inn & Suites Portland Airport" rating="2">
+	<title>
+		<sentence id="1">
+			Close(1) to(2) the(3) airport(4) AND(5) a(6) noisy(7) Railroad(8) ...(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Free(1) parking(2) ,(3) breakfast(4) ,(5) close(6) to(7) airport(8) 
+			<opinion polarity="+" feature="parking" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wireless(1) service(2) barely(3) works(4) ,(5) close(6) to(7) a(8) railroad(9) track(10) .(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) really(2) can(3) not(4) recommend(5) this(6) hotel(7) unless(8) you(9) can(10) not(11) get(12) a(13) room(14) anywhere(15) else(16) .(17) 
+			<opinion polarity="-" feature="hotel" featWords="7" opWords="4,5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) would(2) have(3) given(4) it(5) 3(6) stars(7) if(8) it(9) were(10) not(11) for(12) the(13) train(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) one(3) of(4) the(5) 3(6) hotel(7) reviews(8) that(9) I(10) will(11) be(12) doing(13) .(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) one(3) is(4) for(5) the(6) Red_Lion_Inn_&_Suites(7) in(8) Portland(9) off(10) of(11) Sandy_Blvd(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			We(1) recently(2) went(3) to(4) Hawaii(5) and(6) because(7) our(8) flight(9) out(10) of(11) Portland(12) was(13) at(14) 7:30(15) am(16) and(17) it(18) would(19) take(20) us(21) about(22) 2.5(23) hours(24) to(25) drive(26) there(27) so(28) we(29) decided(30) to(31) get(32) a(33) hotel(34) by(35) the(36) airport(37) the(38) day(39) before(40) and(41) do(42) some(43) shopping(44) while(45) we(46) hung(47) out(48) .(49) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) stayed(3) a(4) couple(5) hotels(6) in(7) by(8) airport(9) but(10) I(11) could(12) not(13) get(14) those(15) same(16) deals(17) on(18) Hotels(19) .(20) com(21) as(22) before(23) so(24) I(25) decided(26) to(27) priceline(28) a(29) hotel(30) this(31) time(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			I(1) managed(2) to(3) get(4) us(5) a(6) room(7) for(8) $44.00(9) including(10) taxes(11) and(12) fees(13) which(14) was(15) pretty(16) good(17) since(18) most(19) hotels(20) in(21) the(22) area(23) ((24) including(25) this(26) one(27) )(28) were(29) starting(30) at(31) $69.00(32) a(33) night(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			This(1) Red_Lion_Inn_&_Suites(2) is(3) about(4) 3_miles(5) from(6) the(7) airport(8) and(9) offers(10) 24(11) hour(12) complimentary(13) airport(14) shuttle(15) service(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			This(1) hotel(2) consists(3) of(4) 3(5) stories(6) and(7) 65(8) rooms(9) with(10) King(11) or(12) 2(13) Queen_Bed(14) along_with(15) a(16) smoking(17) or(18) non-smoking(19) option(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Amenities(1) for(2) the(3) rooms(4) include(5) ~(6) ~(7) Refrigerator(8) ~(9) ~(10) Microwave(11) ~(12) ~(13) Coffeemaker(14) ~(15) ~(16) Cable_TV(17) w(18) /(19) a(20) premium(21) channel(22) ~(23) ~(24) Wireless_Internet(25) ((26) This(27) is(28) a(29) big(30) Joke(31) !(32) )(33) The(34) hotel(35) has(36) a(37) heated(38) indoor(39) pool(40) and(41) spa(42) with(43) fitness(44) room(45) and(46) also(47) provides(48) free(49) parking(50) .(51) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) complimentary(4) continental(5) breakfast(6) from(7) 6am(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			I(1) also(2) read(3) they(4) have(5) a(6) business(7) center(8) but(9) in(10) actuality(11) it(12) is(13) a(14) desk(15) with(16) a(17) computer(18) and(19) printer(20) on(21) it(22) .(23) .(24) at_least(25) it(26) is(27) free(28) to(29) use(30) and(31) that(32) includes(33) free(34) printing(35) also(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			They(1) also(2) offer(3) a(4) park(5) and(6) fly(7) package(8) that(9) includes(10) 14(11) days(12) of(13) parking(14) for(15) $89.99(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Our(1) Stay_Check(2) in(3) time(4) is(5) 2pm(6) but(7) we(8) called(9) and(10) verified(11) we(12) could(13) do(14) in(15) early(16) check(17) in(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			We(1) found(2) the(3) location(4) a(5) little(6) on(7) the(8) seedy(9) side(10) of(11) town(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Now(1) ,(2) we(3) aren(4) t(5) very(6) familiar(7) with(8) this(9) area(10) but(11) just(12) from(13) the(14) looks(15) it(16) isn(17) t(18) a(19) place(20) I(21) would(22) choose(23) to(24) buy(25) a(26) house(27) or(28) even(29) feel(30) safe(31) leaving(32) my(33) car(34) here(35) while(36) I(37) am(38) on(39) vacation(40) somewhere(41) .(42) 
+		</sentence>
+		<sentence id="15">
+			After(1) seeing(2) the(3) area(4) this(5) hotel(6) was(7) in(8) ,(9) I(10) wasn(11) t(12) expecting(13) much(14) out(15) of(16) room(17) and(18) I(19) was(20) really(21) happy(22) to(23) see(24) a(25) very(26) nice(27) and(28) clean(29) hotel(30) room(31) .(32) 
+			<opinion polarity="+" feature="rooms" featWords="31" opWords="27" potency="26"/>
+			<opinion polarity="+" feature="rooms" featWords="31" opWords="29"/>
+		</sentence>
+		<sentence id="16">
+			We(1) got(2) tucked(3) away(4) in(5) a(6) corner(7) behind(8) the(9) office(10) that(11) didn(12) t(13) have(14) any(15) rooms(16) next(17) to(18) us(19) so_that(20) was(21) a(22) plus(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			Shortly(1) after(2) settling(3) in(4) I(5) wanted(6) to(7) connect(8) to(9) the(10) Internet(11) with(12) their(13) free(14) wireless(15) service(16) but(17) was(18) having(19) trouble(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			The(1) front(2) desk(3) gave(4) me(5) an(6) 800(7) number(8) to(9) call(10) and(11) the(12) tech(13) guy(14) pretty(15) much(16) said(17) it(18) was(19) my(20) laptop(21) .(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			NOT(1) .(2) .(3) 
+		</sentence>
+		<sentence id="20">
+			Well(1) it(2) seems(3) certain(4) areas(5) in(6) the(7) room(8) can(9) t(10) get(11) service(12) and(13) when(14) I(15) did(16) get(17) it(18) was(19) very(20) ,(21) very(22) bad(23) so(24) I(25) chalked(26) it(27) up(28) to(29) our(30) room(31) location(32) and(33) found(34) out(35) that(36) wasn(37) t(38) it(39) .(40) 
+		</sentence>
+		<sentence id="21">
+			I(1) had(2) to(3) print(4) up(5) our(6) boarding(7) passes(8) so(9) I(10) used(11) their(12) siness(13) Center(14) and(15) could(16) barely(17) connect(18) to(19) the(20) internet(21) from(22) there(23) .(24) .(25) turns(26) out(27) the(28) service(29) just(30) sucks(31) all(32) around(33) .(34) 
+		</sentence>
+		<sentence id="22">
+			As(1) the(2) darkness(3) rolled(4) in(5) ,(6) I(7) noticed(8) or(9) blackout(10) curtains(11) didn(12) t(13) really(14) blackout(15) much(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			They(1) had(2) holes(3) in(4) them(5) so(6) the(7) light(8) shined(9) right(10) on(11) in(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			The(1) beds(2) were(3) pretty(4) comfortable(5) and(6) they(7) provided(8) an(9) extra(10) pillow(11) in(12) the(13) dresser(14) .(15) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="25">
+			Other(1) then(2) the(3) lousy(4) internet(5) service(6) I(7) was(8) happy(9) with(10) the(11) hotel(12) until(13) about(14) 2am(15) when(16) I(17) heard(18) a(19) whistle(20) blowing(21) .(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			It(1) was(2) a(3) train(4) .(5) .(6) and(7) then(8) another(9) one(10) about(11) 3am(12) .(13) .(14) so(15) basically(16) I(17) got(18) no(19) sleep(20) that(21) night(22) but(23) for(24) $44.00(25) a(26) night(27) ,(28) I(29) guess(30) I(31) got(32) what(33) I(34) paid(35) for(36) .(37) 
+		</sentence>
+		<sentence id="27">
+			All(1) in_all(2) it(3) wasn(4) t(5) a(6) completely(7) bad(8) stay(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			The(1) staff(2) was(3) super(4) friendly(5) and(6) the(7) breakfast(8) as(9) pretty(10) good(11) .(12) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="food" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="29">
+			A(1) warning(2) to(3) all(4) light(5) sleepers(6) .(7) .(8) this(9) is(10) not(11) the(12) hotel(13) for(14) you(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			A(1) quick(2) note(3) on(4) the(5) park(6) and(7) fly(8) .(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			They(1) do(2) not(3) have(4) a(5) fenced(6) lot(7) but(8) the(9) manager(10) told(11) me(12) they(13) do(14) have(15) a(16) security(17) guard(18) that(19) walks(20) it(21) every(22) hours(23) and(24) that(25) Portland_Police(26) do(27) drive(28) in(29) from(30) time(31) to(32) time(33) .(34) 
+		</sentence>
+	</text>
+</review>

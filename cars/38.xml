@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="38" item="1997 Honda Odyssey" rating="5">
+	<title>
+		<sentence id="1">
+			Still(1) in(2) Love(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Versatile(1) seating(2) and(3) great(4) to(5) drive(6) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			what(1) 's(2) not(3) to(4) like(5) ?(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) were(2) already(3) sold(4) on(5) Honda(6) 's(7) quality(8) ,(9) so(10) when(11) it(12) came(13) time(14) for(15) a(16) mini-van(17) we(18) were(19) pretty(20) sure(21) of(22) what(23) we(24) would(25) wind(26) up(27) with(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			Still_I(1) had(2) to(3) check(4) out(5) the(6) competition(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Nothing(1) could(2) compare(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			In(1) fact(2) ,(3) I(4) was(5) surprised(6) that(7) the(8) Dodge(9) rattled(10) so(11) much(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Since(1) we(2) have(3) had(4) our(5) van(6) 3(7) years(8) now(9) ,(10) the(11) only(12) thing(13) that(14) will(15) do(16) is(17) a(18) new(19) one(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) fold(2) down(3) rear(4) seat(5) is(6) remarkable(7) ,(8) and(9) the(10) removable(11) middle(12) seats(13) are(14) so(15) easy(16) that(17) a(18) child(19) can(20) take(21) them(22) out(23) .(24) 
+			<opinion polarity="+" feature="seat" featWords="12,13" opWords="16" potency="15"/>
+			<opinion polarity="+" feature="seat" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			Recently(1) we(2) put(3) 3(4) adults(5) and(6) 2(7) children(8) ,(9) one(10) of(11) which(12) was(13) a(14) toddler(15) in(16) our(17) van(18) for(19) a(20) six(21) hour(22) trip(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			We(1) pulled(2) one(3) of(4) the(5) middle(6) seats(7) out(8) for(9) additional(10) space(11) ,(12) and(13) still(14) had(15) plenty_of(16) seating(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) rear(2) storage(3) was(4) generous(5) enough(6) to(7) allow(8) all(9) of(10) our(11) luggage(12) even(13) with(14) the(15) back(16) bench(17) up(18) ,(19) and(20) the(21) ride(22) was(23) as(24) smooth(25) as(26) a(27) luxury(28) sedan(29) .(30) 
+			<opinion polarity="+" feature="trunk space" featWords="3" opWords="5,6"/>
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) replacement(3) for(4) this(5) van(6) will(7) be(8) a(9) new(10) model(11) ,(12) but(13) I(14) hate(15) to(16) trade(17) this(18) one(19) in(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) never(3) been(4) in(5) the(6) shop(7) ,(8) it(9) gets(10) great(11) mileage(12) ,(13) and(14) is(15) versatile(16) and(17) friendly(18) to(19) drive(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="18"/>
+			<opinion polarity="+" feature="car" opWords="16"/>
+			<opinion polarity="+" feature="gas" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="12">
+			I(1) 'm(2) still(3) in(4) love(5) with(6) this(7) van(8) .(9) 
+			<opinion polarity="+" feature="van" featWords="8" opWords="4,5,6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="475" item="Koss PRO-4AAT Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			best(1) affordable(2) headphones(3) available(4) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) frequency(2) range(3) ,(4) powerful(5) ,(6) clear(7) sounding(8) 
+			<opinion polarity="+" feature="frequency response" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="volume" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" opWords="7,8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			heavy(1) but(2) expected(3) 
+			<opinion polarity="-" feature="weight" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) set(2) of(3) headphones(4) are(5) the(6) best(7) headphones(8) you(9) could(10) buy(11) without(12) spending(13) a(14) fortune(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) great(3) bass(4) and(5) treble(6) response(7) ...(8) basically(9) the(10) full(11) range(12) of(13) hearing(14) with(15) clear(16) crisp(17) sound(18) .(19) 
+			<opinion polarity="+" feature="bass" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="highs" featWords="6" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" featWords="18" opWords="16"/>
+			<opinion polarity="+" feature="sound quality" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			With(1) these(2) ,(3) you(4) hurt(5) before(6) the(7) sound(8) even(9) distorts(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Unlike(1) those(2) $10(3) "(4) wannabe(5) "(6) headphones(7) and(8) earphones(9) ,(10) these(11) will(12) produce(13) the(14) same(15) frequency(16) range(17) as(18) a(19) good(20) pair(21) of(22) speakers(23) yet(24) let(25) you(26) have(27) the(28) sound(29) right(30) there(31) with(32) you(33) and(34) only(35) you(36) .(37) 
+		</sentence>
+		<sentence id="5">
+			No(1) more(2) waking(3) up(4) the(5) neighbors(6) with(7) stereos(8) blasting(9) and(10) having(11) the(12) cops(13) called(14) on(15) you(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) really(3) wanted(4) you(5) can(6) even(7) make(8) your(9) ears(10) hurt(11) with(12) these(13) things(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) a(3) powerful(4) set(5) of(6) headphones(7) .(8) 
+			<opinion polarity="+" feature="volume" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) part(2) I(3) like(4) the(5) best(6) about(7) these(8) is(9) how(10) they(11) fit(12) so(13) comfortably(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			They(1) seem(2) so(3) be(4) made(5) with(6) total(7) comfort(8) in(9) mind(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			The(1) seal(2) around(3) the(4) ears(5) to(6) not(7) only(8) drown(9) out(10) outside(11) noise(12) but(13) keep(14) the(15) music(16) ((17) or(18) whatever(19) you(20) are(21) listening(22) to(23) )(24) within(25) the(26) space(27) of(28) it(29) and(30) your(31) ears(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			Your(1) family(2) or(3) friends(4) will(5) not(6) be(7) mad(8) about(9) the(10) seeping(11) sounds(12) from(13) your(14) headphones(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) part(2) that(3) rests(4) on(5) your(6) head(7) is(8) more(9) comfortable(10) than(11) any(12) other(13) set(14) of(15) headphones(16) I(17) 've(18) ever(19) put(20) on(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			These(1) are(2) padded(3) so(4) you(5) are(6) not(7) in(8) pain(9) while(10) trying(11) to(12) listen(13) with(14) them(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) only(2) down(3) side(4) might(5) be(6) that(7) they(8) are(9) quite(10) heavy(11) ,(12) but(13) for(14) quality(15) electronics(16) and(17) audio(18) /(19) video(20) equipment(21) ,(22) you(23) must(24) expect(25) this(26) .(27) 
+			<opinion polarity="-" feature="weight" opWords="11"/>
+		</sentence>
+	</text>
+</review>

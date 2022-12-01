@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="228" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			sports(1) sedan(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handling(1) ,(2) power(3) ,(4) ride(5) ,(6) roominess(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			style(1) ((2) without(3) spoiler(4) )(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) nissan(2) Maxima(3) is(4) a(5) great(6) car(7) for(8) the(9) value(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) personally(3) owned(4) the(5) maxima(6) for(7) over(8) a(9) year(10) now(11) and(12) love(13) it(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="14" featRef="car" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			The(1) maxima(2) offers(3) the(4) sportiness(5) of(6) a(7) two-door(8) car(9) with(10) the(11) ride(12) and(13) comfort(14) of(15) a(16) 4-dour(17) sedan(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Every(1) maxima(2) comes(3) standard(4) with(5) the(6) new(7) improved(8) 222(9) hp(10) engine(11) and(12) anti-lock(13) brakes(14) and(15) airbag(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) dramatically(3) improved(4) over(5) the(6) 99(7) maxima(8) with(9) more(10) room(11) ,(12) more(13) comfort(14) with(15) variable(16) lumbar(17) adjustment(18) ,(19) and(20) more(21) luxury(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) a(3) dual(4) exhaust(5) system(6) that(7) helps(8) make(9) car(10) quieter(11) when(12) under(13) 2000(14) rpm(15) 's(16) and(17) gives(18) the(19) car(20) more(21) power(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) also(3) comfortably(4) fits(5) 5(6) people(7) with(8) ease(9) and(10) there(11) is(12) plenty_of(13) leg(14) room(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) this(3) car(4) has(5) great(6) handling(7) and(8) good(9) steering(10) .(11) 
+			<opinion polarity="+" feature="steering" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			You(1) can(2) make(3) tight(4) turns(5) and(6) easily(7) make(8) hard(9) stops(10) without(11) loss(12) of(13) control(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) road-handling(3) is(4) comparable(5) to(6) a(7) BMW(8) and(9) definitely(10) better(11) than(12) an(13) accord(14) and(15) camry(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			The(1) maxima(2) is(3) not(4) as(5) comfortable(6) as(7) a(8) camry(9) and(10) the(11) ride(12) is(13) not(14) smooth(15) as(16) the(17) camry(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			This(1) car(2) is(3) for(4) a(5) person(6) wants(7) luxury(8) and(9) comfort(10) ,(11) at(12) the(13) same(14) time(15) wants(16) to(17) feel(18) the(19) road(20) and(21) have(22) fun(23) driving(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) also(3) a(4) great(5) family(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="14">
+			There(1) are(2) many(3) compartments(4) and(5) even(6) an(7) extra(8) power(9) source(10) for(11) the(12) people(13) in(14) the(15) back(16) seat(17) and(18) a(19) very(20) spacious(21) trunk(22) to(23) haul(24) things(25) .(26) 
+			<opinion polarity="+" feature="trunk" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) even(3) a(4) sunglass(5) holder(6) and(7) 3(8) way(9) control(10) for(11) things(12) such(13) as(14) a(15) garage(16) door(17) opener(18) or(19) gate(20) opener(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) a(3) cup(4) holder(5) that(6) can(7) be(8) taken(9) out(10) to(11) put(12) larger(13) cups(14) in(15) and(16) even(17) a(18) cup(19) holder(20) for(21) the(22) people(23) in(24) the(25) back(26) seats(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			What(1) I(2) really(3) like(4) about(5) this(6) car(7) is(8) the(9) acceleration(10) ,(11) and(12) the(13) great(14) handling(15) that(16) it(17) has(18) .(19) 
+			<opinion polarity="+" feature="handling" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="18">
+			Most(1) cars(2) come(3) with(4) 16_inch(5) tires(6) ((7) 215/55/16(8) )(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) styling(2) is(3) unique(4) ,(5) although(6) some(7) people(8) might(9) be(10) turned(11) off(12) by(13) it(14) ,(15) although(16) i(17) do(18) think(19) it(20) 's(21) better(22) than(23) the(24) older(25) maxima(26) .(27) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			I(1) think(2) adding(3) a(4) spoiler(5) makes(6) the(7) car(8) look(9) much(10) better(11) though(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			This(1) car(2) also(3) is(4) very(5) safe(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="22">
+			With(1) side(2) beams(3) ,(4) and(5) airbag(6) ,(7) and(8) a(9) safety(10) rating(11) of(12) 4(13) of(14) 5(15) ,(16) this(17) is(18) a(19) very(20) safe(21) car(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="23">
+			Overall(1) this(2) is(3) one(4) best(5) cars(6) you(7) can(8) buy(9) for(10) your(11) money(12) ,(13) especially(14) for(15) the(16) young(17) family(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+	</text>
+</review>

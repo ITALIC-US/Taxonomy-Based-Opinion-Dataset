@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="938" item="2002 Toyota Sequoia" rating="1">
+	<title>
+		<sentence id="1">
+			Toyota_Sequoia(1) -(2) Buyer_Beware(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) ,(2) big(3) ,(4) nimble(5) ,(6) average(7) gas(8) mileage(9) ,(10) powerful(11) engine(12) ,(13) great(14) in(15) the(16) snow(17) ,(18) very(19) reliable(20) .(21) 
+			<opinion polarity="+" feature="reliability" opWords="20" potency="19"/>
+			<opinion polarity="+" feature="car" opWords="14"/>
+			<opinion polarity="+" feature="engine" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extended(1) warrantee(2) worthless(3) ,(4) pillar(5) noise(6) ,(7) seat(8) repair(9) ,(10) road(11) noise(12) ,(13) horrible(14) brakes(15) ,(16) horrible(17) treatment(18) at(19) dealership(20) 
+			<opinion polarity="-" feature="brakes" featWords="15" opWords="14"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) was(2) my(3) "(4) dream(5) "(6) SUV(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) the(3) Land_Cruiser(4) but(5) could(6) bear(7) the(8) thought(9) of(10) such(11) gas(12) mileage(13) and(14) the(15) vehicle(16) always(17) being(18) in(19) 4(20) wheel(21) drive(22) all(23) the(24) time(25) !(26) 
+		</sentence>
+		<sentence id="3">
+			Unresolvable(1) "(2) Issues(3) "(4) with(5) White_Oak(6) ,(7) PA_Dealership(8) !(9) 1(10) )(11) 75,000_mile(12) ,(13) extended(14) warrantee(15) essentially(16) worthless(17) 2(18) )(19) Random(20) pillar(21) click(22) on(23) driver(24) 's(25) side(26) is(27) maddening(28) 3(29) )(30) Repair(31) of(32) driver(33) 's(34) side(35) seat(36) bottom(37) amateurish(38) 4(39) )(40) Road(41) and(42) wind(43) noise(44) is(45) horrible(46) 5(47) )(48) Brakes(49) are(50) horrible(51) and(52) shaky(53) 6(54) )(55) HORRIBLE(56) treatment(57) at(58) dealership(59) after(60) 30,000_miles(61) Other(62) than(63) that(64) ,(65) this(66) big(67) SUV(68) is(69) incredibly(70) nimble(71) and(72) virtually(73) unstoppable(74) in(75) heavy(76) snow(77) .(78) 
+			<opinion polarity="+" feature="car" opWords="71"/>
+			<opinion polarity="-" feature="brakes" featWords="49" opWords="53"/>
+			<opinion polarity="-" feature="brakes" featWords="49" opWords="51"/>
+		</sentence>
+		<sentence id="4">
+			Unfortunately(1) ,(2) after(3) 102k_miles(4) ,(5) I(6) would(7) not(8) buy(9) one(10) again(11) !(12) 
+			<opinion polarity="-" feature="car" opWords="8,9"/>
+		</sentence>
+		<sentence id="5">
+			Please(1) feel(2) free(3) to(4) contact(5) me(6) at(7) LGDeneault@comcast.net(8) for(9) more(10) information(11) and(12) documents(13) !(14) 
+		</sentence>
+		<sentence id="6">
+			Trust(1) me(2) ,(3) find(4) another(5) vehicle(6) and(7) another(8) dealership(9) !(10) 
+		</sentence>
+		<sentence id="7">
+			LEE_Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 46,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Toyota_Sequoia_Limited(16) 4x4(17) 
+		</sentence>
+	</text>
+</review>

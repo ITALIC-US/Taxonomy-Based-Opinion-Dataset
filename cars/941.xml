@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="941" item="2000 Nissan Xterra" rating="1">
+	<title>
+		<sentence id="1">
+			Looks(1) great(2) -(3) but(4) it(5) 'll(6) cost(7) you(8) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) -(3) very(4) rugged(5) and(6) outdoors-y(7) .(8) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			everything(1) else(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Only(1) for(2) people(3) who(4) care(5) about(6) the(7) look(8) ,(9) and(10) nothing(11) else(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) one(3) of(4) the(5) very(6) first(7) people(8) to(9) buy(10) this(11) car(12) ,(13) in(14) November_of_1999(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			My(1) experience(2) with(3) this(4) car(5) ((6) having(7) just(8) traded(9) it(10) this(11) week(12) )(13) ranks(14) LAST(15) in(16) my(17) automotive(18) experiences(19) ((20) and(21) I(22) 've(23) owned(24) about(25) 20(26) cars(27) in(28) my(29) 47(30) years(31) )(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			This(1) was(2) the(3) first(4) "(5) vanity(6) "(7) purchase(8) I(9) ever(10) made(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) the(3) thing(4) cuz(5) I(6) liked(7) the(8) way(9) it(10) looked(11) -(12) and(13) that(14) was(15) all(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) the(3) engine(4) ((5) 6(6) cyl(7) )(8) was(9) anemic(10) ,(11) and(12) the(13) appearance(14) of(15) the(16) engine(17) in(18) the(19) engine(20) compartment(21) reminded(22) me(23) of(24) a(25) cadillac(26) in(27) the(28) '(29) 70s(30) -(31) tubes(32) ,(33) hoses(34) ,(35) all(36) crammed(37) together(38) -(39) a(40) nightmare(41) .(42) 
+			<opinion polarity="-" feature="engine" featWords="4" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			Fortunately(1) ,(2) I(3) had(4) no(5) engine(6) troubles(7) with(8) the(9) car(10) during(11) it(12) 's(13) tenure(14) ((15) but(16) then(17) ,(18) only(19) put(20) 30K(21) on(22) the(23) thing(24) )(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			What(1) I(2) hated(3) so(4) much(5) about(6) this(7) car(8) :(9) it(10) 's(11) high(12) profile(13) created(14) hazardous(15) driving(16) in(17) high(18) winds(19) ((20) a(21) definite(22) need(23) for(24) both(25) hands(26) on(27) the(28) wheel(29) when(30) crossing(31) the(32) SF_Bay_Bridge(33) )(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			They(1) give(2) you(3) all(4) kinds(5) of(6) places(7) to(8) tie(9) down(10) bungie(11) cords(12) -(13) but(14) nowhere(15) to(16) stash(17) the(18) cords(19) themselves(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			NO(1) STOWAGE_ANYWHERE(2) !(3) 
+		</sentence>
+		<sentence id="10">
+			What(1) were(2) they(3) thinking(4) ?(5) 
+		</sentence>
+		<sentence id="11">
+			No(1) light(2) in(3) the(4) glovebox(5) No(6) coin(7) holder(8) of(9) any(10) sort(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) console(2) was(3) not(4) sized(5) properly(6) for(7) CD(8) cases(9) -(10) so(11) they(12) rattled(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			The(1) rear(2) seat(3) belts(4) rattled(5) against(6) the(7) body(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Terrible(1) mileage(2) ((3) 15(4) MPG(5) -(6) making(7) this(8) the(9) worst(10) -(11) mileage(12) vehicle(13) I(14) 've(15) owned(16) )(17) .(18) 
+			<opinion polarity="-" feature="gas" featWords="12" opWords="10"/>
+			<opinion polarity="-" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="15">
+			Defective_Tires(1) -(2) when(3) I(4) rotated(5) them(6) ,(7) the(8) front(9) end(10) wobbled(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			They(1) were(2) balanced(3) fine(4) -(5) so(6) it(7) was(8) a(9) defect(10) -(11) and(12) neither(13) nissan(14) nor(15) the(16) tire(17) manufacturer(18) were(19) willing(20) to(21) replace(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			I(1) subsequently(2) put(3) the(4) tires(5) back(6) on(7) the(8) vehicle(9) as(10) it(11) was(12) delivered(13) ,(14) and(15) was(16) never(17) able(18) to(19) rotate(20) them(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			Try(1) putting(2) the(3) back(4) seat(5) down(6) to(7) lay(8) the(9) cargo(10) area(11) flat(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			They(1) give(2) you(3) nowhere(4) to(5) put(6) the(7) lower(8) seat(9) cushions(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Utterly(1) lame(2) .(3) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="21">
+			The(1) steel-encased(2) cargo(3) cover(4) has(5) nowhere(6) to(7) go(8) when(9) you(10) lay(11) the(12) seats(13) flat(14) -(15) I(16) guess(17) you(18) 're(19) supposed(20) to(21) stash(22) it(23) in(24) the(25) same(26) place(27) as(28) the(29) tire(30) cushions(31) ?(32) 
+		</sentence>
+		<sentence id="22">
+			The(1) way(2) Mitsubishi(3) handled(4) this(5) on(6) the(7) Outlander(8) was(9) clever(10) ,(11) and(12) functional(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			I(1) was(2) always(3) uncomfortable(4) having(5) this(6) big(7) steel(8) bar(9) flopping(10) around(11) unsecured(12) in(13) the(14) passenger(15) compartment(16) .(17) 
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="24">
+			In(1) an(2) accident(3) ,(4) it(5) would(6) be(7) very(8) ,(9) very(10) dangerous(11) .(12) 
+			<opinion polarity="-" feature="car" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="25">
+			The(1) cheap(2) plastic(3) clips(4) they(5) used(6) to(7) secure(8) the(9) cheap(10) non-woven(11) "(12) carpet(13) "(14) in(15) the(16) back(17) broke(18) ,(19) fell(20) off(21) ,(22) and(23) were(24) otherwise(25) lost(26) during(27) very(28) light(29) duty(30) .(31) 
+		</sentence>
+		<sentence id="26">
+			Replacements(1) ((2) installed(3) during(4) the(5) warranty(6) )(7) fell(8) off(9) even(10) quicker(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			The(1) cargo(2) area(3) started(4) looking(5) very(6) ratty(7) very(8) quickly(9) .(10) 
+			<opinion polarity="-" feature="trunk space" featWords="2,3" opWords="7"/>
+		</sentence>
+		<sentence id="28">
+			Stereo(1) was(2) at(3) best(4) adequate(5) -(6) and(7) I(8) had(9) the(10) "(11) deluxe(12) "(13) model(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			The(1) license(2) plate(3) lights(4) on(5) the(6) back(7) of(8) the(9) vehicle(10) came(11) off(12) during(13) routine(14) car(15) washes(16) -(17) when(18) I(19) discovered(20) this(21) I(22) went(23) back(24) to(25) the(26) car(27) wash(28) ,(29) and(30) found(31) a(32) box(33) FULL(34) of(35) them(36) -(37) all(38) from(39) xTerras(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			It(1) got(2) to(3) the(4) point(5) where(6) I(7) 'd(8) remove(9) them(10) prior(11) to(12) getting(13) the(14) car(15) washed(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			The(1) screw-off(2) antennae(3) got(4) loose(5) after(6) having(7) to(8) be(9) removed(10) every(11) time(12) I(13) got(14) the(15) car(16) washed(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			Skid(1) plate(2) was(3) difficult(4) to(5) remove(6) -(7) which(8) raised(9) the(10) price(11) of(12) an(13) oil(14) change(15) on(16) average(17) $10(18) .(19) 
+		</sentence>
+		<sentence id="33">
+			Seats(1) were(2) uncomfortable(3) -(4) no(5) lumbar(6) support(7) .(8) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="34">
+			Only(1) used(2) the(3) 4WD(4) once(5) ,(6) and(7) due(8) to(9) the(10) high(11) profile(12) of(13) the(14) vehicle(15) ,(16) I(17) was(18) still(19) all(20) over(21) the(22) road(23) ((24) on(25) packed(26) snow(27) in(28) the(29) Sierra(30) )(31) .(32) 
+		</sentence>
+		<sentence id="35">
+			Here(1) 's(2) the(3) kicker(4) ,(5) though(6) ,(7) kids(8) :(9) I(10) just(11) traded(12) the(13) thing(14) this(15) week(16) ((17) on(18) a(19) Mitusbishi_Outlander(20) ,(21) which(22) so(23) far(24) I_LOVE(25) )(26) .(27) 
+		</sentence>
+		<sentence id="36">
+			I(1) put(2) $7K(3) down(4) on(5) a(6) $32K(7) price(8) ,(9) and(10) paid(11) $425/month(12) for(13) 3(14) years(15) on(16) a(17) 7(18) year(19) note(20) with(21) 6_%(22) interest(23) ,(24) and(25) only(26) put(27) 30,000_miles(28) on(29) the(30) car(31) .(32) 
+		</sentence>
+		<sentence id="37">
+			Y'know(1) what(2) kind(3) of(4) equity(5) I(6) had(7) in(8) the(9) rig(10) when(11) I(12) traded(13) it(14) ?(15) 
+		</sentence>
+		<sentence id="38">
+			ZERO(1) .(2) 
+		</sentence>
+		<sentence id="39">
+			Nada(1) .(2) 
+		</sentence>
+		<sentence id="40">
+			ZIP(1) .(2) ((3) Kelly_Blue_Book(4) -(5) confirmed(6) by(7) my(8) trading(9) dealer(10) )(11) .(12) 
+		</sentence>
+		<sentence id="41">
+			I(1) 've(2) never(3) seen(4) a(5) car(6) depreciate(7) so(8) badly(9) in(10) my(11) life(12) .(13) 
+		</sentence>
+		<sentence id="42">
+			Having(1) owned(2) 8(3) Nissans(4) in(5) the(6) past(7) ,(8) I(9) doubt(10) I(11) 'll(12) go(13) back(14) to(15) them(16) after(17) this(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			Plus(1) ,(2) one(3) final(4) point(5) :(6) the(7) ONLY(8) thing(9) I(10) ever(11) thought(12) the(13) xTerra(14) had(15) going(16) for(17) it(18) was(19) it(20) 's(21) look(22) -(23) and(24) the(25) lame-brains(26) at(27) Nissan(28) recently(29) changed(30) the(31) front(32) end(33) to(34) include(35) round(36) headlights(37) -(38) thus(39) ruining(40) the(41) rugged(42) look(43) of(44) the(45) rig(46) .(47) 
+		</sentence>
+		<sentence id="44">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 32500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) 4WD(16) ,(17) XE(18) 
+		</sentence>
+	</text>
+</review>

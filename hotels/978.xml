@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="978" item="Homewood Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Homewood_Suites_Orlando(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) ,(2) roomy(3) suites(4) with(5) fully(6) equipped(7) kitchen(8) .(9) 
+			<opinion polarity="+" feature="kitchen" featWords="8" opWords="6,7"/>
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Managers(1) reception(2) with(3) free(4) beer(5) and(6) wine(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Managers(1) reception(2) only(3) Monday(4) through(5) Thursday(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Breakfasts(1) are(2) good(3) but(4) not(5) the(6) eggs(7) !(8) 
+			<opinion polarity="+" feature="food" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a_real(3) find(4) in(5) the(6) huge(7) selection(8) of(9) Orlando(10) hotels(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Very(1) convenient(2) location(3) ,(4) easy(5) to(6) park(7) and(8) nice(9) big(10) rooms(11) at(12) a(13) good(14) price(15) .(16) 
+			<opinion polarity="+" feature="price" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="parking" opWords="5,6,7"/>
+			<opinion polarity="+" feature="place" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) a(2) find(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) ,(2) big(3) rooms(4) ,(5) all(6) suites(7) ,(8) free(9) breakfast(10) ,(11) free(12) beer(13) and(14) wine(15) reception(16) and(17) very(18) convenient(19) ,(20) yet(21) quiet(22) location(23) on(24) International_Drive(25) in(26) Orlando(27) .(28) 
+			<opinion polarity="+" feature="place" featWords="23" opWords="22"/>
+			<opinion polarity="+" feature="place" featWords="23" opWords="19" potency="18"/>
+			<opinion polarity="+" feature="food" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Nice(1) pool(2) and(3) exercise(4) room(5) also(6) .(7) 
+			<opinion polarity="+" feature="gym" featWords="4,5" opWords="1"/>
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			The(1) main(2) plus(3) here(4) though(5) is(6) the(7) roomy(8) suites(9) at(10) a(11) good(12) price(13) ,(14) with(15) the(16) included(17) breakfast(18) buffet(19) .(20) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			A(1) nice(2) surprise(3) is(4) a(5) fully(6) equipped(7) kitchen(8) to(9) make(10) your(11) own(12) meals(13) if(14) you(15) 're(16) with(17) a(18) family(19) and(20) want(21) to(22) save(23) money(24) .(25) 
+			<opinion polarity="+" feature="kitchen" featWords="8" opWords="6,7"/>
+		</sentence>
+		<sentence id="6">
+			The(1) rooms(2) are(3) fairly(4) well(5) sound(6) insulated(7) also(8) and(9) the(10) AC(11) is(12) nice(13) and(14) quiet(15) .(16) 
+			<opinion polarity="+" feature="air conditioning units" featWords="11" opWords="15"/>
+			<opinion polarity="+" feature="air conditioning units" featWords="11" opWords="13"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5,6,7" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) also(2) like(3) the(4) fact(5) you(6) can(7) park(8) real(9) close(10) to(11) the(12) hotel(13) and(14) I(15) 've(16) never(17) had(18) a(19) problem(20) finding(21) a(22) parking(23) place(24) either(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			While(1) it(2) 's(3) located(4) on(5) International_Drive(6) ,(7) it(8) 's(9) set(10) back(11) quite(12) a(13) ways(14) ,(15) so(16) there(17) 's(18) no(19) traffic(20) noise(21) .(22) 
+		</sentence>
+	</text>
+</review>

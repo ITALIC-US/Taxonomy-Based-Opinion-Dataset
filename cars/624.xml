@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="624" item="1999 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			noisy(1) and(2) frequent(3) trips(4) to(5) the(6) doctor(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) style(3) ,(4) and(5) resale(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) suspension(2) ,(3) driving(4) noises(5) 
+			<opinion polarity="-" feature="suspension" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) your(2) looking(3) for(4) a(5) new(6) car(7) right(8) now(9) ,(10) avoid(11) this(12) one(13) and(14) take(15) a(16) look(17) at(18) the(19) competition(20) ,(21) I(22) 'm(23) sure(24) you(25) 'll(26) find(27) something(28) of(29) better(30) quality(31) 
+			<opinion polarity="-" feature="car" opWords="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) my(3) 1999(4) Honda_Civic(5) in(6) Jan(7) '(8) 99(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) loved(2) the(3) style(4) of(5) the(6) body(7) and(8) especially(9) the(10) price(11) tag(12) since(13) I(14) did(15) not(16) have(17) alot(18) to(19) spend(20) on(21) a(22) car(23) at(24) the(25) time(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			After(1) taking(2) delivery(3) of(4) the(5) vehicle(6) I(7) noticed(8) it(9) was(10) not(11) quite(12) built(13) as_well(14) as(15) I(16) would(17) have(18) hoped(19) for(20) a(21) car(22) with(23) the(24) name(25) "(26) Honda(27) "(28) on(29) it(30) also(31) since(32) it(33) was(34) the(35) "(36) EX(37) "(38) top(39) of(40) the(41) line(42) model(43) .(44) 
+		</sentence>
+		<sentence id="4">
+			It(1) allows(2) alot(3) of(4) road(5) noise(6) into(7) the(8) cabin(9) and(10) the(11) engine(12) leaves(13) something(14) to(15) be(16) desired(17) as(18) far(19) as(20) performance(21) goes(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Overall(1) it(2) is(3) a(4) very(5) good(6) vehicle(7) but(8) I(9) would(10) recommend(11) staying(12) away(13) from(14) this(15) model(16) in(17) general(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			Soon(1) after(2) ownership(3) it(4) began(5) to(6) make(7) squeaking(8) noises(9) from(10) beneath(11) the(12) car(13) ((14) I(15) later(16) found(17) out(18) it(19) was(20) because_of(21) muffler(22) connections(23) along(24) the(25) chassis(26) )(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			I(1) contacted(2) American_Honda(3) about(4) this(5) problem(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			They(1) assured(2) me(3) engineers(4) were(5) aware(6) of(7) it(8) and(9) were(10) working(11) on(12) a(13) fix(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			They(1) took(2) down(3) my(4) information(5) and(6) sent(7) me(8) a(9) thank(10) you(11) letter(12) for(13) alerting(14) them(15) to(16) the(17) problem(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			That(1) was(2) two(3) years(4) ago(5) ,(6) when(7) I(8) checked(9) up(10) on(11) it(12) ,(13) they(14) said(15) there(16) was(17) no(18) update(19) on(20) it(21) ...(22) I(23) assume(24) newer(25) model(26) development(27) came(28) first(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			I(1) feel(2) safe(3) in(4) it(5) ,(6) and(7) it(8) 's(9) my(10) primary(11) vehicle(12) .(13) 
+			<opinion polarity="+" feature="safety" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			But(1) ,(2) I(3) will(4) never(5) purchase(6) another(7) Honda(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			On(1) a(2) related(3) but(4) separate(5) note(6) ,(7) my(8) Mother(9) purchased(10) a(11) Honda_Accord(12) the(13) same(14) year(15) and(16) has(17) had(18) the(19) transmission(20) replaced(21) twice(22) ((23) once(24) within(25) the(26) first(27) month(28) of(29) ownership(30) and(31) once(32) the(33) 2nd(34) year(35) into(36) ownership(37) )(38) .(39) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12500.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) EX(16) 
+		</sentence>
+	</text>
+</review>

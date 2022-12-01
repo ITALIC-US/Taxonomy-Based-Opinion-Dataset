@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="439" item="2001 Hyundai Tiburon" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Shark(2) by(3) any(4) other(5) Name(6) ,(7) Remains_a_Shark(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Elegant(1) styling(2) and(3) very(4) affordable(5) .(6) 
+			<opinion polarity="+" feature="price" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Improved(1) performance(2) over(3) last(4) year(5) .(6) 
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Still(1) under(2) powered(3) and(4) very(5) tight(6) in_all(7) seats(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Hyundai(1) has(2) improved(3) the(4) 2001(5) Tiburon(6) over(7) previous(8) years(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) still(3) some(4) room(5) for(6) more(7) improvement(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hyundai_Tiburon(1) 2001(2) A(3) Shark(4) by(5) any(6) other(7) Name(8) ,(9) Remains_a_Shark_The(10) first(11) time(12) I(13) saw(14) the(15) Hyundai_Tiburon(16) was(17) a(18) few(19) years(20) ago(21) during(22) one(23) of(24) my(25) many(26) trips(27) in(28) Asia(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			I(1) then(2) had(3) a(4) chance(5) to(6) ride(7) in(8) one(9) ,(10) I(11) was(12) not(13) too(14) impressed(15) with(16) the(17) Tiburon(18) at(19) that(20) time(21) ,(22) and(23) although(24) it(25) was(26) fairly(27) comfortable(28) it(29) seemed(30) to(31) be(32) under(33) powered(34) .(35) 
+			<opinion polarity="+" feature="comfort" opWords="28" potency="27"/>
+		</sentence>
+		<sentence id="3">
+			Comparing(1) with(2) the(3) new(4) 2001(5) Tiburon(6) ,(7) let(8) s(9) see(10) if(11) Hyundai(12) has(13) made(14) any(15) changes(16) to(17) improve(18) its(19) performance(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			PRODUCT_DESCRIPTION_Before_I(1) get(2) to(3) the(4) performance(5) part(6) of(7) this(8) review(9) ,(10) let(11) me(12) point(13) out(14) that(15) the(16) manufacturer(17) did(18) improve(19) the(20) look(21) of(22) the(23) Tiburon(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			With(1) a(2) little(3) imagination(4) looking(5) at(6) the(7) car(8) ,(9) you(10) can(11) see(12) the(13) sleek(14) and(15) powerful(16) lines(17) of(18) a(19) shark(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Hyundai(1) s(2) designers(3) sure(4) did(5) an(6) excellent(7) job(8) at(9) matching(10) their(11) design(12) with(13) the(14) name(15) of(16) this(17) automobile(18) on(19) the(20) exterior(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) interior(2) of(3) the(4) Tiburon(5) is(6) a(7) little(8) tamer(9) than(10) its(11) bold(12) exterior(13) look(14) but(15) it(16) is(17) still(18) very(19) nicely(20) done(21) .(22) 
+			<opinion polarity="+" feature="design" featWords="14" opWords="20,21" potency="19"/>
+			<opinion polarity="+" feature="design" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="8">
+			THE(1) INTERIOR_AND_EXTERIOR_The(2) interior(3) :(4) The(5) first(6) thing(7) that(8) caught(9) my(10) eyes(11) when(12) I(13) opened(14) the(15) driver(16) s(17) door(18) of(19) the(20) Tiburon(21) was(22) the(23) two-tone(24) leather(25) seat(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			It(1) had(2) been(3) quite(4) a(5) while(6) since(7) I(8) had(9) seen(10) a(11) car(12) with(13) this(14) styling(15) of(16) leather(17) seats(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="10">
+			Sitting(1) behind(2) the(3) steering(4) wheel(5) I(6) felt(7) a(8) little(9) cramped-in(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) happy(3) that(4) it(5) was(6) equipped(7) with(8) tilt(9) steering(10) or(11) I(12) might(13) have(14) had(15) some(16) trouble(17) to(18) get(19) in(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) I(3) drove(4) was(5) fairly(6) well(7) equipped(8) but(9) some(10) of(11) the(12) equipment(13) like(14) air-conditioning(15) and(16) the(17) four-speed(18) automatic(19) transmission(20) were(21) only(22) available(23) as(24) options(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="7,8" potency="6"/>
+		</sentence>
+		<sentence id="13">
+			The(1) all(2) around(3) vision(4) from(5) the(6) driver(7) s(8) position(9) is(10) excellent(11) ,(12) the(13) Tiburon(14) mirrors(15) are(16) well(17) positioned(18) and(19) even(20) the(21) rear(22) spoiler(23) does(24) not(25) hinder(26) the(27) driver(28) s(29) view(30) of(31) the(32) on-coming(33) traffic(34) .(35) 
+			<opinion polarity="+" feature="visibility" featWords="4" opWords="11"/>
+		</sentence>
+		<sentence id="14">
+			All(1) the(2) gages(3) and(4) control(5) buttons(6) are(7) easy(8) to(9) see(10) and(11) reach(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) car(2) I(3) test-drove(4) was(5) equipped(6) with(7) an(8) AM(9) /(10) FM(11) radio(12) and(13) a(14) CD(15) player(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			I(1) do(2) not(3) recall(4) if(5) the(6) CD(7) player(8) was(9) standard(10) or(11) optional(12) equipment(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) quality(2) of(3) the(4) sound(5) coming(6) out(7) of(8) the(9) speakers(10) was(11) not(12) the(13) best(14) but(15) still(16) quite(17) acceptable(18) .(19) 
+			<opinion polarity="+" feature="speakers" featWords="10" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="18">
+			On(1) the(2) safety(3) aspect(4) the(5) driver(6) and(7) front(8) passenger(9) are(10) protected(11) by(12) de-powered(13) airbags(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			As(1) I(2) wrote(3) above(4) ,(5) the(6) space(7) for(8) the(9) driver(10) is(11) a(12) little(13) tight(14) and(15) it(16) gets(17) even(18) tighter(19) in(20) the(21) back(22) seat(23) of(24) the(25) Tiburon(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			The(1) exterior(2) :(3) I(4) am(5) not(6) a(7) big(8) fan(9) of(10) small(11) automobiles(12) but(13) I(14) do(15) like(16) the(17) lines(18) of(19) the(20) Tiburon(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			Everything(1) is(2) well(3) proportioned(4) and(5) the(6) paint(7) job(8) was(9) excellent(10) for(11) a(12) car(13) of(14) that(15) price(16) range(17) .(18) 
+			<opinion polarity="+" feature="color" featWords="7,8" opWords="10"/>
+		</sentence>
+		<sentence id="22">
+			The(1) automobile(2) I(3) drove(4) had(5) optional(6) alloyed(7) wheels(8) and(9) a(10) standard(11) rear-spoiler(12) to(13) give(14) it(15) a(16) racecar(17) look(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			The(1) cargo(2) space(3) is(4) very(5) limited(6) at(7) only(8) 13_cubic_feet(9) of(10) space(11) for(12) transporting(13) your(14) gear(15) .(16) 
+			<opinion polarity="-" feature="trunk space" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="24">
+			TECHNICAL_INFORMATION_The_Hyundai_Tiburon_I(1) drove(2) was(3) equipped(4) with(5) :(6) Engine(7) :(8) A(9) 4-cylinders(10) ,(11) 2-liters(12) motor(13) developing(14) 140(15) horsepower(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			Transmission(1) :(2) A(3) 4-speed(4) automatic(5) transmission(6) .(7) 
+		</sentence>
+		<sentence id="26">
+			Brakes(1) :(2) Front(3) disc(4) and(5) rear(6) drums(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			Tires(1) :(2) P195/55R15(3) .(4) 
+		</sentence>
+		<sentence id="28">
+			Safety(1) :(2) Two(3) front(4) de-powered(5) airbags(6) .(7) 
+		</sentence>
+		<sentence id="29">
+			PERSONAL_EXPERIENCE_Driving(1) the(2) 2001(3) Tiburon(4) was(5) fun(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="30">
+			It(1) is(2) a(3) car(4) for(5) the(6) younger(7) generation(8) that(9) wants(10) an(11) automobile(12) that(13) looks(14) good(15) but(16) does(17) not(18) necessarily(19) needs(20) to(21) be(22) always(23) the(24) first(25) to(26) arrive(27) at(28) the(29) next(30) red(31) light(32) .(33) 
+			<opinion polarity="+" feature="design" opWords="14,15"/>
+		</sentence>
+		<sentence id="31">
+			Comparing(1) it(2) with(3) the(4) Tiburon_I(5) had(6) driven(7) a(8) few(9) year(10) priors(11) ,(12) the(13) 2001(14) model(15) does(16) have(17) a(18) little(19) more(20) spunk(21) and(22) does(23) look(24) much(25) better(26) .(27) 
+		</sentence>
+		<sentence id="32">
+			Breaking(1) :(2) I(3) did(4) not(5) have(6) a(7) chance(8) to(9) test(10) the(11) brakes(12) under(13) wet(14) conditions(15) ,(16) but(17) on(18) a(19) dry(20) surface(21) even_if(22) I(23) felt(24) the(25) pedal(26) was(27) a(28) little(29) soft(30) ,(31) it(32) still(33) was(34) more(35) than(36) adequate(37) .(38) 
+		</sentence>
+		<sentence id="33">
+			Suspension(1) :(2) The(3) suspension(4) was(5) rigid(6) enough(7) and(8) the(9) Tiburon(10) handle(11) itself(12) well(13) in(14) corners(15) .(16) 
+			<opinion polarity="+" feature="handling" opWords="11,13"/>
+			<opinion polarity="+" feature="suspension" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="34">
+			On(1) thing(2) I(3) really(4) like(5) is(6) the(7) five(8) years-rust(9) warranty(10) it(11) comes(12) with(13) .(14) 
+		</sentence>
+		<sentence id="35">
+			I(1) believe(2) that(3) for(4) the(5) price(6) it(7) sells(8) for(9) it(10) is(11) an(12) excellent(13) value(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) test(7) drive(8) Model_Year(9) :(10) 2001(11) 
+		</sentence>
+	</text>
+</review>

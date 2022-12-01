@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="236" item="Philips HC8430 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			BAD(1) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NONE(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) interference(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Forget(1) walking(2) around(3) and(4) trying(5) to(6) listen(7) to(8) music(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) these(2) at(3) Target(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Plugged(1) them(2) in(3) and(4) was(5) shocked(6) at(7) how(8) bad(9) the(10) reception(11) was(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			You(1) can(2) not(3) walk(4) around(5) without(6) it(7) cutting(8) out(9) or(10) hearing(11) horrible(12) interference(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Lots(1) of(2) hiss(3) and(4) buzzes(5) in(6) the(7) headphone(8) while(9) trying(10) to(11) listen(12) to(13) music(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) in(3) a(4) standard(5) home(6) setting(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			When(1) you(2) move(3) your(4) head(5) even(6) a(7) little(8) bit(9) ,(10) you(11) hear(12) static(13) and(14) noise(15) in(16) the(17) headphone(18) which(19) is(20) very(21) annoying(22) and(23) simply(24) not(25) usable(26) for(27) listening(28) to(29) music(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			Checked(1) the(2) batteries(3) and(4) they(5) were(6) excellent(7) .(8) 
+			<opinion polarity="+" feature="battery" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			BTW(1) ,(2) sound(3) quality(4) of(5) the(6) music(7) ,(8) when(9) you(10) could(11) even(12) hear(13) it(14) was(15) very(16) good(17) .(18) 
+			<opinion polarity="+" feature="sound quality" featWords="3,4" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="9">
+			These(1) are(2) UHF(3) headphones(4) ,(5) which(6) I(7) thought(8) were(9) designed(10) to(11) eliminate(12) exactly(13) what(14) is(15) happening(16) with(17) them(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) returning(3) them(4) and(5) searching(6) for(7) another(8) brand(9) .(10) 
+		</sentence>
+	</text>
+</review>

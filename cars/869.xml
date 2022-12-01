@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="869" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			Nifty_Little_Car(1) but(2) with(3) Some_Irritating_Issues(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cute(1) styling(2) .(3) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			German(1) character(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Fun(1) to(2) drive(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliability(1) problems(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) interior(2) workmanship(3) .(4) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Cheap(1) interior(2) materials(3) .(4) 
+			<opinion polarity="-" feature="material" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			A(1) little(2) under(3) powered(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) I(2) had(3) to(4) do(5) it(6) again(7) ,(8) I(9) would(10) not(11) buy(12) another(13) Beetle(14) .(15) 
+			<opinion polarity="-" feature="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="2">
+			Too(1) many(2) problems(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) purchased(2) this(3) car(4) used(5) in_2004(6) with(7) 34K_miles(8) on(9) it(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) now(3) owned(4) the(5) car(6) for(7) a(8) little(9) over(10) 2(11) years(12) which(13) gives(14) me(15) more(16) than(17) ample(18) time(19) to(20) form(21) opinions(22) on(23) it(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			My(1) wife(2) has(3) always(4) wanted(5) a(6) bug(7) and(8) when(9) she(10) drove(11) it(12) ,(13) I(14) knew(15) we(16) were(17) buying(18) it(19) no(20) matter(21) what(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) currently(3) has(4) 73K_miles(5) on(6) it(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Now(1) the(2) review(3) :(4) Exterior(5) :(6) The(7) Beetle(8) will(9) get(10) attention(11) when(12) driving(13) or(14) even(15) cruising(16) through(17) the(18) grocery(19) store(20) parking(21) lot(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			I(1) mean(2) ,(3) there(4) is(5) something(6) to(7) be(8) said(9) for(10) a(11) car(12) that(13) makes(14) people(15) hit(16) each(17) other(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Kids_LOVE_IT(1) !(2) !(3) 
+		</sentence>
+		<sentence id="8">
+			In(1) 4(2) years(3) of(4) driving(5) in(6) OH(7) with(8) no(9) garage(10) ,(11) the(12) paint(13) and(14) finish(15) seems(16) to(17) be(18) holding(19) up(20) well(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Interior(1) :(2) The(3) interior(4) of(5) the(6) Beetle(7) has(8) a(9) cool(10) modern(11) look(12) .(13) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="design" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="10">
+			Sitting(1) in(2) the(3) Beetle(4) you(5) will(6) find(7) the(8) front(9) seats(10) roomy(11) ,(12) comfortable(13) ,(14) and(15) supportive(16) .(17) 
+			<opinion polarity="+" feature="seat" featWords="10" opWords="16"/>
+			<opinion polarity="+" feature="seat" featWords="10" opWords="13"/>
+			<opinion polarity="+" feature="seat" featWords="10" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			The(1) manual(2) seat(3) adjustment(4) controls(5) could(6) be(7) more(8) intuitive(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Either(1) you(2) need(3) to(4) read(5) the(6) manual(7) or(8) play(9) with(10) the(11) levers(12) and(13) wheels(14) to(15) learn(16) how(17) to(18) adjust(19) them(20) to(21) your(22) liking(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) plenty_of(3) legroom(4) and(5) headroom(6) in(7) the(8) front(9) seats(10) of(11) this(12) car(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) dash(2) is(3) large(4) enough(5) to(6) play(7) a(8) board(9) game(10) on(11) and(12) takes(13) some(14) getting(15) used(16) to(17) .(18) 
+			<opinion polarity="+" feature="dash" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="15">
+			The(1) speedometer(2) is(3) set(4) right(5) in(6) the(7) middle(8) of(9) the(10) driver(11) 's(12) side(13) and(14) is(15) easy(16) to(17) read(18) especially(19) at(20) night(21) when(22) it(23) is(24) illuminated(25) in(26) purple(27) and(28) red(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			The(1) controls(2) are(3) easy(4) to(5) use(6) and(7) very(8) '(9) German(10) '(11) .(12) 
+			<opinion polarity="+" feature="controls" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			The(1) plastic(2) materials(3) on(4) the(5) doors(6) seem(7) cheap(8) and(9) detract(10) from(11) the(12) appeal(13) .(14) 
+			<opinion polarity="-" feature="material" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="18">
+			The(1) plastic(2) material(3) is(4) scratched(5) and(6) worn(7) easily(8) and(9) the(10) plastic(11) base(12) is(13) showing(14) though(15) the(16) colored(17) coating(18) ((19) i(20) .(21) e(22) .(23) the(24) black(25) plastic(26) is(27) showing(28) through(29) the(30) silver(31) coating(32) that(33) is(34) the(35) color(36) of(37) our(38) interior(39) .(40) )(41) The(42) latch(43) for(44) the(45) center(46) armrest(47) /(48) storage(49) compartment(50) and(51) windows(52) /(53) lock(54) switches(55) are(56) rather(57) fragile(58) ((59) more(60) on(61) that(62) later(63) )(64) .(65) 
+			<opinion polarity="-" feature="material" featWords="3" opWords="7"/>
+			<opinion polarity="-" feature="material" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="19">
+			The(1) cupholders(2) will(3) hold(4) your(5) cup(6) tightly(7) but(8) are(9) small(10) .(11) 
+			<opinion polarity="-" feature="cup holders" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="20">
+			There(1) is(2) no(3) way(4) you(5) are(6) going(7) to(8) fit(9) the(10) '(11) large(12) '(13) soda(14) in(15) there(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			There(1) are(2) 3(3) cupholders(4) and(5) the(6) one(7) farthest(8) forward(9) is(10) impossible(11) to(12) use(13) if(14) the(15) other(16) 2(17) are(18) being(19) used(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			The(1) back(2) seat(3) is(4) small(5) and(6) uncomfortable(7) .(8) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="7"/>
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="23">
+			Trunk(1) space(2) is(3) not(4) bad(5) but(6) the(7) CD-changer(8) makes(9) it(10) less(11) practical(12) .(13) 
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4,5"/>
+		</sentence>
+		<sentence id="24">
+			The(1) climate(2) controls(3) work(4) well(5) ,(6) the(7) heat(8) blows(9) hot(10) and(11) the(12) AC(13) cold(14) .(15) 
+			<opinion polarity="+" feature="climate" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="25">
+			I(1) have(2) been(3) unable(4) to(5) get(6) a(7) really(8) good(9) sound(10) out(11) of(12) the(13) stereo(14) even(15) with(16) the(17) CD-changer(18) and(19) the(20) unit(21) would(22) be(23) hard(24) to(25) replace(26) as(27) it(28) is(29) formed(30) to(31) match(32) the(33) curvature(34) of(35) the(36) dashboard(37) .(38) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="26">
+			Some(1) of(2) the(3) warning(4) lights(5) can(6) be(7) a_bit(8) vague(9) and(10) you(11) will(12) have(13) to(14) look(15) them(16) up(17) in(18) the(19) manual(20) to(21) know(22) what(23) they(24) mean(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			Visability(1) is(2) generally(3) good(4) but(5) the(6) car(7) does(8) have(9) 2(10) rather(11) large(12) blind(13) spots(14) due(15) to(16) the(17) rear(18) pillars(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			Performance(1) :(2) The(3) 115-hp(4) 2.0(5) liter(6) is(7) quick(8) enough(9) but(10) not(11) a(12) burner(13) off(14) the(15) line(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			Down-shifting(1) to(2) pass(3) in(4) traffic(5) will(6) get(7) the(8) job(9) done(10) on(11) the(12) highway(13) but(14) this(15) car(16) will(17) not(18) push(19) you(20) back(21) against(22) your(23) seat(24) .(25) 
+		</sentence>
+		<sentence id="30">
+			The(1) car(2) corners(3) very(4) well(5) on(6) the(7) Michelin(8) tires(9) it(10) came(11) equiped(12) with(13) and(14) gives(15) the(16) driver(17) good(18) feedback(19) on(20) grip(21) and(22) road(23) conditions(24) .(25) 
+		</sentence>
+		<sentence id="31">
+			It(1) is(2) actually(3) quite(4) fun(5) to(6) run(7) the(8) beetle(9) down(10) a(11) curvy(12) road(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="32">
+			Cruising(1) at(2) 70-80(3) mph(4) is(5) comfortable(6) and(7) not(8) a(9) strain(10) on(11) the(12) car(13) .(14) 
+			<opinion polarity="+" feature="cruising range" featWords="1" opWords="6"/>
+		</sentence>
+		<sentence id="33">
+			The(1) car(2) is(3) pretty(4) quiet(5) when(6) the(7) windows(8) and(9) sunroof(10) are(11) closed(12) but(13) displays(14) quite(15) a_bit(16) of(17) wind(18) noise(19) and(20) wind(21) buffeting(22) with(23) the(24) windows(25) open(26) ,(27) especially(28) with(29) the(30) sunroof(31) open(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="34">
+			The(1) noise(2) on(3) the(4) highway(5) IS(6) a(7) problem(8) .(9) 
+		</sentence>
+		<sentence id="35">
+			The(1) brakes(2) stop(3) the(4) car(5) quickly(6) and(7) under(8) control(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			The(1) brakes(2) work(3) well(4) in(5) wet(6) and(7) even(8) snowy(9) conditions(10) .(11) 
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="37">
+			Reliability(1) :(2) We(3) have(4) had(5) several(6) problems(7) with(8) the(9) bug(10) since(11) we(12) bought(13) it(14) and(15) I(16) have(17) been(18) very(19) disappointed(20) in(21) the(22) car(23) 's(24) reliability(25) .(26) 
+			<opinion polarity="-" feature="reliability" featWords="25" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="38">
+			The(1) car(2) is(3) routinely(4) serviced(5) and(6) none(7) of(8) the(9) reliability(10) issues(11) listed(12) are(13) normal(14) wear(15) and(16) tear(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			Ok(1) ,(2) here(3) is(4) the(5) list(6) ...(7) Broken(8) driver(9) 's(10) side(11) window(12) switch(13) Broken(14) latch(15) in(16) center(17) armrest(18) storage(19) compartment(20) Ignition(21) switch(22) failed(23) ((24) not(25) a(26) cheap(27) repair(28) there(29) )(30) Brake(31) lights(32) would(33) not(34) turn(35) off(36) ((37) fixed(38) as(39) a(40) recall(41) )(42) Oxigen(43) sensor(44) tripped(45) ((46) 2_times(47) )(48) Worn(49) tie-rod(50) end(51) ((52) tie-rod(53) replaced(54) )(55) Headlights(56) ((57) you(58) can(59) not(60) replace(61) them(62) yourself(63) !(64) )(65) Rear(66) brake(67) calipers(68) siezed(69) up(70) ((71) all(72) new(73) rear(74) brakes(75) now(76) )(77) The(78) car(79) seems(80) to(81) go(82) through(83) oil(84) .(85) 
+		</sentence>
+		<sentence id="40">
+			I(1) always(2) seem(3) to(4) have(5) to(6) add(7) one(8) quart(9) between(10) 3000_mile(11) changes(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			Overall(1) :(2) Cute(3) car(4) but(5) in(6) my(7) opinion(8) ,(9) not(10) worth(11) dealing(12) with(13) the(14) reliability(15) issues(16) .(17) 
+			<opinion polarity="+" feature="design" opWords="3"/>
+		</sentence>
+		<sentence id="42">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9955(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GLS(16) 2.0(17) ,(18) 5-Speed(19) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="735" item="Days Hotel & Conference Centre - Toronto Downtown" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) ,(2) but(3) could(4) 've(5) been(6) better(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Surrounded(1) by(2) things(3) to(4) do(5) ,(6) Next(7) to(8) Subway(9) ,(10) Great(11) service(12) 
+			<opinion polarity="+" feature="service" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) elevators(2) ,(3) horrible(4) parking(5) ,(6) Thin(7) walls(8) ,(9) dark(10) hallways(11) ,(12) pool(13) closed(14) for(15) months(16) !(17) 
+			<opinion polarity="-" feature="swimming pool" featWords="13" opWords="14"/>
+			<opinion polarity="-" feature="lobby" featWords="11" opWords="10"/>
+			<opinion polarity="-" feature="walls" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="elevator" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="parking" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) here(2) if(3) you(4) will(5) not(6) be(7) in(8) their(9) rooms(10) often(11) ,(12) &(13) heavy(14) sleepers(15) ,(16) but(17) if(18) you(19) stay(20) here(21) ,(22) try(23) to(24) park(25) the(26) car(27) EARLY(28) if(29) using(30) the(31) garage(32) !(33) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hi(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) gone(3) to(4) Toronto(5) for(6) our(7) first(8) trip(9) to(10) Canada(11) since(12) we(13) moved(14) to(15) Michigan(16) ((17) Just(18) moved(19) here(20) from(21) Vegas(22) .(23) )(24) It(25) does(26) seem(27) hard(28) to(29) pick(30) a(31) hotel(32) from(33) looking(34) at(35) photos(36) online(37) ,(38) but(39) I(40) had(41) seen(42) a(43) pretty(44) good(45) review(46) from(47) another(48) hotel(49) site(50) on(51) this(52) particular(53) Days_Inn(54) .(55) 
+		</sentence>
+		<sentence id="3">
+			We(1) got(2) to(3) the(4) hotel(5) about(6) 9:30(7) PM(8) and(9) got(10) checked(11) in(12) with(13) no(14) problem(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) problem(2) we(3) DID(4) have(5) however(6) is(7) that(8) the(9) garage(10) was(11) full(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) WHOLE(2) trip(3) it(4) was(5) full(6) ,(7) luckily(8) however(9) 4(10) out(11) of(12) the(13) 5(14) days(15) we(16) were(17) there(18) ,(19) it(20) was(21) parked(22) at(23) the(24) parking(25) lot(26) across(27) the(28) street(29) ((30) in(31) which(32) we(33) only(34) had(35) to(36) pay(37) one(38) time(39) to(40) get(41) it(42) out(43) ,(44) woooohoooooo(45) !(46) lol(47) )(48) Every(49) place(50) we(51) went(52) to(53) up(54) and(55) down(56) Yonge_Street(57) was(58) within(59) either(60) walking(61) distance(62) ((63) the(64) restaurants(65) ,(66) the(67) shopping(68) ,(69) the(70) subway(71) ,(72) horay(73) !(74) )(75) Our(76) main(77) reason(78) for(79) going(80) to(81) Toronto(82) was(83) to(84) see(85) the(86) Lion_King(87) ,(88) in(89) which(90) we(91) took(92) the(93) subway(94) for(95) the(96) first(97) time(98) ever(99) ,(100) and(101) it(102) was(103) so(104) easy(105) !(106) 5(107) minutes(108) here(109) and(110) there(111) ,(112) not(113) having(114) to(115) worry(116) about(117) parking(118) and(119) parking(120) fees(121) ,(122) it(123) was(124) great(125) !(126) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) was(3) thrilled(4) he(5) didnt(6) have(7) to(8) drive(9) !(10) 
+		</sentence>
+		<sentence id="7">
+			We(1) Also(2) went(3) to(4) the(5) island(6) ,(7) in(8) which(9) we(10) took(11) the(12) subway(13) as_well(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) were(3) just(4) ok(5) .(6) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			Two(1) double(2) beds(3) ,(4) a(5) little(6) tv(7) ,(8) and(9) a(10) huge(11) closet(12) with(13) a(14) refrigerator(15) ,(16) a(17) coffeemaker(18) ,(19) and(20) the(21) usual(22) chairs(23) and(24) table(25) .(26) 
+			<opinion polarity="+" feature="closet" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="10">
+			One(1) of(2) the(3) things(4) that(5) bothered(6) me(7) ((8) other(9) than(10) the(11) AMAZINGLY_SLOW_ELEVATORS(12) )(13) was(14) that(15) they(16) had(17) signs(18) regarding(19) conserving(20) water(21) ((22) "(23) put(24) this(25) sign(26) on(27) the(28) bed(29) when(30) you(31) want(32) us(33) to(34) change(35) the(36) sheets(37) ,(38) if(39) we(40) keep(41) the(42) same(43) sheets(44) on(45) your(46) bed(47) ,(48) that(49) 's(50) less(51) water(52) used(53) ,(54) and(55) better(56) for(57) the(58) environment(59) "(60) and(61) "(62) in(63) our(64) efforts(65) to(66) conserve(67) water(68) ,(69) we(70) ask(71) that(72) you(73) use(74) the(75) same(76) towels(77) ,(78) if(79) you(80) would(81) like(82) to(83) help(84) ,(85) please(86) hang(87) your(88) towels(89) up(90) ,(91) if_not(92) ,(93) leave(94) them(95) on(96) the(97) floor(98) .(99) "(100) What(101) bothered(102) me(103) about(104) it(105) ,(106) was(107) that(108) the(109) toilet(110) would(111) run(112) for(113) over(114) a(115) minute(116) per(117) flush(118) ,(119) and(120) the(121) shower(122) was(123) not(124) on(125) any(126) kind(127) of(128) conservation(129) whatsoever(130) ,(131) in(132) fact(133) was(134) so(135) hard(136) it(137) would(138) fill(139) up(140) the(141) tub(142) halfway(143) ,(144) and(145) would(146) hurt(147) my(148) son(149) every(150) time(151) he(152) would(153) take(154) a(155) shower(156) !(157) We(158) were(159) on(160) the(161) nonsmoking(162) floor(163) ,(164) which(165) was(166) down(167) a(168) dark(169) and(170) creepy(171) looking(172) in(173) the(174) hallway(175) compared(176) to(177) the(178) other(179) floors(180) we(181) had(182) stopped(183) on(184) the(185) elevator(186) for(187) the(188) other(189) passengers(190) .(191) As(192) for(193) the(194) quality(195) of(196) the(197) room(198) ,(199) I(200) was(201) not(202) impressed(203) .(204) When(205) we(206) got(207) into(208) the(209) room(210) you(211) could(212) hear(213) other(214) other(215) conversations(216) going(217) on(218) with(219) each(220) wall(221) !(222) We(223) could(224) hear(225) the(226) neighbors(227) every(228) time(229) they(230) 'd(231) go(232) in(233) the(234) bathroom(235) and(236) flush(237) ,(238) run(239) the(240) sink(241) /(242) shower(243) .(244) When(245) I(246) had(247) checked(248) the(249) website(250) back(251) in(252) June_2002(253) ,(254) it(255) stated(256) that(257) the(258) pool(259) would(260) be(261) closed(262) til(263) about(264) late(265) July(266) for(267) remodelling(268) ,(269) then(270) the(271) beginning(272) of(273) August(274) ,(275) now(276) if(277) you(278) look(279) ,(280) I(281) think(282) it(283) stated(284) for(285) September(286) .(287) It(288) was(289) closed(290) when(291) we(292) got(293) there(294) is(295) all(296) I(297) know(298) .(299) The(300) rooms(301) are(302) clean(303) ,(304) and(305) functional(306) ,(307) though(308) crammed(309) .(310) Its(311) great(312) for(313) anyone(314) on(315) a(316) budget(317) and(318) does(319) not(320) really(321) care(322) ((323) like(324) staying(325) in(326) Vegas(327) just(328) to(329) go(330) party(331) all(332) the(333) time(334) ,(335) stay(336) at(337) Motel(338) 6(339) behind(340) Tropicana(341) ,(342) you(343) 're(344) there(345) to(346) SLEEP(347) ,(348) save(349) a(350) buck(351) to(352) go(353) gamble(354) it(355) away(356) !(357) LOL(358) )(359) The(360) service(361) was(362) good(363) ,(364) but(365) I(366) do(367) not(368) think(369) I(370) 'd(371) stay(372) here(373) again(374) unless(375) they(376) had(377) a_REAL(378) good(379) deal(380) because_of(381) the(382) size(383) of(384) the(385) rooms(386) ,(387) their(388) parking(389) arrangement(390) apparently(391) went(392) for(393) more(394) than(395) just(396) the(397) hotel(398) guests(399) ((400) How(401) do(402) you(403) fill(404) up(405) the(406) garage(407) with(408) ample(409) rooms(410) still(411) available(412) ?(413) )(414) and(415) the(416) slow(417) elevators(418) ,(419) as_well(420) as(421) the(422) water(423) running(424) was(425) waking(426) my(427) son(428) up(429) .(430) 
+			<opinion polarity="+" feature="rooms" featWords="301" opWords="303"/>
+			<opinion polarity="+" feature="rooms" featWords="301" opWords="306"/>
+			<opinion polarity="-" feature="rooms" featWords="301" opWords="309"/>
+			<opinion polarity="+" feature="hotel" opWords="312"/>
+			<opinion polarity="+" feature="service" featWords="361" opWords="363"/>
+			<opinion polarity="-" feature="elevator" featWords="418" opWords="417"/>
+		</sentence>
+		<sentence id="11">
+			Maybe(1) if(2) they(3) get(4) the(5) non(6) smoking(7) floor(8) remodeled(9) like(10) the(11) other(12) floors(13) ,(14) and(15) soundproof(16) the(17) walls(18) a(19) little(20) better(21) somehow(22) ,(23) it(24) would(25) be(26) a(27) 4(28) star(29) review(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			Oh(1) ,(2) if(3) you(4) would(5) like(6) to(7) see(8) the(9) colorful(10) room(11) ,(12) go(13) to(14) the(15) days(16) Inn(17) website(18) for(19) Toronto(20) to(21) see(22) the(23) rooms(24) ,(25) they(26) ARE_VERY(27) bright(28) !(29) 
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="rooms" featWords="24" opWords="28"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="522" item="1994 Acura Integra" rating="3">
+	<title>
+		<sentence id="1">
+			Loaner(1) integra(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			styling(1) ((2) exterior(3) )(4) ,(5) fit(6) and(7) finish(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			styling(1) ((2) interior(3) )(4) ,(5) high(6) price(7) for(8) used(9) models(10) ,(11) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) got(2) a(3) 1998(4) Integra(5) as(6) a(7) loaner(8) while(9) my(10) Legend(11) was(12) having(13) a(14) major(15) service(16) performed(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) the(3) car(4) for(5) 2(6) days(7) and(8) I(9) was(10) a(11) little(12) surprised(13) as(14) to(15) why(16) so(17) many(18) people(19) seem(20) to(21) go(22) nuts(23) for(24) this(25) car(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) ,(2) it(3) 's(4) a(5) fine(6) car(7) ...(8) BTW(9) it(10) was(11) a(12) 4(13) door(14) LS(15) loaded(16) with(17) every(18) option(19) except(20) leather(21) seats(22) .(23) 
+			<opinion polarity="+" feature="seat" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			The(1) styling(2) is(3) pretty(4) slick(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			No(1) other(2) car(3) looks(4) like(5) an(6) integra(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) really(2) liked(3) the(4) projector(5) beams(6) more(7) for(8) asthetics(9) rather(10) than(11) function(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			I(1) found(2) no(3) difference(4) in(5) their(6) performance(7) when(8) compared(9) to(10) standard(11) headlamps(12) with(13) halogen(14) bulbs(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) interior(2) is(3) nicely(4) done(5) ,(6) but(7) the(8) dash(9) is(10) very(11) strange(12) .(13) 
+			<opinion polarity="+" feature="dash" featWords="9" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="9">
+			I(1) do(2) not(3) like(4) how(5) everything(6) stacks(7) on(8) one(9) another(10) and(11) kind(12) of(13) starts(14) poking(15) out(16) at(17) the(18) occupants(19) from(20) the(21) radio(22) up(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) gauges(2) are(3) very(4) nice(5) ,(6) but(7) the(8) huge(9) "(10) pod(11) "(12) like(13) instrument(14) cluster(15) seems(16) so(17) strange(18) .(19) 
+			<opinion polarity="+" feature="gauges" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) the(3) general(4) feel(5) and(6) look(7) of(8) the(9) interior(10) was(11) a(12) little(13) on(14) the(15) cheap(16) side(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) expected(2) more(3) from(4) Acura(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			Performance(1) wise(2) ,(3) this(4) car(5) is(6) a_bit(7) anemic(8) .(9) 
+			<opinion polarity="-" feature="performance" featWords="1" opWords="8"/>
+		</sentence>
+		<sentence id="14">
+			The(1) engine(2) does(3) make(4) a(5) nice(6) growl(7) ,(8) but(9) does(10) not(11) have(12) enough(13) muscle(14) to(15) back(16) it(17) up(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Those(1) of(2) you(3) who(4) think(5) I(6) do(7) not(8) know(9) what(10) I(11) 'm(12) talking(13) about(14) because(15) this(16) was(17) not(18) a(19) GSR(20) with(21) the(22) VTEC(23) engine(24) .....(25) stop(26) and(27) consider(28) the(29) VTEC(30) to(31) PGM-FI(32) ratio(33) of(34) integras(35) you(36) see(37) on(38) the(39) road(40) .(41) 
+		</sentence>
+		<sentence id="16">
+			I(1) think(2) it(3) 's(4) safe(5) to(6) say(7) that(8) over(9) 3_out_of_5(10) integras(11) you(12) will(13) see(14) out(15) there(16) are(17) non(18) VTEC(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			As(1) far(2) as(3) handling(4) goes(5) ,(6) it(7) 's(8) perfect(9) !(10) 
+			<opinion polarity="+" feature="handling" featWords="4" opWords="9"/>
+		</sentence>
+		<sentence id="18">
+			I(1) did(2) not(3) think(4) a(5) sedan(6) could(7) ever(8) be(9) so(10) light(11) on(12) it(13) 's(14) feet(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			To(1) impove(2) this(3) car(4) ,(5) Acura(6) should(7) redesign(8) the(9) dash(10) to(11) wrap(12) around(13) the(14) driver(15) while(16) being(17) considerate(18) of(19) the(20) passengers(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			The(1) 1991-1995(2) Toyota(3) MR2(4) dash(5) and(6) interior(7) is(8) one(9) of(10) the(11) finest(12) in(13) the(14) world(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			I(1) suggest(2) Acura(3) lower(4) the(5) seating(6) position(7) in(8) the(9) car(10) and(11) move(12) the(13) dash(14) closer(15) to(16) the(17) front(18) seat(19) occupants(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			Also(1) ,(2) drop(3) the(4) LS(5) engine(6) !(7) !(8) !(9) !(10) !(11) 
+		</sentence>
+		<sentence id="23">
+			Make(1) the(2) 170(3) horse(4) VTEC(5) engine(6) standard(7) and(8) leave(9) the(10) only(11) option(12) in(13) that(14) area(15) as(16) being(17) the(18) TYPE_R._Overall(19) ,(20) I(21) 'd(22) reccomend(23) the(24) Integra(25) ,(26) but(27) at(28) about(29) $8000(30) for(31) a(32) 1994(33) model(34) with(35) high(36) miles(37) ,(38) it(39) 's(40) priced(41) too(42) high(43) .(44) 
+		</sentence>
+		<sentence id="24">
+			About(1) 5-6K(2) sounds(3) more(4) reasonable(5) .(6) 
+		</sentence>
+	</text>
+</review>

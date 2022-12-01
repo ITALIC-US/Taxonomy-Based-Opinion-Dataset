@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="304" item="2000 Honda Civic" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) traded(2) it(3) in(4) for(5) a(6) new(7) Ford(8) and(9) am(10) now(11) very(12) happy(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Economical(1) gas(2) consumption(3) ,(4) fairly(5) reliable(6) ,(7) fun(8) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Deceptive_Finance_Dept(1) ,(2) Problems(3) with(4) seats(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Not(1) safe(2) or(3) reliable(4) car(5) .(6) 
+			<opinion polarity="+" feature="reliability" opWords="4"/>
+			<opinion polarity="-" feature="safety" opWords="1,2"/>
+		</sentence>
+		<sentence id="3">
+			VERY_EXPENSIVE_MAINTENANCE(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Looking(1) back(2) after(3) 6(4) years(5) I(6) am(7) not(8) impressed(9) with(10) this(11) car(12) &(13) will(14) NEVER(15) buy(16) another(17) Honda(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Get(1) your(2) own(3) financing(4) ,(5) do(6) not(7) deal(8) with(9) Honda_Finance(10) or(11) Service(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) 2000(4) Honda_Civic(5) 2(6) door(7) Coupe_SE(8) model(9) ((10) which(11) is(12) a(13) DX(14) with(15) a(16) few(17) goodies(18) )(19) and(20) ,(21) although(22) I(23) was(24) simply(25) looking(26) for_good(27) economical(28) reliable(29) transportation(30) ,(31) I(32) got(33) a(34) car(35) that(36) was(37) all(38) that(39) and(40) then(41) some(42) .(43) 
+			<opinion polarity="+" feature="reliability" opWords="29"/>
+			<opinion polarity="+" feature="price" opWords="28"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) one(3) of(4) the(5) most(6) fun(7) cars(8) I(9) have(10) ever(11) owned(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) gas(2) mileage(3) is(4) incredible(5) giving(6) me(7) 51(8) mpg(9) on(10) the(11) highway(12) ,(13) all(14) the(15) while(16) doing(17) it(18) with(19) all(20) the(21) pep(22) I(23) would(24) ever(25) want(26) in(27) a(28) car(29) .(30) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) legroom(2) is(3) great(4) ,(5) an(6) important(7) feature(8) for(9) a(10) guy(11) who(12) is(13) 6(14) '(15) 1(16) "(17) tall(18) .(19) The(20) air(21) conditioning(22) works(23) ,(24) cooling(25) the(26) car(27) in_100(28) degree(29) heat(30) to(31) very(32) cool(33) in(34) only(35) a(36) few(37) minutes(38) ,(39) although(40) I(41) must(42) admit(43) it(44) 's(45) a(46) little(47) noisier(48) than(49) I(50) 'd(51) like(52) .(53) The(54) Special_Edition(55) model(56) DX(57) came(58) with(59) air(60) conditioning(61) and(62) keyless(63) entry(64) which(65) I(66) personally(67) have(68) grown(69) to(70) love(71) .(72) Having(73) air(74) conditioning(75) works(76) well(77) for(78) those(79) loved(80) ones(81) with(82) allergies(83) and(84) the(85) keyless(86) entry(87) has(88) a(89) feature(90) which(91) automatically(92) locks(93) the(94) doors(95) if(96) the(97) car(98) is(99) left(100) unattended(101) with(102) the(103) key(104) out(105) of(106) the(107) ignition(108) .(109) No(110) more(111) forgetting(112) to(113) lock(114) the(115) doors(116) or(117) wondering(118) if(119) you(120) have(121) .(122) The(123) seats(124) offer(125) good(126) back(127) and(128) leg(129) support(130) on(131) long(132) drives(133) .(134) I(135) 've(136) driven(137) the(138) car(139) from(140) Vancouver_Canada(141) to(142) San_Francisco_California(143) twice(144) without(145) the(146) usual(147) fatigue(148) .(149) The(150) handling(151) on(152) the(153) highway(154) is(155) fine(156) .(157) Parking(158) in(159) the(160) city(161) is(162) a(163) breeze(164) .(165) Nice(166) stock(167) sound(168) system(169) .(170) Good(171) looks(172) too(173) ...(174) I(175) have(176) had(177) a(178) number(179) of(180) compliments(181) on(182) it(183) ....(184) not(185) bad(186) for(187) a(188) car(189) that(190) was(191) supposed(192) to(193) be(194) "(195) practical(196) "(197) .(198) The(199) major(200) complaint(201) I(202) have(203) is(204) with(205) Honda_Finance(206) ...(207) one(208) business(209) day(210) after(211) buying(212) the(213) car(214) ,(215) after(216) asking(217) specifically(218) if(219) there(220) were(221) any(222) upcoming(223) specials(224) and(225) being(226) told(227) "(228) no(229) "(230) ,(231) Honda(232) announces(233) a(234) special(235) finance(236) rate(237) on(238) the(239) exact(240) vehicle(241) I(242) bought(243) ...(244) and(245) will(246) do(247) nothing(248) about(249) it(250) .....(251) period(252) .(253) In(254) my(255) opinion(256) ,(257) if(258) have(259) to(260) finance(261) your(262) Honda(263) ,(264) shop(265) around(266) or(267) do(268) it(269) through(270) your(271) bank(272) ...(273) NOT(274) Honda(275) .(276) I(277) feel(278) that(279) I(280) have(281) had(282) my(283) new(284) car(285) experience(286) severely(287) tarnished(288) by(289) this(290) ,(291) what(292) I(293) feel(294) is(295) ,(296) deceptive(297) practice(298) .(299) This(300) is(301) going(302) to(303) cost(304) me(305) thousands(306) of(307) dollars(308) over(309) the(310) term(311) of(312) the(313) loan(314) .(315) THE(316) COST_TO_SERVICE_THIS_VEHICLE_AND_MAINTAIN_MY_WARRANTY_IS_HUGE(317) -(318) BEWARE(319) UPDATE(320) :(321) October_02_,_2001(322) -(323) A(324) little(325) over(326) one(327) year(328) later(329) the(330) upholstery(331) on(332) the(333) front(334) seat(335) ((336) driver(337) 's(338) )(339) is(340) wearing(341) very(342) thin(343) with(344) only(345) 25,000(346) mostly(347) highway(348) miles(349) ,(350) seemingly(351) due(352) to(353) both(354) poor(355) materials(356) and(357) design(358) flaws(359) .(360) I(361) 'm(362) about(363) to(364) find(365) out(366) how(367) well(368) Honda(369) stands(370) behind(371) their(372) products(373) and(374) commitment(375) to(376) quality(377) .(378) I(379) 'll(380) keep(381) you(382) informed(383) .....(384) Other(385) than(386) that(387) ,(388) the(389) car(390) has(391) been(392) a(393) pleasure(394) to(395) drive(396) .(397) Honda(398) replaced(399) the(400) seat(401) ,(402) no(403) charge(404) although(405) there(406) were(407) some(408) errors(409) made(410) in(411) getting(412) the(413) parts(414) and(415) the(416) appointment(417) straight(418) to(419) have(420) the(421) work(422) done(423) .(424) It(425) took(426) three(427) visits(428) and(429) cancellations(430) ,(431) lots(432) of(433) wasted(434) time(435) before(436) the(437) seat(438) was(439) finally(440) repaired(441) .(442) 
+			<opinion polarity="+" feature="design" featWords="172" opWords="171"/>
+			<opinion polarity="+" feature="sound system" featWords="168,169" opWords="166"/>
+			<opinion polarity="+" feature="handling" featWords="151" opWords="156"/>
+			<opinion polarity="+" feature="ac" featWords="74,75" opWords="76,77"/>
+			<opinion polarity="+" feature="ac" featWords="21,22" opWords="23"/>
+			<opinion polarity="+" feature="leg room" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			UPDATE(1) :(2) June_08_,_2002(3) -(4) Well(5) ,(6) the(7) seat(8) that(9) wore(10) out(11) and(12) had(13) to(14) be(15) replaced(16) at(17) 25,000_miles(18) has(19) been(20) replaced(21) AGAIN(22) at(23) 40,000_miles(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			This(1) time(2) my(3) Honda(4) dealer(5) was(6) hesitant(7) to(8) do(9) the(10) work(11) under(12) warranty(13) but(14) did(15) so(16) after(17) minor(18) pressure(19) was(20) put(21) on(22) them(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Somewhat(1) disappointing(2) and(3) has(4) raised(5) concerns(6) about(7) how(8) well(9) I(10) 'll(11) be(12) treated(13) in(14) the(15) future(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) rest(2) of(3) the(4) car(5) is(6) fine(7) ,(8) runs(9) well(10) and(11) looks(12) good(13) .(14) 
+			<opinion polarity="+" feature="design" opWords="12,13"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="9,10"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			Overall(1) ,(2) I(3) have(4) to(5) say(6) that(7) I(8) am(9) generally(10) pleased(11) with(12) the(13) car(14) ,(15) but(16) time(17) will(18) tell(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="11"/>
+		</sentence>
+		<sentence id="10">
+			More(1) to(2) come(3) ..................(4) UPDATE(5) :(6) November_12_,_2003(7) -(8) The(9) seat(10) has(11) had(12) to(13) replaced(14) for(15) the(16) 3rd(17) time(18) and(19) believe(20) me(21) I(22) had(23) some(24) fight(25) to(26) get(27) the(28) dealer(29) who(30) had(31) replaced(32) it(33) twice(34) already(35) to(36) do(37) it(38) a(39) third(40) time(41) ,(42) but(43) they(44) did(45) .(46) 
+		</sentence>
+		<sentence id="11">
+			I(1) am(2) thoroughly(3) unimpressed(4) with(5) the(6) Honda(7) company(8) itself(9) ,(10) although(11) still(12) quite(13) satisfied(14) with(15) the(16) car(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="12">
+			My(1) recommendation(2) would(3) be(4) to(5) anyone(6) interested(7) in(8) buying(9) a(10) Honda(11) that(12) they(13) spend(14) the(15) time(16) and(17) search(18) for(19) a(20) good(21) used(22) one(23) ,(24) have(25) it(26) tested(27) by(28) a(29) good(30) mechanic(31) and(32) deal(33) with(34) a(35) reliable(36) ((37) non-Honda(38) )(39) shop(40) AND(41) shop(42) around(43) for(44) the(45) best(46) deal(47) for(48) financing(49) .(50) 
+		</sentence>
+		<sentence id="13">
+			Banks(1) love(2) to(3) compete(4) and(5) are(6) alot(7) more(8) honest(9) and(10) flexible(11) than(12) Honda(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) a(3) good(4) thing(5) that(6) the(7) designers(8) and(9) engineers(10) do(11) not(12) mix(13) with(14) the(15) business(16) and(17) sales(18) staff(19) at(20) Honda(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			The(1) cars(2) themselves(3) are(4) hard(5) to(6) beat(7) ,(8) the(9) same(10) can(11) not(12) be(13) said(14) for(15) the(16) service(17) and(18) business(19) staff(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="16">
+			UPDATE(1) :(2) March_28_,_2005(3) -(4) The(5) car(6) is(7) now(8) off(9) of(10) warranty(11) and(12) at_least(13) I(14) do(15) not(16) have(17) to(18) deal(19) with(20) Honda(21) anymore(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			While(1) the(2) car(3) itself(4) still(5) runs(6) very(7) well(8) ,(9) the(10) driver(11) seat(12) upholstery(13) is(14) shot(15) ,(16) the(17) seat(18) itself(19) is(20) collapsing(21) in(22) places(23) and(24) I(25) 'm(26) sure(27) that(28) if(29) Honda(30) had(31) a(32) problem(33) fixing(34) it(35) when(36) it(37) was(38) on(39) warranty(40) they(41) sure(42) will(43) not(44) fix(45) it(46) now(47) .(48) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="6,8" potency="7"/>
+		</sentence>
+		<sentence id="18">
+			UPDATE(1) :(2) February_11_,_2006(3) -(4) The(5) car(6) is(7) now(8) 5.5(9) years(10) old(11) ,(12) The(13) driver(14) seat(15) is(16) totalled(17) and(18) both(19) remotes(20) for(21) the(22) keyless(23) entry(24) are(25) not(26) working(27) ((28) $65.00(29) each(30) to(31) replace(32) !(33) !(34) !(35) !(36) )(37) .(38) 
+		</sentence>
+		<sentence id="19">
+			The(1) car(2) is(3) otherwise(4) running(5) pretty(6) well(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="20">
+			To(1) be(2) continued(3) ...........(4) My(5) final(6) update(7) ,(8) car(9) is(10) sold(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			Feeling(1) relieved(2) .(3) 
+		</sentence>
+		<sentence id="22">
+			Just(1) past(2) the(3) 6(4) year(5) mark(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			Driver(1) seat(2) destroyed(3) for(4) the(5) 4th(6) time(7) ,(8) water(9) pump(10) gone(11) ,(12) car(13) overheating(14) ,(15) needs(16) a(17) timing(18) belt(19) ((20) sigh(21) )(22) ,(23) exhaust(24) getting(25) noisy(26) ,(27) brakes(28) need(29) major(30) work(31) ,(32) steering(33) acting(34) weird(35) ,(36) transmission(37) hard(38) to(39) get(40) into(41) certain(42) gears(43) like(44) 1st(45) and(46) reverse(47) .(48) 
+			<opinion polarity="-" feature="steering" featWords="33" opWords="35"/>
+		</sentence>
+		<sentence id="24">
+			In(1) hindsight(2) ,(3) I(4) never(5) felt(6) very(7) safe(8) in(9) this(10) car(11) ,(12) like(13) driving(14) a(15) tin(16) can(17) compared(18) to(19) my(20) new(21) Ford(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			Bad(1) memories(2) thanks(3) to(4) Honda_Finance(5) ,(6) wondering(7) what(8) the(9) hype(10) is(11) about(12) Japanese(13) cars(14) ,(15) will(16) never(17) by(18) another(19) ,(20) bought(21) Ford(22) and(23) have(24) been(25) treated(26) EXTREMELY(27) well(28) .(29) 
+		</sentence>
+		<sentence id="26">
+			I(1) love(2) my(3) new(4) Ford(5) .(6) 
+		</sentence>
+		<sentence id="27">
+			Epinion(1) to(2) come(3) soon(4) .(5) 
+		</sentence>
+	</text>
+</review>

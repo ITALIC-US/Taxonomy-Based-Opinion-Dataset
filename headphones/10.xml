@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="10" item="Sentry  HO900 Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Terrible(1) !(2) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low(1) cost(2) .(3) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Wireless(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) sound(2) quality(3) on(4) AC(5) converter(6) .(7) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			OK(1) w(2) 9V(3) battery(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) for(2) a(3) great(4) price(5) at(6) Big_Lots(7) -(8) less(9) than(10) $20(11) ,(12) BUT(13) -(14) the(15) sound(16) quality(17) is(18) horrible(19) .(20) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="sound quality" featWords="16,17" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			No(1) matter(2) what(3) adjustments(4) I(5) made(6) or(7) what(8) device(9) I(10) tried(11) them(12) with(13) there(14) was(15) a(16) loud(17) buzzing(18) or(19) humming(20) sound(21) that(22) was(23) usually(24) louder(25) than(26) the(27) signal(28) I(29) was(30) trying(31) to(32) listen(33) to(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			Will(1) throw(2) them(3) away(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			UPDATE(1) :(2) I(3) later(4) found(5) that(6) they(7) worked(8) OK(9) if(10) I(11) used(12) a(13) 9V(14) battery(15) in(16) the(17) transmitter(18) unit(19) rather(20) than(21) the(22) supplied(23) 12V(24) converter(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			But(1) --(2) I(3) found(4) that(5) the(6) 9V(7) battery(8) died(9) between(10) my(11) brief(12) uses(13) even_though(14) I(15) was(16) positive(17) the(18) unit(19) was(20) turned(21) off(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			Conclusion(1) :(2) A(3) piece(4) of(5) junk(6) .(7) 
+			<opinion polarity="-" feature="headphones" opWords="6"/>
+		</sentence>
+	</text>
+</review>

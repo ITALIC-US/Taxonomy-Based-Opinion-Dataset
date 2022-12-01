@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="503" item="1991 Toyota Previa" rating="3">
+	<title>
+		<sentence id="1">
+			Reliable(1) ,(2) versatile(3) minivan(4) ,(5) but(6) poor(7) IIHS(8) crash(9) rating(10) 
+			<opinion polarity="+" feature="minivan" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			dependable(1) ,(2) car-like(3) ride(4) ,(5) spacious(6) ,(7) fold-up(8) rear(9) seats(10) 
+			<opinion polarity="+" feature="room" opWords="6"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) IIHS(2) crash(3) test(4) rating(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) purchased(2) our(3) 1991(4) Previa_LE(5) new(6) and(7) have(8) put(9) over(10) 200,000_miles(11) on(12) it(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			We(1) bought(2) it(3) because(4) we(5) were(6) impressed(7) with(8) its(9) car-like(10) handling(11) ,(12) spacious(13) interior(14) and(15) functionality(16) ((17) especially(18) the(19) fold-down(20) rear(21) seats(22) )(23) .(24) 
+			<opinion polarity="+" feature="interior" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			We(1) got(2) the(3) "(4) captain(5) seats(6) "(7) in(8) the(9) middle(10) and(11) they(12) have(13) been(14) very(15) comfortable(16) --(17) although(18) we(19) 've(20) had(21) to(22) unbolt(23) them(24) from(25) the(26) chassis(27) when(28) we(29) 've(30) wanted(31) extra(32) space(33) for(34) hauling(35) ((36) this(37) is(38) a(39) no-no(40) per(41) Toyota(42) )(43) 10/2/00(44) UPDATE(45) :(46) For(47) an(48) amazingly(49) rich(50) listing(51) of(52) owner(53) comments(54) on(55) the(56) 1991(57) Previa(58) ,(59) go(60) to(61) Tom_&_Ray_'s_Cartalk_Survey(62) at(63) Cars(64) .(65) com(66) .(67) 
+			<opinion polarity="+" feature="comfort" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="4">
+			The(1) URL(2) is(3) http://cartalk.cars.com/Survey/Results/Demographics/Comments/Toyota/Previa-1991.html(4) We(5) learned(6) there(7) about(8) the(9) SAD(10) ((11) supplemental(12) accessory(13) driveshaft(14) )(15) problem(16) ,(17) which(18) we(19) have(20) not(21) yet(22) had(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			But(1) now(2) we(3) 're(4) prepared(5) .(6) .(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) engine(2) and(3) power(4) train(5) have(6) had(7) no(8) significant(9) problems(10) to(11) date(12) ,(13) and(14) the(15) car(16) overall(17) has(18) been(19) a(20) delight(21) to(22) drive(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			We(1) 've(2) taken(3) this(4) car(5) on(6) ski(7) trips(8) over(9) icy(10) roads(11) ((12) w(13) /(14) chains(15) on(16) )(17) ,(18) and(19) fully(20) loaded(21) on(22) dirt(23) roads(24) on(25) Boy_Scout(26) outings(27) ,(28) and(29) it(30) 's(31) performed(32) well(33) in_all(34) situations(35) .(36) 
+			<opinion polarity="+" feature="performance" opWords="32,33"/>
+		</sentence>
+		<sentence id="8">
+			We(1) 've(2) had(3) several(4) small(5) fender-benders(6) which(7) were(8) repaired(9) at(10) reasonable(11) expense(12) ,(13) and(14) the(15) car(16) 's(17) bumpers(18) held(19) up(20) well(21) under(22) these(23) ((24) low-speed(25) )(26) conditions(27) .(28) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="19,20,21"/>
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="9">
+			There(1) are(2) some(3) cautions(4) ,(5) however(6) ,(7) for(8) the(9) used(10) car(11) buyer(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			We(1) used(2) the(3) extended(4) warranty(5) to(6) replace(7) the(8) factory(9) high-end(10) stereo(11) system(12) ,(13) which(14) went(15) out(16) later(17) anyway(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			The(1) rear-seat(2) large(3) sun(4) roof(5) motor(6) no_longer(7) works(8) ,(9) but(10) we(11) have(12) not(13) any(14) desire(15) to(16) get(17) it(18) active(19) again(20) anyway(21) ((22) our(23) kids(24) used(25) to(26) stick(27) their(28) heads(29) through(30) it(31) for(32) kicks(33) --(34) which(35) is(36) extremely(37) unsafe(38) --(39) unnerving(40) us(41) to(42) no(43) end(44) )(45) .(46) 
+			<opinion polarity="-" feature="safety" opWords="38" potency="37"/>
+		</sentence>
+		<sentence id="12">
+			The(1) front(2) window(3) mists(4) up(5) excessively(6) in(7) winter(8) ,(9) and(10) the(11) toyota(12) dealer(13) ,(14) after(15) supposedly(16) checking(17) everything(18) else(19) ,(20) told(21) us(22) to(23) prevent(24) this(25) by(26) keeping(27) the(28) air(29) conditioner(30) on(31) at(32) all(33) times(34) ((35) !(36) )(37) A(38) ridiculous(39) solution(40) ,(41) but(42) it(43) apparently(44) works(45) ((46) see(47) note(48) below(49) re(50) maintenance(51) )(52) .(53) 
+		</sentence>
+		<sentence id="13">
+			Our(1) new(2) Toyota(3) auto(4) shop(5) tells(6) us(7) that(8) they(9) should(10) be(11) able(12) fix(13) this(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Lastly(1) ,(2) anyone(3) considering(4) the(5) purchase(6) of(7) this(8) vehicle(9) needs(10) to(11) go(12) to(13) www.highwaysafety.org(14) ,(15) the(16) web(17) site(18) for(19) the(20) Insurance_Institute_for_Highway_Safety(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			Our(1) precious(2) Previa(3) rated(4) in(5) last(6) place(7) among(8) non-current(9) minivans(10) in(11) their(12) crash-test(13) comparison(14) study(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			And(1) the(2) model(3) that(4) they(5) were(6) referring(7) to(8) had(9) airbags(10) ,(11) unlike(12) our(13) 1991(14) model(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			The(1) picture(2) showing(3) the(4) crunched-up(5) crash(6) dummy(7) and(8) protruding(9) steering(10) wheel(11) column(12) has(13) been(14) enough(15) to(16) stir(17) us(18) into(19) shopping(20) around(21) for(22) a(23) new(24) ((25) 2000(26) model(27) )(28) car(29) ,(30) one(31) that(32) better(33) conforms(34) to(35) safety(36) standards(37) that(38) were(39) not(40) around(41) in_1991(42) ((43) the(44) new(45) Toyota(46) minivan(47) ,(48) the(49) Sienna(50) ,(51) is(52) top-rated(53) by(54) IIHS(55) )(56) .(57) 
+		</sentence>
+		<sentence id="18">
+			We(1) 'll(2) use(3) the(4) new(5) car(6) for(7) highway(8) driving(9) and(10) keep(11) our(12) Previa(13) for(14) local(15) use(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			We(1) 'd(2) hate(3) to(4) part(5) with(6) it(7) after(8) all(9) the(10) good(11) years(12) that(13) it(14) 's(15) given(16) us(17) .(18) ((19) we(20) drive(21) our(22) cars(23) till(24) they(25) drop(26) ;(27) our(28) other(29) one(30) is(31) an(32) '(33) 83(34) Mercedes(35) 300(36) SD(37) diesel(38) )(39) ------------------------------(40) FYI(41) re(42) Toyota(43) maintenance(44) ,(45) but(46) unrelated(47) to(48) the(49) review(50) of(51) the(52) Previa(53) :(54) We(55) were(56) recently(57) told(58) by(59) our(60) Toyota(61) dealer(62) that(63) we(64) needed(65) to(66) replace(67) our(68) entire(69) air(70) conditioning(71) system(72) ,(73) for(74) a(75) total(76) of(77) $1600(78) ((79) see(80) note(81) above(82) about(83) driving(84) with(85) this(86) on(87) all(88) the(89) time(90) )(91) .(92) 
+		</sentence>
+		<sentence id="20">
+			The(1) compressor(2) motor(3) alone(4) costs(5) $900(6) ,(7) so(8) we(9) thought(10) we(11) 'd(12) get(13) a_second(14) opinion(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			We(1) went(2) to(3) Yarnell_'s_Toyota(4) in(5) Mountain_View(6) ((7) CA(8) )(9) ,(10) which(11) is(12) highly(13) rated(14) by(15) the(16) Bay_Area_Consumer_'s_Checkbook(17) auto(18) repair(19) shop(20) ratings(21) ((22) www.consumerscheckbook.org).(23) They(24) checked(25) out(26) everything(27) and(28) concluded(29) that(30) we(31) only(32) needed(33) to(34) recharge(35) the(36) freon(37) to(38) get(39) it(40) to(41) perform(42) to(43) specifications(44) ((45) cost(46) of(47) $120(48) )(49) .(50) 
+		</sentence>
+		<sentence id="22">
+			They(1) said(2) that(3) they(4) 'd(5) never(6) had(7) to(8) replace(9) a(10) Previa(11) compressor(12) before(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			The(1) Toyota(2) dealer(3) later(4) refunded(5) the(6) $71(7) that(8) they(9) had(10) charged(11) us(12) to(13) incorrectly(14) diagnose(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			We(1) had(2) a(3) related(4) experience(5) with(6) Midas(7) ,(8) which(9) ,(10) while(11) putting(12) on(13) our(14) "(15) lifetime(16) free(17) "(18) brake(19) pads(20) ,(21) told(22) us(23) that(24) we(25) needed(26) new(27) rear(28) rotors(29) for(30) an(31) additional(32) $350(33) .(34) 
+		</sentence>
+		<sentence id="25">
+			Again(1) to(2) Yarnell(3) 's(4) for(5) a_second(6) opinion(7) ,(8) and(9) their(10) confirmation(11) that(12) all(13) we(14) needed(15) was(16) the(17) rotors(18) to(19) be(20) ground(21) and(22) pads(23) replaced(24) ((25) total(26) cost(27) of(28) $178(29) )(30) .(31) 
+		</sentence>
+		<sentence id="26">
+			Caveat(1) emptor(2) .(3) 
+		</sentence>
+	</text>
+</review>

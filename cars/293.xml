@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="293" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Choppy(1) ride(2) ,(3) overall(4) great(5) car(6) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Most(1) everything(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) harsh(2) ride(3) 
+			<opinion polarity="-" feature="ride quality" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Having(1) been(2) a(3) previous(4) owner(5) of(6) Maxima(7) 's(8) ,(9) it(10) was(11) with(12) excitement(13) I(14) purchased(15) a(16) 2000(17) GLE(18) model(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) amazed(3) at(4) the(5) operation(6) and(7) performance(8) of(9) this(10) new(11) vehicle(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Only(1) the(2) choppiness(3) of(4) the(5) ride(6) was(7) a(8) major(9) disappointment(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			OPERATION_&_PERFORMANCE(1) :(2) This(3) year(4) 's(5) model(6) is(7) perhaps(8) the(9) best(10) performing(11) Maxima(12) ever(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Its(1) automatic(2) transmission(3) shifts(4) smoothly(5) and(6) its(7) powerful(8) 222(9) HP(10) motor(11) responds(12) at(13) a(14) touch(15) .(16) 
+			<opinion polarity="+" feature="horsepower" opWords="8"/>
+			<opinion polarity="+" feature="shifter" opWords="4,5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) operation(2) of(3) its(4) controls(5) are(6) intuitive(7) and(8) efficient(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			The(1) basic(2) GLE(3) model(4) includes(5) virtually(6) every(7) option(8) I(9) would(10) consider(11) necessary(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			All(1) operate(2) easily(3) .(4) 
+			<opinion polarity="+" feature="controls" opWords="2,3"/>
+		</sentence>
+		<sentence id="9">
+			Steering(1) &(2) handling(3) are(4) excellent(5) with(6) little(7) sway(8) on(9) curves(10) ,(11) even(12) at(13) high(14) speeds(15) .(16) 
+			<opinion polarity="+" feature="handling" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="steering" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Gas(1) consumption(2) is(3) average(4) at(5) about(6) 19-20(7) MPG(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			COMFORT(1) :(2) Being(3) 6(4) '(5) 1(6) "(7) ,(8) I(9) appreciate(10) the(11) headroom(12) and(13) legroom(14) offered(15) in(16) this(17) year(18) 's(19) model(20) .(21) The(22) leather(23) seats(24) are(25) comfortable(26) and(27) readily(28) adjustable(29) to(30) any(31) position(32) .(33) Road(34) noise(35) has(36) been(37) reduced(38) from(39) previous(40) models(41) which(42) helps(43) you(44) enjoy(45) the(46) 7(47) speaker(48) Bose(49) system(50) .(51) The(52) trunk(53) is(54) spacious(55) and(56) the(57) split(58) back(59) seat(60) offers(61) additional(62) room(63) for(64) those(65) long(66) objects(67) .(68) RIDE(69) :(70) This(71) has(72) been(73) my(74) only(75) major(76) complaint(77) .(78) In(79) fact(80) I(81) returned(82) one(83) vehicle(84) thinking(85) the(86) choppy(87) ride(88) was(89) unique(90) only(91) to(92) it(93) .(94) Unfortunately(95) ,(96) it(97) was(98) not(99) .(100) It(101) is(102) perhaps(103) the(104) harshest(105) riding(106) larger(107) car(108) I(109) have(110) ever(111) owned(112) or(113) driven(114) in(115) .(116) The(117) Toyota_Camry(118) ,(119) Avalon(120) ,(121) Lexus(122) ,(123) Cadillac(124) ,(125) etc.(126) ,(127) ride(128) 's(129) are(130) far(131) superior(132) .(133) The(134) Maxima(135) lets(136) you(137) feel(138) every(139) crack(140) in(141) the(142) road(143) and(144) you(145) get(146) the(147) feeling(148) if(149) you(150) rode(151) over(152) a(153) dime(154) you(155) would(156) feel(157) it(158) .(159) My(160) previous(161) Maximas(162) were(163) far(164) smoother(165) riding(166) than(167) this(168) year(169) 's(170) model(171) .(172) The(173) dealer(174) simply(175) said(176) '(177) that(178) 's(179) the(180) way(181) it(182) is(183) '(184) .(185) Do(186) not(187) confuse(188) this(189) with(190) performance(191) or(192) operation(193) which(194) are(195) both(196) outstanding(197) .(198) I(199) hope(200) this(201) new(202) car(203) will(204) '(205) loosen(206) up(207) '(208) after(209) a(210) few(211) thousand(212) miles(213) because(214) it(215) would(216) be(217) a(218) shame(219) to(220) have(221) to(222) live(223) with(224) such(225) a(226) harsh(227) ride(228) in(229) an(230) otherwise(231) excellent(232) car(233) .(234) OVERALL(235) :(236) This(237) is(238) a(239) great(240) stylish(241) ,(242) handling(243) and(244) operating(245) car(246) whose(247) ride(248) will(249) never(250) allow(251) you(252) to(253) fall(254) asleep(255) at(256) the(257) wheel(258) .(259) 
+			<opinion polarity="+" feature="design" opWords="241"/>
+			<opinion polarity="+" feature="car" featWords="246" opWords="240"/>
+			<opinion polarity="+" feature="car" featWords="233" opWords="232"/>
+			<opinion polarity="-" feature="ride quality" featWords="106" opWords="105"/>
+			<opinion polarity="-" feature="ride quality" featWords="88" opWords="87"/>
+			<opinion polarity="+" feature="trunk" featWords="53" opWords="55"/>
+			<opinion polarity="+" feature="seat" featWords="24" opWords="29"/>
+			<opinion polarity="+" feature="seat" featWords="24" opWords="26"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="54" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) headphones(2) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Awesome(1) sound(2) ,(3) great(4) range(5) ,(6) very(7) flat(8) response(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="range" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="frequency response" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) headphones(2) overall(3) .(4) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) when(4) my(5) 7(6) year(7) old(8) Optimus(9) headphones(10) ((11) ~(12) $50(13) pair(14) )(15) broke(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			These(1) Sennheisers(2) are(3) a(4) huge(5) improvement(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) response(2) is(3) completely(4) flat(5) ,(6) they(7) are(8) much(9) more(10) comfortable(11) than(12) my(13) other(14) headphones(15) .(16) 
+			<opinion polarity="+" feature="frequency response" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			After(1) extended(2) wear(3) ((4) a(5) few(6) hours(7) )(8) they(9) are(10) somewhat(11) tiring(12) ,(13) but(14) not(15) nearly(16) as(17) bad(18) as(19) other(20) headphones(21) I(22) 've(23) used(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			The(1) cord(2) is(3) of(4) a(5) great(6) length(7) and(8) terminates(9) with(10) a(11) 1/8_inch(12) connector(13) ((14) comes(15) with(16) screw-on(17) 1/4_inch(18) adapter(19) )(20) ,(21) like(22) most(23) devices(24) use(25) now(26) .(27) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="6,7"/>
+		</sentence>
+		<sentence id="6">
+			They(1) fold(2) up(3) into(4) a(5) fairly(6) small(7) form(8) ,(9) enough(10) to(11) travel(12) with(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			With(1) good(2) quality(3) ,(4) well(5) recorded(6) music(7) it(8) sounds(9) as(10) though(11) you(12) are(13) listening(14) in(15) a(16) perfectly(17) quiet(18) room(19) ((20) 30(21) something(22) decibels(23) of(24) passive(25) attenuation(26) )(27) with(28) very(29) high(30) quality(31) speakers(32) .(33) 
+		</sentence>
+	</text>
+</review>

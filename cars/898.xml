@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="898" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			Squash_the_Bug(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			fun(1) to(2) drive(3) ,(4) cute(5) 
+			<opinion polarity="+" feature="design" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			gas(1) cap(2) ,(3) hatch(4) ,(5) unuseable(6) back(7) seat(8) ,(9) low(10) gearing(11) ,(12) fog(13) lamps(14) ,(15) gas(16) mileage(17) on(18) the(19) highway(20) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) vehicle(2) was(3) originally(4) bought(5) because(6) it(7) was(8) something(9) different(10) ,(11) and(12) because_of(13) the(14) nostalgia(15) surrounding(16) it(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			After(1) that(2) wears(3) off(4) ,(5) it(6) is(7) just(8) a(9) car(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			For(1) some(2) reason(3) people(4) love(5) hitting(6) this(7) car(8) ,(9) I(10) am(11) not(12) sure(13) why(14) ,(15) but(16) in(17) parking(18) lots(19) ,(20) on(21) the(22) street(23) ,(24) everywhere(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Truly(1) overall(2) it(3) is(4) not(5) a(6) horrible(7) vehicle(8) ,(9) women(10) love(11) it(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="5,7"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) very(3) impracticle(4) though(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			I(1) find(2) the(3) car(4) grinding(5) over(6) speed(7) bumps(8) irregardless(9) of(10) how(11) slow(12) I(13) go(14) over(15) them(16) ,(17) no(18) one(19) over(20) five_feet(21) can(22) really(23) sit(24) in(25) the(26) back(27) of(28) the(29) car(30) ,(31) I(32) have(33) almost(34) given(35) people(36) conclusions(37) because_of(38) a(39) large(40) metal(41) structure(42) that(43) sits(44) right(45) where(46) their(47) head(48) should(49) go(50) ,(51) it(52) is(53) part(54) of(55) the(56) hatch(57) system(58) ,(59) but(60) it(61) takes(62) up(63) a_ton(64) of(65) inside(66) space(67) ,(68) and(69) when(70) people(71) in(72) the(73) back(74) turn(75) to(76) look(77) out(78) the(79) window(80) ,(81) smack(82) .(83) 
+		</sentence>
+		<sentence id="7">
+			The(1) dash(2) is(3) enormous(4) ,(5) it(6) is(7) good(8) because(9) it(10) really(11) does(12) give(13) a(14) feeling(15) of(16) open(17) space(18) ,(19) but(20) it(21) is(22) in(23) two(24) pieces(25) and(26) the(27) piece(28) that(29) is(30) farther(31) away(32) begins(33) to(34) warp(35) ,(36) and(37) leaves(38) a(39) small(40) gap(41) where(42) they(43) are(44) supposed(45) to(46) meet(47) ,(48) Volkswagon(49) tells(50) me(51) that(52) this(53) is(54) normal(55) ,(56) I(57) tell(58) them(59) they(60) are(61) smoking(62) crack(63) .(64) 
+			<opinion polarity="+" feature="dash" featWords="6" featRef="dash" opWords="8"/>
+			<opinion polarity="+" feature="dash" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) light(2) grey(3) headliner(4) really(5) does(6) show(7) its(8) age(9) quickly(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			The(1) stereo(2) is(3) not(4) to(5) bad(6) ,(7) I(8) think(9) they(10) did(11) a(12) good(13) job(14) on(15) the(16) speakers(17) ,(18) except(19) that(20) the(21) last(22) time(23) I(24) took(25) my(26) car(27) in(28) to(29) be(30) serviced(31) one(32) of(33) the(34) mechanics(35) accidentally(36) turned(37) up(38) my(39) stereo(40) when(41) he(42) was(43) trying(44) to(45) turn(46) it(47) off(48) and(49) blew(50) one(51) of(52) the(53) speaker(54) ,(55) and(56) of(57) course(58) Volkswagon(59) will(60) not(61) cover(62) that(63) .(64) 
+		</sentence>
+		<sentence id="10">
+			The(1) windshield(2) is(3) also(4) huge(5) and(6) loves(7) to(8) crack(9) from(10) any(11) kind(12) of(13) rocks(14) that(15) hit(16) it(17) ,(18) I(19) have(20) had(21) my(22) car(23) less(24) then(25) a(26) year(27) and(28) I(29) already(30) have(31) four(32) HUGE(33) cracks(34) in(35) it(36) ,(37) it(38) will(39) have(40) to(41) be(42) replaced(43) .(44) 
+		</sentence>
+		<sentence id="11">
+			The(1) fog(2) lamps(3) are(4) one(5) of(6) the(7) dumbest(8) things(9) I(10) have(11) ever(12) seem(13) !(14) 
+		</sentence>
+		<sentence id="12">
+			They(1) make(2) those(3) lamps(4) out(5) of(6) glass(7) ,(8) the(9) make(10) the(11) headlights(12) out(13) of(14) plastic(15) ,(16) well(17) that(18) fog(19) light(20) broke(21) within(22) two(23) weeks(24) of(25) getting(26) the(27) car(28) ,(29) one(30) rock(31) and(32) bang(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			I(1) had(2) two(3) of(4) these(5) cars(6) and(7) the(8) same(9) thing(10) happened(11) to(12) the(13) other(14) one(15) around(16) the(17) same(18) time(19) ,(20) if(21) you(22) look(23) at(24) pretty(25) much(26) any(27) Beetle(28) you(29) will(30) find(31) this(32) to(33) be(34) true(35) .(36) 
+		</sentence>
+		<sentence id="14">
+			I(1) asked(2) Volkswagon(3) is(4) this(5) was(6) just(7) a(8) design(9) flaw(10) ,(11) and(12) they(13) said(14) no(15) because(16) it(17) was(18) the(19) rocks(20) fault(21) ,(22) I(23) asked(24) them(25) that(26) if(27) they(28) made(29) a(30) while(31) car(32) out(33) of(34) glass(35) and(36) said(37) what(38) a(39) amazing(40) car(41) for(42) the(43) road(44) ,(45) then(46) had(47) a(48) rock(49) hit(50) the(51) car(52) and(53) it(54) shattered(55) ,(56) would(57) that(58) be(59) the(60) rocks(61) fault(62) ?(63) 
+			<opinion polarity="+" feature="car" featWords="41" opWords="40"/>
+		</sentence>
+		<sentence id="15">
+			I(1) was(2) told(3) yes(4) .(5) 
+		</sentence>
+		<sentence id="16">
+			To(1) replace(2) those(3) lovely(4) little(5) fog(6) lights(7) you(8) have(9) to(10) get(11) Volkswagon(12) to(13) take(14) the(15) whole(16) bumper(17) off(18) ,(19) a(20) costly(21) procedure(22) ,(23) of(24) course(25) NOW(26) you(27) can(28) buy(29) little(30) protectors(31) ,(32) to(33) bad(34) someone(35) did(36) not(37) tell(38) me(39) that(40) before(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			The(1) part(2) of(3) the(4) bumper(5) that(6) houses(7) the(8) foglights(9) is(10) made(11) out(12) of(13) white(14) plastic(15) ,(16) you(17) 'll(18) notice(19) that(20) pretty(21) quick(22) if(23) you(24) get(25) any(26) rocks(27) or(28) sand(29) at(30) all(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			The(1) gas(2) cap(3) is(4) horizontal(5) ,(6) so_that(7) during(8) winter(9) ,(10) bring(11) a(12) thermos(13) of(14) boiling(15) water(16) with(17) you(18) or(19) it(20) is(21) impossible(22) to(23) open(24) ,(25) again(26) really(27) smart(28) on(29) their(30) part(31) .(32) 
+		</sentence>
+		<sentence id="19">
+			My(1) tires(2) continually(3) leak(4) ,(5) I(6) have(7) brought(8) them(9) in(10) a(11) bunch(12) of(13) times(14) and(15) they(16) say(17) that(18) I(19) picked(20) up(21) a(22) nail(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			Well(1) last(2) weekend(3) I(4) had(5) the(6) car(7) in(8) and(9) by(10) the(11) time(12) that(13) I(14) picked(15) it(16) up(17) from(18) the(19) local(20) Volkswagon(21) dealer(22) ,(23) apparently(24) somewhere(25) in(26) their(27) parking(28) lot(29) I(30) picked(31) up(32) another(33) nail(34) ,(35) cute(36) .(37) 
+		</sentence>
+		<sentence id="21">
+			Overall(1) ,(2) I(3) think(4) it(5) is(6) an(7) alright(8) car(9) it(10) has(11) a(12) decent(13) amount(14) of(15) power(16) ,(17) gas(18) mileage(19) is(20) alright(21) ,(22) it(23) is(24) not(25) a(26) highway(27) car(28) because(29) it(30) is(31) geared(32) to(33) low(34) which(35) sucks(36) .(37) 
+			<opinion polarity="+" feature="gas" featWords="18,19" opWords="21"/>
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) pretty(3) stable(4) on(5) ice(6) and(7) snow(8) which(9) is(10) awesome(11) ,(12) and(13) overall(14) is(15) fun(16) to(17) drive(18) ,(19) I(20) do(21) think(22) that(23) it(24) would(25) make(26) a(27) great(28) rally(29) car(30) .(31) 
+			<opinion polarity="+" feature="car" opWords="16"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+			<opinion polarity="+" feature="stability" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="30" opWords="28"/>
+		</sentence>
+		<sentence id="23">
+			If(1) Volkswagon(2) would(3) have(4) spend(5) a(6) few(7) more(8) moments(9) thinking(10) about(11) the(12) car(13) they(14) would(15) have(16) gotten(17) it(18) right(19) .(20) 
+		</sentence>
+	</text>
+</review>

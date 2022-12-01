@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="397" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Want(1) to(2) cancel(3) out(4) the(5) world(6) ?(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) sound(2) and(3) noise(4) canceling(5) ability(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="4,5" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) pricey(2) ,(3) but(4) you(5) get(6) what(7) you(8) pay(9) for(10) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Outstanding(1) ,(2) exceptional(3) ,(4) terrific(5) ,(6) wonderful(7) ,(8) stupendous(9) ,(10) dazzling(11) ,(12) marvelous(13) ((14) darling(15) )(16) ,(17) excellent(18) ,(19) great(20) ,(21) superior(22) are(23) all(24) words(25) to(26) describe(27) these(28) headphones(29) .(30) 
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="1"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="3"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="5"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="7"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="9"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="11"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="13"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="15"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="18"/>
+			<opinion polarity="+" feature="headphones" featWords="29" opWords="20"/>
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) in(3) the(4) Air_Force(5) and(6) I(7) work(8) on(9) a(10) floor(11) with(12) about(13) 20(14) different(15) conversations(16) going(17) at(18) any(19) time(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Very(1) annoying(2) !(3) 
+			<opinion polarity="-" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="4">
+			I(1) purchased(2) my(3) headphones(4) and(5) brought(6) them(7) to(8) work(9) to(10) listen(11) to(12) music(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			With(1) one(2) flick(3) of(4) the(5) power(6) button(7) ,(8) I(9) was(10) set(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) did(2) not(3) have(4) to(5) hear(6) any(7) conversation(8) or(9) anything(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Even(1) equipment(2) noise(3) was(4) canceled(5) out(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			They(1) come(2) to(3) work(4) with(5) me(6) daily(7) and(8) I(9) would(10) not(11) have(12) it(13) any(14) other(15) way(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) and(3) have(4) recommended(5) to(6) fellow(7) workers(8) and(9) friends(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			They(1) are(2) a(3) must(4) in(5) my(6) book(7) .(8) 
+		</sentence>
+	</text>
+</review>

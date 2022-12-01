@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="293" item="Bose QuietComfort 2 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) lousy(3) build(4) quality(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="4" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			AAA_Battery(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Noise_Canceling(1) .(2) 
+		</sentence>
+		<sentence id="4">
+			Over(1) ear(2) comfort(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bulky(1) ,(2) feedback(3) howl(4) at(5) times(6) and(7) very(8) poor(9) build(10) quality(11) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) just(3) about(4) to(5) start(6) my(7) third(8) pair(9) of(10) QC2(11) headphones(12) in(13) 3(14) years(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) use(2) them(3) on(4) flights(5) quite(6) frequently(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) quality(3) is(4) very(5) acceptable(6) for(7) in(8) flight(9) as_well(10) as(11) MP3/4(12) and(13) Computer(14) /(15) DVD(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) a(3) thoughtful(4) impedance(5) switch(6) to(7) alter(8) input(9) setting(10) for(11) airline(12) use(13) which(14) some(15) others(16) do(17) not(18) have(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) noise(2) canceling(3) is(4) very(5) effective(6) with(7) bass(8) roar(9) from(10) engines(11) but(12) less(13) with(14) middle(15) frequency(16) air(17) noise(18) .(19) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			They(1) do(2) provide(3) a(4) welcome(5) relief(6) from(7) annoying(8) children(9) and(10) babies(11) though(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) unit(2) runs(3) on(4) AAA(5) battery(6) so(7) you(8) can(9) not(10) get(11) caught(12) with(13) no(14) power(15) as(16) on(17) QC3(18) 's(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) units(2) has(3) three(4) downsides(5) for(6) me(7) ,(8) in(9) ascending(10) order(11) of(12) importance(13) :(14) Bulky(15) in_case(16) ,(17) they(18) howl(19) with(20) feedback(21) if(22) you(23) accidentally(24) fall(25) asleep(26) and(27) cover(28) one(29) earpiece(30) by(31) putting(32) your(33) ear(34) to(35) a(36) pillow(37) ,(38) they(39) fall(40) apart(41) .(42) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) had(3) two(4) units(5) fail(6) now(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			The(1) original(2) problem(3) they(4) said(5) was(6) a(7) design(8) flaw(9) ,(10) now(11) it(12) looks(13) like(14) a(15) plastic(16) weakness(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Both(1) times(2) ,(3) I(4) picked(5) them(6) out(7) of(8) the(9) case(10) and(11) they(12) fell(13) apart(14) in(15) my(16) hands(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Never(1) had(2) this(3) with(4) the(5) Sony(6) 's(7) but(8) prefer(9) Bose(10) sound(11) so(12) now(13) going(14) to(15) try(16) Sennheiser(17) PXC-350(18) .(19) 
+		</sentence>
+	</text>
+</review>

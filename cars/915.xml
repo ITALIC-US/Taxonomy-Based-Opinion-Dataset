@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="915" item="2002 Hyundai Sonata" rating="1">
+	<title>
+		<sentence id="1">
+			Turned(1) into(2) a(3) Lemon(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stylish_Looks(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliability(1) ,(2) Gas_Mileage(3) ,(4) Trans_Shift_Jerkiness(5) ,(6) Weak_AC(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) ((5) 02(6) Sonata_GLS(7) )(8) to(9) replace(10) an(11) old(12) Honda_Accord(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) willing(3) to(4) take(5) a(6) chance(7) due(8) to(9) the(10) generous(11) warranty(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) loved(2) the(3) look(4) and(5) feel(6) of(7) the(8) car(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Other(1) than(2) the(3) three(4) recalls(5) ,(6) this(7) car(8) was(9) great(10) from(11) the(12) beginning(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) followed(3) every(4) bit(5) of(6) scheduled(7) maintenance(8) on(9) this(10) car(11) ,(12) but(13) things(14) went(15) down(16) hill(17) around(18) 38,000_miles(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Here(1) is(2) a(3) list(4) of(5) what(6) has(7) been(8) done(9) between(10) 38,000(11) and(12) 53,000(13) :(14) Replace(15) Fuel_Regulator_TWICE_Replace_Fuel_Vent_Valve_Replace_Front_Window_Holders_Replace_Master_Door_Lock_Relay_TWICE_Replace_Fuel_Sending_Unit_Replace_Transmission_Input_Speed_Sensor_Replace_Transmission_Output_Speed_Sensor_All(16) of(17) that(18) over(19) just(20) 15,000_miles(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			My(1) complaints(2) to(3) Hyundai(4) fell(5) on(6) deaf(7) ears(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			When(1) this(2) cars(3) bumper(4) to(5) bumper(6) warranty(7) expires(8) at(9) 60,000_miles(10) ,(11) I(12) 'm(13) going(14) to(15) find(16) a(17) sucker(18) to(19) buy(20) it(21) ((22) although(23) I(24) guess(25) this(26) review(27) will(28) not(29) get(30) me(31) any(32) takers(33) )(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			I(1) 'd(2) rather(3) trade(4) in(5) my(6) 1995(7) Dodge_Intrepid(8) ,(9) but(10) it(11) is(12) much(13) more(14) reliable(15) than(16) the(17) 02(18) Sonata_Amount_Paid(19) ((20) US(21) $(22) )(23) :(24) $18,000(25) Condition(26) :(27) NewModel_Year(28) :(29) 2002Model(30) and(31) Options(32) :(33) GLS(34) ,(35) V6(36) 
+		</sentence>
+	</text>
+</review>

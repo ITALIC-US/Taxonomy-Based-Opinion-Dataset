@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="458" item="Sony MDR-RF960RK Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Nice(1) but(2) range(3) is(4) pathetic(5) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="range" featWords="3" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Battery(1) life(2) is(3) exceptional(4) .(5) 
+			<opinion polarity="+" feature="battery life" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Sound(1) quality(2) is(3) great(4) ((5) when(6) there(7) is(8) no(9) signal(10) interference(11) )(12) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			MUCH(1) noise(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Very(1) specialized(2) batteries(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) must(2) admit(3) ,(4) I(5) saved(6) up(7) my(8) money(9) to(10) purchase(11) these(12) because_of(13) the(14) brand(15) name(16) Sony(17) and(18) the(19) fact(20) that(21) I(22) have(23) many(24) Sony(25) products(26) that(27) I(28) have(29) never(30) had(31) a(32) problem(33) with(34) .(35) 
+		</sentence>
+		<sentence id="2">
+			They(1) sound(2) great(3) ...(4) as(5) long(6) as(7) you(8) are(9) 2_feet(10) from(11) the(12) base(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) NO_WAY(3) they(4) will(5) reach(6) the(7) listed(8) 150_feet(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) lose(2) the(3) signal(4) one(5) floor(6) down(7) and(8) my(9) house(10) is(11) only(12) wood(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			I(1) even(2) get(3) interference(4) when(5) I(6) am(7) right(8) next(9) to(10) the(11) base(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) a(3) little(4) disappointed(5) with(6) the(7) interference(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			All(1) three(2) channels(3) give(4) me(5) the(6) same(7) result(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) not(3) totally(4) dis(5) them(6) as(7) they(8) are(9) comfortable(10) ,(11) but(12) do(13) not(14) get(15) too(16) far(17) from(18) the(19) base(20) .(21) 
+			<opinion polarity="+" feature="comfort" opWords="10"/>
+		</sentence>
+	</text>
+</review>

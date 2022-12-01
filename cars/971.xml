@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="971" item="1998 Jeep Wrangler" rating="1">
+	<title>
+		<sentence id="1">
+			Always(1) wanted(2) one(3) ,(4) now(5) I(6) want(7) rid(8) of(9) it(10) .(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Four-seater(1) convertible(2) that(3) is(4) not(5) a(6) boring(7) Sebring(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="5,7"/>
+		</sentence>
+		<sentence id="2">
+			Easy(1) to(2) work(3) on(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Loud(1) ,(2) unreliable(3) ,(4) fit(5) &(6) finish(7) ,(8) slow(9) ,(10) eats(11) gas(12) ,(13) makes(14) you(15) long(16) for(17) a(18) boring(19) Sebring(20) .(21) 
+			<opinion polarity="-" feature="car" opWords="19"/>
+			<opinion polarity="-" feature="speed" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Unreliable(1) ,(2) ride(3) quality(4) of(5) a(6) moon-bounce(7) ,(8) loud(9) --(10) But(11) hey(12) ,(13) it(14) 's(15) a(16) Jeep(17) !(18) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Right(1) ?(2) 
+		</sentence>
+		<sentence id="3">
+			Can_I(1) get(2) a(3) hi(4) -(5) 5(6) ?(7) 
+		</sentence>
+		<sentence id="4">
+			Anyone(1) ?(2) 
+		</sentence>
+		<sentence id="5">
+			Heck(1) with(2) it(3) ,(4) I(5) 'm(6) buying(7) Japanese(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) finally(2) bought(3) a(4) Jeep(5) a(6) couple(7) months(8) ago(9) and(10) I(11) am(12) listing(13) it(14) for(15) sale(16) this(17) weekend(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			I(1) currently(2) own(3) a(4) Honda_Element(5) ,(6) Miata(7) ,(8) and(9) a(10) steaming(11) pile(12) of(13) Jeep(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) always(3) had(4) friends(5) who(6) owned(7) Jeeps(8) so(9) I(10) figured(11) I(12) would(13) own(14) one(15) for(16) a(17) while(18) to(19) see(20) what(21) all(22) the(23) fuss(24) was(25) about(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			After(1) two(2) months(3) of(4) ownership(5) I(6) can(7) honestly(8) say(9) that(10) I(11) have(12) no(13) idea(14) what(15) the(16) fuss(17) is(18) about(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Granted(1) this(2) thing(3) is(4) nearly(5) 9(6) years(7) old(8) ,(9) but(10) it(11) only(12) has(13) 66k_miles(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) buy(2) a(3) used(4) car(5) about(6) every(7) six(8) months(9) and(10) I(11) have(12) owned(13) dozens(14) of(15) similar(16) vintage(17) ,(18) but(19) the(20) number(21) of(22) issues(23) with(24) this(25) thing(26) is(27) unreal(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) the(3) 2.5l(4) 4(5) --(6) possibly(7) the(8) most(9) poorly(10) designed(11) 4(12) I(13) 've(14) ever(15) driven(16) .(17) 
+			<opinion polarity="-" feature="design" opWords="10,11"/>
+		</sentence>
+		<sentence id="8">
+			Most(1) Jeep(2) lovers(3) will(4) chalk(5) it(6) up(7) to(8) the(9) idea(10) that(11) a(12) 4(13) cylinder(14) is(15) just(16) a(17) small(18) ,(19) underpowered(20) engine(21) .(22) 
+			<opinion polarity="-" feature="engine" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="9">
+			Why(1) is(2) it(3) that(4) every(5) other(6) car(7) manufacturer(8) has(9) managed(10) to(11) design(12) efficient(13) and(14) powerful(15) 4(16) cylinder(17) engines(18) ,(19) but(20) Jeep(21) somehow(22) gets(23) a(24) pass(25) ?(26) 
+			<opinion polarity="+" feature="engine" featWords="18" opWords="13"/>
+			<opinion polarity="+" feature="engine" featWords="18" opWords="15"/>
+		</sentence>
+		<sentence id="10">
+			Not(1) on(2) my(3) watch(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			The(1) gear(2) spacing(3) is(4) nothing(5) short(6) of(7) bizarre(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) understand(2) that(3) this(4) is(5) a(6) specialized(7) vehicle(8) ,(9) and(10) you(11) want(12) that(13) extra(14) torque(15) down(16) low(17) ,(18) but(19) that(20) does(21) not(22) begin(23) to(24) explain(25) the(26) gearing(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			Why(1) is(2) there(3) a(4) 5th(5) gear(6) ?(7) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) almost(3) exactly(4) the(5) same(6) as(7) 4th(8) .(9) 2nd(10) is(11) too(12) low(13) and(14) 3rd(15) is(16) too(17) high(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Noise(1) levels(2) are(3) very(4) high(5) due(6) to(7) the(8) Jeep(9) 's(10) tin(11) can(12) body(13) ,(14) with(15) nothing(16) in(17) the(18) way(19) of(20) insulation(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			This(1) is(2) one(3) of(4) many(5) areas(6) where(7) Jeep(8) could(9) make(10) a(11) more(12) comfortable(13) vehicle(14) without(15) sacrificing(16) any(17) of(18) the(19) "(20) Jeep(21) experience(22) .(23) "(24) This(25) thing(26) has(27) been(28) towed(29) twice(30) in(31) two(32) months(33) .(34) 
+		</sentence>
+		<sentence id="17">
+			On(1) the(2) upside(3) ,(4) I(5) 've(6) been(7) able(8) to(9) repair(10) it(11) myself(12) ,(13) but(14) having(15) done(16) a(17) good(18) bit(19) of(20) repair(21) work(22) over(23) the(24) years(25) that(26) does(27) not(28) necessarily(29) mean(30) that(31) the(32) average(33) person(34) would(35) be(36) able(37) to(38) fix(39) their(40) own(41) Jeep(42) .(43) 
+		</sentence>
+		<sentence id="18">
+			The(1) problems(2) have(3) come(4) down(5) to(6) issues(7) of(8) poor(9) quality(10) OEM(11) parts(12) and(13) seriously(14) flawed(15) engine(16) design(17) .(18) 
+			<opinion polarity="-" feature="design" featWords="17" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="19">
+			Jeeps(1) have(2) an(3) inexcusable(4) laundry(5) list(6) of(7) classic(8) and(9) ongoing(10) mechanical(11) ,(12) electrical(13) ,(14) and(15) design(16) issues(17) that(18) Jeep(19) does(20) little(21) to(22) fix(23) ,(24) and(25) Jeep(26) lovers(27) accept(28) as(29) quirks(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			Whatever(1) problem(2) I(3) 've(4) had(5) with(6) my(7) Jeep(8) ,(9) I(10) 've(11) found(12) plenty_of(13) company(14) on(15) message(16) boards(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			The(1) Jeep_Wrangler(2) is(3) an(4) anachronism(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			It(1) was(2) outdated(3) in_1975(4) ,(5) and(6) it(7) is(8) a(9) joke(10) in_2006(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			If(1) you(2) need(3) something(4) to(5) thrash(6) through(7) the(8) woods(9) and(10) climb(11) mountains(12) in(13) ,(14) this(15) may(16) be(17) worth(18) a(19) look(20) .(21) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) drive(3) on(4) roads(5) ,(6) this(7) may(8) be(9) one(10) of(11) the(12) worst(13) vehicles(14) available(15) .(16) 
+			<opinion polarity="-" feature="car" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="25">
+			Oh(1) ,(2) and(3) it(4) 's(5) expensive(6) .(7) 
+			<opinion polarity="-" feature="price" opWords="6"/>
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998(12) 
+		</sentence>
+	</text>
+</review>

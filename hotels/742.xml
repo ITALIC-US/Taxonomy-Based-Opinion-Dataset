@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="742" item="Treasure Bay Casino Resort" rating="4">
+	<title>
+		<sentence id="1">
+			Treasure_Bay(1) -(2) Great_Place(3) to(4) Stay(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Help(1) with(2) golf(3) ,(4) shuttle(5) bus(6) ,(7) clean(8) rooms(9) ,(10) good(11) food(12) ,(13) great(14) entertainment(15) .(16) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="food" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Casino_&_Hotel(2) are(3) not(4) attached(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) really(2) enjoyed(3) our(4) stay(5) at(6) Treasure_Bay(7) -(8) so(9) much(10) we(11) made(12) reservations(13) for(14) this(15) year(16) again(17) !(18) 
+		</sentence>
+		<sentence id="2">
+			Great(1) customer(2) service(3) ,(4) wonderful(5) food(6) ,(7) large(8) group(9) -(10) everyone(11) really(12) enjoyed(13) staying(14) there(15) .(16) 
+			<opinion polarity="+" feature="service" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="food" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Gulf_View_Tower(1) rooms(2) were(3) great(4) !(5) !(6) !(7) !(8) !(9) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) casino(2) was(3) our(4) night(5) light(6) !(7) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="945" item="2003 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) is(2) a(3) Honda(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Interior(1) &(2) exterior(3) fit(4) and(5) finish(6) ,(7) 5(8) speed(9) auto(10) ,(11) abundance(12) of(13) features(14) .(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hard(1) leather(2) seats(3) ,(4) not(5) enough(6) leg(7) room(8) ,(9) noisy(10) tires(11) ,(12) poor(13) handling(14) .(15) 
+			<opinion polarity="-" feature="handling" featWords="14" opWords="13"/>
+			<opinion polarity="-" feature="tire" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) disappointment(4) of(5) a(6) vehicle(7) and(8) I(9) would(10) not(11) recommend(12) it(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="2">
+			The(1) quality(2) is(3) not(4) up(5) to(6) Honda(7) standards(8) and(9) the(10) interior(11) ergonomics(12) need(13) significant(14) improvements(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) so(3) looking(4) forward(5) to(6) this(7) car(8) after(9) driving(10) a(11) Pontiac_Grand_Prix(12) for(13) over(14) 12(15) years(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			All(1) of(2) the(3) reviews(4) praised(5) the(6) quality(7) and(8) features(9) and(10) this(11) was(12) to(13) be(14) a(15) refined(16) car(17) beyond(18) its(19) price(20) range(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			After(1) test(2) driving(3) it(4) ,(5) I(6) was(7) initially(8) impressed(9) when(10) compared(11) to(12) the(13) Altima(14) and(15) Mazda(16) 6(17) which(18) were(19) the(20) only(21) other(22) vehicles(23) I(24) was(25) interested(26) in(27) at(28) the(29) time(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			One(1) year(2) later(3) ,(4) I(5) admit(6) that(7) this(8) is(9) a(10) bad(11) choice(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Without(1) going(2) into(3) detail(4) ,(5) every(6) problem(7) has(8) required(9) at_least(10) 2(11) trips(12) to(13) the(14) dealer(15) and(16) there(17) are(18) still(19) more(20) problems(21) to(22) fix(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) dealer(2) is(3) also(4) another(5) issue(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Every(1) trip(2) to(3) the(4) dealer(5) meant(6) another(7) door(8) ding(9) or(10) interior(11) scratch(12) which(13) of(14) course(15) was(16) not(17) found(18) until(19) later(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			My(1) fault(2) for(3) not(4) checking(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			What(1) bothers(2) me(3) are(4) as(5) follows(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) leg(2) room(3) is(4) too(5) short(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			This(1) car(2) is(3) made(4) for(5) people(6) shorter(7) than(8) 5(9) '(10) 8(11) "(12) .(13) The(14) leather(15) seats(16) are(17) too(18) stiff(19) .(20) It(21) took(22) 6(23) months(24) for(25) the(26) back(27) of(28) the(29) seat(30) to(31) soften(32) up(33) enough(34) so_that(35) I(36) did(37) not(38) have(39) any(40) more(41) back(42) pain(43) ,(44) now(45) the(46) bottom(47) is(48) causing(49) problems(50) .(51) Despite(52) time(53) and(54) numerous(55) leather(56) conditioning(57) treatments(58) ,(59) I(60) have(61) given(62) up(63) with(64) hoping(65) to(66) ever(67) be(68) comfortable(69) .(70) The(71) fuel(72) mileage(73) is(74) inconsistent(75) .(76) The(77) engine(78) chooses(79) when(80) to(81) idle(82) rough(83) or(84) smooth(85) ,(86) regardless_of(87) temperature(88) .(89) Too(90) much(91) tire(92) noise(93) .(94) The(95) Michelins(96) on(97) the(98) sedan(99) are(100) much(101) quieter(102) .(103) My(104) other(105) biggest(106) gripe(107) ,(108) second(109) to(110) that(111) of(112) the(113) seats(114) ,(115) occurs(116) during(117) highway(118) driving(119) .(120) For(121) some(122) unknown(123) reason(124) ,(125) this(126) car(127) will(128) not(129) track(130) straight(131) and(132) is(133) a(134) drifts(135) horribly(136) on(137) windy(138) days(139) and(140) to(141) a(142) lesser(143) extent(144) on(145) non-windy(146) days(147) .(148) I(149) have(150) never(151) experienced(152) anything(153) like(154) this(155) on(156) all(157) of(158) the(159) cars(160) I(161) have(162) owned(163) .(164) These(165) are(166) the(167) major(168) issue(169) that(170) have(171) caused(172) me(173) to(174) intensely(175) dislike(176) this(177) car(178) .(179) To(180) be(181) fair(182) ,(183) on(184) the(185) plus(186) side(187) there(188) are(189) things(190) I(191) do(192) like(193) .(194) The(195) 4(196) cylinder(197) is(198) a(199) great(200) engine(201) and(202) it(203) is(204) coupled(205) with(206) a(207) wonderful(208) 5(209) speed(210) auto(211) .(212) transmission(213) .(214) The(215) braking(216) is(217) fantastic(218) and(219) is(220) very(221) sensitive(222) .(223) I(224) like(225) that(226) .(227) It(228) is(229) quiet(230) when(231) cruising(232) although(233) it(234) is(235) somewhat(236) noisy(237) under(238) hard(239) acceleration(240) .(241) Again(242) no(243) complaints(244) for(245) a(246) 4(247) cylinder(248) .(249) For(250) the(251) interior(252) ,(253) the(254) dash(255) layout(256) is(257) great(258) .(259) The(260) Lexus(261) type(262) back(263) lighting(264) is(265) fantastic(266) .(267) The(268) radio(269) sound(270) quality(271) is(272) great(273) and(274) the(275) temperature(276) controls(277) are(278) well(279) thought(280) out(281) .(282) Heated(283) seats(284) are(285) nice(286) also(287) .(288) In(289) conclusion(290) ,(291) I(292) do(293) not(294) believe(295) that(296) this(297) car(298) is(299) worth(300) purchasing(301) .(302) There(303) are(304) too(305) many(306) defects(307) and(308) shortcomings(309) to(310) justify(311) spending(312) this(313) amount(314) of(315) money(316) .(317) Once(318) this(319) is(320) paid(321) off(322) ,(323) I(324) will(325) be(326) looking(327) at(328) the(329) competition(330) .(331) Amount_Paid(332) ((333) US(334) $(335) )(336) :(337) 22500(338) Condition(339) :(340) NewModel_Year(341) :(342) 2003Model(343) and(344) Options(345) :(346) EX-L_Coupe(347) 
+			<opinion polarity="+" feature="seat" featWords="284" opWords="286"/>
+			<opinion polarity="+" feature="seat" featWords="284" opWords="283"/>
+			<opinion polarity="+" feature="controls" featWords="277" opWords="279,280"/>
+			<opinion polarity="+" feature="sound system" featWords="270" opWords="273"/>
+			<opinion polarity="+" feature="dash" featWords="255" opWords="258"/>
+			<opinion polarity="-" feature="car" opWords="237"/>
+			<opinion polarity="+" feature="car" featWords="228" featRef="car" opWords="230"/>
+			<opinion polarity="+" feature="brakes" featWords="216" opWords="218"/>
+			<opinion polarity="+" feature="engine" featWords="201" opWords="200"/>
+			<opinion polarity="-" feature="car" featWords="178" opWords="176"/>
+			<opinion polarity="-" feature="gas" featWords="72,73" opWords="75"/>
+			<opinion polarity="+" feature="comfort" opWords="69"/>
+			<opinion polarity="-" feature="seat" featWords="16" opWords="18,19"/>
+			<opinion polarity="+" feature="seat" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

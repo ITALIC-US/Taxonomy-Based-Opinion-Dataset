@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="845" item="2006 Toyota Highlander" rating="2">
+	<title>
+		<sentence id="1">
+			Highlander_Disapointment(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) looking(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unresponsive(1) and(2) uncomfortable(3) 
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+			<opinion polarity="-" feature="response" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Highlander(2) is(3) a(4) good(5) looking(6) vehicle(7) ,(8) especially(9) from(10) rear(11) view(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="2">
+			Second(1) row(2) seats(3) are(4) roomy(5) but(6) too(7) firm(8) .(9) 
+			<opinion polarity="-" feature="seat" featWords="3" opWords="7,8"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			The(1) front(2) seats(3) are(4) too(5) small(6) and(7) hard(8) .(9) 20(10) minutes(11) of(12) driving(13) and(14) you(15) find(16) yourself(17) squirming(18) in(19) the(20) seat(21) .(22) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="5,8"/>
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="5,6"/>
+		</sentence>
+		<sentence id="4">
+			Not(1) enough(2) leg(3) room(4) for(5) me(6) ((7) 5(8) '(9) 8.5(10) "(11) tall(12) )(13) When(14) going(15) for(16) the(17) brakes(18) ,(19) the(20) toe(21) of(22) my(23) shoe(24) hits(25) the(26) steering(27) column(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			When(1) turning(2) the(3) steering(4) wheel(5) ,(6) sometimes(7) my(8) finger(9) hits(10) the(11) cruise(12) control(13) button(14) and(15) turns(16) it(17) on(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) brakes(2) are(3) spungy(4) .(5) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Excellerator(1) throttle(2) is(3) unresponsive(4) in(5) that(6) it(7) has(8) a(9) delay(10) when(11) depressed(12) and(13) then(14) all(15) of(16) a(17) sudden(18) a(19) surge(20) .(21) 
+			<opinion polarity="-" feature="response" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) sometimes(2) causing(3) the(4) transmission(5) to(6) downshift(7) with(8) a(9) bang(10) going(11) around(12) a(13) corner(14) .(15) 
+		</sentence>
+	</text>
+</review>

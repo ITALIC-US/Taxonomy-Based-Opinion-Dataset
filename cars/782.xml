@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="782" item="1998 Toyota Avalon" rating="2">
+	<title>
+		<sentence id="1">
+			Oouch(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			engine(1) ,(2) dealership(3) support(4) ,(5) sound(6) system(7) ,(8) spacious(9) 
+			<opinion polarity="+" feature="room" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			ugly(1) ,(2) poor(3) suspension(4) design(5) 
+			<opinion polarity="-" feature="suspension" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) were(2) looking(3) to(4) replace(5) the(6) fleet(7) of(8) company(9) vehicles(10) -(11) about(12) 9(13) cars(14) used(15) by(16) the(17) management(18) team(19) -(20) with(21) something(22) reliable(23) yet(24) comfortable(25) .(26) the(27) '(28) 98(29) Avalon_XLS(30) seemed(31) to(32) fit(33) the(34) bill(35) .(36) 
+			<opinion polarity="+" feature="comfort" opWords="25"/>
+			<opinion polarity="+" feature="reliability" opWords="23"/>
+		</sentence>
+		<sentence id="2">
+			We(1) negotiated(2) a(3) good(4) price(5) for(6) the(7) 9(8) cars(9) and(10) ordered(11) them(12) .(13) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			My(1) experience(2) has(3) not(4) been(5) a(6) positive(7) one(8) ,(9) and(10) at_least(11) three(12) of(13) my(14) peers(15) agree(16) -(17) this(18) cars(19) are(20) not(21) what(22) we(23) expected(24) from(25) the(26) Toyota(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			The(1) main(2) complain(3) is(4) the(5) suspension(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) horrible(3) .(4) 
+			<opinion polarity="-" feature="suspension" featWords="1" featRef="suspension" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) ,(3) in(4) my(5) opinion(6) ,(7) feels(8) like(9) the(10) engineers(11) put(12) a(13) very(14) heavy(15) ,(16) large(17) body(18) on(19) Camry(20) underpinnings(21) ,(22) so_that(23) what(24) worked(25) well(26) in(27) the(28) Camry(29) becomes(30) second(31) rate(32) in(33) the(34) Avalon(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			It(1) jumps(2) and(3) sways(4) with(5) bumps(6) like(7) a(8) 70(9) 's(10) Chevy_Impala(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			The(1) dealer(2) ,(3) who(4) acknowledges(5) that(6) there(7) is(8) a(9) problem(10) ,(11) has(12) systematically(13) replaced(14) the(15) suspension(16) in(17) each(18) of(19) the(20) cars(21) with(22) struts(23) from(24) the(25) Lexus(26) ES300(27) line(28) ((29) so(30) he(31) alleges(32) )(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			This(1) has(2) improved(3) the(4) situation(5) but(6) not(7) completely(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			In(1) one(2) of(3) the(4) cars(5) the(6) brakes(7) went(8) out(9) after(10) only(11) one(12) year(13) of(14) use(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) brake(2) pump(3) had(4) to(5) be(6) replaced(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Interior(1) trim(2) parts(3) -(4) the(5) right(6) air(7) conditioner(8) vent(9) -(10) seem(11) fragile(12) and(13) tend(14) to(15) break(16) .(17) 
+			<opinion polarity="-" feature="interior" featWords="1" opWords="12"/>
+		</sentence>
+		<sentence id="13">
+			The(1) sound(2) system(3) is(4) very(5) good(6) ,(7) however(8) .(9) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="14">
+			Excellent(1) bass(2) ,(3) and(4) a(5) bump-proof(6) CD-changer(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="15">
+			The(1) leather(2) in(3) the(4) steering(5) wheel(6) is(7) falling(8) off(9) ((10) peeling(11) )(12) in(13) three(14) of(15) the(16) cars(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Toyota(1) is(2) replacing(3) this(4) under(5) warranty(6) ,(7) but(8) it(9) is(10) strange(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			It(1) only(2) happened(3) to(4) the(5) cars(6) with(7) the(8) beige(9) leather(10) interior(11) .(12) 
+			<opinion polarity="+" feature="interior" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="18">
+			The(1) Toyota(2) dealership(3) has(4) been(5) accommodating(6) throughout(7) all(8) of(9) this(10) ,(11) but(12) I(13) did(14) not(15) expect(16) this(17) much(18) trouble(19) or(20) dissatisfaction(21) from(22) a(23) Toyota(24) product(25) .(26) 
+		</sentence>
+		<sentence id="19">
+			It(1) is(2) a(3) nice(4) car(5) in(6) general(7) -(8) very(9) fast(10) ,(11) powerful(12) drive(13) train(14) .(15) 
+			<opinion polarity="+" feature="drive" featWords="13,14" opWords="12"/>
+			<opinion polarity="+" feature="drive" featWords="13,14" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			The(1) suspension(2) is(3) horrible(4) ,(5) however(6) .(7) 
+			<opinion polarity="-" feature="suspension" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="21">
+			My(1) 2(2) cents(3) ,(4) based(5) on(6) a(7) sample(8) size(9) of(10) 9(11) cars(12) .(13) 
+		</sentence>
+	</text>
+</review>

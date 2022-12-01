@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="500" item="Radisson Hotel JFK Airport" rating="3">
+	<title>
+		<sentence id="1">
+			Radisson_JFK(1) :(2) For(3) business(4) travel(5) and(6) unscheduled(7) layovers(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) JFK(3) ,(4) known(5) brand(6) ,(7) comfortable(8) rooms(9) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unprepared(1) for(2) large(3) numbers(4) of(5) stranded(6) travelers(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) I(2) 'm(3) going(4) to(5) lose(6) a(7) full(8) day(9) of(10) my(11) Prague(12) vacation(13) ,(14) at_least(15) let(16) me(17) spend(18) it(19) somewhere(20) interesting(21) !(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) our(2) flight(3) from(4) LA(5) to(6) Prague(7) via(8) New_York(9) landed(10) at(11) JFK(12) at(13) 3:45(14) pm(15) ,(16) the(17) airport(18) was(19) a_bit(20) foggy(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) almost(3) two(4) hours(5) to(6) kill(7) before(8) our(9) Czech_Airlines(10) flight(11) took(12) off(13) ,(14) and(15) there(16) was(17) not(18) much(19) to(20) do(21) but(22) wait(23) at(24) the(25) departure(26) gate(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			And(1) wait(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			And(1) wait(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			Our(1) flight(2) was(3) supposed(4) to(5) take(6) off(7) at(8) 5:30_pm.(9) At(10) 5:15(11) ,(12) we(13) were(14) told(15) that(16) we(17) would(18) be(19) departing(20) at(21) 7:00(22) ,(23) because(24) the(25) plane(26) ,(27) which(28) had(29) been(30) diverted(31) to(32) Newark(33) because_of(34) the(35) fog(36) ,(37) was(38) stuck(39) there(40) because(41) it(42) was(43) getting(44) heavier(45) .(46) 
+		</sentence>
+		<sentence id="6">
+			We(1) watched(2) the(3) fog(4) roll(5) in(6) ,(7) really(8) thick(9) and(10) blinding(11) ,(12) and(13) then(14) roll(15) out(16) again(17) ,(18) somewhat(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Yahoo(1) -(2) we(3) 're(4) on(5) our(6) way(7) !(8) 
+		</sentence>
+		<sentence id="8">
+			Not(1) quite(2) .(3) 
+		</sentence>
+		<sentence id="9">
+			At(1) 6:45(2) pm(3) ,(4) we(5) were(6) told(7) that(8) the(9) crew(10) had(11) to(12) go(13) off(14) duty(15) because_of(16) the(17) FAA(18) hour(19) limits(20) and(21) a(22) new(23) crew(24) was(25) on(26) their(27) way(28) to(29) the(30) Newark(31) airport(32) ;(33) as(34) soon(35) as(36) they(37) got(38) there(39) ,(40) the(41) plane(42) would(43) hop(44) over(45) to(46) JFK(47) .(48) 
+		</sentence>
+		<sentence id="10">
+			So(1) we(2) would(3) be(4) leaving(5) at(6) 9:00_pm.(7) At(8) 8:30(9) ,(10) as(11) we(12) watched(13) the(14) fog(15) play(16) cat-and-mouse(17) with(18) the(19) runways(20) ,(21) we(22) were(23) told(24) that(25) we(26) would(27) be(28) leaving(29) at(30) 10:00_pm.(31) At(32) 10:00(33) pm(34) ,(35) we(36) were(37) told(38) that(39) we(40) would(41) leave(42) at(43) 11:00_pm.(44) At(45) 10:30(46) pm(47) ,(48) we(49) were(50) told(51) that(52) we(53) would(54) leave(55) at(56) 7:30(57) am(58) and(59) the(60) airline(61) would(62) put(63) us(64) up(65) for(66) the(67) night(68) .(69) 
+		</sentence>
+		<sentence id="11">
+			And(1) thus(2) it(3) was(4) ,(5) after(6) being(7) herded(8) into(9) buses(10) without(11) our(12) luggage(13) ,(14) that(15) we(16) came(17) to(18) stay(19) at(20) the(21) Radisson_JFK(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			LOCATION_The_Radisson_JFK(1) is(2) located(3) at(4) I35-30(5) 140th(6) Street(7) ,(8) Queens(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			At_least(1) ,(2) that(3) 's(4) what(5) their(6) website(7) ,(8) http://www.radissonjfk.com/(9) ,(10) says(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Now(1) ,(2) I(3) grew(4) up(5) in(6) "(7) Queens(8) "(9) and(10) know(11) that(12) it(13) 's(14) the(15) designation(16) for(17) one(18) of(19) the(20) boroughs(21) ;(22) there(23) 's(24) no(25) town(26) of(27) Queens(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			So(1) I(2) assume(3) that(4) the(5) address(6) is(7) given(8) that(9) way(10) as(11) a(12) locator(13) ;(14) most(15) people(16) probably(17) do(18) not(19) know(20) where(21) Far_Rockaway(22) ,(23) or(24) whatever(25) the(26) nearest(27) town(28) to(29) JFK(30) is(31) ,(32) would(33) be(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			Whatever(1) .(2) 
+		</sentence>
+		<sentence id="17">
+			It(1) took(2) about(3) 15(4) minutes(5) on(6) the(7) bus(8) ,(9) through(10) dark(11) ,(12) foggy(13) streets(14) ,(15) so(16) while(17) it(18) 's(19) probably(20) not(21) the(22) closest(23) hotel(24) to(25) the(26) airport(27) ,(28) it(29) 's(30) certainly(31) handy(32) .(33) 
+		</sentence>
+		<sentence id="18">
+			But(1) if(2) you(3) want(4) to(5) spend(6) time(7) in(8) the(9) city(10) ,(11) this(12) is(13) not(14) the(15) place(16) to(17) stay(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			RECEPTION_Now_I(1) know(2) that(3) it(4) 's(5) not(6) fair(7) to(8) judge(9) a(10) hotel(11) based(12) on(13) these(14) circumstances(15) ,(16) but(17) we(18) were(19) not(20) the(21) only(22) group(23) deposited(24) there(25) ,(26) so(27) I(28) assume(29) that(30) this(31) is(32) not(33) the(34) first(35) time(36) they(37) 've(38) been(39) faced(40) with(41) a(42) large(43) number(44) of(45) tired(46) ,(47) frustrated(48) travelers(49) .(50) 
+		</sentence>
+		<sentence id="20">
+			But(1) it(2) did(3) seem(4) to(5) me(6) that(7) they(8) were(9) not(10) really(11) prepared(12) for(13) us(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			We(1) lined(2) up(3) obediently(4) in(5) the(6) tiny(7) lobby(8) and(9) chatted(10) amongst(11) ourselves(12) ,(13) but(14) while(15) Penguinman(16) and(17) I(18) were(19) about(20) the(21) 15th(22) in(23) line(24) ,(25) it(26) still(27) took(28) about(29) half(30) an(31) hour(32) for(33) us(34) to(35) reach(36) the(37) counter(38) ,(39) despite(40) the(41) fact(42) that(43) they(44) had(45) three(46) people(47) working(48) registration(49) .(50) 
+		</sentence>
+		<sentence id="22">
+			Since(1) the(2) airline(3) was(4) picking(5) up(6) the(7) tab(8) ,(9) there(10) was(11) very(12) little(13) paperwork(14) to(15) do(16) ;(17) they(18) matched(19) our(20) names(21) against(22) a(23) passenger(24) list(25) ,(26) had(27) us(28) sign(29) a(30) form(31) ,(32) and(33) gave(34) us(35) a(36) coupon(37) for(38) the(39) free(40) continental(41) breakfast(42) .(43) 
+		</sentence>
+		<sentence id="23">
+			Because(1) we(2) did(3) not(4) have(5) our(6) luggage(7) ,(8) Penguinman(9) needed(10) a(11) toothbrush(12) ,(13) which(14) ,(15) after(16) much(17) searching(18) ,(19) they(20) found(21) and(22) gave(23) him(24) ;(25) for(26) the(27) rest(28) ,(29) he(30) could(31) share(32) my(33) toiletries(34) ,(35) which(36) I(37) had(38) with(39) me(40) in(41) my(42) necessaire(43) .(44) 
+		</sentence>
+		<sentence id="24">
+			So(1) it(2) should(3) not(4) have(5) taken(6) more(7) than(8) about(9) a(10) minute(11) -(12) 90_seconds(13) ,(14) tops(15) -(16) to(17) process(18) us(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			But(1) it(2) took(3) about(4) five(5) .(6) 
+		</sentence>
+		<sentence id="26">
+			Minutes(1) ,(2) not(3) seconds(4) .(5) 
+		</sentence>
+		<sentence id="27">
+			I(1) learned(2) that(3) they(4) ,(5) like(6) other(7) large(8) travelers(9) '(10) chains(11) ,(12) keep(13) a(14) stash(15) of(16) toiletry(17) basics(18) on_hand(19) -(20) toothbrushes(21) ,(22) deo(23) ,(24) razors(25) ,(26) toothpaste(27) -(28) but(29) unless(30) our(31) fellow(32) travelers(33) knew(34) to(35) ask(36) for(37) them(38) ,(39) they(40) were(41) not(42) being(43) handed(44) out(45) .(46) 
+		</sentence>
+		<sentence id="28">
+			And(1) then(2) they(3) ran(4) out(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			For(1) a(2) hotel(3) that(4) is(5) probably(6) frequently(7) host(8) to(9) stranded(10) travelers(11) ,(12) they(13) should(14) have(15) been(16) better(17) supplied(18) and(19) made(20) the(21) offer(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			The(1) nest(2) morning(3) ,(4) after(5) we(6) 'd(7) all(8) dragged(9) ourselves(10) out(11) of(12) bed(13) at(14) 4:30(15) to(16) get(17) to(18) the(19) airport(20) on(21) time(22) for(23) a(24) 7:30(25) departure(26) ,(27) we(28) were(29) informed(30) ,(31) after(32) breakfast(33) ,(34) that(35) our(36) flight(37) would(38) take(39) off(40) at(41) 9:00(42) am(43) instead(44) ,(45) and(46) the(47) bus(48) would(49) not(50) be(51) there(52) to(53) pick(54) us(55) up(56) until(57) 7:30_am.(58) So(59) we(60) draped(61) ourselves(62) across(63) the(64) scant(65) furniture(66) in(67) the(68) lobby(69) ,(70) and(71) over(72) our(73) few(74) bags(75) ,(76) and(77) over(78) each(79) other(80) ...(81) ROOM_Our(82) room(83) was(84) on(85) the(86) 11th(87) floor(88) and(89) looked(90) out(91) over(92) another(93) hotel(94) under(95) construction(96) .(97) 
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) furnished(3) and(4) equipped(5) with(6) the(7) usual(8) :(9) bed(10) ,(11) night-stands(12) ,(13) desk(14) ,(15) small(16) dresser(17) ,(18) a(19) couple(20) of(21) chairs(22) ,(23) armoire(24) with(25) a(26) TV(27) in(28) it(29) ,(30) lamps(31) ,(32) closet(33) ,(34) bathroom(35) with(36) hair-dryer(37) and(38) shampoo(39) ,(40) body(41) lotion(42) ,(43) and(44) shower(45) cap.(46) 
+		</sentence>
+		<sentence id="32">
+			There(1) was(2) an(3) ironing(4) board(5) and(6) iron(7) in(8) the(9) closet(10) ,(11) and(12) a(13) coffee-maker(14) on(15) the(16) desk(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			Security(1) was(2) provided(3) by(4) both(5) a(6) deadbolt(7) and(8) one(9) of(10) those(11) flip-bars(12) that(13) allow(14) you(15) to(16) open(17) the(18) door(19) a(20) crack(21) ,(22) similar(23) to(24) old-fashioned(25) chains(26) but(27) faster(28) and(29) easier(30) to(31) open(32) .(33) 
+		</sentence>
+		<sentence id="34">
+			I(1) know(2) that(3) as(4) Californians(5) ,(6) we(7) 're(8) spoiled(9) when(10) it(11) comes(12) to(13) public(14) smoking(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			But(1) I(2) 've(3) never(4) smelled(5) stale(6) smoke(7) more(8) strongly(9) than(10) I(11) did(12) in(13) that(14) room(15) .(16) 
+		</sentence>
+		<sentence id="36">
+			EVERYTHING(1) stank(2) .(3) 
+		</sentence>
+		<sentence id="37">
+			Despite(1) the(2) fact(3) that(4) the(5) bed(6) linens(7) were(8) crisp(9) and(10) clean(11) ,(12) the(13) pillows(14) and(15) blankets(16) reeked(17) ,(18) which(19) did(20) not(21) contribute(22) to(23) an(24) easy(25) night(26) 's(27) sleep(28) .(29) 
+			<opinion polarity="+" feature="bedding" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="bedding" featWords="7" opWords="11"/>
+			<opinion polarity="+" feature="bedding" featWords="14" opWords="17"/>
+			<opinion polarity="+" feature="bedding" featWords="16" opWords="17"/>
+		</sentence>
+		<sentence id="38">
+			I(1) can(2) not(3) sleep(4) in(5) a(6) closed(7) room(8) ,(9) especially(10) one(11) that(12) smells(13) like(14) that(15) ,(16) but(17) when(18) I(19) tried(20) to(21) open(22) the(23) window(24) for(25) some(26) fresh(27) air(28) ,(29) I(30) found(31) that(32) it(33) would(34) only(35) slide(36) about(37) six_inches(38) .(39) 
+		</sentence>
+		<sentence id="39">
+			The(1) hair-dryer(2) came(3) in(4) handy(5) when(6) we(7) sloshed(8) our(9) socks(10) and(11) unders(12) through(13) some(14) suds(15) and(16) hung(17) them(18) to(19) dry(20) overnight(21) ;(22) we(23) blasted(24) out(25) the(26) residual(27) dampness(28) .(29) 
+		</sentence>
+		<sentence id="40">
+			Is(1) there(2) anything(3) more(4) uncomfortable(5) then(6) trying(7) to(8) shimmy(9) into(10) damp(11) clothes(12) ?(13) ((14) Well(15) ,(16) yes(17) ...(18) that(19) was(20) a(21) rhetorical(22) question(23) !(24) )(25) Because_the_Radisson_JFK(26) was(27) built(28) for(29) business(30) travel(31) ,(32) each(33) room(34) has(35) data(36) ports(37) and(38) high-speed(39) internet(40) connections(41) .(42) 
+		</sentence>
+		<sentence id="41">
+			BREAKFAST_The(1) continental(2) breakfast(3) was(4) served(5) in(6) the(7) bar-coffee(8) shop(9) ,(10) neither(11) of(12) which(13) was(14) open(15) at(16) that(17) hour(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			It(1) consisted(2) of(3) bagels(4) and(5) cream(6) cheese(7) ((8) toaster(9) provided(10) ,(11) )(12) sweet(13) rolls(14) ,(15) butter(16) ,(17) jam(18) ,(19) honey(20) ,(21) cold(22) cereal(23) ,(24) milk(25) ,(26) juices(27) ,(28) coffee(29) ,(30) and(31) tea(32) .(33) 
+		</sentence>
+		<sentence id="43">
+			There(1) was(2) also(3) a(4) bowl(5) of(6) apples(7) ,(8) bananas(9) ,(10) and(11) oranges(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			I(1) tried(2) to(3) toast(4) my(5) bagel(6) but(7) the(8) toaster(9) was(10) a(11) home(12) use(13) style(14) ,(15) rather(16) than(17) a(18) commercial(19) conveyor(20) belt(21) one(22) ,(23) so(24) after(25) three(26) minutes(27) ,(28) with(29) impatient(30) people(31) tapping(32) their(33) toes(34) behind(35) me(36) ,(37) I(38) popped(39) my(40) bagel(41) and(42) ate(43) it(44) half-toasted(45) .(46) 
+		</sentence>
+		<sentence id="45">
+			The(1) space(2) was(3) clearly(4) not(5) designed(6) for(7) a(8) large(9) group(10) ,(11) because(12) we(13) had(14) to(15) cut(16) through(17) the(18) line(19) to(20) complete(21) the(22) circuit(23) ,(24) and(25) seating(26) space(27) was(28) woefully(29) inadequate(30) ,(31) so(32) people(33) were(34) sitting(35) on(36) the(37) lobby(38) floor(39) with(40) their(41) plates(42) .(43) 
+		</sentence>
+		<sentence id="46">
+			But(1) the(2) breakfast(3) was(4) adequate(5) .(6) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="47">
+			Just(1) .(2) 
+		</sentence>
+		<sentence id="48">
+			AMENITIES_Given(1) the(2) circumstances(3) under(4) which(5) we(6) stayed(7) at(8) the(9) Radisson_JFK(10) ,(11) I(12) 'm(13) not(14) in(15) a(16) position(17) to(18) evaluate(19) the(20) amenities(21) ,(22) since(23) ,(24) except_for(25) the(26) world(27) 's(28) smallest(29) gift(30) shop(31) ,(32) we(33) did(34) not(35) have(36) the(37) chance(38) to(39) sample(40) them(41) .(42) 
+		</sentence>
+		<sentence id="49">
+			According_to(1) their(2) website(3) ,(4) however(5) ,(6) they(7) have(8) seven(9) conference(10) rooms(11) ,(12) a(13) business(14) center(15) ,(16) an(17) exercise(18) room(19) ,(20) and(21) on-site(22) parking(23) ,(24) in_addition(25) to(26) the(27) aforementioned(28) Charles_Restaurant(29) and(30) Grill(31) and(32) Aviator_'s_Lounge(33) .(34) 
+		</sentence>
+		<sentence id="50">
+			This(1) is(2) a(3) hotel(4) clearly(5) designed(6) for(7) the(8) business(9) traveler(10) .(11) 
+		</sentence>
+		<sentence id="51">
+			SUMMARY_AND_VERDICT_I(1) said(2) it(3) before(4) and(5) I(6) 'll(7) say(8) it(9) again(10) :(11) I(12) know(13) it(14) 's(15) unfair(16) to(17) evaluate(18) a(19) hotel(20) based(21) on(22) circumstances(23) like(24) this(25) .(26) 
+		</sentence>
+		<sentence id="52">
+			On_the_other_hand(1) ,(2) this(3) hotel(4) is(5) very(6) close(7) to(8) JFK(9) and(10) has(11) contracts(12) with(13) at_least(14) two(15) airlines(16) that(17) I(18) know(19) of(20) ((21) Czech(22) and(23) the(24) one(25) that(26) deposited(27) the(28) second(29) group(30) after(31) us(32) .(33) )(34) And(35) it(36) 's(37) not(38) unusual(39) for(40) JFK(41) to(42) be(43) fogged(44) in(45) .(46) 
+		</sentence>
+		<sentence id="53">
+			So(1) ,(2) considering(3) all(4) that(5) ,(6) I(7) think(8) they(9) could(10) have(11) planned(12) it(13) better(14) .(15) 
+		</sentence>
+		<sentence id="54">
+			The(1) Radisson_JFK(2) is(3) not(4) a(5) small(6) hotel(7) ;(8) it(9) has(10) 386(11) rooms(12) ,(13) and(14) seven(15) meeting(16) and(17) conference(18) rooms(19) in_5,000(20) square(21) feet(22) of(23) meeting(24) and(25) banquet(26) space(27) .(28) 
+			<opinion polarity="+" feature="hotel" featWords="7" opWords="4,6"/>
+		</sentence>
+		<sentence id="55">
+			The(1) lobby(2) is(3) very(4) small(5) for(6) a(7) hotel(8) this(9) size(10) .(11) 
+			<opinion polarity="-" feature="lobby" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="56">
+			There(1) is(2) scant(3) furniture(4) in(5) it(6) .(7) 
+		</sentence>
+		<sentence id="57">
+			The(1) eating(2) spaces(3) are(4) quite(5) small(6) .(7) 
+		</sentence>
+		<sentence id="58">
+			The(1) staff(2) seemed(3) overwhelmed(4) by(5) what(6) must(7) be(8) an(9) ,(10) if_not(11) a(12) commonplace(13) ,(14) certainly(15) not(16) a(17) rare(18) ,(19) occurrence(20) .(21) 
+			<opinion polarity="-" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="59">
+			In(1) their(2) defense(3) ,(4) though(5) ,(6) I(7) must(8) say(9) that(10) the(11) staff(12) was(13) friendly(14) and(15) never(16) lost(17) their(18) cool(19) ,(20) short-staffed(21) as(22) they(23) seemed(24) to(25) be(26) .(27) 
+			<opinion polarity="+" feature="staff" featWords="12" opWords="14"/>
+			<opinion polarity="-" feature="staff" opWords="21"/>
+		</sentence>
+		<sentence id="60">
+			So(1) if(2) the(3) Omni_Cancun(4) is(5) good(6) for(7) five(8) stars(9) ,(10) the(11) Radisson_JFK(12) probably(13) does(14) not(15) rate(16) more(17) than(18) three(19) ;(20) it(21) 's(22) a(23) well-located(24) ,(25) large(26) ,(27) anonymous(28) ,(29) business(30) traveler(31) 's(32) hotel(33) with(34) comfortable(35) rooms(36) ,(37) but(38) not(39) well-designed(40) for(41) what(42) is(43) probably(44) its(45) secondary(46) purpose(47) of(48) housing(49) stranded(50) travelers(51) .(52) 
+			<opinion polarity="+" feature="place" opWords="24"/>
+			<opinion polarity="+" feature="hotel" featWords="21" featRef="hotel" opWords="26"/>
+			<opinion polarity="+" feature="rooms" featWords="36" opWords="35"/>
+			<opinion polarity="-" feature="building" opWords="39,40"/>
+		</sentence>
+		<sentence id="61">
+			Our(1) flight(2) took(3) off(4) at(5) 10:15_am.(6) 
+		</sentence>
+	</text>
+</review>

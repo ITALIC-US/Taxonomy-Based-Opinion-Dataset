@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="582" item="Bose TriPort Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			disapointing(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) ,(2) name(3) ,(4) colr(5) ,(6) comfort(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			durability(1) ,(2) bose(3) customer(4) care(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) last_november(5) and(6) now(7) the(8) left(9) side(10) is(11) not(12) working(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Bose(1) customer(2) care(3) sucks(4) !(5) 
+		</sentence>
+		<sentence id="3">
+			Its(1) only(2) open(3) like(4) four(5) hours(6) a(7) day(8) but(9) when(10) they(11) are(12) open(13) they(14) give(15) you(16) the(17) rong(18) fax(19) number(20) so(21) when(22) your(23) trying(24) to(25) send(26) them(27) a(28) copy(29) of(30) the(31) receit(32) to(33) get(34) a(35) new(36) pair(37) you(38) kind(39) of(40) cant(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			Great(1) sound(2) when(3) they(4) work(5) but(6) now(7) im(8) just(9) ticked(10) off(11) !(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="5">
+			When(1) you(2) spend(3) that(4) type(5) of(6) money(7) you(8) expect(9) long(10) lasting(11) quality(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Never(1) again(2) ,(3) the(4) head(5) phones(6) are(7) worthless(8) now(9) .(10) 
+			<opinion polarity="-" feature="headphones" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			I(1) suggest(2) if(3) you(4) want(5) long(6) lasting(7) quality(8) and(9) fair(10) sound(11) you(12) buy(13) a(14) pair(15) of(16) koss(17) r/10(18) headphones(19) for(20) one(21) thing(22) they(23) are(24) much(25) cheaper(26) running(27) about(28) $30(29) but(30) are(31) much(32) more(33) durable(34) and(35) if(36) you(37) dont(38) beleive(39) me(40) Ive(41) had(42) mine(43) for(44) about(45) 4(46) years(47) now(48) and(49) im(50) listening(51) to(52) my(53) ipod(54) through(55) them(56) as(57) im(58) wrighting(59) this(60) .(61) 
+		</sentence>
+	</text>
+</review>

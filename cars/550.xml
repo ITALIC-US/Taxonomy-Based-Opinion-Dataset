@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="550" item="2002 Toyota Camry Solara" rating="1">
+	<title>
+		<sentence id="1">
+			BAD_Convertible(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) eye(2) catching(3) car(4) great(5) Toyota(6) engine(7) 
+			<opinion polarity="+" feature="engine" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Convertible(1) roof(2) -(3) having(4) MAJOR(5) problems(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) get(3) the(4) convertible(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			From(1) what(2) I(3) heard(4) AFTER_I(5) purchased(6) the(7) 2002(8) Solara(9) is(10) that(11) this(12) car(13) was(14) not(15) made(16) to(17) be(18) a(19) convertible(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) not(3) enough(4) stability(5) for(6) support(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) cars(2) are(3) not(4) geometrically(5) made(6) to(7) be(8) a(9) convertible(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			You(1) can(2) see(3) this(4) when(5) you(6) go(7) over(8) a(9) bump(10) because(11) the(12) front(13) windshield(14) jiggles(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) cars(2) are(3) made(4) whole(5) then(6) the(7) roof(8) is(9) sliced(10) off(11) and(12) sent(13) to(14) a(15) subcontractor(16) ((17) not(18) Toyota(19) )(20) and(21) a(22) roof(23) is(24) put(25) on(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			People(1) with(2) these(3) cars(4) ,(5) look(6) in(7) the(8) back(9) carefully(10) when(11) the(12) roof(13) is(14) down(15) and(16) check(17) all(18) the(19) time(20) ...(21) my(22) roof(23) was(24) not(25) tight(26) enough(27) and(28) the(29) friction(30) rubbed(31) the(32) material(33) and(34) it(35) actually(36) burned(37) holes(38) in(39) it(40) ...(41) then(42) my(43) 2nd(44) roof(45) was(46) too(47) tight(48) and(49) it(50) ripped(51) and(52) buckelled(53) the(54) material(55) ...(56) 3rd(57) new(58) roof(59) being(60) put(61) on(62) as(63) I(64) type(65) this(66) review(67) ...(68) 3(69) strikes(70) your(71) out(72) ...(73) going(74) for(75) sale(76) ...(77) bye(78) bye(79) Toyota(80) !(81) !(82) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 40,000(7) cdn(8) Condition(9) :(10) NewModel_Year(11) :(12) 2002Model(13) and(14) Options(15) :(16) Solara_Convertible_SLV(17) 
+		</sentence>
+	</text>
+</review>

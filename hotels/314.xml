@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="314" item="Adams Mark Dallas" rating="3">
+	<title>
+		<sentence id="1">
+			Adam_'s_Slightly_Off_the_Mark(1) in(2) Dallas(3) --(4) Bigger(5) ai(6) not(7) Necessarily_Better(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			clean(1) ,(2) quiet(3) ,(4) convenient(5) ,(6) all(7) the(8) amenities(9) ,(10) lots(11) of(12) elevators(13) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			an(1) impersonal(2) behemoth(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			After(1) a(2) major(3) renovation(4) ,(5) Adam_'s_Mark_Dallas(6) is(7) the(8) largest(9) hotel(10) in(11) town(12) .(13) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			But(1) since(2) when(3) is(4) being(5) the(6) biggest(7) the(8) same(9) as(10) being(11) the(12) best(13) ?(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Last(1) year(2) I(3) returned(4) to(5) the(6) Adam_'s_Mark_Hotel(7) in(8) Dallas(9) after(10) a(11) two-year(12) absence(13) ,(14) and(15) last(16) month(17) I(18) stopped(19) by(20) again(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			During(1) several(2) earlier(3) visits(4) ((5) 1998-99(6) )(7) ,(8) the(9) property(10) had(11) been(12) undergoing(13) a(14) major(15) renovation(16) --(17) facilities(18) were(19) limited(20) and(21) only(22) about(23) a(24) third(25) of(26) the(27) rooms(28) were(29) open(30) to(31) guests(32) .(33) 
+			<opinion polarity="-" feature="facilities" featWords="18" opWords="20"/>
+		</sentence>
+		<sentence id="3">
+			The(1) last(2) two_times(3) I(4) stayed(5) ,(6) however(7) ,(8) the(9) hotel(10) was(11) fully(12) open(13) in_all(14) its(15) radiant(16) glory(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			We(1) 're(2) talking(3) about(4) a(5) hotel(6) that(7) --(8) even(9) ignoring(10) the(11) parking(12) garage(13) and(14) conference(15) center(16) across(17) the(18) street(19) --(20) covers(21) an(22) entire(23) city(24) block(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) three(3) towers(4) of(5) from(6) 29-32(7) floors(8) ,(9) each(10) of(11) which(12) has(13) separate(14) elevator(15) banks(16) for(17) upper(18) and(19) lower(20) floors(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			All(1) elevators(2) stop(3) at(4) the(5) fourth(6) and(7) fifth(8) floors(9) ,(10) which(11) contain(12) conference(13) rooms(14) and(15) other(16) common(17) facilities(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) more(3) than(4) 1840(5) rooms(6) scattered(7) over(8) those(9) three(10) towers(11) ,(12) along_with(13) five(14) restaurants(15) ,(16) a(17) business(18) center(19) ,(20) and(21) a(22) fitness(23) center(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) a(3) hotel(4) that(5) is(6) designed(7) to(8) house(9) medium-sized(10) conferences(11) ((12) one_thousand(13) or(14) more(15) participants(16) )(17) in(18) a(19) single(20) complex(21) ;(22) creating(23) a(24) semi-captive(25) audience(26) ,(27) if(28) you(29) will(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			First_Impressions(1) are(2) huge(3) in(4) the(5) lodging(6) business(7) and(8) Adam_'s_Mark_Dallas(9) has(10) gone(11) all(12) out(13) to(14) make(15) the(16) arriving(17) guest(18) suitably(19) impressed(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			The(1) lobby(2) level(3) features(4) plush(5) carpeting(6) ,(7) polished(8) slabs(9) of(10) black(11) stone(12) ((13) probably(14) gabbro(15) ,(16) for(17) those(18) of(19) you(20) keeping(21) track(22) )(23) ,(24) and(25) an(26) eighteen-foot(27) bronze(28) statue(29) in(30) the(31) welcome(32) area(33) .(34) 
+			<opinion polarity="+" feature="carpets" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			In(1) keeping(2) with(3) modern(4) design(5) principles(6) ((7) and(8) the(9) fact(10) that(11) there(12) 's(13) a_lot_of(14) profit(15) from(16) a(17) bar(18) )(19) ,(20) there(21) are(22) no(23) furnishings(24) in(25) the(26) lobby(27) area(28) except(29) in(30) the(31) lobby(32) lounge(33) .(34) 
+		</sentence>
+		<sentence id="12">
+			There(1) is(2) a(3) concierge(4) center(5) ,(6) though(7) Adam(8) apparently(9) eschews(10) the(11) faux(12) elegance(13) of(14) the(15) French(16) word(17) ,(18) calling(19) the(20) counter(21) "(22) Guest_Services(23) "(24) instead(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			I(1) must(2) admit(3) I(4) was(5) a_bit(6) disconcerted(7) to(8) see(9) a(10) maze(11) of(12) velvet(13) ropes(14) set(15) up(16) for(17) incoming(18) guests(19) --(20) they(21) apparently(22) arrive(23) in(24) droves(25) ((26) and(27) buses(28) ,(29) too(30) )(31) ;(32) but(33) I(34) was(35) able(36) to(37) walk(38) to(39) the(40) reception(41) desk(42) without(43) any(44) waiting(45) time(46) .(47) 
+		</sentence>
+		<sentence id="14">
+			My(1) 28th-floor(2) Room(3) boasts(4) a(5) writing(6) desk(7) with(8) two(9) chairs(10) ,(11) king-size(12) bed(13) ,(14) and(15) the(16) inevitable(17) combvination(18) entertainment(19) center(20) /(21) armoire(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			The(1) room(2) 's(3) equipped(4) with(5) a(6) dataport(7) ((8) thought(9) there(10) 's(11) no(12) info(13) about(14) whether(15) it(16) 's(17) a(18) modem(19) or(20) ethernet(21) connection(22) ,(23) and(24) I(25) did(26) not(27) look(28) very(29) hard(30) )(31) ,(32) iron(33) /(34) ironing(35) board(36) ,(37) hair(38) dryer(39) ,(40) and(41) coffeemaker(42) .(43) 
+		</sentence>
+		<sentence id="16">
+			There(1) 's(2) a(3) large(4) ,(5) well-lit(6) bathroom(7) done(8) in(9) white(10) ceramic(11) tile(12) ,(13) and(14) an(15) additional(16) vanity(17) sink(18) within(19) the(20) main(21) room(22) .(23) 
+			<opinion polarity="+" feature="bathroom" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="17">
+			Toiletries(1) are(2) generous(3) helpings(4) of(5) Garden_Botanika(6) lotion(7) ,(8) conditioner(9) ,(10) shampoo(11) ,(12) and(13) soap(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			The(1) room(2) is(3) actually(4) large(5) enough(6) to(7) set(8) up(9) the(10) ironing(11) board(12) ,(13) and(14) has(15) not(16) one(17) but(18) two(19) outlets(20) on(21) walls(22) that(23) can(24) be(25) reached(26) without(27) crawling(28) under(29) the(30) bed(31) .(32) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="19">
+			The(1) television(2) offers(3) local(4) channels(5) ,(6) plus(7) pay-per-view(8) and(9) a(10) $9.95/day(11) cable-modem(12) connection(13) with(14) infrared-linked(15) keyboard(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			It(1) does(2) not(3) have(4) any(5) premium(6) channels(7) ,(8) however(9) --(10) only(11) the(12) usual(13) Spectravision(14) ten-dollar(15) in-room(16) movies(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			On(1) my(2) more(3) recent(4) stay(5) ,(6) I(7) lucked(8) into(9) an(10) Executive_Suite(11) :(12) two(13) rooms(14) each(15) the(16) size(17) of(18) a(19) normal(20) hotel(21) room(22) ,(23) with(24) a(25) bath(26) /(27) closet(28) complex(29) between(30) them(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			The(1) outer(2) room(3) had(4) a(5) foldout(6) sofa(7) and(8) overstuffed(9) chairs(10) ,(11) a(12) round(13) table(14) with(15) seating(16) for(17) four(18) ,(19) and(20) a_second(21) television(22) center(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			Tres(1) plush(2) !(3) 
+		</sentence>
+		<sentence id="24">
+			There(1) are(2) 25-30(3) rooms(4) per(5) floor(6) per(7) tower(8) ,(9) with(10) at_least(11) four(12) elevators(13) serving(14) each(15) floor(16) --(17) a(18) boon(19) if(20) the(21) hotel(22) is(23) full(24) ,(25) trust(26) me(27) on(28) that(29) !(30) 
+		</sentence>
+		<sentence id="25">
+			The(1) halls(2) are(3) thickly(4) carpeted(5) and(6) quiet(7) ,(8) with(9) absolutely(10) no(11) !(12) furnishings(13) .(14) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="26">
+			During(1) both(2) my(3) stays(4) the(5) halls(6) were(7) very(8) quiet(9) ,(10) though(11) it(12) was(13) not(14) a(15) fair(16) test(17) since(18) there(19) was(20) no(21) convention(22) in(23) the(24) hotel(25) the(26) first(27) time(28) I(29) stayed(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			On(1) my(2) more(3) recent(4) visit(5) ,(6) about(7) 2300(8) WalMart(9) conferees(10) were(11) in(12) town(13) ,(14) and(15) --(16) though(17) crowded(18) --(19) the(20) hotel(21) seemed(22) up(23) to(24) the(25) task(26) most(27) of(28) the(29) time(30) .(31) 
+		</sentence>
+		<sentence id="28">
+			Let(1) 's(2) talk(3) Amenities(4) :(5) Adam_'s_Mark_Dallas(6) boasts(7) a(8) large(9) ,(10) modern(11) fitness(12) center(13) equipped(14) with(15) all(16) the(17) latest(18) cardiovascular(19) and(20) weight-training(21) equipment(22) ;(23) it(24) 's(25) on(26) a(27) common(28) floor(29) to(30) all(31) three(32) towers(33) .(34) 
+			<opinion polarity="+" feature="gym" featWords="12,13" opWords="11"/>
+		</sentence>
+		<sentence id="29">
+			You(1) may(2) well(3) need(4) the(5) fitness(6) center(7) to(8) work(9) off(10) all(11) the(12) food(13) ;(14) the(15) hotel(16) boasts(17) five(18) restaurants(19) :(20) 1(21) )(22) a(23) bagel(24) /(25) coffee(26) shop(27) for(28) light(29) breakfasts(30) and(31) snacks(32) 2(33) )(34) fine(35) dining(36) with(37) a(38) view(39) at(40) the(41) 38th-floor(42) Chaparral_Restaurant(43) ,(44) 3(45) )(46) pool(47) ,(48) big-screen(49) TV(50) ,(51) and(52) munchies(53) at(54) the(55) Plaza_Sports_Bar(56) on(57) the(58) lobby(59) level(60) ,(61) 4(62) )(63) the(64) Pearl_Street_Cafe(65) on(66) the(67) lobby(68) level(69) serves(70) breakfast(71) ,(72) lunch(73) ,(74) and(75) casual(76) dinner(77) and(78) also(79) has(80) a(81) lounge(82) area(83) where(84) you(85) can(86) await(87) your(88) travelling(89) companions(90) .(91) and(92) 5(93) )(94) A(95) Wings(96) '(97) n(98) '(99) Pizza_Buffet(100) on(101) the(102) lobby(103) level(104) ((105) this(106) replaced(107) a(108) night(109) club(110) and(111) disco(112) named(113) "(114) Silhouettes(115) "(116) )(117) .(118) 
+		</sentence>
+		<sentence id="30">
+			Add(1) to(2) the(3) restaurants(4) a(5) modern(6) business(7) center(8) ((9) which(10) rents(11) telephones(12) and(13) laptops(14) )(15) ,(16) both(17) self-service(18) and(19) hotel(20) laundry(21) ,(22) a(23) flower(24) shop(25) ,(26) and(27) a(28) large(29) gift(30) shop(31) that(32) sells(33) gifts(34) as_well(35) as(36) forgotten(37) toiletries(38) and(39) overpriced(40) snacks(41) .(42) 
+			<opinion polarity="-" feature="price" opWords="40"/>
+		</sentence>
+		<sentence id="31">
+			In(1) truth(2) ,(3) you(4) might(5) never(6) need(7) to(8) leave(9) the(10) complex(11) !(12) 
+		</sentence>
+		<sentence id="32">
+			I(1) must(2) note(3) ,(4) though(5) ,(6) that(7) the(8) gift(9) shop(10) seems(11) either(12) understaffed(13) or(14) staffed(15) by(16) very(17) inefficient(18) people(19) ;(20) the(21) lines(22) were(23) always(24) too(25) long(26) for(27) my(28) tastes(29) .(30) 
+		</sentence>
+		<sentence id="33">
+			If(1) you(2) do(3) want(4) to(5) leave(6) the(7) complex(8) ,(9) there(10) 's(11) Local_Transportation(12) right(13) outside(14) the(15) door(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			The(1) DART(2) light(3) rail(4) train(5) 's(6) Pearl_Street(7) station(8) is(9) immediately(10) outside(11) the(12) north(13) tower(14) ;(15) offering(16) ready(17) access(18) to(19) Dallas(20) '(21) popular(22) West_End(23) area(24) .(25) 
+		</sentence>
+		<sentence id="35">
+			You(1) can(2) get(3) just(4) about(5) any(6) kind(7) of(8) meat(9) you(10) want(11) in(12) the(13) West_End(14) ,(15) though(16) pickings(17) are(18) pretty(19) slim(20) for(21) those(22) who(23) like(24) to(25) eat(26) lighter(27) fare(28) .(29) 
+		</sentence>
+		<sentence id="36">
+			The(1) northbound(2) trains(3) ((4) Red_Line(5) )(6) also(7) offer(8) access(9) to(10) Southern_Methodist_University(11) and(12) the(13) surrounding(14) area(15) ((16) at(17) the(18) Mockingbird_Station(19) )(20) ,(21) Old_Towne(22) shopping(23) and(24) restaurants(25) ((26) at(27) the(28) Lover_'s_Lane_Station(29) )(30) ,(31) and(32) the(33) high-end(34) Park_Mall(35) ((36) at(37) --(38) you(39) guessed(40) it(41) --(42) the(43) Park_Lane_Station(44) )(45) .(46) 
+		</sentence>
+		<sentence id="37">
+			All(1) three(2) stops(3) require(4) a(5) walk(6) of(7) up(8) to(9) one-half(10) mile(11) to(12) commercial(13) areas(14) ,(15) though(16) taxis(17) are(18) usually(19) easy(20) to(21) find(22) ,(23) especially(24) in(25) the(26) day(27) time(28) .(29) [(30) a(31) note(32) :(33) You(34) can(35) now(36) ((37) as(38) of(39) Sept(40) 2002(41) )(42) take(43) a(44) train(45) to(46) the(47) area(48) of(49) Skillman(50) and(51) the(52) LBJ_Freeway(53) ,(54) I-635(55) .(56) ](57) Adam_'s_Mark_Dallas(58) boasts(59) a(60) huge(61) Conference_Center(62) immediately(63) across(64) the(65) street(66) ((67) connected(68) by(69) pedestrian(70) bridge(71) )(72) .(73) 
+		</sentence>
+		<sentence id="38">
+			There(1) are(2) meeting(3) rooms(4) of(5) all(6) sizes(7) in(8) the(9) conference(10) center(11) and(12) on(13) the(14) fourth(15) and(16) fifth(17) floors(18) of(19) the(20) hotel(21) complex(22) .(23) 
+		</sentence>
+		<sentence id="39">
+			The(1) hotel(2) ((3) as(4) mentioned(5) above(6) )(7) can(8) easily(9) host(10) conferences(11) of(12) several(13) hundred(14) attendees(15) ,(16) offering(17) catering(18) ,(19) bar(20) service(21) ,(22) and(23) audiovisual(24) services(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			Dallas(1) is(2) served(3) by(4) two(5) Airports(6) :(7) Love_Field(8) is(9) about(10) six_miles(11) from(12) the(13) hotel(14) and(15) DFW(16) is(17) about(18) thirty-four_miles(19) .(20) 
+		</sentence>
+		<sentence id="41">
+			Commercial(1) shuttle(2) services(3) connect(4) downtown(5) to(6) both(7) airports(8) ;(9) taxi(10) fares(11) are(12) a(13) flat(14) $18(15) to(16) Love(17) and(18) $38(19) to(20) DFW(21) from(22) the(23) hotel(24) ((25) fixed(26) by(27) the(28) city(29) )(30) .(31) 
+		</sentence>
+		<sentence id="42">
+			Parking(1) for(2) rental(3) and(4) personal(5) vehicles(6) is(7) available(8) at(9) the(10) garage(11) across(12) the(13) street(14) or(15) at(16) surface(17) lots(18) nearby(19) .(20) 
+		</sentence>
+		<sentence id="43">
+			The(1) hotel(2) is(3) on(4) the(5) fringes(6) of(7) the(8) downtown(9) area(10) ,(11) so(12) walking(13) might(14) not(15) be(16) advisable(17) late(18) in(19) the(20) evening(21) .(22) 
+		</sentence>
+		<sentence id="44">
+			During(1) the(2) day(3) ,(4) though(5) ,(6) you(7) have(8) ready(9) access(10) to(11) the(12) central(13) business(14) district(15) .(16) 
+		</sentence>
+		<sentence id="45">
+			Nearby(1) office(2) buildings(3) are(4) connected(5) to(6) others(7) by(8) underground(9) tunnels(10) ,(11) though(12) the(13) hotel(14) itself(15) does(16) not(17) appear(18) to(19) be(20) on(21) the(22) tunnel(23) system(24) .(25) 
+		</sentence>
+		<sentence id="46">
+			Looking(1) for(2) Things(3) to(4) Do(5) nearby(6) ?(7) 
+		</sentence>
+		<sentence id="47">
+			Well(1) ,(2) the(3) West_End(4) ((5) one_mile(6) away(7) along(8) the(9) DART_Line(10) )(11) offers(12) evening(13) entertainment(14) and(15) shopping(16) ,(17) including(18) such(19) restaurants(20) as(21) On_the_Border(22) ,(23) Johnny_Rockets(24) ,(25) Landry(26) 's(27) ,(28) Hooters(29) ,(30) and(31) Planet_Hollywood(32) .(33) 
+		</sentence>
+		<sentence id="48">
+			There(1) 's(2) almost(3) always(4) live(5) entertainment(6) outside(7) Planet_Hollywood(8) ,(9) and(10) frequent(11) festivals(12) on(13) weekends(14) .(15) 
+		</sentence>
+		<sentence id="49">
+			There(1) are(2) also(3) museums(4) ((5) The(6) Sixth_Floor_JFK_Museum(7) )(8) and(9) the(10) West_End_Aquarium(11) .(12) 
+		</sentence>
+		<sentence id="50">
+			Or(1) you(2) can(3) go(4) the(5) other(6) direction(7) to(8) "(9) Deep_Ellum(10) ,(11) "(12) Dallas(13) '(14) answer(15) to(16) Greenwich_Village(17) --(18) home(19) to(20) funky(21) ethnic(22) restaurants(23) ,(24) tattoo(25) parlors(26) ,(27) and(28) shops(29) with(30) more(31) kitsch(32) than(33) you(34) can(35) shake(36) a(37) stick(38) at(39) .(40) 
+		</sentence>
+		<sentence id="51">
+			Deep_Ellum(1) 's(2) a(3) quick(4) cab(5) ride(6) away(7) on(8) Elm_Street(9) ,(10) but(11) I(12) 'd(13) advise(14) against(15) trying(16) to(17) walk(18) from(19) the(20) hotel(21) --(22) it(23) can(24) be(25) a(26) rough(27) neighborhood(28) .(29) 
+		</sentence>
+		<sentence id="52">
+			Talk(1) to(2) the(3) concierge(4) ,(5) I(6) mean(7) Guest_Services(8) ,(9) "(10) about(11) getting(12) to(13) the(14) West_End(15) ,(16) deep(17) Ellum(18) ,(19) or(20) the(21) Dallas_Hard_Rock_Cafe(22) on(23) McKinney_Avenue(24) .(25) My_Overall_Impression(26) :(27) This(28) hotel(29) is(30) gargantuan(31) ,(32) humongous(33) ,(34) mammoth(35) ,(36) immense(37) .(38) The(39) only(40) thing(41) missing(42) is(43) a(44) casino(45) on(46) the(47) ground(48) floor(49) !(50) Unfortunately(51) ,(52) it(53) 's(54) also(55) bland(56) ,(57) sterile(58) ,(59) and(60) boring(61) .(62) There(63) 's(64) a(65) tradeoff(66) in(67) the(68) lodging(69) business(70) :(71) bigger(72) is(73) blander(74) .(75) even(76) the(77) expensive(78) hotels(79) get(80) a(81) cookie-cutter(82) look(83) and(84) feel(85) once(86) you(87) go(88) over(89) about(90) 200(91) rooms(92) ,(93) and(94) this(95) hotel(96) has(97) nine_times(98) that(99) many(100) .(101) Still(102) ,(103) service(104) was(105) friendly(106) .(107) My(108) biggest(109) problem(110) was(111) that(112) the(113) property(114) is(115) so(116) darned(117) large(118) that(119) I(120) constantly(121) felt(122) overwhelmed(123) .(124) I(125) 'd(126) hate(127) to(128) have(129) been(130) trying(131) to(132) drag(133) around(134) kids(135) in(136) that(137) huge(138) place(139) .(140) In(141) truth(142) ,(143) this(144) is(145) just(146) another(147) case(148) where(149) bigger(150) is(151) not(152) better(153) .(154) It(155) 's(156) just(157) larger(158) .(159) You(160) want(161) a(162) luxury(163) hotel(164) ?(165) the(166) Meridien(167) is(168) just(169) across(170) the(171) street(172) .(173) It(174) 's(175) smaller(176) ((177) more(178) expensive(179) ,(180) too(181) )(182) ,(183) and(184) has(185) exactly(186) the(187) same(188) access(189) to(190) local(191) services(192) as(193) the(194) Adam_'s_Mark(195) .(196) It(197) 's(198) up(199) to(200) you(201) --(202) but(203) the(204) Adam_'s_Mark(205) to(206) me(207) smacks(208) of(209) one(210) of(211) those(212) huge(213) city(214) complex(215) buildings(216) you(217) always(218) read(219) about(220) in(221) futuristic(222) fiction(223) .(224) Author(225) 's(226) note(227) :(228) this(229) review(230) was(231) originally(232) slotted(233) under(234) the(235) general(236) Adams_Mark(237) category(238) ,(239) written(240) in(241) August_,_2001(242) .(243) After(244) a(245) more(246) recent(247) visit(248) in(249) August_2002(250) ,(251) I(252) 've(253) updated(254) and(255) added(256) a(257) few(258) further(259) comments(260) .(261) You(262) might(263) also(264) want(265) to(266) look(267) at(268) my(269) review(270) of(271) the(272) company(273) 's(274) Adam_'s_Mark_Houston(275) facility(276) .(277) 
+			<opinion polarity="+" feature="hotel" featWords="29" opWords="31"/>
+			<opinion polarity="+" feature="hotel" featWords="29" opWords="33"/>
+			<opinion polarity="+" feature="hotel" featWords="29" opWords="35"/>
+			<opinion polarity="+" feature="hotel" featWords="29" opWords="37"/>
+			<opinion polarity="-" feature="hotel" featWords="29" opWords="56"/>
+			<opinion polarity="-" feature="hotel" featWords="29" opWords="58"/>
+			<opinion polarity="-" feature="hotel" featWords="29" opWords="61"/>
+			<opinion polarity="+" feature="service" featWords="104" opWords="106"/>
+			<opinion polarity="+" feature="place" featWords="139" opWords="138"/>
+			<opinion polarity="+" feature="building" featWords="216" opWords="213"/>
+			<opinion polarity="+" feature="building" featWords="216" opWords="215"/>
+		</sentence>
+	</text>
+</review>

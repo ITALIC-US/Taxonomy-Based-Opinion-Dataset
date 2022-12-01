@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="148" item="Sony MDR-NC50 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) worth(2) the(3) money(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) in-flight(3) adapter(4) ,(5) heavy-duty(6) storage(7) /(8) carrying(9) case(10) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="case" featWords="10" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			lack(1) of(2) bass(3) ,(4) exhibits(5) hiss(6) and(7) hum(8) ,(9) non-coiled(10) wire(11) ,(12) too(13) expensive(14) 
+			<opinion polarity="-" feature="cord" featWords="11" opWords="10"/>
+			<opinion polarity="-" feature="price" opWords="13,14"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) set(4) of(5) these(6) headphones(7) with(8) the(9) intention(10) that(11) they(12) would(13) be(14) great(15) for(16) use(17) at(18) work(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			When(1) I(2) got(3) them(4) home(5) and(6) hooked(7) them(8) up(9) ,(10) I(11) found(12) the(13) sound(14) quality(15) to(16) be(17) terrible(18) .(19) 
+			<opinion polarity="-" feature="sound quality" featWords="14,15" opWords="18"/>
+		</sentence>
+		<sentence id="3">
+			These(1) headphones(2) exhibit(3) a(4) profound(5) lack(6) of(7) bass(8) ;(9) having(10) owned(11) several(12) pair(13) of(14) high-end(15) SONY(16) headphones(17) over(18) the(19) years(20) ,(21) I(22) was(23) quite(24) surprised(25) by(26) the(27) lack(28) of(29) bass(30) in(31) this(32) model(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			With(1) the(2) noise-cancellation(3) turned(4) on(5) ,(6) there(7) is(8) a_lot_of(9) hiss(10) and(11) 60Hz(12) hum(13) when(14) using(15) these(16) with(17) wall-powered(18) stereo(19) equipment(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Further(1) ,(2) with(3) a(4) fan(5) turned(6) on(7) in(8) the(9) background(10) ,(11) I(12) noticed(13) no(14) discernible(15) difference(16) in(17) background(18) noise(19) while(20) toggling(21) the(22) noise(23) cancellation(24) feature(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) wiring(2) for(3) this(4) headset(5) is(6) a(7) straight(8) ((9) non-coiled(10) )(11) removable(12) wire(13) that(14) is(15) fairly(16) short(17) ;(18) I(19) suppose(20) this(21) makes(22) it(23) easier(24) to(25) replace(26) as(27) an(28) end-user(29) ,(30) however(31) I(32) prefer(33) the(34) thicker(35) coiled(36) wire(37) on(38) a(39) set(40) of(41) headphones(42) .(43) 
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) not(3) recommend(4) this(5) set(6) of(7) headphones(8) ,(9) in(10) fact(11) ,(12) mine(13) are(14) going(15) back(16) to(17) the(18) store(19) today(20) -(21) they(22) 're(23) simply(24) not(25) worth(26) the(27) price(28) .(29) 
+		</sentence>
+	</text>
+</review>

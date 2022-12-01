@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="408" item="Rosen Plaza Hotel (The)" rating="2">
+	<title>
+		<sentence id="1">
+			Nice_Place(1) ,(2) But_Not_Worth_the_Money(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) comfortable(3) ,(4) nice(5) pool(6) area(7) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="place" featWords="7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overpriced(1) ,(2) poor(3) in-room(4) internet(5) service(6) ,(7) no(8) frequent(9) flyer(10) miles(11) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+			<opinion polarity="-" feature="internet" featWords="5" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) bottom(2) line(3) about(4) this(5) establishment(6) is(7) that(8) as(9) nice(10) as(11) it(12) may(13) seem(14) ,(15) you(16) can(17) do(18) better(19) for(20) your(21) money(22) elsewhere(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) stayed(3) in(4) many(5) hotels(6) and(7) motels(8) in_all(9) different(10) categories(11) ,(12) and(13) though(14) nice(15) ,(16) this(17) place(18) is(19) definitely(20) NOT(21) worth(22) the(23) price(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			Only(1) stayed(2) for(3) a(4) convention(5) ,(6) and(7) for(8) this(9) caliber(10) of(11) room(12) quality(13) ,(14) you(15) could(16) stay(17) at(18) a(19) Best_Western(20) or(21) the(22) Quality_Inn(23) right(24) down(25) the(26) street(27) for(28) a_lot(29) less(30) money(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			The(1) all(2) you(3) can(4) eat(5) buffets(6) at(7) Cafe_Matisse(8) don(9) t(10) tell(11) you(12) up_front(13) that(14) beverages(15) are(16) not(17) included(18) ,(19) so(20) you(21) get(22) that(23) little(24) surprise(25) when(26) your(27) bill(28) comes(29) and(30) you(31) find(32) that(33) coffee(34) was(35) an(36) extra(37) $2.25(38) with(39) breakfast(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			The(1) food(2) in(3) Jack(4) 's(5) was(6) OK(7) ,(8) but(9) not(10) worth(11) anywhere(12) near(13) their(14) posted(15) menu(16) prices(17) .(18) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			For(1) about(2) those(3) same(4) numbers(5) ,(6) you(7) could(8) eat(9) at(10) Emeril(11) 's(12) over(13) at(14) Universal_CityWalk(15) and(16) have(17) one(18) of(19) the(20) finest(21) meals(22) of(23) your(24) life(25) .(26) 
+			<opinion polarity="+" feature="food" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="6">
+			At_least(1) the(2) hotel(3) gave(4) a(5) 50_%(6) off(7) coupon(8) for(9) Jack(10) 's(11) at(12) check-in(13) which(14) made(15) eating(16) there(17) somewhat(18) worth(19) it(20) ,(21) but(22) they(23) automatically(24) add(25) the(26) gratuity(27) based(28) on(29) the(30) pre-discount(31) total(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) also(3) discrepancies(4) and(5) overcharging(6) in(7) beverage(8) prices(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			For_example(1) ,(2) in(3) the(4) night(5) club(6) Backstage(7) ,(8) I(9) paid(10) $(11) 4(12) for(13) a(14) glass(15) of(16) Chardonnay(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			That(1) same(2) glass(3) was(4) $7.50(5) at(6) the(7) lobby(8) bar(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) catering(2) department(3) did(4) not(5) make(6) enough(7) entree(8) dishes(9) at(10) our(11) banquet(12) /(13) awards(14) dinner(15) to(16) feed(17) everyone(18) falling(19) short(20) and(21) having(22) to(23) scurry(24) to(25) make(26) more(27) keeping(28) some(29) people(30) waiting(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			By(1) the(2) time(3) they(4) finished(5) throwing(6) together(7) another(8) chafing(9) dish(10) of(11) salmon(12) ,(13) everyone(14) was(15) almost(16) done(17) .(18) '(19) Throwing(20) together(21) '(22) is(23) clearly(24) the(25) correct(26) term(27) here(28) as(29) the(30) salmon(31) they(32) rushed(33) out(34) was(35) not(36) the(37) same(38) recipe(39) as(40) the(41) original(42) and(43) had(44) the(45) same(46) creamy(47) white(48) sauce(49) as(50) the(51) chicken(52) dish(53) ((54) two(55) flavors(56) that(57) did(58) not(59) mix(60) )(61) that(62) they(63) also(64) had(65) to(66) rush(67) and(68) make(69) more(70) of(71) .(72) 
+		</sentence>
+		<sentence id="12">
+			They(1) even(2) went(3) so(4) far(5) as(6) to(7) throw(8) some(9) sandwich(10) style(11) sliced(12) roast(13) beef(14) ((15) an(16) item(17) not(18) on(19) the(20) original(21) menu(22) order(23) )(24) in(25) to(26) a(27) chafing(28) dish(29) with(30) some(31) kind(32) of(33) brown(34) sauce(35) in(36) an(37) attempt(38) to(39) make(40) up(41) for(42) the(43) shortfall(44) .(45) 
+		</sentence>
+		<sentence id="13">
+			This(1) one(2) situation(3) alone(4) is(5) evidence(6) that(7) this(8) place(9) tries(10) to(11) squeeze(12) for(13) every(14) last(15) conceivable(16) penny(17) ,(18) AT_YOUR_EXPENSE(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			The(1) outdoor(2) pool(3) is(4) the(5) nicest(6) part(7) of(8) the(9) place(10) ,(11) bar(12) none(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) pool(2) and(3) Jacuzzi(4) temperatures(5) were(6) right(7) on(8) the(9) money(10) ,(11) and(12) there(13) was(14) no(15) shortage(16) of(17) large(18) soft(19) towels(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) Jacuzzi(2) has(3) this(4) neat(5) little(6) waterfall(7) that(8) gives(9) a(10) great(11) back(12) and(13) shoulder(14) massage(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			This(1) is(2) the(3) kind(4) of(5) place(6) you(7) 'd(8) expect(9) waitresses(10) to(11) come(12) around(13) to(14) the(15) loungers(16) offering(17) to(18) take(19) drink(20) and(21) snack(22) orders(23) based(24) upon(25) the(26) ambiance(27) and(28) high(29) pricing(30) ,(31) but(32) here(33) ,(34) FUGGHETABOUTIT(35) !(36) 
+		</sentence>
+		<sentence id="18">
+			The(1) in-room(2) internet(3) service(4) for(5) which(6) they(7) charge(8) $9.95/day(9) was(10) another(11) joke(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			The(1) connection(2) kept(3) randomly(4) cutting(5) out(6) and(7) their(8) system(9) blocked(10) my(11) ability(12) to(13) upload(14) and(15) download(16) to(17) and(18) from(19) my(20) website(21) ,(22) certain(23) email(24) servers(25) ,(26) and(27) file(28) transfers(29) .(30) 
+		</sentence>
+		<sentence id="20">
+			Other(1) convention(2) attendees(3) had(4) the(5) same(6) complaints(7) ,(8) so(9) I(10) did(11) not(12) buy(13) their(14) tech(15) support(16) people(17) telling(18) me(19) to(20) check(21) out(22) my(23) laptop(24) s(25) settings(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			They(1) sent(2) someone(3) up(4) to(5) my(6) room(7) to(8) replace(9) the(10) Ethernet(11) cable(12) before(13) which(14) I(15) told(16) them(17) they(18) were(19) wasting(20) their(21) time(22) ,(23) and(24) mine(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			I(1) turned(2) out(3) to(4) be(5) right(6) .(7) 
+		</sentence>
+	</text>
+</review>

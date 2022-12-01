@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="810" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Staying(1) at(2) California_Suites_Hotel(3) was(4) a(5) pleasant(6) experience(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) location(2) ,(3) nice(4) service(5) ,(6) affordable(7) price(8) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="service" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			needs(1) more(2) cleanliness(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Due(1) to(2) its(3) convenient(4) location(5) ,(6) right(7) in(8) the(9) heart(10) of(11) San_Diego(12) ,(13) I(14) must(15) say(16) that(17) staying(18) at(19) California_Suites_Hotel(20) added(21) to(22) my(23) memorable(24) experience(25) in(26) the(27) city(28) .(29) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			All(1) the(2) key(3) attractions(4) such(5) as(6) Zoo(7) ,(8) Sea_World(9) ,(10) superb(11) beaches(12) etc.(13) were(14) a(15) few(16) minutes(17) away(18) from(19) the(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			Must(1) say(2) the(3) overall(4) set-up(5) of(6) the(7) hotel(8) was(9) simply(10) above(11) my(12) expectations(13) ,(14) considering(15) its(16) budget(17) prices(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="18" opWords="17"/>
+		</sentence>
+	</text>
+</review>

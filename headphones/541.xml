@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="541" item="Ultimate Ears super.fi 5 Pro�?� Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			You(1) Can_Do_Way_Better_Than_This(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfy_And_Small(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound_Quality_Is_Really_Not_Good(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Canalphones(1) are(2) a(3) good(4) pick(5) for(6) your(7) iPod(8) or(9) other(10) portable(11) device(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) good(3) sound(4) in(5) a(6) small(7) package(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="size" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			But(1) unfortunately(2) ,(3) Ultimate_Ears(4) 's(5) super(6) .(7) fi(8) 5(9) Pro(10) does(11) not(12) have(13) good(14) sound(15) and(16) have(17) way(18) to(19) thick(20) of(21) a(22) sound(23) .(24) 
+			<opinion polarity="-" feature="sound quality" featWords="15" opWords="12,14"/>
+		</sentence>
+		<sentence id="4">
+			Too(1) much(2) bass(3) ,(4) recessed(5) mids(6) ,(7) and(8) bright(9) ,(10) undetailed(11) treble(12) .(13) 
+			<opinion polarity="-" feature="bass" featWords="3" opWords="1,2"/>
+			<opinion polarity="-" feature="mids" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="highs" featWords="12" opWords="9"/>
+			<opinion polarity="-" feature="highs" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			This(1) makes(2) them(3) give(4) a(5) fake(6) illusion(7) of(8) a(9) good(10) headphone(11) when(12) they(13) sound(14) too(15) thick(16) and(17) hot-sounding(18) ,(19) especially(20) when(21) you(22) 're(23) spending(24) $200(25) .(26) 
+			<opinion polarity="-" feature="sound quality" opWords="14,15,16"/>
+			<opinion polarity="-" feature="sound quality" opWords="14,18"/>
+		</sentence>
+		<sentence id="6">
+			Though(1) ,(2) like(3) all(4) canalphones(5) ,(6) they(7) are(8) small(9) sized(10) ,(11) comfortable(12) ,(13) and(14) efficent(15) .(16) 
+			<opinion polarity="+" feature="size" opWords="9,10"/>
+			<opinion polarity="+" feature="comfort" opWords="12"/>
+			<opinion polarity="+" feature="headphones" opWords="15"/>
+		</sentence>
+		<sentence id="7">
+			But(1) ,(2) unfortunately(3) ,(4) sound(5) is(6) not(7) up(8) to(9) par(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Try_the_Shure(1) E2C(2) instead(3) .(4) 
+		</sentence>
+	</text>
+</review>

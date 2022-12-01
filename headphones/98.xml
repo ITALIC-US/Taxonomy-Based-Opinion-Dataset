@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="98" item="Sennheiser EH-150 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			There(1) are(2) better(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) bass(2) ;(3) easily(4) driven(5) by(6) portable(7) devices(8) .(9) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) after(2) the(3) headband(4) is(5) stretched(6) a(7) little(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			midrange(1) is(2) weak(3) ;(4) high(5) hat(6) cymbals(7) hiss(8) rather(9) than(10) come(11) through(12) with(13) clarity(14) .(15) 
+			<opinion polarity="-" feature="mids" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) bass(2) is(3) your(4) priority(5) ,(6) or(7) if(8) you(9) need(10) sealed(11) headphones(12) or(13) just(14) a(15) voice(16) headphone(17) ,(18) these(19) will(20) do(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) broke(2) these(3) in(4) for(5) two(6) days(7) at(8) high(9) volume(10) ,(11) only(12) to(13) find(14) that(15) the(16) bass(17) got(18) even(19) more(20) sloppy(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			It(1) virtually(2) masks(3) all(4) other(5) frequencies(6) ,(7) and(8) is(9) not(10) very(11) punchy(12) ;(13) although(14) it(15) is(16) very(17) omnipresent(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Listening(1) fatigue(2) set(3) in(4) early(5) for(6) me(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) returned(2) them(3) after(4) listening(5) to(6) them(7) daily(8) for(9) two(10) weeks(11) as(12) my(13) "(14) work(15) "(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) used(3) them(4) to(5) go(6) for(7) a(8) couple(9) of(10) evening(11) walks(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Look(1) at(2) other(3) Sennheisers(4) in(5) this(6) price(7) range(8) ,(9) as_well(10) as(11) Koss(12) and(13) Sony(14) ;(15) if(16) a(17) closed(18) cup(19) is(20) essential(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			Look(1) at(2) these(3) and(4) Grado(5) SR60(6) 's(7) if(8) a(9) closed(10) cup(11) is(12) not(13) essential(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			For(1) reference(2) ,(3) I(4) found(5) the(6) Sennheiser(7) PX100(8) 's(9) and(10) HD497(11) 's(12) that(13) I(14) own(15) to(16) be(17) much(18) more(19) accurate(20) and(21) enjoyable(22) to(23) listen(24) to(25) ;(26) although(27) they(28) cost(29) 10(30) and(31) 20_dollars(32) more(33) ;(34) respectively(35) .(36) 
+		</sentence>
+		<sentence id="10">
+			The(1) extra(2) cost(3) is(4) well(5) worth(6) it(7) ;(8) makes(9) the(10) EH150(11) 's(12) sound(13) like(14) they(15) should(16) have(17) cost(18) about(19) $20(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Maybe(1) the(2) EH205(3) and(4) 350(5) 's(6) are(7) much(8) better(9) ;(10) I(11) would(12) hope(13) so(14) .(15) 
+		</sentence>
+	</text>
+</review>

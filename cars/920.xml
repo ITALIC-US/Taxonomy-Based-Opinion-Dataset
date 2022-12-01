@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="920" item="2000 Chevrolet Tahoe" rating="1">
+	<title>
+		<sentence id="1">
+			2000(1) Tahoe(2) -(3) Is(4) mine(5) a(6) lemon(7) or(8) is(9) it(10) just(11) a(12) bad(13) design(14) ?(15) ?(16) 
+			<opinion polarity="-" feature="design" featWords="14" opWords="13"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) ride(2) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) knock(2) ,(3) engine(4) stalls(5) ,(6) rough(7) transmission(8) ,(9) fuel(10) gauge(11) ,(12) heater(13) 
+			<opinion polarity="-" feature="transmission" featWords="8" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Last(1) winter(2) I(3) traded(4) in(5) an(6) unreliable(7) 1994(8) Suburban(9) for(10) a(11) 2000(12) Tahoe(13) to(14) take(15) advantage(16) of(17) rebates(18) from(19) a(20) GM(21) card(22) and(23) the(24) loyal(25) GM(26) customer(27) discount(28) offered(29) to(30) previous(31) GM(32) owners(33) .(34) 
+			<opinion polarity="-" feature="reliability" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Knowing(1) what(2) I(3) now(4) know(5) ,(6) I(7) would(8) have(9) gladly(10) not(11) used(12) the(13) discounts(14) and(15) purchased(16) a(17) 2000(18) Ford_Expedition(19) instead(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Since(1) it(2) 's(3) purchase(4) in(5) January_of_2000(6) ,(7) I(8) have(9) taken(10) it(11) in(12) for(13) servicing(14) five_times(15) for(16) the(17) following(18) reasons(19) :(20) 1(21) .(22) )(23) The(24) engine(25) has(26) a(27) constant(28) knock(29) that(30) the(31) GM(32) mechanics(33) can(34) not(35) fix(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			Passengers(1) in(2) my(3) car(4) have(5) joked(6) that(7) it(8) has(9) a(10) diesel(11) engine(12) .(13) 2(14) .(15) )(16) The(17) transmission(18) shifts(19) hard(20) and(21) makes(22) very(23) loud(24) noises(25) at(26) startup(27) .(28) 3(29) .(30) )(31) I(32) have(33) been(34) told(35) by(36) GM(37) mechanics(38) that(39) the(40) frequent(41) "(42) cold(43) knock(44) "(45) at(46) startup(47) that(48) lasts(49) for(50) 5_seconds(51) before(52) the(53) engine(54) stalls(55) is(56) normal(57) .(58) 4(59) .(60) )(61) The(62) fuel(63) gauge(64) is(65) a(66) joke(67) .(68) 
+			<opinion polarity="-" feature="transmission" featWords="18" opWords="19,20"/>
+		</sentence>
+		<sentence id="5">
+			Better(1) get(2) immediately(3) to(4) the(5) pump(6) when(7) it(8) reads(9) 1/2(10) full(11) .(12) 5(13) .(14) )(15) The(16) heater(17) is(18) about(19) as(20) good(21) as(22) the(23) fuel(24) gauge(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			You(1) can(2) fry(3) eggs(4) with(5) the(6) highest(7) setting(8) and(9) make(10) ice(11) cubes(12) with(13) one(14) click(15) away(16) from(17) the(18) highest(19) setting(20) .(21) 6(22) .(23) )(24) I(25) have(26) not(27) had(28) to(29) use(30) the(31) 4(32) wheel(33) drive(34) often(35) ,(36) but(37) a(38) few(39) times(40) it(41) has(42) made(43) an(44) extremely(45) loud(46) high-pitched(47) grinding(48) noise(49) when(50) a(51) snow-covered(52) roads(53) when(54) in(55) 4WD(56) .(57) 7(58) .(59) )(60) It(61) has(62) been(63) nearly(64) impossible(65) for(66) me(67) to(68) have(69) a(70) seatbelt(71) that(72) was(73) torn(74) when(75) I(76) bought(77) the(78) truck(79) replaced(80) .(81) 
+		</sentence>
+		<sentence id="7">
+			Other(1) than(2) the(3) constant(4) engine(5) knock(6) ((7) which(8) gets(9) extremely(10) annoying(11) )(12) and(13) sometimes(14) rough(15) transmission(16) ,(17) the(18) car(19) is(20) extremely(21) comfortable(22) to(23) ride(24) in(25) .(26) 
+			<opinion polarity="-" feature="engine" featWords="5" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="comfort" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="8">
+			It(1) has(2) a(3) great(4) turning(5) radius(6) that(7) makes(8) it(9) feel(10) much(11) smaller(12) than(13) it(14) is(15) .(16) 
+			<opinion polarity="+" feature="turning radius" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) at(3) the(4) price(5) paid(6) for(7) this(8) car(9) ,(10) I(11) would(12) expect(13) it(14) to(15) have(16) a(17) smooth(18) engine(19) and(20) transmission(21) .(22) 
+			<opinion polarity="+" feature="transmission" featWords="21" opWords="18"/>
+			<opinion polarity="+" feature="engine" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) not(3) like(4) to(5) own(6) it(7) after(8) the(9) warranty(10) expires(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			I(1) would(2) only(3) recommend(4) this(5) car(6) to(7) a(8) person(9) who(10) would(11) like(12) to(13) get(14) to(15) know(16) their(17) GM(18) dealer(19) very(20) well(21) ;(22) for(23) all(24) others(25) ,(26) buy(27) an(28) Expedition(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="676" item="1999 Pontiac Grand Prix" rating="1">
+	<title>
+		<sentence id="1">
+			ProblemPlagued(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Color(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Just(1) about(2) everything(3) else(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) will(2) never(3) buy(4) another(5) GM(6) vehicle(7) based(8) off(9) of(10) the(11) poor(12) service(13) and(14) PR(15) that(16) GM(17) and(18) Pontiac(19) provide(20) .(21) 
+			<opinion polarity="-" feature="service" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) had(3) my(4) '(5) 99(6) GTP(7) in(8) the(9) shop(10) almost(11) once(12) every(13) month(14) since(15) the(16) date(17) of(18) purchase(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) had(3) a(4) multitude(5) of(6) problems(7) with(8) this(9) vehicle(10) since(11) day_one(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) recommend(3) that(4) anyone(5) thinking(6) of(7) buying(8) a(9) Pontiac(10) ((11) GM(12) )(13) should(14) really(15) reconsider(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) had(3) rattling(4) in(5) the(6) door(7) ((8) s(9) )(10) ,(11) trim(12) falling(13) off(14) ,(15) power(16) steering(17) pump(18) going(19) out(20) ,(21) and(22) hesitation(23) during(24) acceleration(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Pontiac(1) has(2) replaced(3) various(4) parts(5) over(6) the(7) past(8) nine(9) months(10) and(11) yet(12) the(13) problem(14) persists(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			In(1) my(2) opinion(3) ,(4) the(5) vehicle(6) is(7) a(8) lemon(9) and(10) Pontiac(11) has(12) a(13) problem(14) admitting(15) this(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) will(2) never(3) purchase(4) another(5) GM(6) vehicle(7) as(8) long(9) as(10) I(11) live(12) .(13) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="213" item="Imperial Palace Hotel and Casino Biloxi" rating="5">
+	<title>
+		<sentence id="1">
+			Let(1) the(2) IMPERIAL_PALACE(3) treat(4) you(5) like(6) ROYALTY(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reasonable_Nightly_Rates(1) ,(2) Good_Customer_Service(3) ,(4) Rooms_Clean(5) and(6) Comfortable(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			do(1) not(2) gamble(3) anything(4) you(5) can(6) not(7) afford(8) to(9) LOSE(10) !(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Imperial_Palace(2) offers(3) more(4) promotions(5) and(6) Give-aways(7) than(8) any(9) other(10) Casino(11) on(12) the(13) Mississippi_Gulf_Coast(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Is_Biloxi(1) /(2) Gulfport_Mississippi(3) your(4) next(5) vacation(6) spot(7) ?(8) 
+		</sentence>
+		<sentence id="2">
+			Plan(1) on(2) fishing(3) ,(4) golfing(5) or(6) just(7) to(8) relax(9) and(10) have(11) some(12) fun(13) in(14) the(15) sun(16) ?(17) 
+		</sentence>
+		<sentence id="3">
+			Maybe(1) you(2) plan(3) on(4) doing(5) a(6) little(7) gambling(8) while(9) visiting(10) the(11) Mississippi_Gulf_Coast(12) ?(13) 
+		</sentence>
+		<sentence id="4">
+			If(1) so(2) ,(3) let(4) Mississippimom(5) recommend(6) to(7) you(8) ,(9) The_Imperial_Palace_Hotel_Casino(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Why(1) you(2) ask(3) ?(4) 
+		</sentence>
+		<sentence id="6">
+			Well(1) ,(2) In(3) my(4) opinion(5) ,(6) the(7) Hotel(8) is(9) well(10) maintained(11) ,(12) the(13) rooms(14) are(15) clean(16) and(17) comfortable(18) and(19) you(20) get(21) more(22) for(23) your(24) money(25) and(26) the(27) Service(28) is(29) Excellent(30) .(31) 
+			<opinion polarity="+" feature="hotel" featWords="8" opWords="10,11"/>
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="16"/>
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="18"/>
+			<opinion polarity="+" feature="service" featWords="28" opWords="30"/>
+		</sentence>
+		<sentence id="7">
+			The(1) Imperial_Palace(2) offers(3) reasonable(4) nightly(5) rates(6) ,(7) depending(8) on(9) your(10) travel(11) time(12) frame(13) you(14) may(15) find(16) nightly(17) rates(18) as(19) low(20) as(21) $39.00(22) per(23) night(24) for(25) a(26) standard(27) room(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			The(1) hotel(2) offers(3) Handicapped(4) ,(5) Smoking(6) and(7) Non-Smoking_Standard(8) ,(9) Jacuzzi(10) and(11) King(12) rooms(13) along_with(14) luxurious(15) Penthouse(16) suites(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Visit(1) their(2) web(3) site(4) at(5) www.ipbiloxi.com(6) for(7) more(8) information(9) ,(10) to(11) see(12) what(13) promotions(14) they(15) are(16) offering(17) before(18) you(19) make(20) your(21) plans(22) for(23) your(24) stay(25) on(26) the(27) Gulf_Coast(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			Sign(1) up(2) for(3) a(4) Player(5) s(6) card(7) on(8) their(9) web(10) site(11) and(12) you(13) will(14) receive(15) monthly(16) emails(17) telling(18) you(19) about(20) all(21) the(22) promotions(23) for(24) the(25) month(26) ,(27) at_least(28) once(29) a(30) month(31) they(32) send(33) an(34) invitation(35) to(36) stay(37) at(38) the(39) hotel(40) for(41) a(42) promotional(43) rate(44) as(45) low(46) as(47) $29.00(48) Now(49) for(50) the(51) gaming(52) aspect(53) of(54) the(55) Imperial_Palace_As(56) an(57) average(58) slot(59) player(60) ,(61) I(62) can(63) honestly(64) say(65) that(66) the(67) Imperial_Palace(68) gives(69) you(70) more(71) for(72) your(73) money(74) than(75) any(76) of(77) the(78) others(79) I(80) have(81) visited(82) .(83) 
+		</sentence>
+		<sentence id="11">
+			I(1) m(2) a(3) member(4) of(5) the(6) Imperial_Palace_Player(7) s(8) Club(9) ,(10) as(11) a(12) member(13) ,(14) I(15) have(16) earned(17) a_lot_of(18) cash(19) back(20) ,(21) food(22) comps(23) for(24) all(25) the(26) restaurants(27) ,(28) all(29) of(30) our(31) hotel(32) accommodations(33) ,(34) floorshows(35) and(36) monthly(37) gifts(38) .(39) 
+		</sentence>
+		<sentence id="12">
+			Between(1) Lou(2) and(3) myself(4) we(5) have(6) earned(7) quite(8) a(9) few(10) beautiful(11) oriental(12) vases(13) ,(14) mugs(15) ,(16) watches(17) ,(18) collectible(19) beanie(20) baby(21) Ippys(22) ,(23) beach(24) towels(25) ,(26) umbrellas(27) ,(28) coolers(29) ,(30) shirts(31) ,(32) hats(33) and(34) many(35) other(36) fine(37) collectibles(38) .(39) 
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) they(3) have(4) what(5) they(6) call(7) Ippy_Dollars(8) that(9) is(10) earned(11) by(12) your(13) play(14) that(15) can(16) be(17) redeemed(18) at(19) any(20) of(21) the(22) many(23) gifts(24) shops(25) within(26) the(27) Hotel(28) /(29) Casino(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			The(1) players(2) club(3) is(4) staffed(5) with(6) friendly(7) yet(8) professionally-orientated(9) people(10) who(11) have(12) gone(13) out(14) of(15) their(16) way(17) to(18) make(19) each(20) player(21) signing(22) up(23) for(24) a(25) card(26) ,(27) know(28) what(29) benefits(30) you(31) receive(32) as(33) a(34) member(35) .(36) 
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) to(3) admit(4) I(5) did(6) find(7) that(8) they(9) were(10) the(11) friendliest(12) group(13) compared(14) to(15) all(16) the(17) other(18) casinos(19) in(20) the(21) area(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			As(1) the(2) gambling(3) fool(4) I(5) am(6) ,(7) I(8) have(9) always(10) enjoyed(11) playing(12) the(13) slots(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			There(1) you(2) will(3) find(4) a(5) variety(6) of(7) nickel(8) ,(9) quarter(10) ,(11) half-dollar(12) ,(13) dollar(14) ,(15) five_dollar(16) ,(17) twenty-five_dollar(18) and(19) one_hundred_dollar(20) machines(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			My(1) preference(2) of(3) course(4) ,(5) is(6) playing(7) the(8) multi-line(9) nickel(10) machines(11) such(12) as(13) ,(14) little(15) green(16) men(17) ,(18) boxcar(19) bonus(20) ,(21) life(22) of(23) luxury(24) ,(25) and(26) reel(27) em(28) in(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			I(1) always(2) figured(3) if(4) I(5) am(6) going(7) to(8) lose(9) my(10) money(11) I(12) might(13) as_well(14) enjoy(15) playing(16) the(17) machines(18) that(19) are(20) fun(21) to(22) play(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			What(1) I(2) love(3) about(4) the(5) Imperial_Palace(6) over(7) the(8) other(9) casinos(10) in(11) Biloxi(12) is(13) they(14) offer(15) many(16) different(17) promotions(18) and(19) tournaments(20) throughout(21) the(22) month(23) for(24) their(25) players(26) whether(27) you(28) play(29) slots(30) or(31) table(32) games(33) .(34) 
+		</sentence>
+		<sentence id="21">
+			One(1) of(2) the(3) best(4) promotions(5) is(6) every(7) Tuesday(8) and(9) Friday(10) you(11) earn(12) quadruple(13) points(14) on(15) your(16) player(17) s(18) card(19) ,(20) which(21) accumulates(22) points(23) faster(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			Even(1) as(2) an(3) average(4) player(5) ,(6) by(7) playing(8) on(9) these(10) days(11) I(12) have(13) never(14) paid(15) for(16) a(17) meal(18) at(19) any(20) of(21) the(22) restaurants(23) ,(24) nor(25) did(26) I(27) have(28) to(29) pay(30) for(31) any(32) hotel(33) accommodations(34) .(35) 
+		</sentence>
+		<sentence id="23">
+			The(1) points(2) carry(3) over(4) for(5) cash(6) and(7) comps(8) until(9) you(10) redeem(11) them(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			Needless(1) to(2) say(3) ,(4) when(5) you(6) are(7) playing(8) on(9) the(10) different(11) promotional(12) days(13) earning(14) double(15) ,(16) triple(17) or(18) quadruple(19) points(20) the(21) points(22) accumulate(23) quickly(24) .(25) 
+		</sentence>
+		<sentence id="25">
+			The(1) monthly(2) gifts(3) however(4) you(5) must(6) earn(7) the(8) total(9) number(10) of(11) points(12) within(13) the(14) day(15) of(16) play(17) ,(18) some(19) of(20) the(21) gifts(22) only(23) require(24) 100(25) points(26) in(27) a(28) day(29) which(30) is(31) nothing(32) on(33) promotional(34) days(35) to(36) get(37) what(38) you(39) need(40) .(41) 
+		</sentence>
+		<sentence id="26">
+			I(1) have(2) always(3) found(4) customer(5) service(6) at(7) the(8) Imperial_Palace(9) to(10) be(11) pleasant(12) and(13) have(14) experienced(15) excellent(16) service(17) from(18) the(19) slot(20) host(21) .(22) 
+			<opinion polarity="+" feature="service" featWords="6" opWords="12"/>
+			<opinion polarity="+" feature="service" featWords="17" opWords="15"/>
+			<opinion polarity="+" feature="service" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="27">
+			Thanks(1) to(2) IP_SLOT_Hosts_Scott(3) ,(4) Diane(5) and(6) Theresa(7) for(8) excellent(9) service(10) and(11) making(12) our(13) visits(14) memorable(15) and(16) very(17) comfortable(18) .(19) 
+			<opinion polarity="+" feature="service" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="28">
+			Most(1) likely(2) because(3) Lou(4) and(5) I(6) were(7) frequent(8) players(9) ,(10) these(11) three(12) have(13) always(14) gone(15) out(16) of(17) their(18) way(19) to(20) stop(21) and(22) say(23) hello(24) and(25) ask(26) if(27) there(28) was(29) anything(30) we(31) would(32) like(33) for(34) that(35) day(36) .(37) 
+		</sentence>
+		<sentence id="29">
+			They(1) had(2) the(3) authority(4) to(5) offer(6) free(7) shows(8) ,(9) arrange(10) for(11) our(12) hotel(13) rooms(14) while(15) we(16) stayed(17) and(18) played(19) .(20) 
+		</sentence>
+		<sentence id="30">
+			There(1) were(2) times(3) if(4) I(5) didn(6) t(7) want(8) to(9) leave(10) my(11) machine(12) I(13) was(14) playing(15) and(16) ran(17) out(18) of(19) cigarettes(20) ,(21) they(22) would(23) write(24) up(25) a(26) comp(27) from(28) my(29) players(30) card(31) for(32) a(33) pack(34) of(35) cigarettes(36) ,(37) go(38) to(39) the(40) gift(41) shop(42) and(43) bring(44) them(45) to(46) me(47) .(48) 
+		</sentence>
+		<sentence id="31">
+			The(1) wait(2) staff(3) on(4) the(5) gaming(6) floor(7) is(8) also(9) very(10) attentive(11) kept(12) our(13) drinks(14) flowing(15) .(16) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="32">
+			I(1) am(2) a(3) coffee(4) drinker(5) ,(6) yet(7) the(8) service(9) is(10) great(11) .(12) 
+			<opinion polarity="+" feature="service" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="33">
+			Housekeeping(1) continuously(2) kept(3) the(4) gaming(5) floors(6) clean(7) from(8) the(9) player(10) s(11) debris(12) .(13) 
+			<opinion polarity="+" feature="grounds" featWords="6" opWords="7"/>
+		</sentence>
+		<sentence id="34">
+			As(1) I(2) had(3) mentioned(4) I(5) have(6) earned(7) enough(8) points(9) from(10) playing(11) at(12) their(13) casino(14) and(15) never(16) once(17) had(18) to(19) pay(20) for(21) a(22) room(23) if(24) I(25) decided(26) to(27) stay(28) the(29) night(30) .(31) 
+		</sentence>
+		<sentence id="35">
+			At(1) the(2) time(3) we(4) lived(5) close(6) enough(7) to(8) drive(9) back_and_forth(10) but(11) there(12) were(13) nights(14) when(15) the(16) machines(17) where(18) hitting(19) so(20) well(21) I(22) just(23) didn(24) t(25) want(26) to(27) leave(28) until(29) I(30) was(31) completely(32) exhausted(33) .(34) 
+		</sentence>
+		<sentence id="36">
+			Besides(1) I(2) earned(3) the(4) nights(5) stay(6) by(7) my(8) play(9) and(10) enjoyed(11) being(12) pampered(13) a(14) little(15) ,(16) having(17) the(18) option(19) to(20) spend(21) the(22) night(23) ,(24) enjoy(25) room(26) service(27) ,(28) spend(29) time(30) relaxing(31) by(32) the(33) pool(34) ,(35) just(36) enjoying(37) all(38) the(39) amenities(40) the(41) hotel(42) offered(43) to(44) their(45) guests(46) .(47) 
+		</sentence>
+		<sentence id="37">
+			Lou(1) and(2) celebrated(3) the(4) new(5) millennium(6) at(7) the(8) Imperial_Palace(9) in(10) Biloxi(11) and(12) we(13) were(14) treated(15) like(16) royalty(17) .(18) 
+		</sentence>
+		<sentence id="38">
+			Just(1) from(2) being(3) a(4) frequent(5) player(6) and(7) always(8) using(9) my(10) player(11) s(12) card(13) on(14) every(15) visit(16) they(17) had(18) sent(19) us(20) an(21) invitation(22) to(23) bring(24) in(25) the(26) New_Year(27) with(28) them(29) .(30) 
+		</sentence>
+		<sentence id="39">
+			This(1) was(2) by(3) Special_Invitation_Only(4) and(5) we(6) were(7) able(8) to(9) enjoy(10) all(11) the(12) amenities(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			Cocktails(1) ,(2) and(3) hor(4) deourves(5) were(6) served(7) in(8) the(9) Crown_Room(10) ,(11) which(12) is(13) located(14) on(15) the(16) 32nd(17) floor(18) of(19) the(20) hotel(21) with(22) a(23) beautiful(24) view(25) over(26) looking(27) Biloxi(28) .(29) 
+			<opinion polarity="+" feature="view" featWords="25" opWords="24"/>
+		</sentence>
+		<sentence id="41">
+			Our(1) King(2) room(3) was(4) absolutely(5) beautiful(6) with(7) the(8) plushest(9) carpeting(10) I(11) have(12) walked(13) on(14) ,(15) the(16) Jacuzzi(17) was(18) huge(19) ,(20) it(21) was(22) surrounded(23) by(24) sliding(25) mirror(26) doors(27) ,(28) there(29) was(30) a(31) very(32) large(33) flower(34) arrangement(35) on(36) the(37) vanity(38) ,(39) separating(40) his(41) and(42) her(43) sinks(44) that(45) was(46) a(47) beautiful(48) accent(49) to(50) the(51) bathroom(52) .(53) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="carpets" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="jacuzzi" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="42">
+			I(1) was(2) very(3) impressed(4) with(5) the(6) d�cor(7) of(8) our(9) room(10) !(11) 
+		</sentence>
+		<sentence id="43">
+			There(1) was(2) a(3) large(4) entertainment(5) center(6) and(7) a(8) comfortable(9) King(10) size(11) bed(12) .(13) 
+			<opinion polarity="+" feature="bed" featWords="12" opWords="9"/>
+		</sentence>
+		<sentence id="44">
+			Our(1) room(2) came(3) with(4) a(5) bottle(6) of(7) Champaign(8) along_with(9) a(10) set(11) of(12) commemorative(13) crystal(14) Champaign(15) glasses(16) with(17) 2000(18) engraved(19) in(20) the(21) stem(22) as(23) Keepsake(24) compliments(25) of(26) the(27) Hotel(28) /(29) Casino(30) .(31) 
+		</sentence>
+		<sentence id="45">
+			All(1) their(2) rooms(3) are(4) equipped(5) with(6) coffee(7) makers(8) and(9) blower(10) dryers(11) .(12) 
+		</sentence>
+		<sentence id="46">
+			Valet(1) parking(2) if(3) free(4) for(5) all(6) hotel(7) or(8) casino(9) guests(10) .(11) 
+			<opinion polarity="+" feature="parking" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="47">
+			There(1) is(2) ample(3) self(4) parking(5) in(6) the(7) ramp(8) that(9) is(10) well(11) light(12) and(13) patrolled(14) by(15) security(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			Inside(1) the(2) casino(3) ,(4) there(5) is(6) Bonkerz_Comedy_Club(7) where(8) you(9) can(10) enjoy(11) some(12) comic(13) relief(14) ,(15) to(16) break(17) away(18) from(19) gaming(20) or(21) enjoy(22) featured(23) live(24) entertainment(25) as(26) you(27) relax(28) in(29) the(30) Kabuki_Lounge_In_the_Lobby(31) you(32) will(33) find(34) the(35) entrances(36) to(37) the(38) Carribean_Spa(39) ,(40) Exercise(41) room(42) ,(43) Hair_Salon(44) ,(45) and(46) many(47) Gifts(48) shops(49) along_with(50) the(51) IPPY_FUN_ZONE(52) for(53) children(54) ,(55) equipped(56) with(57) a(58) video(59) game(60) arcade(61) .(62) 
+		</sentence>
+		<sentence id="49">
+			As(1) you(2) stroll(3) along(4) the(5) lobby(6) you(7) can(8) view(9) a(10) few(11) of(12) the(13) old(14) model(15) cars(16) on(17) that(18) are(19) on(20) display(21) .(22) 
+		</sentence>
+		<sentence id="50">
+			If(1) you(2) enjoy(3) antique(4) cars(5) don(6) t(7) miss(8) the(9) collection(10) on(11) display(12) on(13) the(14) second(15) floor(16) of(17) the(18) casino(19) .(20) 
+		</sentence>
+		<sentence id="51">
+			First(1) floor(2) into(3) the(4) casino(5) is(6) where(7) you(8) find(9) the(10) main(11) player(12) s(13) club(14) ,(15) many(16) of(17) the(18) different(19) slot(20) machines(21) from(22) 5(23) cents(24) to(25) 100_dollars(26) ,(27) the(28) table(29) games(30) ,(31) entrance(32) to(33) the(34) Kabuki_Lounge(35) or(36) Bonkerz_Comedy_Zone(37) .(38) 
+		</sentence>
+		<sentence id="52">
+			On(1) the(2) second(3) floor(4) is(5) more(6) gaming(7) area(8) ,(9) many(10) of(11) the(12) hotels(13) restaurants(14) ,(15) the(16) show(17) rooms(18) and(19) six(20) cinemas(21) featuring(22) all(23) the(24) newest(25) films(26) out(27) for(28) your(29) entertainment(30) .(31) 
+		</sentence>
+		<sentence id="53">
+			The(1) third(2) floor(3) has(4) more(5) gaming(6) machines(7) and(8) this(9) is(10) where(11) you(12) will(13) find(14) the(15) convention(16) meeting(17) rooms(18) that(19) are(20) also(21) available(22) .(23) 
+		</sentence>
+		<sentence id="54">
+			Trust_MississippiMom(1) when(2) I(3) say(4) ,(5) the(6) Imperial_Palace(7) is(8) one(9) of(10) the(11) best(12) gaming(13) casinos(14) on(15) the(16) coast(17) compared(18) to(19) the(20) rest(21) .(22) 
+		</sentence>
+		<sentence id="55">
+			I(1) have(2) visited(3) them(4) all(5) and(6) found(7) The_Imperial_Palace(8) treats(9) all(10) its(11) patrons(12) like(13) royalty(14) !(15) 
+		</sentence>
+	</text>
+</review>

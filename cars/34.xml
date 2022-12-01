@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="34" item="1998 Lexus ES 300" rating="5">
+	<title>
+		<sentence id="1">
+			Save(1) Money-Buy_a_Loaded_Camry(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxury(1) ,(2) Quite(3) ,(4) Roomy(5) 
+			<opinion polarity="+" feature="room" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			PRICE_for_a_Lexus(1) nameplate(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) have(2) owned(3) our(4) ES(5) 300(6) for(7) one(8) year(9) and(10) spent(11) $33,000(12) with(13) all(14) the(15) options(16) but(17) our(18) neighbor(19) bought(20) a(21) loaded(22) Camry(23) for(24) 24,000(25) that(26) when(27) parked(28) side(29) by(30) side(31) they(32) are(33) basically(34) the(35) same(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			Lift(1) the(2) hood(3) and(4) the(5) same(6) engine(7) with(8) different(9) name(10) plates(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) glass(2) on(3) both(4) cars(5) are(6) imprinted(7) TOYOTA(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) love(2) our(3) car(4) and(5) have(6) driven(7) over(8) 14,000_miles(9) in(10) it(11) without(12) any(13) problems(14) or(15) complaints(16) ,(17) but(18) we(19) are(20) kicking(21) ourselves(22) for(23) not(24) even(25) noticing(26) the(27) Toyota_Camry(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="5">
+			The(1) same(2) is(3) true(4) With_the_Toyota_Avalon(5) and(6) the(7) Lexus_LS(8) 400(9) .(10) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="672" item="1993 Land Rover Range Rover County" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) tank(2) ,(3) very(4) classy(5) SUV(6) 
+			<opinion polarity="+" feature="car" opWords="5" potency="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) snooty(2) ,(3) great(4) in(5) snow(6) ,(7) "(8) can(9) do(10) anything(11) "(12) feel(13) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) body(2) design(3) ((4) rust(5) )(6) expensive(7) to(8) maintain(9) over(10) the(11) years(12) ,(13) poor(14) gas(15) mileage(16) 
+			<opinion polarity="-" feature="gas" featWords="15,16" opWords="14"/>
+			<opinion polarity="-" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) ahve(3) the(4) money(5) to(6) maintain(7) and(8) can(9) afford(10) the(11) gas(12) ,(13) do(14) it(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			You(1) need(2) a(3) garage(4) too(5) to(6) keep(7) out(8) of(9) weather(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) Rover(4) with(5) 124,000(6) in(7) it(8) and(9) had(10) it(11) for(12) 2(13) years(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) sold(2) it(3) last_October(4) with(5) 156,000_miles(6) on(7) it(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) a(3) county(4) SWB(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			The(1) repairs(2) I(3) did(4) on(5) it(6) were(7) as(8) follows(9) ,(10) Both(11) belt(12) tensioners(13) ,(14) complete(15) overhaul(16) on(17) the(18) stereo(19) reciever(20) &(21) CD(22) changer(23) ((24) $400(25) )(26) ,(27) A(28) /(29) C(30) overhaul(31) ((32) $1,500(33) )(34) A(35) /(36) C(37) terrible(38) on(39) these(40) ,(41) oil(42) pan(43) gasket(44) ,(45) valve(46) cover(47) gaskets(48) ,(49) rear(50) main(51) seal(52) ((53) $900(54) )(55) ,(56) temp(57) .(58) sensor(59) ,(60) brakes(61) ,(62) and(63) belts(64) ,(65) wires(66) ,(67) distributor(68) /(69) rotor(70) ,(71) and(72) some(73) hoses(74) .(75) 
+		</sentence>
+		<sentence id="5">
+			I(1) spent(2) around(3) $6,000(4) in(5) maintenance(6) in(7) 2years(8) owning(9) this(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) in(3) snow(4) you(5) 'll(6) feel(7) like(8) you(9) are(10) king(11) of(12) the(13) road(14) !(15) 
+		</sentence>
+		<sentence id="7">
+			Very(1) solid(2) .(3) 
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="8">
+			Very(1) unique(2) .(3) 
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="9">
+			A_real(1) headturner(2) .(3) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) have(3) the(4) money(5) to(6) invest(7) to(8) keep(9) it(10) on(11) the(12) road(13) go(14) for(15) it(16) ,(17) buy(18) this(19) SUV(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) are(3) just(4) looking(5) for(6) a(7) great(8) SUV(9) to(10) last(11) you(12) a(13) long(14) time(15) ,(16) buy(17) a(18) Landcruiser(19) !(20) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="12">
+			The(1) built(2) quality(3) /(4) design(5) was(6) terrible(7) on(8) these(9) too(10) because(11) unless(12) you(13) garage(14) it(15) ,(16) rain(17) drips(18) off(19) the(20) vehicle(21) in(22) weird(23) directions(24) and(25) where(26) the(27) water(28) falls(29) ,(30) leaves(31) drainage(32) stains(33) evenually(34) in(35) the(36) paint(37) and(38) rust(39) in(40) the(41) tailgate(42) and(43) inside(44) the(45) doors(46) !(47) 
+			<opinion polarity="-" feature="design" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="13">
+			Look(1) for(2) rust(3) everywhere(4) before(5) purchasing(6) !(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) engine(2) I(3) feel(4) would(5) last(6) a(7) good(8) 300,000_miles(9) but(10) you(11) will(12) need(13) to(14) do(15) maintenance(16) to(17) keep(18) it(19) in(20) top(21) condition(22) to(23) get(24) there(25) !(26) 
+		</sentence>
+		<sentence id="15">
+			Wuold_I(1) purchase(2) another(3) one(4) ?(5) 
+		</sentence>
+		<sentence id="16">
+			No(1) .(2) 
+		</sentence>
+		<sentence id="17">
+			I(1) do(2) not(3) think(4) it(5) was(6) worth(7) it(8) at(9) all(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			They(1) are(2) very(3) hard(4) to(5) sell(6) too(7) .(8) 
+		</sentence>
+		<sentence id="19">
+			I(1) lost(2) my(3) butt(4) in(5) value(6) vs(7) .(8) money(9) invested(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Unless(1) you(2) plan(3) on(4) keeping(5) it(6) for(7) a(8) long(9) time(10) and(11) making(12) it(13) your(14) 2nd(15) wife(16) ,(17) use(18) good(19) judgement(20) !(21) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) County_SWB(16) 
+		</sentence>
+	</text>
+</review>

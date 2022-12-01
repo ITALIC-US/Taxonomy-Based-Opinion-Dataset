@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="155" item="Oasis Cancun - All Inclusive" rating="5">
+	<title>
+		<sentence id="1">
+			Grand_Oasis(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) hotel(2) !(3) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			No(1) problems(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Excellent(1) :(2) food(3) ,(4) drinks(5) and(6) service(7) .(8) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="drinks" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) was(2) a(3) wonderful(4) hotel(5) .(6) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Grand_Oasis_Cancun_For(1) those(2) of(3) you(4) thinking(5) about(6) this(7) property(8) and(9) having(10) read(11) some(12) negative(13) reviews(14) I(15) wanted(16) to(17) post(18) our(19) review(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) just(2) returned(3) from(4) Cancun(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			This(1) was(2) our(3) fifth(4) trip(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			We(1) stayed(2) at(3) the(4) Grand_Oasis_All_Inclusive(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Wonderful(1) hotel(2) !(3) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="6">
+			No(1) problems(2) .(3) 
+		</sentence>
+		<sentence id="7">
+			Excellent(1) :(2) food(3) ,(4) drinks(5) and(6) service(7) .(8) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="drinks" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="1"/>
+		</sentence>
+		<sentence id="8">
+			More(1) details(2) :(3) This(4) trip(5) was(6) arranged(7) through(8) Funjet(9) /(10) Transglobal(11) vacations(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) no(3) problems(4) with(5) the(6) airlines(7) ((8) American_Trans_Air(9) on(10) the(11) way(12) to(13) Cancun(14) /(15) and(16) Trans_Meridian(17) on(18) the(19) way(20) back(21) )(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) expect(3) about(4) a(5) two(6) hour(7) wait(8) once(9) you(10) arrive(11) at(12) the(13) airport(14) to(15) clear(16) immigration(17) ,(18) baggage(19) claim(20) ,(21) customs(22) ,(23) find(24) your(25) transportation(26) and(27) arrive(28) at(29) your(30) hotel(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			About(1) the(2) Oasis_Cancun(3) :(4) Throughout(5) our(6) stay(7) the(8) lobby(9) in(10) the(11) Grand_Oasis(12) was(13) calm(14) and(15) quiet(16) .(17) 
+			<opinion polarity="+" feature="lobby" featWords="9" opWords="14"/>
+			<opinion polarity="+" feature="lobby" featWords="9" opWords="16"/>
+		</sentence>
+		<sentence id="12">
+			The(1) lobbies(2) in(3) the(4) other(5) two(6) hotels(7) were(8) quiet(9) a_bit(10) louder(11) and(12) had(13) more(14) activity(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Both(1) check(2) in(3) and(4) check(5) out(6) were(7) very(8) quick(9) and(10) convenient(11) our(12) room(13) was(14) ready(15) when(16) we(17) arrived(18) and(19) our(20) luggage(21) was(22) brought(23) up(24) right(25) after(26) we(27) go(28) to(29) the(30) room(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			One(1) note(2) is(3) that(4) rooms(5) are(6) not(7) reserved(8) by(9) view(10) and(11) you(12) have(13) to(14) take(15) what(16) is(17) available(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			So(1) you(2) may(3) not(4) get(5) an(6) ocean(7) view(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			This(1) is(2) actually(3) three(4) properties(5) in(6) one(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			The(1) south(2) side(3) is(4) section(5) two(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			The(1) north(2) side(3) is(4) section(5) one(6) and(7) the(8) Grand_Oasis(9) is(10) the(11) center(12) pyramid(13) building(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			Sections(1) one(2) and(3) two(4) consist(5) of(6) two(7) buildings(8) each(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			One(1) is(2) called(3) Palmar(4) ((5) garden(6) views(7) )(8) and(9) the(10) other(11) Playa(12) ((13) mostly(14) ocean(15) views(16) )(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			The(1) Grand_Oasis(2) building(3) also(4) has(5) both(6) ocean(7) and(8) garden(9) views(10) ((11) the(12) higher(13) floors(14) let(15) you(16) see(17) the(18) ocean(19) )(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			We(1) also(2) learned(3) that(4) there(5) are(6) about(7) 50(8) Grand_Oasis(9) rooms(10) on(11) the(12) fourth(13) floors(14) in(15) both(16) the(17) Playa(18) buildings(19) ((20) these(21) two(22) buildings(23) are(24) closer(25) to(26) the(27) ocean(28) )(29) .(30) 
+		</sentence>
+		<sentence id="23">
+			The(1) two(2) buildings(3) on(4) the(5) south(6) are(7) non-inclusive(8) ,(9) while(10) the(11) two(12) building(13) on(14) the(15) north(16) side(17) are(18) all-inclusive(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			The(1) Grand_Oasis(2) can(3) be(4) either(5) all-inclusive(6) or(7) non-inclusive(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			We(1) noticed(2) that(3) some(4) of(5) the(6) rooms(7) in(8) sections(9) outside_of(10) the(11) Grand_Oasis(12) pyramid(13) building(14) may(15) not(16) have(17) been(18) renovated(19) recently(20) like(21) the(22) Grand_Oasis(23) rooms(24) were(25) .(26) 
+		</sentence>
+		<sentence id="26">
+			So(1) you(2) may(3) want(4) to(5) factor(6) that(7) in(8) when(9) you(10) are(11) deciding(12) on(13) where(14) to(15) stay(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Our(1) room(2) was(3) in(4) the(5) pyramid(6) in(7) the(8) Grand_Oasis(9) and(10) we(11) had(12) a(13) partial(14) ocean(15) view(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			Our(1) room(2) was(3) large(4) ,(5) very(6) clean(7) ,(8) marble(9) floors(10) ,(11) nice(12) large(13) bathroom(14) ,(15) it(16) looked(17) just(18) like(19) the(20) picture(21) on(22) the(23) Grand_Oasis(24) hotel(25) website(26) .(27) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="grounds" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="bathroom" featWords="14" opWords="12"/>
+			<opinion polarity="+" feature="bathroom" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="29">
+			Everything(1) worked(2) and(3) was(4) in(5) good(6) repair(7) .(8) 
+		</sentence>
+		<sentence id="30">
+			Service(1) for(2) us(3) throughout(4) the(5) hotel(6) complex(7) was(8) very(9) good(10) to(11) excellent(12) .(13) 
+			<opinion polarity="+" feature="service" featWords="1" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="service" featWords="1" opWords="12"/>
+		</sentence>
+		<sentence id="31">
+			Wait(1) staff(2) ,(3) bell(4) staff(5) ,(6) front(7) desk(8) staff(9) ,(10) etc.(11) were(12) all(13) very(14) attentive(15) and(16) quick(17) .(18) 
+			<opinion polarity="+" feature="staff" featWords="9" opWords="15" potency="14"/>
+			<opinion polarity="+" feature="staff" featWords="9" opWords="17"/>
+		</sentence>
+		<sentence id="32">
+			As(1) Grand_Oasis_All-Inclusive(2) guests(3) we(4) had(5) NO(6) restrictions(7) on(8) restaurants(9) or(10) bars(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			Which(1) meant(2) we(3) had(4) seven(5) restaurants(6) ,(7) two(8) grills(9) and(10) 14(11) bars(12) to(13) choose(14) from(15) !(16) !(17) 
+		</sentence>
+		<sentence id="34">
+			Regular_Oasis(1) all-inclusive(2) guests(3) were(4) restricted(5) to(6) bars(7) and(8) restaurants(9) on(10) the(11) north(12) side(13) of(14) the(15) complex(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			Our(1) all-inclusive(2) package(3) also(4) included(5) the(6) in(7) room(8) servi-bar(9) ((10) filled(11) daily(12) with(13) pop(14) ,(15) water(16) and(17) beer(18) )(19) 24(20) hour(21) room(22) service(23) and(24) free(25) admission(26) and(27) drinks(28) at(29) the(30) disco(31) .(32) 
+		</sentence>
+		<sentence id="36">
+			We(1) even(2) got(3) a(4) free(5) lobster(6) dinner(7) at(8) the(9) hotels(10) gourmet(11) restaurant(12) :(13) Careyes(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			That(1) meal(2) alone(3) would(4) have(5) been(6) $150(7) .(8) 
+		</sentence>
+		<sentence id="38">
+			Further(1) more(2) ,(3) Grand_Oasis(4) guests(5) had(6) a(7) private(8) beach(9) and(10) pool(11) area(12) ,(13) with(14) butler(15) service(16) ,(17) wooden(18) chaise(19) lounges(20) by(21) the(22) pool(23) ,(24) and(25) mattress(26) pads(27) to(28) lie(29) on(30) .(31) 
+		</sentence>
+		<sentence id="39">
+			Very(1) nice(2) !(3) 
+		</sentence>
+		<sentence id="40">
+			The(1) Grand_Oasis(2) area(3) of(4) the(5) pool(6) was(7) quieter(8) ,(9) very(10) relaxing(11) .(12) 
+		</sentence>
+		<sentence id="41">
+			The(1) non-inclusive(2) and(3) other(4) all-inclusive(5) pool(6) areas(7) were(8) more(9) active(10) with(11) louder(12) music(13) and(14) pool(15) games(16) etc.(17) There(18) were(19) several(20) swim(21) up(22) bars(23) in(24) the(25) pools(26) ((27) but(28) not(29) in(30) the(31) grand(32) oasis(33) pool(34) area(35) though(36) )(37) .(38) 
+		</sentence>
+		<sentence id="42">
+			Also(1) included(2) were(3) the(4) nightly(5) themed(6) nites(7) such(8) as(9) Casino_Nite(10) and(11) Caribbean_Nite(12) ,(13) as(14) were(15) non-motorized(16) water(17) sports(18) at(19) the(20) hotels(21) private(22) marina(23) across(24) the(25) street(26) .(27) 
+		</sentence>
+		<sentence id="43">
+			The(1) beach(2) was(3) about(4) a_half(5) mile(6) long(7) and(8) had(9) a(10) wide(11) expanse(12) of(13) sand(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			There(1) were(2) cabana(3) trees(4) for(5) shade(6) and(7) plenty_of(8) chaise(9) lounge(10) chairs(11) .(12) 
+		</sentence>
+		<sentence id="45">
+			There(1) was(2) also(3) a(4) private(5) area(6) for(7) Grand_Oasis_Guest(8) which(9) included(10) butler(11) service(12) and(13) chair(14) pads(15) for(16) the(17) chaise(18) lounges(19) .(20) 
+		</sentence>
+		<sentence id="46">
+			Conclusion(1) :(2) This(3) was(4) a(5) wonderful(6) hotel(7) .(8) 
+			<opinion polarity="+" feature="hotel" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="47">
+			It(1) was(2) built(3) in_1998(4) ((5) I(6) believe(7) )(8) so(9) if(10) you(11) are(12) looking(13) for(14) a(15) brand(16) new(17) property(18) you(19) may(20) want(21) to(22) look(23) elsewhere(24) .(25) 
+		</sentence>
+		<sentence id="48">
+			The(1) hotel(2) is(3) in(4) very(5) good(6) shape(7) ((8) it(9) was(10) recently(11) remodeled(12) )(13) and(14) has(15) a(16) certain(17) amount(18) of(19) charm(20) and(21) character(22) that(23) some(24) of(25) the(26) other(27) newer(28) properties(29) lack(30) .(31) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="6,7" potency="5"/>
+		</sentence>
+		<sentence id="49">
+			Book_the_All-Inclusive(1) in(2) the(3) Grand_Oasis(4) ;(5) it(6) is(7) well(8) worth(9) the(10) money(11) .(12) 
+		</sentence>
+		<sentence id="50">
+			We(1) would(2) go(3) back(4) !(5) 
+		</sentence>
+	</text>
+</review>

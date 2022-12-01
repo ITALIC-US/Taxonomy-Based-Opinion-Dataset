@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="552" item="1994 Mercedes-Benz E-Class" rating="3">
+	<title>
+		<sentence id="1">
+			Spend(1) a(2) Little_More(3) !(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Exterior(1) looks(2) good(3) 
+			<opinion polarity="+" feature="exterior" featWords="1" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) luxurious(2) ,(3) Small(4) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) bought(3) this(4) car(5) I(6) bought(7) it(8) for(9) the(10) exterior(11) look(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			After(1) I(2) drove(3) it(4) for(5) a(6) while(7) I(8) noticed(9) it(10) was(11) not(12) that(13) luxurious(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) thought(2) that(3) I(4) should(5) have(6) paid(7) a(8) little(9) more(10) and(11) bought(12) a(13) higher(14) class(15) Mercedes(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) only(2) problem(3) is(4) that(5) you(6) would(7) expect(8) more(9) luxury(10) in(11) a(12) Mercedes(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			It(1) runs(2) and(3) drives(4) great(5) and(6) I(7) think(8) it(9) was(10) worth(11) it(12) .(13) 
+			<opinion polarity="+" feature="ride quality" opWords="4,5"/>
+			<opinion polarity="+" feature="car" opWords="2,5"/>
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) no(3) problems(4) with(5) it(6) and(7) only(8) had(9) to(10) take(11) it(12) to(13) the(14) mechanic(15) once(16) for(17) a(18) minor(19) problem(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) recommend(3) that(4) you(5) get(6) a(7) BMW(8) or(9) Lexus(10) if(11) you(12) are(13) looking(14) for(15) the(16) more(17) luxurious(18) car(19) .(20) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			The(1) green(2) and(3) white(4) ones(5) are(6) the(7) best(8) colors(9) for(10) the(11) car(12) and(13) you(14) can(15) impress(16) a_lot_of(17) people(18) driving(19) this(20) car(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Also(1) if(2) you(3) are(4) looking(5) for(6) a(7) roomier(8) car(9) you(10) should(11) not(12) get(13) this(14) one(15) because(16) it(17) is(18) not(19) that(20) big(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) seats(2) are(3) not(4) leather(5) but(6) some(7) other(8) material(9) that(10) is(11) made(12) especially(13) by(14) Mercedes(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) not(3) that(4) comfortable(5) sitting(6) on(7) them(8) a(9) long(10) time(11) .(12) 
+			<opinion polarity="-" feature="comfort" opWords="3,5"/>
+		</sentence>
+	</text>
+</review>

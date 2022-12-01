@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="96" item="1993 Lincoln Town Car" rating="4">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) more(3) than(4) just(5) big(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Size(1) ,(2) ride(3) ,(4) engine(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) needs(2) refinement(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) think(3) this(4) car(5) is(6) just(7) another(8) HUGE(9) car(10) ,(11) maybe(12) its(13) about(14) time(15) you(16) gave(17) this(18) vehicle(19) a_second(20) thought(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			At(1) 18(2) ,(3) I(4) have(5) to(6) admit(7) ,(8) its(9) a(10) car(11) that(12) I(13) did(14) not(15) want(16) to(17) be(18) caught(19) dead(20) in(21) because_of(22) its(23) reputation(24) as(25) an(26) old(27) person(28) 's(29) car(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			Its(1) true(2) that(3) most(4) of(5) the(6) buyers(7) are(8) rather(9) old(10) ,(11) but(12) it(13) does(14) not(15) mean(16) at(17) all(18) that(19) a(20) younger(21) person(22) wont(23) enjoy(24) driving(25) this(26) car(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) have(4) many(5) bad(6) things(7) to(8) say(9) about(10) this(11) car(12) ,(13) maybe(14) that(15) 's(16) because(17) the(18) good(19) qualities(20) far(21) outweigh(22) any(23) of(24) the(25) bad(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			The(1) first(2) good(3) thing(4) ,(5) is(6) that(7) the(8) Town_Car(9) is(10) a(11) substantial(12) car(13) ;(14) there(15) 's(16) room(17) for(18) everything(19) including(20) yourself(21) !(22) !(23) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			That(1) 's(2) only(3) a(4) minor(5) part(6) ;(7) I(8) 'd(9) have(10) to(11) say(12) that(13) my(14) favorite(15) part(16) about(17) the(18) car(19) ,(20) besides(21) the(22) size(23) ,(24) is(25) that(26) it(27) is(28) SMOOOOOOTHE(29) ;(30) its(31) like(32) no(33) other(34) smoothness(35) I(36) 've(37) ever(38) felt(39) ...(40) it(41) 's(42) so(43) graceful(44) at(45) it(46) .(47) 
+			<opinion polarity="+" feature="car" opWords="44"/>
+		</sentence>
+		<sentence id="8">
+			Let(1) 's(2) say(3) ,(4) the(5) car(6) is(7) rocking(8) ((9) as(10) it(11) tends(12) do(13) after(14) a(15) larger(16) bump(17) )(18) ...(19) it(20) 's(21) not(22) just(23) any(24) rocking(25) ,(26) it(27) 's(28) an(29) amazing(30) rock(31) !(32) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			It(1) feels(2) like(3) the(4) body(5) motions(6) were(7) engineered(8) specifically(9) for(10) that(11) !(12) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) so(3) relaxing(4) ,(5) I(6) can(7) barely(8) explain(9) it(10) with(11) words(12) !(13) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) 'm(2) not(3) sarcastic(4) ,(5) I(6) 'm(7) telling(8) the(9) truth(10) !(11) 
+		</sentence>
+		<sentence id="12">
+			The(1) engine(2) is(3) also(4) smooth(5) too(6) ...(7) it(8) 's(9) a(10) big(11) ,(12) powerful(13) ,(14) 4.6(15) liter(16) SOHC(17) V8(18) engine(19) that(20) never(21) feels(22) like(23) its(24) actually(25) doing(26) any(27) work(28) and(29) at(30) the(31) same(32) time(33) ,(34) can(35) dispatch(36) many(37) sporty(38) cars(39) in(40) a(41) stop(42) light(43) brawl(44) ((45) 0-60(46) in(47) about(48) 8(49) secs(50) ...(51) faster(52) than(53) a(54) base(55) mustang(56) )(57) .(58) 
+			<opinion polarity="+" feature="horsepower" opWords="13"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="11"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			When(1) you(2) step(3) on(4) the(5) gas(6) ,(7) an(8) amazing(9) V8(10) rumble(11) rips(12) out(13) !(14) 
+		</sentence>
+		<sentence id="14">
+			Things_I(1) do(2) not(3) like(4) :(5) Transmission(6) is(7) a_bit(8) unrefined(9) .(10) 
+			<opinion polarity="-" feature="transmission" featWords="6" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			Steering(1) feels(2) elasticy(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) this(4) is(5) a(6) great(7) car(8) for(9) what(10) 's(11) it(12) 's(13) designed(14) to(15) do(16) ...(17) be(18) relaxing(19) to(20) drive(21) .(22) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="17">
+			I(1) do(2) have(3) to(4) say(5) ,(6) If(7) you(8) have(9) a(10) couple(11) of(12) extra(13) grand(14) ,(15) go(16) for(17) the(18) Cadillac_Deville(19) ...(20) it(21) 's(22) a(23) much(24) better(25) package(26) .(27) 
+		</sentence>
+	</text>
+</review>

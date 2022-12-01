@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="247" item="Studio Plus - St. Louis Airport" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) place(2) stinks(3) 
+			<opinion polarity="-" feature="place" featWords="2" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) to(2) airport(3) ,(4) low(5) prices(6) .(7) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dilapidated(1) ,(2) filthy(3) ,(4) poor(5) service(6) .(7) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+			<opinion polarity="-" feature="hotel" opWords="3"/>
+			<opinion polarity="-" feature="service" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Mold(1) ,(2) mildew(3) ,(4) terrible(5) housekeeping(6) ,(7) filthy(8) pool(9) ,(10) broken(11) exercise(12) equipment(13) ,(14) bad(15) service(16) .(17) 
+			<opinion polarity="-" feature="room service" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="swimming pool" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="service" featWords="16" opWords="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) major(2) attribute(3) of(4) this(5) hotel(6) is(7) the(8) overpowering(9) smell(10) of(11) mildew(12) in(13) the(14) bedding(15) and(16) mold(17) throughout(18) the(19) room(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			The(1) carpets(2) were(3) dirty(4) and(5) the(6) kitchen(7) was(8) poorly(9) cleaned(10) when(11) I(12) arrived(13) .(14) 
+			<opinion polarity="-" feature="carpets" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="kitchen" featWords="7" opWords="9,10"/>
+		</sentence>
+		<sentence id="3">
+			The(1) office(2) was(3) always(4) full(5) of(6) guests(7) making(8) complaints(9) ,(10) from(11) opening(12) time(13) to(14) late(15) at(16) night(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) housekeeping(2) was(3) nonexistent(4) .(5) 
+			<opinion polarity="-" feature="room service" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) carpets(2) were(3) scattered(4) with(5) dirt(6) when(7) I(8) arrived(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			After(1) 2(2) visits(3) ,(4) they(5) finally(6) removed(7) some(8) of(9) it(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			They(1) never(2) mopped(3) the(4) kitchen(5) or(6) bath(7) ,(8) never(9) scrubbed(10) the(11) bath(12) or(13) toilet(14) ,(15) never(16) dusted(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) plumbing(2) was(3) blocked(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			The(1) kitchen(2) sink(3) and(4) bathtub(5) filled(6) with(7) dirty(8) water(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Terrible_TV(1) reception(2) ,(3) noisy(4) signal(5) ,(6) no(7) premium(8) cable(9) channels(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			Pool(1) filled(2) with(3) dirt(4) and(5) dead(6) bugs(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Exercise(1) equipment(2) vandalized(3) and(4) non-functional(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			A(1) third(2) of(3) laundry(4) machines(5) broken(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Housekeepers(1) left(2) my(3) room(4) unlocked(5) once(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			The(1) rooms(2) do(3) not(4) lock(5) automatically(6) ,(7) so(8) the(9) door(10) can(11) be(12) left(13) unlocked(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Security(1) hazard(2) .(3) 
+		</sentence>
+		<sentence id="17">
+			Noisy(1) ,(2) scratchy(3) phone(4) service(5) ,(6) which(7) gives(8) absolutely(9) terrible(10) Internet(11) connections(12) from(13) the(14) advertised(15) dataport(16) .(17) 2(18) minutes(19) per(20) click(21) is(22) average(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			Beware(1) .(2) 
+		</sentence>
+		<sentence id="19">
+			Your(1) callers(2) will(3) not(4) be(5) able(6) to(7) hear(8) you(9) over(10) the(11) noise(12) ,(13) either(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			Clearly(1) ,(2) Studio_Plus(3) is(4) a(5) good(6) design(7) for(8) a(9) budget(10) hotel(11) .(12) 
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="21">
+			This(1) outfit(2) has(3) sadly(4) fallen(5) into(6) disrepair(7) ,(8) and(9) compares(10) very(11) poorly(12) with(13) the(14) adjoining(15) Extended_Stay_America(16) -(17) Airport(18) ,(19) which(20) is(21) in(22) excellent(23) condition(24) and(25) well(26) run(27) .(28) 
+		</sentence>
+		<sentence id="22">
+			I(1) stayed(2) in(3) both(4) ,(5) and(6) ESA(7) is(8) the(9) better(10) choice(11) .(12) 
+		</sentence>
+	</text>
+</review>

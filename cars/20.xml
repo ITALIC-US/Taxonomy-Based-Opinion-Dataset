@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="20" item="1998 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Wheels(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Car(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nothing(1) so(2) far(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) have(2) driven(3) a(4) Cadillac(5) and(6) wanted(7) to(8) scale(9) down(10) and(11) when(12) ask(13) around(14) for(15) the(16) best(17) Car(18) dealer(19) around(20) the(21) answer(22) always(23) was(24) the(25) Cadillac_Buick(26) dealer(27) so(28) we(29) visited(30) the(31) dealership(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			We(1) settled(2) on(3) the(4) Buick_Regal(5) after(6) driving(7) the(8) demo(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			We(1) love(2) the(3) car(4) ,(5) it(6) rides(7) like(8) a(9) much(10) bigger(11) car(12) ,(13) is(14) a(15) delight(16) to(17) drive(18) and(19) with(20) the(21) Supercharger(22) makes(23) traveling(24) in(25) the(26) hills(27) seem(28) like(29) there(30) are(31) no(32) hills(33) at(34) all(35) .(36) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Over(1) the(2) years(3) I(4) have(5) driven(6) all(7) kinds(8) of(9) cars(10) and(11) I(12) can(13) honestly(14) say(15) the(16) new(17) Buick_Regal(18) is(19) the(20) best(21) '(22) off(23) the(24) showroom(25) floor(26) '(27) car(28) I(29) have(30) ever(31) owned(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="28" opWords="21"/>
+		</sentence>
+		<sentence id="5">
+			The(1) dealer(2) is(3) also(4) the(5) best(6) Auto_Dealership_I(7) have(8) delt(9) with(10) .(11) 
+		</sentence>
+	</text>
+</review>

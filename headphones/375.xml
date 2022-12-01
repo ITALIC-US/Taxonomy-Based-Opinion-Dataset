@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="375" item="Sennheiser PX 200 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Looks(1) ,(2) sounds(3) and(4) feels(5) like(6) quality(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) comfortable(2) and(3) have(4) a(5) robust(6) quality(7) feel(8) to(9) them(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="durability" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Carrying(1) case(2) tricky(3) to(4) use(5) at(6) first(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'm(2) very(3) happy(4) with(5) my(6) purchase(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			By(1) far(2) better(3) than(4) KOSS_PortaPro(5) ,(6) which(7) I(8) tested(9) extensively(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) is(2) very(3) rare(4) these(5) days(6) to(7) find(8) quality(9) products(10) when(11) it(12) comes(13) to(14) electronics(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) portable(3) earphones(4) to(5) go(6) with(7) my(8) IBM_ThinkPad(9) ((10) also(11) quality(12) equipment(13) worth(14) recommending(15) )(16) in(17) both(18) design(19) and(20) quality(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) offered(3) a(4) number(5) of(6) sets(7) like(8) the(9) popular(10) KOSS_PortaPro(11) ,(12) but(13) it(14) took(15) a(16) visit(17) to(18) a(19) audiophile(20) shop(21) with(22) side-by-side(23) testing(24) to(25) convince(26) ,(27) that(28) the(29) PX-200(30) is(31) worth(32) it(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			Unlike(1) most(2) same-size(3) headsets(4) ,(5) PX-200(6) feels(7) solid(8) and(9) properly(10) engineered(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Soundwise(1) it(2) is(3) able(4) to(5) produce(6) impressively(7) growling(8) bass(9) together(10) with(11) clean(12) and(13) clear(14) highs(15) .(16) 
+			<opinion polarity="+" feature="bass" featWords="9" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="highs" featWords="15" opWords="12"/>
+			<opinion polarity="+" feature="highs" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="6">
+			I(1) wanted(2) transparency(3) in(4) both(5) sound(6) reproduction(7) and(8) comfort(9) -(10) and(11) after(12) a(13) week(14) of(15) use(16) ,(17) I(18) am(19) convinced(20) that(21) PX-200(22) offers(23) just(24) that(25) .(26) 
+		</sentence>
+	</text>
+</review>

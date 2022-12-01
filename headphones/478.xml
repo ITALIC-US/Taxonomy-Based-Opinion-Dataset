@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="478" item="Koss PRO-4AAT Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			the(1) BEST(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ambient(1) noise(2) isolation(3) is(4) the(5) best(6) ,(7) and(8) frequency(9) response(10) is(11) unequaled(12) .(13) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="6"/>
+			<opinion polarity="+" feature="frequency response" featWords="9,10" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			short(1) out(2) easily(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Rather(1) heavy(2) ...(3) 
+			<opinion polarity="-" feature="weight" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) ,(4) as(5) far(6) as(7) I(8) 'm(9) concerned(10) ,(11) the(12) world(13) standard(14) in(15) excellence(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			This(1) model(2) has(3) been(4) around(5) for(6) almost(7) 40(8) years(9) ;(10) If(11) you(12) treat(13) them(14) carefully(15) ,(16) do(17) not(18) yank(19) or(20) stress(21) the(22) cables(23) they(24) will(25) serve(26) you(27) well(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			BTW(1) ,(2) it(3) seems(4) like(5) the(6) price(7) has(8) come(9) down(10) too(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) paying(3) close(4) to(5) $100(6) for(7) them(8) in(9) the(10) old(11) days(12) ,(13) if(14) memory(15) serves(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) used(2) them(3) when(4) I(5) was(6) doing(7) Top(8) 40(9) radio(10) in(11) the(12) 70(13) 's(14) and(15) you(16) could(17) blast(18) them(19) and(20) they(21) kept(22) on(23) going(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Ambient(1) noise(2) isolation(3) is(4) the(5) best(6) ,(7) and(8) frequency(9) response(10) is(11) unequaled(12) .(13) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="6"/>
+			<opinion polarity="+" feature="frequency response" featWords="9,10" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			I(1) absolutely(2) love(3) these(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="8">
+			The(1) downside(2) ((3) and(4) this(5) is(6) a(7) serious(8) matter(9) )(10) is(11) that(12) they(13) tend(14) to(15) short(16) out(17) easily(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Brand(1) new(2) phones(3) are(4) good(5) for(6) daily(7) radio(8) use(9) ((10) 6(11) hours(12) a(13) day_6(14) days(15) a(16) week(17) )(18) for(19) only(20) about(21) 6(22) months(23) before(24) they(25) start(26) to(27) short(28) out(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			Koss(1) needs(2) to(3) do(4) something(5) about(6) this(7) long-standing(8) problem(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			Sony(1) ,(2) on_the_other_hand(3) ,(4) never(5) short(6) out(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Plus(1) ,(2) they(3) are(4) rather(5) heavy(6) ;(7) put(8) a(9) mic(10) on(11) these(12) things(13) and(14) they(15) are(16) downright(17) bulky(18) .(19) 
+			<opinion polarity="-" feature="weight" opWords="6" potency="5"/>
+		</sentence>
+	</text>
+</review>

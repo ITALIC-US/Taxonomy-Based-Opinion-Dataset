@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="17" item="Sony MDR-XD100 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Solid(1) low-end(2) performers(3) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) cord(2) length(3) Above-average(4) sound(5) quality(6) Excellent(7) pricing(8) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) very(2) adjustable(3) Flat(4) /(5) Cheap(6) appearance(7) Dual(8) wires(9) 
+			<opinion polarity="-" feature="comfort" opWords="1,3" potency="2"/>
+			<opinion polarity="-" feature="appearance" featWords="7" opWords="4"/>
+			<opinion polarity="-" feature="appearance" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) picked(2) these(3) up(4) for(5) general(6) PC(7) /(8) Portable(9) /(10) Stereo(11) use(12) until(13) I(14) find(15) a(16) high-end(17) pair(18) that(19) suit(20) my(21) needs(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			The(1) headphones(2) were(3) bought(4) on(5) the(6) high-street(7) in(8) Borders(9) bookshop(10) in(11) York(12) ((13) UK(14) )(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Returning(1) to(2) proper(3) headphones(4) from(5) using(6) portable(7) units(8) brought(9) home(10) just(11) how(12) much(13) of(14) a(15) difference(16) even(17) the(18) basic(19) models(20) make(21) to(22) sound(23) quality(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) cord(2) length(3) provides(4) flexibility(5) for(6) Audio-Visual(7) applications(8) ((9) TV(10) /(11) DVD(12) /(13) PC(14) )(15) and(16) the(17) small(18) phono(19) jack(20) allows(21) portable(22) audio(23) use(24) too(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) ,(2) the(3) unit(4) is(5) rather(6) ugly(7) ,(8) and(9) wearing(10) them(11) outdoors(12) might(13) cramp(14) style(15) somewhat(16) .(17) 
+			<opinion polarity="-" feature="appearance" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) headband(2) will(3) survive(4) a(5) fair(6) amount(7) of(8) abuse(9) ,(10) but(11) the(12) earpiece(13) hinges(14) do(15) not(16) allow(17) for(18) much(19) movement(20) in(21) the(22) earpieces(23) and(24) the(25) foam(26) padding(27) is(28) not(29) deep(30) enough(31) to(32) compensate(33) for(34) this(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			Prolonged(1) wear(2) proves(3) uncomfortable(4) but(5) the(6) headphones(7) are(8) quite(9) light(10) and(11) this(12) helps(13) somewhat(14) .(15) 
+			<opinion polarity="+" feature="weight" opWords="10"/>
+		</sentence>
+	</text>
+</review>

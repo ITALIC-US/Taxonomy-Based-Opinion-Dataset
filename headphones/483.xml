@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="483" item="Sony MDR-EX90LP Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Save(1) your(2) Money(3) $(4) $(5) $(6) $(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) and(2) poor(3) bass(4) 
+			<opinion polarity="-" feature="bass" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) ear(2) buds(3) are(4) not(5) worth(6) the(7) money(8) ,(9) I(10) have(11) the(12) Sony(13) 51(14) ,(15) 71(16) and(17) 81(18) 's(19) and(20) they(21) are(22) wonderful(23) ,(24) but(25) for(26) twice(27) the(28) price(29) -(30) they(31) are(32) not(33) worth(34) the(35) investment(36) .(37) 
+			<opinion polarity="+" feature="headphones" featWords="21" featRef="headphones" opWords="23"/>
+		</sentence>
+		<sentence id="2">
+			They(1) claim(2) that(3) the(4) bass(5) is(6) much(7) stronger(8) ,(9) not(10) the(11) case(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) tested(2) these(3) with(4) my(5) older(6) Sony(7) 's(8) and(9) could(10) not(11) tell(12) any(13) difference(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Yes(1) ,(2) I(3) have(4) good(5) hearing(6) and(7) pride(8) myself(9) on(10) the(11) quality(12) of(13) sound(14) ;(15) I(16) have(17) tried(18) many(19) of(20) the(21) ear(22) bud(23) units(24) made(25) by(26) the(27) top(28) manufacturers(29) and(30) have(31) not(32) found(33) anything(34) better(35) .(36) 
+		</sentence>
+		<sentence id="5">
+			One(1) thing(2) is(3) ,(4) they(5) look(6) cool(7) -(8) if(9) you(10) want(11) to(12) look(13) like(14) Frankenstein(15) with(16) "(17) bolts(18) "(19) extruding(20) from(21) your(22) head(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Good(1) luck(2) ,(3) remember(4) it(5) is(6) just(7) my(8) opinion(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Hope(1) you(2) find(3) it(4) helpful(5) $(6) $(7) $(8) $(9) 
+		</sentence>
+	</text>
+</review>

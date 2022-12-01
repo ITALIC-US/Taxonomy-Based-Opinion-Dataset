@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="101" item="1993 Lincoln Town Car" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Depending(1) on(2) its(3) mileage(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Engine(1) is(2) quiet(3) ,(4) comfortable(5) ,(6) and(7) dependable(8) with(9) springs(10) 
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="engine" featWords="1" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) has(2) a_lot_of(3) problems(4) when(5) it(6) has(7) a_lot_of(8) miles(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) dad(3) purchased(4) his(5) 1993(6) Lincoln_Town(7) car(8) it(9) had(10) 250k(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Now(1) it(2) has(3) about(4) 350k_miles(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			The(1) engine(2) is(3) quiet(4) but(5) right(6) now(7) the(8) car(9) needs(10) a(11) whiper(12) motor(13) .(14) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			This(1) Town(2) car(3) is(4) very(5) dependable(6) but(7) the(8) AIRBAG_SUSPENSION(9) broke(10) while(11) driving(12) a(13) passenger(14) .(15) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			One(1) thing(2) I(3) like(4) is(5) the(6) Overdrive(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) also(3) has(4) full(5) power(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) also(2) like(3) that(4) it(5) almost(6) has(7) 200(8) horsepower(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Now_I(1) want(2) 1997(3) Lincoln_Town(4) car(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			My(1) car(2) has(3) cotton(4) and(5) leather(6) on(7) the(8) seat(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			I(1) paid(2) $2,100(3) but(4) it(5) was(6) for(7) a(8) good(9) cost(10) .(11) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $2,100.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) CARTIER(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="607" item="2000 Toyota Sienna" rating="1">
+	<title>
+		<sentence id="1">
+			Engine_Sludge(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Split(1) rear(2) seat(3) perfect(4) folds(5) in(6) half(7) and(8) still(9) leaves(10) room(11) for(12) family(13) of(14) 5(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) sludge(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) wanted(2) this(3) to(4) be(5) my(6) first(7) 100,000_mile(8) vehicle(9) ,(10) but(11) because_of(12) the(13) engine(14) sludge(15) ,(16) but(17) I(18) am(19) dumping(20) it(21) at(22) 20,000_miles(23) because_of(24) problems(25) with(26) engine(27) sludge(28) .(29) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) primary(2) complaint(3) about(4) my(5) 2000(6) Sienna_XLE(7) is(8) that(9) it(10) developed(11) engine(12) sludge(13) at(14) just(15) 16,000_miles(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Even_though(1) I(2) had(3) receipts(4) to(5) prove(6) that(7) I(8) had(9) 3(10) oil(11) changes(12) within(13) the(14) recommended(15) service(16) interval(17) of(18) 5,000(19) to(20) 7,500_miles(21) ,(22) Toyota(23) refused(24) to(25) accept(26) these(27) as(28) proof(29) of(30) maintenance(31) and(32) said(33) that(34) the(35) only(36) cause(37) of(38) engine(39) sludge(40) is(41) owner(42) neglect(43) .(44) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) to(3) pay(4) $3,300(5) to(6) have(7) my(8) engine(9) dismantled(10) ,(11) cleaned(12) and(13) rebuilt(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) other(3) minor(4) problems(5) :(6) tires(7) that(8) wear(9) unevenly(10) even(11) with(12) proper(13) rotation(14) ,(15) lots(16) of(17) shakes(18) and(19) rattles(20) ,(21) mold(22) and(23) mildew(24) that(25) builds(26) up(27) in(28) AC(29) unit(30) ,(31) and(32) squeaky(33) brakes(34) .(35) 
+			<opinion polarity="-" feature="brakes" featWords="34" opWords="33"/>
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Sienna_XLE(16) ,(17) moon(18) roof(19) ,(20) power(21) sliding(22) door(23) 
+		</sentence>
+	</text>
+</review>

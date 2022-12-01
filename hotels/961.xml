@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="961" item="Fairmont New Orleans" rating="4">
+	<title>
+		<sentence id="1">
+			Quality_Choice(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Elegant(1) ,(2) handy(3) location(4) ,(5) promotional(6) rates(7) represent(8) good(9) value(10) for(11) money(12) .(13) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="place" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) a(2) little(3) small(4) .(5) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) value(2) for(3) money(4) if(5) you(6) get(7) a(8) promotional(9) rate(10) ,(11) handy(12) to(13) Bourbon_Street(14) but(15) away(16) from(17) the(18) noise(19) ,(20) old(21) world(22) charm(23) .(24) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			Be(1) prepared(2) for(3) smallish(4) rooms(5) ,(6) though(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Fairmont_Hotel(2) in(3) New_Orleans(4) is(5) a(6) very(7) nice(8) ,(9) old(10) hotel(11) which(12) I(13) probably(14) rate(15) at(16) 4.5(17) rather(18) than(19) its(20) claimed(21) 5(22) stars(23) .(24) 
+			<opinion polarity="-" feature="hotel" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) and(3) bathrooms(4) are(5) a(6) little(7) small(8) but(9) very(10) nicely(11) appointed(12) .(13) 
+			<opinion polarity="+" feature="bathroom" featWords="4" opWords="11,12" potency="10"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="11,12" potency="10"/>
+			<opinion polarity="-" feature="bathroom" featWords="4" opWords="8" potency="7"/>
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) highlight(2) of(3) the(4) Hotel(5) is(6) the(7) grand(8) ,(9) chandelier-encrusted(10) foyer(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Service(1) is(2) a(3) little(4) abrupt(5) until(6) the(7) staff(8) get(9) to(10) know(11) you(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) location(2) is(3) a(4) good(5) compromise(6) a(7) reasonable(8) walk(9) to(10) Bourbon_Street(11) and(12) nearby(13) attractions(14) but(15) far(16) enough(17) away(18) from(19) the(20) 24(21) hour-a-day(22) noise(23) of(24) the(25) tourist(26) strip(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			Rack(1) rates(2) are(3) expensive(4) but(5) we(6) were(7) very(8) pleasantly(9) surprised(10) by(11) the(12) availability(13) of(14) special(15) promotional(16) rates(17) which(18) represented(19) excellent(20) value(21) for(22) money(23) .(24) 
+			<opinion polarity="-" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Next(1) visit(2) to(3) New_Orleans(4) ,(5) I(6) may(7) consider(8) staying(9) a(10) little(11) closer(12) to(13) Bourbon_Street(14) at(15) the(16) Hilton(17) ,(18) for_example(19) ,(20) but(21) The_Fairmont(22) is(23) still(24) on(25) my(26) list(27) of(28) quality(29) hotels(30) .(31) 
+		</sentence>
+	</text>
+</review>

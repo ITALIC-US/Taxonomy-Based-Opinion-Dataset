@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="718" item="1993 Toyota Camry" rating="1">
+	<title>
+		<sentence id="1">
+			Problem_After_Problem(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Originally(1) believed(2) to(3) be(4) good(5) value(6) and(7) reliable(8) 
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive_Leaks(1) and(2) Repairs(3) to(4) cooling(5) system(6) ,(7) motor(8) mounts(9) ,(10) transaxles(11) ,(12) struts(13) ,(14) etc.(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) this(2) car(3) and(4) purchase(5) one(6) that(7) you(8) can(9) expect(10) to(11) get(12) 200,000_miles(13) of(14) service(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Expect(1) many(2) more(3) miles(4) with(5) much(6) lower(7) maintenance(8) costs(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			1993(1) Camry(2) V6(3) Purchased(4) new(5) with(6) 7/100(7) warranty(8) .(9) 100_%(10) serviced(11) by(12) dealer(13) at(14) recommended(15) intervals(16) with(17) recommended(18) service(19) performed(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Waterpump(1) and(2) thermostat(3) replaced(4) under(5) warranty(6) at(7) different(8) times(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Since(1) 7(2) year(3) warranty(4) expired(5) with(6) 90,000_miles(7) ,(8) replaced(9) waterpump(10) ,(11) thermostat(12) ,(13) rodded(14) radiator(15) ,(16) replaced(17) radiator(18) caps(19) ,(20) and(21) now(22) told(23) that(24) it(25) has(26) blown(27) head(28) gasket(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			Expenses(1) since(2) expiration(3) of(4) warranty(5) have(6) exceeded(7) $2,500(8) and(9) that(10) does(11) not(12) include(13) the(14) blown(15) head(16) gasket(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Expect(1) another(2) $1,200(3) to(4) $1,500(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			Dealer(1) says(2) this(3) is(4) normal(5) for(6) Camry(7) with(8) 90,000_miles(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) has(3) been(4) in(5) the(6) shop(7) for(8) 14(9) days(10) over(11) the(12) last(13) month(14) and(15) a_half(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) bought(3) my(4) last(5) Camry(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) expectations(3) of(4) 200,000_miles(5) and(6) intended(7) pass(8) on(9) to(10) son(11) to(12) drive(13) ,(14) but(15) have(16) found(17) it(18) to(19) be(20) too(21) unreliable(22) to(23) trust(24) child(25) 's(26) life(27) and(28) far(29) too(30) expensive(31) to(32) maintain(33) after(34) 90,000_miles(35) .(36) 
+			<opinion polarity="-" feature="price" opWords="30,31"/>
+			<opinion polarity="-" feature="reliability" opWords="21,22"/>
+		</sentence>
+		<sentence id="10">
+			I(1) got(2) more(3) mileage(4) with(5) fewer(6) costs(7) from(8) several(9) other(10) cars(11) and(12) trucks(13) that(14) were(15) not(16) near(17) so(18) well(19) maintained(20) .(21) 
+			<opinion polarity="+" feature="maintenance" opWords="19,20"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 19,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) Camry(16) V6(17) LX_Automatic(18) 
+		</sentence>
+	</text>
+</review>

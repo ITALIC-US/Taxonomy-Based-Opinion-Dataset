@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="337" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Civic(2) 's(3) been(4) going(5) to(6) the(7) Gym(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice_Engine(1) ,(2) Nice_Look(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) tight(3) inside(4) both(5) front(6) and(7) back(8) 
+			<opinion polarity="-" feature="car" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) the(3) new(4) 2000(5) Honda_Civic_SIR(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			What(1) a(2) car(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			If(1) your(2) notion(3) of(4) a(5) civic(6) is(7) based(8) on(9) perceptions(10) from(11) the(12) past(13) and(14) by(15) the(16) past(17) I(18) mean(19) before(20) last(21) year(22) ,(23) then(24) your(25) perceptions(26) need(27) to(28) change(29) radically(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) Civic_SIR(2) is(3) quite(4) the(5) machine(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) a(3) 170(4) HP(5) !(6) 
+		</sentence>
+		<sentence id="6">
+			A(1) civic(2) !(3) 
+		</sentence>
+		<sentence id="7">
+			It(1) has(2) a(3) VTEC(4) engine(5) which(6) is(7) a(8) nifty(9) innovation(10) that(11) I(12) will(13) not(14) even(15) pretend(16) to(17) be(18) able(19) to(20) describe(21) other(22) than(23) WOW(24) !(25) 
+		</sentence>
+		<sentence id="8">
+			You(1) actually(2) hear(3) a(4) rumble(5) when(6) you(7) are(8) driving(9) slowly(10) and(11) it(12) is(13) a(14) very(15) comforting(16) rumble(17) because(18) you(19) know(20) there(21) is(22) power(23) behind(24) this(25) machine(26) .(27) ((28) I(29) know(30) ,(31) I(32) know(33) ,(34) you(35) never(36) thought(37) I(38) would(39) be(40) talking(41) about(42) a(43) Civic(44) !(45) )(46) .(47) 
+		</sentence>
+		<sentence id="9">
+			The(1) interior(2) is(3) nice(4) ,(5) I(6) expect(7) the(8) car(9) to(10) last(11) every(12) bit(13) as(14) long(15) as(16) the(17) 1988(18) Prelude_I(19) had(20) before(21) this(22) one(23) that(24) went(25) for(26) 160(27) 000_miles(28) with(29) the(30) engine(31) running(32) perfectly(33) .(34) 
+			<opinion polarity="+" feature="engine" featWords="31" opWords="32,33"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+	</text>
+</review>

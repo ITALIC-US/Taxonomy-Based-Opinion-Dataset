@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="139" item="1995 Buick LeSabre" rating="5">
+	<title>
+		<sentence id="1">
+			Power(1) ,(2) comfort(3) ,(4) luxury(5) and(6) savings(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxury(1) ,(2) cost(3) ,(4) effeciency(5) ,(6) power(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pretty(1) big(2) ,(3) will(4) take(5) a(6) while(7) to(8) get(9) used(10) to(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) Buick_LeSabre(4) 1995(5) off(6) a_lot(7) in(8) December_1995(9) for(10) a(11) huge(12) discount(13) since(14) the(15) model(16) year(17) had(18) already(19) come(20) out(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Since(1) then(2) we(3) 've(4) been(5) ((6) more(7) or(8) less(9) )(10) nothing(11) but(12) pleased(13) with(14) the(15) car(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			First(1) of(2) all(3) ,(4) it(5) 's(6) got(7) TONS(8) of(9) room(10) !(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) seats(2) 5(3) adults(4) comfortably(5) ,(6) with(7) more(8) than(9) enough(10) room(11) in(12) the(13) back(14) bench(15) seat(16) .(17) 
+			<opinion polarity="+" feature="seat" opWords="2,5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) dual(2) climate(3) controls(4) in(5) the(6) front(7) cabin(8) are(9) great(10) ,(11) and(12) the(13) digital(14) thermostat(15) controls(16) always(17) work(18) flawlessly(19) .(20) 
+			<opinion polarity="+" feature="controls" featWords="4" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) has(3) a_lot_of(4) "(5) get(6) up(7) and(8) go(9) "(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) went(2) from(3) driving(4) a(5) mid-1980s(6) Chevy(7) pickup(8) truck(9) to(10) driving(11) this(12) car(13) ,(14) with(15) power(16) steering(17) and(18) a(19) light(20) tap(21) on(22) the(23) gas(24) sending(25) it(26) on(27) it(28) 's(29) way(30) -(31) FAST(32) .(33) 
+			<opinion polarity="+" feature="speed" opWords="32"/>
+		</sentence>
+		<sentence id="8">
+			It(1) takes(2) some(3) getting(4) used(5) to(6) if(7) moving(8) up(9) from(10) a(11) much(12) smaller(13) /(14) lower-cost(15) car(16) ,(17) trust(18) me(19) ,(20) but(21) once(22) you(23) get(24) used(25) to(26) this(27) car(28) you(29) 'll(30) drive(31) nothing(32) but(33) it(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) it(3) 's(4) an(5) automatic(6) transmission(7) -(8) not(9) a(10) must(11) for(12) me(13) ,(14) but(15) a(16) definite(17) plus(18) :(19) -(20) D_It(21) 's(22) very(23) stylish(24) ,(25) looking(26) like(27) it(28) costs(29) much(30) more(31) than(32) it(33) actually(34) does(35) ,(36) and(37) the(38) cost(39) of(40) maintainence(41) is(42) next(43) to(44) nothing(45) .(46) 
+			<opinion polarity="+" feature="design" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="10">
+			UNFORTUNATELY(1) ,(2) we(3) 've(4) had(5) a(6) string(7) of(8) bad(9) mechanics(10) in(11) the(12) last(13) 18(14) months(15) ,(16) meaning(17) the(18) same(19) thing(20) has(21) been(22) "(23) fixed(24) "(25) repeatedly(26) ((27) battery(28) problems(29) )(30) ,(31) though(32) I(33) would(34) doubt(35) it(36) 's(37) the(38) car(39) and(40) not(41) just(42) poor(43) work(44) done(45) at(46) the(47) check-ups(48) .(49) 
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) for(3) me(4) ,(5) being(6) a(7) stereo(8) and(9) music(10) fanatic(11) ,(12) this(13) car(14) packs(15) a(16) great(17) sound(18) system(19) for(20) being(21) "(22) standard(23) "(24) .(25) 
+			<opinion polarity="+" feature="sound system" featWords="18,19" opWords="17"/>
+		</sentence>
+		<sentence id="12">
+			It(1) comes(2) with(3) ,(4) of(5) course(6) ,(7) the(8) radio(9) and(10) tape(11) deck(12) ,(13) but(14) also(15) includes(16) a(17) special(18) concert(19) speaker(20) system(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			I(1) must(2) say(3) ,(4) for(5) a(6) standard-with-the-car(7) stereo(8) ,(9) this(10) one(11) kicks(12) major(13) butt(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Sofar(1) ,(2) all(3) I(4) 've(5) bought(6) for(7) the(8) stereo(9) is(10) a(11) tape(12) head(13) demagnetizer(14) for(15) $10(16) and(17) it(18) sounds(19) almost(20) better(21) than(22) the(23) stereo(24) I(25) have(26) in(27) the(28) house(29) :(30) -(31) D_Overall(32) ,(33) I(34) 'd(35) say(36) that(37) the(38) 1995(39) model(40) year(41) is(42) a(43) great(44) year(45) for(46) Buick(47) .(48) 
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) drawback(3) I(4) found(5) to(6) the(7) car(8) is(9) one(10) of(11) it(12) 's(13) positives(14) -(15) it(16) 's(17) size(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			This(1) thing(2) is(3) great(4) for(5) long(6) trips(7) if(8) you(9) do(10) not(11) want(12) to(13) take(14) the(15) ugly(16) ,(17) suburban(18) staple(19) stationwagon(20) ,(21) but(22) for(23) running(24) up(25) to(26) the(27) supermarket(28) .(29) .(30) .(31) well(32) let(33) 's(34) just(35) say(36) the(37) nose(38) of(39) this(40) car(41) sticks(42) WAY(43) out(44) .(45) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			I(1) 've(2) come(3) DANGEROUSLY(4) close(5) to(6) nudging(7) other(8) parked(9) cars(10) and(11) I(12) 'm(13) STILL(14) getting(15) used(16) to(17) the(18) size(19) of(20) this(21) thing(22) for(23) parking(24) ((25) though(26) once(27) again(28) ,(29) I(30) 've(31) only(32) driven(33) 3(34) cars(35) ,(36) a(37) 1967(38) VW_Beetle(39) ,(40) a(41) pickup(42) truck(43) and(44) this(45) )(46) .(47) 
+		</sentence>
+		<sentence id="18">
+			For(1) your(2) money(3) on(4) a(5) used(6) car(7) lot(8) ,(9) this(10) is(11) surely(12) the(13) one(14) to(15) get(16) !(17) 
+		</sentence>
+	</text>
+</review>

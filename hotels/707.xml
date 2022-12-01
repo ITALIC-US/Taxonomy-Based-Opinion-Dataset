@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="707" item="Hotel Max" rating="4">
+	<title>
+		<sentence id="1">
+			Very(1) nice(2) for_short(3) stay(4) 
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Charming(1) building(2) /(3) decor(4) .(5) 
+			<opinion polarity="+" feature="building" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="decoration" featWords="4" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great_Location(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Friendly(1) ,(2) friendly(3) service(4) .(5) 
+			<opinion polarity="+" feature="service" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) bathrooms(2) .(3) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Vance(2) is(3) a(4) nice(5) little(6) hotel(7) on(8) a(9) nice(10) street(11) very(12) close(13) to(14) downtown(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="7" opWords="5"/>
+			<opinion polarity="-" feature="hotel" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Trees(1) out(2) in(3) front(4) ,(5) small(6) classy(7) lobby(8) ,(9) great(10) reception(11) service(12) and(13) small(14) rooms(15) .(16) 
+			<opinion polarity="-" feature="lobby" featWords="8" opWords="6"/>
+			<opinion polarity="+" feature="lobby" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="service" featWords="12" opWords="10"/>
+			<opinion polarity="-" feature="rooms" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			It(1) all(2) works(3) somehow(4) even(5) with(6) the(7) phone(8) booth(9) bathrooms(10) but(11) for(12) a(13) couple(14) of(15) days(16) its(17) just(18) fine(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			We(1) got(2) a(3) rate(4) of(5) $89(6) a(7) night(8) through(9) AAA(10) and(11) were(12) totally(13) satisfied(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) walk(3) to(4) Space_Needle(5) ,(6) Pike_Market(7) and(8) downtown(9) is(10) a(11) block(12) away(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Clean(1) ,(2) quiet(3) and(4) thoroughly(5) satisfactory(6) .(7) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			Yes(1) ,(2) I(3) would(4) return(5) to(6) it(7) .(8) 
+			<opinion polarity="+" feature="hotel" featWords="7" featRef="hotel" opWords="5"/>
+		</sentence>
+	</text>
+</review>

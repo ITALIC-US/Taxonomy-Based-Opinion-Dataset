@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="278" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			2000(1) Nissan_Maxima_'s_Styling(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) ,(2) reliable(3) ,(4) Smooth_Engine(5) 
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ugly(1) 
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Ever(1) since(2) 1993(3) ,(4) I(5) have(6) wanted(7) a(8) Nissan_Maxima(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			One(1) of(2) the(3) main(4) things(5) that(6) attracted(7) me(8) to(9) it(10) was(11) the(12) styling(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			The(1) first(2) time(3) I(4) saw(5) a(6) Maxima(7) was(8) in(9) the(10) showroom(11) back(12) in_1993(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) thought(2) it(3) was(4) one(5) of(6) the(7) sexiest(8) and(9) most(10) sophisticated(11) looking(12) midsize(13) cars(14) around(15) .(16) 
+			<opinion polarity="+" feature="design" opWords="11,12"/>
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			I(1) even(2) thought(3) the(4) interior(5) well(6) complimented(7) the(8) exterior(9) ((10) simple(11) but(12) nice(13) looking(14) )(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) Maxima(2) in(3) the(4) showroom(5) was(6) a(7) nice(8) metallic(9) gold(10) color(11) with(12) a(13) tan(14) cloth(15) interior(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) fully(3) loaded(4) ((5) of(6) course(7) )(8) with(9) automatic(10) transmission(11) ,(12) power(13) windows(14) and(15) locks(16) ,(17) Bose(18) stereo(19) ,(20) and(21) a(22) power(23) sunroof(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			It(1) had(2) sexy(3) but(4) simple(5) looking(6) alloy(7) wheels(8) on(9) it(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			I(1) instantly(2) fell(3) in(4) love(5) with(6) the(7) car(8) !(9) 
+		</sentence>
+		<sentence id="10">
+			Then_I(1) looked(2) at(3) the(4) window(5) sticker(6) and(7) noticed(8) the(9) price(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) instantly(2) came(3) crashing(4) back(5) down(6) to(7) reality(8) and(9) looked(10) at(11) what(12) they(13) had(14) in(15) their(16) used(17) car(18) lot(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			When(1) the(2) Maxima(3) was(4) redesigned(5) back(6) in_1995(7) ,(8) the(9) exterior(10) styling(11) took(12) a(13) turn(14) for(15) the(16) worse(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			The(1) front(2) end(3) maintained(4) a(5) sexy(6) ,(7) sophisticated(8) look(9) ,(10) but(11) the(12) rear(13) end(14) looked(15) as_if(16) it(17) had(18) been(19) rear(20) ended(21) .(22) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) just(3) flat(4) and(5) plain(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			This(1) rear(2) end(3) got(4) even(5) worse(6) looking(7) the(8) following(9) year(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) the(3) interior(4) looked(5) much(6) more(7) expensive(8) than(9) the(10) '(11) 94(12) and(13) older(14) Maximas(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			It(1) seemed(2) as_if(3) the(4) materials(5) used(6) were(7) of(8) a(9) higher(10) quality(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			I(1) feel(2) sorry(3) for(4) any(5) person(6) that(7) bought(8) a(9) '(10) 96(11) Infiniti(12) I30(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			It(1) 's(2) exactly(3) the(4) same(5) car(6) as(7) the(8) Maxima(9) ,(10) but(11) much(12) more(13) expensive(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			When(1) the(2) Maxima(3) was(4) redesigned(5) again(6) in_2000(7) ,(8) I(9) was(10) horrified(11) at(12) what(13) I(14) saw(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			It(1) has(2) completely(3) lost(4) its(5) sex(6) appeal(7) ,(8) inside(9) and(10) out(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			The(1) outside(2) is(3) just(4) plain(5) ugly(6) .(7) 
+			<opinion polarity="-" feature="exterior" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="23">
+			The(1) front(2) end(3) looks(4) swollen(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			The(1) front(2) bumper(3) ,(4) headlights(5) ,(6) and(7) grill(8) are(9) all(10) molded(11) into(12) one(13) large(14) hump(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			It(1) reminds(2) me(3) of(4) the(5) big(6) knot(7) on(8) my(9) dad(10) 's(11) bald(12) head(13) that(14) he(15) got(16) when(17) he(18) hit(19) his(20) head(21) on(22) the(23) kitchen(24) cabinet(25) door(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			The(1) rear(2) end(3) is(4) just(5) as(6) ugly(7) as(8) the(9) front(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			You(1) can(2) not(3) tell(4) whether(5) this(6) car(7) is(8) coming(9) or(10) going(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			What(1) 's(2) with(3) those(4) tail(5) lights(6) !(7) ?(8) 
+		</sentence>
+		<sentence id="29">
+			Inside(1) ,(2) the(3) interior(4) looks(5) a(6) little(7) cheaper(8) in(9) my(10) opinion(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			It(1) seems(2) like(3) they(4) used(5) cheaper(6) interior(7) plastics(8) this(9) time(10) around(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			The(1) interior(2) just(3) looks(4) and(5) feels(6) cheaper(7) than(8) the(9) previous(10) Maxima(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			I(1) do(2) love(3) the(4) seat(5) fabrics(6) though(7) .(8) 
+		</sentence>
+		<sentence id="33">
+			Nice(1) leather(2) !(3) 
+		</sentence>
+		<sentence id="34">
+			When(1) I(2) first(3) heard(4) that(5) the(6) '(7) 93(8) Maxima_SE(9) had(10) a(11) 190hp(12) 3.0L(13) V(14) -(15) 6(16) ,(17) I(18) was(19) amazed(20) .(21) 190hp(22) from(23) a(24) 3.0L(25) V(26) -(27) 6(28) was(29) a_lot_of(30) horsepower(31) back(32) then(33) ,(34) and(35) still(36) is(37) !(38) 
+		</sentence>
+		<sentence id="35">
+			Now(1) ,(2) the(3) Maxima(4) has(5) 222hp(6) from(7) the(8) same(9) 3.0L(10) V(11) -(12) 6(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			Wow(1) !(2) 
+		</sentence>
+		<sentence id="37">
+			It(1) must(2) really(3) fly(4) !(5) 
+		</sentence>
+		<sentence id="38">
+			I(1) 'm(2) guessing(3) that(4) the(5) new(6) 2000(7) Maxima(8) will(9) be(10) a(11) great(12) car(13) like(14) the(15) older(16) Maximas(17) ,(18) but(19) I(20) would(21) not(22) buy(23) one(24) just(25) because(26) they(27) are(28) so(29) darn(30) ugly(31) !(32) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+			<opinion polarity="-" feature="design" opWords="31"/>
+		</sentence>
+		<sentence id="39">
+			Over(1) $20,000(2) for(3) that(4) thing(5) ,(6) no(7) way(8) .(9) 
+		</sentence>
+		<sentence id="40">
+			I(1) 'll(2) stick(3) with(4) a(5) '(6) 93(7) Maxima(8) !(9) 
+		</sentence>
+	</text>
+</review>

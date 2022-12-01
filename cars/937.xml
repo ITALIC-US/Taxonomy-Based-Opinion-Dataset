@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="937" item="2003 Pontiac Aztek" rating="1">
+	<title>
+		<sentence id="1">
+			One(1) Ugly_Car(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) space(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			All(1) wheel(2) drive(3) will(4) get(5) you(6) there(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needs(1) more(2) power(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			The(1) ugliest(2) car(3) on(4) the(5) road(6) .(7) 
+			<opinion polarity="-" feature="design" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) it(2) simply(3) because(4) it(5) 's(6) ugly(7) and(8) there(9) are(10) much(11) more(12) attractive(13) choices(14) you(15) 'll(16) be(17) able(18) to(19) resell(20) !(21) 
+			<opinion polarity="-" feature="design" opWords="7"/>
+			<opinion polarity="-" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) drove(2) this(3) car(4) from(5) a(6) rental(7) agency(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) stopped(2) at(3) a(4) gas(5) station(6) and(7) one(8) person(9) even(10) commented(11) to(12) me(13) ,(14) "(15) why(16) did(17) you(18) buy(19) such(20) an(21) ugly(22) car(23) ?(24) "(25) I(26) explained(27) it(28) was(29) a(30) rental(31) .(32) 
+			<opinion polarity="-" feature="design" opWords="22"/>
+		</sentence>
+		<sentence id="3">
+			But(1) the(2) point(3) is(4) ,(5) unless(6) your(7) a(8) masochist(9) ,(10) this(11) is(12) extremely(13) ugly(14) .(15) 
+			<opinion polarity="-" feature="design" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) very(3) angular(4) ,(5) not(6) rounded(7) and(8) aerodynamic(9) which(10) is(11) more(12) in(13) line(14) with(15) today(16) 's(17) car(18) direction(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) all(2) wheel(3) drive(4) did(5) work(6) great(7) in(8) the(9) snow(10) ,(11) but(12) I(13) found(14) the(15) overall(16) quality(17) of(18) this(19) car(20) to(21) be(22) typical(23) GM(24) and(25) not(26) nearly(27) up(28) to(29) what(30) you(31) find(32) in(33) a(34) Japanese(35) or(36) European(37) vehicle(38) .(39) 
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) it(3) seemed(4) underpowered(5) .(6) 
+			<opinion polarity="-" feature="horsepower" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			Trying(1) to(2) pass(3) or(4) go(5) uphill(6) ,(7) the(8) automatic(9) transmission(10) downshifted(11) every(12) time(13) ,(14) very(15) suddenly(16) ,(17) and(18) the(19) engine(20) was(21) obviously(22) straining(23) as(24) I(25) waited(26) for(27) it(28) to(29) accelerate(30) where(31) I(32) could(33) pass(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			Look(1) elsewhere(2) .(3) 
+		</sentence>
+		<sentence id="9">
+			It(1) 's(2) just(3) plain(4) ugly(5) .(6) 
+			<opinion polarity="-" feature="design" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="429" item="Sony MDR-V900 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Unbelievable_Sound_Quality_From_Sony(1) .(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Crystal(1) clear(2) sound(3) reproduction(4) ,(5) accurate(6) ,(7) no(8) distortion(9) at(10) higher(11) listening(12) levels(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="3,4" opWords="1,2"/>
+			<opinion polarity="+" feature="sound quality" featWords="3,4" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Excellent(1) construction(2) .(3) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) Cons(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			I(1) love(2) everything(3) about(4) these(5) headphones(6) !(7) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recommend(3) these(4) headphones(5) if(6) you(7) like(8) crystal(9) clear(10) sound(11) reproduction(12) with(13) no(14) distortion(15) ,(16) deep(17) clear(18) bass(19) ,(20) you(21) will(22) love(23) the(24) Sony(25) MDR-V900(26) Headphones(27) .(28) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3" potency="2"/>
+			<opinion polarity="+" feature="sound quality" featWords="11,12" opWords="9,10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) pair(4) of(5) Sony(6) MDR-V900(7) Headphones(8) wondering(9) if(10) they(11) were(12) all(13) they(14) claimed(15) to(16) be(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Well(1) the(2) answer(3) is(4) a(5) resounding(6) yes(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Crystal(1) clear(2) sound(3) reproduction(4) ,(5) you(6) can(7) hear(8) a(9) singer(10) breathing(11) !(12) the(13) sound(14) quality(15) is(16) so(17) great(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="3,4" opWords="1,2"/>
+			<opinion polarity="+" feature="sound quality" featWords="14,15" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="4">
+			I(1) listened(2) to(3) Rock(4) ,(5) Jazz(6) ,(7) R_&_B_Opera(8) and(9) Classical(10) music(11) ;(12) deep(13) bass(14) ,(15) brilliant(16) highs(17) ,(18) excellent(19) in(20) mid-range(21) ;(22) these(23) are(24) very(25) accurate(26) headphones(27) ,(28) with(29) no(30) distortion(31) at(32) higher(33) listening(34) levels(35) .(36) 
+			<opinion polarity="+" feature="sound quality" opWords="26"/>
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) surrounded(3) in(4) waves(5) of(6) sound(7) as_if(8) I(9) did(10) not(11) have(12) headphones(13) on(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Construction(1) is(2) of(3) the(4) highest(5) quality(6) they(7) were(8) built(9) to(10) last(11) .(12) 
+			<opinion polarity="+" feature="durability" featWords="1" opWords="5,6"/>
+		</sentence>
+		<sentence id="7">
+			They(1) also(2) were(3) very(4) comfortable(5) ,(6) with(7) no(8) cumbersome(9) or(10) worn(11) out(12) feeling(13) after(14) wearing(15) them(16) for(17) long(18) periods(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			Very(1) little(2) sweating(3) after(4) having(5) worn(6) them(7) for(8) over(9) two(10) hours(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) highly(2) recommend(3) these(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+	</text>
+</review>

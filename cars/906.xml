@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="906" item="2001 Subaru Forester" rating="2">
+	<title>
+		<sentence id="1">
+			2001(1) Forester_Head_Gaskets_Blow(2) at(3) 100K(4) Miles(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handling(1) ,(2) gas(3) mileage(4) ,(5) versatility(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Blown(1) head(2) gaskets(3) ,(4) body(5) and(6) wind(7) noise(8) ,(9) price(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) Subaru_Forester(4) in(5) June_2006(6) trading(7) in(8) a(9) gas(10) guzzling(11) Lincoln_Navigator(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) bought(2) a(3) trailer(4) and(5) Chevy_Suburban(6) ((7) did(8) not(9) need(10) two(11) gas(12) guzzlers(13) )(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) always(2) heard(3) good(4) things(5) about(6) Subarus(7) ,(8) and(9) I(10) could(11) not(12) find(13) any(14) negatives(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) it(3) with(4) 110,000_miles(5) on(6) it(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) a(3) nice(4) vehicle(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) the(3) head(4) gaskets(5) did(6) blow(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			After(1) that(2) happened(3) ,(4) I(5) did(6) find(7) a(8) number(9) of(10) articles(11) about(12) head(13) gaskets(14) blowing(15) at(16) 100,000_miles(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			I(1) chose(2) to(3) trade(4) it(5) in(6) and(7) purchase(8) a(9) 2003(10) Toyota_Camry_Solara(11) instead(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			I(1) lost(2) a(3) little(4) money(5) ,(6) but(7) I(8) did(9) not(10) want(11) to(12) risk(13) pouring(14) in(15) even(16) more(17) money(18) if(19) the(20) problem(21) were(22) to(23) recur(24) ,(25) which(26) seemed(27) to(28) be(29) somewhat(30) possible(31) from(32) my(33) research(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) to(3) admit(4) the(5) Toyota_Camry(6) feels(7) much(8) more(9) solid(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) also(2) felt(3) the(4) dealer(5) was(6) OK(7) ,(8) although(9) not(10) the(11) top(12) notch(13) customer(14) service(15) I(16) had(17) heard(18) of(19) .(20) 
+			<opinion polarity="-" feature="service" featWords="14,15" opWords="10,12,13"/>
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) L(16) 
+		</sentence>
+	</text>
+</review>

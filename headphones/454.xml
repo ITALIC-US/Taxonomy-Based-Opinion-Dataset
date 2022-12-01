@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="454" item="Skull Candy Skullcrushers Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Very_Nice_Headphones_for_the_Money(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound_Great_Nice_Bass(1) and(2) mid(3) /(4) highs(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) tight(3) fitting(4) for(5) some(6) people(7) ,(8) but(9) it(10) 's(11) hard(12) to(13) beat(14) the(15) sound(16) quality(17) .(18) 
+			<opinion polarity="-" feature="comfort" featWords="4" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) am(2) a(3) professional(4) recording(5) engineer(6) and(7) a(8) pro(9) musician(10) and(11) I(12) highly(13) recommend(14) the(15) Skullcandy(16) skullcrusher(17) headphones(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Musicians(1) are(2) wearing(3) these(4) headphones(5) at(6) live(7) gigs(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Skullcandy_Skullcrushers(4) headphones(5) for(6) my(7) recording(8) studio(9) to(10) try(11) them(12) out(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) so(3) pleased(4) with(5) the(6) sound(7) and(8) the(9) performance(10) I(11) am(12) going(13) to(14) buy(15) a(16) few(17) more(18) pair(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) bass(2) sub(3) amp(4) works(5) really(6) well(7) and(8) yes(9) !(10) there(11) is(12) truly(13) some(14) bass(15) in(16) the(17) phones(18) and(19) not(20) just(21) vibration(22) as(23) from(24) some(25) of(26) the(27) other(28) reviews(29) I(30) read(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			They(1) seem(2) to(3) work(4) very(5) good(6) when(7) recording(8) drums(9) .(10) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) ear(2) pieces(3) keep(4) out(5) the(6) acoustic(7) set(8) and(9) let(10) you(11) hear(12) what(13) is(14) in(15) the(16) phones(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) sub(2) adds(3) the(4) low(5) end(6) to(7) the(8) kit(9) and(10) adjusted(11) properly(12) makes(13) for(14) a(15) pleasant(16) sounding(17) recording(18) experience(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) key(2) is(3) to(4) adjust(5) the(6) sub(7) amp(8) to(9) obtain(10) the(11) proper(12) mix(13) between(14) lows(15) and(16) highs(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) turn(3) the(4) sub(5) up(6) too(7) much(8) it(9) does(10) not(11) sound(12) natural(13) as(14) far(15) as(16) the(17) mix(18) goes(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Recording_Vocals(1) also(2) sound(3) good(4) with(5) these(6) phones(7) as_well(8) as(9) just(10) listing(11) to(12) your(13) favorite(14) tunes(15) on(16) the(17) computer(18) or(19) iPod(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			They(1) seem(2) to(3) be(4) built(5) pretty(6) well(7) and(8) have(9) a(10) nice(11) weight(12) to(13) them(14) .(15) 
+			<opinion polarity="+" feature="durability" opWords="5,7" potency="6"/>
+			<opinion polarity="+" feature="weight" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			They(1) seem(2) to(3) meet(4) my(5) criteria(6) as(7) I(8) am(9) replacing(10) some(11) 150(12) $(13) Sony(14) 50mm(15) phones(16) that(17) I(18) have(19) had(20) for(21) about(22) 7(23) years(24) that(25) just(26) blew(27) a(28) few(29) weeks(30) ago(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			All(1) in_all(2) I(3) think(4) they(5) are(6) a(7) great(8) buy(9) .(10) 
+			<opinion polarity="+" feature="headphones" opWords="8,9"/>
+		</sentence>
+		<sentence id="13">
+			Check(1) my(2) mastering(3) studio(4) out(5) at(6) www.studioace.com(7) 
+		</sentence>
+	</text>
+</review>

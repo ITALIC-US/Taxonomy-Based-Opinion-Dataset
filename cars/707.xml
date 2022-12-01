@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="707" item="1999 Toyota Camry Solara" rating="3">
+	<title>
+		<sentence id="1">
+			It(1) Gets_Me(2) Where(3) I_Want_To_Go(4) ...(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pretty(1) to(2) look(3) at(4) ;(5) decent(6) ride(7) ;(8) roomy(9) trunk(10) .(11) 
+			<opinion polarity="+" feature="trunk" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) on(2) gas(3) ;(4) seats(5) uncomfortable(6) ;(7) dashboard(8) rattles(9) !(10) 
+			<opinion polarity="-" feature="dash" featWords="8" opWords="9"/>
+			<opinion polarity="-" feature="seat" featWords="5" opWords="6"/>
+			<opinion polarity="-" feature="gas" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) a(3) "(4) Toyota(5) person(6) "(7) ,(8) meaning(9) my(10) last(11) 4(12) cars(13) were(14) Toyotas(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) 2(3) Celica(4) 's(5) ,(6) an(7) Avalon(8) and(9) now(10) a(11) Solara(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) lease(2) my(3) cars(4) ,(5) so_that(6) I(7) get(8) a_lot_of(9) car(10) for(11) my(12) money(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) turned(2) in(3) my(4) 1996(5) Avalon(6) in_1999(7) and(8) got(9) a(10) new(11) Solara(12) with(13) a(14) V(15) -(16) 6(17) engine(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			At(1) first(2) ,(3) I(4) really(5) liked(6) it(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" featRef="car" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			Nice(1) ride(2) ,(3) pretty(4) smooth(5) ,(6) okay(7) turning(8) .(9) 
+			<opinion polarity="+" feature="turning radius" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="7">
+			Then(1) as(2) the(3) year(4) went(5) on(6) ,(7) I(8) realized(9) that(10) I(11) still(12) yearned(13) for(14) my(15) Avalon(16) !(17) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) a(3) decent(4) car(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Really(1) !(2) 
+		</sentence>
+		<sentence id="10">
+			It(1) gets(2) me(3) to(4) work(5) and(6) back(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			I(1) just(2) think(3) that(4) it(5) is(6) missing(7) some(8) of(9) the(10) typical(11) Toyota(12) quality(13) I(14) am(15) used(16) to(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			For_instance(1) ,(2) my(3) car(4) is(5) now(6) one(7) year(8) old(9) ...(10) When(11) it(12) rains(13) ,(14) the(15) dashboard(16) rattles(17) ;(18) The(19) seats(20) are(21) made(22) pretty(23) narrow(24) and(25) are(26) not(27) comfortable(28) for(29) long(30) trips(31) ;(32) and(33) last(34) ,(35) it(36) is(37) not(38) great(39) on(40) gas(41) ((42) I(43) 'm(44) getting(45) about(46) 19(47) -(48) 22(49) MPG_Highway(50) )(51) .(52) 
+			<opinion polarity="-" feature="gas" featWords="41" opWords="38,39"/>
+			<opinion polarity="-" feature="seat" featWords="20" opWords="27,28"/>
+			<opinion polarity="-" feature="seat" featWords="20" opWords="24" potency="23"/>
+			<opinion polarity="-" feature="dash" featWords="16" opWords="17"/>
+		</sentence>
+		<sentence id="13">
+			If(1) you(2) are(3) looking(4) for(5) a(6) decent(7) car(8) ,(9) then(10) buy(11) this(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="12" featRef="car" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) want(3) luxury(4) and(5) comfort(6) ,(7) move(8) up(9) to(10) the(11) Avalon(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			Now(1) THAT(2) IS_A_GREAT(3) car(4) !(5) 
+		</sentence>
+	</text>
+</review>

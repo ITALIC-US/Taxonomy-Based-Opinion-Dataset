@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="826" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) was(2) never(3) driving(4) a(5) mini(6) van(7) until(8) I(9) met(10) the(11) 2005(12) uplander(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) on(2) the(3) highway(4) is(5) phenominal(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			DVD-head(1) phones(2) are(3) wireless(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Strong(1) face(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			Redesigned(1) tough(2) looking(3) .(4) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) colour(2) grey(3) dirties(4) with(5) every(6) touch(7) .(8) cheap(9) upolstry(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) determined(3) not(4) to(5) buy(6) a(7) minivan(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) loved(2) the(3) Equinox(4) ,(5) the(6) Passat(7) ,(8) the(9) Murano(10) even(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) sat(3) in(4) the(5) Uplander(6) for(7) the(8) first(9) time(10) .(11) ((12) short(13) wheel(14) base(15) )(16) I(17) did(18) not(19) feel(20) like(21) I(22) was(23) in(24) a(25) van(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			It(1) rides(2) high(3) like(4) a(5) truck(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			I(1) can(2) keep(3) all(4) the(5) seats(6) in(7) and(8) take(9) my(10) Volleyball(11) team(12) to(13) a(14) game(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) roll(2) out(3) the(4) back(5) seats(6) ,(7) put(8) the(9) dog(10) gate(11) back(12) in(13) and(14) take(15) my(16) family(17) on(18) an(19) outing(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			The(1) DVD(2) with(3) wireless(4) headphones(5) are(6) great(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			THey(1) keeps(2) the(3) four(4) year(5) old(6) silent(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			The(1) information(2) centre(3) keep(4) you(5) informed(6) about(7) oil(8) life(9) ,(10) how(11) much(12) gas(13) is(14) left(15) ,(16) what(17) kind(18) of(19) gas(20) mileage(21) you(22) 're(23) getting(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			It(1) has(2) been(3) very(4) snowing(5) and(6) icy(7) here(8) in(9) Northen_Ontario(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			The(1) Uplander(2) handles(3) like(4) a(5) dream(6) in(7) the(8) snow(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) a(3) basic(4) model(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			It(1) still(2) has(3) all(4) the(5) bells(6) and(7) whistles(8) of(9) the(10) higher(11) version(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Power(1) everything(2) ,(3) except(4) door(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) are(3) in(4) the(5) market(6) and(7) you(8) 're(9) not(10) convinced(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			I(1) did(2) not(3) want(4) a(5) minivan(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			I(1) drove(2) a(3) two(4) door(5) sunbird(6) in(7) 93(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			I(1) drove(2) a(3) four(4) door(5) Intrigue(6) in(7) 99(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			THis(1) van(2) beats(3) those(4) vehicles(5) for(6) safety(7) ,(8) space(9) ,(10) versatility(11) ,(12) and(13) price(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			I(1) paid(2) 21900(3) and(4) that(5) 's(6) here(7) in(8) canada(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			In(1) the(2) states(3) ,(4) I(5) know(6) there(7) are(8) better(9) deals(10) .(11) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="294" item="Bose QuietComfort 2 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Quiet_Comfort(1) 2(2) -(3) These(4) headphones(5) ROCK(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) comfortable(4) ,(5) nice(6) case(7) and(8) extras(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="case" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) ,(2) not(3) all(4) that(5) compact(6) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) for(4) a(5) good(6) set(7) of(8) headphones(9) to(10) use(11) with(12) an(13) iPod(14) ,(15) particularly(16) at(17) the(18) office(19) and(20) traveling(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Sound(1) quality(2) was(3) a(4) must(5) ,(6) portability(7) somewhat(8) important(9) ((10) but(11) I_HATE(12) earbuds(13) )(14) ,(15) and(16) noise(17) reduction(18) a(19) nice(20) to(21) have(22) feature(23) since(24) I(25) do(26) fly(27) cross-country(28) several(29) times(30) a(31) year(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			Since(1) I(2) have(3) always(4) liked(5) the(6) Bose(7) speakers(8) I(9) own(10) ,(11) I(12) decided(13) to(14) give(15) these(16) a(17) try(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) and(3) not(4) as(5) compact(6) as(7) some(8) ,(9) but(10) do(11) fold(12) flat(13) and(14) come(15) with(16) a(17) hardshell(18) carrying(19) case(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) quality(3) ,(4) however(5) ,(6) is(7) spectacular(8) :(9) great(10) bass(11) response(12) and(13) very(14) crisp(15) highs(16) ,(17) even(18) at(19) lower(20) volumes(21) .(22) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="8"/>
+			<opinion polarity="+" feature="bass" featWords="11,12" opWords="10"/>
+			<opinion polarity="+" feature="highs" featWords="16" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="6">
+			They(1) are(2) also(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) noise(2) reduction(3) is(4) much(5) more(6) efficient(7) with(8) steady(9) noise(10) sources(11) ,(12) such(13) as(14) jet(15) engines(16) ,(17) than(18) with(19) random(20) noise(21) sources(22) ,(23) but(24) overall(25) pretty(26) good(27) .(28) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="27" potency="26"/>
+		</sentence>
+		<sentence id="8">
+			At(1) $299(2) they(3) are(4) pricey(5) ,(6) but(7) worth(8) it(9) in(10) my(11) opinion(12) .(13) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+	</text>
+</review>

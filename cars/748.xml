@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="748" item="2000 Toyota MR2 Spyder" rating="3">
+	<title>
+		<sentence id="1">
+			Ummm(1) ,(2) Can_I_Borrow_Some_Clothes(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sporty(1) ,(2) attractive(3) ,(4) handles(5) well(6) 
+			<opinion polarity="+" feature="handling" opWords="5,6"/>
+			<opinion polarity="+" feature="design" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) room(2) whatsoever(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) new(2) Toyota(3) MR2(4) Spyder(5) is(6) definitely(7) turning(8) heads(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			In(1) appearance(2) and(3) performance(4) ,(5) this(6) is(7) the(8) sportiest(9) MR2(10) yet(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) handles(3) like(4) a(5) dream(6) ,(7) takes(8) corners(9) like(10) a(11) champ(12) ,(13) you(14) get(15) the(16) idea(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) have(3) a(4) couple(5) relatively(6) major(7) criticisms(8) ,(9) but(10) I(11) will(12) save(13) those(14) for(15) a(16) couple(17) of(18) minutes(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			You(1) have(2) a(3) choice(4) of(5) six(6) colors(7) on(8) the(9) MR2(10) :(11) red(12) ,(13) blue(14) ,(15) black(16) ,(17) silver(18) ,(19) yellow(20) ,(21) or(22) white(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) three(3) interior(4) colors(5) :(6) red(7) ,(8) yellow(9) or(10) black(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Your(1) only(2) option(3) for(4) interior(5) material(6) is(7) cloth(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			I(1) am(2) sure(3) you(4) can(5) purchase(6) aftermarket(7) leather(8) ,(9) but(10) from(11) experience(12) ,(13) I(14) would(15) not(16) recommend(17) it(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="16,17"/>
+		</sentence>
+		<sentence id="9">
+			Aftermarket(1) leather(2) sometimes(3) separates(4) ,(5) or(6) wears(7) poorly(8) ,(9) and(10) you(11) can(12) have(13) a(14) hard(15) time(16) tracking(17) down(18) the(19) original(20) installers(21) for(22) repairs(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) cloth(2) interior(3) is(4) very(5) attractive(6) ,(7) and(8) just(9) think(10) ,(11) you(12) will(13) not(14) stick(15) to(16) it(17) in(18) the(19) summertime(20) .(21) 
+			<opinion polarity="+" feature="interior" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="11">
+			There(1) 's(2) nothing(3) worse(4) than(5) leaving(6) three(7) layers(8) of(9) thigh(10) skin(11) stuck(12) to(13) your(14) seat(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			This(1) car(2) comes(3) with(4) a(5) manual(6) transmission(7) and(8) convertible(9) top(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			No(1) options(2) there(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			Toyota(1) does(2) not(3) offer(4) a(5) hardtop(6) version(7) of(8) the(9) MR2(10) at(11) this(12) point(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			I(1) do(2) not(3) know(4) why(5) you(6) would(7) want(8) an(9) automatic(10) transmission(11) sports(12) car(13) ,(14) but(15) it(16) 's(17) a(18) moot(19) argument(20) anyway(21) ,(22) since(23) it(24) 's(25) not(26) available(27) .(28) 
+		</sentence>
+		<sentence id="16">
+			The(1) MR2(2) is(3) quick(4) and(5) graceful(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="speed" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			It(1) comes(2) equipped(3) with(4) a(5) 4(6) cylinder(7) ,(8) 138(9) horsepower(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			It(1) 's(2) very(3) fun(4) to(5) drive(6) ,(7) especially(8) with(9) everyone(10) checking(11) you(12) out(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="19">
+			The(1) car(2) corners(3) well(4) ,(5) and(6) takes(7) off(8) with(9) power(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="20">
+			Ok(1) -(2) I(3) know(4) this(5) sounds(6) like(7) a(8) glowing(9) recommendation(10) so(11) far(12) ,(13) but(14) I(15) have(16) not(17) mentioned(18) the(19) fatal(20) flaws(21) that(22) will(23) keep(24) me(25) from(26) ever(27) purchasing(28) this(29) model(30) of(31) the(32) MR2(33) .(34) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) are(3) a(4) normal-sized(5) person(6) ,(7) above(8) 5(9) '(10) 6(11) "(12) ,(13) you(14) will(15) not(16) be(17) comfortable(18) driving(19) this(20) car(21) .(22) I(23) am(24) 5(25) '(26) 8(27) "(28) ,(29) and(30) I(31) have(32) two(33) options(34) on(35) where(36) to(37) put(38) my(39) knees(40) .(41) 
+		</sentence>
+		<sentence id="22">
+			They(1) can(2) either(3) hit(4) the(5) steering(6) wheel(7) ,(8) or(9) I(10) can(11) let(12) my(13) left(14) knee(15) be(16) squished(17) between(18) the(19) steering(20) wheel(21) and(22) the(23) door(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			Neither(1) of(2) these(3) options(4) appeal(5) to(6) me(7) for(8) any(9) extended(10) period(11) of(12) time(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			This(1) car(2) is(3) so(4) cute(5) and(6) fun(7) ,(8) you(9) will(10) want(11) to(12) drive(13) it(14) all(15) the(16) time(17) ,(18) but(19) if(20) you(21) are(22) uncomfortable(23) in(24) it(25) ,(26) a(27) little(28) of(29) the(30) joy(31) is(32) sucked(33) out(34) of(35) the(36) experience(37) .(38) 
+			<opinion polarity="-" feature="comfort" opWords="23"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="25">
+			By(1) far(2) the(3) biggest(4) problem(5) between(6) myself(7) and(8) this(9) car(10) is(11) the(12) lack(13) of(14) storage(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			I(1) know(2) this(3) seems(4) like(5) a(6) stupid(7) complaint(8) to(9) have(10) about(11) a(12) sports(13) car(14) ,(15) but(16) let(17) me(18) explain(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			There(1) is(2) no(3) trunk(4) on(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			At(1) all(2) .(3) 
+		</sentence>
+		<sentence id="29">
+			In(1) the(2) front(3) is(4) the(5) spare(6) tire(7) ,(8) and(9) in(10) the(11) rear(12) is(13) the(14) engine(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			That(1) 's(2) it(3) .(4) 
+		</sentence>
+		<sentence id="31">
+			Then(1) behind(2) the(3) seats(4) ,(5) you(6) have(7) two(8) very(9) small(10) locking(11) compartments(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			Into(1) these(2) compartments(3) you(4) could(5) possibly(6) fit(7) some(8) cd(9) 's(10) or(11) tapes(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			Forget(1) those(2) weekend(3) trips(4) with(5) your(6) significant(7) other(8) .(9) 
+		</sentence>
+		<sentence id="34">
+			You(1) can(2) either(3) take(4) a(5) passenger(6) OR(7) an(8) overnight(9) bag(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			Not(1) both(2) .(3) 
+		</sentence>
+		<sentence id="36">
+			do(1) not(2) take(3) this(4) car(5) to(6) get(7) groceries(8) ,(9) or(10) anything(11) else(12) that(13) will(14) not(15) fit(16) in(17) the(18) front(19) seat(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			So(1) if(2) you(3) want(4) to(5) drive(6) this(7) car(8) to(9) Vegas(10) with(11) your(12) partner(13) for(14) the(15) weekend(16) ,(17) you(18) will(19) have(20) to(21) buy(22) clothes(23) when(24) you(25) get(26) there(27) ,(28) then(29) throw(30) them(31) away(32) ,(33) or(34) have(35) them(36) shipped(37) home(38) .(39) 
+		</sentence>
+		<sentence id="38">
+			On(1) the(2) basis(3) of(4) these(5) complaints(6) about(7) the(8) lack(9) of(10) roominess(11) in(12) this(13) car(14) ,(15) I(16) can(17) not(18) recommend(19) it(20) to(21) the(22) average(23) consumer(24) .(25) 
+			<opinion polarity="-" feature="car" featWords="20" featRef="car" opWords="18,19"/>
+		</sentence>
+		<sentence id="39">
+			I(1) can(2) only(3) recommend(4) this(5) car(6) to(7) hermits(8) ,(9) with(10) no(11) friends(12) or(13) family(14) ,(15) or(16) to(17) someone(18) who(19) can(20) afford(21) a(22) toy(23) ,(24) who(25) already(26) has(27) their(28) "(29) real(30) and(31) functional(32) "(33) vehicle(34) for(35) everyday(36) life(37) .(38) 
+			<opinion polarity="+" feature="car" featWords="34" opWords="32"/>
+			<opinion polarity="+" feature="car" featWords="34" opWords="30"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+	</text>
+</review>

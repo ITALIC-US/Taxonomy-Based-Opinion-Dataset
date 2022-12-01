@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="535" item="Koss Porta Pro Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) for(2) the(3) price(4) !(5) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) good(2) sound(3) ,(4) very(5) comfortable(6) ,(7) require(8) little(9) power(10) ,(11) good(12) bass(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="bass" featWords="13" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) band(2) keeps(3) wanting(4) to(5) slide(6) closed(7) unless(8) held(9) open(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) extremely(2) comfortable(3) headphones(4) really(5) do(6) a(7) nice(8) job(9) with(10) portable(11) players(12) ,(13) though(14) they(15) do(16) have(17) their(18) limitations(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="2">
+			Fortunately(1) ,(2) most(3) of(4) the(5) headphones(6) that(7) sound(8) substantially(9) better(10) also(11) cost(12) substantially(13) more(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			The(1) only(2) thing(3) about(4) these(5) that(6) really(7) irritates(8) me(9) is(10) that(11) the(12) headband(13) slides(14) closed(15) ((16) smaller(17) )(18) under(19) any(20) sort(21) of(22) movement(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			I(1) guess(2) that(3) 's(4) better(5) than(6) sliding(7) open(8) ,(9) but(10) it(11) 's(12) aggravating(13) to(14) slide(15) them(16) to(17) a(18) position(19) ,(20) take(21) a(22) moment(23) to(24) disentangle(25) the(26) cord(27) ,(28) and(29) then(30) find(31) that(32) the(33) band(34) has(35) closed(36) back(37) to(38) its(39) smallest(40) size(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			You(1) need(2) to(3) get(4) everything(5) exactly(6) right(7) with(8) your(9) cords(10) ,(11) amp(12) ,(13) player(14) ,(15) and_so_forth(16) and(17) THEN(18) open(19) them(20) up(21) and(22) put(23) them(24) on(25) your(26) head(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			I(1) 'm(2) not(3) generally(4) a(5) big(6) fan(7) of(8) open-air(9) headphones(10) ,(11) since(12) I(13) usually(14) use(15) headphones(16) when(17) I(18) 'm(19) mowing(20) the(21) lawn(22) ,(23) traveling(24) on(25) a(26) plane(27) ,(28) or(29) in(30) other(31) situations(32) where(33) I(34) want(35) to(36) seal(37) out(38) ambient(39) noise(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			And(1) ,(2) since(3) I(4) own(5) a(6) couple(7) pair(8) of(9) Grados(10) ,(11) I(12) do(13) not(14) use(15) these(16) in(17) the(18) house(19) much(20) ,(21) but(22) where(23) I(24) can(25) use(26) them(27) ((28) on(29) the(30) beach(31) ,(32) walking(33) ,(34) kayaking(35) )(36) they(37) do(38) a(39) great(40) job(41) and(42) are(43) by(44) far(45) my(46) favorite(47) headphones(48) for(49) the(50) application(51) .(52) 
+		</sentence>
+	</text>
+</review>

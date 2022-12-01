@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="411" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Word(1) to(2) Honda(3) :(4) do(5) not(6) forget(7) what(8) made(9) you(10) great(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) sturdy(3) ride(4) ,(5) quality(6) attention(7) to(8) detail(9) ,(10) lots(11) of(12) room(13) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sluggish(1) ,(2) buzzy(3) engine(4) ,(5) bland(6) styling(7) ,(8) light(9) steering(10) 
+			<opinion polarity="-" feature="design" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="engine" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) a(4) coupe(5) with(6) Honda(7) 's(8) reliability(9) and(10) reputation(11) ,(12) do(13) not(14) buy(15) the(16) Accord(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Get(1) a(2) Prelude(3) !(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Recently(1) I(2) purchased(3) a(4) new(5) Honda_Accord_LX(6) coupe(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) admit(2) that(3) I(4) was(5) a(6) little(7) reluctant(8) at(9) the(10) purchase(11) ,(12) but(13) my(14) significant(15) other(16) was(17) quite(18) impressed(19) with(20) the(21) automobile(22) and(23) thus(24) ,(25) I(26) relented(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			Now(1) believe(2) me(3) ,(4) Honda(5) is(6) certainly(7) on(8) my(9) list(10) as(11) a(12) great(13) automaker(14) because(15) I(16) 've(17) driven(18) Hondas(19) in(20) the(21) past(22) and(23) found(24) that(25) they(26) outperform(27) and(28) outlast(29) their(30) major(31) competitors(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) in_particular(3) ,(4) the(5) new(6) Accord(7) coupe(8) has(9) left(10) me(11) a(12) little(13) disappointed(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Here(1) 's(2) why(3) :(4) Styling(5) and(6) Features_At(7) first(8) glance(9) ,(10) the(11) Honda_Accord(12) coupe(13) lacks(14) the(15) graceful(16) styling(17) and(18) visual(19) light-weightedness(20) of(21) the(22) earlier(23) Accord(24) coupe(25) models(26) .(27) 
+			<opinion polarity="+" feature="design" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="6">
+			Honda(1) has(2) added(3) significant(4) bulk(5) to(6) the(7) sheet(8) metal(9) and(10) has(11) ,(12) as(13) a(14) result(15) ,(16) produced(17) a(18) car(19) that(20) is(21) too(22) large(23) and(24) too(25) bulky(26) to(27) be(28) a(29) sports(30) coupe(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			Even(1) with(2) alloys(3) and(4) a(5) spoiler(6) the(7) Accord(8) lacks(9) exciting(10) styling(11) ,(12) and(13) as(14) a(15) performer(16) the(17) car(18) suffers(19) due(20) to(21) its(22) heavy(23) weight(24) ((25) significantly(26) over(27) 3000(28) lbs(29) .(30) )(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			In_addition(1) ,(2) the(3) interior(4) of(5) the(6) car(7) is(8) strictly(9) business(10) as_usual(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Honda(1) has(2) added(3) virtually(4) nothing(5) to(6) the(7) interior(8) of(9) the(10) coupe(11) that(12) is(13) different(14) from(15) the(16) sedan(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Whatever(1) happened(2) to(3) Honda(4) styling(5) that(6) produced(7) the(8) 1992(9) Prelude(10) or(11) the(12) wonderfully(13) erotic(14) Acura_NSX(15) ?(16) 
+		</sentence>
+		<sentence id="11">
+			It(1) seems(2) as(3) though(4) Honda(5) has(6) forgotten(7) its(8) passion(9) for(10) exuberance(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) dash(2) has(3) neither(4) luxury(5) nor(6) sportiness(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			Everything(1) is(2) rendered(3) in(4) cheap-looking(5) plastic(6) and(7) the(8) seats(9) are(10) a(11) little(12) too(13) firm(14) to(15) be(16) comfortable(17) in(18) town(19) and(20) too(21) tight(22) to(23) be(24) comfortable(25) on(26) the(27) road(28) .(29) 
+			<opinion polarity="-" feature="seat" featWords="9" opWords="21,22"/>
+			<opinion polarity="-" feature="seat" featWords="9" opWords="13,14"/>
+		</sentence>
+		<sentence id="14">
+			One(1) good(2) feature(3) ,(4) however(5) ,(6) is(7) the(8) optional(9) 6-Disc(10) CD(11) changer(12) ,(13) which(14) offers(15) great(16) sound(17) and(18) the(19) convenience(20) of(21) in-dash(22) placement(23) .(24) 
+			<opinion polarity="+" feature="sound system" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="15">
+			Other(1) positives(2) of(3) the(4) interior(5) are(6) the(7) abundant(8) storage(9) boxes(10) located(11) in(12) the(13) center(14) console(15) and(16) a(17) glove(18) compartment(19) that(20) actually(21) has(22) room(23) !(24) 
+		</sentence>
+		<sentence id="16">
+			I(1) have(2) more(3) than(4) enough(5) room(6) to(7) store(8) driving(9) glasses(10) ,(11) CD(12) 's(13) ,(14) cups(15) ,(16) and(17) whatever(18) else(19) I(20) like(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Furthermore(1) ,(2) the(3) front(4) interior(5) lights(6) ,(7) which(8) are(9) mounted(10) near(11) the(12) rearview(13) mirror(14) and(15) flexibly(16) adjustable(17) ,(18) are(19) great(20) for(21) checking(22) a(23) bank(24) statement(25) or(26) roadmap(27) in(28) the(29) dark(30) .(31) 
+		</sentence>
+		<sentence id="18">
+			One(1) other(2) thing(3) I(4) enjoy(5) about(6) the(7) Accord(8) is(9) the(10) great(11) A(12) /(13) C(14) ,(15) which(16) swiftly(17) cools(18) the(19) car(20) even(21) on(22) days(23) when(24) it(25) has(26) been(27) parked(28) in(29) the(30) summer(31) sun(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) never(3) driven(4) any(5) car(6) that(7) had(8) an(9) air(10) system(11) quite(12) as(13) good(14) as(15) the(16) Accord(17) 's(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			Space(1) inside(2) is(3) great(4) and(5) leg(6) room(7) is(8) not(9) compromised(10) on(11) the(12) road(13) .(14) 
+			<opinion polarity="+" feature="leg room" featWords="6,7" opWords="9,10"/>
+		</sentence>
+		<sentence id="21">
+			Four(1) adults(2) can(3) comfortably(4) fit(5) in(6) the(7) cab(8) ,(9) though(10) adding(11) a(12) fifth(13) in(14) the(15) rear(16) seat(17) can(18) be(19) a_bit(20) more(21) than(22) just(23) tight(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			Trunk(1) space(2) is(3) great(4) for(5) a(6) coupe(7) and(8) headroom(9) in(10) the(11) back(12) is(13) ample(14) .(15) 
+			<opinion polarity="+" feature="head room" featWords="9" opWords="14"/>
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			Mechanics(1) and(2) Driving_The_Accord(3) is(4) not(5) so(6) agile(7) as(8) it(9) used(10) to(11) be(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="5,7"/>
+		</sentence>
+		<sentence id="24">
+			My(1) new(2) Accord(3) ,(4) which(5) is(6) equipped(7) with(8) an(9) automatic(10) transmission(11) and(12) a(13) 150bhp(14) inline(15) -(16) 4(17) ,(18) is(19) too(20) sluggish(21) for(22) in-city(23) driving(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="20,21"/>
+		</sentence>
+		<sentence id="25">
+			I(1) had(2) wanted(3) a(4) 5-speed(5) ,(6) but(7) the(8) lady(9) asked(10) for(11) the(12) auto(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			With(1) the(2) air(3) on(4) ,(5) quick(6) starts(7) in(8) the(9) Accord(10) are(11) nearly(12) impossible(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			The(1) engine(2) quickly(3) reaches(4) 4000rpm(5) without(6) even(7) barely(8) getting(9) the(10) car(11) going(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			The(1) accelerator(2) feels(3) a(4) little(5) light(6) on(7) the(8) feet(9) and(10) the(11) car(12) shows(13) its(14) weight(15) and(16) bulk(17) when(18) rounding(19) corners(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			The(1) automatic(2) transmission(3) works(4) great(5) with(6) the(7) V(8) -(9) 6(10) ,(11) but(12) the(13) extra(14) $4000(15) for(16) the(17) engine(18) upgrade(19) was(20) a(21) little(22) more(23) than(24) I(25) was(26) willing(27) to(28) pay(29) .(30) 
+		</sentence>
+		<sentence id="30">
+			Visibility(1) out(2) of(3) the(4) rear(5) window(6) can(7) be(8) a(9) little(10) poor(11) because_of(12) the(13) high(14) rear(15) brow(16) Honda(17) has(18) engineered(19) for(20) the(21) car(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			Steering(1) is(2) too(3) quick(4) and(5) the(6) car(7) does(8) not(9) respond(10) to(11) the(12) driver(13) as(14) it(15) should(16) .(17) 
+			<opinion polarity="-" feature="steering" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="32">
+			Perhaps(1) the(2) lack(3) of(4) driving(5) pleasure(6) that(7) I(8) get(9) from(10) the(11) Accord(12) is(13) the(14) most(15) disappointing(16) element(17) of(18) the(19) car(20) ,(21) when(22) considering(23) that(24) Honda(25) has(26) such(27) a(28) reputation(29) for(30) fun(31) ,(32) quick(33) automobiles(34) .(35) 
+		</sentence>
+		<sentence id="33">
+			Nonetheless(1) ,(2) in(3) daily(4) driving(5) and(6) on(7) the(8) road(9) the(10) car(11) fares(12) well(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			I(1) consistently(2) get(3) better-than-expected(4) gas(5) mileage(6) ((7) 21(8) in_town/31(9) highway(10) )(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			I(1) have(2) had(3) no(4) problems(5) with(6) the(7) car(8) and(9) can(10) expect(11) that(12) the(13) car(14) will(15) run(16) for(17) 200,000(18) +(19) miles(20) as(21) most(22) Hondas(23) do(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			However(1) ,(2) I(3) will(4) not(5) keep(6) the(7) car(8) that(9) long(10) because(11) the(12) cost(13) does(14) not(15) warrant(16) itself(17) .(18) 
+		</sentence>
+		<sentence id="37">
+			I(1) 'm(2) still(3) too(4) young(5) for(6) an(7) old(8) man(9) 's(10) coupe(11) .(12) *(13) Amount_Paid(14) ((15) US(16) $(17) )(18) :(19) 21693(20) Condition(21) :(22) NewModel_Year(23) :(24) 2001Model(25) and(26) Options(27) :(28) LX(29) ,(30) automatic(31) with(32) alloys(33) 
+		</sentence>
+	</text>
+</review>

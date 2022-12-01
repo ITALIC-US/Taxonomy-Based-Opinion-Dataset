@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="768" item="1998 Pontiac Firebird" rating="2">
+	<title>
+		<sentence id="1">
+			Firebird(1) :(2) Great(3) car(4) gone(5) wrong(6) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling(1) ,(2) performance(3) ,(4) value(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Comfort(1) flaws(2) ,(3) abysmal(4) quality(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) late-model(2) ((3) Mine(4) was(5) a(6) 98(7) )(8) Pontiac_Firebird(9) has(10) to(11) be(12) the(13) greatest(14) car(15) to(16) go(17) wrong(18) ever(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) so(3) much(4) potential(5) ,(6) so(7) much(8) about(9) it(10) to(11) adore(12) ,(13) but(14) so(15) much(16) technically(17) wrong(18) with(19) it(20) to(21) get(22) in(23) the(24) way(25) of(26) loving(27) it(28) and(29) ruining(30) the(31) experience(32) !(33) 
+		</sentence>
+		<sentence id="3">
+			Let(1) me(2) start(3) off(4) by(5) enumerating(6) the(7) positives(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) cheap(3) .(4) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) not(3) beat(4) the(5) horsepower(6) to(7) dollar(8) ratio(9) here(10) ,(11) outside_of(12) maybe(13) the(14) Firebird(15) 's(16) cousin(17) ,(18) the(19) Chevy_Camaro(20) ,(21) which(22) is(23) practically(24) the(25) same(26) car(27) with(28) different(29) looks(30) inside(31) and(32) out(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			But(1) the(2) firebird(3) is(4) definitely(5) the(6) more(7) pleasing(8) to(9) look(10) at(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) curvy(3) ,(4) stilleto(5) like(6) body(7) is(8) a(9) marvelous(10) thing(11) to(12) behold(13) ,(14) with(15) the(16) huge(17) ,(18) bulbous(19) hood(20) and(21) fenders(22) with(23) the(24) headlamp(25) doors(26) sitting(27) like(28) giant(29) closed(30) eyelids(31) waiting(32) to(33) blaze(34) to(35) life(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) a_real(3) head-turner(4) ,(5) and(6) comes(7) in(8) a(9) variety(10) of(11) nice(12) ,(13) flashy(14) colors(15) .(16) 
+			<opinion polarity="+" feature="color" featWords="15" opWords="12"/>
+		</sentence>
+		<sentence id="9">
+			The(1) interior(2) is(3) quite(4) comfortable(5) for(6) the(7) driver(8) ,(9) no(10) matter(11) how(12) tall(13) .(14) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) seats(2) are(3) quite(4) comfy(5) and(6) the(7) fabric(8) is(9) luxurious(10) to(11) touch(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) adjustability(2) of(3) the(4) seat(5) and(6) the(7) steering(8) column(9) is(10) great(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) Monsoon(2) stereo(3) sounds(4) wonderful(5) ,(6) and(7) has(8) loads(9) of(10) bass(11) .(12) 
+			<opinion polarity="+" feature="sound system" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) V(2) -(3) 8(4) engine(5) ,(6) with(7) all(8) it(9) 's(10) old-fashioned(11) pushrod(12) torque(13) ,(14) will(15) launch(16) you(17) forward(18) like(19) nothing(20) else(21) under(22) $40000(23) can(24) .(25) 
+			<opinion polarity="-" feature="torque" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="14">
+			The(1) V(2) -(3) 6(4) is(5) also(6) very(7) quick(8) as_well(9) .(10) 
+			<opinion polarity="+" feature="speed" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="15">
+			It(1) handles(2) nicely(3) through(4) curves(5) ,(6) regardless_of(7) the(8) solid(9) rear(10) axle(11) .(12) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="16">
+			The(1) fact(2) that(3) it(4) 's(5) about(6) the(7) only(8) car(9) around(10) anymore(11) with(12) T-tops(13) is(14) great(15) ,(16) too(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			Now(1) 's(2) where(3) it(4) starts(5) sucking(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			Visibility(1) is(2) horrible(3) .(4) 
+			<opinion polarity="-" feature="visibility" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="19">
+			You(1) pay(2) for(3) those(4) sensuous(5) looks(6) with(7) huge(8) blind(9) spots(10) and(11) a(12) terribly(13) long(14) nose(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			But(1) sports(2) car(3) fanatics(4) can(5) learn(6) to(7) deal(8) with(9) minor(10) problems(11) like(12) those(13) ...(14) including(15) myself(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			There(1) 's(2) other(3) minor(4) problems(5) that(6) many(7) enthusiasts(8) might(9) be(10) able(11) to(12) overlook(13) as_well(14) ,(15) such(16) as(17) the(18) huge(19) bump(20) in(21) the(22) passenger(23) side(24) floorboard(25) for(26) the(27) catalytic(28) converter(29) which(30) makes(31) that(32) side(33) quite(34) uncomfortable(35) on(36) long(37) trips(38) ,(39) the(40) complete(41) lack(42) of(43) trunk(44) space(45) ((46) maybe(47) one(48) suitcase(49) ,(50) but(51) that(52) 's(53) it(54) )(55) ,(56) and(57) no(58) trunk(59) space(60) at(61) all(62) with(63) the(64) T-tops(65) stowed(66) in(67) their(68) slots(69) in(70) the(71) rear(72) hatch(73) area(74) .(75) 
+			<opinion polarity="-" feature="comfort" opWords="35"/>
+		</sentence>
+		<sentence id="22">
+			All(1) of(2) that(3) might(4) could(5) be(6) overlooked(7) if(8) you(9) otherwise(10) adored(11) the(12) car(13) ,(14) which(15) I(16) did(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			And(1) that(2) 's(3) why(4) I(5) bought(6) it(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			Then_I(1) found(2) out(3) about(4) the(5) less(6) obvious(7) problems(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			Such(1) as(2) the(3) leaky(4) T-tops(5) .(6) 
+		</sentence>
+		<sentence id="26">
+			I(1) have(2) a(3) 1983(4) Datsun(5) 280ZX(6) with(7) T-tops(8) that(9) the(10) original(11) ,(12) rotten(13) weatherstripping(14) before(15) I(16) restored(17) it(18) was(19) completely(20) watertight(21) .(22) 
+		</sentence>
+		<sentence id="27">
+			Not(1) so(2) with(3) my(4) showroom(5) new(6) Pontiac(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			Water(1) dribbled(2) from(3) around(4) the(5) edges(6) of(7) the(8) T-tops(9) onto(10) the(11) interior(12) door(13) trim(14) panels(15) ,(16) my(17) legs(18) ,(19) and(20) the(21) rear(22) pillar(23) trim(24) in(25) even(26) the(27) lightest(28) rain(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			The(1) stereo(2) whose(3) display(4) became(5) garbled(6) and(7) had(8) to(9) be(10) removed(11) from(12) my(13) car(14) ((15) no(16) loaner(17) stereo(18) ,(19) of(20) course(21) )(22) for(23) a(24) month(25) while(26) it(27) was(28) sent(29) off(30) for(31) repair(32) .(33) 
+		</sentence>
+		<sentence id="30">
+			And(1) the(2) poorly(3) designed(4) speaker(5) grilles(6) that(7) rattle(8) when(9) you(10) turn(11) the(12) volume(13) up(14) ((15) so(16) much(17) for(18) enjoying(19) your(20) 500-watt(21) sound(22) system(23) )(24) .(25) 
+			<opinion polarity="-" feature="speakers" featWords="5" opWords="3,4"/>
+		</sentence>
+		<sentence id="31">
+			The(1) windshield(2) wipers(3) that(4) stopped(5) working(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			The(1) parking(2) brake(3) that(4) failed(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			The(1) fenders(2) that(3) scrubbed(4) the(5) doors(6) from(7) the(8) factory(9) that(10) I(11) re-adjusted(12) myself(13) so_that(14) they(15) 'd(16) stop(17) rubbing(18) the(19) paint(20) off(21) one(22) another(23) 's(24) edges(25) .(26) 
+		</sentence>
+		<sentence id="34">
+			The(1) list(2) goes(3) on(4) and(5) on(6) .(7) 
+		</sentence>
+		<sentence id="35">
+			I(1) had(2) this(3) car(4) merely(5) 6(6) months(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			During(1) that(2) time(3) ,(4) it(5) went(6) to(7) the(8) dealer(9) service(10) department(11) 6_times(12) for(13) warranty(14) repairs(15) .(16) 
+		</sentence>
+		<sentence id="37">
+			Completely(1) unacceptable(2) .(3) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="38">
+			In(1) fact(2) ,(3) downright(4) rediculous(5) .(6) 
+		</sentence>
+		<sentence id="39">
+			To(1) make(2) bad(3) matters(4) worse(5) ,(6) each(7) time(8) I(9) encountered(10) a(11) problem(12) ,(13) I(14) had(15) to(16) leave(17) it(18) at(19) the(20) dealer(21) for(22) a(23) day(24) for(25) them(26) to(27) diagnose(28) the(29) problem(30) ,(31) only(32) to(33) be(34) told(35) that(36) parts(37) had(38) to(39) be(40) ordered(41) ((42) do(43) not(44) they(45) stock(46) anything(47) ?(48) ?(49) ?(50) )(51) and(52) then(53) I(54) had(55) to(56) bring(57) it(58) back(59) and(60) leave(61) it(62) for(63) another(64) day(65) when(66) the(67) part(68) arrived(69) ((70) generally(71) in(72) 1-2(73) weeks(74) ,(75) which(76) was(77) also(78) rediculous(79) since(80) I(81) run(82) an(83) auto(84) repair(85) shop(86) and(87) never(88) have(89) to(90) wait(91) that(92) long(93) for(94) GM(95) parts(96) )(97) to(98) have(99) it(100) installed(101) .(102) 
+		</sentence>
+		<sentence id="40">
+			This(1) was(2) particularly(3) fun(4) when(5) my(6) wiper(7) 's(8) would(9) not(10) work(11) ...(12) "(13) Gee(14) ,(15) I(16) hope(17) it(18) does(19) not(20) ,(21) like(22) ,(23) rain(24) or(25) anything(26) for(27) awhile(28) ...(29) "(30) I(31) must(32) say(33) ,(34) if(35) this(36) vehicle(37) were(38) built(39) well(40) and(41) made(42) with(43) quality(44) components(45) that(46) did(47) not(48) fail(49) ,(50) it(51) would(52) be(53) a(54) superlative(55) muscle(56) car(57) ...(58) and(59) a(60) better(61) value(62) that(63) a(64) '(65) vette(66) .(67) 
+		</sentence>
+		<sentence id="41">
+			But(1) perhaps(2) there(3) 's(4) a(5) reason(6) why(7) it(8) was(9) so(10) inexpensive(11) in(12) comparison(13) .(14) 
+			<opinion polarity="+" feature="price" opWords="11"/>
+		</sentence>
+		<sentence id="42">
+			I(1) really(2) loved(3) this(4) car(5) ,(6) but(7) it(8) was(9) like(10) someone(11) you(12) adore(13) that(14) treats(15) you(16) badly(17) ...(18) eventually(19) you(20) have(21) to(22) dump(23) them(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+	</text>
+</review>

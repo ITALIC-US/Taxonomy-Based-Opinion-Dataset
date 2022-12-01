@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="780" item="Copthorne Tara Kensington Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) hotel(2) but(3) not(4) at(5) full(6) price(7) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ((2) through(3) Priceline(4) )(5) Close(6) to(7) High_Street_Kensington(8) shops(9) ,(10) restaurants(11) and(12) Tube(13) station(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dimly(1) lit(2) bathroom(3) No(4) king-size(5) bed(6) 
+			<opinion polarity="-" feature="bathroom" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) hotel(2) but(3) only(4) if(5) you(6) can(7) get(8) it(9) under(10) $150(11) a(12) night(13) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) at(6) the(7) Copthorne_Tara_Hotel(8) in(9) March_2004(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			We(1) got(2) a(3) great(4) deal(5) through(6) Priceline(7) so(8) our(9) double-room(10) was(11) only(12) $75(13) a(14) night(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			According_to(1) the(2) hotel(3) 's(4) website(5) ,(6) the(7) regular(8) price(9) was(10) 225(11) GBP(12) ((13) about(14) $415(15) )(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) hotel(2) is(3) tucked(4) away(5) on(6) a(7) side(8) street(9) from(10) High_Street_Kensington(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) High_Street_Kensington_Tube(2) station(3) is(4) less(5) than(6) a(7) block(8) away(9) ,(10) there(11) are(12) plenty_of(13) shops(14) nearby(15) and(16) there(17) are(18) several(19) great(20) restaurants(21) in(22) the(23) vicinity(24) ((25) Thai_Terrace(26) ,(27) The_Muffin_Man(28) and(29) Ranoush_Juice(30) to(31) name(32) a(33) few(34) )(35) .(36) 
+			<opinion polarity="+" feature="food" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="6">
+			Check-in(1) was(2) a(3) breeze(4) as(5) we(6) had(7) prepaid(8) through(9) Priceline(10) and(11) a(12) room(13) was(14) available(15) when(16) we(17) arrived(18) at(19) 8:00_p.m.(20) The(21) room(22) was(23) very(24) clean(25) although(26) a(27) little(28) worn(29) looking(30) .(31) 
+			<opinion polarity="+" feature="rooms" featWords="22" opWords="25" potency="24"/>
+			<opinion polarity="-" feature="rooms" featWords="22" opWords="29" potency="28"/>
+		</sentence>
+		<sentence id="7">
+			Although(1) Priceline(2) gives(3) the(4) hotel(5) 4(6) stars(7) ,(8) it(9) is(10) closer(11) to(12) a(13) 3(14) star(15) American(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) say(3) it(4) is(5) comparable(6) to(7) a(8) Holiday_Inn(9) here(10) in(11) the(12) States(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			We(1) did(2) not(3) spend(4) much(5) time(6) in(7) the(8) room(9) but(10) it(11) suited(12) our(13) needs(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) room(2) was(3) not(4) that(5) large(6) by(7) American(8) standards(9) but(10) there(11) was(12) a(13) large(14) bureau(15) ((16) 6(17) deep(18) drawers(19) )(20) ,(21) a(22) table(23) and(24) 2(25) chairs(26) ,(27) a(28) desk(29) ,(30) a(31) nightstand(32) with(33) lamp(34) ,(35) television(36) ,(37) a(38) small(39) refridgerator(40) ,(41) and(42) a(43) good(44) sized(45) closet(46) .(47) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4,6"/>
+			<opinion polarity="+" feature="closet" featWords="46" opWords="44,45"/>
+		</sentence>
+		<sentence id="11">
+			The(1) bed(2) was(3) only(4) a(5) double(6) and(7) a(8) little(9) on(10) the(11) soft(12) side(13) but(14) quite(15) comfortable(16) .(17) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) a(3) coffee(4) /(5) tea(6) maker(7) with(8) packets(9) of(10) coffee(11) ,(12) tea(13) ,(14) sugar(15) ,(16) etc.(17) and(18) two(19) cups(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) room(2) also(3) had(4) an(5) ironing(6) board(7) ,(8) trouser(9) press(10) and(11) hairdryer(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			The(1) television(2) got(3) several(4) BBC(5) stations(6) as_well(7) as(8) Sky(9) stations(10) ((11) Rupert_Murdock(12) 's(13) )(14) and(15) there(16) were(17) several(18) Spanish(19) ,(20) Japanese(21) and(22) German(23) stations(24) as_well(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			You(1) could(2) also(3) order(4) movies(5) ((6) including(7) X-rated(8) )(9) through(10) Pay-Per-View(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			We(1) had(2) requested(3) a(4) quiet(5) ,(6) non-smoking(7) room(8) and(9) that(10) was(11) exactly(12) what(13) we(14) received(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			The(1) view(2) from(3) the(4) window(5) was(6) pretty(7) bleak(8) ,(9) just(10) the(11) tops(12) of(13) nearby(14) buildings(15) .(16) 
+			<opinion polarity="-" feature="view" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="18">
+			The(1) room(2) 's(3) climate(4) controls(5) worked(6) well(7) and(8) we(9) could(10) adjust(11) the(12) temperature(13) as_well(14) as(15) the(16) fan(17) speed(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			The(1) bathroom(2) was(3) not(4) huge(5) ,(6) but(7) there(8) was(9) a(10) deep(11) shelf(12) above(13) the(14) toilet(15) and(16) sink(17) where(18) you(19) could(20) keep(21) your(22) necessities(23) .(24) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="20">
+			The(1) sink(2) had(3) separate(4) hot(5) and(6) cold(7) faucets(8) which(9) required(10) you(11) to(12) fill(13) the(14) basin(15) if(16) you(17) wanted(18) to(19) wash(20) your(21) face(22) .(23) 
+		</sentence>
+		<sentence id="21">
+			The(1) hotel(2) ,(3) like(4) most(5) European(6) hotels(7) ,(8) did(9) not(10) provide(11) washclothes(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			This(1) is(2) pretty(3) standard(4) so(5) when(6) travelling(7) to(8) Great_Britain(9) or(10) to(11) Europe(12) bring(13) your(14) own(15) or(16) buy(17) some(18) there(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			There(1) was(2) a(3) tub(4) /(5) shower(6) combination(7) with(8) a(9) bar(10) running(11) across(12) the(13) width(14) of(15) the(16) tub(17) -(18) I(19) assumed(20) this(21) was(22) to(23) hang(24) hand-washed(25) clothing(26) as(27) there(28) were(29) 2(30) hanger(31) hooks(32) attached(33) to(34) it(35) .(36) 
+		</sentence>
+		<sentence id="24">
+			We(1) hung(2) our(3) bath(4) sponges(5) there(6) and(7) as(8) it(9) was(10) towards(11) the(12) other(13) end(14) of(15) the(16) tub(17) ((18) away(19) from(20) the(21) faucets(22) and(23) shower(24) head(25) )(26) it(27) did(28) not(29) interfer(30) with(31) bathing(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			The(1) water(2) pressure(3) was(4) very(5) good(6) and(7) there(8) was(9) plenty_of(10) hot(11) water(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			Unfortunately(1) ,(2) the(3) water(4) was(5) also(6) "(7) hard(8) ,(9) "(10) so(11) my(12) hair(13) was(14) a(15) horror(16) show(17) by(18) the(19) end(20) of(21) the(22) week(23) .(24) 
+		</sentence>
+		<sentence id="27">
+			My(1) only(2) true(3) complaint(4) was(5) that(6) the(7) light(8) in(9) the(10) bathroom(11) was(12) incredibly(13) dim(14) .(15) 
+			<opinion polarity="-" feature="bathroom" featWords="11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="28">
+			It(1) was(2) fine(3) for(4) showering(5) and(6) washing(7) up(8) but(9) if(10) you(11) wanted(12) to(13) shave(14) or(15) apply(16) makeup(17) ,(18) you(19) were(20) better(21) off(22) doing(23) it(24) in(25) the(26) main(27) part(28) of(29) the(30) room(31) ,(32) where(33) the(34) light(35) was(36) much(37) better(38) .(39) 
+		</sentence>
+		<sentence id="29">
+			My(1) husband(2) shaved(3) in(4) the(5) mirror(6) just(7) outside_of(8) the(9) bathroom(10) and(11) I(12) had(13) brought(14) my(15) own(16) little(17) lighted(18) makeup(19) mirror(20) just_in_case(21) .(22) 
+		</sentence>
+		<sentence id="30">
+			The(1) room(2) was(3) cleaned(4) every(5) day(6) and(7) fresh(8) towels(9) were(10) provided(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			The(1) hotel(2) boasts(3) 2(4) restaurants(5) :(6) Cafe_Mozart(7) ,(8) open(9) from(10) 10:00(11) until(12) 6:00(13) p(14) .(15) m(16) and(17) serves(18) lunch(19) ,(20) tea(21) ,(22) and(23) light(24) snacks(25) and(26) The_Brasserie(27) ,(28) which(29) is(30) open(31) from(32) 7:00(33) a(34) .(35) m(36) until(37) 10:45_p.m.(38) We(39) ate(40) dinner(41) at(42) the(43) Brasserie(44) on(45) our(46) first(47) night(48) there(49) because(50) it(51) was(52) late(53) and(54) we(55) did(56) not(57) feel(58) like(59) venturing(60) out(61) .(62) 
+		</sentence>
+		<sentence id="32">
+			I(1) had(2) a(3) Caesar(4) salad(5) with(6) chicken(7) and(8) my(9) husband(10) had(11) an(12) appetizer(13) of(14) chicken(15) satay(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			We(1) both(2) had(3) coffee(4) and(5) I(6) had(7) dessert(8) and(9) the(10) bill(11) was(12) about(13) 25(14) GBP(15) ((16) about(17) $43(18) )(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			The(1) hotel(2) does(3) provide(4) room(5) service(6) but(7) we(8) did(9) not(10) use(11) it(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			If(1) we(2) had(3) paid(4) more(5) than(6) $150(7) a(8) night(9) I(10) would(11) have(12) been(13) furious(14) but(15) since(16) we(17) paid(18) much(19) less(20) than(21) that(22) ,(23) the(24) hotel(25) was(26) perfect(27) for(28) us(29) .(30) 
+			<opinion polarity="+" feature="hotel" featWords="25" opWords="27"/>
+		</sentence>
+	</text>
+</review>

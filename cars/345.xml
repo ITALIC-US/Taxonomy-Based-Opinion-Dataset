@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="345" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			an(1) accord(2) ?(3) oh(4) yes(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			v6(1) ,(2) alloy(3) wheels(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flat(1) seats(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) you(2) need(3) a(4) car(5) and(6) fast(7) ,(8) something(9) reliable(10) and(11) efficient(12) gives(13) you(14) less(15) headaches(16) and(17) takes(18) the(19) decision(20) out(21) of(22) the(23) picture(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="12"/>
+			<opinion polarity="+" feature="reliability" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) accord(2) is(3) the(4) answer(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) the(3) 98(4) v6(5) sedan(6) .(7) at(8) the(9) time(10) ,(11) it(12) was(13) the(14) first(15) 200hp(16) v6(17) vtec(18) .(19) that(20) was(21) great(22) but(23) the(24) 0-60(25) of(26) 8.0sec(27) is(28) a_bit(29) disappointing(30) .(31) then(32) again(33) ,(34) a(35) honda(36) is(37) conservative(38) .(39) but(40) ,(41) you(42) get(43) the(44) kick(45) when(46) u(47) need(48) it(49) and(50) it(51) does(52) fine(53) in(54) snow(55) .(56) the(57) interior(58) of(59) the(60) car(61) is(62) excellent(63) .(64) the(65) dials(66) are(67) placed(68) at(69) natural(70) positions(71) .(72) the(73) ergonomics(74) of(75) the(76) car(77) are(78) unparalleled(79) .(80) the(81) radio(82) is(83) superb(84) with(85) alpine(86) made(87) speakers(88) and(89) receiver(90) .(91) ((92) the(93) dealer(94) told(95) me(96) so(97) )(98) also(99) ,(100) it(101) allows(102) you(103) to(104) install(105) a(106) 6(107) cd(108) changer(109) on(110) your(111) own(112) from(113) alpine(114) .(115) but(116) then(117) the(118) receiver(119) cd(120) is(121) rendered(122) useless(123) .(124) 
+			<opinion polarity="+" feature="comfort" featWords="74" opWords="79"/>
+			<opinion polarity="+" feature="interior" featWords="58" opWords="63"/>
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) includes(3) steering(4) wheel(5) controls(6) of(7) the(8) stereo(9) and(10) cruise(11) control(12) which(13) are(14) necessary(15) to(16) prevent(17) accidents(18) .(19) the(20) feature(21) is(22) purely(23) genius(24) and(25) life(26) saving(27) .(28) the(29) leather(30) is(31) a(32) nice(33) touch(34) ,(35) but(36) that(37) sort(38) of(39) contradicts(40) the(41) rugged(42) appeal(43) of(44) the(45) car(46) .(47) 
+		</sentence>
+		<sentence id="5">
+			Your(1) ass(2) will(3) slip(4) and(5) slide(6) while(7) in(8) the(9) seats(10) .(11) one(12) would(13) think(14) that(15) honda(16) would(17) include(18) bucket(19) seats(20) in(21) a(22) 200hp(23) car(24) .(25) other(26) than(27) that(28) ,(29) the(30) seat(31) belt(32) will(33) hold(34) you(35) in(36) place(37) a_bit(38) .(39) trunk(40) space(41) is(42) adequate(43) ,(44) unless(45) u(46) have(47) skis(48) or(49) large(50) golf(51) bags(52) .(53) then(54) you(55) will(56) have(57) to(58) be(59) a(60) magician(61) to(62) produce(63) more(64) space(65) .(66) there(67) is(68) a(69) handy(70) grocery(71) hook(72) for(73) eggs(74) and(75) extra(76) panels(77) to(78) store(79) necessities(80) like(81) ice(82) picks(83) and(84) inflators(85) .(86) 
+			<opinion polarity="+" feature="trunk space" featWords="40,41" opWords="43"/>
+		</sentence>
+		<sentence id="6">
+			The(1) accord(2) offers(3) some(4) luxury(5) ,(6) convenience(7) ,(8) and(9) a(10) piece(11) of(12) mind(13) for(14) an(15) affordable(16) price(17) .(18) 
+			<opinion polarity="+" feature="price" featWords="17" opWords="16"/>
+		</sentence>
+	</text>
+</review>

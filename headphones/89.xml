@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="89" item="Koss UR-20 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good_Pick_If_Comfort_And_Price_Are_Your_Priorities(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) Inexpensive(3) ,(4) And_Sound_Is_Slightly_Above_Average(5) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			If(1) You_Look_A_Bit_Harder_You(2) 'll(3) Find_Something_Better_Sounding(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Sealed(1) cans(2) at(3) the(4) $20-$40(5) range(6) usually(7) sound(8) pretty(9) horrid(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) because(3) they(4) are(5) often(6) used(7) with(8) average(9) speakers(10) ,(11) and(12) sealing(13) them(14) makes(15) the(16) sound(17) very(18) muddy(19) .(20) 
+			<opinion polarity="-" feature="sound quality" featWords="17" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Koss(2) UR20(3) is(4) not(5) very(6) amazing(7) sounding(8) ,(9) and(10) there(11) are(12) better(13) pairs(14) for(15) the(16) price(17) ,(18) but(19) they(20) are(21) not(22) too(23) disappointing(24) .(25) 
+			<opinion polarity="+" feature="sound quality" opWords="7,8" potency="6"/>
+		</sentence>
+		<sentence id="4">
+			They(1) have(2) very(3) solid(4) bass(5) and(6) mid(7) tones(8) for(9) the(10) price(11) ,(12) but(13) sound(14) a_bit(15) too(16) chalky(17) ,(18) with(19) slightly(20) overwhemling(21) bass(22) and(23) bright(24) treble(25) ,(26) that(27) makes(28) the(29) mids(30) sound(31) somewhat(32) distant(33) .(34) 
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="mids" featWords="7" opWords="4" potency="3"/>
+			<opinion polarity="-" feature="sound quality" opWords="14,16,17" potency="15"/>
+			<opinion polarity="-" feature="bass" featWords="22" opWords="21" potency="20"/>
+			<opinion polarity="-" feature="highs" featWords="25" opWords="24"/>
+			<opinion polarity="-" feature="mids" featWords="30" opWords="33" potency="32"/>
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) sound(3) lacks(4) in(5) detail(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Not(1) a(2) good(3) headphone(4) for(5) audiophiles(6) ,(7) but(8) casual(9) listreners(10) should(11) be(12) pleased(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			These(1) are(2) also(3) comfortable(4) and(5) cost(6) $15-$20(7) in(8) most(9) markets(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Though(1) ,(2) I(3) 'd(4) prefer(5) the(6) Koss(7) UR21(8) ,(9) Koss(10) UR15(11) ,(12) or(13) Sennheiser(14) HD202(15) ,(16) which(17) are(18) all(19) similar(20) in(21) price(22) and(23) style(24) ,(25) but(26) have(27) much(28) better(29) sound(30) .(31) 
+		</sentence>
+	</text>
+</review>

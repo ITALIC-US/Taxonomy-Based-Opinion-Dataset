@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="383" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) tiny(3) ,(4) it(5) 's(6) fun(7) and(8) James_Bond(9) had(10) one(11) ...(12) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handling(1) ,(2) gas(3) mileage(4) ,(5) focus(6) of(7) conversations(8) when(9) stopped(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) radio(2) ,(3) soft(4) clutch(5) ,(6) hyperactive(7) traction(8) control(9) ,(10) plastic(11) rear(12) window(13) ,(14) no(15) cupholder(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Pure(1) fun(2) -(3) a(4) keeper(5) and(6) a(7) conversation(8) piece(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			If(1) performance(2) is(3) the(4) objective(5) ,(6) look(7) at(8) the(9) 2.8(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) 2000(2) Z3(3) 2.3(4) was(5) my(6) introduction(7) to(8) the(9) world(10) of(11) owning(12) one(13) of(14) Germany(15) 's(16) finest(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) not(3) looking(4) for(5) a(6) fast(7) car(8) -(9) at(10) the(11) time(12) my(13) other(14) vehicle(15) was(16) a(17) 1998(18) Camaro_SS_Convertible(19) with(20) over(21) 300(22) HP(23) .(24) 
+			<opinion polarity="+" feature="speed" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			I(1) simply(2) wanted(3) something(4) small(5) ,(6) dependable(7) and(8) fun(9) to(10) drive(11) in(12) the(13) summer(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			In(1) a(2) number(3) of(4) ways(5) ,(6) I(7) got(8) more(9) than(10) I(11) bargained(12) for(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) price(2) on(3) the(4) Z3(5) is(6) respectable(7) ;(8) I(9) opted(10) to(11) lease(12) the(13) car(14) for(15) 3(16) years(17) and(18) put(19) around(20) $6000(21) down(22) to(23) bring(24) my(25) payments(26) to(27) around(28) $220(29) per(30) month(31) .(32) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			Insurance(1) on(2) the(3) car(4) turned(5) out(6) to(7) be(8) much(9) cheaper(10) than(11) I(12) expected(13) -(14) I(15) 'm(16) paying(17) less(18) than(19) $700(20) per(21) year(22) for(23) it(24) with(25) about(26) 10x(27) the(28) base(29) liability(30) coverage(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) is(3) pretty(4) comfortable(5) ,(6) less(7) than(8) a(9) month(10) after(11) I(12) bought(13) it(14) I(15) drove(16) 1900_miles(17) straight(18) to(19) Memphis(20) and(21) did(22) not(23) get(24) any(25) sense(26) of(27) discomfort(28) during(29) the(30) trip(31) .(32) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) "(3) peppy(4) "(5) and(6) handled(7) the(8) rolling(9) mountains(10) on(11) Tennessee(12) at(13) 70(14) +(15) MPH(16) with(17) ease(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Storage(1) room(2) is(3) lacking(4) ((5) packing(6) 2(7) weeks(8) worth(9) of(10) clothing(11) and(12) equipment(13) in(14) it(15) for(16) the(17) trip(18) was(19) a(20) task(21) )(22) but(23) that(24) 's(25) to(26) be(27) expected(28) given(29) the(30) car(31) 's(32) size(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) carry(3) the(4) top(5) 's(6) boot(7) cover(8) and(9) a(10) passenger(11) ,(12) you(13) 're(14) pretty(15) much(16) out(17) of(18) luck(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			To(1) this(2) day(3) ,(4) the(5) car(6) is(7) a(8) conversation(9) piece(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			On(1) the(2) occasions(3) I(4) drive(5) it(6) ((7) top(8) down(9) ,(10) visibility(11) is(12) not(13) so(14) hot(15) with(16) it(17) up(18) )(19) I(20) get(21) approached(22) a(23) least(24) once(25) with(26) questions(27) or(28) comments(29) about(30) it(31) .(32) 
+		</sentence>
+		<sentence id="13">
+			People(1) from(2) age(3) 5(4) to(5) age(6) 75(7) adore(8) the(9) car(10) -(11) great(12) when(13) you(14) 've(15) got(16) time(17) to(18) be(19) the(20) center(21) of(22) attention(23) at(24) the(25) convenience(26) store(27) or(28) gas(29) station(30) .(31) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="14">
+			Just(1) passing(2) 18(3) months(4) with(5) it(6) ,(7) and(8) having(9) traded(10) the(11) SS(12) for(13) a(14) new(15) 330i(16) last(17) fall(18) ,(19) I(20) 'd(21) have(22) to(23) say(24) I(25) 'd(26) choose(27) the(28) car(29) again(30) ,(31) but(32) would(33) have(34) made(35) some(36) subtle(37) changes(38) to(39) it(40) .(41) 
+		</sentence>
+		<sentence id="15">
+			First(1) and(2) foremost(3) ,(4) the(5) radio(6) has(7) to(8) go(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			After(1) going(2) through(3) 2(4) sets(5) of(6) factory(7) speakers(8) ((9) between(10) straining(11) to(12) hear(13) the(14) radio(15) in(16) traffic(17) and(18) the(19) sun(20) baking(21) them(22) )(23) in(24) the(25) past(26) year(27) ,(28) I(29) would(30) add(31) the(32) Harmon_Kardon(33) sound(34) system(35) .(36) 
+		</sentence>
+		<sentence id="17">
+			I(1) went(2) with(3) the(4) H(5) /(6) K(7) stereo(8) in(9) the(10) 330i(11) and(12) it(13) 's(14) positively(15) insane(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Sport(1) seats(2) would(3) have(4) been(5) nice(6) ,(7) as(8) the(9) base(10) seats(11) with(12) the(13) Premium(14) package(15) do(16) not(17) seem(18) to(19) offer(20) much(21) lateral(22) support(23) when(24) cornering(25) .(26) 
+		</sentence>
+		<sentence id="19">
+			The(1) 2.3(2) ,(3) while(4) it(5) seemed(6) fine(7) at(8) the(9) time(10) now(11) seems(12) inadequate(13) after(14) 6(15) months(16) with(17) the(18) new(19) 3.0(20) liter(21) in_the_330(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) 're(3) NOT(4) the(5) type(6) to(7) pitch(8) a(9) car(10) through(11) corners(12) ((13) you(14) know(15) who(16) you(17) are(18) )(19) ,(20) the(21) 2.3(22) should(23) be(24) fine(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			If(1) the(2) choice(3) is(4) between(5) the(6) 2.3(7) or(8) the(9) 2.8(10) and(11) you(12) 're(13) a(14) driving(15) enthusiast(16) ,(17) go(18) with(19) the(20) 2.8(21) .(22) 
+		</sentence>
+		<sentence id="22">
+			The(1) clutch(2) ,(3) again(4) drawing(5) a(6) comparison(7) to(8) the(9) 330(10) ,(11) seems(12) too(13) soft(14) .(15) 
+			<opinion polarity="-" feature="clutch" featWords="2" opWords="13,14"/>
+		</sentence>
+		<sentence id="23">
+			The(1) 330(2) feels(3) "(4) tight(5) "(6) and(7) I(8) 've(9) only(10) put(11) 13000_miles(12) on(13) the(14) Z3(15) ,(16) so(17) it(18) 's(19) not(20) any(21) type(22) of(23) wear(24) .(25) 
+		</sentence>
+		<sentence id="24">
+			The(1) traction(2) control(3) seems(4) eager(5) to(6) kick(7) in(8) ,(9) and(10) I(11) find(12) myself(13) just(14) turning(15) it(16) off(17) when(18) the(19) weather(20) 's(21) clear(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			Visibility(1) with(2) the(3) top(4) up(5) seems(6) poor(7) -(8) the(9) plastic(10) rear(11) window(12) does(13) not(14) help(15) matters(16) much(17) .(18) 
+			<opinion polarity="-" feature="visibility" featWords="1" opWords="7"/>
+		</sentence>
+		<sentence id="26">
+			It(1) scratches(2) very(3) easily(4) ,(5) and(6) mine(7) 's(8) already(9) developed(10) marks(11) from(12) just(13) having(14) the(15) top(16) down(17) .(18) 
+			<opinion polarity="-" feature="car" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="27">
+			Although(1) buying(2) a(3) hardtop(4) from(5) the(6) dealership(7) for(8) it(9) now(10) does(11) not(12) make(13) sense(14) ,(15) it(16) may(17) be(18) worthwhile(19) if(20) your(21) area(22) does(23) not(24) have(25) "(26) beach(27) "(28) weather(29) 7(30) months(31) of(32) the(33) year(34) or(35) you(36) can(37) locate(38) a(39) used(40) one(41) .(42) 
+		</sentence>
+		<sentence id="28">
+			Aside(1) from(2) that(3) and(4) the(5) speakers(6) ,(7) I(8) 've(9) not(10) had(11) any(12) real(13) problems(14) with(15) the(16) car(17) at(18) all(19) .(20) 
+		</sentence>
+		<sentence id="29">
+			Bottom(1) line(2) -(3) I(4) love(5) most(6) things(7) about(8) the(9) car(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			I(1) 'm(2) considering(3) another(4) one(5) ,(6) probably(7) before(8) the(9) lease(10) is(11) up(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			If(1) I(2) do(3) end(4) up(5) going(6) with(7) another(8) Z3(9) ,(10) I(11) 'm(12) sure(13) to(14) choose(15) either(16) one(17) with(18) the(19) 3.0(20) engine(21) or(22) the(23) M_Roadster(24) .(25) 
+		</sentence>
+		<sentence id="32">
+			A(1) couple(2) thousand(3) dollars(4) in(5) options(6) would(7) probably(8) have(9) made(10) all(11) the(12) difference(13) with(14) this(15) one(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 36000(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) 2.3(14) Roadster(15) 
+		</sentence>
+	</text>
+</review>

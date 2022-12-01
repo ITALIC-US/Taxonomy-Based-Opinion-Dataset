@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="81" item="2003 Volvo S40" rating="5">
+	<title>
+		<sentence id="1">
+			2003(1) Volvo(2) S40(3) -(4) Compact_Interior(5) ,(6) But_Stylish(7) and(8) Safe(9) 
+			<opinion polarity="+" feature="safety" opWords="9"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) seats(2) ,(3) styling(4) ,(5) fuel(6) consumption(7) ,(8) power(9) ,(10) standard(11) features(12) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) is(2) small(3) ,(4) priced(5) on(6) top(7) of(8) roomier(9) Japanese(10) competition(11) ,(12) no(13) fixed(14) 2ng(15) gear(16) 
+			<opinion polarity="-" feature="interior" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) might(2) be(3) able(4) to(5) get(6) a(7) bigger(8) and(9) possibly(10) more(11) reliable(12) car(13) with(14) more(15) options(16) for(17) the(18) same(19) amount(20) of(21) money(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			But(1) it(2) will(3) not(4) ...(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) immediately(2) have(3) to(4) say(5) that(6) if(7) you(8) want(9) a(10) roomy(11) car(12) ,(13) the(14) S40(15) might(16) disappoint(17) you(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			Maybe(1) this(2) is(3) one(4) of(5) the(6) reasons(7) the(8) Volvo(9) S40(10) is(11) not(12) as(13) popular(14) in(15) the(16) US(17) as(18) it(19) is(20) in(21) Europe(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			In(1) Europe(2) ,(3) the(4) cars(5) of(6) the(7) S40(8) size(9) are(10) considered(11) family(12) cars(13) because(14) they(15) are(16) roomy(17) enough(18) ,(19) are(20) easy(21) to(22) park(23) ,(24) have(25) good(26) fuel(27) consumption(28) and(29) drive(30) well(31) .(32) 
+			<opinion polarity="+" feature="ride quality" opWords="30,31"/>
+			<opinion polarity="+" feature="gas" featWords="27,28" opWords="26"/>
+			<opinion polarity="+" feature="car" opWords="21"/>
+			<opinion polarity="+" feature="room" opWords="17,18"/>
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) US(3) ,(4) the(5) small(6) premium(7) cars(8) are(9) a(10) tough(11) sell(12) ,(13) unless(14) they(15) are(16) trendy(17) or(18) prestigious(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) S40(2) is(3) neither(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			Although(1) German(2) carmakers(3) sell(4) relatively(5) small(6) sedans(7) here(8) successfully(9) ((10) Audi(11) A4(12) ,(13) BMW(14) 3-Series(15) )(16) ,(17) those(18) sedans(19) have(20) more(21) interior(22) room(23) and(24) bear(25) more(26) prestigious(27) nameplates(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) uses(3) 1.9-liter(4) turbocharged(5) engine(6) that(7) produces(8) 170(9) hp(10) and(11) 177(12) lb-ft(13) of(14) torque(15) ((16) at(17) low(18) 1800(19) rpm(20) )(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) ,(2) the(3) torque(4) is(5) being(6) applied(7) to(8) the(9) front(10) tires(11) ((12) it(13) is(14) a(15) front-wheel(16) drive(17) car(18) )(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) rides(3) on(4) 15-inch(5) wheels(6) with(7) 195/60R15(8) tires(9) ,(10) which(11) squeal(12) if(13) you(14) use(15) a_bit(16) too(17) much(18) gas(19) exiting(20) a(21) corner(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) 1.9-liter(2) low-pressure(3) turbo(4) 4-cylinder(5) engine(6) is(7) connected(8) to(9) a(10) 5-speed(11) auto(12) transmission(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Other(1) standard(2) features(3) include(4) a(5) CD(6) player(7) ,(8) power(9) windows(10) ,(11) door(12) locks(13) and(14) mirrors(15) ,(16) climate(17) control(18) ,(19) ABS(20) ,(21) cruise(22) control(23) ,(24) alloy(25) wheels(26) ,(27) full(28) array(29) of(30) airbags(31) ((32) front(33) ,(34) side(35) and(36) head(37) )(38) ,(39) Volvo(40) s(41) Whiplash_Protection_System(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			The(1) keyless(2) entry(3) with(4) security(5) system(6) and(7) remote(8) trunk(9) release(10) is(11) also(12) present(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) get(3) optional(4) features(5) ranging(6) from(7) a(8) sunroof(9) ,(10) trip(11) computer(12) and(13) power(14) seats(15) to(16) leather(17) interior(18) and(19) CD(20) changer(21) .(22) 
+			<opinion polarity="+" feature="interior" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="14">
+			Driving(1) One(2) thing(3) that(4) disappoints(5) me(6) is(7) rearward(8) visibility(9) both(10) directly(11) rearward(12) and(13) rear-sidewise(14) ((15) obstructed(16) by(17) the(18) C-pillars(19) )(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			The(1) car(2) drives(3) well(4) with(5) well-damped(6) body(7) motions(8) and(9) not(10) much(11) body(12) roll(13) in(14) turns(15) .(16) 
+			<opinion polarity="+" feature="ride quality" opWords="3,4"/>
+		</sentence>
+		<sentence id="16">
+			The(1) acceleration(2) and(3) is(4) impressive(5) as(6) is(7) the(8) fuel(9) economy(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			The(1) throttle(2) feels(3) a_bit(4) artificial(5) ,(6) however(7) ,(8) there(9) is(10) not-so(11) direct(12) relation(13) between(14) the(15) pedal(16) travel(17) and(18) acceleration(19) /(20) engine(21) response(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			As(1) I(2) mentioned(3) before(4) ,(5) the(6) relatively(7) narrow(8) 195/60R15(9) tires(10) squeal(11) exiting(12) turns(13) and(14) are(15) barely(16) adequate(17) for(18) the(19) 170-hp/177-lb-ft(20) front-driver(21) .(22) 
+			<opinion polarity="-" feature="tire" featWords="10" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="19">
+			Especially(1) since(2) the(3) engine(4) develops(5) 177(6) lb-ft(7) of(8) torque(9) from(10) the(11) low(12) revs(13) of(14) 1800(15) rpm(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			The(1) turbocharged(2) engine(3) works(4) well(5) in(6) the(7) mountains(8) ((9) where(10) it(11) can(12) compensate(13) for(14) lower(15) air(16) density(17) )(18) and(19) the(20) transmission(21) downshifts(22) as(23) needed(24) quite(25) well(26) .(27) 
+			<opinion polarity="+" feature="engine" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="21">
+			However(1) ,(2) the(3) 5-speed(4) automatic(5) transmission(6) does(7) not(8) have(9) the(10) second(11) gear(12) manual(13) selection(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			You(1) can(2) select(3) first(4) gear(5) ((6) "(7) L(8) "(9) )(10) ,(11) 1-3(12) range(13) ((14) "(15) 3(16) "(17) )(18) ,(19) 1-4(20) range(21) or(22) 1-5(23) ((24) "(25) D(26) "(27) )(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) no(3) "(4) 2(5) "(6) position(7) for(8) the(9) 1-2(10) range(11) ,(12) which(13) would(14) be(15) very(16) useful(17) in(18) the(19) mountains(20) going(21) downhill(22) as(23) the(24) first(25) gear(26) is(27) too(28) slow(29) and(30) the(31) third(32) does(33) not(34) provide(35) enough(36) engine(37) braking(38) .(39) 
+		</sentence>
+		<sentence id="24">
+			The(1) instruments(2) are(3) legible(4) and(5) the(6) controls(7) are(8) quite(9) ergonomic(10) overall(11) .(12) 
+			<opinion polarity="+" feature="controls" featWords="7" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="gauges" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			The(1) seats(2) are(3) excellent(4) if(5) a(6) little(7) small(8) .(9) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			But(1) the(2) interior(3) space(4) is(5) not(6) designed(7) for(8) a(9) typical(10) family(11) in(12) the(13) US(14) and(15) the(16) legroom(17) is(18) at(19) premium(20) all(21) around(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			The(1) car(2) is(3) rated(4) at(5) 22_miles(6) per(7) gallon(8) in(9) the(10) city(11) and(12) 30(13) MPG(14) in(15) the(16) highway(17) driving(18) .(19) 
+		</sentence>
+		<sentence id="28">
+			The(1) premium(2) gasoline(3) is(4) recommended(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			Interior_The(1) interior(2) is(3) well(4) constructed(5) and(6) is(7) very(8) functional(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="30">
+			The(1) radio(2) has(3) good(4) reception(5) as(6) it(7) employs(8) a(9) telescopic(10) antenna(11) that(12) extends(13) by(14) means(15) of(16) an(17) electric(18) motor(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			The(1) CD(2) player(3) and(4) speakers(5) provide(6) good(7) sound(8) with(9) good(10) imaging(11) and(12) frequency(13) response(14) .(15) 
+			<opinion polarity="+" feature="sound system" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="32">
+			The(1) air(2) conditioning(3) is(4) effective(5) ((6) it(7) is(8) controlled(9) by(10) three(11) round(12) dials(13) )(14) and(15) does(16) not(17) affect(18) the(19) engine(20) output(21) much(22) ,(23) even(24) in(25) the(26) mountains(27) .(28) 
+			<opinion polarity="+" feature="ac" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="33">
+			Styling_Unlike(1) some(2) people(3) ,(4) I(5) like(6) the(7) S40(8) s(9) European(10) styling(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			Although(1) it(2) is(3) not(4) as(5) athletic(6) as(7) Audi(8) s(9) recent(10) designs(11) ,(12) it(13) is(14) cute(15) ,(16) functional(17) ,(18) tasteful(19) and(20) very(21) ...(22) Swedish(23) ?(24) 
+			<opinion polarity="+" feature="design" opWords="19"/>
+			<opinion polarity="+" feature="design" opWords="17"/>
+			<opinion polarity="+" feature="design" opWords="15"/>
+		</sentence>
+		<sentence id="35">
+			The(1) car(2) would(3) definitely(4) benefit(5) from(6) bigger(7) wheels(8) and(9) tires(10) ((11) both(12) from(13) the(14) styling(15) prospective(16) and(17) in(18) handling(19) )(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			Trunk_The(1) trunk(2) is(3) surprisingly(4) roomy(5) and(6) the(7) trunk(8) lid(9) has(10) an(11) inside(12) handle(13) for(14) closing(15) it(16) without(17) having(18) to(19) touch(20) the(21) outside_of(22) the(23) lid(24) .(25) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="37">
+			But(1) to(2) open(3) the(4) trunk(5) ,(6) you(7) have(8) to(9) push(10) the(11) chromed(12) button(13) on(14) the(15) outside_of(16) it(17) ,(18) unlike(19) many(20) cars(21) where(22) unlocking(23) the(24) trunk(25) actually(26) pops(27) it(28) slightly(29) open(30) .(31) 
+		</sentence>
+		<sentence id="38">
+			The(1) gas-filled(2) struts(3) do(4) not(5) intrude(6) in(7) the(8) cargo(9) space(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			The(1) rear(2) seats(3) fold(4) flat(5) if(6) you(7) need(8) to(9) transport(10) larger(11) items(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			The(1) trunk(2) opening(3) is(4) a_bit(5) narrow(6) ,(7) however(8) .(9) 
+		</sentence>
+		<sentence id="41">
+			Warranty_The(1) car(2) is(3) warranted(4) for(5) 48(6) months(7) or(8) 50,000_miles(9) ((10) both(11) basic(12) and(13) powertrain(14) warranty(15) )(16) .(17) 
+		</sentence>
+		<sentence id="42">
+			The(1) rust(2) warranty(3) is(4) 96(5) months(6) or(7) unlimited(8) miles(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			The(1) powertrain(2) warranty(3) seems(4) a_bit(5) short(6) in(7) light(8) of(9) the(10) Mitsubishi(11) 's(12) or(13) Hyundai(14) 's(15) 120-month(16) 100,000-mile(17) warranty(18) ,(19) or(20) even(21) the(22) 60-month/60,000-mile(23) powertrain(24) warranty(25) for(26) many(27) other(28) makers(29) .(30) 
+		</sentence>
+		<sentence id="44">
+			Maintenance_The(1) recommended(2) maintenance(3) intervals(4) are(5) 7,500_miles(6) and(7) mostly(8) consist(9) of(10) oil(11) changes(12) ,(13) tire(14) rotations(15) and(16) routine(17) inspections(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			The(1) recommended(2) oil(3) ((4) 5W40(5) )(6) is(7) difficult(8) to(9) find(10) at(11) Wal-Mart(12) or(13) elsewhere(14) ,(15) however(16) ((17) if(18) you(19) need(20) to(21) add(22) it(23) )(24) .(25) 
+		</sentence>
+		<sentence id="46">
+			Unlike(1) the(2) 2004-year(3) models(4) ,(5) which(6) come(7) with(8) free(9) scheduled(10) maintenance(11) for(12) the(13) first(14) 36(15) months(16) or(17) 36,000_miles(18) ,(19) with(20) the(21) 2003-year(22) models(23) you(24) have(25) to(26) pay(27) for(28) the(29) service(30) .(31) 
+		</sentence>
+		<sentence id="47">
+			Pricing_The(1) S40(2) has(3) sold(4) at(5) steep(6) discounts(7) off(8) the(9) MSRP(10) and(11) tend(12) to(13) depreciate(14) quickly(15) .(16) 
+		</sentence>
+		<sentence id="48">
+			You(1) should(2) be(3) able(4) to(5) find(6) a(7) slightly(8) used(9) S40(10) for(11) a(12) very(13) reasonable(14) amount(15) of(16) money(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			Bottom_Line_You(1) might(2) be(3) able(4) to(5) get(6) a(7) bigger(8) and(9) possibly(10) more(11) reliable(12) car(13) with(14) more(15) options(16) for(17) the(18) same(19) amount(20) of(21) money(22) .(23) 
+		</sentence>
+		<sentence id="50">
+			But(1) it(2) will(3) not(4) be(5) as(6) original(7) ,(8) stylish(9) or(10) have(11) more(12) comfortable(13) seats(14) .(15) 
+		</sentence>
+		<sentence id="51">
+			If(1) size(2) is(3) not(4) a(5) problem(6) ,(7) the(8) S40(9) may(10) be(11) a(12) good(13) choice(14) .(15) 
+		</sentence>
+		<sentence id="52">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) N(7) /(8) A(9) Condition(10) :(11) NewModel_Year(12) :(13) 2003(14) 
+		</sentence>
+	</text>
+</review>

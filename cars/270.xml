@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="270" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) family(2) will(3) be(4) happy(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) ,(2) do(3) not(4) have(5) to(6) worry(7) about(8) it(9) getting(10) stolen(11) ,(12) stereo(13) system(14) ,(15) children(16) are(17) safe(18) .(19) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			2(1) more(2) years(3) until(4) license(5) for(6) me(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) your(2) going(3) to(4) buy(5) a(6) car(7) ,(8) I(9) think(10) it(11) should(12) be(13) the(14) Maxima(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			WHY(1) ?(2) 1(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			The(1) Sport_Edition(2) ((3) SE(4) )(5) starts(6) at(7) 23,849(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			That(1) is(2) not(3) much(4) according_to(5) some(6) other(7) cars(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			With(1) all(2) the(3) extra(4) features(5) it(6) will(7) cost(8) 29,979(9) .(10) 2(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Safety(1) features(2) .(3) 
+		</sentence>
+		<sentence id="7">
+			I(1) bet(2) everyone(3) wants(4) to(5) keep(6) themselves(7) and(8) their(9) friends(10) and(11) family(12) safe(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) air(3) bags(4) ,(5) side(6) air(7) bags(8) ,(9) active(10) head(11) restraints(12) that(13) reduce(14) whiplash(15) injuries(16) ,(17) LATCH_SYSTEM(18) secures(19) kids(20) without(21) seatbelts(22) ,(23) and(24) Immobilizer_System(25) that(26) makes(27) it(28) impossible(29) for(30) a(31) person(32) to(33) steal(34) your(35) car(36) .(37) 3(38) .(39) 
+		</sentence>
+		<sentence id="9">
+			The(1) 222(2) horsepower(3) V6(4) engine(5) is(6) better(7) than(8) the(9) 200(10) horsepower(11) Accord(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) Maxima(2) and(3) the(4) Accord(5) are(6) a_lot(7) alike(8) ,(9) but(10) the(11) Maxima(12) wins(13) here(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			The(1) Maxima(2) also(3) is(4) a(5) good(6) braking(7) and(8) handling(9) car(10) .(11) 4(12) .(13) 
+			<opinion polarity="+" feature="brakes" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			The(1) interior(2) is(3) great(4) .(5) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			Heated(1) power(2) seats(3) ,(4) flush(5) vents(6) ,(7) dual(8) level(9) armrest(10) ,(11) split(12) rear(13) seat(14) ,(15) steering(16) wheel(17) mounted(18) control(19) ,(20) automatic(21) temperature(22) control(23) ,(24) auto(25) dimming(26) rear(27) view(28) mirror(29) ,(30) and(31) Bose(32) audio(33) system(34) .(35) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="14">
+			I(1) do(2) not(3) know(4) what(5) else(6) to(7) tell(8) you(9) ,(10) but(11) if(12) you(13) want(14) more(15) you(16) could(17) always(18) go(19) to(20) there(21) wabsite(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			That(1) 's(2) what(3) i(4) did(5) .(6) 
+		</sentence>
+	</text>
+</review>

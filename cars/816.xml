@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="816" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			Do(1) you(2) get(3) snow(4) ?(5) 
+		</sentence>
+		<sentence id="2">
+			Then(1) do(2) not(3) buy(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Exterior(1) style(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Miles(1) per(2) gallon(3) ,(4) windshield(5) performance(6) in(7) winter(8) !(9) !(10) !(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fine(1) driving(2) if(3) you(4) only(5) want(6) it(7) for(8) the(9) city(10) without(11) snow(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Overall(1) avoid(2) it(3) .(4) 
+			<opinion polarity="-" feature="car" featWords="3" featRef="car" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) Chevy_Equinox_LT_AWD(4) in(5) December(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Here(1) are(2) my(3) thoughts(4) :(5) 1(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Where(1) 's(2) the(3) 19-25mpg(4) ?(5) 
+		</sentence>
+		<sentence id="4">
+			I(1) 'm(2) getting(3) 16.5(4) max(5) !(6) 
+		</sentence>
+		<sentence id="5">
+			The(1) Mountaineer_I(2) was(3) looking(4) at(5) got(6) better(7) than(8) that(9) and(10) its(11) a(12) full(13) size(14) SUV(15) .(16) 2(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Snow(1) and(2) the(3) windshield(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			So(1) it(2) snows(3) and(4) you(5) wake(6) up(7) and(8) go(9) out(10) to(11) clean(12) off(13) your(14) car(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) first(2) thing(3) you(4) notice(5) is(6) that(7) the(8) windshield(9) is(10) set(11) into(12) the(13) body(14) so(15) you(16) can(17) not(18) just(19) wipe(20) the(21) snow(22) away(23) ,(24) you(25) need(26) to(27) DIG(28) it(29) out(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			How(1) annoying(2) .(3) 
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="10">
+			So(1) then(2) you(3) get(4) on(5) the(6) road(7) and(8) start(9) driving(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			You(1) come(2) to(3) a(4) light(5) and(6) stop(7) ,(8) snow(9) comes(10) from(11) the(12) roof(13) and(14) slides(15) down(16) the(17) windshield(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			No(1) big(2) deal(3) ,(4) turn(5) on(6) the(7) wipers(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Well(1) ,(2) since(3) the(4) windshield(5) is(6) set(7) into(8) the(9) car(10) ,(11) the(12) wipers(13) can(14) not(15) push(16) the(17) snow(18) away(19) and(20) it(21) piles(22) up(23) into(24) the(25) corner(26) until(27) you(28) have(29) to(30) stop(31) your(32) car(33) ,(34) get(35) out(36) ,(37) and(38) dig(39) out(40) the(41) passenger(42) corner(43) of(44) the(45) windshield(46) .(47) 
+		</sentence>
+		<sentence id="14">
+			Ok(1) ,(2) now(3) you(4) start(5) moving(6) again(7) and(8) you(9) notice(10) that(11) the(12) windshield(13) wipers(14) froze(15) because(16) they(17) are(18) too(19) far(20) below(21) the(22) line(23) of(24) the(25) defrost(26) and(27) the(28) sides(29) of(30) the(31) windshield(32) still(33) have(34) ice(35) on(36) them(37) because(38) the(39) defroster(40) does(41) not(42) reach(43) unless(44) its(45) on(46) high(47) .(48) 3(49) .(50) 1(51) st(52) day(53) I(54) had(55) it(56) ,(57) my(58) lock(59) froze(60) on(61) the(62) rear(63) passenger(64) door(65) .(66) 
+		</sentence>
+		<sentence id="15">
+			I(1) looked(2) at(3) everyone(4) else(5) leaving(6) the(7) parking(8) lot(9) ,(10) none(11) of(12) their(13) locks(14) were(15) frozen(16) ...(17) :(18) ((19) 4(20) .(21) Did(22) I(23) mention(24) gas(25) mileage(26) ?(27) It(28) sucks(29) enough(30) to(31) mention(32) again(33) .(34) 5(35) .(36) Materials(37) are(38) cheap(39) on(40) the(41) inside(42) .(43) Amount_Paid(44) ((45) US(46) $(47) )(48) :(49) 23,600(50) Condition(51) :(52) NewModel_Year(53) :(54) 2005Model(55) and(56) Options(57) :(58) leather(59) ,(60) 7(61) speaker(62) stereo(63) ,(64) 6(65) CD(66) ,(67) tow(68) package(69) ,(70) moonroof(71) ,(72) alloy(73) wheels(74) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="98" item="1993 Lincoln Town Car" rating="5">
+	<title>
+		<sentence id="1">
+			Something_I(1) love(2) :(3) )(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfy(1) ,(2) space(3) everywhere(4) ,(5) cheap(6) ,(7) smooth(8) ,(9) and(10) good(11) handling(12) ,(13) that(14) 's(15) right(16) !(17) 
+			<opinion polarity="+" feature="handling" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="price" opWords="6"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) fall(3) apart(4) except(5) the(6) running(7) part(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) just(2) LOVE(3) it(4) !(5) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			To(1) me(2) this(3) is(4) the(5) USofA(6) :(7) big(8) ,(9) strong(10) ,(11) flawed(12) ,(13) real(14) and(15) with(16) style(17) of(18) its(19) own(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+			<opinion polarity="-" feature="car" opWords="12"/>
+			<opinion polarity="+" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="size" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			Love(1) or(2) hate(3) ,(4) but(5) never(6) ignore(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) can(2) not(3) get(4) over(5) the(6) good(7) old(8) American(9) whale(10) -(11) comfy(12) ,(13) spacious(14) ,(15) and(16) well(17) ,(18) I(19) also(20) quite(21) surprised(22) :(23) nimble(24) and(25) quick(26) ,(27) no(28) wonder(29) that(30) 's(31) the(32) de(33) facto(34) Mobsmobile(35) !(36) 
+			<opinion polarity="+" feature="speed" opWords="26"/>
+			<opinion polarity="+" feature="car" opWords="24"/>
+			<opinion polarity="+" feature="room" opWords="14"/>
+			<opinion polarity="+" feature="comfort" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			Got(1) it(2) second(3) hand(4) in_1997(5) for(6) $16,000(7) out(8) the(9) door(10) ,(11) with(12) only(13) 40,000_miles(14) on(15) it(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Love(1) it(2) !(3) 
+			<opinion polarity="+" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			But(1) like(2) love(3) of(4) any(5) sort(6) ,(7) there(8) 's(9) a(10) price(11) to(12) pay(13) -(14) repairment(15) of(16) about(17) everything(18) except(19) the(20) running(21) parts(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) runs(3) surprisingly(4) well(5) today(6) ,(7) still(8) quiet(9) ,(10) and(11) still(12) smooth(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) think(2) the(3) Caddies(4) got(5) better(6) smoother(7) transmission(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			And(1) the(2) Ford(3) V8(4) is(5) no(6) match(7) to(8) the(9) Norstar(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			But(1) ,(2) this(3) good(4) old(5) 93(6) towncar(7) is(8) fast(9) ,(10) smoothly(11) fast(12) ,(13) with(14) style(15) ,(16) and(17) nimble(18) too(19) .(20) 
+			<opinion polarity="+" feature="car" opWords="18"/>
+			<opinion polarity="+" feature="speed" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) replaced(2) four(3) shocks(4) at(5) Midas(6) because(7) the(8) originals(9) just(10) went(11) bad(12) the(13) first(14) few(15) month(16) after(17) I(18) got(19) it(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			And(1) the(2) car(3) 's(4) handling(5) is(6) superb(7) for(8) its(9) size(10) !(11) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="11">
+			Now_I(1) put(2) on(3) four(4) new(5) wheels(6) ,(7) and(8) it(9) 's(10) a(11) champ(12) !(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) drove(2) 98(3) Mercedes(4) S430(5) ,(6) and(7) 1999(8) BMW(9) 740(10) ,(11) and(12) various(13) Caddies(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			My(1) impression(2) ?(3) 
+		</sentence>
+		<sentence id="14">
+			Town(1) car(2) is(3) the(4) best(5) handling(6) of(7) them(8) all(9) !(10) 
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			And(1) I(2) do(3) know(4) a_bit(5) about(6) handling(7) because(8) I(9) also(10) owned(11) Acura_GSR(12) and(13) Maxima_SE(14) with(15) stick(16) ,(17) and(18) Honda_Magna(19) and(20) CBR600F4(21) bikes(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			The(1) other(2) problem(3) besides(4) paying(5) for(6) fixing(7) ,(8) well(9) ,(10) too(11) many(12) to(13) list(14) ((15) Total(16) about(17) $5000(18) and(19) now(20) my(21) power(22) windows(23) are(24) not(25) working(26) in(27) the(28) rear(29) and(30) I(31) will(32) leave(33) it(34) !(35) )(36) is(37) that(38) I(39) tend(40) to(41) fall(42) asleep(43) while(44) driving(45) it(46) for(47) long(48) :(49) )(50) Just(51) too(52) smooth(53) !(54) 
+			<opinion polarity="+" feature="car" opWords="52,53"/>
+		</sentence>
+		<sentence id="17">
+			And(1) I(2) got(3) the(4) big(5) whale(6) to(7) 90m/hr(8) easy(9) with(10) the(11) regular(12) unlead(13) drinking(14) 190(15) hp(16) V8(17) ,(18) with(19) average(20) about(21) 20ml/gl(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			And(1) there(2) 's(3) just(4) no(5) match(6) from(7) other(8) cars(9) as(10) far(11) as(12) the(13) trunk(14) space(15) is(16) concerned(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			But(1) it(2) does(3) require(4) some(5) strength(6) to(7) PULL(8) the(9) heavy(10) items(11) out(12) from(13) the(14) deep(15) trunk(16) though(17) .(18) 
+			<opinion polarity="+" feature="trunk" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="20">
+			do(1) not(2) know(3) anything(4) about(5) the(6) new(7) models(8) ((9) since(10) 98(11) ?(12) )(13) and(14) I(15) hate(16) the(17) look(18) of(19) the(20) new(21) ones(22) .(23) 
+		</sentence>
+		<sentence id="21">
+			do(1) not(2) know(3) what(4) to(5) make(6) of(7) them(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			Too(1) bad(2) now(3) I(4) have(5) to(6) switch(7) if(8) this(9) good(10) old(11) buddy(12) goes(13) down(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			But(1) sure(2) I(3) will(4) not(5) go(6) for(7) the(8) new(9) Towncar(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			They(1) should(2) drop(3) the(4) name(5) plate(6) too(7) at(8) Lincohn(9) -(10) because(11) they(12) betrayed(13) the(14) heritage(15) of(16) the(17) towncar(18) !(19) 
+		</sentence>
+		<sentence id="25">
+			How(1) about(2) LinXes(3) weirdo(4) ?(5) 
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) Executive(16) V8(17) 190(18) hp(19) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="147" item="Westgate Lakes Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Bad(1) ,(2) Bad(3) ,(4) Bad(5) !(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Liars(1) ,(2) rude(3) manager(4) ,(5) crapy(6) customer(7) service(8) ,(9) disespect(10) gests(11) 
+			<opinion polarity="-" feature="front desk" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) imagine(3) nothing(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) visiting(3) Orlando(4) with(5) my(6) wife(7) when(8) a(9) salesman(10) approach(11) us(12) at(13) the(14) Orlando_Premium_Outlet(15) with(16) a(17) apparent(18) good(19) deal(20) :(21) If(22) we(23) just(24) take(25) a(26) one(27) our(28) tour(29) at(30) the(31) hotel(32) we(33) would(34) receive(35) a(36) $100(37) discount(38) to(39) visit(40) any(41) Disney(42) park(43) .(44) 
+		</sentence>
+		<sentence id="2">
+			I(1) usually(2) do(3) not(4) appreciate(5) these(6) kind(7) of(8) odd(9) offers(10) but(11) as(12) the(13) guy(14) seemed(15) to(16) be(17) somewhat(18) trustable(19) we(20) decided(21) to(22) go(23) for(24) it(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			They(1) checked(2) all(3) my(4) docs(5) ,(6) including(7) visa(8) and(9) drive(10) license(11) and(12) ensured(13) that(14) we(15) qualify(16) for(17) the(18) discount(19) and(20) INVITED(21) us(22) to(23) go(24) to(25) the(26) tour(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			After(1) we(2) arrived(3) at(4) the(5) hotel(6) they(7) checked(8) our(9) docs(10) again(11) and(12) confirmed(13) that(14) everything(15) was(16) normal(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Then(1) ,(2) an(3) extremely(4) rude(5) manager(6) appear(7) and(8) told(9) us(10) that(11) we(12) did(13) not(14) qualify(15) to(16) the(17) discount(18) because(19) we(20) were(21) Brazilian(22) citizens(23) .(24) 
+			<opinion polarity="-" feature="front desk" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			And(1) ...(2) believe(3) !(4) 
+		</sentence>
+		<sentence id="7">
+			He(1) asked(2) us(3) to(4) leave(5) the(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			I(1) never(2) saw(3) such(4) inhospitality(5) in(6) my(7) life(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			These(1) people(2) are(3) evil(4) ,(5) rude(6) and(7) dishonest(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			You(1) better(2) stay(3) miles(4) away(5) from(6) this(7) company(8) .(9) 
+		</sentence>
+	</text>
+</review>

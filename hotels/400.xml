@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="400" item="Ambassador Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Staff(1) is(2) as(3) smart(4) and(5) hard(6) working(7) as(8) Anna_Nicole_Smith(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Distinctive(1) "(2) New_Orleans(3) "(4) look(5) and(6) feel(7) ,(8) large(9) rooms(10) ,(11) great(12) location(13) 
+			<opinion polarity="+" feature="rooms" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="place" featWords="13" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Staff(1) is(2) horrible(3) ,(4) dishonest(5) ,(6) hotel(7) is(8) old(9) ,(10) very(11) noisy(12) 
+			<opinion polarity="-" feature="staff" featWords="1" opWords="3"/>
+			<opinion polarity="-" feature="staff" featWords="1" opWords="5"/>
+			<opinion polarity="-" feature="hotel" featWords="7" opWords="9"/>
+			<opinion polarity="-" feature="hotel" featWords="7" opWords="12" potency="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Rooms(1) with(2) the(3) distinctive(4) character(5) of(6) New_Orleans(7) ,(8) and(9) staff(10) with(11) the(12) politeness(13) of(14) a(15) French(16) waiter(17) !(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) just(3) start(4) by(5) saying(6) these(7) people(8) ((9) staff(10) of(11) hotel(12) )(13) are(14) simply(15) not(16) to(17) be(18) believed(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) rude(3) ,(4) useless(5) and(6) even(7) dishonest(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) will(2) detail(3) some(4) of(5) what(6) I(7) mean(8) in(9) a(10) moment(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			As(1) you(2) read(3) this(4) review(5) ,(6) keep(7) in(8) mind(9) that(10) I(11) was(12) in(13) New_Orleans(14) for(15) a(16) wedding(17) ((18) so(19) we(20) rented(21) a_lot_of(22) rooms(23) )(24) and(25) stayed(26) in(27) The_Ambassador_Hotel(28) for(29) 3(30) days(31) and(32) nights(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			Also(1) keep(2) in(3) mind(4) that(5) we(6) used(7) the(8) hotel(9) simply(10) as(11) a(12) place(13) to(14) stay(15) ,(16) meaning(17) they(18) did(19) not(20) rent(21) it(22) for(23) a(24) dinner(25) or(26) event(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) is(3) divided(4) into(5) 2(6) wings(7) ,(8) and(9) I(10) stayed(11) in(12) the(13) Lafayette(14) wing(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) Location_If(2) you(3) are(4) familiar(5) with(6) New_Orleans(7) you(8) would(9) probably(10) assume(11) that(12) being(13) in(14) the(15) French_Qtr(16) is(17) ideal(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			But(1) ,(2) personally(3) ,(4) I(5) prefer(6) the(7) location(8) of(9) this(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) Ambassador_Hotel(2) is(3) nestled(4) away(5) in(6) the(7) Central_Business_District(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) located(3) next(4) to(5) the(6) W_Hotel(7) and(8) across(9) from(10) the(11) famous(12) "(13) Mothers_Restaurant(14) .(15) "(16) I(17) believe(18) this(19) is(20) ideal(21) because(22) it(23) is(24) close(25) to(26) Harrah_'s_Casino(27) ,(28) while(29) being(30) about(31) 7(32) blocks(33) from(34) the(35) Quarter(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) nice(3) to(4) be(5) close(6) to(7) the(8) Quarter(9) and(10) yet(11) be(12) far(13) enough(14) away(15) to(16) avoid(17) the(18) noise(19) and(20) smell(21) of(22) garbage(23) and(24) urine(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Somehow(1) ,(2) while(3) I(4) have(5) stayed(6) at(7) the(8) W_Hotel(9) a(10) few(11) times(12) ,(13) I(14) have(15) never(16) noticed(17) The_Ambassador(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			Best(1) way(2) to(3) get(4) to(5) Ambassador(6) is(7) the(8) take(9) the(10) Central_Business_District(11) exit(12) from(13) 10(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Parking(1) $20-$30(2) per(3) day(4) is(5) not(6) unusual(7) when(8) staying(9) anywhere(10) walking(11) distance(12) from(13) the(14) Qtr(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			There(1) are(2) plenty_of(3) pay(4) lots(5) and(6) meter(7) spaces(8) ((9) for(10) hourly(11) parking(12) )(13) close(14) by(15) Ambassador(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) want(3) the(4) valet(5) service(6) you(7) can(8) pay(9) 20(10) bones(11) a(12) day(13) ((14) I(15) must(16) strongly(17) discourage(18) the(19) use(20) of(21) this(22) service(23) for(24) reasons(25) I(26) 'll(27) get(28) into(29) later(30) )(31) .(32) $20(33) is(34) not(35) bad(36) considering(37) that(38) the(39) W(40) charges(41) $28(42) and(43) Harrah(44) 's(45) $25(46) ((47) gets(48) comped(49) if(50) you(51) play(52) enough(53) )(54) .(55) 
+		</sentence>
+		<sentence id="17">
+			Room_If(1) you(2) are(3) staying(4) at(5) the(6) Ambassador(7) it(8) may(9) be(10) tough(11) to(12) know(13) exactly(14) what(15) you(16) are(17) going(18) to(19) get(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			Rooms(1) tend(2) to(3) be(4) inexplicably(5) different(6) than(7) one(8) another(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			But(1) whatever(2) you(3) get(4) I(5) can(6) assure(7) you(8) that(9) your(10) room(11) will(12) have(13) the(14) following(15) attributes(16) :(17) *(18) each(19) room(20) comes(21) with(22) its(23) own(24) strange(25) noise(26) at(27) no(28) additional(29) charge(30) ,(31) our(32) had(33) a(34) metal(35) pinging(36) noise(37) *(38) each(39) room(40) has(41) old(42) natural(43) wood(44) floors(45) and(46) Spartan(47) looking(48) ,(49) schoolhouse(50) brick(51) walls(52) ((53) for(54) lack(55) of(56) a(57) better(58) term(59) )(60) .(61) *(62) each(63) room(64) comes(65) with(66) very(67) thin(68) walls(69) between(70) them(71) ,(72) do(73) not(74) say(75) anything(76) negative(77) about(78) anyone(79) staying(80) near(81) you(82) .(83) 
+			<opinion polarity="-" feature="grounds" featWords="45" opWords="42"/>
+			<opinion polarity="-" feature="walls" featWords="69" opWords="68" potency="67"/>
+		</sentence>
+		<sentence id="20">
+			Cheers(1) :(2) -(3) about(4) the(5) tremendous(6) size(7) of(8) our(9) room(10) -(11) about(12) the(13) additional(14) sink(15) and(16) vanity(17) outside(18) the(19) bathroom(20) -(21) about(22) the(23) above(24) average(25) water(26) pressure(27) Jeers(28) :(29) -(30) about(31) the(32) incredibly(33) outdated(34) rooms(35) ...(36) chicks(37) do(38) not(39) dig(40) it(41) -(42) about(43) the(44) noise(45) -(46) about(47) the(48) thin(49) walls(50) The_Staff(51) and(52) stories(53) too(54) ridiculous(55) to(56) believe(57) So_I(58) arrive(59) in(60) NO(61) in(62) the(63) PM(64) ,(65) after(66) a(67) 6(68) hour(69) drive(70) and(71) ask(72) them(73) where(74) to(75) park(76) .(77) 
+			<opinion polarity="-" feature="rooms" featWords="35" opWords="34"/>
+			<opinion polarity="-" feature="walls" featWords="50" opWords="49"/>
+		</sentence>
+		<sentence id="21">
+			They(1) tell(2) me(3) meter(4) maid(5) does(6) not(7) come(8) until(9) 7am(10) next(11) morning(12) ,(13) and(14) to(15) park(16) in(17) the(18) metered(19) spot(20) across(21) from(22) hotel(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			Two(1) minutes(2) later(3) the(4) car(5) is(6) ticketed(7) .(8) 
+		</sentence>
+		<sentence id="23">
+			Had(1) to(2) beg(3) them(4) to(5) pay(6) 15(7) $(8) ticket(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Yet(1) I(2) remained(3) positive(4) .(5) 
+		</sentence>
+		<sentence id="25">
+			Subsequently(1) I(2) parked(3) at(4) Harrah(5) 's(6) and(7) got(8) the(9) weekend(10) comped(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			It(1) is(2) a(3) good(4) thing(5) that(6) I(7) did(8) not(9) valet(10) ,(11) because(12) my(13) buddy(14) who(15) did(16) ;(17) got(18) his(19) car(20) broken(21) into(22) ...(23) with(24) his(25) suitcase(26) for(27) the(28) next(29) trip(30) inside(31) it(32) !(33) 
+		</sentence>
+		<sentence id="27">
+			I(1) found(2) this(3) especially(4) troubling(5) considering(6) that(7) they(8) parked(9) inside(10) a(11) barbed(12) wired(13) fence(14) .(15) 
+		</sentence>
+		<sentence id="28">
+			I(1) do(2) not(3) know(4) how(5) they(6) handled(7) it(8) in(9) the(10) end(11) ,(12) but(13) I(14) do(15) know(16) that(17) up_front(18) ,(19) they(20) would(21) NOT(22) accept(23) responsibility(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			Number(1) of(2) times(3) that(4) my(5) whole(6) floor(7) got(8) locked(9) out(10) ((11) because(12) keys(13) did(14) not(15) work(16) )(17) :(18) 3(19) One(20) time(21) I(22) was(23) locked(24) out(25) ,(26) it(27) was(28) 5am(29) and(30) they(31) acted(32) like(33) they(34) were(35) doing(36) me(37) a(38) favor(39) by(40) rescanning(41) the(42) card(43) key(44) .(45) 
+		</sentence>
+		<sentence id="30">
+			That(1) night(2) I(3) came(4) home(5) drunk(6) and(7) before(8) I(9) knew(10) the(11) key(12) was(13) fried(14) ,(15) pounded(16) on(17) the(18) door(19) screaming(20) obscenities(21) .(22) 
+		</sentence>
+		<sentence id="31">
+			And(1) as(2) it(3) always(4) happens(5) ,(6) I(7) woke(8) up(9) every(10) room(11) except(12) my(13) own(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			Luckily(1) the(2) bride(3) and(4) groom(5) 's(6) families(7) were(8) on(9) a(10) separate(11) floor(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			On(1) several(2) occasions(3) they(4) simply(5) did(6) not(7) do(8) what(9) they(10) promised(11) ,(12) whether(13) it(14) was(15) comping(16) a(17) service(18) that(19) they(20) failed(21) to(22) deliver(23) or(24) simply(25) bringing(26) us(27) new(28) keys(29) that(30) worked(31) they(32) get(33) an(34) F(35) for(36) effort(37) .(38) 
+		</sentence>
+	</text>
+</review>

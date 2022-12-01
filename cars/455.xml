@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="455" item="1999 Lexus RX 300" rating="4">
+	<title>
+		<sentence id="1">
+			Right(1) on(2) my(3) Brother(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliability(1) ,(2) luxury(3) ,(4) safety(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			speed(1) ,(2) limited(3) room(4) 
+			<opinion polarity="-" feature="room" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) agree(2) totally(3) with(4) the(5) author(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) too(2) love(3) my(4) Lexus(5) .(6) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Its(1) sleek(2) ,(3) fast(4) ,(5) and(6) headturning(7) appearance(8) ,(9) certainly(10) are(11) wonderful(12) .(13) 
+			<opinion polarity="+" feature="speed" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			But(1) I(2) have(3) a(4) few(5) more(6) drawbacks(7) than(8) my(9) friend(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Its(1) acceleration(2) is(3) nice(4) ,(5) but(6) it(7) tends(8) to(9) be(10) a(11) little(12) jerky(13) when(14) switching(15) geers(16) and(17) its(18) "(19) over-taught(20) "(21) controls(22) are(23) just(24) a(25) little(26) too(27) responsive(28) for(29) my(30) tastes(31) .(32) 
+			<opinion polarity="-" feature="response" opWords="27,28" potency="26"/>
+			<opinion polarity="-" feature="car" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) lack(2) of(3) cup(4) holders(5) is(6) also(7) a(8) major(9) drawback(10) for(11) large(12) families(13) or(14) thirsty(15) drivers(16) ,(17) but(18) they(19) can(20) always(21) be(22) added(23) on(24) later(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'm(2) not(3) sure(4) if(5) its(6) just(7) my(8) dealer(9) ,(10) but(11) the(12) service(13) is(14) great(15) .(16) 
+			<opinion polarity="+" feature="service" featWords="13" opWords="15"/>
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) extremely(3) quick(4) ,(5) all(6) the(7) staff(8) are(9) usually(10) very(11) helpful(12) ,(13) and(14) its(15) surprisingly(16) affordable(17) for(18) such(19) a(20) high(21) quality(22) car(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="23" opWords="21,22"/>
+			<opinion polarity="+" feature="speed" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			Anyone(1) who(2) has(3) already(4) owned(5) a(6) lexus(7) ,(8) or(9) any(10) high(11) preformance(12) vehicle(13) ,(14) and(15) needs(16) a(17) little(18) extra(19) room(20) should(21) definately(22) buy(23) this(24) vehicle(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			Although(1) some(2) of(3) the(4) more(5) affluent(6) families(7) would(8) be(9) tempted(10) to(11) buy(12) this(13) car(14) for(15) their(16) teenager(17) because_of(18) its(19) myriad(20) of(21) safety(22) features(23) ;(24) i(25) would(26) not(27) recomend(28) it(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			First(1) off(2) ,(3) its(4) too(5) smooth(6) for(7) a(8) new(9) driver(10) to(11) acurately(12) judge(13) how(14) fast(15) he(16) or(17) she(18) is(19) actualy(20) going(21) ,(22) and(23) its(24) a(25) little(26) too(27) nice(28) to(29) be(30) banged(31) around(32) the(33) school(34) parking(35) lot(36) .(37) 
+			<opinion polarity="-" feature="car" opWords="27,28" potency="26"/>
+			<opinion polarity="-" feature="car" opWords="5,6"/>
+		</sentence>
+		<sentence id="12">
+			Overall_I(1) 'd(2) say(3) its(4) a(5) great(6) car(7) ,(8) a(9) great(10) buy(11) ,(12) and(13) a(14) great(15) driving(16) experience(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="259" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) til(4) you(5) try(6) the(7) Maxima(8) !(9) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Best(1) design(2) ,(3) quality(4) ,(5) not(6) as(7) popular(8) ((9) i(10) .(11) e(12) .(13) not(14) stolen(15) as(16) often(17) )(18) as(19) Camry(20) 's(21) or(22) Accords(23) .(24) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nothing(1) ,(2) nada(3) ,(4) zip(5) ...(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) test(2) drives(3) were(4) what(5) finally(6) won(7) me(8) over(9) and(10) I(11) 'm(12) glad(13) I(14) made(15) the(16) leap(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) has(3) just(4) about(5) everything(6) I(7) could(8) think(9) of(10) AND(11) at(12) a(13) pleasing(14) price(15) after(16) you(17) 've(18) done(19) all(20) your(21) comparison(22) research(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			First(1) off(2) ,(3) if(4) you(5) 've(6) decided(7) on(8) a(9) mid(10) size(11) sedan(12) in(13) the(14) entry(15) luxury(16) area(17) ,(18) then(19) you(20) may(21) have(22) taken(23) a(24) similar(25) route(26) and(27) ended(28) up(29) with(30) a(31) choice(32) between(33) the(34) Infiniti(35) I30(36) and(37) Nissan_Maxima(38) like(39) I(40) did(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) some(3) differences(4) which(5) led(6) me(7) to(8) select(9) the(10) GLE_Maxima(11) over(12) the(13) I30(14) Luxury_Edition(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) I30(2) is(3) more(4) luxurious(5) in(6) the(7) sense(8) it(9) has(10) a(11) longer(12) warranty(13) ((14) 4(15) vs(16) 3(17) yr(18) )(19) ,(20) better(21) service(22) ((23) from(24) what(25) I(26) 've(27) heard(28) )(29) ,(30) a(31) higher(32) price(33) ((34) perhaps(35) 2(36) or(37) 3_thousand(38) on(39) the(40) configuration(41) I(42) was(43) looking(44) at(45) )(46) and(47) more(48) features(49) .(50) 
+		</sentence>
+		<sentence id="6">
+			The(1) feature(2) differences(3) I(4) noted(5) included(6) :(7) an(8) automatic(9) rear(10) window(11) sunshade(12) ,(13) front(14) driver(15) seat(16) memory(17) position(18) ,(19) additional(20) dashboard(21) storage(22) area(23) ,(24) the(25) Infiniti(26) analog(27) clock(28) ,(29) auto(30) seat(31) positioning(32) upon(33) entry(34) and(35) exit(36) ,(37) additional(38) right(39) front(40) passenger(41) cup(42) holder(43) ,(44) additional(45) four_inch(46) body(47) length(48) ,(49) leather(50) covered(51) interior(52) handles(53) .(54) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) however(2) ,(3) because(4) they(5) are(6) based(7) on(8) the(9) same(10) platform(11) ,(12) the(13) layout(14) ,(15) design(16) ,(17) engine(18) ,(19) durasteel(20) paneling(21) materials(22) ((23) not(24) shape(25) )(26) seem(27) to(28) be(29) very(30) similar(31) if_not(32) identical(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			Someone(1) mentioned(2) to(3) me(4) that(5) the(6) I30(7) also(8) had(9) better(10) insulation(11) for(12) a(13) quieter(14) drive(15) but(16) I(17) noticed(18) no(19) difference(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) five(2) additional(3) hp(4) engine(5) I(6) think(7) would(8) also(9) be(10) unnoticeable(11) for(12) the(13) majority(14) of(15) drivers(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) the(3) extra(4) features(5) from(6) a(7) personal(8) standpoint(9) were(10) unnecessary(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			You(1) can(2) get(3) similar(4) options(5) on(6) the(7) GLE_Maxima(8) to(9) be(10) configured(11) like(12) an(13) I30(14) w(15) /(16) heated(17) seats(18) ,(19) side(20) airbags(21) and(22) still(23) come(24) up(25) 2(26) to(27) 3_thousand(28) less(29) .(30) 
+			<opinion polarity="+" feature="seat" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="12">
+			I(1) went(2) for(3) the(4) more(5) practical(6) ,(7) more(8) sporty(9) designed(10) Maxima(11) as(12) might(13) other(14) 20-30(15) yr(16) old(17) single(18) guys(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			I(1) could(2) however(3) see(4) those(5) who(6) would(7) opt(8) for(9) a(10) more(11) luxurious(12) ,(13) chrome(14) grilled(15) /(16) trimed(17) version(18) of(19) the(20) same(21) car(22) though(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) deciding(2) factors(3) here(4) are(5) admittedly(6) subjective(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			I(1) eliminated(2) the(3) other(4) higher(5) priced(6) and(7) lower(8) priced(9) sedans(10) ((11) Mercedes(12) ,(13) BMW(14) ,(15) Toyota_Camry(16) ,(17) Honda_Accord(18) )(19) based(20) on(21) feel(22) and(23) design(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			The(1) I30(2) and(3) Maxima(4) gave(5) a(6) feeling(7) of(8) greater(9) spaciousness(10) with(11) the(12) dashboard(13) curving(14) away(15) from(16) the(17) front(18) seat(19) occupants(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			The(1) driver(2) "(3) cockpit(4) "(5) has(6) the(7) dashboard(8) placement(9) and(10) steering(11) wheel(12) placed(13) in(14) ways(15) you(16) could(17) tell(18) were(19) ergonomically(20) tested(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			The(1) engine(2) I(3) do(4) not(5) need(6) to(7) say(8) has(9) 222(10) hp(11) ((12) 227(13) on(14) the(15) I30(16) )(17) which(18) makes(19) passing(20) /(21) acceleration(22) sheer(23) pleasure(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			I(1) can(2) only(3) compare(4) this(5) to(6) the(7) electric(8) vehicles(9) I(10) 've(11) driven(12) which(13) accelerate(14) fast(15) but(16) so(17) smoothly(18) and(19) quietly(20) it(21) feels(22) like(23) you(24) 've(25) got(26) the(27) wind(28) behind(29) you(30) on(31) an(32) America_'s_Cup(33) race(34) .(35) 
+			<opinion polarity="+" feature="acceleration" opWords="14,15"/>
+		</sentence>
+		<sentence id="20">
+			The(1) rear(2) passenger(3) space(4) as_well(5) as(6) the(7) trunk(8) have(9) also(10) been(11) enlarged(12) though(13) from(14) the(15) outside(16) you(17) can(18) not(19) tell(20) the(21) difference(22) from(23) the(24) '(25) 96(26) Maxima(27) and(28) the(29) '(30) 00(31) Maxima(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			Lastly(1) ,(2) I(3) would(4) suggest(5) considering(6) ordering(7) through(8) the(9) Internet_i(10) .(11) e(12) .(13) carorder(14) .(15) com(16) if(17) you(18) 're(19) looking(20) to(21) save(22) an(23) additional(24) thousand(25) or(26) so(27) ((28) below(29) invoice(30) !(31) )(32) .(33) 
+		</sentence>
+		<sentence id="22">
+			Something(1) to(2) think(3) about(4) and(5) definitely(6) worth(7) a(8) test(9) drive(10) around(11) the(12) block(13) or(14) two(15) .(16) 
+		</sentence>
+	</text>
+</review>

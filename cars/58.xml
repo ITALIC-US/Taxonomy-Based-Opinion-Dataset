@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="58" item="2003 Mercury Marauder" rating="5">
+	<title>
+		<sentence id="1">
+			Big(1) ,(2) bad(3) and(4) black(5) 
+			<opinion polarity="+" feature="size" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) sounds(2) ,(3) great(4) look(5) ,(6) smooth(7) at(8) high(9) speed(10) ,(11) and(12) real(13) acceleration(14) .(15) 
+			<opinion polarity="+" feature="acceleration" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Maybe(1) a(2) little(3) clumsy(4) on(5) rough(6) surfaced(7) corners(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			Mediocre(1) stereo(2) 
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) wanted(2) this(3) car(4) from(5) the(6) day(7) I(8) saw(9) the(10) concept(11) car(12) at(13) the(14) Detroit_Auto_Show(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) decided(2) to(3) buy(4) one(5) when(6) I(7) started(8) seeing(9) them(10) used(11) for(12) a(13) little(14) less(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			What(1) 's(2) not(3) to(4) like(5) ?(6) 
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) got(3) a(4) big(5) American(6) car(7) with(8) a_real(9) V8(10) and(11) tons(12) of(13) room(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) got(3) a(4) car(5) that(6) will(7) run(8) with(9) a(10) BMW(11) or(12) Benz(13) for(14) half(15) the(16) money(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) got(3) a_ton(4) of(5) room(6) ,(7) comfortable(8) seats(9) ,(10) and(11) it(12) just(13) scoots(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			The(1) trunk(2) is(3) huge(4) and(5) with(6) the(7) automatic(8) load(9) leveling(10) you(11) can(12) take(13) anything(14) you(15) want(16) with(17) you(18) .(19) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) had(3) mine(4) for(5) 6(6) months(7) now(8) and(9) it(10) still(11) brings(12) me(13) joy(14) to(15) start(16) it(17) in(18) the(19) morning(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			I(1) 'm(2) 6_foot(3) tall(4) and(5) over(6) 280(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) comfortable(3) driving(4) and(5) have(6) had(7) 3(8) passengers(9) all(10) comfortable(11) too(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) averaged(3) 92(4) mph(5) over(6) 300_miles(7) of(8) Georgia(9) and(10) Tennessee(11) interstate(12) and(13) 86(14) mph(15) over(16) 650_miles(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) the(3) best(4) high(5) speed(6) cruiser(7) I(8) 've(9) ever(10) owned(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			Even(1) in(2) rush(3) hour(4) traffic(5) it(6) still(7) makes(8) me(9) smile(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) the(3) perfect(4) car(5) for(6) me(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) not(3) yet(4) met(5) one(6) woman(7) who(8) understands(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			Oh(1) well(2) ,(3) that(4) 's(5) why(6) they(7) make(8) Accords(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,650(7) 
+		</sentence>
+	</text>
+</review>

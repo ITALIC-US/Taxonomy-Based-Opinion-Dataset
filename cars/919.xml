@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="919" item="1999 Suzuki Grand Vitara" rating="2">
+	<title>
+		<sentence id="1">
+			not(1) so(2) fast(3) ...(4) 
+			<opinion polarity="-" feature="speed" opWords="1,3" potency="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			cute(1) ,(2) manueverability(3) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			winter(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) grand(2) vitara(3) is(4) the(5) second(6) suzuki(7) vehicle(8) i(9) have(10) owned(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) was(3) a(4) samurai(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) really(2) enjoyed(3) it(4) so(5) I(6) was(7) thrilled(8) to(9) buy(10) the(11) v6(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="4">
+			Lets(1) just(2) say(3) ,(4) its(5) very(6) cute(7) and(8) handles(9) nice(10) .(11) .(12) but(13) i(14) live(15) in(16) minnesota(17) and(18) I(19) 'm(20) convinced(21) the(22) grand(23) vitara(24) was(25) made(26) for(27) people(28) who(29) live(30) in(31) warmer(32) climates(33) .(34) 
+			<opinion polarity="+" feature="handling" opWords="9,10"/>
+			<opinion polarity="+" feature="design" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="5">
+			Do(1) not(2) purchase(3) this(4) vehicle(5) if(6) you(7) like(8) to(9) see(10) out(11) of(12) your(13) windsheild(14) in(15) cold(16) weather(17) or(18) if(19) you(20) prefer(21) your(22) feet(23) to(24) be(25) warm(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			The(1) heat(2) blows(3) strong(4) in(5) your(6) face(7) no(8) matter(9) what(10) setting(11) you(12) have(13) it(14) on(15) ,(16) and(17) your(18) feet(19) will(20) freeze(21) if(22) you(23) have(24) to(25) be(26) in(27) the(28) car(29) for(30) a(31) while(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			You(1) can(2) also(3) count(4) on(5) your(6) windsheild(7) thawing(8) out(9) after(10) about(11) 30(12) minutes(13) on(14) the(15) road(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			My(1) complaints(2) to(3) suzuki(4) have(5) been(6) dealt(7) with(8) in(9) this(10) manner(11) :(12) "(13) yes(14) maam(15) ,(16) I(17) agree(18) ,(19) it(20) is(21) a(22) lame(23) design(24) .(25) .(26) you(27) 'll(28) have(29) to(30) call(31) the(32) rep(33) "(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			When(1) I(2) got(3) in(4) touch(5) with(6) the(7) rep(8) who(9) lives(10) in(11) CALIFORNIA(12) ,(13) she(14) told(15) me(16) she(17) has(18) a(19) grand(20) vitara(21) and(22) her(23) heat(24) works(25) just(26) fine(27) .(28) 
+			<opinion polarity="+" feature="heat" featWords="24" opWords="25,27"/>
+		</sentence>
+		<sentence id="10">
+			Well(1) ,(2) I(3) 'm(4) sure(5) this(6) vehicle(7) would(8) be(9) fine(10) if(11) you(12) live(13) in(14) a(15) place(16) where(17) weather(18) is(19) not(20) a(21) factor(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			I(1) 'm(2) kinda(3) guessing(4) that(5) motor(6) trend(7) tested(8) this(9) car(10) on(11) a(12) nice(13) sunny(14) day(15) also(16) .(17) one(18) more(19) note(20) :(21) my(22) insurance(23) quotes(24) for(25) 6(26) months(27) have(28) been(29) anywhere(30) from(31) $900(32) .(33) to(34) $1200(35) .(36) with(37) a(38) clean(39) record(40) !(41) !(42) !(43) !(44) freezing(45) and(46) cautious(47) in(48) minnesota(49) ...(50) 
+		</sentence>
+	</text>
+</review>

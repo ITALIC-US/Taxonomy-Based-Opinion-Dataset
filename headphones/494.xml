@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="494" item="Sony MDR-V150 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			What(1) Do_You_Expect_For(2) $(3) 20(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Long(1) cord(2) .(3) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) sound(2) quality(3) .(4) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Sturdy(1) ,(2) good(3) looking(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="durability" opWords="1"/>
+			<opinion polarity="+" feature="appearance" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Think(1) about(2) what(3) you(4) just(5) bought(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) Just(3) $20(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) at(2) Target(3) today(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			They(1) sound(2) great(3) to(4) me(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) use(2) them(3) for(4) listening(5) to(6) music(7) on(8) the(9) internet(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) read(3) reviews(4) that(5) state(6) they(7) were(8) supposed(9) to(10) be(11) studio(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			If(1) they(2) had(3) read(4) the(5) package(6) it(7) says(8) "(9) studio(10) monitor(11) sound(12) &(13) style(14) ,(15) not(16) studio(17) quality(18) .(19) All(20) in_all(21) these(22) headphones(23) are(24) a(25) great(26) value(27) at(28) $(29) 20(30) .(31) If(32) you(33) want(34) studio(35) quality(36) then(37) look(38) for(39) something(40) in(41) the(42) $(43) 200(44) price(45) range(46) .(47) 
+		</sentence>
+	</text>
+</review>

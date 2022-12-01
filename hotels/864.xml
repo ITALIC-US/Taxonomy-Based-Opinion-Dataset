@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="864" item="Hyatt Regency Lake Tahoe" rating="5">
+	<title>
+		<sentence id="1">
+			Beat(1) the(2) high(3) price(4) ...(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Many(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Few(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) 4-Star(4) resort(5) .(6) 2(7) championship(8) golf(9) courses(10) are(11) nearby(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) Hyatt(2) has(3) their(4) own(5) private(6) ,(7) maintained(8) ,(9) sandy(10) beach(11) .(12) 
+			<opinion polarity="+" feature="beach" featWords="11" opWords="6"/>
+			<opinion polarity="+" feature="beach" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) no(3) street(4) people(5) hanging(6) about(7) inside(8) or(9) out(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Which(1) is(2) rare(3) for(4) casinos(5) today(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			The(1) Pritkin(2) family(3) ((4) which(5) founded(6) and(7) runs(8) Hyatt_Corp(9) )(10) were(11) long(12) time(13) residents(14) of(15) North_Shore(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) Lone_Eagle_Grill(2) was(3) the(4) personal(5) inspiration(6) of(7) the(8) Senior_Pritkin(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) located(3) across(4) the(5) street(6) ((7) not(8) in(9) the(10) main(11) Hotel(12) /(13) casino(14) )(15) so(16) ,(17) many(18) do(19) not(20) know(21) it(22) is(23) there(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			It(1) serves(2) the(3) best(4) Sunday(5) Brunch(6) in(7) Northern_Nevada(8) .(9) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Located(1) right(2) on(3) the(4) water(5) ,(6) with(7) breath-taking(8) views(9) of(10) the(11) lake(12) ,(13) and(14) reflecting(15) moutain(16) snow(17) peaks(18) .(19) 
+			<opinion polarity="+" feature="view" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="10">
+			The(1) building(2) is(3) a(4) marvel(5) and(6) the(7) staff(8) excellent(9) .(10) 
+			<opinion polarity="+" feature="building" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="staff" featWords="8" opWords="9"/>
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) a(3) small(4) casino(5) ,(6) by(7) todays(8) standards(9) .(10) 
+			<opinion polarity="-" feature="casino" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) 175(3) slots(4) ,(5) 193(6) video(7) poker(8) ,(9) 18(10) black(11) jack(12) tables(13) ,(14) 3(15) craps(16) ,(17) 3(18) roulette(19) ,(20) 1(21) let(22) it(23) ride(24) ,(25) 2(26) caribbean(27) stud(28) tables(29) .(30) 
+		</sentence>
+		<sentence id="13">
+			Live(1) entertainment(2) nightly(3) at(4) the(5) Casino(6) stage(7) bar(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Rooms(1) that(2) go(3) for(4) over(5) $200(6) per(7) night(8) in(9) busy(10) season(11) can(12) be(13) had(14) free(15) ((16) comped(17) )(18) with(19) 5000(20) points(21) .(22) $1.25(23) cash(24) in(25) =(26) 1(27) point(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			That(1) Sunday(2) Brunch(3) is(4) 2500(5) points(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			The(1) best(2) games(3) are(4) $(5) 1(6) pick-em(7) poker(8) ((9) .9995(10) return(11) with(12) perfect(13) play(14) )(15) and(16) $(17) 1(18) 9/6(19) Jacks(20) or(21) better(22) ((23) .9952(24) return(25) with(26) perfect(27) play(28) )(29) .(30) 
+		</sentence>
+		<sentence id="17">
+			The(1) really(2) good(3) news(4) .(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			Sign(1) up(2) online(3) for(4) their(5) players(6) club(7) card(8) and(9) you(10) get(11) 2000(12) free(13) points(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			Couples(1) should(2) sign(3) individually(4) .(5) 
+		</sentence>
+		<sentence id="20">
+			Then(1) you(2) each(3) receive(4) the(5) 2000(6) points(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			About(1) an(2) hour(3) and(4) a_half(5) each(6) ,(7) playing(8) either(9) of(10) the(11) above(12) mentioned(13) best(14) plays(15) ,(16) earns(17) over(18) 3000(19) points(20) each(21) .(22) 
+		</sentence>
+		<sentence id="22">
+			Add(1) you(2) 2000(3) each(4) sign-up(5) points(6) and(7) you(8) have(9) 2(10) free(11) nights(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			You(1) can(2) sign-up(3) online(4) for(5) Hyatt_Rewards(6) national(7) program(8) ,(9) where(10) a(11) few(12) nights(13) stay(14) ,(15) entitles(16) you(17) to(18) free(19) nights(20) at(21) their(22) excellent(23) resorts(24) world-wide(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			They(1) also(2) give(3) VIP(4) comp(5) invites(6) for(7) New_Years(8) ,(9) Super_Bowl(10) and(11) similar(12) events(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			It(1) takes(2) about(3) 10,000(4) points(5) per(6) visit(7) on(8) at_least(9) 2(10) visits(11) ((12) my(13) estimate(14) )(15) to(16) obtain(17) this(18) status(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			Here(1) is(2) how(3) to(4) get(5) the(6) 2000(7) free(8) points(9) ...(10) Go(11) to(12) http://www.laketahoehyatt.com/enter.html(13) When(14) there(15) click(16) on(17) hotel(18) ...(19) Then(20) click(21) on(22) casino(23) ...(24) then(25) click(26) on(27) Country_C(28) 
+		</sentence>
+	</text>
+</review>

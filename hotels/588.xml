@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="588" item="Hotel San Remo" rating="4">
+	<title>
+		<sentence id="1">
+			San_Remo_Recent_Visit(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spacious(1) clean(2) rooms(3) ,(4) low(5) rates(6) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nothing(1) significant(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) visited(2) Las_Vegas(3) in(4) October_2000(5) and(6) was(7) pointed(8) to(9) the(10) San_Remo(11) by(12) a(13) travel(14) agent(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			The(1) rates(2) were(3) quite(4) a_bit(5) less(6) than(7) any(8) of(9) the(10) strip(11) hotels(12) ,(13) yet(14) being(15) only(16) a_half(17) block(18) off(19) the(20) strip(21) I(22) had(23) access(24) to(25) the(26) seminar(27) I(28) was(29) attending(30) at(31) a(32) hotel(33) on(34) the(35) strip(36) itself(37) .(38) 
+		</sentence>
+		<sentence id="3">
+			I(1) liked(2) the(3) fact(4) that(5) it(6) was(7) not(8) one(9) of(10) the(11) HUGE(12) hotels(13) with(14) so(15) many(16) people(17) .(18) 
+			<opinion polarity="+" feature="hotel" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			The(1) rooms(2) are(3) spacious(4) and(5) clean(6) and(7) I(8) had(9) an(10) interesting(11) view(12) of(13) McCarron_Airport(14) where(15) I(16) could(17) watch(18) planes(19) coming(20) and(21) going(22) ((23) something(24) I(25) enjoy(26) )(27) .(28) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="view" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			The(1) noise(2) was(3) not(4) a(5) problem(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			My(1) room(2) also(3) overlooked(4) the(5) pool(6) ,(7) which(8) was(9) pleasant(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			When(1) I(2) arrived(3) my(4) air(5) conditioner(6) did(7) not(8) work(9) and(10) hotel(11) maintenance(12) fixed(13) it(14) promptly(15) .(16) 
+			<opinion polarity="-" feature="air conditioning units" featWords="5,6" opWords="8,9"/>
+		</sentence>
+		<sentence id="8">
+			They(1) issued(2) key(3) cards(4) for(5) room(6) keys(7) which(8) also(9) were(10) required(11) to(12) enter(13) the(14) elevators(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			This(1) made(2) me(3) feel(4) somewhat(5) more(6) secure(7) and(8) I(9) tried(10) to(11) not(12) allow(13) others(14) that(15) did(16) not(17) appear(18) to(19) have(20) card(21) keys(22) to(23) enter(24) with(25) me(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) meals(3) I(4) ate(5) there(6) were(7) breakfasts(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			They(1) had(2) a(3) choice(4) of(5) a(6) buffet(7) or(8) menu(9) items(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			I(1) would(2) rate(3) the(4) breakfast(5) buffet(6) as(7) acceptable(8) ,(9) but(10) not(11) excellent(12) .(13) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="8"/>
+			<opinion polarity="-" feature="food" featWords="6" opWords="11,12"/>
+		</sentence>
+		<sentence id="13">
+			Overall_I(1) would(2) definitely(3) consider(4) staying(5) there(6) again(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="4,5" potency="3"/>
+		</sentence>
+	</text>
+</review>

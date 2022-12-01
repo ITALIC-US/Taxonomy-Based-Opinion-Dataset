@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="260" item="Bose QuietComfort 2 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Too(1) fragile(2) and(3) bad(4) company(5) support(6) 
+			<opinion polarity="-" feature="durability" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Better(1) than(2) foam(3) ear(4) plugs(5) ,(6) but(7) only(8) "(9) cover(10) "(11) the(12) noise(13) when(14) you(15) 're(16) playing(17) music(18) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Inferior(1) product(2) ,(3) frames(4) crack(5) and(6) break(7) ,(8) and(9) support(10) is(11) inadequate(12) 
+			<opinion polarity="-" feature="headphones" featWords="2" featRef="headphones" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Please(1) do(2) yourself(3) a(4) favor(5) and(6) stay(7) away(8) from(9) this(10) product(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) looking(2) "(3) package(4) "(5) but(6) extremely(7) inferior(8) 
+			<opinion polarity="+" feature="packaging" featWords="4" opWords="1,2"/>
+			<opinion polarity="-" feature="headphones" opWords="8" potency="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) an(3) airline(4) pilot(5) and(6) felt(7) that(8) the(9) $300(10) investment(11) would(12) be(13) worth(14) it(15) if(16) they(17) helped(18) save(19) my(20) hearing(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			After(1) more(2) than(3) a(4) year(5) of(6) use(7) ,(8) and(9) having(10) to(11) return(12) them(13) twice(14) I(15) would(16) not(17) recommend(18) them(19) to(20) anyone(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) do(2) not(3) think(4) I(5) 've(6) tried(7) to(8) take(9) better(10) care(11) of(12) any(13) item(14) I(15) 've(16) purchased(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			If_not(1) in(2) use(3) they(4) are(5) always(6) in(7) their(8) carrying(9) case(10) and(11) only(12) come(13) out(14) for(15) a(16) flight(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) pair(3) 's(4) frame(5) cracked(6) within(7) a(8) few(9) weeks(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) returned(3) them(4) I(5) was(6) told(7) that(8) the(9) company(10) was(11) aware(12) of(13) the(14) problem(15) and(16) was(17) working(18) on(19) it(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			The(1) second(2) pair(3) stayed(4) intact(5) for(6) about(7) 2(8) months(9) ...(10) I(11) was(12) aware(13) of(14) the(15) potential(16) problem(17) and(18) did(19) everything(20) I(21) could(22) to(23) protect(24) them(25) from(26) breaking(27) ,(28) but(29) the(30) second(31) pair(32) cracked(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			I(1) returned(2) them(3) and(4) was(5) given(6) a(7) pair(8) that(9) had(10) a(11) newer(12) ,(13) stronger(14) frame(15) ...(16) that(17) 's(18) what(19) I(20) was(21) told(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			This(1) pair(2) started(3) to(4) crack(5) in(6) a(7) number(8) of(9) places(10) ,(11) and(12) when(13) I(14) took(15) them(16) back(17) the(18) Manager(19) said(20) that(21) I(22) would(23) have(24) to(25) send(26) them(27) back(28) to(29) the(30) company(31) if(32) I(33) wanted(34) them(35) replaced(36) .(37) 
+		</sentence>
+		<sentence id="10">
+			Even_though(1) they(2) are(3) not(4) the(5) best(6) "(7) noise(8) cancelling(9) "(10) they(11) are(12) better(13) than(14) ear-plugs(15) ,(16) so(17) I(18) 've(19) taken(20) to(21) glue(22) ,(23) tape(24) ,(25) etc.(26) trying(27) to(28) hold(29) them(30) together(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			As(1) a(2) pilot(3) I(4) 've(5) had(6) a(7) set(8) of(9) David_Clarks(10) for(11) more(12) than(13) 15(14) years(15) and(16) have(17) never(18) had(19) a(20) problem(21) with(22) the(23) frame(24) ....(25) one(26) would(27) expect(28) that(29) Bose(30) would(31) care(32) more(33) about(34) their(35) reputation(36) than(37) to(38) sell(39) such(40) an(41) inferior(42) product(43) .(44) 
+		</sentence>
+		<sentence id="12">
+			Please(1) do(2) yourself(3) a(4) favor(5) and(6) find(7) a(8) different(9) product(10) to(11) spend(12) $300(13) on(14) .(15) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="947" item="2003 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Disappointed(1) !(2) !(3) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) got(3) a(4) lemon(5) !(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) ,(2) Quality(3) ,(4) Noise(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) not(2) purchase(3) this(4) vehicle(5) !(6) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Honda(1) service(2) is(3) not(4) what(5) it(6) used(7) to(8) be(9) and(10) the(11) quality(12) has(13) taken(14) a(15) back(16) seat(17) as_well(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) experience(2) has(3) not(4) been(5) a(6) good(7) one(8) with(9) my(10) 2003(11) Honda_Accord(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) owned(3) the(4) vehicle(5) for(6) 4(7) months(8) and(9) have(10) had(11) four(12) repairs(13) on(14) my(15) vehicle(16) and(17) one(18) issue(19) still(20) open(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) my(3) fourth(4) Honda(5) that(6) I(7) 've(8) owned(9) and(10) can(11) not(12) believe(13) the(14) poor(15) quality(16) and(17) service(18) that(19) I(20) 've(21) had(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			My(1) problems(2) started(3) when(4) I(5) picked(6) up(7) the(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			In(1) summary(2) ,(3) I(4) 've(5) had(6) the(7) center(8) console(9) replaced(10) for(11) a(12) rattling(13) noise(14) ,(15) the(16) steering(17) wheel(18) replaced(19) for(20) deformation(21) of(22) plastic(23) ,(24) a(25) fuel(26) sensor(27) and(28) fuel(29) pump(30) was(31) replaced(32) because_of(33) a(34) consistent(35) starting(36) problem(37) ((38) would(39) not(40) start(41) until(42) 7-10_seconds(43) of(44) constantly(45) turning(46) the(47) ignition(48) )(49) ,(50) a(51) fuel(52) system(53) component(54) was(55) repair(56) when(57) the(58) car(59) stalled(60) on(61) the(62) highway(63) with(64) no(65) fuel(66) because(67) the(68) gage(69) was(70) mis-reading(71) that(72) I(73) had(74) fuel(75) when(76) in(77) fact(78) their(79) was(80) no(81) fuel(82) .(83) 
+		</sentence>
+		<sentence id="6">
+			Finally(1) ,(2) the(3) vehicle(4) vibrates(5) dramatically(6) when(7) in(8) drive(9) and(10) when(11) the(12) air(13) conditioning(14) system(15) is(16) on(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			They(1) say(2) the(3) engine(4) mounts(5) are(6) a(7) problem(8) and(9) Honda(10) engineering(11) are(12) working(13) on(14) it(15) to(16) resolve(17) the(18) vibration(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) worst(2) part(3) about(4) my(5) experience(6) is(7) the(8) service(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Unless(1) their(2) service(3) computer(4) picks(5) up(6) the(7) issue(8) on(9) it(10) 's(11) read(12) out(13) ,(14) good(15) luck(16) getting(17) something(18) fix(19) !(20) 
+		</sentence>
+		<sentence id="10">
+			Do(1) your(2) homework(3) before(4) you(5) buy(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			There(1) are(2) many(3) websites(4) that(5) show(6) similar(7) and(8) other(9) problems(10) with(11) the(12) new(13) 2003(14) Honda_Accord(15) .(16) just(17) type(18) in(19) "(20) 2003(21) Honda_Accord_Problems(22) "(23) in(24) your(25) search(26) engine(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Honda_Accord_EX-L_Automatic(16) 4-cyclinder(17) leather(18) ,(19) moonroof(20) ,(21) loaded(22) 
+		</sentence>
+	</text>
+</review>

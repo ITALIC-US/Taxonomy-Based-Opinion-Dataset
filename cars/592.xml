@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="592" item="2002 Honda Odyssey" rating="1">
+	<title>
+		<sentence id="1">
+			Transmission_Woes(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) car(2) to(3) drive(4) kids(5) with(6) especially(7) with(8) DVD(9) system(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliability(1) is(2) questionable(3) especially(4) concerning(5) the(6) transmission(7) .(8) 
+			<opinion polarity="-" feature="reliability" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) only(4) 6(5) years(6) old(7) !(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) got(3) an(4) estimate(5) from(6) the(7) dealer(8) for(9) a(10) new(11) transmission(12) in(13) the(14) amount(15) of(16) $(17) 5000(18) and(19) that(20) 's(21) for(22) the(23) transmission(24) only(25) ((26) does(27) not(28) include(29) the(30) Honda(31) recommended(32) new(33) PCM(34) -(35) computer(36) module(37) that(38) controls(39) the(40) transmission(41) )(42) .(43) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) an(3) additional(4) $1200(5) for(6) a(7) new(8) PCM(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) this(3) van(4) new(5) at(6) a(7) time(8) when(9) dealers(10) were(11) selling(12) them(13) for(14) more(15) than(16) MSRP(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Luckily(1) ,(2) I(3) was(4) not(5) one(6) of(7) those(8) who(9) paid(10) more(11) than(12) MSRP(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) Honda(3) made(4) reliable(5) cars(6) and(7) I(8) am(9) having(10) serious(11) doubts(12) about(13) reliability(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Transmissions(1) should(2) last(3) longer(4) than(5) 6(6) years(7) in(8) my(9) opinion(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) never(2) hauled(3) a(4) trailer(5) ,(6) just(7) my(8) 2(9) girls(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) EXL(16) 
+		</sentence>
+	</text>
+</review>

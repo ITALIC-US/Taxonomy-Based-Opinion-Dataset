@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="731" item="2002 Hyundai Santa Fe" rating="3">
+	<title>
+		<sentence id="1">
+			Great_SUV(1) if(2) you(3) do(4) not(5) have(6) car(7) seats(8) installed(9) .(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) good(2) ,(3) good(4) gas(5) mileage(6) ,(7) nice(8) price(9) .(10) 
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) space(3) for(4) Infant_Car_Seats(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) anyone(7) who(8) does(9) not(10) have(11) children(12) and(13) need(14) the(15) extra(16) space(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) Santa_Fe(4) two(5) years(6) ago(7) and(8) while(9) it(10) has(11) been(12) a(13) great(14) car(15) for(16) us(17) until(18) we(19) had(20) our(21) son(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			The(1) look(2) of(3) the(4) car(5) is(6) great(7) and(8) it(9) has(10) all(11) the(12) bells(13) and(14) whistles(15) .(16) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			We(1) got(2) ours(3) fully(4) loaded(5) with(6) leather(7) seats(8) ,(9) all(10) wheel(11) drive(12) and(13) any(14) other(15) extras(16) you(17) could(18) think(19) of(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			The(1) gas(2) mileage(3) is(4) good(5) for(6) an(7) SUV(8) .(9) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			My(1) problem(2) is(3) that(4) there(5) is(6) not(7) enough(8) space(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			When(1) we(2) got(3) our(4) infant(5) car(6) seat(7) installed(8) there(9) was(10) not(11) really(12) room(13) for(14) anything(15) else(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			We(1) only(2) had(3) the(4) option(5) of(6) putting(7) it(8) in(9) the(10) middle(11) because(12) there(13) is(14) not(15) enough(16) room(17) on(18) the(19) side(20) seats(21) and(22) the(23) front(24) seats(25) can(26) not(27) go(28) all(29) the(30) way(31) back(32) ((33) which(34) is(35) another(36) issue(37) in(38) itself(39) ,(40) we(41) never(42) thought(43) they(44) went(45) back(46) far(47) enough(48) anyways(49) ,(50) and(51) we(52) are(53) not(54) tall(55) people(56) )(57) Then(58) there(59) is(60) the(61) space(62) in(63) the(64) back(65) but(66) by(67) the(68) time(69) we(70) put(71) the(72) stroller(73) in(74) ,(75) there(76) is(77) not(78) room(79) for(80) much(81) else(82) and(83) we(84) have(85) the(86) standard(87) travel(88) system(89) in(90) strollers(91) and(92) car(93) seats(94) so(95) they(96) are(97) not(98) unusually(99) large(100) .(101) 
+		</sentence>
+		<sentence id="8">
+			We(1) will(2) have(3) to(4) get(5) rid(6) of(7) our(8) Santa_Fe(9) before(10) we(11) have(12) a_second(13) child(14) because(15) there(16) is(17) no(18) way(19) a_second(20) car(21) seat(22) would(23) safely(24) fit(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			My(1) husband(2) and(3) I(4) really(5) like(6) the(7) Santa_Fe(8) but(9) we(10) would(11) never(12) by(13) one(14) again(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

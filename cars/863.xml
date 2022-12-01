@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="863" item="2000 Jeep Wrangler" rating="1">
+	<title>
+		<sentence id="1">
+			Nice(1) new(2) Jeep(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) to(2) drive(3) ,(4) engine(5) is(6) really(7) good(8) ,(9) and(10) it(11) 's(12) American_MADE(13) !(14) !(15) 
+			<opinion polarity="+" feature="engine" featWords="5" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) bumpy(2) ,(3) cold(4) ,(5) and(6) uncomfortable(7) 
+			<opinion polarity="-" feature="comfort" opWords="7"/>
+			<opinion polarity="-" feature="car" opWords="4"/>
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) 2000(2) Jeep_Wrangler(3) is(4) a(5) 2-door(6) ,(7) 4-wheel(8) drive(9) ,(10) convertible(11) top(12) ,(13) compact(14) sport(15) utility(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) Wrangler(2) is(3) Jeep(4) 's(5) smallest(6) sport(7) utility(8) and(9) the(10) only(11) one(12) with(13) a(14) convertible(15) top(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) Wrangler(2) caters(3) to(4) the(5) individual(6) who(7) seeks(8) open-air(9) fun(10) and(11) the(12) freedom(13) to(14) go(15) nearly(16) anywhere(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			With(1) more(2) than(3) 55(4) years(5) of(6) heritage(7) ,(8) the(9) Wrangler(10) continues(11) to(12) deliver(13) excellent(14) off-road(15) capabilities(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Although(1) the(2) Wrangler(3) maintains(4) a(5) reputation(6) of(7) simplicity(8) and(9) rugged(10) durability(11) ,(12) a(13) 1997(14) major(15) redesign(16) has(17) incorporated(18) many(19) of(20) the(21) comfort(22) and(23) convenience(24) features(25) buyers(26) have(27) come(28) to(29) expect(30) in(31) a(32) daily(33) driven(34) vehicle(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			Jeep(1) wants(2) to(3) attract(4) more(5) women(6) into(7) buying(8) these(9) vechiles(10) so(11) they(12) made(13) new(14) design(15) refinements(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			MSRP(1) starts(2) around(3) $14,500(4) for(5) a(6) basic(7) SE(8) ,(9) with(10) a(11) fully(12) loaded(13) Sahara(14) topping(15) out(16) at(17) around(18) $24,000(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) 2000(2) Wrangler(3) is(4) a(5) carryover(6) ,(7) with(8) add-a-trunk(9) redesign(10) and(11) new(12) radios(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Although(1) it(2) 's(3) fun(4) to(5) drive(6) ,(7) it(8) is(9) really(10) bumpy(11) and(12) uncomfortable(13) .(14) 
+			<opinion polarity="-" feature="comfort" opWords="13"/>
+			<opinion polarity="-" feature="car" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			An(1) automatic(2) is(3) no(4) fun(5) to(6) drive(7) in(8) this(9) vehicle(10) ,(11) the(12) manual(13) transmission(14) will(15) help(16) the(17) engine(18) last(19) longer(20) but(21) if(22) your(23) an(24) off-roader(25) go(26) with(27) the(28) automatic(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) known(3) many(4) people(5) with(6) Jeeps(7) and(8) they(9) said(10) they(11) are(12) really(13) fun(14) to(15) drive(16) ,(17) which(18) I(19) agree(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+		</sentence>
+		<sentence id="12">
+			If(1) your(2) looking(3) for(4) a(5) great(6) time(7) while(8) driving(9) and(10) do(11) not(12) care(13) about(14) hitting(15) every(16) small(17) little(18) bump(19) and(20) bouncing(21) out(22) of(23) your(24) seat(25) ,(26) get(27) a(28) Wrangler(29) !(30) !(31) 
+		</sentence>
+	</text>
+</review>

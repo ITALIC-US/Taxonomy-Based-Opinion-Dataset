@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="364" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Sleekness(1) and(2) Reliability_Mixed(3) with(4) Affordability(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sleek(1) ,(2) Quick(3) ,(4) Very_Manuverable(5) ,(6) and(7) Honda(8) reliability(9) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Almost(1) non-existent(2) back(3) seat(4) 
+			<opinion polarity="-" feature="seat" featWords="3,4" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) anyone(7) who(8) does(9) not(10) plan(11) on(12) seating(13) adults(14) in(15) the(16) back(17) seat(18) and(19) anyone(20) who(21) wants(22) a(23) fun(24) ,(25) smooth(26) ride(27) with(28) affordability(29) and(30) dependability(31) .(32) 
+			<opinion polarity="+" feature="ride quality" featWords="27" opWords="24"/>
+			<opinion polarity="+" feature="ride quality" featWords="27" opWords="26"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) got(2) our(3) Honda_Accord_Coupe(4) ((5) 4(6) cyl(7) .(8) )(9) in(10) March_of_1998(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Once(1) we(2) laid(3) our(4) eyes(5) on(6) it(7) ,(8) there(9) was(10) no(11) question(12) to(13) which(14) car(15) we(16) were(17) going(18) to(19) buy(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) car(3) shopping(4) in(5) hopes(6) of(7) finding(8) an(9) affordable(10) sedan(11) ,(12) but(13) once(14) we(15) saw(16) this(17) black(18) beauty(19) being(20) detailed(21) at(22) the(23) dealership(24) ,(25) there(26) was(27) no(28) turning(29) back(30) .(31) 
+			<opinion polarity="+" feature="price" opWords="10"/>
+		</sentence>
+		<sentence id="4">
+			Although(1) I(2) would(3) 've(4) liked(5) to(6) have(7) bought(8) the(9) speedier(10) 6(11) cylinder(12) ,(13) at(14) the(15) time(16) there(17) were(18) very(19) few(20) of(21) these(22) cars(23) to(24) choose(25) from(26) and(27) it(28) would(29) 've(30) been(31) several(32) thousand(33) more(34) to(35) get(36) the(37) V6(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			We(1) bought(2) the(3) accord(4) with(5) no(6) fear(7) of(8) faults(9) in(10) quality(11) with(12) the(13) outstanding(14) background(15) that(16) Honda(17) cars(18) have(19) had(20) over(21) the(22) years(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			So(1) far(2) it(3) 's(4) been(5) holding(6) up(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			We(1) are(2) at(3) about(4) 50,000_miles(5) as(6) of(7) right(8) now(9) ,(10) and(11) there(12) has(13) been(14) no(15) trouble(16) at(17) all(18) with(19) it(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			It(1) runs(2) very(3) smooth(4) and(5) handles(6) great(7) .(8) 
+			<opinion polarity="+" feature="handling" opWords="6,7"/>
+			<opinion polarity="+" feature="ride quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) will(3) grab(4) the(5) road(6) and(7) hug(8) turns(9) as(10) much(11) as(12) you(13) want(14) it(15) to(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Even_though(1) it(2) 's(3) only(4) a(5) four-banger(6) ,(7) it(8) still(9) accelerates(10) quickly(11) and(12) will(13) get(14) up(15) and(16) go(17) if(18) you(19) want(20) it(21) to(22) .(23) 
+			<opinion polarity="+" feature="acceleration" opWords="10,11"/>
+		</sentence>
+		<sentence id="11">
+			Many(1) times(2) I(3) look(4) down(5) at(6) the(7) speedometer(8) and(9) see(10) that(11) I(12) 'm(13) going(14) 80(15) mph(16) and(17) I(18) did(19) not(20) even(21) notice(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) a(3) great(4) road-trip(5) car(6) ,(7) granted(8) that(9) you(10) are(11) only(12) traveling(13) with(14) two(15) or(16) three(17) people(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) 4(2) cylinder(3) engine(4) gets(5) terrific(6) gas(7) mileage(8) especially(9) when(10) locking(11) the(12) cruise(13) control(14) on(15) the(16) interstate(17) .(18) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="6"/>
+		</sentence>
+		<sentence id="14">
+			It(1) seems(2) as_if(3) the(4) car(5) almost(6) drives(7) itself(8) sometimes(9) on(10) those(11) long(12) trips(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Opening(1) up(2) the(3) sun(4) roof(5) lets(6) the(7) fresh(8) air(9) and(10) sunshine(11) come(12) right(13) in(14) the(15) car(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			The(1) stereo(2) is(3) adequate(4) with(5) an(6) AM(7) /(8) FM_CD_Player(9) with(10) two(11) sets(12) of(13) 6(14) x(15) 9(16) 's(17) .(18) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			In_all(1) ,(2) the(3) car(4) is(5) very(6) dependable(7) and(8) fun(9) to(10) drive(11) and(12) I(13) would(14) recommend(15) it(16) to(17) anyone(18) who(19) does(20) not(21) plan(22) on(23) traveling(24) with(25) a(26) whole(27) family(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="16" featRef="car" opWords="15"/>
+			<opinion polarity="+" feature="reliability" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) Accord_Coupe_LX(16) ,(17) ,(18) 4(19) Cyl(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			Auto(1) 
+		</sentence>
+	</text>
+</review>

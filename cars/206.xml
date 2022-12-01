@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="206" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Maximal_Exterior(1) ,(2) Minimal_Interior(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quick_Acceleration(1) ,(2) Stylishly_Redesigned_Exterior(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) on(2) Base_Model_Rather_Bland(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Maxima(1) 2000(2) I(3) arrived(4) at(5) the(6) National_Emerald_Aisle(7) lot(8) in(9) New_Orleans(10) and(11) eyed(12) the(13) typical(14) selection(15) of(16) minivans(17) ,(18) Intrigues(19) ((20) a(21) very(22) fine(23) automobile(24) ,(25) incidentally(26) )(27) ,(28) Buicks(29) ,(30) and(31) Chevys(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="24" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="2">
+			Decisions(1) ,(2) decisions(3) ...(4) I(5) had(6) my(7) eye(8) on(9) a(10) Grand_Prix(11) ,(12) but(13) the(14) guy(15) in(16) front(17) beat(18) me(19) to(20) it(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) about(3) to(4) settle(5) on(6) a(7) white(8) Intrigue(9) ,(10) when(11) my(12) eye(13) was(14) caught(15) by(16) a(17) gold(18) Nissan(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			On(1) closer(2) inspection(3) ,(4) I(5) saw(6) that(7) the(8) car(9) was(10) a(11) 2000(12) Maxima_GXE(13) ((14) the(15) base(16) model(17) )(18) with(19) only(20) 2,100_miles(21) on(22) it(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Since(1) my(2) daughter(3) drives(4) a(5) 96(6) Maxima(7) ,(8) I(9) decided(10) to(11) see(12) what(13) improvements(14) Nissan(15) had(16) come(17) up(18) with(19) in(20) the(21) past(22) few(23) years(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) 2000(2) Maxima(3) is(4) touted(5) as(6) being(7) one(8) of(9) a(10) kind(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) advertisements(2) depict(3) a(4) cross(5) between(6) a(7) mid-size(8) four-door(9) sedan(10) and(11) a(12) fast(13) ,(14) sporty(15) vehicle(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="speed" opWords="13"/>
+		</sentence>
+		<sentence id="8">
+			After(1) putting(2) the(3) car(4) through(5) its(6) paces(7) ,(8) I(9) tend(10) to(11) agree(12) with(13) the(14) advertisements(15) ,(16) though(17) if(18) I(19) were(20) to(21) purchase(22) one(23) ,(24) I(25) 'd(26) definitely(27) go(28) for(29) the(30) higher-priced(31) trims(32) .(33) 
+		</sentence>
+		<sentence id="9">
+			Appearance_The(1) 2000(2) Maxima_GXE(3) is(4) a(5) study(6) in(7) contrasts(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			The(1) redesigned(2) exterior(3) is(4) quite(5) sporty(6) .(7) 
+			<opinion polarity="+" feature="exterior" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) car(2) is(3) slightly(4) longer(5) ,(6) wider(7) ,(8) and(9) taller(10) than(11) its(12) predecessor(13) ,(14) with(15) two(16) more(17) inches(18) in(19) the(20) wheelbase(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			The(1) look(2) is(3) aggressive(4) and(5) stylish(6) .(7) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) front(2) grille(3) now(4) is(5) very(6) similar(7) to(8) the(9) Altima(10) 's(11) --(12) I(13) actually(14) thought(15) the(16) car(17) was(18) an(19) Altima(20) at(21) first(22) glance(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) trunk(2) has(3) been(4) deepened(5) and(6) is(7) capacious(8) .(9) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="15">
+			The(1) Maxima(2) looks(3) like(4) a(5) luxury(6) car(7) from(8) the(9) outside(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			On(1) the(2) interior(3) ,(4) however(5) ,(6) the(7) base(8) model(9) GXE(10) was(11) rather(12) uninspiring(13) .(14) 
+			<opinion polarity="-" feature="interior" featWords="3" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="17">
+			Power(1) everything(2) did(3) not(4) make(5) up(6) for(7) standard-issue(8) fabric(9) seats(10) that(11) had(12) already(13) begun(14) to(15) show(16) signs(17) of(18) wear(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			The(1) instrument(2) panel(3) and(4) its(5) labeling(6) ,(7) while(8) serviceable(9) ,(10) were(11) not(12) very(13) creative(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			And(1) the(2) floor(3) shifter(4) on(5) the(6) 4-speed(7) automatic(8) transmission(9) ((10) a(11) manual(12) 5-speed(13) is(14) also(15) available(16) )(17) was(18) a(19) retro-looking(20) highly(21) polished(22) metal(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			The(1) total(2) interior(3) look(4) was(5) rather(6) a(7) hodgepodge(8) without(9) a(10) unifying(11) theme(12) ,(13) as(14) though(15) the(16) people(17) designing(18) the(19) interior(20) had(21) not(22) talked(23) or(24) coordinated(25) with(26) each(27) other(28) .(29) 
+		</sentence>
+		<sentence id="21">
+			This(1) is(2) in(3) contrast(4) to(5) my(6) daughter(7) 's(8) 96(9) SE(10) ((11) the(12) mid-range(13) product(14) )(15) ,(16) in(17) which(18) the(19) interior(20) is(21) highly(22) integrated(23) and(24) aesthetically(25) pleasing(26) .(27) 
+			<opinion polarity="+" feature="interior" featWords="20" opWords="25,26"/>
+			<opinion polarity="+" feature="interior" featWords="20" opWords="22,23"/>
+		</sentence>
+		<sentence id="22">
+			Performance_The(1) advertisements(2) are(3) right(4) here(5) .(6) 
+		</sentence>
+		<sentence id="23">
+			The(1) 3.0-liter(2) 24-valve(3) V(4) -(5) 6(6) engine(7) produces(8) 222(9) horsepower(10) ,(11) and(12) accelerates(13) the(14) vehicle(15) very(16) quickly(17) and(18) responsively(19) .(20) 
+			<opinion polarity="+" feature="acceleration" opWords="13,19"/>
+			<opinion polarity="+" feature="acceleration" opWords="13,17"/>
+		</sentence>
+		<sentence id="24">
+			Other(1) reviewers(2) have(3) noted(4) a(5) performance(6) decline(7) in(8) hilly(9) areas(10) ,(11) but(12) New_Orleans(13) offers(14) nothing(15) but(16) flat(17) terrain(18) ,(19) and(20) this(21) vehicle(22) just(23) zoomed(24) to(25) highway(26) speed(27) .(28) 
+		</sentence>
+		<sentence id="25">
+			Unfortunately(1) ,(2) I(3) was(4) quickly(5) in(6) a(7) traffic(8) jam(9) on(10) I-10(11) ,(12) so(13) I(14) was(15) reduced(16) to(17) stop-and-go(18) ,(19) giving(20) the(21) Maxima(22) 's(23) brakes(24) a(25) thorough(26) testing(27) .(28) 
+		</sentence>
+		<sentence id="26">
+			Surprisingly(1) ,(2) the(3) brakes(4) on(5) this(6) new(7) vehicle(8) squealed(9) slightly(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			The(1) MacPherson(2) strut(3) front(4) suspension(5) and(6) the(7) rigid(8) axle(9) rear(10) suspension(11) created(12) a(13) very(14) smooth(15) ride(16) over(17) the(18) numerous(19) stretches(20) of(21) rough(22) pavement(23) .(24) 
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="28">
+			Handling(1) was(2) decent(3) ,(4) though(5) the(6) car(7) felt(8) a(9) little(10) "(11) mushy(12) "(13) in(14) turns(15) .(16) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="29">
+			The(1) SE(2) model(3) comes(4) with(5) a(6) firmer(7) suspension(8) and(9) is(10) more(11) of(12) a(13) "(14) driver(15) 's(16) car(17) .(18) "(19) Even(20) in(21) the(22) base(23) model(24) ,(25) the(26) smoothness(27) and(28) quiet(29) of(30) the(31) ride(32) along_with(33) the(34) effortless(35) acceleration(36) can(37) quickly(38) lull(39) the(40) driver(41) into(42) a(43) feeling(44) of(45) going(46) a_lot(47) slower(48) than(49) is(50) the(51) actual(52) case(53) .(54) 
+		</sentence>
+		<sentence id="30">
+			I(1) highly(2) recommend(3) cruise(4) control(5) or(6) constant(7) speedometer(8) checks(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="31">
+			Features_This(1) base(2) model(3) GXE(4) came(5) with(6) power(7) locks(8) ,(9) power(10) windows(11) and(12) mirrors(13) ,(14) remote(15) keyless(16) entry(17) ,(18) and(19) a(20) power(21) driver(22) 's(23) seat(24) .(25) 
+		</sentence>
+		<sentence id="32">
+			Air(1) conditioning(2) ,(3) tilt(4) steering(5) ,(6) and(7) cruise(8) control(9) are(10) standard(11) on(12) all(13) trims(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			The(1) standard(2) GXE(3) audio(4) system(5) is(6) an(7) AM(8) /(9) FM(10) stereo(11) cassette(12) with(13) adequate(14) sound(15) quality(16) .(17) 
+			<opinion polarity="+" feature="sound system" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="34">
+			Evaluation_At(1) $21,049(2) retail(3) ,(4) the(5) 2000(6) GXE(7) is(8) at(9) an(10) interesting(11) price-point(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			It(1) 's(2) getting(3) expensive(4) enough(5) for(6) the(7) buyer(8) to(9) expect(10) some(11) luxury(12) touches(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			But(1) other(2) than(3) a(4) flip-down(5) sunglasses(6) case(7) ,(8) this(9) Maxima(10) was(11) rather(12) disappointing(13) in(14) that(15) department(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			If(1) one(2) is(3) in(4) love(5) with(6) the(7) Maxima(8) exterior(9) ,(10) I(11) would(12) recommend(13) that(14) he(15) or(16) she(17) consider(18) the(19) few(20) thousand(21) extra(22) dollars(23) to(24) purchase(25) the(26) better-appointed(27) SE(28) with(29) a(30) spoiler(31) or(32) the(33) leather-loaded(34) luxury(35) ((36) with(37) the(38) premium(39) Bose(40) sound(41) system(42) )(43) of(44) the(45) GLE(46) .(47) 
+			<opinion polarity="+" feature="car" opWords="13"/>
+		</sentence>
+		<sentence id="38">
+			On_the_other_hand(1) ,(2) if(3) one(4) 's(5) budget(6) is(7) limited(8) and(9) luxury(10) is(11) still(12) desired(13) ,(14) a(15) nicely-outfitted(16) 2000(17) Altima(18) ((19) which(20) looks(21) very(22) similar(23) to(24) the(25) Maxima(26) in(27) the(28) current(29) versions(30) )(31) is(32) available(33) for(34) $20,390(35) ((36) albeit(37) with(38) a(39) 2.4-liter(40) 4-cylinder(41) engine(42) ,(43) which(44) nonetheless(45) still(46) manages(47) to(48) produce(49) 155(50) horsepower(51) )(52) .(53) 
+		</sentence>
+	</text>
+</review>

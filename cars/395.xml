@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="395" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			Is(1) this(2) for(3) you(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			injin(1) er(2) engine(3) and(4) looks(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			uh(1) none(2) its(3) a(4) BMW(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) is(2) it(3) ?(4) 
+		</sentence>
+		<sentence id="2">
+			Do(1) you(2) even(3) know(4) what(5) you(6) 're(7) in(8) for(9) with(10) this(11) car(12) ?(13) 
+		</sentence>
+		<sentence id="3">
+			Well(1) if(2) ytou(3) do(4) not(5) you(6) 've(7) clicked(8) on(9) the(10) right(11) opinion(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) 'll(2) tell(3) you(4) exactly(5) what(6) you(7) need(8) to(9) know(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Now(1) obviously(2) this(3) is(4) a(5) sports(6) car(7) ,(8) so(9) if(10) you(11) are(12) a(13) family(14) man(15) ((16) or(17) woman(18) )(19) than(20) this(21) car(22) isn(23) ;(24) r(25) your(26) best(27) choice(28) unless(29) its(30) a(31) 2nd(32) car(33) on(34) the(35) side(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			For(1) a(2) primary(3) car(4) try(5) the(6) Dodge_Intrepid(7) or(8) Jeep(9) ,(10) which(11) i(12) have(13) already(14) written(15) opinions(16) on(17) ,(18) go(19) read(20) them(21) !(22) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) is(3) very(4) nice(5) and(6) showy(7) if(8) you(9) are(10) trying(11) to(12) impress(13) someone(14) ,(15) or(16) if(17) you(18) are(19) a(20) semi-speed(21) daemon(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			Otherwise(1) you(2) do(3) not(4) really(5) need(6) to(7) bother(8) with(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) 've(2) had(3) some(4) experience(5) with(6) the(7) BMW_M_Roadster(8) and(9) it(10) handles(11) very(12) nicely(13) .(14) i(15) have(16) no(17) complaints(18) with(19) it(20) .(21) 
+			<opinion polarity="+" feature="handling" opWords="11,13" potency="12"/>
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) 're(3) into(4) BMW(5) and(6) you(7) think(8) they(9) are(10) great(11) this(12) is(13) definetly(14) no(15) exception(16) just(17) like(18) the(19) rest(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			You(1) will(2) love(3) it(4) guarenteed(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3"/>
+		</sentence>
+	</text>
+</review>

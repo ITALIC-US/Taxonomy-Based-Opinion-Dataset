@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="521" item="Sony MDR-V600 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			"(1) THE(2) "(3) headphones(4) to(5) avoid(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Useful(1) as(2) earmuffs(3) ?(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Inaccurate(1) highs(2) ,(3) ringy(4) mids(5) ,(6) and(7) pathetic(8) lows(9) .(10) 
+			<opinion polarity="-" feature="highs" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="mids" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="bass" featWords="9" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) worth(2) more(3) then(4) $40(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) really(2) try(3) to(4) write(5) positive(6) reviews(7) on(8) whatever(9) I(10) have(11) in(12) my(13) hands(14) ,(15) but(16) I(17) can(18) not(19) put(20) myself(21) up(22) to(23) it(24) on(25) this(26) one(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Excessive(1) vibrations(2) in(3) some(4) genres(5) of(6) music(7) sometimes(8) make(9) the(10) headphones(11) highly(12) annoying(13) to(14) listen(15) to(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Over(1) the(2) top(3) brightness(4) in(5) taste(6) to(7) sound(8) makes(9) it(10) harsh(11) on(12) the(13) ears(14) on(15) occasion(16) ,(17) and(18) bass(19) is(20) very(21) weak(22) .(23) 
+			<opinion polarity="-" feature="bass" featWords="19" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="4">
+			Treble(1) is(2) so(3) inaccurate(4) that(5) I(6) would(7) even(8) go(9) as(10) far(11) as(12) to(13) say(14) that(15) some(16) high(17) ((18) er(19) )(20) pitched(21) notes(22) sound(23) out(24) of(25) tune(26) .(27) 
+			<opinion polarity="-" feature="highs" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Aside(1) from(2) that(3) ,(4) the(5) ear(6) pieces(7) are(8) hard(9) to(10) wear(11) over(12) 2(13) +(14) hours(15) ,(16) and(17) they(18) will(19) get(20) your(21) ears(22) very(23) hot(24) even(25) after(26) a(27) few(28) mins(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			At(1) this(2) price(3) I(4) would(5) not(6) recommend(7) these(8) to(9) anyone(10) .(11) -(12) Drew(13) 
+			<opinion polarity="-" feature="headphones" featWords="8" featRef="headphones" opWords="6,7"/>
+		</sentence>
+	</text>
+</review>

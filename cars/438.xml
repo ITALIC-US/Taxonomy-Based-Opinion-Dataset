@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="438" item="2001 Volkswagen Jetta TDI" rating="3">
+	<title>
+		<sentence id="1">
+			Designed(1) for(2) expensive(3) repairs(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solid(1) body(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Great(1) handling(2) .(3) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Excellent(1) fuel(2) economy(3) .(4) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive_Oil(1) change(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Expensive(1) ,(2) faulty(3) MAF(4) .(5) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Expensive(1) timing(2) belt(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			'(1) Love(2) driving(3) this(4) car(5) but(6) can(7) not(8) recommend(9) it(10) to(11) perspective(12) owners(13) who(14) would(15) buy(16) it(17) for(18) economy(19) .(20) 
+			<opinion polarity="-" feature="car" featWords="10" featRef="car" opWords="8,9"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			The(1) money(2) saved(3) on(4) fuel(5) is(6) spent(7) on(8) repairs(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) body(2) is(3) superior(4) to(5) most(6) cars(7) that(8) I(9) have(10) owned(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			No(1) squeaks(2) no(3) rattles(4) after(5) 60(6) k(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			A(1) solid(2) car(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Although(1) I(2) love(3) driving(4) my(5) TDI(6) ,(7) I(8) 'm(9) very(10) disappointed(11) with(12) the(13) cost(14) of(15) repairs(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Secret(1) warranty(2) exists(3) on(4) a(5) $400(6) faulty(7) Mass_Air_Flow(8) sensor(9) that(10) has(11) been(12) installed(13) over(14) many(15) years(16) now(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) replacement(2) will(3) fail(4) again(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			TDI(1) owners(2) have(3) replaced(4) MAF(5) with(6) a(7) cheaper(8) but(9) better(10) model(11) from(12) a(13) Mercedes(14) diesel(15) engine(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) Timing(2) belt(3) is(4) designed(5) to(6) last(7) only(8) 40,000_m(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			If(1) the(2) timing(3) belt(4) is(5) not(6) replaced(7) the(8) entire(9) engine(10) will(11) need(12) to(13) be(14) rebuilt(15) in_case(16) of(17) belt(18) failure(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			Update(1) Dec.24(2) ,(3) 03(4) Received(5) a(6) letter(7) from(8) VW(9) yesterday(10) advising(11) me(12) that(13) they(14) have(15) extended(16) the(17) warranty(18) on(19) the(20) MAF(21) to(22) 70(23) 000(24) mi(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			They(1) will(2) refund(3) any(4) money(5) paid(6) for(7) replacement(8) ,(9) as(10) long(11) as(12) the(13) car(14) was(15) not(16) over(17) 70k(18) ,(19) provided(20) I(21) have(22) the(23) bills(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			That(1) 's(2) a(3) step(4) in(5) the(6) right(7) direction(8) Mr._VW(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) unfortunate(3) that(4) it(5) took(6) this(7) long(8) and(9) resulted(10) in(11) so(12) much(13) bad(14) blood(15) at(16) the(17) customer(18) level(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			I(1) wonder(2) if(3) VW(4) will(5) refund(6) to(7) those(8) who(9) did(10) not(11) save(12) their(13) bill(14) over(15) the(16) years(17) when(18) the(19) repair(20) is(21) logged(22) in(23) the(24) data(25) base(26) of(27) the(28) dealer(29) ?(30) ?(31) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) All(16) options(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Standard(1) tranny(2) .(3) 
+		</sentence>
+	</text>
+</review>

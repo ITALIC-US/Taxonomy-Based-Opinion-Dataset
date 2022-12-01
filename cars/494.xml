@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="494" item="2003 Toyota 4Runner" rating="2">
+	<title>
+		<sentence id="1">
+			2003(1) 4Runner(2) ---(3) Not(4) that(5) good(6) !(7) 
+			<opinion polarity="-" feature="car" opWords="4,6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) looking(2) truck(3) .(4) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) the(2) quality(3) or(4) service(5) I(6) expected(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) wish(2) I(3) bought(4) another(5) Montero(6) instead(7) .(8) ((9) again(10) )(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			With(1) only(2) 6300_miles(3) on(4) it(5) ,(6) I(7) have(8) been(9) annoyed(10) with(11) a(12) squeaking(13) right(14) front(15) end(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) dealer(2) replaced(3) the(4) upper(5) arm(6) strut(7) bushing(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			It(1) stopped(2) squeaking(3) for(4) a(5) week(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			Now(1) the(2) squeaking(3) is(4) intermittent(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Of(1) course(2) it(3) will(4) not(5) squeak(6) for(7) the(8) dealer(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Another(1) problem(2) is(3) a(4) drone(5) and(6) vibration(7) during(8) low-end(9) torque(10) in(11) overdrive(12) ((13) 5th(14) gear(15) )(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			This(1) started(2) on(3) Dec(4) 9(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			The(1) dealer(2) does(3) not(4) hear(5) or(6) feel(7) this(8) ,(9) when(10) I(11) bring(12) the(13) truck(14) in(15) for(16) their(17) opinion(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			The(1) truck(2) ran(3) like(4) a(5) Lexus(6) when(7) new(8) ,(9) now(10) it(11) runs(12) like(13) a(14) Hundai(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Please(1) help(2) ,(3) if(4) you(5) know(6) the(7) solution(8) to(9) my(10) problems(11) .(12) e-mail(13) :(14) rarmelin@ci.rockland.me.us(15) Amount_Paid(16) ((17) US(18) $(19) )(20) :(21) 36000(22) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="232" item="JVC HA-G11 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Still_Looking_For_A_Good_Pair(1) .....(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Long(1) cord(2) ,(3) durability(4) seems(5) better(6) than(7) HAX570s(8) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) sound(2) quality(3) ,(4) weird(5) fit(6) ,(7) price(8) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="-" feature="comfort" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 've(3) been(4) reading(5) my(6) reviews(7) lately(8) you(9) know(10) that(11) I(12) ,(13) for(14) some(15) reason(16) ,(17) am(18) having(19) a(20) terrible(21) time(22) trying(23) to(24) find(25) a(26) good(27) set(28) of(29) full-size(30) headphones(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			First_I(1) tried(2) a(3) non-full(4) size(5) set(6) but(7) a(8) behind-the-neck(9) pair(10) from(11) Sony(12) ((13) MDRG42LP(14) )(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Those(1) broke(2) within(3) a(4) week(5) of(6) use(7) so(8) I(9) bought(10) a(11) pair(12) of(13) full-sized(14) headphones(15) from(16) Jensen(17) ((18) JF15(19) )(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			They(1) had(2) terrible(3) sound(4) and(5) came(6) with(7) a(8) cheap(9) pair(10) of(11) earbuds(12) .(13) 
+			<opinion polarity="-" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="earbuds" featWords="12" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			And(1) now(2) I(3) 'm(4) on(5) these(6) ((7) HAG11(8) )(9) ,(10) and(11) while(12) they(13) are(14) expensive(15) ,(16) deep(17) right(18) down(19) to(20) it(21) ...(22) their(23) sound(24) quality(25) leaves(26) a_lot(27) to(28) be(29) desired(30) ,(31) even(32) for(33) the(34) casual(35) listener(36) ,(37) they(38) do(39) not(40) fit(41) right(42) ,(43) and(44) are(45) too(46) pricey(47) .(48) 
+			<opinion polarity="-" feature="price" opWords="15"/>
+			<opinion polarity="-" feature="comfort" opWords="40,41,42"/>
+			<opinion polarity="-" feature="price" opWords="46,47"/>
+		</sentence>
+		<sentence id="6">
+			These(1) do(2) not(3) sound(4) terrible(5) ,(6) but(7) they(8) certainly(9) have(10) a(11) lack(12) of(13) bass(14) and(15) a(16) lack(17) of(18) clarity(19) .(20) 
+			<opinion polarity="+" feature="sound quality" opWords="3,4,5"/>
+			<opinion polarity="-" feature="bass" featWords="14" opWords="12"/>
+			<opinion polarity="-" feature="highs" featWords="19" opWords="17"/>
+		</sentence>
+		<sentence id="7">
+			I(1) paid(2) $15(3) ((4) not(5) even(6) list(7) price(8) )(9) for(10) them(11) and(12) they(13) are(14) not(15) worth(16) the(17) money(18) to(19) me(20) .(21) 
+			<opinion polarity="-" feature="headphones" opWords="15,16,17,18"/>
+		</sentence>
+		<sentence id="8">
+			They(1) do(2) have(3) a(4) long(5) cord(6) and(7) better(8) design(9) but(10) if(11) headphones(12) do(13) not(14) have(15) good(16) sound(17) or(18) fit(19) then(20) to(21) me(22) nothing(23) else(24) really(25) matters(26) .(27) 
+			<opinion polarity="+" feature="cord" featWords="6" opWords="5"/>
+		</sentence>
+	</text>
+</review>

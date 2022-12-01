@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="406" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Buy_These(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			amazing(1) comfort(2) ,(3) frequency(4) response(5) ,(6) design(7) ,(8) and(9) materials(10) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="frequency response" featWords="4,5" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) cheap(2) ,(3) they(4) need(5) an(6) amp(7) 
+			<opinion polarity="-" feature="price" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) looked(2) ,(3) listened(4) ,(5) and(6) searched(7) far(8) and(9) wide(10) for(11) THE(12) pair(13) of(14) headphones(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) listened(2) to(3) Grado(4) 's(5) ((6) too(7) tinny(8) ,(9) very(10) uncomfortable(11) )(12) ,(13) I(14) listened(15) to(16) other(17) Sennheisers(18) ...(19) but(20) in(21) the(22) end(23) ,(24) for(25) all(26) types(27) of(28) music(29) I(30) chose(31) the(32) HD600(33) 's(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			Imagine(1) strapping(2) a(3) pair(4) of(5) $10,000(6) speakers(7) to(8) your(9) head(10) ,(11) and(12) not(13) knowing(14) you(15) 're(16) wearing(17) them(18) ...(19) that(20) 's(21) how(22) amazing(23) they(24) are(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			They(1) want(2) power(3) though(4) ,(5) so(6) do(7) yourself(8) a(9) favor(10) and(11) buy(12) a(13) headphone(14) amplifier(15) the(16) "(17) Airhead(18) "(19) from(20) Headroom(21) is(22) stellar(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			They(1) 're(2) beautifully(3) assembled(4) ,(5) and(6) come(7) proudly(8) in(9) a(10) gorgeous(11) hard(12) case(13) too(14) .(15) 
+			<opinion polarity="+" feature="case" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) heard(3) that(4) their(5) open(6) nature(7) detracts(8) from(9) wearing(10) them(11) at(12) work(13) ,(14) but(15) my(16) office-mate(17) has(18) never(19) complained(20) ,(21) and(22) they(23) 've(24) changed(25) my(26) whole(27) work(28) experience(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) want(3) to(4) hear(5) "(6) Angel(7) trumpets(8) ,(9) and(10) devil(11) trombones(12) "(13) do(14) yourself(15) a(16) big(17) favor(18) and(19) buy(20) a(21) pair(22) ...(23) NOW(24) !(25) 
+		</sentence>
+	</text>
+</review>

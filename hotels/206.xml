@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="206" item="Atlantic Palace" rating="1">
+	<title>
+		<sentence id="1">
+			They(1) told(2) us(3) not(4) to(5) come(6) back(7) if(8) we(9) were(10) that(11) unhappy(12) !(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) room(2) ,(3) nice(4) view(5) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="view" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Double(1) booked(2) our(3) room(4) ,(5) unfriendly(6) staff(7) ,(8) no(9) alarm(10) clock(11) ,(12) key(13) access(14) from(15) boardwalk(16) broken(17) 
+			<opinion polarity="-" feature="staff" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) strongly(2) urge(3) anyone(4) who(5) reads(6) this(7) review(8) to(9) find(10) somewhere(11) else(12) to(13) stay(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Our(1) group(2) reserved(3) 5(4) rooms(5) at(6) the(7) Atlantic_Palace(8) this(9) past(10) weekend(11) ...(12) and(13) all(14) I(15) can(16) say(17) is(18) that(19) it(20) was(21) the(22) absolute(23) worst(24) display(25) of(26) customer(27) service(28) /(29) professionalism(30) I(31) 've(32) ever(33) experienced(34) .(35) 
+		</sentence>
+		<sentence id="2">
+			Initially(1) I(2) was(3) impressed(4) with(5) the(6) size(7) of(8) our(9) room(10) as_well(11) as(12) the(13) view(14) from(15) our(16) window(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			But(1) appearances(2) are(3) deceiving(4) ...(5) when(6) we(7) got(8) back(9) from(10) the(11) casinos(12) ,(13) around(14) 1am(15) ,(16) we(17) arrived(18) at(19) the(20) door(21) to(22) our(23) room(24) to(25) find(26) that(27) our(28) key(29) did(30) not(31) work(32) and(33) we(34) heard(35) voices(36) inside(37) our(38) room(39) .(40) 
+		</sentence>
+		<sentence id="4">
+			So(1) we(2) checked(3) to(4) make(5) sure(6) we(7) had(8) the(9) right(10) room(11) -(12) yep(13) ,(14) it(15) was(16) ours(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			We(1) knocked(2) on(3) the(4) door(5) to(6) find(7) 4(8) strangers(9) in(10) our(11) room(12) !(13) !(14) 
+		</sentence>
+		<sentence id="6">
+			As(1) we(2) entered(3) ,(4) confused(5) ...(6) they(7) proclaimed(8) "(9) yo(10) ,(11) we(12) did(13) not(14) steal(15) anything(16) "(17) Which(18) ,(19) of(20) course(21) ,(22) put(23) our(24) minds(25) to(26) rest(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			So(1) ,(2) the(3) Atlantic_Palace(4) double(5) booked(6) our(7) room(8) ,(9) reprogrammed(10) our(11) keys(12) ,(13) sent(14) strangers(15) up(16) to(17) our(18) room(19) who(20) had(21) total(22) access(23) to(24) our(25) belongings(26) ...(27) you(28) would(29) think(30) they(31) would(32) do(33) something(34) to(35) make(36) things(37) right(38) with(39) their(40) now(41) extremely(42) aggravated(43) guests(44) -(45) no(46) ,(47) all(48) we(49) got(50) was(51) a(52) bunch(53) of(54) attitude(55) and(56) a(57) "(58) do(59) not(60) come(61) back(62) if(63) you(64) hate(65) it(66) so(67) much(68) here(69) "(70) Trust(71) me(72) ,(73) we(74) will(75) not(76) -(77) and(78) we(79) 'll(80) make(81) sure(82) no(83) one(84) we(85) know(86) does(87) either(88) .(89) 
+		</sentence>
+	</text>
+</review>

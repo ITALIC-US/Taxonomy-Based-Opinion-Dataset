@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="222" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			We(1) stepped(2) up(3) to(4) the(5) Max(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Expensive(1) car(2) feel(3) for(4) less(5) money(6) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Premium(1) fuel(2) recommended(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) previously(3) written(4) an(5) opinion(6) on(7) the(8) Nissan_Altima(9) and(10) how(11) it(12) was(13) money(14) well(15) spent(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Well(1) ,(2) my(3) wife(4) and(5) I(6) have(7) recently(8) stepped(9) up(10) to(11) the(12) 2000(13) Maxima_GLE(14) and(15) it(16) too(17) is(18) money(19) well(20) spent(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			My(1) wife(2) had(3) wanted(4) a(5) 5(6) speed(7) SE(8) ,(9) but(10) since(11) Nissan(12) only(13) makes(14) a(15) limited(16) number(17) of(18) those(19) and(20) only(21) in(22) certain(23) colors(24) ((25) none(26) of(27) which(28) she(29) liked(30) )(31) we(32) chose(33) the(34) GLE(35) instead(36) ...(37) and(38) what(39) a(40) choice(41) it(42) was(43) ...(44) this(45) car(46) is(47) incredible(48) .(49) ((50) The(51) GLE(52) in(53) an(54) automatic(55) is(56) cheaper(57) than(58) a(59) SE(60) automatic(61) and(62) has(63) more(64) standard(65) equipment(66) .(67) )(68) The(69) initial(70) throttle(71) response(72) is(73) not(74) as(75) good(76) on(77) the(78) automatic(79) as(80) it(81) is(82) on(83) the(84) 5(85) speed(86) ,(87) but(88) it(89) 's(90) only(91) 8_tenths(92) of(93) a_second(94) slower(95) in(96) 0-60(97) ...(98) so(99) it(100) obviously(101) has(102) little(103) impact(104) on(105) the(106) top(107) end(108) .(109) 
+			<opinion polarity="+" feature="car" featWords="46" opWords="48"/>
+		</sentence>
+		<sentence id="4">
+			What(1) is(2) truly(3) amazing(4) is(5) that(6) a(7) car(8) with(9) 222(10) hp(11) and(12) that(13) kind(14) of(15) speed(16) ((17) 7.5_second(18) 0-60(19) )(20) is(21) so(22) remarkably(23) quiet(24) and(25) smooth(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="26"/>
+			<opinion polarity="+" feature="car" opWords="24"/>
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) take(3) off(4) from(5) a(6) stop(7) light(8) and(9) not(10) even(11) worry(12) about(13) spilling(14) your(15) morning(16) coffee(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			And(1) do(2) not(3) worry(4) about(5) stopping(6) ...(7) the(8) 4(9) wheel(10) disk(11) abs(12) are(13) more(14) than(15) enough(16) to(17) stop(18) you(19) at(20) that(21) next(22) light(23) and(24) still(25) not(26) spill(27) the(28) coffee(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			The(1) interior(2) is(3) outstanding(4) .(5) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) front(2) seats(3) offer(4) tremendous(5) side(6) back(7) support(8) and(9) are(10) VERY_COMFORTABLE(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) automatic(2) climate(3) control(4) should(5) be(6) standard(7) on(8) every(9) vehicle(10) made(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			It(1) regulates(2) the(3) temperature(4) and(5) fan(6) speed(7) so(8) well(9) that(10) my(11) wife(12) does(13) not(14) have(15) to(16) '(17) play(18) '(19) with(20) the(21) controls(22) at(23) all(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			Possibly(1) the(2) best(3) feature(4) is(5) the(6) Bose(7) stereo(8) system(9) ...(10) concert(11) hall(12) sound(13) is(14) an(15) understatement(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			This(1) stereo(2) is(3) crystal(4) clear(5) and(6) provides(7) the(8) best(9) quality(10) of(11) sound(12) I(13) have(14) ever(15) heard(16) in(17) a(18) car(19) stereo(20) ((21) or(22) a(23) home(24) stereo(25) for(26) that(27) matter(28) )(29) .(30) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="13">
+			All(1) of(2) the(3) gauges(4) are(5) easy(6) to(7) read(8) and(9) all(10) of(11) the(12) controls(13) are(14) within(15) easy(16) reach(17) of(18) the(19) driver(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) heard(3) some(4) negatives(5) about(6) the(7) exterior(8) styling(9) ,(10) and(11) I(12) must(13) admit(14) that(15) it(16) had(17) to(18) grow(19) on(20) me(21) ;(22) but(23) I(24) think(25) this(26) in(27) one(28) of(29) the(30) best(31) designed(32) and(33) engineered(34) cars(35) on(36) the(37) road(38) .(39) 
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) drawbacks(3) that(4) I(5) see(6) are(7) 1(8) )(9) Nissan(10) recommends(11) premium(12) unleaded(13) ...(14) we(15) have(16) used(17) mid-grade(18) to(19) this(20) point(21) with(22) no(23) problems(24) and(25) 2(26) )(27) if(28) the(29) driver(30) does(31) NOT(32) get(33) out(34) to(35) pump(36) fuel(37) or(38) open(39) the(40) truck(41) the(42) driver(43) side(44) door(45) remote(46) openers(47) are(48) in(49) an(50) awkward(51) location(52) ...(53) you(54) have(55) to(56) open(57) the(58) door(59) to(60) reach(61) them(62) .(63) 
+		</sentence>
+		<sentence id="16">
+			Everyone(1) will(2) form(3) their(4) own(5) opinion(6) on(7) the(8) Nissan_Maxima(9) ,(10) but(11) I(12) think(13) that(14) for(15) what(16) we(17) paid(18) for(19) it(20) we(21) got(22) the(23) same(24) luxury(25) and(26) sophistication(27) as(28) a(29) much(30) more(31) expensive(32) European(33) or(34) Japanese(35) car(36) ((37) Mercedes(38) or(39) Lexus(40) )(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			Give(1) the(2) Maxima(3) a(4) try(5) ...(6) I(7) really(8) do(9) not(10) think(11) you(12) will(13) be(14) disappointed(15) .(16) 
+		</sentence>
+	</text>
+</review>

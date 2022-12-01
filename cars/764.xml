@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="764" item="1997 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			NOT(1) a(2) performance(3) car(4) ,(5) but(6) basic(7) transportation(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fuel_Efficient(1) ,(2) comfortable(3) and(4) reliable(5) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extremely(1) lazy(2) engine(3) ,(4) no(5) passing(6) power(7) 
+			<opinion polarity="-" feature="engine" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			i(1) would(2) recommend(3) this(4) car(5) to(6) anyone(7) who(8) does(9) not(10) care(11) about(12) performance(13) ,(14) and(15) only(16) cares(17) about(18) a(19) reliable(20) user(21) freindly(22) car(23) that(24) anyone(25) can(26) drive(27) 
+			<opinion polarity="+" feature="reliability" opWords="20"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) 1997(4) Toyota(5) corolla(6) DX(7) ,(8) with(9) the(10) more(11) powerful(12) 7A-FE(13) 1.6(14) liter(15) engine(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) a(4) great(5) value(6) for(7) someone(8) looking(9) for(10) some(11) decent(12) transportation(13) .(14) the(15) car(16) will(17) not(18) turn(19) heads(20) or(21) win(22) any(23) trophies(24) for(25) style(26) ,(27) but(28) it(29) is(30) comfortable(31) ,(32) sips(33) gas(34) ,(35) and(36) is(37) overall(38) reliable(39) .(40) this(41) car(42) will(43) not(44) break(45) down(46) on(47) you(48) !(49) 
+			<opinion polarity="+" feature="reliability" opWords="39"/>
+			<opinion polarity="+" feature="comfort" opWords="31"/>
+		</sentence>
+		<sentence id="3">
+			The(1) corolla(2) is(3) known(4) for(5) its(6) bulletproof(7) reliability(8) ,(9) and(10) this(11) car(12) delivers(13) .(14) but(15) it(16) is(17) not(18) perfect(19) .(20) if(21) you(22) are(23) looking(24) for(25) a(26) compact(27) car(28) that(29) has(30) a(31) soul(32) ...(33) that(34) is(35) any(36) fun(37) AT_ALL(38) ,(39) then(40) this(41) is(42) not(43) the(44) car(45) for(46) you(47) .(48) its(49) acceleration(50) is(51) appalling(52) ,(53) and(54) even(55) my(56) more(57) powerful(58) engine(59) is(60) lazy(61) .(62) i(63) can(64) only(65) imagine(66) how(67) bad(68) the(69) 4A-FE(70) engine(71) is(72) .(73) even(74) with(75) overdrive(76) off(77) ,(78) the(79) engine(80) has(81) trouble(82) meeting(83) some(84) serious(85) pedal-pushing(86) .(87) the(88) car(89) can(90) barely(91) handle(92) 100(93) mph(94) speeds(95) ,(96) and(97) this(98) corolla(99) begins(100) to(101) sweat(102) after(103) being(104) pushed(105) to(106) 106-110(107) mph(108) .(109) it(110) also(111) has(112) a(113) weak(114) transmission(115) ((116) mine(117) is(118) automatic(119) )(120) that(121) can(122) not(123) really(124) handle(125) pedal(126) to(127) the(128) floor(129) acceleration(130) .(131) a(132) race(133) car(134) this(135) definetley(136) is(137) not(138) .(139) but(140) if(141) you(142) are(143) looking(144) for(145) a(146) car(147) to(148) take(149) you(150) from(151) A(152) to(153) B(154) in(155) comfort(156) ,(157) while(158) saving(159) money(160) and(161) not(162) having(163) to(164) worry(165) about(166) a(167) break(168) down(169) ,(170) this(171) car(172) is(173) the(174) car(175) for(176) you(177) ,(178) as(179) long(180) as(181) you(182) dont(183) care(184) how(185) long(186) it(187) takes(188) you(189) to(190) get(191) from(192) A(193) to(194) B._Amount_Paid(195) ((196) US(197) $(198) )(199) :(200) 17,000(201) Condition(202) :(203) NewModel_Year(204) :(205) 1997Model(206) and(207) Options(208) :(209) DX(210) automatic(211) 
+			<opinion polarity="-" feature="transmission" featWords="115" opWords="114"/>
+			<opinion polarity="+" feature="acceleration" featWords="50" opWords="52"/>
+			<opinion polarity="+" feature="car" featWords="28" opWords="27"/>
+			<opinion polarity="-" feature="car" opWords="18,19"/>
+			<opinion polarity="+" feature="reliability" featWords="8" opWords="7"/>
+		</sentence>
+	</text>
+</review>

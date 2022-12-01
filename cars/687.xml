@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="687" item="2000 Chrysler 300M" rating="3">
+	<title>
+		<sentence id="1">
+			300m(1) Electrical_Woes(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) style(3) and(4) room(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Faulty_Electrical(1) ,(2) rapid(3) tire(4) wear(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) attracted(3) to(4) the(5) 300m(6) by(7) it(8) 's(9) look(10) and(11) Chrysler(12) retro(13) advertising(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) looked(2) at(3) several(4) vehicles(5) and(6) thought(7) the(8) 300m(9) was(10) the(11) most(12) powerful(13) ((14) 253(15) hp(16) )(17) in(18) it(19) 's(20) class(21) and(22) was(23) thousands(24) of(25) dollars(26) less(27) expensive(28) .(29) 
+			<opinion polarity="+" feature="horsepower" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			Initially(1) I(2) was(3) very(4) pleased(5) with(6) it(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			Then(1) my(2) 300m(3) started(4) to(5) have(6) "(7) electrical(8) problems(9) "(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) head(2) lights(3) and(4) dash(5) lights(6) would(7) flicker(8) on(9) and(10) off(11) very(12) rapidly(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Sometimes(1) just(2) the(3) outer(4) lights(5) and(6) sometimes(7) just(8) the(9) dash(10) lights(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) automatic(2) seat(3) would(4) only(5) work(6) Intermittently(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			But(1) my(2) biggest(3) disappointment(4) was(5) the(6) way(7) I(8) was(9) treated(10) at(11) Chrysler(12) 's(13) Five(14) Star(15) dealership(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Because(1) the(2) problem(3) is(4) only(5) intermittent(6) they(7) are(8) not(9) really(10) interested(11) in(12) finding(13) and(14) isolating(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			After(1) much(2) heartache(3) I(4) did(5) manage(6) to(7) get(8) some(9) switches(10) a(11) computer(12) circuit(13) replaced(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			That(1) seemed(2) to(3) solve(4) the(5) problem(6) but(7) it(8) has(9) since(10) returned(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			I(1) suppose(2) I(3) should(4) not(5) have(6) expected(7) Cadillac(8) /(9) Lincoln(10) /(11) Lexus(12) service(13) from(14) a(15) place(16) that(17) is(18) used(19) to(20) dealing(21) with(22) Neon(23) car(24) shoppers(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			If(1) the(2) electrical(3) system(4) worked(5) this(6) car(7) would(8) be(9) a(10) top(11) value(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			It(1) has(2) lots(3) of(4) power(5) ,(6) handles(7) well(8) ,(9) has(10) stylish(11) lines(12) and(13) initially(14) got(15) a_lot_of(16) compliments(17) .(18) ((19) However(20) no(21) one(22) notices(23) the(24) 300m(25) these(26) days(27) .(28) )(29) It(30) has(31) a(32) large(33) trunk(34) .(35) 
+			<opinion polarity="+" feature="trunk" featWords="34" opWords="33"/>
+			<opinion polarity="+" feature="handling" opWords="7,8"/>
+		</sentence>
+		<sentence id="15">
+			But(1) I(2) always(3) am(4) wonder(5) if(6) my(7) lights(8) are(9) going(10) to(11) go(12) out(13) in(14) the(15) middle(16) of(17) the(18) night(19) and(20) cause(21) a(22) serious(23) accident(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			It(1) would(2) have(3) been(4) worth(5) spending(6) more(7) for(8) a(9) higher(10) quality(11) car(12) than(13) not(14) having(15) peace(16) of(17) mind(18) .(19) 
+		</sentence>
+	</text>
+</review>

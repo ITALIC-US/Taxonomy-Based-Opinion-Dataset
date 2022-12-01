@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="555" item="Sennheiser PXC 250 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Trade(1) one(2) bad(3) noise(4) for(5) another(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comes(1) with(2) a(3) nice(4) carrying(5) pouch(6) .(7) 
+			<opinion polarity="+" feature="case" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Includes(1) an(2) airplane(3) adapter(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slightly(1) deadens(2) external(3) sounds(4) while(5) adding(6) a(7) constant(8) hiss(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Sennheiser(2) PXC250(3) headphones(4) are(5) so(6) bad(7) I(8) would(9) not(10) use(11) them(12) if(13) they(14) were(15) free(16) ,(17) and(18) I(19) will(20) be(21) returning(22) the(23) pair(24) that(25) I(26) bought(27) .(28) 
+			<opinion polarity="-" feature="headphones" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) to(3) be(4) able(5) to(6) shut(7) out(8) sounds(9) like(10) people(11) at(12) work(13) and(14) lawnmowers(15) at(16) home(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) not(3) tried(4) either(5) of(6) those(7) situations(8) ,(9) but(10) when(11) testing(12) them(13) around(14) the(15) house(16) with(17) quieter(18) sounds(19) like(20) computer(21) fans(22) and(23) dogs(24) running(25) around(26) the(27) house(28) I(29) have(30) not(31) been(32) happy(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) turn(3) on(4) the(5) noise(6) canceling(7) feature(8) the(9) external(10) noise(11) is(12) deadened(13) some(14) but(15) not(16) eliminated(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			At(1) the(2) same(3) time(4) an(5) annoying(6) hiss(7) is(8) added(9) to(10) what(11) I(12) am(13) listening(14) to(15) in(16) the(17) headphones(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) rather(3) deal(4) with(5) the(6) external(7) sounds(8) by(9) old-fashioned(10) means(11) like(12) turning(13) up(14) the(15) headset(16) louder(17) than(18) by(19) dealing(20) with(21) the(22) hissing(23) in_the_PXC650(24) that(25) I(26) can(27) not(28) remove(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			The(1) headset(2) is(3) otherwise(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			It(1) comes(2) with(3) a(4) double-prong(5) airplane(6) adapter(7) and(8) a(9) carrying(10) pouch(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			It(1) requires(2) that(3) you(4) wear(5) a(6) battery(7) pack(8) that(9) you(10) can(11) clip(12) onto(13) your(14) belt(15) or(16) some(17) other(18) convenient(19) place(20) .(21) 
+		</sentence>
+	</text>
+</review>

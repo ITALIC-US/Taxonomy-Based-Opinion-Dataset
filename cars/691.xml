@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="691" item="2003 Dodge Ram" rating="3">
+	<title>
+		<sentence id="1">
+			Is(1) it(2) really(3) a(4) Hemi(5) ?(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) design(2) ,(3) useful(4) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) guzzler(2) ,(3) under(4) acheiver(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) buying(4) on(5) looks(6) alone(7) and(8) want(9) a(10) quality(11) vehicle(12) go(13) for(14) it(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) buy(3) it(4) and(5) assume(6) its(7) a(8) sport(9) truck(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="4" featRef="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) my(4) 2003(5) 1500(6) SLT(7) 2dr(8) w(9) /(10) the(11) 5.7(12) Hemi(13) and(14) 5(15) spd(16) auto(17) since(18) June(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) put(3) just(4) over(5) 7000_miles(6) on(7) the(8) odometer(9) and(10) I(11) still(12) have(13) yet(14) to(15) be(16) impressed(17) by(18) this(19) truck(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			The(1) optional(2) 20(3) "(4) wheels(5) give(6) it(7) a(8) ride(9) better(10) suited(11) for(12) a(13) chuck(14) wagon(15) ,(16) but(17) the(18) appearance(19) points(20) for(21) having(22) "(23) dubs(24) "(25) almost(26) out(27) weigh(28) this(29) .(30) To(31) make(32) up(33) for(34) the(35) poor(36) ride(37) quality(38) the(39) SLT(40) package(41) includes(42) power(43) drivers(44) seat(45) w(46) /(47) inflatable(48) lumbar(49) .(50) This(51) is(52) something(53) I(54) thought(55) was(56) over(57) kill(58) for(59) a(60) list(61) of(62) options(63) on(64) a(65) truck(66) but(67) now(68) I(69) would(70) not(71) have(72) it(73) any(74) other(75) way(76) .(77) The(78) interior(79) is(80) spacious(81) to(82) say(83) the(84) least(85) .(86) I(87) am(88) 6(89) '(90) 1(91) and(92) its(93) next(94) to(95) impossible(96) for(97) me(98) to(99) reach(100) across(101) the(102) cab(103) and(104) open(105) the(106) door(107) or(108) reach(109) something(110) thats(111) fallen(112) off(113) the(114) seat(115) in(116) the(117) passenger(118) side(119) .(120) This(121) extra(122) cabin(123) space(124) means(125) that(126) myself(127) and(128) 2(129) full(130) sized(131) humans(132) can(133) ride(134) farther(135) than(136) the(137) grocery(138) store(139) w(140) /(141) o(142) getting(143) cramped(144) .(145) Not(146) to(147) mention(148) nearly(149) a(150) full(151) foot(152) of(153) space(154) behind(155) the(156) seat(157) to(158) store(159) anything(160) in(161) the(162) included(163) bin(164) .(165) The(166) truck(167) very(168) responsive(169) when(170) cornering(171) at(172) speed(173) but(174) making(175) a(176) right(177) on(178) red(179) in(180) the(181) rain(182) is(183) tough(184) because_of(185) the(186) posi-trac(187) rear(188) end(189) ((190) it(191) wants(192) to(193) grip(194) in(195) a(196) straight(197) line(198) so(199) it(200) tends(201) to(202) make(203) the(204) truck(205) slide(206) )(207) .(208) The(209) brakes(210) are(211) wonderful(212) .(213) Dual(214) piston(215) front(216) disc(217) and(218) rear(219) discs(220) are(221) very(222) welcome(223) after(224) the(225) last(226) generations(227) of(228) trucks(229) having(230) small(231) front(232) discs(233) and(234) quick(235) to(236) fade(237) drums(238) out(239) back(240) .(241) My(242) issue(243) is(244) w(245) /(246) the(247) engine(248) .(249) Dodge(250) never(251) came(252) out(253) and(254) said(255) it(256) but(257) this(258) was(259) advertised(260) as(261) a(262) sport(263) truck(264) .(265) They(266) showed(267) the(268) truck(269) in(270) mock(271) street(272) racing(273) scenes(274) ,(275) etcs(276) .(277) From(278) a(279) dead(280) stop(281) this(282) truck(283) can(284) not(285) get(286) out(287) of(288) its(289) own(290) way(291) .(292) 40-60mph(293) for(294) passing(295) is(296) awesome(297) to(298) say(299) the(300) least(301) ,(302) anything(303) outside_of(304) that(305) range(306) and(307) its(308) very(309) sluggish(310) for(311) an(312) advertised(313) 345hp/380tq(314) .(315) On(316) top(317) of(318) the(319) subpar(320) acceleration(321) the(322) fuel(323) economy(324) is(325) non-existant(326) .(327) City(328) driving(329) I(330) get(331) 11.8mpg(332) ((333) better(334) than(335) most(336) I(337) 've(338) talked(339) to(340) w(341) /(342) the(343) same(344) truck(345) )(346) and(347) 16mpg(348) highway(349) .(350) I(351) bought(352) this(353) truck(354) to(355) escape(356) the(357) high(358) insurance(359) on(360) my(361) sports(362) car(363) but(364) the(365) cost(366) is(367) brought(368) back(369) up(370) at(371) the(372) gas(373) pump(374) .(375) If(376) you(377) are(378) into(379) aftermarket(380) mods(381) ,(382) there(383) is(384) little(385) available(386) for(387) the(388) new(389) ram(390) in(391) the(392) way(393) of(394) performance(395) .(396) There(397) are(398) several(399) lowering(400) /(401) lifting(402) kits(403) out(404) ,(405) as_well(406) as(407) a(408) few(409) other(410) appearance(411) mods(412) .(413) Amount_Paid(414) ((415) US(416) $(417) )(418) :(419) 22900(420) 
+			<opinion polarity="-" feature="car" opWords="310" potency="309"/>
+			<opinion polarity="+" feature="car" opWords="297"/>
+			<opinion polarity="+" feature="brakes" featWords="210" opWords="212"/>
+			<opinion polarity="+" feature="response" opWords="169"/>
+			<opinion polarity="+" feature="interior" featWords="79" opWords="81"/>
+			<opinion polarity="-" feature="ride quality" featWords="37,38" opWords="36"/>
+		</sentence>
+	</text>
+</review>

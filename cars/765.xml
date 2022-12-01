@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="765" item="1997 Toyota Corolla" rating="1">
+	<title>
+		<sentence id="1">
+			Why(1) me(2) ?(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) ,(3) smooth(4) ride(5) when(6) it(7) runs(8) 
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unreliable(1) ,(2) scared(3) to(4) drive(5) it(6) alone(7) 
+			<opinion polarity="-" feature="reliability" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Everyone(1) is(2) writing(3) such(4) wonderful(5) reviews(6) for(7) this(8) card(9) and(10) I(11) have(12) ad(13) nothing(14) but(15) heartache(16) over(17) it(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) like(3) a(4) bad(5) omen(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) stays(2) in(3) the(4) shop(5) ,(6) and(7) just(8) when(9) we(10) think(11) it(12) is(13) fixed(14) ,(15) it(16) breaks(17) down(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) main(2) problem(3) is(4) not(5) starting(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			WE(1) go(2) out(3) ,(4) ready(5) for(6) church(7) ,(8) work(9) ,(10) etc(11) ....(12) and(13) the(14) car(15) engine(16) wont(17) even(18) turn(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			This(1) has(2) happened(3) more(4) times(5) than(6) I(7) can(8) count(9) .(10) ((11) Just(12) earlier(13) today(14) to(15) be(16) exact(17) )(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			My(1) husband(2) has(3) to(4) fiddle(5) around(6) and(7) after(8) about(9) an(10) hour(11) of(12) complaining(13) ,(14) we(15) get(16) it(17) started(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			We(1) have(2) tried(3) everything(4) and(5) it(6) stays(7) at(8) the(9) shop(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			We(1) have(2) had(3) it(4) for(5) 2(6) years(7) and(8) are(9) ready(10) to(11) chuck(12) it(13) !(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) hate(2) this(3) car(4) with(5) a(6) passion(7) and(8) look(9) foward(10) to(11) my(12) next(13) .(14) 
+			<opinion polarity="-" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1997Model(12) and(13) Options(14) :(15) LE(16) 
+		</sentence>
+	</text>
+</review>

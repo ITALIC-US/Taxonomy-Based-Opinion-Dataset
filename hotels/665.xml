@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="665" item="Club Quarters in Philadelphia" rating="5">
+	<title>
+		<sentence id="1">
+			great(1) stay(2) for(3) the(4) pay(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) rates(2) ,(3) clean(4) rooms(5) ,(6) automated(7) check-out(8) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) wait(2) to(3) check-in(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			great(1) stay(2) if(3) you(4) 're(5) a(6) member(7) and(8) want(9) to(10) save(11) a(12) little(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) just(3) one(4) night(5) at(6) Club_Quarters(7) in(8) Philadelphia(9) and(10) I(11) enjoyed(12) it(13) very(14) much(15) --(16) especially(17) given(18) the(19) great(20) rate(21) !(22) 
+		</sentence>
+		<sentence id="2">
+			For(1) those(2) who(3) do(4) not(5) know(6) ,(7) though(8) ,(9) Club_Quarters(10) is(11) a(12) members(13) only(14) hotel(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			So(1) you(2) have(3) to(4) be(5) affiliated(6) with(7) a(8) member(9) organization(10) to(11) reserve(12) a(13) room(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			A_lot_of(1) people(2) have(3) commented(4) on(5) the(6) rooms(7) being(8) small(9) .(10) 
+			<opinion polarity="-" feature="rooms" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			Yes(1) ,(2) they(3) 're(4) smaller(5) than(6) the(7) average(8) hotel(9) room(10) ,(11) but(12) I(13) did(14) not(15) find(16) that(17) a(18) problem(19) at(20) all(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) only(2) really(3) needed(4) a(5) bed(6) and(7) a(8) bathroom(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) 're(3) someone(4) who(5) needs(6) a(7) bathtub(8) ,(9) the(10) size(11) may(12) become(13) a(14) problem(15) because(16) they(17) only(18) have(19) showers(20) in(21) the(22) smallest(23) rooms(24) .(25) 
+			<opinion polarity="-" feature="rooms" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="8">
+			All(1) the(2) furnishings(3) ,(4) by(5) the(6) way(7) ,(8) are(9) very(10) new(11) and(12) clean(13) .(14) 
+			<opinion polarity="+" feature="furnishings" featWords="3" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="furnishings" featWords="3" opWords="13"/>
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) an(3) Executive_Room(4) ,(5) which(6) is(7) the(8) smallest(9) ,(10) but(11) has(12) a(13) queen(14) size(15) bed(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			So(1) two(2) people(3) can(4) have(5) a(6) nice(7) stay(8) ,(9) although(10) any(11) more(12) would(13) probably(14) feel(15) cramped(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			My(1) room(2) had(3) an(4) uninspiring(5) view(6) of(7) some(8) downtown(9) rooftops(10) ,(11) but(12) that(13) was(14) not(15) a(16) big(17) deal(18) .(19) 
+			<opinion polarity="-" feature="view" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="12">
+			There(1) 's(2) a(3) digital(4) thermostat(5) which(6) has(7) AC(8) and(9) heat(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			A(1) tiny(2) refrigerator(3) is(4) also(5) there(6) for(7) your(8) convenience(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Also(1) ,(2) wireless(3) internet(4) access(5) is(6) free(7) .(8) 
+			<opinion polarity="+" feature="internet" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) problem(3) I(4) can(5) say(6) I(7) had(8) with(9) the(10) room(11) is(12) that(13) the(14) chair(15) had(16) a(17) slightly(18) loose(19) arm(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) location(2) is(3) great(4) ,(5) being(6) in(7) Center_City(8) ,(9) and(10) a(11) short(12) walk(13) --(14) 5(15) to(16) 10(17) minutes(18) --(19) from(20) public(21) transportation(22) including(23) SEPTA(24) and(25) the(26) trolleys(27) .(28) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			It(1) 's(2) also(3) right(4) across(5) from(6) Liberty_Place(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			There(1) 's(2) an(3) Italian(4) restaurant(5) inside(6) the(7) hotel(8) ,(9) which(10) is(11) 15_%(12) off(13) for(14) hotel(15) guests(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			It(1) still(2) seemed(3) somewhat(4) over-priced(5) so(6) I(7) did(8) not(9) go(10) .(11) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="20">
+			It(1) was(2) very(3) full(4) if(5) that(6) 's(7) any(8) indication(9) of(10) its(11) appeal(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			In(1) any(2) case(3) ,(4) there(5) are(6) a(7) variety(8) of(9) places(10) you(11) can(12) eat(13) since(14) the(15) hotel(16) 's(17) downtown(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			The(1) entrance(2) is(3) a_bit(4) confusing(5) since(6) the(7) lobby(8) is(9) actually(10) on(11) the(12) second(13) floor(14) ,(15) which(16) you(17) have(18) to(19) take(20) an(21) elevator(22) to(23) .(24) 
+			<opinion polarity="-" feature="lobby" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="23">
+			They(1) seem(2) to(3) be(4) slightly(5) under-staffed(6) at(7) the(8) front(9) desk(10) .(11) 
+			<opinion polarity="-" feature="front desk" featWords="9,10" opWords="6"/>
+		</sentence>
+		<sentence id="24">
+			So(1) you(2) may(3) end(4) up(5) waiting(6) a(7) few(8) minutes(9) at(10) check-in(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			Check-out(1) is(2) no(3) problem(4) ,(5) however(6) ,(7) because(8) it(9) 's(10) fully(11) automated(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			That(1) was(2) definitely(3) a(4) nice(5) feature(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			Overall(1) ,(2) I(3) can(4) not(5) complain(6) about(7) a(8) great(9) hotel(10) room(11) in(12) a(13) great(14) location(15) for(16) half(17) the(18) price(19) of(20) a(21) typical(22) hotel(23) .(24) 
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="place" featWords="15" opWords="14"/>
+		</sentence>
+	</text>
+</review>

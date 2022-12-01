@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="235" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Love(1) that(2) Y2K(3) Max(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) easy(3) to(4) reach(5) controls(6) ,(7) very(8) comfortable(9) 
+			<opinion polarity="+" feature="comfort" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="controls" featWords="6" opWords="3,4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			If(1) I(2) had(3) to(4) complain(5) ---(6) just(7) one(8) thing(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			In(1) door(2) map(3) pockets(4) look(5) cheap(6) ,(7) all(8) made(9) of(10) plastic(11) and(12) show(13) shoe(14) scuff(15) marks(16) easily(17) .(18) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			***(1) December(2) 17(3) ,(4) 1999---After(5) several(6) months(7) of(8) new(9) car(10) shopping(11) ,(12) looking(13) at(14) various(15) other(16) cars(17) ,(18) I(19) found(20) there(21) to(22) be(23) no(24) comparison(25) when(26) I(27) chose(28) the(29) 2000(30) Maxima_SE_I(31) now(32) own(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			I(1) needed(2) a(3) four(4) door(5) vehicle(6) with(7) your(8) basic(9) amenities(10) i(11) .(12) e(13) .(14) power(15) doors(16) ,(17) windows(18) ,(19) mirrors(20) ,(21) moon-roof(22) and(23) seats(24) ,(25) a(26) remote(27) central(28) locking(29) system(30) with(31) alarm(32) ,(33) it(34) had(35) to(36) have(37) a(38) strong(39) yet(40) proven(41) and(42) powerful(43) V(44) -(45) 6(46) engine(47) ,(48) stop(49) on(50) a(51) dime(52) anti-lock(53) brakes(54) ,(55) a(56) quiet(57) yet(58) powerful(59) a(60) /(61) c(62) ,(63) an(64) in-dash(65) c(66) /(67) d(68) ,(69) a(70) spacious(71) trunk(72) with(73) useful(74) 60/40(75) split(76) seats(77) and(78) a(79) roomy(80) interior(81) for(82) 4(83) to(84) 5(85) adults(86) able(87) to(88) accommodate(89) 6(90) '(91) 3(92) 240_pound(93) little(94) old(95) me(96) in(97) comfort(98) .(99) 
+			<opinion polarity="+" feature="engine" featWords="47" opWords="43"/>
+			<opinion polarity="+" feature="engine" featWords="47" opWords="39"/>
+			<opinion polarity="+" feature="trunk" featWords="72" opWords="71"/>
+			<opinion polarity="+" feature="interior" featWords="81" opWords="80"/>
+		</sentence>
+		<sentence id="3">
+			And(1) I(2) found(3) all(4) of(5) this(6) and(7) more(8) in(9) my(10) Y2K(11) Maxima(12) !(13) 
+		</sentence>
+		<sentence id="4">
+			After(1) looking(2) at(3) Accord(4) ((5) for(6) which(7) I(8) traded(9) in(10) my(11) '(12) 88(13) model(14) --(15) but(16) could(17) not(18) see(19) paying(20) nearly(21) 3-5(22) grand(23) more(24) for(25) ,(26) not(27) to(28) mention(29) sky(30) high(31) insurance(32) rates(33) )(34) ,(35) Passat(36) ((37) not(38) as(39) comfortable(40) ,(41) poor(42) sales(43) staff(44) attention(45) and(46) definitely(47) not(48) as(49) powerful(50) )(51) ,(52) A4(53) ((54) same(55) as(56) Passat(57) --(58) basically(59) )(60) ,(61) 323i(62) ((63) very(64) nice(65) and(66) quite(67) a(68) status(69) symbol(70) here(71) in(72) L.A.(73) ,(74) but(75) what(76) sticker(77) shock--10(78) grand(79) more(80) ?(81) ?(82) ?(83) Who(84) are(85) they(86) kidding(87) ?(88) And(89) service(90) costs(91) through(92) the(93) roof(94) ?(95) ?(96) ?(97) Forget(98) it(99) )(100) .(101) 
+		</sentence>
+		<sentence id="5">
+			No(1) way(2) was(3) I(4) going(5) to(6) settle(7) for(8) any(9) less(10) than(11) what(12) I(13) got(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) love(2) my(3) SE_Maxima(4) ((5) in(6) black(7) of(8) course(9) --(10) would(11) not(12) look(13) better(14) in(15) any(16) other(17) color(18) )(19) with(20) it(21) 's(22) 17(23) "(24) wheel(25) option(26) ((27) made(28) available(29) here(30) in(31) early(32) August(33) )(34) ,(35) for(36) which(37) I(38) made(39) mine(40) nearly(41) 4(42) months(43) ago(44) .(45) The(46) power(47) is(48) awesome(49) ,(50) the(51) look(52) --(53) legendary(54) ,(55) ease(56) of(57) use(58) --(59) the(60) best(61) ,(62) handling(63) ability(64) --(65) unlike(66) any(67) other(68) and(69) all(70) of(71) this(72) with(73) Nissans(74) much(75) reliable(76) ,(77) proven(78) and(79) perfectly(80) enhanced(81) V(82) -(83) 6(84) engine(85) ((86) now(87) ,(88) chain(89) driven(90) not(91) belt(92) driven(93) ,(94) extra(95) horse(96) power(97) inducing(98) muffler(99) ,(100) 100K_miles(101) without(102) a(103) tune-up(104) )(105) you(106) can(107) not(108) go(109) wrong(110) with(111) this(112) car(113) .(114) I(115) thought(116) I(117) would(118) never(119) leave(120) Honda(121) after(122) 11(123) years(124) of(125) ownership(126) ,(127) but(128) alas(129) ,(130) I(131) did(132) .(133) And(134) you(135) will(136) too(137) .(138) 
+			<opinion polarity="+" feature="horsepower" featWords="47" opWords="49"/>
+		</sentence>
+	</text>
+</review>

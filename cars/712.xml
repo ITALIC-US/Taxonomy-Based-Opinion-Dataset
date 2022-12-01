@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="712" item="1998 Subaru Forester" rating="2">
+	<title>
+		<sentence id="1">
+			Rear_Deferential_Problems(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) to(2) drive(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rear_Differential(1) !(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			So(1) my(2) Forester(3) now(4) has(5) 41,000_miles(6) in(7) it(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			About(1) a(2) month(3) ago(4) it(5) started(6) making(7) an(8) "(9) airy(10) high(11) pitched(12) hum(13) "(14) when(15) I(16) was(17) cruising(18) down(19) the(20) freeway(21) at(22) a(23) consistent(24) speed(25) between(26) 60(27) and(28) 70(29) mph(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) had(3) it(4) at(5) the(6) dealer(7) today(8) to(9) get(10) the(11) oil(12) changed(13) I(14) was(15) told(16) -(17) It(18) 's(19) under(20) warranty(21) -(22) The(23) rear(24) deferential(25) is(26) heating(27) up(28) -(29) we(30) ordered(31) the(32) part(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			do(1) not(2) drive(3) it(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			If(1) it(2) freezes(3) up(4) you(5) have(6) to(7) pay(8) to(9) fix(10) it(11) !(12) 
+		</sentence>
+		<sentence id="6">
+			What(1) ?(2) 
+		</sentence>
+		<sentence id="7">
+			So(1) they(2) 'll(3) fix(4) it(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			What(1) 's(2) going(3) to(4) happen(5) at(6) 80,000(7) when(8) it(9) 's(10) not(11) under(12) warranty(13) ?(14) 
+		</sentence>
+		<sentence id="9">
+			Okay(1) ,(2) we(3) live(4) 1/2_mile(5) up(6) a(7) gravel(8) road(9) ((10) It(11) 's(12) getting(13) paved(14) this(15) week(16) )(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Some(1) people(2) consider(3) it(4) an(5) environment(6) that(7) 's(8) hard(9) on(10) cars(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			That(1) 's(2) why(3) I(4) bought(5) this(6) Forester(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			But(1) in(2) the(3) rainy(4) winters(5) the(6) brakes(7) are(8) squealing(9) all(10) the(11) time(12) .(13) 
+			<opinion polarity="-" feature="brakes" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			Dealer(1) said(2) high(3) pressure(4) wash(5) them(6) with(7) a(8) hose(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			That(1) might(2) help(3) sometimes(4) .(5) 
+		</sentence>
+		<sentence id="15">
+			It(1) 's(2) annoying(3) .(4) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			Plus(1) I(2) have(3) rubber(4) mats(5) -(6) But(7) the(8) carpet(9) still(10) wore(11) through(12) to(13) the(14) floor(15) in(16) two(17) spots(18) where(19) I(20) rest(21) my(22) left(23) foot(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			The(1) back(2) hatch(3) rattles(4) for(5) every(6) little(7) bump(8) all(9) the(10) time(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			The(1) dealer(2) charged(3) me(4) to(5) lubricate(6) it(7) once(8) and(9) the(10) rattle(11) stopped(12) for(13) 2(14) days(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			I(1) miss(2) my(3) 10(4) year(5) old(6) Honda(7) .(8) 
+		</sentence>
+	</text>
+</review>

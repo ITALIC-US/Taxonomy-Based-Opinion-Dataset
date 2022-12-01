@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="300" item="2001 Volkswagen Jetta TDI" rating="1">
+	<title>
+		<sentence id="1">
+			Lemon(1) of(2) a(3) jetta(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) ride(2) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) gas(2) tank(3) ,(4) bad(5) transmissions(6) 
+			<opinion polarity="-" feature="transmission" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="gas tank" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) 1999(4) VR6(5) Volkswagon(6) jetta(7) to(8) be(9) used(10) for(11) a(12) business(13) because(14) I(15) am(16) on(17) the(18) road(19) a_lot(20) and(21) do(22) a_lot_of(23) driving(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			After(1) being(2) used(3) to(4) driving(5) v(6) 6(7) 's(8) I(9) just(10) could(11) not(12) commit(13) myself(14) to(15) buying(16) a(17) 4(18) cylinder(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Well(1) what(2) a(3) mistake(4) I(5) made(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) the(4) gas(5) tank(6) is(7) only(8) 14.5_gallons(9) and(10) I(11) am(12) putting(13) gas(14) in(15) this(16) car(17) every(18) other(19) day(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Secondly(1) after(2) the(3) first(4) 1000_miles(5) I(6) started(7) to(8) hear(9) a(10) high(11) pitched(12) noise(13) when(14) driving(15) between(16) 35-40_miles(17) an(18) hour(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Well(1) this(2) was(3) only(4) the(5) beginning(6) of(7) my(8) problem(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) took(2) the(3) car(4) in(5) and(6) they(7) told(8) me(9) they(10) needed(11) to(12) replace(13) the(14) transmission(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Ok(1) they(2) replaced(3) it(4) but(5) guess(6) what(7) that(8) transmission(9) was(10) bad(11) also(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Now(1) they(2) gave(3) me(4) another(5) option(6) to(7) either(8) replace(9) it(10) again(11) or(12) I(13) could(14) replace(15) it(16) with(17) a(18) 2001(19) which(20) I(21) choose(22) to(23) do(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Well(1) needless(2) to(3) say(4) I(5) was(6) happy(7) they(8) treated(9) me(10) well(11) and(12) I(13) had(14) a(15) new(16) car(17) and(18) quiet(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="11">
+			Well(1) that(2) did(3) not(4) last(5) to(6) long(7) after(8) the(9) car(10) hit(11) around(12) 1200_miles(13) guess(14) what(15) the(16) same(17) noise(18) came(19) back(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			I(1) 've(2) contacted(3) the(4) dealer(5) and(6) have(7) not(8) heard(9) a(10) word(11) since(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			A(1) week(2) has(3) gone(4) by(5) and(6) I(7) am(8) waiting(9) to(10) hear(11) from(12) a(13) Volkswagon(14) rep(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			I(1) 've(2) heard(3) so(4) many(5) good(6) things(7) about(8) the(9) jetta(10) and(11) it(12) gives(13) a(14) nice(15) ride(16) that(17) 's(18) why(19) we(20) decided(21) to(22) buy(23) this(24) car(25) but(26) it(27) was(28) obviously(29) the(30) wrong(31) decision(32) or(33) my(34) luck(35) is(36) just(37) real(38) bad(39) .(40) 
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) like(3) to(4) hear(5) from(6) other(7) people(8) that(9) possibly(10) had(11) the(12) same(13) problem(14) .(15) 
+		</sentence>
+	</text>
+</review>

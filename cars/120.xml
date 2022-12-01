@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="120" item="1997 Pontiac Trans Sport" rating="1">
+	<title>
+		<sentence id="1">
+			First_I(1) like(2) that(3) van(4) till(5) I(6) got(7) expensive(8) repairs(9) 
+			<opinion polarity="-" feature="price" opWords="8"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) looking(2) ,(3) lot(4) of(5) space(6) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unreliable(1) 
+			<opinion polarity="-" feature="reliability" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) even(3) get(4) close(5) to(6) that(7) product(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			do(1) not(2) ever(3) think(4) buying(5) this(6) van(7) .(8) 
+			<opinion polarity="-" feature="van" featWords="7" opWords="2,5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) new(4) in(5) fall(6) 1997(7) and(8) I(9) did(10) like(11) it(12) until(13) :(14) -(15) 90(16) 000(17) km(18) transmission(19) blowout(20) by(21) towing(22) a(23) 1100(24) lbs(25) trailer(26) tent(27) ((28) even(29) with(30) an(31) added(32) transmission(33) oil(34) cooler(35) )(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			Cost(1) $1450(2) -115(3) 000(4) km(5) intake(6) gasket(7) blowout(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Cost(1) $560(2) -129(3) 000(4) km(5) head(6) gasket(7) blowout(8) ,(9) coolant(10) in(11) oil(12) ,(13) crankshaft(14) blowout(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Cost(1) $4000(2) -160(3) 000(4) km(5) front(6) right(7) bearing(8) blowout(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Bearing(1) come(2) as(3) a(4) kit(5) with(6) hub(7) and(8) ABS(9) sensor(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Bearing(1) seized(2) on(3) drive(4) shaft(5) by(6) rust(7) ,(8) bearing(9) had(10) to(11) be(12) cut(13) in(14) 2(15) with(16) torch(17) ,(18) resulting(19) of(20) drive(21) shaft(22) scrap(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			Cost(1) $700(2) Yes(3) all(4) that(5) in(6) 18(7) months(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			do(1) not(2) touch(3) that(4) piece(5) of(6) crap(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			You(1) want(2) some(3) more(4) ,(5) my(6) father(7) bought(8) his(9) 1(10) week(11) after(12) mine(13) ,(14) he(15) just(16) blew(17) out(18) his(19) engine(20) same(21) as(22) me(23) at(24) 75(25) 000(26) km.(27) Two(28) of(29) my(30) working(31) buddy(32) had(33) there(34) intake(35) gasket(36) change(37) and(38) third(39) one(40) just(41) blowout(42) his(43) transmission(44) at(45) 87(46) 000(47) km.(48) Amount_Paid(49) ((50) US(51) $(52) )(53) :(54) 20000(55) Condition(56) :(57) NewModel_Year(58) :(59) 1997Model(60) and(61) Options(62) :(63) Trans_Sport(64) 
+		</sentence>
+	</text>
+</review>

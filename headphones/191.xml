@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="191" item="Sony MDR-G54LP Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Dated(1) style(2) over(3) abhorrent(4) comfort(5) .(6) 
+			<opinion polarity="-" feature="comfort" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) quality(2) if(3) fine(4) so(5) long(6) as(7) you(8) stay(9) completely(10) motionless(11) .(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) wear(3) a(4) collared(5) shirt(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Can(1) not(2) wear(3) glasses(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Must(1) refrain(2) from(3) moving(4) head(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) people(2) at(3) Sony(4) truly(5) missed(6) the(7) mark(8) on(9) this(10) one(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) feel(2) like(3) these(4) headphones(5) could(6) not(7) have(8) possibly(9) been(10) product(11) tested(12) ,(13) as(14) they(15) fit(16) so(17) ridiculously(18) uncomfortably(19) on(20) my(21) head(22) .(23) 
+			<opinion polarity="-" feature="comfort" opWords="16,19" potency="17,18"/>
+		</sentence>
+		<sentence id="3">
+			They(1) feel(2) completely(3) loose(4) and(5) yet(6) they(7) continuously(8) pinch(9) my(10) ears(11) with(12) every(13) move(14) I(15) make(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			And(1) forget(2) about(3) wearing(4) glasses(5) at(6) the(7) same(8) time(9) ,(10) they(11) are(12) simply(13) not(14) compatible(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) best(2) part(3) is(4) it(5) seems(6) that(7) Sony(8) has(9) extended(10) the(11) band(12) that(13) loops(14) around(15) your(16) head(17) in(18) the(19) name(20) of(21) fashion(22) ?(23) ,(24) which(25) makes(26) leaning(27) back(28) in(29) a(30) chair(31) or(32) tilting(33) your(34) head(35) a(36) thing(37) of(38) the(39) past(40) .(41) 
+		</sentence>
+		<sentence id="6">
+			God(1) these(2) headphones(3) are(4) annoying(5) .(6) 
+			<opinion polarity="-" feature="headphones" featWords="3" opWords="5"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="364" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Excellent(1) ,(2) Sturdy(3) ,(4) Lightweight(5) ,(6) Great_Sounding(7) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="+" feature="durability" opWords="3"/>
+			<opinion polarity="+" feature="weight" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) fitting(2) ,(3) Excellent(4) sound(5) ,(6) Excellent(7) all(8) around(9) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="headphones" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			have(1) not(2) found(3) any(4) yet(5) ...(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) read(2) some(3) of(4) the(5) reviews(6) here(7) before(8) purchasing(9) a(10) set(11) of(12) these(13) headphones(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) not(3) a(4) professional(5) sound(6) engineer(7) ,(8) but(9) enjoy(10) music(11) at(12) home(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) concerned(3) about(4) some(5) of(6) the(7) reviews(8) that(9) spoke(10) about(11) the(12) overemphasized(13) bass(14) with(15) these(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) use(2) the(3) headphones(4) with(5) a(6) system(7) that(8) has(9) equalization(10) for(11) sound(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) can(2) trim(3) the(4) bass(5) ,(6) trim(7) the(8) highs(9) ,(10) or(11) just(12) let(13) it(14) roll(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) headphones(2) will(3) blow(4) you(5) away(6) with(7) bass(8) if(9) you(10) want(11) it(12) that(13) way(14) ,(15) and(16) you(17) can(18) trim(19) it(20) down(21) if(22) your(23) system(24) can(25) equalize(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) very(3) comfortable(4) to(5) wear(6) ,(7) and(8) I(9) can(10) wear(11) them(12) all(13) day(14) if(15) I(16) desire(17) to(18) listen(19) to(20) the(21) music(22) all(23) day(24) long(25) while(26) I(27) do(28) work(29) on(30) my(31) computer(32) .(33) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			The(1) earcups(2) are(3) very(4) comfortable(5) and(6) outside(7) sound(8) is(9) practically(10) eliminated(11) .(12) 
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) can(2) adjust(3) the(4) pressure(5) against(6) my(7) ears(8) so_that(9) it(10) is(11) in(12) the(13) most(14) comfortable(15) position(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) coiled(2) cord(3) on(4) the(5) headset(6) is(7) just(8) right(9) for(10) the(11) installation(12) that(13) I(14) have(15) ,(16) with(17) the(18) tuner(19) within(20) reach(21) .(22) 
+			<opinion polarity="+" feature="cord" featWords="3" opWords="8,9"/>
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) just(3) an(4) all(5) around(6) excellent(7) system(8) .(9) elindago@earthlink.net(10) 
+			<opinion polarity="+" feature="headphones" featWords="8" featRef="headphones" opWords="7"/>
+		</sentence>
+	</text>
+</review>

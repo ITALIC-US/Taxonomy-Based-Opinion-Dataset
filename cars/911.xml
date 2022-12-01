@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="911" item="1992 Toyota Camry" rating="2">
+	<title>
+		<sentence id="1">
+			Newer(1) is(2) Better(3) ...(4) I_Think(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Gas_Mileage(1) ,(2) Supposedly_Long_Lasting(3) and(4) Reliable(5) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Except_for(1) sipping(2) gas(3) ,(4) expensive(5) to(6) own(7) for(8) a(9) mid-size(10) family(11) car(12) .(13) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) pay(2) more(3) and(4) get(5) less(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) pay(3) for(4) the(5) name(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) 2000-2001(2) ,(3) I(4) owned(5) a(6) 1988(7) Toyota_Camry(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) it(3) with(4) 118,000_miles(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			By(1) the(2) time(3) I(4) sold(5) it(6) ,(7) it(8) had(9) 138,000_miles(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) not(3) too(4) impressed(5) with(6) it(7) like(8) I(9) thought(10) I(11) would(12) be(13) .(14) 
+			<opinion polarity="-" feature="car" featWords="7" featRef="car" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="5">
+			Reliability(1) was(2) terribly(3) dissapointing(4) .(5) 
+			<opinion polarity="-" feature="reliability" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			It(1) had(2) some(3) mechanical(4) flaws(5) that(6) I(7) found(8) pretty(9) surprising(10) and(11) unexpected(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			First(1) of(2) all(3) ,(4) the(5) engine(6) can(7) be(8) extremely(9) anemic(10) and(11) surges(12) going(13) up(14) hills(15) ,(16) especially(17) if(18) there(19) are(20) ANY(21) passengers(22) in(23) the(24) car(25) or(26) if(27) the(28) A(29) /(30) C(31) is(32) on(33) .(34) 
+			<opinion polarity="-" feature="engine" featWords="6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="8">
+			Forget(1) hills(2) if(3) you(4) have(5) passengers(6) AND(7) the(8) A(9) /(10) C(11) on(12) !(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) engine(2) is(3) very(4) smooth(5) running(6) though(7) and(8) is(9) whisper(10) quiet(11) at(12) idle(13) .(14) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="11"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			However(1) ,(2) it(3) vibrates(4) harshly(5) at(6) idle(7) .(8) 
+			<opinion polarity="-" feature="engine" featWords="3" featRef="engine" opWords="4,5"/>
+		</sentence>
+		<sentence id="11">
+			I(1) had(2) too(3) many(4) problems(5) with(6) this(7) car(8) leaking(9) oil(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			For(1) a(2) while(3) ,(4) it(5) was(6) leaving(7) basket-ball(8) size(9) oil(10) stains(11) in(12) my(13) driveway(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			So(1) ,(2) I(3) took(4) it(5) in(6) to(7) the(8) shop(9) to(10) get(11) fixed(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Three(1) visits(2) to(3) the(4) Toyota(5) mechanic(6) ,(7) about(8) $1,000(9) later(10) ,(11) and(12) it(13) started(14) leaking(15) oil(16) not(17) too(18) long(19) after(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			The(1) 4-speed(2) automatic(3) transmission(4) is(5) smooth(6) shifting(7) ,(8) except(9) in(10) hard(11) acceleration(12) when(13) it(14) tends(15) to(16) slam(17) into(18) each(19) gear(20) .(21) 
+			<opinion polarity="+" feature="shifter" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="16">
+			This(1) transmission(2) downshifts(3) very(4) excessively(5) .(6) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="17">
+			I(1) live(2) in(3) a(4) very(5) hilly(6) part(7) of(8) the(9) U._S(10) where(11) a(12) car(13) that(14) has(15) power(16) to(17) get(18) up(19) hills(20) is(21) important(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			Most(1) people(2) that(3) live(4) in(5) fairly(6) flat(7) parts(8) of(9) the(10) country(11) probably(12) do(13) not(14) experience(15) this(16) problem(17) having(18) no(19) power(20) on(21) hills(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			This(1) car(2) surges(3) and(4) strains(5) to(6) get(7) up(8) hills(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			It(1) 's(2) terrible(3) .(4) 
+			<opinion polarity="-" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="21">
+			The(1) build(2) quality(3) is(4) beyond(5) horrendous(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="22">
+			There(1) are(2) just(3) too(4) many(5) squeaks(6) and(7) rattles(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Interior(1) plastic(2) panels(3) are(4) literally(5) falling(6) off(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			The(1) vinyl(2) door(3) skin(4) no(5) the(6) door(7) interiors(8) is(9) coming(10) unglued(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			The(1) shocks(2) are(3) extremely(4) squeaky(5) and(6) some(7) interior(8) trim(9) pieces(10) buzz(11) and(12) rattle(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			The(1) build(2) quality(3) is(4) terrible(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="27">
+			The(1) paint(2) is(3) very(4) badly(5) faded(6) and(7) thin(8) on(9) the(10) hood(11) and(12) only(13) on(14) the(15) hood(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			I(1) also(2) own(3) a(4) 1992(5) Plymouth_Acclaim(6) ((7) my(8) "(9) granny(10) car(11) "(12) )(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			So(1) far(2) ,(3) I(4) 've(5) gotten(6) 182,000_miles(7) out(8) of(9) the(10) original(11) engine(12) and(13) transmission(14) and(15) it(16) still(17) runs(18) good(19) !(20) 
+			<opinion polarity="+" feature="car" opWords="18,19"/>
+		</sentence>
+		<sentence id="30">
+			So(1) ,(2) when(3) I(4) hear(5) stories(6) about(7) someone(8) getting(9) 200,000_miles(10) out(11) of(12) a(13) Camry(14) ,(15) I(16) am(17) impressed(18) ,(19) yet(20) unimpressed(21) .(22) 
+			<opinion polarity="-" feature="car" opWords="21"/>
+			<opinion polarity="+" feature="car" opWords="18"/>
+		</sentence>
+		<sentence id="31">
+			I(1) wrote(2) this(3) review(4) because(5) I(6) am(7) considering(8) buying(9) either(10) a(11) 1992(12) Camry(13) or(14) 1992(15) Honda_Accord(16) .(17) 
+		</sentence>
+		<sentence id="32">
+			They(1) are(2) both(3) nice(4) looking(5) cars(6) inside(7) and(8) out(9) and(10) are(11) both(12) supposedly(13) reliable(14) .(15) 
+			<opinion polarity="+" feature="reliability" opWords="14"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="33">
+			They(1) both(2) have(3) a(4) 2.2L(5) 4-cylinder(6) engine(7) .(8) 
+		</sentence>
+		<sentence id="34">
+			However(1) ,(2) the(3) '(4) 92(5) Camry(6) is(7) actually(8) a(9) larger(10) car(11) than(12) the(13) '(14) 92(15) Accord(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			The(1) Accord(2) has(3) a(4) quality(5) looking(6) interior(7) that(8) I(9) like(10) though(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			I(1) can(2) not(3) decide(4) !(5) 
+		</sentence>
+		<sentence id="37">
+			I(1) will(2) take(3) a(4) test(5) drive(6) of(7) each(8) car(9) before(10) I(11) make(12) a(13) definite(14) decision(15) .(16) *(17) Update(18) *(19) I(20) actually(21) ended(22) up(23) buying(24) a(25) mint(26) condition(27) 1985(28) Volvo(29) 240(30) sedan(31) .(32) 
+		</sentence>
+		<sentence id="38">
+			Driving_the_Volvo(1) feels(2) like(3) an(4) army(5) tank(6) .(7) 
+		</sentence>
+		<sentence id="39">
+			It(1) makes(2) driving(3) the(4) Camry(5) feel(6) like(7) a(8) tin(9) can(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			I(1) would(2) never(3) buy(4) one(5) of(6) those(7) things(8) again(9) .(10) 
+		</sentence>
+		<sentence id="41">
+			They(1) are(2) a(3) terrible(4) value(5) .(6) 
+		</sentence>
+	</text>
+</review>

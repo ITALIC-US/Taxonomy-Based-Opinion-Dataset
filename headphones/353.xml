@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="353" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) good(2) headphone(3) for(4) the(5) money(6) .(7) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			look(1) ,(2) crisp(3) sound(4) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cord(1) tangles(2) easy(3) 
+			<opinion polarity="-" feature="cord" opWords="2" potency="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Overall(1) ,(2) I(3) really(4) like(5) the(6) Sony(7) V700-DJ(8) headphones(9) .(10) 
+			<opinion polarity="+" feature="headphones" featWords="9" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) an(3) extremely(4) smooth(5) look(6) that(7) will(8) catch(9) anyone(10) 's(11) attention(12) .(13) 
+			<opinion polarity="+" feature="appearance" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			They(1) take(2) some(3) getting(4) used(5) to(6) when(7) you(8) first(9) put(10) them(11) on(12) but(13) they(14) are(15) quite(16) comfortable(17) with(18) very(19) small(20) ear(21) pieces(22) to(23) transmit(24) the(25) sound(26) .(27) 
+			<opinion polarity="+" feature="comfort" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="earbuds" featWords="21,22" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="4">
+			These(1) phones(2) are(3) perfect(4) for(5) a(6) DJ(7) because_of(8) the(9) sound(10) they(11) deliver(12) .(13) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) highs(2) and(3) mids(4) are(5) nice(6) and(7) crisp(8) .(9) 
+			<opinion polarity="+" feature="highs" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="highs" featWords="2" opWords="8"/>
+			<opinion polarity="+" feature="mids" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="mids" featWords="4" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			Then(1) there(2) is(3) the(4) bass(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			Oh(1) !(2) the(3) bass(4) .(5) 
+		</sentence>
+		<sentence id="8">
+			Since(1) these(2) phones(3) are(4) designed(5) for(6) a(7) DJ(8) you(9) knew(10) the(11) bass(12) would(13) be(14) clear(15) but(16) the(17) bass(18) here(19) is(20) fantastic(21) .(22) 
+			<opinion polarity="+" feature="bass" featWords="12" opWords="21"/>
+		</sentence>
+		<sentence id="9">
+			It(1) comes(2) through(3) loud(4) but(5) crisp(6) perfect(7) for(8) the(9) studio(10) or(11) at(12) home(13) DJ(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) thing(3) I(4) did(5) not(6) like(7) about(8) the(9) headphones(10) were(11) the(12) fact(13) that(14) the(15) cord(16) tended(17) to(18) get(19) tangled(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			But(1) ,(2) if(3) you(4) have(5) used(6) similar(7) headphones(8) you(9) learned(10) this(11) is(12) hard(13) to(14) escape(15) from(16) .(17) 
+		</sentence>
+	</text>
+</review>

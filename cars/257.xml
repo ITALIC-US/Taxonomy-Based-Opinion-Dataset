@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="257" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Nissan_Maxima_SE(1) :(2) Hang(3) on(4) to(5) your(6) hats(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			POWER(1) ,(2) and(3) BOSE(4) stereo(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Driving(1) the(2) manual(3) smoothly(4) is(5) difficult(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Now(1) in(2) the(3) market(4) for(5) a(6) new(7) car(8) ,(9) I(10) have(11) test(12) driven(13) many(14) of(15) them(16) and(17) have(18) done(19) a(20) considerable(21) amount(22) of(23) research(24) on(25) their(26) problem(27) areas(28) and(29) strong(30) points(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			The(1) Nissan_Maxima_SE(2) will(3) be(4) my(5) next(6) purchase(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			What(1) a(2) car(3) ,(4) what(5) an(6) engine(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			The(1) engine(2) alone(3) convinces(4) the(5) right(6) side(7) of(8) your(9) brain(10) ,(11) and(12) the(13) rest(14) of(15) the(16) car(17) makes(18) sure(19) your(20) left(21) side(22) listens(23) to(24) the(25) right(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			Plenty_of(1) room(2) for(3) a(4) family(5) ,(6) fast(7) enough(8) to(9) beat(10) teenagers(11) off(12) the(13) line(14) ,(15) comfortable(16) enough(17) for(18) long(19) trips(20) ,(21) a(22) large(23) enough(24) trunk(25) for(26) a(27) golf(28) excursion(29) ,(30) luxurious(31) enough(32) to(33) impress(34) your(35) friends(36) ,(37) and(38) a(39) reliability(40) record(41) to(42) die(43) for(44) .(45) 
+			<opinion polarity="+" feature="trunk" featWords="25" opWords="23,24"/>
+			<opinion polarity="+" feature="comfort" opWords="16,17"/>
+			<opinion polarity="+" feature="speed" opWords="7,8"/>
+		</sentence>
+		<sentence id="6">
+			LOVES(1) :(2) Did(3) I(4) mention(5) the(6) engine(7) ?(8) 
+		</sentence>
+		<sentence id="7">
+			The(1) interior(2) styling(3) is(4) both(5) functional(6) and(7) classy(8) .(9) ((10) Note(11) :(12) I(13) do(14) not(15) like(16) the(17) fake(18) wood(19) in(20) the(21) GLE(22) .(23) Wood(24) is(25) for(26) the(27) Infinity(28) I30(29) ,(30) the(31) Maxima(32) 's(33) corporate(34) twin(35) ,(36) and(37) dies(38) not(39) fit(40) the(41) rest(42) of(43) the(44) interior(45) )(46) The(47) ride(48) is(49) near(50) perfect(51) :(52) Tight(53) enough(54) for(55) cornering(56) ,(57) soft(58) enough(59) for(60) potholes(61) .(62) 
+			<opinion polarity="+" feature="ride quality" featWords="48" opWords="51" potency="50"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="8"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			The(1) stereo(2) is(3) superb(4) ,(5) a(6) big(7) improvement(8) over(9) previous(10) Maxima(11) 's(12) .(13) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			HATES(1) :(2) The(3) sifter(4) is(5) good(6) ,(7) not(8) great(9) ((10) Certainly(11) not(12) a(13) Honda(14) )(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Exterior(1) styling(2) is(3) "(4) interesting(5) "(6) ,(7) though(8) if(9) you(10) like(11) it(12) ,(13) this(14) need(15) not(16) apply(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			And(1) now(2) ,(3) the(4) big(5) whammy(6) :(7) smoothly(8) driving(9) manual(10) models(11) ((12) the(13) only(14) transmission(15) choice(16) to(17) fully(18) enjoy(19) this(20) engine(21) )(22) is(23) very(24) difficult(25) because_of(26) a(27) jumpy(28) throttle(29) and(30) the(31) inability(32) to(33) drop(34) rpms(35) smoothly(36) from(37) 2500(38) to(39) idle(40) .(41) this(42) cause(43) a(44) "(45) bucking(46) "(47) when(48) using(49) engine(50) braking(51) down(52) a(53) hill(54) or(55) when(56) slowing(57) for(58) a(59) light(60) .(61) 
+		</sentence>
+		<sentence id="12">
+			Depending(1) on(2) driving(3) style(4) ,(5) this(6) may(7) or(8) may(9) not(10) be(11) a(12) big(13) deal(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Driving(1) this(2) vehicle(3) is(4) a(5) blast(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) engine(2) pulls(3) like(4) a(5) tractor(6) from(7) any(8) rpm(9) ,(10) and(11) is(12) so(13) smooth(14) I(15) found(16) myself(17) forgetting(18) to(19) shift(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Other(1) than(2) the(3) aforementioned(4) "(5) bucking(6) "(7) ,(8) driving(9) this(10) car(11) makes(12) you(13) feel(14) special(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			This(1) car(2) is(3) for(4) any(5) person(6) who(7) enjoys(8) driving(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) would(3) rather(4) drive(5) than(6) fly(7) ,(8) here(9) is(10) your(11) car(12) .(13) ((14) Takeoff(15) might(16) be(17) possible(18) with(19) this(20) engine(21) if(22) wings(23) were(24) included(25) )(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			WARNING(1) :(2) I(3) highly(4) suggest(5) buying(6) a(7) Valentine(8) One(9) radar(10) detector(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			You(1) do(2) not(3) notice(4) speed(5) in(6) this(7) car(8) ,(9) and(10) may(11) be(12) shocked(13) to(14) find(15) ol(16) '(17) smokey(18) behind(19) with(20) the(21) lights(22) flaring(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			NUMERICAL_REVIEW(1) :(2) Engine(3) :(4) 10(5) +(6) Transmission(7) :(8) 8.5(9) Styling(10) :(11) Exterior(12) :(13) 7(14) Interior(15) :(16) 9(17) Comfort(18) :(19) 10(20) Handling(21) :(22) 8.5(23) Ride(24) :(25) 10(26) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="334" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			1992(1) Saturn_SL(2) still(3) going(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Long_Life(1) ,(2) No_Rust(3) ,(4) Little_Maintenance(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) frills(2) ,(3) Not(4) much(5) style(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) can(3) find(4) a(5) late(6) model(7) Saturn(8) such(9) as(10) my(11) 92(12) ,(13) you(14) may(15) be(16) in(17) for(18) a(19) long-term(20) reliable(21) car(22) depending(23) on(24) the(25) mileage(26) .(27) 
+			<opinion polarity="+" feature="reliability" opWords="21"/>
+		</sentence>
+		<sentence id="2">
+			Mine(1) is(2) approaching(3) 160,000_miles(4) and(5) I(6) have(7) not(8) put(9) any(10) money(11) into(12) it(13) for(14) the(15) last(16) 40,000(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			The(1) interior(2) is(3) staring(4) to(5) wear(6) and(7) the(8) clutch(9) is(10) starting(11) to(12) slip(13) ,(14) but(15) except_for(16) minor(17) upgrades(18) ((19) brake(20) pads(21) ,(22) alternator(23) ,(24) tires(25) )(26) ,(27) I(28) have(29) not(30) spent(31) very(32) much(33) at(34) all(35) for(36) maintenance(37) .(38) 
+		</sentence>
+		<sentence id="4">
+			The(1) exterior(2) shows(3) no(4) rust(5) ((6) most(7) of(8) it(9) is(10) not(11) metal(12) anyway(13) )(14) and(15) is(16) in(17) good(18) shape(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			I(1) just(2) had(3) it(4) in(5) a(6) shop(7) and(8) they(9) told(10) me(11) if(12) I(13) did(14) not(15) replace(16) the(17) original(18) struts(19) and(20) shocks(21) then(22) I(23) would(24) only(25) get(26) another(27) 50,000(28) out(29) of(30) the(31) car(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) know(4) if(5) I(6) am(7) just(8) lucky(9) with(10) this(11) vehicle(12) ,(13) but(14) this(15) auto(16) has(17) almost(18) been(19) free(20) to(21) drive(22) considering(23) the(24) mileage(25) and(26) the(27) fact(28) that(29) it(30) has(31) been(32) paid(33) off(34) for(35) 6(36) years(37) .(38) 
+		</sentence>
+		<sentence id="7">
+			My_Saturn(1) is(2) a(3) no(4) frills(5) car(6) ,(7) but(8) it(9) is(10) a(11) solid(12) ,(13) reliable(14) means(15) of(16) transportation(17) that(18) I(19) have(20) been(21) really(22) happy(23) with(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="23"/>
+			<opinion polarity="+" feature="reliability" opWords="14"/>
+			<opinion polarity="+" feature="car" opWords="12"/>
+		</sentence>
+	</text>
+</review>

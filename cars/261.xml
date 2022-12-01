@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="261" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Valet_'s_Point_of_View(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			read(1) above(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			read(1) above(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) is(3) a(4) MUST(5) for(6) all(7) types(8) of(9) people(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) a(3) valet(4) ,(5) and(6) i(7) own(8) a(9) 2000(10) Nissan_Maxima_SE(11) ,(12) i(13) have(14) done(15) things(16) you(17) will(18) not(19) believe(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Some(1) may(2) say(3) "(4) What(5) can(6) a(7) valet(8) do(9) ?(10) "(11) well(12) i(13) have(14) tested(15) every(16) aspects(17) of(18) it(19) before(20) purchasing(21) it(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) tested(3) cornering(4) at(5) 40-50(6) ,(7) and(8) braking(9) at(10) 65(11) ,(12) and(13) both(14) were(15) way(16) above(17) satisfactory(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) is(3) very(4) responsive(5) ,(6) and(7) has(8) a(9) very(10) comfortable(11) ride(12) .(13) 
+			<opinion polarity="+" feature="ride quality" featWords="12" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="response" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) 222hp(2) engine(3) has(4) enough(5) power(6) to(7) pull(8) 5(9) people(10) without(11) any(12) lag(13) or(14) lose(15) of(16) power(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			PROS(1) :(2) 1(3) )(4) 7(5) speaker(6) BOSE(7) stereo-Its(8) loud(9) ,(10) clear(11) ,(12) and(13) delivers(14) just(15) enough(16) bass(17) without(18) having(19) speakers(20) rattling(21) .(22) 2(23) )(24) 222hp-Has(25) enough(26) power(27) to(28) make(29) you(30) sink(31) into(32) your(33) seat(34) .(35) at(36) acceleration(37) .(38) 3(39) )(40) Interior-Excellent(41) leather(42) ,(43) spacious(44) design(45) ,(46) everything(47) is(48) within(49) reach(50) .(51) 4(52) )(53) Exterior-Sleek(54) 5(55) )(56) Handling-Corners(57) excellent(58) at(59) 40-45(60) ,(61) into(62) a(63) street(64) corner(65) ,(66) traction(67) control(68) really(69) help(70) .(71) 6(72) )(73) A(74) really(75) new(76) design(77) ,(78) with(79) eliminates(80) a_lot_of(81) extra(82) parts(83) to(84) save(85) you(86) money(87) in(88) the(89) long(90) run(91) EX(92) :(93) no(94) spark(95) plug(96) wires(97) needed(98) ((99) direct(100) connection(101) )(102) ,(103) a(104) steel(105) chain(106) for(107) the(108) timing(109) belt(110) ((111) a_lot(112) better(113) then(114) the(115) old(116) fashion(117) rubber(118) belt(119) ,(120) which(121) can(122) snap(123) over(124) a(125) long(126) period(127) of(128) time(129) .(130) CONS(131) :(132) 1(133) )(134) Manuel_Transmission_ONLY-If(135) you(136) redline(137) ,(138) and(139) pop(140) it(141) into(142) first(143) gear(144) ,(145) the(146) whole(147) dash(148) jerks(149) ,(150) and(151) shakes(152) ,(153) due(154) to(155) vibrations(156) from(157) the(158) wheels(159) .(160) 
+			<opinion polarity="+" feature="design" featWords="45" opWords="44"/>
+		</sentence>
+		<sentence id="8">
+			The(1) suspension(2) is(3) fair(4) .(5) 2(6) )(7) A(8) front(9) strut(10) bar(11) may(12) be(13) need(14) to(15) keep(16) the(17) body(18) from(19) shifting(20) much(21) .(22) at(23) hard(24) cornering(25) .(26) 3(27) )(28) I(29) spent(30) about(31) $10(32) of(33) gas(34) in(35) 3(36) days(37) .(38) 
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Not(1) really(2) a(3) car(4) for(5) you(6) if(7) you(8) want(9) the(10) economy(11) type(12) car(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Basically(1) i(2) have(3) tested(4) it(5) and(6) beat(7) on(8) the(9) car(10) ,(11) from(12) hard(13) corning(14) to(15) fish(16) tails(17) with(18) the(19) back(20) wheels(21) locked(22) up(23) to(24) peel(25) outs(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			The(1) car(2) handles(3) great(4) 
+			<opinion polarity="+" feature="handling" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

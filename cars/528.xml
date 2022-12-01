@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="528" item="2005 Mazda 3" rating="3">
+	<title>
+		<sentence id="1">
+			Mazda(1) 3(2) :(3) beware(4) trouble(5) getting(6) replacement(7) parts(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) drive(2) ,(3) and(4) lots(5) of(6) pepp(7) !(8) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hard(1) to(2) get(3) replacement(4) parts(5) Slow(6) to(7) get(8) warranty(9) work(10) done(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Good(1) car(2) but(3) hard(4) to(5) get(6) replacement(7) parts(8) like(9) back(10) window(11) and(12) then(13) get(14) service(15) on(16) floor(17) heating(18) vent(19) ....(20) the(21) dealer(22) always(23) seems(24) to(25) have(26) parts(27) backordered(28) up(29) to(30) 4-5(31) months(32) ...(33) what(34) happens(35) if(36) your(37) needing(38) engines(39) or(40) fuel(41) pumps(42) ?(43) ?(44) !(45) !(46) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Watch(1) out(2) and(3) make(4) sure(5) your(6) problems(7) are(8) resolved(9) promptly(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) Mazda(16) 3(17) Sedan(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="400" item="2000 BMW Z3" rating="1">
+	<title>
+		<sentence id="1">
+			Have_A_Back_Up_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cute(1) and(2) Fun_To_Drive(3) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Is(1) in(2) the(3) Shop(4) repeatedly(5) for(6) various(7) manufacturing(8) and(9) design(10) issues(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) this(5) car(6) unless(7) all(8) you(9) care(10) about(11) is(12) cute(13) and(14) fun(15) to(16) drive(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="15"/>
+			<opinion polarity="+" feature="design" opWords="13"/>
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			You(1) MUST(2) have(3) another(4) vehicle(5) to(6) use(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) my(4) BMW(5) Z3(6) since(7) 2000(8) and(9) it(10) has(11) been(12) in(13) the(14) shop(15) over(16) 1/4(17) of(18) the(19) time(20) for(21) one(22) issue(23) or(24) another(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Perhaps(1) most(2) significantly(3) ,(4) the(5) seat(6) belts(7) have(8) stopped(9) working(10) four_times(11) ;(12) a(13) safety(14) hazard(15) to(16) say(17) the(18) least(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Granted(1) this(2) car(3) is(4) cute(5) and(6) fun(7) to(8) drive(9) but(10) the(11) quality(12) issues(13) are(14) various(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="speed" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Now(1) that(2) it(3) 's(4) not(5) under(6) warranty(7) any(8) more(9) ,(10) I(11) expect(12) it(13) will(14) costs(15) thousands(16) a(17) year(18) to(19) fix(20) the(21) issues(22) as(23) they(24) arise(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Most(1) recently(2) ,(3) it(4) was(5) in(6) because(7) the(8) entire(9) power(10) seat(11) had(12) been(13) originally(14) miswired(15) and(16) had(17) to(18) be(19) rewired(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) suggest(3) to(4) others(5) that(6) if(7) you(8) want(9) this(10) car(11) ,(12) you(13) should(14) make(15) sure(16) you(17) have(18) a(19) large(20) budget(21) for(22) repairs(23) and(24) that(25) you(26) have(27) another(28) car(29) for(30) when(31) this(32) one(33) is(34) in(35) the(36) shop(37) .(38) 
+		</sentence>
+		<sentence id="7">
+			You(1) should(2) also(3) know(4) that(5) even_if(6) you(7) buy(8) this(9) car(10) new(11) which(12) we(13) did(14) ,(15) you(16) do(17) not(18) get(19) a(20) loaner(21) when(22) you(23) have(24) it(25) repaired(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) NEVER(3) received(4) a(5) loaner(6) for(7) any(8) of(9) these(10) repairs(11) despite(12) that(13) it(14) takes(15) 1(16) hour(17) each(18) way(19) for(20) me(21) to(22) take(23) it(24) to(25) the(26) dealer(27) so_that(28) means(29) my(30) husband(31) and(32) I(33) have(34) to(35) put(36) away(37) 4(38) hours(39) for(40) each(41) of(42) the(43) many(44) times(45) it(46) has(47) gone(48) back(49) for(50) its(51) various(52) problems(53) .(54) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 35000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) 1.3(16) Hardtop(17) 
+		</sentence>
+	</text>
+</review>

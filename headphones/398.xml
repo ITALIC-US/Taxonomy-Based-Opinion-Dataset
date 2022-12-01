@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="398" item="Sennheiser HD 600 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Too(1) bright(2) for(3) their(4) own(5) good(6) 
+			<opinion polarity="-" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			very(1) comfortable(2) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			too(1) bright(2) !(3) !(4) !(5) 
+			<opinion polarity="-" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Having(1) been(2) a(3) Sennheiser(4) lover(5) quite(6) a(7) while(8) now(9) I(10) was(11) very(12) curious(13) to(14) hear(15) the(16) latest(17) headphone(18) from(19) them(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Meant(1) to(2) replace(3) the(4) 580(5) ,(6) the(7) new(8) 590(9) sports(10) the(11) new(12) "(13) bionetic(14) "(15) design(16) ((17) is(18) this(19) the(20) equivalent(21) of(22) "(23) digital(24) ready(25) "(26) ?(27) ?(28) ?(29) )(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			They(1) look(2) good(3) and(4) are(5) very(6) comfortable(7) .(8) 
+			<opinion polarity="+" feature="appearance" opWords="2,3"/>
+			<opinion polarity="+" feature="comfort" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) single(4) sided(5) cable(6) ((7) left(8) ear(9) connection(10) )(11) that(12) attaches(13) with(14) a(15) custom(16) ,(17) smaller(18) than(19) normal(20) ,(21) mini(22) plug(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			This(1) fixes(2) the(3) chance(4) of(5) the(6) dreaded(7) intermittent(8) problem(9) associated(10) with(11) the(12) 580(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			O.K.(1) so(2) far(3) but(4) how(5) do(6) they(7) sound(8) ?(9) 
+		</sentence>
+		<sentence id="7">
+			Well(1) they(2) are(3) a_bit(4) thin(5) and(6) a_lot(7) bright(8) .(9) 
+			<opinion polarity="-" feature="sound quality" opWords="5" potency="4"/>
+			<opinion polarity="-" feature="sound quality" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) mids(2) are(3) just(4) not(5) there(6) like(7) the(8) 580/600(9) models(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Detail(1) is(2) there(3) but(4) a_bit(5) too(6) much(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Bass(1) is(2) tight(3) and(4) very(5) nice(6) .(7) 
+			<opinion polarity="+" feature="bass" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="1" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="11">
+			I(1) just(2) can(3) not(4) seem(5) to(6) spend(7) a_lot_of(8) time(9) in(10) them(11) without(12) fatigue(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			I(1) miss(2) the(3) midrange(4) !(5) 
+		</sentence>
+		<sentence id="13">
+			And(1) the(2) highs(3) to(4) bright(5) -(6) need(7) sunglasses(8) for(9) my(10) ears(11) .(12) 
+			<opinion polarity="-" feature="highs" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="14">
+			They(1) are(2) 120(3) ohms(4) with(5) a(6) 102dB(7) SPL(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			Though(1) they(2) benefit(3) much(4) from(5) the(6) use(7) of(8) an(9) amp(10) ,(11) they(12) will(13) work(14) out(15) of(16) a(17) portable(18) player(19) but(20) the(21) brightness(22) gets(23) even(24) worse(25) when(26) powered(27) by(28) weak(29) devices(30) .(31) 
+		</sentence>
+		<sentence id="16">
+			Frequency(1) response(2) is(3) 12(4) -38Hz(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			In(1) my(2) opinion(3) the(4) 580(5) is(6) a(7) better(8) all(9) around(10) headphone(11) and(12) getting(13) one(14) for(15) the(16) lower(17) prices(18) that(19) they(20) sell(21) for(22) is(23) a(24) much(25) better(26) deal(27) than(28) the(29) new(30) 590(31) at(32) any(33) price(34) .(35) 
+		</sentence>
+	</text>
+</review>

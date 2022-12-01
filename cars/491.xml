@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="491" item="2000 Pontiac Firebird" rating="3">
+	<title>
+		<sentence id="1">
+			Cost(1) to(2) own(3) as(4) much(5) as(6) an(7) exotic(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) performance(2) ,(3) reasonably(4) affordable(5) .(6) 
+			<opinion polarity="+" feature="price" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			The(1) BEST(2) looking(3) car(4) on(5) the(6) road(7) today(8) .(9) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) history(2) of(3) terrible(4) quality(5) ((6) See(7) Lemon-Aid(8) guide(9) )(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Insurance(1) company(2) rates(3) ,(4) gas(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) fun(3) fun(4) fun(5) till(6) the(7) insurance(8) company(9) rapes(10) you(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) can(3) afford(4) to(5) own(6) a(7) Lambourghini(8) ,(9) you(10) can(11) afford(12) to(13) own(14) this(15) car(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) would(2) love(3) to(4) have(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) only(3) a(4) few(5) things(6) stopping(7) me(8) and(9) these(10) are(11) things(12) beyond(13) my(14) control(15) :(16) The(17) price(18) of(19) gas(20) ((21) which(22) will(23) never(24) go(25) down(26) again(27) )(28) and(29) the(30) cost(31) of(32) insurance(33) ((34) three(35) or(36) four_times(37) any(38) other(39) typical(40) vehicle(41) )(42) .(43) 
+		</sentence>
+		<sentence id="3">
+			Simply(1) put(2) :(3) Here(4) was(5) an(6) insurance(7) comparison(8) :(9) A(10) 1997(11) Mercury_Cougar(12) with(13) a(14) Mustang_GT(15) engine(16) ((17) 4.6(18) litre(19) V8(20) )(21) in(22) it(23) cost(24) $800(25) per(26) year(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			The(1) BASE_MODEL_Firebird(2) ((3) not(4) much(5) faster(6) than(7) the(8) Cougar(9) )(10) ,(11) was(12) $3700(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Hmmmm(1) ,(2) can(3) you(4) say(5) "(6) RAPE(7) "(8) ?(9) 
+		</sentence>
+		<sentence id="6">
+			I(1) wonder(2) what(3) the(4) insurance(5) on(6) the(7) Trans_Am(8) or(9) Firehawk(10) would(11) be(12) .(13) $5000(14) ?(15) 
+		</sentence>
+		<sentence id="7">
+			For(1) readers(2) that(3) do(4) not(5) know(6) what(7) a(8) Firehawk(9) is(10) ((11) and(12) there(13) are(14) many(15) )(16) ,(17) it(18) 's(19) made(20) in(21) Canada(22) ((23) Quebec_I(24) think(25) )(26) and(27) represents(28) the(29) HIGHEST_END(30) model(31) for(32) Firebirds(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			Forget(1) anything(2) you(3) 've(4) heard(5) about(6) Trans_Am(7) 's(8) or(9) Ram_Air(10) baloney(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Simply(1) put(2) ,(3) here(4) is(5) what(6) the(7) Firehawk(8) gives(9) you(10) that(11) a(12) Trans_Am(13) does(14) not(15) :(16) -(17) Larger(18) tires(19) ((20) nicer(21) looking(22) rims(23) too(24) )(25) -(26) Better(27) suspension(28) -(29) Wider(30) exhaust(31) -(32) 100_%(33) functioning(34) and(35) redesigned(36) scoop(37) ((38) the(39) ones(40) on(41) the(42) Trans_Am(43) do(44) not(45) really(46) work(47) as(48) advertised(49) including(50) the(51) so-called(52) Ram_Air(53) models(54) )(55) -(56) A(57) spoiler(58) that(59) actually(60) creates(61) downforce(62) and(63) eliminates(64) the(65) huge(66) blindspot(67) on(68) the(69) car(70) .(71) -(72) Heat(73) extractors(74) -(75) Hurst(76) shifter(77) -(78) Limited(79) quantity(80) and(81) individually(82) numbered(83) .(84) 
+		</sentence>
+		<sentence id="10">
+			A(1) 1999(2) Firehawk(3) was(4) listed(5) with(6) a(7) 0-60mph(8) time(9) of(10) 5.0_seconds(11) and(12) a(13) top(14) speed(15) of(16) 163(17) mph(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			That(1) was(2) just(3) 0.1_seconds(4) slower(5) than(6) a(7) 1999(8) Corvette(9) and(10) only(11) a(12) dozen(13) mph(14) slower(15) top(16) speed(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			It(1) has(2) the(3) 345(4) or(5) 350(6) lb-ft(7) of(8) tourque(9) that(10) a(11) Corvette(12) has(13) for(14) nearly(15) HALF(16) the(17) price(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			It(1) also(2) has(3) 330hp(4) ,(5) more(6) than(7) a(8) Trans_Am._The(9) reason(10) I(11) like(12) the(13) Firehawk(14) upgrade(15) so(16) much(17) is(18) because(19) it(20) emphasizes(21) function(22) over(23) form(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			The(1) Trans_Am(2) versions(3) look(4) nice(5) ,(6) but(7) the(8) softer(9) lines(10) on(11) the(12) hood(13) of(14) a(15) Firehawk(16) help(17) the(18) scoop(19) actually(20) do(21) its(22) job(23) .(24) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="15">
+			And(1) that(2) 's(3) what(4) counts(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Ditto(1) for(2) the(3) spoiler(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			The(1) Firehawk(2) spoiler(3) looks(4) somewhat(5) plain(6) compared(7) to(8) the(9) HUGE(10) spoiler(11) on(12) a(13) Trans_Am(14) ....(15) but(16) it(17) works(18) unlike(19) the(20) Trans_Am(21) spoiler(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			If(1) you(2) 're(3) lucky(4) enough(5) to(6) even(7) see(8) a(9) Firehawk(10) ((11) and(12) many(13) people(14) will(15) never(16) see(17) one(18) )(19) you(20) 'll(21) notice(22) the(23) difference(24) from(25) the(26) holes(27) on(28) the(29) front(30) hood(31) ((32) the(33) heat(34) extractors(35) )(36) plus(37) the(38) more(39) rounded(40) hood(41) .(42) 
+		</sentence>
+		<sentence id="19">
+			The(1) car(2) just(3) looks(4) better(5) in(6) my(7) opinion(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			These(1) cars(2) really(3) look(4) stunning(5) and(6) muscular(7) on(8) the(9) road(10) .(11) 
+			<opinion polarity="+" feature="design" opWords="4,7"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="21">
+			And(1) on(2) the(3) track(4) you(5) can(6) kiss(7) goodbye(8) to(9) Mustangs(10) and(11) even(12) more(13) exotic(14) imports(15) .(16) ((17) ie(18) :(19) That(20) guy(21) in_the_$50,000(22) Porsche_Boxster(23) will(24) look(25) puzzled(26) as(27) you(28) leave(29) him(30) in(31) your(32) dust(33) .(34) )(35) This(36) car(37) takes(38) a(39) backseat(40) to(41) nobody(42) on(43) the(44) road(45) performance(46) wise(47) .(48) 
+		</sentence>
+		<sentence id="22">
+			It(1) would(2) give(3) a(4) Dodge_Viper(5) a(6) run(7) for(8) its(9) money(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			GM(1) also(2) does(3) a(4) terrible(5) job(6) marketing(7) this(8) car(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Simply(1) put(2) ,(3) they(4) never(5) advertise(6) it(7) or(8) promote(9) it(10) so(11) nobody(12) knows(13) about(14) it(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			People(1) have(2) short(3) memories(4) ,(5) and(6) unless(7) GM(8) creates(9) an(10) image(11) for(12) this(13) car(14) for(15) new(16) generations(17) ,(18) nobody(19) will(20) even(21) know(22) it(23) exists(24) .(25) 
+		</sentence>
+		<sentence id="26">
+			Also(1) ,(2) the(3) insurance(4) companies(5) will(6) rape(7) you(8) by(9) charging(10) you(11) unfair(12) rates(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			And(1) if(2) you(3) 're(4) a(5) young(6) male(7) ,(8) they(9) probably(10) will(11) not(12) insure(13) you(14) at(15) all(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			Be(1) prepared(2) to(3) pay(4) a_LOT(5) to(6) keep(7) driving(8) this(9) car(10) .(11) 
+		</sentence>
+		<sentence id="29">
+			It(1) 's(2) too(3) bad(4) we(5) can(6) not(7) have(8) fun(9) anymore(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 33000Cdn(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) FIREHAWK(16) 
+		</sentence>
+	</text>
+</review>

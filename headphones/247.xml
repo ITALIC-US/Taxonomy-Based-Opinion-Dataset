@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="247" item="Bose QuietComfort 2 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Bose(1) is(2) Bad(3) ,(4) Found_Far_Superior_Product(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Advertised(1) brand(2) name(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Super(1) expensive(2) ,(3) bulky(4) ,(5) requires(6) batteries(7) ,(8) annoying(9) anti-noise(10) hiss(11) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+			<opinion polarity="-" feature="size" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			All(1) hype(2) ,(3) misses(4) the(5) mark(6) for(7) what(8) travelers(9) really(10) need(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Instead(1) ,(2) I(3) highly(4) recommend(5) the(6) $140(7) ER6(8) Isolator(9) at(10) www.magellans.com(11) 
+			<opinion polarity="+" feature="headphones" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 'm(2) a(3) frequent(4) airplane(5) traveler(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			After(1) repeatedly(2) seeing(3) all(4) the(5) Bose(6) advertisements(7) for(8) the(9) anti-noise(10) headphones(11) ,(12) I(13) decided(14) to(15) take(16) the(17) plunge(18) and(19) bought(20) one(21) for(22) $299(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			I(1) immediately(2) was(3) disappointed(4) that(5) the(6) headset(7) was(8) big(9) ,(10) bulky(11) and(12) heavy(13) ((14) required(15) batteries(16) !(17) )(18) .(19) 
+			<opinion polarity="-" feature="size" opWords="9"/>
+			<opinion polarity="-" feature="size" opWords="11"/>
+			<opinion polarity="-" feature="weight" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) packed(3) for(4) the(5) trip(6) ,(7) I(8) barely(9) had(10) any(11) room(12) left(13) over(14) in(15) my(16) carry(17) on(18) for(19) other(20) items(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			While(1) I(2) noticed(3) a(4) slight(5) reduction(6) in(7) airplane(8) noise(9) ,(10) after(11) a(12) while(13) ,(14) I(15) was(16) really(17) bothered(18) by(19) the(20) hiss(21) that(22) accompanies(23) the(24) anti-noise(25) feature(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			I(1) felt(2) like(3) all(4) the(5) hype(6) about(7) Bose(8) was(9) just(10) that(11) ...(12) hype(13) !(14) 
+		</sentence>
+		<sentence id="7">
+			Then(1) last(2) week(3) ,(4) I(5) noticed(6) this(7) woman(8) sitting(9) next(10) to(11) me(12) on(13) a(14) flight(15) to(16) FL(17) had(18) these(19) unique(20) ,(21) super(22) small(23) ear(24) phones(25) in(26) her(27) ears(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			I(1) asked(2) her(3) what(4) she(5) was(6) wearing(7) and(8) she(9) said(10) they(11) were(12) a(13) combination(14) of(15) noise(16) reducing(17) ear(18) tips(19) AND(20) powerful(21) speakers(22) that(23) actually(24) fit(25) inside(26) your(27) ears(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			I(1) asked(2) her(3) if(4) she(5) had(6) tried(7) the(8) Bose(9) product(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			She(1) said(2) she(3) had(4) and(5) that(6) this(7) product(8) was(9) "(10) far(11) superior(12) "(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			She(1) let(2) me(3) try(4) them(5) and(6) I(7) was(8) immediately(9) blown(10) away(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) product(2) is(3) small(4) ((5) fits(6) in(7) the(8) palm(9) of(10) your(11) hand(12) )(13) ,(14) lightweight(15) ,(16) has(17) incredible(18) clarity(19) ,(20) reduces(21) 20(22) decibels(23) of(24) noise(25) ((26) almost(27) double(28) what(29) those(30) Bose(31) headphones(32) can(33) do(34) )(35) and(36) is(37) less(38) than(39) half(40) the(41) money(42) !(43) !(44) !(45) 
+			<opinion polarity="+" feature="size" opWords="4"/>
+			<opinion polarity="+" feature="weight" opWords="15"/>
+			<opinion polarity="+" feature="sound quality" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="13">
+			The(1) product(2) is(3) called(4) ER6(5) Isolator_Earphones(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			I(1) bought(2) it(3) through(4) the(5) travel(6) catalog(7) www.magellans.com.(8) Needless(9) to(10) say(11) ,(12) I(13) returned(14) the(15) Bose(16) and(17) bought(18) the(19) ER6(20) Isolator(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			At(1) $140(2) ,(3) this(4) product(5) is(6) a(7) super(8) value(9) .(10) 
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+		</sentence>
+	</text>
+</review>

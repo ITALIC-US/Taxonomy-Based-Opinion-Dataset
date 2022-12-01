@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="340" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Transmission(1) went(2) out(3) at(4) 63,000_miles(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) body(2) ,(3) smooth(4) drive(5) 
+			<opinion polarity="+" feature="drive" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			transmission(1) failed(2) at(3) 63,000_miles(4) 
+			<opinion polarity="-" feature="transmission" featWords="1" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) love(2) my(3) 2000(4) civic(5) ((6) vp(7) model(8) ,(9) value(10) package(11) ,(12) bottomline(13) civic(14) )(15) But(16) the(17) tranny(18) went(19) out(20) on(21) my(22) way(23) home(24) for(25) Christmas(26) !(27) 
+		</sentence>
+		<sentence id="2">
+			I(1) broke(2) down(3) 7(4) hours(5) away(6) from(7) home(8) on(9) Xmas_Eve(10) !(11) 
+		</sentence>
+		<sentence id="3">
+			It(1) cost(2) me(3) $3600(4) to(5) get(6) a(7) new(8) tranny(9) ((10) with(11) a(12) 2(13) yr(14) waranty(15) )(16) .(17) :(18) ((19) I(20) thought(21) when(22) I(23) paid(24) $9400(25) for(26) a(27) year_2000(28) honda(29) I(30) would(31) not(32) have(33) any(34) problems(35) .(36) But(37) now(38) we(39) see(40) that(41) when(42) we(43) check(44) the(45) fluid(46) ,(47) for(48) some(49) reason(50) it(51) 's(52) hard(53) to(54) get(55) it(56) to(57) give(58) an(59) accurate(60) reading(61) of(62) the(63) fluid(64) levels(65) .(66) ?(67) ?(68) But(69) I(70) 'm(71) from(72) a(73) Honda(74) family(75) and(76) my(77) boyfriend(78) is(79) buying(80) a(81) 1995(82) civic(83) ex.(84) Still(85) have(86) faith(87) in(88) honda(89) even(90) after(91) my(92) horrible(93) experience(94) .(95) Amount_Paid(96) ((97) US(98) $(99) )(100) :(101) 9,400(102) Condition(103) :(104) UsedModel_Year(105) :(106) 2000Model(107) and(108) Options(109) :(110) "(111) vp(112) "(113) ((114) bottomline(115) model(116) )(117) 
+		</sentence>
+	</text>
+</review>

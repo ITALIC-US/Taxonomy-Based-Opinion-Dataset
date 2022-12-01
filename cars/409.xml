@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="409" item="1992 Saturn SL" rating="3">
+	<title>
+		<sentence id="1">
+			Reliable(1) ,(2) worthwhile(3) car(4) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) ,(2) cost-effective(3) .(4) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			loud(1) ,(2) not(3) powerful(4) engine(5) ,(6) chicks(7) do(8) not(9) dig(10) it(11) .(12) 
+			<opinion polarity="-" feature="engine" featWords="5" opWords="3,4"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) 1992(4) Saturn(5) in(6) late(7) 1991(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) fantastic(3) !(4) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Brand(1) new(2) ,(3) reliable(4) ,(5) very(6) sleek(7) looking(8) car(9) for(10) the(11) money(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+			<opinion polarity="+" feature="reliability" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			And(1) do(2) not(3) forget(4) safe(5) too(6) .(7) 
+			<opinion polarity="+" feature="safety" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			And(1) the(2) sound(3) system(4) ((5) Kenwood_CD(6) player(7) -(8) stock(9) )(10) was(11) simply(12) profound(13) for(14) the(15) car(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) high(2) point(3) was(4) WHO(5) Saturn(6) was(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) brand(3) new(4) ,(5) no(6) one(7) knew(8) about(9) it(10) ,(11) but(12) tons(13) of(14) wonderful(15) articles(16) were(17) cropping(18) up(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			Now(1) ,(2) it(3) 's(4) more(5) than(6) 8(7) years(8) later(9) ,(10) and(11) I(12) 'm(13) on(14) my(15) second(16) Saturn(17) ((18) 1995(19) SL1(20) )(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) old(2) car(3) no(4) resides(5) with(6) someone(7) else(8) ,(9) but(10) it(11) performed(12) wonderfully(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Best(1) example(2) :(3) it(4) snowed(5) like(6) crazy(7) one(8) Colorado(9) morning(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			It(1) performed(2) like(3) it(4) was(5) meant(6) for(7) the(8) snow(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) the(3) second(4) person(5) out(6) of(7) the(8) snow-filled(9) parking(10) lot(11) at(12) school(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			In(1) terms(2) of(3) wet(4) weather(5) ,(6) the(7) Saturn(8) handles(9) well(10) ,(11) even(12) when(13) the(14) tires(15) lose(16) traction(17) .(18) 
+			<opinion polarity="+" feature="handling" opWords="9,10"/>
+		</sentence>
+		<sentence id="14">
+			Dry(1) weather(2) performance(3) is(4) very(5) good(6) ,(7) but(8) you(9) lose(10) a(11) good(12) feeling(13) of(14) the(15) road(16) ((17) dissociative(18) )(19) unlike(20) a(21) BMW(22) .(23) 
+			<opinion polarity="+" feature="performance" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			A(1) point(2) here(3) is(4) that(5) Saturn(6) 's(7) are(8) not(9) normally(10) equipped(11) with(12) high(13) performance(14) wheels(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Now(1) ,(2) in_the_year_2000(3) ,(4) my(5) opinion(6) has(7) changed(8) of(9) Saturn(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			Now(1) ,(2) I(3) want(4) a(5) BMW(6) !(7) 
+		</sentence>
+		<sentence id="18">
+			Saturn(1) is(2) perfect(3) for(4) the(5) high(6) school(7) and(8) college(9) kids(10) ,(11) and(12) for(13) those(14) of(15) us(16) ((17) like(18) me(19) )(20) are(21) transitioning(22) from(23) academics(24) to(25) organizational(26) life(27) .(28) 
+		</sentence>
+		<sentence id="19">
+			But(1) ,(2) once(3) you(4) graduate(5) to(6) the(7) "(8) real(9) world(10) ,(11) "(12) and(13) you(14) start(15) to(16) make(17) some(18) "(19) real(20) money(21) ,(22) "(23) a(24) Saturn(25) just(26) does(27) not(28) cut(29) it(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			Saturn(1) 's(2) engine(3) is(4) loud(5) and(6) not(7) very(8) powerful(9) .(10) 
+			<opinion polarity="-" feature="horsepower" opWords="7,9"/>
+			<opinion polarity="-" feature="engine" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="21">
+			I(1) notice(2) a(3) big(4) difference(5) between(6) engine(7) power(8) related(9) to(10) if(11) the(12) Air_Conditioning(13) is(14) on(15) or(16) not(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			In(1) terms(2) of(3) the(4) interior(5) room(6) and(7) comfortability(8) ,(9) I(10) believe(11) you(12) get(13) what(14) you(15) pay(16) for(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			The(1) seats(2) are(3) nice(4) ,(5) but(6) cloth(7) and(8) do(9) not(10) hold(11) up(12) very(13) strongly(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="24">
+			They(1) seem(2) a_bit(3) weak(4) or(5) soft(6) .(7) 
+		</sentence>
+		<sentence id="25">
+			The(1) room(2) is(3) great(4) for(5) me(6) when(7) I(8) 'm(9) driving(10) alone(11) ((12) I(13) 'm(14) 5(15) '(16) 11(17) "(18) )(19) ,(20) but(21) the(22) back(23) seat(24) would(25) not(26) be(27) for(28) a(29) big(30) person(31) for(32) I(33) like(34) to(35) have(36) my(37) seat(38) pushed(39) all(40) of(41) the(42) way(43) back(44) .(45) 
+			<opinion polarity="+" feature="room" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			It(1) 's(2) fairly(3) comfortable(4) ,(5) but(6) having(7) driven(8) my(9) dad(10) 's(11) new(12) BMW(13) 528(14) ,(15) I(16) 'm(17) now(18) tainted(19) with(20) knowing(21) what(22) is(23) luxury(24) .(25) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+	</text>
+</review>

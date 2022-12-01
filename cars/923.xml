@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="923" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			WORST_BUY_EVER(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas_Mileage(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ugly(1) ,(2) Slow(3) ,(4) nothing(5) like(6) the(7) original(8) Beetle(9) ,(10) overpriced(11) ,(12) annoying(13) ad(14) campaign(15) 
+			<opinion polarity="-" feature="car" opWords="13"/>
+			<opinion polarity="-" feature="price" opWords="11"/>
+			<opinion polarity="-" feature="speed" opWords="3"/>
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Volkswagen_New_Beetle(2) is(3) the(4) worst(5) buy(6) on(7) today(8) 's(9) market(10) !(11) $20,000(12) for(13) an(14) ugly(15) slow(16) compact(17) ?(18) 
+			<opinion polarity="-" feature="speed" opWords="16"/>
+			<opinion polarity="-" feature="design" opWords="15"/>
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) buy(3) a(4) V(5) -(6) 8(7) Dodge_Ram(8) for(9) that(10) much(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) interior(2) is(3) tiny(4) ,(5) the(6) roof(7) is(8) high(9) ,(10) and(11) the(12) dashboard(13) looks(14) like(15) the(16) flight(17) deck(18) off(19) of(20) an(21) aircraft(22) carrier(23) .(24) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			And(1) whats(2) with(3) that(4) stupid(5) flower(6) holder(7) ?(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) applaud(3) the(4) New_Beetles(5) gas(6) mileage(7) ,(8) but(9) you(10) can(11) get(12) a(13) Golf(14) with(15) the(16) same(17) engine(18) for(19) less(20) money(21) and(22) it(23) looks(24) much(25) better(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			The(1) front(2) engine(3) front(4) wheel(5) drive(6) is(7) a(8) sacralidge(9) from(10) the(11) old(12) rear(13) engine(14) designs(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Most(1) of(2) the(3) people(4) I(5) see(6) driving(7) New_Beetles(8) are(9) spoiled(10) little(11) teenage(12) girls(13) with(14) "(15) Yield(16) to(17) the(18) Princess(19) "(20) stickers(21) on(22) the(23) back(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Most(1) of(2) the(3) drivers(4) do(5) not(6) even(7) know(8) what(9) the(10) original(11) Beetle(12) was(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Or(1) the(2) ideas(3) of(4) the(5) original(6) Beetle(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			To(1) make(2) a(3) cheap(4) reliable(5) car(6) that(7) everyone(8) can(9) afford(10) .(11) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="price" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			And(1) the(2) New_Beetle(3) is(4) certianly(5) not(6) anywhere(7) near(8) that(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Also(1) ,(2) whats(3) with(4) that(5) turbo(6) model(7) ?(8) 
+		</sentence>
+		<sentence id="13">
+			They(1) stuck(2) a(3) sorry(4) excuse(5) for(6) a(7) spoiler(8) on(9) it(10) and(11) came(12) up(13) with(14) that(15) stupid(16) "(17) turbonium(18) "(19) ad(20) campaign(21) that(22) annoys(23) me(24) everytime(25) I(26) see(27) it(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			A(1) 1.8_Liter(2) engine(3) ,(4) even(5) with(6) a(7) turbocharger(8) is(9) still(10) slow(11) .(12) 
+			<opinion polarity="-" feature="engine" featWords="3" opWords="11"/>
+		</sentence>
+		<sentence id="15">
+			Anyone(1) who(2) drives(3) a(4) New_Beetle(5) ,(6) or(7) who(8) is(9) considering(10) buying(11) a(12) New_Beetle(13) should(14) seriously(15) consider(16) looking(17) elsewhere(18) ...(19) You(20) can(21) get(22) a(23) much(24) better(25) car(26) for(27) the(28) price(29) of(30) the(31) New_Beetle(32) .(33) 
+		</sentence>
+	</text>
+</review>

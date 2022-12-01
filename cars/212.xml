@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="212" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Simply(1) a(2) Kick(3) to(4) Drive(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) comfort(3) ,(4) and(5) handling(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) significant(2) cons(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) admit(2) it(3) :(4) I(5) am(6) a(7) Maxima(8) addict(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) recently(2) traded(3) my(4) '(5) 97(6) SE_Max(7) for(8) a(9) 2000(10) SE(11) model(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			What(1) was(2) good(3) has(4) become(5) even(6) better(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) want(3) a(4) practical(5) sedan(6) that(7) is(8) simply(9) a(10) kick(11) to(12) drive(13) ,(14) this(15) is(16) it(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) overall(2) redesign(3) is(4) simple(5) and(6) elegant(7) .(8) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="7"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Although(1) I(2) 'm(3) not(4) thrilled(5) with(6) the(7) tail-light(8) design(9) ,(10) I(11) 'll(12) get(13) used(14) to(15) it(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) rear(2) spoiler(3) is(4) smaller(5) too(6) ,(7) and(8) looking(9) straight-on(10) from(11) the(12) back(13) it(14) just(15) looks(16) odd(17) ,(18) compared(19) to(20) prior(21) models(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			The(1) view(2) from(3) the(4) front(5) ,(6) however(7) ,(8) is(9) awesome(10) !(11) 
+			<opinion polarity="+" feature="visibility" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			The(1) cabin(2) is(3) quieter(4) ,(5) the(6) ride(7) is(8) smoother(9) ,(10) the(11) brakes(12) feel(13) stronger(14) ,(15) and(16) the(17) automatic(18) transmission(19) has(20) lost(21) that(22) annoying(23) "(24) clunky(25) "(26) feel(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			In(1) day-to-day(2) use(3) ,(4) it(5) 's(6) hard(7) to(8) detect(9) the(10) extra(11) 25(12) horsepower(13) under(14) the(15) hood(16) ,(17) but(18) it(19) still(20) has(21) the(22) great(23) pickup(24) that(25) has(26) always(27) characterized(28) the(29) Maxima(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			The(1) "(2) one-touch(3) "(4) controls(5) on(6) the(7) sun-roof(8) and(9) drivers(10) window-up(11) are(12) long(13) overdue(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			No(1) more(2) annoying(3) holding(4) the(5) switches(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			Nissan(1) had(2) the(3) driver(4) in(5) mind(6) with(7) other(8) simple(9) touches(10) ,(11) such(12) as(13) moving(14) all(15) of(16) the(17) cruise(18) controls(19) to(20) the(21) steering(22) wheel(23) ,(24) adding(25) an(26) overhead(27) sunglass(28) pocket(29) and(30) an(31) adjustable(32) middle(33) armrest(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			About(1) the(2) only(3) thing(4) I(5) do(6) not(7) like(8) about(9) this(10) car(11) is(12) the(13) way(14) the(15) trunk(16) lifters(17) still(18) descend(19) into(20) the(21) cargo(22) bay(23) as(24) I(25) close(26) the(27) trunk(28) ,(29) potentially(30) crushing(31) anything(32) in(33) their(34) path(35) .(36) 
+		</sentence>
+		<sentence id="15">
+			I(1) guess(2) the(3) only(4) alternative(5) would(6) be(7) pistons(8) which(9) eventually(10) wear(11) out(12) ,(13) so(14) I(15) can(16) accept(17) this(18) limitation(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			The(1) trunk(2) space(3) is(4) actually(5) a_bit(6) larger(7) ,(8) so(9) this(10) may(11) not(12) be(13) as(14) much(15) an(16) issue(17) anymore(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			I(1) suppose(2) I(3) 'll(4) find(5) out(6) during(7) the(8) upcoming(9) Christmas(10) shopping(11) season(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			All(1) in_all(2) ,(3) I(4) highly(5) recommend(6) this(7) fine(8) vehicle(9) as(10) an(11) exceptional(12) value(13) at(14) a(15) reasonable(16) price(17) .(18) 
+			<opinion polarity="+" feature="price" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="car" opWords="6" potency="5"/>
+		</sentence>
+	</text>
+</review>

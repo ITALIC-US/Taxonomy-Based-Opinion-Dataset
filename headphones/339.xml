@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="339" item="Sony MDR-NC6 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) deal(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) good(4) noise-canceling(5) ,(6) nice(7) and(8) sturdy(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="headphones" opWords="7"/>
+			<opinion polarity="+" feature="durability" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Easy(1) to(2) accidentally(3) turn(4) on(5) and(6) drain(7) batteries(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) them(2) ,(3) but(4) make(5) sure(6) you(7) have(8) plenty_of(9) AAA(10) batteries(11) on_hand(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) originally(2) bought(3) these(4) headphones(5) to(6) use(7) on(8) airplane(9) flights(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) they(3) are(4) so(5) comfortable(6) ,(7) and(8) the(9) sound(10) quality(11) is(12) so(13) good(14) ,(15) that(16) I(17) routinely(18) use(19) them(20) around(21) the(22) house(23) or(24) yard(25) ,(26) with(27) my(28) iPod(29) !(30) 
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="10,11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="3">
+			The(1) best(2) feature(3) of(4) these(5) headphones(6) is(7) definitely(8) the(9) sound(10) quality(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="10,11" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			The(1) speakers(2) are(3) nice(4) and(5) big(6) ,(7) and(8) -(9) compared(10) to(11) something(12) like(13) iPod(14) earbuds(15) -(16) the(17) richness(18) and(19) fullness(20) of(21) whatever(22) you(23) 're(24) listening(25) to(26) is(27) infinitely(28) greater(29) .(30) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="size" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			While(1) definitely(2) made(3) of(4) light(5) plastic(6) ,(7) the(8) fit(9) and(10) finish(11) of(12) the(13) product(14) is(15) quite(16) good(17) -(18) Sony(19) quality(20) !(21) 
+			<opinion polarity="+" feature="comfort" featWords="9" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="6">
+			The(1) noise-canceling(2) feature(3) of(4) the(5) headphones(6) is(7) a(8) little(9) counter-intuitive(10) ,(11) but(12) it(13) works(14) well(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Basically(1) ,(2) when(3) switched(4) on(5) ,(6) the(7) headphones(8) produce(9) a(10) faint(11) humming(12) noise(13) that(14) somehow(15) cancels(16) out(17) typical(18) background(19) noise(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			I(1) imagine(2) that(3) it(4) is(5) designed(6) for(7) the(8) frequency(9) of(10) aircraft(11) noise(12) ,(13) but(14) I(15) 've(16) found(17) that(18) it(19) works(20) very(21) well(22) for(23) mowing(24) the(25) lawn(26) !(27) 
+		</sentence>
+		<sentence id="9">
+			I(1) put(2) in(3) earplugs(4) ,(5) put(6) on(7) the(8) headphones(9) ,(10) turn(11) on(12) the(13) noise(14) canceling(15) feature(16) ,(17) and(18) crank(19) my(20) iPod(21) all(22) the(23) way(24) up(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			The(1) headphones(2) cancel(3) out(4) the(5) lawnmower(6) noise(7) ,(8) and(9) the(10) earplugs(11) lower(12) the(13) overall(14) noise(15) level(16) ((17) so_that(18) I(19) do(20) not(21) deafen(22) myself(23) )(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) issue(3) I(4) have(5) with(6) these(7) headphones(8) is(9) that(10) the(11) on(12) /(13) off(14) switch(15) is(16) very(17) light(18) ,(19) and(20) is(21) easily(22) turned(23) on(24) by(25) accident(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			This(1) means(2) that(3) you(4) can(5) put(6) the(7) headphones(8) away(9) ,(10) bump(11) the(12) switch(13) by(14) accident(15) ,(16) and(17) have(18) two(19) dead(20) AAA(21) batteries(22) the(23) next(24) time(25) you(26) go(27) to(28) use(29) them(30) .(31) 
+		</sentence>
+	</text>
+</review>

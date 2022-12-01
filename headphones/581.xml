@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="581" item="Bose TriPort Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Expected_More(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Light_Weight(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Nice_Design(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) is(2) not(3) rich(4) and(5) deep(6) like(7) promised(8) on(9) the(10) package(11) .(12) 
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="3,4"/>
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="3,6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) bought(3) a(4) pair(5) today(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) got(2) them(3) for(4) my(5) Rio_Riot(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Hoping(1) they(2) would(3) deliver(4) richer(5) sound(6) ...(7) especially(8) deeper(9) bass(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) did(2) not(3) really(4) deliver(5) on(6) these(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) sounds(3) bland(4) to(5) ok(6) ......(7) I(8) wanted(9) immersive(10) and(11) acoustic(12) sound(13) ...(14) oh(15) well(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) gonna(3) return(4) my(5) pair(6) tomorrow(7) .(8) 
+		</sentence>
+	</text>
+</review>

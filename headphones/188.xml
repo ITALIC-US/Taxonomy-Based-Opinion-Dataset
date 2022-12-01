@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="188" item="Panasonic RP-HT850 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Panasonic_RT-HT(1) 850(2) Good_Quality_Stereo_Headphones(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			extremely(1) comfortable(2) ,(3) lightweight(4) ,(5) aesthetic(6) ,(7) no(8) problems(9) with(10) the(11) plug(12) like(13) other(14) ones(15) we(16) have(17) had(18) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="weight" opWords="4"/>
+			<opinion polarity="+" feature="appearance" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Broke(1) too(2) early(3) and(4) soft(5) faux(6) leather(7) case(8) does(9) not(10) provide(11) much(12) protection(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) stereo(2) headphones(3) for(4) the(5) price(6) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Purchased(1) these(2) 3(3) years(4) ago(5) when(6) we(7) were(8) moving(9) and(10) needed(11) something(12) portable(13) ,(14) lightweight(15) and(16) compact(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Use(1) them(2) on(3) an(4) almost(5) daily(6) basis(7) for(8) music(9) and(10) games(11) etc(12) with(13) a(14) laptop(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) these(3) on(4) sale(5) and(6) these(7) were(8) the(9) last(10) one(11) for(12) about(13) $10(14) which(15) I(16) thought(17) was(18) a(19) steal(20) even_though(21) I(22) do(23) not(24) like(25) Panasonic(26) as(27) a(28) company(29) as(30) I(31) have(32) found(33) them(34) to(35) not(36) honor(37) their(38) warranties(39) so(40) therefore(41) try(42) to(43) avoid(44) purchasing(45) their(46) products(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			But(1) ....(2) these(3) are(4) excellent(5) in(6) my(7) opinion(8) ,(9) they(10) are(11) light(12) weight(13) ,(14) foldable(15) ,(16) convenient(17) and(18) have(19) extremely(20) good(21) quality(22) sound(23) .(24) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="5"/>
+			<opinion polarity="+" feature="weight" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="portability" opWords="15"/>
+			<opinion polarity="+" feature="headphones" opWords="17"/>
+			<opinion polarity="+" feature="sound quality" featWords="23" opWords="21,22" potency="20"/>
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) comfortable(3) and(4) one(5) feels(6) like(7) they(8) are(9) in(10) their(11) own(12) booth(13) while(14) listening(15) to(16) something(17) .(18) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			I(1) love(2) this(3) product(4) ,(5) hate(6) the(7) fact(8) it(9) 's(10) a(11) Panasonic(12) ,(13) and(14) the(15) fact(16) I(17) now(18) have(19) to(20) get(21) a(22) replacement(23) because(24) the(25) plastic(26) bracket(27) that(28) goes(29) around(30) the(31) earpiece(32) cracked(33) and(34) after(35) securing(36) it(37) with(38) a(39) plastic(40) tie(41) and(42) wound(43) rubber(44) band(45) it(46) 's(47) time(48) to(49) replace(50) it(51) .(52) 
+		</sentence>
+		<sentence id="7">
+			We(1) never(2) used(3) the(4) faux(5) leather(6) case(7) much(8) and(9) were(10) careful(11) when(12) we(13) did(14) because(15) it(16) does(17) not(18) provide(19) any(20) protection(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			The(1) cracked(2) area(3) was(4) due(5) to(6) usage(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Our(1) headphones(2) sit(3) on(4) our(5) desk(6) near(7) the(8) laptop(9) ,(10) we(11) do(12) not(13) travel(14) much(15) with(16) it(17) anymore(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			So(1) the(2) usage(3) I(4) speak(5) of(6) is(7) from(8) home(9) use(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) highly(2) recommend(3) this(4) product(5) especially(6) if(7) you(8) can(9) get(10) it(11) for(12) less(13) than(14) $20(15) ,(16) well(17) worth(18) it(19) .(20) 
+			<opinion polarity="+" feature="headphones" opWords="3" potency="2"/>
+		</sentence>
+	</text>
+</review>

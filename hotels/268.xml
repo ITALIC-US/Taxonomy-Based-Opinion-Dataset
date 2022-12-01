@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="268" item="Rosario Resort And Spa" rating="2">
+	<title>
+		<sentence id="1">
+			Summer(1) vacation(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) nicest(2) place(3) to(4) stay(5) on(6) Orcas_Island(7) .(8) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unfortunately(1) ,(2) that(3) is(4) not(5) saying(6) much(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			"(1) Resort(2) "(3) is(4) misleading(5) --(6) think(7) $200-a-night(8) Holiday_Inn(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) got(2) back(3) from(4) 5(5) days(6) at(7) Rosario(8) ((9) 8/25/03(10) )(11) and(12) have(13) a(14) few(15) thoughts(16) to(17) share(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			There(1) was(2) good(3) and(4) bad(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			First(1) ,(2) the(3) resort(4) is(5) much(6) bigger(7) than(8) the(9) map(10) might(11) lead(12) you(13) to(14) believe(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) 're(3) staying(4) at(5) the(6) hillside(7) buildings(8) you(9) are(10) about(11) half(12) a_mile(13) from(14) the(15) mansion(16) ;(17) you(18) 'll(19) have(20) to(21) negotiate(22) a(23) steep(24) ((25) and(26) unpaved(27) )(28) path(29) to(30) get(31) there(32) ,(33) dodge(34) the(35) shuttles(36) and(37) cars(38) on(39) the(40) windy(41) road(42) ((43) there(44) 's(45) no(46) sidewalk(47) )(48) ,(49) or(50) take(51) a(52) shuttle(53) yourself(54) .(55) 
+		</sentence>
+		<sentence id="5">
+			That(1) 's(2) hard(3) if(4) you(5) have(6) a_lot_of(7) stuff(8) to(9) carry(10) ((11) which(12) you(13) might(14) ,(15) since(16) the(17) pools(18) are(19) near(20) the(21) mansion(22) )(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			You(1) 'll(2) also(3) pass(4) by(5) some(6) abandoned(7) buildings(8) and(9) fragrant(10) garbage(11) dumpsters(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Second(1) ,(2) the(3) resort(4) is(5) decidedly(6) run(7) down(8) .(9) 
+			<opinion polarity="-" feature="hotel" featWords="4" opWords="7,8"/>
+		</sentence>
+		<sentence id="8">
+			The(1) fountain(2) is(3) overgrown(4) with(5) algae(6) ,(7) two(8) of(9) the(10) six(11) jets(12) do(13) not(14) work(15) ,(16) and(17) there(18) 's(19) refuse(20) like(21) pipes(22) and(23) boards(24) floating(25) in(26) it(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			The(1) bridge(2) to(3) the(4) island(5) in(6) the(7) middle(8) of(9) the(10) fountain(11) is(12) closed(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) water(2) is(3) nearly(4) opaque(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) broken(3) stuff(4) everywhere(5) --(6) radiator(7) covers(8) fallen(9) off(10) ,(11) chipped(12) and(13) stained(14) paint(15) ,(16) and(17) so_on(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) bathrooms(2) in(3) the(4) poolside(5) grill(6) were(7) NASTY(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			The(1) crib(2) we(3) asked(4) to(5) have(6) put(7) in(8) our(9) room(10) turned(11) out(12) to(13) be(14) a(15) pack-n-play(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Third(1) ,(2) the(3) resort(4) is(5) severely(6) understaffed(7) .(8) 
+			<opinion polarity="-" feature="hotel" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="15">
+			When(1) our(2) room(3) still(4) was(5) not(6) ready(7) nearly(8) an(9) hour(10) after(11) check-in(12) ((13) and(14) after(15) several(16) hours(17) of(18) being(19) told(20) that(21) it(22) would(23) be(24) only(25) another(26) half(27) hour(28) )(29) ,(30) we(31) got(32) moved(33) to(34) a(35) different(36) room(37) .(38) 
+		</sentence>
+		<sentence id="16">
+			The(1) waiter(2) in(3) the(4) lounge(5) told(6) us(7) that(8) if(9) we(10) ordered(11) anything(12) other(13) than(14) salads(15) we(16) 'd(17) have(18) a(19) 45-minute(20) wait(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Most(1) days(2) our(3) room(4) was(5) not(6) made(7) up(8) until(9) midafternoon(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			While(1) on(2) the(3) shuttle(4) ,(5) one(6) of(7) the(8) drivers(9) actually(10) bent(11) our(12) ear(13) about(14) how(15) much(16) he(17) disliked(18) working(19) there(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			So(1) much(2) for(3) the(4) bad(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			The(1) good(2) news(3) is(4) that(5) the(6) resort(7) is(8) in(9) a(10) spectacular(11) location(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) get(3) a(4) hillside(5) room(6) with(7) a(8) water(9) view(10) ((11) as(12) we(13) did(14) )(15) you(16) can(17) see(18) all(19) of(20) Cascade_Bay(21) without(22) turning(23) your(24) head(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			Boats(1) come(2) and(3) go(4) ,(5) seaplanes(6) fly(7) in(8) and(9) out(10) ,(11) and(12) the(13) water(14) is(15) a(16) sparkling(17) blue(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			The(1) resort(2) is(3) also(4) right(5) next(6) to(7) Moran_State_Park(8) ,(9) which(10) has(11) some(12) very(13) nice(14) hikes(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			But(1) with(2) all(3) those(4) drawbacks(5) ,(6) by(7) the(8) 2nd(9) day(10) we(11) were(12) so(13) disappointed(14) with(15) the(16) resort(17) we(18) started(19) looking(20) for(21) somewhere(22) else(23) to(24) stay(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			That(1) 's(2) when(3) we(4) discovered(5) that(6) ,(7) despite(8) its(9) flaws(10) ,(11) the(12) resort(13) is(14) by(15) far(16) the(17) most(18) beautiful(19) place(20) to(21) stay(22) on(23) the(24) island(25) .(26) 
+			<opinion polarity="+" feature="place" featWords="20" opWords="18,19"/>
+		</sentence>
+		<sentence id="26">
+			Most(1) other(2) places(3) are(4) nowhere(5) near(6) as(7) scenic(8) and(9) nearly(10) as(11) expensive(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			So(1) we(2) stayed(3) and(4) made(5) the(6) best(7) of(8) it(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			As(1) a(2) result(3) of(4) all(5) this(6) ,(7) we(8) ended(9) up(10) spending(11) a_lot_of(12) our(13) time(14) out(15) of(16) our(17) room(18) ,(19) which(20) was(21) all(22) right(23) since(24) the(25) weather(26) was(27) good(28) .(29) 
+		</sentence>
+		<sentence id="29">
+			We(1) drove(2) into(3) Eastsound(4) most(5) days(6) for(7) lunch(8) ,(9) and(10) we(11) spent(12) part(13) of(14) each(15) day(16) at(17) the(18) family(19) pool(20) ((21) kids(22) not(23) being(24) allowed(25) at(26) the(27) adult(28) pool(29) closer(30) to(31) the(32) mansion(33) )(34) .(35) 
+		</sentence>
+		<sentence id="30">
+			All(1) in_all(2) a(3) passable(4) vacation(5) ,(6) but(7) I(8) do(9) not(10) imagine(11) we(12) 'll(13) ever(14) go(15) back(16) .(17) 
+		</sentence>
+	</text>
+</review>

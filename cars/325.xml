@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="325" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Fuel_Efficient(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) very(2) roomie(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 'm(2) sure(3) everyone(4) probably(5) already(6) knows(7) about(8) the(9) great(10) mpg(11) ,(12) but(13) it(14) 's(15) especially(16) important(17) know(18) when(19) gas(20) prices(21) are(22) so(23) high(24) .(25) 
+			<opinion polarity="+" feature="gas" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) gets(3) app(4) .(5) 28(6) mpg(7) in(8) the(9) city(10) ,(11) and(12) about(13) 35(14) mpg(15) on(16) the(17) highway(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			This(1) with(2) an(3) automatic(4) transmission(5) ,(6) that(7) 's(8) excellent(9) .(10) 
+			<opinion polarity="+" feature="transmission" featWords="5" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			Although(1) ,(2) the(3) civic(4) does(5) have(6) down(7) sides(8) ;(9) most(10) of(11) the(12) models(13) do(14) not(15) come(16) with(17) standard(18) ABS(19) ,(20) that(21) 's(22) a(23) must(24) for(25) winter(26) driving(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) the(3) civic(4) is(5) not(6) as(7) roomie(8) as(9) it(10) could(11) be(12) ,(13) but(14) it(15) 's(16) good(17) compared(18) to(19) other(20) cars(21) in(22) it(23) 's(24) class(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="17"/>
+		</sentence>
+		<sentence id="6">
+			Finally(1) ,(2) the(3) civic(4) is(5) very(6) reliable(7) ,(8) probably(9) it(10) 's(11) best(12) feature(13) and(14) it(15) 's(16) re(17) designed(18) body(19) gives(20) it(21) that(22) furturistic(23) look(24) .(25) 
+			<opinion polarity="+" feature="reliability" opWords="7" potency="6"/>
+		</sentence>
+	</text>
+</review>

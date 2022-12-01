@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="171" item="1993 Ford Bronco" rating="4">
+	<title>
+		<sentence id="1">
+			BRING(1) THE_BEAST_BACK(2) !(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			low-maintenance(1) ,(2) stylish(3) exterior(4) ,(5) versatile(6) ,(7) spacious(8) ,(9) reliable(10) engine(11) history(12) 
+			<opinion polarity="+" feature="reliability" opWords="10"/>
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="exterior" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			front(1) suspension(2) ,(3) tailgate(4) design(5) ,(6) factory(7) tire(8) size(9) ,(10) auto(11) transmission(12) versus(13) manual(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			One(1) of(2) the(3) best(4) made(5) trucks(6) for(7) a(8) multitude(9) of(10) used(11) one(12) can(13) find(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) shame(4) they(5) are(6) no_longer(7) made(8) ...(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) wanted(3) a(4) full-sized(5) Bronco(6) since(7) 1988(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			In_1999(1) ,(2) I(3) came(4) close(5) ,(6) purchasing(7) a(8) cheaper(9) ,(10) and(11) reliable(12) Bronco_II(13) .(14) 
+			<opinion polarity="+" feature="reliability" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			That(1) truck(2) had(3) 187,000_miles(4) and(5) still(6) ran(7) well(8) ,(9) when(10) I(11) sold(12) it(13) ,(14) with(15) a(16) 177(17) ,(18) V(19) -(20) 6(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			That(1) truck(2) gave(3) me(4) confidence(5) that(6) coming(7) back(8) to(9) a(10) 302(11) ,(12) V(13) -(14) 8(15) once(16) more(17) would(18) be(19) just(20) as(21) reliable(22) ,(23) only(24) in(25) a(26) bigger(27) truck(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Finally(1) ,(2) in_2003(3) ,(4) I(5) got(6) one(7) of(8) these(9) great(10) beasts(11) ,(12) although(13) not(14) in(15) as(16) great(17) of(18) shape(19) as(20) I(21) would(22) have(23) liked(24) .(25) 1(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			I(1) enjoy(2) the(3) relative(4) ease(5) of(6) doing(7) back-yard(8) maintenance(9) ,(10) due(11) to(12) space(13) in(14) the(15) engine(16) bay(17) ,(18) for(19) spark(20) plug(21) changes(22) ,(23) and_so_forth(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Many(1) of(2) my(3) parts(4) are(5) still(6) original(7) ,(8) as(9) of(10) 97,000_miles(11) and(12) 10(13) years(14) !(15) 2(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) also(2) like(3) the(4) styling(5) for(6) the(7) '(8) 92(9) -(10) '(11) 96(12) models(13) ,(14) which(15) unfortunately(16) were(17) the(18) last(19) of(20) a(21) great(22) breed(23) of(24) truck(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			The(1) Bronco(2) of(3) these(4) later(5) years(6) represents(7) class(8) ,(9) toughness(10) ,(11) and(12) style(13) ,(14) which(15) is(16) so(17) suited(18) for(19) us(20) two-door(21) vehicle(22) lovers(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) body(2) is(3) graceful(4) ,(5) yet(6) intimidatingly(7) large(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) chrome(2) is(3) stoic(4) and(5) solid(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) lights(2) are(3) bright(4) and(5) commanding(6) ,(7) and(8) the(9) interior(10) first-rate(11) for(12) a(13) traveler(14) ,(15) like(16) myself(17) .(18) 3(19) .(20) 
+			<opinion polarity="+" feature="interior" featWords="10" opWords="11"/>
+			<opinion polarity="+" feature="lights" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="lights" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) Bronco(2) is(3) good(4) in_all(5) weather(6) and(7) all(8) soil(9) conditions(10) ,(11) as(12) I(13) have(14) used(15) them(16) in(17) my(18) ranger(19) profession(20) ,(21) where(22) they(23) have(24) given(25) me(26) few(27) problem(28) ,(29) with(30) all(31) the(32) different(33) types(34) of(35) use(36) they(37) saw(38) !(39) 
+		</sentence>
+		<sentence id="14">
+			From(1) sand(2) to(3) snow(4) ,(5) from(6) traffic(7) enforcement(8) to(9) transporting(10) park(11) visitors(12) ,(13) the(14) Bronc(15) did(16) well(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) used(3) many(4) kinds(5) of(6) trucks(7) in(8) my(9) work(10) ,(11) and(12) I(13) always(14) liked(15) the(16) Bronc(17) the(18) best(19) of(20) the(21) batch(22) .(23) 4(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			The(1) space(2) in(3) the(4) truck(5) is(6) adequate(7) for(8) multiple(9) uses(10) ,(11) especially(12) for(13) travels(14) ,(15) moving(16) ,(17) or(18) groceries(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Plus(1) ,(2) I(3) can(4) keep(5) my(6) tools(7) and(8) emergency(9) road(10) equipment(11) in(12) the(13) back(14) ,(15) and(16) still(17) have(18) room(19) for(20) other(21) items(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			The(1) clearance(2) off(3) the(4) ground(5) helps(6) in(7) bad(8) weather(9) as_well(10) as(11) with(12) off-road(13) hazards(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			The(1) engine(2) bay(3) is(4) so(5) well(6) suited(7) for(8) most(9) maintenance(10) work(11) .(12) 5(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) engine(2) is(3) what(4) breeds(5) the(6) best(7) of(8) the(9) rest(10) of(11) this(12) truck(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) 97,000_miles(3) on(4) my(5) rigg(6) ,(7) and(8) I(9) have(10) seen(11) enough(12) Broncos(13) in(14) ads(15) when(16) I(17) was(18) shopping(19) for(20) one(21) ,(22) which(23) had(24) way(25) over(26) 120,000_miles(27) ,(28) with(29) the(30) 302(31) and(32) 351(33) engine(34) .(35) 
+		</sentence>
+		<sentence id="22">
+			That(1) says(2) much(3) ,(4) even(5) with(6) the(7) abuse(8) of(9) the(10) less(11) respectful(12) owners(13) who(14) use(15) these(16) truck(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			Access(1) to(2) plugs(3) ,(4) hoses(5) ,(6) belts(7) ,(8) and(9) spark(10) plugs(11) is(12) very(13) reasonable(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			With(1) vigilance(2) of(3) regular(4) maintenance(5) I(6) have(7) all(8) ready(9) made(10) three(11) long(12) trips(13) with(14) this(15) truck(16) ,(17) not(18) knowing(19) it(20) prior(21) history(22) of(23) its(24) first(25) 10(26) years(27) .(28) 
+		</sentence>
+		<sentence id="25">
+			It(1) ran(2) strong(3) ,(4) and(5) with(6) my(7) attention(8) to(9) detail(10) ,(11) and(12) some(13) fresh(14) parts(15) ,(16) this(17) truck(18) should(19) actually(20) run(21) better(22) over(23) time(24) ,(25) than(26) when(27) it(28) was(29) new(30) ,(31) with(32) additions(33) like(34) a(35) K._&_N.(36) filter(37) ,(38) high(39) performance(40) plugs(41) ,(42) new(43) computer(44) regulator(45) chip(46) ,(47) new(48) exhaust(49) system(50) ,(51) and(52) good(53) old(54) regular(55) oil(56) changes(57) .(58) 
+		</sentence>
+		<sentence id="26">
+			A._Of(1) the(2) few(3) short-comings(4) ,(5) I(6) am(7) not(8) too(9) crazy(10) about(11) the(12) front(13) suspension(14) ,(15) as(16) it(17) relates(18) to(19) alignment(20) issues(21) .(22) 
+		</sentence>
+		<sentence id="27">
+			Buying(1) this(2) rigg(3) used(4) ,(5) it(6) will(7) need(8) a(9) alignment(10) ,(11) and(12) it(13) will(14) not(15) be(16) cheap(17) to(18) do(19) ,(20) with(21) the(22) "(23) I(24) "(25) beams(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			B._The(1) tailgate(2) design(3) could(4) have(5) been(6) done(7) with(8) side-opening(9) doors(10) ,(11) which(12) would(13) make(14) it(15) easier(16) to(17) reach(18) into(19) the(20) truck(21) ,(22) and(23) be(24) less(25) wear(26) on(27) the(28) gate(29) with(30) years(31) of(32) opening(33) and(34) closing(35) .(36) 
+		</sentence>
+		<sentence id="29">
+			The(1) designers(2) did(3) not(4) think(5) this(6) out(7) too(8) well(9) ,(10) as(11) the(12) torsion(13) bar(14) gives(15) when(16) the(17) rust(18) gets(19) at(20) the(21) base(22) of(23) the(24) door(25) ,(26) with(27) the(28) pressure(29) of(30) shutting(31) it(32) over-and-over(33) ,(34) with(35) time(36) .(37) 
+		</sentence>
+		<sentence id="30">
+			C._Being(1) a(2) fan(3) of(4) manual(5) shifting(6) ,(7) for(8) gas(9) mileage(10) ,(11) optimum(12) power(13) ,(14) and(15) less(16) wear(17) ,(18) I(19) was(20) not(21) pleased(22) with(23) the(24) number(25) of(26) owners(27) who(28) chose(29) to(30) stay(31) with(32) the(33) auto(34) transmission(35) for(36) such(37) a(38) truck(39) of(40) a(41) truck(42) world(43) .(44) 
+		</sentence>
+		<sentence id="31">
+			This(1) made(2) it(3) hard(4) for(5) me(6) to(7) find(8) a(9) Bronc(10) with(11) a(12) manual(13) ,(14) which(15) forced(16) me(17) to(18) buy(19) a(20) auto(21) transmission(22) version(23) .(24) 
+		</sentence>
+		<sentence id="32">
+			But(1) ,(2) this(3) is(4) more(5) of(6) a(7) preference(8) ,(9) not(10) a(11) failing(12) of(13) the(14) truck(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			D._Finally(1) ,(2) the(3) tire(4) size(5) could(6) be(7) larger(8) ,(9) for(10) aesthetic(11) and(12) function(13) purposes(14) of(15) handling(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			But(1) ,(2) considering(3) these(4) things(5) ,(6) I(7) have(8) not(9) seen(10) as(11) attractive(12) a(13) rigg(14) as(15) the(16) late(17) model(18) Broncos(19) .(20) 
+		</sentence>
+		<sentence id="35">
+			It(1) is(2) only(3) a(4) shame(5) that(6) someone(7) at(8) Ford(9) decided(10) to(11) make(12) a(13) stupid(14) decision(15) to(16) remove(17) these(18) beasts(19) from(20) the(21) road(22) .(23) 
+		</sentence>
+		<sentence id="36">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 5240.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) XLT(16) 
+		</sentence>
+	</text>
+</review>

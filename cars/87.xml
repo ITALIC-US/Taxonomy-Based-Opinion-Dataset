@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="87" item="1995 Chevrolet Corvette" rating="5">
+	<title>
+		<sentence id="1">
+			If(1) I(2) could(3) just(4) get(5) this(6) grin(7) off(8) my(9) face(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			go(1) fast(2) ,(3) stop(4) fast(5) ,(6) turn(7) fast(8) ,(9) and(10) a(11) darn(12) good(13) stereo(14) 
+			<opinion polarity="+" feature="sound system" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="turning radius" opWords="7,8"/>
+			<opinion polarity="+" feature="brakes" opWords="4,5"/>
+			<opinion polarity="+" feature="speed" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			getting(1) in(2) and(3) out(4) and(5) replacing(6) tires(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			There(1) is(2) just(3) something(4) about(5) a(6) Corvette(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Even(1) through(2) struggling(3) years(4) ,(5) awkward(6) designs(7) and(8) first(9) year(10) bugs(11) for(12) each(13) new(14) body(15) style(16) ,(17) a(18) Corvette(19) will(20) still(21) draw(22) a(23) look(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) wanted(3) one(4) for(5) years(6) ,(7) O.K.(8) ,(9) decades(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) could(2) have(3) bought(4) one(5) a_lot(6) sooner(7) ,(8) considering(9) how(10) unfashionable(11) it(12) is(13) to(14) be(15) responsible(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) sacrifice(2) financially(3) would(4) have(5) proven(6) too(7) great(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			As(1) it(2) is(3) I(4) bought(5) a(6) 1995(7) rather(8) than(9) a(10) 2000(11) or(12) an(13) '(14) 01(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Let(1) 's(2) start(3) with(4) the(5) basics(6) of(7) sports(8) cars(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) 've(3) never(4) owned(5) one(6) ,(7) go(8) for(9) a(10) LONG(11) test(12) drive(13) first(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) like(3) creature(4) comforts(5) and(6) ease(7) of(8) entry(9) and(10) exit(11) ,(12) stop(13) right(14) here(15) and(16) get(17) a(18) sedan(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			I(1) 've(2) owned(3) way(4) more(5) cars(6) than(7) most(8) and(9) a(10) sports(11) car(12) or(13) even(14) a(15) "(16) sporty(17) "(18) car(19) comes(20) with(21) ergonomic(22) comprises(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			Car(1) makers(2) love(3) to(4) bill(5) anything(6) with(7) a(8) raked(9) windshield(10) as(11) a(12) sports(13) car(14) and(15) it(16) just(17) ai(18) not(19) so(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			All(1) that(2) being(3) said(4) ,(5) let(6) 's(7) cover(8) the(9) downsides(10) first(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) next(3) to(4) impossible(5) to(6) get(7) into(8) or(9) out(10) of(11) this(12) car(13) with(14) anything(15) resembling(16) ease(17) or(18) grace(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) are(3) not(4) terribly(5) coordinated(6) to(7) start(8) with(9) you(10) may(11) wish(12) to(13) enter(14) or(15) exit(16) this(17) car(18) with(19) no(20) one(21) watching(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			It(1) 's(2) not(3) a(4) pretty(5) sight(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			Well(1) ,(2) if(3) you(4) 're(5) a(6) gorgeous(7) ,(8) long(9) legged(10) woman(11) in(12) a(13) short(14) dress(15) it(16) might(17) be(18) a(19) wonderful(20) sight(21) ,(22) but(23) I(24) digress(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			Once(1) you(2) swing(3) a(4) leg(5) over(6) the(7) really(8) tall(9) door(10) well(11) ,(12) just(13) plop(14) down(15) as(16) quickly(17) as(18) possible(19) into(20) a(21) really(22) comfortable(23) seat(24) .(25) 
+			<opinion polarity="+" feature="seat" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="18">
+			Lift(1) your(2) other(3) leg(4) into(5) the(6) car(7) and(8) tuck(9) into(10) a(11) narrow(12) foot(13) well(14) with(15) you(16) first(17) leg(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			O.K.(1) ,(2) now(3) you(4) can(5) actually(6) enjoy(7) the(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="20">
+			This(1) car(2) surrounds(3) you(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="21">
+			I(1) 'm(2) no(3) small(4) guy(5) and(6) this(7) car(8) still(9) feels(10) like(11) it(12) was(13) made(14) for(15) me(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			All(1) the(2) controls(3) are(4) in(5) easy(6) reach(7) and(8) you(9) feel(10) like(11) a(12) fighter(13) pilot(14) or(15) an(16) astronaut(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			Once(1) in(2) this(3) car(4) you(5) realize(6) that(7) you(8) do(9) not(10) want(11) to(12) get(13) out(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			It(1) really(2) is(3) that(4) nice(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="5"/>
+		</sentence>
+		<sentence id="25">
+			I(1) just(2) want(3) to(4) keep(5) on(6) driving(7) and(8) driving(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			The(1) top(2) of(3) the(4) door(5) is(6) just(7) a(8) little(9) too(10) high(11) to(12) comfortably(13) hang(14) your(15) arm(16) on(17) for(18) any(19) length(20) of(21) time(22) and(23) that(24) really(25) is(26) a(27) shame(28) .(29) 
+		</sentence>
+		<sentence id="27">
+			Whether(1) cruising(2) or(3) chewing(4) up(5) the(6) miles(7) ,(8) my(9) left(10) arm(11) just(12) really(13) wants(14) to(15) be(16) up(17) there(18) ,(19) elbow(20) to(21) the(22) wind(23) .(24) 
+		</sentence>
+		<sentence id="28">
+			Oh(1) well(2) ,(3) I(4) 'm(5) working(6) on(7) it(8) .(9) 
+		</sentence>
+		<sentence id="29">
+			The(1) fully(2) automatic(3) climate(4) control(5) works(6) very(7) well(8) .(9) 
+			<opinion polarity="+" feature="climate" featWords="4,5" opWords="6,8" potency="7"/>
+		</sentence>
+		<sentence id="30">
+			Set(1) the(2) temperature(3) you(4) want(5) and(6) it(7) is(8) there(9) before(10) you(11) know(12) it(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			A(1) few(2) degrees(3) warmer(4) or(5) cooler(6) is(7) just(8) a(9) couple(10) of(11) taps(12) away(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			I(1) found(2) all(3) of(4) the(5) controls(6) very(7) intuitive(8) and(9) well(10) placed(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			I(1) would(2) have(3) put(4) the(5) four(6) small(7) analog(8) gauges(9) in(10) a(11) different(12) order(13) though(14) .(15) 
+		</sentence>
+		<sentence id="34">
+			The(1) engine(2) temp(3) is(4) next(5) to(6) the(7) bottom(8) ,(9) and(10) I(11) 've(12) always(13) included(14) that(15) in(16) my(17) scan(18) of(19) the(20) instrument(21) panel(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			I(1) suppose(2) it(3) 's(4) just(5) a(6) matter(7) of(8) getting(9) use(10) to(11) something(12) different(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			The(1) ride(2) is(3) quite(4) comfortable(5) except(6) on(7) the(8) rougher(9) roads(10) ,(11) but(12) you(13) should(14) not(15) be(16) driving(17) on(18) rough(19) roads(20) with(21) a(22) sports(23) car(24) anyway(25) .(26) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="37">
+			If(1) you(2) can(3) avoid(4) the(5) occasional(6) ((7) depending(8) on(9) where(10) you(11) live(12) )(13) pot(14) hole(15) ,(16) you(17) will(18) not(19) need(20) any(21) trips(22) to(23) the(24) chiropractor(25) .(26) 
+		</sentence>
+		<sentence id="38">
+			There(1) is(2) some(3) cowl(4) shake(5) on(6) my(7) model(8) because(9) it(10) 's(11) a(12) convertible(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			I(1) 've(2) never(3) driven(4) a(5) convertible(6) that(7) did(8) not(9) have(10) some(11) ,(12) and(13) the(14) Corvette(15) is(16) definately(17) better(18) than(19) most(20) .(21) 
+		</sentence>
+		<sentence id="40">
+			Even(1) with(2) a(3) little(4) cowl(5) shake(6) there(7) are(8) no(9) squeaks(10) or(11) rattles(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			That(1) was(2) a(3) pleasant(4) surprise(5) .(6) 
+		</sentence>
+		<sentence id="42">
+			I(1) attribute(2) this(3) to(4) the(5) fact(6) that(7) my(8) '(9) 95(10) was(11) in(12) pristine(13) condition(14) with(15) only(16) 27K_miles(17) on(18) it(19) .(20) 
+		</sentence>
+		<sentence id="43">
+			If(1) it(2) develops(3) noises(4) later(5) ,(6) I(7) 'll(8) edit(9) this(10) and(11) let(12) you(13) know(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			Allright(1) ,(2) now(3) what(4) you(5) really(6) want(7) to(8) know(9) .(10) 
+		</sentence>
+		<sentence id="45">
+			Yes(1) ,(2) it(3) is(4) a(5) VERY(6) fast(7) car(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="46">
+			I(1) have(2) the(3) standard(4) LT1(5) engine(6) with(7) a(8) four(9) speed(10) automatic(11) transmission(12) .(13) 
+		</sentence>
+		<sentence id="47">
+			I(1) wanted(2) a(3) stick(4) ,(5) but(6) since(7) I(8) drive(9) this(10) car(11) a_lot(12) ,(13) including(14) commute(15) traffic(16) ,(17) I(18) went(19) with(20) the(21) automatic(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			I(1) can(2) not(3) say(4) I(5) 'm(6) sorry(7) ,(8) it(9) 's(10) probably(11) the(12) best(13) automatic(14) I(15) 've(16) ever(17) driven(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="13"/>
+		</sentence>
+		<sentence id="49">
+			The(1) response(2) is(3) phenomenally(4) quick(5) and(6) the(7) shifts(8) are(9) nice(10) and(11) crisp(12) without(13) being(14) jack(15) hammer(16) hard(17) .(18) 
+			<opinion polarity="+" feature="response" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="50">
+			If(1) you(2) choose(3) to(4) unleash(5) the(6) full(7) extent(8) of(9) the(10) power(11) ,(12) watch(13) the(14) road(15) ,(16) not(17) the(18) speedometer(19) .(20) 
+		</sentence>
+		<sentence id="51">
+			Things(1) start(2) happening(3) way(4) to(5) fast(6) to(7) worry(8) about(9) cops(10) now(11) .(12) 100(13) mph(14) comes(15) up(16) really(17) fast(18) .(19) 
+		</sentence>
+		<sentence id="52">
+			Probably(1) too(2) fast(3) for(4) most(5) drivers(6) .(7) 
+		</sentence>
+		<sentence id="53">
+			I(1) do(2) not(3) mean(4) to(5) be(6) a(7) snob(8) ,(9) but(10) too(11) many(12) people(13) just(14) do(15) not(16) know(17) how(18) to(19) handle(20) this(21) kind(22) of(23) car(24) .(25) 
+		</sentence>
+		<sentence id="54">
+			Cornering(1) is(2) loads(3) of(4) fun(5) ,(6) and(7) you(8) 'll(9) have(10) to(11) look(12) in(13) the(14) dictionary(15) to(16) find(17) body(18) roll(19) .(20) 
+		</sentence>
+		<sentence id="55">
+			If(1) you(2) drive(3) near(4) the(5) edge(6) of(7) the(8) envelope(9) ,(10) watch(11) the(12) transition(13) to(14) oversteer(15) .(16) 
+		</sentence>
+		<sentence id="56">
+			The(1) back(2) end(3) will(4) come(5) around(6) in(7) a(8) heart(9) beat(10) ,(11) so(12) be(13) prepared(14) to(15) counter-steer(16) ,(17) and(18) keep(19) a(20) little(21) pressure(22) on(23) the(24) throttle(25) to(26) keep(27) things(28) form(29) getting(30) worse(31) .(32) 
+		</sentence>
+		<sentence id="57">
+			If(1) you(2) kick(3) the(4) rear(5) end(6) out(7) in(8) a(9) corner(10) and(11) make(12) the(13) mistake(14) of(15) lifting(16) the(17) throttle(18) ,(19) your(20) going(21) to(22) spin(23) unless(24) you(25) have(26) a(27) fair(28) amount(29) of(30) time(31) on(32) a(33) race(34) track(35) .(36) 
+		</sentence>
+		<sentence id="58">
+			In_all(1) reality(2) though(3) ,(4) unless(5) you(6) are(7) driving(8) it(9) like(10) you(11) stole(12) it(13) ,(14) you(15) will(16) not(17) find(18) yourself(19) in(20) anything(21) remotely(22) like(23) a(24) tough(25) situation(26) .(27) 
+		</sentence>
+		<sentence id="59">
+			When(1) it(2) comes(3) time(4) to(5) stop(6) ,(7) this(8) car(9) stops(10) .(11) 
+		</sentence>
+		<sentence id="60">
+			The(1) ABS(2) will(3) bail(4) you(5) out(6) if(7) it(8) needs(9) to(10) ,(11) but(12) with(13) all(14) that(15) rubber(16) on(17) the(18) road(19) ,(20) even(21) four(22) big(23) ,(24) meaty(25) disc(26) brakes(27) have(28) a(29) hard(30) time(31) locking(32) up(33) these(34) wheels(35) .(36) 
+		</sentence>
+		<sentence id="61">
+			One(1) important(2) caveat(3) here(4) ,(5) the(6) big(7) meats(8) that(9) keep(10) you(11) planted(12) on(13) a(14) dry(15) road(16) work(17) against(18) you(19) on(20) a(21) wet(22) one(23) .(24) 
+		</sentence>
+		<sentence id="62">
+			It(1) 's(2) a(3) simple(4) matter(5) of(6) weight(7) distribution(8) and(9) is(10) the(11) same(12) for(13) any(14) car(15) with(16) big(17) ,(18) wide(19) tires(20) .(21) 
+		</sentence>
+		<sentence id="63">
+			Ever(1) wonder(2) why(3) cars(4) with(5) skinny(6) tires(7) work(8) well(9) on(10) snow(11) ?(12) 
+			<opinion polarity="-" feature="tire" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="64">
+			There(1) 's(2) your(3) answer(4) .(5) 
+		</sentence>
+		<sentence id="65">
+			The(1) styling(2) of(3) the(4) Corvette(5) is(6) truly(7) found(8) in(9) the(10) simplicity(11) .(12) 
+		</sentence>
+		<sentence id="66">
+			No(1) boy-racer(2) phony(3) spoilers(4) that(5) only(6) add(7) weight(8) .(9) 
+		</sentence>
+		<sentence id="67">
+			No(1) gim-crack(2) folds(3) and(4) creases(5) that(6) look(7) like(8) something(9) out(10) of(11) a(12) science(13) fiction(14) movie(15) .(16) 
+		</sentence>
+		<sentence id="68">
+			Just(1) the(2) graceful(3) ,(4) flowing(5) lines(6) of(7) a(8) softly(9) rounded(10) wedge(11) that(12) was(13) made(14) to(15) cheat(16) the(17) wind(18) .(19) 
+		</sentence>
+		<sentence id="69">
+			No(1) lavish(2) "(3) Look(4) at(5) ME(6) "(7) badging(8) either(9) .(10) 
+		</sentence>
+		<sentence id="70">
+			With(1) the(2) top(3) down(4) ,(5) the(6) convertible(7) is(8) a(9) joy(10) to(11) the(12) eyes(13) .(14) 
+		</sentence>
+		<sentence id="71">
+			It(1) ai(2) not(3) bad(4) with(5) the(6) top(7) up(8) either(9) .(10) 
+		</sentence>
+		<sentence id="72">
+			The(1) fit(2) and(3) finish(4) are(5) very(6) good(7) ,(8) which(9) suprises(10) me(11) because(12) GM(13) has(14) never(15) really(16) been(17) known(18) for(19) fit(20) or(21) finish(22) .(23) 
+			<opinion polarity="+" feature="finish" featWords="4" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="73">
+			The(1) Chevrolet(2) flagship(3) is(4) well(5) put(6) together(7) inside(8) and(9) out(10) .(11) 
+		</sentence>
+		<sentence id="74">
+			A(1) look(2) under(3) the(4) hood(5) reminds(6) one(7) of(8) an(9) Indy(10) car(11) .(12) 
+		</sentence>
+		<sentence id="75">
+			All(1) things(2) said(3) and(4) done(5) ,(6) I(7) just(8) could(9) not(10) be(11) happier(12) .(13) 
+		</sentence>
+		<sentence id="76">
+			Now(1) if(2) I(3) could(4) just(5) get(6) this(7) stupid(8) grin(9) off(10) my(11) face(12) ....(13) HOT_OFF_THE_PRESS(14) ....(15) The(16) 6(17) month(18) ,(19) 5,000_mile(20) review(21) .(22) 
+		</sentence>
+		<sentence id="77">
+			Wow(1) ,(2) it(3) 's(4) hard(5) to(6) believe(7) that(8) I(9) 've(10) had(11) this(12) car(13) six(14) months(15) .(16) 
+		</sentence>
+		<sentence id="78">
+			It(1) 's(2) also(3) shocking(4) to(5) see(6) that(7) I(8) have(9) added(10) 5(11) grand(12) to(13) the(14) odometer(15) .(16) 
+		</sentence>
+		<sentence id="79">
+			Oh(1) well(2) ,(3) I(4) bought(5) it(6) to(7) drive(8) it(9) .(10) 
+		</sentence>
+		<sentence id="80">
+			Let(1) me(2) give(3) you(4) the(5) downside(6) of(7) living(8) with(9) this(10) car(11) first(12) .(13) 
+		</sentence>
+		<sentence id="81">
+			Even_though(1) I(2) live(3) in(4) California(5) ,(6) I(7) 've(8) spent(9) a(10) good(11) deal(12) of(13) time(14) driving(15) with(16) the(17) top(18) up(19) .(20) 
+		</sentence>
+		<sentence id="82">
+			Man(1) ,(2) this(3) thing(4) has(5) huge(6) blind(7) spots(8) with(9) the(10) top(11) up(12) .(13) 
+		</sentence>
+		<sentence id="83">
+			Adjust(1) your(2) mirrors(3) to(4) get(5) the(6) most(7) optimal(8) viewing(9) angle(10) for(11) lane(12) changes(13) .(14) 
+		</sentence>
+		<sentence id="84">
+			You(1) can(2) not(3) rely(4) on(5) a(6) glance(7) over(8) the(9) shoulder(10) .(11) 
+		</sentence>
+		<sentence id="85">
+			The(1) blind(2) spot(3) created(4) by(5) the(6) equivalent(7) of(8) the(9) C(10) pillar(11) on(12) a(13) sedan(14) can(15) hide(16) an(17) entire(18) midsize(19) car(20) from(21) view(22) .(23) 
+		</sentence>
+		<sentence id="86">
+			It(1) 's(2) a_bit(3) noisier(4) than(5) I(6) would(7) like(8) .(9) 
+		</sentence>
+		<sentence id="87">
+			This(1) is(2) a(3) global(4) sacrifice(5) with(6) rag(7) tops(8) ,(9) but(10) a(11) little(12) more(13) padding(14) in(15) the(16) top(17) would(18) be(19) nice(20) .(21) 
+		</sentence>
+		<sentence id="88">
+			It(1) 's(2) a(3) moot(4) point(5) though(6) since(7) this(8) body(9) style(10) is(11) out(12) of(13) production(14) .(15) 
+		</sentence>
+		<sentence id="89">
+			Come(1) time(2) for(3) a(4) top(5) replacement(6) though(7) ,(8) go(9) for(10) the(11) very(12) best(13) .(14) 
+		</sentence>
+		<sentence id="90">
+			My(1) S10(2) pickup(3) has(4) a(5) much(6) smoother(7) ride(8) than(9) this(10) Vette(11) .(12) 
+		</sentence>
+		<sentence id="91">
+			I(1) new(2) going(3) into(4) this(5) that(6) the(7) ride(8) was(9) on(10) the(11) rough(12) side(13) ,(14) so(15) I(16) can(17) not(18) gripe(19) too(20) much(21) .(22) 
+		</sentence>
+		<sentence id="92">
+			I(1) do(2) find(3) myself(4) paying(5) a(6) little(7) too(8) much(9) attention(10) to(11) road(12) surface(13) ahead(14) rather(15) than(16) the(17) traffic(18) on(19) the(20) road(21) ahead(22) .(23) 
+		</sentence>
+		<sentence id="93">
+			Now(1) for(2) the(3) upside(4) .(5) 
+		</sentence>
+		<sentence id="94">
+			I(1) 'm(2) really(3) just(4) as(5) happy(6) now(7) as(8) when(9) I(10) first(11) bought(12) it(13) .(14) 
+		</sentence>
+		<sentence id="95">
+			The(1) handling(2) is(3) still(4) stunning(5) .(6) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="96">
+			Acceleration(1) is(2) orgasmic(3) .(4) 
+			<opinion polarity="+" feature="acceleration" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="97">
+			Unless(1) I(2) can(3) afford(4) a(5) Vette(6) for(7) nothing(8) but(9) cruising(10) ,(11) I(12) 'm(13) sold(14) on(15) this(16) automatic(17) transmission(18) .(19) 
+		</sentence>
+		<sentence id="98">
+			I(1) like(2) to(3) keep(4) my(5) cars(6) highly(7) detailed(8) .(9) 
+		</sentence>
+		<sentence id="99">
+			After(1) splashing(2) about(3) in(4) some(5) rain(6) I(7) was(8) dreading(9) cleaning(10) up(11) the(12) engine(13) compartment(14) .(15) 
+		</sentence>
+		<sentence id="100">
+			I(1) did(2) not(3) need(4) to(5) .(6) 
+		</sentence>
+		<sentence id="101">
+			The(1) area(2) under(3) the(4) hood(5) is(6) very(7) well(8) isolated(9) from(10) spalsh(11) and(12) dust(13) .(14) 
+		</sentence>
+		<sentence id="102">
+			Better(1) than(2) anything(3) else(4) I(5) 've(6) owned(7) by(8) a(9) wide(10) margin(11) .(12) 
+		</sentence>
+		<sentence id="103">
+			Fuel(1) economy(2) is(3) really(4) quite(5) good(6) if(7) you(8) are(9) refrain(10) from(11) a_lot_of(12) hot-rodding(13) .(14) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="104">
+			I(1) 've(2) gotten(3) as(4) much(5) as(6) 22(7) MPG(8) on(9) highway(10) trips(11) doing(12) a(13) steady(14) 85(15) MPH(16) .(17) 
+		</sentence>
+		<sentence id="105">
+			If(1) I(2) 'm(3) moderately(4) careful(5) around(6) town(7) ,(8) I(9) get(10) 17.5(11) MPG_Not(12) bad(13) eh(14) ?(15) 
+		</sentence>
+		<sentence id="106">
+			The(1) car(2) is(3) still(4) solid(5) ,(6) and(7) I(8) 've(9) put(10) it(11) through(12) some(13) rigorous(14) paces(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="107">
+			Still(1) no(2) squeaks(3) or(4) rattles(5) .(6) 
+		</sentence>
+		<sentence id="108">
+			The(1) interior(2) is(3) still(4) very(5) comfy(6) and(7) I(8) have(9) the(10) getting(11) in(12) and(13) out(14) part(15) down(16) pat(17) .(18) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="109">
+			I(1) can(2) even(3) look(4) good(5) doing(6) it(7) .(8) 
+		</sentence>
+		<sentence id="110">
+			All(1) in_all(2) ,(3) I(4) 'm(5) one(6) happy(7) camper(8) ,(9) and(10) that(11) grin(12) is(13) still(14) on(15) my(16) face(17) !(18) 
+		</sentence>
+	</text>
+</review>

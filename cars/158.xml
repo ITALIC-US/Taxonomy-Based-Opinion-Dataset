@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="158" item="1998 Porsche 911 Carrera" rating="5">
+	<title>
+		<sentence id="1">
+			An(1) automobile(2) for(3) the(4) few(5) ...(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			ultimate(1) sports(2) car(3) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) vehicle(4) for(5) those(6) who(7) are(8) true(9) 911(10) purists(11) ...(12) my(13) 98(14) Carrera(15) 2S(16) is(17) awesome(18) ...(19) from(20) it(21) 's(22) all(23) leather(24) interior(25) ((26) even(27) dash(28) !(29) )(30) to(31) the(32) 285(33) O2(34) 's(35) on(36) the(37) rear(38) ,(39) the(40) hand(41) painted(42) crests(43) on(44) the(45) incredible(46) 18(47) '(48) turbo(49) wheels(50) ,(51) the(52) beautiful(53) front(54) and(55) rear(56) spoilers(57) ,(58) and(59) the(60) sport(61) seats(62) which(63) completely(64) engulf(65) you(66) ,(67) and(68) the(69) incredible(70) symphony(71) of(72) the(73) legendary(74) air(75) cooled(76) boxer(77) six(78) ,(79) this(80) car(81) implores(82) you(83) to(84) drive(85) to(86) its(87) limit(88) ...(89) it(90) 's(91) hard(92) to(93) decide(94) whether(95) it(96) 's(97) better(98) to(99) just(100) stare(101) at(102) or(103) drive(104) ...(105) do(106) not(107) buy(108) this(109) car(110) unless(111) you(112) are(113) "(114) one(115) "(116) with(117) the(118) entire(119) 911(120) philosophy(121) ...(122) please(123) leave(124) them(125) for(126) those(127) who(128) "(129) understand(130) "(131) ...(132) like(133) the(134) Porsche(135) company(136) saying(137) goes(138) ,(139) these(140) are(141) not(142) cars(143) meant(144) to(145) be(146) something(147) for(148) everyone(149) ,(150) but(151) *(152) everything(153) *(154) to(155) the(156) very(157) few(158) ...(159) and(160) it(161) truly(162) is(163) :(164) -(165) )(166) ...(167) 
+			<opinion polarity="-" feature="car" featWords="110" opWords="107,108"/>
+			<opinion polarity="+" feature="wheel" featWords="50" opWords="46"/>
+			<opinion polarity="+" feature="interior" featWords="25" opWords="24"/>
+		</sentence>
+	</text>
+</review>

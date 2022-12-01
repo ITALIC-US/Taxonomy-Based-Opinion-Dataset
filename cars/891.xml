@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="891" item="2000 Chevrolet Camaro" rating="2">
+	<title>
+		<sentence id="1">
+			Camaro(1) at(2) a(3) fork(4) in(5) the(6) road(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) price(2) and(3) fun(4) to(5) drive(6) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			well(1) everything(2) else(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) GM(2) great(3) is(4) at(5) a(6) crossroads(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Sales(1) of(2) this(3) sports(4) car(5) have(6) been(7) on(8) the(9) decline(10) ,(11) to(12) say(13) the(14) least(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) officially(3) on(4) of(5) GM(6) 's(7) slowest(8) sellers(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			Dealerships(1) are(2) begging(3) you(4) to(5) take(6) them(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			So(1) now(2) GM(3) must(4) make(5) a(6) decision(7) ,(8) whether(9) to(10) discontinue(11) the(12) dying(13) sports(14) car(15) or(16) to(17) make(18) some(19) radical(20) designing(21) measures(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			I(1) hope(2) that(3) they(4) decide(5) to(6) continue(7) the(8) Camaro(9) but(10) they(11) need(12) to(13) make(14) some(15) must(16) have(17) adjustments(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			First(1) of(2) all(3) ,(4) the(5) Camaro(6) is(7) just(8) too(9) bulky(10) to(11) be(12) nimble(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="9,10"/>
+		</sentence>
+		<sentence id="8">
+			I(1) mean(2) some(3) of(4) GM(5) 's(6) minivans(7) are(8) smaller(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			It(1) needs(2) to(3) be(4) at_least(5) a(6) half-meter(7) shorter(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Then(1) it(2) would(3) take(4) on(5) turns(6) like(7) a(8) mad(9) man(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			And(1) the(2) reliability(3) is(4) going(5) to(6) hell(7) on(8) this(9) model(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Mine(1) broke(2) down(3) almost(4) a(5) month(6) after(7) I(8) bought(9) it(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			Not(1) all(2) of(3) the(4) Camaro(5) s(6) declining(7) sales(8) is(9) her(10) fault(11) though(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			People(1) now(2) are(3) avoiding(4) the(5) high(6) insurance(7) prices(8) of(9) a(10) sports(11) car(12) with(13) such(14) low(15) reliability(16) ,(17) especially(18) if(19) there(20) is(21) a(22) young(23) male(24) driver(25) in(26) the(27) family(28) .(29) 
+			<opinion polarity="-" feature="reliability" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) car(3) to(4) avoid(5) this(6) problem(7) is(8) Camaro(9) s(10) archenemy(11) ,(12) the(13) Ford_Mustang(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			I(1) will(2) not(3) get(4) into(5) length(6) about(7) the(8) Mustang(9) ,(10) but(11) in(12) my(13) opinion(14) it(15) is(16) a(17) far(18) superior(19) car(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			Also(1) ,(2) there(3) is(4) almost(5) a(6) non-existent(7) back(8) seat(9) for(10) the(11) Camaro(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			And(1) no(2) baggage(3) room(4) to(5) speak(6) of(7) ,(8) the(9) Mustang(10) has(11) an(12) abundance(13) of(14) both(15) however(16) ((17) yet(18) I(19) digress(20) ,(21) for(22) I(23) said(24) I(25) would(26) not(27) speak(28) of(29) the(30) Mustang(31) )(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			Better(1) shocks(2) on(3) this(4) car(5) could(6) also(7) be(8) some(9) great(10) help(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			Remember(1) the(2) Camaros(3) of(4) the(5) 70(6) s(7) ?(8) 
+		</sentence>
+		<sentence id="21">
+			Good(1) neither(2) do(3) I._But_I(4) ve(5) seen(6) them(7) around(8) and(9) they(10) were(11) a_lot(12) better(13) than(14) the(15) Camaros(16) of(17) this(18) age(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			GM(1) what(2) happened(3) ?(4) 
+		</sentence>
+		<sentence id="23">
+			Where(1) did(2) the(3) magic(4) go(5) ?(6) 
+		</sentence>
+		<sentence id="24">
+			All(1) I(2) have(3) to(4) say(5) is(6) Fix(7) it(8) !(9) !(10) !(11) !(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			All(1) things(2) aside(3) the(4) Camaro(5) is(6) a(7) fun(8) car(9) to(10) drive(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="26">
+			All(1) you(2) have(3) to(4) do(5) is(6) ignore(7) the(8) reliability(9) problems(10) ,(11) the(12) size(13) ,(14) the(15) amount(16) of(17) room(18) ,(19) the(20) insurance(21) and(22) the(23) fact(24) that(25) there(26) is(27) a(28) better(29) car(30) out(31) there(32) ((33) give(34) you(35) a(36) hint(37) it(38) rhymes(39) with(40) Gord_Mustang(41) )(42) .(43) 
+		</sentence>
+	</text>
+</review>

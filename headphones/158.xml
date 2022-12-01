@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="158" item="Koss KSC-22 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			There(1) are(2) better(3) choices(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Stay(1) in(2) ear(3) even(4) while(5) running(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poor(2) sound(3) quality(4) .(5) 
+			<opinion polarity="-" feature="sound quality" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Almost(1) no(2) base(3) response(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) the(2) headphones(3) broke(4) on(5) my(6) MP3(7) player(8) ,(9) I(10) went(11) out(12) and(13) bought(14) replacements(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			As(1) I(2) 've(3) had(4) good(5) luck(6) with(7) higher(8) end(9) headphones(10) from(11) Koss(12) ,(13) I(14) thought(15) I(16) would(17) give(18) these(19) a(20) try(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			What(1) a(2) waste(3) of(4) money(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) sound(3) awful(4) .(5) 
+			<opinion polarity="-" feature="sound quality" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) almost(3) no(4) base(5) response(6) whatsoever(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) can(2) not(3) say(4) I(5) 'd(6) recommend(7) them(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) I(3) say(4) that(5) with(6) one(7) exception(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) do(3) not(4) care(5) about(6) sound(7) quality(8) and(9) simply(10) want(11) a(12) comfortable(13) set(14) of(15) headphones(16) that(17) will(18) stay(19) in(20) your(21) ear(22) while(23) you(24) exercise(25) ,(26) you(27) might(28) give(29) them(30) shot(31) .(32) 
+		</sentence>
+	</text>
+</review>

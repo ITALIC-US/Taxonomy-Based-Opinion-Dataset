@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="382" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			Bond(1) ,(2) James_Bond(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quick(1) ,(2) aggressive(3) attitude(4) ,(5) sexy(6) ...(7) Bond(8) would(9) not(10) have(11) it(12) any(13) other(14) way(15) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			high(1) insurance(2) ,(3) room(4) for(5) only(6) one(7) girl(8) ,(9) wannabe(10) dragstripping(11) camaro(12) owners(13) hate(14) you(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) BMW(4) Z3M(5) ,(6) This(7) car(8) is(9) fast(10) .(11) 
+			<opinion polarity="+" feature="speed" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			My(1) girlfriends(2) father(3) bought(4) this(5) car(6) about(7) 1(8) month(9) ago(10) ,(11) It(12) does(13) not(14) look(15) a(16) whole(17) lot(18) different(19) than(20) a(21) normal(22) Z3(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			Same(1) shape(2) ,(3) same(4) color(5) schemes(6) ,(7) same(8) eye(9) catching(10) design(11) ...(12) but(13) after(14) all(15) that(16) 's(17) just(18) looks(19) .(20) 
+			<opinion polarity="+" feature="design" featWords="11" opWords="9,10"/>
+		</sentence>
+		<sentence id="4">
+			The(1) Z3M(2) is(3) a(4) 3.2(5) liter(6) 240(7) HP(8) version(9) of(10) it(11) 's(12) wimpy(13) little(14) brother(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			It(1) will(2) take(3) you(4) up(5) to(6) legal(7) speeds(8) before(9) you(10) know(11) it(12) ,(13) and(14) it(15) will(16) ultimately(17) result(18) in(19) a(20) speeding(21) ticket(22) if(23) you(24) 're(25) not(26) careful(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			You(1) 'll(2) undoubtably(3) pass(4) other(5) Z3(6) 's(7) on(8) the(9) highway(10) ...(11) laugh(12) at(13) them(14) I(15) did(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) Z3M(2) as(3) I(4) consider(5) it(6) has(7) no(8) relation(9) other(10) than(11) looks(12) to(13) a(14) typical(15) Z3(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) engine(2) is(3) far(4) bigger(5) ((6) than(7) the(8) first(9) Z3(10) 's(11) )(12) ,(13) the(14) brakes(15) and(16) handling(17) are(18) definitely(19) M_Class(20) and(21) it(22) weighs(23) more(24) on(25) performance(26) than(27) image(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) is(3) easy(4) to(5) abuse(6) ,(7) it(8) just(9) begs(10) to(11) be(12) redlined(13) ((14) although(15) I(16) would(17) not(18) recommend(19) it(20) )(21) and(22) loves(23) to(24) be(25) driven(26) carefree(27) ,(28) and(29) hates(30) traffic(31) .(32) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Enough(1) about(2) the(3) car(4) and(5) it(6) 's(7) feelings(8) ,(9) let(10) 's(11) talk(12) about(13) looks(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			I(1) 've(2) heard(3) the(4) words(5) "(6) Shark(7) "(8) and(9) "(10) European_Muscle_Car(11) "(12) but(13) someone(14) summed(15) it(16) up(17) best(18) when(19) they(20) said(21) "(22) damn(23) !(24) "(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			It(1) 's(2) looks(3) ,(4) tight(5) cockpit(6) ,(7) clustered(8) dash(9) ,(10) and(11) all(12) the(13) pertinent(14) instruments(15) in(16) the(17) right(18) place(19) make(20) for(21) a(22) near(23) perfect(24) ergonomic(25) setup(26) ((27) I(28) have(29) to(30) add(31) that(32) my(33) only(34) complaint(35) is(36) the(37) non-adjustable(38) steering(39) wheel(40) column(41) )(42) .(43) 
+		</sentence>
+		<sentence id="13">
+			Aside(1) from(2) this(3) minor(4) flaw(5) the(6) BMW(7) is(8) an(9) overall(10) best(11) buy(12) in(13) the(14) inexpensive(15) sports(16) car(17) category(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) can(3) afford(4) the(5) upgrade(6) from(7) a(8) mediocre(9) performing(10) Z3(11) you(12) can(13) pick(14) one(15) up(16) if(17) your(18) lucky(19) enough(20) to(21) find(22) one(23) for(24) around(25) $44,000(26) US(27) .(28) 
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) do(3) not(4) have(5) the(6) money(7) ...(8) take(9) my(10) advice(11) ...(12) do(13) not(14) drive(15) it(16) !(17) 
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) not(3) worth(4) the(5) flashbacks(6) of(7) "(8) it(9) was(10) almost(11) mine(12) ,(13) if(14) I(15) only(16) had(17) the(18) money(19) "(20) 10(21) years(22) down(23) the(24) road(25) .(26) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="496" item="Marriott Orlando Downtown" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) decent(2) place(3) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) room(2) ,(3) great(4) rate(5) of(6) $89(7) w(8) /(9) breakfast(10) ,(11) close(12) to(13) TD_Waterhouse_Center(14) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mandatory_Valet(1) parking(2) ,(3) the(4) hotel(5) shows(6) its(7) age(8) in(9) certain(10) areas(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) decided(2) on(3) this(4) hotel(5) because_of(6) the(7) Marriott_Rewards(8) program(9) and(10) a(11) great(12) rate(13) of(14) $89(15) ,(16) which(17) included(18) breakfast(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			The(1) breakfast(2) buffet(3) was(4) pretty(5) good(6) ,(7) but(8) not(9) too(10) much(11) to(12) choose(13) from(14) .(15) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) an(3) older(4) Marriott(5) property(6) ,(7) but(8) has(9) tried(10) to(11) keep(12) up(13) with(14) the(15) times(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) 2(2) story(3) lobby(4) is(5) nice(6) .(7) 
+			<opinion polarity="+" feature="lobby" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) sits(3) pretty(4) close(5) to(6) I(7) -(8) 4(9) ,(10) so(11) ask(12) for(13) a(14) room(15) that(16) is(17) away(18) from(19) the(20) interstate(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			The(1) pool(2) area(3) is(4) very(5) dated(6) and(7) plain(8) ,(9) but(10) is(11) functional(12) .(13) 
+			<opinion polarity="-" feature="place" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="place" featWords="3" opWords="8"/>
+			<opinion polarity="+" feature="place" featWords="3" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			We(1) had(2) a(3) king(4) size(5) bed(6) and(7) the(8) room(9) was(10) rather(11) large(12) ,(13) however(14) the(15) bathroom(16) needed(17) an(18) update(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="8">
+			The(1) location(2) is(3) great(4) if(5) you(6) are(7) headed(8) to(9) the(10) TD_Waterhouse(11) center(12) .(13) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) right(3) across(4) the(5) street(6) !(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) biggest(2) complaint(3) I(4) have(5) is(6) the(7) mandatory(8) valet(9) parking(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) do(2) not(3) have(4) a(5) problem(6) with(7) the(8) $(9) 9(10) parking(11) charge(12) ,(13) it(14) 's(15) just(16) I(17) do(18) not(19) want(20) to(21) wait(22) and(23) tip(24) them(25) every(26) time(27) I(28) need(29) my(30) car(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			All(1) in_all(2) ,(3) a(4) decent(5) hotel(6) .(7) 
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			A(1) good(2) rate(3) helps(4) and(5) I(6) probably(7) would(8) not(9) stay(10) here(11) if(12) the(13) rate(14) is(15) higher(16) then(17) around(18) $120(19) .(20) 
+			<opinion polarity="+" feature="price" featWords="3" opWords="2"/>
+		</sentence>
+	</text>
+</review>

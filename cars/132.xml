@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="132" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			2001(1) Silver_Celica_GT(2) ((3) Canada(4) )(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Eye(1) catching(2) styling(3) with(4) quick(5) and(6) responsive(7) handling(8) in(9) an(10) affordable(11) package(12) 
+			<opinion polarity="+" feature="package" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="handling" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="handling" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Power(1) is(2) a(3) little(4) light(5) for(6) this(7) class(8) of(9) car(10) .(11) 
+			<opinion polarity="-" feature="horsepower" featWords="1" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			Somewhat(1) noisy(2) at(3) higher(4) speeds(5) 
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) sharp(2) car(3) which(4) will(5) draw(6) attention(7) anywhere(8) you(9) go(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Sporty(1) ,(2) well-built(3) and(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) competitors(3) '(4) are(5) offering(6) cars(7) which(8) closely(9) match(10) /(11) beat(12) the(13) features(14) at(15) this(16) price(17) point(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Toyota_Celica(4) in(5) May_2001(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			At(1) the(2) time(3) ,(4) I(5) managed(6) to(7) get(8) an(9) amazing(10) 3.7_%(11) financing(12) rate(13) and(14) $1400(15) cdn(16) off(17) the(18) invoice(19) price(20) of(21) the(22) car(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			What(1) attracted(2) me(3) to(4) this(5) model(6) is(7) the(8) same(9) thing(10) that(11) has(12) me(13) smiling(14) when(15) I(16) drive(17) it(18) today(19) -(20) cutting(21) edge(22) styling(23) .(24) 
+			<opinion polarity="+" feature="design" featWords="23" opWords="21,22"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) had(3) more(4) than(5) one(6) passerby(7) comment(8) on(9) what(10) a(11) nice(12) car(13) it(14) is(15) which(16) is(17) actually(18) quite(19) a(20) positive(21) comment(22) considering(23) the(24) price(25) range(26) of(27) the(28) car(29) ((30) affordable(31) )(32) .(33) 
+			<opinion polarity="+" feature="price" opWords="31"/>
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) now(3) put(4) on(5) about(6) 5000(7) km(8) on(9) this(10) car(11) and(12) have(13) had(14) great(15) experience(16) with(17) it(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Positives(1) include(2) good(3) "(4) pull(5) "(6) at(7) low(8) end(9) and(10) very(11) responsive(12) handling(13) .(14) 
+			<opinion polarity="+" feature="handling" featWords="13" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="7">
+			The(1) 5(2) speed(3) manual(4) is(5) smooth(6) and(7) relatively(8) short(9) shifting(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Interior(1) room(2) is(3) comfortable(4) ((5) front(6) seats(7) )(8) although(9) the(10) back(11) seats(12) are(13) a_bit(14) cramped(15) .(16) 
+			<opinion polarity="-" feature="seat" featWords="11,12" opWords="15"/>
+			<opinion polarity="+" feature="room" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Trunk(1) space(2) is(3) more(4) than(5) adequate(6) for(7) this(8) class(9) of(10) car(11) and(12) since(13) this(14) is(15) a(16) Toyota(17) ,(18) quality(19) is(20) not(21) a(22) concern(23) when(24) it(25) concerns(26) build(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			For(1) 2001(2) ((3) although(4) most(5) people(6) do(7) not(8) point(9) this(10) out(11) )(12) ,(13) there(14) are(15) a(16) few(17) minor(18) changes(19) including(20) more(21) sound(22) proofing(23) in(24) the(25) dash(26) and(27) the(28) ability(29) to(30) buy(31) different(32) options(33) ((34) namely(35) ABS(36) on(37) the(38) base(39) GT(40) )(41) .(42) 
+		</sentence>
+		<sentence id="11">
+			Of(1) course(2) ,(3) this(4) may(5) differ(6) as(7) I(8) bought(9) the(10) car(11) in(12) Canada(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			The(1) cons(2) I(3) 've(4) had(5) about(6) this(7) car(8) which(9) have(10) been(11) echoed(12) by(13) others(14) include(15) a(16) )(17) plastic(18) which(19) is(20) scratch(21) prone(22) and(23) not(24) quite(25) as(26) durable(27) as(28) some(29) competititors(30) ,(31) b(32) )(33) poor(34) rear(35) visibility(36) especiallly(37) with(38) the(39) rear(40) spoiler(41) c(42) )(43) lack(44) of(45) an(46) adjustable(47) lumbar(48) support(49) and(50) d(51) )(52) the(53) appearance(54) of(55) strong(56) competitors(57) including(58) the(59) new(60) 2002(61) Acura_RSX(62) and(63) Subaru_Impreza(64) .(65) 
+			<opinion polarity="-" feature="visibility" featWords="36" opWords="34"/>
+		</sentence>
+		<sentence id="13">
+			Unless(1) Toyota(2) does(3) something(4) to(5) the(6) car(7) ,(8) it(9) will(10) be(11) trumped(12) at(13) every(14) level(15) by(16) the(17) Acura_RSX(18) ((19) except(20) the(21) styling(22) )(23) at(24) this(25) point(26) including(27) price(28) ,(29) horsepower(30) ,(31) base(32) features(33) and(34) torque(35) .(36) 
+		</sentence>
+		<sentence id="14">
+			Come'on_Toyota(1) ,(2) do(3) something(4) to(5) meet(6) the(7) challenge(8) !(9) 
+		</sentence>
+		<sentence id="15">
+			Otherwise(1) ,(2) I(3) am(4) happy(5) to(6) have(7) this(8) car(9) and(10) it(11) brings(12) a(13) smile(14) to(15) my(16) face(17) when(18) I(19) drive(20) it(21) daily(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			UPDATE_Feb(1) 18(2) ,(3) 2002(4) After(5) 8(6) months(7) ,(8) I(9) still(10) love(11) the(12) car(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="17">
+			I(1) 've(2) put(3) on(4) 23,000(5) km(6) on(7) it(8) and(9) it(10) has(11) not(12) given(13) me(14) any(15) real(16) problems(17) other(18) than(19) a(20) fuse(21) shorting(22) on(23) the(24) cigarette(25) lighter(26) ((27) replaced(28) by(29) the(30) dealer(31) )(32) and(33) routine(34) oil(35) changes(36) .(37) 
+		</sentence>
+		<sentence id="18">
+			The(1) only(2) negative(3) that(4) has(5) come(6) up(7) is(8) that(9) since(10) this(11) is(12) a(13) sporty(14) 4-cylinder(15) ,(16) it(17) is(18) a(19) little(20) noisy(21) at(22) highway(23) speeds(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="19">
+			I(1) really(2) do(3) wish(4) that(5) the(6) GT(7) came(8) with(9) a(10) six-speed(11) shifter(12) since(13) that(14) would(15) really(16) cut(17) down(18) on(19) engine(20) noises(21) when(22) going(23) faster(24) than(25) 100_km_/_h(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			It(1) certainly(2) is(3) not(4) deafening(5) but(6) compared(7) to(8) a(9) regular(10) sedan(11) accord(12) /(13) camry(14) class(15) ,(16) it(17) is(18) quite(19) a_bit(20) louder(21) and(22) can(23) become(24) annoying(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			UPDATE_Aug(1) 8(2) ,(3) 2004(4) 3(5) years(6) and(7) 71,000(8) km(9) on(10) the(11) car(12) later(13) ,(14) I(15) 've(16) really(17) been(18) happy(19) with(20) the(21) car(22) 's(23) performance(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			NO(1) major(2) repairs(3) although(4) there(5) was(6) a(7) replacement(8) of(9) rear(10) trunk(11) struts(12) under(13) warranty(14) and(15) recently(16) a(17) routine(18) brake(19) service(20) and(21) alignment(22) ...(23) This(24) car(25) really(26) has(27) given(28) me(29) reliable(30) service(31) so(32) far(33) .(34) 
+			<opinion polarity="+" feature="service" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="23">
+			Quite(1) a(2) loyal(3) following(4) has(5) developed(6) around(7) the(8) celica(9) and(10) there(11) are(12) now(13) more(14) modification(15) kits(16) and(17) body(18) kits(19) available(20) .(21) 
+		</sentence>
+		<sentence id="24">
+			Unfortunately(1) ,(2) Toyota(3) has(4) announced(5) that(6) they(7) will(8) discontinue(9) production(10) of(11) the(12) Celica(13) after(14) the(15) 2005(16) year(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			The(1) car(2) has(3) had(4) no(5) major(6) revisions(7) between(8) 2001-2004(9) except_for(10) a(11) front(12) fascia(13) /(14) grill(15) change(16) and(17) some(18) minor(19) options(20) becoming(21) available(22) in(23) different(24) models(25) .(26) 
+		</sentence>
+		<sentence id="26">
+			Otherwise(1) ,(2) the(3) base(4) mechanics(5) ,(6) engine(7) and(8) drivetrain(9) have(10) remained(11) static(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			I(1) look(2) around(3) at(4) what(5) I(6) would(7) buy(8) nowadays(9) and(10) there(11) are(12) still(13) few(14) /(15) no(16) cars(17) in(18) this(19) price(20) range(21) with(22) the(23) reliability(24) and(25) specs(26) of(27) the(28) Celica(29) .(30) 
+		</sentence>
+		<sentence id="28">
+			The(1) closest(2) competitor(3) I(4) would(5) guess(6) is(7) the(8) Acura_RSX(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			HOWEVER(1) ,(2) I(3) have(4) been(5) delighted(6) by(7) this(8) car(9) over(10) the(11) last(12) 3(13) years(14) !(15) 
+		</sentence>
+		<sentence id="30">
+			I(1) hope(2) you(3) get(4) a(5) chance(6) to(7) get(8) your(9) celica(10) as_well(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			UPDATE(1) October_2006(2) Wow(3) ,(4) I(5) 've(6) had(7) this(8) car(9) for(10) about(11) 5(12) 1/2(13) years(14) now(15) and(16) I_STILL(17) love(18) how(19) it(20) looks(21) ,(22) drives(23) and(24) handles(25) .(26) 
+		</sentence>
+		<sentence id="32">
+			Since(1) my(2) last(3) update(4) ,(5) there(6) have(7) been(8) a(9) couple(10) of(11) mechanical(12) problems(13) that(14) were(15) covered(16) under(17) warranty(18) .(19) 
+		</sentence>
+		<sentence id="33">
+			The(1) transmission(2) had(3) to(4) be(5) serviced(6) due(7) to(8) a(9) worn(10) bolt(11) ?(12) ?(13) ?(14) or(15) something(16) and(17) then(18) more(19) recently(20) ,(21) at(22) 99,000(23) km(24) ,(25) my(26) engine(27) started(28) to(29) burn(30) oil(31) .(32) 
+			<opinion polarity="-" feature="engine" featWords="27" opWords="30"/>
+		</sentence>
+		<sentence id="34">
+			Apparently(1) ,(2) this(3) sometimes(4) happens(5) on(6) the(7) celicas(8) ...(9) Luckily(10) ,(11) I(12) managed(13) to(14) get(15) the(16) engine(17) 's(18) short(19) block(20) replaced(21) under(22) warranty(23) ...(24) BUT(25) ,(26) wow(27) ,(28) who(29) would(30) have(31) thought(32) that(33) I(34) would(35) need(36) an(37) engine(38) replacement(39) this(40) early(41) in(42) a(43) TOYOTA(44) !(45) 
+		</sentence>
+		<sentence id="35">
+			I(1) am(2) not(3) an(4) aggressive(5) driver(6) ,(7) which(8) makes(9) this(10) all(11) the(12) more(13) suprising(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			Still(1) ,(2) I(3) am(4) happy(5) with(6) the(7) car(8) and(9) as(10) yet(11) ,(12) no(13) reasonable(14) priced(15) replacement(16) has(17) caught(18) my(19) eye(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			I(1) am(2) going(3) to(4) add(5) 1(6) con(7) for(8) this(9) car(10) in(11) my(12) review(13) .(14) 
+		</sentence>
+		<sentence id="38">
+			It(1) 's(2) a(3) little(4) noisy(5) at(6) higher(7) speeds(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="39">
+			Not(1) unusual(2) for(3) this(4) class(5) of(6) car(7) ;(8) but(9) certainly(10) not(11) mercedes(12) /(13) vault(14) quiet(15) .(16) 
+		</sentence>
+		<sentence id="40">
+			It(1) 's(2) noisier(3) than(4) my(5) Mazda(6) 3(7) ;(8) but(9) not(10) as(11) much(12) as(13) an(14) Escort(15) ZX2(16) .(17) 
+		</sentence>
+		<sentence id="41">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 26000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GT(16) ,(17) ABS(18) ,(19) Rear_Spoiler(20) ,(21) Cruise_Control(22) 
+		</sentence>
+	</text>
+</review>

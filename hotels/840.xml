@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="840" item="Four Seasons Las Vegas" rating="5">
+	<title>
+		<sentence id="1">
+			Four(1) Seasons_Las_Vegas(2) ....(3) A(4) Restful_Retreat(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solicitous(1) service(2) ,(3) beautiful(4) gardens(5) ,(6) dreamy(7) rooms(8) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="gardens" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) few(2) --(3) somewhat(4) remote(5) location(6) at(7) the(8) far(9) end(10) of(11) the(12) Strip(13) 
+			<opinion polarity="-" feature="place" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) good(2) choice(3) in(4) las(5) Vegas(6) if(7) you(8) are(9) not(10) going(11) to(12) gamble(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Quiet(1) and(2) elegant(3) public(4) spaces(5) ,(6) and(7) even(8) quieter(9) rooms(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) pool(2) and(3) garden(4) area(5) is(6) sensational(7) !(8) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="gardens" featWords="4" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Four(2) Seasons_Las_Vegas(3) sits(4) on(5) top(6) of(7) the(8) hulking(9) Mandalay_Bay(10) complex(11) at(12) the(13) far(14) end(15) of(16) the(17) strip(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) Four(2) Seasons(3) is(4) arguably(5) ,(6) Las_Vegas(7) '(8) best(9) hotel(10) .(11) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) those(3) who(4) might(5) nominate(6) the(7) Bellagio(8) in(9) its(10) place(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Having(1) only(2) dined(3) at(4) the(5) Bellagio(6) ,(7) I(8) can(9) not(10) offer(11) a(12) fair(13) comparison(14) of(15) the(16) two(17) ,(18) beyond(19) my(20) observations(21) of(22) the(23) dining(24) rooms(25) at(26) both(27) places(28) ,(29) discussed(30) in(31) more(32) detail(33) below(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			Lobby(1) and(2) Public_Rooms_The(3) Four(4) Seasons(5) may(6) be(7) located(8) within(9) the(10) Mandalay_Bay(11) complex(12) ,(13) but(14) it(15) is(16) worlds(17) apart(18) in(19) ambience(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			First(1) of(2) all(3) ,(4) it(5) has(6) a(7) separate(8) entrance(9) ,(10) which(11) you(12) might(13) easily(14) pass(15) by(16) if(17) you(18) did(19) not(20) know(21) about(22) the(23) place(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) lobby(2) is(3) a(4) cool(5) ,(6) clean(7) and(8) quiet(9) retreat(10) from(11) the(12) bustle(13) and(14) din(15) of(16) the(17) other(18) strip(19) hotels(20) .(21) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			Entering(1) this(2) lobby(3) ,(4) one(5) could(6) easily(7) imagine(8) being(9) in(10) ,(11) say(12) ,(13) Newport_Beach(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			It(1) does(2) not(3) feel(4) like(5) Las_Vegas(6) at(7) all(8) ,(9) until(10) you(11) go(12) outside(13) and(14) feel(15) the(16) scorching(17) heat(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			I(1) visited(2) at(3) the(4) end(5) of(6) July(7) ,(8) this(9) summer(10) ,(11) so(12) the(13) temperatures(14) were(15) in(16) the(17) low(18) 100(19) 's(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Back(1) to(2) the(3) lobby(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			White(1) marble(2) floors(3) gleam(4) beneath(5) you(6) as(7) you(8) seem(9) to(10) glide(11) from(12) place(13) to(14) place(15) here(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) decor(2) is(3) restrained(4) ,(5) in(6) a(7) rather(8) typical(9) Four(10) Seasons(11) fashion(12) .(13) 
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			I(1) would(2) guess(3) that(4) Frank_Nicholson(5) designed(6) this(7) one(8) too(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			His(1) trademark(2) bleached(3) paneling(4) is(5) everywhere(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			The(1) desk(2) area(3) is(4) tucked(5) away(6) off(7) to(8) the(9) right(10) as(11) one(12) enters(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) reception(2) staff(3) are(4) thoroughly(5) professional(6) and(7) glad(8) to(9) see(10) you(11) .(12) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="18">
+			Rooms(1) and(2) Suites_On(3) my(4) first(5) night(6) ,(7) I(8) had(9) one(10) of(11) the(12) deluxe(13) rooms(14) ,(15) which(16) was(17) fairly(18) large(19) ((20) about(21) 400_square_feet(22) )(23) and(24) well(25) laid(26) out(27) .(28) 
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="19">
+			A(1) king(2) bed(3) with(4) one(5) of(6) those(7) upholstered(8) headboards(9) ,(10) two(11) reading(12) chairs(13) and(14) a(15) small(16) desk(17) comprised(18) most(19) of(20) the(21) furniture(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			The(1) closet(2) space(3) was(4) adequate(5) ,(6) if_not(7) enough(8) for(9) Madonna(10) .(11) 
+			<opinion polarity="+" feature="closet" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="21">
+			The(1) color(2) scheme(3) was(4) mostly(5) cream(6) ,(7) dark(8) green(9) and(10) taupe(11) ,(12) unusually(13) quiet(14) for(15) Las_Vegas(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			The(1) room(2) had(3) a(4) nice(5) bath(6) ,(7) with(8) a(9) separate(10) shower(11) ,(12) ((13) more(14) details(15) later(16) )(17) and(18) a(19) mini-bar(20) with(21) larger-than-life(22) prices(23) .(24) 
+			<opinion polarity="+" feature="tub" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="price" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="23">
+			The(1) following(2) day(3) ,(4) I(5) was(6) told(7) that(8) I(9) would(10) be(11) allowed(12) to(13) move(14) to(15) a(16) suite(17) for(18) only(19) $75(20) more(21) .(22) 
+		</sentence>
+		<sentence id="24">
+			I(1) jumped(2) at(3) the(4) chance(5) ,(6) and(7) found(8) myself(9) in(10) one(11) of(12) their(13) 800(14) sq(15) .(16) ft(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			Strip_View_Executive_Suites(1) .(2) 
+		</sentence>
+		<sentence id="26">
+			If(1) you(2) get(3) the(4) chance(5) to(6) stay(7) in(8) one(9) of(10) these(11) ,(12) it(13) is(14) really(15) worth(16) the(17) price(18) differential(19) !(20) 
+		</sentence>
+		<sentence id="27">
+			A(1) large(2) drawing(3) room(4) had(5) great(6) views(7) of(8) the(9) Strip(10) ,(11) and(12) one(13) could(14) watch(15) the(16) planes(17) at(18) McCarran_International(19) ,(20) in(21) direct(22) view(23) .(24) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="2"/>
+			<opinion polarity="+" feature="view" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="28">
+			As(1) the(2) rooms(3) are(4) totally(5) soundproofed(6) ,(7) there(8) was(9) not(10) a(11) problem(12) with(13) noise(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="29">
+			The(1) furniture(2) was(3) again(4) ,(5) in(6) quiet(7) tones(8) of(9) beige(10) and(11) chocolate(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			A(1) wet(2) bar(3) and(4) the(5) usual(6) expensive(7) mini-bar(8) were(9) there(10) in(11) the(12) event(13) that(14) you(15) wished(16) to(17) entertain(18) guests(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			Potted(1) palms(2) added(3) a(4) nice(5) touch(6) of(7) green(8) to(9) the(10) room(11) ,(12) as(13) did(14) the(15) fresh(16) flowers(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			The(1) bedroom(2) was(3) especially(4) large(5) ,(6) with(7) its(8) own(9) sitting(10) area(11) ,(12) and(13) another(14) television(15) ,(16) discreetly(17) hidden(18) away(19) in(20) a(21) cabinet(22) .(23) 
+			<opinion polarity="+" feature="bedroom" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="33">
+			The(1) desk(2) was(3) off(4) to(5) one(6) side(7) in(8) a(9) sort(10) of(11) ell(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			This(1) got(2) it(3) out(4) of(5) the(6) way(7) nicely(8) .(9) 
+		</sentence>
+		<sentence id="35">
+			The(1) drawers(2) were(3) stocked(4) with(5) supplies(6) too(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			I(1) had(2) to(3) resist(4) stealing(5) the(6) mouse(7) pad(8) with(9) the(10) logo(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Baths_The(1) bathroom(2) in(3) the(4) suite(5) was(6) considerably(7) larger(8) than(9) the(10) one(11) in(12) the(13) first(14) room(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			Again(1) ,(2) there(3) was(4) a(5) separate(6) shower(7) ,(8) and(9) this(10) one(11) had(12) a(13) large(14) tub(15) with(16) whirlpool(17) jets(18) .(19) 
+		</sentence>
+		<sentence id="39">
+			The(1) bath(2) amenities(3) were(4) good(5) ,(6) if_not(7) spectacular(8) .(9) 
+			<opinion polarity="+" feature="amenities" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="amenities" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="40">
+			The(1) bottles(2) were(3) nice(4) ,(5) but(6) I(7) think(8) they(9) could(10) spring(11) for(12) something(13) better(14) than(15) Neutrogena(16) .(17) 
+		</sentence>
+		<sentence id="41">
+			Towels(1) and(2) robes(3) were(4) thick(5) ,(6) fluffy(7) and(8) steal-able(9) ((10) do(11) not(12) !(13) !(14) )(15) .(16) 
+			<opinion polarity="+" feature="towels" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="towels" featWords="1" opWords="7"/>
+		</sentence>
+		<sentence id="42">
+			Dining_The(1) main(2) restaurant(3) is(4) a(5) branch(6) of(7) Charlie_Palmer_'s_Steak_House(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			While(1) it(2) appeared(3) inviting(4) ,(5) I(6) had(7) decided(8) to(9) turn(10) this(11) visit(12) into(13) an(14) orgy(15) of(16) degustation(17) from(18) other(19) ,(20) more(21) celebrated(22) tables(23) in(24) town(25) .(26) 
+		</sentence>
+		<sentence id="44">
+			The(1) menu(2) looked(3) relatively(4) basic(5) ,(6) but(7) I(8) would(9) be(10) surprised(11) if(12) it(13) were(14) not(15) of(16) a(17) high(18) standard(19) .(20) 
+		</sentence>
+		<sentence id="45">
+			Breakfast(1) outside(2) on(3) their(4) terrace(5) is(6) truly(7) a(8) joy(9) .(10) 
+		</sentence>
+		<sentence id="46">
+			The(1) fierce(2) heat(3) has(4) not(5) yet(6) begun(7) to(8) make(9) the(10) air(11) feel(12) like(13) one(14) giant(15) Jenn-Air(16) ,(17) so(18) one(19) can(20) sit(21) there(22) and(23) enjoy(24) the(25) paper(26) with(27) breakfast(28) in(29) comfort(30) .(31) 
+		</sentence>
+		<sentence id="47">
+			Note(1) :(2) When(3) it(4) does(5) get(6) too(7) hot(8) ,(9) the(10) Four(11) Seasons(12) and(13) other(14) hotels(15) provide(16) sprinklers(17) which(18) fill(19) the(20) air(21) with(22) a(23) fine(24) mist(25) ,(26) so_that(27) diners(28) will(29) not(30) dehydrate(31) .(32) 
+		</sentence>
+		<sentence id="48">
+			There(1) is(2) also(3) a(4) bar(5) at(6) Charlie_Palmer(7) 's(8) ,(9) but(10) it(11) closes(12) fairly(13) early(14) .(15) 
+		</sentence>
+		<sentence id="49">
+			For(1) late-night(2) dining(3) or(4) drinks(5) ,(6) room(7) service(8) is(9) offered(10) 24(11) hours(12) .(13) 
+		</sentence>
+		<sentence id="50">
+			My(1) restaurant(2) crawl(3) included(4) the(5) amazing(6) Picasso(7) at(8) the(9) Bellagio(10) and(11) the(12) equally(13) incredible(14) Renoir(15) at(16) the(17) Mirage(18) .(19) 
+		</sentence>
+		<sentence id="51">
+			Mon_Ami_Gabi(1) ,(2) the(3) sidewalk(4) cafe(5) at(6) the(7) Paris(8) is(9) also(10) worth(11) your(12) time(13) .(14) 
+		</sentence>
+		<sentence id="52">
+			Make(1) reservations(2) early(3) for(4) the(5) first(6) two(7) .(8) or(9) you(10) will(11) likely(12) not(13) get(14) in(15) .(16) 
+		</sentence>
+		<sentence id="53">
+			Pool(1) and(2) Spa_The(3) pool(4) terrace(5) and(6) gardens(7) are(8) a(9) welcome(10) retreat(11) from(12) the(13) rest(14) of(15) this(16) ,(17) often(18) frenetic(19) ,(20) city(21) .(22) 
+		</sentence>
+		<sentence id="54">
+			The(1) free-form(2) 100_foot(3) long(4) pool(5) is(6) surrounded(7) by(8) complimentary(9) cabanas(10) and(11) comfortably(12) deck(13) chairs(14) .(15) 
+		</sentence>
+		<sentence id="55">
+			Two(1) outdoor(2) whirlpools(3) bubble(4) into(5) the(6) night(7) .(8) 
+		</sentence>
+		<sentence id="56">
+			Note(1) :(2) The(3) pool(4) terrace(5) is(6) closed(7) at(8) night(9) ,(10) but(11) they(12) will(13) let(14) you(15) use(16) the(17) pool(18) at(19) night(20) ,(21) provided(22) that(23) you(24) are(25) quiet(26) .(27) 
+		</sentence>
+		<sentence id="57">
+			Attendants(1) will(2) offer(3) you(4) complimentary(5) Evian(6) water(7) ,(8) chilled(9) cucumber(10) slices(11) ,(12) trays(13) of(14) fresh(15) fruit(16) ,(17) and(18) chilled(19) towels(20) .(21) 
+			<opinion polarity="+" feature="towels" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="58">
+			The(1) Pool_Bar(2) is(3) a(4) dangerous(5) thing(6) to(7) have(8) out(9) here(10) in_all(11) of(12) this(13) heat(14) ,(15) but(16) it(17) does(18) offer(19) nice(20) ,(21) light(22) lunches(23) .(24) 
+		</sentence>
+		<sentence id="59">
+			The(1) Spa(2) is(3) immaculate(4) and(5) has(6) an(7) excellent(8) steam(9) room(10) and(11) sauna(12) .(13) 
+			<opinion polarity="+" feature="spa" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sauna" featWords="12" opWords="8"/>
+		</sentence>
+		<sentence id="60">
+			Its(1) glassed-in(2) room(3) of(4) expensive(5) weight(6) machines(7) is(8) a(9) marvel(10) of(11) high-tech(12) narcissism(13) .(14) 
+		</sentence>
+		<sentence id="61">
+			The(1) attendants(2) and(3) trainers(4) are(5) all(6) genuinely(7) pleasant(8) and(9) helpful(10) .(11) 
+		</sentence>
+		<sentence id="62">
+			Guests(1) of(2) the(3) Four(4) Seasons(5) have(6) access(7) to(8) all(9) of(10) the(11) facilities(12) of(13) the(14) Mandalay_Bay(15) ,(16) including(17) the(18) intriguing(19) wave(20) pool(21) with(22) its(23) own(24) ((25) silly(26) ,(27) but(28) fun(29) )(30) sand(31) "(32) beach(33) "(34) .(35) 
+		</sentence>
+		<sentence id="63">
+			Guests_of_the_Mandalay_Bay(1) do(2) not(3) have(4) access(5) to(6) the(7) pool(8) and(9) gardens(10) at(11) the(12) Four(13) Seasons(14) .(15) 
+		</sentence>
+		<sentence id="64">
+			Notes(1) on(2) Service_The(3) service(4) here(5) was(6) genuine(7) and(8) very(9) polished(10) .(11) 
+			<opinion polarity="+" feature="service" featWords="4" opWords="7"/>
+			<opinion polarity="+" feature="service" featWords="4" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="65">
+			If(1) you(2) are(3) planning(4) to(5) use(6) their(7) complimentary(8) car(9) service(10) ,(11) be(12) sure(13) to(14) book(15) early(16) ,(17) as(18) it(19) is(20) often(21) unavailable(22) .(23) 
+		</sentence>
+		<sentence id="66">
+			The(1) concierge(2) desk(3) here(4) is(5) adept(6) at(7) getting(8) coveted(9) tables(10) around(11) town(12) .(13) 
+		</sentence>
+	</text>
+</review>

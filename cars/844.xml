@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="844" item="2003 Acura 3.2TL" rating="2">
+	<title>
+		<sentence id="1">
+			Transmission(1) -(2) 2003(3) TLS(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Rapid(1) acceleration(2) and(3) astute(4) handling(5) .(6) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) solution(2) has(3) been(4) attained(5) regarding(6) the(7) faulty(8) transmission(9) .(10) 
+			<opinion polarity="-" feature="transmission" featWords="9" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Transmission(1) flaws(2) make(3) a(4) good(5) car(6) a(7) lemon(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) appears(2) the(3) transmission(4) is(5) an(6) issue(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) my(3) 2003(4) TLS(5) in(6) May_2002(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) notices(2) the(3) transmission(4) seemed(5) to(6) be(7) slipping(8) at(9) approx(10) .(11) 28K_miles(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) dealership(2) replaced(3) the(4) entire(5) transmission(6) with(7) a(8) remanufactured(9) one(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			After(1) 6(2) months(3) ,(4) the(5) remanufactured(6) transmission(7) seemed(8) to(9) fall(10) apart(11) -(12) with(13) normal(14) driving(15) ,(16) it(17) does(18) not(19) shift(20) ,(21) the(22) check(23) engine(24) light(25) illuminates(26) along_with(27) VSA(28) /(29) !(30) caution(31) ,(32) etc.(33) The(34) D5(35) indicator(36) flashes(37) and(38) at(39) times(40) unable(41) to(42) shift(43) into(44) park(45) .(46) 
+			<opinion polarity="-" feature="transmission" featWords="7" opWords="10,11"/>
+		</sentence>
+		<sentence id="6">
+			Presently(1) having(2) the(3) dealership(4) diagnose(5) the(6) problem(7) -(8) apparently(9) they(10) need(11) some(12) type(13) of(14) determination(15) from(16) American_Honda(17) to(18) explain(19) the(20) cause(21) of(22) the(23) warning(24) indicators(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Additionally(1) ,(2) the(3) rear(4) sway(5) bars(6) are(7) succeptable(8) to(9) breaking(10) -(11) there(12) is(13) a(14) repair(15) recommendation(16) effective(17) 4/28/2005(18) to(19) replace(20) both(21) rear(22) sway(23) bars(24) if(25) requested(26) ,(27) cracked(28) or(29) broken(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			The(1) transmission(2) issue(3) makes(4) the(5) car(6) practically(7) a(8) lemon(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Its(1) not(2) characteristic(3) os(4) a(5) Japanese(6) car(7) to(8) have(9) such(10) a(11) substantial(12) flaw(13) of(14) this(15) nature(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			I(1) question(2) the(3) recall(4) fix(5) that(6) suggests(7) to(8) have(9) a(10) jet(11) installed(12) to(13) spray(14) transmission(15) fluid(16) onto(17) the(18) transmission(19) gears(20) to(21) prevent(22) the(23) gears(24) from(25) burning(26) out(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			This(1) appears(2) to(3) be(4) a(5) cheap(6) and(7) short(8) term(9) remedy(10) to(11) a(12) substantial(13) design(14) flaw(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Hopefully(1) American_Honda(2) will(3) establish(4) a(5) remedy(6) as(7) a(8) solution(9) has(10) not(11) been(12) attained(13) to(14) date(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 33,150(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) TL_Type_S(16) 
+		</sentence>
+	</text>
+</review>

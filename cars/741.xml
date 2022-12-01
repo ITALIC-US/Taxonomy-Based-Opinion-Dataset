@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="741" item="1998 Chevrolet K1500" rating="3">
+	<title>
+		<sentence id="1">
+			Low(1) mileage(2) ,(3) but(4) good(5) truck(6) 
+			<opinion polarity="+" feature="truck" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) room(3) ,(4) 4X4(5) ,(6) full(7) size(8) truck(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) mileage(2) ,(3) some(4) reliability(5) issues(6) 
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Was(1) an(2) OK(3) truck(4) .(5) 
+			<opinion polarity="+" feature="truck" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Glad_I(1) bought(2) it(3) at(4) a(5) dealer(6) to(7) get(8) the(9) little(10) things(11) fixed(12) under(13) warranty(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			do(1) not(2) like(3) Dexcool(4) antifreeze(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) 1998(4) extended(5) cab(6) Z71(7) Chevy(8) from(9) Carmax(10) in(11) August_2002(12) for(13) a(14) little(15) under(16) 16000(17) bucks(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			It(1) had(2) 77000_miles(3) on(4) it(5) and(6) they(7) give(8) you(9) a(10) 30(11) day(12) warranty(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) a(3) good(4) things(5) I(6) had(7) it(8) too(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) check(2) engine(3) light(4) kept(5) coming(6) on(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			This(1) indicates(2) some(3) kind(4) mechanical(5) of(6) problem(7) but(8) I(9) 've(10) found(11) it(12) is(13) generally(14) with(15) emissions(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Carmax(1) took(2) it(3) back(4) four_times(5) before(6) they(7) got(8) it(9) fixed(10) ,(11) but(12) the(13) trouble(14) was(15) that(16) a(17) previous(18) owner(19) had(20) bought(21) the(22) wrong(23) fuel(24) pump(25) when(26) he(27) replaced(28) it(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			The(1) computer(2) was(3) not(4) calibrated(5) for(6) that(7) pump(8) so(9) it(10) thought(11) my(12) emissions(13) were(14) out(15) of(16) whack(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Changed(1) the(2) fuel(3) pump(4) back(5) to(6) an(7) OEM(8) pump(9) and(10) no(11) more(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			It(1) sometimes(2) pays(3) to(4) get(5) a(6) used(7) car(8) from(9) a(10) dealer(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Carmax(1) probably(2) lost(3) all(4) their(5) profit(6) fixing(7) that(8) one(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			The(1) vehicle(2) came(3) with(4) a(5) bed(6) liner(7) and(8) I(9) never(10) liked(11) them(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) always(2) worried(3) that(4) the(5) bed(6) would(7) rust(8) underneath(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			I(1) took(2) the(3) liner(4) out(5) one(6) weekend(7) and(8) it(9) was(10) perfectly(11) fine(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			The(1) paint(2) had(3) been(4) rubbed(5) off(6) in(7) places(8) but(9) the(10) galvanizing(11) was(12) still(13) good(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			I(1) had(2) an(3) air(4) conditioner(5) clutch(6) seize(7) up(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) local(2) Firestone(3) wanted(4) to(5) replace(6) the(7) compressor(8) and(9) the(10) clutch(11) for(12) about(13) 1000(14) bucks(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			The(1) clutch(2) was(3) all(4) it(5) needed(6) and(7) that(8) only(9) costs(10) 400(11) bucks(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			It(1) also(2) had(3) some(4) minor(5) problems(6) with(7) cargo(8) lights(9) and(10) door(11) trim(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			However(1) ,(2) all(3) in_all(4) it(5) has(6) been(7) a(8) good(9) truck(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			It(1) is(2) comfortable(3) on(4) trips(5) and(6) I(7) can(8) use(9) the(10) 4X4(11) if(12) I(13) need(14) it(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			Plus(1) I(2) have(3) a_lot_of(4) extra(5) room(6) in(7) the(8) extended(9) cab(10) so(11) my(12) son(13) can(14) sit(15) in(16) his(17) car(18) seat(19) out(20) of(21) the(22) way(23) of(24) the(25) air(26) bag(27) so(28) I(29) can(30) leave(31) it(32) on(33) .(34) 
+		</sentence>
+		<sentence id="22">
+			I(1) also(2) use(3) the(4) room(5) under(6) the(7) seat(8) to(9) store(10) things(11) like(12) ropes(13) and(14) jumper(15) cables(16) and(17) chains(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			It(1) is(2) nice(3) to(4) have(5) them(6) inside(7) and(8) out(9) of(10) the(11) way(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			I(1) have(2) the(3) AM(4) /(5) FM(6) /(7) Casette(8) /(9) CD(10) player(11) and(12) I(13) really(14) like(15) it(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			I(1) use(2) the(3) cruise(4) a_lot(5) on(6) trips(7) and(8) it(9) works(10) fine(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			I(1) am(2) not(3) happy(4) with(5) is(6) the(7) cooling(8) system(9) .(10) 
+			<opinion polarity="-" feature="ac" featWords="8,9" opWords="3,4"/>
+		</sentence>
+		<sentence id="27">
+			GMC(1) switched(2) over(3) to(4) Dexcool(5) for(6) antifreeze(7) a(8) few(9) years(10) ago(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			I(1) have(2) found(3) that(4) I(5) have(6) to(7) replace(8) a_lot_of(9) the(10) stuff(11) and(12) it(13) does(14) not(15) come(16) cheap(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			I(1) know(2) it(3) is(4) supposed(5) to(6) be(7) less(8) corrosive(9) but(10) I(11) do(12) not(13) have(14) a(15) leak(16) and(17) I(18) sure(19) am(20) using(21) a_lot_of(22) it(23) .(24) 
+		</sentence>
+		<sentence id="30">
+			The(1) heating(2) and(3) air(4) conditioning(5) works(6) well(7) in(8) the(9) vehicle(10) .(11) 
+			<opinion polarity="+" feature="ac" featWords="4,5" opWords="6,7"/>
+			<opinion polarity="+" feature="heat" featWords="2" opWords="6,7"/>
+		</sentence>
+		<sentence id="31">
+			Important(1) where(2) I(3) live(4) .(5) 
+		</sentence>
+		<sentence id="32">
+			Update(1) 07/27/04(2) :(3) I(4) sold(5) this(6) vehicle(7) about(8) a(9) year(10) after(11) I(12) bought(13) it(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			I(1) was(2) having(3) trouble(4) with(5) the(6) windshield(7) wipers(8) and(9) eventually(10) got(11) a(12) recall(13) slip(14) .(15) 
+		</sentence>
+		<sentence id="34">
+			By(1) then(2) I(3) was(4) frustrated(5) enough(6) that(7) I(8) did(9) not(10) care(11) to(12) keep(13) it(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			It(1) was(2) some(3) circuit(4) board(5) that(6) kept(7) burning(8) out(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			It(1) helps(2) to(3) have(4) the(5) 350(6) engine(7) in(8) getting(9) it(10) sold(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			People(1) want(2) it(3) .(4) 
+		</sentence>
+		<sentence id="38">
+			I(1) 've(2) heard(3) the(4) V6(5) 's(6) are(7) hard(8) to(9) get(10) rid(11) of(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			Some(1) of(2) the(3) items(4) the(5) advisor(6) asked(7) me(8) about(9) were(10) transmission(11) ,(12) engine(13) and(14) performance(15) .(16) 
+		</sentence>
+		<sentence id="40">
+			I(1) guess(2) the(3) reason(4) I(5) have(6) not(7) really(8) commented(9) much(10) on(11) them(12) is(13) that(14) they(15) are(16) pretty(17) good(18) on(19) this(20) vehicle(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="41">
+			However(1) ,(2) there(3) is(4) certainly(5) higher(6) roll(7) probability(8) due(9) to(10) the(11) vehicle(12) height(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			The(1) engine(2) is(3) great(4) for(5) passing(6) and(7) getting(8) on(9) freeways(10) and(11) the(12) automatic(13) transmission(14) never(15) missed(16) a(17) beat(18) .(19) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="43">
+			I(1) also(2) never(3) had(4) to(5) work(6) on(7) the(8) transfer(9) case(10) .(11) 
+		</sentence>
+		<sentence id="44">
+			It(1) was(2) the(3) little(4) stuff(5) that(6) kept(7) breaking(8) .(9) 
+		</sentence>
+		<sentence id="45">
+			That(1) is(2) probably(3) the(4) main(5) reason(6) I(7) still(8) give(9) it(10) 3_out_of_5(11) stars(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			All(1) in_all(2) I(3) was(4) not(5) very(6) happy(7) with(8) buying(9) a(10) used(11) high(12) mileage(13) truck(14) .(15) 
+			<opinion polarity="-" feature="gas" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="47">
+			Lots(1) of(2) stuff(3) broke(4) on(5) it(6) .(7) 
+		</sentence>
+		<sentence id="48">
+			It(1) was(2) still(3) cheaper(4) than(5) a(6) new(7) car(8) payment(9) but(10) the(11) time(12) and(13) effort(14) just(15) was(16) not(17) worth(18) it(19) .(20) 
+		</sentence>
+		<sentence id="49">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15700(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) Sierra-350(16) ,(17) Automatic(18) ,(19) AC(20) ,(21) AM(22) /(23) FM(24) /(25) Casette(26) /(27) CD(28) 
+		</sentence>
+	</text>
+</review>

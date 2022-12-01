@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="454" item="1999 Lexus RX 300" rating="4">
+	<title>
+		<sentence id="1">
+			IS_THIS_AN_SUV(1) ?(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) ,(2) VVT-i(3) ,(4) Practicality(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			rear(1) seats(2) are(3) NOT(4) as(5) comfortable(6) for(7) 3(8) ,(9) needs(10) often(11) wheel(12) alignment(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) owned(2) a(3) Lexus(4) before(5) ...(6) Having(7) this(8) Lexus(9) was(10) my(11) dream(12) since(13) I(14) laid(15) my(16) eyes(17) on(18) it(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) 2(3) kids(4) ,(5) and(6) bought(7) it(8) as(9) a(10) family(11) car(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) chose(2) it(3) over(4) ALL_SUV(5) 's(6) out(7) there(8) in(9) a(10) even(11) SIMILAR(12) classes(13) ,(14) for(15) just(16) 1(17) thing(18) :(19) VALUE(20) !(21) 
+		</sentence>
+		<sentence id="4">
+			Why(1) You(2) all(3) ask(4) ?(5) 
+		</sentence>
+		<sentence id="5">
+			Let(1) 's(2) examine(3) ...(4) 1(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) the(4) ONLY_SUV(5) that(6) has(7) only(8) 3.0(9) liter(10) engine(11) ,(12) end(13) STILL_PRODUCES(14) 220(15) HP(16) .(17) 2(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Thanks(1) to(2) its(3) VVT-i(4) ((5) Variable_Valve_Timing(6) with(7) Intelligence(8) )(9) ,(10) it(11) produces(12) 80_%(13) of(14) total(15) power(16) at(17) low(18) 1,600(19) rpm(20) 3(21) .(22) 7(23) speaker(24) ,(25) 190_Watt(26) system(27) ,(28) with(29) CD(30) changer(31) in(32) the(33) GLOVE_DEPARTMENT(34) 4(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			ALL(1) the(2) windows(3) are(4) automatic(5) down(6) AND_UP(7) 5(8) .(9) all(10) 3(11) mirrors(12) are(13) automatic(14) dimming(15) 6(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			All(1) BEAUTIFULLY(2) done(3) leather(4) seats(5) 7(6) .(7) 
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="seat" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="10">
+			All(1) time(2) all(3) wheel(4) drive(5) ...(6) Even(7) 3(8) wheels(9) slip(10) ,(11) 90_%(12) of(13) the(14) poser(15) is(16) transferred(17) to(18) 1(19) that(20) doses(21) NOT(22) ...(23) 8(24) .(25) in(26) 1(27) year(28) of(29) driving(30) ,(31) I_MADE(32) 18(33) Miles(34) per(35) gallon(36) on(37) average(38) ,(39) unheard(40) of(41) almost(42) any(43) 6(44) cylinder(45) SUV(46) 9(47) .(48) 
+		</sentence>
+		<sentence id="11">
+			Lights(1) are(2) unbelievably(3) bright(4) AND_THE_CAR_STILL_COSTS_LESS_THAN(5) $40,000(6) ...(7) However(8) ,(9) if(10) u(11) have(12) more(13) than(14) a(15) kid(16) ,(17) then(18) this(19) car(20) could(21) NOT(22) be(23) the(24) best(25) choice(26) ...(27) The(28) reason(29) ((30) s(31) )(32) is(33) /(34) are(35) ...(36) 1(37) .(38) rear(39) seats(40) are(41) not(42) too(43) wide(44) ...(45) 2(46) child(47) seats(48) ,(49) and(50) only(51) 4-5(52) year(53) old(54) could(55) fit(56) to(57) the(58) rest(59) of(60) the(61) space(62) ...(63) 2(64) .(65) 
+		</sentence>
+		<sentence id="12">
+			Sometimes(1) u(2) feel(3) that(4) the(5) car(6) can(7) use(8) more(9) power(10) 3(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			When(1) lifting(2) the(3) window(4) ,(5) sometimes(6) after(7) reaching(8) the(9) top(10) ,(11) window(12) automatically(13) comes(14) down(15) ((16) 15_%(17) of(18) all(19) cars(20) have(21) it(22) ...(23) RX300-s(24) that(25) is(26) )(27) 4(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			Often(1) wheel(2) alignments(3) are(4) required(5) 5(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			Expensive_Service_Costs(1) ...(2) In(3) other(4) words(5) ,(6) in(7) the(8) scale(9) of(10) 1-10(11) ,(12) I(13) would(14) give(15) this(16) car(17) 7(18) ...(19) Would(20) I(21) buy(22) this(23) car(24) again(25) if(26) I(27) never(28) did(29) ?(30) 
+		</sentence>
+		<sentence id="16">
+			The(1) answer(2) is(3) probably(4) NO(5) ...(6) BUT(7) ,(8) I(9) would(10) go(11) with(12) Volvo(13) S80(14) ,(15) Which(16) is(17) NOT_a_SUV(18) .(19) however(20) ,(21) currently(22) ,(23) I(24) do(25) NOT(26) know(27) any(28) other(29) more(30) practical(31) SUV(32) out(33) there(34) ...(35) however(36) ,(37) if(38) u(39) have(40) the(41) time(42) to(43) wait(44) ,(45) AND(46) some(47) extra(48) money(49) to(50) spend(51) ,(52) I(53) would(54) wait(55) for(56) BMW_SUV(57) ,(58) first(59) car(60) of(61) which(62) has(63) been(64) sold(65) in(66) ebay(67) .(68) com(69) ((70) first(71) time(72) any(73) car(74) company(75) did(76) this(77) )(78) for(79) $143.000(80) .(81) 
+		</sentence>
+		<sentence id="17">
+			BUT(1) ,(2) do(3) NOT(4) worry(5) ,(6) expected(7) MSRP_for_Beemer(8) is(9) $55,000(10) 
+		</sentence>
+	</text>
+</review>

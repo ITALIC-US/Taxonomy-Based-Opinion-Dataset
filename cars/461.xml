@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="461" item="1999 Lexus RX 300" rating="2">
+	<title>
+		<sentence id="1">
+			Eye_Candy(1) ,(2) But_Flawed(3) in(4) my(5) case(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) for(2) a(3) short(4) time(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Brakes(1) not(2) strong(3) enough(4) for(5) frame(6) 
+			<opinion polarity="-" feature="brakes" featWords="1" opWords="2,3,4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) mother(2) bought(3) this(4) new(5) vehicle(6) about(7) a(8) year(9) or(10) so(11) ago(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) SUV(2) in(3) my(4) own(5) opinion(6) is(7) a(8) great(9) looking(10) vehicle(11) that(12) had(13) a(14) nice(15) ride(16) .(17) 
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="design" opWords="9,10"/>
+		</sentence>
+		<sentence id="3">
+			I(1) thought(2) there(3) could(4) not(5) be(6) anything(7) wrong(8) with(9) this(10) SUV(11) that(12) got(13) considerbly(14) good(15) miles(16) per(17) gallon(18) for(19) an(20) SUV(21) and(22) had(23) a(24) great(25) interior(26) with(27) plenty_of(28) space(29) .(30) 
+			<opinion polarity="+" feature="interior" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) wrong(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			After(1) about(2) 4(3) months(4) my(5) mother(6) informed(7) me(8) that(9) she(10) was(11) having(12) trouble(13) breaking(14) quick(15) enough(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			So(1) she(2) asked(3) me(4) to(5) take(6) it(7) to(8) the(9) mechanic(10) for(11) her(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) mechanic(2) looked(3) at(4) it(5) and(6) said(7) that(8) the(9) breaks(10) had(11) worn(12) down(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			He(1) said(2) that(3) the(4) frame(5) was(6) too(7) heavy(8) for(9) the(10) tires(11) /(12) breaks(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			We(1) took(2) the(3) car(4) back(5) and(6) got(7) our(8) money(9) back(10) but(11) still(12) my(13) anger(14) was(15) raised(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			I(1) wrote(2) a(3) letter(4) to(5) Lexus(6) and(7) they(8) told(9) me(10) that(11) it(12) was(13) a(14) faulty(15) frame(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			I(1) just(2) dont(3) know(4) how(5) many(6) of(7) those(8) "(9) faulty(10) "(11) models(12) there(13) are(14) out(15) there(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			I(1) advise(2) against(3) buying(4) this(5) vehicle(6) .(7) 
+		</sentence>
+	</text>
+</review>

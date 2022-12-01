@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="299" item="Sennheiser MX 500 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Sennheiser(1) in(2) name(3) only(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) but(3) you(4) get(5) what(6) you(7) pay(8) for(9) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Muddy(1) sound(2) ,(3) uncomfortable(4) ,(5) not(6) worthy(7) of(8) Sennheiser(9) name(10) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) to(4) replace(5) the(6) miserable(7) buds(8) that(9) came(10) with(11) my(12) iPod(13) .(14) 
+			<opinion polarity="-" feature="earbuds" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) also(3) got(4) a(5) set(6) of(7) Sennheiser(8) HD-590(9) 's(10) ,(11) which(12) I(13) consider(14) to(15) be(16) among(17) the(18) finest(19) headphones(20) available(21) ,(22) which(23) I(24) use(25) in(26) broadcasting(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			These(1) things(2) are(3) terrible(4) !(5) 
+			<opinion polarity="-" feature="headphones" featWords="2" featRef="headphones" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Muddy(1) ,(2) uncomfortable(3) ,(4) and(5) unattractive(6) .(7) 
+			<opinion polarity="-" feature="sound quality" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+			<opinion polarity="-" feature="appearance" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			On(1) the(2) package(3) ,(4) enhanced(5) bass(6) is(7) highlighted(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) is(3) so(4) muddy(5) because_of(6) the(7) overpowering(8) bass(9) ,(10) and(11) no(12) amount(13) of(14) equalization(15) can(16) compensate(17) .(18) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) scary(3) to(4) think(5) that(6) this(7) is(8) the(9) top(10) of(11) the(12) line(13) for(14) Sennheiser(15) buds(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) redeeming(3) quality(4) of(5) the(6) set(7) is(8) the(9) in-line(10) volume(11) control(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Nice(1) idea(2) wasted(3) on(4) a(5) bad(6) set(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) a(3) set(4) of(5) Kenwood(6) buds(7) from(8) 15(9) years(10) ago(11) ,(12) and(13) they(14) destroy(15) these(16) things(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) a(3) product(4) to(5) avoid(6) !(7) 
+		</sentence>
+	</text>
+</review>

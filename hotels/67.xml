@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="67" item="Holiday Inn VENICE-SARASOTA AREA" rating="1">
+	<title>
+		<sentence id="1">
+			Old_Style_Hotel(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) pool(2) ,(3) Very_Close(4) to(5) the(6) Gulf(7) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Old_Style(1) more(2) like(3) a(4) Motel(5) ,(6) Bugs(7) in(8) Rooms(9) ,(10) Rooms(11) need(12) updated(13) bad(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) a(4) couple(5) and(6) looking(7) for(8) a(9) motel(10) type(11) stay(12) then(13) this(14) is(15) the(16) place(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Arrival(1) When(2) we(3) arrived(4) at(5) the(6) Holiday_Inn_Venice(7) the(8) outside_of(9) the(10) hotel(11) was(12) very(13) clean(14) and(15) neat(16) ,(17) thinking(18) that(19) all(20) the(21) room(22) were(23) entered(24) from(25) inside(26) I(27) saw(28) otherwise(29) .(30) 
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			The(1) view(2) of(3) the(4) outside(5) hotel(6) look(7) like(8) something(9) from(10) Italy(11) with(12) the(13) beautiful(14) stone(15) pillars(16) ,(17) the(18) landscaping(19) was(20) nice(21) ,(22) they(23) have(24) many(25) palm(26) trees(27) and(28) tropical(29) plants(30) and(31) flowers(32) .(33) 
+			<opinion polarity="+" feature="decoration" featWords="19" opWords="21"/>
+		</sentence>
+		<sentence id="3">
+			The(1) inside(2) lobby(3) is(4) not(5) very(6) big(7) but(8) laid(9) out(10) with(11) marble(12) floors(13) ,(14) 2(15) staircases(16) and(17) the(18) front(19) desk(20) in(21) the(22) middle(23) ,(24) The(25) decor(26) also(27) resembles(28) Italy(29) .(30) 
+			<opinion polarity="-" feature="lobby" featWords="3" opWords="5,7" potency="6"/>
+			<opinion polarity="+" feature="grounds" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			Check_In_As(1) we(2) checked(3) in(4) the(5) employees(6) were(7) very(8) nice(9) and(10) professional(11) even_though(12) part(13) of(14) our(15) reservation(16) was(17) wrong(18) ,(19) we(20) did(21) not(22) get(23) a(24) roll(25) away(26) or(27) the(28) mini(29) refrigerator(30) that(31) we(32) had(33) requested(34) a(35) month(36) before(37) .(38) 
+			<opinion polarity="+" feature="staff" featWords="6" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="staff" featWords="6" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) Holiday_Inn(3) employee(4) said(5) after(6) the(7) weekend(8) they(9) would(10) see(11) what(12) they(13) can(14) do(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Room_The(1) room(2) was(3) on(4) the(5) first(6) floor(7) which(8) you(9) enter(10) from(11) the(12) outside(13) ,(14) we(15) had(16) a(17) nice(18) view(19) of(20) the(21) pool(22) area(23) .(24) 
+			<opinion polarity="+" feature="view" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="7">
+			You(1) just(2) have(3) to(4) watch(5) your(6) head(7) at(8) night(9) if(10) you(11) are(12) walking(13) to(14) the(15) room(16) or(17) you(18) will(19) go(20) face(21) first(22) in(23) a(24) spider(25) web(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			The(1) door(2) to(3) the(4) room(5) is(6) opened(7) with(8) a(9) card(10) ,(11) when(12) inside(13) we(14) found(15) the(16) room(17) very(18) small(19) with(20) a(21) King(22) bed(23) ,(24) Entertainment_Unit(25) ,(26) a(27) round(28) table(29) with(30) 2(31) old(32) looking(33) chairs(34) ,(35) a(36) vanity(37) with(38) sink(39) ,(40) the(41) bathroom(42) needed(43) updated(44) ,(45) it(46) had(47) no(48) fan(49) which(50) would(51) explain(52) the(53) mold(54) on(55) the(56) walls(57) .(58) 
+			<opinion polarity="-" feature="rooms" featWords="17" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="9">
+			The(1) carpet(2) was(3) Red(4) and(5) Green(6) which(7) did(8) not(9) look(10) to(11) old(12) ,(13) the(14) curtains(15) were(16) torn(17) ,(18) had(19) many(20) burn(21) holes(22) and(23) smell(24) of(25) mildew(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) TV(2) had(3) no(4) extra(5) movie(6) stations(7) just(8) cable(9) ,(10) no(11) Playstation(12) for(13) kids(14) like(15) some(16) hotels(17) have(18) ,(19) but(20) it(21) did(22) have(23) a(24) single(25) cup(26) coffee(27) pot(28) ,(29) Iron(30) and(31) Iron_Board(32) ,(33) samples(34) of(35) soap(36) and(37) shampoo(38) .(39) 
+		</sentence>
+		<sentence id="11">
+			The(1) A(2) /(3) C(4) worked(5) great(6) in(7) the(8) room(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Restaurant_The(1) hotel(2) also(3) has(4) a(5) Restaurant(6) and(7) lounge(8) on(9) site(10) ,(11) we(12) did(13) order(14) breakfast(15) one(16) morning(17) for(18) our(19) 3(20) year(21) old(22) ,(23) For(24) a(25) order(26) of(27) Hotcakes(28) ,(29) a(30) pot(31) of(32) coffee(33) ,(34) glass(35) of(36) OJ(37) and(38) a(39) Fruit(40) plate(41) came(42) to(43) $30(44) room(45) service(46) .(47) 
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) not(3) suggest(4) on(5) getting(6) anything(7) from(8) here(9) seeing(10) everything(11) was(12) cold(13) and(14) Hotcakes(15) were(16) very(17) dry(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			There(1) are(2) many(3) restaurants(4) in(5) the(6) area(7) you(8) can(9) go(10) for(11) breakfast(12) ,(13) lunch(14) and(15) dinner(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			Amenities_There(1) is(2) a(3) very(4) nice(5) outdoor(6) pool(7) and(8) Whirlpool(9) which(10) they(11) keep(12) up(13) ,(14) a(15) Volley(16) ball(17) court(18) next(19) to(20) the(21) pool(22) which(23) they(24) rake(25) every(26) morning(27) .(28) 
+			<opinion polarity="+" feature="swimming pool" featWords="7" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="16">
+			The(1) guest(2) laundry(3) is(4) outside(5) next(6) to(7) the(8) building(9) ,(10) But(11) if(12) you(13) are(14) in(15) a(16) Hurricane(17) like(18) we(19) had(20) Dennis(21) hit(22) forget(23) the(24) laundry(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			They(1) have(2) a(3) Health(4) /(5) Fitness_Center_On-Site(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			No(1) business(2) office(3) that(4) guest(5) can(6) use(7) .(8) 
+		</sentence>
+		<sentence id="19">
+			Final_On(1) the(2) last(3) day(4) we(5) were(6) credited(7) 2(8) days(9) due(10) to(11) ants(12) on(13) the(14) bed(15) and(16) a(17) very(18) very(19) large(20) Palmetto_Bug(21) that(22) was(23) in(24) the(25) room(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			We(1) ended(2) the(3) trip(4) short(5) due(6) to(7) the(8) Hurricane(9) so(10) the(11) Front(12) desk(13) staff(14) was(15) not(16) very(17) happy(18) at(19) Check-out(20) .(21) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="159" item="1999 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			1999(1) Regal_GS(2) -(3) I(4) love(5) it(6) !(7) 
+			<opinion polarity="+" feature="car" featWords="6" featRef="car" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) quality(2) ,(3) unique(4) product(5) ,(6) high-performance(7) ,(8) great(9) stereo(10) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) mileage(2) is(3) not(4) that(5) great(6) ,(7) black(8) is(9) hard(10) to(11) keep(12) clean(13) !(14) 
+			<opinion polarity="-" feature="gas" featWords="1,2" opWords="4,6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) find(4) one(5) consider(6) it(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) searched(2) on(3) the(4) internet(5) later(6) and(7) not(8) one(9) came(10) up(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) '(2) 94(3) Tbird(4) with(5) V8(6) was(7) down(8) for(9) the(10) count(11) so(12) I(13) needed(14) a(15) new(16) vehicle(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			My(1) parameters(2) were(3) restricted(4) due(5) to(6) personal(7) financial(8) reasons(9) you(10) do(11) not(12) need(13) to(14) know(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Therefore(1) it(2) was(3) time(4) to(5) go(6) car(7) hunting(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) looked(2) at(3) new(4) and(5) used(6) autos(7) ,(8) the(9) price(10) could(11) not(12) be(13) over(14) $18k(15) total(16) loan(17) value(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			do(1) not(2) ask(3) why(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			I(1) started(2) by(3) looking(4) at(5) the(6) Mitsubishi_Galant(7) ,(8) new(9) model(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			They(1) were(2) nice(3) ,(4) I(5) liked(6) the(7) BMW(8) style(9) of(10) the(11) rear(12) but(13) the(14) inside(15) was(16) cheap(17) ,(18) and(19) the(20) dealer(21) personnel(22) a(23) bunch(24) of(25) sharks(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			I(1) happened(2) across(3) the(4) street(5) along(6) the(7) local(8) auto(9) mall(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			This(1) black(2) car(3) with(4) bright(5) chrome(6) wheels(7) stood(8) out(9) to(10) me(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			I(1) was(2) well(3) aware(4) of(5) the(6) Buick_GS(7) from(8) the(9) late(10) 60(11) 's(12) and(13) early(14) 70(15) 's(16) models(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			This(1) one(2) on(3) the(4) lot(5) was(6) very(7) sleek(8) ,(9) had(10) the(11) look(12) of(13) luxury(14) but(15) also(16) that(17) of(18) a(19) performance(20) sedan(21) .(22) 
+			<opinion polarity="+" feature="car" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="12">
+			Of(1) course(2) ,(3) the(4) greedy(5) salesman(6) descended(7) on(8) me(9) ,(10) eager(11) to(12) hook(13) me(14) in(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) itself(3) did(4) that(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			He(1) opened(2) up(3) the(4) driver(5) 's(6) door(7) and(8) I(9) was(10) faced(11) with(12) a(13) luxurious(14) light(15) gray(16) leather(17) interior(18) .(19) 
+			<opinion polarity="+" feature="interior" featWords="18" opWords="14"/>
+			<opinion polarity="+" feature="interior" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="15">
+			I(1) got(2) in(3) and(4) was(5) amazed(6) at(7) the(8) variety(9) of(10) features(11) this(12) vehicle(13) had(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			It(1) came(2) standard(3) with(4) anti-lock(5) brakes(6) ,(7) 3800(8) cc(9) supercharged(10) V6(11) ,(12) computer(13) system(14) to(15) analyze(16) mpg(17) ,(18) supercharger(19) boost(20) ,(21) heated(22) seats(23) ,(24) you(25) name(26) it(27) .(28) 
+			<opinion polarity="+" feature="seat" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="17">
+			As(1) we(2) took(3) it(4) out(5) I(6) kept(7) finding(8) more(9) things(10) it(11) did(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			The(1) car(2) locks(3) the(4) doors(5) automatically(6) when(7) put(8) in(9) reverse(10) ,(11) knows(12) when(13) it(14) 's(15) nightime(16) and(17) turns(18) the(19) headlights(20) on(21) ,(22) the(23) mirror(24) has(25) built-in(26) sensing(27) to(28) dim(29) at(30) night(31) ,(32) warning(33) lights(34) if(35) you(36) tires(37) are(38) low(39) ,(40) things(41) I(42) never(43) knew(44) were(45) on(46) a(47) car(48) .(49) 
+		</sentence>
+		<sentence id="19">
+			Okay(1) ,(2) what(3) really(4) sold(5) me(6) on(7) the(8) car(9) were(10) styling(11) ,(12) performance(13) ,(14) luxury(15) ,(16) the(17) stereo(18) system(19) and(20) the(21) sunroof(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			I(1) always(2) wanted(3) a(4) sunroof(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			Enough(1) said(2) about(3) that(4) .(5) 
+		</sentence>
+		<sentence id="22">
+			Styling(1) is(2) a(3) personal(4) thing(5) so(6) I(7) will(8) not(9) say(10) much(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			As(1) for(2) performance(3) this(4) vehicle(5) would(6) blow(7) the(8) doors(9) off(10) my(11) V8(12) Tbird(13) any(14) day(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			This(1) car(2) is(3) fast(4) !(5) 
+			<opinion polarity="+" feature="speed" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			I(1) love(2) the(3) combination(4) of(5) average(6) fuel(7) economy(8) combined(9) with(10) the(11) supercharger(12) for(13) the(14) times(15) you(16) want(17) to(18) "(19) kick(20) it(21) in(22) the(23) rear(24) "(25) .(26) 
+		</sentence>
+		<sentence id="26">
+			It(1) also(2) has(3) a(4) setting(5) for(6) "(7) performance(8) shifting(9) "(10) which(11) does(12) as(13) it(14) says(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			Only(1) downside(2) to(3) everything(4) is(5) the(6) front(7) wheel(8) drive(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			I(1) 'm(2) an(3) old-school(4) rear(5) wheel(6) drive(7) kinda(8) guy(9) ,(10) and(11) my(12) worst(13) and(14) scariest(15) driving(16) experience(17) was(18) trying(19) to(20) drive(21) in(22) snow(23) with(24) a(25) Ford_Escort(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			Anyway(1) ,(2) I(3) also(4) used(5) to(6) have(7) an(8) Olds_Toronado(9) with(10) a(11) 455(12) V8(13) ,(14) front(15) wheel(16) drive(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			Both(1) that(2) car(3) and(4) the(5) Buick_Regal(6) give(7) you(8) the(9) feeling(10) of(11) being(12) "(13) pulled(14) "(15) along(16) when(17) you(18) punch(19) it(20) .(21) 
+		</sentence>
+		<sentence id="31">
+			Also(1) a(2) slight(3) wavering(4) of(5) the(6) steering(7) ,(8) probably(9) due(10) to(11) the(12) torque(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			No(1) big(2) deal(3) but(4) not(5) the(6) feel(7) I(8) 'm(9) used(10) to(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			The(1) luxury(2) I(3) mentioned(4) a_bit(5) ,(6) with(7) the(8) leather(9) interior(10) ,(11) self-dimming(12) interior(13) lighting(14) ,(15) soft(16) but(17) positive(18) ride(19) ,(20) 4(21) door(22) convenience(23) .(24) definitely(25) a(26) smooth(27) machine(28) ,(29) solid(30) ,(31) very(32) quiet(33) .(34) 
+			<opinion polarity="+" feature="car" opWords="33" potency="32"/>
+			<opinion polarity="+" feature="car" opWords="30"/>
+			<opinion polarity="+" feature="interior" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="34">
+			The(1) stereo(2) system(3) is(4) better(5) than(6) any(7) "(8) custom(9) "(10) after-market(11) system(12) I(13) 've(14) heard(15) ,(16) even(17) my(18) son(19) 's(20) $2500(21) system(22) in(23) his(24) Toyota(25) pick-up(26) .(27) 
+		</sentence>
+		<sentence id="35">
+			The(1) Regal(2) had(3) the(4) Monsoon(5) system(6) ,(7) with(8) 6-CD(9) changer(10) in(11) the(12) trunk(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			Also(1) in(2) the(3) trunk(4) was(5) a(6) power(7) amp(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			You(1) could(2) choose(3) from(4) the(5) changer(6) ,(7) radio(8) ,(9) cassette(10) player(11) ,(12) or(13) slip(14) a(15) CD(16) directly(17) in(18) from(19) the(20) driver(21) 's(22) seat(23) .(24) 
+		</sentence>
+		<sentence id="38">
+			The(1) sound(2) is(3) awesome(4) and(5) half(6) volume(7) is(8) all(9) I(10) could(11) take(12) without(13) my(14) ears(15) hurting(16) .(17) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="39">
+			Never(1) before(2) has(3) a(4) stock(5) system(6) been(7) able(8) to(9) do(10) this(11) .(12) 
+		</sentence>
+		<sentence id="40">
+			Okay(1) ,(2) bottom(3) line(4) ,(5) yes(6) I(7) bought(8) the(9) car(10) and(11) love(12) it(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			Gas(1) mileage(2) could(3) be(4) better(5) ,(6) around(7) 20(8) mpg(9) overall(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			Maybe(1) that(2) will(3) improve(4) after(5) the(6) thrill(7) of(8) the(9) acceleration(10) gets(11) out(12) of(13) my(14) system(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			Maybe(1) not(2) .(3) 
+		</sentence>
+		<sentence id="44">
+			Other(1) downside(2) is(3) the(4) black(5) color(6) ,(7) which(8) looks(9) great(10) but(11) black(12) is(13) a(14) nightmare(15) to(16) keep(17) clean(18) .(19) 
+			<opinion polarity="+" feature="color" featWords="6" opWords="9,10"/>
+		</sentence>
+		<sentence id="45">
+			My(1) only(2) other(3) wish(4) would(5) have(6) been(7) for(8) this(9) to(10) be(11) a(12) rear-wheel(13) drive(14) machine(15) ,(16) but(17) hey(18) ,(19) I(20) 'm(21) happy(22) ,(23) very(24) happy(25) with(26) this(27) car(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="28" opWords="25"/>
+		</sentence>
+		<sentence id="46">
+			I(1) have(2) not(3) seen(4) another(5) like(6) it(7) in(8) this(9) Northern_California(10) land(11) of(12) BMW(13) 's(14) ,(15) MB(16) 's(17) ,(18) Lexus(19) ,(20) every(21) other(22) specialty(23) car(24) .(25) 
+		</sentence>
+		<sentence id="47">
+			That(1) I(2) like(3) alot(4) .(5) 
+		</sentence>
+		<sentence id="48">
+			I(1) 've(2) always(3) loved(4) the(5) feel(6) and(7) quality(8) of(9) American_GM(10) cars(11) but(12) strayed(13) with(14) the(15) Ford(16) .(17) 
+		</sentence>
+		<sentence id="49">
+			Lousy(1) trannies(2) on(3) Fords(4) ,(5) but(6) that(7) 's(8) another(9) story(10) .(11) 
+		</sentence>
+		<sentence id="50">
+			If(1) you(2) desire(3) an(4) American(5) car(6) with(7) great(8) looks(9) ,(10) performance(11) combined(12) with(13) economy(14) ,(15) all(16) the(17) goodies(18) you(19) can(20) think(21) of(22) and(23) some(24) you(25) 'd(26) never(27) think(28) of(29) ,(30) then(31) consider(32) the(33) Buick_Regal_GS(34) for(35) a(36) great(37) '(38) used(39) '(40) car(41) .(42) 
+			<opinion polarity="+" feature="car" featWords="41" opWords="37"/>
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="51">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Regal_GS(16) 
+		</sentence>
+	</text>
+</review>

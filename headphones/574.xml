@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="574" item="Bose TriPort Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Bose_Delivers(1) ,(2) but(3) beware(4) breakable(5) headpiece(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) bass(4) ,(5) and(6) comfort(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) volume(2) control(3) ,(4) fragile(5) plastic(6) headpiece(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) to(4) listen(5) to(6) my(7) computer(8) audio(9) when(10) my(11) family(12) is(13) sleeping(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) purchased(3) a(4) Sennheiser(5) SX-200(6) pair(7) for(8) $30(9) ,(10) and(11) found(12) them(13) uncomfortable(14) over(15) long(16) periods(17) and(18) weak(19) in(20) bass(21) .(22) 
+			<opinion polarity="-" feature="comfort" opWords="14"/>
+			<opinion polarity="-" feature="bass" featWords="21" opWords="19"/>
+		</sentence>
+		<sentence id="3">
+			I(1) decided(2) to(3) lay(4) out(5) the(6) $150(7) for(8) these(9) ,(10) which(11) I(12) had(13) tried(14) at(15) the(16) Apple(17) store(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) pleased(3) to(4) find(5) that(6) they(7) behaved(8) as_well(9) as(10) I(11) expected(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Music(1) sounds(2) great(3) and(4) bass(5) booms(6) and(7) is(8) perfectly(9) fine(10) .(11) ((12) You(13) can(14) feel(15) the(16) puffs(17) of(18) air(19) on(20) your(21) hand(22) from(23) the(24) bass(25) )(26) They(27) are(28) also(29) very(30) comfortable(31) .(32) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="2,3"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="6"/>
+			<opinion polarity="+" feature="comfort" opWords="31" potency="30"/>
+		</sentence>
+		<sentence id="6">
+			I(1) only(2) wish(3) that(4) they(5) had(6) a(7) volume(8) control(9) ,(10) because(11) it(12) 's(13) difficult(14) to(15) change(16) volumes(17) while(18) I(19) 'm(20) playing(21) video(22) games(23) .(24) ***(25) UPDATE(26) :(27) After(28) about(29) 3(30) months(31) a(32) plastic(33) piece(34) broke(35) on(36) the(37) headset(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			It(1) detached(2) one(3) of(4) the(5) earpieces(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Bose(1) support(2) asked(3) me(4) to(5) mail(6) it(7) back(8) to(9) them(10) ,(11) and(12) a(13) new(14) one(15) arrived(16) 5(17) weeks(18) later(19) .(20) 
+		</sentence>
+	</text>
+</review>

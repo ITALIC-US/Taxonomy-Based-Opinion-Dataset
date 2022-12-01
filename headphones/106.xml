@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="106" item="Etymotic Research Binaura ER4B Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) so(2) amazing(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Small(1) ,(2) light(3) ,(4) good(5) fit(6) ,(7) some(8) noise(9) isolation(10) ,(11) flat(12) frequency(13) response(14) .(15) 
+			<opinion polarity="+" feature="size" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="comfort" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="frequency response" featWords="13,14" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overpriced(1) .(2) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Too(1) weak(2) for(3) MP3(4) players(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Needs(1) an(2) amplifier(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) all(3) the(4) reviews(5) of(6) how(7) "(8) Amazing(9) !(10) "(11) these(12) earphones(13) are(14) ,(15) I(16) bought(17) a(18) pair(19) and(20) find(21) them(22) an(23) Amazing(24) disappointment(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) more(3) comfortable(4) than(5) most(6) earphones(7) and(8) they(9) sound(10) better(11) than(12) most(13) stock(14) MP3(15) player(16) earphones(17) ,(18) except(19) I(20) think(21) the(22) iPod(23) earphones(24) with(25) Griffin_EarJams(26) sound(27) way(28) better(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			BTW(1) ,(2) my(3) basis(4) for(5) comparison(6) is(7) the(8) sound(9) I(10) get(11) from(12) my(13) Infinity_RSM_'s_These(14) earphones(15) simply(16) require(17) more(18) amplification(19) than(20) most(21) portable(22) stereo(23) equipment(24) is(25) capable(26) of(27) outputing(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			They(1) do(2) sound(3) much(4) better(5) powered(6) by(7) a(8) stereo(9) receiver(10) ,(11) but(12) then(13) ,(14) whats(15) the(16) point(17) of(18) that(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) noise(2) isolation(3) is(4) not(5) as(6) good(7) as(8) advertised(9) in(10) my(11) case(12) .(13) 
+		</sentence>
+	</text>
+</review>

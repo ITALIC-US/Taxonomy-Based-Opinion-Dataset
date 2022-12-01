@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="481" item="1999 Nissan Maxima" rating="3">
+	<title>
+		<sentence id="1">
+			First(1) owner(2) of(3) 99(4) Maxima(5) after(6) driven(7) for(8) 5(9) years(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) car(2) ,(3) smooth(4) ride(5) ,(6) powerful(7) engine(8) ,(9) easy(10) to(11) trouble-shoot(12) if(13) one(14) does(15) research(16) on(17) internet(18) .(19) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Less(1) innovative(2) features(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Need(1) to(2) learn(3) doityourselft(4) troubleshooting(5) ,(6) otherwise(7) pay(8) alot(9) monies(10) .(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Maintenance(1) costs(2) depend(3) upon(4) owners(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			If(1) one(2) has(3) a(4) little(5) mechanic(6) skill(7) ,(8) he(9) can(10) learn(11) troubleshooting(12) and(13) replacing(14) some(15) parts(16) easily(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) driving(4) my(5) 99(6) Maxima(7) since(8) taken(9) home(10) from(11) a(12) Nissan(13) dealer(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Current(1) mileage(2) is(3) 65k(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) it(2) is(3) a(4) good(5) car(6) ,(7) smooth(8) ride(9) ,(10) power(11) 3.0(12) V6(13) engine(14) .(15) 1999(16) model(17) is(18) the(19) last(20) year(21) of(22) 4th(23) generation(24) .(25) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) a(3) Sport_Luxury(4) ((5) not(6) fully(7) luxury(8) )(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			So(1) ,(2) do(3) not(4) expect(5) that(6) Maxima(7) is(8) smooth(9) as(10) Cadillac(11) or(12) Lincoln(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) as(3) a(4) Sport_Luxury(5) ,(6) Maxima(7) is(8) running(9) smooth(10) and(11) accelerating(12) on(13) highway(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="9,10"/>
+		</sentence>
+		<sentence id="7">
+			Gas(1) mileage(2) 19city/26HW(3) .(4) 
+		</sentence>
+		<sentence id="8">
+			Seats(1) are(2) confortable(3) .(4) 
+		</sentence>
+		<sentence id="9">
+			Sound(1) system(2) is(3) standard(4) ,(5) not(6) as(7) good(8) as(9) the(10) BOSE_of_SE(11) and(12) GLE(13) model(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			It(1) has(2) less(3) innovative(4) features(5) when(6) compared(7) to(8) Honda_Accord(9) V6(10) and(11) Toyota_Avalon(12) for(13) the(14) same(15) year(16) models(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) all(3) power(4) for(5) driver(6) seat(7) ,(8) windows(9) ,(10) and(11) locks(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Although(1) ,(2) Maxima(3) 4th(4) generation(5) include(6) 96-99(7) ,(8) but(9) 1999(10) Maxima(11) has(12) added(13) more(14) electronic(15) engine(16) control(17) devices(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			Most(1) of(2) these(3) electronic(4) devices(5) helps(6) the(7) car(8) emission(9) and(10) therefore(11) longer(12) life(13) for(14) the(15) engine(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			However(1) ,(2) these(3) devices(4) are(5) costly(6) to(7) be(8) replaced(9) when(10) they(11) failed(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			Here(1) are(2) problems(3) that(4) I(5) have(6) experienced(7) :(8) -(9) Ignition(10) coil(11) problem(12) due(13) to(14) manufactory(15) fault(16) but(17) no(18) recall(19) since(20) this(21) model(22) starts(23) using(24) distributionless(25) ((26) no(27) electrical(28) distributor(29) like(30) old(31) cars(32) )(33) .(34) 
+		</sentence>
+		<sentence id="16">
+			This(1) problem(2) happened(3) likely(4) after(5) 40k_miles(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			It(1) costs(2) about(3) $80(4) for(5) each(6) coil(7) +(8) $40(9) labor(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			New(1) replacing(2) coils(3) are(4) being(5) better(6) and(7) longer(8) life(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			You(1) can(2) replace(3) these(4) coils(5) yourself(6) .(7) -(8) O2(9) sensor(10) problems(11) are(12) common(13) for(14) most(15) car(16) manufacturers(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Maxima(1) uses(2) three(3) 02(4) sensors(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			This(1) devicce(2) is(3) used(4) to(5) monitor(6) the(7) gas(8) mixture(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			The(1) life(2) time(3) of(4) these(5) oxygen(6) sensors(7) are(8) as(9) same(10) as(11) the(12) spark(13) plug(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			They(1) are(2) last(3) about(4) 60k-100k_miles(5) depend(6) on(7) the(8) driving(9) condition(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			The(1) one(2) underneath(3) by(4) the(5) catalytic(6) converter(7) ,(8) a(9) so-called(10) "(11) downtream(12) O2(13) "(14) ,(15) used(16) to(17) fail(18) first(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			I(1) have(2) only(3) replaced(4) this(5) one(6) so(7) far(8) .(9) 
+		</sentence>
+		<sentence id="26">
+			It(1) will(2) cost(3) $80-118(4) for(5) each(6) sensor(7) plus(8) $100-150(9) labor(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			You(1) can(2) replace(3) the(4) downtream(5) sensor(6) yourself(7) with(8) little(9) hassle(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			The(1) other(2) two(3) sensors(4) are(5) definitely(6) hard(7) to(8) touch(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			They(1) should(2) be(3) better(4) replaced(5) by(6) dealer(7) or(8) auto(9) shop(10) .(11) -(12) Mass_Air_Flow(13) ((14) MAF(15) )(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			An(1) electronic(2) device(3) to(4) control(5) the(6) intake(7) air(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			Cost(1) is(2) about(3) $400(4) +(5) $200(6) labor(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			You(1) can(2) do(3) it(4) yourself(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			Dirty(1) air(2) filter(3) can(4) reduce(5) the(6) life(7) of(8) MAF(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			Changing(1) the(2) air(3) filter(4) frequently(5) will(6) prevent(7) damaging(8) the(9) MAF(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			A(1) local(2) shop(3) where(4) I(5) used(6) to(7) take(8) my(9) car(10) for(11) an(12) oil(13) change(14) with(15) full(16) service(17) ,(18) they(19) oftenly(20) forgot(21) to(22) check(23) my(24) air(25) filter(26) condition(27) .(28) 
+		</sentence>
+		<sentence id="36">
+			That(1) was(2) why(3) my(4) MAF(5) went(6) bad(7) .(8) 
+		</sentence>
+		<sentence id="37">
+			Like(1) most(2) cars(3) today(4) ,(5) Maxima(6) has(7) ECU(8) ((9) electronic(10) control(11) unit(12) )(13) or(14) sometimes(15) called(16) ECM-engine(17) control(18) module(19) .(20) 
+		</sentence>
+		<sentence id="38">
+			Owner(1) will(2) be(3) notified(4) when(5) something(6) goes(7) wrong(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			It(1) happens(2) when(3) the(4) "(5) Service_Engine_Soon(6) "(7) light(8) is(9) ON(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			If(1) you(2) research(3) on(4) internet(5) ,(6) you(7) can(8) save(9) money(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			First(1) saving(2) $75(3) for(4) the(5) trouble-code(6) reading(7) by(8) dealer(9) or(10) auto(11) shop(12) .(13) 
+		</sentence>
+		<sentence id="42">
+			Some(1) problems(2) can(3) be(4) fixed(5) by(6) yourself(7) .(8) 
+		</sentence>
+		<sentence id="43">
+			Good(1) thing(2) about(3) ECU(4) is(5) that(6) it(7) helps(8) you(9) to(10) identify(11) the(12) problem(13) without(14) doing(15) the(16) troubleshootings(17) like(18) you(19) did(20) on(21) your(22) old(23) car(24) .(25) 
+		</sentence>
+		<sentence id="44">
+			The(1) bad(2) is(3) that(4) it(5) costs(6) owner(7) money(8) each(9) time(10) the(11) "(12) Service_Engine_Soon(13) "(14) light(15) is(16) ON(17) .(18) 
+		</sentence>
+		<sentence id="45">
+			Especially(1) for(2) elders(3) and(4) women(5) who(6) do(7) not(8) know(9) much(10) about(11) automobiles(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			For_example(1) ,(2) dealer(3) will(4) charge(5) $75(6) for(7) just(8) reading(9) the(10) code(11) .(12) 
+		</sentence>
+		<sentence id="47">
+			Then(1) dealer(2) will(3) go(4) ahead(5) replacing(6) the(7) part(8) without(9) trouble-shooting(10) further(11) .(12) 
+		</sentence>
+		<sentence id="48">
+			In(1) my(2) case(3) ,(4) they(5) wanted(6) to(7) replace(8) all(9) six(10) ignition(11) coils(12) which(13) could(14) cost(15) me(16) over(17) $700(18) .(19) 
+		</sentence>
+		<sentence id="49">
+			Luckily(1) ,(2) I(3) bought(4) a(5) Haynes_Repair(6) book(7) and(8) find(9) the(10) way(11) how(12) to(13) identify(14) the(15) problem(16) .(17) 
+		</sentence>
+		<sentence id="50">
+			I(1) needed(2) only(3) change(4) a(5) bad(6) coil(7) that(8) costed(9) me(10) $80(11) .(12) 
+		</sentence>
+		<sentence id="51">
+			Same(1) for(2) other(3) problems(4) .(5) 
+		</sentence>
+		<sentence id="52">
+			In(1) general(2) ,(3) this(4) car(5) is(6) considered(7) as(8) reliable(9) since(10) I(11) have(12) yet(13) seen(14) any(15) major(16) problem(17) such(18) as(19) transmission(20) or(21) engine(22) ...(23) anything(24) that(25) could(26) cost(27) over(28) $1000(29) .(30) 
+		</sentence>
+		<sentence id="53">
+			At(1) 65k(2) ,(3) I(4) have(5) not(6) seen(7) oil(8) or(9) fuel(10) injector(11) leaking(12) problem(13) like(14) those(15) Nissan(16) previous(17) models(18) .(19) 
+		</sentence>
+		<sentence id="54">
+			This(1) is(2) a(3) tremendous(4) improvement(5) by(6) Nissan(7) engineers(8) .(9) 
+		</sentence>
+		<sentence id="55">
+			In(1) my(2) opinion(3) ,(4) if(5) you(6) do(7) not(8) like(9) to(10) learn(11) how(12) to(13) figure(14) out(15) the(16) problem(17) when(18) the(19) "(20) Service_Engine_Soon(21) "(22) light(23) ON(24) then(25) you(26) may(27) not(28) like(29) this(30) car(31) .(32) 
+		</sentence>
+		<sentence id="56">
+			If(1) you(2) do(3) and(4) with(5) a(6) little(7) mechanic(8) skill(9) ,(10) you(11) would(12) love(13) this(14) car(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="13"/>
+		</sentence>
+		<sentence id="57">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) GXE(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="479" item="1999 Nissan Maxima" rating="3">
+	<title>
+		<sentence id="1">
+			Mixed_Reviews_for_Nissan_Maxima(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) car(3) -(4) smooth(5) ride(6) 
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) gas(2) mileage(3) ,(4) uncomfortable(5) seats(6) .(7) 
+			<opinion polarity="-" feature="seat" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			While(1) this(2) car(3) looks(4) sharp(5) ,(6) and(7) rides(8) nicely(9) ,(10) there(11) are(12) still(13) a(14) few(15) things(16) wrong(17) that(18) I(19) think(20) need(21) to(22) be(23) corrected(24) .(25) 
+			<opinion polarity="+" feature="ride quality" opWords="8,9"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="2">
+			First(1) the(2) positive(3) :(4) I(5) have(6) the(7) 1999(8) SE(9) model(10) loaded(11) with(12) sunroof(13) ,(14) power(15) everything(16) ,(17) side(18) impact(19) bags(20) ,(21) leather(22) interior(23) .(24) 
+			<opinion polarity="+" feature="interior" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="3">
+			It(1) looks(2) great(3) !(4) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) drove(2) a(3) Nissan_Pathfinder(4) before(5) this(6) and(7) liked(8) that(9) but(10) felt(11) it(12) was(13) time(14) to(15) get(16) out(17) of(18) the(19) SUV(20) and(21) go(22) for(23) a(24) sporty(25) passenger(26) ((27) 4(28) door(29) )(30) car(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			The(1) ride(2) is(3) smooth(4) .(5) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Here(1) 's(2) what(3) I(4) do(5) not(6) like(7) :(8) The(9) car(10) is(11) poor(12) on(13) gas(14) mileage(15) ,(16) especially(17) around(18) town(19) .(20) 
+			<opinion polarity="-" feature="gas" featWords="14,15" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			It(1) gave(2) me(3) a(4) hard(5) time(6) starting(7) and(8) sounded(9) rough(10) -(11) like(12) it(13) was(14) going(15) to(16) choke(17) and(18) stop(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			I(1) bought(2) it(3) to(4) my(5) dealer(6) and(7) he(8) recommended(9) upping(10) my(11) gas(12) from(13) 87(14) to(15) 89(16) .(17) .(18) okay(19) that(20) helped(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) ride(2) is(3) smooth(4) but(5) the(6) seats(7) are(8) NOT(9) comfortable(10) .(11) 
+			<opinion polarity="-" feature="seat" featWords="7" opWords="9,10"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) moved(3) the(4) electric(5) seats(6) every(7) which(8) way(9) ,(10) but(11) there(12) is(13) no(14) lumbar(15) control(16) and(17) your(18) back(19) hurts(20) after(21) driving(22) for(23) an(24) hour(25) -(26) and(27) I(28) do(29) not(30) have(31) a(32) bad(33) back(34) .(35) 
+		</sentence>
+		<sentence id="11">
+			Right(1) now(2) we(3) are(4) trying(5) to(6) discover(7) why(8) the(9) rear(10) wheels(11) make(12) a(13) groaning(14) sound(15) on(16) certain(17) days(18) in(19) very(20) slow(21) speeds(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			We(1) are(2) still(3) working(4) on(5) that(6) one(7) and(8) will(9) have(10) it(11) checked(12) out(13) the(14) next(15) time(16) we(17) go(18) to(19) the(20) dealer(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			For(1) the(2) price(3) ,(4) I(5) expected(6) a_bit(7) more(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Oh(1) ,(2) and(3) PS(4) ,(5) the(6) pass(7) through(8) in(9) the(10) back(11) is(12) kind(13) of(14) useless(15) .(16) .(17) prefer(18) a(19) fold(20) down(21) back(22) seat(23) .(24) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="355" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Headphones(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) cool(2) look(3) ,(4) feel(5) great(6) ,(7) not(8) too(9) heavy(10) ,(11) excellent(12) bass(13) response(14) and(15) no(16) annoying(17) treble(18) .(19) 
+			<opinion polarity="+" feature="appearance" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="comfort" opWords="5,6"/>
+			<opinion polarity="+" feature="weight" opWords="8,9,10"/>
+			<opinion polarity="+" feature="bass" featWords="13,14" opWords="12"/>
+			<opinion polarity="+" feature="highs" featWords="18" opWords="16,17"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) they(2) are(3) great(4) !(5) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			I(1) would(2) highly(3) recommend(4) these(5) headphones(6) to(7) any(8) DJ(9) or(10) anyone(11) who(12) wants(13) some(14) cool(15) looking(16) phones(17) with(18) GOOD_BASS(19) !(20) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="appearance" opWords="15,16"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) these(4) for(5) a(6) while(7) now(8) and(9) they(10) are(11) great(12) !(13) 
+			<opinion polarity="+" feature="headphones" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) bass(2) response(3) and(4) they(5) get(6) loud(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="volume" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			They(1) have(2) awesome(3) style(4) ,(5) the(6) way(7) it(8) folds(9) up(10) is(11) cool(12) and(13) it(14) twists(15) perfectly(16) for(17) DJs(18) .(19) 
+			<opinion polarity="+" feature="appearance" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			They(1) have(2) good(3) base(4) ,(5) no(6) tin(7) sounding(8) treble(9) and(10) great(11) response(12) .(13) 
+			<opinion polarity="+" feature="bass" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="highs" featWords="9" opWords="6,7,8"/>
+			<opinion polarity="+" feature="frequency response" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			Despite(1) what(2) they(3) look(4) like(5) ,(6) wearing(7) these(8) headphones(9) for(10) a(11) long(12) amount(13) of(14) time(15) does(16) not(17) weigh(18) your(19) head(20) down(21) ,(22) they(23) are(24) pretty(25) average(26) weight(27) .(28) 
+			<opinion polarity="+" feature="weight" featWords="27" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="6">
+			They(1) sound(2) great(3) with(4) rap(5) ,(6) techno(7) ,(8) rock(9) ,(10) whatever(11) .(12) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="7">
+			Heavy(1) hitting(2) base(3) ,(4) clean(5) sound(6) and(7) good(8) treble(9) and(10) everything(11) sounds(12) very(13) very(14) clear(15) .(16) 
+			<opinion polarity="+" feature="bass" featWords="3" opWords="1,2"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="highs" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="sound quality" opWords="12,15" potency="13,14"/>
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) can(3) find(4) these(5) for(6) a(7) good(8) price(9) I(10) would(11) highly(12) recommend(13) these(14) to(15) anyone(16) .(17) 
+			<opinion polarity="+" feature="headphones" featWords="14" featRef="headphones" opWords="13" potency="12"/>
+		</sentence>
+	</text>
+</review>

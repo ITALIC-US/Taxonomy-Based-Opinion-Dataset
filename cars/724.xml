@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="724" item="1999 Subaru Legacy" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) fake(2) look(3) of(4) quality(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) to(2) drive(3) ,(4) safe(5) ,(6) AWD(7) 
+			<opinion polarity="+" feature="safety" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) repairs(2) ,(3) not(4) the(5) strongest(6) engine(7) 
+			<opinion polarity="-" feature="engine" featWords="7" opWords="4,6"/>
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) 1999(4) Legacy_Outback_Limited(5) wagon(6) as(7) the(8) "(9) second(10) car(11) "(12) to(13) help(14) keep(15) miles(16) off(17) of(18) my(19) '(20) 05(21) Jeep_Wrangler(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) with(4) just(5) a(6) shade(7) over(8) 100K(9) on(10) the(11) odometer(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			After(1) driving(2) for(3) less(4) than(5) 2K(6) ,(7) the(8) head(9) gasket(10) was(11) shot(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			No(1) biggie(2) ,(3) right(4) ?(5) 
+		</sentence>
+		<sentence id="5">
+			Well(1) it(2) turns(3) out(4) that(5) these(6) cars(7) are(8) notorious(9) for(10) head(11) gasket(12) failure(13) on(14) the(15) 2.5L(16) engine(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Some(1) Foresters(2) suffer(3) the(4) same(5) fate(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			It(1) can(2) be(3) an(4) expensive(5) fix(6) .(7) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) check(3) www.subaruproblems.com(4) before(5) making(6) a(7) purchase(8) of(9) this(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) head(2) gasket(3) issue(4) seems(5) to(6) be(7) an(8) issue(9) Subaru(10) has(11) not(12) fully(13) admitted(14) to(15) and(16) a(17) recall(18) would(19) cost(20) them(21) a_lot(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			Before(1) buying(2) a(3) used(4) one(5) ,(6) make(7) sure(8) you(9) know(10) the(11) status(12) of(13) the(14) head(15) gasket(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			I(1) 'm(2) fortunate(3) .(4) 
+		</sentence>
+		<sentence id="12">
+			Many(1) owners(2) have(3) been(4) through(5) head(6) gaskets(7) at(8) surprisingly(9) short(10) intervals(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			On(1) a(2) positive(3) note(4) ,(5) it(6) handles(7) well(8) .(9) 
+			<opinion polarity="+" feature="handling" opWords="7,8"/>
+		</sentence>
+		<sentence id="14">
+			I(1) wish(2) the(3) 2.5(4) had(5) a(6) little(7) more(8) power(9) so(10) I(11) 'm(12) glad(13) I(14) have(15) the(16) manual(17) transmission(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			The(1) automatic(2) would(3) probably(4) make(5) me(6) crazy(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 5300(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Outback_Limited(16) ,(17) 5spd(18) ,(19) leather(20) 
+		</sentence>
+	</text>
+</review>

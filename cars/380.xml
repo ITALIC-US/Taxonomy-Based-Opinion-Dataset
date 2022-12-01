@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="380" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			WOW(1) ...(2) what(3) a(4) little(5) speedster(6) !(7) ((8) I(9) guess(10) my(11) first(12) posting(13) did(14) not(15) work(16) )(17) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) handling(2) ,(3) Great_Acceleration(4) ,(5) Great(6) cornering(7) ,(8) Great(9) stability(10) .(11) 
+			<opinion polarity="+" feature="stability" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) have(2) mixed(3) feelings(4) about(5) the(6) hatchback(7) design(8) ,(9) but(10) it(11) is(12) not(13) just(14) a(15) random(16) choice(17) by(18) BMW(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			Hatchback(1) design(2) adds(3) to(4) the(5) handling(6) and(7) solid(8) ride(9) of(10) the(11) M(12) coupe(13) .(14) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) BMW_M(2) coupe(3) is(4) one(5) of(6) the(7) most(8) hottest(9) performance(10) sports(11) cars(12) out(13) on(14) the(15) market(16) right(17) now(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) lucky(3) enough(4) to(5) have(6) actually(7) driven(8) one(9) last(10) month(11) when(12) a(13) close(14) friend(15) borrowed(16) her(17) brother(18) 's(19) new(20) 2000(21) BMW_M(22) coupe(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			She(1) let(2) me(3) take(4) it(5) for(6) a(7) spin(8) ,(9) and(10) it(11) was(12) the(13) most(14) exciting(15) 30(16) minutes(17) of(18) my(19) life(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Even_though(1) I(2) am(3) not(4) a(5) very(6) skilled(7) manual-stick(8) driver(9) ,(10) the(11) gears(12) and(13) clutch(14) were(15) very(16) smooth(17) and(18) not(19) too(20) hard(21) or(22) soft(23) but(24) just(25) right(26) .(27) 
+			<opinion polarity="+" feature="clutch" featWords="14" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="5">
+			The(1) M(2) coupe(3) is(4) very(5) easy(6) to(7) drive(8) ,(9) but(10) most(11) people(12) think(13) opposite(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			They(1) think(2) all(3) sports(4) cars(5) are(6) supposed(7) to(8) be(9) hard(10) to(11) drive(12) with(13) very(14) hard(15) cluthes(16) ,(17) but(18) not(19) with(20) the(21) M(22) coupe(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) a(3) car(4) that(5) one(6) can(7) drive(8) around(9) town(10) as_well(11) as(12) on(13) the(14) open(15) highway(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			This(1) car(2) has(3) been(4) designed(5) with(6) the(7) driver(8) 's(9) comfort(10) in(11) mind(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			All(1) the(2) gauges(3) and(4) controls(5) are(6) laid(7) out(8) for(9) easy(10) access(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) is(3) quite(4) tight(5) ,(6) but(7) the(8) interior(9) design(10) is(11) just(12) perfect(13) for(14) two(15) people(16) .(17) 
+			<opinion polarity="+" feature="design" featWords="10" opWords="13"/>
+		</sentence>
+		<sentence id="11">
+			The(1) seats(2) have(3) great(4) back(5) support(6) and(7) the(8) bucket(9) seats(10) really(11) grip(12) your(13) body(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			The(1) seats(2) are(3) suitable(4) for(5) long(6) drives(7) because(8) the(9) support(10) is(11) just(12) amazing(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) has(3) incredible(4) power(5) ,(6) and(7) all(8) 240(9) horses(10) are(11) at(12) your(13) every(14) command(15) .(16) 
+			<opinion polarity="+" feature="horsepower" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) accelerator(2) is(3) very(4) responsive(5) ,(6) and(7) the(8) handling(9) is(10) superb(11) .(12) 
+			<opinion polarity="+" feature="handling" featWords="9" opWords="11"/>
+			<opinion polarity="+" feature="response" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) M(2) coupe(3) will(4) make(5) you(6) feel(7) like(8) you(9) can(10) attack(11) any(12) corner(13) at(14) incredible(15) speeds(16) .(17) 
+			<opinion polarity="+" feature="speed" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="16">
+			The(1) design(2) of(3) the(4) chassis(5) gives(6) the(7) car(8) a(9) really(10) sturdy(11) ride(12) .(13) 
+			<opinion polarity="+" feature="ride quality" featWords="12" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="17">
+			BMW(1) did(2) not(3) just(4) decide(5) to(6) make(7) the(8) M(9) coupe(10) a(11) hatchback(12) for(13) the(14) heck(15) of(16) it(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			Hatchback(1) designs(2) have(3) much(4) better(5) handling(6) because_of(7) tight(8) stance(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) thick(2) rubbers(3) also(4) help(5) out(6) the(7) gripping(8) effort(9) on(10) turns(11) and(12) corners(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) M(2) coupe(3) also(4) has(5) quite(6) a(7) low(8) stance(9) that(10) adds(11) to(12) the(13) handling(14) capabilities(15) of(16) the(17) car(18) .(19) 
+		</sentence>
+		<sentence id="21">
+			The(1) shocks(2) and(3) springs(4) setup(5) are(6) quite(7) tight(8) and(9) sometimes(10) do(11) not(12) soak(13) in(14) bumps(15) ,(16) but(17) what(18) can(19) you(20) expect(21) from(22) a(23) car(24) that(25) handles(26) as_well(27) as(28) this(29) .(30) 
+		</sentence>
+		<sentence id="22">
+			The(1) shocks(2) are(3) definitely(4) made(5) for(6) racing(7) and(8) cornering(9) ,(10) therefore(11) you(12) should(13) take(14) it(15) a(16) little(17) slow(18) on(19) streets(20) that(21) have(22) alot(23) of(24) potholes(25) and(26) bumps(27) .(28) 
+			<opinion polarity="-" feature="speed" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="23">
+			Many(1) people(2) have(3) mixed(4) feelings(5) about(6) the(7) look(8) of(9) the(10) M(11) coupe(12) ,(13) but(14) no(15) one(16) has(17) second(18) doubts(19) about(20) the(21) performance(22) of(23) this(24) vehicle(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			I(1) personally(2) love(3) the(4) style(5) and(6) lines(7) of(8) this(9) vehicle(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="25">
+			The(1) wheels(2) with(3) the(4) low(5) profile(6) rubbers(7) give(8) it(9) the(10) final(11) sporty(12) touch(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			The(1) front(2) head(3) lights(4) have(5) a(6) projector(7) scheme(8) that(9) can(10) be(11) summed(12) up(13) as(14) just(15) "(16) perfect(17) .(18) "(19) I(20) believe(21) my(22) friend(23) 's(24) brother(25) bought(26) his(27) M(28) coupe(29) for(30) 40,000(31) after(32) taxes(33) .(34) 
+		</sentence>
+		<sentence id="27">
+			He(1) obviously(2) got(3) a(4) good(5) deal(6) .(7) 
+		</sentence>
+		<sentence id="28">
+			SO(1) if(2) you(3) are(4) looking(5) for(6) a(7) practical(8) performance(9) machine(10) ,(11) definitely(12) consider(13) the(14) M(15) coupe(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) M(2) coupe(3) has(4) incredible(5) gas(6) mileage(7) for(8) a(9) car(10) with(11) 240(12) horses(13) produced(14) by(15) an(16) inline(17) -(18) 6(19) .(20) 
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="30">
+			But(1) ,(2) it(3) is(4) pretty(5) hard(6) not(7) to(8) push(9) this(10) car(11) hard(12) ,(13) which(14) hurts(15) gas(16) mileage(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			This(1) car(2) has(3) the(4) quality(5) and(6) reliability(7) of(8) all(9) BMW(10) cars(11) ,(12) and(13) it(14) has(15) a(16) rather(17) good(18) value(19) .(20) 
+		</sentence>
+	</text>
+</review>

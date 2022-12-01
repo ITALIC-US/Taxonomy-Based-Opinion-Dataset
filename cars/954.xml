@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="954" item="1999 Dodge Caravan" rating="1">
+	<title>
+		<sentence id="1">
+			1999(1) Dodoge_Grand_Caravan_All_Wheel_Drive(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Made(1) it(2) through(3) the(4) snow(5) as(6) long(7) as(8) the(9) engine(10) did(11) not(12) blow(13) .(14) 
+			<opinion polarity="+" feature="engine" featWords="10" opWords="12,13"/>
+		</sentence>
+		<sentence id="2">
+			Liked(1) the(2) "(3) toys(4) "(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) ...(2) engine(3) ...(4) engine(5) .(6) .(7) oh(8) yeah(9) and(10) engine(11) =(12) )(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Never(1) unless(2) you(3) have(4) a(5) warranty(6) to(7) have(8) new(9) engine(10) every(11) 12(12) months(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) my(3) caravan(4) used(5) in_2003(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			The(1) dealer(2) said(3) they(4) put(5) in(6) a(7) "(8) new(9) "(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) van(2) had(3) approx(4) 60K(5) on(6) it(7) at(8) the(9) time(10) of(11) purchase(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) drove(2) the(3) van(4) for(5) about(6) a(7) year(8) and(9) had(10) to(11) sink(12) another(13) 1500.00(14) engine(15) into(16) it(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) dealer(2) gave(3) me(4) a(5) "(6) deal(7) "(8) on(9) the(10) engine(11) and(12) a(13) 30(14) day(15) warranty(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			I(1) drove(2) this(3) time(4) for(5) about(6) a(7) year(8) and(9) a_half(10) and(11) now(12) the(13) engine(14) has(15) a(16) rod(17) really(18) knocking(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) dealer(2) says(3) they(4) will(5) give(6) me(7) another(8) "(9) deal(10) "(11) and(12) Dodge(13) says(14) too(15) bad(16) so(17) sad(18) ,(19) your(20) out(21) of(22) warranty(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) first(2) time(3) the(4) engine(5) went(6) ,(7) and(8) I(9) paid(10) for(11) it(12) ,(13) the(14) dealer(15) informed(16) me(17) that(18) it(19) was(20) only(21) in(22) for(23) service(24) once(25) and(26) that(27) was(28) the(29) reason(30) for(31) the(32) cam(33) shaft(34) going(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			I(1) told(2) them(3) I(4) was(5) not(6) going(7) to(8) pay(9) them(10) $50(11) for(12) something(13) I(14) can(15) do(16) for(17) $20(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			I(1) think(2) that(3) was(4) the(5) reason(6) for(7) the(8) deal(9) on(10) the(11) second(12) engine(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			They(1) were(2) not(3) making(4) any(5) service(6) money(7) off(8) of(9) me(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			I(1) live(2) in(3) Michigan(4) and(5) commute(6) about(7) 500_miles(8) a(9) week(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			The(1) reason(2) for(3) buying(4) all(5) wheel(6) drive(7) was(8) because_of(9) the(10) Michigan(11) winters(12) and(13) highway(14) driving(15) during(16) the(17) snowstorms(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Now_I(1) will(2) be(3) going(4) to(5) a(6) Chevy(7) dealer(8) and(9) hopefully(10) will(11) get(12) better(13) service(14) seems(15) how(16) Dodge(17) does(18) not(19) care(20) about(21) good(22) customers(23) !(24) !(25) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9995(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) grand(16) caravan(17) all(18) wheel(19) drive(20) 
+		</sentence>
+	</text>
+</review>

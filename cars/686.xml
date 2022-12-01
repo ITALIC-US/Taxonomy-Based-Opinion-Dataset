@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="686" item="2000 Chrysler 300M" rating="3">
+	<title>
+		<sentence id="1">
+			Overrated(1) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) cool(2) ,(3) handles(4) great(5) ,(6) nifty(7) dashboard(8) .(9) 
+			<opinion polarity="+" feature="dash" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="handling" opWords="4,5"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Nice(1) for(2) the(3) weekend(4) road(5) trip(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) visibility(2) ,(3) lagging(4) transmission(5) ,(6) no(7) skip-protection(8) on(9) the(10) CD(11) player(12) .(13) 
+			<opinion polarity="-" feature="transmission" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="visibility" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) handling(6) go(7) to(8) BMW(9) ....(10) if(11) you(12) 're(13) looking(14) for(15) comfort(16) go(17) to(18) Cadillac(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) car(2) is(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			I(1) love(2) being(3) able(4) to(5) sit(6) cross-legged(7) in(8) the(9) front(10) passenger(11) seat(12) ((13) I(14) 'm(15) 6(16) '(17) )(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) very(3) quiet(4) and(5) with(6) the(7) handling(8) package(9) ,(10) taking(11) curves(12) at(13) high(14) speed(15) is(16) great(17) fun(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="18"/>
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) I(3) could(4) never(5) actually(6) see(7) the(8) front(9) /(10) back(11) /(12) sides(13) of(14) the(15) car(16) b(17) /(18) c(19) of(20) the(21) high(22) profile(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			There(1) 's(2) a(3) HUGE(4) blind(5) spot(6) over(7) the(8) driver(9) 's(10) right(11) shoulder(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) autostick(2) feels(3) like(4) nothing(5) more(6) than(7) it(8) is(9) ...(10) manually(11) shifting(12) an(13) automatic(14) transmission(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) slope(2) of(3) the(4) windshield(5) is(6) such(7) that(8) when(9) driving(10) into(11) the(12) sun(13) ,(14) the(15) sun(16) creates(17) a(18) reflection(19) off(20) the(21) dashboard(22) that(23) is(24) very(25) difficult(26) to(27) see(28) through(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			The(1) leather(2) and(3) wood(4) are(5) nice(6) but(7) the(8) first(9) is(10) a(11) stiff(12) ,(13) even(14) with(15) wear(16) it(17) does(18) not(19) soften(20) much(21) ,(22) and(23) the(24) latter(25) has(26) a(27) plastic(28) feel(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) trunk(2) is(3) HUGE(4) but(5) the(6) height(7) of(8) the(9) opening(10) is(11) so(12) small(13) that(14) you(15) 're(16) limited(17) to(18) ,(19) at(20) most(21) ,(22) four(23) large(24) packages(25) to(26) fill(27) the(28) space(29) .(30) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Lastly(1) ,(2) if(3) you(4) like(5) to(6) drive(7) with(8) your(9) window(10) cracked(11) open(12) for(13) air(14) ...(15) do(16) not(17) do(18) it(19) in(20) the(21) rain(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			On(1) every(2) turn(3) the(4) water(5) runs(6) out(7) of(8) the(9) roof(10) gutters(11) and(12) drops(13) straight(14) on(15) the(16) armrest(17) soaking(18) your(19) arm(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Overall(1) it(2) 's(3) a(4) fun(5) car(6) to(7) drive(8) but(9) it(10) does(11) not(12) have(13) the(14) solidness(15) of(16) european(17) cars(18) or(19) the(20) economy(21) of(22) japanese(23) cars(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

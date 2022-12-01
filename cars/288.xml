@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="288" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Really(1) great(2) car(3) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth_Ride(1) and(2) Engine(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) mileage(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) find(3) one(4) ,(5) buy(6) it(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" featRef="car" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) Maxima(4) used(5) ((6) off(7) lease(8) )(9) about(10) three(11) years(12) ago(13) and(14) I(15) really(16) have(17) enjoyed(18) it(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			It(1) drives(2) very(3) smoothly(4) and(5) the(6) engine(7) just(8) purrs(9) .(10) 
+			<opinion polarity="+" feature="ride quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			It(1) does(2) have(3) a(4) few(5) minor(6) quirks(7) ,(8) but(9) they(10) are(11) nothing(12) serious(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) driven(3) on(4) the(5) highway(6) and(7) on(8) city(9) streets(10) and(11) it(12) performs(13) well(14) in(15) either(16) capacity(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) problem(3) that(4) I(5) have(6) had(7) is(8) with(9) the(10) oxygen(11) sensor(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			It(1) caused(2) my(3) "(4) check(5) engine(6) "(7) light(8) to(9) come(10) on(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Shortly(1) after(2) this(3) ,(4) I(5) got(6) a(7) voluntary(8) recall(9) letter(10) from(11) Nissan(12) and(13) the(14) problem(15) was(16) fixed(17) immediately(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) con(3) I(4) can(5) find(6) with(7) the(8) car(9) is(10) the(11) gas(12) mileage(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			It(1) gets(2) decent(3) mileage(4) ,(5) but(6) it(7) uses(8) premium(9) gas(10) .(11) 
+			<opinion polarity="+" feature="gas" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			With(1) the(2) high(3) prices(4) this(5) past(6) summer(7) ,(8) I(9) became(10) very(11) aware(12) of(13) the(14) weakness(15) in(16) this(17) area(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Overall(1) though(2) ,(3) I(4) would(5) definitely(6) recommend(7) this(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) GXE(16) 
+		</sentence>
+	</text>
+</review>

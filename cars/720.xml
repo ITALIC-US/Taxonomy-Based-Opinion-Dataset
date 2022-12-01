@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="720" item="1993 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) All(2) its(3) Cracked_Up(4) to(5) Be(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			looks(1) good(2) especially(3) with(4) tint(5) .(6) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			read(1) the(2) review(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) get(3) a(4) Camry(5) ,(6) do(7) not(8) get(9) the(10) SE(11) version(12) unless(13) its(14) a(15) manual(16) transmission(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) a(3) '(4) 91(5) Camry_DX(6) ,(7) and(8) I(9) absolutly(10) loved(11) it(12) ,(13) but(14) it(15) had(16) some(17) rust(18) ,(19) so(20) i(21) wanted(22) a(23) car(24) that(25) looked(26) a(27) little(28) better(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="12" featRef="car" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			I(1) saw(2) a(3) '(4) 93(5) Camry_SE(6) V6(7) ,(8) and(9) I(10) said(11) to(12) myself(13) this(14) car(15) is(16) going(17) to(18) be(19) exactly(20) like(21) my(22) 91(23) ,(24) just(25) bigger(26) ,(27) newer(28) ,(29) and(30) more(31) powerful(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) sunroof(4) ,(5) 4(6) wheel(7) disc(8) brakes(9) ,(10) ABS(11) ,(12) everything(13) I(14) wanted(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			But(1) for(2) being(3) 2(4) years(5) newer(6) ,(7) I(8) was(9) upset(10) to(11) find(12) out(13) that(14) 1(15) )(16) 2(17) days(18) after(19) buying(20) it(21) it(22) needed(23) a(24) new(25) radiator(26) ,(27) transmission(28) seal(29) ,(30) and(31) water(32) pump(33) .(34) ,(35) which(36) added(37) up(38) to(39) $900(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			I(1) just(2) go(3) outside(4) ,(5) turn(6) it(7) on(8) ,(9) and(10) trans(11) fluid(12) and(13) motor(14) oil(15) gush(16) all(17) over(18) the(19) driveway(20) .(21) 2(22) )(23) It(24) also(25) needed(26) new(27) motor(28) mounts(29) ,(30) which(31) cost(32) me(33) $400(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			And(1) 3(2) )(3) It(4) still(5) needs(6) all(7) new(8) shocks(9) ,(10) every(11) time(12) I(13) go(14) over(15) a(16) speed(17) bump(18) ,(19) no(20) matter(21) how(22) slowly(23) ,(24) it(25) clunks(26) on(27) every(28) wheel(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) not(3) afford(4) that(5) though(6) I(7) 'm(8) still(9) paying(10) of(11) the(12) other(13) things(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) if(3) I(4) am(5) stopped(6) at(7) a(8) red(9) light(10) with(11) the(12) a(13) /(14) c(15) on(16) ,(17) which(18) by(19) the(20) way(21) sucks(22) it(23) isnt(24) even(25) that(26) cold(27) ,(28) the(29) temp(30) gauge(31) starts(32) to(33) go(34) up(35) and(36) it(37) will(38) probably(39) over(40) heat(41) if(42) I(43) just(44) continued(45) sitting(46) there(47) .(48) 
+		</sentence>
+		<sentence id="9">
+			Auto(1) trans(2) shifts(3) VERY(4) hard(5) ,(6) in(7) traffic(8) it(9) will(10) downshift(11) to(12) first(13) and(14) I(15) will(16) almost(17) crash(18) because(19) it(20) will(21) speed(22) up(23) on(24) its(25) own(26) when(27) it(28) does(29) that(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) the(3) seats(4) are(5) very(6) uncomfortable(7) ,(8) and(9) there(10) is(11) a(12) metal(13) bar(14) running(15) across(16) the(17) whole(18) seat(19) right(20) where(21) my(22) lower(23) back(24) rests(25) ,(26) so(27) I(28) have(29) to(30) make(31) the(32) seat(33) very(34) straight(35) up(36) so(37) I(38) do(39) not(40) feel(41) it(42) .(43) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) it(3) has(4) a(5) 3L(6) V6(7) ,(8) but(9) it(10) will(11) not(12) even(13) keep(14) up(15) with(16) a(17) 2000(18) Sentra_GXE(19) with(20) a(21) 1.8L(22) 4(23) cyl(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			I(1) do(2) not(3) race(4) it(5) ,(6) but(7) thats(8) pretty(9) slow(10) for(11) paying(12) $200(13) a(14) month(15) in(16) gas(17) to(18) have(19) a(20) V6(21) .(22) 
+			<opinion polarity="-" feature="speed" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $4100(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) SE(16) V6(17) ,(18) Auto(19) ,(20) Sunroof(21) ,(22) ABS(23) ,(24) 4(25) wheel(26) disc(27) brakes(28) 
+		</sentence>
+	</text>
+</review>

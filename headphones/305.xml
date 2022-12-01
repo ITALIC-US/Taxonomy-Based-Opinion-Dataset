@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="305" item="Sennheiser HD 202 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Disappointing(1) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			decent(1) build(2) quality(3) ,(4) good(5) bass(6) response(7) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="6,7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			VERY(1) uncomfortable(2) ,(3) especially(4) if(5) you(6) have(7) a(8) big(9) head(10) .(11) too(12) much(13) bass(14) ,(15) not(16) enough(17) highs(18) 
+			<opinion polarity="-" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) got(2) these(3) based(4) on(5) all(6) the(7) glowing(8) reviews(9) I(10) read(11) ,(12) but(13) what(14) I(15) got(16) was(17) less(18) than(19) expected(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			First(1) off(2) ,(3) I(4) have(5) a(6) big(7) head(8) and(9) small(10) ears(11) -(12) for(13) my(14) head(15) ,(16) they(17) were(18) VERY(19) uncomfotable(20) .(21) 
+			<opinion polarity="-" feature="comfort" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="3">
+			They(1) exert(2) way(3) too(4) much(5) pressure(6) on(7) the(8) head(9) and(10) the(11) ear(12) cups(13) are(14) not(15) big(16) enough(17) to(18) envelop(19) the(20) ear(21) ,(22) but(23) rather(24) press(25) on(26) it(27) ((28) double(29) bad(30) for(31) me(32) cause(33) I(34) wear(35) glasses(36) too(37) )(38) .(39) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) more(3) importantly(4) ,(5) the(6) sound(7) quality(8) has(9) a(10) very(11) boomy(12) dull(13) quality(14) to(15) it(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			There(1) seems(2) to(3) be(4) quite(5) a(6) peak(7) in(8) the(9) bass(10) and(11) not(12) enough(13) highs(14) .(15) .(16) it(17) sounds(18) like(19) the(20) response(21) has(22) a(23) downward(24) sloping(25) curve(26) to(27) its(28) response(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			This(1) would(2) probabl(3) work(4) well(5) for(6) rap(7) and(8) some(9) pop(10) ,(11) but(12) on(13) other(14) types(15) of(16) music(17) and(18) movies(19) the(20) bass(21) simply(22) drowns(23) out(24) the(25) rest(26) of(27) the(28) frequencies(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			To(1) be(2) fair(3) ,(4) these(5) are(6) fairly(7) inexpensive(8) and(9) the(10) sound(11) OK(12) .(13) 
+			<opinion polarity="+" feature="price" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="sound quality" opWords="11,12"/>
+		</sentence>
+		<sentence id="8">
+			I(1) just(2) think(3) many(4) tinny(5) KSC75(6) koss(7) ,(8) and(9) various(10) in-ear(11) things(12) sound(13) better(14) even_though(15) they(16) cant(17) reproduce(18) bass(19) as(20) nicely(21) .(22) 
+		</sentence>
+	</text>
+</review>

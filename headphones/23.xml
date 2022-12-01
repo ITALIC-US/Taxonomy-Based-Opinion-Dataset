@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="23" item="Grado SR80 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Overrated(1) and(2) uncomfortable(3) .(4) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sweet(1) sound(2) .(3) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Painful(1) design(2) .(3) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Though(1) the(2) Grado(3) SR-80(4) 's(5) have(6) long(7) enjoyed(8) a(9) favorable(10) reputation(11) among(12) audiophiles(13) ,(14) it(15) 's(16) difficult(17) for(18) me(19) to(20) understand(21) why(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			They(1) 're(2) the(3) most(4) uncomfortable(5) headphones(6) I(7) 've(8) ever(9) used(10) ;(11) wearing(12) the(13) Grado(14) SR-80(15) 's(16) is(17) like(18) putting(19) your(20) head(21) in(22) a(23) vice(24) .(25) 
+			<opinion polarity="-" feature="comfort" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			While(1) the(2) earpieces(3) pivot(4) on(5) two(6) points(7) ,(8) the(9) metal(10) headband(11) pinches(12) the(13) earpieces(14) tightly(15) against(16) your(17) skull(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			My(1) jawbone(2) actually(3) hurt(4) for(5) two(6) days(7) after(8) my(9) first(10) prolonged(11) listening(12) session(13) with(14) the(15) Grados(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) way(3) of(4) adjusting(5) the(6) pressure(7) is(8) by(9) bending(10) the(11) metal(12) headband(13) ,(14) which(15) runs(16) the(17) risk(18) of(19) rendering(20) it(21) so(22) loose(23) that(24) the(25) phones(26) will(27) slip(28) off(29) your(30) head(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			While(1) the(2) SR-80(3) 's(4) 32(5) ohm(6) impedance(7) matches(8) the(9) output(10) of(11) most(12) Walkman(13) /(14) Discmans(15) ,(16) the(17) fact(18) that(19) foam(20) earpieces(21) fall(22) off(23) so(24) easily(25) makes(26) them(27) unsuitable(28) for(29) portable(30) use(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) the(3) open-air(4) design(5) does(6) not(7) shut(8) any(9) ambient(10) noise(11) out(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Even(1) the(2) sound(3) of(4) a(5) humidifier(6) running(7) in(8) the(9) next(10) room(11) can(12) be(13) clearly(14) heard(15) while(16) using(17) the(18) headphones(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Given(1) these(2) extreme(3) caveats(4) ,(5) I(6) concede(7) that(8) the(9) Grado(10) SR-80(11) 's(12) sonic(13) performance(14) is(15) very(16) good(17) ,(18) with(19) a(20) rich(21) midrange(22) ,(23) smooth(24) ,(25) detailed(26) treble(27) ,(28) lifelike(29) reproduction(30) of(31) percussion(32) ,(33) excellent(34) transients(35) ,(36) and(37) decent(38) bass(39) extension(40) .(41) 
+			<opinion polarity="+" feature="performance" featWords="14" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="mids" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="highs" featWords="27" opWords="24"/>
+			<opinion polarity="+" feature="highs" featWords="27" opWords="26"/>
+			<opinion polarity="+" feature="bass" featWords="39" opWords="38"/>
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) sonic(3) attribute(4) I(5) found(6) wanting(7) is(8) the(9) sense(10) of(11) a(12) "(13) inside(14) your(15) head(16) "(17) soundstage(18) that(19) the(20) more(21) expensive(22) Sennheisers(23) provide(24) ;(25) I(26) found(27) myself(28) conscious(29) of(30) the(31) fact(32) that(33) particular(34) instruments(35) were(36) coming(37) from(38) either(39) the(40) left(41) or(42) right(43) side(44) .(45) 
+		</sentence>
+	</text>
+</review>

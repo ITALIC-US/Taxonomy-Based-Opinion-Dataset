@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="33" item="Ultimate Ears super.fi 3 Studio�?� Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Definitely(1) a(2) return(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) if(3) pushed(4) in(5) and(6) held(7) in(8) ear(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) bass(2) ,(3) too(4) long(5) cord(6) ,(7) terrible(8) ear(9) bud(10) .(11) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="cord" featWords="6" opWords="4,5"/>
+			<opinion polarity="-" feature="earbuds" featWords="9,10" opWords="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) plopped(3) down(4) $100(5) for(6) these(7) at(8) Radio_Shack(9) and(10) they(11) are(12) going(13) right(14) back(15) there(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) wish(2) stores(3) would(4) let(5) you(6) try(7) out(8) headphones(9) in(10) store(11) instead_of(12) going(13) through(14) this(15) exchange(16) game(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			These(1) things(2) have(3) three(4) glaring(5) problems(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			First(1) ,(2) the(3) sound(4) is(5) tinny(6) unless(7) they(8) are(9) completely(10) down(11) your(12) ear(13) canal(14) ((15) i(16) .(17) e(18) .(19) if(20) you(21) push(22) them(23) in(24) and(25) hold(26) them(27) then(28) ,(29) yes(30) ,(31) they(32) sound(33) pretty(34) good(35) ,(36) but(37) not(38) $100(39) good(40) )(41) ;(42) once(43) you(44) let(45) go(46) ,(47) the(48) lack(49) of(50) pressure(51) ruins(52) the(53) sound(54) .(55) 
+			<opinion polarity="-" feature="sound quality" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="sound quality" featWords="33" opWords="35" potency="34"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bass(2) was(3) terrible(4) ;(5) I(6) put(7) on(8) a(9) simple(10) rap(11) song(12) ((13) Gangsta_'s_Paradise(14) )(15) and(16) the(17) bass(18) sounded(19) like(20) that(21) you(22) 'd(23) get(24) from(25) a(26) blown(27) speaker(28) .(29) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) to(3) adjust(4) the(5) bass(6) to(7) -(8) 5(9) ,(10) which(11) only(12) made(13) it(14) more(15) tinny(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Second(1) ,(2) I(3) defy(4) anyone(5) to(6) put(7) on(8) the(9) smaller(10) ear(11) buds(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) set(2) comes(3) with(4) six(5) pairs(6) to(7) custom(8) fit(9) ,(10) and(11) I(12) gave(13) up(14) trying(15) to(16) get(17) the(18) smaller(19) two(20) on(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			I(1) spent(2) 20(3) minutes(4) ,(5) tried(6) numerous(7) tricks(8) ,(9) and(10) then(11) just(12) said(13) ,(14) "(15) To(16) h-ll(17) with(18) it(19) .(20) "(21) I(22) should(23) not(24) have(25) to(26) go(27) through(28) this(29) for(30) $100(31) ear(32) buds(33) !(34) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="235" item="RCA WHP160T Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) too(2) comfortable(3) 
+			<opinion polarity="-" feature="comfort" opWords="1,2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Chargable_Autotune_Lots(1) of(2) status(3) lights(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) uncomfortable(2) .(3) 
+			<opinion polarity="-" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Range(1) is(2) bad(3) Lots(4) of(5) interferrence(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Thought(1) this(2) was(3) a(4) good(5) deal(6) on(7) Ebay(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Transmitter(1) is(2) not(3) very(4) good(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Seems(1) to(2) always(3) be(4) breaking(5) up(6) ,(7) but(8) at_least(9) it(10) has(11) an(12) autotune(13) so(14) you(15) dont(16) have(17) to(18) adjust(19) any(20) knobs(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			The(1) headphones(2) seem(3) to(4) be(5) too(6) tight(7) ;(8) the(9) headband(10) part(11) is(12) too(13) small(14) and(15) is(16) too(17) rigid(18) so(19) it(20) does(21) not(22) give(23) much(24) .(25) 
+			<opinion polarity="-" feature="comfort" opWords="6,7"/>
+			<opinion polarity="-" feature="headband" featWords="10" opWords="13,14"/>
+			<opinion polarity="-" feature="headband" featWords="10" opWords="17,18"/>
+		</sentence>
+		<sentence id="5">
+			It(1) feels(2) like(3) somebody(4) squishing(5) to(6) plates(7) against(8) your(9) ears(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			The(1) cups(2) are(3) not(4) really(5) cushioned(6) or(7) padded(8) ,(9) just(10) a(11) little(12) bit(13) of(14) thin(15) screening(16) and(17) then(18) hard(19) plastic(20) .(21) 
+			<opinion polarity="-" feature="earcups" featWords="2" opWords="4,6" potency="5"/>
+			<opinion polarity="-" feature="earcups" featWords="2" opWords="4,8" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) a(3) pretty(4) cheap(5) item(6) ,(7) so(8) if(9) price(10) is(11) your(12) main(13) thing(14) ,(15) go(16) for(17) it(18) ,(19) but(20) dont(21) expect(22) much(23) .(24) 
+			<opinion polarity="+" feature="price" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) foldup(2) earcups(3) dont(4) do(5) much(6) but(7) make(8) it(9) hard(10) to(11) take(12) the(13) headphones(14) on(15) and(16) off(17) becuase(18) they(19) are(20) always(21) moving(22) around(23) .(24) 
+		</sentence>
+	</text>
+</review>

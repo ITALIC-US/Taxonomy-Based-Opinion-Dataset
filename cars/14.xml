@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="14" item="1998 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			I_Have_Been_Waiting(1) for(2) this(3) Car(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beauty(1) ,(2) comfort(3) ,(4) safety(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) did(2) not(3) plan(4) to(5) buy(6) this(7) car(8) ,(9) but(10) when(11) I(12) saw(13) it(14) I(15) knew(16) it(17) was(18) THE(19) car(20) I(21) had(22) been(23) waiting(24) for(25) !(26) 
+		</sentence>
+		<sentence id="2">
+			I(1) love(2) the(3) easy(4) comfortable(5) ride(6) .(7) 
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="2"/>
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			The(1) visibility(2) out(3) the(4) front(5) and(6) sides(7) is(8) great(9) too(10) .(11) 
+			<opinion polarity="+" feature="visibility" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			I(1) never(2) feel(3) like(4) I(5) have(6) a(7) restricted(8) view(9) .(10) 
+			<opinion polarity="-" feature="visibility" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			It(1) took(2) awhile(3) to(4) learn(5) all(6) the(7) gadgets(8) ,(9) but(10) they(11) are(12) all(13) very(14) handy(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) love(2) the(3) digital(4) oil(5) gauge(6) measure(7) and(8) the(9) gas(10) mileage(11) indicator(12) .(13) 
+			<opinion polarity="+" feature="gauges" featWords="12" opWords="2"/>
+			<opinion polarity="+" feature="gauges" featWords="6" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) the(3) first(4) time(5) I(6) have(7) had(8) a(9) remote(10) keyless(11) lock(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			That(1) is(2) a(3) great(4) feature(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			The(1) sleekness(2) of(3) the(4) body(5) of(6) the(7) car(8) is(9) very(10) attractive(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) the(3) first(4) thing(5) that(6) I(7) noticed(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			Once(1) I(2) drove(3) the(4) car(5) however(6) ,(7) I(8) was(9) hooked(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			I(1) feel(2) safe(3) in(4) this(5) car(6) .(7) 
+			<opinion polarity="+" feature="safety" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) a(3) substantially(4) built(5) solid(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="14">
+			With(1) the(2) tire(3) pressure(4) monitored(5) I(6) also(7) feel(8) safe(9) on(10) the(11) road(12) ,(13) knowing(14) I(15) may(16) not(17) have(18) a(19) flat(20) tire(21) without(22) some(23) warning(24) .(25) 
+			<opinion polarity="+" feature="safety" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) any(7) age(8) person(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			Being(1) middle(2) aged(3) ,(4) I(5) was(6) ready(7) for(8) this(9) classy(10) car(11) for(12) a(13) comfortable(14) ride(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="ride quality" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="17">
+			I(1) can(2) picture(3) myself(4) driving(5) this(6) car(7) for(8) years(9) .(10) 
+		</sentence>
+	</text>
+</review>

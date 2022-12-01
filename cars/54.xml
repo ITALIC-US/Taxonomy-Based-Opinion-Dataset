@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="54" item="2003 Mercury Marauder" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) great(2) idea(3) ,(4) a(5) decent(6) start(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Darth_Vader(1) presence(2) ,(3) nice(4) engine(5) growl(6) ,(7) yet(8) very(9) comfortable(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Perhaps(1) a_bit(2) underpowered(3) .(4) 
+			<opinion polarity="-" feature="horsepower" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Needs(1) a_bit(2) more(3) bite(4) to(5) go(6) with(7) the(8) bark(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Powerful(1) ,(2) Aggressive(3) ,(4) Large(5) and(6) Roomy(7) .(8) 
+			<opinion polarity="+" feature="room" opWords="7"/>
+			<opinion polarity="+" feature="size" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) Marauder(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			A_bit(1) underpowered(2) for(3) my(4) tastes(5) ,(6) given(7) the(8) price(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Having(1) just(2) returned(3) from(4) the(5) local(6) dealership(7) ,(8) I(9) write(10) with(11) a(12) near(13) present(14) sense(15) impression(16) of(17) the(18) car(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			Let(1) 's(2) face(3) it(4) ,(5) you(6) are(7) looking(8) at(9) the(10) Marauder(11) because_of(12) its(13) intrinsic(14) ability(15) to(16) frighten(17) onlookers(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Or(1) maybe(2) that(3) 's(4) just(5) me(6) ...(7) Black(8) paint(9) ,(10) black(11) bumpers(12) ,(13) blacked(14) out(15) lights(16) ,(17) blacked(18) out(19) grill(20) ,(21) dark(22) mono-chromatic(23) interior(24) colors(25) ...(26) Mercury(27) is(28) stretching(29) to(30) free(31) itself(32) of(33) the(34) Grandpa(35) image(36) of(37) the(38) Grand_Marquis(39) ,(40) and(41) this(42) is(43) a(44) step(45) in(46) the(47) right(48) direction(49) .(50) 
+		</sentence>
+		<sentence id="4">
+			While(1) not(2) perfect(3) by(4) any(5) means(6) ,(7) I(8) look(9) forward(10) to(11) augmentations(12) and(13) variations(14) on(15) this(16) theme(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			THE(1) DRIVE(2) .(3) 
+		</sentence>
+		<sentence id="6">
+			The(1) dealer(2) tossed(3) me(4) the(5) keys(6) practically(7) before(8) I(9) got(10) out(11) of(12) my(13) car(14) ;(15) he(16) saw(17) me(18) coming(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			After(1) sinking(2) into(3) the(4) front(5) seats(6) ((7) they(8) are(9) very(10) well(11) padded(12) )(13) ,(14) I(15) immediately(16) rolled(17) down(18) the(19) windows(20) ;(21) I(22) wanted(23) to(24) hear(25) the(26) voice(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			While(1) I(2) am(3) no(4) fan(5) of(6) those(7) punks(8) who(9) augment(10) exhaust(11) on(12) Jap(13) pocket(14) rockets(15) ,(16) I(17) wanted(18) to(19) hear(20) a(21) true(22) throaty(23) V8(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) satisfied(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			Not(1) a(2) loud(3) Cobra(4) growl(5) ,(6) nor(7) the(8) absent(9) purr(10) of(11) a(12) Crown_Vic(13) ,(14) Marauder(15) gave(16) a(17) dignified(18) but(19) charging(20) growl(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			I(1) gave(2) her(3) a(4) thorough(5) sprinting(6) .(7) 0(8) to(9) 75(10) in(11) a(12) short(13) jaunt(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			You(1) can(2) actually(3) feel(4) the(5) high(6) stall(7) torque(8) converter(9) kicking(10) in(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) this(3) is(4) no(5) sports(6) car(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Given(1) the(2) size(3) ,(4) she(5) moves(6) well(7) enough(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			I(1) expected(2) more(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			But(1) maybe(2) because(3) I(4) hear(5) of(6) Mercury(7) 's(8) plan(9) to(10) bolt(11) a(12) charger(13) under(14) the(15) hood(16) for(17) the(18) '(19) 04(20) model(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			The(1) should(2) give(3) it(4) plenty_of(5) torque(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			The(1) steering(2) was(3) tight(4) ,(5) very(6) precise(7) ,(8) and(9) right(10) on(11) .(12) 
+			<opinion polarity="+" feature="steering" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="steering" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) steering(2) wheel(3) is(4) shared(5) with(6) the(7) '(8) 03(9) Towncar(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			The(1) 4(2) disc(3) breaks(4) ((5) giants(6) in(7) the(8) front(9) )(10) provide(11) very(12) good(13) ,(14) and(15) very(16) controlled(17) braking(18) .(19) 
+		</sentence>
+		<sentence id="21">
+			THE(1) INTERIOR(2) .(3) 
+		</sentence>
+		<sentence id="22">
+			The(1) few(2) differences(3) a(4) blind(5) man(6) would(7) find(8) between(9) the(10) cabin(11) of(12) Marauder(13) and(14) the(15) Grand_Marquee(16) would(17) be(18) front(19) buckets(20) ,(21) extra(22) gauges(23) ,(24) and(25) a(26) floor(27) shifter(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			The(1) sighted(2) will(3) find(4) a(5) very(6) different(7) look(8) ...(9) slate(10) or(11) charcoal(12) interiors(13) only(14) ,(15) carbon-fiber(16) /(17) aluminum(18) looks(19) ,(20) and(21) performance(22) gauges(23) add(24) to(25) the(26) cars(27) aggressive(28) stance(29) .(30) 
+		</sentence>
+		<sentence id="24">
+			I(1) liked(2) the(3) cushy(4) seats(5) ,(6) but(7) sports(8) enthusiasts(9) will(10) not(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			They(1) are(2) bucket(3) seats(4) ,(5) but(6) very(7) pillowy(8) ones(9) .(10) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="8" potency="7"/>
+			<opinion polarity="-" feature="seat" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="26">
+			Overall(1) ,(2) This(3) is(4) a(5) pretty(6) good(7) concept(8) .(9) 
+		</sentence>
+		<sentence id="27">
+			Is(1) it(2) worth(3) the(4) money(5) ?(6) 
+		</sentence>
+		<sentence id="28">
+			Well(1) ,(2) for(3) the(4) same(5) money(6) ,(7) you(8) might(9) find(10) a(11) 2(12) year(13) old(14) Jaguar_S-Type(15) 4.0(16) ,(17) with(18) much(19) better(20) performance(21) ,(22) looks(23) ,(24) and(25) elegance(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			However(1) ,(2) if(3) you(4) want(5) to(6) own(7) a(8) car(9) that(10) looks(11) like(12) a(13) muscle-bound(14) secret(15) service(16) agent(17) ,(18) this(19) is(20) the(21) one(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34,800(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) 2003(16) Mercury_Marauder(17) 
+		</sentence>
+	</text>
+</review>

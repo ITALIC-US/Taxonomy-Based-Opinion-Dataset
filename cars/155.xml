@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="155" item="1994 Ford F250" rating="5">
+	<title>
+		<sentence id="1">
+			Built(1) Ford_Tough(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			smooth(1) ride(2) and(3) handling(4) ,(5) great(6) for(7) towing(8) !(9) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="handling" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			THE(1) GAS_MILEAGE(2) ......(3) UGH(4) .......(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) 1994(2) Ford(3) F-250(4) SuperCab(5) 4X2(6) HD(7) pick-up(8) is(9) quite(10) a(11) tough(12) truck(13) .(14) 
+			<opinion polarity="+" feature="truck" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) the(3) beast(4) of(5) all(6) engines(7) ,(8) the(9) 460(10) !(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) only(2) get(3) "(4) 9(5) "(6) miles(7) to(8) the(9) gallon(10) ,(11) but(12) hey(13) ,(14) if(15) you(16) want(17) to(18) keep(19) up(20) with(21) the(22) big(23) boys(24) you(25) 've(26) gotta(27) pay(28) !(29) 
+		</sentence>
+		<sentence id="4">
+			What(1) I(2) really(3) love(4) about(5) my(6) F-250(7) is(8) the(9) convenience(10) of(11) repairs(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) find(3) an(4) auto(5) shop(6) or(7) parts(8) just(9) about(10) anywhere(11) ,(12) even_though(13) I(14) 've(15) had(16) zero(17) trips(18) to(19) shop(20) myself(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) it(3) a(4) year(5) ago(6) ,(7) used(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			It(1) has(2) an(3) incredibly(4) smooth(5) ride(6) and(7) handling(8) package(9) .(10) 
+			<opinion polarity="+" feature="package" featWords="9" opWords="5"/>
+			<opinion polarity="+" feature="handling" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) seats(2) although(3) they(4) are(5) conversion(6) seats(7) are(8) wide(9) ,(10) comfortable(11) and(12) cushey(13) .(14) 
+			<opinion polarity="+" feature="seat" featWords="7" opWords="11"/>
+			<opinion polarity="+" feature="seat" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			This(1) truck(2) can(3) also(4) haul(5) a(6) 3(7) horse(8) trailer(9) loaded(10) without(11) a(12) problem(13) and(14) lots(15) of(16) torque(17) !(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) drawback(3) for(4) me(5) is(6) the(7) warm-up(8) time(9) on(10) cold(11) mornings(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			It(1) takes(2) forever(3) to(4) warm(5) up(6) and(7) defrost(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) 'm(2) always(3) late(4) because_of(5) it(6) !(7) 
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) our(3) truck(4) has(5) a(6) 5-speed(7) standard(8) transmission(9) and(10) first(11) gear(12) is(13) hardly(14) ever(15) used(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) really(3) low(4) geared(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			We(1) live(2) in(3) some(4) rough(5) country(6) so(7) it(8) comes(9) in(10) handy(11) though(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="11"/>
+		</sentence>
+	</text>
+</review>

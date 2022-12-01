@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="267" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) interior(3) ,(4) great(5) sound(6) system(7) ,(8) sporty(9) look(10) 
+			<opinion polarity="+" feature="design" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="sound system" featWords="6,7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			CD(1) player(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Begin(1) reading(2) by(3) knowing(4) that(5) I(6) am(7) a(8) Nissan(9) loyalist(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) owned(3) 4(4) 300ZX(5) cars(6) ,(7) and(8) have(9) never(10) had(11) a(12) problem(13) with(14) any(15) of(16) them(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			As(1) my(2) family(3) grew(4) larger(5) ,(6) however(7) ,(8) the(9) 300ZX(10) was(11) less(12) desirable(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Step(1) in(2) Maxima(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			The(1) Maxima(2) will(3) outrun(4) any(5) of(6) the(7) four(8) 300(9) 's(10) I(11) owned(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) incredibly(3) roomy(4) .(5) 
+			<opinion polarity="+" feature="room" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="7">
+			Even(1) with(2) the(3) front(4) seats(5) all(6) the(7) way(8) back(9) ,(10) the(11) passengers(12) have(13) loads(14) of(15) legroom(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) leather(2) seats(3) feel(4) perfect(5) ,(6) although(7) I(8) wish(9) I(10) could(11) make(12) the(13) lumbar(14) support(15) go(16) completely(17) away(18) ((19) although(20) disengaged(21) ,(22) it(23) still(24) feels(25) like(26) it(27) is(28) providing(29) support(30) ,(31) which(32) I(33) do(34) not(35) want(36) )(37) .(38) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			The(1) handling(2) makes(3) this(4) front(5) wheel(6) drive(7) car(8) feel(9) more(10) like(11) a(12) rear(13) wheel(14) drive(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) reminded(3) that(4) it(5) is(6) powered(7) through(8) the(9) front(10) wheels(11) when(12) I(13) lay(14) a(15) scratch(16) in(17) first(18) ,(19) then(20) second(21) ,(22) then(23) third(24) .....(25) Again(26) ,(27) let(28) me(29) reiterate(30) ,(31) the(32) power(33) is(34) amazing(35) .(36) 
+			<opinion polarity="+" feature="horsepower" featWords="33" opWords="35"/>
+		</sentence>
+		<sentence id="11">
+			Comfort(1) is(2) great(3) .(4) 
+			<opinion polarity="+" feature="comfort" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			Shocks(1) are(2) great(3) .(4) 
+		</sentence>
+		<sentence id="13">
+			I(1) think(2) the(3) only(4) thing(5) that(6) I(7) do(8) not(9) like(10) about(11) the(12) car(13) is(14) that(15) the(16) perfect(17) sounding(18) Bose(19) stereo(20) has(21) a(22) CD(23) player(24) that(25) can(26) not(27) read(28) CD(29) 's(30) that(31) have(32) the(33) slightest(34) of(35) scratches(36) .(37) 
+			<opinion polarity="+" feature="sound system" featWords="20" opWords="17,18"/>
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) buy(3) one(4) of(5) these(6) ,(7) only(8) use(9) perfect(10) CD(11) 's(12) in(13) the(14) player(15) ,(16) or(17) else(18) you(19) are(20) going(21) to(22) get(23) some(24) stuttering(25) symphonies(26) where(27) not(28) intended(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			Hands(1) down(2) ,(3) this(4) is(5) the(6) best(7) car(8) I(9) 've(10) owned(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) actually(3) a(4) company(5) car(6) that(7) I(8) treat(9) better(10) than(11) my(12) own(13) ((14) now(15) is(16) not(17) that(18) a(19) strange(20) reversal(21) of(22) the(23) norm(24) )(25) .(26) 
+		</sentence>
+	</text>
+</review>

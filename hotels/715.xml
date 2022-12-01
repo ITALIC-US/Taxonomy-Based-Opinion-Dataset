@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="715" item="Hyatt Regency Albuquerque" rating="4">
+	<title>
+		<sentence id="1">
+			Albuquerque_Hyatt_Regency(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) rooms(2) ,(3) friendly(4) staff(5) ,(6) good(7) room(8) service(9) ,(10) and(11) plenty_of(12) restaurants(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="room service" featWords="8,9" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Potentially(1) heavy(2) traffic(3) during(4) lunch(5) ,(6) and(7) in(8) the(9) afternoon(10) .(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Hyatt(2) is(3) located(4) in(5) a(6) good(7) part(8) of(9) town(10) ,(11) the(12) service(13) is(14) good(15) ,(16) and(17) it(18) 's(19) a(20) good(21) place(22) to(23) stay(24) for(25) the(26) business(27) exec(28) on(29) the(30) move(31) .(32) 
+			<opinion polarity="+" feature="service" featWords="13" opWords="15"/>
+			<opinion polarity="+" feature="place" featWords="22" opWords="21"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			First(1) off(2) ,(3) the(4) Hyatt_Regency(5) in(6) Albuquerque(7) ,(8) New_Mexico(9) has(10) great(11) views(12) ,(13) great(14) service(15) ,(16) clean(17) and(18) comfortable(19) rooms(20) ,(21) and(22) the(23) lobby(24) features(25) a(26) Starbucks(27) coffee(28) shop(29) ,(30) along_with(31) a(32) handful(33) of(34) gift(35) shops(36) .(37) 
+			<opinion polarity="+" feature="view" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="service" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="rooms" featWords="20" opWords="17"/>
+			<opinion polarity="+" feature="rooms" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			Dining(1) in(2) the(3) Hyatt(4) is(5) also(6) exceptional(7) ,(8) the(9) on(10) campus(11) restaurants(12) include(13) Bolo_'s_Saloon(14) ,(15) McGrath_'s_Bar(16) and(17) Grill(18) ,(19) and(20) Starbucks(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) a(3) number(4) of(5) activities(6) to(7) do(8) at(9) the(10) Hyatt(11) ,(12) such(13) as(14) ,(15) an(16) outdoor(17) lap(18) pool(19) open(20) from(21) 6(22) am(23) to(24) 10(25) pm(26) ,(27) sundeck(28) ,(29) health(30) club(31) ,(32) and(33) message(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) there(3) are(4) a(5) number(6) of(7) conference(8) rooms(9) and(10) convention(11) center(12) type(13) rooms(14) that(15) can(16) be(17) rented(18) for(19) anything(20) from(21) business(22) meetings(23) ,(24) group(25) /(26) organization(27) meetings(28) ,(29) parties(30) ,(31) weddings(32) ,(33) etc(34) ...(35) The(36) following(37) is(38) a(39) list(40) of(41) the(42) standard(43) amenities(44) in(45) each(46) room(47) .(48) 
+			<opinion polarity="+" feature="amenities" featWords="44" opWords="43"/>
+		</sentence>
+		<sentence id="5">
+			AM(1) /(2) FM(3) alarm(4) clock(5) radio(6) ,(7) cable(8) tv(9) ,(10) coffee(11) maker(12) ,(13) data(14) port(15) ,(16) etc(17) ...(18) All(19) of(20) the(21) rooms(22) in(23) the(24) Hyatt(25) are(26) clean(27) rooms(28) ,(29) good(30) room(31) service(32) ,(33) and(34) most(35) of(36) the(37) rooms(38) above(39) floor(40) 5(41) have(42) a(43) great(44) view(45) of(46) Albuquerque(47) and(48) the(49) Sandia_Peak(50) .(51) 
+			<opinion polarity="+" feature="rooms" featWords="28" opWords="27"/>
+			<opinion polarity="+" feature="room service" featWords="31,32" opWords="30"/>
+			<opinion polarity="+" feature="view" featWords="45" opWords="44"/>
+		</sentence>
+		<sentence id="6">
+			The(1) hyatt(2) is(3) also(4) strategically(5) located(6) in(7) the(8) heart(9) of(10) downtown(11) Albuquerque(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Nearby(1) attractions(2) include(3) the(4) Historic_Route(5) 66(6) ,(7) the(8) University_of_New_Mexico(9) ,(10) old(11) town(12) ,(13) Albuquerque_Biological_Park(14) :(15) Aquarium(16) and(17) Botanic_Garden(18) ,(19) Albuquerque_Museum(20) ,(21) Indian_Pueblo_Cultural_Center(22) ,(23) and(24) New_Mexico_Museum_of_Natural_History(25) and(26) Science(27) .(28) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="813" item="2005 Chevrolet Equinox" rating="2">
+	<title>
+		<sentence id="1">
+			2005(1) Chevrolet_Equinox_LT(2) :(3) An(4) absolute(5) disappointment(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			styling(1) ,(2) price(3) with(4) rebates(5) ,(6) sliding(7) rear(8) seat(9) ,(10) cargo(11) room(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cheap(1) interior(2) materials(3) ,(4) lifeless(5) steering(6) ,(7) bumpy(8) ride(9) ,(10) engine(11) refinement(12) ,(13) interior(14) environment(15) 
+			<opinion polarity="-" feature="ride quality" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="material" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) smart(2) looking(3) SUV(4) plagued(5) by(6) poor(7) driving(8) characteristics(9) ,(10) and(11) sub-par(12) materials(13) .(14) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) never(3) been(4) the(5) biggest(6) fan(7) of(8) American(9) cars(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Their(1) numb(2) steering(3) ,(4) floaty(5) rides(6) ,(7) and(8) horrible(9) depreciation(10) were(11) a(12) major(13) turn-off(14) .(15) 
+			<opinion polarity="-" feature="ride quality" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="steering" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) recently(3) things(4) have(5) been(6) looking(7) up(8) ,(9) and(10) many(11) new(12) American(13) cars(14) seem(15) to(16) be(17) better(18) built(19) and(20) geared(21) toward(22) a(23) more(24) discriminating(25) buyer(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			I(1) credit(2) the(3) Japanese(4) car(5) manufactures(6) with(7) raising(8) the(9) bar(10) ,(11) and(12) making(13) the(14) American(15) car(16) companies(17) realize(18) that(19) they(20) had(21) some(22) serious(23) competition(24) for(25) winning(26) over(27) buyers(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Initially(1) my(2) son(3) and(4) I(5) were(6) impressed(7) when(8) we(9) saw(10) previews(11) for(12) Chevrolet(13) s(14) new(15) small(16) SUV(17) ,(18) the(19) Equinox(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) styling(2) was(3) muscular(4) ,(5) yet(6) refined(7) ,(8) and(9) the(10) interior(11) ((12) from(13) photographs(14) )(15) seemed(16) to(17) be(18) a_lot(19) nicer(20) than(21) any(22) other(23) GM(24) mini-SUV(25) .(26) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			It(1) finally(2) seemed(3) like(4) Chevy(5) was(6) getting(7) it(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) upon(3) test(4) driving(5) an(6) Equinox_LT(7) ,(8) we(9) were(10) incredibly(11) disappointed(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="9">
+			Here(1) are(2) my(3) driving(4) impressions(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Exterior(1) /(2) Interior_Impressions(3) :(4) The(5) Equinox(6) s(7) exterior(8) turned(9) out(10) very(11) successfully(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) much(3) better(4) executed(5) then(6) Saturn(7) s(8) VUE(9) ,(10) or(11) Honda(12) s(13) CRV(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) muscular(3) and(4) solid(5) looking(6) without(7) being(8) in(9) your(10) face(11) .(12) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			The(1) front(2) grill(3) is(4) powerful(5) looking(6) ,(7) with(8) a(9) big(10) slab(11) of(12) chrome(13) trim(14) ,(15) and(16) a(17) large(18) Chevy_Bow-Tie(19) .(20) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="14">
+			The(1) back(2) is(3) clean(4) looking(5) with(6) the(7) popular(8) clear(9) tail(10) lamps(11) .(12) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="15">
+			Opening(1) the(2) door(3) to(4) the(5) Equinox(6) is(7) not(8) very(9) reassuring(10) .(11) 
+			<opinion polarity="-" feature="door" featWords="3" opWords="8,10" potency="9"/>
+		</sentence>
+		<sentence id="16">
+			The(1) door(2) handle(3) feels(4) flimsy(5) and(6) cheap(7) ,(8) and(9) the(10) car(11) door(12) does(13) not(14) have(15) a(16) solid(17) sound(18) when(19) it(20) is(21) shut(22) .(23) 
+			<opinion polarity="-" feature="door" featWords="2" opWords="7"/>
+			<opinion polarity="-" feature="door" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="17">
+			Stepping(1) into(2) the(3) Equinox(4) s(5) interior(6) reminded(7) of(8) entering(9) a(10) rental(11) car(12) ,(13) The(14) seats(15) were(16) tough(17) cloth(18) -(19) like(20) material(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			They(1) were(2) not(3) soft(4) ,(5) but(6) felt(7) very(8) durable(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) seat(2) was(3) not(4) very(5) firm(6) ,(7) or(8) supportive(9) .(10) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4,9"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="20">
+			Sitting(1) in(2) the(3) Equinox(4) felt(5) like(6) being(7) in(8) a(9) minivan(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			There(1) is(2) a(3) large(4) space(5) between(6) the(7) steering(8) wheel(9) and(10) the(11) windshield(12) ,(13) and(14) the(15) glass(16) is(17) very(18) upright(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			Overall(1) the(2) environment(3) was(4) very(5) disconcerting(6) ,(7) The(8) driving(9) position(10) and(11) the(12) angle(13) of(14) the(15) windows(16) made(17) the(18) Equinox(19) feel(20) much(21) larger(22) then(23) it(24) was(25) ,(26) but(27) in(28) a(29) bad(30) way(31) .(32) 
+		</sentence>
+		<sentence id="23">
+			When(1) you(2) look(3) in(4) the(5) rear-view(6) mirror(7) ,(8) there(9) seems(10) like(11) there(12) is(13) a(14) Suburban(15) behind(16) the(17) front(18) seat(19) ,(20) when(21) in(22) reality(23) the(24) car(25) is(26) much(27) smaller(28) .(29) 
+		</sentence>
+		<sentence id="24">
+			The(1) center(2) stack(3) of(4) the(5) Equinox(6) was(7) nice(8) looking(9) ,(10) with(11) some(12) metallic(13) looking(14) paint(15) ,(16) and(17) more(18) classy(19) looking(20) instruments(21) then(22) I(23) have(24) seen(25) on(26) many(27) G._M(28) s.(29) However(30) ,(31) there(32) was(33) so(34) much(35) cheap(36) plastic(37) everywhere(38) .(39) 
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+		</sentence>
+		<sentence id="25">
+			From(1) the(2) door(3) panels(4) ,(5) to(6) the(7) side(8) pillars(9) ,(10) to(11) the(12) dashboard(13) ,(14) everything(15) felt(16) extremely(17) cheap(18) .(19) 
+			<opinion polarity="-" feature="dash" featWords="13" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="26">
+			The(1) interior(2) was(3) such(4) a(5) disappointment(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			However(1) ,(2) there(3) were(4) some(5) good(6) things(7) in(8) the(9) interior(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			The(1) backseat(2) for_example(3) ,(4) is(5) incredibly(6) clever(7) .(8) 
+		</sentence>
+		<sentence id="29">
+			The(1) seats(2) can(3) move(4) back_and_forth(5) on(6) a(7) track(8) up(9) to(10) eight_inches(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			So(1) you(2) can(3) have(4) limo-like(5) legroom(6) in(7) the(8) back(9) ,(10) or(11) lots(12) of(13) extra(14) cargo(15) space(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) very(3) useful(4) ,(5) and(6) a(7) great(8) feature(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			Also(1) the(2) rear(3) cargo(4) area(5) had(6) storage(7) shelves(8) ,(9) to(10) stack(11) different(12) items(13) ,(14) and(15) with(16) the(17) seats(18) folded(19) down(20) ,(21) there(22) was(23) a_lot_of(24) hauling(25) space(26) .(27) 
+		</sentence>
+		<sentence id="33">
+			Driving_Impressions(1) :(2) Things(3) weren(4) t(5) any(6) more(7) positive(8) once(9) I(10) took(11) the(12) Equinox(13) on(14) the(15) road(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			Immediately(1) I(2) noticed(3) how(4) light(5) the(6) steering(7) was(8) .(9) 
+		</sentence>
+		<sentence id="35">
+			At(1) lower(2) speeds(3) the(4) electric(5) steering(6) has(7) absolutely(8) no(9) resistance(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			It(1) is(2) completely(3) loose(4) in(5) your(6) hands(7) ,(8) and(9) while(10) this(11) aids(12) in(13) parking(14) ,(15) it(16) makes(17) the(18) Equinox(19) feel(20) very(21) cumbersome(22) .(23) 
+			<opinion polarity="-" feature="car" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="37">
+			Perhaps(1) I(2) am(3) to(4) used(5) to(6) European(7) and(8) Japanese(9) cars(10) ,(11) but(12) the(13) steering(14) on(15) the(16) Equinox(17) was(18) horrible(19) .(20) 
+			<opinion polarity="-" feature="steering" featWords="14" opWords="19"/>
+		</sentence>
+		<sentence id="38">
+			Things(1) firmed(2) up(3) a_bit(4) at(5) highway(6) speeds(7) ,(8) but(9) not(10) nearly(11) enough(12) in(13) my(14) opinion(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			Mixed(1) with(2) the(3) minivan(4) like(5) feeling(6) inside(7) ,(8) numerous(9) blindspots(10) ,(11) and(12) light(13) steering(14) weight(15) the(16) Equinox(17) felt(18) very(19) disconnected(20) and(21) clumsy(22) .(23) 
+			<opinion polarity="-" feature="car" opWords="22"/>
+			<opinion polarity="-" feature="car" opWords="20"/>
+		</sentence>
+		<sentence id="40">
+			The(1) Equinox(2) doesn(3) t(4) have(5) a(6) very(7) smooth(8) ride(9) either(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			While(1) not(2) harsh(3) ,(4) the(5) SUV(6) bounces(7) over(8) bumps(9) opposed(10) to(11) gliding(12) over(13) them(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="42">
+			The(1) ride(2) isn(3) t(4) very(5) refined(6) ,(7) and(8) gets(9) disrupted(10) by(11) road(12) imperfections(13) rather(14) easily(15) .(16) 
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="43">
+			While(1) many(2) have(3) complained(4) that(5) G.M.(6) chose(7) to(8) use(9) the(10) ancient(11) 184(12) horsepower(13) pushrod(14) V(15) -(16) 6(17) in(18) the(19) Equinox(20) instead_of(21) the(22) much(23) more(24) powerful(25) and(26) modern(27) Honda_V(28) -(29) 6(30) borrowed(31) by(32) Saturn(33) ,(34) I(35) didn(36) t(37) think(38) the(39) engine(40) was(41) that(42) negative(43) compared(44) to(45) many(46) of(47) the(48) cars(49) other(50) traits(51) .(52) 
+		</sentence>
+		<sentence id="44">
+			The(1) V(2) -(3) 6(4) is(5) not(6) very(7) refined(8) ,(9) and(10) while(11) not(12) abundant(13) in(14) power(15) ,(16) there(17) is(18) ample(19) zip(20) for(21) most(22) driving(23) situations(24) .(25) 
+			<opinion polarity="-" feature="engine" opWords="6,8" potency="7"/>
+		</sentence>
+		<sentence id="45">
+			As(1) you(2) can(3) tell(4) ,(5) I(6) was(7) not(8) very(9) impressed(10) at(11) all(12) with(13) Chevrolet(14) s(15) new(16) Equinox(17) .(18) 
+		</sentence>
+		<sentence id="46">
+			For(1) a(2) new(3) 2005(4) SUV(5) ,(6) I(7) expected(8) a_lot(9) more(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Our(1) model(2) was(3) not(4) loaded(5) ,(6) and(7) at(8) an(9) MSRP(10) of(11) $24,000(12) +(13) ,(14) I(15) didn(16) t(17) think(18) it(19) was(20) a(21) great(22) value(23) .(24) 
+		</sentence>
+		<sentence id="48">
+			However(1) ,(2) with(3) incentives(4) kicked(5) in(6) ,(7) the(8) Equinox(9) seems(10) like(11) a(12) much(13) more(14) decent(15) buy(16) ,(17) yet(18) I(19) still(20) wouldn(21) t(22) recommend(23) it(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,500(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) LT(14) 
+		</sentence>
+	</text>
+</review>

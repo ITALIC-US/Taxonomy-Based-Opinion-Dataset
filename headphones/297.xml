@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="297" item="Sennheiser MX 500 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Depends(1) What(2) You(3) 're(4) Looking_For(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wide_Sound_Stage(1) ,(2) Mighty_Thumping_Bass(3) ,(4) Comfort(5) ,(6) Very_Smooth_Sound(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) can(2) sound(3) "(4) muffled(5) "(6) to(7) some(8) ears(9) ,(10) Almost_TOO_MUCH(11) bass(12) ((13) if(14) that(15) 's(16) possible(17) )(18) 
+			<opinion polarity="-" feature="sound quality" opWords="3,5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) headphones(2) for(3) sound(4) that(5) is(6) more(7) laid(8) back(9) ,(10) relaxed(11) ,(12) and(13) softer(14) in(15) tone(16) .(17) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Bass(1) is(2) astounding(3) on(4) these(5) headphones(6) and(7) i(8) 've(9) never(10) had(11) such(12) comfortable(13) headphones(14) 
+			<opinion polarity="+" feature="bass" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) i(2) wanted(3) the(4) most(5) accurate(6) detailed(7) sound(8) i(9) would(10) buy(11) the(12) Sony(13) 7506(14) ,(15) its(16) cheaper(17) and(18) has(19) much(20) brighter(21) ,(22) lively(23) sound(24) ...(25) but(26) i(27) did(28) not(29) want(30) that(31) harsh(32) ,(33) crisp(34) music(35) ,(36) i(37) needed(38) some(39) headphones(40) to(41) relax(42) while(43) studying(44) ,(45) or(46) reading(47) ,(48) or(49) researching(50) ...(51) after(52) agonizing(53) over(54) the(55) Sennheiser(56) 4*7(57) series(58) ,(59) several(60) Higher(61) end(62) Sennheisers(63) ,(64) and(65) the(66) sony(67) 7506/7509/V6(68) headphones(69) ,(70) i(71) decided(72) to(73) buy(74) the(75) HD(76) 500(77) and(78) save(79) my(80) money(81) .(82) 
+		</sentence>
+		<sentence id="2">
+			To(1) me(2) ,(3) the(4) sound(5) is(6) more(7) comparable(8) to(9) hearing(10) concert(11) music(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			It(1) almost(2) sounds(3) like(4) the(5) music(6) is(7) coming(8) from(9) the(10) top(11) of(12) a(13) huge(14) auditorium(15) ,(16) or(17) a(18) very(19) wide(20) stage(21) ....(22) Besides(23) ,(24) I(25) prefer(26) this(27) softer(28) sound(29) ,(30) although(31) still(32) incredibly(33) detailed(34) ,(35) and(36) full(37) bodied(38) ,(39) it(40) is(41) not(42) as(43) bright(44) ,(45) and(46) harsh(47) as(48) some(49) better(50) "(51) critical(52) listening(53) "(54) headphones(55) .(56) .(57) 
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) are(3) excellent(4) if(5) you(6) need(7) headphones(8) to(9) relax(10) or(11) if(12) you(13) prefer(14) soft(15) sound(16) .(17) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) extremely(3) comfortable(4) and(5) i(6) highly(7) recommend(8) them(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="headphones" featWords="9" featRef="headphones" opWords="8" potency="7"/>
+		</sentence>
+	</text>
+</review>

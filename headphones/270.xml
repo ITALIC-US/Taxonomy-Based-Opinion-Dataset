@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="270" item="Bose on-ear TriPort� Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Bose(1) does(2) it(3) again(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Brilliant(1) sound(2) quality(3) ,(4) comfortable(5) ,(6) light(7) and(8) portable(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="weight" opWords="7"/>
+			<opinion polarity="+" feature="portability" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bose(1) on-ear(2) tri-port(3) headphone(4) delivers(5) truly(6) amazing(7) sound(8) in(9) such(10) a(11) compact(12) package(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="8" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="packaging" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			It(1) made(2) my(3) music(4) experience(5) much(6) more(7) enjoyable(8) than(9) using(10) other(11) headphones(12) or(13) earphones(14) I(15) 've(16) purchased(17) in(18) the(19) past(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) been(3) reading(4) up(5) on(6) headphones(7) and(8) was(9) leaning(10) towards(11) noise(12) canceling(13) head(14) phones(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Then(1) when(2) I(3) tried(4) this(5) headphone(6) ,(7) I(8) was(9) impressed(10) by(11) the(12) sound(13) quality(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			It(1) fits(2) very(3) comfortably(4) and(5) even(6) after(7) hours(8) of(9) wearing(10) it(11) ,(12) it(13) does(14) not(15) hurt(16) my(17) ear(18) like(19) others(20) did(21) .(22) 
+			<opinion polarity="+" feature="comfort" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			The(1) headphone(2) fits(3) on(4) my(5) ear(6) very(7) snug(8) and(9) comfortably(10) without(11) much(12) hassle(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="3,8" potency="7"/>
+			<opinion polarity="+" feature="comfort" opWords="3,10" potency="7"/>
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) light(3) and(4) portable(5) as(6) it(7) collapses(8) into(9) a(10) carrying(11) case(12) .(13) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="portability" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			So(1) far(2) ,(3) I(4) love(5) the(6) headphone(7) and(8) it(9) 's(10) stellar(11) sound(12) quality(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="12,13" opWords="11"/>
+		</sentence>
+		<sentence id="9">
+			Wish(1) the(2) price(3) was(4) little(5) lower(6) but(7) with(8) any(9) products(10) ,(11) you(12) get(13) what(14) you(15) pay(16) for(17) .(18) 
+		</sentence>
+	</text>
+</review>

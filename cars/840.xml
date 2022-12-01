@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="840" item="1999 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) for_short(2) women(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			large(1) back(2) seat(3) and(4) trunk(5) 
+			<opinion polarity="+" feature="trunk" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			short(1) people(2) are(3) uncomfortable(4) 
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) checked(2) into(3) purchasing(4) the(5) Honda_Accord(6) because(7) everyone(8) said(9) it(10) was(11) a(12) great(13) car(14) and(15) that(16) the(17) repairs(18) were(19) minimal(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="2">
+			I(1) also(2) needed(3) a(4) car(5) with(6) a(7) large(8) trunk(9) and(10) could(11) fit(12) 3(13) large(14) teenage(15) boys(16) .(17) 
+			<opinion polarity="+" feature="trunk" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			Well(1) the(2) honda(3) has(4) a(5) large(6) trunk(7) and(8) the(9) backseat(10) is(11) large(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="trunk" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			It(1) took(2) me(3) a(4) while(5) to(6) get(7) used(8) to(9) driving(10) it(11) because(12) my(13) other(14) car(15) was(16) boxey(17) and(18) this(19) has(20) a(21) longer(22) front(23) end(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			While(1) the(2) drive(3) is(4) good(5) ,(6) being(7) a(8) short(9) women(10) has(11) made(12) being(13) confortable(14) in(15) the(16) car(17) next(18) to(19) impossible(20) .(21) 
+			<opinion polarity="+" feature="drive" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) seats(2) can(3) not(4) be(5) adjusted(6) correctly(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			Either(1) I(2) 'm(3) too(4) close(5) or(6) I(7) 'm(8) too(9) far(10) away(11) from(12) the(13) pedals(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Next(1) the(2) seat(3) back(4) does(5) not(6) adjust(7) upright(8) enough(9) for(10) a(11) short(12) person(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) always(3) leaning(4) a(5) little(6) backwards(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			The(1) windshield(2) wippers(3) are(4) another(5) problem(6) for(7) a(8) short(9) person(10) ,(11) when(12) they(13) are(14) in(15) use(16) they(17) miss(18) cleaning(19) the(20) botton(21) part(22) of(23) the(24) window(25) and(26) this(27) is(28) where(29) my(30) eyesight(31) is(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			I(1) guess(2) whoever(3) created(4) this(5) car(6) was(7) not(8) short(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			So(1) my(2) suggestion(3) is(4) when(5) you(6) take(7) a(8) test(9) drive(10) ,(11) do(12) it(13) a(14) couple(15) of(16) times(17) and(18) for(19) a(20) longer(21) drive(22) then(23) just(24) five(25) minutes(26) like(27) I(28) did(29) .(30) 
+		</sentence>
+	</text>
+</review>

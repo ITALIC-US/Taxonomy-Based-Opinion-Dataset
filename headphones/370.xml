@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="370" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) ,(2) if(3) you(4) 're(5) a(6) Dj(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Insane(1) power(2) handling(3) ,(4) over-ear(5) design(6) ,(7) carry(8) case(9) ,(10) looks(11) ,(12) performance(13) ,(14) functionality(15) ,(16) professional(17) headphones(18) .(19) 
+			<opinion polarity="+" feature="headphones" featWords="18" opWords="17"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weight(1) ,(2) cord(3) length(4) ,(5) bass(6) can(7) be(8) overpowering(9) ,(10) price(11) ,(12) can(13) draw(14) funny(15) looks(16) .(17) 
+			<opinion polarity="-" feature="bass" featWords="6" opWords="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) stress(2) the(3) words(4) Dj(5) because(6) if(7) you(8) attempt(9) to(10) a(11) .(12) )(13) produce(14) music(15) or(16) b(17) .(18) )(19) enjoy(20) music(21) for(22) hours(23) on(24) end(25) ,(26) these(27) phones(28) will(29) not(30) be(31) satisfactory(32) .(33) 
+			<opinion polarity="-" feature="headphones" featWords="28" opWords="30,32"/>
+		</sentence>
+		<sentence id="2">
+			They(1) excel(2) for(3) Dj(4) use(5) because(6) they(7) have(8) increased(9) emphasis(10) on(11) bass(12) ,(13) which(14) is(15) what(16) Dj(17) 's(18) need(19) to(20) match(21) beat(22) tempo(23) ,(24) etc.(25) Yet(26) ,(27) if(28) you(29) attempt(30) to(31) produce(32) music(33) it(34) will(35) come(36) out(37) muddy(38) and(39) sound(40) off(41) or(42) distorted(43) through(44) regular(45) speakers(46) .(47) 
+		</sentence>
+		<sentence id="3">
+			Also(1) ,(2) they(3) are(4) quite(5) heavy(6) so(7) your(8) ears(9) will(10) get(11) numb(12) after(13) a(14) few(15) hours(16) of(17) listening(18) to(19) music(20) .(21) 
+			<opinion polarity="-" feature="weight" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			Yet(1) ,(2) these(3) are(4) awesome(5) headphones(6) for(7) simply(8) enjoying(9) music(10) .(11) .(12) very(13) loudly(14) I(15) might(16) add(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) ear(2) cups(3) swivel(4) all(5) around(6) ,(7) though(8) it(9) 's(10) fairly(11) pointless(12) .(13) .(14) it(15) sure(16) looks(17) cool(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) still(2) recommend(3) these(4) headphones(5) ,(6) despite(7) all(8) the(9) cons(10) .(11) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) awesome(3) and(4) they(5) do(6) not(7) wear(8) out(9) ,(10) despite(11) what(12) the(13) other(14) people(15) may(16) have(17) said(18) ,(19) mine(20) have(21) lasted(22) almost(23) a(24) year(25) now(26) with(27) no(28) cracks(29) or(30) anything(31) .(32) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			The(1) over-ear(2) design(3) ,(4) I(5) might(6) add(7) ,(8) helps(9) when(10) you(11) listen(12) at(13) night(14) or(15) in(16) public(17) when(18) you(19) may(20) not(21) want(22) other(23) people(24) hearing(25) your(26) music(27) .(28) 
+		</sentence>
+	</text>
+</review>

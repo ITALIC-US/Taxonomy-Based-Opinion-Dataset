@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="221" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			What(1) a(2) Dream(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) front(2) ,(3) drives(4) like(5) a(6) dream(7) ,(8) corners(9) well(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="9,10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Big(1) blind-spot(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) car(5) for(6) anyone(7) looking(8) at(9) a(10) less(11) pricey(12) sports(13) car(14) but(15) something(16) that(17) handles(18) incredibly(19) well(20) .(21) 
+			<opinion polarity="+" feature="handling" opWords="18,20" potency="19"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 'd(2) recommend(3) this(4) car(5) to(6) anyone(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) price(2) ,(3) Great(4) gas(5) mileage(6) ,(7) very(8) stylish(9) .(10) 
+			<opinion polarity="+" feature="design" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) it(3) in(4) January_2001(5) and(6) just(7) love(8) it(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" featRef="car" opWords="8"/>
+		</sentence>
+		<sentence id="4">
+			Gas(1) mileage(2) is(3) about(4) 23(5) mpg(6) ((7) automatic(8) trans(9) )(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			A_lot_of(1) people(2) comment(3) about(4) how(5) good(6) it(7) looks(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			As(1) the(2) bag(3) boy(4) at(5) the(6) grocery(7) store(8) exclaimed(9) as(10) we(11) walked(12) up(13) to(14) it(15) ,(16) "(17) It(18) just(19) smells(20) like(21) a(22) fast(23) car(24) !(25) "(26) .(27) 
+			<opinion polarity="+" feature="speed" opWords="23"/>
+		</sentence>
+		<sentence id="7">
+			It(1) rides(2) very(3) low(4) to(5) the(6) ground(7) but(8) I(9) have(10) not(11) had(12) any(13) '(14) bottoming(15) out(16) '(17) problems(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			I(1) got(2) the(3) car(4) fully(5) loaded(6) and(7) I(8) am(9) glad(10) I(11) did(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) sunroof(2) appears(3) to(4) be(5) larger(6) than(7) most(8) other(9) cars(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			With(1) the(2) sunroof(3) open(4) ,(5) it(6) 's(7) just(8) the(9) perfect(10) amount(11) of(12) air(13) circulating(14) through(15) the(16) car(17) .(18) .(19) you(20) hardly(21) even(22) know(23) the(24) sunroof(25) is(26) open(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			I(1) also(2) got(3) the(4) all-weather(5) package(6) that(7) includes(8) ((9) among(10) other(11) things(12) )(13) a(14) rear(15) windshield(16) wiper(17) and(18) fog(19) lamps(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			The(1) rear(2) windshield(3) wiper(4) has(5) been(6) great(7) !(8) 
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) problem(3) I(4) have(5) noticed(6) is(7) a(8) very(9) large(10) blind(11) spot(12) on(13) both(14) sides(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) sit(3) in(4) the(5) car(6) ,(7) you(8) 'll(9) understand(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			I(1) just(2) make(3) sure(4) I(5) am(6) aware(7) of(8) where(9) the(10) other(11) cars(12) around(13) me(14) are(15) and(16) depend(17) quite(18) a_bit(19) on(20) my(21) side(22) mirrors(23) now(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Fully(16) Loaded(17) 
+		</sentence>
+	</text>
+</review>

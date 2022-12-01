@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="243" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Worth_the_Money(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) bass(2) response(3) ,(4) Comfortable(5) ,(6) Does(7) a(8) good(9) job(10) of(11) reducing(12) low(13) frequency(14) noise(15) .(16) 
+			<opinion polarity="+" feature="bass" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ,(2) Does(3) little(4) at(5) reducing(6) higher(7) frequencies(8) .(9) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Bose(2) headphones(3) are(4) expensive(5) but(6) do(7) give(8) the(9) feeling(10) of(11) having(12) your(13) own(14) little(15) world(16) in(17) a(18) less(19) than(20) friendly(21) environment(22) .(23) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			For(1) this(2) goal(3) ,(4) worth(5) the(6) money(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) an(3) engineer(4) ,(5) not(6) a(7) great(8) music(9) buff(10) ,(11) but(12) I(13) do(14) appreciate(15) the(16) fine(17) sound(18) reproduction(19) of(20) the(21) Bose(22) headset(23) .(24) 
+			<opinion polarity="+" feature="sound quality" featWords="18,19" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			The(1) bass(2) response(3) was(4) particularly(5) impressive(6) .(7) 
+			<opinion polarity="+" feature="bass" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) the(3) headset(4) for(5) it(6) 's(7) noise(8) canceling(9) abilities(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Having(1) been(2) tormented(3) by(4) the(5) neighborhood(6) driveway(7) basketball(8) games(9) and(10) barking(11) dogs(12) ,(13) I(14) was(15) willing(16) to(17) give(18) anything(19) a(20) try(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			To(1) my(2) great(3) relief(4) the(5) annoying(6) bump(7) ,(8) bump(9) ,(10) bump(11) of(12) the(13) basketball(14) was(15) entirely(16) eliminated(17) both(18) outdoors(19) and(20) in(21) the(22) house(23) ,(24) where(25) nothing(26) else(27) I(28) tried(29) had(30) been(31) effective(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			Unfortunately(1) the(2) headset(3) was(4) useless(5) at(6) blocking(7) the(8) higher(9) frequencies(10) of(11) barking(12) dogs(13) out(14) in(15) the(16) yard(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) teamed(2) the(3) Bose(4) headset(5) up(6) with(7) a(8) Sony_Walkman(9) and(10) it(11) makes(12) a(13) really(14) nice(15) unit(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) also(2) found(3) that(4) a(5) good(6) country(7) music(8) tape(9) ,(10) which(11) usually(12) has(13) a_lot_of(14) bass(15) ,(16) would(17) silence(18) the(19) barking(20) dogs(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) headphones(2) are(3) lightweight(4) and(5) are(6) not(7) annoying(8) to(9) wear(10) for(11) extended(12) periods(13) .(14) 
+			<opinion polarity="+" feature="weight" opWords="4"/>
+		</sentence>
+	</text>
+</review>

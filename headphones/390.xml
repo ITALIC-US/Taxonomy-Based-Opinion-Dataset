@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="390" item="Skull Candy Smokin Buds Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			headbanger(1) teenager(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) quality(2) ,(3) comfort(4) ,(5) bass(6) ,(7) noise(8) cancellation(9) ,(10) stay(11) in(12) good(13) .(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hearing(1) loss(2) ,(3) headaches(4) ,(5) disorientation(6) ,(7) loss(8) of(9) awareness(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Freaking(1) awesome(2) !(3) !(4) !(5) 
+			<opinion polarity="+" feature="headphones" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			These(1) are(2) great(3) !(4) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			They(1) stay(2) in(3) place(4) when(5) I(6) headbang(7) ,(8) they(9) have(10) great(11) bass(12) ,(13) good(14) sound(15) quality(16) ,(17) and(18) a(19) long(20) cord(21) .(22) 
+			<opinion polarity="+" feature="bass" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="sound quality" featWords="15,16" opWords="14"/>
+			<opinion polarity="+" feature="cord" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) really(3) comfortable(4) ,(5) and(6) squishy(7) .(8) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			They(1) cancel(2) out(3) sound(4) like(5) none(6) other(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) love(2) these(3) ,(4) and(5) so(6) do(7) all(8) my(9) friends(10) .(11) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			They(1) 're(2) all(3) getting(4) them(5) too(6) !(7) 
+		</sentence>
+		<sentence id="8">
+			Definitely(1) a(2) good(3) buy(4) !(5) 
+			<opinion polarity="+" feature="headphones" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

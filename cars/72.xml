@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="72" item="2002 BMW Z3" rating="5">
+	<title>
+		<sentence id="1">
+			Z3-**Dangerously(1) attractive(2) **(3) Nothing(4) can(5) beat(6) this(7) !(8) 
+			<opinion polarity="+" feature="design" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-184.horsepower(1) .(2) -(3) powerful(4) inline(5) six(6) and(7) ventilated(8) front(9) disc(10) brakes(11) .(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) seats(2) only(3) two(4) passengers(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			At(1) high(2) speeds(3) does(4) the(5) 2.5(6) can(7) feel(8) winded(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Just(1) think-225-horsepower(2) 3.0-liter(3) six-cylinder(4) ,(5) reducing(6) 0(7) to(8) 60(9) mph(10) acceleration(11) performance(12) from(13) about(14) 8_seconds(15) to(16) less(17) than(18) 6(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) intelligence(2) of(3) the(4) vehicle(5) as(6) a(7) whole(8) has(9) always(10) impressed(11) me(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) distinctive(2) physique(3) ,(4) superior(5) handling(6) ,(7) attractive(8) ergonomics(9) ,(10) and(11) excellent(12) value(13) ((14) still(15) under(16) $30,000(17) )(18) have(19) catapulted(20) the(21) Z3(22) to(23) near(24) perfection(25) .(26) 
+			<opinion polarity="+" feature="comfort" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Now(1) it(2) offers(3) style(4) as_well(5) as(6) comfort(7) ,(8) and(9) still(10) keep(11) that(12) sporty(13) look(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) rear(2) suspension(3) of(4) this(5) car(6) was(7) selected(8) with(9) a(10) compromise(11) which(12) allows(13) more(14) baggage(15) space(16) in(17) the(18) trunk(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) 2002(2) BMW(3) Z3(4) brings(5) the(6) rewards(7) of(8) six(9) years(10) of(11) consistent(12) and(13) conscientious(14) development(15) and(16) improvement(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) exciting(2) ,(3) odd-looking(4) Z3(5) was(6) BMW(7) 's(8) contribution(9) to(10) the(11) rebirth(12) of(13) the(14) sports(15) car(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			Z3(1) will(2) not(3) get(4) any(5) better(6) than(7) this(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) never(3) failing(4) to(5) set(6) the(7) pulse(8) racing(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			So(1) it(2) 's(3) no(4) surprise(5) that(6) the(7) open(8) two-seater(9) has(10) a(11) long(12) tradition(13) at(14) BMW(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $29,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Z3(16) 
+		</sentence>
+	</text>
+</review>

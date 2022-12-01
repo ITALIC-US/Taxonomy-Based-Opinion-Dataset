@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="666" item="Club Quarters in Philadelphia" rating="3">
+	<title>
+		<sentence id="1">
+			Very_Small_Room(1) ,(2) Nice(3) ,(4) Great_Location(5) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) solid(4) 3-star(5) hotel(6) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tiny(1) room(2) ,(3) non-working(4) fridge(5) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) wanted(2) to(3) stay(4) in(5) Center_City_Philadelphia(6) for(7) a(8) long(9) weekend(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			So(1) we(2) used(3) Priceline(4) and(5) bid(6) on(7) a(8) 3-star(9) hotel(10) and(11) offered(12) $60(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			The(1) Club_Quarters(2) is(3) where(4) Priceline(5) .(6) com(7) put(8) us(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) should(2) point(3) out(4) that(5) this(6) hotel(7) is(8) part(9) of(10) a(11) chain(12) of(13) business-person(14) specific(15) hotels(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) seen(3) their(4) rooms(5) on(6) many(7) discount(8) travel(9) websites(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) VERY(4) small(5) to(6) the(7) point(8) you(9) 'd(10) say(11) "(12) tiny(13) .(14) "(15) It(16) is(17) truly(18) a(19) nice(20) hotel(21) and(22) we(23) were(24) happy(25) with(26) everything(27) except(28) how(29) very(30) small(31) the(32) room(33) was(34) .(35) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="hotel" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="7">
+			The(1) mini-fridge(2) did(3) not(4) work(5) ,(6) but(7) the(8) microwave(9) did(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) location(2) was(3) fantastic(4) .(5) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) right(3) on(4) Chestnut_St(5) .(6) in(7) Center_City(8) between(9) 16th(10) and(11) 17th(12) streets(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			We(1) were(2) able(3) to(4) walk(5) ((6) a(7) serious(8) walk(9) ,(10) but(11) safe(12) )(13) to(14) Chinatown(15) ;(16) Maybe(17) 15(18) city(19) blocks(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Bottom(1) line(2) :(3) We(4) 'd(5) stay(6) here(7) again(8) for(9) $60/night(10) ,(11) but(12) not(13) more(14) .(15) 
+		</sentence>
+	</text>
+</review>

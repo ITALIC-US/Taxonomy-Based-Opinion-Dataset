@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="230" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Luxury(1) and(2) Sport(3) ,(4) can(5) not(6) go(7) wrong(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) speed(2) ,(3) and(4) options(5) 
+			<opinion polarity="+" feature="speed" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			First(1) off(2) ...(3) Nissan(4) has(5) made(6) some(7) quality(8) vehicles(9) over(10) the(11) year(12) ,(13) and(14) they(15) must(16) be(17) doing(18) their(19) homework(20) because(21) ,(22) they(23) just(24) keep(25) getting(26) better(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) seen(3) a_lot_of(4) Maximas(5) on(6) the(7) road(8) ,(9) including(10) my(11) own(12) ...(13) well(14) ,(15) it(16) 's(17) my(18) mom(19) 's(20) but(21) still(22) ,(23) I(24) like(25) to(26) drive(27) it(28) time(29) to(30) time(31) to(32) get(33) a(34) good(35) feeling(36) of(37) comfort(38) .(39) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) the(3) sister(4) car(5) ,(6) the(7) Altima(8) ,(9) and(10) that(11) is(12) one(13) fine(14) ride(15) also(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) Stock_Maxima(2) comes(3) with(4) a(5) clean(6) V6(7) engine(8) ,(9) and(10) tons(11) of(12) horsepower(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			That(1) is(2) the(3) older(4) versions(5) ...(6) in_the_year_2000(7) ,(8) Nissan(9) beefed(10) up(11) the(12) engine(13) to(14) a(15) clean(16) 220(17) HP(18) engine(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			That(1) is(2) kicking(3) it(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) go(3) for(4) the(5) sporty(6) look(7) ,(8) go(9) for(10) the(11) SE(12) ,(13) there(14) are(15) so(16) many(17) options(18) you(19) can(20) get(21) ,(22) and(23) they(24) are(25) well(26) worth(27) it(28) ,(29) because(30) Nissan(31) designed(32) the(33) new(34) Maxima(35) so(36) well(37) ,(38) even(39) a(40) grump(41) can(42) drive(43) this(44) car(45) and(46) enjoy(47) it(48) .(49) 
+			<opinion polarity="+" feature="design" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			I(1) sat(2) myself(3) into(4) a(5) new(6) 2000(7) Maxima_SE(8) and(9) was(10) I(11) impressed(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) seats(2) were(3) leather(4) the(5) interior(6) was(7) very(8) nice(9) ,(10) spoiler(11) ,(12) alloy(13) wheels(14) ,(15) cd(16) changer(17) ,(18) even(19) the(20) cigarette(21) ashtray(22) had(23) felt(24) inside(25) of(26) it(27) ,(28) incase(29) you(30) wanted(31) to(32) put(33) change(34) inside(35) of(36) it(37) .(38) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="9"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) speedometer(2) had(3) a(4) cool(5) white(6) background(7) for(8) a(9) more(10) sporty(11) look(12) ,(13) and(14) everything(15) was(16) awesome(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="17"/>
+		</sentence>
+		<sentence id="11">
+			To(1) conclude(2) ,(3) I(4) believe(5) that(6) the(7) Nissan_Maxima(8) is(9) a(10) very(11) nice(12) car(13) to(14) look(15) into(16) and(17) it(18) is(19) affordable(20) also(21) .(22) 
+			<opinion polarity="+" feature="price" opWords="20"/>
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) not(3) that(4) expensive(5) ....(6) heck(7) ,(8) I(9) would(10) make(11) the(12) car(13) more(14) if(15) I(16) sold(17) it(18) .(19) 
+			<opinion polarity="+" feature="price" opWords="3,5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) is(3) much(4) more(5) worth(6) that(7) what(8) it(9) sells(10) for(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			That(1) 's(2) news(3) from(4) me(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			TP(1) 
+		</sentence>
+	</text>
+</review>

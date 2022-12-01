@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="70" item="2002 BMW Z3" rating="5">
+	<title>
+		<sentence id="1">
+			BMW(1) Z3(2) 3.0L(3) Manual(4) ((5) sports(6) review(7) )(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stunning(1) looks(2) ,(3) very(4) fast(5) ,(6) class(7) player(8) ,(9) handles(10) well(11) ,(12) great(13) features(14) ,(15) well(16) rounded(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="16,17"/>
+			<opinion polarity="+" feature="handling" opWords="10,11"/>
+			<opinion polarity="+" feature="speed" opWords="5" potency="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) best(2) performance(3) value(4) ,(5) visability(6) ,(7) chassis(8) flex(9) ,(10) cramped(11) interior(12) ,(13) clutch(14) ,(15) not(16) made(17) ,(18) suspension(19) .(20) 
+			<opinion polarity="-" feature="interior" featWords="12" opWords="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Get(1) this(2) car(3) if(4) you(5) want(6) a(7) well(8) rounded(9) sports(10) car(11) ,(12) expect(13) to(14) shell(15) out(16) a(17) few(18) thousand(19) to(20) make(21) it(22) a(23) top(24) player(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="8,9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Updated(1) :(2) 2006/01/16(3) OVERVIEW(4) :(5) This(6) is(7) a(8) review(9) of(10) the(11) "(12) sport(13) specifications(14) "(15) of(16) the(17) Z3(18) and(19) a(20) little(21) more(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			Casual(1) drivers(2) need(3) not(4) apply(5) .(6) :(7) -(8) )(9) BOTTOM_LINE(10) :(11) The(12) BMW(13) Z3(14) has(15) the(16) best(17) offering(18) in_2002(19) and(20) it(21) shows(22) ,(23) as(24) it(25) 's(26) more(27) fun(28) to(29) drive(30) than(31) most(32) other(33) convertibles(34) .(35) 
+			<opinion polarity="+" feature="car" opWords="28"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) are(3) looking(4) for(5) a(6) luxury(7) feel(8) with(9) moderate(10) performance(11) and(12) you(13) do(14) not(15) mind(16) the(17) cramped(18) cabin(19) and(20) minimal(21) storage(22) space(23) ,(24) this(25) may(26) be(27) the(28) car(29) for(30) you(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			Technical(1) problems(2) seem(3) to(4) be(5) minor(6) and(7) the(8) cost(9) of(10) ownership(11) is(12) quite(13) reasonable(14) .(15) 
+			<opinion polarity="+" feature="price" featWords="9" opWords="14" potency="15"/>
+		</sentence>
+		<sentence id="5">
+			This(1) American(2) made(3) German(4) designed(5) roadster(6) is(7) still(8) a(9) big(10) winner(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) owned(3) one(4) for(5) 3(6) years(7) and(8) the(9) following(10) information(11) is(12) my(13) take(14) on(15) the(16) experience(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			SPECIFICATIONS(1) :(2) HP(3) 225(4) ((5) more(6) like(7) 231(8) )(9) ((10) 3.0L(11) DOHC(12) 24(13) valve(14) )(15) Torque(16) 214(17) lbs-ft(18) ((19) impressive(20) )(21) 0-60(22) 5.7_seconds(23) ((24) impressive(25) )(26) 50-70(27) 3.35_seconds(28) Wheelbase(29) 96.3_inches(30) Length(31) 159.4_inches(32) Width(33) 68.5_inches(34) Height(35) 50.9_inches(36) Weight(37) 2,910/2,998_pounds(38) manual(39) /(40) automatic(41) Weight_Distribution(42) 51.1/48.9(43) percent(44) Wheels(45) f(46) /(47) r(48) 7.5X17(49) ,(50) 8.5X17_inches(51) ((52) 8.5x19(53) 11x19(54) max(55) )(56) Tires(57) f(58) /(59) r(60) 225/45(61) ,(62) 245/40(63) Trunk_Capacity(64) 5.0_Cubic_feet(65) ((66) small(67) barely(68) fits(69) golf(70) clubs(71) )(72) ((73) hold(74) apx(75) 3(76) 5(77) gal(78) water(79) cooler(80) bottles(81) )(82) Coefficient(83) of(84) drag(85) 0.42(86) ((87) terrible(88) )(89) Power(90) to(91) Weight(92) 12.6(93) ((94) less(95) is(96) better(97) )(98) Fuel(99) usage(100) 25(101) mpg(102) ((103) my(104) average(105) )(106) INTRODUCTION(107) :(108) For(109) the(110) better(111) part(112) of(113) the(114) late(115) 90s(116) I(117) owned(118) a(119) shiny(120) little(121) red(122) Mazda_Miata(123) ,(124) with(125) ,(126) dare(127) I(128) say(129) it(130) ,(131) an(132) automatic(133) transmission(134) .(135) 
+			<opinion polarity="+" feature="torque" featWords="16" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) it(3) was(4) a(5) delightful(6) little(7) car(8) feeling(9) reminiscent(10) of(11) it(12) 's(13) distant(14) cousins(15) --(16) the(17) MG(18) or(19) Alpha_Romeo(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) I(3) eventually(4) wanted(5) to(6) graduate(7) from(8) the(9) modern(10) day(11) MG(12) to(13) something(14) more(15) brawny(16) like(17) a(18) modern(19) day(20) TR6(21) and(22) the(23) Z3(24) always(25) appeared(26) to(27) be(28) perfect(29) transition(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			I(1) even(2) waited(3) for(4) the(5) Z4(6) to(7) come(8) out(9) and(10) test(11) drove(12) it(13) before(14) I(15) purchased(16) the(17) Z3(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			First(1) off(2) ,(3) the(4) Z3(5) in(6) my(7) opinion(8) is(9) one(10) of(11) the(12) best(13) looking(14) cars(15) on(16) the(17) road(18) for(19) the(20) money(21) short(22) of(23) the(24) Solstice(25) or(26) say(27) a(28) pricey(29) 997(30) Porsche(31) 911(32) .(33) 
+			<opinion polarity="-" feature="price" opWords="29"/>
+			<opinion polarity="+" feature="car" featWords="15" opWords="13,14"/>
+		</sentence>
+		<sentence id="12">
+			When(1) you(2) are(3) done(4) drooling(5) at(6) it(7) 's(8) 17(9) "(10) wheels(11) and(12) coke(13) bottle(14) figure(15) and(16) get(17) behind(18) the(19) wheel(20) ,(21) you(22) just(23) feel(24) you(25) have(26) something(27) substantial(28) in(29) your(30) hands(31) .(32) The(33) car(34) is(35) playful(36) ,(37) firm(38) ,(39) substantial(40) ,(41) and(42) moves(43) quick(44) but(45) in(46) a(47) civilized(48) manner(49) .(50) DRIVING_IMPRESSIONS(51) :(52) Driving(53) the(54) Z3(55) is(56) a_lot_of(57) fun(58) ,(59) handles(60) quite(61) well(62) and(63) yet(64) feels(65) a(66) little(67) bit(68) "(69) heavy(70) "(71) ,(72) it(73) 's(74) not(75) a(76) touchy(77) driving(78) car(79) at(80) all(81) ,(82) fairly(83) relaxed(84) and(85) composed(86) .(87) The(88) engine(89) roars(90) when(91) you(92) dip(93) your(94) right(95) foot(96) ,(97) and(98) this(99) all(100) just(101) adds(102) this(103) sense(104) of(105) drama(106) as(107) the(108) hood(109) raises(110) and(111) force(112) pushes(113) you(114) back(115) into(116) your(117) seat(118) .(119) Looking(120) out(121) the(122) windshield(123) you(124) see(125) this(126) smooth(127) rippled(128) roof(129) and(130) it(131) just(132) feels(133) like(134) a(135) proper(136) roadster(137) .(138) The(139) clutch(140) pedal(141) has(142) a(143) long(144) travel(145) so(146) shifting(147) takes(148) some(149) getting(150) used(151) to(152) ;(153) it(154) 's(155) not(156) very(157) sporty(158) as(159) enthusiasts(160) would(161) prefer(162) it(163) with(164) tight(165) shift(166) travel(167) and(168) close(169) pedals(170) .(171) Also(172) the(173) shifter(174) has(175) a(176) longer(177) throw(178) which(179) is(180) not(181) sport(182) oriented(183) either(184) .(185) I(186) think(187) this(188) car(189) does(190) everything(191) more(192) relaxed(193) ,(194) it(195) 's(196) more(197) "(198) touring(199) car(200) "(201) who(202) does(203) not(204) like(205) to(206) be(207) pushed(208) too(209) hard(210) .(211) 
+			<opinion polarity="-" feature="car" featWords="154" featRef="car" opWords="156,158" potency="157"/>
+			<opinion polarity="+" feature="handling" opWords="60,62" potency="61"/>
+			<opinion polarity="+" feature="speed" opWords="43,44"/>
+			<opinion polarity="+" feature="car" featWords="34" opWords="40"/>
+			<opinion polarity="+" feature="car" featWords="34" opWords="38"/>
+			<opinion polarity="+" feature="car" featWords="34" opWords="36"/>
+		</sentence>
+		<sentence id="13">
+			When(1) pushing(2) the(3) car(4) ,(5) the(6) engine(7) loves(8) the(9) treatment(10) but(11) the(12) suspension(13) is(14) not(15) so(16) happy(17) about(18) it(19) as(20) the(21) car(22) gives(23) up(24) terminal(25) understeer(26) to(27) early(28) and(29) gets(30) "(31) twitchy(32) "(33) at(34) high(35) speeds(36) ((37) 80(38) mph(39) )(40) .(41) 
+		</sentence>
+		<sentence id="14">
+			When(1) you(2) are(3) done(4) looking(5) at(6) the(7) cool(8) "(9) retro(10) interior(11) "(12) with(13) the(14) analog(15) clock(16) ((17) I(18) love(19) that(20) clock(21) )(22) and(23) chrome(24) bits(25) ,(26) the(27) rear(28) visibility(29) is(30) not(31) the(32) best(33) ((34) small(35) plastic(36) window(37) )(38) except_for(39) when(40) the(41) top(42) is(43) down(44) but(45) it(46) 's(47) certainly(48) not(49) as(50) bad(51) as(52) a(53) Pickup(54) or(55) SUV(56) .(57) 
+			<opinion polarity="+" feature="interior" featWords="11" opWords="8"/>
+			<opinion polarity="-" feature="visibility" featWords="29" opWords="31,33"/>
+		</sentence>
+		<sentence id="15">
+			Breaking(1) is(2) quick(3) and(4) impressive(5) ,(6) and(7) the(8) traction(9) control(10) "(11) DSC(12) "(13) lets(14) a(15) little(16) slipping(17) then(18) easily(19) catches(20) the(21) back(22) end(23) if(24) it(25) tries(26) to(27) get(28) loose(29) in(30) rain(31) or(32) hard(33) cornering(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) this(4) car(5) is(6) the(7) envy(8) of(9) my(10) block(11) even(12) as(13) it(14) ages(15) past(16) redesigned(17) Mustang(18) 's(19) and(20) Camaro(21) 's(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			ENGINE(1) :(2) The(3) BMW(4) inline(5) 6(6) engine(7) is(8) a(9) work(10) of(11) art(12) ,(13) with(14) it(15) 's(16) ability(17) to(18) change(19) characteristics(20) depending(21) on(22) if(23) the(24) car(25) is(26) driving(27) hard(28) or(29) just(30) cruising(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			The(1) down(2) side(3) to(4) this(5) is(6) that(7) it(8) feels(9) at(10) times(11) not(12) as(13) responsive(14) as(15) 225(16) horses(17) should(18) feel(19) when(20) quickly(21) accelerating(22) after(23) cruising(24) for(25) a(26) long(27) time(28) .(29) 
+		</sentence>
+		<sentence id="19">
+			However(1) ,(2) it(3) can(4) get(5) 25mpg(6) where(7) many(8) other(9) cars(10) of(11) such(12) brute(13) ability(14) get(15) more(16) like(17) 19(18) mpg(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			Whats(1) also(2) interesting(3) is(4) that(5) it(6) has(7) 200(8) horses(9) hitting(10) the(11) road(12) which(13) makes(14) it(15) the(16) same(17) hp(18) as(19) the(20) S2000(21) at(22) the(23) wheels(24) ((25) the(26) S2000(27) 2000-2003(28) ,(29) is(30) 240hp(31) with(32) 200bhp(33) at(34) the(35) wheels(36) ,(37) but(38) it(39) 's(40) 300lbs(41) lighter(42) )(43) .(44) 
+		</sentence>
+		<sentence id="21">
+			In(1) short(2) ,(3) the(4) engine(5) has(6) a_ton(7) of(8) torque(9) ,(10) plenty_of(11) bhp(12) to(13) make(14) most(15) people(16) very(17) happy(18) --(19) its(20) the(21) BEST(22) performance(23) feature(24) of(25) this(26) car(27) .(28) 
+			<opinion polarity="+" feature="performance" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="22">
+			The(1) one(2) drawback(3) is(4) that(5) you(6) can(7) hardly(8) hear(9) the(10) wonderful(11) engine(12) ((13) like(14) with(15) many(16) other(17) luxury(18) sports(19) cars(20) )(21) thanks(22) to(23) it(24) 's(25) muffled(26) exhaust(27) .(28) 
+			<opinion polarity="+" feature="engine" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="23">
+			It(1) 's(2) almost(3) like(4) car(5) manufacturer(6) 's(7) want(8) the(9) car(10) to(11) feel(12) "(13) effortless(14) "(15) when(16) accelerating(17) hard(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			However(1) ,(2) when(3) getting(4) on(5) it(6) hard(7) enough(8) ,(9) it(10) bellows(11) out(12) that(13) classic(14) "(15) BMW(16) "(17) sound(18) that(19) will(20) put(21) a(22) smile(23) on(24) even(25) the(26) "(27) wimpiest(28) "(29) of(30) drivers(31) .(32) 
+		</sentence>
+		<sentence id="25">
+			In(1) my(2) opinion(3) ,(4) the(5) Dinan(6) intake(7) and(8) exhaust(9) and(10) computer(11) upgrades(12) would(13) be(14) a(15) necessary(16) upgrade(17) to(18) compete(19) with(20) and(21) beat(22) the(23) cars(24) selling(25) for(26) 35K(27) these(28) days(29) ((30) Cost(31) :(32) apx(33) .(34) 1K(35) w(36) /(37) labor(38) )(39) .(40) 
+		</sentence>
+		<sentence id="26">
+			SUSPENSION(1) /(2) HANDLING(3) :(4) The(5) suspension(6) is(7) a_bit(8) of(9) weak(10) point(11) on(12) this(13) car(14) due(15) to(16) something(17) called(18) "(19) chassis(20) flex(21) "(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			The(1) layout(2) was(3) upgraded(4) in(5) the(6) front(7) to(8) MacPherson(9) and(10) still(11) retains(12) trailing-arm(13) in(14) the(15) rear(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			Furthermore(1) ,(2) semi-trailing(3) arms(4) can(5) "(6) break(7) loose(8) "(9) according_to(10) some(11) reviews(12) but(13) I(14) find(15) the(16) opposite(17) true(18) because(19) it(20) is(21) very(22) forgiving(23) when(24) oversteering(25) and(26) also(27) the(28) stability(29) control(30) ((31) aka(32) DSC(33) )(34) "(35) kicks(36) in(37) "(38) and(39) limits(40) the(41) amount(42) of(43) oversteer(44) .(45) 
+		</sentence>
+		<sentence id="29">
+			Even(1) when(2) DSC(3) is(4) disengaged(5) ,(6) the(7) backend(8) oversteer(9) is(10) gradual(11) and(12) only(13) on(14) the(15) bumpest(16) surfaces(17) causes(18) problems(19) .(20) 
+		</sentence>
+		<sentence id="30">
+			Now(1) on(2) to(3) chassis(4) flex(5) issues(6) which(7) have(8) affected(9) some(10) convertibles(11) more(12) than(13) others(14) and(15) in_the_Z3(16) ,(17) unfortunately(18) more(19) so(20) .(21) 
+		</sentence>
+		<sentence id="31">
+			Being(1) a(2) convertible(3) ,(4) the(5) frame(6) is(7) lacking(8) in(9) "(10) torsional(11) rigidity(12) "(13) because_of(14) it(15) 's(16) missing(17) top(18) and(19) it(20) 's(21) being(22) heavier(23) thanks(24) to(25) the(26) convertible(27) hardware(28) and(29) added(30) support(31) materials(32) .(33) 
+		</sentence>
+		<sentence id="32">
+			This(1) is(2) a(3) problem(4) because(5) when(6) working(7) the(8) "(9) twisties(10) "(11) ((12) driving(13) though(14) s-turns(15) )(16) on(17) uneven(18) roads(19) ((20) lets(21) face(22) it(23) most(24) roads(25) have(26) some(27) issues(28) )(29) it(30) can(31) make(32) the(33) car(34) feel(35) unpredictable(36) and(37) twitchy(38) .(39) 
+			<opinion polarity="-" feature="car" featWords="34" opWords="38"/>
+			<opinion polarity="-" feature="car" featWords="34" opWords="36"/>
+		</sentence>
+		<sentence id="33">
+			Also(1) you(2) can(3) be(4) pulled(5) around(6) on(7) roads(8) with(9) tractor(10) trailer(11) created(12) ruts(13) --(14) which(15) would(16) be(17) not(18) noticed(19) in(20) other(21) cars(22) ((23) however(24) also(25) with(26) a_lot_of(27) camber(28) ,(29) cars(30) exibit(31) similar(32) traits(33) )(34) .(35) 
+		</sentence>
+		<sentence id="34">
+			Also(1) ,(2) when(3) you(4) turn(5) hard(6) ,(7) it(8) creates(9) a_lot_of(10) understeer(11) ((12) car(13) still(14) wants(15) to(16) go(17) straight(18) instead_of(19) going(20) into(21) the(22) turn(23) )(24) which(25) forces(26) you(27) to(28) take(29) turns(30) with(31) less(32) precision(33) and(34) slower(35) .(36) 
+		</sentence>
+		<sentence id="35">
+			The(1) good(2) news(3) is(4) that(5) purchasing(6) a(7) "(8) Dinan(9) "(10) strut(11) brace(12) fixes(13) this(14) issue(15) greatly(16) ((17) and(18) you(19) can(20) easily(21) install(22) it(23) yourself(24) )(25) ((26) apx(27) 400(28) USD(29) )(30) .(31) 
+		</sentence>
+		<sentence id="36">
+			I(1) would(2) say(3) that(4) this(5) item(6) is(7) absolutely(8) necessary(9) for(10) ANY(11) Z3(12) owner(13) .(14) 
+		</sentence>
+		<sentence id="37">
+			Also(1) ,(2) if(3) you(4) are(5) serious(6) about(7) performance(8) ,(9) I(10) would(11) spend(12) the(13) 1,000(14) large(15) ((16) including(17) labor(18) )(19) for(20) larger(21) "(22) sway(23) bars(24) "(25) which(26) are(27) already(28) fantastic(29) ,(30) but(31) will(32) make(33) the(34) car(35) feel(36) even(37) stiffer(38) ((39) another(40) alternative(41) is(42) to(43) buy(44) a(45) strongstrut(46) .(47) com(48) brace(49) )(50) .(51) 
+		</sentence>
+		<sentence id="38">
+			Sway(1) bars(2) act(3) as(4) a(5) torsion(6) spring(7) to(8) keep(9) the(10) car(11) from(12) pitching(13) while(14) cornering(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			The(1) last(2) ((3) and(4) most(5) affective(6) )(7) thing(8) to(9) do(10) would(11) be(12) to(13) upgrade(14) the(15) springs(16) and(17) struts(18) and(19) add(20) camber(21) plates(22) which(23) should(24) make(25) the(26) car(27) handle(28) like(29) it(30) really(31) should(32) ((33) apx(34) 2k(35) upgrade(36) )(37) .(38) 
+		</sentence>
+		<sentence id="40">
+			So(1) for(2) about(3) 3K(4) you(5) can(6) upgrade(7) the(8) Z3(9) to(10) a(11) much(12) higher(13) level(14) of(15) performance(16) with(17) :(18) under(19) 5.5(20) secs(21) to(22) 60(23) ,(24) and(25) handling(26) that(27) rivals(28) most(29) cars(30) on(31) the(32) road(33) .(34) 
+		</sentence>
+		<sentence id="41">
+			I(1) guess(2) it(3) 's(4) also(5) worth(6) noting(7) that(8) the(9) steering(10) wheel(11) is(12) very(13) large(14) and(15) squishy(16) ,(17) and(18) the(19) car(20) feels(21) heavy(22) when(23) steering(24) ,(25) that(26) may(27) be(28) undesirable(29) for(30) some(31) people(32) who(33) like(34) a(35) light(36) touch(37) like(38) on(39) the(40) S2000(41) and(42) miata(43) .(44) 
+			<opinion polarity="-" feature="steering" featWords="10,11" opWords="16"/>
+			<opinion polarity="-" feature="steering" featWords="10,11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="42">
+			This(1) review(2) is(3) being(4) overly(5) critical(6) ,(7) remember(8) ,(9) this(10) car(11) has(12) huge(13) 17(14) "(15) ZR(16) rated(17) wheels(18) and(19) .85(20) grip(21) rating(22) ,(23) and(24) a(25) nearly(26) 50/50(27) weight(28) distribution(29) ,(30) which(31) makes(32) for(33) an(34) excellent(35) handling(36) car(37) .(38) Furthermore(39) ,(40) front(41) engine(42) cars(43) can(44) have(45) more(46) feed(47) back(48) and(49) in(50) some(51) cases(52) do(53) better(54) lap(55) times(56) than(57) the(58) fabled(59) mid-engine(60) types(61) such(62) as(63) the(64) Porsche_Boxster(65) .(66) WEATHER_DRIVING(67) :(68) The(69) wheels(70) that(71) come(72) with(73) this(74) model(75) Z3(76) are(77) unacceptable(78) for(79) winter(80) use(81) for(82) they(83) are(84) not(85) all(86) season(87) .(88) In(89) the(90) rain(91) the(92) Z3(93) does(94) quite(95) well(96) with(97) these(98) tires(99) ,(100) well(101) balanced(102) and(103) sure-footed(104) as(105) the(106) large-channeled(107) tires(108) deal(109) with(110) water(111) well(112) .(113) In(114) the(115) winter(116) it(117) 's(118) imparative(119) that(120) the(121) tires(122) be(123) upgraded(124) which(125) is(126) expensive(127) because(128) it(129) 's(130) not(131) easy(132) to(133) get(134) a(135) tire(136) set(137) for(138) this(139) car(140) .(141) The(142) recommendation(143) would(144) be(145) to(146) get(147) a(148) "(149) wheel(150) package(151) "(152) with(153) high-rated(154) winter(155) tires(156) ((157) blizzack(158) 's(159) are(160) what(161) I(162) use(163) )(164) .(165) With(166) these(167) tires(168) feels(169) very(170) sure-footed(171) ,(172) over-steery(173) from(174) the(175) RWD(176) ,(177) and(178) easily(179) controlable(180) .(181) Snow(182) over(183) 6(184) "(185) would(186) be(187) trouble(188) ((189) ground(190) clearance(191) )(192) and(193) steep(194) hills(195) as_well(196) .(197) 
+			<opinion polarity="+" feature="car" opWords="179,180"/>
+			<opinion polarity="+" feature="car" opWords="171" potency="170"/>
+			<opinion polarity="+" feature="car" opWords="104"/>
+			<opinion polarity="+" feature="car" opWords="101,102"/>
+			<opinion polarity="+" feature="handling" featWords="36" opWords="35"/>
+		</sentence>
+		<sentence id="43">
+			However(1) ,(2) this(3) car(4) has(5) made(6) it(7) up(8) hills(9) that(10) some(11) FWD(12) cars(13) could(14) not(15) .(16) 
+		</sentence>
+		<sentence id="44">
+			Lastly(1) ,(2) in(3) bad(4) weather(5) ,(6) rear(7) visability(8) can(9) be(10) worsened(11) as(12) the(13) plastic(14) window(15) can(16) work(17) against(18) you(19) as(20) it(21) steams(22) up(23) or(24) becomes(25) frozen(26) with(27) snow(28) .(29) 
+		</sentence>
+		<sentence id="45">
+			POSSIBLE_PITFALLS(1) ?(2) 
+		</sentence>
+		<sentence id="46">
+			In(1) very(2) cold(3) weather(4) the(5) trunk(6) has(7) trouble(8) closing(9) and(10) power(11) windows(12) close(13) slowly(14) ((15) on(16) mine(17) )(18) .(19) 
+		</sentence>
+		<sentence id="47">
+			People(1) like(2) to(3) complain(4) about(5) the(6) constant(7) but(8) minor(9) break(10) dust(11) buildup(12) and(13) painted(14) wheels(15) scratching(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			Of(1) course(2) some(3) convertibles(4) are(5) prone(6) to(7) leaking(8) but(9) BMW(10) 's(11) build(12) quality(13) is(14) superb(15) and(16) I(17) 've(18) rarely(19) seen(20) leaky(21) Z3(22) 's(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			In(1) fact(2) some(3) convertibles(4) are(5) unable(6) to(7) even(8) go(9) though(10) car(11) washes(12) but(13) the(14) Z3(15) seals(16) quite(17) well(18) and(19) is(20) not(21) a(22) problem(23) .(24) 
+		</sentence>
+		<sentence id="50">
+			Another(1) problem(2) mentioned(3) is(4) the(5) rear(6) differential(7) mount(8) separation(9) "(10) issue(11) "(12) where(13) the(14) differential(15) mounts(16) could(17) be(18) separating(19) from(20) the(21) frame(22) .(23) 
+		</sentence>
+		<sentence id="51">
+			I(1) heard(2) to(3) check(4) for(5) this(6) under(7) the(8) trunk(9) carpet(10) and(11) underneath(12) the(13) car(14) ((15) looking(16) for(17) cracks(18) )(19) but(20) I(21) have(22) yet(23) to(24) see(25) this(26) problem(27) in(28) person(29) .(30) 
+		</sentence>
+		<sentence id="52">
+			Dinan(1) makes(2) "(3) fixes(4) "(5) for(6) this(7) .(8) 
+		</sentence>
+		<sentence id="53">
+			Also(1) ,(2) some(3) say(4) to(5) check(6) for(7) leaking(8) gas(9) tanks(10) from(11) damage(12) incurred(13) from(14) "(15) bottoming(16) out(17) "(18) .(19) 
+		</sentence>
+		<sentence id="54">
+			Front(1) suspension(2) lower(3) ball(4) joints(5) and(6) inner(7) bushes(8) wear(9) .(10) 
+		</sentence>
+		<sentence id="55">
+			Service(1) light(2) indicator(3) can(4) easily(5) be(6) re-set(7) on(8) this(9) model(10) year(11) ((12) 2000(13) )(14) ,(15) so(16) a(17) paid(18) invoice(19) is(20) the(21) only(22) guarantee(23) of(24) a(25) recent(26) service(27) .(28) 
+		</sentence>
+		<sentence id="56">
+			Check(1) took(2) kit(3) is(4) all(5) there(6) .(7) 
+		</sentence>
+		<sentence id="57">
+			Also(1) ,(2) tire(3) rotation(4) is(5) not(6) possible(7) as(8) some(9) models(10) have(11) larger(12) wheels(13) in(14) the(15) back(16) then(17) the(18) front(19) with(20) directional(21) tread(22) .(23) 
+		</sentence>
+		<sentence id="58">
+			RELIABILITY(1) :(2) Realiability(3) is(4) good(5) ,(6) one(7) of(8) the(9) best(10) of(11) the(12) German(13) made(14) cars(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="10"/>
+		</sentence>
+		<sentence id="59">
+			If(1) you(2) are(3) value(4) oriented(5) ,(6) the(7) Z3(8) as(9) a(10) used(11) car(12) could(13) be(14) a(15) good(16) choice(17) over(18) a(19) New(20) S2000(21) .(22) 
+		</sentence>
+		<sentence id="60">
+			However(1) a(2) new(3) S2000(4) is(5) the(6) best(7) performance(8) car(9) for(10) the(11) money(12) ((13) at(14) the(15) cost(16) of(17) some(18) refinement(19) )(20) Reliability_Index(21) :(22) ((23) lower(24) is(25) better(26) )(27) Honda(28) S2000(29) ((30) 40-50(31) est(32) .(33) )(34) MB_SLK(35) ((36) 71.81(37) )(38) *(39) comparing(40) newer(41) models(42) BMW(43) Z3(44) ((45) 102.93(46) )(47) Industry_Average(48) ((49) 112(50) )(51) Audi_TT(52) ((53) 251.2(54) )(55) Boxster(56) ((57) 277.46(58) )(59) CONCLUSION(60) :(61) In(62) short(63) ,(64) this(65) car(66) is(67) perfect(68) for(69) someone(70) who(71) wants(72) a(73) very(74) stoutly(75) feeling(76) and(77) playful(78) car(79) which(80) is(81) an(82) absolute(83) dream(84) to(85) drive(86) with(87) the(88) top(89) down(90) and(91) has(92) a(93) civilized(94) nature(95) about(96) it(97) .(98) 
+			<opinion polarity="+" feature="car" featWords="66" opWords="68"/>
+			<opinion polarity="+" feature="car" featWords="79" opWords="78"/>
+			<opinion polarity="+" feature="performance" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="61">
+			The(1) features(2) are(3) very(4) hard(5) to(6) beat(7) as_well(8) ((9) I(10) could(11) easily(12) break(13) it(14) down(15) ,(16) it(17) 's(18) actually(19) quite(20) amazing(21) )(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="62">
+			However(1) ,(2) if(3) you(4) want(5) >(6) =(7) S2000/boxster(8) like(9) performance(10) ,(11) you(12) would(13) need(14) to(15) sink(16) another(17) 3-4K(18) USD(19) ((20) including(21) labor(22) )(23) into(24) the(25) suspension(26) ,(27) software(28) ,(29) and(30) intake(31) /(32) exhaust(33) upgrades(34) .(35) ((36) Note(37) ,(38) this(39) is(40) the(41) retail(42) price(43) for(44) upgrades(45) from(46) BMW_'s_Dinan(47) department(48) which(49) gives(50) you(51) a(52) 2year(53) 50K(54) warranty(55) .(56) )(57) Currently(58) ,(59) I(60) have(61) only(62) purchased(63) the(64) strut(65) tower(66) brace(67) and(68) my(69) car(70) could(71) easily(72) keep(73) up(74) with(75) anything(76) in(77) it(78) 's(79) price(80) range(81) .(82) 
+		</sentence>
+		<sentence id="63">
+			I(1) 'm(2) thinking(3) RX8(4) ,(5) 350Z(6) ,(7) Mustang(8) ,(9) S2000(10) ,(11) Crossfire(12) etc.(13) and(14) it(15) would(16) easily(17) crush(18) most(19) upgraded(20) hondas(21) ,(22) the(23) Solstice(24) ,(25) Miata(26) ,(27) etc.(28) etc.(29) basically(30) anything(31) priced(32) under(33) it(34) .(35) 
+		</sentence>
+		<sentence id="64">
+			I(1) would(2) say(3) this(4) is(5) a(6) well(7) rounded(8) sports(9) car(10) which(11) looks(12) great(13) ,(14) drives(15) well(16) ,(17) and(18) will(19) not(20) put(21) you(22) in(23) excessive(24) back(25) pain(26) sitting(27) in(28) it(29) 's(30) sport(31) seats(32) .(33) 
+			<opinion polarity="+" feature="ride quality" opWords="15,16"/>
+			<opinion polarity="+" feature="design" opWords="12,13"/>
+			<opinion polarity="+" feature="car" featWords="10" opWords="7,8"/>
+		</sentence>
+		<sentence id="65">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Z3(16) 3.0(17) ,(18) manual(19) ,(20) sport(21) 
+		</sentence>
+	</text>
+</review>

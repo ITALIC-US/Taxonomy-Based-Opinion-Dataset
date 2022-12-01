@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="955" item="Club Amigo Carisol-Corales" rating="4">
+	<title>
+		<sentence id="1">
+			Los_Corales_Hotel_Santiago(1) de(2) Cuba(3) -(4) under(5) new(6) management(7) -(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) people(2) -(3) The(4) food(5) -(6) the(7) weather(8) -(9) the(10) price(11) -(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Far(1) away(2) from(3) the(4) city(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) value(2) for(3) your(4) dollar-Very(5) clean(6) and(7) safe-good(8) food(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) year(2) the(3) hotel(4) is(5) managed(6) by(7) CUBACAN(8) and(9) No_longer(10) by(11) an(12) Italian(13) company(14) -(15) The(16) employees(17) very(18) happy(19) and(20) the(21) customer(22) too(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Very(1) clean(2) -(3) Good(4) food(5) but(6) not(7) 5(8) stars(9) .(10) 
+			<opinion polarity="+" feature="food" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			They(1) try(2) every(3) day(4) to(5) show(6) a(7) different(8) selection(9) of(10) dishes-Decoration(11) and(12) presentation(13) of(14) meals(15) done(16) by(17) Daniel_Santos_Gonzalez(18) who(19) is(20) doing(21) a(22) really(23) incredible(24) job(25) -(26) The(27) service(28) is(29) SUPERB(30) -(31) the(32) entertainment(33) is(34) very(35) good(36) and(37) there(38) is(39) something(40) to(41) do(42) all(43) day(44) long(45) -(46) Very(47) safe(48) and(49) secure-Every(50) meal(51) ((52) 3(53) )(54) last(55) at_least(56) 3(57) hrs(58) so(59) you(60) can(61) go(62) any(63) time(64) is(65) convenient(66) .(67) 
+			<opinion polarity="+" feature="service" featWords="28" opWords="30"/>
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) goes(3) out(4) of(5) their(6) way(7) to(8) please(9) you(10) in(11) any(12) way(13) they(14) can(15) ...(16) and(17) trust(18) me(19) they(20) go(21) the(22) extra(23) mile(24) in_order_to(25) make(26) you(27) feel(28) at(29) home(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) price(2) that(3) we(4) paid(5) was(6) very(7) good(8) ...(9) but(10) even_if(11) we(12) pay(13) 50_%(14) more(15) ...(16) STILL(17) a(18) good(19) deal(20) .(21) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="6">
+			YES(1) ...(2) they(3) like(4) tips(5) ...(6) but(7) if(8) you(9) take(10) clothes(11) used(12) in(13) good(14) conditions(15) is(16) also(17) well(18) accepted(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			At(1) the(2) beach(3) you(4) can(5) use(6) ((7) free(8) )(9) snorkers(10) ;(11) cayaks(12) ;(13) pedalos-and(14) you(15) can(16) ride(17) the(18) Catamaran(19) driven(20) by(21) one(22) employee(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) shows(2) are(3) at(4) 9:30(5) PM(6) everyday(7) ,(8) mostly(9) dancing(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) Magician(4) ;(5) Leonel(6) ((7) they(8) call(9) him(10) MAGO(11) )(12) who(13) is(14) really(15) amazing(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Horses(1) can(2) be(3) rented(4) from(5) locals(6) at(7) the(8) front(9) door(10) or(11) any(12) employee(13) can(14) arrange(15) them(16) to(17) meet(18) you(19) at(20) the(21) front(22) door(23) -(24) 5(25) Convertible(26) pesos(27) will(28) pay(29) for(30) the(31) whole(32) day(33) going(34) around(35) but(36) it(37) will(38) be(39) shorter(40) .(41) .(42) because(43) your(44) butt(45) will(46) not(47) take(48) it(49) :(50) -(51) )(52) :(53) -(54) )(55) .(56) 
+		</sentence>
+		<sentence id="11">
+			Tour(1) to(2) Santiago(3) de(4) Cuba(5) are(6) easy(7) to(8) get(9) at(10) front(11) desk(12) @(13) 40(14) $(15) for(16) the(17) whole(18) day(19) or(20) 25(21) $(22) for(23) 1/2(24) day(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			The(1) city(2) is(3) old(4) and(5) NOT(6) in(7) good(8) shape(9) ...(10) still(11) a(12) good(13) experience(14) to(15) see(16) something(17) that(18) will(19) make(20) you(21) think(22) and(23) be(24) grateful(25) for(26) what(27) we(28) have(29) in(30) Canada(31) .(32) 
+		</sentence>
+		<sentence id="13">
+			Going(1) to(2) the(3) corals(4) with(5) snorklers(6) and(7) some(8) bread(9) or(10) rice(11) will(12) be(13) something(14) you(15) 'll(16) never(17) forget(18) ...(19) in(20) 5(21) minutes(22) you(23) 'll(24) have(25) more(26) than(27) 100(28) fishes(29) of(30) different(31) colors(32) and(33) shapes(34) swimming(35) around(36) you(37) in(38) a(39) very(40) safe(41) 3_feet(42) of(43) water(44) .(45) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) have(3) kids(4) you(5) 'll(6) enjoy(7) it(8) even(9) more(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			Overall(1) is(2) a(3) great(4) place(5) and(6) the(7) best(8) value(9) for(10) your(11) dollar(12) .(13) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			We(1) are(2) very(3) happy(4) about(5) the(6) time(7) we(8) spent(9) there(10) .(11) 
+		</sentence>
+	</text>
+</review>

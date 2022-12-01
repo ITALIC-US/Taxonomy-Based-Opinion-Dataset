@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="286" item="Apple M9394GC Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) move(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) great(2) *(3) if(4) *(5) you(6) have(7) sample(8) size(9) ear(10) canal(11) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pop(1) out(2) and(3) hurt(4) small(5) ears(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) got(2) these(3) because(4) I(5) have(6) little(7) ears(8) and(9) my(10) original(11) ear(12) buds(13) hurt(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) I(3) could(4) get(5) these(6) to(7) work(8) considering(9) they(10) came(11) with(12) different(13) sized(14) caps.(15) The(16) sound(17) is(18) excellent(19) *(20) if(21) *(22) you(23) hold(24) completely(25) still(26) and(27) you(28) hold(29) them(30) in(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) have(3) just(4) the(5) right(6) size(7) ears(8) and(9) the(10) you(11) get(12) the(13) seal(14) to(15) work(16) they(17) are(18) worth(19) the(20) money(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) not(3) even(4) turn(5) my(6) head(7) while(8) lying(9) down(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) right(2) one(3) is(4) cutting(5) out(6) after(7) a(8) month(9) as_well(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) have(3) small(4) ears(5) they(6) will(7) hurt(8) no(9) matter(10) what(11) size(12) caps(13) you(14) use(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			I(1) read(2) that(3) you(4) can(5) rig(6) them(7) to(8) work(9) with(10) foam(11) from(12) different(13) ear(14) buds(15) buy(16) why(17) bother(18) ?(19) 
+		</sentence>
+	</text>
+</review>

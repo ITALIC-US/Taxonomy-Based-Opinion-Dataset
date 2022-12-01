@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="170" item="JVC HA-X570 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Comfortable(1) lightweight(2) headphones(3) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lightweight(1) and(2) very(3) comfortable(4) .(5) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) sound(2) .(3) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) lightweight(2) design(3) ((4) may(5) be(6) prone(7) to(8) breakage(9) ?(10) )(11) Super(12) bass(13) is(14) not(15) that(16) super(17) .(18) 
+			<opinion polarity="+" feature="weight" opWords="2" potency="1"/>
+			<opinion polarity="-" feature="bass" featWords="13" opWords="15,17"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) get(4) them(5) for(6) 9.99(7) $(8) online(9) go(10) for(11) it(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) price(3) I(4) paid(5) ((6) 34.99(7) $(8) )(9) it(10) is(11) not(12) really(13) a(14) bargain(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) found(2) these(3) headphones(4) to(5) VERY(6) comfortable(7) .(8) 
+			<opinion polarity="+" feature="comfort" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) worn(3) them(4) for(5) 4(6) hour(7) stretches(8) or(9) longer(10) with(11) no(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) had(3) troubles(4) in(5) the(6) past(7) with(8) Koss(9) overear(10) designs(11) being(12) hot(13) and(14) and(15) causing(16) headaches(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) on(4) them(5) is(6) '(7) good(8) '(9) but(10) I(11) would(12) not(13) go(14) any(15) further(16) than(17) that(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			I(1) expect(2) to(3) be(4) excited(5) by(6) headphones(7) and(8) I(9) was(10) not(11) no(12) matter(13) what(14) I(15) listened(16) to(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			It(1) claims(2) '(3) super(4) bass(5) '(6) on(7) the(8) side(9) but(10) again(11) I(12) would(13) describe(14) the(15) bass(16) as(17) adequate(18) compared(19) to(20) some(21) old(22) Koss_I(23) had(24) ((25) or(26) maybe(27) I(28) am(29) losing(30) my(31) low(32) end(33) hearing(34) )(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) a(3) very(4) lightweight(5) design(6) so(7) I(8) worried(9) they(10) would(11) break(12) easily(13) .(14) 
+			<opinion polarity="+" feature="weight" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) dropped(3) them(4) at_least(5) four_times(6) now(7) and(8) nothing(9) has(10) happened(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) cords(2) are(3) very(4) spindly(5) and(6) I(7) wonder(8) if(9) they(10) will(11) develop(12) the(13) same(14) breakage(15) problem(16) I(17) had(18) on(19) the(20) Koss_I(21) owned(22) if(23) given(24) a(25) few(26) too(27) many(28) accidental(29) yanks(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			I(1) needed(2) something(3) and(4) bought(5) them(6) on(7) a(8) whim(9) ((10) self(11) birthday(12) present(13) )(14) at(15) A(16) &(17) B(18) sound(19) here(20) in(21) canada(22) for(23) 34.99(24) $(25) pls(26) .(27) tax(28) which(29) seems(30) like(31) a_lot(32) compared(33) to(34) the(35) prices(36) one(37) can(38) get(39) them(40) online(41) .(42) 
+		</sentence>
+		<sentence id="11">
+			I(1) hope(2) to(3) have(4) them(5) as(6) a(7) good(8) backup(9) beater(10) pair(11) once(12) I(13) can(14) decide(15) and(16) buy(17) a(18) nice(19) pair(20) of(21) Grado_'s_Senn(22) 's(23) ,(24) Koss(25) or(26) whatever(27) higher(28) end(29) I(30) find(31) and(32) like(33) .(34) 
+		</sentence>
+		<sentence id="12">
+			Thanks(1) .(2) 
+		</sentence>
+		<sentence id="13">
+			Review(1) things(2) peeps(3) it(4) helps(5) everyone(6) !(7) 
+		</sentence>
+	</text>
+</review>

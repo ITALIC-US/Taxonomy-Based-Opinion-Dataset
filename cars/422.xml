@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="422" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) great(2) used(3) car(4) to(5) buy(6) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looks(2) ,(3) good(4) power(5) ,(6) great(7) reliability(8) ,(9) smooth(10) transmission(11) .(12) 
+			<opinion polarity="+" feature="transmission" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="reliability" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="horsepower" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mileage(1) lower(2) than(3) expected(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Automatic(1) climate(2) control(3) noise(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) good(4) car(5) overall(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) reliability(2) makes(3) it(4) a(5) good(6) used(7) car(8) choice(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) first(2) Honda(3) was(4) a(5) civic(6) I(7) bought(8) in_1992(9) and(10) got(11) 240K_miles(12) on(13) it(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) my(3) used(4) Honda(5) ex(6) coupe(7) in(8) October_of_2004(9) and(10) overall(11) I(12) 'm(13) very(14) happy(15) with(16) it(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="17" featRef="car" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="3">
+			The(1) engine(2) is(3) smooth(4) and(5) takes(6) no(7) effort(8) to(9) start(10) .(11) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) the(3) common(4) Honda(5) sewing(6) machine(7) purr(8) to(9) it(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) V(2) -(3) 6(4) is(5) a(6) nice(7) touch(8) on(9) hills(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Be(1) careful(2) though(3) ,(4) because(5) you(6) will(7) be(8) going(9) 80mph(10) without(11) realizing(12) it(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) gas(2) mileage(3) I(4) get(5) is(6) not(7) as(8) great(9) as(10) I(11) hoped(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Its(1) somewhere(2) in(3) the(4) mid(5) 20(6) 's(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			The(1) handling(2) is(3) a_bit(4) sluggish(5) compared(6) to(7) the(8) civic(9) .(10) 
+			<opinion polarity="-" feature="handling" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) is(3) very(4) quiet(5) though(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) sound(2) system(3) is(4) nice(5) .(6) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="12">
+			It(1) has(2) a(3) huge(4) trunk(5) .(6) 
+			<opinion polarity="+" feature="trunk" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) fit(3) a_ton(4) of(5) stuff(6) in(7) the(8) center(9) console(10) also(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			One(1) thing(2) to(3) watch(4) out(5) for(6) if(7) purchasing(8) a(9) used(10) honda(11) is(12) the(13) climate(14) control(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			My_Honda(1) 's(2) climate(3) control(4) makes(5) an(6) annoying(7) waffling(8) sound(9) when(10) you(11) dial(12) in(13) a(14) specific(15) temperature(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			I(1) 'm(2) guessing(3) its(4) a(5) bad(6) controller(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			If(1) I(2) turn(3) the(4) dial(5) all(6) the(7) way(8) hot(9) ((10) 80(11) degrees(12) )(13) or(14) max(15) cold(16) ((17) 60(18) degrees(19) )(20) the(21) noise(22) goes(23) away(24) .(25) 
+		</sentence>
+		<sentence id="18">
+			Just(1) something(2) to(3) check(4) when(5) looking(6) at(7) a(8) used(9) one(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			Make(1) sure(2) you(3) play(4) with(5) the(6) automatic(7) climate(8) control(9) dial(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 14500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX(16) ,(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

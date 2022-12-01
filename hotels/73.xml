@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="73" item="Hyatt Regency Washington on Capitol Hill" rating="2">
+	<title>
+		<sentence id="1">
+			Disappointing(1) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) breakfast(2) was(3) nice(4) ,(5) and(6) the(7) decor(8) was(9) striking(10) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="decoration" featWords="8" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hotel(1) staff(2) were(3) overwhelmed(4) 
+			<opinion polarity="-" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) bad(2) ,(3) but(4) you(5) may(6) want(7) to(8) look(9) elsewhere(10) during(11) peak(12) times(13) -(14) the(15) staff(16) gets(17) overwhelmed(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hotel(1) details(2) and(3) initial(4) impressions(5) :(6) The(7) Hyatt_Regency(8) in(9) Washington(10) ,(11) DC(12) is(13) located(14) on(15) New_Jersey_Avenue(16) ,(17) only(18) a(19) few(20) blocks(21) from(22) Capitol_Hill(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) easily(3) accessible(4) via(5) DC_Metro(6) public(7) transportation(8) ,(9) and(10) just(11) a(12) short(13) walk(14) away(15) from(16) Union_Station(17) ,(18) if(19) coming(20) in(21) by(22) train(23) .(24) 
+			<opinion polarity="+" feature="hotel" featWords="1" featRef="hotel" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			The(1) decor(2) strikes(3) you(4) at(5) first(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			To(1) reach(2) the(3) lobby(4) ,(5) you(6) have(7) to(8) take(9) an(10) escalator(11) down(12) from(13) the(14) entranceway(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			This(1) adds(2) to(3) the(4) grandeur(5) of(6) the(7) lobby(8) in(9) its(10) wide(11) open(12) space(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) itself(3) is(4) divided(5) into(6) an(7) east(8) and(9) west(10) area(11) ,(12) so(13) there(14) are(15) two(16) sets(17) of(18) elevators(19) that(20) will(21) take(22) you(23) to(24) your(25) floor(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			The(1) banks(2) are(3) not(4) connected(5) ,(6) so(7) if(8) you(9) have(10) a(11) friend(12) staying(13) on(14) the(15) same(16) floor(17) ,(18) but(19) on(20) the(21) other(22) side(23) ,(24) you(25) 'll(26) need(27) to(28) take(29) an(30) elevator(31) to(32) the(33) ground(34) floor(35) and(36) then(37) use(38) the(39) bank(40) on(41) the(42) other(43) side(44) .(45) 
+		</sentence>
+		<sentence id="8">
+			My(1) room(2) had(3) a(4) king(5) size(6) bed(7) ,(8) and(9) it(10) was(11) suitable(12) in(13) the(14) amount(15) of(16) space(17) given(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			There(1) are(2) plenty_of(3) amenities(4) included(5) ,(6) among(7) them(8) :(9) *(10) Separate(11) work(12) area(13) *(14) Hairdryer(15) *(16) Iron(17) /(18) ironing(19) board(20) *(21) Coffee(22) maker(23) *(24) Cable(25) /(26) satellite(27) TV(28) channels(29) *(30) AM(31) /(32) FM_Clock_Radio(33) *(34) Analog(35) phone(36) line(37) *(38) Cordless(39) phone(40) ((41) s(42) )(43) *(44) Dataport(45) *(46) Individual(47) heat(48) control(49) *(50) Voicemail(51) *(52) Oversized(53) work(54) desk(55) *(56) iHome(57) Hyatt_Stereo(58) ((59) which(60) for(61) some(62) reason(63) ,(64) I(65) was(66) unable(67) to(68) get(69) working(70) ,(71) even_though(72) I(73) had(74) followed(75) the(76) instructions(77) perfectly(78) )(79) *(80) 25_Inch(81) or(82) Larger_TV(83) *(84) Video(85) on(86) demand(87) *(88) Dual(89) line(90) phones(91) *(92) Crib(93) upon(94) request(95) *(96) Individual(97) air(98) conditioning(99) control(100) *(101) Video(102) checkout(103) *(104) Windows(105) open(106) 2-3_inches(107) With(108) the(109) amount(110) of(111) taxis(112) at(113) the(114) stand(115) outside(116) ,(117) hotel(118) staff(119) will(120) easily(121) help(122) get(123) you(124) in(125) a(126) taxi(127) to(128) get(129) where(130) you(131) 're(132) going(133) .(134) 
+		</sentence>
+		<sentence id="10">
+			There(1) are(2) plenty_of(3) great(4) restaurants(5) and(6) attractions(7) only(8) minutes(9) from(10) the(11) hotel(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Be(1) sure(2) to(3) check(4) hyatt(5) .(6) com(7) for(8) bonus(9) offers(10) when(11) booking(12) your(13) room(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			You(1) can(2) get(3) extra(4) Hyatt_Gold_Passpoint(5) points(6) by(7) simply(8) using(9) a(10) promotional(11) code(12) when(13) booking(14) ,(15) making(16) it(17) easier(18) to(19) earn(20) free(21) nights(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			The(1) Networks(2) bar(3) was(4) adequately(5) staffed(6) and(7) provided(8) decent(9) service(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Although(1) I(2) was(3) not(4) wowed(5) ,(6) I(7) did(8) find(9) things(10) suitable(11) for(12) a(13) busy(14) hotel(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			The(1) buffet(2) breakfast(3) had(4) a(5) wide(6) array(7) of(8) selections(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			You(1) 'll(2) definitely(3) get(4) your(5) fill(6) on(7) cold(8) and(9) hot(10) cereal(11) ,(12) fruit(13) ,(14) eggs(15) ,(16) bacon(17) ,(18) French(19) toast(20) ,(21) etc.(22) The(23) buffet(24) came(25) in(26) at(27) about(28) $25/person(29) .(30) 
+		</sentence>
+		<sentence id="17">
+			My(1) most(2) recent(3) experience(4) :(5) I(6) was(7) in(8) Washington(9) ,(10) DC(11) for(12) a(13) convention(14) this(15) past_June(16) ,(17) and(18) my(19) colleagues(20) and(21) I(22) had(23) booked(24) at(25) the(26) Hyatt_Regency(27) on(28) Capitol_Hill(29) ,(30) as(31) it(32) was(33) one(34) of(35) the(36) partner(37) hotels(38) for(39) the(40) convention(41) ,(42) and(43) was(44) easily(45) accessible(46) via(47) shuttle(48) to(49) /(50) from(51) the(52) Washington_Convention_Center(53) .(54) 
+		</sentence>
+		<sentence id="18">
+			All(1) of(2) us(3) were(4) Hyatt_Gold_Passport(5) holders(6) ,(7) and(8) we(9) thought(10) it(11) would(12) be(13) nice(14) to(15) earn(16) a(17) few(18) extra(19) points(20) by(21) staying(22) at(23) this(24) supposedly(25) luxurious(26) hotel(27) .(28) 
+		</sentence>
+		<sentence id="19">
+			Well(1) ,(2) bad(3) idea(4) .(5) 
+		</sentence>
+		<sentence id="20">
+			The(1) room(2) came(3) in(4) at(5) over(6) $400/night(7) ,(8) which(9) must(10) have(11) been(12) great(13) for(14) the(15) hotel(16) during(17) this(18) time(19) of(20) year(21) ,(22) when(23) there(24) were(25) many(26) trade(27) shows(28) going(29) on(30) in(31) Washington(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			It(1) was(2) packed(3) full(4) ,(5) but(6) really(7) was(8) not(9) the(10) quality(11) I(12) had(13) expected(14) from(15) a(16) Hyatt(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			For(1) some(2) reason(3) ,(4) the(5) shower(6) in(7) my(8) room(9) was(10) the(11) loudest(12) shower(13) I(14) ever(15) heard(16) in(17) my(18) life(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			It(1) must(2) have(3) been(4) in(5) the(6) pipes(7) ,(8) because(9) you(10) could(11) hear(12) the(13) water(14) rushing(15) through(16) some(17) poor(18) plumbing(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			It(1) worked(2) ,(3) but(4) I(5) wish(6) I(7) had(8) earplugs(9) ,(10) since(11) the(12) shower(13) noise(14) was(15) nearly(16) deafening(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			Needless(1) to(2) say(3) ,(4) these(5) rooms(6) are(7) not(8) checked(9) very(10) often(11) for(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			Worst(1) of(2) all(3) ,(4) upon(5) checkout(6) ,(7) I(8) was(9) directed(10) to(11) go(12) to(13) a(14) kiosk(15) by(16) the(17) hotel(18) employee(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			It(1) turned(2) out(3) I(4) was(5) mistakenly(6) charged(7) for(8) parking(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			I(1) had(2) to(3) go(4) back(5) and(6) have(7) my(8) account(9) changed(10) .(11) 
+		</sentence>
+		<sentence id="29">
+			Then(1) ,(2) instead_of(3) removing(4) the(5) parking(6) fee(7) ,(8) it(9) was(10) added(11) back(12) on(13) ,(14) so(15) I(16) had(17) then(18) paid(19) for(20) two(21) nights(22) of(23) parking(24) ,(25) when(26) I(27) still(28) did(29) not(30) bring(31) a(32) car(33) .(34) 
+		</sentence>
+		<sentence id="30">
+			The(1) bill(2) was(3) finally(4) correct(5) on(6) the(7) third(8) time(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			I(1) had(2) originally(3) planned(4) to(5) check(6) out(7) in(8) person(9) with(10) a(11) staff(12) member(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			The(1) employee(2) assured(3) me(4) that(5) the(6) kiosk(7) would(8) work(9) fine(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			After(1) having(2) the(3) bill(4) amended(5) twice(6) ,(7) I(8) do(9) not(10) think(11) it(12) was(13) as(14) efficient(15) as(16) she(17) had(18) hoped(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			Considering(1) the(2) lobby(3) was(4) FULL(5) of(6) other(7) conventioneers(8) ,(9) I(10) can(11) see(12) why(13) she(14) directed(15) towards(16) self-service(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			After(1) my(2) trip(3) :(4) Customer(5) service(6) did(7) redeem(8) themselves(9) on(10) this(11) trip(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			After(1) detailing(2) my(3) experiences(4) thoroughly(5) to(6) Hyatt_Customer_Service(7) ,(8) I(9) was(10) granted(11) 12000(12) Gold_Passport(13) points(14) ,(15) enough(16) for(17) a(18) free(19) night(20) at(21) just(22) about(23) any(24) Hyatt(25) property(26) .(27) 
+		</sentence>
+		<sentence id="37">
+			I(1) 'm(2) sure(3) in(4) the(5) low(6) season(7) ,(8) it(9) may(10) be(11) worth(12) a(13) visit(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			If(1) you(2) 're(3) going(4) in(5) early(6) to(7) mid-summer(8) ,(9) when(10) DC(11) is(12) packed(13) full(14) of(15) conventioneers(16) ,(17) do(18) what(19) I(20) had(21) originally(22) planned(23) on(24) doing(25) -(26) go(27) to(28) Arlington(29) or(30) Alexandria(31) .(32) 
+		</sentence>
+		<sentence id="39">
+			I(1) 'm(2) sure(3) you(4) 'd(5) be(6) able(7) to(8) enjoy(9) your(10) stay(11) away(12) from(13) the(14) busy-ness(15) of(16) Capitol_Hill(17) .(18) 
+		</sentence>
+		<sentence id="40">
+			I(1) guess(2) not(3) everything(4) on(5) Capitol_Hill(6) runs(7) smoothly(8) !(9) 
+		</sentence>
+	</text>
+</review>

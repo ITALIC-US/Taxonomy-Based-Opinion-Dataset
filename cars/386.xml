@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="386" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			2.3(1) or(2) 2.8(3) engine(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			2.3(1) good(2) buy(3) ,(4) stylish(5) Bond(6) look(7) 
+			<opinion polarity="+" feature="design" featWords="7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			2.8(1) is(2) a(3) middle(4) step(5) ,(6) need(7) to(8) move(9) up(10) to(11) ZM3(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) BMW(2) Z3(3) comes(4) in(5) two(6) engine(7) classes(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Both(1) are(2) in-line(3) 6(4) cylinders(5) but(6) one(7) has(8) a(9) 2.3L(10) displacement(11) while(12) the(13) other(14) has(15) a(16) 2.8L(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Horsepower(1) is(2) increased(3) by(4) aprox(5) .(6) 30-40(7) horses(8) ((9) I(10) do(11) not(12) remember(13) the(14) exact(15) figure(16) )(17) but(18) acceleration(19) is(20) only(21) increased(22) by(23) 0.4s(24) between(25) the(26) 2.3(27) and(28) 2.8L(29) engines(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			Of(1) coarse(2) the(3) faster(4) being(5) the(6) 2.8L(7) but(8) with(9) an(10) increase(11) in(12) price(13) of(14) about(15) 10,000CND(16) ,(17) is(18) the(19) 2.8(20) really(21) worth(22) the(23) money(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Sure(1) you(2) are(3) getting(4) a(5) more(6) performance(7) oriented(8) car(9) but(10) keep(11) in(12) mind(13) that(14) both(15) cars(16) are(17) basically(18) exactly(19) the(20) same(21) except_for(22) the(23) engine(24) ((25) minus(26) a(27) few(28) interior(29) options(30) which(31) come(32) standard(33) on(34) the(35) 2.8(36) but(37) needs(38) to(39) be(40) added(41) on(42) the(43) 2.3(44) )(45) .(46) 
+		</sentence>
+		<sentence id="6">
+			They(1) both(2) share(3) the(4) same(5) suspension(6) and(7) framework(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Now(1) ,(2) if(3) you(4) are(5) really(6) a(7) performance(8) buff(9) why(10) go(11) for(12) the(13) 2.8(14) then(15) ,(16) people(17) like(18) those(19) should(20) go(21) straight(22) up(23) to(24) the(25) Z(26) M3(27) Roadster(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			That(1) 's(2) why(3) I(4) believe(5) that(6) if(7) you(8) want(9) to(10) look(11) cool(12) and(13) style(14) around(15) the(16) city(17) ,(18) but(19) are(20) not(21) too(22) concerned(23) about(24) having(25) the(26) quickest(27) car(28) around(29) ,(30) then(31) the(32) Z3(33) 2.3(34) is(35) for(36) you(37) .(38) 
+			<opinion polarity="+" feature="speed" opWords="27"/>
+		</sentence>
+		<sentence id="9">
+			But(1) if(2) performance(3) is(4) a(5) key(6) factor(7) in(8) your(9) book(10) then(11) go(12) up(13) to(14) the(15) Z(16) M3(17) ,(18) do(19) not(20) just(21) waste(22) 10(23) grand(24) on(25) the(26) 2.8(27) when(28) the(29) real(30) performance(31) is(32) somewhere(33) else(34) .(35) 2.8L(36) Z3(37) is(38) not(39) a(40) good(41) buy(42) compared(43) with(44) the(45) 2.3L(46) .(47) 
+		</sentence>
+		<sentence id="10">
+			That(1) 's(2) my(3) opinion(4) !(5) 
+		</sentence>
+	</text>
+</review>

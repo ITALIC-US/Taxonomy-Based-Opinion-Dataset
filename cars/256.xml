@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="256" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) 2000(2) Maxima(3) -(4) Best(5) car(6) on(7) the(8) market(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			everything(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) a(6) smooth(7) and(8) comfortable(9) ride(10) then(11) this(12) is(13) the(14) car(15) for(16) you(17) .(18) 
+			<opinion polarity="+" feature="ride quality" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="10" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			The(1) 2000(2) Nissan_Maxima(3) is(4) a(5) fine(6) automobile(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			I(1) think(2) it(3) 's(4) the(5) best(6) car(7) on(8) the(9) market(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			The(1) one(2) that(3) I(4) own(5) has(6) so(7) many(8) features(9) like(10) :(11) heated(12) leather(13) seats(14) ,(15) the(16) Bose(17) stereo(18) system(19) with(20) seven(21) speakers(22) and(23) a(24) built(25) in(26) subwoofer(27) ,(28) power(29) moon(30) roof(31) ,(32) traction(33) control(34) ,(35) climate(36) control(37) ,(38) keyless(39) entry(40) ,(41) cd(42) and(43) tape(44) player(45) ,(46) cd(47) changer(48) option(49) with(50) controls(51) ,(52) and(53) much(54) much(55) more(56) .(57) 
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="5">
+			I(1) love(2) the(3) Bose(4) stereo(5) system(6) .(7) 
+			<opinion polarity="+" feature="sound system" featWords="5,6" opWords="2"/>
+		</sentence>
+		<sentence id="6">
+			With(1) two(2) front(3) tweeters(4) ,(5) four(6) normal(7) speakers(8) ,(9) and(10) the(11) built(12) in(13) sub(14) on(15) the(16) rear(17) dash(18) makes(19) the(20) music(21) sound(22) great(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			It(1) does(2) not(3) get(4) any(5) better(6) than(7) Bose(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			There(1) 's(2) not(3) one(4) thing(5) that(6) I(7) can(8) think(9) of(10) that(11) I(12) do(13) not(14) like(15) about(16) the(17) 2000(18) Maxima(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			The(1) ride(2) is(3) unbelievably(4) smooth(5) and(6) the(7) seats(8) are(9) very(10) comfortable(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="8" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			Driving(1) the(2) vehicle(3) is(4) great(5) ,(6) very(7) different(8) from(9) driving(10) any(11) other(12) car(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			It(1) handles(2) awesome(3) ,(4) very(5) tight(6) handling(7) ,(8) and(9) very(10) fast(11) !(12) !(13) 
+			<opinion polarity="+" feature="speed" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) by(3) far(4) one(5) of(6) the(7) best(8) cars(9) out(10) there(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+	</text>
+</review>

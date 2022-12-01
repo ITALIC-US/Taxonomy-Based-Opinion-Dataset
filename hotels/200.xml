@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="200" item="Circus Circus Hotel & Casino" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) would(2) rethink(3) staying(4) here(5) again(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) maid(2) service(3) !(4) !(5) !(6) 
+			<opinion polarity="+" feature="service" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Maid(1) service(2) was(3) the(4) only(5) good(6) service(7) !(8) !(9) !(10) 
+			<opinion polarity="+" feature="service" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) the(5) Circus_Circus(6) to(7) anyone(8) planning(9) their(10) vacation(11) .(12) 
+			<opinion polarity="-" feature="hotel" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			We(1) were(2) not(3) happy(4) with(5) it(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) were(2) really(3) excited(4) to(5) be(6) going(7) to(8) Vegas(9) for(10) our(11) first(12) real(13) family(14) vacation(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Being(1) that(2) it(3) was(4) a(5) family(6) trip(7) ,(8) we(9) wanted(10) to(11) stay(12) somewhere(13) that(14) the(15) kids(16) could(17) enjoy(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) how(3) we(4) settled(5) on(6) the(7) Circus_Circus(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) a(3) very(4) late(5) flight(6) and(7) landed(8) in(9) Vegas(10) at(11) 2:00_AM.(12) This(13) was(14) when(15) we(16) found(17) out(18) that(19) The_Circus_Circus(20) did(21) not(22) offer(23) any(24) transportation(25) from(26) the(27) airport(28) to(29) the(30) strip(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			But(1) that(2) was(3) okay(4) ,(5) we(6) figured(7) that(8) we(9) should(10) have(11) thought(12) about(13) that(14) prior(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			We(1) ended(2) up(3) with(4) a(5) nice(6) limo(7) because(8) there(9) were(10) six(11) of(12) us(13) and(14) lots(15) of(16) luggage(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			We(1) got(2) to(3) the(4) Hotel(5) at(6) 3:00(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			By(1) the(2) time(3) we(4) were(5) checked(6) in(7) at(8) the(9) desk(10) it(11) was(12) 3:30(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			We(1) went(2) up(3) to(4) our(5) room(6) completely(7) exhausted(8) ,(9) only(10) to(11) find(12) that(13) they(14) ignored(15) our(16) request(17) for(18) a(19) non-smoking(20) room(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			We(1) could(2) not(3) even(4) breathe(5) in(6) the(7) room(8) and(9) the(10) smoke(11) detector(12) was(13) dangling(14) out(15) of(16) the(17) ceiling(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			We(1) called(2) down(3) to(4) the(5) desk(6) and(7) they(8) told(9) us(10) to(11) go(12) to(13) a(14) different(15) room(16) on(17) another(18) floor(19) and(20) the(21) security(22) guard(23) would(24) meet(25) us(26) there(27) with(28) the(29) key(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			We(1) got(2) there(3) and(4) the(5) guard(6) came(7) about(8) ten(9) minutes(10) later(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			He(1) opened(2) the(3) door(4) and(5) disappeared(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			We(1) walked(2) into(3) a(4) completely(5) destroyed(6) room(7) .(8) 
+			<opinion polarity="-" feature="rooms" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			There(1) was(2) food(3) all(4) over(5) and(6) dirty(7) diapers(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			It(1) was(2) completely(3) trashed(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			So(1) my(2) husband(3) managed(4) to(5) spend(6) five(7) minutes(8) in(9) the(10) horribly(11) smelly(12) room(13) talking(14) with(15) the(16) front(17) desk(18) ,(19) once(20) again(21) .(22) 
+			<opinion polarity="-" feature="rooms" featWords="13" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="18">
+			They(1) told(2) him(3) they(4) were(5) sorry(6) and(7) they(8) would(9) take(10) 50_%(11) off(12) of(13) the(14) cost(15) of(16) two(17) nights(18) ,(19) and(20) proceeded(21) to(22) send(23) us(24) to(25) another(26) room(27) on(28) another(29) floor(30) .(31) 
+		</sentence>
+		<sentence id="19">
+			On(1) our(2) way(3) there(4) we(5) ran(6) into(7) another(8) family(9) who(10) had(11) just(12) had(13) the(14) same(15) experience(16) and(17) were(18) also(19) sent(20) to(21) the(22) same(23) room(24) that(25) we(26) were(27) just(28) leaving(29) .(30) 
+		</sentence>
+		<sentence id="20">
+			Something(1) tells(2) me(3) there(4) is(5) a(6) communication(7) problem(8) here(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			We(1) got(2) to(3) the(4) third(5) room(6) at(7) 5:00_AM.(8) It(9) was(10) okay(11) ,(12) the(13) bathroom(14) was(15) not(16) as(17) clean(18) as(19) we(20) would(21) have(22) liked(23) but(24) we(25) were(26) so(27) tired(28) we(29) figured(30) we(31) could(32) just(33) take(34) care(35) of(36) it(37) .(38) 
+		</sentence>
+		<sentence id="22">
+			We(1) are(2) from(3) Michigan(4) so(5) for(6) us(7) it(8) was(9) like(10) 8:00_AM.(11) We(12) managed(13) to(14) stay(15) in(16) this(17) room(18) for(19) our(20) full(21) 6(22) nights(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			While(1) there(2) we(3) ate(4) once(5) at(6) the(7) buffet(8) but(9) thought(10) it(11) to(12) be(13) very(14) expensive(15) for(16) what(17) they(18) offered(19) .(20) 
+			<opinion polarity="-" feature="price" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="24">
+			So(1) this(2) was(3) the(4) only(5) time(6) we(7) ate(8) there(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			We(1) took(2) the(3) kids(4) to(5) the(6) Adventure_Dome(7) which(8) is(9) their(10) indoor(11) amusement(12) park(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			They(1) really(2) liked(3) it(4) .(5) 
+		</sentence>
+		<sentence id="27">
+			We(1) liked(2) it(3) because(4) it(5) was(6) nice(7) and(8) cool(9) inside(10) and(11) everything(12) was(13) pretty(14) close(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="5" featRef="hotel" opWords="7"/>
+			<opinion polarity="+" feature="hotel" featWords="5" featRef="hotel" opWords="9"/>
+		</sentence>
+		<sentence id="28">
+			The(1) rides(2) were(3) okay(4) .(5) 
+		</sentence>
+		<sentence id="29">
+			My(1) kids(2) mostly(3) stayed(4) with(5) the(6) roller(7) coasted(8) and(9) the(10) water(11) flume(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			There(1) was(2) about(3) a(4) fifty-fifty(5) split(6) for(7) bigger(8) /(9) littler(10) kid(11) rides(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			I(1) would(2) say(3) that(4) kids(5) of(6) all(7) ages(8) would(9) find(10) something(11) there(12) to(13) ride(14) on(15) and(16) have(17) fun(18) We(19) went(20) to(21) the(22) Midway(23) one(24) night(25) .(26) 
+		</sentence>
+		<sentence id="32">
+			It(1) was(2) very(3) expensive(4) because(5) the(6) kids(7) really(8) want(9) to(10) win(11) something(12) and(13) they(14) certainly(15) do(16) not(17) make(18) it(19) very(20) easy(21) to(22) do(23) .(24) 
+			<opinion polarity="-" feature="price" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="33">
+			It(1) was(2) also(3) very(4) crowded(5) .(6) 
+			<opinion polarity="-" feature="hotel" featWords="1" featRef="hotel" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="34">
+			My(1) husband(2) and(3) I(4) went(5) down(6) to(7) the(8) casino(9) one(10) night(11) but(12) did(13) not(14) stay(15) long(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			They(1) winnings(2) just(3) were(4) not(5) happening(6) there(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			We(1) also(2) went(3) to(4) get(5) one(6) of(7) the(8) worlds(9) largest(10) strawberry(11) shortcakes(12) that(13) they(14) are(15) so(16) famous(17) for(18) ,(19) and(20) they(21) had(22) no(23) more(24) whipped(25) cream(26) .(27) 
+		</sentence>
+		<sentence id="37">
+			This(1) was(2) shocking(3) to(4) us(5) because(6) this(7) is(8) something(9) that(10) they(11) are(12) famous(13) for(14) ,(15) how(16) can(17) they(18) run(19) out(20) of(21) what(22) they(23) need(24) to(25) make(26) it(27) with(28) ?(29) 
+		</sentence>
+		<sentence id="38">
+			We(1) just(2) did(3) not(4) get(5) it(6) .(7) 
+		</sentence>
+		<sentence id="39">
+			The(1) pools(2) were(3) okay(4) .(5) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="40">
+			There(1) were(2) two(3) .(4) 
+		</sentence>
+		<sentence id="41">
+			The(1) water(2) was(3) a(4) little(5) cold(6) though(7) they(8) say(9) it(10) is(11) 80(12) degrees(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			I(1) do(2) not(3) know(4) that(5) it(6) really(7) was(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			There(1) is(2) a(3) snack(4) shack(5) at(6) the(7) pool(8) too(9) but(10) it(11) is(12) extremely(13) expensive(14) .(15) 
+			<opinion polarity="-" feature="price" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="44">
+			We(1) only(2) used(3) it(4) once(5) .(6) 
+		</sentence>
+		<sentence id="45">
+			The(1) maid(2) service(3) was(4) excellent(5) at(6) this(7) hotel(8) as(9) anything(10) that(11) we(12) needed(13) ,(14) we(15) got(16) .(17) 
+			<opinion polarity="+" feature="service" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="46">
+			If(1) only(2) the(3) rest(4) of(5) the(6) hotel(7) was(8) like(9) that(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			All(1) in_all(2) I(3) would(4) have(5) to(6) say(7) that(8) we(9) would(10) not(11) go(12) back(13) to(14) the(15) Circus_Circus(16) hotel(17) We(18) were(19) really(20) not(21) satisfied(22) .(23) 
+		</sentence>
+	</text>
+</review>

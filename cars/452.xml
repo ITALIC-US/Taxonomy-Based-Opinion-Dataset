@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="452" item="1999 Lexus RX 300" rating="4">
+	<title>
+		<sentence id="1">
+			Want_To_Get_Noticed(1) ?(2) 
+		</sentence>
+		<sentence id="2">
+			Buy_This_SUV(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Hot_SUV(1) ,(2) definitely(3) gets(4) you(5) noticed(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Excessively(1) expensive(2) due(3) to(4) cushy(5) perks(6) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) wow(4) appeal(5) and(6) you(7) 've(8) got(9) the(10) money(11) go(12) for(13) this(14) pricey(15) SUV(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			About(1) 8(2) months(3) before(4) our(5) lease(6) was(7) up(8) with(9) our(10) 1997(11) Rav(12) 4(13) ,(14) my(15) husband(16) started(17) researching(18) on(19) the(20) web(21) for(22) the(23) best(24) SUV(25) on(26) the(27) market(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			He(1) found(2) that(3) the(4) Lexus(5) far(6) out(7) ranked(8) everyone(9) else(10) from(11) cabin(12) space(13) inside(14) to(15) gas(16) mileage(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) looked(2) at(3) the(4) price(5) tag(6) and(7) immediately(8) put(9) my(10) foot(11) down(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			No(1) way(2) ,(3) much(4) too(5) expensive(6) !(7) 
+			<opinion polarity="-" feature="price" opWords="5,6"/>
+		</sentence>
+		<sentence id="5">
+			But(1) ,(2) he(3) took(4) me(5) for(6) a(7) test(8) drive(9) and(10) tried(11) to(12) get(13) me(14) to(15) melt(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Under(1) great(2) pressure(3) from(4) him(5) and(6) the(7) salesman(8) ,(9) I(10) cracked(11) and(12) signed(13) on(14) the(15) dotted(16) line(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Over(1) the(2) last(3) 5(4) months(5) of(6) leasing(7) ,(8) I(9) 've(10) gotten(11) used(12) to(13) this(14) SUV(15) and(16) can(17) deal(18) with(19) the(20) payments(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) definitely(3) worth(4) the(5) money(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			Anyway(1) ,(2) here(3) are(4) the(5) systems(6) that(7) make(8) the(9) Lexus(10) fun(11) to(12) take(13) on(14) road(15) trips(16) and(17) definitely(18) get(19) us(20) noticed(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) Seats_The(2) seats(3) are(4) leather(5) ,(6) and(7) the(8) settings(9) are(10) fully(11) automatic(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			I(1) like(2) the(3) two(4) buttons(5) ,(6) his(7) and(8) hers(9) ,(10) that(11) you(12) can(13) set(14) so(15) the(16) car(17) "(18) remembers(19) "(20) your(21) seat(22) setting(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) "(3) heat(4) seaters(5) ,(6) "(7) ((8) as(9) I(10) kept(11) messing(12) up(13) and(14) calling(15) them(16) )(17) or(18) better(19) known(20) as(21) seat(22) heaters(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			These(1) heaters(2) are(3) great(4) for(5) a(6) sore(7) back(8) after(9) work(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Though(1) ,(2) be(3) sure(4) to(5) warn(6) new(7) passengers(8) that(9) the(10) heaters(11) are(12) on(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			I(1) forgot(2) to(3) tell(4) a(5) friend(6) and(7) she(8) began(9) to(10) sweat(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			She(1) thought(2) she(3) had(4) sat(5) on(6) something(7) wet(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			Oh(1) no(2) !(3) 
+		</sentence>
+		<sentence id="18">
+			To(1) turn(2) them(3) on(4) there(5) is(6) a(7) button(8) that(9) sets(10) them(11) to(12) left(13) seat(14) only(15) or(16) left(17) and(18) right(19) seat(20) on(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			I(1) wished(2) they(3) also(4) had(5) a(6) button(7) for(8) right(9) seat(10) only(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			I(1) 'm(2) sure(3) they(4) 've(5) remedied(6) this(7) in_the_2000(8) or(9) 2001(10) model(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			The(1) LCD(2) monitor(3) In(4) the(5) middle(6) of(7) the(8) front(9) panel(10) is(11) an(12) LCD(13) monitor(14) that(15) looks(16) like(17) a(18) little(19) TV(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			People(1) often(2) ask(3) us(4) when(5) the(6) movie(7) is(8) coming(9) on(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			This(1) monitor(2) ,(3) however(4) ,(5) does(6) not(7) show(8) movies(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			It(1) is(2) a(3) center(4) of(5) information(6) for(7) many(8) of(9) the(10) systems(11) I(12) 'll(13) explain(14) below(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			On(1) the(2) top(3) part(4) of(5) the(6) screen(7) it(8) has(9) mpg(10) ,(11) the(12) temperature(13) outside(14) ,(15) and(16) the(17) time(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			Right(1) below(2) that(3) is(4) the(5) temperature(6) that(7) you(8) have(9) set(10) the(11) heating(12) /(13) cooling(14) system(15) to(16) ,(17) how(18) much(19) the(20) blower(21) is(22) blowing(23) ,(24) and(25) to(26) what(27) areas(28) of(29) the(30) car(31) the(32) blowers(33) are(34) blowing(35) .(36) 
+		</sentence>
+		<sentence id="27">
+			With(1) knobs(2) below(3) the(4) LCD(5) monitor(6) ,(7) you(8) can(9) change(10) the(11) settings(12) to(13) suit(14) your(15) preferred(16) interior(17) car(18) environment(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			And(1) in(2) the(3) last(4) level(5) of(6) the(7) LCD(8) monitor(9) ,(10) it(11) shows(12) which(13) CD(14) is(15) playing(16) ,(17) what(18) track(19) ,(20) and(21) the(22) time(23) elapsed(24) of(25) the(26) song(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			There(1) are(2) buttons(3) that(4) you(5) can(6) push(7) to(8) change(9) all(10) of(11) these(12) preferences(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			You(1) can(2) also(3) make(4) the(5) monitor(6) brighter(7) or(8) dimmer(9) according_to(10) your(11) liking(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			We(1) keep(2) it(3) bright(4) because(5) it(6) helps(7) us(8) to(9) see(10) everything(11) on(12) the(13) monitor(14) at(15) night(16) as_well(17) as(18) during(19) the(20) day(21) .(22) 
+		</sentence>
+		<sentence id="32">
+			The(1) Sound_System_A_Nakamichi(2) sound(3) system(4) puts(5) out(6) the(7) most(8) amazing(9) sound(10) I(11) 've(12) ever(13) heard(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			Lexus(1) sure(2) did(3) a(4) good(5) job(6) in(7) choosing(8) this(9) system(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			The(1) six(2) CD(3) changer(4) that(5) is(6) located(7) in(8) the(9) glove(10) compartment(11) is(12) wonderful(13) .(14) 
+		</sentence>
+		<sentence id="35">
+			The(1) controls(2) for(3) skipping(4) to(5) the(6) next(7) CD(8) or(9) song(10) on(11) a(12) CD(13) are(14) also(15) easily(16) accessible(17) from(18) the(19) driver(20) 's(21) side(22) .(23) 
+		</sentence>
+		<sentence id="36">
+			There(1) is(2) also(3) a(4) tape(5) player(6) and(7) radio(8) tuner(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			The(1) sound(2) when(3) you(4) use(5) the(6) CD(7) ,(8) tape(9) player(10) or(11) radio(12) is(13) great(14) .(15) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="14"/>
+		</sentence>
+		<sentence id="38">
+			And(1) most(2) importantly(3) ,(4) I(5) 've(6) never(7) had(8) any(9) problems(10) with(11) the(12) speakers(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			The(1) Heating(2) /(3) Cooling_System_This(4) is(5) a(6) really(7) interesting(8) system(9) that(10) you(11) can(12) see(13) on(14) the(15) LCD(16) monitor(17) in(18) the(19) center(20) of(21) the(22) car(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			You(1) can(2) actually(3) set(4) the(5) temperature(6) to(7) whatever(8) you(9) want(10) ((11) like(12) 65(13) or(14) 63(15) degrees(16) )(17) and(18) the(19) car(20) blows(21) air(22) accordingly(23) .(24) 
+		</sentence>
+		<sentence id="41">
+			A(1) knob(2) on(3) the(4) right(5) side(6) of(7) the(8) front(9) panel(10) controls(11) the(12) blowers(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			By(1) turning(2) it(3) ,(4) you(5) can(6) lower(7) or(8) intensify(9) the(10) blowing(11) .(12) 
+		</sentence>
+		<sentence id="43">
+			On(1) the(2) LCD(3) monitor(4) it(5) looks(6) like(7) a(8) sound(9) wave(10) that(11) gets(12) bigger(13) or(14) smaller(15) .(16) 
+		</sentence>
+		<sentence id="44">
+			And(1) ,(2) the(3) last(4) part(5) of(6) this(7) system(8) is(9) where(10) you(11) want(12) the(13) air(14) to(15) blow(16) .(17) 
+		</sentence>
+		<sentence id="45">
+			On(1) the(2) LCD(3) monitor(4) this(5) is(6) represented(7) by(8) a(9) picture(10) of(11) a(12) passenger(13) seated(14) and(15) you(16) push(17) a(18) knob(19) below(20) to(21) change(22) the(23) blowers(24) to(25) either(26) facial(27) blowers(28) ,(29) feet(30) blowers(31) ,(32) both(33) face(34) and(35) feet(36) blowers(37) ,(38) or(39) facial(40) blowers(41) and(42) defrost(43) .(44) 
+		</sentence>
+		<sentence id="46">
+			These(1) are(2) the(3) only(4) settings(5) .(6) 
+		</sentence>
+		<sentence id="47">
+			But(1) ,(2) they(3) pretty(4) much(5) cover(6) what(7) you(8) need(9) from(10) the(11) blowers(12) .(13) 
+		</sentence>
+		<sentence id="48">
+			There(1) are(2) also(3) blowers(4) located(5) in(6) the(7) middle(8) section(9) for(10) the(11) back(12) passengers(13) .(14) 
+		</sentence>
+		<sentence id="49">
+			The(1) Sunroof(2) and(3) Windows_The(4) sunroof(5) is(6) one(7) of(8) my(9) favorite(10) parts(11) of(12) this(13) car(14) .(15) 
+		</sentence>
+		<sentence id="50">
+			You(1) can(2) tilt(3) it(4) or(5) slide(6) it(7) all(8) the(9) way(10) back(11) .(12) 
+		</sentence>
+		<sentence id="51">
+			I(1) usually(2) tilt(3) it(4) ,(5) because(6) sliding(7) it(8) all(9) the(10) way(11) back(12) lets(13) the(14) sun(15) shine(16) directly(17) on(18) my(19) head(20) .(21) 
+		</sentence>
+		<sentence id="52">
+			I(1) do(2) not(3) like(4) getting(5) sun(6) burnt(7) in(8) my(9) car(10) .(11) 
+		</sentence>
+		<sentence id="53">
+			The(1) sunroof(2) is(3) also(4) tinted(5) .(6) 
+		</sentence>
+		<sentence id="54">
+			The(1) windows(2) are(3) great(4) !(5) 
+			<opinion polarity="+" feature="window" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="55">
+			They(1) all(2) automatically(3) go(4) down(5) at(6) a(7) push(8) of(9) a(10) button(11) .(12) 
+		</sentence>
+		<sentence id="56">
+			They(1) also(2) go(3) up(4) with(5) one(6) push(7) as_well(8) .(9) 
+		</sentence>
+		<sentence id="57">
+			I(1) also(2) like(3) a(4) safety(5) feature(6) they(7) have(8) .(9) 
+		</sentence>
+		<sentence id="58">
+			If(1) something(2) is(3) in(4) the(5) window(6) ((7) like(8) an(9) arm(10) or(11) head(12) )(13) and(14) someone(15) tries(16) to(17) put(18) up(19) the(20) window(21) ,(22) the(23) window(24) senses(25) the(26) object(27) and(28) immediately(29) goes(30) back(31) down(32) .(33) 
+		</sentence>
+		<sentence id="59">
+			To(1) say(2) the(3) least(4) ,(5) I(6) was(7) impressed(8) .(9) 
+		</sentence>
+		<sentence id="60">
+			For(1) Passengers_The(2) back(3) seat(4) is(5) very(6) roomy(7) and(8) I(9) have(10) no(11) worries(12) about(13) taking(14) our(15) friends(16) with(17) us(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="61">
+			Our(1) Rav(2) 4(3) was(4) quite(5) squishy(6) and(7) I(8) felt(9) sorry(10) for(11) our(12) friends(13) who(14) are(15) much(16) taller(17) than(18) us(19) .(20) 
+		</sentence>
+		<sentence id="62">
+			There(1) are(2) three(3) individual(4) headrests(5) and(6) great(7) legroom(8) in(9) the(10) back(11) seat(12) .(13) 
+			<opinion polarity="+" feature="leg room" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="63">
+			There(1) is(2) comfortable(3) seating(4) for(5) everyone(6) .(7) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="64">
+			The(1) Trunk_It(2) is(3) really(4) large(5) and(6) I(7) can(8) fit(9) things(10) in(11) it(12) that(13) I(14) could(15) not(16) fit(17) in(18) our(19) other(20) car(21) .(22) 
+		</sentence>
+		<sentence id="65">
+			I(1) especially(2) like(3) how(4) the(5) two(6) back(7) seats(8) fold(9) down(10) so_that(11) it(12) seems(13) like(14) they(15) were(16) never(17) there(18) .(19) 
+		</sentence>
+		<sentence id="66">
+			We(1) can(2) fit(3) large(4) packages(5) in(6) it(7) with(8) ease(9) .(10) 
+		</sentence>
+		<sentence id="67">
+			The(1) Engine_Zoom(2) zoom(3) .(4) 
+		</sentence>
+		<sentence id="68">
+			With(1) a(2) roaring(3) V6(4) ,(5) it(6) has(7) a_lot_of(8) power(9) for(10) a(11) little(12) SUV(13) .(14) 
+		</sentence>
+		<sentence id="69">
+			I(1) really(2) like(3) that(4) ,(5) because(6) before(7) my(8) Rav(9) 4(10) only(11) had(12) a(13) 4(14) cylinder(15) .(16) 
+		</sentence>
+		<sentence id="70">
+			I(1) hated(2) having(3) to(4) floor(5) it(6) to(7) get(8) up(9) a(10) hill(11) .(12) 
+		</sentence>
+		<sentence id="71">
+			This(1) engine(2) is(3) just(4) right(5) for(6) my(7) taste(8) .(9) 
+		</sentence>
+		<sentence id="72">
+			It(1) gets(2) me(3) where(4) I(5) want(6) to(7) go(8) quickly(9) .(10) 
+		</sentence>
+		<sentence id="73">
+			It(1) is(2) also(3) a(4) very(5) quiet(6) engine(7) .(8) 
+			<opinion polarity="+" feature="engine" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="74">
+			I(1) have(2) to(3) be(4) very(5) careful(6) when(7) I(8) see(9) little(10) kids(11) playing(12) near(13) the(14) street(15) .(16) 
+		</sentence>
+		<sentence id="75">
+			They(1) can(2) not(3) hear(4) this(5) engine(6) and(7) if(8) they(9) 're(10) not(11) looking(12) ,(13) they(14) do(15) not(16) hear(17) me(18) coming(19) .(20) 
+		</sentence>
+		<sentence id="76">
+			I(1) 've(2) scared(3) a(4) few(5) kids(6) with(7) how(8) close(9) I(10) am(11) to(12) them(13) .(14) 
+		</sentence>
+		<sentence id="77">
+			I(1) usually(2) have(3) to(4) go(5) really(6) slow(7) or(8) sit(9) there(10) and(11) wait(12) for(13) them(14) to(15) move(16) .(17) ((18) I(19) 'm(20) not(21) one(22) to(23) honk(24) ;(25) most(26) kids(27) get(28) yelled(29) at(30) enough(31) these(32) days(33) .(34) )(35) Gas_Mileage_I(36) 'm(37) pretty(38) sure(39) that(40) we(41) get(42) 30_miles(43) per(44) gallon(45) .(46) 
+		</sentence>
+		<sentence id="78">
+			My(1) husband(2) keeps(3) track(4) of(5) and(6) pays(7) for(8) the(9) gas(10) that(11) goes(12) into(13) Lexi(14) .(15) 
+		</sentence>
+		<sentence id="79">
+			He(1) tells(2) me(3) it(4) is(5) about(6) the(7) same(8) as(9) the(10) Rav(11) .(12) 
+		</sentence>
+		<sentence id="80">
+			Door_Locks(1) and(2) Security_There(3) is(4) a(5) keyless(6) entry(7) and(8) that(9) is(10) really(11) nice(12) .(13) 
+		</sentence>
+		<sentence id="81">
+			There(1) is(2) also(3) a(4) security(5) system(6) that(7) is(8) on(9) when(10) you(11) turn(12) off(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="82">
+			If(1) anyone(2) tries(3) to(4) break(5) in(6) alarms(7) go(8) off(9) .(10) 
+		</sentence>
+		<sentence id="83">
+			This(1) is(2) very(3) reassuring(4) .(5) 
+		</sentence>
+		<sentence id="84">
+			Goodness(1) ,(2) have(3) I(4) missed(5) anything(6) ?(7) 
+		</sentence>
+		<sentence id="85">
+			I(1) certainly(2) hope(3) not(4) .(5) 
+		</sentence>
+		<sentence id="86">
+			Overall(1) ,(2) this(3) is(4) a(5) great(6) car(7) ,(8) a_bit(9) pricey(10) ,(11) but(12) certainly(13) worth(14) the(15) money(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="87">
+			I(1) figure(2) if(3) we(4) 're(5) spending(6) this(7) money(8) ,(9) I(10) might(11) as_well(12) enjoy(13) it(14) while(15) I(16) can(17) .(18) 
+		</sentence>
+		<sentence id="88">
+			And(1) ,(2) of(3) course(4) ,(5) you(6) get(7) noticed(8) when(9) you(10) drive(11) a(12) Lexus(13) .(14) 
+		</sentence>
+		<sentence id="89">
+			Hey(1) ,(2) they(3) ooze(4) luxury(5) !(6) 
+		</sentence>
+		<sentence id="90">
+			Most(1) people(2) we(3) know(4) drool(5) over(6) it(7) when(8) they(9) see(10) it(11) .(12) 
+		</sentence>
+		<sentence id="91">
+			They(1) never(2) ask(3) how(4) much(5) we(6) pay(7) for(8) it(9) though(10) .(11) 
+		</sentence>
+		<sentence id="92">
+			I(1) 'm(2) sure(3) if(4) they(5) knew(6) ,(7) the(8) drool(9) would(10) cease(11) .(12) 
+		</sentence>
+		<sentence id="93">
+			But(1) ,(2) if(3) you(4) 've(5) got(6) the(7) money(8) go(9) for(10) it(11) .(12) 
+		</sentence>
+		<sentence id="94">
+			It(1) is(2) one(3) of(4) the(5) nicest(6) SUVs(7) on(8) the(9) market(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="95">
+			I(1) like(2) it(3) better(4) than(5) the(6) Mercedes(7) ML430(8) that(9) we(10) test-drove(11) before(12) this(13) Lexus_Amount_Paid(14) ((15) US(16) $(17) )(18) :(19) 598(20) per(21) mon(22) Condition(23) :(24) UsedModel_Year(25) :(26) 1999Model(27) and(28) Options(29) :(30) auto(31) door(32) locks(33) ,(34) auto(35) windows(36) &(37) sunroof(38) ,(39) keyless(40) entry(41) Lexus(42) RX300(43) 
+		</sentence>
+	</text>
+</review>

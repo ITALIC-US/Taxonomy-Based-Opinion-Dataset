@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="261" item="Bose QuietComfort 2 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Manufacturing(1) defect(2) with(3) Bose(4) QC2(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			descent(1) noise(2) canceling(3) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Will(1) break(2) apart(3) if(4) you(5) look(6) at(7) them(8) the(9) wrong(10) way(11) !(12) 
+		</sentence>
+		<sentence id="2">
+			Cheap(1) ,(2) Cheap(3) ,(4) and(5) Cheap(6) !(7) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) my(2) QC2(3) about(4) 1(5) year(6) ago(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Love(1) the(2) noise(3) canceling(4) especially(5) on(6) long(7) flights(8) .(9) 
+			<opinion polarity="+" feature="isolation" featWords="3,4" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) ,(2) this(3) past(4) month(5) ,(6) one(7) of(8) the(9) plastic(10) '(11) cover(12) '(13) that(14) holds(15) the(16) metal(17) headband(18) broke(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			I(1) though(2) maybe(3) somebody(4) hit(5) the(6) headset(7) and(8) broke(9) it(10) ,(11) but(12) upon(13) closer(14) inspection(15) ,(16) I(17) notice(18) a_LOT_of(19) tiny(20) plastic(21) cracks(22) all(23) along(24) the(25) plastic(26) pieces(27) on(28) both(29) side(30) of(31) the(32) headset(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) really(3) disappointed(4) in(5) BOSE(6) for(7) cutting(8) costs(9) on(10) such(11) an(12) important(13) piece(14) ...(15) I(16) would(17) imagine(18) they(19) would(20) have(21) paid(22) the(23) extra(24) $0.10(25) that(26) it(27) would(28) cost(29) to(30) use(31) a(32) better(33) grade(34) of(35) plastic(36) ...(37) Never(38) buying(39) BOSE(40) again(41) ((42) it(43) is(44) not(45) worth(46) spending(47) this(48) much(49) money(50) for(51) something(52) that(53) breaks(54) apart(55) all(56) by(57) itself(58) !(59) )(60) Cheap(61) quality(62) and(63) expensive(64) .(65) 
+		</sentence>
+		<sentence id="6">
+			I(1) absolutely(2) do(3) not(4) recommend(5) these(6) headphones(7) because(8) they(9) will(10) not(11) last(12) ...(13) Update(14) A(15) friend(16) of(17) mine(18) bought(19) a(20) set(21) a(22) few(23) weeks(24) ago(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			I(1) had(2) a(3) look(4) at(5) it(6) ,(7) and(8) it(9) seems(10) they(11) changed(12) the(13) design(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Only(1) time(2) will(3) tell(4) if(5) the(6) change(7) will(8) do(9) the(10) trick(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			If(1) it(2) help(3) ,(4) old(5) =(6) beige(7) ,(8) new(9) =(10) grey(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			This(1) might(2) be(3) the(4) way(5) to(6) tell(7) the(8) old(9) version(10) from(11) the(12) new(13) version(14) ((15) not(16) 100_%(17) sure(18) on(19) this(20) though(21) )(22) .(23) 
+		</sentence>
+	</text>
+</review>

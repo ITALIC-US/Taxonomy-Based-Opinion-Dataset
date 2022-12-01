@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="27" item="1998 Lexus ES 300" rating="4">
+	<title>
+		<sentence id="1">
+			1998(1) Lexus_ES(2) 300(3) -(4) High_Dollar_Toyota(5) ,(6) but(7) Very_Nice(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sharp(1) looking(2) ,(3) many(4) creature(5) comforts(6) ,(7) plenty_of(8) power(9) and(10) very(11) reliable(12) .(13) 
+			<opinion polarity="+" feature="reliability" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Back(1) seat(2) is(3) for(4) kids(5) and(6) those(7) that(8) can(9) be(10) mistaken(11) for(12) one(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Even_if(1) you(2) see(3) one(4) with(5) over(6) 100,000_miles(7) ,(8) if(9) it(10) was(11) treated(12) right(13) ,(14) she(15) probably(16) has(17) another(18) 100g(19) in(20) her(21) if(22) you(23) give(24) the(25) car(26) the(27) same(28) care(29) .(30) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) mother-in-law(2) sold(3) my(4) wife(5) this(6) car(7) as(8) she(9) upgraded(10) to(11) the(12) 2005(13) Lexus_LS(14) 430(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			The(1) '(2) 98(3) Lexus_ES(4) 300(5) ,(6) 4(7) door(8) is(9) a(10) very(11) nice(12) car(13) with(14) a(15) peppy(16) 6(17) cylinder(18) ,(19) 3.0(20) litre(21) affording(22) you(23) 200(24) horses(25) under(26) the(27) hood(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) plenty(3) enough(4) engine(5) to(6) get(7) you(8) around(9) ,(10) though(11) from(12) 0-60(13) does(14) take(15) 8.7_seconds(16) .(17) 
+			<opinion polarity="+" feature="engine" featWords="5" opWords="3,4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) an(3) automatic(4) ,(5) though(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			Why(1) say(2) Toyota(3) in(4) the(5) Title(6) ?(7) 
+		</sentence>
+		<sentence id="6">
+			Well(1) ,(2) they(3) are(4) part(5) of(6) the(7) Toyota(8) fleet(9) ,(10) much(11) the(12) same(13) Cadillac(14) and(15) Chevrolet(16) are(17) part(18) of(19) GM(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			do(1) not(2) believe(3) they(4) are(5) closely(6) related(7) ?(8) 
+		</sentence>
+		<sentence id="8">
+			Take(1) a(2) peek(3) at(4) the(5) logo(6) on(7) the(8) sunroof(9) glass(10) and(11) see(12) that(13) it(14) says(15) "(16) Toyota(17) "(18) on(19) it(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			While(1) this(2) is(3) not(4) as(5) bad(6) as(7) the(8) old(9) Porsche(10) 914(11) 's(12) that(13) had(14) VW(15) windows(16) ,(17) you(18) still(19) wish(20) they(21) would(22) brand(23) it(24) right(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			This(1) is(2) /(3) was(4) the(5) entry(6) level(7) Lexus_Sedan(8) of(9) its(10) time(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) no(3) knock(4) on(5) Toyota(6) as(7) they(8) do(9) make(10) wonderful(11) cars(12) and(13) trucks(14) ,(15) but(16) few(17) would(18) I(19) dare(20) to(21) try(22) to(23) put(24) in(25) the(26) Luxury_Class(27) that(28) Lexus(29) has(30) defined(31) itself(32) as(33) .(34) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="12">
+			Comfort(1) :(2) Front(3) seat(4) passengers(5) are(6) in(7) for(8) a(9) treat(10) as(11) the(12) leather(13) seats(14) are(15) very(16) inviting(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) walnut(3) interior(4) trim(5) and(6) the(7) driver(8) seat(9) 's(10) ability(11) to(12) remember(13) the(14) settings(15) for(16) two(17) drivers(18) also(19) adds(20) to(21) the(22) experience(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			There(1) are(2) cup(3) holders(4) that(5) are(6) retractable(7) /(8) adjustable(9) in(10) size(11) ,(12) a(13) nice(14) stereo(15) with(16) a(17) CD(18) player(19) and(20) a(21) center(22) storage(23) place(24) as_well(25) as(26) a(27) glove(28) box(29) .(30) 
+			<opinion polarity="+" feature="sound system" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) did(3) not(4) call(5) shotgun(6) and(7) are(8) over(9) 5(10) '(11) 9(12) "(13) ((14) I(15) am(16) 6(17) '(18) 2(19) "(20) )(21) believe(22) me(23) ,(24) you(25) are(26) not(27) in(28) for(29) the(30) same(31) comfort(32) as(33) your(34) buddies(35) in(36) the(37) front(38) and(39) you(40) will(41) be(42) forced(43) to(44) ride(45) ,(46) head(47) tilted(48) .(49) 
+		</sentence>
+		<sentence id="16">
+			Otherwise(1) it(2) is(3) the(4) interior(5) ceiling(6) that(7) will(8) have(9) you(10) regretting(11) every(12) bump(13) on(14) the(15) road(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			Leaning(1) forward(2) is(3) an(4) option(5) ,(6) but(7) still(8) leaves(9) you(10) in(11) a(12) less(13) than(14) comfortable(15) posture(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) sunroof(2) adjusts(3) to(4) either(5) a(6) tilt(7) up(8) or(9) full(10) slide(11) back(12) to(13) get(14) more(15) of(16) a(17) sense(18) of(19) nice(20) weather(21) you(22) may(23) want(24) to(25) enjoy(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			The(1) illumination(2) of(3) the(4) digital(5) and(6) standard(7) dial(8) gauges(9) allows(10) you(11) to(12) see(13) this(14) info(15) perfectly(16) and(17) can(18) be(19) adjusted(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Driver_Enjoyment(1) :(2) If(3) you(4) are(5) used(6) to(7) a(8) 4-cylinder(9) or(10) a(11) diesel(12) without(13) turbo(14) power(15) ,(16) you(17) will(18) like(19) the(20) pick(21) up(22) speed(23) and(24) it(25) will(26) get(27) to(28) well(29) over(30) 100(31) ,(32) or(33) so(34) I(35) have(36) heard(37) !(38) 
+		</sentence>
+		<sentence id="21">
+			It(1) handles(2) very(3) well(4) at(5) all(6) speeds(7) ,(8) quite(9) responsive(10) with(11) braking(12) control(13) ,(14) acceleration(15) and(16) sudden(17) turns(18) .(19) 
+			<opinion polarity="+" feature="response" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="handling" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) fairly(3) low(4) to(5) the(6) ground(7) allowing(8) for(9) better(10) than(11) average(12) cornering(13) and(14) added(15) stability(16) when(17) taking(18) evasive(19) measures(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			All(1) your(2) gauges(3) are(4) in(5) clear(6) view(7) ,(8) the(9) odometer(10) is(11) LED(12) ,(13) with(14) the(15) tach(16) ,(17) speedometer(18) and(19) fuel(20) remaining(21) as(22) dial(23) gauges(24) .(25) 
+			<opinion polarity="+" feature="odometer" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="24">
+			They(1) illuminate(2) even(3) during(4) the(5) day(6) ,(7) so(8) they(9) are(10) very(11) easy(12) to(13) read(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			It(1) comes(2) complete(3) with(4) power(5) windows(6) and(7) you(8) can(9) turn(10) off(11) usage(12) of(13) the(14) rear(15) ones(16) so_that(17) the(18) kids(19) can(20) not(21) escape(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			It(1) is(2) interesting(3) that(4) when(5) you(6) select(7) this(8) ,(9) it(10) also(11) prevents(12) the(13) driver(14) from(15) powering(16) them(17) down(18) ,(19) unless(20) you(21) turn(22) off(23) the(24) feature(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			This(1) is(2) the(3) first(4) car(5) I(6) have(7) seen(8) that(9) does(10) this(11) ,(12) but(13) it(14) is(15) not(16) a(17) big(18) deal(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			Your(1) door(2) mirrors(3) are(4) power(5) adjustable(6) and(7) everything(8) ,(9) including(10) the(11) power(12) locks(13) ,(14) automatic(15) shifter(16) ((17) between(18) the(19) front(20) seats(21) )(22) ,(23) lights(24) and(25) wipers(26) are(27) all(28) designed(29) for(30) ease(31) of(32) access(33) .(34) 
+		</sentence>
+		<sentence id="29">
+			The(1) stereo(2) does(3) not(4) have(5) adjustments(6) on(7) the(8) steering(9) wheel(10) ,(11) which(12) many(13) other(14) cars(15) do(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			It(1) is(2) a_bit(3) more(4) of(5) a(6) chore(7) to(8) operate(9) ,(10) especially(11) at(12) first(13) ,(14) as(15) it(16) is(17) low(18) causing(19) you(20) to(21) nearly(22) lose(23) peripheral(24) vision(25) to(26) the(27) road(28) while(29) looking(30) at(31) the(32) digital(33) display(34) ,(35) tuning(36) in(37) that(38) particular(39) radio(40) station(41) on(42) road(43) trips(44) .(45) 
+		</sentence>
+		<sentence id="31">
+			The(1) controls(2) are(3) fairly(4) intuitive(5) ,(6) but(7) you(8) have(9) to(10) look(11) directly(12) at(13) it(14) to(15) see(16) them(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			The(1) stereo(2) does(3) have(4) excellent(5) sound(6) with(7) enough(8) bass(9) to(10) enjoy(11) but(12) prevent(13) the(14) car(15) next(16) to(17) you(18) from(19) being(20) forced(21) to(22) share(23) the(24) experience(25) with(26) you(27) .(28) 
+			<opinion polarity="+" feature="sound system" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="33">
+			The(1) drive(2) is(3) smooth(4) ,(5) with(6) very(7) little(8) play(9) in(10) the(11) steering(12) wheel(13) ((14) tight(15) )(16) and(17) on(18) a(19) nice(20) day(21) ,(22) with(23) the(24) sunroof(25) open(26) traveling(27) down(28) a(29) desolate(30) ,(31) curvy(32) road(33) is(34) a(35) treat(36) .(37) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="34">
+			Safety(1) :(2) Standard(3) with(4) this(5) vehicle(6) you(7) get(8) driver(9) and(10) passenger(11) airbags(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			Four(1) wheel(2) anti-lock(3) brakes(4) are(5) standard(6) .(7) 
+			<opinion polarity="+" feature="brakes" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="36">
+			As(1) far(2) as(3) accidents(4) ,(5) the(6) ES(7) 300(8) scores(9) well(10) according_to(11) NHTSA(12) ,(13) 0-5(14) with(15) 5(16) being(17) the(18) best(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			Front(1) impact(2) :(3) Driver(4) 's(5) side(6) 4_out_of_5(7) Passenger(8) 's(9) side(10) 4_out_of_5(11) Side_Impact(12) :(13) Driver(14) and(15) Front(16) seat(17) passenger(18) 5_out_of_5(19) Rear(20) occupant(21) 4_out_of_5(22) If(23) you(24) have(25) a(26) child(27) that(28) rides(29) in(30) a(31) car(32) seat(33) ,(34) I(35) can(36) tell(37) you(38) I(39) feel(40) safe(41) with(42) him(43) placed(44) in(45) the(46) middle(47) of(48) the(49) backseat(50) .(51) 
+		</sentence>
+		<sentence id="38">
+			It(1) is(2) a(3) pain(4) to(5) reach(6) over(7) and(8) get(9) him(10) /(11) her(12) out(13) ,(14) but(15) I(16) will(17) endure(18) this(19) to(20) give(21) my(22) son(23) the(24) best(25) chance(26) possible(27) to(28) be(29) uninjured(30) in(31) the(32) event(33) of(34) a(35) crash(36) .(37) 
+		</sentence>
+		<sentence id="39">
+			Maintenance(1) :(2) This(3) one(4) has(5) been(6) pampered(7) and(8) is(9) why(10) she(11) drives(12) so(13) well(14) after(15) 151,200_miles(16) .(17) 
+		</sentence>
+		<sentence id="40">
+			The(1) latest(2) addition(3) includes(4) 4(5) new(6) Michelin(7) tires(8) ,(9) new(10) brake(11) pads(12) ,(13) resurfaced(14) the(15) rotors(16) ,(17) synthetic(18) oil(19) change(20) and(21) corrected(22) electrical(23) problems(24) along_with(25) every(26) little(27) detail(28) being(29) restored(30) to(31) original(32) as(33) far(34) as(35) functionality(36) .(37) 
+		</sentence>
+		<sentence id="41">
+			The(1) Lexus(2) dealership(3) charged(4) $1576.00(5) for(6) this(7) ,(8) but(9) it(10) is(11) the(12) first(13) money(14) we(15) have(16) put(17) into(18) her(19) besides(20) the(21) steal(22) of(23) a(24) purchase(25) price(26) and(27) regular(28) oil(29) changes(30) .(31) 
+		</sentence>
+		<sentence id="42">
+			One(1) recall(2) of(3) note(4) :(5) Recall_Date(6) :(7) 11/01/1999(8) It(9) seems(10) the(11) steering(12) wheel(13) nut(14) was(15) not(16) tightened(17) as(18) it(19) should(20) have(21) been(22) .(23) 
+		</sentence>
+		<sentence id="43">
+			This(1) caused(2) a(3) bad(4) vibration(5) in(6) the(7) steering(8) wheel(9) to(10) the(11) point(12) one(13) might(14) lose(15) control(16) causing(17) an(18) accident(19) .(20) 
+		</sentence>
+		<sentence id="44">
+			A(1) simple(2) visit(3) to(4) the(5) dealership(6) fixes(7) this(8) for_free(9) .(10) 
+		</sentence>
+		<sentence id="45">
+			Overall_Experience(1) :(2) I(3) was(4) not(5) a(6) big(7) Lexus(8) fan(9) before(10) as(11) I(12) felt(13) for(14) the(15) price(16) ,(17) German(18) engineering(19) was(20) far(21) superior(22) ,(23) but(24) must(25) admit(26) the(27) dependability(28) ,(29) smoothness(30) of(31) drive(32) and(33) quietness(34) of(35) the(36) ride(37) make(38) this(39) vehicle(40) a(41) superb(42) automobile(43) .(44) 
+			<opinion polarity="+" feature="car" featWords="43" opWords="42"/>
+		</sentence>
+		<sentence id="46">
+			It(1) is(2) not(3) one(4) I(5) would(6) drive(7) everyday(8) ,(9) but(10) the(11) wife(12) loves(13) it(14) .(15) 
+		</sentence>
+		<sentence id="47">
+			It(1) is(2) certainly(3) not(4) pigeonholed(5) as(6) a(7) chick(8) car(9) ,(10) but(11) taller(12) folk(13) might(14) feel(15) a_bit(16) better(17) in(18) a(19) larger(20) vehicle(21) .(22) 
+		</sentence>
+		<sentence id="48">
+			I(1) have(2) back(3) issues(4) and(5) it(6) tends(7) to(8) make(9) it(10) difficult(11) entering(12) and(13) exiting(14) since(15) it(16) is(17) so(18) low(19) .(20) 
+		</sentence>
+		<sentence id="49">
+			Now(1) if(2) it(3) was(4) the(5) new(6) LS(7) 430(8) ,(9) all(10) pain(11) would(12) subside(13) with(14) the(15) crazy(16) features(17) that(18) beast(19) has(20) .(21) 
+		</sentence>
+		<sentence id="50">
+			I(1) digress(2) .(3) 
+		</sentence>
+		<sentence id="51">
+			I(1) do(2) not(3) mind(4) it(5) on(6) the(7) days(8) we(9) switch(10) vehicles(11) as(12) it(13) is(14) fun(15) to(16) be(17) that(18) low(19) to(20) the(21) ground(22) and(23) putting(24) her(25) through(26) her(27) paces(28) .(29) 
+		</sentence>
+		<sentence id="52">
+			Undoubtedly(1) ,(2) if(3) you(4) enjoy(5) the(6) test(7) drive(8) of(9) this(10) used(11) vehicle(12) ,(13) you(14) very(15) well(16) may(17) be(18) happy(19) with(20) making(21) the(22) purchase(23) as(24) it(25) is(26) sporty(27) enough(28) ,(29) has(30) pep(31) for(32) a(33) 6-cylinder(34) ,(35) looks(36) very(37) nice(38) and(39) is(40) extremely(41) reliable(42) .(43) 
+			<opinion polarity="+" feature="car" opWords="27,28"/>
+			<opinion polarity="+" feature="reliability" opWords="42" potency="41"/>
+			<opinion polarity="+" feature="design" opWords="36,38" potency="37"/>
+		</sentence>
+		<sentence id="53">
+			Current_Value(1) ((2) 5/07(3) )(4) :(5) Per(6) motor(7) trend(8) http://www.motortrend.com/cars/1998/lexus/es300/pricing/?mileage=1(9) &(10) condition(11) =(12) average(13) ,(14) one(15) in(16) average(17) shape(18) you(19) would(20) expect(21) to(22) purchase(23) at(24) about(25) $8,000(26) retail(27) and(28) if(29) you(30) had(31) one(32) to(33) trade(34) in(35) ,(36) you(37) will(38) likely(39) get(40) around(41) $6,200(42) for(43) it(44) Here(45) are(46) the(47) specs(48) of(49) the(50) 1998(51) Lexus_ES(52) 300(53) :(54) Bucket_Seats_Center_Console_Fog_Lights_Power_Heated_Mirrors_Keyless_Entry_System_Lighted_Entry_System_Overhead_Console_Power_Brakes_Rear_Window_Defroster_Tinted_Glass(55) 15(56) Inch_Wheels(57) 3.0L(58) V6(59) DOHC(60) 24V(61) FI_Engine(62) 4-Speed(63) Automatic_Transmission_Tachometer_Alloy_Wheels(64) 4-Wheel(65) ABS_Driver(66) and(67) Passenger_Front_Airbags_Front_Side_Airbags_Anti-Theft_Alarm_System_Leather_Seats_Power_Driver_Seat_Power_Front_Passenger_Seat_Cruise_Control_Power_Steering_Remote_Trunk_Release_Tilt_Steering_Wheel_Air_Conditioning_Automatic_Climate_Control_Intermittent_Windshield_Wipers_Power_Windows_Power_Door_Locks_Daytime_Running_Lights_AM(68) /(69) FM(70) /(71) Cassette(72) /(73) CD_Audio_System_Exterior(74) :(75) Length(76) :(77) 190.2(78) in(79) .(80) 
+		</sentence>
+		<sentence id="54">
+			Width(1) :(2) 70.5(3) in(4) .(5) 
+		</sentence>
+		<sentence id="55">
+			Height(1) :(2) 54.9(3) in(4) .(5) 
+		</sentence>
+		<sentence id="56">
+			Wheel_Base(1) :(2) 105.1(3) in(4) .(5) 
+		</sentence>
+		<sentence id="57">
+			Ground_Clearance(1) :(2) 5.4(3) in(4) .(5) 
+		</sentence>
+		<sentence id="58">
+			Curb_Weight(1) :(2) 3378(3) lbs(4) .(5) 
+		</sentence>
+		<sentence id="59">
+			Interior(1) :(2) Front_Head_Room(3) :(4) 38(5) in(6) .(7) 
+		</sentence>
+		<sentence id="60">
+			Front_Hip_Room(1) :(2) 53.3(3) in(4) .(5) 
+		</sentence>
+		<sentence id="61">
+			Front_Shoulder_Room(1) :(2) 55.6(3) in(4) .(5) 
+		</sentence>
+		<sentence id="62">
+			Rear_Head_Room(1) :(2) 36.2(3) in(4) .(5) 
+		</sentence>
+		<sentence id="63">
+			Rear_Shoulder_Room(1) :(2) 54.1(3) in(4) .(5) 
+		</sentence>
+		<sentence id="64">
+			Rear_Hip_Room(1) :(2) 53.4(3) in(4) .(5) 
+		</sentence>
+		<sentence id="65">
+			Front_Leg_Room(1) :(2) 43.5(3) in(4) .(5) 
+		</sentence>
+		<sentence id="66">
+			Rear_Leg_Room(1) :(2) 34.4(3) in(4) .(5) 
+		</sentence>
+		<sentence id="67">
+			Luggage_Capacity(1) :(2) 13(3) cu(4) .(5) ft(6) .(7) 
+		</sentence>
+		<sentence id="68">
+			Maximum_Seating(1) :(2) 5(3) ((4) if(5) one(6) is(7) a(8) child(9) !(10) )(11) Fuel_Data(12) :(13) Fuel_Tank_Capacity(14) :(15) 18.5(16) gal(17) .(18) 
+		</sentence>
+		<sentence id="69">
+			EPA_Mileage_Estimates(1) :(2) ((3) City(4) /(5) Highway(6) )(7) 19(8) mpg(9) /(10) 25(11) mpg(12) Range(13) in(14) Miles(15) :(16) ((17) City(18) /(19) Highway(20) )(21) 351.5(22) mi(23) .(24) /(25) 462.5(26) mi(27) .(28) 
+		</sentence>
+		<sentence id="70">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) 1998(16) Lexus_ES(17) 300(18) 
+		</sentence>
+	</text>
+</review>

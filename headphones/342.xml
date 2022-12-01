@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="342" item="Sony MDR-NC6 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) good(2) in(3) a(4) plane(5) !(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Neat(1) folding(2) design(3) .(4) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Nice(1) bag(2) to(3) keep(4) them(5) in(6) .(7) 
+			<opinion polarity="+" feature="case" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Good(1) on(2) a(3) train(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hopeless(1) on(2) a(3) plane(4) or(5) anywhere(6) with(7) high(8) frequency(9) noise(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) brought(2) these(3) as(4) a(5) frequent(6) flier(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) concerned(3) about(4) turning(5) up(6) the(7) volume(8) on(9) my(10) CD(11) player(12) ,(13) and(14) the(15) in-flight(16) system(17) to(18) drown(19) out(20) the(21) background(22) noise(23) with(24) conventional(25) headphones(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			These(1) seemed(2) great(3) value(4) ,(5) and(6) the(7) box(8) had(9) a(10) plane(11) on(12) it(13) ,(14) so(15) I(16) thought(17) they(18) would(19) be(20) perfect(21) .(22) 
+			<opinion polarity="+" feature="price" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			In(1) practice(2) they(3) seem(4) to(5) amplify(6) the(7) high(8) frequency(9) wind(10) noise(11) on(12) the(13) plane(14) !(15) 
+		</sentence>
+		<sentence id="5">
+			Causing(1) a(2) very(3) high(4) frequency(5) hiss(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) checked(2) the(3) leaflet(4) that(5) came(6) with(7) them(8) ,(9) and(10) sure(11) enough(12) it(13) said(14) ,(15) in(16) certain(17) situations(18) with(19) a_lot_of(20) high(21) frequency(22) background(23) noise(24) ,(25) these(26) headphones(27) will(28) be(29) better(30) without(31) the(32) Noise_Reduction(33) turned(34) off(35) ((36) !(37) )(38) I(39) now(40) use(41) headphones(42) with(43) physical(44) isolation(45) ,(46) rather(47) than(48) cheap(49) circuitry(50) that(51) tops(52) out(53) at(54) 1500Hz(55) 
+		</sentence>
+	</text>
+</review>

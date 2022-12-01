@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="113" item="Panasonic RP-HT722 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Bought(1) and(2) Returned(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Decent(1) for(2) watching(3) movies(4) with(5) good(6) sound(7) quality(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="7,8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Somewhat(1) irritant(2) and(3) not(4) good(5) sound(6) for(7) MP3/IPOD(8) audio(9) .(10) 
+			<opinion polarity="-" feature="sound quality" featWords="6" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) from(4) a(5) local(6) electronics(7) store(8) thinking(9) they(10) would(11) be(12) a(13) good(14) set(15) of(16) headphones(17) for(18) me(19) to(20) use(21) while(22) studying(23) or(24) resting(25) or(26) something(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) not(3) into(4) serious(5) headphone(6) use(7) ,(8) nor(9) do(10) I(11) travel(12) or(13) play(14) games(15) with(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			In(1) other(2) words(3) ,(4) I(5) 'm(6) not(7) an(8) expert(9) when(10) it(11) comes(12) to(13) headphones(14) ,(15) but(16) I(17) can(18) tell(19) you(20) this(21) :(22) these(23) were(24) not(25) that(26) great(27) when(28) it(29) came(30) to(31) listening(32) to(33) music(34) on(35) my(36) MP3(37) player(38) .(39) 
+		</sentence>
+		<sentence id="4">
+			In(1) fact(2) ,(3) it(4) was(5) down(6) right(7) bad(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) quality(3) was(4) significantly(5) better(6) on(7) my(8) cheap(9) $10(10) sony(11) headphones(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) when(3) I(4) hooked(5) it(6) up(7) to(8) my(9) receiver(10) and(11) watched(12) a(13) movie(14) on(15) it(16) ,(17) it(18) was(19) fairly(20) impressive(21) .(22) 
+			<opinion polarity="+" feature="headphones" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="7">
+			So(1) if(2) you(3) 're(4) buying(5) these(6) for(7) watching(8) movies(9) ,(10) they(11) 'll(12) do(13) the(14) trick(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			If_not(1) ,(2) not(3) recommended(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) they(3) were(4) not(5) terribly(6) comfortable(7) ,(8) I(9) had(10) sweat(11) rings(12) within(13) 5(14) minutes(15) of(16) wearing(17) them(18) and(19) I(20) do(21) not(22) sweat(23) .(24) 
+			<opinion polarity="-" feature="comfort" opWords="5,7" potency="6"/>
+		</sentence>
+	</text>
+</review>

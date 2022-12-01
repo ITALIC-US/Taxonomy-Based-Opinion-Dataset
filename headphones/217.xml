@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="217" item="Sony MDR-NC5 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Happy(1) with(2) '(3) em(4) for(5) the(6) last(7) year(8) and(9) a_half(10) ...(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) reduction(2) on(3) planes(4) ,(5) Clean(6) bass(7) ,(8) Collapsible(9) design(10) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="design" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			NR(1) not(2) as(3) strong(4) as(5) other(6) models(7) ,(8) Fabric(9) on(10) headphones(11) rips(12) easily(13) ,(14) Funny(15) silhouette(16) 
+			<opinion polarity="-" feature="durability" opWords="12" potency="13"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) initially(3) purchased(4) these(5) headphones(6) ,(7) I(8) was(9) not(10) sure(11) if(12) I(13) 'd(14) made(15) the(16) right(17) decision(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) noise(2) reduction(3) was(4) not(5) as(6) strong(7) as(8) those(9) of(10) other(11) headphones(12) ,(13) and(14) I(15) was(16) not(17) crazy(18) about(19) the(20) way(21) the(22) headphones(23) fit(24) on(25) the(26) head(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) I(3) 've(4) got(5) to(6) say(7) that(8) after(9) having(10) used(11) them(12) for(13) the(14) last(15) year(16) and(17) a_half(18) ,(19) I(20) 'm(21) very(22) happy(23) with(24) my(25) purchase(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			I(1) fly(2) nearly(3) every(4) week(5) ,(6) and(7) the(8) headphones(9) do(10) a(11) great(12) job(13) of(14) blocking(15) out(16) noise(17) on(18) the(19) airplane(20) .(21) 
+			<opinion polarity="+" feature="headphones" featWords="9" opWords="10,11,12,13"/>
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) quality(3) ,(4) though(5) probably(6) not(7) as(8) good(9) as(10) reference(11) headphones(12) ,(13) is(14) pretty(15) good(16) ,(17) especially(18) for(19) what(20) I(21) listen(22) to(23) ((24) movies(25) ,(26) hip(27) hop(28) ,(29) jazz(30) ,(31) techno(32) ,(33) some(34) rock(35) )(36) .(37) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="6">
+			The(1) collapsing(2) design(3) is(4) a(5) big(6) plus(7) for(8) me(9) ,(10) I(11) can(12) fold(13) these(14) puppies(15) and(16) stick(17) '(18) em(19) in(20) my(21) laptop(22) bag(23) ,(24) in(25) a_lot(26) less(27) space(28) than(29) fancier(30) headphones(31) would(32) take(33) .(34) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="7">
+			One(1) thing(2) I(3) 'm(4) not(5) crazy(6) about(7) is(8) the(9) design(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) headphones(2) do(3) not(4) wrap(5) close(6) to(7) the(8) head(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			They(1) stick(2) out(3) enough(4) that(5) they(6) look(7) like(8) I(9) 've(10) got(11) some(12) kind(13) of(14) a(15) science(16) fiction(17) device(18) on(19) my(20) head(21) .(22) 
+		</sentence>
+	</text>
+</review>

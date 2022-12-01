@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="31" item="1998 Lexus ES 300" rating="5">
+	<title>
+		<sentence id="1">
+			Buy(1) this(2) car(3) !(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) &(2) smooth(3) ride(4) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Limited(1) head(2) room(3) in(4) back(5) seats(6) 
+			<opinion polarity="-" feature="head room" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) beautiful(2) luxury(3) car(4) that(5) is(6) easily(7) obtainable(8) and(9) will(10) be(11) the(12) envy(13) of(14) your(15) friends(16) .(17) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) car(2) will(3) last(4) forever(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) new(4) and(5) it(6) has(7) been(8) one(9) of(10) the(11) best(12) decisions(13) I(14) 've(15) made(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Soft(1) leather(2) seats(3) which(4) can(5) be(6) heated(7) is(8) a(9) must-have(10) for(11) the(12) harsh(13) winter(14) months(15) .(16) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Dash(1) is(2) remarkably(3) clear(4) and(5) easy(6) to(7) read(8) ,(9) especially(10) at(11) night(12) -(13) very(14) well(15) lit(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Stereo(1) can(2) not(3) be(4) beat(5) .(6) 
+			<opinion polarity="+" feature="sound system" featWords="1" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) optional(2) Nakamichi(3) sound(4) system(5) provides(6) crystal-clear(7) surround-sound(8) that(9) is(10) able(11) to(12) blast(13) you(14) out(15) of(16) the(17) car(18) ,(19) or(20) provide(21) you(22) with(23) soothing(24) background(25) music(26) to(27) compliment(28) the(29) smooth(30) ride(31) .(32) 
+			<opinion polarity="+" feature="sound system" featWords="4,5" opWords="7"/>
+			<opinion polarity="+" feature="ride quality" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) are(3) looking(4) for(5) an(6) affordable(7) ,(8) good(9) ,(10) pre-owned(11) car(12) that(13) will(14) provide(15) you(16) with(17) the(18) comforts(19) of(20) home(21) while(22) driving(23) and(24) last(25) for(26) years(27) ,(28) this(29) is(30) your(31) car(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="9"/>
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) few(3) drawbacks(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			The(1) similarity(2) in(3) styling(4) and(5) body(6) style(7) to(8) the(9) Toyota_Camry(10) is(11) one(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Limited(1) head(2) room(3) in(4) rear(5) seats(6) is(7) another(8) .(9) 
+			<opinion polarity="-" feature="head room" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="11">
+			But(1) if(2) you(3) want(4) to(5) avoid(6) the(7) land-yacht(8) feeling(9) of(10) a(11) bigger(12) luxury(13) car(14) ,(15) such(16) as(17) the(18) LS400(19) ,(20) these(21) are(22) easily(23) tolerated(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 32000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) ES(16) 
+		</sentence>
+	</text>
+</review>

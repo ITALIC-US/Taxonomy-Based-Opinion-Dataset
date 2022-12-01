@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="205" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Mighty_Maxima(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Safe(1) ,(2) smooth(3) ,(4) luxurious(5) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) a(3) 2000(4) Nissan_Maxima_SE(5) yesterday(6) after(7) much(8) research(9) and(10) anticipation(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) knew(2) the(3) Maxima(4) was(5) THE(6) ONE(7) before(8) I(9) ever(10) even(11) drove(12) it(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Who(1) can(2) resist(3) the(4) 222-horsepower(5) V6(6) engine(7) and(8) it(9) 's(10) sleek(11) design(12) ?(13) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			The(1) new(2) design(3) is(4) gorgeous(5) and(6) the(7) SE(8) is(9) extremely(10) sporty(11) for(12) a(13) midsize(14) 4(15) door(16) sedan(17) .(18) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) starting(2) looking(3) at(4) the(5) Maxima(6) 's(7) after(8) I(9) heard(10) tons(11) of(12) great(13) comments(14) about(15) them(16) from(17) friends(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) read(3) many(4) of(5) the(6) great(7) Epinion(8) reviews(9) on(10) the(11) Maxima(12) and(13) I(14) knew(15) it(16) was(17) the(18) car(19) for(20) me(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Maxima(1) is(2) rated(3) very(4) high(5) on(6) value(7) and(8) safety(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			That(1) was(2) important(3) to(4) me(5) along_with(6) the(7) attractiveness(8) of(9) the(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) heard(2) that(3) the(4) Maxima(5) went(6) from(7) 0-60(8) in(9) 6.7_seconds(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			I(1) did(2) not(3) believe(4) it(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			How(1) can(2) a(3) non-luxury(4) sedan(5) have(6) so(7) much(8) power(9) ?(10) 
+		</sentence>
+		<sentence id="12">
+			Well(1) ,(2) let(3) me(4) tell(5) you(6) .(7) .(8) the(9) 6.7_second(10) rating(11) is(12) true(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) flys(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) the(3) kind(4) of(5) car(6) where(7) you(8) think(9) you(10) are(11) going(12) 45mph(13) but(14) you(15) are(16) truly(17) going(18) 70(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			The(1) handling(2) on(3) the(4) Maxima(5) is(6) extremely(7) smooth(8) and(9) controlled(10) .(11) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="10"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="16">
+			Going(1) around(2) corners(3) and(4) every(5) turn(6) feels(7) stable(8) and(9) secure(10) .(11) 
+			<opinion polarity="+" feature="safety" opWords="10"/>
+			<opinion polarity="+" feature="stability" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			The(1) car(2) is(3) very(4) roomy(5) inside(6) and(7) it(8) is(9) very(10) obvious(11) that(12) they(13) added(14) trunk(15) room(16) ((17) 2.9(18) cubic-feet(19) more(20) )(21) on(22) the(23) new(24) models(25) .(26) 
+			<opinion polarity="+" feature="room" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			The(1) sedan(2) can(3) easily(4) hold(5) 5(6) large(7) people(8) in(9) comfort(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			I(1) purchased(2) the(3) SE(4) which(5) standard(6) features(7) such(8) as(9) :(10) anti-lock(11) brakes(12) ,(13) rear(14) spoiler(15) ,(16) halogen(17) fog(18) lights(19) ,(20) 16(21) "(22) alloy(23) wheels(24) ,(25) cruise(26) control(27) ,(28) power(29) windows(30) /(31) locks(32) ,(33) CD(34) player(35) ,(36) rear(37) defroster(38) ,(39) remote(40) keyless(41) entry(42) ,(43) auto(44) on(45) /(46) off(47) headlights(48) ,(49) dual(50) air(51) bags(52) ,(53) ignition(54) immobilizer(55) ,(56) tachometer(57) ,(58) leather(59) wrapped(60) steering(61) wheel(62) ,(63) 60/40(64) split(65) rear(66) seat(67) ,(68) and(69) many(70) more(71) .(72) You(73) can(74) also(75) choose(76) additional(77) package(78) options(79) .(80) The(81) car(82) buying(83) experience(84) at(85) my(86) local(87) Nissan(88) dealer(89) was(90) very(91) pleasant(92) .(93) They(94) were(95) willing(96) to(97) haggle(98) with(99) the(100) price(101) and(102) my(103) car(104) was(105) reduced(106) over(107) $3000(108) off(109) the(110) sticker(111) price(112) .(113) They(114) also(115) gave(116) me(117) a(118) very(119) fair(120) deal(121) on(122) my(123) trade-in(124) .(125) I(126) recommend(127) the(128) Nissan_Maxima(129) to(130) anyone(131) who(132) loves(133) not(134) only(135) speed(136) ,(137) but(138) comfort(139) and(140) reliability(141) in(142) an(143) automobile(144) .(145) 
+			<opinion polarity="+" feature="car" opWords="127"/>
+		</sentence>
+	</text>
+</review>

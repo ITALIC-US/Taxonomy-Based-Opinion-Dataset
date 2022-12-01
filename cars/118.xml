@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="118" item="1997 Pontiac Trans Sport" rating="4">
+	<title>
+		<sentence id="1">
+			Not(1) your(2) average(3) looking(4) minivan(5) 
+			<opinion polarity="+" feature="design" opWords="1,3,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) ,(2) comfortable(3) ,(4) sporty(5) looking(6) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			seats(1) are(2) hard(3) to(4) put(5) back(6) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) had(2) to(3) be(4) one(5) of(6) the(7) best(8) gifts(9) my(10) hubby(11) could(12) have(13) bought(14) for(15) me(16) :(17) )(18) He(19) knew(20) how(21) much(22) I(23) wanted(24) this(25) van(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			We(1) 've(2) had(3) it(4) now(5) for(6) almost(7) 2(8) years(9) and(10) I(11) absolutely(12) love(13) it(14) !(15) 
+			<opinion polarity="+" feature="car" featWords="14" featRef="car" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			Not(1) only(2) is(3) it(4) ((5) in(6) my(7) opinion(8) )(9) one(10) of(11) the(12) best(13) looking(14) minivans(15) on(16) the(17) road(18) ,(19) but(20) it(21) 's(22) also(23) very(24) comfortable(25) and(26) reliable(27) .(28) 
+			<opinion polarity="+" feature="reliability" opWords="27"/>
+			<opinion polarity="+" feature="comfort" opWords="25"/>
+			<opinion polarity="+" feature="design" opWords="13,14"/>
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) sporty(3) looking(4) ,(5) roomy(6) ,(7) and(8) you(9) 've(10) got(11) to(12) love(13) those(14) steering(15) wheel(16) radio(17) controls(18) ((19) not(20) a(21) standard(22) option(23) though(24) )(25) !(26) 
+			<opinion polarity="+" feature="controls" featWords="18" opWords="13"/>
+			<opinion polarity="+" feature="room" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) seats(2) are(3) extremely(4) easy(5) to(6) remove(7) but(8) they(9) are(10) kind(11) of(12) tricky(13) to(14) put(15) back(16) in(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) 46,000(3) on(4) it(5) and(6) it(7) rides(8) just(9) like(10) it(11) did(12) when(13) I(14) first(15) got(16) it(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			This(1) van(2) is(3) definitely(4) a(5) keeper(6) .(7) 
+			<opinion polarity="+" feature="van" featWords="2" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

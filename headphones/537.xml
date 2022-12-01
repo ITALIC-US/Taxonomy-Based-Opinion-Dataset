@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="537" item="Koss Porta Pro Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Decent_Offering_From_Koss(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very_Well-Round(1) ,(2) Comfortable(3) ,(4) Inexpensive(5) ,(6) Good_And_Loud_Sound(7) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound_Is_Slightly_Warm_And_Lacks_Frequency_Extremes(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Koss(1) is(2) a(3) very(4) well-known(5) company(6) in(7) inexpensive(8) headphones(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			Every(1) once(2) in(3) awhile(4) they(5) 'll(6) dish(7) out(8) something(9) bad(10) like(11) the(12) awful(13) UR29(14) ,(15) but(16) most(17) of(18) their(19) headphones(20) are(21) good(22) value(23) ,(24) like(25) the(26) Sporta_Pro(27) .(28) 
+			<opinion polarity="+" feature="price" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) quality(3) is(4) not(5) the(6) best(7) you(8) 'll(9) find(10) for(11) this(12) price(13) ,(14) but(15) it(16) is(17) very(18) decent(19) ,(20) especially(21) the(22) mids(23) are(24) audiophile(25) quality(26) .(27) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="4">
+			The(1) bass(2) is(3) good(4) ,(5) but(6) a_bit(7) overwhelming(8) at(9) higher(10) volumes(11) ,(12) making(13) them(14) sound(15) slightly(16) warm(17) .(18) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) also(2) have(3) a(4) clear(5) sound(6) ,(7) although(8) they(9) do(10) not(11) bring(12) out(13) a_lot_of(14) detail(15) some(16) pricer(17) sets(18) can(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			They(1) can(2) also(3) bring(4) out(5) the(6) volume(7) ,(8) making(9) them(10) good(11) for(12) portable(13) players(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Seemed(1) comfortable(2) to(3) me(4) ,(5) and(6) also(7) have(8) a(9) neat(10) design(11) .(12) 
+			<opinion polarity="+" feature="comfort" opWords="2"/>
+			<opinion polarity="+" feature="design" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 'd(2) spend(3) the(4) extra(5) $20(6) to(7) get(8) the(9) "(10) great(11) "(12) Porta_Pros(13) ,(14) the(15) Sporta_Pros(16) are(17) a(18) "(19) good(20) "(21) offering(22) at(23) only(24) $30(25) .(26) 
+		</sentence>
+	</text>
+</review>

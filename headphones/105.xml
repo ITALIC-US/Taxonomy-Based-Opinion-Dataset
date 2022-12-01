@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="105" item="Etymotic Research Binaura ER4B Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Etymotic_ER(1) -(2) 6(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Small(1) size(2) .(3) 
+			<opinion polarity="+" feature="size" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) bass(3) sound(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Flimsy(1) -(2) tangling(3) wires(4) .(5) 
+			<opinion polarity="-" feature="durability" opWords="1"/>
+			<opinion polarity="-" feature="cord" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) tried(2) out(3) these(4) headphones(5) after(6) reading(7) the(8) positive(9) reviews(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) not(3) impressed(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Where(1) is(2) the(3) bass(4) ?(5) 
+		</sentence>
+		<sentence id="4">
+			These(1) sound(2) very(3) tinny(4) when(5) used(6) with(7) my(8) xm(9) radio(10) .(11) 
+			<opinion polarity="-" feature="sound quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			No(1) better(2) on(3) my(4) fm(5) radio(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			What(1) gives(2) ?(3) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="403" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Worth_the_Price(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) superb(2) performer(3) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			open(1) air(2) design(3) prevents(4) use(5) in(6) noisy(7) environment(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Upon(1) hearing(2) the(3) Sennheiser_HD(4) 600(5) for(6) the(7) first(8) time(9) ,(10) I(11) was(12) immediately(13) "(14) blown(15) away(16) .(17) "(18) This(19) is(20) a(21) superlative(22) headphone(23) ,(24) which(25) will(26) wring(27) every(28) ounce(29) of(30) resolution(31) and(32) detail(33) from(34) your(35) system(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			I(1) delight(2) in(3) introducing(4) my(5) "(6) non-audiophile(7) "(8) friends(9) to(10) these(11) headphones(12) --(13) they(14) are(15) simply(16) awe-struck(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="14" featRef="headphones" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) used(3) these(4) with(5) both(6) the(7) Creek(8) OBH-11(9) and(10) Headroom_Max(11) headphone(12) amps(13) ,(14) and(15) have(16) been(17) delighted(18) with(19) the(20) results(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			With(1) good(2) amplification(3) ,(4) they(5) move(6) headroom(7) listening(8) from(9) the(10) category(11) of(12) an(13) occasional(14) diversion(15) to(16) a(17) viable(18) alternative(19) to(20) speaker(21) listening(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			In(1) fact(2) ,(3) I(4) actually(5) prefer(6) them(7) for(8) certain(9) types(10) of(11) classical(12) music(13) ((14) my(15) preference(16) )(17) ,(18) including(19) chamber(20) music(21) and(22) violin(23) /(24) piano(25) sonatas(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			With(1) good(2) amplification(3) ,(4) the(5) HD(6) 600s(7) have(8) taken(9) me(10) way(11) beyond(12) what(13) I(14) was(15) used(16) to(17) in(18) terms(19) of(20) headphone(21) listening(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			Think(1) of(2) these(3) as(4) a(5) pair(6) of(7) "(8) high(9) end(10) "(11) speakers(12) for(13) your(14) ears(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Expensive(1) ,(2) but(3) well(4) worth(5) the(6) price(7) !(8) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</text>
+</review>

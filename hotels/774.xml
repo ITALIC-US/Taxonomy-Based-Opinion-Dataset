@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="774" item="La Quinta Inn Lakeside" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Stay(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fantastic_Buffet_Breakfast(1) ,(2) Beautifully_Landscaped_Grounds(3) ,(4) Clean(5) ,(6) Pleasant(7) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="+" feature="hotel" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) Pets(2) :(3) -(4) ((5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) something(6) that(7) 's(8) a(9) cut(10) above(11) the(12) budget(13) line(14) of(15) motels(16) ,(17) but(18) not(19) extremely(20) costly(21) or(22) elaborate(23) ,(24) this(25) is(26) a(27) nice(28) choice(29) .(30) 
+			<opinion polarity="+" feature="price" opWords="19,21" potency="20"/>
+		</sentence>
+		<sentence id="2">
+			Pretty(1) and(2) Clean(3) .(4) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Four(5) Points_Sheraton(6) for(7) a(8) weekend(9) getaway(10) and(11) my(12) husband(13) and(14) I(15) had(16) a(17) very(18) very(19) nice(20) time(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			The(1) room(2) was(3) nice(4) ,(5) the(6) people(7) were(8) nice(9) ,(10) the(11) pool(12) was(13) fantastic(14) ,(15) as(16) was(17) the(18) Breakfast_Buffet(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="12" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) a(3) restaurant(4) onsite(5) and(6) a(7) lounge(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			They(1) had(2) an(3) onsite(4) General(5) store(6) for(7) those(8) things(9) you(10) forget(11) to(12) pick(13) up(14) while(15) out(16) and(17) about(18) and(19) you(20) could(21) also(22) buy(23) sandwiches(24) and(25) snacks(26) there(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) nice(3) to(4) just(5) walk(6) the(7) grounds(8) around(9) the(10) lake(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Very(1) relaxing(2) peaceful(3) atmosphere(4) !(5) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) conveniently(3) located(4) west(5) of(6) I(7) -(8) 4(9) so(10) it(11) is(12) not(13) in(14) the(15) real(16) heavy(17) traffic(18) part(19) of(20) 192(21) in(22) Kissimmee(23) ,(24) yet(25) it(26) 's(27) very(28) close(29) to(30) WDW(31) and(32) other(33) attractions(34) .(35) 
+			<opinion polarity="+" feature="place" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

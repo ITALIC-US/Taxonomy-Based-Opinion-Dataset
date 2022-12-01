@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="569" item="Bose TriPort Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Sound(1) dependent(2) of(3) a(4) good(5) source(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Lows(1) ,(2) 5(3) '(4) extension(5) cord(6) ,(7) carry(8) bag(9) ,(10) BOSE_Name(11) .(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Midrange(1) tones(2) and(3) vocals(4) need(5) work(6) ,(7) good(8) sound(9) depends(10) on(11) the(12) source(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) beleive(2) this(3) are(4) nice(5) headphones(6) but(7) Bose(8) needs(9) to(10) work(11) on(12) the(13) Midrange(14) vocals(15) and(16) tones(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Highs(1) and(2) Lows(3) are(4) perfect(5) .(6) 
+			<opinion polarity="+" feature="highs" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="bass" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Work(1) on(2) the(3) Midrange(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) really(2) love(3) classical(4) and(5) instrumental(6) music(7) and(8) I(9) wanted(10) to(11) look(12) for(13) a(14) better(15) sound(16) ,(17) better(18) than(19) my(20) sony(21) ear(22) buds(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Since(1) I(2) have(3) a(4) Bose_Accoustimass(5) system(6) and(7) my(8) uncle(9) 's(10) Nissan_Maxima(11) has(12) a(13) Bose(14) audio(15) system(16) I(17) quickly(18) took(19) notice(20) of(21) the(22) sound(23) quality(24) of(25) Bose(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			I(1) researched(2) and(3) found(4) the(5) Bose_Triport_Headphones(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			Although(1) they(2) are(3) big(4) and(5) bulky(6) they(7) are(8) confortable(9) and(10) they(11) are(12) kinda(13) '(14) sound(15) proof(16) .(17) 
+			<opinion polarity="-" feature="size" opWords="4"/>
+			<opinion polarity="-" feature="portability" opWords="6"/>
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			The(1) ear(2) section(3) if(4) really(5) confortable(6) and(7) trap(8) the(9) sound(10) inside(11) the(12) earphones(13) while(14) making(15) a(16) seal(17) that(18) does(19) not(20) let(21) sound(22) in(23) from_outside(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			However(1) if(2) you(3) want(4) total(5) quiteness(6) try(7) the(8) Bose_Quiet_Confort_Headphones(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			They(1) produce(2) rich(3) lows(4) just(5) as(6) Bose(7) said(8) it(9) would(10) but(11) the(12) Midrange(13) tones(14) are(15) not(16) so(17) clear(18) and(19) the(20) highs(21) while(22) not(23) bad(24) could(25) be(26) better(27) .(28) 
+			<opinion polarity="+" feature="bass" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			I(1) noticed(2) that(3) the(4) headphones(5) perform(6) differently(7) in(8) diferrent(9) sources(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			So(1) people(2) may(3) have(4) to(5) look(6) for(7) the(8) source(9) they(10) prefer(11) and(12) see(13) how(14) it(15) sounds(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) quility(2) of(3) the(4) product(5) seems(6) good(7) and(8) they(9) bring(10) a(11) 5(12) '(13) extension(14) cord(15) and(16) a(17) carry(18) case(19) which(20) is(21) good(22) ((23) although(24) you(25) pay(26) for(27) that(28) in_the_$150(29) price(30) tag(31) )(32) .(33) 
+			<opinion polarity="+" feature="case" featWords="19" opWords="22"/>
+		</sentence>
+		<sentence id="11">
+			Overall_I(1) think(2) that(3) they(4) offer(5) good(6) performance(7) but(8) you(9) should(10) take(11) your(12) music(13) source(14) ((15) mp3(16) ,(17) cd(18) player(19) ,(20) etc.(21) .(22) )(23) to(24) the(25) store(26) and(27) give(28) it(29) a(30) try(31) there(32) to(33) see(34) if(35) they(36) sound(37) at(38) best(39) with(40) your(41) source(42) before(43) buying(44) it(45) .(46) 
+			<opinion polarity="+" feature="performance" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

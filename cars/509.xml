@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="509" item="2002 Toyota Highlander" rating="3">
+	<title>
+		<sentence id="1">
+			I(1) expected(2) more(3) from(4) a(5) Toyota(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) storage(3) ,(4) worry-free(5) engine(6) ,(7) and(8) resale(9) value(10) is(11) very(12) high(13) .(14) 
+			<opinion polarity="+" feature="resale value" featWords="9,10" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="engine" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rattling(1) noises(2) ,(3) seating(4) not(5) comfortable(6) ,(7) &(8) Cup(9) holders(10) in(11) rear(12) doors(13) make(14) a(15) mess(16) !(17) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="5,6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Rattling(1) noises(2) inside(3) and(4) poor(5) cup(6) holders(7) positioning(8) ((9) splatter(10) when(11) door(12) is(13) shut(14) )(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) Toyota(3) quality(4) engine(5) will(6) not(7) leave(8) you(9) stranded(10) and(11) resale(12) value(13) is(14) HIGH(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) SUV(4) for(5) the(6) car-like(7) handling(8) and(9) the(10) ability(11) to(12) be(13) comfortable(14) traveling(15) a_lot(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) does(2) handle(3) very(4) well(5) for(6) an(7) SUV(8) ,(9) but(10) the(11) comfort(12) is(13) not(14) what(15) I(16) thought(17) it(18) would(19) be(20) .(21) 
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) controls(2) are(3) easy(4) to(5) use(6) and(7) within(8) reach(9) and(10) the(11) storage(12) is(13) plentiful(14) and(15) within(16) reach(17) of(18) the(19) driver(20) .(21) 
+			<opinion polarity="+" feature="controls" featWords="2" opWords="4,5,6"/>
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) the(3) seat(4) is(5) not(6) as(7) comfortable(8) as(9) I(10) have(11) had(12) in(13) past(14) Toyota(15) 's(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) lumbar(2) support(3) ((4) or(5) lack(6) there(7) of(8) )(9) leaves(10) a_lot(11) to(12) be(13) desired(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) had(3) my(4) Highlander(5) for(6) almost(7) 3(8) years(9) and(10) my(11) two(12) biggest(13) complaints(14) are(15) :(16) 1(17) )(18) the(19) rattling(20) noises(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) glove(2) box(3) and(4) the(5) truck(6) hatch(7) rattle(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			The(1) dealership(2) said(3) it(4) is(5) typical(6) for(7) SUV(8) 's(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Unfortunately(1) there(2) is(3) no(4) way(5) to(6) tighten(7) whatever(8) has(9) become(10) loose(11) .(12) 2(13) )(14) The(15) cup(16) holders(17) in(18) the(19) back(20) seat(21) are(22) in(23) the(24) door(25) are(26) a(27) potential(28) disaster(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			If(1) one(2) of(3) the(4) kids(5) leaves(6) a_half(7) full(8) can(9) of(10) soda(11) in(12) the(13) door(14) and(15) slams(16) it(17) shut(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Soda(1) goes(2) everywhere(3) !(4) 
+		</sentence>
+		<sentence id="12">
+			As(1) for(2) maintenance(3) ,(4) there(5) has(6) been(7) very(8) little(9) for(10) concern(11) here(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) ((3) and(4) I(5) mean(6) ONLY(7) )(8) problem(9) I(10) have(11) had(12) is(13) the(14) check(15) engine(16) light(17) came(18) on(19) because_of(20) a(21) bad(22) emissions(23) sensor(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) I(3) would(4) say(5) that(6) I(7) am(8) disappointed(9) with(10) it(11) because(12) I(13) expected(14) more(15) from(16) a(17) Toyota(18) but(19) compared(20) to(21) other(22) SUV(23) 's(24) in(25) it(26) 's(27) class(28) it(29) is(30) better(31) than(32) average(33) .(34) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			UPDATE(1) :(2) We(3) traded(4) in(5) this(6) Highlander(7) for(8) $8500(9) with(10) a(11) badly(12) dented(13) rear(14) bumper(15) and(16) over(17) 102,000_miles(18) !(19) 
+		</sentence>
+		<sentence id="16">
+			WOW(1) ...(2) great(3) resale(4) value(5) !(6) 
+			<opinion polarity="+" feature="resale value" featWords="4,5" opWords="3"/>
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 19,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) base(16) model(17) ,(18) tint(19) ,(20) alarm(21) ,(22) auto(23) ,(24) luggage(25) rack(26) 
+		</sentence>
+	</text>
+</review>

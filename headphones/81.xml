@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="81" item="Sennheiser HD 280 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) but(4) less(5) than(6) stellar(7) construction(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Outstanding(1) sound(2) quality(3) and(4) ambient(5) noise(6) dampening(7) abilities(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poor(2) headband(3) construction(4) ,(5) plastic(6) disintegrated(7) ,(8) currently(9) held(10) together(11) with(12) electrical(13) tape(14) .(15) 
+			<opinion polarity="-" feature="durability" featWords="4" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			First(1) off(2) ,(3) I(4) must(5) say(6) that(7) I(8) love(9) the(10) sound(11) quality(12) of(13) these(14) headphones(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="11,12" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			The(1) external(2) dampening(3) of(4) ambient(5) noise(6) is(7) very(8) good(9) and(10) its(11) ability(12) to(13) minimize(14) sound(15) transmission(16) to(17) anyone(18) around(19) you(20) is(21) also(22) very(23) good(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			The(1) dynamic(2) range(3) of(4) the(5) sound(6) reproduction(7) is(8) also(9) very(10) good(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="6,7" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="4">
+			Unfortunately(1) ,(2) the(3) headset(4) construction(5) is(6) not(7) as(8) good(9) as(10) the(11) audio(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) plastic(2) on(3) the(4) headband(5) construction(6) disintegrated(7) after(8) about(9) a(10) year(11) ,(12) however(13) I(14) am(15) still(16) listening(17) to(18) them(19) with(20) the(21) headband(22) held(23) together(24) with(25) electrical(26) tape(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			Not(1) exactly(2) what(3) i(4) imagined(5) when(6) you(7) consider(8) the(9) overall(10) package(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			I(1) spent(2) most(3) of(4) my(5) review(6) time(7) with(8) the(9) headphones(10) analytically(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Focusing(1) primarily(2) on(3) a(4) frequency(5) response(6) /(7) sensitivity(8) /(9) weight(10) /(11) price(12) point(13) variables(14) before(15) settling(16) on(17) the(18) HD280(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Even(1) with(2) the(3) headphone(4) being(5) held(6) together(7) with(8) tape(9) ,(10) please(11) notice(12) that(13) I(14) 'm(15) still(16) listening(17) to(18) them(19) ...(20) The(21) sound(22) quality(23) is(24) that(25) good(26) ...(27) Just(28) wish(29) they(30) took(31) the(32) time(33) to(34) make(35) a(36) better(37) headband(38) .(39) 
+			<opinion polarity="+" feature="sound quality" featWords="22,23" opWords="26"/>
+		</sentence>
+	</text>
+</review>

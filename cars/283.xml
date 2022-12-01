@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="283" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) 4(2) Door_Sports_Car_Lives(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful_V(1) -(2) 6(3) Engine(4) ,(5) Appearance(6) ,(7) Bang_for_Buck(8) ,(9) Bose_Stereo_System(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Minor_Shift(1) glitches(2) with(3) 5-Speed(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) 2000(2) is(3) a(4) joy(5) to(6) drive(7) ,(8) high(9) output(10) V(11) -(12) 6(13) with(14) 5-speed(15) leaves(16) your(17) everyday(18) ho(19) hum(20) looking(21) &(22) performance(23) Accords(24) and(25) Camry(26) 's(27) in(28) the(29) rear(30) view(31) mirror(32) .(33) 
+			<opinion polarity="+" feature="car" opWords="5,6,7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) owned(2) a(3) 1998(4) Maxima_SE_Limited(5) for(6) a(7) little(8) over(9) a(10) year(11) ,(12) it(13) was(14) a(15) great(16) car(17) and(18) I(19) had(20) no(21) complaints(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			Actually(1) I(2) did(3) not(4) think(5) they(6) could(7) improve(8) on(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			Until(1) I(2) test(3) drove(4) a(5) brand(6) new(7) artic(8) white(9) 2000(10) SE(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) fell(2) in(3) love(4) with(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) only(3) gone(4) in(5) for(6) a(7) oil(8) change(9) and(10) left(11) with(12) a(13) 2000(14) Se(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) now(2) have(3) 20,000_miles(4) on(5) it(6) and(7) it(8) has(9) been(10) virtually(11) trouble(12) free(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) to(3) admit(4) that(5) until(6) you(7) learn(8) the(9) 5(10) speed(11) you(12) can(13) miss(14) a(15) shift(16) from(17) 2nd(18) to(19) 3rd(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Once(1) you(2) learn(3) the(4) transmission(5) 's(6) "(7) sweet(8) spots(9) "(10) you(11) can(12) avoid(13) this(14) problem(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) the(3) automatic(4) sun(5) roof(6) ,(7) upgraded(8) bose(9) system(10) ((11) which(12) is(13) awesome(14) )(15) ,(16) and(17) lots(18) of(19) other(20) "(21) goodies(22) "(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			After(1) looking(2) at(3) everyday(4) drab(5) Accords(6) and(7) Camry(8) 's(9) why(10) someone(11) would(12) purchase(13) one(14) is(15) beyond(16) me(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Of(1) course(2) the(3) Maxima(4) is(5) a(6) little(7) more(8) costlier(9) than(10) the(11) Honda(12) or(13) Toyota(14) but(15) it(16) leaves(17) them(18) both(19) in(20) the(21) dust(22) on(23) perfomance(24) and(25) looks(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			It(1) did(2) take(3) a(4) little(5) time(6) to(7) get(8) use(9) to(10) the(11) appearance(12) of(13) the(14) Maxima(15) but(16) in(17) a(18) short(19) time(20) I(21) grew(22) to(23) appreciate(24) the(25) fact(26) that(27) it(28) does(29) not(30) look(31) like(32) anything(33) else(34) on(35) the(36) road(37) in(38) it(39) 's(40) class(41) .(42) 
+		</sentence>
+		<sentence id="13">
+			Interior(1) fit(2) and(3) finish(4) are(5) superb(6) .(7) 
+			<opinion polarity="+" feature="finish" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="14">
+			The(1) gas(2) mileage(3) is(4) not(5) bad(6) if(7) you(8) can(9) keep(10) your(11) foot(12) off(13) the(14) floor(15) board(16) which(17) is(18) pretty(19) hard(20) to(21) do(22) .(23) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5,6"/>
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) gotten(3) excellent(4) gas(5) mileage(6) on(7) trips(8) and(9) decent(10) mileage(11) in(12) town(13) .(14) 
+			<opinion polarity="+" feature="gas" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			I(1) would(2) not(3) trade(4) the(5) performance(6) for(7) little(8) bit(9) of(10) better(11) mileage(12) ,(13) it(14) is(15) not(16) worth(17) it(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) 2000(16) maxima(17) SE(18) -(19) 5(20) Speed(21) 
+		</sentence>
+	</text>
+</review>

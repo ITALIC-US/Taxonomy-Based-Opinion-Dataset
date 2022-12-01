@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="482" item="2001 Toyota Prius" rating="3">
+	<title>
+		<sentence id="1">
+			Great_Idea(1) ,(2) Bad_Execution(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas_Mileage(1) ,(2) Styling(3) ,(4) Price(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Badly(1) designed(2) controls(3) ,(4) Missing(5) basic(6) features(7) 
+			<opinion polarity="-" feature="controls" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) test-drove(3) the(4) Toyota_Prius(5) after(6) placing(7) an(8) order(9) with(10) my(11) local(12) Toyota(13) dealer(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) dealer(2) was(3) very(4) helpful(5) in(6) setting(7) me(8) up(9) with(10) a(11) 24-hour(12) test(13) drive(14) so_that(15) I(16) could(17) get(18) a(19) good(20) feeling(21) for(22) the(23) car(24) and(25) drive(26) it(27) around(28) quite(29) a_bit(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			I(1) mention(2) this(3) because(4) I(5) was(6) equally(7) interested(8) in(9) the(10) Honda_Insight(11) in(12) the(13) spring(14) ,(15) but(16) after(17) finally(18) finding(19) one(20) in(21) a(22) dealership(23) ,(24) the(25) Honda(26) dealer(27) only(28) allowed(29) me(30) to(31) drive(32) it(33) around(34) the(35) block(36) ,(37) and(38) couldn(39) t(40) even(41) explain(42) some(43) of(44) the(45) features(46) of(47) the(48) vehicle(49) .(50) 
+		</sentence>
+		<sentence id="4">
+			I(1) ve(2) decided(3) not(4) to(5) buy(6) the(7) Prius(8) at(9) this(10) time(11) ,(12) but(13) am(14) still(15) very(16) interested(17) in(18) the(19) development(20) of(21) alternative-fuel(22) cars(23) ,(24) and(25) I(26) these(27) are(28) my(29) observations(30) about(31) the(32) vehicle(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			Driving(1) ,(2) Handling(3) ,(4) Gas_Consumption_From(5) what(6) I(7) could(8) tell(9) ,(10) the(11) Prius(12) drove(13) like(14) any(15) other(16) car(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) a(3) little(4) slow(5) on(6) the(7) acceleration(8) from(9) standing(10) still(11) ,(12) and(13) the(14) brakes(15) are(16) a(17) little(18) more(19) sensitive(20) than(21) what(22) you(23) 're(24) used(25) to(26) ,(27) but(28) both(29) are(30) easy(31) to(32) get(33) used(34) to(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			On(1) the(2) highway(3) the(4) car(5) is(6) certainly(7) not(8) underpowered(9) --(10) it(11) 's(12) easy(13) to(14) speed(15) up(16) and(17) pass(18) other(19) cars(20) as(21) needed(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			During(1) my(2) 24-hour(3) test(4) drive(5) ,(6) the(7) car(8) told(9) me(10) that(11) it(12) was(13) getting(14) around(15) 35_miles(16) per(17) gallon(18) ,(19) which(20) is(21) significantly(22) below(23) the(24) reported(25) gas(26) consumption(27) ,(28) but(29) I(30) may(31) have(32) been(33) driving(34) the(35) car(36) a(37) little(38) harder(39) than(40) usual(41) .(42) 
+		</sentence>
+		<sentence id="9">
+			Trunk_Space_After(1) seeing(2) the(3) miniscule(4) amount(5) of(6) space(7) in(8) the(9) Honda_Insight(10) ,(11) I(12) was(13) glad(14) to(15) hear(16) that(17) the(18) Prius(19) had(20) a(21) decent-sized(22) trunk(23) ((24) not(25) to(26) mention(27) a(28) back(29) seat(30) !(31) )(32) .(33) 
+		</sentence>
+		<sentence id="10">
+			I(1) was(2) very(3) disappointed(4) ,(5) though(6) ,(7) to(8) find(9) out(10) that(11) the(12) back(13) seat(14) of(15) the(16) Prius(17) didn(18) t(19) fold(20) down(21) to(22) open(23) up(24) the(25) trunk(26) into(27) the(28) back(29) seat(30) of(31) the(32) car(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			I(1) understand(2) that(3) the(4) battery(5) pack(6) is(7) mounted(8) just(9) behind(10) the(11) rear(12) seats(13) ,(14) but(15) why(16) is(17) it(18) located(19) there(20) ?(21) 
+		</sentence>
+		<sentence id="12">
+			Couldn(1) t(2) it(3) be(4) moved(5) to(6) a(7) different(8) place(9) where(10) it(11) didn(12) t(13) obstruct(14) the(15) space(16) between(17) the(18) trunk(19) and(20) the(21) back(22) seat(23) ?(24) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) an(3) important(4) feature(5) if(6) you(7) ever(8) use(9) that(10) space(11) to(12) carry(13) anything(14) large(15) like(16) bikes(17) or(18) skis(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			Dashboard_I(1) m(2) a(3) user-interface(4) designer(5) by(6) profession(7) ,(8) and(9) my(10) biggest(11) disappointment(12) of(13) the(14) Prius(15) from(16) that(17) perspective(18) was(19) the(20) center(21) dashboard(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			I(1) liked(2) the(3) climate(4) control(5) module(6) ,(7) but(8) the(9) knobs(10) and(11) buttons(12) surrounding(13) the(14) digital(15) clock(16) seemed(17) disorganized(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			As(1) the(2) car(3) gets(4) older(5) ,(6) those(7) buttons(8) seem(9) extremely(10) limiting(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Traffic(1) and(2) mapping(3) seem(4) like(5) important(6) features(7) now(8) ,(9) but(10) in(11) five(12) years(13) Internet(14) access(15) might(16) be(17) popular(18) ,(19) and(20) although(21) your(22) car(23) has(24) the(25) display(26) panel(27) for(28) it(29) ,(30) the(31) hardware(32) is(33) not(34) expandable(35) enough(36) to(37) accommodate(38) new(39) features(40) .(41) 
+		</sentence>
+		<sentence id="18">
+			Aesthetically(1) ,(2) the(3) oval(4) buttons(5) reminded(6) me(7) ((8) in(9) a(10) bad(11) way(12) )(13) of(14) the(15) dashboard(16) of(17) a(18) Ford_Taurus(19) .(20) 
+		</sentence>
+		<sentence id="19">
+			Display_Panel_The(1) issue(2) of(3) the(4) dashboard(5) would(6) seemingly(7) be(8) moot(9) given(10) the(11) presence(12) of(13) the(14) multi-information(15) display(16) panel(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Unfortunately(1) ,(2) the(3) flexibility(4) afforded(5) by(6) a(7) digital(8) screen(9) seems(10) to(11) have(12) eluded(13) the(14) designers(15) ,(16) because(17) most(18) of(19) the(20) functions(21) are(22) accessed(23) by(24) the(25) aforementioned(26) dashboard(27) buttons(28) .(29) 
+		</sentence>
+		<sentence id="21">
+			The(1) display(2) allows(3) users(4) to(5) change(6) radio(7) stations(8) ,(9) but(10) that(11) s(12) about(13) it(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			Otherwise(1) it(2) dedicates(3) itself(4) to(5) monitoring(6) energy(7) usage(8) ,(9) which(10) seems(11) to(12) be(13) more(14) of(15) a(16) gimmicky(17) sales(18) tool(19) than(20) a(21) useful(22) feature(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			Furthermore(1) ,(2) from(3) a(4) human(5) factors(6) standpoint(7) ,(8) the(9) screen(10) is(11) so(12) deeply(13) recessed(14) from(15) the(16) dashboard(17) that(18) it(19) s(20) cumbersome(21) to(22) reach(23) inside(24) the(25) hole(26) and(27) press(28) the(29) screen(30) .(31) 
+		</sentence>
+		<sentence id="24">
+			I(1) would(2) propose(3) enlarging(4) the(5) display(6) panel(7) and(8) integrating(9) the(10) roles(11) that(12) the(13) hardware(14) buttons(15) serve(16) into(17) the(18) digital(19) display(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			That(1) way(2) ,(3) Prius(4) owners(5) could(6) have(7) their(8) display(9) software(10) updated(11) on(12) a(13) yearly(14) basis(15) and(16) never(17) miss(18) out(19) on(20) new(21) features(22) or(23) functions(24) .(25) "(26) B(27) "(28) Gear_It(29) was(30) my(31) understanding(32) that(33) the(34) "(35) B(36) "(37) position(38) on(39) the(40) gear(41) selector(42) was(43) to(44) be(45) used(46) when(47) coasting(48) downhill(49) or(50) whenever(51) the(52) battery(53) needed(54) to(55) be(56) charged(57) .(58) 
+		</sentence>
+		<sentence id="26">
+			It(1) seems(2) like(3) if(4) Toyota(5) has(6) the(7) engineering(8) ability(9) to(10) develop(11) a(12) gasoline-electric(13) hybrid(14) engine(15) that(16) dynamically(17) switches(18) between(19) energy(20) sources(21) while(22) driving(23) ,(24) that(25) they(26) could(27) at_least(28) know(29) when(30) the(31) battery(32) needed(33) charging(34) and(35) do(36) it(37) automatically(38) rather(39) than(40) giving(41) the(42) driver(43) something(44) else(45) to(46) worry(47) about(48) .(49) 
+		</sentence>
+		<sentence id="27">
+			This(1) is(2) another(3) feature(4) that(5) feels(6) more(7) like(8) a(9) gimmick(10) than(11) an(12) actual(13) benefit(14) .(15) 
+		</sentence>
+		<sentence id="28">
+			Gear(1) selector(2) I(3) was(4) very(5) impressed(6) with(7) the(8) basic(9) styling(10) of(11) the(12) Prius(13) ,(14) both(15) inside(16) and(17) out(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			The(1) gearshift(2) lever(3) ,(4) however(5) ,(6) sticks(7) out(8) like(9) a(10) sore(11) thumb(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			Not(1) only(2) does(3) it(4) stick(5) out(6) from(7) the(8) dashboard(9) at(10) an(11) odd(12) angle(13) ,(14) but(15) it(16) also(17) blocks(18) the(19) driver(20) s(21) vision(22) onto(23) the(24) display(25) panel(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			Either(1) put(2) a(3) standard(4) gear(5) selector(6) on(7) the(8) floor(9) of(10) the(11) car(12) ,(13) or(14) if(15) it(16) has(17) to(18) be(19) on(20) the(21) dashboard(22) ,(23) come(24) up(25) with(26) a(27) better(28) solution(29) .(30) "(31) Jesus_Christ(32) "(33) Handle(34) This(35) is(36) a(37) minor(38) complaint(39) ,(40) but(41) I(42) m(43) used(44) to(45) holding(46) on(47) to(48) an(49) over-window(50) handle(51) on(52) the(53) driver(54) s(55) side(56) of(57) my(58) Honda_Accord(59) ,(60) and(61) the(62) Prius(63) didn(64) t(65) have(66) one(67) .(68) 
+		</sentence>
+		<sentence id="32">
+			It(1) seems(2) like(3) a(4) small(5) detail(6) that(7) could(8) easily(9) be(10) added(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			Cruise(1) control(2) Cruise(3) control(4) is(5) not(6) available(7) on(8) the(9) Prius(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			It(1) s(2) an(3) automatic(4) transmission(5) vehicle(6) ,(7) and(8) cruise(9) control(10) is(11) included(12) on(13) the(14) Corolla(15) ,(16) a(17) similarly(18) priced(19) car(20) ,(21) so(22) it(23) seems(24) like(25) they(26) could(27) easily(28) include(29) it(30) on(31) the(32) Prius(33) .(34) 
+		</sentence>
+		<sentence id="35">
+			My(1) greatest(2) disappointment(3) comes(4) because(5) the(6) Toyota(7) design(8) team(9) seemed(10) to(11) have(12) made(13) a(14) conscious(15) decision(16) to(17) design(18) a(19) new(20) type(21) of(22) vehicle(23) ,(24) but(25) in(26) my(27) opinion(28) ,(29) they(30) didn(31) t(32) entirely(33) succeed(34) .(35) 
+		</sentence>
+		<sentence id="36">
+			The(1) integration(2) of(3) a(4) futuristic(5) display(6) with(7) plastic(8) hardware(9) buttons(10) is(11) shortsighted(12) ,(13) and(14) the(15) exclusion(16) of(17) basic(18) features(19) ((20) cruise(21) control(22) ,(23) folding(24) rear(25) seat(26) )(27) seems(28) unnecessary(29) .(30) 
+		</sentence>
+		<sentence id="37">
+			I(1) would(2) have(3) felt(4) more(5) comfortable(6) with(7) the(8) Prius(9) if(10) Toyota(11) had(12) taken(13) a(14) Corolla(15) and(16) added(17) a(18) hybrid(19) engine(20) rather(21) than(22) trying(23) to(24) invent(25) a(26) new(27) car(28) and(29) selling(30) it(31) to(32) the(33) public(34) incomplete(35) .(36) 
+		</sentence>
+	</text>
+</review>

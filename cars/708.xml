@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="708" item="1999 Toyota Camry Solara" rating="1">
+	<title>
+		<sentence id="1">
+			1999(1) Solara(2) transmission(3) problem(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) looking(2) ,(3) quiet(4) ,(5) comfortable(6) ,(7) handles(8) well(9) 
+			<opinion polarity="+" feature="handling" opWords="8,9"/>
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) slips(2) when(3) engine(4) is(5) cold(6) 
+			<opinion polarity="-" feature="transmission" featWords="1" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) this(2) car(3) were(4) a(5) fish(6) ,(7) I(8) 'd(9) throw(10) it(11) back(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) transmission(2) on(3) this(4) car(5) is(6) very(7) unpredictable(8) when(9) starting(10) cold(11) after(12) sitting(13) overnight(14) .(15) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="2">
+			It(1) often(2) slips(3) ,(4) and(5) sometimes(6) unexpectedly(7) grabs(8) .(9) 
+			<opinion polarity="-" feature="transmission" featWords="1" featRef="transmission" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Be(1) very(2) careful(3) !(4) !(5) 
+		</sentence>
+		<sentence id="4">
+			The(1) dealer(2) will(3) refuse(4) to(5) confirm(6) or(7) repair(8) this(9) condition(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			You(1) will(2) not(3) notice(4) this(5) problem(6) until(7) after(8) you(9) 've(10) purchased(11) the(12) car(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) most(3) dangerous(4) if(5) multiple(6) drivers(7) use(8) the(9) car(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) transmission(2) slips(3) following(4) a(5) cold(6) start(7) ,(8) and(9) grabs(10) when(11) the(12) engine(13) is(14) warm(15) .(16) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) do(3) not(4) know(5) whether(6) the(7) engine(8) is(9) hot(10) or(11) cold(12) ,(13) it(14) s(15) very(16) unpredictable(17) and(18) dangerous(19) .(20) 
+			<opinion polarity="-" feature="car" featWords="14" featRef="car" opWords="19"/>
+			<opinion polarity="-" feature="car" featWords="14" featRef="car" opWords="17"/>
+		</sentence>
+		<sentence id="9">
+			Once(1) you(2) get(3) underway(4) ,(5) it(6) seems(7) fine(8) all(9) day(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) only(3) a(4) problem(5) for(6) the(7) first(8) 60_seconds(9) or(10) so(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			But(1) ,(2) if(3) you(4) 're(5) backing(6) out(7) of(8) a(9) garage(10) or(11) other(12) tight(13) space(14) ,(15) an(16) unexpected(17) slippage(18) or(19) acceleration(20) can(21) be(22) a(23) hazardous(24) problem(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) le(16) 
+		</sentence>
+	</text>
+</review>

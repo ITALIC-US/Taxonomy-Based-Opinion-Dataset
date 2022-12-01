@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="529" item="2005 Mazda 3" rating="3">
+	<title>
+		<sentence id="1">
+			Mazda(1) 3(2) sport(3) model(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Vehicle(1) is(2) good(3) on(4) fuel(5) and(6) handles(7) well(8) on(9) dry(10) roads(11) .(12) 
+			<opinion polarity="+" feature="handling" opWords="7,8"/>
+			<opinion polarity="+" feature="gas" featWords="5" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poor(2) brake(3) performance(4) on(5) wet(6) and(7) snowy(8) roads(9) .(10) 
+			<opinion polarity="-" feature="brakes" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Purchased(1) vehicle(2) in_2004(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) been(3) experiencing(4) loud(5) vibrating(6) brake(7) issues(8) since(9) the(10) unit(11) was(12) purchased(13) .(14) 
+			<opinion polarity="-" feature="brakes" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="brakes" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Pad(1) replacement(2) of(3) front(4) and(5) rear(6) and(7) routers(8) turned(9) also(10) calipers(11) replaced(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			Two(1) bulletins(2) on(3) the(4) brake(5) noise(6) issue(7) have(8) been(9) done(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			We(1) still(2) have(3) the(4) problem(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			The(1) service(2) manager(3) at(4) Mazda(5) has(6) told(7) us(8) in(9) so(10) many(11) words(12) that(13) he(14) has(15) done(16) all(17) he(18) can(19) and(20) we(21) are(22) basically(23) SOL(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) Mazda(16) 3(17) Sport(18) ,(19) Automatic(20) 
+		</sentence>
+	</text>
+</review>

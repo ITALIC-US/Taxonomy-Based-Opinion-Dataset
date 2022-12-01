@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="28" item="Audio-Technica ATH-M40fs Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			These(1) are(2) a(3) waste(4) of(5) money(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Decent(1) sound(2) but(3) not(4) for(5) the(6) price(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Virtually(1) everything(2) ;(3) The(4) design(5) ,(6) the(7) quality(8) of(9) products(10) used(11) and(12) the(13) replacement(14) warranty(15) .(16) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) a(3) DJ(4) and(5) I(6) bought(7) a(8) set(9) of(10) Audio-Technica(11) headphones(12) for(13) convenience(14) really(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			They(1) were(2) available(3) at(4) the(5) store(6) in(7) which(8) I(9) purchased(10) my(11) DJ(12) equipment(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) ,(2) they(3) were(4) the(5) only(6) headphones(7) available(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) thought(2) they(3) looked(4) sharp(5) and(6) would(7) fit(8) the(9) bill(10) .(11) 
+			<opinion polarity="+" feature="appearance" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) is(3) reasonable(4) although(5) not(6) comparable(7) to(8) any(9) of(10) the(11) Technic(12) ,(13) Sony(14) or(15) Pioneer(16) headphones(17) I(18) have(19) tried(20) .(21) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) problem(2) lies(3) in(4) the(5) design(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			The(1) earcup(2) is(3) held(4) on(5) by(6) a(7) very(8) small(9) silver(10) pin(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) ,(2) with(3) any(4) pressure(5) at(6) all(7) the(8) earpiece(9) will(10) snap(11) right(12) off(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Its(1) a(2) BAD(3) design(4) and(5) whoever(6) purchases(7) these(8) headphones(9) will(10) at(11) some(12) point(13) be(14) left(15) with(16) them(17) in(18) two(19) to(20) three(21) pieces(22) .(23) 
+			<opinion polarity="-" feature="design" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			At(1) $90(2) to(3) $120(4) a(5) pair(6) ,(7) this(8) tends(9) to(10) burst(11) your(12) bubble(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Not(1) to(2) mention(3) that(4) the(5) leather(6) lining(7) in(8) the(9) earcup(10) is(11) thin(12) and(13) will(14) begin(15) to(16) shed(17) from(18) the(19) headphones(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			You(1) will(2) be(3) left(4) in(5) the(6) morning(7) with(8) little(9) pieces(10) of(11) leather(12) or(13) vinyl(14) on(15) your(16) ears(17) and(18) face(19) .(20) 
+		</sentence>
+	</text>
+</review>

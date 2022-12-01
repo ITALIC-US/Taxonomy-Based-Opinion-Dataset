@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="419" item="Empire Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Renovated_Empire_Hotel(2) in(3) NYC(4) :(5) Now_a_Very_Good_Choice(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ;(2) friendly(3) staff(4) ;(5) fast(6) service(7) ;(8) minimalist(9) bath(10) with(11) rain(12) showerhead(13) ,(14) wooden(15) platform(16) ;(17) nice(18) amenities(19) .(20) 
+			<opinion polarity="+" feature="staff" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="tub" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="amenities" featWords="19" opWords="18"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Shower(1) controls(2) ;(3) unbolted-down(4) safe(5) ;(6) sometimes(7) weak(8) wireless(9) signal(10) ;(11) too-casual(12) doormen(13) ;(14) old(15) elevators(16) ,(17) heat(18) /(19) cool(20) units(21) .(22) 
+			<opinion polarity="-" feature="elevator" featWords="16" opWords="15"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Completely(1) renovated(2) ((3) except_for(4) elevators(5) ,(6) heating(7) /(8) cooling(9) units(10) )(11) ,(12) the(13) new(14) Empire_Hotel(15) has(16) a_lot(17) going(18) for(19) it(20) :(21) location(22) ,(23) friendly(24) staff(25) ,(26) fast(27) service(28) ,(29) good(30) beds(31) ,(32) free(33) breakfast(34) ((35) for_now(36) )(37) ,(38) etc.(39) 
+			<opinion polarity="+" feature="staff" featWords="25" opWords="24"/>
+			<opinion polarity="+" feature="service" featWords="28" opWords="27"/>
+			<opinion polarity="+" feature="bed" featWords="31" opWords="30"/>
+			<opinion polarity="+" feature="food" featWords="34" opWords="33"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Thank(1) goodness(2) the(3) wonderfully(4) situated(5) Empire_Hotel(6) at(7) 44(8) West(9) 63rd(10) Street(11) has(12) finally(13) undergone(14) a(15) much-needed(16) makeover(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) old(2) Empire(3) was(4) built(5) in_1923(6) ,(7) on(8) the(9) original(10) from(11) the(12) 1890s(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			During(1) our(2) first(3) stay(4) in_2002(5) ,(6) it(7) was(8) a(9) very(10) expensive(11) ,(12) if(13) strategically(14) placed(15) ((16) right(17) across(18) from(19) Lincoln_Plaza(20) and(21) a(22) gateway(23) to(24) the(25) Upper_West_Side(26) )(27) ,(28) royal(29) dump(30) !(31) 
+		</sentence>
+		<sentence id="4">
+			Oh(1) ,(2) yes(3) ,(4) one(5) could(6) glean(7) some(8) Old_World(9) charm(10) if(11) you(12) looked(13) really(14) hard(15) past(16) the(17) decrepit(18) surroundings(19) ,(20) but(21) the(22) whole(23) place(24) was(25) dingy(26) and(27) literally(28) falling(29) apart(30) :(31) lots(32) of(33) things(34) did(35) not(36) work(37) ,(38) and(39) space(40) betwixt(41) bed(42) and(43) wall(44) ,(45) and(46) shower(47) and(48) sink(49) and(50) wall(51) was(52) teeny(53) ,(54) even(55) for(56) Manhattan(57) .(58) 
+			<opinion polarity="+" feature="place" featWords="24" opWords="26"/>
+		</sentence>
+		<sentence id="5">
+			Alas(1) ,(2) the(3) warmth(4) and(5) courtesy(6) of(7) the(8) staff(9) couldn(10) t(11) make(12) up(13) for(14) the(15) appallingly(16) dishevelled(17) condition(18) of(19) the(20) hotel(21) ,(22) and(23) I(24) vowed(25) never(26) to(27) return(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) while(3) scanning(4) for(5) hotels(6) last_December(7) for(8) our(9) first(10) return(11) to(12) Manhattan(13) in(14) years(15) ,(16) I(17) stumbled(18) across(19) recent(20) four-star(21) reviews(22) of(23) the(24) Empire_Hotel(25) ,(26) which(27) sparked(28) my(29) curiosity(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			On(1) further(2) research(3) ,(4) the(5) Empire_Hotel(6) ,(7) indeed(8) ,(9) was(10) refurbished(11) in_2006(12) ((13) it(14) s(15) now(16) owned(17) by(18) the(19) Chetrit_Group(20) )(21) and(22) quietly(23) reopened(24) for(25) business(26) in(27) August_2006(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			Having(1) sampled(2) and(3) pretty(4) much(5) enjoyed(6) our(7) stay(8) on(9) two(10) occasions(11) this(12) winter(13) ,(14) I(15) can(16) recommend(17) the(18) new(19) Empire_Hotel(20) to(21) friends(22) ,(23) relatives(24) and(25) acquaintances(26) with(27) just(28) a(29) few(30) reservations(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			Lobby(1) ,(2) Hallways_Well(3) ,(4) first(5) ,(6) one(7) notices(8) the(9) new(10) lobby(11) as(12) you(13) go(14) through(15) the(16) anteroom(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) front(2) desk(3) remains(4) in(5) the(6) same(7) place(8) ,(9) to(10) your(11) right(12) as(13) you(14) enter(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Done(1) with(2) inoffensive(3) 1950s(4) kitsch-elegance(5) in(6) gold(7) ,(8) yellow(9) ochre(10) and(11) mahogany(12) ,(13) the(14) lobby(15) has(16) heavy(17) ,(18) gold(19) drapes(20) that(21) hang(22) from(23) the(24) ceiling(25) of(26) the(27) mezzanine(28) level(29) all(30) the(31) way(32) down(33) to(34) the(35) lobby(36) floor(37) ,(38) enclosing(39) a(40) small(41) collection(42) of(43) coffee(44) tables(45) and(46) stuffed(47) chairs(48) .(49) 
+			<opinion polarity="-" feature="lobby" featWords="15" opWords="17"/>
+		</sentence>
+		<sentence id="12">
+			A(1) staircase(2) leads(3) to(4) the(5) mezzanine(6) level(7) ,(8) accented(9) by(10) a(11) large(12) convex(13) mirror(14) at(15) the(16) landing(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			The(1) retro-modernistic(2) d�cor(3) has(4) sets(5) of(6) three(7) large(8) concave(9) ,(10) beaten(11) brass(12) dishes(13) that(14) hang(15) from(16) the(17) ceiling(18) ,(19) with(20) wavy(21) brass(22) bars(23) between(24) them(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			Chairs(1) are(2) upholstered(3) in(4) soft(5) ,(6) chenille-like(7) material(8) ,(9) and(10) the(11) stools(12) and(13) cushions(14) are(15) done(16) up(17) in(18) tiger(19) stripes(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			At(1) the(2) far(3) side(4) of(5) the(6) lobby(7) sits(8) the(9) bar(10) ,(11) attended(12) by(13) pleasant(14) staff(15) people(16) ,(17) and(18) furnished(19) with(20) barstools(21) and(22) a(23) few(24) low(25) tables(26) and(27) chairs(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			At(1) the(2) opposite(3) end(4) are(5) the(6) elevators(7) for(8) guests(9) use(10) ,(11) with(12) four(13) well-functioning(14) cars(15) retained(16) from(17) the(18) old(19) hotel(20) .(21) 
+			<opinion polarity="-" feature="hotel" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="17">
+			In(1) the(2) upper(3) floors(4) ,(5) the(6) busy(7) hallway(8) d�cor(9) shows(10) a(11) line(12) of(13) dark(14) brown(15) trees(16) on(17) a(18) textured(19) ,(20) creamy(21) white(22) background(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			Hallway(1) lights(2) behind(3) squarish(4) ,(5) fibre(6) lampshades(7) provide(8) sufficient(9) ,(10) but(11) not(12) bright(13) ,(14) illumination(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			Look(1) up(2) and(3) you(4) 'll(5) see(6) ,(7) every(8) few(9) meters(10) ,(11) in(12) the(13) corner(14) between(15) wall(16) and(17) ceiling(18) ,(19) a(20) wireless(21) router(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			You(1) get(2) full-strength(3) signals(4) in(5) the(6) hallway(7) ,(8) but(9) this(10) gets(11) weaker(12) inside(13) the(14) upper(15) floor(16) rooms(17) ((18) I(19) can(20) attest(21) to(22) a(23) strong(24) signal(25) obtained(26) in(27) the(28) second(29) floor(30) rooms(31) ,(32) however(33) )(34) .(35) 
+		</sentence>
+		<sentence id="21">
+			Rooms_The(1) rooms(2) we(3) got(4) overlooked(5) Broadway_Avenue(6) and(7) had(8) two(9) double(10) beds(11) ,(12) each(13) with(14) padded(15) panels(16) of(17) mahogany(18) leather(19) ((20) vinyl(21) ?(22) )(23) framed(24) with(25) white(26) wood(27) at(28) the(29) head(30) .(31) 
+		</sentence>
+		<sentence id="22">
+			White(1) wooden(2) panels(3) cover(4) the(5) lower(6) half(7) of(8) the(9) walls(10) ,(11) and(12) the(13) rest(14) is(15) covered(16) with(17) restful(18) ,(19) dark(20) tan(21) ,(22) textured(23) wallpaper(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			A(1) huge(2) ,(3) eight-rayed(4) ,(5) stylised(6) sunburst(7) of(8) cut(9) glass(10) mirrors(11) hangs(12) on(13) the(14) wall(15) between(16) the(17) beds(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			Much(1) like(2) those(3) in(4) European(5) hotels(6) ,(7) the(8) Empire(9) s(10) beds(11) thankfully(12) use(13) firm(14) mattresses(15) ,(16) with(17) light(18) woolen(19) blankets(20) and(21) very(22) warm(23) down(24) comforters(25) ((26) perhaps(27) too(28) warm(29) for(30) some(31) )(32) provided(33) .(34) 
+			<opinion polarity="+" feature="bedding" featWords="25" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="25">
+			The(1) down(2) pillows(3) are(4) a_bit(5) soft(6) ,(7) but(8) all(9) bedding(10) use(11) crisp(12) ,(13) white(14) ,(15) fresh(16) linen(17) .(18) 
+			<opinion polarity="+" feature="bedding" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="bedding" featWords="10" opWords="16"/>
+		</sentence>
+		<sentence id="26">
+			((1) The(2) Empire(3) uses(4) top(5) quality(6) Frette(7) cotton(8) bedding(9) )(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			Turndown(1) service(2) is(3) prompt(4) and(5) unobtrusive(6) ((7) once(8) ,(9) an(10) apple(11) was(12) even(13) left(14) on(15) a(16) small(17) plate(18) for(19) us(20) a(21) nice(22) touch(23) )(24) .(25) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="28">
+			The(1) sufficiently(2) roomy(3) night(4) table(5) between(6) the(7) two(8) beds(9) has(10) a(11) big(12) ,(13) deep(14) drawer(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			The(1) room(2) safe(3) sits(4) on(5) the(6) empty(7) bottom(8) shelf(9) .(10) ((11) A(12) note(13) of(14) warning(15) ,(16) though(17) :(18) the(19) safe(20) isn(21) t(22) bolted(23) down(24) ,(25) and(26) can(27) slide(28) around(29) on(30) that(31) slippery(32) shelf(33) .(34) )(35) The(36) lamp(37) has(38) a(39) base(40) of(41) mahogany(42) vinyl(43) with(44) a(45) convenient(46) toggle(47) switch(48) at_the_bottom(49) ,(50) and(51) is(52) topped(53) by(54) a(55) creamy(56) white(57) ,(58) square(59) lampshade(60) .(61) 
+		</sentence>
+		<sentence id="30">
+			A(1) Uniden(2) wireless(3) telephone(4) ((5) used(6) to(7) call(8) for(9) hotel(10) services(11) ,(12) too(13) )(14) and(15) a(16) facial(17) tissue(18) box(19) are(20) also(21) provided(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			Opposite(1) the(2) beds(3) is(4) a(5) 32-inch(6) ,(7) flat-screen(8) ,(9) high-definition(10) LG(11) wall(12) TV(13) ((14) with(15) enough(16) cable(17) and(18) local(19) stations(20) ,(21) but(22) no(23) premium(24) channels(25) )(26) ,(27) set(28) above(29) a(30) long(31) ,(32) vinyl-covered(33) table(34) .(35) iPod(36) owners(37) will(38) appreciate(39) the(40) white(41) iPod(42) dock(43) .(44) 
+		</sentence>
+		<sentence id="32">
+			A(1) snack-filled(2) tray(3) sits(4) temptingly(5) on(6) the(7) table(8) .(9) 
+		</sentence>
+		<sentence id="33">
+			Next(1) to(2) the(3) table(4) is(5) a(6) perfectly(7) flat(8) ,(9) huge(10) mirror(11) below(12) which(13) stands(14) a(15) low(16) bureau(17) /(18) luggage(19) rack(20) with(21) large(22) drawers(23) .(24) 
+		</sentence>
+		<sentence id="34">
+			A(1) small(2) tiger-striped(3) ,(4) suede(5) upholstered(6) armchair(7) sits(8) next(9) to(10) the(11) window(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			Beneath(1) the(2) window(3) is(4) the(5) cooling(6) /(7) heating(8) unit(9) ,(10) an(11) obvious(12) holdover(13) from(14) the(15) old(16) rooms(17) ((18) and(19) do(20) they(21) look(22) the(23) worse(24) for(25) wear(26) )(27) .(28) 
+			<opinion polarity="-" feature="rooms" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="36">
+			In(1) the(2) wintertime(3) ,(4) it(5) s(6) set(7) only(8) to(9) heat(10) ,(11) no(12) matter(13) which(14) buttons(15) you(16) press(17) ,(18) and(19) the(20) housekeeping(21) lady(22) ((23) a(24) very(25) pleasant(26) Russian(27) )(28) had(29) to(30) open(31) the(32) window(33) to(34) cool(35) down(36) the(37) room(38) .(39) 
+		</sentence>
+		<sentence id="37">
+			A(1) small(2) refrigerator(3) is(4) set(5) inside(6) the(7) small(8) coat(9) closet(10) ,(11) and(12) is(13) packed(14) with(15) assorted(16) beverages(17) ((18) we(19) didn(20) t(21) consume(22) any(23) bought(24) our(25) own(26) ,(27) less(28) expensive(29) drinks(30) at(31) the(32) Duane_Reade(33) downstairs(34) )(35) .(36) 
+			<opinion polarity="-" feature="closet" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="38">
+			Two(1) roomy(2) bathrobes(3) are(4) provided(5) for(6) guest(7) use(8) ,(9) as_well(10) as(11) a(12) light(13) ,(14) black(15) umbrella(16) .(17) ((18) Note(19) :(20) do(21) read(22) the(23) informational(24) tags(25) attached(26) to(27) these(28) guys(29) .(30) If(31) you(32) just(33) happen(34) to(35) take(36) them(37) home(38) ,(39) know(40) that(41) the(42) pricey(43) cost(44) of(45) these(46) items(47) will(48) be(49) charged(50) to(51) your(52) account(53) .(54) )(55) The(56) lower(57) level(58) rooms(59) perhaps(60) third(61) and(62) below(63) that(64) look(65) out(66) onto(67) the(68) avenues(69) allow(70) more(71) street(72) noise(73) to(74) filter(75) in(76) than(77) those(78) higher(79) up(80) ,(81) even(82) with(83) fully(84) closed(85) windows(86) .(87) 
+			<opinion polarity="-" feature="price" featWords="44" opWords="43"/>
+		</sentence>
+		<sentence id="39">
+			Also(1) ,(2) all(3) rooms(4) with(5) two(6) queen-sized(7) beds(8) overlook(9) a(10) depressingly(11) quiet(12) ,(13) south-facing(14) alley(15) between(16) the(17) two(18) wings(19) of(20) the(21) hotel(22) .(23) ((24) Suites(25) are(26) bigger(27) ,(28) condominium-sized(29) and(30) offer(31) a(32) 42-inch(33) flat-screen(34) TV(35) ,(36) dining(37) table(38) ,(39) couch(40) ,(41) and(42) club(43) chairs(44) .(45) )(46) Bathrooms_I(47) love(48) the(49) Empire(50) s(51) new(52) ,(53) minimalist(54) bathrooms(55) ,(56) which(57) are(58) a(59) far(60) cry(61) from(62) the(63) tight(64) ,(65) antique(66) ((67) but(68) aesthetically(69) charming(70) )(71) ,(72) tiled(73) shower-and-sink(74) affairs(75) of(76) the(77) old(78) hotel(79) .(80) 
+		</sentence>
+		<sentence id="40">
+			The(1) bathroom(2) door(3) has(4) a(5) translucent(6) ,(7) frosted-glass(8) panel(9) .(10) 
+		</sentence>
+		<sentence id="41">
+			The(1) cosy(2) shower(3) enclosure(4) has(5) seven(6) wooden(7) slats(8) which(9) support(10) you(11) while(12) you(13) shower(14) ,(15) and(16) that(17) makes(18) for(19) a(20) more(21) enjoyable(22) experience(23) you(24) don(25) t(26) feel(27) cold(28) because_of(29) the(30) soft(31) and(32) warm(33) wood(34) beneath(35) your(36) feet(37) .(38) 
+		</sentence>
+		<sentence id="42">
+			The(1) enclosure(2) is(3) roomy(4) enough(5) for(6) most(7) people(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			Brushed(1) chrome(2) racks(3) hold(4) neat(5) piles(6) of(7) thick(8) bath(9) and(10) hair(11) towels(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			What(1) 's(2) really(3) nice(4) is(5) that(6) these(7) oversized(8) and(9) fluffy(10) cotton(11) towels(12) are(13) always(14) warm(15) to(16) the(17) touch(18) ,(19) no(20) matter(21) how(22) long(23) they(24) ve(25) sat(26) on(27) the(28) shelf(29) .(30) 
+		</sentence>
+		<sentence id="45">
+			The(1) clear(2) glass(3) doors(4) of(5) the(6) enclosure(7) ((8) tempered(9) ,(10) methinks(11) )(12) are(13) water(14) spot-free(15) .(16) 
+		</sentence>
+		<sentence id="46">
+			One(1) panel(2) slides(3) open(4) ,(5) the(6) other(7) is(8) fixed(9) .(10) 
+		</sentence>
+		<sentence id="47">
+			Using(1) the(2) shower(3) controls(4) takes(5) a(6) little(7) bit(8) of(9) study(10) ,(11) but(12) you(13) forget(14) all(15) that(16) once(17) the(18) delightful(19) ,(20) steady(21) stream(22) of(23) rainwater(24) falls(25) gently(26) upon(27) you(28) from(29) the(30) big(31) showerhead(32) ((33) a(34) rain(35) showerhead(36) comes(37) with(38) most(39) rooms(40) )(41) .(42) 
+		</sentence>
+		<sentence id="48">
+			Be(1) careful(2) that(3) you(4) don(5) t(6) hurt(7) yourself(8) with(9) the(10) heavy(11) ,(12) handheld(13) spout(14) ,(15) a(16) chrome(17) bar(18) with(19) two(20) longitudinal(21) rows(22) of(23) sprinkler(24) holes(25) .(26) 
+		</sentence>
+		<sentence id="49">
+			It(1) can(2) sit(3) in(4) its(5) caddy(6) on(7) the(8) wall(9) ,(10) but(11) we(12) prefer(13) to(14) leave(15) it(16) dangling(17) free(18) from(19) its(20) base(21) .(22) 
+		</sentence>
+		<sentence id="50">
+			The(1) aesthetically(2) designed(3) sink(4) can(5) be(6) a_bit(7) problematic(8) :(9) square(10) in(11) shape(12) ,(13) it(14) slopes(15) slightly(16) downward(17) at(18) the(19) near(20) edge(21) ,(22) so(23) water(24) tends(25) to(26) collect(27) at(28) the(29) sides(30) .(31) 
+		</sentence>
+		<sentence id="51">
+			The(1) Eurostyle(2) faucet(3) is(4) of(5) tubular(6) chrome(7) ,(8) and(9) you(10) ll(11) need(12) to(13) grasp(14) the(15) knob(16) with(17) your(18) whole(19) hand(20) to(21) better(22) adjust(23) the(24) strength(25) of(26) the(27) water(28) flow(29) .(30) 
+		</sentence>
+		<sentence id="52">
+			Above(1) the(2) sink(3) is(4) a(5) good-sized(6) vanity(7) mirror(8) ,(9) and(10) shallow(11) ,(12) mahogany(13) wooden(14) shelves(15) on(16) the(17) wall(18) can(19) accommodate(20) toiletries(21) .(22) 
+		</sentence>
+		<sentence id="53">
+			A(1) round(2) magnifying(3) mirror(4) extends(5) from(6) the(7) side(8) wall(9) .(10) 
+		</sentence>
+		<sentence id="54">
+			A(1) small(2) glass(3) vase(4) with(5) a(6) baby(7) lily(8) bloom(9) sits(10) daintily(11) atop(12) the(13) shelves(14) .(15) 
+		</sentence>
+		<sentence id="55">
+			The(1) efficient(2) ,(3) low-flow(4) toilet(5) uses(6) just(7) enough(8) water(9) ((10) 1.6(11) gals(12) )(13) to(14) flush(15) waste(16) completely(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			Below(1) the(2) sink(3) a(4) cabinet(5) keeps(6) the(7) trash(8) can(9) hidden(10) .(11) ((12) No(13) plastic(14) bags(15) are(16) provided(17) with(18) the(19) trash(20) cans(21) ,(22) however(23) )(24) .(25) 
+		</sentence>
+		<sentence id="57">
+			Bathroom(1) freebies(2) are(3) of(4) very(5) good(6) quality(7) :(8) the(9) mint-scented(10) shampoo(11) lathers(12) like(13) crazy(14) from(15) a(16) tiny(17) blob(18) ,(19) and(20) leaves(21) one(22) s(23) hair(24) shiny(25) and(26) soft(27) ,(28) with(29) extra(30) help(31) from(32) the(33) non-sticky(34) conditioner(35) .(36) 
+		</sentence>
+		<sentence id="58">
+			The(1) creamy(2) shower(3) gel(4) has(5) a(6) hint(7) of(8) mint(9) ,(10) too(11) .(12) 
+		</sentence>
+		<sentence id="59">
+			Other(1) extras(2) include(3) a(4) shower(5) cap(6) ,(7) a(8) sewing(9) kit(10) ,(11) and(12) a(13) shoe(14) care(15) kit(16) .(17) 
+		</sentence>
+		<sentence id="60">
+			Staff_Empire_Hotel(1) staff(2) are(3) all(4) very(5) pleasant(6) and(7) helpful(8) .(9) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="61">
+			Some(1) very(2) friendly(3) Russian(4) women(5) are(6) in(7) housekeeping(8) ,(9) and(10) do(11) excellent(12) ,(13) efficient(14) work(15) .(16) 
+		</sentence>
+		<sentence id="62">
+			The(1) front(2) desk(3) and(4) door(5) staff(6) are(7) all(8) youngish(9) ((10) in(11) their(12) twenties(13) )(14) ,(15) although(16) the(17) doormen(18) are(19) a(20) mite(21) too(22) casual(23) in(24) their(25) demeanour(26) .(27) ((28) We(29) really(30) liked(31) the(32) dignified(33) older(34) doormen(35) who(36) worked(37) at(38) the(39) old(40) ,(41) unrenovated(42) Empire_Hotel(43) .(44) Too(45) bad(46) they(47) were(48) let(49) go(50) .(51) )(52) Dining(53) ((54) applies(55) only(56) at(57) the(58) time(59) of(60) posting(61) )(62) With(63) the(64) hotel(65) 's(66) restaurant(67) yet(68) to(69) open(70) during(71) our(72) stay(73) ,(74) guests(75) could(76) avail(77) of(78) a(79) free(80) continental(81) breakfast(82) at(83) the(84) mezzanine(85) level(86) each(87) morning(88) between(89) 6_and_11_am.(90) The(91) breakfast(92) spread(93) includes(94) airy(95) ,(96) scrumptious(97) ,(98) buttery(99) croissants(100) ((101) plain(102) butter(103) ,(104) pain(105) au(106) chocolat(107) ((108) my(109) favourite(110) )(111) ,(112) and(113) ham(114) &(115) cheese(116) ((117) very(118) filling(119) ;(120) gone(121) at(122) once(123) )(124) ,(125) bagels(126) ,(127) Danishes(128) ,(129) sliced(130) bread(131) ,(132) with(133) two(134) big(135) toasters(136) available(137) for(138) use(139) ,(140) little(141) jars(142) of(143) Maman-brand(144) jams(145) and(146) jellies(147) ,(148) mini-boxes(149) of(150) various(151) cereals(152) ,(153) fruit(154) ((155) apples(156) ,(157) bananas(158) ,(159) grapes(160) very(161) sweet(162) !(163) )(164) .(165) 
+		</sentence>
+		<sentence id="63">
+			Beverages(1) include(2) the(3) usual(4) coffee(5) ((6) decaf(7) /(8) regular(9) )(10) ,(11) cream(12) /(13) milk(14) /(15) half-and-half(16) ,(17) an(18) assortment(19) of(20) bagged(21) teas(22) ((23) an(24) organic(25) brand(26) whose(27) name(28) I(29) forget(30) )(31) ,(32) and(33) orange(34) and(35) grapefruit(36) juices(37) ,(38) as_well(39) as(40) milk(41) and(42) water(43) ,(44) all(45) served(46) in(47) carafes(48) kept(49) chilled(50) on(51) ice(52) .(53) 
+		</sentence>
+		<sentence id="64">
+			A(1) helpful(2) waitstaff(3) remain(4) on_hand(5) during(6) breakfast(7) hours(8) .(9) ((10) See(11) below(12) for(13) some(14) places(15) to(16) eat(17) near(18) the(19) Empire_Hotel(20) .(21) )(22) Complimentary_Daily_Paper_I(23) love(24) the(25) free(26) copy(27) of(28) a(29) daily(30) NY(31) paper(32) provided(33) every(34) morning(35) .(36) 
+		</sentence>
+		<sentence id="65">
+			It(1) s(2) placed(3) neatly(4) in(5) a(6) black(7) cloth-paper(8) sack(9) that(10) hangs(11) from(12) your(13) doorknob(14) ((15) default(16) paper(17) is(18) the(19) New_York_Times(20) )(21) .(22) 
+		</sentence>
+		<sentence id="66">
+			Fresh(1) copies(2) of(3) the(4) N_Y_Times(5) ,(6) Wall_Street_Journal(7) and(8) New_York_Post(9) can(10) also(11) be(12) had(13) at(14) the(15) mezzanine(16) level(17) during(18) breakfast(19) .(20) 
+		</sentence>
+		<sentence id="67">
+			Location(1) ,(2) location(3) ,(4) location(5) !(6) 
+		</sentence>
+		<sentence id="68">
+			The(1) Empire_Hotel(2) s(3) location(4) ,(5) of(6) course(7) ,(8) is(9) ideal(10) for(11) those(12) with(13) interests(14) in(15) offerings(16) in(17) the(18) Upper_West_Side(19) :(20) across(21) Columbus_Avenue(22) is(23) Lincoln_Plaza(24) ,(25) around(26) which(27) sit(28) the(29) New_York_Metropolitan_Opera(30) ,(31) Avery_Fisher_Hall(32) ,(33) and(34) the(35) Juilliard_School(36) ;(37) across(38) Broadway(39) on(40) the(41) east(42) are(43) the(44) Lincoln_Plaza(45) cinemas(46) ((47) where(48) we(49) caught(50) the(51) fine(52) films(53) ,(54) ving(55) Bell(56) and(57) the(58) Butterfly(59) and(60) Persepolis(61) )(62) .(63) 
+		</sentence>
+		<sentence id="69">
+			Central_Park(1) is(2) just(3) a(4) block(5) away(6) eastward(7) .(8) 
+		</sentence>
+		<sentence id="70">
+			Columbus_Circle(1) is(2) a(3) couple(4) of(5) blocks(6) down(7) ,(8) where(9) you(10) can(11) throw(12) big(13) wads(14) of(15) moolah(16) at(17) the(18) Time-Warner_Center(19) shops(20) .(21) 
+		</sentence>
+		<sentence id="71">
+			Carnegie_Hall(1) is(2) just(3) a(4) few(5) blocks(6) beyond(7) Columbus_Circle(8) ,(9) with(10) lots(11) of(12) good(13) dining(14) spots(15) in(16) the(17) area(18) ((19) Petrossian(20) ,(21) The_Russian_Tea_Room(22) ,(23) etc.(24) )(25) .(26) 
+		</sentence>
+		<sentence id="72">
+			Among(1) the(2) excellent(3) restaurants(4) really(5) close(6) by(7) are(8) P_J_Clarke(9) 's(10) right(11) next(12) door(13) on(14) 63rd(15) and(16) Columbus_Ave(17) .(18) ((19) very(20) filling(21) and(22) tasty(23) ,(24) moderately(25) priced(26) meals(27) ;(28) kitchen(29) is(30) open(31) till(32) 1(33) am(34) !(35) )(36) .(37) 
+			<opinion polarity="+" feature="food" featWords="27" opWords="21" potency="20"/>
+			<opinion polarity="+" feature="food" featWords="27" opWords="23"/>
+			<opinion polarity="+" feature="price" opWords="25,26"/>
+		</sentence>
+		<sentence id="73">
+			Across(1) Broadway(2) are(3) Caf�_Fiorello(4) ((5) casual(6) dress(7) but(8) a(9) mite(10) pricey(11) )(12) ,(13) a(14) sushi(15) place(16) ((17) not(18) sampled(19) by(20) us(21) )(22) ,(23) Josephina(24) ((25) elegant(26) and(27) pricey(28) )(29) ,(30) all(31) in(32) just(33) one(34) block(35) .(36) 
+		</sentence>
+		<sentence id="74">
+			Head(1) uptown(2) and(3) you(4) ll(5) come(6) across(7) other(8) good(9) dining(10) places(11) .(12) 
+		</sentence>
+		<sentence id="75">
+			For_example(1) ,(2) you(3) can(4) have(5) a(6) nice(7) ,(8) tasty(9) ,(10) organic(11) ,(12) light(13) yet(14) satisfying(15) and(16) reasonably(17) priced(18) meal(19) at(20) the(21) always-crowded(22) ,(23) Brussels-based_Le_Pain_Quotidien(24) on(25) 60(26) West(27) 65th(28) Street(29) ((30) thanks(31) so(32) much(33) ,(34) trust12345(35) !(36) )(37) .(38) 
+			<opinion polarity="+" feature="food" featWords="19" opWords="7"/>
+			<opinion polarity="+" feature="food" featWords="19" opWords="9"/>
+			<opinion polarity="+" feature="food" featWords="19" opWords="11"/>
+			<opinion polarity="-" feature="food" featWords="19" opWords="13"/>
+			<opinion polarity="+" feature="food" featWords="19" opWords="15"/>
+			<opinion polarity="+" feature="price" opWords="17,18"/>
+		</sentence>
+		<sentence id="76">
+			On(1) the(2) same(3) block(4) as(5) the(6) Empire(7) are(8) a(9) Starbucks(10) coffee(11) shop(12) and(13) a(14) most(15) important(16) and(17) well-stocked(18) ,(19) two-storey(20) Duane_Reade(21) pharmacy(22) /(23) grocery(24) next(25) to(26) Starbucks(27) ,(28) both(29) facing(30) Broadway_Ave(31) .(32) .(33) ((34) The(35) Duane_Reade(36) even(37) has(38) an(39) on-site(40) physician(41) for(42) walk-ins(43) with(44) simple(45) medical(46) conditions(47) .(48) )(49) There(50) s(51) a(52) Chase(53) bank(54) on(55) the(56) next(57) block(58) down(59) ,(60) and(61) a(62) Bank_of_America(63) across(64) Broadway(65) .(66) 
+		</sentence>
+		<sentence id="77">
+			Hailing(1) a(2) cab(3) is(4) easy(5) along(6) Broadway(7) or(8) Columbus_Avenues(9) ,(10) or(11) West(12) 63rd(13) at(14) the(15) hotel(16) entrance(17) .(18) 
+		</sentence>
+		<sentence id="78">
+			The(1) closest(2) subway(3) stop(4) is(5) Lincoln_Center(6) ((7) on(8) the(9) 1(10) train(11) )(12) and(13) further(14) south(15) ,(16) Columbus_Circle(17) ((18) 1(19) ,(20) A(21) ,(22) B(23) ,(24) C(25) ,(26) and(27) D(28) trains(29) )(30) .(31) 
+		</sentence>
+		<sentence id="79">
+			Parking_And(1) if(2) you(3) re(4) crazy(5) enough(6) ((7) as(8) we(9) were(10) )(11) to(12) drive(13) a(14) vehicle(15) into(16) Manhattan(17) ,(18) you(19) re(20) better(21) off(22) using(23) the(24) public(25) parking(26) garages(27) a(28) couple(29) of(30) blocks(31) southward(32) ,(33) between(34) Broadway(35) and(36) Columbus_Avenues(37) ,(38) which(39) charge(40) about(41) $30(42) to(43) $34/day(44) ;(45) the(46) Empire(47) charges(48) $60/day(49) for(50) valet(51) parking(52) !(53) 
+		</sentence>
+		<sentence id="80">
+			Room_Rates(1) Four_hundred_and_thirteen(2) ((3) 413(4) )(5) rooms(6) and(7) suites(8) are(9) available(10) for(11) booking(12) .(13) 
+		</sentence>
+		<sentence id="81">
+			Regarding(1) room(2) rates(3) ,(4) NYC(5) hotels(6) don(7) t(8) come(9) cheap(10) these(11) days(12) .(13) 
+		</sentence>
+		<sentence id="82">
+			The(1) two-bed(2) rooms(3) cost(4) an(5) average(6) of(7) $325/night(8) for(9) a(10) three(11) -(12) to(13) five-night(14) stay(15) ((16) the(17) price(18) of(19) two(20) double(21) beds(22) or(23) two(24) queen(25) beds(26) were(27) the(28) same(29) in(30) our(31) case(32) )(33) .(34) 
+		</sentence>
+		<sentence id="83">
+			Prices(1) via(2) direct(3) booking(4) with(5) the(6) hotel(7) were(8) often(9) slightly(10) lower(11) than(12) those(13) via(14) online(15) booking(16) services(17) ((18) hotels(19) .(20) com(21) ,(22) etc.(23) )(24) .(25) 
+		</sentence>
+		<sentence id="84">
+			I(1) 'm(2) glad(3) to(4) say(5) that(6) the(7) Empire(8) reservations(9) desk(10) personnel(11) are(12) very(13) pleasant(14) to(15) deal(16) with(17) .(18) 
+			<opinion polarity="+" feature="front desk" featWords="10" opWords="14"/>
+		</sentence>
+		<sentence id="85">
+			Love_It(1) !(2) 
+		</sentence>
+		<sentence id="86">
+			We(1) ve(2) grown(3) very(4) fond(5) of(6) this(7) hotel(8) ,(9) since(10) we(11) come(12) most(13) often(14) to(15) take(16) in(17) events(18) and(19) go(20) marketing(21) at(22) shops(23) in(24) the(25) Upper_West_Side(26) of(27) town(28) .(29) 
+		</sentence>
+		<sentence id="87">
+			It(1) s(2) steeply(3) priced(4) ,(5) but(6) this(7) seems(8) to(9) be(10) the(11) going(12) rate(13) for_good(14) Manhattan(15) lodging(16) nowadays(17) .(18) 
+		</sentence>
+		<sentence id="88">
+			For(1) occasional(2) ((3) annually(4) ,(5) at(6) most(7) )(8) excursions(9) to(10) Manhattan(11) ,(12) the(13) Empire(14) is(15) well(16) worth(17) it(18) for(19) its(20) most(21) enviable(22) and(23) easy(24) access(25) to(26) public(27) transportation(28) ,(29) stores(30) ,(31) shops(32) ,(33) restaurants(34) ,(35) Central_Park(36) ,(37) Lincoln_Plaza(38) ,(39) Columbus_Circle(40) ,(41) etc.(42) .(43) 
+		</sentence>
+		<sentence id="89">
+			Its(1) great(2) location(3) makes(4) it(5) easy(6) and(7) quick(8) to(9) crash(10) in(11) ,(12) especially(13) when(14) you(15) re(16) bone-tired(17) after(18) a(19) full(20) day(21) spent(22) enjoying(23) all(24) the(25) people(26) ,(27) sights(28) ,(29) foods(30) ,(31) culture(32) ,(33) history(34) and(35) entertainment(36) that(37) this(38) always(39) vibrant(40) city(41) has(42) to(43) offer(44) .(45) =(46) =(47) =(48) =(49) =(50) =(51) =(52) =(53) =(54) =(55) =(56) =(57) Hotel(58) notes(59) :(60) Not(61) yet(62) operational(63) as(64) of(65) this(66) writing(67) are(68) additional(69) services(70) to(71) be(72) provided(73) very(74) soon(75) ,(76) including(77) 24-hour(78) room(79) service(80) ((81) by(82) 1_March_2008(83) )(84) ,(85) a(86) restaurant(87) serving(88) breakfast(89) ,(90) lunch(91) and(92) dinner(93) opening(94) in(95) the(96) spring(97) of(98) 2008(99) ,(100) a(101) meeting(102) room(103) for(104) 250(105) persons(106) ,(107) and(108) full(109) spa(110) services(111) .(112) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="90">
+			For(1) more(2) information(3) ,(4) pictures(5) of(6) the(7) hotel(8) ,(9) and(10) reservations(11) ,(12) visit(13) their(14) new(15) website(16) :(17) http://www.empirehotelnyc.com/(18) Up-to-date(19) info(20) can(21) be(22) had(23) here(24) ,(25) too(26) ((27) as_well(28) as(29) booking(30) services(31) )(32) :(33) http://www.booking.com/hotel/us/the-empire.en.html(34) 
+		</sentence>
+	</text>
+</review>

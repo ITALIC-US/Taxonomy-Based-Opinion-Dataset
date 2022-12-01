@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="483" item="2001 Toyota Prius" rating="1">
+	<title>
+		<sentence id="1">
+			Avoid(1) this(2) car(3) by(4) all(5) means(6) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extremely(1) poorly(2) designed(3) and(4) made(5) car(6) that(7) falls(8) apart(9) 
+			<opinion polarity="-" feature="design" opWords="2,3" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Dreadfully(1) made(2) car(3) that(4) starts(5) to(6) fall(7) apart(8) within(9) a(10) couple(11) of(12) months(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Equally(1) dreadful(2) service(3) ...(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) one(3) of(4) the(5) most(6) troublesome(7) cars(8) I(9) 've(10) ever(11) owned(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Over(1) the(2) year(3) I(4) own(5) it(6) I(7) had(8) to(9) take(10) it(11) to(12) the(13) dealership(14) over(15) 10_times(16) for(17) major(18) repairs(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) service(2) was(3) dreadful(4) .(5) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) same(2) problem(3) needed(4) to(5) be(6) repaired(7) over(8) ,(9) and(10) over(11) and(12) over(13) ...(14) The(15) latest(16) outrage(17) :(18) I(19) can(20) not(21) determine(22) how(23) much(24) fuel(25) the(26) car(27) has(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			The(1) fuel(2) gauge(3) gets(4) stuck(5) somewhere(6) in(7) the(8) middle(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			I(1) can(2) drive(3) for(4) hours(5) with(6) no(7) apparent(8) change(9) in(10) the(11) fuel(12) level(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Then(1) ,(2) within(3) 15(4) to(5) 30(6) minutes(7) the(8) level(9) drops(10) sharply(11) ,(12) to(13) "(14) Needs(15) immediate(16) fill-up(17) "(18) level(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) Toyota(2) states(3) that(4) this(5) is(6) a(7) normal(8) behavior(9) of(10) this(11) car(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			They(1) claim(2) that(3) in(4) order(5) for(6) the(7) fuel(8) gauge(9) to(10) operate(11) correctly(12) ,(13) the(14) car(15) needs(16) to(17) be(18) completely(19) filled-up(20) all(21) time(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			What(1) kind(2) of(3) ridiculous(4) car(5) have(6) they(7) produced(8) !(9) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,456(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

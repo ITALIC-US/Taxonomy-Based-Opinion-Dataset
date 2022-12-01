@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="16" item="Sony MDR-XD100 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Poo-Poo_Sound(1) in(2) a(3) Nice_Package(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) covers(2) the(3) ears(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) bad(2) bass(3) reproduction(4) 
+			<opinion polarity="-" feature="bass" featWords="3,4" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) can(2) not(3) believe(4) SONY(5) even(6) put(7) their(8) name(9) on(10) these(11) poo-poos(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) not(3) an(4) audiophile(5) by(6) any(7) stretch(8) of(9) the(10) imagination(11) ,(12) but(13) I(14) was(15) looking(16) to(17) replace(18) an(19) aging(20) pair(21) of(22) decent(23) SONY(24) '(25) phones(26) for(27) gaming(28) mostly(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			I(1) could(2) not(3) stand(4) it(5) for(6) 5(7) minutes(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			The(1) bass(2) is(3) non-existent(4) and(5) the(6) rest(7) of(8) the(9) spectrum(10) is(11) really(12) bad(13) .(14) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Now_I(1) 'm(2) listening(3) to(4) my(5) iTunes(6) with(7) bass-boost(8) on(9) and(10) it(11) 's(12) not(13) too(14) bad(15) ,(16) I(17) guess(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Not(1) good(2) though(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			Save(1) your(2) money(3) or(4) look(5) at(6) something(7) better(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			I(1) can(2) not(3) believe(4) I(5) did(6) not(7) research(8) these(9) before(10) buying(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) nice(2) package(3) and(4) the(5) quality(6) perception(7) made(8) me(9) do(10) it(11) .(12) 
+			<opinion polarity="+" feature="packaging" featWords="3" opWords="2"/>
+		</sentence>
+	</text>
+</review>

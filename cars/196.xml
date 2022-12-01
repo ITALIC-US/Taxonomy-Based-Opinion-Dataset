@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="196" item="2001 Chrysler LHS" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) perfect(2) car(3) ?(4) !(5) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			luxury(1) ,(2) price(3) ,(4) power(5) ,(6) handling(7) ,(8) features(9) ,(10) everything(11) really(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) can(2) be(3) high(4) for(5) some(6) ,(7) not(8) quite(9) BMW(10) quality(11) ,(12) needs(13) a(14) few(15) extra(16) things(17) 
+			<opinion polarity="-" feature="price" featWords="1" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) nearly(3) perfect(4) ,(5) it(6) has(7) great(8) looks(9) ,(10) it(11) has(12) mucho(13) standard(14) features(15) ,(16) and(17) very(18) few(19) flaws(20) .(21) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			Does(1) it(2) get(3) much(4) better(5) ?(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) doubt(2) it(3) !(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Chrysler_LHS_I(1) have(2) spent(3) a(4) significant(5) amount(6) of(7) time(8) in(9) the(10) LHS(11) ,(12) and(13) will(14) try(15) to(16) give(17) as(18) much(19) detail(20) as(21) I(22) can(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Exterior(1) :(2) 9/10(3) The_LHS(4) is(5) Chrysler(6) 's(7) new(8) age(9) robo-styling(10) ,(11) which(12) is(13) love(14) it(15) or(16) hate(17) it(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Stick(1) with(2) the(3) LHS(4) as(5) it(6) subtracts(7) the(8) granny-glasses(9) headlamps(10) of(11) the(12) 300M(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Still(1) ,(2) the(3) funky(4) square(5) grille(6) in(7) the(8) front(9) is(10) a_bit(11) odd(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) two(2) cars(3) are(4) similar(5) anyway(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			The(1) LHS(2) has(3) a(4) very(5) low-slung(6) profile(7) with(8) smooth(9) ,(10) aggresive(11) lines(12) and(13) an(14) upscale(15) appearance(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) back(2) end(3) is(4) clean(5) and(6) pretty(7) ,(8) with(9) a(10) spiffy(11) chromed(12) dual(13) exhaust(14) pipe(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) LHS(2) also(3) sports(4) extra-beefy(5) Goodyear(6) performance(7) tires(8) on(9) standard(10) 17(11) "(12) aluminum(13) alloy(14) wheels(15) ,(16) which(17) have(18) a(19) cool(20) pattern(21) even_though(22) their(23) painted(24) ((25) a_bit(26) odd-seeming(27) )(28) .(29) The(30) car(31) is(32) big(33) ,(34) but(35) not(36) too(37) big(38) .(39) And(40) the(41) cab(42) forward(43) design(44) leads(45) to(46) limo-like(47) interior(48) dimensions(49) that(50) rival(51) that(52) of(53) an(54) LTC_Cartier_L._The(55) look(56) could(57) be(58) too(59) much(60) for(61) conservative(62) folks(63) ,(64) but(65) the(66) LHS(67) is(68) far(69) handsomer(70) than(71) a(72) Bonneville(73) ,(74) and(75) cheaper(76) too(77) .(78) Seat_Comfort(79) :(80) 9/10(81) Nearly(82) every(83) gadget(84) and(85) toy(86) under(87) the(88) sun(89) is(90) standard(91) ,(92) despite(93) the(94) low(95) 29k(96) price(97) tag(98) .(99) You(100) get(101) power(102) heated(103) memory(104) leather(105) seats(106) ,(107) though(108) it(109) is(110) insulting(111) that(112) only(113) the(114) driver(115) gets(116) lumbar(117) support(118) ,(119) which(120) is(121) a(122) weak(123) manual(124) knob(125) at(126) that(127) .(128) The(129) perforated(130) leather(131) seats(132) are(133) smooth(134) and(135) comfy(136) ,(137) almost(138) Benz-like(139) in(140) comfort(141) ,(142) which(143) belie(144) the(145) price(146) .(147) The(148) amount(149) of(150) leather(151) is(152) ample(153) but(154) not(155) mind-blowing(156) .(157) I(158) was(159) satisfied(160) by(161) the(162) seats(163) .(164) Moving(165) on(166) to(167) the(168) back(169) seat(170) ,(171) there(172) is(173) a(174) beast-load(175) of(176) legroom(177) as(178) far(179) as(180) the(181) eye(182) can(183) see(184) .(185) You(186) practically(187) have(188) to(189) squint(190) to(191) see(192) the(193) front(194) seat-back(195) .(196) Needless(197) to(198) say(199) ,(200) all(201) huge(202) FWD(203) cars(204) have(205) a(206) mega(207) back(208) seat(209) *(210) cough(211) *(212) Deville(213) *(214) cough(215) *(216) .(217) The(218) back(219) seats(220) are(221) reasonably(222) comfy(223) ,(224) and(225) of(226) course(227) there(228) 's(229) lots(230) of(231) room(232) left(233) to(234) right(235) as_well(236) .(237) The(238) middle(239) passenger(240) is(241) the(242) one(243) who(244) gets(245) penalized(246) by(247) a(248) hard(249) backrest(250) since(251) ((252) s(253) )(254) he(255) is(256) up(257) against(258) the(259) folded(260) up(261) rear(262) armrest(263) .(264) If(265) you(266) buy(267) the(268) car(269) for(270) one(271) reason(272) ,(273) buy(274) it(275) for(276) the(277) unholy(278) back(279) seat(280) .(281) 2(282) newly-wed(283) NBA(284) basketball(285) players(286) could(287) use(288) it(289) for(290) their(291) honeymoon(292) and(293) not(294) lack(295) any(296) space(297) .(298) General_Comfort(299) /(300) Convenience(301) :(302) 10/10(303) There(304) are(305) a_lot_of(306) places(307) to(308) stow(309) what(310) you(311) own(312) inside(313) the(314) LHS(315) .(316) In(317) the(318) front(319) ,(320) there(321) is(322) a(323) hefty(324) console(325) and(326) a(327) myriad(328) assortment(329) of(330) cupholders(331) .(332) There(333) is(334) the(335) full(336) boat(337) of(338) equipment(339) ,(340) from(341) seat(342) memory(343) to(344) moonroofs(345) to(346) optional(347) genuine(348) wood(349) trim(350) and(351) driver(352) info(353) center(354) to(355) .(356) .(357) well(358) you(359) get(360) the(361) point(362) .(363) The(364) back(365) passengers(366) receive(367) a(368) killer(369) armrest(370) with(371) a(372) pop-open(373) storage(374) bin(375) ,(376) dual(377) cupholders(378) ,(379) a(380) trunk(381) pass-through(382) ,(383) seatback(384) pockets(385) ,(386) reading(387) lights(388) I(389) think(390) ,(391) and(392) even(393) adjustable-mode(394) air(395) vents(396) .(397) I(398) could(399) go(400) on(401) forever(402) about(403) the(404) car(405) 's(406) great(407) interior(408) design(409) .(410) Ergonomics(411) are(412) excellent(413) and(414) everything(415) is(416) simple(417) and(418) in(419) reach(420) ,(421) for(422) the(423) most(424) part(425) .(426) Audio_System(427) :(428) 11/10(429) Dear_God(430) ,(431) this(432) car(433) has(434) an(435) over-qualified(436) audio(437) system(438) .(439) It(440) 's(441) powerful(442) enough(443) to(444) cause(445) it(446) 's(447) own(448) potholes(449) .(450) How(451) does(452) an(453) 11-speaker(454) ,(455) 360-watt(456) ,(457) Infinity_Spatial_Imaging(458) system(459) sound(460) ?(461) Multiple(462) speakers(463) and(464) subwoofers(465) located(466) in_all(467) positions(468) throughout(469) the(470) car(471) give(472) the(473) sound(474) excellent(475) quality(476) ,(477) focus(478) ,(479) and(480) distribution(481) .(482) The(483) power(484) is(485) rich(486) and(487) phenomenal(488) .(489) You(490) could(491) not(492) find(493) a(494) better(495) system(496) in(497) a(498) Benz(499) ,(500) Bimmer(501) ,(502) Lexus(503) ,(504) or(505) Caddy(506) .(507) Ok(508) maybe(509) the(510) Bimmer(511) .(512) But(513) the(514) system(515) is(516) easy(517) to(518) use(519) and(520) even(521) sports(522) a(523) CD(524) changer(525) .(526) Fun(527) for(528) the(529) whole(530) family(531) ,(532) even(533) the(534) bass-loving(535) teenager(536) in(537) the(538) family(539) .(540) Climate_Control(541) :(542) plenty/10(543) I(544) never(545) used(546) it(547) much(548) ,(549) but(550) I(551) never(552) complained(553) ,(554) and(555) it(556) looked(557) easy(558) to(559) use(560) .(561) The(562) cabin(563) was(564) comfy(565) at(566) all(567) times(568) ,(569) from(570) all(571) angles(572) ,(573) in_all(574) conditions(575) .(576) Also(577) ,(578) easy(579) to(580) use(581) .(582) Engine(583) :(584) 10/10(585) Heheh(586) .(587) Engine(588) good(589) .(590) Heheh(591) .(592) Sorry(593) ,(594) just(595) hypnotized(596) by(597) the(598) beastly(599) power(600) of(601) the(602) LHS(603) .(604) The(605) 3.5L(606) High-Output(607) V6(608) moves(609) the(610) 3600(611) lb(612) .(613) LHS(614) around(615) with(616) speed(617) that(618) rivals(619) many(620) of(621) the(622) vehicles(623) from(624) Star_Wars(625) .(626) Acceleration(627) is(628) smooth(629) and(630) fast(631) ,(632) and(633) reaches(634) 60(635) in(636) complete(637) silence(638) .(639) The(640) transmission(641) is(642) well-suited(643) to(644) the(645) LHS(646) .(647) Overall(648) ,(649) a(650) rewarding(651) car(652) to(653) drive(654) .(655) But(656) despite(657) it(658) 's(659) awesomeness(660) ,(661) it(662) could(663) easily(664) get(665) cremated(666) by(667) a(668) 330i(669) or(670) a(671) Grand_Prix_GTP(672) .(673) That(674) 's(675) life(676) ,(677) Chrysler(678) .(679) But(680) 253(681) horsepower(682) is(683) plenty(684) for(685) the(686) LHS(687) ,(688) so(689) no(690) worries(691) .(692) Handling(693) :(694) 9/10(695) Excellent(696) handling(697) in_all(698) situations(699) .(700) Not(701) too(702) soft(703) or(704) too(705) tight(706) .(707) It(708) can(709) not(710) do(711) Viper-like(712) maneuvers(713) ,(714) but(715) it(716) can(717) do(718) almost(719) anything(720) else(721) .(722) Definitely(723) a(724) fun(725) large(726) car(727) .(728) Ride_Comfort(729) :(730) 10/10(731) Smooth(732) and(733) pretty(734) tight(735) at(736) all(737) times(738) .(739) Little(740) body(741) roll(742) or(743) wallow(744) ever(745) .(746) Rides(747) like(748) a(749) cloud(750) mounted(751) on(752) a(753) freight(754) train(755) ;(756) fast(757) but(758) smooth(759) .(760) Quality(761) :(762) 9/10(763) Not(764) quite(765) a(766) Lexus(767) ,(768) but(769) seems(770) to(771) be(772) skillfully(773) cobbled(774) together(775) .(776) Plastics(777) are(778) not(779) too(780) bad(781) ,(782) and(783) things(784) look(785) very(786) nice(787) all(788) out(789) .(790) Leather(791) is(792) soft(793) and(794) switchgear(795) is(796) smooth(797) .(798) This(799) car(800) is(801) not(802) holy(803) ,(804) but(805) it(806) sure(807) seems(808) like(809) it(810) in(811) many(812) ways(813) .(814) Could(815) it(816) be(817) perfect(818) ?(819) I(820) have(821) trouble(822) believing(823) it(824) ,(825) but(826) I(827) may(828) be(829) right(830) !(831) Overall(832) :(833) 10/10(834) It(835) seems(836) to(837) be(838) unbeatable(839) .(840) It(841) 's(842) fast(843) ,(844) cheap(845) ,(846) luxurious(847) ,(848) and(849) loaded(850) down(851) with(852) all(853) kinds(854) of(855) equipment(856) .(857) Buy(858) buy(859) buy(860) !(861) Amount_Paid(862) ((863) US(864) $(865) )(866) :(867) 30000(868) Condition(869) :(870) NewModel_Year(871) :(872) 2001Model(873) and(874) Options(875) :(876) LHS(877) 
+			<opinion polarity="+" feature="car" opWords="860"/>
+			<opinion polarity="+" feature="car" opWords="859"/>
+			<opinion polarity="+" feature="car" opWords="858"/>
+			<opinion polarity="+" feature="car" opWords="847"/>
+			<opinion polarity="+" feature="price" opWords="845"/>
+			<opinion polarity="+" feature="speed" opWords="843"/>
+			<opinion polarity="+" feature="car" opWords="839"/>
+			<opinion polarity="-" feature="car" featWords="800" opWords="802,803"/>
+			<opinion polarity="+" feature="car" opWords="735"/>
+			<opinion polarity="+" feature="car" opWords="732"/>
+			<opinion polarity="+" feature="car" featWords="727" opWords="725"/>
+			<opinion polarity="+" feature="handling" featWords="697" opWords="696"/>
+			<opinion polarity="+" feature="transmission" featWords="641" opWords="643"/>
+			<opinion polarity="+" feature="acceleration" featWords="627" opWords="631"/>
+			<opinion polarity="+" feature="acceleration" featWords="627" opWords="629"/>
+			<opinion polarity="+" feature="engine" featWords="588" opWords="589"/>
+			<opinion polarity="+" feature="sound system" featWords="437,438" opWords="436"/>
+			<opinion polarity="+" feature="car" opWords="417"/>
+			<opinion polarity="+" feature="comfort" featWords="411" opWords="413"/>
+			<opinion polarity="+" feature="design" featWords="409" opWords="407"/>
+			<opinion polarity="+" feature="seat" featWords="219,220" opWords="223"/>
+			<opinion polarity="+" feature="seat" featWords="132" opWords="136"/>
+			<opinion polarity="+" feature="seat" featWords="132" opWords="134"/>
+			<opinion polarity="+" feature="seat" featWords="132" opWords="131"/>
+			<opinion polarity="+" feature="seat" featWords="106" opWords="102,103"/>
+			<opinion polarity="+" feature="seat" featWords="106" opWords="105"/>
+		</sentence>
+	</text>
+</review>

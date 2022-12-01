@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="907" item="2001 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			superpooh(1) not(2) subaru(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) brakes(2) on(3) wet(4) road(5) 
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Company(1) does(2) not(3) stand(4) behind(5) its(6) product(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) my(2) 2001(3) Subaru(4) allegedly(5) new(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			The(1) fob(2) has(3) never(4) worked(5) ,(6) in(7) spite(8) of(9) 3(10) trips(11) back(12) to(13) the(14) dealer(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) cruise(2) control(3) light(4) does(5) not(6) work(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			The(1) gas(2) flap(3) does(4) not(5) close(6) all(7) the(8) way(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) vent(2) system(3) is(4) weak(5) ,(6) and(7) air(8) was(9) not(10) even(11) coming(12) out(13) of(14) one(15) vent(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Later_on(1) I(2) found(3) out(4) that(5) the(6) hose(7) was(8) not(9) connected(10) to(11) that(12) vent(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) takes(2) about(3) 10(4) minutes(5) for(6) heat(7) to(8) come(9) on(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			If(1) it(2) did(3) not(4) have(5) the(6) heated(7) seats(8) ,(9) I(10) would(11) be(12) an(13) icicle(14) by(15) the(16) time(17) I(18) get(19) home(20) from(21) work(22) .(23) 
+			<opinion polarity="+" feature="seat" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			I(1) do(2) not(3) drive(4) like(5) a(6) maniac(7) at(8) all(9) ,(10) but(11) have(12) never(13) gotten(14) more(15) than(16) 16_miles(17) to(18) the(19) gallon(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) not(3) find(4) the(5) performance(6) in(7) snow(8) to(9) be(10) very(11) good(12) at(13) all(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) positive(3) thing(4) I(5) can(6) say(7) is(8) that(9) the(10) brakes(11) work(12) very(13) well(14) when(15) the(16) road(17) is(18) wet(19) .(20) 
+			<opinion polarity="+" feature="brakes" featWords="11" opWords="12,14" potency="13"/>
+		</sentence>
+		<sentence id="12">
+			Subaru(1) has(2) never(3) given(4) me(5) any(6) satisfaction(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			So(1) ,(2) based(3) on(4) my(5) experience(6) ,(7) if(8) you(9) get(10) a(11) super(12) pooh(13) lemon(14) ,(15) you(16) are(17) stuck(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $22,500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) automatic(16) "(17) S(18) "(19) roof(20) rack(21) system(22) 
+		</sentence>
+	</text>
+</review>

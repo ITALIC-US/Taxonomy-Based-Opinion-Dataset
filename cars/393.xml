@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="393" item="2000 BMW Z3" rating="3">
+	<title>
+		<sentence id="1">
+			Small(1) but(2) quick(3) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			quick(1) 
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			small(1) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			So(1) ,(2) is(3) it(4) a(5) primary(6) car(7) ?(8) 
+		</sentence>
+		<sentence id="2">
+			Well_I(1) 've(2) managed(3) ,(4) but(5) you(6) probably(7) would(8) not(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			It(1) will(2) not(3) take(4) a(5) hard(6) suitcase(7) ,(8) it(9) will(10) not(11) take(12) more(13) than(14) a(15) weekend(16) 's(17) soft(18) luggage(19) for(20) two(21) ,(22) and(23) if(24) you(25) 're(26) more(27) than(28) 6_foot(29) tall(30) you(31) will(32) not(33) want(34) to(35) be(36) stuck(37) in(38) the(39) rain(40) in(41) traffic(42) every(43) day(44) .(45) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) my(3) car(4) has(5) a(6) couple(7) of(8) storage(9) cubbies(10) which(11) do(12) not(13) even(14) exist(15) on(16) the(17) 2000(18) models(19) ,(20) so(21) I(22) hope(23) you(24) like(25) the(26) extra(27) speaker(28) you(29) got(30) instead(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			But(1) even_if(2) you(3) have(4) another(5) car(6) you(7) 'll(8) probably(9) find(10) yourself(11) in_the_Z3(12) whenever(13) you(14) have(15) the(16) choice(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) good(2) things(3) about(4) this(5) car(6) are(7) easy(8) to(9) list(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			It(1) looks(2) incredible(3) ,(4) it(5) drives(6) great(7) ((8) even(9) the(10) 1.9(11) )(12) ,(13) and(14) it(15) 's(16) pure(17) convertible(18) joy(19) .(20) 
+			<opinion polarity="+" feature="ride quality" opWords="6,7"/>
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="8">
+			But(1) I(2) should(3) also(4) tell(5) you(6) all(7) the(8) bad(9) things(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			You(1) already(2) know(3) it(4) 's(5) small(6) .(7) 
+			<opinion polarity="-" feature="size" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			My(1) Z3(2) is(3) just(4) coming(5) up(6) to(7) 50,000_miles(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) not(3) showing(4) much(5) wear(6) other(7) than(8) a(9) few(10) paint(11) chips(12) on(13) the(14) nose(15) ,(16) but(17) there(18) is(19) usually(20) a(21) squeak(22) lurking(23) somewhere(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			You(1) 'll(2) feel(3) every(4) pothole(5) ,(6) although(7) BMW(8) has(9) softened(10) the(11) rear(12) suspension(13) on(14) the(15) newer(16) models(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			And(1) the(2) cabin(3) is(4) outfitted(5) in(6) some(7) pretty(8) cheap(9) plastic(10) ,(11) including(12) the(13) ridiculous(14) fog-light(15) switch(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Would(1) I(2) buy(3) another(4) one(5) ?(6) 
+		</sentence>
+		<sentence id="15">
+			Maybe(1) as(2) a_second(3) car(4) ,(5) but(6) the(7) Z8(8) is(9) out(10) soon(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Hopefully(1) it(2) will(3) be(4) everything(5) the(6) Z3(7) is(8) and(9) more(10) :(11) more(12) space(13) ,(14) more(15) luxury(16) ,(17) and(18) more(19) quality(20) inside(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 45(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1953Model(12) and(13) Options(14) :(15) LE(16) 
+		</sentence>
+	</text>
+</review>

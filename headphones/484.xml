@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="484" item="Sennheiser PX 100 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Solid(1) headphone(2) 
+			<opinion polarity="+" feature="durability" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) sound(2) reproduction(3) without(4) artifacts(5) Included(6) carrying(7) case(8) ,(9) foldable(10) design(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_tad(1) expensive(2) for(3) portable(4) phones(5) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for_good(5) portable(6) headphones(7) and(8) are(9) not(10) into(11) ear-buds(12) ,(13) you(14) could(15) do(16) much(17) worse(18) than(19) to(20) give(21) a(22) pair(23) of(24) PX-100(25) 's(26) a(27) listen(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			Their(1) sound(2) is(3) crisp(4) and(5) clear(6) with(7) excellent(8) bass(9) reproduction(10) for(11) their(12) size(13) /(14) weight(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="bass" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			The(1) cord(2) is(3) good(4) &(5) long(6) ((7) some(8) might(9) actually(10) consider(11) it(12) too(13) long(14) for(15) mobile(16) use(17) )(18) .(19) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="cord" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			They(1) seem(2) to(3) require(4) no(5) burn-in(6) time(7) ,(8) so(9) if(10) you(11) audition(12) them(13) at(14) the(15) store(16) ,(17) you(18) can(19) be(20) reasonably(21) certain(22) of(23) their(24) sound(25) before(26) taking(27) them(28) home(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) included(2) carrying(3) case(4) takes(5) a(6) little(7) figuring(8) to(9) use(10) ,(11) but(12) once(13) you(14) get(15) it(16) it(17) provides(18) excellent(19) protection(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) have(3) a(4) pair(5) of(6) Sennheiser(7) HD-477(8) and(9) the(10) PX-100(11) 's(12) compare(13) very(14) favourably(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			They(1) blow(2) my(3) old(4) MX-400(5) ear(6) buds(7) out(8) of(9) the(10) water(11) .(12) 
+		</sentence>
+	</text>
+</review>

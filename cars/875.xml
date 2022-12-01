@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="875" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) Beetle(2) That(3) could(4) not(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cute(1) .(2) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) pick-up(2) speed(3) 
+			<opinion polarity="+" feature="speed" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) constant(2) problems(3) are(4) enough(5) to(6) turn(7) me(8) off(9) VW(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) was(3) looking(4) to(5) buy(6) a(7) car(8) ,(9) I(10) knew(11) I(12) wanted(13) something(14) European(15) ,(16) because(17) I(18) did(19) not(20) particularly(21) like(22) many(23) of(24) the(25) Japanese(26) and(27) American(28) models(29) ,(30) from(31) a(32) design(33) point(34) of(35) view(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			The(1) VW_New_Beetle(2) caught(3) my(4) eye(5) early(6) on(7) ,(8) and(9) I(10) waited(11) and(12) waited(13) until(14) the(15) Turbo(16) version(17) came(18) out(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			I(1) settled(2) on(3) a(4) yellow(5) one(6) ,(7) because(8) in(9) the(10) back(11) of(12) my(13) mind(14) I(15) wanted(16) something(17) eye-catching(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="18"/>
+		</sentence>
+		<sentence id="4">
+			After(1) taking(2) it(3) for(4) a(5) spin(6) ,(7) I(8) was(9) in(10) love(11) with(12) the(13) car(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) we(3) 'd(4) live(5) happily(6) ever(7) after(8) ((9) at_least(10) until(11) the(12) lease(13) is(14) up(15) )(16) ,(17) and(18) I(19) even(20) named(21) my(22) car(23) :(24) Princess_Grace_of_Limon(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			My(1) happiness(2) was(3) short(4) lived(5) however(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Less(1) than(2) a(3) week(4) after(5) I(6) drove(7) Princess_Grace(8) off(9) the(10) lot(11) ,(12) troubles(13) began(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			What(1) can(2) one(3) expect(4) from(5) a(6) car(7) named(8) Princess(9) ?(10) 
+		</sentence>
+		<sentence id="9">
+			First(1) ,(2) the(3) power(4) windows(5) malfunctioned(6) ,(7) it(8) would(9) go(10) down(11) ,(12) but(13) not(14) up(15) ((16) and(17) living(18) in(19) Boston(20) ,(21) you(22) do(23) not(24) want(25) to(26) have(27) the(28) windows(29) down(30) in(31) winter(32) )(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			That(1) was(2) followed(3) by(4) the(5) fog(6) lamps(7) which(8) stopped(9) working(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			Then(1) the(2) warning(3) indicator(4) took(5) a(6) leave(7) of(8) absence(9) .(10) 2(11) months(12) later(13) ,(14) the(15) squeaks(16) and(17) rattle(18) started(19) ,(20) and(21) have(22) not(23) stopped(24) ,(25) despite(26) having(27) the(28) dealer(29) look(30) at(31) it(32) every(33) time(34) the(35) car(36) is(37) in(38) the(39) shop(40) .(41) 
+		</sentence>
+		<sentence id="12">
+			The(1) squeaks(2) and(3) rattles(4) would(5) move(6) ,(7) first(8) it(9) was(10) the(11) hatch(12) ,(13) then(14) the(15) seats(16) ,(17) and(18) now(19) the(20) sunroof(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			I(1) 'm(2) a(3) careful(4) driver(5) ,(6) and(7) I(8) do(9) not(10) abuse(11) my(12) car(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			I(1) do(2) not(3) drive(4) over(5) ruts(6) and(7) potholes(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			The(1) brakes(2) would(3) squeak(4) from(5) time(6) to(7) time(8) ((9) but(10) I(11) was(12) told(13) by(14) the(15) dealer(16) it(17) 's(18) a(19) common(20) occurrence(21) in(22) VWs(23) ,(24) which(25) sounded(26) rather(27) fishy(28) to(29) me(30) )(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			About(1) 1(2) 1/2(3) months(4) ago(5) ,(6) the(7) fuel(8) door(9) would(10) not(11) open(12) ,(13) forcing(14) me(15) to(16) pry(17) the(18) door(19) open(20) ,(21) or(22) I(23) would(24) not(25) have(26) been(27) able(28) to(29) fill(30) it(31) with(32) gas(33) .(34) 
+		</sentence>
+		<sentence id="17">
+			And(1) yesterday(2) ,(3) when(4) I(5) was(6) driving(7) from(8) New_York(9) to(10) Boston(11) ,(12) the(13) defogger(14) for(15) the(16) rear(17) windshield(18) and(19) rear(20) view(21) mirrors(22) stopped(23) working(24) .(25) 
+		</sentence>
+		<sentence id="18">
+			And(1) that(2) was(3) the(4) pits(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			Imagine(1) driving(2) for(3) 4(4) hours(5) with(6) a(7) fogged(8) up(9) rear(10) windshield(11) and(12) barely(13) able(14) to(15) see(16) anything(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			My(1) car(2) is(3) 1(4) year(5) old(6) on(7) Dec(8) 12(9) ,(10) 2000(11) ,(12) and(13) I(14) have(15) about(16) 7,500_miles(17) on(18) it(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			It(1) has(2) been(3) in(4) the(5) shop(6) 5_times(7) already(8) ((9) not(10) including(11) the(12) regular(13) maintenance(14) )(15) and(16) one(17) would(18) think(19) I(20) 'm(21) driving(22) a(23) Saab(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			Although(1) none(2) of(3) the(4) problems(5) are(6) major(7) ,(8) they(9) are(10) a(11) bad(12) enough(13) to(14) make(15) me(16) dislike(17) my(18) car(19) ,(20) to(21) the(22) point(23) where(24) I(25) 'd(26) wish(27) someone(28) would(29) steal(30) it(31) .(32) 
+		</sentence>
+		<sentence id="23">
+			After(1) this(2) experience(3) ,(4) I(5) do(6) not(7) plan(8) on(9) buying(10) another(11) VW(12) ever(13) again(14) .(15) 
+		</sentence>
+	</text>
+</review>

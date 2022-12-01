@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="33" item="Oak Tree Inn - Elko" rating="2">
+	<title>
+		<sentence id="1">
+			OK(1) on(2) price(3) ,(4) but(5) short(6) on(7) comfort(8) &(9) bed(10) was(11) bad(12) 
+			<opinion polarity="+" feature="price" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="bed" featWords="10" opWords="12"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) bed(2) ,(3) cleanliness(4) ,(5) lack(6) of(7) comfort(8) for(9) two(10) people(11) 
+			<opinion polarity="-" feature="bed" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			will(1) not(2) stay(3) there(4) again(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Many(1) other(2) hotels(3) available(4) in(5) older(6) part(7) of(8) town(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) &(3) I(4) stayed(5) here(6) in(7) late(8) July_2007(9) mostly(10) because(11) the(12) rate(13) was(14) OK(15) and(16) the(17) picture(18) looked(19) good(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			On(1) the(2) plus(3) side(4) ,(5) the(6) room(7) was(8) as(9) described(10) as(11) was(12) the(13) rate(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			On(1) the(2) negative(3) side(4) ,(5) the(6) room(7) was(8) short(9) on(10) comfort(11) items(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			There(1) were(2) exactly(3) 2(4) plastic(5) cups(6) for(7) cold(8) drinks(9) and(10) 2(11) for(12) hot(13) drinks(14) ,(15) so(16) if(17) you(18) had(19) some(20) soda(21) the(22) night(23) before(24) ,(25) you(26) had(27) to(28) use(29) the(30) same(31) cup(32) to(33) drink(34) from(35) in(36) the(37) morning(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			There(1) was(2) only(3) one(4) place(5) to(6) lay(7) a(8) suitcase(9) and(10) we(11) travel(12) with(13) one(14) for(15) her(16) and(17) one(18) for(19) me(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			That(1) means(2) someone(3) has(4) to(5) put(6) their(7) suitcase(8) on(9) the(10) floor(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) bed(2) was(3) the(4) worst(5) .(6) 
+			<opinion polarity="-" feature="bed" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) a(3) cheap(4) mattress(5) that(6) made(7) you(8) feel(9) as(10) though(11) you(12) were(13) going(14) to(15) slide(16) off(17) if(18) you(19) slept(20) near(21) the(22) edge(23) and(24) if(25) you(26) rolled(27) the(28) other(29) way(30) ,(31) you(32) both(33) fell(34) to(35) a(36) valley(37) in(38) the(39) middle(40) .(41) 
+			<opinion polarity="-" feature="bed" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			We(1) were(2) going(3) to(4) stay(5) at(6) another(7) Oak_Tree_Inn(8) in(9) Rawlins(10) ,(11) but(12) decided(13) losing(14) a(15) night(16) 's(17) sleep(18) was(19) not(20) worth(21) it(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			On(1) the(2) trip(3) we(4) noticed(5) that(6) there(7) were(8) lots(9) of(10) older(11) hotels(12) in(13) the(14) main(15) town(16) and(17) plan(18) to(19) stay(20) at(21) one(22) of(23) those(24) on(25) our(26) return(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			They(1) can(2) not(3) be(4) any(5) worse(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Also(1) ,(2) there(3) was(4) only(5) one(6) comfortable(7) chair(8) in(9) the(10) room(11) and(12) that(13) meant(14) one(15) person(16) had(17) to(18) use(19) the(20) bed(21) to(22) watch(23) TV(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			This(1) seems(2) to(3) be(4) standard(5) in(6) nearly(7) all(8) hotels(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Finally(1) ,(2) the(3) telephone(4) in(5) the(6) room(7) was(8) filthy(9) .(10) 
+			<opinion polarity="-" feature="phone calls" featWords="4" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			It(1) looked(2) as_if(3) the(4) front(5) of(6) the(7) telephone(8) desk(9) set(10) had(11) never(12) been(13) wiped(14) with(15) a(16) damp(17) cloth(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			If(1) that(2) very(3) visible(4) item(5) was(6) so(7) dirty(8) ,(9) it(10) makes(11) me(12) wonder(13) about(14) the(15) less(16) visible(17) areas(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			That(1) is(2) it(3) .(4) 
+		</sentence>
+		<sentence id="18">
+			Vern(1) 
+		</sentence>
+	</text>
+</review>

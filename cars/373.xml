@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="373" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Car(1) ,(2) even(3) when(4) used(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) good(3) power(4) for(5) a(6) regular(7) 4-cylinder(8) .(9) 
+			<opinion polarity="+" feature="horsepower" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) acceleration(2) with(3) 3(4) or(5) more(6) passengers(7) ...(8) abs(9) feels(10) funny(11) .(12) .(13) 
+			<opinion polarity="-" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Windows(1) could(2) be(3) tinted(4) more(5) .(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) is(3) a(4) good(5) car(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Simply(1) put(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			It(1) responds(2) nicely(3) ,(4) especially(5) when(6) avoiding(7) an(8) immenent(9) object(10) .(11) 
+			<opinion polarity="+" feature="response" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) skeptical(3) of(4) the(5) VTEC(6) 4-cylinder(7) engine(8) but(9) after(10) driving(11) the(12) car(13) I(14) 've(15) found(16) it(17) to(18) be(19) impressive(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="20"/>
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) is(3) a(4) good(5) car(6) ,(7) but(8) tall(9) people(10) will(11) find(12) it(13) to(14) be(15) somewhat(16) cramped(17) ...(18) but(19) only(20) after(21) a(22) long(23) drive(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) EX(16) 
+		</sentence>
+	</text>
+</review>

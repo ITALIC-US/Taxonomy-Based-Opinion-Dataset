@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="89" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			Suburabn(1) well(2) liked(3) ...(4) 
+			<opinion polarity="+" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Can(1) you(2) say(3) interior(4) room(5) ?(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			gas(1) mileage(2) ,(3) size(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) first(4) Suburban(5) in_1999(6) ,(7) after(8) getting(9) rid(10) of(11) our(12) "(13) uncool(14) "(15) minivan(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) four(3) kids(4) in(5) our(6) family(7) ,(8) and(9) this(10) was(11) one(12) of(13) the(14) only(15) SUVs(16) that(17) had(18) a(19) third(20) seat(21) and(22) a_lot_of(23) room(24) in(25) the(26) rear(27) area(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			I(1) love(2) this(3) vehicle(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Yes(1) ,(2) its(3) sometimes(4) a(5) pain(6) to(7) park(8) ,(9) and(10) its(11) gigantic(12) ,(13) and(14) it(15) uses(16) a_lot_of(17) gas(18) ,(19) but(20) I(21) would(22) not(23) trade(24) it(25) for(26) anything(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Once(1) you(2) get(3) a(4) feel(5) for(6) the(7) handling(8) ,(9) it(10) actually(11) handles(12) quite(13) well(14) for(15) a(16) vehicle(17) its(18) size(19) .(20) 
+			<opinion polarity="+" feature="handling" opWords="12,14" potency="13"/>
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) first(3) a(4) family(5) car(6) ,(7) but(8) it(9) is(10) really(11) a(12) truck(13) and(14) the(15) truck(16) part(17) comes(18) in(19) handy(20) for(21) carry(22) heavy(23) loads(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) legroom(2) in(3) the(4) front(5) and(6) middle(7) seats(8) is(9) great(10) ,(11) but(12) the(13) third(14) is(15) somewhat(16) iffy(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="7,8" opWords="10"/>
+			<opinion polarity="+" feature="leg room" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			The(1) 4WD(2) system(3) works(4) well(5) ,(6) and(7) this(8) gargantuan(9) vehicle(10) handles(11) well(12) in(13) snow(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="11,12"/>
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) for(3) being(4) a(5) truck(6) ,(7) the(8) CD(9) player(10) /(11) sound(12) system(13) sounds(14) quite(15) good(16) .(17) 
+			<opinion polarity="+" feature="sound system" featWords="12,13" opWords="14,16" potency="15"/>
+		</sentence>
+		<sentence id="10">
+			Some(1) minor(2) problems(3) are(4) :(5) no(6) Low_Fuel(7) warning(8) light(9) ((10) we(11) ran(12) out(13) of(14) gas(15) once(16) )(17) ,(18) and(19) the(20) left(21) side(22) hand(23) to(24) move(25) the(26) second(27) seat(28) forward(29) broke(30) off(31) ,(32) but(33) this(34) could(35) be(36) fixed(37) easily(38) .(39) 
+		</sentence>
+		<sentence id="11">
+			We(1) bought(2) the(3) truck(4) in(5) June_of_1998(6) ((7) it(8) was(9) a(10) 99(11) )(12) and(13) it(14) has(15) 55,000_miles(16) on(17) it(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			It(1) 's(2) only(3) problem(4) was(5) a(6) rack(7) and(8) pinion(9) steering(10) alignment(11) problem(12) ,(13) nothing(14) serious(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			I(1) can(2) remember(3) the(4) days(5) in(6) the(7) summer(8) of(9) 2000(10) when(11) a(12) fill(13) up(14) for(15) gas(16) was(17) $75.00(18) ,(19) but(20) now(21) its(22) only(23) $50.00(24) ((25) ha(26) ha(27) !(28) )(29) I(30) would(31) probably(32) say(33) my(34) favorite(35) name(36) for(37) it(38) is(39) "(40) the(41) tank(42) "(43) ,(44) but(45) other(46) names(47) like(48) "(49) the(50) bus(51) "(52) or(53) "(54) the(55) beast(56) "(57) are(58) good(59) ,(60) too(61) !(62) 
+		</sentence>
+	</text>
+</review>

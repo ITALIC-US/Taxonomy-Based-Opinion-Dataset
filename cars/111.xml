@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="111" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) Family_Bus(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			space(1) ,(2) more(3) space(4) ,(5) did(6) I(7) mention(8) space(9) ?(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) is(2) a(3) big(4) SUV(5) ,(6) the(7) gas(8) mileage(9) is(10) not(11) terribly(12) bad(13) ,(14) around(15) 11-15(16) usually(17) ...(18) 
+			<opinion polarity="+" feature="gas" featWords="8,9" opWords="11,13" potency="12"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) really(3) enjoyed(4) the(5) burb(6) ,(7) we(8) have(9) the(10) SLT(11) ,(12) basically(13) it(14) has(15) every(16) option(17) available(18) ,(19) I(20) really(21) enjoy(22) the(23) heated(24) seats(25) ,(26) especially(27) since(28) they(29) are(30) leather(31) ...(32) oh(33) yeah(34) ,(35) plenty_of(36) space(37) ,(38) the(39) 3rd(40) row(41) of(42) seats(43) come(44) out(45) and(46) the(47) second(48) row(49) folds(50) down(51) for(52) storage(53) and(54) stuff(55) ...(56) only(57) had(58) one(59) issue(60) with(61) a(62) head(63) gasket(64) leak(65) ,(66) come(67) to(68) find(69) out(70) it(71) is(72) a(73) problem(74) common(75) to(76) the(77) suburban(78) ,(79) oh(80) well(81) ,(82) happy(83) owners(84) are(85) we(86) ...(87) Amount_Paid(88) ((89) US(90) $(91) )(92) :(93) 25000(94) Condition(95) :(96) UsedModel_Year(97) :(98) 1999Model(99) and(100) Options(101) :(102) SLT(103) 
+			<opinion polarity="+" feature="seat" featWords="25" opWords="24"/>
+		</sentence>
+	</text>
+</review>

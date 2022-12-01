@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="501" item="Sony h.ear�?� MDR-J10 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			They(1) Sound_Pretty_Darn_Good_For_The_Price(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) cheap(2) ,(3) fit(4) comfortably(5) ,(6) sound(7) pretty(8) good(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4,5"/>
+			<opinion polarity="+" feature="sound quality" opWords="7,9" potency="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) some(2) bass(3) ,(4) bit(5) tinny(6) ,(7) not(8) full(9) sounding(10) ,(11) connection(12) is(13) sensitive(14) .(15) 
+			<opinion polarity="-" feature="bass" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="jack" featWords="12" opWords="14"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) was(3) given(4) an(5) iPod(6) Shuffle_for_Christmas(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Perfect(1) present(2) !(3) 
+		</sentence>
+		<sentence id="3">
+			I(1) often(2) go(3) to(4) the(5) gym(6) and(7) it(8) can(9) get(10) quite(11) boring(12) when(13) performing(14) your(15) cardio(16) workouts(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) love(2) listening(3) to(4) it(5) with(6) the(7) headphones(8) that(9) are(10) supplied(11) by(12) apple(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			They(1) really(2) do(3) sound(4) fantastic(5) and(6) give(7) ample(8) amounts(9) of(10) bass(11) .(12) 
+			<opinion polarity="+" feature="sound quality" opWords="4,5"/>
+		</sentence>
+		<sentence id="6">
+			BUT(1) they(2) barely(3) fit(4) my(5) ear(6) and(7) do(8) not(9) sit(10) snug(11) inside(12) for(13) long(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Also(1) the(2) foam(3) covers(4) that(5) cover(6) the(7) headphones(8) are(9) very(10) slippery(11) and(12) fall(13) off(14) and(15) get(16) lost(17) very(18) quickly(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			So(1) I(2) decided(3) to(4) get(5) replacements(6) that(7) would(8) fit(9) my(10) ear(11) comfortably(12) ,(13) yet(14) would(15) not(16) compromise(17) sound(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			I(1) ended(2) up(3) buying(4) the(5) MDR-J10(6) 's(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			I(1) decided(2) on(3) a(4) wrap(5) around(6) your(7) ear(8) design(9) because(10) that(11) would(12) ensure(13) the(14) earphones(15) could(16) not(17) fall(18) out(19) and(20) I(21) 'm(22) happy(23) to(24) say(25) that(26) they(27) feel(28) completely(29) comfortable(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			They(1) sound(2) fairly(3) good(4) .(5) 
+			<opinion polarity="+" feature="sound quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="12">
+			They(1) sound(2) a_bit(3) tinny(4) and(5) lack(6) much(7) bass(8) .(9) 
+			<opinion polarity="-" feature="sound quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="13">
+			They(1) do(2) not(3) sound(4) full(5) .(6) 
+			<opinion polarity="-" feature="sound quality" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="14">
+			But(1) this(2) is(3) in(4) comparison(5) to(6) the(7) Apple(8) supplied(9) earphones(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			All(1) in_all(2) ,(3) once(4) you(5) get(6) use(7) to(8) them(9) ,(10) they(11) actually(12) perform(13) quite(14) well(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			For(1) the(2) price(3) ,(4) the(5) earphones(6) are(7) exceptional(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="8"/>
+		</sentence>
+	</text>
+</review>

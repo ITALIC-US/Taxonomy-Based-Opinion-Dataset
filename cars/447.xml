@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="447" item="1996 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			I_Thought_Camrys_Were_Reliable(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) drive(2) and(3) seating(4) ,(5) good(6) gas(7) mileage(8) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="6"/>
+			<opinion polarity="+" feature="seat" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Preventative(1) maintenance(2) is(3) expected(4) but(5) this(6) car(7) is(8) ridiculous(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) the(2) car(3) new(4) for(5) young(6) family(7) of(8) four(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) same(2) parts(3) keep(4) breaking(5) !(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) gone(3) through(4) three(5) radiators(6) and(7) three(8) sets(9) of(10) CV(11) boots(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) kept(2) having(3) problems(4) with(5) the(6) cooling(7) system(8) that(9) resulted(10) in(11) a(12) cracked(13) head(14) ((15) expensive(16) repair(17) )(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			At(1) 150,000_miles(2) there(3) are(4) two(5) oil(6) leaks(7) that(8) will(9) cost(10) $1200(11) to(12) repair(13) due(14) to(15) the(16) labor(17) to(18) access(19) the(20) problem(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			One(1) is(2) the(3) rack(4) &(5) pinion(6) steering(7) and(8) the(9) other(10) is(11) the(12) transmission(13) seal(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) driver(2) handle(3) broke(4) off(5) ,(6) cup(7) holder(8) cracked(9) ,(10) change(11) door(12) latch(13) lost(14) its(15) spring(16) ,(17) door(18) lining(19) is(20) cracked(21) at(22) the(23) window(24) due(25) to(26) sun(27) exposure(28) ,(29) and(30) antenna(31) motor(32) died(33) .(34) 
+			<opinion polarity="-" feature="cup holders" featWords="7,8" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) was(3) great(4) until(5) it(6) hit(7) 60,000_miles(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) going(3) back(4) to(5) Honda(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

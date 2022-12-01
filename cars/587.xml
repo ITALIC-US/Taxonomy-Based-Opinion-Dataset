@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="587" item="2000 Chevrolet Silverado" rating="2">
+	<title>
+		<sentence id="1">
+			Dissappointed_I_Am(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			looks(1) good(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) worth(2) the(3) bucks(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Purchased(1) my(2) 2000(3) Silverado(4) in(5) August_of_1999(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			After(1) being(2) a(3) loyal(4) Dodge(5) owner(6) for(7) many(8) years(9) and(10) was(11) convinced(12) after(13) my(14) 1998(15) Dodge_Ram(16) 1500(17) its(18) was(19) time(20) for(21) a(22) change(23) ((24) way(25) to(26) many(27) problems(28) )(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			Currently(1) have(2) 22,416(3) on(4) this(5) pickup(6) with(7) transmission(8) problems(9) ,(10) passenger(11) back(12) window(13) leaks(14) air(15) &(16) water(17) ,(18) under(19) powered(20) ,(21) stalling(22) ,(23) response(24) problems(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			To(1) squirrely(2) !(3) 
+		</sentence>
+		<sentence id="5">
+			Brakes(1) are(2) unpredictable(3) too(4) .(5) 
+			<opinion polarity="-" feature="brakes" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			Does(1) not(2) want(3) to(4) stop(5) when(6) you(7) want(8) to(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			And(1) god(2) forbid(3) should(4) you(5) hit(6) a(7) bump(8) coming(9) to(10) a(11) stop(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Those(1) anti-locks(2) will(3) certainly(4) kick(5) in(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			Also(1) will(2) be(3) replacing(4) tires(5) to(6) ((7) Goodyear(8) tires(9) Suck(10) !(11) !(12) )(13) I(14) know(15) this(16) from(17) several(18) of(19) my(20) service(21) vehicles(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) ride(2) in(3) this(4) truck(5) is(6) like(7) a(8) rock(9) also(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			No(1) forgiveness(2) here(3) on(4) the(5) roads(6) in(7) Texas(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) no(3) wonder(4) why(5) Americans(6) are(7) gearing(8) towards(9) foreign(10) vehicles(11) for(12) value(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			It(1) will(2) take(3) a(4) long(5) time(6) for(7) me(8) to(9) be(10) convinced(11) that(12) American(13) makers(14) are(15) designing(16) and(17) building(18) better(19) and(20) more(21) reliable(22) vehicles(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			Owning(1) a(2) service(3) company(4) with(5) service(6) vehicles(7) gives(8) me(9) first(10) hand(11) knowledge(12) of(13) what(14) works(15) or(16) does(17) not(18) work(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			As(1) time(2) goes(3) on(4) ,(5) vehicles(6) get(7) more(8) expensive(9) but(10) the(11) quality(12) is(13) long(14) gone(15) .(16) 
+		</sentence>
+	</text>
+</review>

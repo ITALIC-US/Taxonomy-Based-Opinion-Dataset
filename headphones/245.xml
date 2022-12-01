@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="245" item="Sennheiser HD 570 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Pretty(1) good(2) for(3) the(4) price(5) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) comfortable(2) and(3) good(4) sound(5) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Little(1) light(2) in(3) the(4) bass(5) department(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) the(2) average(3) listener(4) ,(5) using(6) several(7) hours(8) a(9) day(10) ,(11) and(12) without(13) kids(14) using(15) them(16) ,(17) probably(18) a(19) good(20) investment(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Listened(1) to(2) a(3) few(4) different(5) Sennheiser(6) 's(7) at(8) some(9) local(10) music(11) and(12) audio(13) shops(14) and(15) really(16) liked(17) the(18) way(19) the(20) 570(21) 's(22) felt(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			did(1) not(2) want(3) to(4) pay(5) too(6) much(7) for(8) phones(9) as(10) I(11) 'm(12) not(13) a_real(14) audiophile(15) ,(16) just(17) wear(18) '(19) em(20) for(21) PC(22) gaming(23) and(24) a(25) little(26) while(27) I(28) 'm(29) working(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			Wish(1) the(2) physical(3) tension(4) on(5) the(6) phones(7) was(8) a(9) little(10) higher(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			My_US(1) hat(2) size(3) is(4) a(5) 7(6) 1/4(7) ((8) not(9) too(10) big(11) of(12) a(13) melon(14) )(15) ,(16) and(17) they(18) sometimes(19) wiggle(20) around(21) more(22) than(23) I(24) 'd(25) like(26) them(27) too(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Wish(1) bass(2) had(3) a(4) little(5) more(6) oomph(7) ,(8) but(9) then(10) again(11) ,(12) I(13) did(14) not(15) find(16) any(17) phones(18) priced(19) under(20) $200(21) that(22) had(23) the(24) total(25) package(26) of(27) great(28) mids(29) ,(30) highs(31) ,(32) bass(33) ,(34) comfort(35) and(36) quality(37) -(38) basically(39) your(40) perfect(41) headphone(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			These(1) seemed(2) like(3) the(4) best(5) all-around(6) choice(7) for(8) the(9) money(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) build(2) seems(3) a(4) little(5) cheap(6) -(7) the(8) whole(9) thing(10) is(11) plastic(12) .(13) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="8">
+			Feel(1) a(2) little(3) flimsy(4) ,(5) so(6) if(7) your(8) hard(9) on(10) your(11) equipment(12) ,(13) do(14) not(15) know(16) if(17) I(18) 'd(19) recommend(20) .(21) 
+			<opinion polarity="-" feature="durability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			They(1) do(2) save(3) a(4) considerable(5) amount(6) on(7) weight(8) by(9) using(10) plastic(11) ,(12) though(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			No(1) QA(2) issues(3) so(4) far(5) -(6) fingers(7) crossed(8) .(9) 
+		</sentence>
+	</text>
+</review>

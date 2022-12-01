@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="578" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			Great_Looks(1) ,(2) ...(3) but(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			safety(1) ,(2) styling(3) ,(4) price(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			loose(1) handling(2) ,(3) interior(4) noise(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) put(3) 6,000_miles(4) on(5) my(6) new(7) 2000(8) Impala(9) base(10) model(11) since(12) purchased(13) Labor_Day(14) weekend(15) ((16) 3(17) months(18) )(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			The(1) styling(2) is(3) great(4) .(5) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) spacious(2) interior(3) is(4) plush(5) .(6) 
+			<opinion polarity="+" feature="interior" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="interior" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			I(1) get(2) great(3) looks(4) from(5) passers(6) by(7) .(8) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) trunk(2) is(3) the(4) best(5) .(6) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Deep(1) &(2) long(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			Mileage(1) is(2) in(3) the(4) 20(5) to(6) 25(7) mpg(8) overall(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) base(2) 6(3) speaker(4) cassette(5) AM_FM(6) is(7) super(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			This(1) Impala(2) is(3) a(4) "(5) large(6) "(7) car(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Good(1) for(2) me(3) ,(4) I(5) am(6) 6(7) ft(8) 5_inches(9) tall(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) had(2) to(3) adjust(4) to(5) the(6) big(7) car(8) ride(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			The(1) handling(2) is(3) somewhat(4) looser(5) than(6) I(7) expected(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Maybe(1) a(2) handling(3) package(4) would(5) help(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) 4(2) wheel(3) disc(4) brakes(5) are(6) great(7) on(8) dry(9) days(10) ,(11) but(12) very(13) slippery(14) &(15) you(16) get(17) the(18) feeling(19) of(20) "(21) gliding(22) "(23) when(24) in(25) heavy(26) rain(27) .(28) 
+			<opinion polarity="+" feature="brakes" featWords="5" opWords="7"/>
+			<opinion polarity="-" feature="brakes" featWords="5" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) yet(3) to(4) test(5) the(6) car(7) in(8) snow(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			Interior(1) noise(2) is(3) high(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			Higher(1) than(2) my(3) 1997(4) Lumina(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			The(1) car(2) has(3) great(4) acceleration(5) &(6) highway(7) smoothness(8) .(9) 
+			<opinion polarity="+" feature="acceleration" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="19">
+			I(1) would(2) recommend(3) taking(4) an(5) "(6) extended(7) "(8) test(9) drive(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Once(1) around(2) the(3) block(4) will(5) not(6) do(7) .(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			Take(1) some(2) highway(3) time(4) &(5) go(6) over(7) some(8) rough(9) road(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			Turn(1) off(2) the(3) radio(4) .(5) 
+		</sentence>
+		<sentence id="23">
+			Insurance(1) for(2) this(3) car(4) is(5) very(6) reasonable(7) due(8) to(9) the(10) high(11) safety(12) rating(13) &(14) dual(15) air(16) bags(17) .(18) 
+			<opinion polarity="+" feature="safety" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="24">
+			A(1) good(2) car(3) for(4) the(5) money(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</text>
+</review>

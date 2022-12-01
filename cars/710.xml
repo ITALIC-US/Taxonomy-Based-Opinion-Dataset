@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="710" item="1998 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			lemon(1) or(2) is(3) everyone(4) 's(5) car(6) about(7) to(8) experience(9) the(10) same(11) ?(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) in(2) bad(3) weather(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			banner(1) year(2) for(3) problems(4) for(5) this(6) model(7) and(8) year(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) model(2) and(3) the(4) year(5) it(6) was(7) built(8) was(9) plauged(10) with(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			God(1) bless(2) the(3) next(4) owner(5) of(6) my(7) leased(8) car(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hi(1) ,(2) First(3) off(4) I(5) want(6) everyone(7) to(8) know(9) that(10) this(11) car(12) is(13) my(14) 6th(15) Suburu(16) in(17) a(18) row(19) I(20) have(21) bought(22) .(23) 4(24) others(25) I(26) drove(27) for(28) well(29) over(30) 140,000_miles(31) and(32) they(33) were(34) great(35) !(36) 
+			<opinion polarity="+" feature="car" opWords="35"/>
+		</sentence>
+		<sentence id="2">
+			One(1) other(2) the(3) XT(4) was(5) also(6) great(7) but(8) had(9) a(10) bug(11) or(12) two(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			Now(1) about(2) my(3) lovely(4) Forrester(5) ,(6) 1998(7) model(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Since(1) I(2) started(3) to(4) lease(5) it(6) 2(7) years(8) ago(9) the(10) following(11) had(12) to(13) be(14) fixed(15) and(16) the(17) following(18) explainations(19) were(20) given(21) by(22) Suburu_America(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			From(1) the(2) get(3) go(4) I(5) had(6) to(7) replace(8) blower(9) motor(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) under(3) warranty(4) but(5) I(6) lost(7) valuable(8) time(9) leaving(10) the(11) car(12) at(13) the(14) dealer(15) for(16) one(17) day(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Now(1) at(2) this(3) point(4) I(5) have(6) gone(7) thru(8) 4(9) ((10) yes(11) 4(12) !(13) )(14) sets(15) of(16) wheel(17) bearings(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			First(1) time(2) I(3) paid(4) out(5) of(6) pocket(7) ,(8) 2(9) months(10) later(11) again(12) it(13) went(14) bad(15) and(16) this(17) time(18) was(19) under(20) warranty(21) ((22) hooray(23) !(24) )(25) .(26) 12K_miles(27) later(28) again(29) it(30) went(31) bad(32) and(33) this(34) time(35) the(36) mechanic(37) tells(38) the(39) service(40) manager(41) the(42) wheel(43) boot(44) was(45) causing(46) it(47) all(48) along(49) .(50) 
+			<opinion polarity="-" feature="car" opWords="32"/>
+		</sentence>
+		<sentence id="9">
+			He(1) also(2) whispers(3) to(4) me(5) that(6) these(7) bearings(8) are(9) causing(10) the(11) dealership(12) fits(13) but(14) no(15) recall(16) has(17) gone(18) out(19) ?(20) ?(21) ?(22) 
+		</sentence>
+		<sentence id="10">
+			He(1) claims(2) that(3) is(4) why(5) they(6) are(7) going(8) bad(9) .(10) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="11">
+			Okay(1) ,(2) so(3) I(4) pay(5) another(6) $140.00(7) to(8) replace(9) boot(10) and(11) get(12) another(13) free(14) bearing(15) only(16) to(17) find(18) to(19) my(20) horror(21) it(22) again(23) goes(24) bad(25) 2(26) months(27) later(28) .(29) 
+			<opinion polarity="-" feature="car" opWords="25"/>
+		</sentence>
+		<sentence id="12">
+			Now(1) the(2) mechanic(3) and(4) service(5) manager(6) bring(7) me(8) over(9) to(10) car(11) and(12) they(13) say(14) the(15) axle(16) was(17) the(18) cause(19) all(20) along(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Moisture(1) is(2) leaking(3) into(4) the(5) assmebly(6) and(7) it(8) is(9) causing(10) excessive(11) wear(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			I(1) call(2) Suburu_America(3) repeatedly(4) and(5) finally(6) 1(7) month(8) later(9) they(10) agree(11) to(12) pay(13) for(14) this(15) repair(16) but(17) only(18) after(19) I(20) had(21) to(22) endure(23) Suburu(24) 's(25) insistence(26) that(27) they(28) all(29) were(30) unrelated(31) and(32) they(33) were(34) my(35) responsibility(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			Well_Duh_Suburu(1) ,(2) unrelated(3) ?(4) 
+		</sentence>
+		<sentence id="16">
+			Okay(1) let(2) 's(3) back(4) up(5) a_bit(6) and(7) talk(8) about(9) the(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			I(1) have(2) had(3) to(4) replace(5) the(6) main(7) internal(8) seal(9) which(10) costs(11) $(12) 7(13) but(14) when(15) all(16) the(17) labor(18) charges(19) were(20) tallied(21) it(22) was(23) over(24) $900(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			Again(1) the(2) say(3) it(4) was(5) my(6) responsiblity(7) and(8) i(9) lost(10) 2(11) days(12) service(13) of(14) my(15) car(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			Next(1) and(2) two(3) months(4) later(5) I(6) get(7) a(8) leak(9) out(10) of(11) the(12) engine(13) block(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			My(1) responsibilty(2) .(3) 
+		</sentence>
+		<sentence id="21">
+			To(1) sets(2) of(3) front(4) breaks(5) so(6) far(7) ,(8) both(9) my(10) responsibility(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			Now(1) for(2) the(3) clincher(4) ,(5) recently(6) I(7) developed(8) another(9) oil(10) leak(11) from(12) the(13) palce(14) where(15) the(16) seal(17) was(18) leaking(19) only(20) this(21) time(22) the(23) mechanic(24) states(25) it(26) is(27) the(28) oil(29) pump(30) .(31) 
+		</sentence>
+		<sentence id="23">
+			Well_I(1) fought(2) again(3) with(4) Sububr_America(5) and(6) lost(7) again(8) !(9) !(10) 
+		</sentence>
+		<sentence id="24">
+			Again(1) my(2) responsibility(3) but(4) on(5) top(6) of(7) this(8) the(9) discovered(10) a(11) timing(12) belt(13) tensioner(14) ((15) some(16) kind(17) of(18) hydraulic(19) device(20) )(21) was(22) worn(23) .(24) damn(25) this(26) repair(27) cost(28) me(29) another(30) $700(31) out(32) of(33) pocket(34) .(35) basically(36) all(37) I(38) can(39) say(40) to(41) sum(42) up(43) this(44) model(45) is(46) that(47) it(48) is(49) a(50) walking(51) time(52) bomb(53) waiting(54) to(55) go(56) off(57) .(58) 
+		</sentence>
+		<sentence id="25">
+			Be(1) aware(2) .(3) 
+		</sentence>
+		<sentence id="26">
+			Ironic(1) thing(2) about(3) Suburu_America(4) is(5) that(6) they(7) are(8) well(9) aware(10) this(11) car(12) will(13) be(14) going(15) back(16) in(17) service(18) with(19) another(20) owner(21) when(22) my(23) lease(24) expires(25) in(26) a(27) couple(28) of(29) months(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			God(1) bless(2) the(3) person(4) who(5) buys(6) this(7) lemon(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			Also(1) if(2) anyone(3) has(4) ever(5) been(6) assisted(7) by(8) Suburu(9) leasing(10) I(11) say(12) you(13) are(14) extremely(15) lucky(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="16"/>
+		</sentence>
+		<sentence id="29">
+			Every(1) time(2) I(3) called(4) them(5) they(6) blew(7) me(8) off(9) and(10) made(11) me(12) deal(13) with(14) Suburu_America(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			I(1) still(2) do(3) believe(4) in(5) Suburu(6) 's(7) though(8) and(9) my(10) next_one_may(11) be(12) the(13) legacy(14) model(15) that(16) has(17) always(18) doen(19) well(20) with(21) me(22) but(23) then(24) again(25) the(26) Honda(27) 's(28) are(29) looking(30) mightly(31) attractive(32) !(33) 
+			<opinion polarity="+" feature="design" opWords="32"/>
+		</sentence>
+		<sentence id="31">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) 1998(16) forrester(17) automatic(18) 
+		</sentence>
+	</text>
+</review>

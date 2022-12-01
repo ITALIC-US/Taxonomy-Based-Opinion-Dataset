@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="892" item="The Broadmoor" rating="5">
+	<title>
+		<sentence id="1">
+			Grand_Dame_of_the_Rockies(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Rooms(1) ,(2) Restaurants(3) ,(4) anything(5) your(6) heart(7) desires(8) !(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) be(2) pricey(3) in(4) the(5) summer(6) months(7) !(8) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) the(3) Resort(4) to(5) the(6) Stars(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Even_Cheney(1) and(2) Rock-stars(3) visit(4) this(5) Resort(6) frequently(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) a(3) must(4) see(5) !(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Broadmoor(2) is(3) a(4) haven(5) for(6) those(7) that(8) need(9) to(10) be(11) spoiled(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			With(1) five(2) major(3) Restaurants(4) and(5) countless(6) cafe(7) 's(8) and(9) casual(10) eateries(11) ,(12) even(13) the(14) most(15) discriminating(16) diner(17) will(18) find(19) something(20) to(21) their(22) liking(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			The(1) Penrose_Room(2) is(3) the(4) grandest(5) of(6) all(7) dining(8) rooms(9) .(10) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) live(3) entertainment(4) with(5) dancing(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			A(1) grand(2) chandelier(3) hangs(4) from(5) the(6) ceiling(7) ,(8) emitting(9) an(10) aura(11) of(12) elegance(13) and(14) a(15) flair(16) of(17) days(18) gone(19) by(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) are(3) lucky(4) enough(5) to(6) get(7) a(8) window(9) seat(10) ,(11) the(12) view(13) spans(14) from(15) the(16) mountain(17) tops(18) to(19) the(20) city(21) lights(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) menu(3) is(4) french(5) cuisine(6) and(7) to(8) die(9) for(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) Broadmoor(2) also(3) holds(4) a(5) newly(6) renovated(7) Spa(8) .(9) 
+			<opinion polarity="+" feature="spa" featWords="8" opWords="6,7"/>
+		</sentence>
+		<sentence id="9">
+			Offering(1) anything(2) from(3) a(4) teen(5) facial(6) to(7) a(8) muscle(9) relaxing(10) swedish(11) massage(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Hot_Stone_Therapy(1) to(2) heavenly(3) Pedicures(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			The(1) Spa(2) at(3) the(4) Broadmoor(5) is(6) one(7) of(8) the(9) must(10) have(11) experiences(12) on(13) any(14) visit(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) Property(2) itself(3) is(4) nestled(5) on(6) 3000_acres(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			Surrounded(1) by(2) three(3) champion(4) Golf-courses(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			The(1) mountain(2) course(3) being(4) the(5) most(6) challenging(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			The(1) East_Course(2) is(3) surrounded(4) by(5) trees(6) and(7) is(8) the(9) most(10) open(11) and(12) scenic(13) course(14) I(15) have(16) been(17) on(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			Rooms(1) vary(2) from(3) luxurious(4) to(5) downright(6) breathtaking(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			Every(1) room(2) is(3) decorated(4) in(5) with(6) unique(7) furniture(8) ,(9) marble(10) and(11) rich(12) colorful(13) textiles(14) .(15) 
+			<opinion polarity="+" feature="furnishings" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="18">
+			Many(1) rooms(2) have(3) a(4) view(5) that(6) overlooks(7) the(8) Cheyenne_Lake(9) and(10) the(11) mountain-range(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) are(3) lucky(4) enough(5) to(6) get(7) a(8) suite(9) with(10) a(11) patio(12) ,(13) be(14) sure(15) to(16) request(17) the(18) new(19) South-tower(20) top(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			The(1) views(2) are(3) to(4) die(5) for(6) ,(7) be(8) it(9) city(10) or(11) mountain(12) view(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			The(1) best(2) feature(3) of(4) the(5) Broadmoor(6) are(7) the(8) employees(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			I(1) was(2) always(3) greeted(4) with(5) a(6) genuine(7) smile(8) ,(9) escorted(10) to(11) every(12) location(13) I(14) was(15) searching(16) for(17) and(18) even(19) addressed(20) by(21) name(22) by(23) my(24) maid(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			The(1) maid(2) did(3) a(4) wonderful(5) job(6) in(7) cleaning(8) ,(9) turndown(10) service(11) was(12) exceptional(13) .(14) 
+			<opinion polarity="+" feature="service" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="24">
+			They(1) even(2) straightened(3) out(4) my(5) shoes(6) which(7) were(8) strewn(9) about(10) the(11) floor(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			Be(1) sure(2) to(3) make(4) all(5) your(6) reservations(7) in(8) advance(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			Restaurants(1) fill(2) up(3) weeks(4) ahead(5) and(6) rooms(7) sell(8) out(9) due(10) to(11) various(12) specials(13) throughout(14) the(15) year(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Be(1) sure(2) you(3) book(4) direct(5) with(6) the(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			Ask(1) for(2) the(3) Run_of_The_House_Rate(4) and(5) ask(6) for(7) a(8) free(9) upgrade(10) !(11) 50_%(12) of(13) the(14) time(15) you(16) will(17) get(18) it(19) !(20) 
+		</sentence>
+		<sentence id="29">
+			All(1) rooms(2) and(3) restaurants(4) are(5) non-smoking(6) ,(7) the(8) fresh(9) Colorado_Air(10) will(11) leave(12) an(13) everlasting(14) impression(15) on(16) you(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			I(1) highly(2) recommend(3) this(4) Resort(5) !(6) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+	</text>
+</review>

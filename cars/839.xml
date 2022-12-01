@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="839" item="1999 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) the(4) hype(5) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) design(2) ,(3) Big(4) trunk(5) ,(6) and(7) good(8) gas(9) mileage(10) 
+			<opinion polarity="+" feature="gas" featWords="9,10" opWords="8"/>
+			<opinion polarity="+" feature="trunk" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheaply(1) made(2) ,(3) Poor(4) paint(5) job(6) and(7) poor(8) plastics(9) assembly(10) 
+			<opinion polarity="-" feature="color" featWords="5,6" opWords="4"/>
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) leased(2) our(3) 1999(4) DX(5) last_May(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) wanted(3) an(4) Accord(5) since(6) high-school(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) always(3) heard(4) that(5) they(6) were(7) very(8) dependable(9) cars(10) .(11) 
+			<opinion polarity="+" feature="reliability" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			You(1) always(2) see(3) a_ton(4) of(5) older(6) Accords(7) on(8) the(9) road(10) ,(11) That(12) is(13) a(14) good(15) sign(16) to(17) me(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			I(1) loved(2) the(3) new(4) design(5) ,(6) With(7) it(8) 's(9) diamond(10) like(11) headlights(12) and(13) not(14) too(15) rounded(16) lines(17) .(18) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="2"/>
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) a(3) sleek(4) looking(5) car(6) .(7) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) love(2) affair(3) ended(4) shortly(5) after(6) got(7) it(8) home(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			I(1) took(2) it(3) for(4) it(5) first(6) road(7) test(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			Seven(1) hours(2) up(3) and(4) down(5) mountains(6) to(7) West_Virginia(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) realize(3) that(4) you(5) can(6) get(7) a(8) bigger(9) engine(10) with(11) the(12) LX(13) or(14) EX(15) ,(16) But_I(17) had(18) no(19) trouble(20) with(21) power(22) on(23) the(24) mountains(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			What(1) I(2) did(3) have(4) trouble(5) with(6) was(7) excessive(8) outside(9) noise(10) ,(11) No(12) leg(13) room(14) ,(15) and(16) very(17) uncomfortable(18) seats(19) .(20) 
+			<opinion polarity="-" feature="seat" featWords="19" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="12">
+			It(1) feels(2) as(3) though(4) I(5) am(6) sitting(7) on(8) the(9) floor(10) !(11) 
+		</sentence>
+		<sentence id="13">
+			I(1) also(2) feel(3) that(4) the(5) paint(6) on(7) this(8) car(9) is(10) either(11) missing(12) a(13) coat(14) or(15) is(16) cheap(17) paint(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) scratches(3) on(4) my(5) bumper(6) from(7) minor(8) altercations(9) with(10) getting(11) groceries(12) out(13) of(14) my(15) trunk(16) !(17) 
+		</sentence>
+		<sentence id="15">
+			The(1) interior(2) plastic(3) moldings(4) are(5) already(6) pulling(7) away(8) without(9) reason(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			It(1) is(2) honestly(3) very(4) cheaply(5) made(6) for(7) the(8) money(9) paid(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="5,6" potency="4"/>
+		</sentence>
+		<sentence id="17">
+			Shop(1) around(2) ,(3) Trust(4) me(5) -(6) do(7) not(8) just(9) buy(10) because_of(11) the(12) name(13) !(14) !(15) 
+			<opinion polarity="-" feature="car" opWords="8,10"/>
+		</sentence>
+	</text>
+</review>

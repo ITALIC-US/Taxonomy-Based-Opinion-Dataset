@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="259" item="Bose (017817401494) Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Average(1) at(2) best(3) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) .(3) people(4) see(5) you(6) wearing(7) Bose(8) earphones(9) and(10) think(11) you(12) have(13) really(14) have(15) something(16) .(17) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wrong(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) garbage(3) .(4) 
+			<opinion polarity="-" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Stay(1) far(2) far(3) away(4) from(5) this(6) average(7) product(8) !(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) can(2) not(3) keep(4) them(5) from(6) falling(7) out(8) of(9) my(10) ears(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) can(3) keep(4) them(5) in(6) your(7) ear(8) the(9) sound(10) is(11) average(12) at(13) best(14) .(15) 
+			<opinion polarity="-" feature="sound quality" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			If(1) had(2) $15.00(3) headphones(4) that(5) sounded(6) just(7) as(8) good(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) 'm(2) very(3) disappointed(4) they(5) are(6) not(7) worth(8) the(9) money(10) and(11) I(12) do(13) not(14) mind(15) spending(16) money(17) for(18) quality(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			That(1) is(2) why(3) I(4) 'm(5) researching(6) the(7) Shure(8) E4c(9) headphones(10) ,(11) I(12) like(13) there(14) reviews(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) Bose(2) are(3) going(4) back(5) tomorrow(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			These(1) things(2) give(3) Bose(4) a_real(5) bad(6) name(7) .(8) 
+		</sentence>
+	</text>
+</review>

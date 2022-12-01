@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="859" item="2000 Toyota Corolla" rating="1">
+	<title>
+		<sentence id="1">
+			Can(1) you(2) show(3) me(4) a(5) Corolla(6) that(7) does(8) not(9) bite(10) ?(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Simple(1) ,(2) but(3) stylish(4) interior(5) 
+			<opinion polarity="+" feature="interior" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Short-lived(1) /(2) inferior(3) parts(4) and(5) engine(6) ,(7) not(8) very(9) comfortable(10) 
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) thought(2) the(3) Toyota_Corolla(4) would(5) be(6) my(7) dream(8) car(9) with(10) it(11) 's(12) compact(13) shape(14) ,(15) simple(16) ,(17) but(18) stylish(19) interior(20) and(21) commercials(22) that(23) promised(24) reliability(25) .(26) 
+			<opinion polarity="+" feature="interior" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) I(3) would(4) fall(5) in(6) love(7) with(8) this(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			Boy(1) was(2) I(3) wrong(4) .(5) "(6) Oh(7) what(8) a(9) feeling(10) "(11) indeed(12) ,(13) when(14) only(15) 30(16) days(17) after(18) purchasing(19) a(20) 1989(21) Corolla(22) ((23) deemed(24) "(25) a(26) good(27) little(28) car(29) "(30) by(31) my(32) mechanic(33) ;(34) also(35) a(36) choice(37) approved(38) by(39) friends(40) and(41) family(42) )(43) it(44) decided(45) to(46) die(47) .(48) 
+			<opinion polarity="+" feature="car" featWords="29" opWords="27"/>
+		</sentence>
+		<sentence id="4">
+			There(1) was(2) no(3) warning(4) that(5) there(6) was(7) something(8) wrong(9) with(10) the(11) vehicle(12) ,(13) or(14) that(15) the(16) engine(17) was(18) about(19) to(20) quit(21) running(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) greatly(3) disappointed(4) to(5) be(6) stuck(7) with(8) a(9) car(10) now(11) in(12) need(13) of(14) an(15) engine(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			To(1) make(2) matters(3) worse(4) ,(5) there(6) was(7) not(8) an(9) engine(10) to(11) be(12) found(13) for(14) many(15) months(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Whether(1) this(2) was(3) due(4) to(5) a(6) sudden(7) need(8) for(9) engine(10) replacements(11) ((12) which(13) would(14) not(15) surprise(16) me(17) )(18) I(19) did(20) not(21) know(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			All(1) I(2) knew(3) was(4) that(5) I(6) was(7) stuck(8) with(9) a(10) shoddy(11) ,(12) useless(13) vehicle(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			So(1) the(2) Toyota_Corolla(3) proved(4) to(5) be(6) unreliable(7) ,(8) inefficient(9) ,(10) inferior(11) and(12) low-quality(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="13"/>
+			<opinion polarity="-" feature="car" opWords="11"/>
+			<opinion polarity="-" feature="car" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			Even(1) my(2) Hyundai(3) outlived(4) the(5) Toyota(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) also(3) cramped(4) and(5) uncomfortable(6) ,(7) e(8) 
+			<opinion polarity="-" feature="comfort" opWords="6"/>
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+	</text>
+</review>

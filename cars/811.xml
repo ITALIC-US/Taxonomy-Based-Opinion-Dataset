@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="811" item="1992 Cadillac Seville" rating="2">
+	<title>
+		<sentence id="1">
+			Beauty(1) is(2) pain(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) ,(2) absolutely(3) sport-luxury(4) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needed(1) repairs(2) constantly(3) ,(4) became(5) unreliable(6) 
+			<opinion polarity="-" feature="reliability" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) beautiful(4) headache(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			Only(1) buy(2) one(3) in(4) MINT(5) condition(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) personally(2) will(3) never(4) own(5) a(6) Seville(7) again(8) !(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Yeah(1) the(2) car(3) is(4) gorgeous(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Yeah(1) it(2) 's(3) comfortable(4) .(5) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Yeah(1) it(2) 's(3) a(4) blast(5) to(6) drive(7) and(8) one(9) of(10) the(11) most(12) sportiest(13) luxury(14) cars(15) I(16) 've(17) ever(18) owned(19) !(20) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			But(1) ohhhhhh(2) ,(3) the(4) repair(5) nightmares(6) I(7) had(8) with(9) my(10) Seville(11) !(12) 
+		</sentence>
+		<sentence id="5">
+			Constantly(1) having(2) problems(3) !(4) 
+		</sentence>
+		<sentence id="6">
+			I(1) thought(2) if(3) I(4) bought(5) a(6) Seville(7) with(8) low(9) miles(10) and(11) looked(12) like(13) excellent(14) condition(15) that(16) I(17) would(18) have(19) had(20) nothing(21) to(22) worry(23) about(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Big(1) mistake(2) !(3) 
+		</sentence>
+		<sentence id="8">
+			It(1) leaked(2) oil(3) so(4) bad(5) you(6) could(7) actually(8) watch(9) it(10) dripping(11) out(12) of(13) the(14) car(15) every(16) where(17) you(18) went(19) !(20) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) putting(3) 2(4) cans(5) of(6) oil(7) in(8) it(9) every(10) other(11) day(12) !(13) 
+		</sentence>
+		<sentence id="10">
+			Oil(1) was(2) even(3) leaking(4) into(5) the(6) radiator(7) somehow(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			The(1) coolant(2) leaked(3) also(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			The(1) turn(2) signal(3) played(4) games(5) ;(6) sometimes(7) it(8) worked(9) and(10) sometimes(11) it(12) did(13) not(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) engine(2) was(3) constantly(4) overheating(5) .(6) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="14">
+			I(1) had(2) to(3) leave(4) the(5) temperature(6) gage(7) selected(8) on(9) the(10) dash(11) board(12) all(13) the(14) time(15) and(16) nervous(17) when(18) the(19) temp(20) got(21) over(22) 220(23) degrees(24) because(25) I(26) knew(27) it(28) would(29) overheat(30) .(31) 
+		</sentence>
+		<sentence id="15">
+			The(1) car(2) also(3) will(4) not(5) let(6) you(7) use(8) the(9) A(10) /(11) C(12) if(13) the(14) temp(15) goes(16) over(17) 240(18) degrees(19) and(20) I(21) would(22) roast(23) in(24) the(25) car(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) left(3) me(4) stranded(5) twice(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			I(1) realize(2) I(3) might(4) have(5) bought(6) a(7) lemon(8) ,(9) but(10) the(11) parts(12) and(13) service(14) to(15) this(16) car(17) left(18) me(19) broke(20) ,(21) literally(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			I(1) only(2) had(3) it(4) 5(5) months(6) !(7) !(8) !(9) 
+		</sentence>
+		<sentence id="19">
+			I(1) do(2) not(3) want(4) to(5) discourage(6) an(7) interested(8) buyer(9) of(10) a(11) '(12) 92(13) Seville(14) but(15) find(16) one(17) that(18) has(19) been(20) seriously(21) pampered(22) and(23) a(24) licensed(25) mechanic(26) had(27) found(28) it(29) to(30) be(31) in(32) mint(33) condition(34) !(35) 
+		</sentence>
+		<sentence id="20">
+			Thank(1) God_I(2) got(3) the(4) last(5) model(6) of(7) the(8) standard(9) Cadillac(10) engine(11) before(12) they(13) converted(14) to(15) Northstar(16) or(17) I(18) would(19) 've(20) had(21) to(22) live(23) in(24) the(25) car(26) ,(27) considering(28) the(29) repair(30) charges(31) I(32) would(33) have(34) had(35) .(36) 
+		</sentence>
+		<sentence id="21">
+			I(1) spent(2) around(3) $1700-2000(4) in(5) repairs(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6500.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) standard(16) Seville(17) but(18) with(19) all(20) added(21) options(22) ,(23) such(24) as(25) moonroof(26) 
+		</sentence>
+	</text>
+</review>

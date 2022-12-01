@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="431" item="Sony MDR-V900 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			AMAZING(1) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			amazing(1) sound(2) quality(3) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_bit(1) pricey(2) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) the(4) best(5) things(6) I(7) 've(8) ever(9) had(10) .(11) 
+			<opinion polarity="+" feature="headphones" featWords="6" featRef="headphones" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) that(3) is(4) produced(5) is(6) clear(7) ,(8) crisp(9) ,(10) beautiful(11) to(12) listen(13) to(14) and(15) they(16) 're(17) comfortable(18) too(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="11"/>
+			<opinion polarity="+" feature="comfort" opWords="18"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) had(3) them(4) for(5) over(6) a(7) year(8) now(9) ,(10) used(11) them(12) a_lot(13) and(14) they(15) have(16) never(17) skipped(18) a(19) beat(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			They(1) 're(2) great(3) for(4) music(5) and(6) for(7) movies(8) ((9) which(10) is(11) what(12) I(13) use(14) them(15) for(16) because(17) the(18) neighbors(19) up(20) stairs(21) do(22) not(23) like(24) loud(25) explosions(26) at(27) night(28) )(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			I(1) did(2) a_lot_of(3) research(4) for(5) head(6) phones(7) when(8) I(9) was(10) in(11) the(12) market(13) and(14) these(15) came(16) to(17) the(18) top(19) of(20) my(21) list(22) after(23) listening(24) to(25) LOTS(26) of(27) different(28) ones(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) can(3) afford(4) the(5) rather(6) expensive(7) price(8) tag(9) ,(10) then(11) get(12) them(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			You(1) will(2) not(3) be(4) disappointed(5) .(6) 
+		</sentence>
+	</text>
+</review>

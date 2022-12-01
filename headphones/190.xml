@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="190" item="Sony MDR-G54LP Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Stylish_Look(1) ,(2) Great_Bass(3) ,(4) Clear_Sound(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) great(4) bass(5) ,(6) comfortable(7) fit(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="comfort" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) lay(3) your(4) head(5) back(6) while(7) wearing(8) them(9) ...(10) No(11) sleeping(12) while(13) wearing(14) !(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) these(4) headphones(5) for(6) anyone(7) who(8) enjoys(9) a(10) comfortable(11) fit(12) ,(13) great(14) sound(15) ,(16) and(17) some(18) awesome(19) bass(20) in(21) a(22) pair(23) of(24) headphones(25) ,(26) in(27) other(28) words(29) ...(30) Everyone(31) !(32) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+			<opinion polarity="+" feature="comfort" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="sound quality" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="bass" featWords="20" opWords="19"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) first(2) time(3) that(4) I(5) got(6) these(7) head(8) phones(9) I(10) got(11) them(12) for(13) Christmas(14) and(15) I(16) was(17) a(18) little(19) worried(20) ,(21) they(22) did(23) not(24) really(25) look(26) like(27) the(28) headphones(29) for(30) me(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			The(1) headphones(2) that(3) I(4) usually(5) use(6) were(7) either(8) ear(9) buds(10) ,(11) or(12) the(13) over(14) the(15) head(16) kind(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			These(1) head(2) phones(3) wrap(4) around(5) the(6) back(7) of(8) your(9) head(10) and(11) lay(12) on(13) top(14) of(15) your(16) ears(17) ,(18) kind(19) of(20) an(21) odd(22) look(23) but(24) they(25) work(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			One(1) of(2) my(3) favorite(4) features(5) of(6) these(7) headphones(8) is(9) the(10) amount(11) of(12) bass(13) that(14) they(15) are(16) able(17) to(18) put(19) out(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			I(1) like(2) to(3) listen(4) to(5) Big_Band(6) music(7) and(8) Jazz(9) ,(10) which(11) ,(12) believe(13) it(14) or(15) not(16) ,(17) has(18) a_ton(19) of(20) bass(21) to(22) it(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			These(1) headphones(2) were(3) up(4) to(5) the(6) challenge(7) of(8) my(9) Jazz(10) and(11) Big_Band(12) listening(13) ,(14) and(15) they(16) preformed(17) flawlessly(18) .(19) 
+			<opinion polarity="+" feature="sound quality" opWords="17,18"/>
+		</sentence>
+		<sentence id="7">
+			I(1) only(2) have(3) one(4) problem(5) with(6) these(7) headphones(8) ,(9) when(10) you(11) try(12) to(13) lay(14) your(15) head(16) back(17) on(18) something(19) the(20) phones(21) are(22) pushed(23) up(24) in(25) front(26) of(27) your(28) ears(29) so(30) it(31) hurts(32) a(33) little(34) bit(35) and(36) you(37) can(38) not(39) hear(40) the(41) sound(42) .(43) 
+		</sentence>
+		<sentence id="8">
+			I(1) think(2) that(3) is(4) a(5) little(6) annoying(7) ,(8) but(9) other(10) than(11) that(12) these(13) are(14) great(15) headphones(16) .(17) 
+			<opinion polarity="+" feature="headphones" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) recommend(3) these(4) headphones(5) to(6) anybody(7) who(8) likes(9) to(10) listen(11) to(12) music(13) with(14) decent(15) bass(16) support(17) and(18) who(19) likes(20) to(21) have(22) great(23) sound(24) quality(25) when(26) they(27) are(28) listening(29) to(30) music(31) .(32) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="sound quality" featWords="24,25" opWords="23"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="895" item="1999 Toyota Tacoma" rating="2">
+	<title>
+		<sentence id="1">
+			would(1) not(2) buy(3) Prerunner(4) again(5) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Terrific(1) engine(2) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) suspension(2) 
+			<opinion polarity="-" feature="suspension" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) do(2) not(3) like(4) the(5) ride(6) on(7) my(8) '(9) 99(10) Prerunner(11) .(12) 
+			<opinion polarity="-" feature="ride quality" featWords="6" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			On(1) certain(2) bumps(3) ,(4) it(5) wallows(6) like(7) an(8) old(9) large(10) cruiser(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			On(1) others(2) ,(3) it(4) feels(5) "(6) skittish(7) "(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Consumer(1) reports(2) evaluates(3) the(4) ride(5) as(6) dangerous(7) ,(8) and(9) I(10) would(11) agree(12) on(13) certain(14) terrain(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) not(3) sure(4) but(5) ,(6) it(7) could(8) be(9) the(10) rear(11) leaf(12) springs(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) the(3) first(4) ones(5) I(6) 've(7) seen(8) that(9) are(10) bowed(11) down(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			All(1) other(2) manufacturer(3) 's(4) have(5) the(6) springs(7) bowing(8) up(9) -(10) and(11) it(12) makes(13) mechanical(14) sense(15) to(16) have(17) them(18) made(19) this(20) way(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			Another(1) thing(2) is(3) the(4) trans(5) /(6) driveline(7) makes(8) a(9) big(10) thunk(11) when(12) releasing(13) the(14) accelerator(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) local(2) service(3) center(4) can(5) not(6) seem(7) to(8) fix(9) it(10) .(11) 
+		</sentence>
+	</text>
+</review>

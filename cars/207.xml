@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="207" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Faster(1) than(2) a(3) speeding(4) bullet(5) .(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) ,(2) quiet(3) ,(4) comfortable(5) ,(6) good(7) cup(8) holders(9) 
+			<opinion polarity="+" feature="cup holders" featWords="8,9" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Requires(1) premium(2) gas(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) is(3) indeed(4) a(5) "(6) super(7) "(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			When(1) it(2) came(3) time(4) to(5) trade(6) in(7) my(8) husband(9) 's(10) Infiniti(11) G-20(12) lease(13) ,(14) I(15) have(16) to(17) admit(18) I(19) was(20) hesitant(21) about(22) getting(23) the(24) Maxima(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			Not(1) as(2) cultured(3) and(4) stylish(5) as(6) the(7) Infiniti(8) G-20(9) ,(10) the(11) Maxima(12) had(13) a(14) streamlined(15) ,(16) more(17) masculine(18) look(19) than(20) I(21) typically(22) like(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Something(1) about(2) the(3) Maxima(4) made(5) me(6) feel(7) a(8) tiny(9) bit(10) intimidated(11) ,(12) maybe(13) it(14) was(15) the(16) salesman(17) telling(18) my(19) husband(20) how(21) fast(22) and(23) hot(24) the(25) car(26) was(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			That(1) sort(2) of(3) conversation(4) made(5) me(6) worried(7) I(8) would(9) not(10) be(11) able(12) to(13) handle(14) that(15) much(16) car(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) prefer(2) a(3) smaller(4) car(5) and(6) a(7) slower(8) car(9) ,(10) I(11) do(12) drive(13) a(14) mini(15) van(16) in(17) my(18) daily(19) life(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			To(1) me(2) ,(3) the(4) Maxima(5) seemed(6) big(7) and(8) it(9) sounded(10) fast(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) I(3) was(4) very(5) worried(6) about(7) pulling(8) the(9) car(10) into(11) our(12) garage(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) Maxima(2) handles(3) very(4) nicely(5) ,(6) though(7) .(8) 
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			Granted(1) ,(2) the(3) car(4) is(5) bigger(6) than(7) the(8) G-20(9) ,(10) but(11) I(12) could(13) not(14) tell(15) when(16) I(17) was(18) behind(19) the(20) wheel(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			I(1) had(2) no(3) trouble(4) pulling(5) into(6) parking(7) places(8) and(9) even(10) navigated(11) the(12) garage(13) fairly(14) well(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			You(1) can(2) feel(3) the(4) power(5) in(6) the(7) engine(8) when(9) you(10) drive(11) ,(12) but(13) it(14) is(15) not(16) overwhelming(17) or(18) intimidating(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			The(1) drive(2) is(3) nice(4) and(5) smooth(6) and(7) very(8) ,(9) very(10) quiet(11) .(12) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) seats(2) are(3) roomy(4) and(5) comfortable(6) ,(7) an(8) option(9) for(10) leather(11) is(12) available(13) ,(14) though(15) we(16) did(17) choose(18) cloth(19) .(20) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) Maxima(2) offers(3) more(4) than(5) enough(6) room(7) in(8) the(9) back(10) seat(11) for(12) our(13) three(14) children(15) ,(16) and(17) the(18) two(19) teenagers(20) assured(21) us(22) they(23) were(24) very(25) comfortable(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			I(1) was(2) thrilled(3) to(4) see(5) and(6) hear(7) this(8) ,(9) I(10) am(11) very(12) weary(13) of(14) driving(15) a(16) mini(17) van(18) ,(19) and(20) seeing(21) the(22) kids(23) in(24) the(25) back(26) getting(27) along(28) gave(29) me(30) hope(31) for(32) a(33) sedan(34) of(35) my(36) own(37) one(38) day(39) .(40) 
+		</sentence>
+		<sentence id="17">
+			Unlike(1) the(2) G-20(3) ,(4) the(5) cup(6) holders(7) in(8) this(9) car(10) are(11) great(12) .(13) 
+			<opinion polarity="+" feature="cup holders" featWords="6,7" opWords="12"/>
+		</sentence>
+		<sentence id="18">
+			I(1) like(2) to(3) know(4) I(5) can(6) travel(7) and(8) carry(9) my(10) coffee(11) without(12) fear(13) of(14) spillage(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			I(1) never(2) considered(3) the(4) Maxima(5) to(6) be(7) a(8) family(9) car(10) ,(11) but(12) it(13) really(14) does(15) work(16) well(17) for(18) us(19) as(20) just(21) that(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			The(1) downside(2) to(3) this(4) car(5) is(6) ,(7) it(8) does(9) take(10) premium(11) gas(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Hopefully(1) ,(2) gas(3) prices(4) will(5) lower(6) soon(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			These(1) prices(2) do(3) put(4) a(5) drain(6) on(7) the(8) pocketbook(9) when(10) traveling(11) any(12) distance(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			The(1) trunk(2) is(3) very(4) roomy(5) ,(6) I(7) was(8) able(9) to(10) do(11) a(12) Costco(13) trip(14) for(15) five(16) and(17) pack(18) it(19) all(20) with(21) space(22) to(23) spare(24) .(25) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="24">
+			I(1) am(2) very(3) pleased(4) with(5) the(6) Maxima(7) ,(8) and(9) I(10) have(11) been(12) told(13) ,(14) when(15) you(16) put(17) your(18) "(19) pedal(20) to(21) the(22) metal(23) "(24) this(25) car(26) can(27) fly(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+	</text>
+</review>

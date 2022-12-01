@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="335" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			My(1) little(2) civic(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nothing(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nothing(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) was(2) coming(3) close(4) to(5) my(6) 16th(7) birthday(8) and(9) I(10) new(11) that(12) i(13) was(14) soon(15) to(16) get(17) my(18) learners(19) license(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) in(3) desperate(4) need(5) of(6) a(7) car(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) looking(3) through(4) the(5) paper(6) one(7) day(8) when(9) I(10) found(11) an(12) add(13) for(14) a(15) little(16) 77(17) honda(18) civic(19) and(20) wow(21) it(22) was(23) in(24) my(25) price(26) range(27) as_well(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			I(1) rang(2) up(3) about(4) it(5) unfortunatley(6) it(7) was(8) an(9) automatic(10) but(11) that(12) didnt(13) stop(14) me(15) from(16) wanting(17) to(18) have(19) a(20) look(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			So(1) I(2) dragged(3) dad(4) out(5) one(6) day(7) and(8) we(9) went(10) and(11) had(12) a(13) look(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) fell(2) in(3) love(4) with(5) it(6) straight(7) away(8) ,(9) it(10) was(11) the(12) cutest(13) thing(14) I(15) had(16) ever(17) seen(18) and(19) about(20) 3(21) days(22) later(23) it(24) was(25) mine(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Although(1) it(2) is(3) a_bit(4) old(5) and(6) I(7) might(8) have(9) a_bit(10) of(11) trouble(12) starting(13) it(14) in(15) the(16) cold(17) mornings(18) ,(19) it(20) has(21) been(22) a(23) really(24) good(25) little(26) car(27) for(28) me(29) and(30) definatley(31) good(32) for(33) a(34) leaner(35) driver(36) .(37) 
+			<opinion polarity="+" feature="car" featWords="27" opWords="32"/>
+			<opinion polarity="+" feature="car" featWords="27" opWords="25"/>
+		</sentence>
+		<sentence id="8">
+			Well_I(1) have(2) my(3) p(4) 's(5) now(6) so(7) I(8) love(9) going(10) for(11) a(12) drive(13) and(14) turn(15) the(16) music(17) up(18) ((19) even_though(20) only(21) one(22) speaker(23) works(24) .(25) )(26) 
+		</sentence>
+	</text>
+</review>

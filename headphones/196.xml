@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="196" item="Beyerdynamic DT 250-80 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			High_Fidelity_Comfort(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) and(3) excellent(4) comfort(5) for(6) the(7) price(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sub-audiophile(1) sound(2) quality(3) ,(4) but(5) just(6) fine(7) for(8) most(9) listeners(10) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="6,7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Beyer(2) DT-250(3) headphones(4) are(5) a(6) good(7) choice(8) as(9) an(10) entry(11) level(12) high-end(13) head(14) phone(15) ,(16) offering(17) high-fi(18) sensitivity(19) ,(20) wide(21) dynamic(22) range(23) ((24) 10_Hz(25) to(26) 30,000_Hz(27) )(28) ,(29) and(30) a(31) remarkably(32) comfortable(33) cushion(34) and(35) head(36) band(37) ,(38) as_well(39) as(40) a(41) simply(42) stated(43) professional(44) appearance(45) .(46) 
+			<opinion polarity="+" feature="frequency response" featWords="22,23" opWords="21"/>
+			<opinion polarity="+" feature="earpads" featWords="34" opWords="33" potency="32"/>
+			<opinion polarity="+" feature="headband" featWords="36,37" opWords="33" potency="32"/>
+			<opinion polarity="+" feature="appearance" featWords="45" opWords="44" potency="42,43"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) these(3) headphones(4) for(5) digital(6) home(7) recording(8) but(9) have(10) also(11) listened(12) to(13) analog(14) sound(15) sources(16) through(17) them(18) ,(19) and(20) they(21) have(22) done(23) well(24) reproducing(25) deep(26) bass(27) ,(28) natural(29) ,(30) warm(31) midrange(32) ,(33) and(34) crisp(35) and(36) dynamic(37) highs(38) .(39) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) well(3) suited(4) for(5) classical(6) music(7) because_of(8) their(9) fidelity(10) ,(11) but(12) extend(13) down(14) into(15) sub-harmonic(16) frequencies(17) to(18) accommodate(19) heavy(20) bass(21) groves(22) and(23) pounding(24) drums(25) ,(26) and(27) way(28) up(29) to(30) 30,000_Hz(31) to(32) for(33) any(34) kind(35) of(36) acoustic(37) sparkle(38) or(39) percussive(40) definition(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			I(1) also(2) really(3) have(4) to(5) mention(6) that(7) the(8) first(9) time(10) I(11) slipped(12) these(13) on(14) ,(15) it(16) was(17) like(18) slipping(19) into(20) silk(21) pajamas(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			The(1) ear(2) pieces(3) are(4) perfectly(5) shaped(6) and(7) the(8) cushions(9) are(10) made(11) out(12) of(13) a(14) velour(15) material(16) that(17) is(18) luxuriously(19) soft(20) ,(21) and(22) they(23) are(24) stuffed(25) for(26) just(27) the(28) right(29) feel(30) to(31) make(32) the(33) tightness(34) of(35) the(36) leather-covered(37) and(38) cushioned(39) headband(40) comfortable(41) enough(42) to(43) forget(44) about(45) while(46) it(47) maintains(48) excellent(49) sound(50) isolation(51) .(52) 
+			<opinion polarity="+" feature="earbuds" featWords="2,3" opWords="5,6"/>
+			<opinion polarity="+" feature="earpads" featWords="9" opWords="20" potency="19"/>
+			<opinion polarity="+" feature="headband" featWords="40" opWords="41,42"/>
+		</sentence>
+		<sentence id="6">
+			The(1) provided(2) cord(3) is(4) not(5) long(6) enough(7) for(8) studio(9) use(10) without(11) an(12) extension(13) ,(14) but(15) it(16) should(17) be(18) fine(19) for(20) home(21) use(22) provided(23) you(24) do(25) not(26) sit(27) across(28) the(29) room(30) from(31) the(32) amplifier(33) .(34) 
+			<opinion polarity="-" feature="cord" featWords="3" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="7">
+			All(1) in_all(2) ,(3) if(4) you(5) are(6) above(7) Sony(8) ,(9) but(10) a_bit(11) below(12) total(13) audiophile(14) ,(15) you(16) should(17) be(18) pleased(19) with(20) these(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) better(3) phones(4) ,(5) such(6) as(7) $350(8) models(9) from(10) Sennheiser(11) ,(12) and(13) $700(14) electrostatic(15) models(16) from(17) Koss(18) with(19) outboard(20) amplifiers(21) ,(22) but(23) these(24) will(25) suit(26) most(27) fairly(28) discerning(29) listeners(30) and(31) are(32) quite(33) good(34) for(35) the(36) price(37) .(38) 
+		</sentence>
+		<sentence id="9">
+			I(1) also(2) have(3) perceived(4) them(5) to(6) be(7) very(8) sturdy(9) ,(10) with(11) high(12) impact(13) plastic(14) ear(15) cups(16) and(17) frame(18) that(19) seem(20) like(21) they(22) could(23) take(24) more(25) than(26) a(27) few(28) spills(29) ,(30) and(31) even(32) be(33) stepped(34) on(35) ,(36) without(37) bending(38) or(39) breaking(40) .(41) 
+			<opinion polarity="+" feature="durability" opWords="9" potency="8"/>
+		</sentence>
+	</text>
+</review>

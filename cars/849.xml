@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="849" item="1999 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Transmission(1) failure(2) at(3) 45,000_miles(4) -(5) STAY_AWAY(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Straight-line(1) acceleration(2) ,(3) price(4) ,(5) smooth(6) engine(7) 
+			<opinion polarity="+" feature="engine" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mushy(1) suspension(2) ,(3) near-gripless(4) tires(5) ,(6) Transmission(7) failed(8) at(9) 45,000_miles(10) 
+			<opinion polarity="-" feature="transmission" featWords="7" opWords="8"/>
+			<opinion polarity="-" feature="tire" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="suspension" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) away(2) from(3) this(4) product(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Honda(1) will(2) not(3) help(4) me(5) with(6) my(7) failed(8) transmission(9) -(10) You(11) have(12) been(13) warned(14) !(15) 
+			<opinion polarity="-" feature="transmission" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) not(3) what(4) an(5) Accord(6) used(7) to(8) be(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Besides(1) the(2) near-gripless(3) "(4) low(5) rolling(6) resistance(7) "(8) Michelin(9) MXV4(10) +(11) tires(12) and(13) a(14) CD(15) player(16) that(17) started(18) skipping(19) right(20) after(21) the(22) warranty(23) ran(24) out(25) ,(26) my(27) transmission(28) failed(29) at(30) 45,000_miles(31) due(32) to(33) an(34) internally(35) caused(36) failure(37) after(38) better(39) than(40) recommended(41) maintenance(42) .(43) 
+			<opinion polarity="-" feature="transmission" featWords="28" opWords="29"/>
+		</sentence>
+		<sentence id="2">
+			Worse(1) yet(2) is(3) Honda(4) 's(5) substandard(6) 36(7) month/36k_mile(8) powertrain(9) warranty(10) -(11) buy(12) a(13) Nissan(14) /(15) Toyota(16) /(17) Infiniti(18) /(19) Lexus(20) /(21) VW(22) ((23) at_least(24) 60(25) mo/60k(26) mi(27) warranty(28) )(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			Honda(1) ((2) and(3) my(4) dealer(5) )(6) have(7) not(8) yet(9) provided(10) assistance(11) and(12) do(13) not(14) seem(15) interested(16) in(17) standing(18) behind(19) their(20) clearly(21) faulty(22) product(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) bottom(2) line(3) is(4) that(5) no(6) car(7) manufacturer(8) should(9) even(10) be(11) capable(12) of(13) producing(14) a(15) transmission(16) that(17) fails(18) before(19) 50,000_miles(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			My(1) car(2) is(3) not(4) the(5) only(6) one(7) plagued(8) with(9) transmission(10) problems(11) -(12) check(13) the(14) consumer(15) complaint(16) list(17) for(18) this(19) car(20) ((21) and(22) other(23) 1998-2002(24) Accords(25) )(26) at(27) the(28) NHTSA(29) web(30) site(31) if(32) you(33) do(34) not(35) believe(36) me(37) .(38) 
+		</sentence>
+		<sentence id="6">
+			This(1) was(2) my(3) first(4) Honda(5) ,(6) and(7) I(8) promise(9) it(10) is(11) my(12) LAST(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,300(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Accord_EX(16) V6(17) Automatic_Loaded(18) 
+		</sentence>
+	</text>
+</review>

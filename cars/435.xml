@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="435" item="1996 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) competent(2) but(3) over-rated(4) car(5) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) ,(2) good(3) breaks(4) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			vague(1) handling(2) ,(3) absence(4) of(5) "(6) personality(7) "(8) b(9) 
+			<opinion polarity="-" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) until(3) recently(4) the(5) owner(6) of(7) a(8) 1996(9) Camry_LE(10) 4(11) cylinder(12) sedan(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) mainly(4) due(5) to(6) the(7) model(8) 's(9) outstanding(10) reputation(11) for(12) quality(13) and(14) reliability(15) ,(16) but(17) soon(18) realized(19) that(20) such(21) virtues(22) do(23) not(24) mean(25) so(26) much(27) to(28) me(29) as(30) I(31) had(32) thought(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) is(3) astoundingly(4) boring(5) to(6) drive(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			As(1) nice(2) as(3) it(4) was(5) to(6) speculate(7) that(8) mechanical(9) breakdowns(10) were(11) less(12) probable(13) for(14) my(15) Camry(16) than(17) for(18) most(19) other(20) cars(21) ,(22) the(23) risk-taker(24) within(25) me(26) rebelled(27) at(28) the(29) thought(30) of(31) going(32) hundreds(33) of(34) thousands(35) of(36) miles(37) in(38) this(39) car(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			I(1) became(2) an(3) intense(4) existentialist(5) and(6) concluded(7) life(8) is(9) far(10) to(11) short(12) to(13) drive(14) a(15) camry(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			It(1) handled(2) like(3) a(4) boat(5) and(6) practically(7) refused(8) to(9) accelerate(10) with(11) two(12) or(13) three(14) crewpeople(15) aboard(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Thus(1) ,(2) if(3) power(4) ,(5) even(6) merely(7) for(8) the(9) sake(10) of(11) safety(12) ,(13) is(14) an(15) issue(16) for(17) you(18) ,(19) I(20) would(21) recommend(22) test-driving(23) the(24) 4(25) cylinder(26) under(27) a(28) full(29) or(30) nearly(31) full(32) load(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			The(1) 6(2) cylinder(3) version(4) presents(5) a(6) viable(7) alternative(8) ,(9) of(10) course(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			On_the_other_hand(1) ,(2) it(3) will(4) still(5) handle(6) like(7) a(8) boat(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			And(1) it(2) is(3) particularly(4) hard(5) to(6) "(7) bond(8) "(9) with(10) a(11) car(12) so(13) blandly(14) styled(15) and(16) commonly(17) seen(18) on(19) just(20) about(21) every(22) street(23) in(24) the(25) country(26) .(27) 
+			<opinion polarity="-" feature="design" opWords="14,15"/>
+		</sentence>
+		<sentence id="11">
+			Positives(1) include(2) decent(3) brakes(4) ((5) even(6) quick(7) stops(8) on(9) wet(10) pavement(11) were(12) short(13) and(14) easy(15) to(16) control(17) )(18) ,(19) easy-to-use(20) controls(21) ,(22) and(23) easy-to-find(24) parts(25) .(26) 
+			<opinion polarity="+" feature="controls" featWords="21" opWords="20"/>
+			<opinion polarity="+" feature="brakes" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			Good(1) mileage(2) and(3) the(4) likelihood(5) of(6) trouble-free(7) service(8) make(9) the(10) car(11) a(12) good(13) choice(14) for(15) getting(16) from(17) point(18) a(19) to(20) b(21) then(22) back(23) and(24) back(25) again(26) ...(27) but(28) if(29) you(30) have(31) even(32) a(33) little(34) bit(35) of(36) driving(37) enthusiasm(38) lurking(39) beneath(40) your(41) oh(42) so(43) conscious(44) practicality(45) ,(46) take(47) heed(48) .(49) 
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+	</text>
+</review>

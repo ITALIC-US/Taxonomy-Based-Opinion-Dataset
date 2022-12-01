@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="760" item="2005 Ford Escape" rating="2">
+	<title>
+		<sentence id="1">
+			Serious_Fuel_Tank_Problems(1) 2005(2) Escape_XLT_BEWARE(3) !(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) looking(2) car(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			I(1) like(2) the(3) way(4) it(5) drives(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Major(1) fuel(2) tank(3) problems(4) ,(5) Ford(6) will(7) not(8) do(9) anything(10) to(11) fix(12) the(13) problem(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			BEWARE(1) !(2) !(3) !(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Check(1) the(2) fuel(3) tank(4) situation(5) BEFORE(6) you(7) buy(8) the(9) vehicle(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Do(1) not(2) count(3) on(4) FORD(5) 's(6) factory(7) warranty(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) used(4) 2005(5) Ford_Escape_XLT(6) and(7) it(8) still(9) has(10) the(11) full(12) Ford(13) factory(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			After(1) the(2) purchase(3) I(4) noticed(5) my(6) 2005(7) Escape_XLT(8) has(9) serious(10) fuel(11) tank(12) problem(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) can(2) only(3) fuel(4) up(5) my(6) car(7) 50cent(8) at(9) a(10) time(11) because(12) the(13) sensors(14) in(15) the(16) gas(17) tank(18) will(19) frequently(20) shut(21) off(22) EVERY(23) gaspump(24) I(25) use(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			So(1) I(2) have(3) to(4) wait(5) a(6) couple(7) of(8) seconds(9) and(10) restart(11) the(12) filling(13) until(14) the(15) gaspump(16) will(17) shut(18) off(19) again(20) and(21) again(22) and(23) again(24) and(25) again(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			Filling(1) up(2) that(3) car(4) will(5) take(6) at_least(7) 15(8) ((9) FIFTEEN(10) )(11) minutes(12) since(13) I(14) have(15) to(16) take(17) out(18) the(19) nozzle(20) and(21) let(22) the(23) gasoline(24) run(25) smoothly(26) in(27) tank(28) while(29) being(30) exposed(31) to(32) the(33) fumes(34) and(35) liquid(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			Several(1) time(2) did(3) I(4) spill(5) gasoline(6) on(7) me(8) and(9) my(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) a(3) serious(4) SAFETY_CONCERN(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			I(1) brought(2) it(3) to(4) the(5) dealer(6) and(7) they(8) have(9) had(10) numerous(11) vehicles(12) with(13) the(14) same(15) problem(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) Ford_Motor_Company(2) put(3) out(4) a(5) service(6) memo(7) to(8) all(9) dealers(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) TSB(3) 05-18-4(4) which(5) tells(6) the(7) repair(8) facility(9) how(10) to(11) "(12) fix(13) "(14) the(15) problem(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Unfortunately(1) according_to(2) the(3) memo(4) TSB(5) 05-18-4(6) the(7) problem(8) will(9) ill(10) occur(11) on(12) some(13) vehicles(14) even(15) AFTER(16) the(17) repair(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			And(1) unfortunately(2) my(3) vehicle(4) is(5) one(6) of(7) them(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Unfixable(1) according_to(2) BEV_SMITH_FORD(3) in(4) West_Palm_Beach_Florida(5) and(6) I(7) would(8) have(9) to(10) live(11) with(12) this(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			They(1) would(2) not(3) do(4) anything(5) about(6) it(7) anymore(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			I(1) called(2) Ford(3) in(4) Michigan(5) and(6) explained(7) the(8) situation(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			Their(1) response(2) :(3) "(4) I(5) have(6) to(7) live(8) with(9) this(10) situation(11) and(12) they(13) are(14) NOT(15) going(16) to(17) fix(18) that(19) problem(20) or(21) have(22) anyone(23) working(24) on(25) this(26) problem(27) .(28) "(29) According_to(30) FORD(31) customer(32) service(33) it(34) is(35) not(36) their(37) problem(38) .(39) 
+		</sentence>
+		<sentence id="17">
+			The(1) gas(2) stations(3) pumps(4) are(5) not(6) designed(7) for(8) their(9) vehicle(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			Some(1) pumps(2) would(3) work(4) but(5) they(6) will(7) not(8) tell(9) me(10) which(11) one(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			I(1) would(2) have(3) to(4) figure(5) that(6) out(7) myself(8) .(9) "(10) Great(11) factory(12) warranty(13) ...(14) I(15) know(16) one(17) thing(18) .(19) My(20) next(21) vehicle(22) will(23) NOT(24) be(25) a(26) Ford(27) .(28) Amount_Paid(29) ((30) US(31) $(32) )(33) :(34) 20.000.00(35) Condition(36) :(37) UsedModel_Year(38) :(39) 2005Model(40) and(41) Options(42) :(43) XLT(44) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="358" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			It(1) May(2) Be_A_Good_Car(3) ,(4) but(5) The_Repairs_Sure_Cost_You_a_Mint(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) very(2) good(3) ,(4) mostly(5) reliable(6) car(7) .(8) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="3" potency="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Repairs(1) can(2) be(3) expensive(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) family(2) ,(3) well(4) rather(5) my(6) mom(7) ,(8) bought(9) a(10) 1998(11) Honda_Accord_EX(12) ,(13) two(14) years(15) ago(16) ,(17) with(18) expectations(19) probably(20) a(21) little(22) too(23) high(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			Yes(1) ,(2) it(3) is(4) a(5) good(6) car(7) ,(8) but(9) it(10) still(11) does(12) have(13) its(14) problems(15) that(16) I(17) think(18) many(19) people(20) overlook(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			The(1) one(2) very(3) commendable(4) thing(5) I(6) must(7) first(8) mention(9) is(10) the(11) breaks(12) -(13) I(14) have(15) never(16) driven(17) a(18) car(19) with(20) such(21) good(22) breaks(23) before(24) in(25) my(26) life(27) !(28) 
+		</sentence>
+		<sentence id="4">
+			And(1) I(2) think(3) most(4) people(5) would(6) agree(7) with(8) me(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) for(3) an(4) automatic(5) ,(6) the(7) car(8) does(9) not(10) switch(11) gears(12) very(13) smoothly(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Every(1) time(2) the(3) car(4) is(5) "(6) automatically(7) "(8) switching(9) gears(10) ,(11) you(12) feel(13) this(14) horrible(15) jolt(16) that(17) can(18) almost(19) give(20) you(21) whiplash(22) !(23) 
+		</sentence>
+		<sentence id="7">
+			I(1) know(2) that(3) other(4) people(5) have(6) had(7) this(8) exact(9) same(10) problem(11) with(12) their(13) Hondas(14) before(15) ,(16) so(17) just(18) go(19) with(20) this(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) 'm(2) not(3) crazy(4) or(5) anything(6) ,(7) for(8) those(9) of(10) you(11) who(12) are(13) completely(14) obsessed(15) with(16) their(17) cars(18) and(19) spend(20) more(21) time(22) talking(23) about(24) their(25) car(26) than(27) anything(28) else(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			Although(1) this(2) car(3) is(4) not(5) technically(6) mine(7) ,(8) I(9) have(10) driven(11) it(12) plenty_of(13) times(14) ,(15) and(16) I(17) think(18) that(19) it(20) is(21) a(22) relatively(23) comfortable(24) car(25) .(26) 
+			<opinion polarity="+" feature="comfort" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) not(3) think(4) it(5) would(6) be(7) comfortable(8) after(9) about(10) two(11) hours(12) ,(13) but(14) most(15) cars(16) are(17) not(18) .(19) 
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			As(1) far(2) as(3) reliability(4) ,(5) this(6) is(7) a(8) very(9) reliable(10) car(11) ,(12) no_doubt(13) about(14) it(15) .(16) 
+			<opinion polarity="+" feature="reliability" opWords="10"/>
+		</sentence>
+		<sentence id="12">
+			However(1) ,(2) we(3) have(4) had(5) many(6) little(7) cosmetic(8) problems(9) and(10) other(11) little(12) things(13) happen(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) one(2) piece(3) of(4) advice(5) that(6) I(7) would(8) give(9) everyone(10) who(11) owns(12) a(13) honda(14) straight(15) off(16) the(17) bat(18) is(19) DO_NOT_TAKE_YOUR_CAR_TO_BE_REPAIRED_AT_THE_DEALERSHIP(20) -(21) THE(22) MECHANICS(23) do(24) not(25) KNOW_YOUR_CAR_ANY_BETTER_THAN_A_SPECIALTY_SHOP_UNAFILLIATED_WITH_HONDA(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			As(1) far(2) as(3) the(4) problems(5) that(6) we(7) have(8) had(9) with(10) our(11) car(12) ,(13) it(14) 's(15) been(16) things(17) like(18) the(19) seat(20) belts(21) locking(22) up(23) ,(24) the(25) air(26) conditioner(27) not(28) working(29) correctly(30) ,(31) and(32) the(33) tape(34) player(35) breaking(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			There(1) 's(2) been(3) other(4) ,(5) very(6) expensive(7) things(8) that(9) we(10) 've(11) had(12) repaired(13) ,(14) but(15) there(16) are(17) too(18) many(19) to(20) remember(21) them(22) all(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			Anyway(1) ,(2) my(3) point(4) to(5) this(6) review(7) is(8) ,(9) I(10) guess(11) ,(12) just(13) be(14) careful(15) when(16) you(17) go(18) buy(19) a(20) Honda(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Make(1) sure(2) that(3) it(4) is(5) a(6) well(7) respected(8) dealership(9) that(10) will(11) not(12) screw(13) you(14) over(15) ,(16) make(17) sure(18) that(19) the(20) car(21) is(22) almost(23) perfect(24) in(25) its(26) performance(27) and(28) its(29) features(30) -(31) there(32) 's(33) nothing(34) wrong(35) with(36) being(37) really(38) picky(39) when(40) you(41) 're(42) checking(43) a(44) car(45) out(46) ,(47) and(48) make(49) sure(50) that(51) if(52) it(53) is(54) a(55) used(56) car(57) ,(58) that(59) you(60) find(61) out(62) about(63) the(64) car(65) 's(66) total(67) history(68) ,(69) like(70) who(71) owned(72) it(73) and(74) for(75) how(76) long(77) and(78) how(79) many(80) wrecks(81) had(82) it(83) been(84) in(85) and(86) what(87) kinds(88) of(89) things(90) were(91) repaired(92) before(93) ,(94) ect(95) .(96) 
+		</sentence>
+		<sentence id="18">
+			Overall(1) ,(2) I(3) hope(4) that(5) this(6) review(7) did(8) not(9) appear(10) pessimistic(11) towards(12) Honda(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			I(1) do(2) have(3) a(4) great(5) deal(6) of(7) respect(8) for(9) the(10) company(11) -(12) they(13) make(14) the(15) best(16) cars(17) ((18) including(19) Acura(20) ,(21) of(22) course(23) )(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="20">
+			No(1) other(2) car(3) can(4) compare(5) to(6) how(7) long(8) these(9) things(10) will(11) last(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Also(1) ,(2) the(3) price(4) is(5) totally(6) reasonable(7) for(8) what(9) you(10) 're(11) getting(12) !(13) 
+			<opinion polarity="+" feature="price" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="918" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) love-hate(2) relationship(3) with(4) my(5) Beetle(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Its(1) good(2) looks(3) go(4) a(5) long(6) way(7) .(8) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) city(2) car(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lots(1) of(2) little(3) things(4) have(5) gone(6) wrong(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) service(2) from(3) local(4) dealers(5) .(6) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) cute(4) ,(5) go(6) Beetle(7) .(8) 
+			<opinion polarity="+" feature="design" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) no(4) hassles(5) ,(6) go(7) elsewhere(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) bought(3) this(4) car(5) ,(6) I(7) said(8) to(9) my(10) husband(11) that(12) it(13) was(14) the(15) one(16) time(17) in(18) my(19) life(20) I(21) was(22) going(23) to(24) depart(25) from(26) Honda(27) to(28) buy(29) a(30) zippy(31) ,(32) cute(33) ,(34) sporty(35) car(36) .(37) 
+			<opinion polarity="+" feature="car" featWords="36" opWords="35"/>
+			<opinion polarity="+" feature="design" opWords="33"/>
+			<opinion polarity="+" feature="car" featWords="36" opWords="31"/>
+		</sentence>
+		<sentence id="2">
+			Never(1) a(2) truer(3) statement(4) spoken(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Let(1) me(2) first(3) say(4) that(5) in(6) terms(7) of(8) the(9) bigger(10) picture(11) ,(12) I(13) have(14) not(15) had(16) any(17) major(18) problems(19) with(20) my(21) car(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			It(1) runs(2) well(3) ,(4) and(5) is(6) great(7) for(8) city(9) living(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) small(3) and(4) fits(5) nicely(6) into(7) tight(8) spaces(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="5,6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) pretty(2) blue(3) dash(4) lights(5) and(6) all(7) the(8) bells(9) and(10) whistles(11) are(12) smashy(13) ...(14) BUT(15) ...(16) less(17) than(18) a(19) week(20) after(21) I(22) drove(23) my(24) first(25) new(26) car(27) off(28) of(29) the(30) lot(31) ,(32) little(33) things(34) started(35) going(36) wrong(37) .(38) 
+		</sentence>
+		<sentence id="7">
+			In(1) the(2) first(3) year(4) all(5) of(6) the(7) following(8) occurred(9) ;(10) The(11) windows(12) would(13) go(14) down(15) but(16) not(17) up(18) ,(19) The(20) latch(21) on(22) the(23) console(24) panel(25) between(26) the(27) seats(28) cracked(29) and(30) broke(31) ,(32) The(33) light(34) on(35) the(36) vanity(37) mirror(38) will(39) never(40) turn(41) off(42) ,(43) The(44) panel(45) covering(46) the(47) back(48) seat(49) mechanisms(50) fell(51) off(52) ,(53) the(54) supposedly(55) foolproof(56) plastic(57) bumpers(58) cracked(59) without(60) cause(61) .(62) 
+		</sentence>
+		<sentence id="8">
+			These(1) little(2) niggling(3) things(4) became(5) a_real(6) pain(7) in(8) the(9) neck(10) when(11) I(12) met(13) with(14) the(15) disorder(16) of(17) VW(18) service(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			While(1) most(2) of(3) this(4) was(5) covered(6) under(7) warranty(8) ,(9) parts(10) were(11) ordered(12) and(13) lost(14) or(15) broken(16) on(17) installation(18) or(19) never(20) arrived(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			I(1) tried(2) several(3) different(4) service(5) departments(6) and(7) they(8) all(9) seemed(10) as(11) confused(12) as(13) the(14) next(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Very(1) annoying(2) after(3) a(4) time(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="12">
+			Body(1) work(2) is(3) also(4) a(5) nightmare(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			I(1) put(2) a(3) dent(4) in(5) one(6) of(7) the(8) runners(9) ((10) my(11) fault(12) no_doubt(13) )(14) and(15) was(16) told(17) by(18) the(19) VW(20) dealer(21) that(22) these(23) cars(24) were(25) so(26) expensive(27) and(28) complicated(29) to(30) work(31) on(32) that(33) his(34) crew(35) hated(36) them(37) so(38) he(39) did(40) not(41) need(42) my(43) business(44) .(45) 
+			<opinion polarity="-" feature="price" opWords="27" potency="26"/>
+		</sentence>
+		<sentence id="14">
+			The(1) dent(2) remains(3) .(4) 
+		</sentence>
+		<sentence id="15">
+			On(1) a(2) final(3) note(4) ,(5) my(6) husband(7) now(8) drives(9) my(10) Honda(11) and(12) he(13) has(14) to(15) fill(16) is(17) gas(18) tank(19) half(20) as(21) much(22) as(23) I(24) do(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) want(3) cute(4) ,(5) go(6) Beetle(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) want(3) no(4) hassles(5) ,(6) go(7) elsewhere(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,100(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

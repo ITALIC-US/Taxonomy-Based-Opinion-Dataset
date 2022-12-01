@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="808" item="2002 Porsche Boxster" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) as(2) impressive(3) as(4) other(5) Porsche(6) models(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reasonably(1) inexpensive(2) 
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			impractical(1) design(2) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) suggest(3) other(4) Porsche(5) models(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) not(3) like(4) the(5) positioning(6) of(7) the(8) engine(9) ,(10) nor(11) was(12) I(13) impressed(14) by(15) the(16) trunk(17) size(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) owned(3) quite(4) a(5) fews(6) Porsche(7) 's(8) over(9) the(10) years(11) starting(12) with(13) a(14) 924...then(15) upgraded(16) to(17) the(18) 944(19) and(20) then(21) a(22) 911(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			All(1) of(2) them(3) were(4) great(5) cars(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) loved(2) the(3) sleek(4) lines(5) and(6) the(7) way(8) all(9) of(10) those(11) cars(12) just(13) hugged(14) the(15) road(16) !(17) !(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) then(2) at(3) some(4) point(5) in(6) my(7) life(8) said(9) "(10) self(11) ...(12) it(13) 's(14) time(15) you(16) became(17) more(18) practical(19) ....(20) it(21) 's(22) difficult(23) hauling(24) kids(25) around(26) in(27) a(28) Porsche(29) ...(30) but(31) it(32) was(33) a(34) good(35) way(36) to(37) get(38) out(39) of(40) car(41) pooling(42) .(43) .(44) LOL(45) )(46) I(47) then(48) got(49) a(50) Lexus(51) 400LS(52) .(53) Very(54) nice(55) car(56) and(57) I(58) could(59) tell(60) you(61) a_million(62) great(63) things(64) about(65) it(66) ,(67) but(68) wont(69) '(70) bore(71) you(72) with(73) that(74) here(75) .(76) Then_I(77) got(78) the(79) Porsche(80) bug(81) again(82) .(83) I(84) went(85) to(86) my(87) local(88) dealer(89) and(90) checked(91) out(92) the(93) Boxster(94) .(95) I(96) 'm(97) sorry(98) ,(99) but(100) maybe(101) this(102) is(103) just(104) a(105) "(106) chick(107) "(108) thing(109) ...(110) but(111) my(112) two(113) major(114) problems(115) with(116) this(117) model(118) were(119) :(120) A._I(121) felt(122) very(123) uncomfortable(124) NOT(125) having(126) an(127) engine(128) in(129) front(130) of(131) me(132) .(133) I(134) was(135) considered(136) that(137) if(138) I(139) ever(140) were(141) in(142) an(143) accident(144) I(145) would(146) get(147) crushed(148) like(149) an(150) accordian(151) .(152) B._Again(153) .(154) .(155) a(156) chick(157) thing(158) ...(159) but(160) when(161) I(162) go(163) grocery(164) shopping(165) I(166) do(167) not(168) want(169) to(170) put(171) some(172) of(173) my(174) groceries(175) in(176) the(177) front(178) trunk(179) and(180) the(181) rest(182) in(183) the(184) back(185) .(186) It(187) just(188) seemed(189) extremely(190) impractical(191) to(192) me(193) .(194) Oh(195) well(196) ,(197) that(198) 's(199) it(200) ....(201) my(202) feelings(203) about(204) the(205) Boxster(206) !(207) !(208) Amount_Paid(209) ((210) US(211) $(212) )(213) :(214) 45,000(215) Condition(216) :(217) UsedModel_Year(218) :(219) 2002(220) 
+			<opinion polarity="-" feature="comfort" opWords="124" potency="123"/>
+			<opinion polarity="+" feature="car" featWords="56" opWords="55"/>
+		</sentence>
+	</text>
+</review>

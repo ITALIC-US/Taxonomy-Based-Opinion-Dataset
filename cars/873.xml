@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="873" item="2001 Mercedes-Benz S-Class" rating="1">
+	<title>
+		<sentence id="1">
+			rolling(1) disaster(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			rides(1) nice(2) .(3) 
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Love(1) the(2) body(3) style(4) much(5) more(6) than(7) the(8) newer(9) model(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="3,4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hate(1) the(2) constant(3) visits(4) to(5) the(6) shop(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) new(5) in_2001(6) because(7) I(8) loved(9) the(10) body(11) style(12) ,(13) loved(14) the(15) ride(16) ,(17) and(18) justified(19) the(20) price(21) on(22) the(23) grounds(24) that(25) I(26) would(27) be(28) keeping(29) this(30) car(31) for(32) a(33) decade(34) .(35) 
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="14"/>
+			<opinion polarity="+" feature="design" featWords="11,12" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) out(3) of(4) warranty(5) in(6) a(7) few(8) months(9) ,(10) and(11) I(12) 'm(13) ditching(14) it(15) before(16) that(17) point(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) has(3) been(4) in(5) and(6) out(7) of(8) the(9) shop(10) every(11) few(12) weeks(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			ECU(1) replaced(2) ,(3) vacuum(4) controller(5) replaced(6) ((7) opened(8) all(9) doors(10) and(11) sunroof(12) in(13) the(14) middle(15) of(16) a(17) thunderstorm(18) )(19) ,(20) catalytic(21) converter(22) replaced(23) ,(24) steering(25) rack(26) replaced(27) ,(28) door(29) regulator(30) replaced(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			And(1) that(2) 's(3) just(4) the(5) major(6) stuff(7) over(8) the(9) last(10) four(11) months(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 47000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

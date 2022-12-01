@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="497" item="2000 Lincoln Navigator" rating="2">
+	<title>
+		<sentence id="1">
+			TOO(1) big(2) 
+			<opinion polarity="-" feature="size" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			MUCH(1) TOO_BIG(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) short(2) ,(3) the(4) Navigator(5) is(6) a(7) very(8) comfortable(9) vehicle(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="2">
+			All(1) Lincolns(2) are(3) ,(4) as(5) a(6) matter(7) of(8) fact(9) ,(10) though(11) I(12) will(13) say(14) that(15) it(16) 's(17) not(18) nearly(19) as(20) roomy(21) inside(22) as(23) I(24) thought(25) it(26) would(27) be(28) ,(29) considering(30) its(31) size(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			But(1) when(2) it(3) comes(4) down(5) to(6) being(7) driven(8) ,(9) the(10) Navigator(11) is(12) a(13) nightmare(14) ,(15) simply(16) because(17) it(18) is(19) so(20) large(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Yes(1) ,(2) it(3) has(4) good(5) visibility(6) ,(7) and(8) the(9) controls(10) are(11) fine(12) .(13) 
+			<opinion polarity="+" feature="controls" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="visibility" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) thing(3) is(4) like(5) a(6) barge(7) !(8) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) so(3) wide(4) that(5) it(6) does(7) not(8) fit(9) well(10) on(11) most(12) roads(13) ((14) yes(15) ,(16) it(17) fits(18) ,(19) but(20) it(21) 's(22) takes(23) up(24) too(25) much(26) of(27) the(28) lane(29) to(30) be(31) safe(32) )(33) ,(34) and(35) parking(36) the(37) beast(38) is(39) awful(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) ,(2) I(3) would(4) say(5) that(6) if(7) you(8) want(9) a(10) luxury(11) vehicle(12) ,(13) than(14) a(15) Lincoln(16) is(17) fine(18) ,(19) but(20) if(21) you(22) want(23) an(24) SUV(25) ,(26) get(27) something(28) practical(29) like(30) a(31) Jeep(32) or(33) an(34) Explorer(35) .(36) 
+			<opinion polarity="+" feature="car" opWords="29"/>
+		</sentence>
+	</text>
+</review>

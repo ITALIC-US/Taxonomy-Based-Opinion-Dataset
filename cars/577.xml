@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="577" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			drives(1) nicely(2) but(3) interior(4) lacking(5) 
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			powertrain(1) and(2) suspension(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			odd(1) interior(2) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Every(1) 4(2) years(3) I(4) get(5) to(6) choose(7) a(8) new(9) company(10) car(11) :(12) must(13) be(14) 4(15) drs(16) 6(17) cyl(18) midsize(19) or(20) larger(21) and(22) domestic(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			My(1) allowance(2) is(3) $23425(4) plus(5) tax(6) and(7) tags(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) looked(2) carefully(3) at(4) Olds_Intrigue_Chevy_Impala(5) and(6) Dodge_Intrepid(7) and(8) also(9) drove(10) the(11) new(12) Taurus(13) and(14) Sable(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) Impala(2) is(3) a(4) decent(5) sized(6) car(7) with(8) a(9) smooth(10) and(11) powerful(12) drivetrain(13) ...(14) It(15) reminds(16) just(17) how(18) far(19) cars(20) have(21) come(22) since(23) the(24) rotten(25) '(26) 70(27) 's(28) .(29) 
+			<opinion polarity="+" feature="drive" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="drive" featWords="13" opWords="10"/>
+			<opinion polarity="+" feature="size" opWords="5,6"/>
+		</sentence>
+		<sentence id="5">
+			I(1) concentrated(2) on(3) the(4) LS(5) although(6) some(7) dealers(8) have(9) been(10) ordering(11) base(12) models(13) and(14) building(15) them(16) up(17) with(18) the(19) 3.8(20) engine(21) ((22) which(23) gets(24) you(25) most(26) of(27) the(28) LS(29) engineering(30) goodies(31) but(32) eliminates(33) things(34) like(35) the(36) stupid(37) spoiler(38) .(39) The(40) car(41) goes(42) and(43) stops(44) well(45) and(46) if(47) the(48) dealer(49) will(50) let(51) you(52) actually(53) drive(54) it(55) ,(56) ((57) most(58) seem(59) to(60) want(61) you(62) to(63) do(64) little-old-man-around-the(65) -(66) block(67) tours(68) )(69) you(70) will(71) be(72) impressed(73) .(74) 
+		</sentence>
+		<sentence id="6">
+			Problem(1) is(2) the(3) interior(4) -(5) while(6) the(7) seats(8) in(9) front(10) feel(11) comfortable(12) the(13) leather(14) seats(15) look(16) low(17) end(18) plus(19) the(20) dash(21) is(22) best(23) described(24) as(25) '(26) chaotic(27) '(28) -(29) Trunk(30) 's(31) big(32) but(33) not(34) overwhelming(35) .(36) 
+			<opinion polarity="-" feature="trunk" featWords="30" opWords="34,35"/>
+			<opinion polarity="+" feature="trunk" featWords="30" opWords="32"/>
+			<opinion polarity="-" feature="dash" featWords="21" opWords="27"/>
+		</sentence>
+		<sentence id="7">
+			After(1) reading(2) reviews(3) on(4) the(5) car(6) ,(7) somewhat(8) disappointed(9) and(10) just(11) not(12) the(13) car(14) for(15) me(16) -(17) so(18) I(19) bought(20) an(21) Intrepid(22) .(23) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			In(1) a(2) year(3) or(4) two(5) when(6) GM(7) gets(8) the(9) interior(10) sorted(11) out(12) and(13) polishes(14) this(15) car(16) a_bit(17) I(18) suspect(19) it(20) will(21) be(22) a(23) very(24) good(25) car-and(26) ps(27) -(28) GM(29) ,(30) why(31) do(32) not(33) you(34) folks(35) make(36) it(37) into(38) the(39) last(40) american(41) full(42) size(43) station(44) wagon(45) ?(46) 
+		</sentence>
+	</text>
+</review>

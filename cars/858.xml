@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="858" item="2000 Honda CR-V" rating="1">
+	<title>
+		<sentence id="1">
+			Why(1) is(2) the(3) CR-V(4) at(5) the(6) top(7) of(8) its(9) class(10) ?(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sporty(1) exterior(2) ((3) hahaha(4) )(5) 
+			<opinion polarity="+" feature="exterior" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a_lot(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Guess(1) what(2) ,(3) the(4) CR-V(5) is(6) not(7) at(8) the(9) top(10) of(11) any(12) class(13) ;(14) it(15) sucks(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) dated(2) this(3) girl(4) for(5) a(6) while(7) who(8) drove(9) one(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			You(1) know(2) what(3) ,(4) it(5) was(6) cool(7) if(8) you(9) like(10) space(11) ships(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) ,(4) if(5) you(6) 're(7) in(8) the(9) mood(10) to(11) buy(12) an(13) SUV(14) ,(15) why(16) would(17) you(18) buy(19) a(20) Japaneese(21) one(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			I(1) mean(2) come(3) on(4) ,(5) when(6) you(7) think(8) off-road(9) ,(10) you(11) think(12) American(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			CR-V(1) 's(2) will(3) get(4) you(5) nowhere(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			There(1) 's(2) no(3) power(4) ,(5) a(6) crappy(7) sound(8) system(9) ,(10) and(11) a_lot_of(12) "(13) no(14) upgrades(15) "(16) unless(17) you(18) plan(19) to(20) shell(21) out(22) at_least(23) 3(24) more(25) thousand(26) dollars(27) .(28) 
+			<opinion polarity="-" feature="sound system" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) CR-V(2) is(3) not(4) good(5) for(6) anything(7) .(8) 
+			<opinion polarity="-" feature="engine" opWords="4,5"/>
+		</sentence>
+		<sentence id="9">
+			Now(1) ,(2) do(3) not(4) get(5) me(6) wrong(7) ,(8) there(9) 's(10) lots(11) of(12) head(13) room(14) and(15) space(16) about(17) the(18) trunk(19) ,(20) but(21) come(22) on(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			Anyways(1) ,(2) you(3) should(4) definitely(5) think(6) before(7) you(8) buy(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			Just(1) save(2) the(3) money(4) and(5) wait(6) until(7) you(8) can(9) get(10) something(11) tougher(12) .(13) 
+		</sentence>
+	</text>
+</review>

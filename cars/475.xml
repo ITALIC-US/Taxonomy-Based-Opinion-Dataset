@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="475" item="2001 Ford F150 Styleside SuperCrew" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) YOU_WANT_A_TRUCK(2) ,(3) OR_A_VAN(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Carry(1) 's(2) lots(3) of(4) people(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor_Gas_Milage(1) ,(2) Small(3) bed(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Wake(1) up(2) America(3) ,(4) trucks(5) are(6) trucks(7) ,(8) they(9) are(10) not(11) passenger(12) vehicles(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			We(1) 've(2) been(3) fooled(4) by(5) advertisements(6) ,(7) a(8) truck(9) is(10) for(11) hauling(12) cargo(13) ,(14) towing(15) trailers(16) ,(17) not(18) for(19) carrying(20) passengers(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			Now(1) we(2) 've(3) come(4) to(5) a(6) full(7) head(8) ,(9) a(10) truck(11) with(12) four(13) doors(14) that(15) people(16) by(17) to(18) haul(19) their(20) families(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Pay(1) attention(2) ,(3) trucks(4) get(5) very(6) poor(7) gas(8) milage(9) ,(10) and(11) this(12) truck(13) is(14) a_real(15) hog(16) .(17) 
+			<opinion polarity="-" feature="gas" featWords="8,9" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="5">
+			If(1) your(2) buying(3) a(4) truck(5) because(6) they(7) are(8) cool(9) ,(10) and(11) you(12) really(13) only(14) want(15) to(16) haul(17) the(18) kids(19) ,(20) do(21) not(22) ,(23) just(24) get(25) a(26) van(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			Trucks(1) do(2) not(3) really(4) handle(5) well(6) ,(7) the(8) tailbed(9) makes(10) them(11) dangerous(12) in(13) the(14) rain(15) and(16) snow(17) ,(18) and(19) I(20) can(21) see(22) mom(23) hauling(24) ass(25) down(26) a(27) dirt(28) road(29) only(30) to(31) find(32) out(33) that(34) the(35) tail(36) end(37) wants(38) to(39) come(40) around(41) on(42) you(43) .(44) 
+			<opinion polarity="-" feature="handling" opWords="3,5,6"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) really(3) are(4) buying(5) a(6) truck(7) because(8) you(9) have(10) a(11) family(12) ,(13) and(14) your(15) goig(16) to(17) be(18) hauling(19) stuff(20) ,(21) then(22) this(23) truck(24) makes(25) very(26) little(27) sense(28) also(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			The(1) short(2) tailbed(3) is(4) to(5) small(6) to(7) carry(8) any(9) size(10) load(11) ,(12) and(13) the(14) MPG(15) while(16) hauling(17) is(18) terrible(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			This(1) truck(2) already(3) weights(4) more(5) than(6) any(7) other(8) truck(9) on(10) the(11) road(12) ,(13) combine(14) that(15) with(16) the(17) weight(18) of(19) a(20) trailer(21) and(22) your(23) looking(24) at(25) 11MPG(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			Wow(1) ,(2) that(3) 's(4) bad(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Can(1) you(2) imagine(3) pulling(4) your(5) family(6) camper(7) on(8) a(9) long(10) haul(11) at(12) 11MPG(13) !(14) ?(15) 
+		</sentence>
+		<sentence id="12">
+			The(1) back(2) seat(3) on(4) this(5) model(6) does(7) not(8) really(9) give(10) you(11) much(12) more(13) room(14) than(15) a(16) extended(17) cab(18) on(19) any(20) other(21) full(22) size(23) brand(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			It(1) just(2) looks(3) cool(4) .(5) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="14">
+			Cool(1) does(2) not(3) get(4) you(5) and(6) your(7) load(8) down(9) the(10) road(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			Look(1) for(2) a_real(3) truck(4) ,(5) pay(6) attention(7) to(8) the(9) load(10) limits(11) ,(12) and(13) the(14) fuel(15) efficiency(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			Look(1) at(2) the(3) other(4) letters(5) from(6) these(7) readers(8) ,(9) 11MPG(10) is(11) bad(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) want(3) a(4) luxury(5) truck(6) ((7) what(8) ever(9) that(10) is(11) )(12) ,(13) get(14) a(15) Silverado(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			They(1) have(2) been(3) the(4) top(5) of(6) the(7) line(8) forever(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) want(3) to(4) haul(5) stuff(6) ,(7) look(8) at(9) the(10) extended(11) cab(12) Dodge(13) and(14) Silverado(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) want(3) to(4) look(5) cool(6) hauling(7) your(8) family(9) ,(10) get(11) a(12) van(13) .(14) ((15) If(16) that(17) 's(18) cool(19) ?(20) )(21) If(22) you(23) just(24) want(25) a(26) truck(27) because(28) everyone(29) else(30) has(31) one(32) ,(33) think(34) again(35) .(36) 
+		</sentence>
+		<sentence id="21">
+			They(1) are(2) expensive(3) to(4) operate(5) ,(6) not(7) a(8) safe(9) a(10) passenger(11) vehicles(12) ,(13) and(14) the(15) insurance(16) is(17) way(18) up(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			Is(1) it(2) really(3) worth(4) paying(5) a(6) much(7) for(8) your(9) truck(10) as(11) some(12) people(13) pay(14) a(15) month(16) for(17) their(18) house(19) ?(20) 
+		</sentence>
+		<sentence id="23">
+			Really(1) look(2) around(3) .(4) 
+		</sentence>
+	</text>
+</review>

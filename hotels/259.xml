@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="259" item="Fairfield Inn by Marriott Anaheim Disneyland" rating="4">
+	<title>
+		<sentence id="1">
+			Not(1) a(2) Disneyland_Hotel(3) but(4) we(5) did(6) not(7) mind(8) ...(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Across(1) the(2) street(3) from(4) Disneyland(5) ,(6) Clean(7) and(8) friendly(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			the(1) first(2) floor(3) can(4) be(5) loud(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) beds(2) were(3) comfortable(4) ,(5) they(6) give(7) you(8) lots(9) of(10) pillows(11) and(12) Mickey_Mouse(13) is(14) across(15) the(16) street(17) .(18) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			What(1) else(2) can(3) I(4) say(5) ?(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well_Spring_Break(1) isn(2) t(3) officially(4) over(5) but(6) I(7) am(8) just(9) about(10) out(11) of(12) energy(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			We(1) recently(2) returned(3) from(4) what(5) was(6) supposed(7) to(8) be(9) 3(10) days(11) at(12) Disneyland(13) but(14) only(15) got(16) 2(17) since(18) we(19) were(20) bumped(21) from(22) our(23) flight(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			Okay(1) ,(2) let(3) me(4) stop(5) venting(6) or(7) I(8) will(9) never(10) get(11) to(12) my(13) review(14) of(15) the(16) Fairfield_Inn_Anaheim(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) purchased(2) a(3) package(4) vacation(5) from(6) Disneyland(7) .(8) com(9) back(10) in(11) January(12) and(13) I(14) got(15) to(16) pick(17) the(18) hotel(19) we(20) stayed(21) at(22) and(23) I(24) chose(25) the(26) Fairfield_Inn_Anaheim(27) mainly(28) because_of(29) its(30) location(31) which(32) is(33) directly(34) across(35) the(36) street(37) from(38) Disneyland(39) in(40) California(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			I(1) did(2) not(3) want(4) the(5) hassle(6) of(7) dragging(8) my(9) body(10) along_with(11) grandma(12) and(13) two(14) kids(15) on(16) shuttles(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Walking(1) a(2) short(3) distance(4) just(5) seemed(6) so(7) much(8) easier(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) wasn(2) t(3) sure(4) what(5) to(6) expect(7) other(8) then(9) what(10) I(11) read(12) on(13) their(14) website(15) and(16) I(17) found(18) the(19) Inn(20) consist(21) of(22) 9(23) floors(24) with(25) 467(26) rooms(27) and(28) here(29) is(30) a(31) breakdown(32) of(33) their(34) amenities(35) .(36) .(37) ~(38) ~(39) Complimentary(40) parking(41) ~(42) ~(43) Wireless_Internet(44) ~(45) ~(46) Single_Coffee(47) pot(48) ~(49) ~(50) Ironing_Boards(51) ~(52) ~(53) Small(54) fridge(55) ~(56) ~(57) Cable_TV(58) with(59) HBO(60) ~(61) ~(62) Air(63) conditioner(64) ~(65) ~(66) Alarm_Clock(67) ~(68) ~(69) Hair(70) dryer(71) ~(72) ~(73) Kids(74) eat(75) free(76) at(77) Millie(78) s(79) restaurant(80) with(81) adult(82) purchase(83) which(84) is(85) right(86) next(87) door(88) ~(89) ~(90) ATM(91) on(92) location(93) ~(94) ~(95) Mini(96) marts(97) in(98) the(99) lobby(100) ((101) that(102) don(103) t(104) stock(105) kid(106) s(107) medicine(108) so(109) bring(110) your(111) own(112) )(113) ~(114) ~(115) Daily_USA(116) today(117) delivery(118) to(119) your(120) room(121) ~(122) ~(123) On(124) site(125) laundry(126) mat(127) ~(128) ~(129) Pets(130) not(131) allowed(132) There(133) is(134) also(135) what(136) I(137) believe(138) is(139) a(140) heated(141) pool(142) because(143) I(144) just(145) couldn(146) t(147) see(148) all(149) those(150) kids(151) swimming(152) in(153) an(154) outdoor(155) pool(156) in(157) that(158) cool(159) weather(160) without(161) any(162) type(163) of(164) heat(165) .(166) 
+		</sentence>
+		<sentence id="8">
+			Now(1) we(2) ended(3) up(4) getting(5) in(6) much(7) later(8) then(9) expected(10) and(11) were(12) extremely(13) tired(14) and(15) of(16) course(17) with(18) the(19) luck(20) we(21) were(22) having(23) our(24) room(25) was(26) on(27) the(28) first(29) floor(30) almost(31) directly(32) in(33) front(34) of(35) the(36) pool(37) ,(38) which(39) always(40) had(41) kids(42) in(43) it(44) so(45) we(46) were(47) able(48) to(49) hear(50) a_lot_of(51) outside(52) noise(53) until(54) we(55) kicked(56) in(57) the(58) air(59) condition(60) and(61) that(62) pretty(63) much(64) drowned(65) it(66) out(67) .(68) 
+		</sentence>
+		<sentence id="9">
+			I(1) thought(2) my(3) bed(4) was(5) extremely(6) comfortable(7) and(8) I(9) loved(10) the(11) fact(12) that(13) each(14) bed(15) had(16) a(17) 5(18) pillows(19) even_though(20) I(21) hate(22) down(23) pillows(24) it(25) was(26) nice(27) to(28) have(29) more(30) then(31) 2(32) without(33) asking(34) for(35) them(36) .(37) 
+			<opinion polarity="+" feature="bed" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			Our(1) room(2) consisted(3) of(4) two(5) queen(6) size(7) bed(8) and(9) single(10) sofa(11) bed(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			The(1) furnishings(2) in(3) the(4) room(5) looked(6) all(7) relatively(8) new(9) ,(10) nothing(11) appeared(12) to(13) be(14) worn(15) down(16) at(17) all(18) .(19) 
+			<opinion polarity="+" feature="furnishings" featWords="2" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="12">
+			The(1) decor(2) was(3) all(4) Disney(5) themed(6) which(7) I(8) just(9) loved(10) and(11) over(12) all(13) it(14) was(15) clean(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			We(1) did(2) not(3) deal(4) with(5) much(6) of(7) the(8) staff(9) but(10) those(11) that(12) we(13) had(14) interacted(15) with(16) were(17) all(18) pretty(19) pleasant(20) .(21) 
+			<opinion polarity="+" feature="staff" featWords="9" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="14">
+			I(1) only(2) heard(3) our(4) neighbors(5) the(6) first(7) night(8) there(9) and(10) after(11) that(12) not(13) a(14) peep(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Housekeeping(1) did(2) a(3) good(4) job(5) keeping(6) our(7) room(8) tidy(9) and(10) the(11) only(12) thing(13) I(14) had(15) to(16) request(17) was(18) an(19) extra(20) trashcan(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			We(1) only(2) had(3) one(4) in(5) a(6) room(7) that(8) could(9) hold(10) 5(11) people(12) .(13) .(14) the(15) bathroom(16) didn(17) t(18) have(19) one(20) and(21) those(22) of(23) you(24) with(25) kids(26) know(27) that(28) one(29) trashcan(30) ain(31) t(32) going(33) to(34) work(35) .(36) 
+		</sentence>
+		<sentence id="17">
+			We(1) purchased(2) food(3) as(4) part(5) of(6) our(7) Disney(8) package(9) so(10) we(11) didn(12) t(13) get(14) a(15) chance(16) to(17) eat(18) at(19) the(20) neighboring(21) restaurants(22) but(23) there(24) are(25) a(26) few(27) within(28) walking(29) distance(30) .(31) 
+		</sentence>
+		<sentence id="18">
+			There(1) was(2) Millie(3) s(4) which(5) offered(6) a(7) special(8) for(9) the(10) Fairfield(11) guest(12) ,(13) McDonald(14) s(15) was(16) right(17) next(18) door(19) and(20) there(21) was(22) a(23) Denny(24) s(25) not(26) to(27) far(28) away(29) either(30) .(31) 
+		</sentence>
+		<sentence id="19">
+			For(1) those(2) considering(3) staying(4) at(5) the(6) Fairfield_Inn_Anaheim(7) because(8) Disneyland(9) is(10) across(11) the(12) street(13) there(14) is(15) still(16) a(17) small(18) walk(19) to(20) the(21) crosswalk(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			I(1) would(2) say(3) it(4) took(5) maybe(6) 10(7) minutes(8) from(9) our(10) room(11) to(12) the(13) gates(14) of(15) Disney(16) depending(17) on(18) the(19) lights(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			One(1) advantage(2) is(3) the(4) fireworks(5) .(6) .(7) you(8) do(9) not(10) have(11) to(12) stay(13) at(14) Disney(15) all(16) night(17) ,(18) we(19) were(20) able(21) to(22) walk(23) to(24) the(25) front(26) of(27) Millie(28) 's(29) and(30) watch(31) the(32) show(33) from(34) there(35) .(36) 
+		</sentence>
+		<sentence id="22">
+			Overall_I(1) was(2) very(3) pleased(4) with(5) our(6) stay(7) at(8) this(9) hotel(10) and(11) would(12) definitely(13) considering(14) staying(15) there(16) again(17) on(18) our(19) next(20) trip(21) to(22) Disneyland_Oh(23) about(24) rates(25) .(26) .(27) since(28) this(29) was(30) a(31) package(32) deal(33) I(34) really(35) have(36) no(37) idea(38) what(39) we(40) paid(41) for(42) the(43) rooms(44) so(45) I(46) did(47) a(48) quick(49) visit(50) to(51) their(52) website(53) and(54) our(55) room(56) during(57) a(58) weekday(59) would(60) run(61) for(62) about(63) $154.00(64) a(65) night(66) .(67) 
+		</sentence>
+		<sentence id="23">
+			For(1) more(2) info(3) visit(4) their(5) website(6) .(7) .(8) http://marriott.com/property/propertypage/LAXOC(9) 
+		</sentence>
+	</text>
+</review>

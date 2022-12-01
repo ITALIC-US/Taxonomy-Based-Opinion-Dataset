@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="382" item="Logitech (980415) Consumer Wireless Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			THESE(1) SNAP(2) !(3) !(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			they(1) are(2) wireless(3) so(4) therefore(5) in(6) some(7) way(8) cool(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			these(1) snap(2) !(3) do(4) not(5) buy(6) them(7) !(8) 
+			<opinion polarity="-" feature="headphones" featWords="7" featRef="headphones" opWords="5,6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) read(2) reviews(3) before(4) that(5) said(6) these(7) headphones(8) snap(9) down(10) the(11) middle(12) but(13) I(14) figured(15) these(16) people(17) had(18) large(19) heads(20) /(21) were(22) not(23) careful(24) ,(25) etc.(26) THAT(27) IS_NOT_TRUE(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) very(3) careful(4) with(5) these(6) headphones(7) and(8) one(9) day(10) I(11) noticed(12) they(13) were(14) way(15) too(16) loose(17) .(18) 
+			<opinion polarity="-" feature="comfort" opWords="16,17" potency="15"/>
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) took(3) them(4) off(5) and(6) noticed(7) that(8) they(9) were(10) started(11) to(12) snap(13) down(14) the(15) middle(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) glued(2) them(3) with(4) super(5) glue(6) but(7) that(8) wore(9) away(10) and(11) they(12) stopped(13) working(14) all(15) together(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) tried(2) regluing(3) them(4) but(5) they(6) are(7) very(8) fragile(9) now(10) and(11) now(12) much(13) use(14) to(15) me(16) since(17) I(18) wear(19) them(20) while(21) working(22) out(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			These(1) are(2) WAY(3) too(4) expensive(5) to(6) have(7) such(8) a(9) major(10) defect(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="4,5" potency="3"/>
+		</sentence>
+		<sentence id="7">
+			BUYER_BEWARE(1) !(2) !(3) !(4) 
+		</sentence>
+	</text>
+</review>

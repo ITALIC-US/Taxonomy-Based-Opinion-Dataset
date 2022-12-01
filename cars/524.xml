@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="524" item="1994 Acura Integra" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) really(2) a(3) sporty(4) car(5) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="1,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Body(1) stle(2) ,(3) Reliability(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weak(1) torque(2) drive(3) ,(4) slow(5) acceleration(6) off(7) the(8) line(9) ((10) all(11) models(12) )(13) ,(14) wind(15) noise(16) ,(17) Handling(18) 
+			<opinion polarity="-" feature="acceleration" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="torque" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) is(3) great(4) for(5) teens(6) or(7) for(8) somebody(9) who(10) wants(11) a(12) small(13) car(14) ,(15) but(16) when(17) push(18) comes(19) to(20) shove(21) this(22) car(23) definetly(24) lacks(25) punch(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			For(1) starters(2) ,(3) the(4) integra(5) is(6) known(7) for(8) its(9) reliability(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) drive(3) quite(4) rough(5) and(6) also(7) does(8) not(9) accelerate(10) quickly(11) off(12) the(13) line(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) believe(2) this(3) is(4) do(5) to(6) the(7) low(8) torque(9) produced(10) by(11) this(12) weak(13) 4-cylinder(14) .(15) 
+			<opinion polarity="-" feature="torque" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="4">
+			It(1) only(2) produces(3) about(4) 128lbs(5) of(6) torque(7) @(8) 4400(9) rpms(10) ;(11) the(12) funny(13) thing(14) is(15) that(16) it(17) produces(18) 170hp(19) ((20) GS_R(21) )(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Usually(1) most(2) cars(3) have(4) a(5) relatively(6) similar(7) Hp(8) and(9) Torque(10) displacements(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) own(4) this(5) car(6) but(7) i(8) have(9) recently(10) driven(11) a(12) friend(13) 's(14) car(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			I(1) own(2) a(3) Lexus(4) Sc300(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Both(1) of(2) those(3) cars(4) are(5) not(6) in(7) the(8) same(9) class(10) ,(11) but(12) to(13) be(14) honest(15) there(16) is(17) no(18) comparison(19) at(20) all(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			For(1) some(2) reason(3) the(4) car(5) mags(6) state(7) that(8) my(9) car(10) does(11) 0-60(12) in(13) 6.5(14) to(15) 7.0(16) and(17) the(18) integra(19) 7.0-7.5(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			As(1) one_may(2) see(3) that(4) is(5) not(6) a(7) huge(8) difference(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			One(1) day(2) my(3) friend(4) and(5) I(6) decided(7) to(8) race(9) at(10) a(11) stop(12) light(13) ((14) standing(15) still(16) to(17) 60mph(18) )(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			First(1) off(2) I(3) was(4) doing(5) 30mph(6) in(7) about(8) 1-2(9) sec(10) and(11) he(12) was(13) about(14) 1(15) cars(16) lengths(17) behind(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			He(1) began(2) to(3) catch(4) up(5) but(6) when(7) I(8) placed(9) it(10) in(11) to(12) 2nd(13) gear(14) he(15) was(16) toasted(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			His(1) car(2) is(3) quite(4) quick(5) but(6) not(7) and(8) stand(9) still(10) only(11) from(12) about(13) 40(14) on(15) ,(16) the(17) torque(18) has(19) a(20) major(21) effect(22) on(23) the(24) take(25) off(26) of(27) the(28) vehicle(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			While(1) drivng(2) this(3) car(4) it(5) was(6) quite(7) noisy(8) ,(9) I(10) guess(11) a(12) was(13) just(14) used(15) to(16) my(17) smoooth(18) and(19) athletic(20) V6(21) ,(22) but(23) the(24) integra(25) made(26) quite(27) a(28) raucous(29) .(30) 
+			<opinion polarity="+" feature="engine" opWords="20"/>
+			<opinion polarity="+" feature="engine" opWords="18"/>
+			<opinion polarity="-" feature="car" featWords="4" opWords="8"/>
+		</sentence>
+		<sentence id="16">
+			It(1) did(2) not(3) handle(4) quite(5) like(6) i(7) expected(8) for(9) being(10) a(11) light(12) and(13) small(14) car(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			I(1) am(2) a(3) true(4) foriegn(5) car(6) freak(7) ,(8) but(9) for(10) some(11) reason(12) I(13) just(14) do(15) not(16) like(17) this(18) one(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			If(1) one(2) is(3) look(4) for(5) athletics(6) ,(7) punch(8) ,(9) smooth(10) ,(11) refinement(12) ,(13) go(14) for(15) cars(16) like(17) BMW(18) ,(19) LeXus(20) ,(21) Audi(22) ,(23) And(24) maybe(25) and(26) infiniti(27) .(28) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="19">
+			The(1) reason(2) why(3) I(4) have(5) written(6) this(7) opinion(8) is(9) to(10) not(11) always(12) follow(13) car(14) mags(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Some(1) cars(2) are(3) more(4) favorable(5) then(6) others(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Condition(1) :(2) UsedModel_Year(3) :(4) 1994Model(5) and(6) Options(7) :(8) GS-R(9) premium(10) package(11) 
+		</sentence>
+	</text>
+</review>

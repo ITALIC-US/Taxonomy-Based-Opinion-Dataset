@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="970" item="Four Points by Sheraton Destin-Fort Walton Beach" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) for(2) a(3) family(4) vacation(5) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) staff(2) ,(3) great(4) service(5) ,(6) beautiful(7) views(8) ,(9) 
+			<opinion polarity="+" feature="view" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="service" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) ,(2) the(3) breakfast(4) buffet(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) place(3) to(4) stay(5) with(6) the(7) family(8) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) staying(2) at(3) the(4) Sheraton(5) in(6) Tacoma(7) ,(8) Washington(9) ,(10) my(11) husband(12) and(13) I(14) fell(15) in(16) love(17) with(18) the(19) Sheraton(20) quality(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			When(1) we(2) moved(3) to(4) Florida(5) we(6) immediately(7) started(8) looking(9) for(10) a(11) local(12) Sheraton(13) to(14) use(15) as(16) our(17) private(18) little(19) getaway(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			The(1) closest(2) one(3) we(4) could(5) find(6) was(7) Four(8) Points(9) by(10) Sheraton(11) in(12) Destin-Fort_Walton_Beach_Florida(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			A(1) little(2) information(3) about(4) the(5) hotel(6) Four(7) Points(8) by(9) Sheraton(10) is(11) located(12) on(13) highway(14) 98(15) approximately(16) 65_miles(17) from(18) Panama_City(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			This(1) Four(2) Points(3) by(4) Sheraton(5) occupies(6) 9_acres(7) of(8) white(9) sandy(10) beach(11) front(12) property(13) overlooking(14) the(15) Gulf_of_Mexico(16) waters(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) several(3) area(4) attractions(5) within(6) walking(7) distance(8) to(9) enjoy(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			GUEST_ROOMS_&_AMENITIES_Beach_View_Rooms_Available(1) poolside(2) Rooms_Available_Refrigerator_Microwave_Oven_Suites_Available_Private_Balcony(3) or(4) Patio_Honeymoon(5) suites(6) available(7) fitness(8) facility(9) HOTEL_SERVICES_Beach_Access_Children_'s_Playground_Business_Services_Fitness_Facility_Room_Service_RESTAURANTS_&_LOUNGES_Dempsey_'s_Lounge_Plantation_Grill_Tiki_Huts_LOCAL_AREA_Lockheed_Martin_Raytheon_Company_Northrup_Grumman_Zoo_Mitre_Corporation_Gulfarium_Island_Golf_Center_Pleasure_Island_Waterpark_There(10) are(11) 2(12) outdoor(13) heated(14) swimming(15) pools(16) and(17) spas(18) .(19) 1(20) is(21) located(22) behind(23) the(24) Plantation_Grill(25) restaurant(26) situated(27) amongst(28) the(29) garden(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			The(1) second(2) pool(3) and(4) spa(5) is(6) located(7) near(8) the(9) boardwalk(10) to(11) the(12) beach(13) right(14) before(15) you(16) get(17) to(18) the(19) playground(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) second(2) pool(3) also(4) has(5) a(6) poolside(7) lounge(8) /(9) bar(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			When(1) you(2) check(3) in(4) you(5) are(6) given(7) a(8) ticket(9) to(10) redeem(11) for(12) a(13) free(14) breakfast(15) buffet(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			They(1) give(2) out(3) 2(4) Breakfast_Buffet(5) tickets(6) per(7) paid(8) hotel(9) room(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			I(1) 'm(2) not(3) sure(4) if(5) this(6) is(7) done(8) year(9) round(10) ,(11) or(12) just(13) during(14) certain(15) times(16) of(17) the(18) year(19) ,(20) but(21) both(22) times(23) my(24) husband(25) and(26) I(27) have(28) visited(29) we(30) have(31) gotten(32) the(33) free(34) breakfast(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			Our(1) visits(2) at(3) Four(4) Points_My(5) husband(6) and(7) I(8) have(9) gone(10) to(11) the(12) Four(13) Points(14) by(15) Sheraton(16) for(17) our(18) anniversary(19) 2(20) years(21) in(22) a(23) row(24) now(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			We(1) usually(2) make(3) our(4) reservations(5) on(6) the(7) Starwood_Preferred_Guest(8) website(9) making(10) sure(11) to(12) reserve(13) an(14) ocean(15) view(16) room(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			The(1) staff(2) at(3) the(4) front(5) desk(6) are(7) always(8) very(9) polite(10) ,(11) nice(12) ,(13) friendly(14) ,(15) and(16) helpful(17) .(18) 
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="17"/>
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="14"/>
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="12"/>
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="16">
+			The(1) first(2) thing(3) my(4) husband(5) and(6) I(7) noticed(8) about(9) this(10) hotel(11) was(12) the(13) lack(14) of(15) parking(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			The(1) building(2) that(3) has(4) all(5) of(6) the(7) ocean(8) view(9) rooms(10) is(11) about(12) 6(13) floors(14) up(15) with(16) about(17) 20(18) rooms(19) on(20) each(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			That(1) being(2) said(3) ,(4) the(5) parking(6) lot(7) looks(8) like(9) it(10) only(11) has(12) enough(13) room(14) for(15) about(16) 50(17) cars(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			We(1) were(2) lucky(3) enough(4) to(5) find(6) parking(7) on(8) both(9) of(10) our(11) visits(12) though(13) ,(14) so(15) My(16) guess(17) is(18) that(19) they(20) usually(21) do(22) not(23) have(24) a(25) full(26) hotel(27) and(28) parking(29) is(30) not(31) usually(32) a(33) problem(34) for(35) them(36) .(37) 
+		</sentence>
+		<sentence id="20">
+			Both(1) times(2) we(3) visited(4) we(5) spent(6) around(7) $150(8) for(9) the(10) room(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			Our(1) first(2) visit(3) The(4) first(5) time(6) we(7) visited(8) I(9) was(10) not(11) too(12) personally(13) impressed(14) with(15) the(16) room(17) ,(18) more(19) about(20) that(21) in(22) a(23) minute(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			We(1) were(2) on(3) the(4) 4th(5) floor(6) and(7) the(8) view(9) of(10) the(11) Gulf_of_Mexico(12) was(13) wonderful(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			The(1) amenities(2) in(3) the(4) room(5) were(6) nice(7) -(8) we(9) had(10) a(11) refrigerator(12) and(13) microwave(14) .(15) 
+			<opinion polarity="+" feature="amenities" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="24">
+			The(1) bathroom(2) was(3) Huge(4) and(5) very(6) nice(7) .(8) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			They(1) also(2) placed(3) about(4) 4(5) big(6) fluffy(7) towels(8) in(9) the(10) room(11) for(12) use(13) while(14) on(15) the(16) beach(17) and(18) at(19) the(20) pool(21) .(22) 
+			<opinion polarity="+" feature="towels" featWords="8" opWords="6"/>
+			<opinion polarity="+" feature="towels" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="26">
+			There(1) was(2) a(3) little(4) sign(5) next(6) to(7) the(8) towels(9) that(10) said(11) basically(12) if(13) any(14) of(15) the(16) towels(17) are(18) missing(19) upon(20) your(21) checkout(22) you(23) will(24) be(25) charged(26) $10(27) per(28) missing(29) towel(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			Sounds(1) decent(2) enough(3) and(4) fair(5) to(6) me(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			What(1) I(2) did(3) not(4) particularly(5) like(6) about(7) the(8) room(9) on(10) this(11) visit(12) was(13) the(14) overall(15) appearance(16) of(17) the(18) room(19) .(20) 
+		</sentence>
+		<sentence id="29">
+			The(1) front(2) door(3) did(4) not(5) seem(6) to(7) shut(8) all(9) the(10) way(11) ,(12) leaving(13) a(14) small(15) gap(16) ((17) about(18) 1_inch(19) or(20) so(21) )(22) between(23) the(24) frame(25) and(26) the(27) door(28) itself(29) .(30) 
+		</sentence>
+		<sentence id="30">
+			It(1) did(2) not(3) really(4) bother(5) me(6) till(7) that(8) night(9) when(10) the(11) light(12) from(13) the(14) hallway(15) was(16) shining(17) into(18) the(19) room(20) .(21) 
+		</sentence>
+		<sentence id="31">
+			It(1) also(2) allowed(3) the(4) sounds(5) from(6) the(7) hallway(8) of(9) people(10) walking(11) by(12) into(13) the(14) room(15) much(16) easier(17) also(18) .(19) 
+		</sentence>
+		<sentence id="32">
+			We(1) notified(2) the(3) desk(4) upon(5) our(6) checkout(7) ,(8) but(9) I(10) do(11) not(12) know(13) if(14) they(15) fixed(16) it(17) or(18) anything(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			The(1) rooms(2) also(3) seemed(4) very(5) small(6) and(7) simple(8) to(9) me(10) .(11) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="34">
+			The(1) wallpaper(2) used(3) in(4) the(5) room(6) made(7) the(8) walls(9) look(10) really(11) dingy(12) and(13) dirty(14) .(15) there(16) were(17) no(18) pictures(19) in(20) our(21) room(22) and(23) it(24) looked(25) really(26) plain(27) .(28) 
+			<opinion polarity="-" feature="walls" featWords="9" opWords="14"/>
+			<opinion polarity="-" feature="walls" featWords="9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="35">
+			Our(1) 2nd(2) visit(3) The(4) second(5) visit(6) 1(7) year(8) later(9) was(10) pretty(11) much(12) the(13) same(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			This(1) time(2) around(3) we(4) ended(5) up(6) on(7) the(8) 5th(9) floor(10) right(11) next(12) to(13) the(14) cleaning(15) closet(16) /(17) housekeeper(18) 's(19) cleaning(20) facility(21) .(22) 
+		</sentence>
+		<sentence id="37">
+			At(1) first(2) we(3) thought(4) it(5) would(6) be(7) noisy(8) all(9) night(10) .(11) 
+		</sentence>
+		<sentence id="38">
+			But(1) ,(2) surprisingly(3) enough(4) the(5) room(6) was(7) well(8) insulated(9) and(10) we(11) did(12) not(13) hear(14) much(15) movement(16) at(17) all(18) .(19) 
+		</sentence>
+		<sentence id="39">
+			The(1) view(2) was(3) lovely(4) .(5) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="40">
+			The(1) room(2) itself(3) was(4) much(5) better(6) .(7) 
+		</sentence>
+		<sentence id="41">
+			The(1) walls(2) still(3) looked(4) dirty(5) and(6) dingy(7) and(8) had(9) no(10) pictures(11) on(12) them(13) ,(14) but(15) the(16) room(17) looked(18) a(19) little(20) bit(21) bigger(22) .(23) 
+			<opinion polarity="-" feature="walls" featWords="2" opWords="7"/>
+			<opinion polarity="-" feature="walls" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="42">
+			Food(1) and(2) Room(3) service(4) On(5) our(6) first(7) visit(8) we(9) ate(10) at(11) the(12) Plantation_Grill(13) on(14) one(15) of(16) their(17) Surf(18) and(19) Turf(20) buffet(21) nights(22) .(23) for(24) $19.99(25) per(26) person(27) you(28) can(29) eat(30) crab(31) legs(32) ,(33) fish(34) ,(35) prime(36) rib(37) ,(38) and(39) a(40) whole(41) bunch(42) of(43) other(44) yummy(45) foods(46) .(47) 
+			<opinion polarity="+" feature="food" featWords="46" opWords="45"/>
+		</sentence>
+		<sentence id="43">
+			It(1) was(2) very(3) delicious(4) .(5) 
+			<opinion polarity="+" feature="food" featWords="1" featRef="food" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="44">
+			The(1) following(2) morning(3) we(4) had(5) breakfast(6) delivered(7) .(8) 
+		</sentence>
+		<sentence id="45">
+			The(1) breakfast(2) room(3) service(4) was(5) very(6) yummy(7) .(8) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="46">
+			The(1) second(2) visit(3) we(4) went(5) to(6) Dempsy_'s_Lounge(7) for(8) a(9) snack(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Very(1) nice(2) .(3) 
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="48">
+			We(1) had(2) some(3) drinks(4) watched(5) 3(6) different(7) sports(8) at(9) the(10) same(11) time(12) ,(13) ate(14) a(15) little(16) food(17) and(18) had(19) an(20) overall(21) good(22) time(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			Later(1) that(2) night(3) we(4) had(5) room(6) service(7) for(8) dinner(9) .(10) 
+		</sentence>
+		<sentence id="50">
+			The(1) food(2) itself(3) was(4) good(5) ,(6) the(7) prices(8) I(9) would(10) say(11) are(12) a(13) little(14) high(15) .(16) 
+			<opinion polarity="-" feature="price" featWords="8" opWords="15" potency="14"/>
+			<opinion polarity="+" feature="food" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="51">
+			They(1) add(2) on(3) a(4) $2.00(5) delivery(6) fee(7) and(8) 18_%(9) gratuity(10) to(11) every(12) room(13) order(14) .(15) 
+		</sentence>
+		<sentence id="52">
+			We(1) decided(2) to(3) take(4) part(5) in(6) the(7) free(8) breakfast(9) buffet(10) in(11) the(12) morning(13) .(14) 
+		</sentence>
+		<sentence id="53">
+			Remembering(1) how(2) wonderful(3) Sheraton(4) did(5) the(6) Breakfast(7) buffet(8) at(9) the(10) other(11) hotel(12) I(13) had(14) been(15) to(16) with(17) cereal(18) fresh(19) cut(20) fruit(21) ,(22) juice(23) ,(24) pastries(25) ,(26) etc(27) ...(28) I(29) was(30) Very(31) disapointed(32) by(33) the(34) breakfast(35) buffet(36) spread(37) at(38) Four(39) Points(40) .(41) 
+		</sentence>
+		<sentence id="54">
+			I(1) woke(2) up(3) wanting(4) orange(5) juice(6) and(7) toast(8) .(9) 
+		</sentence>
+		<sentence id="55">
+			When(1) we(2) got(3) to(4) the(5) buffet(6) we(7) found(8) out(9) that(10) the(11) only(12) drinks(13) included(14) in(15) the(16) buffet(17) are(18) coffee(19) ,(20) water(21) ,(22) and(23) tea(24) .(25) 
+		</sentence>
+		<sentence id="56">
+			If(1) you(2) want(3) juice(4) or(5) milk(6) it(7) will(8) cost(9) you(10) about(11) $(12) 2(13) a(14) glass(15) .(16) 
+		</sentence>
+		<sentence id="57">
+			The(1) food(2) included(3) in(4) the(5) buffet(6) were(7) what(8) seemed(9) to(10) be(11) ingredients(12) for(13) omelets(14) :(15) powdered(16) eggs(17) ,(18) canned(19) mushrooms(20) ,(21) stewed(22) tomatoes(23) ,(24) cheese(25) sauce(26) ,(27) and(28) some(29) other(30) things(31) that(32) did(33) not(34) look(35) very(36) appetizing(37) to(38) me(39) .(40) 
+		</sentence>
+		<sentence id="58">
+			They(1) also(2) had(3) cottage(4) cheese(5) and(6) canned(7) peaches(8) .(9) 
+		</sentence>
+		<sentence id="59">
+			They(1) also(2) had(3) some(4) mini(5) waffles(6) which(7) I(8) heard(9) the(10) family(11) behind(12) me(13) commenting(14) about(15) "(16) they(17) taste(18) wierd(19) "(20) .(21) 
+		</sentence>
+		<sentence id="60">
+			Overall(1) ,(2) I(3) felt(4) that(5) the(6) breakfast(7) buffet(8) was(9) a(10) big(11) let(12) down(13) .(14) 
+		</sentence>
+		<sentence id="61">
+			My_Rating_I(1) am(2) giving(3) this(4) hotel(5) Four(6) Points(7) by(8) Sheraton(9) 4_out_of_5(10) stars(11) .(12) 
+		</sentence>
+		<sentence id="62">
+			I(1) am(2) taking(3) away(4) one(5) star(6) mostly(7) because(8) I(9) did(10) not(11) feel(12) like(13) this(14) hotel(15) lived(16) up(17) to(18) the(19) Sheraton(20) name(21) .(22) 
+		</sentence>
+		<sentence id="63">
+			This(1) hotel(2) is(3) very(4) nice(5) and(6) the(7) staff(8) are(9) always(10) helpful(11) ,(12) friendly(13) and(14) accomodating(15) .(16) 
+			<opinion polarity="+" feature="staff" featWords="8" opWords="15"/>
+			<opinion polarity="+" feature="staff" featWords="8" opWords="13"/>
+			<opinion polarity="+" feature="staff" featWords="8" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="64">
+			The(1) views(2) of(3) the(4) gulf(5) are(6) very(7) relaxing(8) and(9) charming(10) .(11) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="10"/>
+			<opinion polarity="+" feature="view" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="65">
+			Most(1) of(2) the(3) food(4) was(5) mouth(6) watering(7) and(8) delicious(9) .(10) 
+		</sentence>
+		<sentence id="66">
+			I(1) have(2) enjoyed(3) almost(4) all(5) of(6) the(7) food(8) I(9) have(10) eaten(11) here(12) .(13) 
+		</sentence>
+		<sentence id="67">
+			The(1) one(2) exception(3) is(4) the(5) breakfast(6) buffet(7) .(8) 
+		</sentence>
+		<sentence id="68">
+			With(1) this(2) hotel(3) being(4) located(5) right(6) on(7) the(8) Gulf_of_Mexico(9) ,(10) I(11) was(12) hoping(13) for(14) a(15) more(16) romantic(17) getaway(18) experience(19) -(20) I(21) think(22) there(23) is(24) a_lot_of(25) potential(26) at(27) this(28) hotel(29) to(30) make(31) it(32) more(33) romantic(34) ,(35) but(36) it(37) 's(38) not(39) there(40) yet(41) .(42) 
+		</sentence>
+		<sentence id="69">
+			Until(1) we(2) find(3) another(4) local(5) hotel(6) for(7) a(8) romantic(9) getaway(10) ,(11) this(12) one(13) will(14) have(15) to(16) do(17) for_now(18) .(19) 
+		</sentence>
+		<sentence id="70">
+			As(1) I(2) stated(3) before(4) the(5) rooms(6) seemed(7) really(8) small(9) and(10) simple(11) to(12) me(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="11"/>
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="71">
+			I(1) believe(2) that(3) the(4) rooms(5) would(6) probably(7) be(8) perfect(9) for(10) the(11) family(12) on(13) vacation(14) just(15) using(16) the(17) room(18) to(19) sleep(20) off(21) the(22) day(23) at(24) the(25) beach(26) ,(27) pool(28) ,(29) or(30) other(31) activities(32) in(33) the(34) area(35) .(36) 
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="9"/>
+		</sentence>
+		<sentence id="72">
+			The(1) Gulfarium(2) is(3) located(4) right(5) next(6) door(7) to(8) this(9) hotel(10) ,(11) so(12) it(13) would(14) be(15) a(16) perfect(17) day(18) activity(19) .(20) 
+		</sentence>
+		<sentence id="73">
+			Here(1) is(2) the(3) website(4) for(5) this(6) hotel(7) -(8) http://www.sheraton4pts.com/(9) If(10) you(11) are(12) interested(13) in(14) reading(15) my(16) review(17) for(18) the(19) Sheraton(20) in(21) Tacoma(22) ,(23) Washington(24) -(25) http://www.epinions.com/content_84230180484(26) 
+		</sentence>
+	</text>
+</review>

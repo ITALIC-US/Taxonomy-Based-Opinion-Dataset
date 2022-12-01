@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="415" item="Sheraton Anchorage Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Park_Right_By(1) That(2) Moose_Over_There(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Sheraton_Anchorage(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Jade(1) stairway(2) in(3) lobby(4) ,(5) reasonably(6) good(7) service(8) ,(9) occasional(10) moose(11) in(12) parking(13) lot(14) 
+			<opinion polarity="+" feature="service" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terribly(1) predictable(2) ,(3) average(4) in(5) most(6) respects(7) ,(8) unexciting(9) 
+			<opinion polarity="-" feature="hotel" opWords="2" potency="1"/>
+			<opinion polarity="-" feature="hotel" opWords="4"/>
+			<opinion polarity="-" feature="hotel" opWords="9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) solid(2) ,(3) if(4) unexciting(5) choice(6) in(7) Anchorage(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Dining(1) is(2) merely(3) adequate(4) .(5) 
+			<opinion polarity="+" feature="food" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			The(1) same(2) could(3) be(4) said(5) for(6) the(7) rest(8) of(9) the(10) place(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sheraton_Anchorage_Hotel(2) is(3) a(4) good(5) choice(6) for(7) business(8) in(9) Anchorage(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) will(2) not(3) win(4) many(5) design(6) awards(7) ,(8) despite(9) what(10) they(11) say(12) about(13) the(14) jade(15) stairway(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) a(3) 16(4) storied(5) white(6) concrete(7) building(8) with(9) 370(10) rooms(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Lobby_The(1) jade(2) stairway(3) is(4) unusual(5) ,(6) if(7) only(8) because(9) one(10) does(11) not(12) run(13) across(14) a(15) jade(16) stairway(17) every(18) day(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Beyond(1) this(2) highly(3) touted(4) disappointment(5) ,(6) the(7) lobby(8) is(9) a(10) pleasant(11) ,(12) skylit(13) room(14) of(15) two(16) stories(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Their(1) collection(2) of(3) native(4) artwork(5) adds(6) some(7) interest(8) to(9) an(10) otherwise(11) ordinary(12) space(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) front(2) desk(3) is(4) efficient(5) ,(6) if_not(7) especially(8) friendly(9) .(10) 
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="5"/>
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="8">
+			Maybe(1) they(2) are(3) too(4) cold(5) to(6) be(7) friendly(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			At(1) any(2) rate(3) ,(4) the(5) service(6) was(7) swift(8) ,(9) and(10) we(11) were(12) in(13) our(14) room(15) in(16) no(17) time(18) at(19) all(20) .(21) 
+			<opinion polarity="+" feature="service" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="10">
+			Rooms_The(1) room(2) was(3) standard(4) ,(5) in(6) nearly(7) every(8) way(9) .(10) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) view(2) was(3) particularly(4) bleak(5) ,(6) as(7) it(8) overlooked(9) the(10) seedy(11) and(12) vacant(13) MacKay_Towers(14) ,(15) which(16) had(17) not(18) yet(19) been(20) renovated(21) .(22) 
+			<opinion polarity="-" feature="view" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) view(2) will(3) have(4) improved(5) as(6) the(7) building(8) is(9) now(10) being(11) renovated(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			There(1) were(2) two(3) double(4) beds(5) with(6) floral(7) bedspreads(8) ,(9) two(10) chairs(11) ,(12) and(13) an(14) armoire(15) concealing(16) the(17) television(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			The(1) desk(2) was(3) equipped(4) with(5) an(6) ergonomic(7) chair(8) and(9) a(10) printer(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			The(1) lighting(2) was(3) good(4) ,(5) especially(6) for(7) the(8) desk(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			For(1) a(2) room(3) on(4) a(5) Club_Level(6) though(7) ,(8) it(9) was(10) unremarkable(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Baths_Notable(1) only(2) for(3) its(4) plentiful(5) hot(6) water(7) and(8) sparkling(9) white(10) tiles(11) ,(12) the(13) bath(14) was(15) otherwise(16) very(17) standard(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			The(1) towels(2) were(3) of(4) average(5) thickness(6) ,(7) but(8) the(9) robes(10) were(11) surprisingly(12) thick(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			It(1) 's(2) very(3) easy(4) to(5) catch(6) a(7) chill(8) in(9) Anchorage(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Club_Level_Lounge_The_Club_Level_Lounge(1) is(2) on(3) the(4) twelfth(5) floor(6) ,(7) and(8) has(9) what(10) would(11) have(12) been(13) a(14) great(15) view(16) of(17) the(18) mountains(19) if(20) it(21) were(22) not(23) for(24) the(25) abandoned(26) Mackay_Towers(27) looming(28) grimly(29) across(30) the(31) street(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			With(1) luck(2) ,(3) its(4) restoration(5) will(6) have(7) been(8) finished(9) by(10) the(11) time(12) you(13) visit(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			The(1) lounge(2) was(3) staffed(4) in(5) the(6) mornings(7) and(8) in(9) the(10) evening(11) ,(12) though(13) we(14) had(15) access(16) to(17) the(18) lounge(19) during(20) the(21) day(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			The(1) evening(2) buffet(3) came(4) straight(5) out(6) of(7) the(8) deep(9) fryer(10) ,(11) but(12) the(13) continental(14) breakfast(15) in(16) the(17) mornings(18) was(19) quite(20) acceptable(21) .(22) 
+			<opinion polarity="+" feature="food" featWords="15" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="24">
+			Dining_The(1) rooftop(2) restaurant(3) ,(4) Josephine(5) 's(6) looked(7) fussy(8) and(9) overdone(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			Unless(1) the(2) place(3) is(4) said(5) to(6) be(7) really(8) good(9) ,(10) I(11) usually(12) avoid(13) rooftop(14) restaurants(15) like(16) the(17) plague(18) .(19) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="26">
+			Anchorage(1) has(2) some(3) very(4) good(5) restaurants(6) ,(7) some(8) of(9) which(10) I(11) will(12) mention(13) below(14) .(15) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="27">
+			The(1) less(2) formal(3) restaurant(4) off(5) the(6) lobby(7) is(8) the(9) Ptarmigan_Bar(10) and(11) Grill(12) ,(13) a(14) casual(15) restaurant(16) that(17) replaced(18) Legends(19) ,(20) also(21) an(22) informal(23) place(24) .(25) 
+		</sentence>
+		<sentence id="28">
+			Bar_The(1) bar(2) was(3) as(4) dark(5) and(6) smoky(7) as(8) most(9) bars(10) are(11) in(12) Anchorage(13) .(14) 
+			<opinion polarity="-" feature="food" featWords="2" opWords="5"/>
+			<opinion polarity="-" feature="food" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="29">
+			This(1) town(2) appears(3) to(4) be(5) full(6) of(7) heavy(8) smokers(9) and(10) drinkers(11) ,(12) or(13) at_least(14) the(15) bars(16) anyway(17) ...(18) The(19) big(20) excitement(21) of(22) the(23) evening(24) was(25) when(26) a(27) patron(28) entered(29) and(30) said(31) that(32) there(33) was(34) an(35) unhappy(36) moose(37) in(38) the(39) parking(40) lot(41) .(42) 
+		</sentence>
+		<sentence id="30">
+			Having(1) heard(2) the(3) stories(4) about(5) tourists(6) being(7) stomped(8) to(9) death(10) by(11) moose(12) before(13) ,(14) I(15) was(16) not(17) anxious(18) to(19) get(20) too(21) close(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			I(1) followed(2) the(3) crowd(4) ,(5) however(6) ,(7) and(8) saw(9) the(10) enormous(11) beast(12) wandering(13) about(14) the(15) parking(16) lot(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			It(1) gave(2) us(3) a(4) baleful(5) stare(6) ,(7) and(8) shuffled(9) off(10) to(11) wherever(12) lost(13) moose(14) go(15) in(16) downtown(17) Anchorage(18) .(19) 
+		</sentence>
+		<sentence id="33">
+			Maybe(1) it(2) went(3) to(4) the(5) Hilton(6) to(7) check(8) out(9) their(10) parking(11) lot(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			Recreation_There(1) is(2) no(3) pool(4) here(5) ,(6) an(7) unfortunate(8) omission(9) ,(10) but(11) the(12) health(13) club(14) does(15) have(16) a(17) steam(18) room(19) and(20) a(21) whirlpool(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			The(1) mirrored(2) room(3) has(4) an(5) extensive(6) range(7) of(8) treadmills(9) and(10) bicycles(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			Other_Things(1) to(2) Do_Anchorage(3) is(4) full(5) of(6) things(7) to(8) do(9) ,(10) if(11) only(12) one(13) will(14) get(15) outside(16) to(17) find(18) them(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			At(1) 28(2) degrees(3) below(4) zero(5) ,(6) this(7) can(8) present(9) a(10) challenge(11) !(12) 
+		</sentence>
+		<sentence id="38">
+			The(1) Anchorage_Museum_of_Art(2) and(3) History(4) is(5) a(6) good(7) museum(8) if(9) you(10) want(11) to(12) see(13) something(14) of(15) the(16) culture(17) and(18) history(19) of(20) the(21) place(22) .(23) 
+		</sentence>
+		<sentence id="39">
+			Their(1) collection(2) of(3) 19th(4) and(5) early(6) 20th(7) century(8) Alaskan(9) landscape(10) paintings(11) is(12) remarkably(13) good(14) .(15) 
+		</sentence>
+		<sentence id="40">
+			Restaurants_Since_I(1) dunned(2) their(3) rooftop(4) extravaganza(5) ,(6) the(7) least(8) I(9) should(10) do(11) is(12) suggest(13) a(14) couple(15) of(16) other(17) places(18) to(19) go(20) .(21) 
+		</sentence>
+		<sentence id="41">
+			Simon(1) and(2) Seafort(3) 's(4) ,(5) is(6) a(7) very(8) good(9) place(10) downtown(11) ,(12) offering(13) mostly(14) steak(15) and(16) local(17) salmon(18) .(19) 
+			<opinion polarity="+" feature="place" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="42">
+			Cafe_Paris(1) is(2) where(3) the(4) locals(5) have(6) been(7) going(8) for(9) almost(10) 60(11) years(12) .(13) 
+		</sentence>
+		<sentence id="43">
+			The(1) place(2) has(3) great(4) charm(5) and(6) character(7) ,(8) if(9) you(10) can(11) stand(12) all(13) of(14) the(15) smoke(16) .(17) "(18) Non-Smoking(19) "(20) has(21) little(22) meaning(23) in(24) Alaska(25) .(26) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="44">
+			Finally(1) ,(2) a(3) place(4) worth(5) going(6) out(7) of(8) your(9) way(10) for(11) is(12) Jen(13) 's(14) ,(15) hidden(16) away(17) in(18) a(19) boring(20) strip(21) mall(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			This(1) place(2) had(3) some(4) of(5) the(6) freshest(7) salmon(8) I(9) have(10) had(11) anywhere(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			I(1) do(2) not(3) know(4) where(5) they(6) get(7) it(8) ,(9) but(10) it(11) is(12) outstanding(13) !(14) 
+		</sentence>
+		<sentence id="47">
+			Well(1) worth(2) the(3) expense(4) of(5) a(6) taxi(7) ride(8) to(9) get(10) there(11) .(12) 
+		</sentence>
+		<sentence id="48">
+			When(1) ((2) Not(3) )(4) To_Go_We(5) visited(6) Anchorage(7) in(8) February(9) ,(10) when(11) the(12) temperature(13) was(14) a(15) toasty(16) -28(17) outside(18) ,(19) without(20) considering(21) the(22) wind-chill(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			While(1) this(2) may(3) seem(4) masochistic(5) on(6) our(7) part(8) ,(9) we(10) still(11) enjoyed(12) our(13) visit(14) .(15) 
+		</sentence>
+		<sentence id="50">
+			For(1) one(2) thing(3) ,(4) there(5) were(6) few(7) tourists(8) about(9) ,(10) which(11) meant(12) an(13) easy(14) time(15) getting(16) good(17) tables(18) in(19) the(20) restaurants(21) !(22) 
+		</sentence>
+	</text>
+</review>

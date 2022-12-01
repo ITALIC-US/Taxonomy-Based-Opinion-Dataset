@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="342" item="1998 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) good(2) car(3) marred(4) by(5) Un-Honda(6) like(7) quality(8) control(9) problems(10) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) performance(2) ,(3) handling(4) ,(5) value(6) for(7) the(8) money(9) ((10) LX-V(11) 6(12) )(13) ,(14) great(15) interior(16) ergonomics(17) ,(18) resale(19) value(20) .(21) 
+			<opinion polarity="+" feature="comfort" featWords="17" opWords="15"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tight(1) rear(2) seat(3) ,(4) cheap(5) wheel(6) covers(7) ,(8) no(9) break-away(10) mirrors(11) ,(12) LX-V(13) 6(14) lacks(15) 5-speed(16) ,(17) dismal(18) reliability(19) .(20) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) good(2) used(3) car(4) value(5) ,(6) provided(7) you(8) avoid(9) the(10) early(11) production(12) quality(13) control(14) problems(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) buy(3) it(4) from(5) a(6) Honda(7) dealership(8) get(9) it(10) certified(11) w(12) /(13) the(14) extended(15) warranty(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Good_After(2) buying(3) used(4) 3(5) Accords(6) ,(7) a(8) Prelude(9) and(10) an(11) Integra(12) in(13) the(14) past(15) ,(16) buying(17) a(18) new(19) '(20) 98(21) Accord_Coupe_LX_V(22) -(23) 6(24) was(25) an(26) easy(27) choice(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) great(4) on(5) the(6) highway(7) -(8) it(9) has(10) good(11) acceleration(12) ,(13) a(14) smooth(15) ride(16) ,(17) good(18) handling(19) and(20) a(21) very(22) strong(23) engine(24) ,(25) especially(26) when(27) the(28) transmission(29) drops(30) into(31) passing(32) gear(33) and(34) the(35) VTEC(36) kicks(37) in(38) .(39) 
+			<opinion polarity="+" feature="engine" featWords="24" opWords="23" potency="22"/>
+			<opinion polarity="+" feature="handling" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="acceleration" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) automatic(2) transmission(3) shifts(4) quietly(5) and(6) smoothly(7) *(8) ,(9) although(10) it(11) may(12) hesitate(13) a_bit(14) before(15) it(16) downshifts(17) .(18) 
+			<opinion polarity="+" feature="transmission" featWords="3" opWords="4,7"/>
+			<opinion polarity="+" feature="transmission" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) brakes(2) on(3) the(4) car(5) provide(6) good(7) stopping(8) power(9) ,(10) especially(11) when(12) compared(13) to(14) the(15) Hondas_I(16) have(17) owned(18) in(19) the(20) past(21) .(22) 
+			<opinion polarity="+" feature="brakes" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			It(1) also(2) seems(3) to(4) get(5) good(6) gas(7) mileage(8) for(9) a(10) V(11) -(12) 6(13) engine(14) .(15) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) liked(3) the(4) interior(5) and(6) exterior(7) styling(8) ,(9) especially(10) the(11) NSX-inspired(12) tail(13) lights(14) .(15) 
+			<opinion polarity="+" feature="exterior" featWords="7" opWords="3"/>
+			<opinion polarity="+" feature="interior" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			Front(1) seats(2) are(3) very(4) comfortable(5) and(6) the(7) power(8) adjustments(9) on(10) the(11) driver(12) 's(13) seat(14) are(15) a(16) nice(17) touch(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			Trunk(1) space(2) is(3) good(4) and(5) fold-down(6) rear(7) seats(8) are(9) a(10) bonus(11) .(12) 
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) also(3) impressed(4) by(5) the(6) value(7) the(8) LX_V(9) -(10) 6(11) offers(12) --(13) for(14) about(15) $5,000(16) less(17) than(18) the(19) EX_V(20) -(21) 6(22) you(23) get(24) the(25) V(26) -(27) 6(28) engine(29) and(30) many(31) of(32) the(33) standard(34) features(35) found(36) in(37) the(38) EX._The(39) car(40) is(41) easily(42) upgraded(43) so_that(44) the(45) sunroof(46) ,(47) wheel(48) /(49) tire(50) combination(51) ,(52) tweeter(53) speakers(54) ,(55) color-keyed(56) running(57) board(58) cladding(59) ,(60) and(61) 6(62) disc(63) changer(64) of(65) the(66) EX_V(67) -(68) 6(69) can(70) be(71) added(72) to(73) it(74) as_well(75) .(76) 
+		</sentence>
+		<sentence id="10">
+			Essentially(1) you(2) can(3) upgrade(4) it(5) so_that(6) it(7) is(8) basically(9) an(10) EX_V(11) -(12) 6(13) without(14) the(15) leather(16) seats(17) or(18) the(19) automatic(20) climate(21) control(22) system(23) and(24) save(25) a(26) couple(27) grand(28) in(29) the(30) process(31) .(32) .(33) .(34) 
+			<opinion polarity="+" feature="seat" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="11">
+			The(1) Bad_OK(2) --(3) that(4) 's(5) the(6) good(7) news(8) --(9) now(10) for(11) the(12) minor(13) gripes(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			I(1) wished(2) that(3) the(4) LX_V(5) -(6) 6(7) came(8) with(9) a(10) 5-speed(11) manual(12) transmission(13) and(14) that(15) break-away(16) mirrors(17) were(18) offered(19) on(20) this(21) car(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			It(1) seemed(2) like(3) cost(4) cutting(5) measures(6) were(7) the(8) reason(9) behind(10) the(11) cheap-looking(12) ((13) and(14) wearing(15) )(16) plastic(17) wheel(18) covers(19) that(20) came(21) standard(22) with(23) the(24) car(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			The(1) OEM_Bridgestone_Turenza(2) tires(3) left(4) a_lot(5) to(6) be(7) desired(8) ((9) if(10) you(11) are(12) interested(13) in(14) an(15) Accord(16) that(17) is(18) shod(19) with(20) these(21) tires(22) ,(23) I(24) 'd(25) recommend(26) replacing(27) them(28) with(29) Dunlop(30) SP5000(31) 's(32) --(33) they(34) offer(35) much(36) better(37) performance(38) for(39) less(40) money(41) )(42) .(43) 
+		</sentence>
+		<sentence id="15">
+			Also(1) ,(2) the(3) interior(4) fabric(5) on(6) the(7) seats(8) and(9) armrest(10) look(11) good(12) ,(13) but(14) seem(15) a(16) step(17) down(18) from(19) what(20) was(21) offered(22) in(23) the(24) past(25) on(26) late(27) '(28) 80s(29) Accords(30) and(31) Preludes(32) .(33) 
+		</sentence>
+		<sentence id="16">
+			I(1) was(2) a_bit(3) disappointed(4) that(5) a(6) mechanical(7) "(8) Memory(9) "(10) lever(11) was(12) not(13) offered(14) on(15) the(16) passenger(17) 's(18) side(19) seat(20) so_that(21) it(22) returned(23) to(24) position(25) after(26) the(27) seat(28) is(29) slid(30) forward(31) to(32) allow(33) access(34) for(35) rear(36) seat(37) passengers(38) .(39) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			do(1) not(2) even(3) think(4) about(5) getting(6) out(7) of(8) the(9) back(10) seat(11) on(12) the(13) driver(14) 's(15) side(16) -(17) the(18) power(19) driver(20) 's(21) seat(22) does(23) not(24) move(25) forward(26) fast(27) enough(28) ,(29) or(30) incline(31) forward(32) far(33) enough(34) to(35) allow(36) for(37) an(38) easy(39) exit(40) .(41) 
+		</sentence>
+		<sentence id="18">
+			The(1) Ugly_Now(2) for(3) the(4) serious(5) issues(6) --(7) out(8) of(9) the(10) 6(11) Hondas_I(12) have(13) owned(14) this(15) one(16) has(17) been(18) by(19) far(20) the(21) least(22) reliable(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			It(1) was(2) the(3) only(4) car(5) out(6) of(7) the(8) six(9) that(10) I(11) bought(12) new(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			I(1) can(2) only(3) guess(4) that(5) I(6) must(7) have(8) gotten(9) a(10) bad(11) one(12) based(13) on(14) my(15) previous(16) experiences(17) with(18) Hondas(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			It(1) seems(2) like(3) Honda(4) did(5) too(6) much(7) "(8) value(9) engineering(10) "(11) on(12) this(13) car(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			For(1) the(2) used(3) car(4) buyer(5) looking(6) at(7) a(8) '(9) 98(10) Accord_LX_V(11) -(12) 6(13) coupe(14) ,(15) keep(16) these(17) potential(18) trouble(19) areas(20) in(21) mind(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			My(1) car(2) has(3) 104,000_miles(4) on(5) it(6) and(7) the(8) following(9) has(10) been(11) replaced(12) ((13) note(14) that(15) this(16) is(17) in_addition(18) to(19) the(20) regular(21) service(22) intervals(23) and(24) normal(25) wear(26) and(27) tear(28) items(29) --(30) i(31) .(32) e(33) .(34) ,(35) 2(36) sets(37) of(38) brakes(39) ,(40) 2.5(41) sets(42) of(43) tires(44) ,(45) etc.(46) )(47) :(48) buzz(49) coming(50) from(51) the(52) interior(53) plastic(54) at(55) right(56) rear(57) corner(58) of(59) the(60) car(61) at(62) highway(63) speeds(64) 104,000(65) mi(66) starter(67) went(68) out(69) at(70) 104,000(71) mi(72) replaced(73) ignition(74) under(75) ignition(76) system(77) recall(78) @(79) 84,000(80) mi(81) steering(82) wheel(83) grip(84) coming(85) apart(86) /(87) separating(88) from(89) rim(90) @(91) 82,000(92) mi(93) catalytic(94) converter(95) @(96) 79,000(97) mi(98) ((99) check(100) engine(101) light(102) code(103) )(104) cleaned(105) and(106) re-bored(107) EGR(108) ports(109) @(110) 79,000(111) mi(112) automatic(113) transmission(114) replaced(115) @(116) 69,000(117) mi(118) ((119) car(120) shifted(121) abruptly(122) /(123) irregularly(124) /(125) chirped(126) tires(127) from(128) 1st(129) to(130) 2nd(131) gear(132) when(133) cold(134) -(135) transmission(136) should(137) shift(138) quietly(139) and(140) smoothly(141) )(142) alternator(143) @(144) 69,000(145) mi(146) ((147) bad(148) bearing(149) in(150) unit(151) )(152) tensioner(153) belt(154) @(155) 69,000(156) mi(157) fuel(158) sending(159) unit(160) @(161) 69,000(162) mi(163) ((164) 2nd(165) fuel(166) sending(167) unit(168) )(169) cleaned(170) carbon(171) out(172) of(173) EGR(174) ports(175) @(176) 63,000(177) mi(178) ((179) check(180) engine(181) light(182) code(183) )(184) EGR(185) valve(186) @(187) 45,000(188) mi(189) ((190) check(191) engine(192) light(193) code(194) )(195) fuel(196) sending(197) unit(198) @(199) 21,300(200) mi(201) ((202) gas(203) gauge(204) only(205) reads(206) 3/4(207) when(208) full(209) or(210) overfilled(211) )(212) The(213) only(214) bright(215) spot(216) in(217) this(218) debacle(219) is(220) the(221) fact(222) that(223) American_Honda(224) is(225) willing(226) to(227) stand(228) by(229) their(230) product(231) ,(232) even_if(233) the(234) car(235) is(236) out(237) of(238) warranty(239) ,(240) provided(241) the(242) car(243) has(244) been(245) regularly(246) serviced(247) and(248) maintained(249) .(250) 
+		</sentence>
+		<sentence id="24">
+			As(1) a(2) result(3) ,(4) much(5) of(6) the(7) out-of-warranty(8) work(9) was(10) subsidized(11) --(12) still(13) that(14) does(15) not(16) make(17) up(18) for(19) the(20) lapses(21) in(22) quality(23) but(24) it(25) is(26) the(27) major(28) reason(29) why(30) I(31) am(32) still(33) driving(34) this(35) car(36) .(37) 
+		</sentence>
+		<sentence id="25">
+			For(1) the(2) person(3) interested(4) in(5) buying(6) a(7) used(8) '(9) 98(10) Accord_Coupe_I(11) would(12) say(13) go(14) ahead(15) but(16) I(17) would(18) recommend(19) that(20) if(21) you(22) buy(23) it(24) from(25) a(26) dealership(27) make(28) sure(29) it(30) is(31) a(32) Honda_Certified_Used_Car(33) and(34) that(35) it(36) is(37) well(38) under(39) 80,000_miles(40) ((41) 80,000_miles(42) is(43) the(44) cutoff(45) for(46) the(47) Extended_Emissions_System_Warranty(48) that(49) Honda(50) offered(51) on(52) these(53) cars(54) )(55) .(56) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+		</sentence>
+		<sentence id="26">
+			Also(1) go(2) ahead(3) and(4) get(5) the(6) extended(7) warranty(8) when(9) you(10) buy(11) the(12) car(13) --(14) it(15) can(16) save(17) you(18) a_lot_of(19) money(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			On(1) the(2) V(3) -(4) 6(5) Accords(6) :(7) make(8) sure(9) the(10) transmission(11) shifts(12) smoothly(13) and(14) quietly(15) --(16) if(17) it(18) does(19) not(20) ,(21) avoid(22) buying(23) that(24) particular(25) car(26) .(27) 
+			<opinion polarity="+" feature="transmission" featWords="11" opWords="12,15"/>
+			<opinion polarity="+" feature="transmission" featWords="11" opWords="12,13"/>
+		</sentence>
+		<sentence id="28">
+			Problems(1) with(2) the(3) automatic(4) transmissions(5) in(6) early(7) '(8) 98(9) Accord_V(10) -(11) 6(12) 's(13) are(14) not(15) uncommon(16) and(17) the(18) cost(19) of(20) replace(21) the(22) transmission(23) is(24) around(25) $5,000(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			In_addition(1) the(2) 105K(3) service(4) /(5) timing(6) belt(7) change(8) on(9) the(10) V(11) -(12) 6(13) is(14) pretty(15) expensive(16) for(17) a(18) Honda(19) ((20) around(21) $795(22) for(23) the(24) timing(25) belt(26) +(27) $300(28) to(29) $400(30) for(31) the(32) 105K(33) service(34) at(35) a(36) Honda(37) dealership(38) )(39) .(40) 
+		</sentence>
+		<sentence id="30">
+			If(1) you(2) really(3) want(4) to(5) hedge(6) your(7) bets(8) regarding(9) the(10) reliability(11) issues(12) ,(13) go(14) for(15) the(16) 4(17) cylinder(18) models(19) --(20) from(21) what(22) I(23) have(24) heard(25) they(26) do(27) not(28) seem(29) to(30) have(31) as(32) many(33) problems(34) with(35) the(36) emissions(37) system(38) &(39) automatic(40) transmissions(41) .(42) .(43) .(44) 
+		</sentence>
+		<sentence id="31">
+			Other(1) cars(2) to(3) consider(4) ((5) cars(6) I(7) would(8) have(9) looked(10) closer(11) at(12) /(13) bought(14) in(15) hindsight(16) )(17) :(18) Audi(19) A4(20) ,(21) VW_Passat(22) ,(23) Honda_Prelude(24) ,(25) BMW(26) 3-series(27) .(28) 
+		</sentence>
+		<sentence id="32">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20900(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) LX_V(16) -(17) 6(18) 
+		</sentence>
+	</text>
+</review>

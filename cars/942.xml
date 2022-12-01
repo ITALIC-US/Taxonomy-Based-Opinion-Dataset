@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="942" item="2006 Volvo S40" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT_EVER_BUY_A_VOLVO(2) !(3) !(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) car(2) looks(3) nice(4) I(5) enjoy(6) driving(7) it(8) when(9) it(10) works(11) ,(12) which(13) is(14) rare(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) electronics(2) ,(3) unreliable(4) ,(5) worst(6) customer(7) service(8) imaginable(9) .(10) 
+			<opinion polarity="-" feature="service" featWords="7,8" opWords="6"/>
+			<opinion polarity="-" feature="reliability" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) new(4) Volvo(5) S40(6) in(7) January_2006(8) and(9) if(10) you(11) are(12) looking(13) for(14) a(15) car(16) that(17) is(18) completely(19) unreliable(20) and(21) customer(22) service(23) that(24) is(25) even(26) worse(27) then(28) this(29) is(30) the(31) car(32) and(33) car(34) company(35) for(36) you(37) .(38) 
+			<opinion polarity="-" feature="reliability" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="2">
+			In(1) my(2) 11(3) months(4) of(5) ownership(6) the(7) car(8) has(9) been(10) rendered(11) undriveable(12) due(13) to(14) electronics(15) failures(16) 4_times(17) ,(18) has(19) been(20) on(21) the(22) back(23) of(24) a(25) tow(26) truck(27) due(28) to(29) these(30) problem(31) 3_times(32) and(33) has(34) spent(35) over(36) 8(37) weeks(38) in(39) the(40) shop(41) !(42) 
+		</sentence>
+		<sentence id="3">
+			While(1) this(2) sounds(3) outrageous(4) ,(5) Volvo(6) 's(7) customer(8) care(9) ,(10) if(11) you(12) can(13) call(14) it(15) that(16) ,(17) has(18) been(19) completely(20) unhelpful(21) ,(22) unresponsive(23) and(24) down-right(25) rude(26) .(27) 
+			<opinion polarity="-" feature="service" opWords="26"/>
+			<opinion polarity="-" feature="service" opWords="23"/>
+			<opinion polarity="-" feature="service" opWords="21"/>
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) still(3) driving(4) this(5) car(6) and(7) have(8) now(9) hired(10) a(11) lawyer(12) and(13) am(14) going(15) to(16) have(17) to(18) file(19) a(20) civil(21) law(22) suit(23) to(24) get(25) Volvo(26) to(27) comply(28) with(29) the(30) state(31) 's(32) lemon(33) law(34) policies(35) .(36) 
+		</sentence>
+		<sentence id="5">
+			They(1) will(2) not(3) even(4) do(5) what(6) is(7) required(8) under(9) law(10) without(11) being(12) forced(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			DO(1) NOT_BUY_THIS_CAR(2) !(3) 
+		</sentence>
+		<sentence id="7">
+			I_WOULD_NOT_WISH_A_VOLVO_ON_MY_WORST_ENEMY(1) !(2) 
+		</sentence>
+	</text>
+</review>

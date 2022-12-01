@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="316" item="Sony MDR-V250V Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good_Valued_Headphones(1) ,(2) not(3) suitable(4) with(5) portable(6) players(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) quality(2) sound(3) and(4) volume(5) control(6) feature(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1,2"/>
+			<opinion polarity="+" feature="volume control" featWords="5,6" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) after(2) extended(3) use(4) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good_Value(1) and(2) durable(3) earphones(4) .(5) 
+			<opinion polarity="+" feature="durability" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			A_bit(1) uncomfortable(2) .(3) 
+			<opinion polarity="-" feature="headphones" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) go(3) with(4) a(5) Hi-Fi(6) or(7) lighter(8) set(9) of(10) headphones(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Sony(4) MDR-V250V(5) headphones(6) to(7) replace(8) the(9) terrible(10) earphones(11) that(12) came(13) with(14) my(15) portable(16) player(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Sound(1) quality(2) -(3) Good(4) enough(5) for(6) most(7) unprofessional(8) uses(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="4,5"/>
+		</sentence>
+		<sentence id="3">
+			Lastability(1) -(2) I(3) have(4) had(5) these(6) for(7) 7(8) months(9) now(10) ,(11) and(12) they(13) are(14) used(15) often(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			They(1) remain(2) in(3) the(4) same(5) condition(6) as(7) when(8) I(9) bought(10) them(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Definitely(1) durable(2) !(3) 
+			<opinion polarity="+" feature="durability" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="6">
+			Features(1) and(2) Comfort_The(3) volume(4) control(5) half(6) way(7) down(8) the(9) long(10) cord(11) was(12) perfect(13) for(14) my(15) usage(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) headphones(2) fitted(3) my(4) head(5) easily(6) as_well(7) .(8) 
+			<opinion polarity="+" feature="comfort" opWords="3,6"/>
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) after(3) extended(4) use(5) of(6) the(7) headphones(8) I(9) found(10) them(11) quite(12) uncomfortable(13) .(14) 
+			<opinion polarity="-" feature="comfort" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="9">
+			After(1) about(2) half(3) an(4) hour(5) ,(6) the(7) earphones(8) feel(9) like(10) they(11) are(12) crushing(13) your(14) ears(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) cord(2) for(3) these(4) headphones(5) are(6) very(7) long(8) ,(9) and(10) sometimes(11) got(12) in(13) the(14) way(15) .(16) 
+			<opinion polarity="+" feature="cord" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="11">
+			However(1) ,(2) the(3) length(4) was(5) useful(6) when(7) moving(8) around(9) at(10) a(11) desk(12) for_example(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Unportable_They(1) are(2) pretty(3) bulky(4) to(5) carry(6) around(7) with(8) an(9) mp3/walkman(10) player(11) .(12) 
+			<opinion polarity="-" feature="portability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="13">
+			However(1) they(2) are(3) perfect(4) for(5) indoor(6) ,(7) stationary(8) uses(9) .(10) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="398" item="2000 BMW Z3" rating="3">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) a(3) Cutie-Pa-Tutie(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cool(1) looking(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			SMALL(1) ,(2) unconfortable(3) seats(4) ,(5) BAD_IN_SNOW(6) !(7) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) car(2) is(3) ok(4) ,(5) just(6) do(7) not(8) get(9) it(10) if(11) your(12) area(13) gets(14) a_lot_of(15) snow(16) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			BMW(1) ...(2) Almost(3) every(4) persons(5) dream(6) car(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) certainly(3) my(4) brother-in-law(5) 's(6) dream(7) car(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			When(1) he(2) comes(3) down(4) to(5) visit(6) ,(7) we(8) have(9) so(10) many(11) stories(12) to(13) tell(14) about(15) this(16) car(17) ,(18) it(19) could(20) be(21) a(22) noval(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) like(3) a(4) serious(5) warning(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) live(3) in(4) a(5) really(6) snowy(7) area(8) ,(9) DO_NOT_GET_THIS_CAR(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Snow(1) and(2) this(3) BMW(4) do(5) not(6) mix(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			When(1) my(2) brother-in-law(3) stoped(4) by(5) ,(6) he(7) got(8) stuck(9) in(10) the(11) snow(12) and(13) we(14) had(15) to(16) push(17) the(18) car(19) ((20) do(21) not(22) be(23) fooled(24) ,(25) this(26) car(27) is(28) VERY(29) heavy(30) !(31) )(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="27" opWords="30" potency="29"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) you(3) can(4) do(5) some(6) serious(7) 360(8) in(9) the(10) snow(11) !(12) 
+		</sentence>
+		<sentence id="9">
+			BE(1) CAREFUL(2) !(3) 
+		</sentence>
+		<sentence id="10">
+			In(1) the(2) spring(3) and(4) summer(5) and(6) fall(7) ,(8) the(9) car(10) works(11) great(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="11,12"/>
+		</sentence>
+		<sentence id="11">
+			I(1) especially(2) like(3) how(4) the(5) top(6) goes(7) down(8) ((9) even_if(10) it(11) ruins(12) my(13) hair(14) )(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			It(1) 's(2) a(3) two(4) seater(5) though(6) ,(7) so(8) do(9) not(10) get(11) it(12) if(13) you(14) have(15) a_lot_of(16) people(17) in(18) your(19) home(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) Not(7) Mine(8) ....(9) Condition(10) :(11) UsedModel_Year(12) :(13) 2000Model(14) and(15) Options(16) :(17) Not(18) my(19) care(20) ...(21) It(22) 's(23) my(24) brother-in-law(25) 's(26) 
+		</sentence>
+	</text>
+</review>

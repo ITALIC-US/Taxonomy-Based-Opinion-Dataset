@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="755" item="2005 Ford Escape" rating="3">
+	<title>
+		<sentence id="1">
+			an(1) average(2) SUV(3) with(4) an(5) above-average(6) price(7) tag(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			styling(1) ,(2) ride(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			interior(1) quality(2) ,(3) gas(4) mileage(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good_SUV(1) that(2) seems(3) a_bit(4) over-priced(5) for(6) what(7) you(8) get(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) 2005(2) Ford_Escape(3) is(4) a(5) nice(6) SUV(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			The(1) problem(2) is(3) that(4) these(5) Escapes(6) are(7) beginning(8) to(9) look(10) dated(11) ,(12) and(13) the(14) revisions(15) Ford(16) made(17) to(18) them(19) are(20) not(21) enough(22) to(23) compete(24) with(25) the(26) competition(27) such(28) as(29) the(30) Honda_CR-V(31) ,(32) Toyota(33) Rav4(34) ,(35) Kia_Sportage(36) ,(37) and(38) so_on(39) .(40) 
+			<opinion polarity="-" feature="design" opWords="10,11"/>
+		</sentence>
+		<sentence id="3">
+			The(1) styling(2) is(3) nice(4) ,(5) and(6) the(7) Ford_Escape(8) looks(9) like(10) a(11) nice(12) SUV(13) for(14) the(15) money(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) inside(2) is(3) where(4) all(5) the(6) disapointments(7) start(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) Steering(2) wheel(3) has(4) tilt(5) ,(6) but(7) no(8) telescopic(9) ,(10) which(11) is(12) surprising(13) seeing(14) as(15) how(16) this(17) is(18) not(19) a(20) cheap(21) SUV(22) by(23) any(24) means(25) .(26) the(27) dashboard(28) is(29) a(30) hard(31) cheap(32) plastic(33) ,(34) which(35) looks(36) horrible(37) !(38) the(39) guages(40) are(41) all(42) small(43) ,(44) and(45) theres(46) nothing(47) nice(48) about(49) the(50) interior(51) .(52) 
+			<opinion polarity="-" feature="dash" featWords="28" opWords="36,37"/>
+			<opinion polarity="-" feature="price" opWords="19,21"/>
+		</sentence>
+		<sentence id="6">
+			The(1) door(2) panels(3) are(4) all(5) thin(6) and(7) plastic(8) ,(9) the(10) seat(11) fabric(12) is(13) of(14) low(15) quality(16) ,(17) etc.(18) Overall(19) ,(20) the(21) interior(22) of(23) this(24) SUV(25) is(26) lackluster(27) and(28) shows(29) why(30) Ford(31) is(32) doing(33) so(34) horrible(35) these(36) days(37) .(38) 
+			<opinion polarity="-" feature="car" opWords="33,35"/>
+		</sentence>
+		<sentence id="7">
+			Interior(1) aside(2) ,(3) this(4) SUV(5) rides(6) great(7) .(8) the(9) V(10) -(11) 6(12) engine(13) allows(14) QUICK(15) acceleration(16) and(17) and(18) a(19) smooth(20) ride(21) .(22) 
+			<opinion polarity="+" feature="ride quality" featWords="21" opWords="20"/>
+			<opinion polarity="+" feature="acceleration" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="ride quality" opWords="6,7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) transmission(2) seems(3) a_bit(4) sluggish(5) and(6) can(7) not(8) keep(9) up(10) with(11) the(12) engine(13) .(14) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) handling(2) of(3) the(4) Escape(5) is(6) great(7) ,(8) and(9) the(10) ride(11) is(12) good(13) .(14) 
+			<opinion polarity="+" feature="ride quality" featWords="11" opWords="13"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			This(1) car(2) is(3) HORRIBLE(4) on(5) gasoline(6) ,(7) with(8) an(9) average(10) tank(11) only(12) getting(13) me(14) about(15) 260_miles(16) ((17) highway(18) )(19) ,(20) however(21) ,(22) I(23) do(24) have(25) four(26) wheel(27) drive(28) ,(29) which(30) takes(31) more(32) gas(33) .(34) 
+			<opinion polarity="-" feature="gas" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) 4x4(2) is(3) automatic(4) ,(5) which(6) is(7) good(8) becuase(9) it(10) conserves(11) gas(12) ,(13) but(14) bad(15) becuase(16) you(17) can(18) not(19) put(20) it(21) into(22) 4(23) wheel(24) drive(25) ,(26) the(27) computer(28) does(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			Overall(1) the(2) 2005(3) Ford_Escape(4) is(5) a(6) good(7) SUV(8) that(9) needs(10) a(11) few(12) changes(13) to(14) really(15) compete(16) with(17) the(18) SUV(19) competition(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13,998(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) XLT(16) 
+		</sentence>
+	</text>
+</review>

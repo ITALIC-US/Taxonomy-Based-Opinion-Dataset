@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="359" item="Sony MDR-V700DJ Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Buyer_Beware(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cool(1) styling(2) ,(3) rotating(4) ear(5) cups(6) 
+			<opinion polarity="+" feature="appearance" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="earcups" featWords="5,6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extremely(1) poor(2) quality(3) ,(4) uncomfortable(5) 
+			<opinion polarity="-" feature="headphones" opWords="2,3" potency="1"/>
+			<opinion polarity="-" feature="comfort" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Get(1) the(2) Professional(3) series(4) headphones(5) instead(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) had(3) these(4) headphones(5) for(6) about(7) a(8) year(9) and(10) they(11) broke(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			For(1) $120(2) ,(3) it(4) seems(5) like(6) they(7) should(8) last(9) a(10) little(11) bit(12) longer(13) than(14) 1(15) year(16) ,(17) especially(18) considering(19) that(20) I(21) have(22) other(23) headphones(24) I(25) 've(26) owned(27) for(28) 5(29) years(30) !(31) 
+		</sentence>
+		<sentence id="3">
+			The(1) fault(2) in(3) the(4) design(5) is(6) the(7) rotating(8) connection(9) between(10) the(11) ear-cup(12) and(13) the(14) headband(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) made(3) of(4) very(5) cheap(6) plastic(7) ((8) not(9) metal(10) parts(11) !(12) )(13) and(14) cracks(15) after(16) extended(17) everyday(18) use(19) .(20) 
+			<opinion polarity="-" feature="durability" opWords="6,7" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			Then(1) the(2) ear(3) cups(4) no_longer(5) fit(6) snugly(7) ,(8) and(9) then(10) the(11) very(12) thin(13) wires(14) inside(15) get(16) pinched(17) and(18) short(19) out(20) the(21) headphones(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			I(1) 'd(2) go(3) for(4) the(5) professional(6) series(7) instead(8) ,(9) if(10) you(11) even(12) decide(13) to(14) stick(15) with(16) Sony(17) .(18) 
+		</sentence>
+	</text>
+</review>

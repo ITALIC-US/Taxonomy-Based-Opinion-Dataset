@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="900" item="JW Marriott Orlando Grande Lakes" rating="5">
+	<title>
+		<sentence id="1">
+			Lovely_Hotel(1) and(2) Great_Range_of_Amenities(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful_Grounds(1) ,(2) Great_Location(3) ,(4) Wonderful_Amenities(5) ,(6) Lazy_River(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Disappointing_Room_Service(1) and(2) Mini-Bar(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) definitely(3) recommend(4) this(5) hotel(6) ,(7) and(8) will(9) most(10) likely(11) return(12) in(13) the(14) future(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="4" potency="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) here(6) in(7) October_of_2006(8) for(9) four(10) nights(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) the(3) hotel(4) and(5) its(6) grounds(7) were(8) beautiful(9) ,(10) which(11) is(12) always(13) a(14) plus(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="4" opWords="9"/>
+			<opinion polarity="+" feature="grounds" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			This(1) particular(2) hotel(3) shares(4) its(5) grounds(6) with(7) the(8) Ritz_Carlton(9) ,(10) which(11) is(12) nice(13) because(14) it(15) allows(16) guests(17) the(18) convenience(19) of(20) using(21) their(22) spa(23) ,(24) restaurants(25) ,(26) etc.(27) This(28) is(29) in_addition(30) to(31) the(32) many(33) amenities(34) at(35) the(36) JW(37) ,(38) which(39) include(40) multiple(41) restaurants(42) ,(43) a(44) clothing(45) /(46) gift(47) store(48) ,(49) a(50) pool(51) ,(52) a(53) Lazy_River(54) ,(55) etc.(56) The(57) customer(58) service(59) was(60) very(61) good(62) ,(63) and(64) our(65) room(66) was(67) well-appointed(68) with(69) a(70) view(71) of(72) the(73) huge(74) pool(75) and(76) Lazy_River(77) ((78) Which(79) I(80) absolutely(81) loved(82) .(83) It(84) 's(85) so(86) relaxing(87) .(88) )(89) .(90) 
+			<opinion polarity="+" feature="swimming pool" featWords="75" opWords="74"/>
+			<opinion polarity="+" feature="swimming pool" featWords="75" opWords="82" potency="81"/>
+			<opinion polarity="+" feature="rooms" featWords="66" opWords="68"/>
+			<opinion polarity="+" feature="service" featWords="59" opWords="62" potency="61"/>
+		</sentence>
+		<sentence id="4">
+			Personally(1) ,(2) I(3) thought(4) the(5) location(6) of(7) the(8) hotel(9) was(10) great(11) .(12) 
+			<opinion polarity="+" feature="place" featWords="6" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) not(3) too(4) close(5) to(6) the(7) theme(8) parks(9) ,(10) but(11) close(12) enough(13) so_that(14) you(15) can(16) get(17) there(18) in(19) 10(20) to(21) 15(22) minutes(23) without(24) traffic(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			My(1) only(2) complaints(3) were(4) about(5) the(6) food(7) and(8) the(9) mini-bar(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			We(1) ordered(2) room(3) service(4) late(5) one(6) night(7) ,(8) and(9) the(10) food(11) was(12) definitely(13) not(14) up(15) to(16) par(17) ,(18) which(19) was(20) very(21) disappointing(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			I(1) was(2) also(3) disappointed(4) in(5) the(6) mini-bar(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) not(3) surprised(4) that(5) the(6) sodas(7) were(8) each(9) $(10) 7(11) for(12) 10_ounces(13) ,(14) however(15) ,(16) I(17) was(18) surprised(19) that(20) there(21) were(22) four(23) choices(24) of(25) soda(26) in_all(27) ((28) And(29) I(30) believe(31) they(32) were(33) all(34) Pepsi(35) products(36) ,(37) which(38) are(39) definitely(40) not(41) my(42) favorite(43) )(44) .(45) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) there(3) was(4) a(5) very(6) limited(7) selection(8) in(9) both(10) the(11) mini-bar(12) and(13) the(14) room(15) service(16) menu(17) ,(18) so(19) I(20) would(21) suggest(22) going(23) off-property(24) if(25) you(26) require(27) food(28) or(29) drinks(30) later(31) in(32) the(33) evening(34) .(35) 
+		</sentence>
+	</text>
+</review>

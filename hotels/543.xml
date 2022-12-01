@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="543" item="Omaha Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) DO_IT(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) affordable(2) 
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			you(1) get(2) what(3) you(4) pay(5) for(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Last_January(1) my(2) partner(3) and(4) I(5) went(6) to(7) Omaha(8) to(9) pick(10) up(11) his(12) grandmother(13) at(14) the(15) spur(16) of(17) the(18) moment(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) work(2) in(3) travel(4) ,(5) so(6) i(7) made(8) the(9) arrangments(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) booked(2) the(3) room(4) via(5) hotels(6) .(7) com(8) two(9) nights(10) before(11) we(12) had(13) to(14) leave(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			We(1) drove(2) to(3) Omaha(4) from(5) Chicago(6) after(7) work(8) on(9) friday(10) and(11) after(12) 8(13) hours(14) in(15) the(16) HHR(17) we(18) were(19) glad(20) to(21) arrive(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) a(4) very(5) hard(6) location(7) to(8) find(9) cause(10) its(11) located(12) next(13) to(14) the(15) highway(16) but(17) you(18) need(19) to(20) take(21) several(22) bizzar(23) side(24) streets(25) to(26) get(27) there(28) .(29) 
+			<opinion polarity="-" feature="place" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) non(2) smoking(3) room(4) we(5) booked(6) reeked(7) of(8) smoke(9) and(10) mold(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			There(1) were(2) used(3) towels(4) in(5) the(6) bathroom(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			And(1) the(2) carpet(3) always(4) felt(5) wet(6) .(7) 
+			<opinion polarity="-" feature="carpets" featWords="3" opWords="6" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			The(1) pool(2) had(3) an(4) odd(5) flim(6) on(7) it(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			As(1) a(2) very(3) very(4) very(5) cheap(6) person(7) i(8) kept(9) on(10) trying(11) to(12) remind(13) my(14) self(15) that(16) it(17) was(18) 39_dollars(19) a(20) night(21) but(22) not(23) even(24) that(25) could(26) bring(27) me(28) solice(29) .(30) 
+		</sentence>
+	</text>
+</review>

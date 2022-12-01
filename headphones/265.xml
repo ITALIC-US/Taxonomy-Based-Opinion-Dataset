@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="265" item="Grado SR-60 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) impressive(4) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="headphones" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Warm(1) ,(2) Clean(3) ,(4) Sound(5) ,(6) Excellent_Sensitivity(7) ,(8) Easy(9) to(10) Drive(11) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="3"/>
+			<opinion polarity="+" feature="portability" opWords="9,10,11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Twisting(1) cord(2) ,(3) Ugly_Looking(4) ,(5) Uncomfortable(6) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Grado(1) SR60(2) is(3) the(4) best(5) pair(6) of(7) headphone(8) I(9) have(10) ever(11) used(12) that(13) does(14) not(15) need(16) an(17) amp(18) .(19) 
+			<opinion polarity="+" feature="headphones" featWords="8" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) sparkling(3) highs(4) ,(5) good(6) mid(7) and(8) not(9) bad(10) bass(11) .(12) 
+			<opinion polarity="+" feature="highs" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="mids" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="bass" featWords="11" opWords="9,10"/>
+		</sentence>
+		<sentence id="3">
+			The(1) sensitivity(2) of(3) the(4) headphone(5) is(6) very(7) good(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			And(1) it(2) sounds(3) very(4) warm(5) ,(6) extremely(7) clean(8) and(9) open(10) .(11) 
+			<opinion polarity="+" feature="sound quality" opWords="3,5" potency="4"/>
+			<opinion polarity="+" feature="sound quality" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="sound quality" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) just(3) so(4) much(5) better(6) than(7) the(8) rest(9) headphones(10) of(11) its(12) price(13) range(14) that(15) there(16) is(17) almost(18) no(19) contest(20) at(21) all(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) two(3) things(4) I(5) think(6) Grado(7) can(8) improve(9) are(10) :(11) First(12) ,(13) the(14) cord(15) is(16) too(17) thick(18) and(19) long(20) and(21) it(22) can(23) easily(24) get(25) twisted(26) .(27) 
+			<opinion polarity="-" feature="cord" featWords="15" opWords="17,18"/>
+			<opinion polarity="-" feature="cord" featWords="15" opWords="17,20"/>
+			<opinion polarity="-" feature="cord" featWords="15" opWords="25,26"/>
+		</sentence>
+		<sentence id="7">
+			Second(1) ,(2) it(3) is(4) not(5) very(6) comfortable(7) to(8) wear(9) for(10) anything(11) longer(12) than(13) 20(14) minutes(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			But(1) ,(2) overall(3) ,(4) this(5) is(6) an(7) extremely(8) good(9) pair(10) of(11) headphone(12) and(13) it(14) can(15) be(16) easily(17) driven(18) by(19) a(20) mini(21) CD(22) player(23) .(24) 
+			<opinion polarity="+" feature="headphones" featWords="12" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="9">
+			Excellent(1) sound(2) quality(3) and(4) excellent(5) product(6) from(7) Grado(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="headphones" featWords="6" featRef="headphones" opWords="5"/>
+		</sentence>
+	</text>
+</review>

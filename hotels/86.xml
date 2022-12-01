@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="86" item="Don Cesar Beach Resort & Spa" rating="2">
+	<title>
+		<sentence id="1">
+			Tiny(1) rooms(2) ,(3) Overpriced(4) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Food(1) ,(2) poolside(3) service(4) ,(5) concierge(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			room(1) size(2) ,(3) interior(4) decorating(5) ,(6) bathrooms(7) ,(8) spa(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) visited(2) the(3) Don_Cesar(4) for(5) a(6) wedding(7) and(8) were(9) disappointed(10) to(11) find(12) that(13) our(14) $400/night(15) room(16) was(17) tiny(18) and(19) boasted(20) a(21) view(22) of(23) the(24) hotel(25) parking(26) lot(27) !(28) !(29) ((30) We(31) got(32) a(33) wedding(34) rate(35) discount(36) ,(37) but(38) still(39) the(40) room(41) was(42) way(43) overpriced(44) )(45) .(46) 
+			<opinion polarity="-" feature="price" opWords="44"/>
+		</sentence>
+		<sentence id="2">
+			Hotel(1) hallways(2) upstairs(3) were(4) painted(5) beige(6) with(7) maroon(8) and(9) olive(10) green(11) trim(12) ((13) aaack(14) )(15) and(16) garish(17) floral(18) carpet(19) and(20) the(21) rooms(22) definitely(23) were(24) not(25) au(26) courant(27) ,(28) design-wise(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			The(1) spa(2) was(3) also(4) sub-par(5) .(6) 
+			<opinion polarity="-" feature="spa" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Sauna(1) and(2) whirlpool(3) were(4) both(5) co-ed(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			I(1) canceled(2) my(3) appointment(4) after(5) seeing(6) the(7) facility(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			On(1) the(2) plus(3) side(4) ,(5) the(6) food(7) was(8) unusually(9) good(10) for(11) a(12) hotel(13) ,(14) poolside(15) service(16) was(17) very(18) good(19) ,(20) the(21) hotel(22) bar(23) and(24) pool(25) were(26) lovely(27) and(28) the(29) concierge(30) could(31) not(32) have(33) been(34) nicer(35) .(36) 
+			<opinion polarity="+" feature="food" featWords="7" opWords="10"/>
+			<opinion polarity="+" feature="food" featWords="23" opWords="27"/>
+			<opinion polarity="+" feature="swimming pool" featWords="25" opWords="27"/>
+		</sentence>
+		<sentence id="7">
+			We(1) would(2) not(3) stay(4) at(5) the(6) Don_Cesar(7) again(8) ,(9) but(10) we(11) might(12) go(13) back(14) for(15) dinner(16) and(17) a(18) drink(19) .(20) 
+		</sentence>
+	</text>
+</review>

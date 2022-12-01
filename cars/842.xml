@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="842" item="1999 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) Smells_Like_Bridgestone(2) /(3) Firestone(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smells_Like_Bridgestone(1) /(2) Firestone_Lies(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) happened(2) to(3) the(4) quality(5) of(6) the(7) Japanese(8) automobiles(9) and(10) the(11) honor(12) of(13) the(14) Japanese(15) workers(16) ?(17) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) have(3) not(4) recently(5) returned(6) from(7) Mars(8) ,(9) you(10) should(11) be(12) disgusted(13) at(14) seeing(15) the(16) arrogant(17) Japanese_President_of_Bridgestone(18) /(19) Firestone_Tires(20) in(21) the(22) media(23) stating(24) ,(25) "(26) Our(27) tires(28) are(29) good(30) .(31) The(32) belts(33) that(34) peel(35) off(36) the(37) tries(38) are(39) not(40) the(41) problem(42) that(43) caused(44) all(45) of(46) the(47) deaths(48) of(49) passengers(50) in(51) the(52) Ford_Explorers(53) .(54) "(55) Representatives_of_American_Honda_Motor_Company(56) may(57) be(58) acting(59) just(60) like(61) the(62) President_of_Bridgestone(63) /(64) Firestone(65) !(66) 
+			<opinion polarity="+" feature="tire" featWords="28" opWords="30"/>
+		</sentence>
+		<sentence id="3">
+			My(1) wife(2) ,(3) who(4) is(5) driving(6) her(7) third(8) standard(9) transmission(10) Honda(11) ,(12) has(13) had(14) a(15) problem(16) with(17) her(18) car(19) intermittently(20) stalling(21) and(22) not(23) being(24) able(25) to(26) put(27) the(28) car(29) in(30) gear(31) the(32) last(33) couple(34) of(35) months(36) ,(37) and(38) a(39) loud(40) squeak(41) whenever(42) the(43) clutch(44) was(45) used(46) .(47) 
+		</sentence>
+		<sentence id="4">
+			We(1) took(2) the(3) car(4) for(5) service(6) on(7) October_12_,_2000(8) to(9) Honda_South_Motors(10) at(11) 16165(12) South_Dixie_Highway(13) ,(14) Miami(15) ,(16) Florida(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) service(2) consultant(3) test(4) drove(5) the(6) car(7) and(8) could(9) not(10) replicate(11) the(12) problem(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) service(2) consultant(3) said(4) that(5) the(6) car(7) was(8) fine(9) ,(10) and(11) the(12) problem(13) was(14) the(15) DRIVER(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			He(1) then(2) did(3) admit(4) that(5) there(6) was(7) some(8) kind(9) of(10) recall(11) with(12) the(13) hydraulics(14) ,(15) which(16) they(17) would(18) replace(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) service(2) consultant(3) did(4) also(5) say(6) ,(7) he(8) did(9) not(10) think(11) this(12) would(13) resolve(14) the(15) problem(16) because(17) the(18) problem(19) ,(20) in(21) his(22) opinion(23) ,(24) was(25) the(26) DRIVER(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			On(1) Friday_,_October_13_,_2000(2) ,(3) I(4) called(5) American_Honda(6) at(7) 1(8) 800(9) 999-1009(10) and(11) spoke(12) with(13) Apriele_Mitchell(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			I(1) asked(2) Apriele(3) if(4) there(5) were(6) any(7) recalls(8) or(9) bulletins(10) on(11) a(12) 1999(13) Honda_Accord(14) standard(15) transmission(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Apriele(1) checked(2) with(3) her(4) supervisor(5) Michelle_Bertrand(6) and(7) she(8) assured(9) me(10) there(11) were(12) none(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			My(1) wife(2) called(3) the(4) dealership(5) where(6) we(7) purchased(8) the(9) car(10) and(11) explained(12) the(13) problem(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) person(2) read(3) her(4) ,(5) Technical_Service_Bulletin_Number(6) 98-084(7) ,(8) titled(9) "(10) Squeak(11) or(12) Groan(13) When(14) Clutch_Pedal(15) is(16) Pushed(17) "(18) ,(19) and(20) the(21) remedy(22) to(23) replace(24) the(25) clutch(26) master(27) cylinder(28) ,(29) slave(30) cylinder(31) ,(32) reservoir(33) ,(34) and(35) all(36) connecting(37) lines(38) .(39) "(40) I(41) called(42) Michelle_Bertrand(43) from(44) American_Honda(45) and(46) explained(47) the(48) situation(49) and(50) Technical_Service_Bulletin(51) 98-084(52) .(53) I(54) also(55) told(56) Michelle(57) that(58) I(59) was(60) a(61) five(62) time(63) new(64) Honda(65) owner(66) ,(67) and(68) if(69) there(70) was(71) a(72) potential(73) problem(74) with(75) the(76) clutch(77) hydraulics(78) ,(79) I(80) thought(81) this(82) 5(83) time(84) loyal(85) Honda(86) owner(87) deserved(88) a(89) notice(90) in(91) the(92) mail(93) about(94) this(95) problem(96) .(97) I(98) told(99) Michelle(100) this(101) situation(102) smelled(103) like(104) the(105) honorable(106) Japanese_President_of_Bridgestone(107) /(108) Firestone(109) ,(110) saying(111) ,(112) our(113) tires(114) are(115) good(116) .(117) I(118) asked(119) Michelle(120) if(121) she(122) could(123) send(124) me(125) a(126) copy(127) of(128) this(129) bulletin(130) ,(131) and(132) the(133) number(134) of(135) repairs(136) made(137) due(138) to(139) the(140) clutch(141) on(142) 1998(143) and(144) 1999(145) Honda_Accords(146) .(147) Michelle(148) said(149) ,(150) her(151) office(152) did(153) not(154) know(155) about(156) Technical_Service_Bulletin(157) 98-084(158) ,(159) and(160) the(161) only(162) way(163) Honda(164) would(165) know(166) how(167) many(168) repairs(169) were(170) made(171) to(172) the(173) clutch(174) would(175) be(176) to(177) call(178) EVERY_HONDA_DEALERSHIP(179) !(180) Michelle(181) said(182) they(183) could(184) not(185) spend(186) that(187) much(188) time(189) to(190) call(191) every(192) Honda(193) dealership(194) .(195) I(196) told(197) Michelle_I(198) thought(199) American_Honda(200) would(201) have(202) that(203) statistical(204) information(205) on(206) some(207) type(208) of(209) computer(210) report(211) .(212) I(213) once(214) again(215) referred(216) to(217) Honda(218) as(219) acting(220) like(221) Bridgestone(222) /(223) Firestone(224) .(225) Michelle(226) asked(227) me(228) what(229) I(230) wanted(231) ,(232) and(233) I(234) answered(235) for(236) Honda(237) to(238) admit(239) there(240) was(241) a(242) problem(243) ,(244) fix(245) it(246) ,(247) and(248) not(249) to(250) blame(251) the(252) driver(253) .(254) 
+			<opinion polarity="+" feature="tire" featWords="114" opWords="116"/>
+		</sentence>
+		<sentence id="14">
+			If(1) Honda(2) continued(3) to(4) insist(5) there(6) was(7) no(8) problem(9) with(10) this(11) car(12) ,(13) then(14) I(15) wanted(16) a(17) new(18) 2001(19) Honda_Accord(20) in(21) the(22) near(23) future(24) as(25) replacement(26) for(27) the(28) quality(29) Honda_I(30) thought(31) I(32) purchased(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			Michelle(1) said(2) No(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			If(1) Honda(2) gave(3) every(4) customer(5) a(6) new(7) car(8) who(9) had(10) a(11) complaint(12) ,(13) Honda(14) would(15) go(16) out(17) of(18) business(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			I(1) explained(2) to(3) Michelle(4) ,(5) I(6) was(7) in(8) a(9) position(10) similar(11) to(12) Regis_Philbin(13) ,(14) and(15) IS(16) THAT(17) HER_FINAL_ANSWER(18) !(19) 
+		</sentence>
+		<sentence id="18">
+			Michelle(1) said(2) ,(3) yes(4) ,(5) that(6) was(7) her(8) final(9) answer(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			I(1) called(2) the(3) service(4) department(5) where(6) we(7) purchased(8) the(9) car(10) and(11) asked(12) the(13) person(14) my(15) wife(16) had(17) spoken(18) with(19) for(20) a(21) copy(22) of(23) TSB(24) 98-084(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			The(1) person(2) said(3) they(4) could(5) not(6) send(7) a(8) copy(9) ,(10) and(11) they(12) were(13) not(14) supposed(15) to(16) tell(17) customers(18) about(19) the(20) existence(21) of(22) Technical_Service_Bulletins(23) .(24) 
+		</sentence>
+		<sentence id="21">
+			FOR(1) ALL_OWNERS_OF(2) 1998(3) AND(4) 1999(5) MANUAL_TRANSMISSION_HONDAS(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			IF(1) YOUR_CLUTCH_PEDAL_SQUEAKS_OR_GROANS(2) WHEN(3) THE_CLUTCH_PEDAL_IS_PUSHED(4) ,(5) GO_TO_YOUR_HONDA_DEALERSHIP_AND_MENTION_TECHNICAL_SERVICE_BULLETIN(6) 98-084(7) ,(8) AND_ASK_THEM_TO_REPLACE_THE_CLUTCH_MASTER_CYLINDER(9) ,(10) SLAVE_CYLINDER(11) ,(12) RESERVOIR(13) ,(14) ALL_CONNECTING_LINES(15) ,(16) AND(17) WHATEVER(18) ELSE_IS_RECOMMENDED_FROM_TSB_NUMBER(19) 98-084(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			If(1) the(2) dealership(3) says(4) no(5) ,(6) call(7) Michelle_Bertrand(8) at(9) 1-800(10) 999-1009(11) and(12) remind(13) her(14) of(15) TSB_Number(16) 98-084(17) ,(18) and(19) that(20) you(21) want(22) your(23) car(24) repaired(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			ALSO(1) FOR_EXISTING_OWNERS_OR_PROSPECTIVE_OWNERS_OF_HONDA_AUTOMOBILES(2) ,(3) LOG_ONTO(4) www.alldata.com.(5) CHECK_OUT_THE_AUTOMOTIVE_RECALLS_AND_TECHNICAL_SERVICE_BULLETINS_FOR(6) 1999(7) HONDA_ACCORD_LX_SEDAN(8) 4-2254cc(9) 2.3L(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			AFTER(1) YOU_INPUT_THIS_INFORMATION(2) ,(3) NOTICE_THE(4) "(5) IMPORTANT_NOTICE(6) "(7) THAT(8) COMES_IMMEDIATELY_ON_THE_SCREEN(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			It(1) states(2) :(3) "(4) AMERICAN_HONDA_MOTOR_COMPANY_HAS_REQUESTED_ALLDATA_TO_DENY_ACCESS_TO_ACURA_AND_HONDA_REPAIR_INFORMATION(5) .(6) EFFECTIVE_IMMEDIATELY_YOU_WILL_NOT_BE_ABLE_TO_REGISTER_FOR_ACCESS_TO_ACURA_OR_HONDA_VEHICLE_REPAIR_INFORMATION(7) ,(8) TECHNICAL_SERVICE_BULLETINS_OR_RECALLS(9) .(10) ALL(11) COMMENTS_SHOULD_BE_DIRECTED_TO(12) :(13) AMERICAN_HONDA_MOTOR_CO.(14) ,(15) INC._AT(16) 1-800-999-1009(17) .(18) If(19) this(20) does(21) not(22) smell(23) like(24) Bridgestone(25) /(26) Firestone(27) ,(28) I(29) do(30) not(31) know(32) what(33) does(34) !(35) That(36) is(37) the(38) same(39) Honda(40) number(41) for(42) Michelle_Bertrand(43) .(44) If(45) you(46) do(47) call(48) ,(49) ask(50) for(51) Michelle(52) .(53) Please(54) ask(55) her(56) if(57) the(58) above(59) disclaimer(60) by(61) Honda(62) ,(63) SMELLS_LIKE_THE_HONORABLE_JAPANESE_PRESIDENT_OF_BRIDGESTONE(64) /(65) FIRESTONE(66) ,(67) saying(68) his(69) tires(70) were(71) ok(72) ,(73) or(74) Honda(75) automobiles(76) are(77) perfect(78) .(79) If(80) Michelle(81) says(82) no(83) it(84) does(85) not(86) ,(87) or(88) we(89) are(90) not(91) Bridgestone(92) /(93) Firestone(94) ,(95) then(96) ask(97) her(98) if(99) that(100) is(101) her(102) Final_Answer(103) !(104) Furthermore(105) ,(106) for(107) all(108) potential(109) Honda(110) owners(111) ,(112) log(113) onto(114) www.nhtsa.gov(115) and(116) check(117) out(118) the(119) complaints(120) that(121) real(122) people(123) have(124) with(125) their(126) Honda(127) automobiles(128) .(129) Unfortunately(130) ,(131) there(132) are(133) numerous(134) complaints(135) about(136) the(137) car(138) stalling(139) .(140) I(141) currently(142) have(143) a(144) 1999(145) and(146) 2000(147) Honda(148) .(149) It(150) will(151) be(152) at_least(153) five(154) years(155) before(156) I(157) am(158) in(159) the(160) market(161) for(162) a(163) new(164) car(165) .(166) Up(167) until(168) this(169) disappointing(170) situation(171) with(172) my(173) 1999(174) Honda(175) ,(176) I(177) have(178) enjoyed(179) owning(180) Honda(181) automobiles(182) .(183) The(184) similarity(185) of(186) Bridgestone(187) /(188) Firestone(189) to(190) this(191) experience(192) will(193) definitely(194) cause(195) me(196) not(197) to(198) buy(199) another(200) Honda(201) .(202) A(203) good(204) commercial(205) will(206) be(207) ,(208) "(209) Sorry_Rhonda(210) ,(211) we(212) bought(213) our(214) last(215) Honda(216) .(217) "(218) Yes(219) ,(220) Michelle(221) ,(222) that(223) is(224) my(225) FINAL_ANSWER(226) !(227) 
+			<opinion polarity="+" feature="tire" featWords="70" opWords="72"/>
+		</sentence>
+	</text>
+</review>

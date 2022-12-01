@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="899" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			2000(1) Beetle(2) is(3) possessed(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cute(1) style(2) is(3) the(4) only(5) good(6) thing(7) about(8) it(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) electrical(2) problems(3) ,(4) air(5) conditioner(6) failure(7) ,(8) cheap(9) plastic(10) inside(11) fittings(12) that(13) break(14) all(15) the(16) time(17) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) one(4) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) 2000(2) Beetle(3) only(4) has(5) 40K_miles(6) on(7) it(8) and(9) its(10) gone(11) crazy(12) on(13) me(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) parked(2) the(3) car(4) and(5) upon(6) exit(7) the(8) alarm(9) when(10) off(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) to(3) restart(4) the(5) car(6) put(7) it(8) in(9) reverse(10) back(11) up(12) and(13) pull(14) back(15) in(16) the(17) parking(18) space(19) ,(20) turn(21) it(22) off(23) again(24) and(25) get(26) out(27) again(28) to(29) make(30) the(31) alarm(32) go(33) off(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			Then(1) when(2) I(3) returned(4) to(5) the(6) car(7) I(8) noticed(9) the(10) drivers(11) side(12) safety(13) light(14) had(15) never(16) gone(17) off(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Upon(1) starting(2) the(3) car(4) to(5) leave(6) I(7) turned(8) on(9) the(10) inside(11) dash(12) lights(13) and(14) another(15) alarm(16) sounded(17) ((18) a(19) constant(20) beep(21) )(22) I(23) decided(24) to(25) drive(26) home(27) without(28) dash(29) lights(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			However(1) then(2) a(3) beep(4) sounded(5) as_if(6) the(7) seat(8) belt(9) was(10) not(11) fastened(12) and(13) it(14) would(15) not(16) go(17) off(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Once(1) I(2) made(3) a(4) left(5) hand(6) turn(7) that(8) beep(9) stopped(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			When(1) I(2) got(3) home(4) with(5) it(6) the(7) remote(8) key(9) would(10) not(11) lock(12) the(13) doors(14) ,(15) however(16) it(17) would(18) unlock(19) them(20) and(21) also(22) unlock(23) the(24) trunk(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) the(3) drivers(4) side(5) safety(6) light(7) still(8) would(9) not(10) go(11) off(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) next(2) morning(3) that(4) safety(5) light(6) was(7) off(8) ,(9) however(10) when(11) I(12) went(13) to(14) drive(15) the(16) car(17) again(18) the(19) entire(20) procedure(21) started(22) all(23) over(24) again(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			Has(1) anyone(2) had(3) this(4) type(5) of(6) issue(7) with(8) their(9) 2000(10) Beetle(11) ?(12) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 11,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

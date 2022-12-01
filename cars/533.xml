@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="533" item="2003 Jeep Wrangler" rating="3">
+	<title>
+		<sentence id="1">
+			Never(1) Again(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) to(2) drive(3) ,(4) never(5) get(6) held(7) back(8) due(9) to(10) weather(11) ,(12) 4.0L(13) engine(14) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			it(1) 's(2) a(3) lemon(4) ,(5) Chrysler(6) needs(7) to(8) be(9) threatened(10) to(11) make(12) standard(13) warranty(14) /(15) lemon(16) law(17) repairs(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) never(3) buy(4) another(5) Jeep(6) ,(7) Chrysler(8) ,(9) or(10) Dodge(11) product(12) again(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			They(1) sold(2) me(3) a(4) lemon(5) and(6) refuse(7) to(8) take(9) responsibility(10) for(11) their(12) product(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) mine(4) in(5) the(6) shop(7) 6-7_times(8) already(9) and(10) I(11) 've(12) only(13) had(14) it(15) for(16) 7(17) months(18) and(19) 12,000_miles(20) It(21) 's(22) a(23) wrangler(24) ...(25) I(26) expect(27) it(28) to(29) be(30) noisy(31) ,(32) uncomfortable(33) ,(34) and(35) annoying(36) ...(37) but(38) it(39) 's(40) so(41) much(42) fun(43) to(44) drive(45) .(46) 
+			<opinion polarity="+" feature="car" opWords="43"/>
+			<opinion polarity="-" feature="car" opWords="36"/>
+			<opinion polarity="-" feature="comfort" opWords="33"/>
+			<opinion polarity="-" feature="car" opWords="31"/>
+		</sentence>
+		<sentence id="2">
+			My(1) brakes(2) WILL_NOT(3) stop(4) squeaking(5) .(6) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Jeep(1) 's(2) mechanic(3) labled(4) this(5) noise(6) as(7) "(8) excessive(9) "(10) on(11) the(12) first(13) trip(14) that(15) I(16) took(17) to(18) the(19) shop(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			This(1) noise(2) will(3) wake(4) your(5) neighbors(6) when(7) you(8) come(9) home(10) at(11) night(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			They(1) only(2) thing(3) they(4) offered(5) to(6) do(7) is(8) sand(9) down(10) the(11) consumable(12) parts(13) and(14) send(15) me(16) on(17) my(18) way(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) noise(2) is(3) one(4) thing(5) ,(6) but(7) Chrysler(8) and(9) my(10) Jeep(11) dealership(12) REFUSE(13) to(14) take(15) any(16) responsibility(17) for(18) the(19) problem(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			They(1) told(2) me(3) "(4) it(5) 's(6) supposed(7) to(8) do(9) that(10) "(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			I(1) know(2) that(3) Chrysler(4) products(5) DO(6) squeak(7) ...(8) but(9) the(10) noise(11) coming(12) from(13) my(14) brakes(15) is(16) not(17) the(18) same(19) noise(20) they(21) 're(22) telling(23) me(24) to(25) expect(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			IT(1) '(2) S_A_LEMON_AND_THE_MANUFACTURER_WILL_NOT_TAKE_RESPONSIBILITY_FOR_THEIR_PROBLEM(3) !(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+		<sentence id="10">
+			Not(1) only(2) is(3) it(4) loud(5) ,(6) it(7) sounds(8) very(9) dangerous(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="10" potency="9"/>
+			<opinion polarity="-" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) no(3) reliability(4) in(5) this(6) vehicle(7) and(8) I(9) will(10) never(11) purchase(12) another(13) Chrysler(14) product(15) again(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			My(1) family(2) purchased(3) four(4) 2003(5) Chrysler(6) vehicles(7) from(8) the(9) same(10) lot(11) and(12) my(13) stealership(14) refuses(15) to(16) help(17) me(18) !(19) !(20) !(21) 
+		</sentence>
+		<sentence id="13">
+			Please(1) take(2) this(3) into(4) consideration(5) when(6) buying(7) your(8) vehicle(9) unless(10) you(11) have(12) time(13) ,(14) money(15) and(16) patience(17) to(18) waste(19) !(20) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Freedom_Edition(16) 
+		</sentence>
+	</text>
+</review>

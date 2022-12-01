@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="730" item="1993 Nissan Altima" rating="2">
+	<title>
+		<sentence id="1">
+			80,000_miles(1) ,(2) kiss(3) it(4) goodbye(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) until(2) 80k(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			80k(1) and(2) on(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) ,(3) has(4) been(5) a(6) financial(7) nightmare(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			My(1) parents(2) bought(3) a(4) 1993(5) Nissan_Altima_SE(6) ((7) Sports(8) edition(9) )(10) ,(11) brand(12) new(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) was(3) the(4) answer(5) to(6) all(7) of(8) our(9) prayers(10) ,(11) ...(12) at(13) first(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			With(1) three(2) growing(3) kids(4) ,(5) and(6) a_lot_of(7) soccer(8) games(9) ,(10) and(11) tennis(12) matches(13) to(14) attend(15) ,(16) this(17) car(18) was(19) a(20) dream(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			My(1) dad(2) had(3) been(4) trying(5) to(6) talk(7) my(8) mom(9) into(10) the(11) more(12) maturnal(13) Bonneville(14) ,(15) but(16) my(17) sporty(18) mother(19) would(20) have(21) none(22) of(23) it(24) !(25) 
+		</sentence>
+		<sentence id="6">
+			Our(1) Altima(2) was(3) black(4) ,(5) and(6) automatic(7) with(8) all(9) the(10) bells(11) and(12) whistles(13) including(14) power(15) windows(16) ,(17) door(18) locks(19) ,(20) sunroof(21) ,(22) tilt(23) ,(24) cruise(25) ,(26) control(27) ,(28) etc.(29) This(30) car(31) ran(32) like(33) a(34) dream(35) .(36) .(37) until(38) what(39) I(40) scathingly(41) refer(42) to(43) as(44) D-Day(45) .(46) 
+		</sentence>
+		<sentence id="7">
+			At(1) right(2) about(3) 80,000_miles(4) ,(5) after(6) a(7) perfect(8) track(9) record(10) ,(11) things(12) just(13) started(14) to(15) break(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			We(1) hit(2) 80,000_miles(3) pretty(4) quick(5) ,(6) probably(7) after(8) about(9) 4(10) years(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			First(1) ,(2) the(3) sunroof(4) broke(5) ,(6) and(7) soaked(8) the(9) entire(10) car(11) every(12) time(13) it(14) rained(15) .(16) $1,500(17) later(18) ,(19) it(20) was(21) fixed(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			Two(1) weeks(2) later(3) ,(4) the(5) lock(6) on(7) the(8) passenger(9) door(10) would(11) no_longer(12) unlock(13) with(14) the(15) key(16) from(17) the(18) outside(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			Two(1) weeks(2) after(3) that(4) ,(5) the(6) window(7) would(8) no_longer(9) go(10) down(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Now(1) ,(2) it(3) 's(4) nearly(5) 2001(6) ,(7) and(8) my(9) mother(10) still(11) owns(12) this(13) jalopy(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			It(1) now(2) sports(3) ,(4) a(5) rebuilt(6) engine(7) ,(8) its(9) third(10) sunroof(11) ,(12) the(13) passenger(14) door(15) lock(16) is(17) now(18) broken(19) again(20) ,(21) and(22) it(23) growls(24) like(25) a(26) constipated(27) bear(28) every(29) time(30) you(31) press(32) the(33) gas(34) pedal(35) .(36) 
+		</sentence>
+		<sentence id="14">
+			Her(1) CD(2) player(3) has(4) now(5) stopped(6) working(7) ,(8) and(9) it(10) sounds(11) like(12) anything(13) you(14) try(15) to(16) play(17) ,(18) features(19) the(20) singer(21) gargling(22) with(23) about(24) 4(25) oz(26) .(27) of(28) Scope(29) while(30) attempting(31) to(32) sing(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			Her(1) transmission(2) is(3) sticky(4) ,(5) and(6) her(7) headlights(8) have(9) recently(10) started(11) a(12) very(13) interesting(14) flicker(15) ,(16) that(17) leads(18) people(19) to(20) think(21) you(22) 're(23) flashing(24) your(25) brights(26) at(27) them(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) not(4) wonderful(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="4,5"/>
+		</sentence>
+		<sentence id="17">
+			In(1) my(2) opinion(3) ,(4) Nissan(5) 's(6) are(7) a(8) *(9) dream(10) *(11) until(12) 80,000_miles(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			Then(1) ,(2) I(3) would(4) not(5) wish(6) one(7) on(8) an(9) enemy(10) .(11) 
+		</sentence>
+	</text>
+</review>

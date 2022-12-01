@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="145" item="2004 BMW 3 Series" rating="5">
+	<title>
+		<sentence id="1">
+			Warning(1) :(2) BMW(3) 's(4) are(5) addictive(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Driving(1) is(2) fun(3) again(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Acceleration(1) ,(2) tight(3) handling(4) ,(5) comfy(6) interior(7) ,(8) great(9) standard(10) sound(11) system(12) .(13) 
+			<opinion polarity="+" feature="sound system" featWords="11,12" opWords="9"/>
+			<opinion polarity="+" feature="interior" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="handling" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) a_lot_of(2) rear(3) interior(4) leg(5) room(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Definitely(1) get(2) this(3) car(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Great(1) warranty(2) .(3) 
+			<opinion polarity="+" feature="warranty" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) "(2) graduated(3) "(4) from(5) a(6) German(7) sedan(8) ,(9) VW_Passat(10) V6(11) ,(12) to(13) a(14) BMW(15) 330i(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Suddenly(1) I(2) no_longer(3) mind(4) sitting(5) in(6) commuter(7) traffic(8) for(9) up(10) to(11) an(12) hour(13) and(14) a_half(15) per(16) work(17) day(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) a(3) straight(4) six(5) cylinder(6) BMW(7) 300i(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			It(1) feels(2) solid(3) like(4) a(5) tank(6) yet(7) agile(8) like(9) the(10) Tasmanian(11) devil(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) find(2) myself(3) seeking(4) out(5) winding(6) ,(7) curvy(8) ,(9) country(10) roads(11) in(12) my(13) bucolic(14) Boston(15) suburb(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			No_longer(1) do(2) I(3) want(4) to(5) break(6) as(7) I(8) approach(9) a(10) curve(11) ,(12) but(13) let(14) the(15) car(16) do(17) the(18) work(19) as(20) I(21) accelerate(22) out(23) of(24) a(25) curve(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			In(1) looking(2) under(3) the(4) hood(5) ,(6) there(7) was(8) actually(9) enough(10) free(11) room(12) to(13) put(14) in(15) a(16) small(17) microwave(18) on(19) the(20) other(21) side(22) of(23) the(24) glove(25) compartment(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			Acceleration(1) can(2) be(3) deceptive(4) as(5) it(6) gracefully(7) glides(8) up(9) to(10) 80(11) mph(12) on(13) the(14) freeway(15) without(16) effort(17) and(18) virtually(19) no(20) sound(21) .(22) 
+			<opinion polarity="-" feature="acceleration" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Interior(1) amenities(2) include(3) a(4) Harmon_Kardon(5) sound(6) system(7) ,(8) moonroof(9) ,(10) three(11) settings(12) for(13) the(14) seat(15) heaters(16) ((17) and(18) these(19) are(20) no(21) ordinary(22) seat(23) heaters(24) and(25) 3(26) memory(27) buttons(28) for(29) the(30) driver(31) seat(32) .(33) Other(34) cool(35) functions(36) .(37) Automatically(38) adjusting(39) windshield(40) wipers(41) .(42) Right(43) side(44) mirror(45) tilts(46) down(47) when(48) parking(49) so(50) you(51) can(52) see(53) lines(54) when(55) backing(56) in(57) to(58) a(59) spot(60) .(61) Complete(62) stereo(63) control(64) from(65) steering(66) wheel(67) .(68) Cross(69) country(70) trip(71) averaged(72) 30(73) mpg(74) on(75) the(76) highway(77) .(78) Con(79) :(80) Not(81) great(82) in(83) snow(84) .(85) Need(86) snow(87) tires(88) or(89) get(90) 300xi.My(91) only(92) regret(93) is(94) not(95) investing(96) in(97) this(98) guilty(99) pleasure(100) sooner(101) .(102) Amount_Paid(103) ((104) US(105) $(106) )(107) :(108) 29500(109) Condition(110) :(111) UsedModel_Year(112) :(113) 2004Model(114) and(115) Options(116) :(117) 300i(118) Automatic(119) 
+			<opinion polarity="-" feature="car" opWords="81,82"/>
+		</sentence>
+	</text>
+</review>

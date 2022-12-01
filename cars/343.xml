@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="343" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Lowdown_On_a_Good_Solid_Car(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas(1) mileage(2) rocks(3) ,(4) safe(5) &(6) mostly(7) dependable(8) ,(9) not(10) obnoxiously(11) embarassing(12) ,(13) affordable(14) price(15) tag(16) 
+			<opinion polarity="+" feature="price" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+			<opinion polarity="+" feature="safety" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) tag(2) of(3) parts(4) ,(5) not(6) the(7) coolest(8) car(9) on(10) the(11) road(12) ,(13) bad(14) for(15) long(16) trips(17) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Reccomend(1) for(2) driving(3) around(4) town(5) ,(6) as(7) a(8) first(9) car(10) and(11) /(12) or(13) on(14) a(15) teeny(16) budget(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			New(1) ones(2) definitely(3) reccomended(4) for(5) about(6) 100k_miles(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My_Saturn(1) SL1(2) was(3) my(4) first(5) car(6) ,(7) bought(8) in_1997(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) price(2) was(3) right(4) ,(5) and(6) let(7) 's(8) face(9) it(10) ,(11) the(12) second(13) I(14) was(15) able(16) to(17) get(18) a(19) car(20) ,(21) I(22) bought(23) one(24) of(25) the(26) first(27) ones(28) I(29) looked(30) at(31) .(32) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) drove(2) this(3) car(4) for(5) over(6) 6(7) years(8) ,(9) and(10) although(11) I(12) have(13) never(14) owned(15) another(16) car(17) ((18) so(19) nothing(20) to(21) compare(22) it(23) to(24) ,(25) aside(26) from(27) riding(28) in(29) other(30) cars(31) and(32) borrowing(33) /(34) trading(35) cars(36) for(37) various(38) reasons(39) )(40) I(41) think(42) I(43) can(44) give(45) the(46) lowdown(47) pretty(48) accurately(49) on(50) saturn(51) .(52) 
+		</sentence>
+		<sentence id="4">
+			Really(1) Cool_Car(2) ?(3) ?(4) ?(5) 
+		</sentence>
+		<sentence id="5">
+			Okay(1) ,(2) not(3) really(4) ,(5) but(6) It(7) will(8) get(9) you(10) from(11) here(12) to(13) there(14) &(15) most(16) the(17) time(18) it(19) wont(20) embarass(21) you(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			Being(1) almost(2) 12(3) years(4) old(5) ,(6) it(7) could(8) be(9) the(10) butt(11) of(12) a(13) few(14) jokes(15) ,(16) but(17) you(18) have(19) to(20) be(21) really(22) shallow(23) /(24) oversensitive(25) to(26) not(27) laugh(28) back(29) --(30) oh(31) well(32) ,(33) again(34) it(35) gets(36) you(37) from(38) here(39) to(40) there(41) .(42) 
+		</sentence>
+		<sentence id="7">
+			Safety_Wowza(1) ,(2) nuclear(3) war(4) could(5) strike(6) in(7) my(8) town(9) ,(10) and(11) my(12) car(13) still(14) would(15) not(16) have(17) a(18) dent(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) been(3) in(4) several(5) fender-benders(6) in(7) my(8) saturn(9) ((10) I(11) 'm(12) not(13) the(14) worlds(15) best(16) driver(17) )(18) ,(19) and(20) you(21) would(22) never(23) know(24) looking(25) at(26) that(27) thing(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			Although(1) this(2) car(3) is(4) pretty(5) much(6) plastic(7) ,(8) the(9) exterior(10) just(11) does(12) not(13) get(14) banged(15) up(16) ,(17) no(18) matter(19) what(20) you(21) put(22) it(23) through(24) .(25) .(26) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			Incredible(1) .(2) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="11">
+			Gas_Mileage_This(1) was(2) one(3) of(4) this(5) car(6) 's(7) best(8) features(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) gas(2) mileage(3) was(4) amazing(5) .(6) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			One(1) 9_gallon(2) tank(3) of(4) gas(5) lasted(6) me(7) about(8) a(9) week(10) ((11) which(12) granted(13) I(14) did(15) not(16) have(17) a(18) regular(19) long(20) way(21) to(22) drive(23) ,(24) but(25) still(26) )(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			I(1) never(2) figured(3) out(4) actual(5) MPG(6) ,(7) but(8) I(9) 'm(10) told(11) it(12) 's(13) comparable(14) to(15) a(16) honda(17) civic(18) in(19) that(20) respect(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			Problems(1) :(2) Okay(3) ,(4) heres(5) the(6) sticky(7) stuff(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) this(4) car(5) has(6) had(7) an(8) average(9) of(10) 1(11) $400(12) ((13) parts(14) and(15) labor(16) )(17) problem(18) per(19) year(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			I(1) do(2) not(3) know(4) much(5) about(6) cars(7) ,(8) But_I(9) can(10) say(11) every(12) time(13) something(14) broke(15) ,(16) I(17) was(18) told(19) ((20) by(21) various(22) mechanics(23) and(24) my(25) dad(26) )(27) "(28) This(29) is(30) an(31) average(32) car(33) problem(34) ,(35) and(36) it(37) usually(38) needs(39) to(40) be(41) replaced(42) at(43) this(44) time(45) in(46) the(47) mileage(48) .(49) "(50) Personally(51) ,(52) with(53) as(54) much(55) as(56) I(57) depend(58) on(59) my(60) car(61) ,(62) that(63) can(64) still(65) really(66) suck(67) and(68) take(69) a(70) few(71) years(72) off(73) my(74) life(75) as(76) it(77) 's(78) breaking(79) down(80) on(81) the(82) side(83) of(84) the(85) road(86) or(87) making(88) a(89) funky(90) scary(91) noise(92) ,(93) but(94) I(95) guess(96) that(97) just(98) depends(99) on(100) your(101) personal(102) situation(103) .(104) 
+		</sentence>
+		<sentence id="18">
+			Bottom_Line(1) --(2) Saturns(3) are(4) a(5) great(6) price(7) ,(8) and(9) overall(10) dependable(11) ,(12) but(13) I(14) 'm(15) told(16) there(17) horrible(18) to(19) work(20) on(21) ((22) with(23) something(24) as(25) simple(26) as(27) changing(28) a(29) battery(30) )(31) and(32) would-be(33) inexpensive(34) aftermarket(35) parts(36) do(37) not(38) apply(39) to(40) this(41) car(42) .(43) 
+			<opinion polarity="+" feature="reliability" opWords="11"/>
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="19">
+			I(1) found(2) parts(3) places(4) often(5) telling(6) me(7) "(8) Oh(9) ,(10) for(11) saturns(12) ,(13) you(14) need(15) to(16) go(17) to(18) the(19) dealer(20) for(21) this(22) "(23) which(24) ends(25) up(26) costing(27) you(28) 3_times(29) as(30) much(31) as(32) its(33) aftermarket(34) twin(35) that(36) you(37) could(38) have(39) put(40) in(41) any(42) other(43) type(44) of(45) car(46) .(47) 
+		</sentence>
+		<sentence id="20">
+			To(1) fix(2) ,(3) its(4) like(5) a(6) foreign(7) car(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			At(1) 100k_miles(2) ,(3) I(4) had(5) the(6) bulk(7) of(8) my(9) problems(10) ,(11) and(12) things(13) were(14) calm(15) till(16) about(17) 140k(18) ((19) now(20) ,(21) which(22) I(23) 'm(24) figuring(25) ,(26) time(27) to(28) upgrade(29) anyway(30) .(31) )(32) Laundry(33) list(34) of(35) problems(36) include(37) :(38) Alternator(39) ,(40) fan(41) belt(42) ,(43) battery(44) ,(45) break(46) pads(47) ,(48) cadillidic(49) converter(50) ((51) not(52) sure(53) if(54) I(55) spelled(56) that(57) right(58) )(59) ,(60) fuel(61) pump(62) ,(63) timing(64) chain(65) ,(66) auto(67) seat(68) belt(69) ((70) which(71) by(72) the(73) way(74) ,(75) never(76) figured(77) out(78) the(79) point(80) in(81) that(82) lame(83) invention(84) )(85) ,(86) manual(87) windows(88) ,(89) seat(90) tilt(91) handle(92) ,(93) and(94) a(95) partridge(96) in(97) a(98) pear(99) tree(100) ...(101) thats(102) all(103) I(104) can(105) think(106) of(107) ,(108) but(109) there(110) may(111) have(112) been(113) a(114) couple(115) more(116) through(117) the(118) years(119) ((120) obviously(121) nothing(122) major(123) ,(124) since(125) I(126) can(127) not(128) remember(129) it(130) .(131) )(132) I(133) know(134) the(135) way(136) a(137) car(138) runs(139) depends(140) a_lot(141) on(142) how(143) you(144) drive(145) it(146) ,(147) and(148) though(149) I(150) did(151) not(152) have(153) far(154) distances(155) to(156) drive(157) ,(158) I(159) drove(160) it(161) HARD(162) ((163) or(164) like(165) my(166) dad(167) says(168) ,(169) "(170) like(171) its(172) a(173) d(174) ***(175) sports(176) car(177) "(178) .(179) )(180) I(181) tend(182) to(183) like(184) to(185) punch(186) the(187) gas(188) when(189) the(190) light(191) turns(192) green(193) ,(194) and(195) found(196) myself(197) a(198) few(199) years(200) into(201) ownership(202) saying(203) "(204) tune(205) up(206) ?(207) ?(208) whats(209) that(210) ?(211) ?(212) "(213) and(214) discovered(215) how(216) expensive(217) that(218) was(219) ,(220) and(221) therefore(222) avoided(223) it(224) .(225) 
+		</sentence>
+		<sentence id="22">
+			I(1) did(2) the(3) oil(4) change(5) thing(6) every(7) 3k_miles(8) ,(9) but(10) that(11) was(12) the(13) only(14) real(15) maintenance(16) I(17) did(18) regularly(19) --(20) and(21) it(22) still(23) ran(24) well(25) ,(26) so(27) I(28) would(29) say(30) thats(31) pretty(32) impressive(33) .(34) 
+			<opinion polarity="+" feature="car" opWords="33" potency="32"/>
+		</sentence>
+		<sentence id="23">
+			In(1) short(2) ,(3) its(4) a(5) reliable(6) car(7) ,(8) but(9) if(10) you(11) 're(12) getting(13) a(14) 92(15) '(16) or(17) a(18) saturn(19) with(20) as(21) high(22) of(23) mileage(24) as(25) I(26) have(27) ,(28) you(29) may(30) want(31) to(32) invest(33) in(34) a(35) cell(36) phone(37) and(38) /(39) or(40) AAA(41) .(42) 
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+		</sentence>
+		<sentence id="24">
+			In(1) The_End(2) :(3) Although(4) I(5) 'm(6) ready(7) for(8) a(9) new(10) car(11) ,(12) I(13) can(14) honestly(15) say(16) ,(17) I(18) 'm(19) shedding(20) a(21) tear(22) or(23) two(24) over(25) saying(26) goodbye(27) to(28) this(29) one(30) .(31) 
+		</sentence>
+		<sentence id="25">
+			Not(1) only(2) for(3) the(4) memories(5) with(6) this(7) car(8) ,(9) or(10) my(11) chick(12) sentimentality(13) ((14) and(15) lets(16) face(17) it(18) ,(19) the(20) fear(21) of(22) big(23) car(24) payments(25) ,(26) )(27) but(28) also(29) that(30) my(31) Saturn(32) has(33) been(34) good(35) to(36) me(37) ,(38) and(39) good(40) cars(41) that(42) you(43) have(44) for(45) years(46) become(47) somewhat(48) like(49) an(50) old(51) friend(52) .(53) 
+			<opinion polarity="+" feature="car" featWords="41" opWords="40"/>
+		</sentence>
+		<sentence id="26">
+			I(1) do(2) reccomend(3) a(4) car(5) of(6) my(7) saturn(8) 's(9) age(10) /(11) mileage(12) /(13) nature(14) to(15) someone(16) on(17) a(18) teensy(19) budget(20) ,(21) and(22) knows(23) a(24) thing(25) or(26) two(27) about(28) cars(29) if(30) something(31) goes(32) wrong(33) ;(34) or(35) to(36) a(37) teen(38) for(39) a(40) first(41) "(42) learning(43) "(44) car(45) &(46) just(47) wants(48) it(49) to(50) drive(51) around(52) town(53) --(54) because(55) ,(56) let(57) 's(58) face(59) it(60) ,(61) it(62) may(63) break(64) down(65) now(66) and(67) again(68) ,(69) but(70) its(71) safe(72) accident(73) wise(74) ,(75) dependendable(76) for(77) what(78) its(79) worth(80) ,(81) inexpensive(82) with(83) pricetag(84) and(85) gas(86) ,(87) and(88) if(89) it(90) 's(91) totalled(92) ,(93) nobody(94) broke(95) the(96) bank(97) to(98) get(99) it(100) .(101) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) SL1(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="340" item="Sony MDR-NC6 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Noise(1) cancellor(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) ,(2) aaa(3) battery(4) gives(5) u(6) 30(7) +(8) hrs(9) playback(10) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			slightly(1) big(2) 
+			<opinion polarity="-" feature="size" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) with(3) good(4) discount(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hi(1) guys(2) and(3) girls(4) today(5) i(6) am(7) here(8) to(9) share(10) with(11) you(12) my(13) experience(14) about(15) tis(16) product(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) searching(3) for(4) a(5) nice(6) headphone(7) which(8) could(9) give(10) me(11) best(12) sound(13) quality(14) since(15) last(16) year(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Last(1) 6(2) months(3) have(4) awesome(5) for(6) me(7) as(8) i(9) have(10) received(11) one(12) of(13) the(14) best(15) headphone(16) ((17) sony(18) mdr(19) nc6(20) )(21) as(22) a(23) gift(24) from(25) my(26) dad(27) .(28) it(29) produces(30) awesome(31) sound(32) that(33) can(34) touch(35) your(36) soul(37) ,(38) heart(39) ,(40) brain(41) all(42) together(43) .(44) 
+			<opinion polarity="+" feature="sound quality" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="4">
+			It(1) runs(2) best(3) with(4) any(5) music(6) player(7) either(8) pc(9) or(10) ipod(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) are(3) listening(4) to(5) a(6) hard(7) rock(8) track(9) it(10) will(11) make(12) your(13) body(14) more(15) active(16) and(17) if(18) listening(19) to(20) a(21) soft(22) track(23) it(24) can(25) bring(26) tears(27) in(28) your(29) eyes(30) .(31) i(32) think(33) its(34) one(35) of(36) the(37) best(38) headphones(39) i(40) have(41) ever(42) met(43) with(44) .(45) it(46) is(47) my(48) love(49) .(50) 
+			<opinion polarity="+" feature="headphones" featWords="39" opWords="38"/>
+		</sentence>
+		<sentence id="6">
+			More(1) over(2) its(3) noise(4) cancelling(5) ability(6) is(7) just(8) great(9) .(10) 
+			<opinion polarity="+" feature="isolation" featWords="4,5" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			Wherever(1) you(2) are(3) in(4) traffic(5) ,(6) train(7) ,(8) flight(9) ,(10) you(11) get(12) the(13) best(14) sound(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			You(1) may(2) buy(3) some(4) other(5) product(6) but(7) then(8) you(9) will(10) notice(11) that(12) other(13) headphone(14) have(15) problems(16) like(17) voice(18) cracking(19) ,(20) disturbance(21) ,(22) wire(23) loosing(24) ,(25) ear(26) pads(27) catch(28) dust(29) soon(30) but(31) with(32) this(33) one(34) you(35) wont(36) be(37) experiencing(38) this(39) problem(40) .(41) 
+		</sentence>
+		<sentence id="9">
+			As(1) per(2) my(3) thinking(4) this(5) head(6) phone(7) is(8) one(9) of(10) the(11) best(12) headphone(13) so(14) definately(15) give(16) it(17) a(18) try(19) .(20) 
+			<opinion polarity="+" feature="headphones" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="10">
+			Buy(1) it(2) if(3) get(4) a(5) good(6) discount(7) from(8) some(9) shop(10) or(11) mall(12) because(13) you(14) might(15) not(16) buy(17) with(18) its(19) actual(20) price(21) cause(22) it(23) is(24) abit(25) costly(26) .(27) i(28) got(29) it(30) as(31) a(32) gift(33) so(34) i(35) am(36) happy(37) 
+			<opinion polarity="-" feature="price" featWords="21" opWords="26"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="617" item="2003 Honda Pilot" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) 100_%(2) Quality(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Drives_Nicely(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Makes(1) a(2) noise(3) and(4) inflicts(5) vibrations(6) on(7) fuel(8) system(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Honda(1) has(2) to(3) fix(4) their(5) problems(6) before(7) assuring(8) it(9) customer(10) a(11) quality(12) product(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Vehicle(2) presents(3) a(4) loud(5) noise(6) and(7) vibration(8) on(9) the(10) gas(11) tank(12) when(13) the(14) fuel(15) level(16) is(17) between(18) 50(19) to(20) 85_%(21) full(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			I(1) brought(2) up(3) the(4) issue(5) to(6) Honda(7) soon(8) after(9) I(10) purchased(11) the(12) vehicle(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Honda(1) replied(2) in(3) writing(4) that(5) the(6) problem(7) is(8) normal(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) not(3) such(4) a(5) thing(6) as(7) a(8) normal(9) defect(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) concern(3) about(4) vapors(5) level(6) on(7) the(8) gas(9) tank(10) due(11) to(12) high(13) turbulence(14) ,(15) and(16) the(17) potential(18) for(19) fatigue(20) due(21) on(22) the(23) mechanical(24) connections(25) of(26) the(27) fuels(28) system(29) due(30) to(31) frequent(32) shock(33) vibrations(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			Plus(1) the(2) disturbing(3) noise(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) the(2) vehicle(3) is(4) an(5) average(6) SUV(7) ,(8) not(9) a(10) quality(11) product(12) for_sure(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			It(1) has(2) problem(3) on(4) the(5) finishing(6) .(7) it(8) does(9) have(10) squeaking(11) noises(12) on(13) different(14) parts(15) of(16) the(17) car(18) ((19) internal(20) )(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			It(1) drives(2) nicely(3) ,(4) and(5) it(6) is(7) smooth(8) ,(9) on(10) the(11) road(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="ride quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="10">
+			Fuel(1) consumption(2) is(3) average(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Ex-L(16) 
+		</sentence>
+	</text>
+</review>

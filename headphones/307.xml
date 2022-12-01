@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="307" item="JVC HAFX33P Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			JVC_Marshmallows(1) --(2) Killer_Bass(3) and(4) Small_Size(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) isolation(2) ,(3) good(4) bass(5) ,(6) and(7) small(8) size(9) wrapped(10) in(11) a(12) $20(13) package(14) .(15) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="size" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) faithful(6) sounding(7) headphones(8) --(9) this(10) ai(11) not(12) it(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			While(1) the(2) JVC_Marshmallows(3) do(4) not(5) provide(6) hi-fi(7) sound(8) ,(9) they(10) serve(11) a(12) good(13) purpose(14) for(15) replacement(16) earbuds(17) for(18) portable(19) players(20) .(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Ever(1) since(2) I(3) had(4) gotten(5) my(6) iPod(7) I(8) have(9) been(10) using(11) the(12) boring(13) ,(14) stock(15) earbuds(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) was(3) mediocre(4) and(5) the(6) earbuds(7) provided(8) no(9) isolation(10) .(11) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="earbuds" featWords="7" opWords="9,10"/>
+		</sentence>
+		<sentence id="3">
+			Plus(1) I(2) got(3) dirty(4) looks(5) from(6) others(7) from(8) playing(9) my(10) music(11) because(12) they(13) were(14) open(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			So(1) these(2) looked(3) like(4) a(5) bargain(6) --(7) a_lot_of(8) people(9) made(10) good(11) comments(12) on(13) these(14) online(15) and(16) were(17) on(18) sale(19) at(20) Circuit_City(21) for(22) ten_dollars(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			For(1) that(2) money(3) I(4) got(5) small(6) earbuds(7) that(8) provide(9) isolation(10) and(11) fair(12) sound(13) quality(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) you(3) get(4) from(5) these(6) is(7) far(8) from(9) the(10) typical(11) studio(12) monitoring(13) headphones(14) ((15) like(16) the(17) Sennheiser(18) HD280(19) PRO(20) )(21) however(22) these(23) do(24) have(25) a(26) kickin(27) '(28) sound(29) to(30) them(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			You(1) definitely(2) get(3) slamming(4) bass(5) and(6) sharp(7) highs(8) ,(9) but(10) the(11) mids(12) are(13) still(14) present(15) .(16) 
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="highs" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			Sometimes(1) the(2) bass(3) can(4) be(5) overpowering(6) for(7) some(8) music(9) types(10) ,(11) but(12) electronica(13) /(14) techno(15) music(16) works(17) best(18) with(19) these(20) .(21) 
+			<opinion polarity="-" feature="bass" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) comfortable(3) ,(4) with(5) trademark(6) marshmallow(7) pads(8) ,(9) and(10) come(11) with(12) spares(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			They(1) come(2) in(3) a(4) large(5) variety(6) of(7) colors(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			The(1) cord(2) is(3) the(4) industry(5) standard(6) 4_feet(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			As(1) aforementioned(2) ,(3) you(4) get(5) plenty(6) isolation(7) from(8) the(9) world(10) around(11) you(12) .(13) 
+			<opinion polarity="+" feature="isolation" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			These(1) are(2) decent(3) canalphones(4) for(5) the(6) money(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			You(1) will(2) not(3) get(4) the(5) balanced(6) sound(7) of(8) hi-fi(9) headphones(10) but(11) they(12) work(13) well(14) with(15) the(16) iPod(17) when(18) needed(19) and(20) for(21) $10-$20(22) I(23) think(24) I(25) made(26) a(27) good(28) purchase(29) .(30) 
+			<opinion polarity="+" feature="headphones" opWords="28,29"/>
+		</sentence>
+	</text>
+</review>

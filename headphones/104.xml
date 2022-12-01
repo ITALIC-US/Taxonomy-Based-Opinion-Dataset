@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="104" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) closed(2) headphones(3) ,(4) somewhat(5) large(6) on(7) the(8) head(9) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="size" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			1(1) )(2) Excellent(3) range(4) 2(5) )(6) Great(7) attenuation(8) 
+			<opinion polarity="+" feature="range" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			1(1) )(2) Size(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Sennheiser(2) HD-280(3) Pros(4) are(5) my(6) first(7) pair(8) of(9) semi(10) high(11) quality(12) headphones(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) recently(2) have(3) been(4) developing(5) an(6) audiophile(7) ear(8) so(9) I(10) was(11) looking(12) for(13) something(14) that(15) would(16) sound(17) better(18) than(19) my(20) current(21) speakers(22) for(23) music(24) and(25) movies(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			These(1) were(2) an(3) excellent(4) choice(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Attenuate(1) outside(2) noise(3) very(4) well(5) ((6) being(7) a(8) college(9) student(10) living(11) with(12) other(13) college(14) kids(15) this(16) is(17) a(18) must(19) )(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Excellent(1) range(2) hitting(3) highs(4) I(5) have(6) never(7) heard(8) before(9) and(10) producing(11) bass(12) flawlessly(13) .(14) 
+			<opinion polarity="+" feature="range" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="6">
+			Comfortable(1) to(2) wear(3) for(4) extended(5) periods(6) of(7) time(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) a(3) little(4) large(5) ,(6) but(7) then(8) again(9) I(10) never(11) walk(12) around(13) campus(14) with(15) them(16) on(17) ,(18) so_that(19) is(20) not(21) a(22) problem(23) .(24) 
+			<opinion polarity="-" feature="size" opWords="5" potency="3,4"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) my(3) ears(4) get(5) somewhat(6) warm(7) after(8) a(9) long(10) time(11) on(12) my(13) ears(14) ((15) usually(16) after(17) more(18) than(19) an(20) hour(21) )(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			NOTE(1) :(2) Do(3) not(4) pay(5) full(6) price(7) for(8) these(9) babies(10) ...(11) shop(12) around(13) on(14) the(15) net(16) for(17) a(18) good(19) price(20) ,(21) I(22) got(23) mine(24) from(25) buy(26) .(27) com(28) ((29) excellent(30) vendor(31) )(32) for(33) $75.00(34) 
+		</sentence>
+	</text>
+</review>

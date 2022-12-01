@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="418" item="Koss KSC75 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			An(1) audiophile(2) bargain(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) Excellent_Sound(3) ,(4) Comfortable(5) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) may(2) find(3) the(4) clip(5) uncomfortable(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) your(2) looking(3) for(4) a(5) portable(6) headphone(7) for(8) under(9) $60(10) ,(11) look(12) no(13) further(14) these(15) cans(16) rock(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) been(2) in(3) the(4) process(5) of(6) trying(7) to(8) find(9) some(10) decent(11) sounding(12) headphones(13) for(14) portable(15) use(16) out(17) of(18) my(19) Ipod(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) something(3) cheap(4) ,(5) since(6) they(7) will(8) be(9) used(10) outdoors(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) ended(2) up(3) with(4) a(5) pair(6) of(7) Koss(8) Ksc-75(9) and(10) a(11) pair(12) of(13) JVC_Marshmallows(14) ((15) separate(16) review(17) coming(18) soon(19) )(20) Equipment(21) used(22) to(23) test(24) -(25) Ipod_Nano(26) ((27) 1st(28) gen(29) )(30) 4Gb(31) -(32) Go-Vibe(33) 5(34) Headphone_Amp(35) ((36) no_longer(37) in(38) production(39) )(40) -(41) custom(42) Ipod(43) dock(44) to(45) line(46) out(47) -(48) custom(49) mini(50) to(51) mini(52) ((53) copper(54) wiring(55) )(56) ((57) to(58) go(59) to(60) dedicated(61) headphone(62) amp(63) )(64) Also(65) test(66) straight(67) out(68) of(69) my(70) Ipod_Nano(71) headphone(72) jack(73) Specifications(74) :(75) -(76) Frequency_Response(77) 15-25,000_Hz(78) -(79) Impedance(80) 60(81) ohms(82) -(83) Sensitivity(84) 101(85) dB(86) -(87) Titanium_Drivers(88) -(89) Oxygen-free(90) copper(91) voice(92) coil(93) -(94) gold(95) plated(96) 3.5mm(97) ((98) 1/8(99) "(100) )(101) mini(102) plug(103) -(104) No-Questions-Asked_Lifetime_Warranty(105) -(106) 4_Foot(107) cord(108) -(109) Open(110) design(111) ,(112) lets(113) sounds(114) in(115) and(116) lets(117) sounds(118) out(119) Comfort(120) :(121) Your(122) either(123) going(124) to(125) love(126) or(127) hate(128) the(129) comfort(130) of(131) these(132) headphones(133) .(134) 
+			<opinion polarity="+" feature="jack" featWords="103" opWords="95"/>
+		</sentence>
+		<sentence id="4">
+			They(1) feature(2) a(3) bendable(4) clip(5) that(6) goes(7) behind(8) your(9) ear(10) ,(11) allot(12) like(13) what(14) you(15) find(16) on(17) eye(18) glasses(19) /(20) sunglasses(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			I(1) find(2) them(3) quit(4) comfortable(5) ,(6) even(7) extended(8) wearing(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			You(1) just(2) have(3) to(4) make(5) sure(6) to(7) bend(8) the(9) clip(10) to(11) fit(12) your(13) ear(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Sound(1) :(2) These(3) headphones(4) have(5) a(6) clear(7) and(8) balanced(9) sound(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="7"/>
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			They(1) are(2) very(3) similar(4) in(5) sound(6) to(7) Grado(8) 's(9) house(10) sound(11) ,(12) but(13) not(14) quit(15) as(16) bright(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) KSC-75(2) has(3) excellent(4) bass(5) response(6) as_well(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) KSC-75(2) has(3) sounded(4) excellent(5) with(6) every(7) genre(8) of(9) music(10) I(11) have(12) thrown(13) at(14) them(15) .(16) 
+			<opinion polarity="+" feature="sound quality" opWords="4,5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) genre(3) I(4) really(5) do(6) not(7) have(8) is(9) classical(10) so(11) I(12) can(13) not(14) advise(15) how(16) these(17) can(18) 's(19) will(20) handle(21) classical(22) .(23) 
+		</sentence>
+	</text>
+</review>

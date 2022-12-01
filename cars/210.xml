@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="210" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			222(1) Horsepower(2) bang(3) for(4) an(5) inexpensive(6) buck(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) new(2) engine(3) ,(4) luxury(5) interior(6) ,(7) smart(8) safety(9) features(10) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="engine" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Synthetic(1) steering(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) purchasing(2) my(3) first(4) new(5) car(6) ,(7) I(8) did(9) about(10) as(11) much(12) research(13) and(14) weighed(15) about(16) as(17) many(18) options(19) as(20) were(21) possible(22) in(23) buying(24) a(25) car(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) safe(3) to(4) say(5) that(6) I(7) was(8) confident(9) in(10) my(11) decision(12) to(13) purchase(14) the(15) 2000(16) Nissan_Maxima_GLE(17) and(18) that(19) I(20) have(21) not(22) lamented(23) the(24) decision(25) for(26) a(27) single(28) one(29) of(30) the(31) 6000_miles(32) I(33) 've(34) driven(35) it(36) so(37) far(38) .(39) 
+		</sentence>
+		<sentence id="3">
+			What(1) I(2) thought(3) was(4) a(5) simple(6) cosmetic(7) redesign(8) turned(9) out(10) to(11) be(12) much(13) more(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			At(1) an(2) MSRP(3) of(4) $26,249(5) ,(6) the(7) GLE(8) comes(9) standard(10) with(11) some(12) amazingly(13) comfortable(14) and(15) adjustable(16) leather(17) seats(18) ((19) 6(20) way(21) adjustable(22) driver(23) seat(24) ,(25) 4(26) way(27) passenger(28) )(29) .(30) 
+			<opinion polarity="+" feature="seat" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="seat" featWords="18" opWords="14"/>
+		</sentence>
+		<sentence id="5">
+			The(1) interior(2) is(3) sculpted(4) without(5) many(6) curves(7) ,(8) but(9) all(10) instruments(11) and(12) controls(13) are(14) easily(15) within(16) the(17) drivers(18) reach(19) ,(20) with(21) the(22) clock(23) located(24) only(25) inches(26) below(27) the(28) windshield(29) ((30) nice(31) for(32) those(33) of(34) us(35) sitting(36) in(37) traffic(38) worried(39) about(40) being(41) late(42) for(43) work(44) )(45) .(46) 
+		</sentence>
+		<sentence id="6">
+			With(1) standard(2) automatic(3) transmission(4) ,(5) the(6) transmission(7) shifter(8) is(9) designed(10) wonderfully(11) with(12) beveled(13) indicators(14) set(15) atop(16) a(17) wood(18) grained(19) finish(20) ,(21) which(22) is(23) also(24) located(25) around(26) the(27) stereo(28) ,(29) climate(30) control(31) ,(32) and(33) window(34) /(35) door(36) lock(37) controls(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			The(1) automatic(2) climate(3) control(4) is(5) extremely(6) intuitive(7) and(8) anticipates(9) changing(10) interior(11) conditions(12) adjusting(13) airflow(14) between(15) the(16) dash(17) and(18) floor(19) vents(20) ,(21) and(22) with(23) an(24) impressive(25) top(26) speed(27) fan(28) ,(29) cold(30) winter(31) weather(32) and(33) hot(34) summer(35) sun(36) are(37) barely(38) noticed(39) .(40) 
+			<opinion polarity="+" feature="climate" featWords="3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) barely(2) noticed(3) are(4) the(5) dashboard(6) air(7) vents(8) which(9) close(10) to(11) a(12) sleek(13) seamless(14) panel(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			But(1) just(2) above(3) the(4) climate(5) console(6) is(7) the(8) Bose(9) 7(10) speaker(11) CD(12) player(13) and(14) stereo(15) system(16) which(17) absolutely(18) cranks(19) out(20) music(21) that(22) sails(23) out(24) over(25) the(26) otherwise(27) very(28) quiet(29) ride(30) .(31) 
+			<opinion polarity="+" feature="ride quality" featWords="30" opWords="29"/>
+		</sentence>
+		<sentence id="10">
+			And(1) the(2) subwoofer(3) in(4) the(5) back(6) seat(7) mandates(8) a(9) drum(10) and(11) bass(12) CD(13) ((14) I(15) toss(16) in(17) Underworld(18) and(19) the(20) car(21) shakes(22) )(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			But(1) what(2) really(3) shakes(4) the(5) Maxima(6) is(7) what(8) 's(9) under(10) the(11) hood(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			The(1) 222(2) horsepower(3) V6(4) engine(5) provides(6) more(7) pop(8) than(9) your(10) Sunday(11) driver(12) needs(13) ,(14) but(15) just(16) enough(17) for(18) your(19) car(20) enthusiast(21) to(22) remember(23) he(24) 's(25) got(26) a(27) big(28) engine(29) spinning(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			And(1) while(2) it(3) is(4) 5(5) hps(6) smaller(7) than(8) its(9) twin(10) brother(11) ,(12) the(13) Infinity(14) i30(15) ((16) identical(17) in(18) almost(19) every(20) other(21) way(22) )(23) ,(24) make(25) no(26) mistake(27) --(28) this(29) is(30) a(31) car(32) that(33) will(34) toast(35) the(36) other(37) V6(38) competition(39) off(40) the(41) line(42) .(43) 
+		</sentence>
+		<sentence id="14">
+			The(1) Volkswagon_Passat(2) might(3) have(4) a(5) sporty(6) looking(7) euro(8) design(9) ,(10) but(11) it(12) lacks(13) 32(14) horses(15) on(16) the(17) Maxima(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="6,7"/>
+		</sentence>
+		<sentence id="15">
+			And(1) to(2) keep(3) you(4) safe(5) at(6) top(7) speeds(8) ,(9) the(10) Maxima(11) is(12) comes(13) standard(14) with(15) ABS(16) brakes(17) ,(18) dual(19) front(20) airbags(21) ,(22) is(23) available(24) with(25) traction(26) control(27) and(28) dual(29) side(30) airbags(31) ((32) all(33) of(34) which(35) I(36) purchased(37) at(38) a(39) reasonable(40) cost(41) to(42) the(43) safety(44) benefits(45) )(46) .(47) 
+		</sentence>
+		<sentence id="16">
+			On(1) the(2) down(3) side(4) though(5) ,(6) at(7) highway(8) speeds(9) ,(10) the(11) Maxima(12) steering(13) is(14) quite(15) synthetic(16) ,(17) and(18) too(19) loose(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			While(1) response(2) time(3) is(4) acceptable(5) ,(6) the(7) deceptive(8) speed(9) ((10) you(11) think(12) you(13) are(14) traveling(15) at(16) 40(17) when(18) you(19) 're(20) going(21) 80(22) )(23) ,(24) coupled(25) with(26) the(27) lack(28) of(29) steering(30) sensitivity(31) ,(32) provides(33) a(34) very(35) electronic(36) interface(37) to(38) the(39) mechanics(40) of(41) the(42) car(43) .(44) 
+			<opinion polarity="-" feature="speed" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="response" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			And(1) the(2) doors(3) do(4) not(5) unlock(6) when(7) you(8) pull(9) the(10) chrome(11) lever(12) from(13) the(14) inside(15) front(16) seats(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			But(1) those(2) are(3) my(4) only(5) two(6) gripes(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			And(1) they(2) are(3) well(4) tempered(5) with(6) extremely(7) bright(8) headlights(9) ,(10) fog(11) lights(12) ,(13) and(14) super(15) powerful(16) high(17) beams(18) .(19) 
+			<opinion polarity="+" feature="headlights" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="21">
+			The(1) trunk(2) is(3) too(4) large(5) for(6) any(7) man(8) ,(9) and(10) you(11) 'll(12) find(13) yourself(14) giving(15) your(16) relatives(17) rides(18) to(19) the(20) airport(21) more(22) often(23) than(24) you(25) 'd(26) like(27) .(28) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="22">
+			In_all(1) ,(2) it(3) 's(4) a(5) $30,000(6) car(7) that(8) you(9) 're(10) getting(11) a(12) steal(13) on(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			I(1) can(2) not(3) think(4) of(5) a(6) reason(7) not(8) to(9) own(10) it(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			And(1) to(2) prove(3) it(4) ,(5) when(6) I(7) brought(8) it(9) in(10) for(11) a(12) tune-up(13) ,(14) work(15) stopped(16) on(17) all(18) other(19) cars(20) as(21) the(22) mechanics(23) flocked(24) around(25) my(26) Maxima(27) and(28) berated(29) me(30) with(31) questions(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			Maybe(1) the(2) attention(3) you(4) 'll(5) get(6) is(7) the(8) only(9) downside(10) .(11) 
+		</sentence>
+	</text>
+</review>

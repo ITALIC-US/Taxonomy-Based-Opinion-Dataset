@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="335" item="H2O Audio H1-9A1 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) if(3) you(4) can(5) keep(6) them(7) on(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) .(3) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) .(2) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Annoying(1) when(2) they(3) pop(4) out(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) swim(2) laps(3) almost(4) daily(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) really(3) excited(4) when(5) I(6) first(7) got(8) these(9) headphones(10) and(11) paired(12) them(13) with(14) my(15) waterproof(16) apple(17) shuffle(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) thought(2) it(3) would(4) be(5) wonderful(6) having(7) music(8) or(9) a(10) NPR(11) program(12) to(13) keep(14) company(15) while(16) doing(17) my(18) laps(19) ,(20) just(21) like(22) it(23) is(24) when(25) I(26) run(27) or(28) ride(29) my(30) bike(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) underwater(3) was(4) really(5) good(6) ,(7) when(8) I(9) could(10) keep(11) them(12) on(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			They(1) kept(2) popping(3) out(4) of(5) one(6) ear(7) letting(8) water(9) in(10) my(11) ear(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Once(1) water(2) got(3) in(4) the(5) sound(6) quality(7) dropped(8) considerably(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) followed(2) the(3) manufacturers(4) recommendations(5) about(6) fitting(7) the(8) earpieces(9) ,(10) but(11) to(12) no(13) avail(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) even(2) tried(3) removing(4) the(5) earpieces(6) from(7) the(8) frame(9) ,(10) still(11) they(12) popped(13) out(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			The(1) best(2) luck(3) I(4) had(5) was(6) using(7) a(8) swim(9) cap(10) to(11) hold(12) the(13) ear(14) buds(15) in(16) place(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Ultimately(1) ,(2) they(3) were(4) more(5) trouble(6) than(7) they(8) were(9) worth(10) .(11) 
+		</sentence>
+	</text>
+</review>

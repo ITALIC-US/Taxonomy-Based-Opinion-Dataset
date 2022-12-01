@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="559" item="2002 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			2002(1) Odyssey(2) .....(3) LOVE_IT(4) !(5) !(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) a(3) Honda(4) !(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			Dependable(1) ,(2) Resell(3) value(4) ,(5) Comfort(6) ,(7) Careful(8) thoughtout(9) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Availablity(1) ,(2) Some(3) dealers(4) taking(5) advantage(6) of(7) supply(8) and(9) demand(10) -(11) Bridgestone(12) tires(13) used(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			15_Mar(1) 02(2) ((3) Update(4) )(5) -(6) Drive(7) one(8) at(9) 65(10) mph(11) if(12) you(13) can(14) live(15) with(16) the(17) non-smooth(18) ride(19) ....(20) then(21) buy(22) it(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="23" featRef="car" opWords="22"/>
+			<opinion polarity="-" feature="ride quality" featWords="19" opWords="18"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) took(2) deliver(3) of(4) a(5) 2002(6) Odyssey_LX(7) ,(8) w(9) /(10) roof(11) rack(12) ,(13) keyless(14) alarm(15) /(16) entry(17) ,(18) cargo(19) tray(20) ,(21) pinstriping(22) ,(23) so-called(24) dealer(25) scotch(26) guard(27) and(28) paint(29) treatment(30) ,(31) all(32) for(33) less(34) than(35) MSRP(36) of(37) base(38) LX(39) .(40) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) our(3) first(4) van(5) and(6) it(7) makes(8) me(9) think(10) why(11) did(12) not(13) we(14) do(15) this(16) earlier(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) our(3) sixth(4) ((5) 6(6) )(7) Honda(8) ,(9) so(10) yes(11) we(12) love(13) Honda(14) products(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			My_LX(1) has(2) plenty_of(3) power(4) at(5) 240(6) HP(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) rear(2) seats(3) are(4) a(5) dream(6) to(7) sit(8) in(9) and(10) are(11) versatile(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			I(1) hope(2) I(3) do(4) not(5) ever(6) need(7) to(8) haul(9) much(10) in(11) my(12) van(13) but(14) if(15) I(16) did(17) ,(18) I(19) feel(20) my(21) LX(22) will(23) be(24) up(25) to(26) the(27) task(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			You(1) are(2) not(3) going(4) to(5) find(6) a(7) vehicle(8) that(9) meets(10) the(11) needs(12) of(13) all(14) ,(15) however(16) ,(17) there(18) is(19) no(20) van(21) that(22) is(23) finer(24) than(25) the(26) Odyssey(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			The(1) A(2) /(3) C(4) is(5) powerful(6) both(7) front(8) and(9) rear(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			The(1) base(2) radio(3) is(4) exceptional(5) ;(6) if(7) you(8) want(9) finer(10) radio(11) then(12) I(13) believe(14) you(15) are(16) one(17) the(18) today(19) 's(20) kids(21) who(22) want(23) a(24) boom(25) box(26) .(27) 
+			<opinion polarity="+" feature="radio" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			The(1) average(2) FAMILY(3) will(4) be(5) satisfied(6) with(7) the(8) stock(9) cd(10) player(11) or(12) cassette(13) with(14) the(15) stock(16) speakers(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) heard(3) people(4) say(5) the(6) design(7) is(8) plain(9) ....(10) and(11) your(12) point(13) is(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			What(1) van(2) is(3) not(4) ?(5) 
+		</sentence>
+		<sentence id="13">
+			I(1) happened(2) to(3) love(4) the(5) design(6) of(7) the(8) Odyssey(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) one(2) design(3) change(4) I(5) would(6) make(7) is(8) as(9) follows(10) :(11) the(12) spare(13) is(14) stored(15) in(16) front(17) of(18) the(19) 2nd(20) row(21) seats(22) and(23) accessible(24) from(25) inside(26) the(27) cab(28) ((29) This(30) is(31) fine(32) )(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			The(1) problem(2) is(3) the(4) floor(5) that(6) covers(7) the(8) tire(9) is(10) soft(11) and(12) very(13) flexible(14) as_if(15) made(16) of(17) cardboard(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			I(1) think(2) this(3) should(4) be(5) made(6) of(7) a(8) more(9) solid(10) piece(11) of(12) material(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			I(1) walked(2) from(3) the(4) driver(5) seat(6) to(7) the(8) rear(9) and(10) the(11) floor(12) gave(13) a(14) little(15) bit(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			I(1) know(2) this(3) is(4) not(5) designed(6) to(7) be(8) a_real(9) load(10) bearing(11) spot(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			I(1) just(2) think(3) a(4) heftier(5) floor(6) is(7) needed(8) here(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			Thanks(1) .(2) 15_Mar(3) 02(4) -(5) UPDATE(6) :(7) I(8) have(9) own(10) my(11) Odyssey(12) a(13) few(14) about(15) one(16) month(17) and(18) it(19) has(20) been(21) in(22) the(23) shop(24) four(25) ((26) 4(27) )(28) times(29) because_of(30) a(31) vibration(32) in(33) the(34) steering(35) wheel(36) while(37) driving(38) 60-75(39) mph(40) .(41) 
+		</sentence>
+		<sentence id="21">
+			I(1) am(2) not(3) Honda(4) bashing(5) because(6) I(7) love(8) Honda(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			I(1) own(2) a(3) '(4) 00(5) Accod(6) ,(7) '(8) 98(9) Civic(10) ,(11) and(12) a(13) '(14) 02(15) Odyssey(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			The(1) dealers(2) seem(3) to(4) be(5) trying(6) to(7) resolve(8) my(9) problems(10) but(11) have(12) met(13) with(14) no(15) success(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			I(1) have(2) contacted(3) American_Honda(4) who(5) appear(6) to(7) be(8) concerned(9) however(10) are(11) quick(12) to(13) tell(14) me(15) they(16) have(17) nothing(18) to(19) do(20) with(21) the(22) tires(23) and(24) I(25) must(26) contact(27) the(28) manufacturer(29) to(30) repalce(31) defective(32) tires(33) .(34) 
+		</sentence>
+		<sentence id="25">
+			Honda(1) places(2) Bridgestone(3) tires(4) on(5) the(6) Odyssey(7) .(8) 
+		</sentence>
+		<sentence id="26">
+			The(1) dealer(2) has(3) told(4) me(5) two(6) tires(7) are(8) out(9) of(10) round(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			I(1) contacted(2) Firestone(3) and(4) they(5) instructed(6) me(7) to(8) contact(9) a(10) local(11) dealer(12) ,(13) who(14) told(15) me(16) I(17) had(18) to(19) pay(20) for(21) the(22) warranty(23) check(24) and(25) rebalnce(26) of(27) the(28) tire(29) .(30) 
+		</sentence>
+		<sentence id="28">
+			I(1) was(2) also(3) told(4) the(5) warranty(6) only(7) cover(8) defective(9) tires(10) and(11) I(12) would(13) be(14) charged(15) a(16) minimum(17) 10(18) percent(19) of(20) replacement(21) cost(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			Bottom-line(1) :(2) Tire(3) warranty(4) is(5) a(6) hoax(7) ;(8) I(9) will(10) be(11) replacing(12) these(13) sub-standard(14) Bridgestone(15) tire(16) in(17) short(18) order(19) .(20) 
+		</sentence>
+		<sentence id="30">
+			I(1) am(2) very(3) disapointed(4) in(5) Honda(6) response(7) to(8) my(9) problems(10) .(11) 
+		</sentence>
+		<sentence id="31">
+			I(1) may(2) never(3) buy(4) another(5) Honda(6) simply(7) because(8) they(9) are(10) treating(11) me(12) very(13) poorly(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			I(1) am(2) not(3) happy(4) with(5) this(6) purchase(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="33">
+			One(1) would(2) think(3) a(4) new(5) vehicle(6) with(7) 800_miles(8) should(9) be(10) trouble(11) free(12) ...(13) not(14) the(15) case(16) with(17) this(18) Odyssey(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			I(1) also(2) had(3) a(4) squeak(5) from(6) the(7) front(8) left(9) wheel(10) area(11) while(12) driving(13) 20-35(14) mph(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			Was(1) told(2) brakes(3) had(4) glazed(5) .(6) 
+		</sentence>
+		<sentence id="36">
+			Finally(1) ,(2) all(3) dash(4) lights(5) lit(6) up(7) as_if(8) the(9) engine(10) was(11) stalled(12) but(13) it(14) was(15) not(16) !(17) !(18) 
+		</sentence>
+		<sentence id="37">
+			I(1) am(2) not(3) happy(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="38">
+			Almost(1) $25k(2) and(3) I(4) have(5) been(6) at(7) the(8) dealership(9) 4(10) separate(11) days(12) !(13) 
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,200(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Odyssey_LX(16) 
+		</sentence>
+	</text>
+</review>

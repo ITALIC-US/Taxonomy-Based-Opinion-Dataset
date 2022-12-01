@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="740" item="1998 Chevrolet K1500" rating="3">
+	<title>
+		<sentence id="1">
+			Another(1) option(2) to(3) consider(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) V6(2) ,(3) Economical(4) for(5) a(6) truck(7) with(8) a(9) well(10) equipped(11) interior(12) .(13) 
+			<opinion polarity="+" feature="interior" featWords="12" opWords="10,11"/>
+			<opinion polarity="+" feature="engine" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) clutch(2) ,(3) hard(4) to(5) get(6) comfortable(7) in(8) driver(9) 's(10) seat(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) test(2) drove(3) a(4) 98(5) C/K1500(6) with(7) 4-wheel(8) drive(9) ,(10) V6(11) ,(12) 5(13) speed(14) manual(15) ,(16) tape(17) deck(18) ,(19) extended(20) cab(21) ,(22) cloth(23) seats(24) ,(25) and(26) 60/40(27) split(28) bench(29) with(30) center(31) armrest(32) and(33) power(34) locks(35) and(36) windows(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			What(1) surprised(2) me(3) first(4) of(5) all(6) was(7) that(8) I(9) was(10) able(11) to(12) find(13) a(14) Chevy(15) with(16) all(17) the(18) creature(19) comforts(20) but(21) with(22) a(23) minimalist(24) drivetrain(25) ,(26) something(27) that(28) 's(29) darn(30) near(31) impossible(32) to(33) locate(34) nowadays(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			V6/5speed(1) F150(2) 's(3) are(4) out(5) there(6) ,(7) but(8) I(9) guarentee(10) most(11) of(12) them(13) will(14) have(15) cheap(16) looking(17) vinyl(18) seats(19) without(20) a(21) built(22) in(23) armrest(24) and(25) most(26) that(27) I(28) 've(29) seen(30) come(31) without(32) even(33) a(34) tape(35) deck(36) .(37) 
+			<opinion polarity="-" feature="seat" featWords="19" opWords="16,17"/>
+		</sentence>
+		<sentence id="4">
+			But(1) as(2) I(3) mentioned(4) this(5) Chevy(6) caught(7) my(8) eye(9) because(10) It(11) had(12) an(13) economical(14) drive(15) train(16) combined(17) with(18) a(19) very(20) well(21) equipped(22) interior(23) ,(24) which(25) seems(26) rare(27) in(28) the(29) pickup(30) market(31) nowadays(32) .(33) 
+			<opinion polarity="+" feature="interior" featWords="23" opWords="21,22" potency="20"/>
+		</sentence>
+		<sentence id="5">
+			Handling(1) :(2) Too(3) tipsy(4) for(5) my(6) taste(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) F150(2) I(3) 've(4) driven(5) was(6) a(7) 4x4(8) with(9) off-road(10) package(11) that(12) sat(13) even(14) higher(15) than(16) this(17) truck(18) ,(19) but(20) the(21) F(22) series(23) felt(24) way(25) more(26) secure(27) and(28) planted(29) through(30) the(31) curves(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			The(1) Chevy(2) is(3) not(4) the(5) truck(6) I(7) 'd(8) want(9) to(10) be(11) in(12) when(13) I(14) misjudge(15) a(16) fast(17) curve(18) and(19) enter(20) at(21) too(22) high(23) a(24) speed(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			However(1) the(2) Chevy(3) did(4) track(5) very(6) well(7) in(8) a(9) straight(10) line(11) ,(12) seemingly(13) a(14) charecteristic(15) of(16) all(17) GM(18) full(19) sized(20) trucks(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) steering(2) had(3) a(4) little(5) more(6) weight(7) to(8) it(9) than(10) the(11) F-series(12) ,(13) which(14) I(15) liked(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Powertrain(1) and(2) acceleration(3) :(4) I(5) 've(6) always(7) liked(8) Chevy(9) 's(10) full(11) sized(12) truck(13) manual(14) transmissions(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			They(1) seem(2) to(3) me(4) to(5) to(6) have(7) short(8) and(9) precise(10) throws(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Clutch(1) travel(2) though(3) seemed(4) way(5) too(6) long(7) for(8) even(9) a(10) truck(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			I(1) had(2) to(3) nearly(4) lift(5) my(6) whole(7) leg(8) up(9) to(10) let(11) out(12) the(13) clutch(14) every(15) time(16) I(17) shifted(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			The(1) 200(2) horsepower(3) V6(4) ,(5) rated(6) at(7) 15(8) city(9) and(10) 19(11) highway(12) ,(13) was(14) smooth(15) and(16) had(17) a(18) growl(19) to(20) it(21) that(22) suprised(23) me(24) .(25) 
+			<opinion polarity="+" feature="horsepower" opWords="15"/>
+		</sentence>
+		<sentence id="15">
+			At(1) first(2) it(3) sounded(4) kinda(5) like(6) the(7) 5.0(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			Low(1) end(2) torque(3) is(4) great(5) ,(6) but(7) do(8) not(9) let(10) yourself(11) get(12) caught(13) in(14) the(15) wrong(16) gear(17) .(18) 
+			<opinion polarity="+" feature="torque" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="17">
+			Too(1) high(2) and(3) it(4) gets(5) very(6) course(7) and(8) runs(9) out(10) of(11) steam(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			Too(1) low(2) and(3) it(4) lugs(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			Keep(1) it(2) between(3) 3(4) and(5) 5000(6) rpm(7) and(8) it(9) works(10) well(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="10,11"/>
+		</sentence>
+		<sentence id="20">
+			But(1) torque(2) and(3) power(4) are(5) not(6) exactly(7) available(8) all(9) across(10) the(11) rev(12) range(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			For(1) that(2) effortless(3) ,(4) always(5) available(6) grunt(7) you(8) should(9) think(10) 350(11) /(12) Interior(13) /(14) Comfort(15) :(16) I(17) would(18) have(19) liked(20) seat(21) height(22) adjustment(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			No(1) matter(2) how(3) I(4) positioned(5) the(6) seat(7) I(8) felt(9) like(10) I(11) was(12) sitting(13) on(14) the(15) truck(16) ,(17) not(18) in(19) it(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			I(1) found(2) I(3) was(4) unable(5) to(6) get(7) very(8) comfortable(9) ,(10) in(11) part(12) because_of(13) that(14) clutch(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			If(1) I(2) sat(3) close(4) enough(5) to(6) reach(7) everything(8) easily(9) I(10) had(11) to(12) raise(13) my(14) leg(15) uncomfortably(16) high(17) to(18) let(19) out(20) the(21) clutch(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			IF(1) I(2) sat(3) far(4) enough(5) back(6) so_that(7) I(8) did(9) not(10) need(11) to(12) do(13) that(14) I(15) had(16) trouble(17) reaching(18) the(19) wheel(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			Everything(1) is(2) positioned(3) high(4) and(5) clearly(6) marked(7) ,(8) and(9) the(10) transfer(11) case(12) is(13) manual(14) ,(15) not(16) electronic(17) ,(18) a(19) more(20) reliable(21) setup(22) but(23) not(24) exactly(25) the(26) untlra(27) convenient(28) set(29) -(30) it-and-forget-it(31) type(32) system(33) that(34) many(35) who(36) go(37) for(38) 4x4(39) 's(40) simply(41) for(42) all(43) weather(44) capabilities(45) prefer(46) .(47) 
+		</sentence>
+		<sentence id="27">
+			I(1) hear(2) the(3) electronic(4) 4x4(5) system(6) in(7) the(8) 99(9) 's(10) works(11) well(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="28">
+			With(1) all(2) windows(3) closed(4) all(5) you(6) can(7) hear(8) is(9) a(10) little(11) wind(12) noise(13) ,(14) no(15) creaks(16) and(17) rattles(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			The(1) headrests(2) were(3) extensions(4) of(5) the(6) seat(7) ,(8) not(9) the(10) adjustable(11) type(12) ,(13) and(14) they(15) were(16) not(17) nearly(18) high(19) enough(20) to(21) protect(22) against(23) whiplash(24) in(25) a(26) rear(27) end(28) collisions(29) .(30) 
+		</sentence>
+		<sentence id="30">
+			They(1) either(2) need(3) to(4) be(5) made(6) higher(7) or(8) Chevy(9) needs(10) to(11) make(12) them(13) the(14) adjustable(15) type(16) ,(17) but(18) my(19) 95(20) Ranger(21) regular(22) cab(23) offers(24) much(25) better(26) protection(27) and(28) goes(29) higher(30) than(31) the(32) top(33) of(34) my(35) head(36) .(37) 
+		</sentence>
+		<sentence id="31">
+			The(1) rear(2) seat(3) was(4) a_bit(5) more(6) comfy(7) than(8) the(9) other(10) models(11) I(12) 've(13) been(14) in(15) but(16) not(17) much(18) .(19) 
+		</sentence>
+		<sentence id="32">
+			The(1) radio(2) is(3) fine(4) if(5) quality(6) sound(7) is(8) not(9) a(10) priority(11) and(12) you(13) just(14) want(15) to(16) play(17) music(18) and(19) tapes(20) .(21) 
+			<opinion polarity="+" feature="radio" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="33">
+			But(1) sound(2) is(3) not(4) very(5) deep(6) or(7) powerful(8) .(9) 
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="4,8" potency="5"/>
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="34">
+			I(1) would(2) augment(3) the(4) sound(5) system(6) .(7) 
+		</sentence>
+		<sentence id="35">
+			All(1) in_all(2) a(3) very(4) good(5) but(6) not(7) exceptional(8) truck(9) .(10) 
+			<opinion polarity="-" feature="truck" featWords="9" opWords="7,8"/>
+			<opinion polarity="+" feature="truck" featWords="9" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="36">
+			If(1) I(2) can(3) find(4) a(5) similarly(6) equipped(7) F(8) series(9) that(10) will(11) be(12) my(13) first(14) choice(15) .(16) 
+		</sentence>
+	</text>
+</review>

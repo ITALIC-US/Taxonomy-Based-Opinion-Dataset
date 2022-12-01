@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="350" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Super_Reliability(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) reliable(2) ,(3) low(4) maintenance(5) ,(6) affordable(7) 
+			<opinion polarity="+" feature="price" opWords="7"/>
+			<opinion polarity="+" feature="maintenance" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			needs(1) plusher(2) front(3) seat(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Much(1) of(2) my(3) adult(4) life(5) has(6) been(7) spent(8) looking(9) for(10) a(11) reliable(12) ,(13) low(14) maintenance(15) and(16) affordable(17) car(18) .(19) 
+			<opinion polarity="+" feature="price" opWords="17"/>
+			<opinion polarity="+" feature="maintenance" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="reliability" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) finally(3) found(4) one(5) in(6) the(7) Honda_Accord(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Want(1) a(2) car(3) that(4) starts(5) everyday(6) even_if(7) it(8) 's(9) parked(10) outside(11) in(12) the(13) frozen(14) Chicago(15) winter(16) ?(17) 
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) it(3) !(4) 
+		</sentence>
+		<sentence id="5">
+			At(1) under(2) $20,000(3) this(4) car(5) amazes(6) me(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			All(1) systems(2) work(3) great(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			I(1) get(2) nice(3) and(4) toasty(5) warm(6) just(7) a(8) few(9) minutes(10) after(11) starting(12) up(13) on(14) a(15) cold(16) winter(17) morning(18) and(19) I(20) get(21) arctic(22) cold(23) on(24) hot(25) summer(26) days(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) accelerates(3) well(4) and(5) brakes(6) smoothly(7) .(8) 
+			<opinion polarity="+" feature="brakes" opWords="6,7"/>
+			<opinion polarity="+" feature="acceleration" opWords="3,4"/>
+		</sentence>
+		<sentence id="9">
+			And(1) talk(2) about(3) low(4) maintenance(5) ,(6) I(7) 've(8) done(9) nothing(10) except(11) change(12) the(13) oil(14) for(15) the(16) 2(17) years(18) I(19) 've(20) owned(21) it(22) and(23) everything(24) works(25) fine(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="25,26"/>
+		</sentence>
+		<sentence id="10">
+			Finally(1) a(2) car(3) you(4) can(5) own(6) without(7) having(8) to(9) be(10) an(11) auto(12) mechanic(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Now(1) if(2) only(3) my(4) computer(5) worked(6) as_well(7) as(8) my(9) Honda(10) !(11) 
+		</sentence>
+	</text>
+</review>

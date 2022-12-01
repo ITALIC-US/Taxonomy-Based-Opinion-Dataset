@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="583" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			WARNING(1) !(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) ,(2) ride(3) ,(4) gas(5) mileage(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Intake(1) manifold(2) gaskets(3) ,(4) Dex-cool(5) ,(6) CHevrolet_Help_Center(7) .(8) "(9) We(10) 'll(11) be(12) there(13) "(14) ...(15) yeah(16) ,(17) right(18) !(19) !(20) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) new(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Trade(1) it(2) in(3) or(4) sell(5) it(6) before(7) warranty(8) runs(9) out(10) !(11) !(12) !(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) warning(4) to(5) present(6) and(7) future(8) owners(9) of(10) Chevy_Impalas(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) engines(2) in(3) these(4) cars(5) have(6) defects(7) in(8) the(9) intake(10) manifold(11) gasket(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) question(2) is(3) not(4) if(5) a(6) problem(7) will(8) develope(9) but(10) when(11) !(12) 
+		</sentence>
+		<sentence id="4">
+			The(1) gasket(2) is(3) defective(4) and(5) there(6) is(7) progress(8) toward(9) a(10) class(11) action(12) lawsuit(13) that(14) will(15) hopefully(16) result(17) in(18) a(19) recall(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) is(3) given(4) great(5) reviews(6) in(7) a(8) popular(9) consumer(10) magazine(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) my(3) Impala(4) in(5) large(6) part(7) due(8) to(9) the(10) reviews(11) I(12) read(13) on(14) this(15) web-site(16) and(17) the(18) previously(19) mentioned(20) magazine(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Problems(1) involving(2) this(3) gasket(4) have(5) happened(6) with(7) a(8) few(9) thousand(10) miles(11) to(12) several(13) thousand(14) miles(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) be(3) looking(4) at(5) a(6) repair(7) bill(8) of(9) roughly(10) $800.00(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			If(1) the(2) engines(3) coolant(4) ,(5) affectionately(6) called(7) "(8) death-cool(9) "(10) but(11) known(12) as(13) Dex-cool(14) ,(15) corrupts(16) the(17) engine(18) oil(19) ,(20) you(21) could(22) be(23) looking(24) at(25) major(26) engine(27) problems(28) including(29) replacement(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			A(1) replacemnt(2) engine(3) ,(4) with(5) installation(6) ,(7) will(8) run(9) you(10) 4,500.00(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) are(3) a(4) present(5) owner(6) of(7) an(8) Impala(9) ,(10) run(11) do(12) not(13) walk(14) to(15) your(16) nearest(17) mechanic(18) and(19) have(20) him(21) visually(22) inspect(23) the(24) engine(25) block(26) for(27) leaks(28) and(29) have(30) him(31) drain(32) and(33) flush(34) your(35) cooling(36) system(37) and(38) replace(39) with(40) the(41) "(42) green(43) "(44) stuff(45) .(46) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) do(3) this(4) you(5) might(6) get(7) lucky(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) popular(3) opinion(4) out(5) there(6) that(7) this(8) Dex-cool(9) corrodes(10) aluminum(11) and(12) is(13) more(14) than(15) likely(16) either(17) eating(18) away(19) at(20) the(21) gasket(22) material(23) or(24) the(25) bolts(26) retaining(27) the(28) intake(29) manifold(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			Just(1) want(2) to(3) let(4) you(5) know(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			I(1) did(2) lots(3) of(4) research(5) on(6) my(7) Impala(8) before(9) I(10) bought(11) it(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			I(1) love(2) my(3) car(4) but(5) this(6) problem(7) has(8) been(9) depressing(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="17">
+			Oh(1) by(2) the(3) way(4) .(5) 
+		</sentence>
+		<sentence id="18">
+			If(1) your(2) car(3) is(4) off(5) of(6) warranty(7) ,(8) good(9) luck(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			Chevrolet(1) will(2) not(3) help(4) you(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

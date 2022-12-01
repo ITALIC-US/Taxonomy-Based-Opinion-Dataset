@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="253" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Travel_Headphones_Must_Buy(1) .(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Sound_No(1) engine(2) noise(3) on(4) airplane(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			white(1) noise(2) distracting(3) at(4) low(5) volumes(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) headphones(2) are(3) a(4) must(5) for(6) frequent(7) travelers(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			They(1) sound(2) great(3) with(4) few(5) flaws(6) and(7) are(8) definitely(9) worth(10) the(11) 300(12) .(13) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) travel(2) at_least(3) once(4) a(5) month(6) to(7) europe(8) the(9) last(10) few(11) times(12) with(13) these(14) head(15) phones(16) the(17) trip(18) was(19) more(20) relaxing(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) seriously(3) hear(4) absoultly(5) NO(6) engine(7) noise(8) with(9) perfect(10) sound(11) and(12) with(13) the(14) airplane(15) adapter(16) i(17) was(18) able(19) to(20) watch(21) tv(22) on(23) the(24) airplane(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			I(1) recomend(2) these(3) headphones(4) for(5) anyone(6) who(7) travels(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Or(1) even_if(2) you(3) dont(4) these(5) headphones(6) are(7) great(8) for(9) reading(10) in(11) loud(12) envirements(13) or(14) just(15) listing(16) to(17) a(18) cd(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) is(3) also(4) suprisingly(5) good(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			Eventhough_My(1) father(2) is(3) a(4) sterophile(5) enthusiast(6) with(7) one(8) of(9) the(10) best(11) stero(12) systems(13) in(14) the(15) world(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			These(1) headphones(2) still(3) produce(4) amazing(5) quality(6) and(7) slaming(8) bass(9) for(10) $300(11) .(12) 
+			<opinion polarity="+" feature="sound quality" opWords="5,6"/>
+			<opinion polarity="+" feature="bass" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="8">
+			A(1) must(2) buy(3) .(4) 
+			<opinion polarity="+" feature="headphones" opWords="2,3"/>
+		</sentence>
+	</text>
+</review>

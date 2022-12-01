@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="822" item="2005 Chevrolet Equinox" rating="2">
+	<title>
+		<sentence id="1">
+			Will(1) they(2) last(3) though(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) power(2) ,(3) innovative(4) styling(5) .(6) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) looking(2) plastic(3) interior(4) ,(5) no(6) coat(7) hooks(8) ,(9) and(10) VERY(11) questionable(12) reliability(13) .(14) 
+			<opinion polarity="-" feature="reliability" featWords="13" opWords="12" potency="11"/>
+			<opinion polarity="-" feature="interior" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="interior" featWords="4" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) work(2) for(3) a(4) pharmaceutical(5) company(6) and(7) we(8) have(9) many(10) reps(11) who(12) are(13) driving(14) the(15) Equinoxes(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			They(1) seem(2) to(3) be(4) falling(5) apart(6) at(7) a(8) pretty(9) rapid(10) rate(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			One(1) ,(2) the(3) ignition(4) went(5) out(6) at(7) only(8) six(9) months(10) old(11) and(12) one(13) I(14) rode(15) in(16) today(17) has(18) a(19) nasty(20) transmission(21) noise(22) .(23) 
+			<opinion polarity="-" feature="transmission" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="4">
+			The(1) reliability(2) stories(3) are(4) becoming(5) more(6) prevalent(7) as(8) these(9) cars(10) are(11) reaching(12) a(13) year(14) old(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			For(1) the(2) money(3) ,(4) the(5) Chrysler_Pacifica(6) is(7) a(8) much(9) better(10) buy(11) in(12) my(13) opinion(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) Equinox(16) ,(17) base(18) model(19) 
+		</sentence>
+	</text>
+</review>

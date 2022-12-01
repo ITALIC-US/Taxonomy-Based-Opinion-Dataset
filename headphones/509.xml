@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="509" item="Sony MDR-V600 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			blocks(1) out(2) the(3) smooching(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) sound(2) quality(3) ,(4) lightweight(5) ,(6) ,(7) eliminates(8) outside(9) noise(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			unwieldy(1) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Knowing(1) that(2) my(3) roommate(4) and(5) her(6) boyfriend(7) are(8) extremely(9) touchie-feelie(10) ,(11) I(12) prepared(13) for(14) another(15) long(16) year(17) in(18) a(19) double(20) by(21) purchasing(22) the(23) MDR-V600s(24) to(25) block(26) out(27) all(28) unwanted(29) noise(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			Besides(1) these(2) headphones(3) ,(4) I(5) 've(6) only(7) used(8) the(9) freebies(10) included(11) with(12) a(13) discman(14) ,(15) so(16) listening(17) to(18) music(19) through(20) the(21) MDR-600s(22) is(23) a(24) treat(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) quality(3) is(4) pretty(5) good(6) ,(7) and(8) I(9) like(10) their(11) earmuff-like(12) feature(13) which(14) completely(15) covers(16) my(17) ears(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			I(1) 'm(2) no(3) audiophile(4) ,(5) but(6) these(7) headphones(8) have(9) not(10) ruined(11) any(12) song(13) for(14) me(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Not(1) only(2) do(3) the(4) headphones(5) provide(6) an(7) enjoyable(8) experience(9) ,(10) they(11) are(12) also(13) appreciated(14) by(15) my(16) companions(17) who(18) can(19) not(20) hear(21) any(22) of(23) my(24) music(25) ;(26) they(27) just(28) have(29) to(30) suffer(31) through(32) my(33) singing(34) instead(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			The(1) headphones(2) are(3) lightweight(4) and(5) comfortable(6) but(7) not(8) very(9) portable(10) despite(11) their(12) ability(13) to(14) fold(15) up(16) .(17) 
+			<opinion polarity="+" feature="weight" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+			<opinion polarity="-" feature="portability" opWords="8,10" potency="9"/>
+		</sentence>
+		<sentence id="7">
+			Although(1) I(2) 'm(3) average(4) height(5) ,(6) 5(7) '(8) 4(9) "(10) dammit(11) ,(12) I(13) must(14) have(15) a(16) small(17) head(18) .(19) My(20) only(21) complaint(22) is(23) that(24) sometimes(25) the(26) headphones(27) slip(28) off(29) ,(30) so(31) I(32) suggest(33) carefully(34) trying(35) all(36) headphones(37) to(38) fit(39) your(40) head(41) before(42) making(43) any(44) purchases(45) .(46) While(47) traveling(48) ,(49) I(50) 've(51) used(52) my(53) headphones(54) on(55) the(56) plane(57) to(58) block(59) out(60) a(61) drunk(62) who(63) decided(64) to(65) lean(66) over(67) me(68) on(69) my(70) 8(71) am(72) flight(73) back(74) to(75) college(76) while(77) looking(78) down(79) my(80) shirt(81) .(82) In(83) my(84) room(85) ,(86) my(87) MDR-V600s(88) are(89) extremely(90) valuable(91) for(92) blocking(93) out(94) all(95) noise(96) .(97) All(98) the(99) giggling(100) and(101) stroking(102) from(103) my(104) roommate(105) and(106) her(107) boyfriend(108) across(109) the(110) room(111) do(112) not(113) even(114) phase(115) me(116) if(117) I(118) have(119) my(120) headphones(121) on(122) .(123) It(124) 's(125) the(126) next(127) best(128) thing(129) to(130) a(131) single(132) .(133) 
+		</sentence>
+	</text>
+</review>

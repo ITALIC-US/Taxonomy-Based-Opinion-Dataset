@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="386" item="Sennheiser Sport Line PMX 70 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Long_Distance(1) runner(2) who(3) loves(4) these(5) headphones(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) durable(4) ,(5) cord(6) is(7) only(8) on(9) one(10) side(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="durability" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			after(1) a(2) year(3) ,(4) the(5) metal(6) earpieces(7) started(8) to(9) rust(10) a(11) little(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) a(3) long(4) distance(5) runner(6) ((7) I(8) run(9) Ultra(10) marathons(11) )(12) and(13) love(14) these(15) headphones(16) .(17) 
+			<opinion polarity="+" feature="headphones" featWords="16" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			I(1) sweat(2) a_lot(3) as_well(4) and(5) have(6) never(7) had(8) a(9) problem(10) with(11) the(12) cord(13) breaking(14) down(15) due(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			My(1) current(2) pair(3) is(4) on(5) it(6) 's(7) last(8) leg(9) ,(10) I(11) have(12) had(13) them(14) for(15) a(16) year(17) and(18) some(19) change(20) and(21) sound(22) in(23) the(24) right(25) earphone(26) is(27) fading(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			So(1) it(2) is(3) time(4) for(5) a(6) new(7) pair(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) considering(3) trying(4) another(5) type(6) in(7) the(8) Sennheiser_Sport(9) line(10) ,(11) but(12) i(13) am(14) sticking(15) with(16) these(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Mainly(1) b(2) /(3) c(4) i(5) can(6) put(7) them(8) around(9) my(10) neck(11) w(12) /(13) o(14) having(15) to(16) worry(17) about(18) them(19) falling(20) all(21) over(22) the(23) place(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) ABUSED(3) these(4) earphones(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			They(1) have(2) been(3) on(4) 35_mile(5) runs(6) in(7) the(8) pouring(9) rain(10) ,(11) runs(12) in(13) the(14) snow(15) and(16) ice(17) ,(18) 25_mile(19) runs(20) in_100(21) degree(22) weather(23) and(24) to(25) the(26) gym(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			The(1) sound(2) is(3) great(4) for(5) the(6) $(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+	</text>
+</review>

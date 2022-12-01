@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="159" item="Oasis Cancun - All Inclusive" rating="2">
+	<title>
+		<sentence id="1">
+			Oasis_Cancun(1) -(2) Phase_I(3) ((4) AI(5) )(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) grounds(2) and(3) helpful(4) staff(5) ((6) with(7) exception(8) of(9) front(10) desk(11) )(12) 
+			<opinion polarity="+" feature="grounds" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Loud(1) premises(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Adequate(1) rooms(2) .(3) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Oasis_Cancun(2) is(3) nice(4) and(5) we(6) had(7) a(8) great(9) vacation(10) ,(11) however(12) ,(13) I(14) would(15) not(16) stay(17) there(18) again(19) considering(20) the(21) rooms(22) ,(23) clientele(24) ,(25) and(26) location(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Stayed(1) at(2) the(3) Oasis_Cancun(4) ((5) AI(6) )(7) in(8) mid-February(9) ((10) not(11) to(12) be(13) confused(14) with(15) the(16) Grand_Oasis(17) located(18) on(19) the(20) same(21) grounds(22) )(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Rooms(1) were(2) adequate(3) ,(4) but(5) worn(6) .(7) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="3"/>
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			Carpet(1) was(2) nasty(3) and(4) bed(5) was(6) very(7) firm(8) .(9) 
+			<opinion polarity="-" feature="carpets" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			In_addition(1) ,(2) the(3) stone-floor(4) in(5) the(6) bathroom(7) felt(8) pretty(9) gross(10) when(11) it(12) was(13) wet(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Remote(1) control(2) was(3) chained(4) to(5) the(6) wall(7) ,(8) and(9) there(10) was(11) not(12) an(13) alarm(14) clock(15) provided(16) in(17) the(18) room(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			We(1) asked(2) for(3) another(4) room(5) right(6) away(7) because(8) the(9) sliding(10) glass(11) patio(12) door(13) did(14) not(15) lock(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) next(2) room(3) was(4) real(5) musty(6) ((7) and(8) I(9) 'm(10) talking(11) about(12) musty(13) !(14) )(15) Third(16) room(17) was(18) the(19) charm(20) ((21) at_least(22) it(23) was(24) better(25) than(26) the(27) first(28) two(29) )(30) .(31) 
+			<opinion polarity="-" feature="rooms" featWords="3" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="17" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			Things(1) went(2) up(3) from(4) there(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			Wait(1) staff(2) was(3) marvelous(4) .(5) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Drinks(1) were(2) weak(3) unless(4) you(5) asked(6) for(7) a(8) double(9) and(10) tipped(11) the(12) bartenders(13) .(14) 
+			<opinion polarity="-" feature="drinks" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			Breakfasts(1) were(2) great(3) ((4) the(5) Ibiza(6) was(7) the(8) superior(9) choice(10) )(11) ,(12) lunches(13) were(14) good(15) ,(16) and(17) the(18) only(19) dinner(20) we(21) had(22) on(23) the(24) grounds(25) was(26) okay(27) ((28) although(29) ,(30) the(31) mariachi(32) band(33) was(34) wonderful(35) )(36) .(37) 
+			<opinion polarity="+" feature="food" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="food" featWords="20" opWords="27"/>
+		</sentence>
+		<sentence id="12">
+			Beach(1) was(2) wonderful(3) ,(4) until(5) they(6) brought(7) down(8) the(9) speakers(10) and(11) started(12) cranking(13) "(14) techno-mex(15) "(16) on(17) the(18) last(19) couple(20) of(21) days(22) .(23) 
+			<opinion polarity="+" feature="beach" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			Nothing(1) really(2) in(3) walking(4) distance(5) from(6) this(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Cabs(1) are(2) spendy(3) ((4) as(5) compared(6) to(7) Puerto_Vallarta(8) and(9) Mazatlan(10) )(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			However(1) ,(2) the(3) bus(4) system(5) is(6) a(7) good(8) ,(9) cheap(10) way(11) to(12) get(13) around(14) ((15) 5(16) pecos(17) )(18) --(19) only(20) trick(21) is(22) knowing(23) when(24) to(25) get(26) off(27) the(28) bus(29) and(30) relaying(31) that(32) fact(33) to(34) the(35) driver(36) .(37) 
+		</sentence>
+		<sentence id="16">
+			The(1) guests(2) were(3) of(4) mixed(5) nationality(6) and(7) age(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			But(1) the(2) party(3) crowd(4) made(5) more(6) than(7) enough(8) noise(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Would(1) not(2) want(3) to(4) stay(5) at(6) the(7) Oasis(8) during(9) Spring_Break(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			As(1) it(2) was(3) ,(4) we(5) were(6) woken(7) up(8) several(9) nights(10) around(11) 4:00_a.m.(12) by(13) intoxicated(14) youth(15) returning(16) from(17) their(18) evening(19) festivities(20) ((21) if(22) you(23) 're(24) into(25) that(26) thing(27) ,(28) this(29) is(30) your(31) place(32) )(33) .(34) 
+		</sentence>
+	</text>
+</review>

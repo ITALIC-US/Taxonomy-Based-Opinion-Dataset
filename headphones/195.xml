@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="195" item="Panasonic RP-HG50 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Quite(1) useful(2) during(3) various(4) physical(5) activities(6) 
+			<opinion polarity="+" feature="headphones" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			These(1) stay(2) on(3) the(4) head(5) during(6) physical(7) activities(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) frequency(2) response(3) is(4) pretty(5) wide(6) .(7) 
+			<opinion polarity="+" feature="frequency response" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) produce(2) blurred(3) sound(4) .(5) 
+			<opinion polarity="-" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) while(4) searching(5) for(6) a(7) pair(8) of(9) headphones(10) that(11) would(12) enable(13) me(14) to(15) listen(16) to(17) music(18) on(19) the(20) move(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			By(1) that(2) I(3) mean(4) running(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			These(1) headphones(2) do(3) a(4) good(5) job(6) when(7) it(8) comes(9) to(10) staying(11) on(12) my(13) head(14) during(15) fast(16) movement(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="3,4,5,6"/>
+		</sentence>
+		<sentence id="4">
+			Unfortunately(1) ,(2) their(3) sound(4) is(5) not(6) what(7) I(8) had(9) hoped(10) for(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) quite(3) blurred(4) ,(5) which(6) disappointed(7) me(8) a_bit(9) ,(10) although(11) I(12) should(13) not(14) have(15) expected(16) much(17) from(18) a(19) pair(20) that(21) costs(22) approximately(23) 20(24) $(25) .(26) 
+			<opinion polarity="-" feature="sound quality" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			Apart_from(1) that(2) disadvantage(3) they(4) perform(5) quite(6) well(7) ,(8) their(9) frequency(10) response(11) is(12) quite(13) wide(14) .(15) 
+			<opinion polarity="+" feature="sound quality" opWords="5,7" potency="6"/>
+			<opinion polarity="+" feature="frequency response" featWords="10,11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="7">
+			Actually(1) ,(2) I(3) do(4) not(5) always(6) consider(7) it(8) to(9) be(10) a(11) value(12) ,(13) because(14) the(15) clarity(16) of(17) high-frequency(18) sounds(19) is(20) so(21) low(22) that(23) I(24) hear(25) a(26) bunch(27) of(28) sounds(29) "(30) glued(31) "(32) together(33) in(34) a(35) way(36) that(37) makes(38) it(39) impossible(40) to(41) recognize(42) any(43) particular(44) motive(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			All(1) in_all(2) ,(3) these(4) are(5) quite(6) cheap(7) and(8) perform(9) quite(10) well(11) in(12) terms(13) of(14) comfort(15) .(16) 
+			<opinion polarity="+" feature="price" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="sound quality" opWords="9,11" potency="10"/>
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) the(3) sound(4) reflects(5) the(6) price(7) ...(8) 
+		</sentence>
+	</text>
+</review>

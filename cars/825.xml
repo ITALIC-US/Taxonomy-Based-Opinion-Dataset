@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="825" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) an(4) Chevrolet_Uplander(5) ((6) esp.(7) the(8) 2005(9) )(10) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			lots(1) of(2) features(3) for(4) the(5) money(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			engine(1) replacement(2) ,(3) and(4) multiple(5) other(6) issues(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) not(2) buy(3) this(4) van(5) .(6) 
+			<opinion polarity="-" feature="van" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Chevrolet(1) had(2) a(3) great(4) van(5) with(6) the(7) Venture(8) ,(9) I(10) do(11) not(12) know(13) what(14) went(15) wrong(16) with(17) the(18) Uplander(19) ,(20) but(21) it(22) has(23) multiple(24) issues(25) !(26) !(27) 
+			<opinion polarity="+" feature="van" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) owned(3) the(4) previous(5) Chevrolet_Venture(6) and(7) had(8) it(9) for(10) over(11) 100K(12) and(13) it(14) was(15) NEVER(16) in(17) the(18) shop(19) except_for(20) regular(21) maintance(22) of(23) oil(24) changes(25) and(26) tires(27) ,(28) etc.(29) From(30) day_1(31) my(32) uplander(33) has(34) been(35) un(36) reliable(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) been(3) in(4) the(5) shop(6) about(7) as(8) much(9) as(10) I(11) have(12) driven(13) it(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) would(2) be(3) considered(4) a(5) lemon(6) except(7) i(8) bought(9) it(10) used(11) from(12) a(13) dealer(14) and(15) my(16) state(17) 's(18) lemon(19) laws(20) are(21) only(22) for(23) new(24) cars(25) not(26) used(27) ones(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) it(3) with(4) 14k_miles(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Here(1) are(2) a(3) few(4) of(5) the(6) issues(7) that(8) we(9) have(10) had(11) :(12) the(13) windshield(14) came(15) apart_from(16) the(17) car(18) ,(19) it(20) literally(21) could(22) be(23) wiggled(24) if(25) you(26) touched(27) it(28) ;(29) another(30) time(31) I(32) had(33) atleast(34) 1/4(35) tank(36) of(37) gas(38) in(39) it(40) ,(41) and(42) it(43) would(44) not(45) start(46) like(47) it(48) did(49) not(50) have(51) gas(52) ,(53) but(54) it(55) did(56) !(57) ,(58) horn(59) would(60) not(61) honk(62) unless(63) you(64) had(65) a(66) magician(67) 's(68) touch(69) ((70) on(71) certain(72) places(73) and(74) only(75) certain(76) days(77) )(78) ,(79) and(80) several(81) other(82) recall(83) issues(84) .(85) 
+		</sentence>
+		<sentence id="6">
+			But(1) the(2) one(3) that(4) frustrated(5) us(6) the(7) most(8) :(9) After(10) numerous(11) mini(12) repairs(13) we(14) started(15) having(16) issues(17) with(18) it(19) starting(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) like(3) the(4) starter(5) was(6) bad(7) already(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Except(1) when(2) I(3) left(4) Target(5) one(6) very(7) cold(8) morning(9) ,(10) it(11) would(12) not(13) start(14) ,(15) then(16) when(17) it(18) finally(19) did(20) ,(21) I(22) got(23) about(24) 1_mile(25) down(26) the(27) road(28) and(29) it(30) SHUT_OFF_ON_ME_GOING_DOWN_THE_ROAD(31) !(32) !(33) !(34) !(35) 
+		</sentence>
+		<sentence id="9">
+			Thank(1) you(2) Jesus(3) that(4) I(5) was(6) not(7) in(8) a(9) car(10) accident(11) as(12) a(13) result(14) !(15) !(16) 
+		</sentence>
+		<sentence id="10">
+			It(1) would(2) not(3) restart(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			I(1) called(2) a(3) tow(4) truck(5) and(6) the(7) dealer(8) I(9) bought(10) it(11) from(12) and(13) had(14) it(15) towed(16) in(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			The(1) dealer(2) stated(3) that(4) it(5) needed(6) a(7) new(8) starter(9) and(10) the(11) new(12) starter(13) would(14) be(15) $500(16) ,(17) we(18) questioned(19) why(20) a(21) starter(22) would(23) be(24) needed(25) so(26) soon(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			So(1) we(2) began(3) to(4) do(5) some(6) research(7) online(8) and(9) found(10) out(11) others(12) had(13) the(14) same(15) problem(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Some(1) people(2) had(3) even(4) replaced(5) the(6) starter(7) 2-3_times(8) and(9) still(10) had(11) this(12) issue(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			I(1) called(2) the(3) dealer(4) back(5) and(6) told(7) him(8) this(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			He(1) did(2) a(3) search(4) on(5) my(6) vin(7) #(8) and(9) found(10) out(11) that(12) mine(13) qualified(14) for(15) engine(16) replacement(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			I(1) guess(2) if(3) you(4) question(5) them(6) on(7) the(8) starter(9) then(10) they(11) will(12) admit(13) that(14) it(15) 's(16) the(17) engine(18) that(19) needs(20) to(21) be(22) replaced(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			But(1) they(2) have(3) not(4) done(5) a(6) full(7) recall(8) ,(9) I(10) guess(11) they(12) do(13) not(14) want(15) to(16) pay(17) for(18) all(19) of(20) those(21) new(22) engines(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			I(1) guess(2) they(3) would(4) prefer(5) to(6) have(7) their(8) customers(9) stuck(10) on(11) the(12) side(13) of(14) the(15) road(16) or(17) endangering(18) their(19) lives(20) when(21) it(22) cuts(23) off(24) on(25) them(26) going(27) down(28) the(29) highway(30) !(31) !(32) 
+		</sentence>
+		<sentence id="20">
+			THE(1) ENGINE_HAD_TO_BE_REPLACED_WITH_ONLY(2) 42K(3) MILES_ON_THIS_VAN(4) !(5) !(6) 
+		</sentence>
+		<sentence id="21">
+			Here(1) are(2) me(3) and(4) my(5) son(6) ((7) 3(8) yr(9) old(10) )(11) in(12) the(13) coldest(14) day(15) in(16) NC(17) in(18) 2years(19) ,(20) stuck(21) on(22) the(23) side(24) of(25) the(26) road(27) with(28) no(29) heat(30) ,(31) nothing(32) .(33) 
+		</sentence>
+		<sentence id="22">
+			And(1) if(2) you(3) are(4) starting(5) to(6) think(7) that(8) maybe(9) I(10) just(11) got(12) one(13) of(14) many(15) made(16) that(17) happen(18) to(19) have(20) this(21) issue(22) ,(23) ....(24) I(25) know(26) 2(27) others(28) that(29) have(30) 2005(31) uplanders(32) and(33) both(34) are(35) having(36) the(37) starter(38) issues(39) and(40) are(41) in(42) the(43) process(44) of(45) talking(46) to(47) the(48) dealer(49) they(50) purchased(51) from(52) about(53) engine(54) replacement(55) .(56) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) LS(16) 
+		</sentence>
+	</text>
+</review>

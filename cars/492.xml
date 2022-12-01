@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="492" item="2003 Toyota 4Runner" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Great_Truck(2) -(3) But(4) Not_Trouble-Free(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Attractive(1) ,(2) aggressive(3) styling(4) complimented(5) with(6) good(7) performance(8) .(9) 
+			<opinion polarity="+" feature="performance" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Handling(1) is(2) superb(3) for(4) a(5) true(6) truck-based(7) SUV(8) .(9) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Many(1) annoying(2) rattles(3) and(4) creaks(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Could(1) it(2) be(3) ((4) gasp(5) !(6) )(7) that(8) Toyota(9) cut(10) corners(11) on(12) quality(13) ?(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Though(1) the(2) interior(3) quality(4) and(5) craftsmanship(6) does(7) not(8) live(9) up(10) to(11) the(12) brand(13) 's(14) reputation(15) ,(16) this(17) SUV(18) is(19) still(20) a(21) good(22) overall(23) value(24) given(25) its(26) good(27) on(28) and(29) off-road(30) performance(31) .(32) 
+			<opinion polarity="+" feature="performance" featWords="31" opWords="27"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) really(2) love(3) my(4) 2003(5) Toyota(6) 4-Runner(7) Sport_Edition_V(8) -(9) 8(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) aggressive(3) good(4) looks(5) and(6) scoped(7) hood(8) give(9) it(10) a(11) distinct(12) look(13) .(14) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			And(1) it(2) goes(3) through(4) New_England(5) snow(6) ,(7) which(8) is(9) why(10) I(11) bought(12) it(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a_lot_of(3) neat(4) features(5) included(6) ,(7) like(8) the(9) rear(10) drop(11) down(12) window(13) that(14) prove(15) some(16) good(17) thought(18) went(19) into(20) the(21) design(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Except_for(1) the(2) sun(3) visors(4) ,(5) which(6) are(7) very(8) poor(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			The(1) one(2) that(3) swings(4) to(5) the(6) side(7) is(8) fat(9) and(10) bulky(11) ,(12) with(13) an(14) inadequate(15) small(16) flip(17) down(18) under(19) it(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			But(1) my(2) true(3) complaints(4) are(5) with(6) the(7) numerous(8) build-quality(9) problems(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Firstly(1) ,(2) the(3) sun-roof(4) rattled(5) like(6) crazy(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			A(1) constant(2) rattling(3) also(4) comes(5) from(6) the(7) rear(8) ,(9) somewhere(10) inside(11) the(12) body(13) panels(14) and(15) I(16) can(17) not(18) locate(19) the(20) source(21) ((22) possibly(23) connected(24) with(25) the(26) rear(27) window(28) ,(29) since(30) it(31) is(32) better(33) with(34) the(35) window(36) rolled(37) down(38) )(39) .(40) 
+		</sentence>
+		<sentence id="10">
+			The(1) drivers(2) side(3) front(4) seat(5) lifts(6) /(7) is(8) not(9) securely(10) in(11) place(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			The(1) body(2) creaks(3) when(4) backing(5) out(6) of(7) my(8) driveway(9) over(10) uneven(11) terrain(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Finally(1) ,(2) there(3) is(4) an(5) odor(6) in(7) the(8) compartment(9) when(10) the(11) heat(12) is(13) turned(14) on(15) ,(16) which(17) I(18) understand(19) is(20) due(21) to(22) a(23) faulty(24) catalytic(25) converter(26) .(27) 
+		</sentence>
+		<sentence id="13">
+			Most(1) of(2) these(3) issues(4) are(5) covered(6) by(7) my(8) warranty(9) ,(10) though(11) Toyota(12) does(13) not(14) seem(15) to(16) do(17) recalls(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Given(1) this(2) track(3) record(4) ,(5) I(6) am(7) worried(8) that(9) issues(10) might(11) pop(12) up(13) after(14) 3year/36,000_miles(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 31000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Sport_Edition(16) V8(17) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="642" item="2003 Toyota Matrix" rating="3">
+	<title>
+		<sentence id="1">
+			stop(1) wiping(2) please(3) !(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			lots(1) of(2) room(3) ,(4) nice(5) looking(6) inside(7) and(8) out(9) ,(10) gadget(11) filled(12) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) windshield(2) wiper(3) problem(4) I(5) experienced(6) ,(7) substandard(8) handling(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Its(1) a(2) fun(3) car(4) that(5) has(6) a_lot_of(7) good(8) amenities(9) ,(10) But_I(11) feel(12) like(13) it(14) was(15) rushed(16) into(17) production(18) and(19) it(20) may(21) have(22) a_lot_of(23) problems(24) .(25) 
+			<opinion polarity="+" feature="amenities" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) test(2) drove(3) this(4) car(5) and(6) the(7) handling(8) and(9) acceleration(10) was(11) decent(12) .(13) 
+			<opinion polarity="+" feature="acceleration" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="handling" featWords="8" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) liked(2) the(3) ride(4) .(5) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			It(1) drove(2) fairly(3) well(4) ,(5) although(6) I(7) definitely(8) felt(9) the(10) inertia(11) on(12) the(13) tight(14) turns(15) .(16) 
+			<opinion polarity="+" feature="ride quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			In(1) other(2) words(3) ,(4) my(5) passengers(6) had(7) to(8) brace(9) themselves(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			But(1) I(2) guess(3) this(4) it(5) to(6) be(7) expected(8) in(9) a(10) lower(11) priced(12) car(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) inside(2) looks(3) beautiful(4) with(5) the(6) futuristic(7) dashboard(8) .(9) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) like(2) that(3) trendy(4) stuff(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Since(1) I(2) knew(3) that(4) there(5) was(6) a(7) chance(8) that(9) the(10) car(11) would(12) have(13) problems(14) because(15) its(16) a(17) new(18) model(19) ,(20) I(21) kind(22) of(23) expected(24) at_least(25) one(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) funny(3) to(4) me(5) and(6) my(7) girlfriend(8) when(9) the(10) windshield(11) wipers(12) went(13) on(14) and(15) did(16) not(17) shut(18) off(19) ,(20) for(21) no(22) reason(23) ,(24) It(25) was(26) as_if(27) the(28) car(29) was(30) possessed(31) .(32) 
+		</sentence>
+		<sentence id="10">
+			I(1) tried(2) pulling(3) over(4) and(5) turning(6) the(7) car(8) on(9) and(10) off(11) ,(12) to(13) no(14) avail(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) wipers(2) were(3) dry(4) so(5) they(6) of(7) course(8) kept(9) making(10) a(11) loud(12) squeaky(13) sound(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			I(1) had(2) to(3) keep(4) spraying(5) windshield(6) wiper(7) fluid(8) to(9) stop(10) the(11) noise(12) for(13) the(14) rest(15) of(16) the(17) ride(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) dealer(2) shouted(3) "(4) SHUT(5) OFF_THE_CAR(6) !(7) "(8) as(9) soon(10) as(11) we(12) pulled(13) back(14) into(15) the(16) lot(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			I(1) guess(2) he(3) was(4) embarrassed(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			The(1) car(2) overall(3) seemed(4) solid(5) ,(6) but(7) regardless(8) ,(9) I(10) bought(11) a(12) Honda(13) civic(14) instead(15) mainly(16) because_of(17) the(18) price(19) difference(20) rather(21) than(22) the(23) car(24) itself(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			If(1) your(2) buying(3) a(4) first(5) year(6) car(7) model(8) ...(9) WATCH_OUT(10) for(11) minor(12) mechanical(13) flaws(14) like(15) this(16) one(17) !(18) !(19) !(20) 
+		</sentence>
+		<sentence id="17">
+			The(1) car(2) also(3) made(4) a(5) unidentified(6) squeaky(7) noise(8) from(9) the(10) passenger(11) side(12) ,(13) which(14) was(15) extremely(16) bothersome(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			Even_though(1) I(2) do(3) not(4) recommend(5) this(6) car(7) ,(8) I(9) can(10) not(11) say(12) too(13) many(14) bad(15) things(16) about(17) it(18) except_for(19) the(20) slightly(21) uneasy(22) ride(23) and(24) the(25) fact(26) that(27) I(28) believe(29) in(30) not(31) buying(32) any(33) car(34) the(35) first(36) year(37) it(38) comes(39) out(40) .(41) 
+			<opinion polarity="-" feature="ride quality" featWords="23" opWords="22" potency="21"/>
+			<opinion polarity="-" feature="car" featWords="7" opWords="4,5"/>
+		</sentence>
+		<sentence id="19">
+			I(1) feel(2) that(3) next(4) year(5) they(6) will(7) improve(8) any(9) flaws(10) as(11) Toyota(12) is(13) known(14) to(15) have(16) an(17) excellent(18) track(19) record(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Wait(1) till(2) the(3) 2004(4) models(5) come(6) out(7) to(8) get(9) one(10) if(11) you(12) can(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			Good_Luck(1) 
+		</sentence>
+	</text>
+</review>

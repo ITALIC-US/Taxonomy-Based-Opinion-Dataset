@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="787" item="1998 Chevrolet Tahoe" rating="2">
+	<title>
+		<sentence id="1">
+			OK(1) but(2) should(3) not(4) be(5) seen(6) at(7) this(8) price(9) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) size(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weak(1) brakes(2) ,(3) driveline(4) noises(5) ,(6) transmission(7) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) stopping(2) your(3) vehicle(4) is(5) important(6) to(7) you(8) ,(9) then(10) I(11) would(12) avoid(13) the(14) Tahoe(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) spending(2) nearly(3) $30,000(4) for(5) a(6) vehicle(7) I(8) would(9) expect(10) it(11) to(12) perform(13) better(14) than(15) average(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			This(1) has(2) not(3) been(4) the(5) case(6) for(7) my(8) 98_LT(9) 4x4(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Since(1) day_one(2) the(3) brakes(4) have(5) been(6) woefully(7) insufficient(8) for(9) a(10) vehicle(11) of(12) this(13) size(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) front(2) rotors(3) matched(4) with(5) the(6) rear(7) drums(8) just(9) are(10) not(11) large(12) enough(13) to(14) provide(15) the(16) braking(17) power(18) needed(19) when(20) towing(21) something(22) as(23) small(24) as(25) 2500lb(26) trailer(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Then(1) there(2) is(3) the(4) transmission(5) ,(6) the(7) 1st(8) to(9) 2nd(10) shift(11) feels(12) like(13) there(14) is(15) mud(16) in(17) the(18) trans(19) .(20) pan(21) ,(22) very(23) sluggish(24) ,(25) almost(26) slipping(27) .(28) 
+			<opinion polarity="-" feature="transmission" featWords="5" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="6">
+			Add(1) that(2) to(3) the(4) wonderful(5) noises(6) originating(7) from(8) the(9) driveshaft(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) THUNK(2) heard(3) and(4) felt(5) from(6) every(7) stoplight(8) is(9) a(10) little(11) much(12) to(13) deal(14) with(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Overall_I(1) am(2) disappointed(3) with(4) my(5) purchase(6) ,(7) and(8) with(9) the(10) Chevy(11) name(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) LT(16) ,(17) 4x4(18) barn(19) doors(20) ,(21) towing(22) package(23) 
+		</sentence>
+	</text>
+</review>

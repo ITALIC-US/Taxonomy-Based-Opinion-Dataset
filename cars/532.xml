@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="532" item="2003 Jeep Wrangler" rating="3">
+	<title>
+		<sentence id="1">
+			I_LOVE(1) /(2) HATE_JEEPS(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) Terrific(2) car(3) if(4) you(5) are(6) young(7) -(8) Plenty_of(9) attention(10) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) Gas(2) is(3) HORRIBLE(4) ((5) TX(6) -(7) 16_gallon(8) tank(9) ONLY(10) 200_miles(11) )(12) -(13) Loud(14) 
+			<opinion polarity="-" feature="gas" featWords="2" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommend(1) for(2) young(3) and(4) want(5) attention(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			I(1) will(2) always(3) keep(4) my(5) Jeep(6) but(7) go(8) about(9) things(10) differently(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			You(1) learn(2) from(3) experience(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			Read(1) and(2) take(3) in(4) ,(5) it(6) helps(7) to(8) know(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) Jeep_Wrangler_Sahara(4) ((5) 02(6) '(7) )(8) and(9) love(10) /(11) hate(12) it(13) ...(14) I(15) have(16) a(17) body(18) /(19) suspension(20) lift(21) with(22) 35_inch(23) ProComp_Tires(24) ...(25) Terrific(26) turning(27) radius(28) !(29) !(30) !(31) !(32) 
+			<opinion polarity="+" feature="turning radius" featWords="27,28" opWords="26"/>
+		</sentence>
+		<sentence id="2">
+			Problems_Later(1) down(2) the(3) road(4) ...(5) -(6) Gas(7) is(8) horrible(9) ((10) TX(11) 16_gallon(12) tank(13) w(14) /(15) ONLY(16) 200_miles(17) )(18) -(19) Loud(20) /(21) Noisy(22) -(23) Soft(24) top(25) has(26) fallen(27) apart(28) ((29) a(30) )(31) buy(32) a(33) hard(34) top(35) ((36) $1,500-2,000(37) )(38) -(39) ONLY(40) go(41) off-roading(42) if(43) you(44) know(45) what(46) you(47) are(48) doing(49) ((50) a(51) )(52) First_Time(53) -(54) dirt(55) /(56) water(57) in(58) engine(59) and(60) cracked(61) frame(62) -(63) Trunk(64) space(65) ?(66) ?(67) -(68) Do(69) not(70) let(71) your(72) car(73) get(74) flooded(75) ((76) forgot(77) to(78) put(79) my(80) top(81) up(82) one(83) night(84) and(85) my(86) car(87) was(88) flooded(89) the(90) next(91) morning(92) )(93) --(94) take(95) out(96) your(97) drain(98) plugs(99) -(100) Upgrade(101) your(102) gears(103) from(104) standard(105) to(106) performance(107) :(108) unfortuenly(109) my(110) upgraded(111) gears(112) have(113) broken(114) off(115) twice(116) ((117) once(118) on(119) highway(120) and(121) another(122) time(123) into(124) my(125) differential(126) )(127) -(128) Automatic(129) or(130) Manual(131) you(132) choose(133) ...(134) I(135) prefer(136) automatic(137) ((138) city(139) driving(140) )(141) -(142) DO(143) NOT(144) leave(145) any(146) personal(147) items(148) inside(149) your(150) jeep(151) if(152) you(153) have(154) a(155) soft(156) top(157) ;(158) easy(159) to(160) break(161) into(162) -(163) Get(164) a(165) certified(166) jeep(167) dealer(168) to(169) do(170) your(171) life(172) and(173) body(174) kit(175) ;(176) pay(177) for(178) the(179) premium(180) ...(181) its(182) worth(183) it(184) in(185) the(186) end(187) .(188) ((189) a(190) )(191) Got(192) a(193) friend(194) to(195) do(196) my(197) life(198) /(199) suspension(200) and(201) it(202) was(203) a(204) nightmare(205) ((206) b(207) )(208) You(209) learn(210) from(211) experience(212) Amount_Paid(213) ((214) US(215) $(216) )(217) :(218) 13000(219) Condition(220) :(221) UsedModel_Year(222) :(223) 2002Model(224) and(225) Options(226) :(227) Jeep_Wrangler_Sahara(228) -(229) Automatic(230) 
+			<opinion polarity="-" feature="gas" featWords="7" opWords="9"/>
+		</sentence>
+	</text>
+</review>

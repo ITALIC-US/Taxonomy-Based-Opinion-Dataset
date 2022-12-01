@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="794" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			REVIEW_OF_THE_RITZ_CARLTON_HOTEL(1) ,(2) CALIFORNIA(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			everything(1) is(2) perfect(3) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Palm_Springs(1) was(2) once(3) the(4) international(5) playground(6) of(7) Hollywood_'s_Rat_Pack(8) in_the_1950(9) 's(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Frank_Sinatra(1) ,(2) Dean_Martin(3) and(4) many(5) other(6) celebs(7) were(8) regular(9) visitors(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) you(3) do(4) not(5) have(6) to(7) be(8) a(9) star(10) to(11) enjoy(12) the(13) Ritz_Carlton_Hotel(14) in(15) San_Francisco(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) Ritz_Carlton(2) offers(3) the(4) best(5) accommodation(6) ,(7) restaurants(8) ,(9) service(10) ,(11) entertainment(12) and(13) whether(14) you(15) are(16) looking(17) for(18) a(19) chill(20) out(21) holiday(22) or(23) an(24) action(25) packed(26) adventure(27) ,(28) make(29) your(30) base(31) in(32) the(33) wonderful(34) Ritz_Carlton(35) hotel(36) .(37) 
+		</sentence>
+		<sentence id="5">
+			Highly(1) recommended(2) and(3) a(4) wonderful(5) vacation(6) spot(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+	</text>
+</review>

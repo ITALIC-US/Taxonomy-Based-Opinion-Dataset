@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="678" item="1999 Pontiac Grand Prix" rating="2">
+	<title>
+		<sentence id="1">
+			Falling_Apart(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) combination(2) of(3) power(4) and(5) fuel(6) economy(7) ((8) 24(9) mpg(10) city(11) /(12) hi-way(13) )(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) interior(2) ,(3) unreliable(4) components(5) 
+			<opinion polarity="-" feature="reliability" opWords="4"/>
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) GTP(4) with(5) about(6) 54,000_miles(7) in(8) April_2005(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Since(1) then(2) ,(3) the(4) car(5) has(6) fallen(7) apart(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) problems(4) with(5) the(6) power(7) windows(8) ,(9) power(10) steering(11) pump(12) ,(13) cooling(14) system(15) ,(16) and(17) brake(18) system(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			The(1) interior(2) has(3) a(4) very(5) cheap(6) look(7) and(8) feel(9) .(10) 
+			<opinion polarity="-" feature="design" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			Despite(1) those(2) problems(3) ,(4) I(5) greatly(6) enjoy(7) the(8) combination(9) of(10) power(11) and(12) fuel(13) economy(14) from(15) the(16) supercharged(17) engine(18) .(19) 
+			<opinion polarity="+" feature="engine" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) I(3) 'm(4) worried(5) that(6) the(7) car(8) will(9) continue(10) to(11) be(12) unreliable(13) ,(14) so(15) I(16) am(17) currently(18) looking(19) to(20) trade(21) .(22) 
+			<opinion polarity="-" feature="reliability" opWords="13"/>
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 8500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) GTP(16) 
+		</sentence>
+	</text>
+</review>

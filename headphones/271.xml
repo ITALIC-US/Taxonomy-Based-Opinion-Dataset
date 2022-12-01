@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="271" item="Bose on-ear TriPort� Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Awesome(1) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) quality(3) ,(4) compact(5) ,(6) cool(7) style(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="portability" opWords="5"/>
+			<opinion polarity="+" feature="appearance" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) ,(2) although(3) well(4) worth(5) the(6) money(7) .(8) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="headphones" opWords="5,6,7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) can(3) blast(4) super(5) loud(6) and(7) have(8) amazing(9) sound(10) quality(11) .(12) 
+			<opinion polarity="+" feature="volume" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="10,11" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			Most(1) of(2) my(3) regular(4) headphones(5) have(6) blown(7) out(8) after(9) about(10) 1-2(11) months(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) had(3) these(4) headphones(5) for(6) about(7) a(8) year(9) ,(10) in(11) which(12) i(13) listen(14) to(15) my(16) ipod(17) everyday(18) between(19) classes(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Also(1) works(2) well(3) for(4) playing(5) drums(6) ,(7) or(8) playing(9) along_with(10) an(11) instrument(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) can(2) use(3) them(4) everyday(5) in(6) peace(7) as(8) it(9) covers(10) your(11) ears(12) ,(13) canceling(14) out(15) most(16) of(17) the(18) sound(19) that(20) is(21) not(22) needed(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Great(1) to(2) use(3) going(4) on(5) long(6) trips(7) ,(8) airplanes(9) ,(10) and(11) camping(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Never(1) have(2) to(3) worry(4) about(5) blowing(6) this(7) headphones(8) out(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			They(1) fold(2) up(3) nicely(4) and(5) compact(6) and(7) can(8) fit(9) in(10) any(11) small(12) bag(13) ,(14) ready(15) to(16) use(17) whenever(18) .(19) 
+		</sentence>
+	</text>
+</review>

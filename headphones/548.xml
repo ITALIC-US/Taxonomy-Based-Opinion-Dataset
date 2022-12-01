@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="548" item="Stanton DJ Pro 3000 Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Bottom_Line(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			awesome(1) look(2) and(3) feel(4) !(5) 
+			<opinion polarity="+" feature="appearance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			defective(1) construction(2) ,(3) should(4) be(5) recalled(6) !(7) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Similar(1) to(2) a(3) plastic(4) toy(5) for(6) a(7) 3(8) year(9) old(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) same(2) thing(3) happened(4) to(5) me(6) ,(7) and(8) everyone(9) else(10) I(11) know(12) who(13) have(14) owned(15) a(16) pair(17) of(18) these(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			This(1) particular(2) model(3) is(4) defective(5) and(6) should(7) be(8) removed(9) from(10) all(11) shelves(12) .(13) 
+			<opinion polarity="-" feature="headphones" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			If(1) Stanton(2) had(3) any(4) balls(5) ((6) which(7) they(8) do(9) not(10) )(11) they(12) would(13) recall(14) this(15) item(16) and(17) refund(18) everyone(19) who(20) wasted(21) their(22) hard(23) earned(24) money(25) on(26) these(27) things(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			But(1) lets(2) be(3) realistic(4) -(5) we(6) can(7) just(8) all(9) stick(10) to(11) quality(12) monitors(13) like(14) Sony(15) ,(16) and(17) stay(18) away(19) from(20) junk(21) like(22) Stanton(23) !(24) 
+		</sentence>
+		<sentence id="5">
+			When(1) you(2) get(3) turntables(4) you(5) go(6) Technics(7) ,(8) when(9) you(10) get(11) headphones(12) you(13) go(14) Sony(15) ,(16) period(17) !(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) not(3) even(4) buy(5) Stanton(6) needles(7) anymore(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Strictly(1) Ortofon(2) for(3) me(4) ...(5) 
+		</sentence>
+	</text>
+</review>

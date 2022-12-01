@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="252" item="Sheraton World" rating="1">
+	<title>
+		<sentence id="1">
+			Sheraton_World_Orlando(1) :(2) Avoid(3) this(4) dump(5) 
+			<opinion polarity="-" feature="hotel" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Makes(1) you(2) really(3) appreciate(4) the(5) quality(6) of(7) your(8) average(9) Days_Inn(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Refrigerator(1) in(2) room(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) place(2) is(3) a(4) total(5) dump(6) ;(7) the(8) people(9) working(10) there(11) are(12) largely(13) useless(14) .(15) 
+			<opinion polarity="-" feature="place" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) recommend(4) staying(5) here(6) .(7) 
+			<opinion polarity="-" feature="hotel" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) ,(3) my(4) infant(5) daughter(6) and(7) I(8) stayed(9) at(10) the(11) Sheraton_World_Resort_Orlando(12) for(13) a(14) few(15) days(16) in(17) June_2005(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Husband(1) was(2) there(3) for(4) a(5) Microsoft(6) conference(7) ;(8) baby(9) and(10) I(11) tagged(12) along(13) to(14) visit(15) family(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Owing(1) to(2) the(3) Sheraton(4) brand(5) ,(6) we(7) expected(8) a(9) nice(10) resort(11) with(12) nice(13) rooms(14) ;(15) we(16) got(17) something(18) entirely(19) different(20) .(21) 
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			In(1) short(2) ,(3) this(4) place(5) is(6) a(7) dump(8) .(9) 
+			<opinion polarity="-" feature="place" featWords="5" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			Avoid(1) it(2) at(3) all(4) costs(5) .(6) 
+			<opinion polarity="-" feature="hotel" featWords="2" featRef="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="6">
+			Check-in(1) was(2) a(3) nightmare(4) :(5) we(6) had(7) to(8) wait(9) on(10) line(11) for(12) over(13) an(14) hour(15) to(16) get(17) a(18) room(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			This(1) was(2) at(3) around(4) 3pm(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Unacceptable(1) .(2) 
+		</sentence>
+		<sentence id="9">
+			Our(1) room(2) was(3) in(4) one(5) of(6) the(7) outlying(8) low-rise(9) buildings(10) --(11) so(12) ,(13) after(14) that(15) interminable(16) wait(17) at(18) check-in(19) ,(20) we(21) were(22) told(23) that(24) we(25) had(26) to(27) get(28) our(29) car(30) out(31) of(32) the(33) valet(34) parking(35) ((36) which(37) we(38) were(39) _(40) required(41) _(42) to(43) use(44) for(45) checkin(46) )(47) ,(48) and(49) then(50) we(51) had(52) to(53) drive(54) to(55) our(56) room(57) .(58) 
+		</sentence>
+		<sentence id="10">
+			Really(1) fun(2) when(3) you(4) 've(5) got(6) an(7) infant(8) and(9) convertible(10) carseat(11) /(12) stroller(13) with(14) you(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Unlike(1) the(2) tower(3) you(4) see(5) in(6) the(7) hotel(8) website(9) /(10) advertisements(11) ,(12) most(13) of(14) the(15) rooms(16) are(17) actually(18) in(19) these(20) old(21) and(22) crappy(23) low-rises(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			Believe(1) me(2) ,(3) the(4) new(5) Days_Inn(6) down(7) the(8) street(9) has(10) got(11) to(12) have(13) nicer(14) rooms(15) than(16) this(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Our(1) room(2) was(3) dark(4) and(5) dingy(6) and(7) ,(8) well(9) ,(10) depressing(11) .(12) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="6"/>
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="11"/>
+		</sentence>
+		<sentence id="14">
+			It(1) smelled(2) really(3) musty(4) .(5) 
+			<opinion polarity="-" feature="rooms" featWords="1" featRef="hotel" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="15">
+			The(1) pillowcases(2) were(3) stained(4) .(5) 
+			<opinion polarity="-" feature="bedding" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			There(1) were(2) "(3) curly(4) hairs(5) "(6) in(7) the(8) bathroom(9) ((10) I(11) wanted(12) to(13) throw(14) up(15) at(16) this(17) .(18) )(19) There(20) were(21) also(22) rust(23) stains(24) in(25) the(26) bathroom(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			The(1) TV(2) did(3) not(4) work(5) because(6) the(7) batteries(8) in(9) the(10) remote(11) were(12) dead(13) and(14) you(15) could(16) not(17) turn(18) on(19) the(20) TV(21) without(22) the(23) remote(24) .(25) 
+			<opinion polarity="-" feature="tv" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="18">
+			Our(1) room(2) was(3) located(4) right(5) next(6) to(7) a(8) downspout(9) and(10) the(11) noise(12) was(13) deafening(14) during(15) our(16) entire(17) visit(18) ((19) which(20) really(21) surprised(22) me(23) .(24) )(25) I(26) am(27) usually(28) not(29) a(30) very(31) picky(32) traveller(33) ;(34) I(35) 've(36) stayed(37) in_all(38) kinds(39) of(40) hotels(41) and(42) hostels(43) in(44) my(45) time(46) ....(47) but(48) this(49) hotel(50) was(51) really(52) ,(53) truly(54) a(55) DUMP(56) .(57) 
+		</sentence>
+		<sentence id="19">
+			My(1) husband(2) is(3) the(4) classic(5) Midwesterner-who-doesn't-complain(6) ,(7) and(8) he(9) too(10) was(11) horrified(12) by(13) the(14) state(15) of(16) our(17) room(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			When(1) we(2) called(3) the(4) front(5) desk(6) to(7) complain(8) about(9) the(10) room(11) ,(12) we(13) were(14) told(15) that(16) "(17) the(18) building(19) you(20) 're(21) in(22) has(23) not(24) been(25) renovated(26) yet(27) ,(28) "(29) and(30) there(31) was(32) nothing(33) that(34) could(35) be(36) done(37) .(38) 
+		</sentence>
+		<sentence id="21">
+			Since(1) the(2) Microsoft(3) conference(4) was(5) in(6) town(7) as_well(8) as(9) another(10) event(11) ((12) more(13) on(14) that(15) later(16) )(17) ,(18) all(19) the(20) other(21) nearby(22) hotels(23) were(24) booked(25) solid(26) .(27) 
+		</sentence>
+		<sentence id="22">
+			We(1) were(2) stuck(3) .(4) 
+		</sentence>
+		<sentence id="23">
+			We(1) 'd(2) reserved(3) a(4) crib(5) when(6) we(7) reserved(8) the(9) room(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			We(1) 'd(2) also(3) confirmed(4) the(5) crib(6) at(7) checkin(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			When(1) we(2) got(3) to(4) our(5) room(6) ,(7) there(8) was(9) no(10) crib(11) to(12) be(13) found(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			We(1) called(2) the(3) front(4) desk(5) twice(6) to(7) inquire(8) about(9) it(10) ,(11) went(12) out(13) to(14) dinner(15) ,(16) and(17) we(18) waited(19) nervously(20) as(21) our(22) daughter(23) 's(24) bedtime(25) approached(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			Finally(1) at(2) 7:30(3) pm(4) the(5) crib(6) ((7) and(8) the(9) remote(10) 's(11) batteries(12) )(13) arrived(14) ....(15) we(16) finally(17) got(18) our(19) daughter(20) to(21) bed(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			Then(1) ,(2) at(3) 8:45(4) pm(5) ,(6) the(7) phone(8) rang(9) ((10) very(11) loudly(12) ,(13) as(14) this(15) is(16) a(17) 1970s-era(18) Ye_Olde_Phone(19) )(20) ...(21) it(22) was(23) the(24) Front_Desk(25) asking(26) if(27) the(28) crib(29) got(30) there(31) !(32) 
+		</sentence>
+		<sentence id="29">
+			THANKS_A_LOT(1) for(2) waking(3) up(4) our(5) daughter(6) !(7) 
+		</sentence>
+		<sentence id="30">
+			They(1) also(2) offered(3) me(4) ,(5) without(6) being(7) asked(8) ,(9) a(10) free(11) "(12) snack(13) pack(14) "(15) or(16) $50(17) credit(18) on(19) my(20) bill(21) for(22) our(23) waiting-for-the-crib(24) troubles(25) .(26) "(27) I(28) 'll(29) take(30) the(31) credit(32) ,(33) "(34) I(35) whispered(36) ,(37) eager(38) to(39) get(40) off(41) the(42) phone(43) and(44) get(45) cranky-baby(46) back(47) to(48) sleep(49) .(50) "(51) Okay(52) ,(53) we(54) 'll(55) credit(56) that(57) $25(58) to(59) your(60) bill(61) ,(62) "(63) the(64) woman(65) replied(66) .(67) "(68) I(69) thought(70) you(71) said(72) $50(73) ,(74) "(75) I(76) said(77) .(78) "(79) Oh(80) yes(81) ,(82) $50(83) ,(84) "(85) she(86) replied(87) .(88) 
+		</sentence>
+		<sentence id="31">
+			The(1) credit(2) never(3) showed(4) up(5) ;(6) I(7) was(8) not(9) surprised(10) .(11) 
+		</sentence>
+		<sentence id="32">
+			The(1) Sheraton(2) bills(3) itself(4) as(5) a(6) family-friendly(7) resort(8) ,(9) with(10) lots(11) of(12) fun(13) for(14) the(15) kiddos(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			When(1) we(2) were(3) there(4) ,(5) most(6) of(7) the(8) resort(9) was(10) unusable(11) for(12) us(13) due(14) to(15) a(16) "(17) Gay_Days_Orlando(18) "(19) event(20) that(21) was(22) headquartered(23) at(24) the(25) hotel(26) .(27) 
+			<opinion polarity="-" feature="hotel" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="34">
+			Now_I(1) have(2) absolutely(3) nothing(4) against(5) gay(6) people(7) or(8) fabulous(9) fun(10) ,(11) but(12) I(13) felt(14) a(15) little(16) swindled(17) because(18) the(19) "(20) resort(21) "(22) portion(23) of(24) our(25) stay(26) was(27) virtually(28) unusable(29) .(30) 
+		</sentence>
+		<sentence id="35">
+			The(1) pools(2) were(3) packed(4) with(5) loud(6) ,(7) mostly(8) drunken(9) revelers(10) and(11) the(12) pool(13) deck(14) /(15) bar(16) had(17) giant(18) speakers(19) blaring(20) House(21) music(22) as_well(23) as(24) giant(25) inflatable(26) Red_Bull(27) cans(28) /(29) beer(30) cans(31) with(32) the(33) accompanying(34) sponsorship(35) events(36) .(37) 
+		</sentence>
+		<sentence id="36">
+			This(1) is(2) not(3) a(4) place(5) where(6) I(7) would(8) feel(9) comfortable(10) bringing(11) my(12) ((13) then(14) )(15) 8-month-old(16) daughter(17) to(18) splash(19) and(20) play(21) .(22) 
+		</sentence>
+		<sentence id="37">
+			Frankly(1) ,(2) I(3) would(4) have(5) felt(6) the(7) same(8) way(9) if(10) the(11) resort(12) had(13) been(14) hosting(15) a(16) heterosexual(17) College_Spring-Break(18) type(19) event(20) .(21) 
+		</sentence>
+		<sentence id="38">
+			This(1) was(2) not(3) 100_%(4) the(5) resort(6) 's(7) fault(8) ,(9) because(10) they(11) are(12) not(13) allowed(14) to(15) "(16) warn(17) "(18) you(19) about(20) this(21) when(22) you(23) 're(24) reserving(25) a(26) room(27) lest(28) they(29) offend(30) someone(31) ,(32) but(33) next(34) time(35) I(36) will(37) definitely(38) do(39) the(40) research(41) myself(42) &(43) see(44) what(45) events(46) are(47) transpiring(48) !(49) 
+		</sentence>
+		<sentence id="39">
+			So(1) anyway(2) ,(3) we(4) were(5) profoundly(6) dissapointed(7) .(8) 
+		</sentence>
+		<sentence id="40">
+			It(1) 's(2) all(3) about(4) expectations(5) ,(6) but(7) when(8) you(9) expect(10) a(11) luxurious(12) resort(13) worthy(14) of(15) the(16) Sheraton(17) name(18) and(19) you(20) get(21) a(22) dump(23) ,(24) it(25) 's(26) pretty(27) demoralizing(28) .(29) 
+		</sentence>
+		<sentence id="41">
+			I(1) would(2) not(3) stay(4) here(5) again(6) for_free(7) ,(8) honestly(9) .(10) 
+		</sentence>
+		<sentence id="42">
+			The(1) good(2) news(3) is(4) ,(5) my(6) husband(7) wrote(8) a(9) letter(10) of(11) complaint(12) to(13) Sheraton(14) .(15) ((16) I(17) was(18) shocked(19) ;(20) as(21) I(22) mentioned(23) ,(24) he(25) is(26) a(27) mild-mannered(28) midwesterner(29) not(30) prone(31) to(32) writing(33) letters(34) of(35) complaint(36) .(37) )(38) He(39) got(40) a(41) response(42) from(43) Sheraton(44) apologizing(45) and(46) a(47) large(48) number(49) of(50) Starwood_Points(51) which(52) we(53) used(54) this(55) winter(56) to(57) stay(58) at(59) the(60) LOVELY_Sheraton_Key_Largo(61) resort(62) in(63) the(64) Keys(65) .(66) 
+		</sentence>
+		<sentence id="43">
+			So(1) it(2) was(3) not(4) all(5) for(6) naught(7) .(8) 
+		</sentence>
+		<sentence id="44">
+			But(1) please(2) ,(3) do(4) not(5) make(6) the(7) same(8) mistake(9) we(10) did(11) .(12) 
+		</sentence>
+		<sentence id="45">
+			If(1) your(2) tastes(3) are(4) simple(5) ,(6) go(7) for(8) a(9) Days_Inn(10) or(11) similar(12) property(13) -(14) you(15) 'll(16) be(17) a_lot(18) happier(19) and(20) you(21) 'll(22) save(23) money(24) .(25) 
+		</sentence>
+		<sentence id="46">
+			If(1) you(2) want(3) a(4) nice(5) resort(6) ,(7) find(8) one(9) that(10) 's(11) actually(12) _(13) nice(14) _(15) .(16) 
+		</sentence>
+		<sentence id="47">
+			DO(1) NOT_STAY_HERE(2) .(3) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="32" item="Ultimate Ears super.fi 3 Studio�?� Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) but(2) not(3) great(4) value(5) .(6) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Decently(1) accurate(2) and(3) detailed(4) sound(5) .(6) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Unique(1) factor(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) the(2) best(3) value(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			A(1) little(2) chunky(3) .(4) 
+			<opinion polarity="+" feature="comfort" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) highly(3) reviewed(4) and(5) touted(6) earbuds(7) ,(8) which(9) convinced(10) me(11) to(12) give(13) them(14) a(15) try(16) as(17) a(18) step(19) up(20) from(21) my(22) Sony(23) EX-71(24) 's(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			To(1) be(2) honest(3) ,(4) I(5) 'd(6) really(7) have(8) to(9) consider(10) whether(11) or(12) not(13) it(14) was(15) worth(16) it(17) .(18) "(19) Diminishing(20) returns(21) "(22) is(23) one(24) thing(25) ,(26) but(27) at(28) twice(29) the(30) price(31) I(32) have(33) to(34) really(35) concentrate(36) to(37) appreciate(38) any(39) real(40) difference(41) between(42) the(43) two(44) .(45) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) clear(3) and(4) accurate(5) ,(6) but(7) I(8) would(9) not(10) call(11) them(12) sparkling(13) or(14) even(15) highly(16) detailed(17) .(18) 
+			<opinion polarity="+" feature="sound quality" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Maybe(1) I(2) was(3) expecting(4) something(5) closer(6) to(7) the(8) slam(9) dunk(10) value(11) and(12) sound(13) of(14) Grado_'s_SR(15) line(16) of(17) cans(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			They(1) live(2) up(3) to(4) their(5) reputation(6) of(7) being(8) a_bit(9) chunky(10) as_well(11) .(12) 
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="6">
+			After(1) an(2) hour(3) of(4) listening(5) my(6) ears(7) feel(8) a(9) little(10) tender(11) ,(12) as(13) they(14) must(15) seat(16) pretty(17) deep(18) to(19) get(20) full(21) sound(22) from(23) them(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) have(3) to(4) have(5) an(6) unusual(7) or(8) unique(9) brand(10) of(11) buds(12) to(13) go(14) with(15) your(16) ipod(17) ,(18) then(19) these(20) provide(21) a(22) pretty(23) good(24) listening(25) experience(26) ,(27) and(28) the(29) clear(30) ones(31) available(32) from(33) Guitar_Center(34) look(35) pretty(36) cool(37) .(38) 
+			<opinion polarity="+" feature="appearance" opWords="35,37"/>
+		</sentence>
+		<sentence id="8">
+			For(1) my(2) money(3) ,(4) I(5) wish(6) I(7) would(8) have(9) stuck(10) with(11) the(12) more(13) comfortable(14) and(15) nearly(16) as(17) good(18) Sony(19) 's(20) .(21) 
+		</sentence>
+	</text>
+</review>

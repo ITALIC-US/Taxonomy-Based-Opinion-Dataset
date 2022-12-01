@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="422" item="Sennheiser HD 650 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			One(1) of(2) the(3) very(4) best(5) headphone(6) money(7) can(8) buy(9) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Simply(1) one(2) of(3) the(4) best(5) headphone(6) available(7) .(8) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) for(2) the(3) sound(4) quality(5) wise(6) ,(7) need(8) enough(9) power(10) though(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) used(3) this(4) headphone(5) for(6) a(7) couple(8) of(9) years(10) now(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) can(2) be(3) considered(4) as(5) an(6) amateur(7) audiophile(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) must(2) say(3) this(4) headphone(5) is(6) the(7) best(8) I(9) have(10) heard(11) compared(12) to(13) any(14) headphones(15) I(16) have(17) heard(18) before(19) in(20) similar(21) price(22) bracket(23) or(24) more(25) from(26) my(27) own(28) headphone(29) and(30) earphone(31) collections(32) ((33) Beyer(34) dynamic(35) ,(36) Grado(37) ,(38) Sony(39) ,(40) Audio_Technica(41) ,(42) Shure(43) ,(44) Koss(45) etc.(46) )(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			Having(1) said(2) this(3) ,(4) the(5) headphone(6) needs(7) a(8) proper(9) power(10) to(11) drive(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Now_I(1) use(2) the(3) headphone(4) from(5) my(6) external(7) soundcard(8) M-audio(9) firewire(10) audiophile(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) have(3) several(4) other(5) headphone(6) amps(7) to(8) drive(9) this(10) headphone(11) ,(12) including(13) a(14) modified(15) classic(16) Musical_Fidelity_X-can(17) tube(18) headphone(19) amp(20) with(21) external(22) power(23) supply(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) original(2) supplied(3) cable(4) was(5) easy(6) to(7) have(8) trouble(9) ,(10) I(11) replace(12) it(13) with(14) the(15) HD650(16) cable(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) sound(2) is(3) full(4) bodied(5) ,(6) clear(7) ,(8) crisp(9) but(10) not(11) harsh(12) ,(13) excellent(14) bass(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="11,12"/>
+			<opinion polarity="+" feature="bass" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="9">
+			For(1) vocal(2) and(3) orchestral(4) music(5) no_doubt(6) HD600(7) is(8) the(9) best(10) one(11) ((12) special(13) fine(14) recorded(15) CDs(16) ,(17) dvd-audio(18) ,(19) SACD(20) ,(21) high(22) res(23) recording(24) etc.(25) )(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			Even(1) for(2) dvd(3) movie(4) HD600(5) is(6) still(7) one(8) of(9) the(10) best(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			For(1) the(2) sound(3) characteristic(4) I(5) prefer(6) HD600(7) than(8) it(9) 's(10) replacement(11) model(12) HD650(13) ,(14) therefore(15) I(16) did(17) not(18) buy(19) the(20) HD650(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			HD600(1) .(2) 
+		</sentence>
+	</text>
+</review>

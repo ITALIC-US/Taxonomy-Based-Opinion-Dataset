@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="6" item="2004 Honda Civic" rating="5">
+	<title>
+		<sentence id="1">
+			Honda_Civics(1) are(2) GREAT(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) gas(2) mileage(3) and(4) a(5) smooth(6) ride(7) .(8) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) cramped(3) if(4) you(5) are(6) over(7) 5(8) '(9) 10(10) "(11) tall(12) .(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) !(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			It(1) will(2) last(3) forever(4) if(5) you(6) keep(7) up(8) the(9) general(10) maintenance(11) and(12) it(13) gets(14) great(15) gas(16) mileage(17) .(18) 
+			<opinion polarity="+" feature="gas" featWords="16,17" opWords="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) been(3) a(4) public(5) transportation(6) user(7) for(8) about(9) four(10) years(11) prior(12) to(13) investing(14) in(15) my(16) Honda_Civic(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) so(3) thrilled(4) that(5) I(6) went(7) with(8) a(9) Honda(10) for(11) my(12) car(13) purchase(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) wanted(2) an(3) economical(4) car(5) that(6) got(7) good(8) gas(9) mileage(10) .(11) 
+			<opinion polarity="+" feature="gas" featWords="9,10" opWords="8"/>
+			<opinion polarity="+" feature="price" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) also(3) looking(4) for(5) something(6) semi-compact(7) that(8) would(9) last(10) FOREVER(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) all(3) of(4) the(5) above(6) with(7) my(8) Honda_Civic(9) !(10) 
+		</sentence>
+		<sentence id="6">
+			I(1) purchased(2) the(3) bare(4) bones(5) version(6) of(7) it(8) --(9) no(10) automatic(11) windows(12) ,(13) no(14) cruise(15) control(16) ,(17) no(18) alarm(19) system(20) ,(21) and(22) no(23) auto(24) locks(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) has(3) been(4) great(5) even(6) without(7) these(8) features(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) had(3) zero(4) repairs(5) and(6) zero(7) problems(8) with(9) the(10) car(11) in(12) my(13) four(14) years(15) of(16) ownership(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) plan(2) on(3) keeping(4) this(5) car(6) until(7) it(8) completely(9) gives(10) out(11) and(12) stops(13) running(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) guessing(3) that(4) will(5) be(6) at_least(7) ten(8) to(9) fifteen(10) years(11) from(12) now(13) since(14) the(15) car(16) runs(17) so(18) well(19) and(20) has(21) had(22) no(23) problems(24) since(25) I(26) keep(27) up(28) regular(29) maintenance(30) on(31) it(32) ((33) oil(34) changes(35) ,(36) tire(37) rotations(38) ,(39) etc.(40) )(41) .(42) 
+		</sentence>
+		<sentence id="11">
+			My(1) next(2) car(3) will(4) also(5) be(6) a(7) Honda(8) based(9) on(10) the(11) wonderful(12) experience(13) I(14) have(15) had(16) with(17) my(18) Civic(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			I(1) highly(2) encourage(3) car(4) shoppers(5) to(6) take(7) a(8) test(9) drive(10) of(11) a(12) Honda_Civic(13) before(14) you(15) commit(16) to(17) a(18) purchase(19) of(20) any(21) other(22) car(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15,900(7) Condition(8) :(9) NewModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) Value(16) ,(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

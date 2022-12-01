@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="562" item="2005 Ford Focus" rating="2">
+	<title>
+		<sentence id="1">
+			Seems(1) OK(2) ...(3) but(4) is(5) not(6) worth(7) the(8) money(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) ,(2) small(3) ,(4) stylish(5) .(6) 
+			<opinion polarity="+" feature="design" opWords="5"/>
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Problem(1) after(2) problem(3) ,(4) horrible(5) service(6) .(7) 
+			<opinion polarity="-" feature="service" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Would(1) not(2) recommend(3) to(4) anyone(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Spend(1) a(2) little(3) more(4) for(5) a(6) better(7) quality(8) car(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) was(3) forced(4) to(5) buy(6) a(7) new(8) car(9) when(10) he(11) found(12) out(13) that(14) his(15) old(16) car(17) needed(18) some(19) serious(20) repairs(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			He(1) went(2) through(3) Ford(4) because_of(5) some(6) credit(7) issues(8) ,(9) so(10) he(11) had(12) limited(13) options(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			The(1) Ford_FOCUS(2) seemed(3) like(4) a(5) good(6) buy(7) -(8) affordable(9) ,(10) little(11) and(12) stylish(13) ,(14) very(15) similar(16) to(17) my(18) own(19) car(20) .(21) 
+			<opinion polarity="+" feature="design" opWords="13"/>
+			<opinion polarity="+" feature="price" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			Within(1) a(2) year(3) he(4) started(5) having(6) problems(7) with(8) it(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Another(1) driver(2) side(3) swiped(4) our(5) car(6) leaving(7) problems(8) with(9) the(10) door(11) and(12) the(13) lock(14) ,(15) which(16) he(17) had(18) a(19) very(20) difficult(21) time(22) getting(23) repaired(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Sooner(1) after(2) ,(3) the(4) lock(5) on(6) the(7) passenger(8) 's(9) side(10) stopped(11) working(12) for(13) a(14) few(15) days(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			It(1) also(2) miraculously(3) fixed(4) itself(5) so(6) maybe(7) it(8) IS(9) a(10) great(11) car(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="8">
+			Most(1) recently(2) ,(3) the(4) driver(5) 's(6) side(7) seat(8) broke(9) .(10) 
+			<opinion polarity="-" feature="seat" featWords="8" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			It(1) seems(2) that(3) a(4) screw(5) came(6) out(7) of(8) place(9) ,(10) so(11) the(12) right(13) side(14) of(15) the(16) seat(17) leans(18) back(19) when(20) you(21) place(22) pressure(23) on(24) it(25) ((26) in(27) other(28) words(29) ,(30) when(31) you(32) sit(33) in(34) the(35) seat(36) )(37) .(38) 
+		</sentence>
+		<sentence id="10">
+			While(1) many(2) cars(3) have(4) issues(5) ,(6) I(7) 'm(8) sure(9) it(10) 's(11) a_lot(12) easier(13) to(14) get(15) them(16) fixed(17) than(18) it(19) is(20) to(21) go(22) through(23) Ford(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			That(1) 's(2) one(3) of(4) the(5) biggest(6) issues(7) we(8) have(9) now(10) ,(11) so(12) we(13) 've(14) already(15) resolved(16) that(17) we(18) 'll(19) never(20) own(21) another(22) Ford(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			His(1) car(2) cost(3) slightly(4) less(5) than(6) mine(7) ,(8) he(9) bought(10) it(11) a(12) year(13) after(14) I(15) bought(16) mine(17) ,(18) and(19) I(20) 've(21) had(22) no(23) problems(24) with(25) my(26) car(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			Definitely(1) no(2) more(3) Fords(4) for(5) us(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005(12) 
+		</sentence>
+	</text>
+</review>

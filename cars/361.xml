@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="361" item="1998 Honda Accord" rating="3">
+	<title>
+		<sentence id="1">
+			Slick(1) and(2) Quick(3) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solid(1) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ugly(1) 
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Of(1) the(2) Japanese(3) cars(4) ,(5) this(6) would(7) rank(8) average(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			While(1) one(2) would(3) ask(4) what(5) a(6) red-blooded(7) American(8) is(9) doing(10) in(11) a(12) Jap(13) car(14) ,(15) one(16) must(17) consider(18) the(19) ridiculousness(20) of(21) the(22) Taurus(23) in(24) recent(25) years(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			While(1) the(2) Taurus(3) 2000(4) will(5) shatter(6) its(7) competion(8) ,(9) the(10) Ford(11) has(12) laggered(13) behind(14) in(15) previous(16) years(17) ,(18) leaving(19) the(20) Camry(21) and(22) Accord(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) Camry(2) ,(3) riding(4) on(5) its(6) referrals(7) definately(8) costs(9) too(10) much(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) Accord(2) is(3) the(4) onyl(5) one(6) left(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			That(1) does(2) not(3) sound(4) too(5) good(6) but(7) that(8) 's(9) what(10) it(11) is(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) it(3) 's(4) dependable(5) and(6) quick(7) with(8) the(9) turn(10) .(11) 
+			<opinion polarity="+" feature="speed" opWords="7"/>
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			What(1) it(2) lacks(3) is(4) a(5) keen(6) exterior(7) that(8) will(9) attract(10) buyers(11) .(12) 
+			<opinion polarity="+" feature="exterior" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			Obviously(1) ,(2) it(3) attracted(4) me(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Well(1) ,(2) not(3) really(4) ,(5) I(6) was(7) going(8) for(9) the(10) sticker(11) price(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) smooth(3) handling(4) and(5) its(6) not(7) bad(8) when(9) it(10) lasts(11) you(12) over(13) 150,000_miles(14) 
+			<opinion polarity="+" feature="car" opWords="7,8"/>
+			<opinion polarity="+" feature="handling" featWords="4" opWords="3"/>
+		</sentence>
+	</text>
+</review>

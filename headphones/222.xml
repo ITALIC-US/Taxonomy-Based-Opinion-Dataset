@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="222" item="Sennheiser EH-2200 Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Comfy(1) ,(2) Fit_Great(3) ,(4) Good_Sound(5) ,(6) do(7) not(8) WORK(9) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) good(3) sound(4) ,(5) mid-sized(6) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Electronics(1) fail(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			Over(1) ,(2) and(3) over(4) ,(5) and(6) over(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Replacements(1) ,(2) repairs(3) ...(4) FAIL(5) !(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) sent(3) my(4) cans(5) back(6) twice(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Got(1) a(2) replacement(3) once(4) and(5) a(6) repair(7) once(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			And(1) the(2) headphones(3) continue(4) to(5) fail(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			First(1) one(2) ear(3) shorts(4) out(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Then(1) the(2) other(3) goes(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			Useless(1) ,(2) waste(3) of(4) money(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			A(1) shame(2) too(3) ,(4) because(5) they(6) 're(7) the(8) perfect(9) size(10) ,(11) and(12) good(13) sound(14) ,(15) and(16) comfortable(17) .(18) 
+			<opinion polarity="+" feature="size" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="comfort" opWords="17"/>
+		</sentence>
+		<sentence id="8">
+			If(1) they(2) could(3) get(4) their(5) act(6) together(7) and(8) actually(9) make(10) the(11) electronics(12) work(13) ,(14) they(15) 'd(16) be(17) great(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			But(1) instead(2) ,(3) they(4) are(5) an(6) utter(7) failure(8) .(9) 
+			<opinion polarity="-" feature="headphones" featWords="4" featRef="headphones" opWords="8" potency="7"/>
+		</sentence>
+	</text>
+</review>

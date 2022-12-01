@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="778" item="2000 Mercury Grand Marquis" rating="1">
+	<title>
+		<sentence id="1">
+			Piece_of_Junk(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			all(1) my(2) stated(3) opinion(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) interior(2) of(3) this(4) car(5) is(6) awful(7) .(8) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Very(1) poorly(2) designed(3) .(4) 
+			<opinion polarity="-" feature="design" opWords="2,3" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			And(1) ,(2) you(3) can(4) not(5) drive(6) this(7) car(8) on(9) wet(10) or(11) heaven(12) forbid(13) ice(14) or(15) snow(16) for(17) fear(18) of(19) going(20) in(21) a(22) ditch(23) or(24) worse(25) yet(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) never(3) recommend(4) this(5) car(6) to(7) anyone(8) unless(9) you(10) live(11) in(12) sunny(13) climes(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			What(1) else(2) can(3) I(4) say(5) ?(6) 
+		</sentence>
+		<sentence id="6">
+			Do(1) not(2) buy(3) this(4) car(5) ,(6) period(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="7">
+			Mercury(1) has(2) to(3) redesign(4) this(5) car(6) and(7) hopefully(8) they(9) have(10) since(11) 1995(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) not(3) a(4) pleasure(5) to(6) drive(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			You(1) feel(2) like(3) you(4) are(5) in(6) a(7) capsule(8) and(9) that(10) is(11) no(12) a(13) good(14) thing(15) !(16) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) very(3) noisy(4) on(5) the(6) road(7) ,(8) tires(9) humming(10) ,(11) not(12) good(13) ,(14) no(15) good(16) ,(17) no(18) good(19) .(20) 
+			<opinion polarity="-" feature="tire" opWords="12,13"/>
+			<opinion polarity="-" feature="tire" featWords="9" opWords="10"/>
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="11">
+			Do(1) not(2) trust(3) this(4) car(5) in(6) the(7) winter(8) .(9) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="12">
+			Not(1) reliable(2) .(3) 
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+		<sentence id="13">
+			Have(1) had(2) this(3) car(4) in(5) the(6) shop(7) repeatedly(8) for(9) a(10) variety(11) of(12) problems(13) too(14) numerous(15) to(16) list(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Main(1) problem(2) is(3) handling(4) on(5) snow(6) and(7) ice(8) .(9) 
+		</sentence>
+	</text>
+</review>

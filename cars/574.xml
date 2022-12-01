@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="574" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			A_lot(1) has(2) changed(3) since(4) 1964(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			control(1) ,(2) comfort(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) overly(2) impressed(3) with(4) the(5) body(6) 
+			<opinion polarity="-" feature="car" opWords="1,3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			So(1) many(2) rappers(3) talk(4) about(5) the(6) famous(7) Impala(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			So(1) when(2) I(3) visited(4) a(5) relative(6) at(7) a(8) rental(9) car(10) dealership(11) ,(12) I(13) had(14) to(15) take(16) one(17) for(18) a(19) drive(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Of(1) course(2) ,(3) the(4) new(5) 2000(6) model(7) is(8) quite(9) different(10) from(11) those(12) of(13) old(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Gas(1) mileage(2) has(3) gotten(4) a(5) little(6) better(7) and(8) the(9) body(10) style(11) has(12) changed(13) dramatically(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) found(2) the(3) Impala(4) to(5) be(6) a(7) nice(8) looking(9) car(10) ,(11) but(12) it(13) is(14) nothing(15) overly(16) impressive(17) .(18) 
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) first(3) saw(4) it(5) ,(6) I(7) have(8) to(9) admit(10) that(11) I(12) was(13) not(14) impressed(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="14,15"/>
+		</sentence>
+		<sentence id="7">
+			It(1) does(2) not(3) look(4) like(5) a(6) bad(7) car(8) ,(9) just(10) not(11) a(12) sleek(13) family(14) car(15) like(16) I(17) imagined(18) .(19) 
+			<opinion polarity="-" feature="design" opWords="11,13"/>
+		</sentence>
+		<sentence id="8">
+			The(1) drive(2) was(3) definitely(4) above(5) average(6) .(7) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="9">
+			Beats(1) riding(2) around(3) in(4) most(5) four-doors(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) feel(3) that(4) the(5) Impala(6) lacks(7) power(8) that(9) comes(10) in(11) several(12) more(13) expensive(14) cars(15) that(16) I(17) have(18) had(19) the(20) privilege(21) to(22) drive(23) ,(24) but(25) in(26) no(27) way(28) would(29) I(30) say(31) that(32) this(33) car(34) is(35) powerless(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			The(1) seats(2) are(3) comfortable(4) and(5) it(6) is(7) a(8) very(9) easy(10) car(11) to(12) drive(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) ride(2) is(3) quiet(4) and(5) it(6) handles(7) curves(8) almost(9) flawlessly(10) .(11) 
+			<opinion polarity="+" feature="handling" opWords="7,10" potency="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			So(1) ,(2) while(3) I(4) would(5) not(6) say(7) that(8) the(9) new(10) Impala(11) is(12) the(13) best(14) car(15) I(16) have(17) recently(18) driven(19) ,(20) it(21) surely(22) competes(23) with(24) other(25) similar(26) cars(27) on(28) the(29) market(30) in(31) both(32) price(33) and(34) performance(35) .(36) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="14">
+			Above-average(1) is(2) probably(3) a(4) slight(5) understatement(6) ,(7) but(8) incredible(9) would(10) be(11) giving(12) a(13) little(14) more(15) credit(16) than(17) the(18) Impala(19) is(20) due(21) .(22) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</text>
+</review>

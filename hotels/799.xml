@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="799" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Fun(1) stay(2) at(3) California_Suites_Hotel(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) greenery(2) ,(3) pool(4) ,(5) pretty(6) standard(7) breakfast(8) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			California_Suites_Hotel(1) was(2) a(3) pleasant(4) experience(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			I(1) enjoyed(2) myself(3) thoroughly(4) during(5) my(6) four(7) day(8) stay(9) at(10) the(11) hotel(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Apart_from(1) the(2) cool(3) ,(4) relaxing(5) ambience(6) ,(7) the(8) food(9) was(10) a(11) high(12) point(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) breakfast(2) came(3) free(4) and(5) that(6) was(7) an(8) added(9) benefit(10) .(11) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			To(1) top(2) it(3) all(4) ,(5) I(6) got(7) a(8) 30_%(9) discount(10) on(11) my(12) 4-day(13) stay(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) more(2) the(3) better(4) !(5) 
+		</sentence>
+	</text>
+</review>

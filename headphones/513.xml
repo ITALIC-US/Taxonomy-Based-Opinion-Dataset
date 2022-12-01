@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="513" item="Sony MDR-V600 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) home(4) use(5) only(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) sound(2) ,(3) bass(4) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flimsy(1) 
+			<opinion polarity="-" feature="durability" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) sound(2) great(3) ,(4) but(5) are(6) not(7) durable(8) enough(9) for(10) traveling(11) with(12) .(13) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+			<opinion polarity="-" feature="durability" opWords="7,8"/>
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) mostly(3) plastic(4) .(5) 
+			<opinion polarity="-" feature="durability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			do(1) not(2) let(3) the(4) folding(5) design(6) and(7) carry(8) pouch(9) fool(10) you(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			They(1) actually(2) have(3) a(4) little(5) bit(6) of(7) bass(8) kick(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Sound(1) is(2) fantastic(3) ,(4) unless(5) there(6) is(7) any(8) background(9) noise(10) ,(11) again(12) travel(13) takes(14) a(15) hit(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			You(1) 'll(2) destroy(3) the(4) plastic(5) covering(6) the(7) foam(8) padding(9) on(10) them(11) at(12) the(13) very(14) least(15) ,(16) even_if(17) you(18) keep(19) them(20) on(21) your(22) stereo(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			In(1) a(2) plane(3) or(4) car(5) ((6) passengers(7) only(8) ,(9) safety(10) first(11) )(12) the(13) extra(14) money(15) you(16) pay(17) for(18) sound(19) is(20) drowned(21) out(22) by(23) noise(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			I(1) can(2) not(3) reccommend(4) them(5) to(6) traveling(7) party(8) DJ(9) 's(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Again(1) ,(2) durability(3) may(4) be(5) a(6) problem(7) .(8) 
+		</sentence>
+	</text>
+</review>

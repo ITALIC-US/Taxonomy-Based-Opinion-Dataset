@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="532" item="Koss Porta Pro Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Save(1) your(2) money(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) bass(2) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lousy(1) mid(2) and(3) treble(4) ,(5) leaks(6) sound(7) 
+			<opinion polarity="-" feature="mids" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="highs" featWords="4" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) previously(3) owned(4) the(5) SportaPro(6) brand(7) headphone(8) and(9) I(10) can(11) honestly(12) tell(13) you(14) to(15) save(16) your(17) money(18) and(19) go(20) with(21) something(22) else(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) just(3) too(4) many(5) reasons(6) why(7) you(8) should(9) not(10) spend(11) the(12) 30_dollars(13) to(14) get(15) this(16) pair(17) of(18) headphones(19) :(20) 1(21) :(22) Performance_They(23) sound(24) like(25) $30(26) headphones(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			The(1) bass(2) is(3) too(4) greatly(5) emphasized(6) and(7) the(8) mid-treble(9) frequencies(10) are(11) almost(12) disregarded(13) with(14) this(15) pair(16) of(17) headphones(18) .(19) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) to(3) crank(4) the(5) volume(6) up(7) to(8) full(9) blast(10) to(11) get(12) good(13) sound(14) all(15) around(16) ,(17) resulting(18) in(19) possible(20) hearing(21) loss(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			The(1) pairs(2) I(3) received(4) with(5) my(6) cd(7) players(8) sounded(9) better(10) than(11) these(12) .(13) 2(14) :(15) Style_Okay(16) ,(17) so(18) maybe(19) they(20) look(21) a(22) little(23) cool(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) one(2) feature(3) that(4) I(5) liked(6) about(7) these(8) headphones(9) was(10) that(11) they(12) converted(13) from(14) over-the-head(15) to(16) behind-the-neck(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) they(3) are(4) not(5) headphones(6) for(7) the(8) active(9) listener(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Just(1) hanging(2) around(3) in(4) my(5) bedroom(6) working(7) out(8) ,(9) these(10) headphones(11) had(12) a(13) tendency(14) to(15) slip(16) off(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Another(1) big(2) problem(3) with(4) these(5) headphones(6) is(7) that(8) they(9) leak(10) sound(11) like(12) a(13) runny(14) faucet(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) had(2) my(3) cd(4) player(5) turned(6) up(7) less(8) than(9) halfway(10) and(11) there(12) were(13) people(14) on(15) the(16) bus(17) or(18) around(19) me(20) complaining(21) that(22) they(23) could(24) hear(25) every(26) word(27) [(28) insert(29) artist(30) here(31) ](32) was(33) saying(34) ,(35) using(36) the(37) ever-popular(38) phrase(39) "(40) thanks(41) for(42) sharing(43) your(44) music(45) with(46) us(47) .(48) "(49) You(50) would(51) be(52) better(53) off(54) getting(55) another(56) pair(57) of(58) Koss(59) headphones(60) for(61) around(62) the(63) same(64) price(65) .(66) 3(67) :(68) Durability_These(69) headphones(70) ,(71) regardless_of(72) what(73) others(74) say(75) ,(76) are(77) not(78) easily(79) portable(80) .(81) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) near(3) impossible(4) to(5) cram(6) these(7) headphones(8) into(9) the(10) supplied(11) vinyl(12) case(13) which(14) would(15) have(16) better(17) off(18) been(19) a(20) plastic(21) baggie(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			If(1) somebody(2) accidentally(3) sat(4) on(5) the(6) headphones(7) or(8) stepped(9) on(10) them(11) ,(12) the(13) earpieces(14) would(15) break(16) off(17) and(18) I(19) would(20) have(21) to(22) put(23) them(24) back(25) on(26) .(27) 
+		</sentence>
+		<sentence id="13">
+			They(1) can(2) fit(3) into(4) some(5) pretty(6) small(7) places(8) when(9) packed(10) into(11) the(12) vinyl(13) case(14) ,(15) but(16) they(17) 're(18) too(19) fragile(20) to(21) me(22) .(23) 
+			<opinion polarity="-" feature="durability" opWords="19,20"/>
+		</sentence>
+		<sentence id="14">
+			All(1) in_all(2) ,(3) you(4) would(5) be(6) much(7) better(8) off(9) getting(10) another(11) one(12) of(13) Koss(14) '(15) headphones(16) ,(17) like(18) their(19) clip-on(20) styles(21) or(22) something(23) else(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			Just(1) do(2) not(3) spend(4) the(5) 30(6) bucks(7) for(8) this(9) pair(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			Do(1) yourself(2) a(3) favor(4) ,(5) you(6) deserve(7) better(8) than(9) the(10) Koss_Sportapro(11) 
+		</sentence>
+	</text>
+</review>

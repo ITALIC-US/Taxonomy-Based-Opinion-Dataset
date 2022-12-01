@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="303" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) car(2) that(3) has(4) never(5) let(6) me(7) down(8) .(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Small(1) ,(2) economical(3) ,(4) comfortable(5) ,(6) good(7) power(8) and(9) highway(10) cruising(11) ,(12) cheap(13) .(14) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+			<opinion polarity="+" feature="horsepower" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Few(1) dealers(2) ,(3) dealer(4) charges(5) high(6) ,(7) still(8) rusts(9) ,(10) burns(11) oil(12) .(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) live(3) in(4) a(5) big(6) city(7) near(8) a(9) Saturn(10) dealer(11) ,(12) I(13) would(14) definitely(15) recommend(16) this(17) car(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="18" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			Otherwise(1) ,(2) I(3) do(4) not(5) think(6) I(7) would(8) buy(9) it(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) 2(5) years(6) ago(7) after(8) I(9) totaled(10) my(11) 1992(12) Cavalier(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) definitely(3) a(4) step(5) up(6) from(7) the(8) Cavalier(9) in(10) comfort(11) ,(12) ride(13) and(14) ergonomics(15) ,(16) but(17) lacked(18) ABS(19) ((20) this(21) IS(22) the(23) base(24) SL(25) model(26) ,(27) you(28) know(29) .(30) )(31) I(32) knew(33) the(34) history(35) of(36) the(37) car(38) ,(39) because(40) my(41) brother(42) bought(43) it(44) new(45) ,(46) then(47) sold(48) it(49) to(50) me(51) .(52) 
+		</sentence>
+		<sentence id="3">
+			He(1) had(2) let(3) his(4) son(5) drive(6) it(7) for(8) a(9) year(10) ,(11) then(12) decided(13) to(14) sell(15) it(16) to(17) me(18) after(19) the(20) clutch(21) went(22) out(23) ,(24) probably(25) due(26) to(27) genetics(28) more(29) than(30) the(31) car(32) ((33) my(34) brother(35) has(36) never(37) been(38) able(39) too(40) keep(41) a(42) clutch(43) in(44) a(45) car(46) .(47) )(48) It(49) was(50) cheap(51) at(52) $1200(53) with(54) 127,000_miles(55) .(56) 
+			<opinion polarity="+" feature="price" opWords="51"/>
+		</sentence>
+		<sentence id="4">
+			He(1) of(2) course(3) fixed(4) it(5) before(6) he(7) gave(8) it(9) to(10) me(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) ,(2) he(3) had(4) a(5) friend(6) do(7) it(8) ,(9) and(10) it(11) wasn(12) t(13) done(14) quite(15) right(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			After(1) plugging(2) in(3) the(4) speedometer(5) ((6) something(7) his(8) friend(9) forgot(10) to(11) do(12) )(13) ,(14) I(15) found(16) it(17) only(18) got(19) 20MPG(20) ,(21) so(22) I(23) took(24) it(25) to(26) the(27) dealer(28) and(29) they(30) fixed(31) the(32) problem(33) ((34) can(35) t(36) remember(37) now(38) what(39) it(40) was(41) ,(42) that(43) was(44) 2(45) years(46) ago(47) .(48) )(49) I(50) paid(51) $300(52) ,(53) and(54) besides(55) the(56) wait(57) ,(58) it(59) was(60) a(61) pleasant(62) experience(63) .(64) 
+		</sentence>
+		<sentence id="7">
+			After(1) a(2) year(3) with(4) a(5) 16-year-old(6) ,(7) the(8) body(9) had(10) seen(11) its(12) better(13) days(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) hood(2) ,(3) roof(4) and(5) trunk(6) all(7) had(8) been(9) walked(10) on(11) ,(12) thus(13) the(14) only(15) places(16) on(17) the(18) car(19) that(20) could(21) dent(22) ,(23) looked(24) worse(25) than(26) being(27) in(28) a(29) hail(30) storm(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			He(1) also(2) hit(3) something(4) with(5) the(6) right(7) front(8) bumper(9) ,(10) which(11) smudged(12) it(13) ,(14) but(15) didn(16) t(17) damage(18) it(19) ,(20) and(21) there(22) was(23) a(24) crack(25) in(26) the(27) front(28) fender(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			How(1) come(2) 16-year-old(3) boys(4) can(5) t(6) get(7) along_with(8) cars(9) ?(10) 
+		</sentence>
+		<sentence id="11">
+			While(1) it(2) was(3) rugged(4) and(5) rough(6) ,(7) it(8) was(9) ready(10) for(11) me(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			And(1) it(2) wasn(3) t(4) like(5) it(6) had(7) to(8) look(9) good(10) ,(11) it(12) just(13) had(14) to(15) get(16) me(17) where(18) I(19) was(20) going(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			I(1) liked(2) the(3) ride(4) ,(5) and(6) it(7) was(8) comfortable(9) inside(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="14">
+			The(1) original(2) stereo(3) had(4) seen(5) its(6) better(7) days(8) ,(9) so(10) I(11) got(12) a(13) used(14) GM_AM(15) /(16) FM(17) cassette(18) ,(19) and(20) a(21) couple(22) pair(23) of(24) Jensen(25) 6(26) speakers(27) ,(28) all(29) for(30) under(31) $100(32) ,(33) and(34) it(35) jams(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			I(1) do(2) a_lot_of(3) highway(4) traveling(5) ,(6) and(7) at(8) 65-75mph(9) ,(10) it(11) does(12) pretty(13) well(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			When(1) traveling(2) on(3) 2(4) lane(5) highways(6) ,(7) I(8) have(9) no(10) problem(11) in(12) passing(13) ,(14) just(15) shift(16) down(17) to(18) 4th(19) ,(20) and(21) zoom(22) right(23) around(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			The(1) engine(2) is(3) rated(4) at(5) 100hp(6) ,(7) so(8) I(9) was(10) pleasantly(11) surprised(12) with(13) this(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			Even(1) going(2) 85-90(3) one(4) time(5) ,(6) the(7) car(8) tracked(9) well(10) and(11) wasn(12) t(13) pushed(14) around(15) by(16) semis(17) .(18) 
+			<opinion polarity="+" feature="drive" opWords="9,10"/>
+		</sentence>
+		<sentence id="19">
+			The(1) car(2) can(3) be(4) a(5) little(6) buzzy(7) ,(8) though(9) ,(10) something(11) Saturns(12) are(13) famous(14) for(15) ,(16) but(17) it(18) isn(19) t(20) extremely(21) annoying(22) ,(23) especially(24) with(25) the(26) stereo(27) up(28) .(29) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="20">
+			I(1) am(2) very(3) happy(4) with(5) the(6) gas(7) mileage(8) .(9) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="4"/>
+		</sentence>
+		<sentence id="21">
+			I(1) am(2) averaging(3) around(4) 34mpg(5) ,(6) and(7) when(8) on(9) the(10) highway(11) I(12) have(13) peaked(14) at(15) 39.5mpg(16) ((17) so(18) close(19) to(20) 40mpg(21) ,(22) I(23) can(24) taste(25) it(26) .(27) )(28) I(29) usually(30) fill(31) up(32) when(33) I(34) am(35) close(36) to(37) empty(38) ,(39) and(40) I(41) have(42) gotten(43) several(44) 400_mile(45) tankfulls(46) .(47) 
+		</sentence>
+		<sentence id="22">
+			It(1) has(2) a(3) 12.5-gallon(4) tank(5) ,(6) but(7) I(8) have(9) never(10) had(11) to(12) fill(13) it(14) more(15) than(16) 11.5(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			It(1) also(2) burns(3) a(4) little(5) oil(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			It(1) was(2) only(3) slightly(4) annoying(5) before(6) ,(7) getting(8) 3-4(9) tanks(10) per(11) quart(12) of(13) oil(14) ,(15) but(16) now(17) it(18) is(19) up(20) to(21) 1-2(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			Only(1) time(2) will(3) tell(4) if(5) it(6) gets(7) worse(8) ,(9) but(10) I(11) don(12) t(13) think(14) it(15) will(16) /(17) can(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			I(1) have(2) heard(3) from(4) other(5) owners(6) that(7) their(8) Saturns(9) burn(10) a(11) little(12) oil(13) ,(14) so(15) this(16) is(17) normal(18) .(19) 
+		</sentence>
+		<sentence id="27">
+			Recently(1) the(2) engine(3) was(4) running(5) rough(6) ,(7) coughing(8) ,(9) hiccupping(10) ,(11) etc.(12) I(13) had(14) left(15) the(16) oil(17) cap(18) off(19) ,(20) so(21) I(22) thought(23) that(24) was(25) the(26) problem(27) ,(28) but(29) it(30) wasn(31) t(32) that(33) easy(34) .(35) 
+		</sentence>
+		<sentence id="28">
+			I(1) took(2) it(3) into(4) the(5) dealer(6) ,(7) for(8) only(9) the(10) second(11) time(12) since(13) I(14) owned(15) it(16) ,(17) and(18) they(19) said(20) it(21) was(22) a(23) sensor(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			I(1) had(2) to(3) drive(4) it(5) home(6) and(7) wait(8) for(9) the(10) part(11) to(12) come(13) in(14) ,(15) then(16) when(17) I(18) went(19) in(20) the(21) next(22) day(23) they(24) installed(25) the(26) sensor(27) ,(28) but(29) found(30) that(31) wasn(32) t(33) it(34) .(35) 
+		</sentence>
+		<sentence id="30">
+			It(1) wound(2) up(3) being(4) the(5) coil(6) ,(7) which(8) I(9) had(10) them(11) replace(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			It(1) also(2) needed(3) new(4) plug(5) wires(6) and(7) plugs(8) ,(9) so(10) I(11) caved(12) and(13) got(14) them(15) ,(16) too(17) ,(18) even_though(19) I(20) knew(21) I(22) could(23) do(24) it(25) for(26) less(27) ,(28) and(29) wound(30) up(31) leaving(32) $300(33) lighter(34) ,(35) but(36) with(37) a(38) car(39) that(40) runs(41) very(42) well(43) again(44) .(45) 
+			<opinion polarity="+" feature="car" featWords="39" opWords="41,43"/>
+		</sentence>
+		<sentence id="32">
+			While(1) most(2) of(3) the(4) body(5) panels(6) are(7) plastic(8) ,(9) there(10) is(11) some(12) rust(13) on(14) the(15) back(16) doors(17) near(18) the(19) c-pillars(20) .(21) 
+		</sentence>
+		<sentence id="33">
+			Otherwise(1) I(2) have(3) no(4) complaints(5) with(6) the(7) exterior(8) of(9) the(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			The(1) interior(2) ,(3) while(4) full(5) of(6) plastic(7) ,(8) has(9) never(10) had(11) a(12) problem(13) ,(14) either(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			The(1) climate(2) controls(3) are(4) a(5) little(6) low(7) on(8) the(9) dash(10) ,(11) but(12) they(13) are(14) easy(15) to(16) use(17) ,(18) and(19) offer(20) enough(21) options(22) between(23) defrost(24) /(25) vent(26) /(27) heater(28) to(29) make(30) you(31) happy(32) .(33) 
+		</sentence>
+		<sentence id="36">
+			I(1) wish(2) I(3) had(4) cruise(5) control(6) ,(7) though(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			I(1) wanted(2) a(3) hatchback(4) ,(5) after(6) having(7) a(8) 2(9) door(10) Cavalier(11) with(12) absolutely(13) no(14) utility(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			This(1) 4(2) door(3) with(4) 60/40(5) fold(6) down(7) rear(8) seats(9) isn(10) t(11) so(12) bad(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			I(1) can(2) almost(3) put(4) my(5) bike(6) all(7) the(8) way(9) in(10) back(11) ,(12) and(13) it(14) was(15) even(16) helpful(17) in(18) moving(19) my(20) stuff(21) 45_miles(22) to(23) my(24) new(25) apartment(26) recently(27) .(28) 
+		</sentence>
+		<sentence id="40">
+			This(1) car(2) now(3) has(4) 160,000_miles(5) on(6) it(7) ,(8) and(9) shows(10) no(11) signs(12) of(13) stopping(14) .(15) 
+		</sentence>
+		<sentence id="41">
+			It(1) is(2) currently(3) my(4) girlfriend(5) s(6) daily(7) driver(8) ,(9) and(10) she(11) has(12) a(13) 200_mile(14) round(15) trip(16) 4(17) days(18) a(19) week(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			I(1) had(2) to(3) put(4) the(5) third(6) set(7) of(8) tires(9) on(10) it(11) this(12) spring(13) .(14) 
+		</sentence>
+		<sentence id="43">
+			Once(1) it(2) gets(3) through(4) those(5) ,(6) maybe(7) then(8) I(9) will(10) have(11) the(12) money(13) to(14) buy(15) something(16) new(17) .(18) 
+		</sentence>
+		<sentence id="44">
+			Until(1) then(2) ,(3) this(4) car(5) definitely(6) does(7) the(8) trick(9) .(10) 
+		</sentence>
+		<sentence id="45">
+			NEW(1) :(2) My(3) girlfriend(4) ...(5) she(6) is(7) always(8) making(9) me(10) look(11) bad(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			With(1) her(2) driving(3) mostly(4) highway(5) to(6) and(7) from(8) work(9) ,(10) at(11) 100_miles(12) each(13) way(14) ,(15) she(16) is(17) now(18) getting(19) 42mpg(20) .(21) 
+		</sentence>
+		<sentence id="47">
+			And(1) I(2) could(3) never(4) get(5) 40(6) myself(7) .(8) :(9) C_UPDATE(10) :(11) This(12) car(13) is(14) no(15) more(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			I(1) sold(2) it(3) back(4) to(5) my(6) brother(7) and(8) his(9) son(10) took(11) it(12) out(13) to(14) do(15) doughnuts(16) in(17) the(18) snow(19) when(20) the(21) engine(22) locked(23) up(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			I(1) get(2) the(3) feeling(4) that(5) kid(6) never(7) liked(8) that(9) car(10) .(11) 
+		</sentence>
+		<sentence id="50">
+			The(1) End(2) .(3) 
+		</sentence>
+		<sentence id="51">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 1200(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) SL(16) 
+		</sentence>
+	</text>
+</review>

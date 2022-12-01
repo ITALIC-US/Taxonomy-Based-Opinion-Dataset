@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="143" item="2001 Toyota Celica" rating="3">
+	<title>
+		<sentence id="1">
+			Close(1) but(2) no(3) cigar(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			styling(1) ,(2) peppy(3) acceleration(4) 
+			<opinion polarity="+" feature="acceleration" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) paint(2) job(3) ,(4) no(5) trunk(6) space(7) ,(8) poor(9) back(10) seats(11) ,(12) high(13) auto(14) insurance(15) 
+			<opinion polarity="-" feature="seat" featWords="10,11" opWords="9"/>
+			<opinion polarity="-" feature="color" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) buy(3) one(4) if(5) you(6) really(7) want(8) a(9) sports(10) car(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Buying(1) a(2) car(3) with(4) more(5) room(6) means(7) value(8) in(9) the(10) long(11) run(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) vehicle(4) that(5) commands(6) attention(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) does(2) not(3) get(4) it(5) because(6) it(7) 's(8) a(9) Toyota(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) owned(3) this(4) vehicle(5) for(6) three(7) years(8) now(9) and(10) have(11) decided(12) it(13) 's(14) time(15) to(16) sell(17) it(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			My(1) praises(2) for(3) this(4) car(5) 1(6) )(7) The(8) styling(9) is(10) on(11) of(12) the(13) most(14) eye(15) catching(16) on(17) the(18) road(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) reminiscent(3) of(4) a(5) Ferrari(6) .(7) 2(8) )(9) The(10) car(11) is(12) fun(13) to(14) drive(15) with(16) the(17) 5(18) speed(19) manual(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) quick(3) acceleration(4) .(5) 
+			<opinion polarity="+" feature="acceleration" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			HOWEVER(1) ,(2) It(3) does(4) not(5) feel(6) overly(7) fast(8) compared(9) to(10) other(11) cars(12) in(13) its(14) class(15) such(16) as(17) Honda_Civics(18) or(19) Pontiac_Sunfire(20) .(21) 
+			<opinion polarity="-" feature="speed" opWords="5,8"/>
+		</sentence>
+		<sentence id="8">
+			Some(1) of(2) my(3) complaints(4) include(5) :(6) 1(7) )(8) This(9) car(10) gets(11) little(12) or(13) no(14) respect(15) .(16) "(17) Nice(18) car(19) .(20) Too(21) bad(22) it(23) 's(24) a(25) Toyota(26) "(27) .(28) 2(29) )(30) I(31) paid(32) list(33) price(34) for(35) this(36) vehicle(37) in(38) May_2001(39) and(40) decided(41) to(42) finance(43) this(44) vehicle(45) instead_of(46) paying(47) cash(48) .(49) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="9">
+			Big(1) mistake(2) .(3) 
+		</sentence>
+		<sentence id="10">
+			The(1) finance(2) rate(3) was(4) 5.9_%(5) instead_of(6) the(7) 1.9_%(8) for(9) other(10) Toyotas(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			I(1) am(2) paying(3) through(4) the(5) nose(6) for(7) this(8) car(9) and(10) could(11) have(12) leased(13) a(14) loaded(15) BMW(16) for(17) what(18) I(19) am(20) paying(21) for(22) this(23) car(24) .(25) 3(26) )(27) The(28) interior(29) is(30) pleasing(31) but(32) the(33) plastic(34) scratches(35) easily(36) .(37) 4(38) )(39) The(40) backseats(41) are(42) disposable(43) .(44) 
+			<opinion polarity="+" feature="interior" featWords="29" opWords="31"/>
+		</sentence>
+		<sentence id="12">
+			The(1) fabric(2) is(3) cheap(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			The(1) seats(2) are(3) only(4) suitable(5) for(6) small(7) children(8) .(9) 5(10) )(11) Buying(12) groceries(13) or(14) putting(15) luggage(16) in(17) this(18) car(19) is(20) a(21) nuisance(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			The(1) trunk(2) is(3) small(4) which(5) is(6) to(7) be(8) expected(9) with(10) a(11) sports(12) car(13) .(14) 6(15) )(16) My(17) auto(18) insurance(19) is(20) high(21) for(22) someone(23) who(24) has(25) had(26) a(27) driver(28) 's(29) license(30) for(31) over(32) 15(33) years(34) and(35) never(36) had(37) a(38) speeding(39) ticket(40) or(41) an(42) accident(43) .(44) 7(45) )(46) My(47) major(48) complaint(49) is(50) the(51) paint(52) job(53) .(54) 
+			<opinion polarity="-" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) red(2) paint(3) seems(4) overly(5) thick(6) and(7) brittle(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			Stone(1) chips(2) are(3) a(4) huge(5) problem(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			I(1) have(2) also(3) noticed(4) swirl(5) marks(6) in(7) the(8) paint(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Overall(1) quality(2) of(3) the(4) red(5) paint(6) is(7) very(8) very(9) poor(10) .(11) 
+			<opinion polarity="-" feature="color" featWords="6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="19">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Model_Year(8) :(9) 2001Model(10) and(11) Options(12) :(13) GT(14) manual(15) 5(16) spd(17) 
+		</sentence>
+	</text>
+</review>

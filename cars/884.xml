@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="884" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			TOO(1) many(2) repairs(3) .(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cute(1) ,(2) Fun(3) ,(4) good(5) steering(6) .(7) 
+			<opinion polarity="+" feature="steering" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Repairs(1) .(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Repairs(1) ...(2) REPAIRS(3) .(4) .(5) !(6) !(7) !(8) 
+		</sentence>
+		<sentence id="3">
+			Sun(1) visors(2) too(3) small(4) ,(5) cheesy(6) seat(7) recline(8) dial(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Either(1) have(2) a(3) Dealer_VW(4) mechanic(5) in(6) your(7) family(8) ,(9) purchase(10) the(11) most(12) extensive(13) extra(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			My_Ford(1) exploder(2) didnt(3) give(4) me(5) this(6) much(7) trouble(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			We(1) are(2) looking(3) for(4) NEW(5) car(6) .(7) !(8) !(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) first(2) few(3) days(4) the(5) car(6) was(7) great(8) fuel(9) mileage(10) was(11) 60(12) ((13) +(14) -(15) )(16) .(17) 
+			<opinion polarity="+" feature="gas" featWords="9,10" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) Red_GLS_TDI_Diesel(4) with(5) a(6) sun(7) roof(8) ,(9) We(10) purchased(11) it(12) with(13) 8_miles(14) on(15) it(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) diesel(2) engine(3) had(4) a(5) nice(6) feel(7) ,(8) like(9) the(10) older(11) ones(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			We(1) live(2) in(3) the(4) desert(5) southwest(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			We(1) are(2) mid(3) 40(4) 's(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) is(3) 6-4(4) and(5) I(6) am(7) 4-11(8) and(9) the(10) seats(11) fit(12) both(13) of(14) us(15) with(16) a(17) easy(18) slide(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Only_Ice(1) chest(2) or(3) small(4) grandkids(5) fit(6) it(7) the(8) back(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			My(1) husband(2) drives(3) aprox(4) 130_miles(5) round(6) trip(7) to_and_fro(8) on(9) the(10) interstate(11) each(12) day(13) ,(14) was(15) the(16) final(17) factor(18) for(19) the(20) purchase(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			After(1) the(2) signature(3) the(4) troubles(5) began(6) .(7) .(8) !(9) !(10) 
+		</sentence>
+		<sentence id="10">
+			Before(1) the(2) 5000(3) "(4) Free(5) "(6) Maint(7) schedule(8) .(9) 1(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			The(1) fuel(2) door(3) would(4) not(5) open(6) ,(7) dealer(8) checked(9) after(10) every(11) fill(12) up(13) .(14) tried(15) to(16) pry(17) open(18) the(19) fuel(20) lid(21) .(22) .(23) ((24) hint(25) have(26) some(27) one(28) push(29) the(30) lid(31) DOWN(32) while(33) you(34) pull(35) the(36) release(37) .(38) .(39) )(40) after(41) many(42) fitz(43) .(44) .(45) the(46) cable(47) was(48) replaced(49) and(50) no(51) more(52) problems(53) .(54) 2(55) .(56) 
+		</sentence>
+		<sentence id="12">
+			The(1) regulators(2) that(3) were(4) replaced(5) on(6) BOTH(7) doors(8) had(9) to(10) be(11) replaced(12) a(13) total(14) of(15) TWO_times(16) each(17) .(18) after(19) one(20) of(21) the(22) repairs(23) they(24) left(25) my(26) speaker(27) braces(28) out(29) and(30) then(31) repaired(32) that(33) .(34) leaving(35) a(36) loud(37) rattling(38) in(39) the(40) door(41) .(42) 3(43) .(44) 
+		</sentence>
+		<sentence id="13">
+			Sun(1) roof(2) kept(3) jumping(4) the(5) rails(6) ,(7) this(8) was(9) changed(10) 2_times(11) ,(12) before(13) warranty(14) went(15) out(16) and(17) once(18) since(19) ((20) they(21) paid(22) for(23) it(24) after(25) more(26) loud(27) fitz(28) )(29) .(30) 4(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			A(1) few(2) days(3) after(4) a(5) oil(6) change(7) the(8) air(9) conditioner(10) quit(11) working(12) because(13) the(14) ground(15) wire(16) was(17) crushed(18) ...(19) hmm(20) how(21) did(22) that(23) happen(24) under(25) the(26) protective(27) padding(28) and(29) under(30) pan(31) .(32) 5(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			Then(1) .(2) .(3) after(4) the(5) 20,000_mile(6) "(7) free(8) "(9) maint(10) .(11) the(12) under(13) pan(14) was(15) not(16) put(17) back(18) on(19) tight(20) ,(21) on(22) rear(23) left(24) side(25) not(26) at(27) all(28) ...(29) the(30) pan(31) was(32) caught(33) on(34) pavement(35) while(36) going(37) in(38) reverse(39) and(40) front(41) side(42) of(43) pan(44) ripped(45) at(46) the(47) screw(48) hole(49) .(50) .(51) they(52) told(53) me(54) "(55) Oh(56) .(57) .(58) its(59) only(60) 150.00(61) to(62) replace(63) .(64) it(65) was(66) not(67) their(68) fault(69) ,(70) and(71) not(72) covered(73) since(74) it(75) was(76) "(77) MY(78) "(79) neglect(80) .(81) 6(82) .(83) At(84) time(85) of(86) purchase(87) the(88) back(89) seat(90) headrest(91) was(92) jammed(93) on(94) and(95) would(96) not(97) release(98) ,(99) THEY(100) broke(101) it(102) and(103) could(104) not(105) get(106) a(107) replacement(108) .(109) .(110) until(111) .(112) .(113) just(114) about(115) the(116) time(117) my(118) warranty(119) expired(120) .(121) .(122) then(123) "(124) tried(125) "(126) to(127) make(128) me(129) pay(130) for(131) it(132) .(133) VW(134) did(135) a(136) good(137) will(138) repair(139) .(140) 7(141) .(142) Rattles(143) .(144) .(145) Rattles(146) and(147) more(148) .(149) Sun(150) roof(151) still(152) sucks(153) air(154) if(155) it(156) is(157) open(158) ,(159) not(160) aligned(161) right(162) ,(163) they(164) had(165) to(166) reorder(167) the(168) last(169) parts(170) several(171) times(172) .(173) .(174) They(175) did(176) not(177) give(178) me(179) the(180) air(181) baffle(182) back(183) while(184) waiting(185) for(186) the(187) parts(188) to(189) come(190) in(191) ,(192) then(193) tried(194) to(195) charge(196) me(197) for(198) a(199) new(200) one(201) .(202) VW(203) did(204) another(205) goodwill(206) repair(207) .(208) Ok(209) .(210) .(211) now(212) we(213) are(214) at(215) 55,000_miles(216) .(217) .(218) !(219) !(220) The(221) check(222) engine(223) light(224) comes(225) on(226) within(227) 10_miles(228) of(229) leaving(230) the(231) dealership(232) .(233) .(234) oops(235) ,(236) they(237) did(238) it(239) again(240) .(241) .(242) !(243) !(244) Now(245) .(246) .(247) they(248) say(249) its(250) the(251) glow(252) plug(253) gizmo(254) went(255) out(256) 300.00(257) .(258) .(259) the(260) next(261) day(262) ,(263) the(264) light(265) comes(266) back(267) on(268) .(269) .(270) Oh(271) .(272) .(273) its(274) the(275) wire(276) harness(277) only(278) 45.00(279) this(280) time(281) .(282) I(283) tried(284) to(285) go(286) to(287) a(288) well(289) known(290) shop(291) in(292) town(293) .(294) .(295) they(296) can(297) only(298) get(299) the(300) computer(301) reading(302) for(303) the(304) 1999(305) models(306) ,(307) VW(308) has(309) not(310) released(311) it(312) yet(313) .(314) It(315) is(316) now(317) a(318) gutt-less(319) wonder(320) and(321) the(322) fuel(323) milage(324) has(325) gone(326) down(327) to(328) about(329) 48-50(330) .(331) The(332) dealership(333) is(334) now(335) thinking(336) that(337) the(338) turbo(339) has(340) /(341) is(342) -(343) gone(344) /(345) going(346) out(347) of(348) it(349) .(350) BTW(351) A(352) rabbit(353) on(354) the(355) road(356) WILL(357) go(358) threw(359) the(360) front(361) grill(362) and(363) will(364) take(365) out(366) a(367) turn(368) signal(369) fixture(370) .(371) 200.00(372) and(373) 45.00(374) for(375) the(376) turn(377) signal(378) .(379) Our(380) fault(381) we(382) paid(383) .(384) Road(385) kill(386) no(387) charge(388) .(389) Amount_Paid(390) ((391) US(392) $(393) )(394) :(395) 20,000.00(396) Condition(397) :(398) NewModel_Year(399) :(400) 2000Model(401) and(402) Options(403) :(404) GLS(405) ,(406) TDI(407) ,(408) 1.9L(409) ,(410) 5(411) Speed(412) ,(413) Diesel(414) 
+		</sentence>
+	</text>
+</review>

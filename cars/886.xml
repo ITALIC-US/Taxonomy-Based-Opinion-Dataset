@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="886" item="2002 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) four(2) is(3) a(4) bore(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) good(3) mileage(4) ,(5) cheap(6) insurance(7) ,(8) quality(9) interior(10) 
+			<opinion polarity="+" feature="gas" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) acceleration(2) ,(3) heavy(4) car(5) ,(6) seats(7) could(8) be(9) better(10) ,(11) body(12) repairs(13) are(14) expensive(15) 
+			<opinion polarity="-" feature="weight" opWords="4"/>
+			<opinion polarity="-" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fine(1) for(2) a(3) daily(4) driver(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Very(1) reliable(2) .(3) 
+			<opinion polarity="+" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) 're(3) looking(4) for(5) something(6) special(7) or(8) a(9) quick(10) car(11) ;(12) look(13) elsewhere(14) .(15) 
+			<opinion polarity="+" feature="speed" opWords="10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) owning(2) a(3) 1992(4) Honda_Accord_I(5) was(6) sold(7) on(8) the(9) accord(10) series(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) impressed(3) by(4) my(5) Accord(6) but(7) left(8) wanting(9) more(10) due(11) to(12) its(13) poor(14) interior(15) and(16) A(17) /(18) C(19) ((20) a(21) major(22) factor(23) in(24) Houston(25) )(26) .(27) 
+			<opinion polarity="-" feature="interior" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) I(3) am(4) not(5) nearly(6) as(7) impressed(8) by(9) the(10) new(11) accord(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			It(1) seems(2) like(3) the(4) pros(5) and(6) cons(7) of(8) my(9) older(10) accord(11) have(12) swapped(13) with(14) the(15) pros(16) /(17) cons(18) of(19) the(20) newer(21) accord(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			While(1) I(2) have(3) not(4) been(5) particularly(6) dissapointed(7) by(8) this(9) accord(10) ,(11) I(12) have(13) certainly(14) not(15) been(16) impressed(17) as(18) I(19) was(20) with(21) the(22) old(23) one(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) Pros_Honda(2) has(3) certainly(4) taken(5) heed(6) to(7) the(8) complaints(9) regarding(10) the(11) old(12) accord(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) shoddy(2) interior(3) that(4) was(5) prominent(6) with(7) the(8) older(9) models(10) has(11) been(12) replaced(13) with(14) an(15) almost(16) luxurious(17) interior(18) ((19) although(20) I(21) should(22) note(23) I(24) have(25) the(26) leather(27) model(28) )(29) .(30) 
+			<opinion polarity="-" feature="interior" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="8">
+			The(1) interior(2) shows(3) no(4) signs(5) of(6) fading(7) or(8) peeling(9) ;(10) the(11) leather(12) feels(13) as(14) soft(15) and(16) pleasant(17) now(18) as(19) it(20) did(21) when(22) I(23) bought(24) it(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Mileage(1) is(2) also(3) fairly(4) good(5) ,(6) although(7) a_bit(8) under(9) my(10) older(11) accord(12) .(13) 
+			<opinion polarity="+" feature="gas" featWords="1" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			Once(1) again(2) ,(3) the(4) accord(5) takes(6) the(7) throne(8) regarding(9) reliability(10) :(11) 2(12) years(13) into(14) it(15) and(16) I(17) have(18) yet(19) had(20) a(21) single(22) problem(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) Cons_As_I(2) mentioned(3) in(4) the(5) beginning(6) ,(7) all(8) the(9) good(10) features(11) of(12) my(13) 1992(14) accord(15) seemed(16) to(17) have(18) become(19) the(20) cons(21) in(22) my(23) new(24) accord(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			It(1) all(2) begins(3) with(4) the(5) engine(6) ...(7) they(8) claim(9) the(10) new(11) VTEC(12) adds(13) power(14) ,(15) economy(16) ,(17) and(18) driveability(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			I(1) can(2) certainly(3) say(4) the(5) engine(6) has(7) none(8) of(9) these(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			To(1) begin(2) with(3) ,(4) this(5) is(6) one(7) of(8) the(9) most(10) underpowered(11) cars(12) I(13) have(14) ever(15) driven(16) .(17) 
+			<opinion polarity="-" feature="horsepower" opWords="11"/>
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) OK(3) on(4) the(5) street(6) ,(7) but(8) it(9) really(10) starts(11) to(12) bog(13) on(14) the(15) highway(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			Heaven(1) forbid(2) you(3) try(4) to(5) pass(6) anybody(7) on(8) the(9) highway(10) !(11) 
+		</sentence>
+		<sentence id="17">
+			I(1) tried(2) it(3) once(4) ,(5) punching(6) the(7) accelerator(8) at(9) about(10) 65(11) mph(12) :(13) absolutely(14) nothing(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			I(1) could(2) not(3) believe(4) it(5) :(6) the(7) car(8) made(9) plenty_of(10) noise(11) but(12) I(13) was(14) literally(15) inching(16) on(17) the(18) car(19) I(20) was(21) trying(22) to(23) pass(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			Passing(1) on(2) the(3) street(4) OR(5) highway(6) was(7) a(8) simple(9) matter(10) with(11) my(12) old(13) accord(14) ,(15) but(16) you(17) really(18) have(19) to(20) plan(21) ahead(22) with(23) the(24) new(25) model(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			Not(1) only(2) does(3) the(4) new(5) engine(6) disappoint(7) ,(8) but(9) now(10) you(11) feel(12) detached(13) from(14) the(15) entire(16) car(17) .(18) 
+			<opinion polarity="-" feature="engine" featWords="6" opWords="7"/>
+		</sentence>
+		<sentence id="21">
+			The(1) steering(2) is(3) soft(4) and(5) unresponsive(6) .(7) 
+			<opinion polarity="-" feature="steering" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="22">
+			The(1) car(2) feels(3) much(4) heavier(5) and(6) lacks(7) any(8) low(9) end(10) torque(11) :(12) it(13) feels(14) more(15) like(16) an(17) 18-wheeler(18) then(19) a(20) small(21) sedan(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			The(1) seats(2) are(3) much(4) better(5) material(6) ,(7) but(8) they(9) are(10) not(11) as(12) comfortable(13) as(14) the(15) older(16) models(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			My(1) final(2) complaint(3) is(4) the(5) cost(6) of(7) body(8) repairs(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			I(1) got(2) in(3) a(4) minor(5) scrape(6) with(7) another(8) car(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			I(1) was(2) hit(3) by(4) another(5) car(6) that(7) idled(8) into(9) me(10) from(11) behind(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			The(1) rear(2) bumper(3) was(4) not(5) dented(6) but(7) some(8) paint(9) was(10) scraped(11) off(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			You(1) would(2) think(3) this(4) would(5) be(6) 100(7) ,(8) 200_dollars(9) at(10) the(11) most(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			Boy(1) did(2) my(3) jaw(4) drop(5) when(6) they(7) wanted(8) $600(9) !(10) !(11) 
+		</sentence>
+		<sentence id="30">
+			I(1) would(2) hate(3) to(4) think(5) how(6) much(7) it(8) would(9) cost(10) if(11) you(12) got(13) in(14) a_real(15) accident(16) with(17) this(18) car(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			Needless(1) to(2) say(3) ,(4) I(5) 'm(6) still(7) driving(8) around(9) with(10) some(11) scraped(12) paint(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			It(1) is(2) hard(3) for(4) me(5) to(6) believe(7) a(8) minor(9) paint(10) touch(11) up(12) like(13) this(14) could(15) cost(16) $600(17) ((18) this(19) was(20) at(21) a(22) Honda(23) dealership(24) )(25) .(26) 
+		</sentence>
+		<sentence id="33">
+			This(1) is(2) certainly(3) not(4) a(5) luxury(6) car(7) that(8) requires(9) rare(10) body(11) panels(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			Conclusion_The(1) new(2) accord(3) has(4) improved(5) in(6) some(7) areas(8) ,(9) but(10) has(11) fallen(12) behind(13) in(14) many(15) others(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			The(1) Accord(2) is(3) no_longer(4) a(5) cheap(6) ,(7) reliable(8) ,(9) and(10) fun(11) car(12) that(13) it(14) was(15) a(16) mere(17) decade(18) ago(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="36">
+			True(1) ,(2) it(3) is(4) closer(5) to(6) a(7) luxury(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="37">
+			But(1) in(2) striving(3) to(4) become(5) one(6) ,(7) it(8) has(9) lost(10) its(11) touch(12) .(13) 
+		</sentence>
+		<sentence id="38">
+			I(1) 'm(2) afraid(3) I(4) 'm(5) no_longer(6) an(7) Accord(8) fan(9) .(10) 
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Automatic_EX(16) ,(17) sunroof(18) ,(19) leather(20) ,(21) A(22) /(23) C(24) 
+		</sentence>
+	</text>
+</review>

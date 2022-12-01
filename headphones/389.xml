@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="389" item="Skull Candy Smokin Buds Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			acceptable(1) for(2) most(3) uses(4) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) quality(3) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			difficult(1) to(2) keep(3) in(4) your(5) ear(6) ,(7) poorly(8) constructed(9) 
+			<opinion polarity="-" feature="durability" opWords="8,9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			There(1) 's(2) not(3) a(4) whole(5) lot(6) to(7) say(8) about(9) a(10) pair(11) of(12) headphones(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			These(1) can(2) produce(3) excellent(4) sound(5) quality(6) and(7) the(8) rubber(9) cups(10) on(11) the(12) buds(13) do(14) a(15) very(16) good(17) job(18) at(19) isolating(20) your(21) music(22) from_outside(23) noises(24) .(25) 
+			<opinion polarity="+" feature="sound quality" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Consequently(1) ,(2) you(3) can(4) listen(5) at(6) much(7) lower(8) volumes(9) than(10) with(11) conventional(12) ear(13) buds(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) down-side(2) to(3) these(4) headphones(5) is(6) that(7) they(8) can(9) be(10) difficult(11) to(12) keep(13) in(14) your(15) ear(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			They(1) come(2) with(3) three(4) different(5) sizes(6) of(7) rubber(8) cups(9) ,(10) but(11) none(12) of(13) them(14) seem(15) to(16) fit(17) that(18) well(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) actually(3) taken(4) to(5) paper(6) clipping(7) the(8) chord(9) to(10) my(11) clothes(12) so_that(13) there(14) is(15) enough(16) slack(17) around(18) my(19) head(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			That(1) way(2) ,(3) they(4) do(5) not(6) get(7) pulled(8) out(9) when(10) I(11) turn(12) my(13) head(14) .(15) ***(16) UPDATE(17) ***(18) I(19) decided(20) to(21) update(22) my(23) review(24) of(25) these(26) headphones(27) because(28) ,(29) after(30) less(31) than(32) months(33) use(34) ,(35) they(36) broke(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			In(1) my(2) opinion(3) ,(4) the(5) problems(6) with(7) keeping(8) the(9) buds(10) in(11) the(12) my(13) ears(14) and(15) the(16) poor(17) quality(18) of(19) this(20) set(21) of(22) headphones(23) makes(24) for(25) a(26) product(27) you(28) should(29) avoid(30) .(31) 
+		</sentence>
+	</text>
+</review>

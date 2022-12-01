@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="208" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Best(1) value(2) for(3) the(4) $(5) $(6) $(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			pickup(1) and(2) handling(3) ,(4) roominess(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			controversial(1) exterior(2) design(3) 
+			<opinion polarity="-" feature="exterior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			((1) NOTE(2) :(3) the(4) vehicle(5) pictured(6) is(7) a(8) 2000(9) Maxima_SE(10) ,(11) not(12) a(13) GXE(14) as(15) stated(16) in(17) the(18) caption(19) .(20) )(21) When(22) it(23) was(24) time(25) to(26) get(27) rid(28) of(29) our(30) 10-year(31) old(32) Mustang_GT(33) ,(34) we(35) wanted(36) a(37) 4-door(38) car(39) that(40) was(41) as(42) fun(43) to(44) drive(45) ,(46) but(47) more(48) reliable(49) .(50) 
+			<opinion polarity="+" feature="car" featWords="39" opWords="43"/>
+		</sentence>
+		<sentence id="2">
+			Although(1) the(2) Mustang(3) lasted(4) over(5) 100,000_miles(6) ,(7) it(8) had(9) broken(10) down(11) several(12) times(13) and(14) was(15) clearly(16) on(17) its(18) last(19) legs(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Also(1) ,(2) driving(3) a(4) RWD(5) in(6) snow(7) and(8) ice(9) is(10) not(11) very(12) fun(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			We(1) researched(2) and(3) drove(4) the(5) Camry(6) ,(7) Passat(8) ,(9) and(10) Accord(11) ,(12) in_addition(13) to(14) the(15) Maxima(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			We(1) ultimately(2) settled(3) on(4) the(5) Maxima(6) because(7) it(8) represented(9) great(10) value(11) for(12) the(13) money(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Many(1) of(2) the(3) "(4) options(5) "(6) on(7) the(8) Camry(9) and(10) Accord(11) came(12) standard(13) on(14) the(15) Maxima(16) :(17) FWD(18) ,(19) ABS(20) ,(21) dual(22) airbags(23) ,(24) CD(25) player(26) ((27) on(28) SE(29) and(30) GLE(31) )(32) ,(33) power(34) locks(35) /(36) windows(37) ,(38) remote(39) entry(40) and(41) alarm(42) ,(43) alloy(44) wheels(45) ((46) on(47) SE(48) and(49) GLE(50) )(51) .(52) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) the(3) 6(4) cylinder(5) ,(6) 222(7) hp(8) engine(9) provides(10) more(11) than(12) enough(13) muscle(14) for_short(15) highway(16) ramps(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			In_order_to(1) get(2) comparable(3) "(4) pickup(5) "(6) in(7) the(8) other(9) cars(10) we(11) tried(12) ,(13) we(14) would(15) have(16) had(17) to(18) pay(19) several(20) thousand(21) to(22) get(23) the(24) 6-cylinder(25) engine(26) ((27) or(28) turbo(29) on(30) the(31) Passat(32) )(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			Best(1) of(2) all(3) ,(4) the(5) GXE(6) and(7) SE(8) come(9) in(10) a(11) 5-speed(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) loads(3) of(4) room(5) in(6) the(7) passenger(8) compartment(9) and(10) in(11) the(12) trunk(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			New(1) this(2) year(3) is(4) a(5) 60/40(6) fold(7) down(8) rear(9) seat(10) ((11) pre-2000(12) models(13) only(14) had(15) a(16) small(17) opening(18) in(19) the(20) armrest(21) .(22) )(23) This(24) car(25) seats(26) 5(27) adults(28) comfortably(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			The(1) "(2) neosuede(3) "(4) cloth(5) in(6) the(7) SE(8) is(9) much(10) more(11) comfortable(12) than(13) the(14) cloth(15) in(16) the(17) GXE(18) ,(19) and(20) the(21) seats(22) in(23) both(24) offer(25) firm(26) support(27) .(28) ((29) We(30) did(31) not(32) drive(33) the(34) GLE(35) because(36) it(37) came(38) with(39) automatic(40) transmission(41) only(42) .(43) )(44) The(45) interior(46) design(47) is(48) well(49) thought(50) out(51) ,(52) with(53) large(54) cupholders(55) and(56) compartments(57) for(58) CDs(59) and(60) tapes(61) .(62) 
+			<opinion polarity="+" feature="cup holders" featWords="55" opWords="54"/>
+			<opinion polarity="+" feature="interior" featWords="46" opWords="49,50,51"/>
+		</sentence>
+		<sentence id="13">
+			The(1) stereo(2) has(3) many(4) features(5) but(6) is(7) easy(8) to(9) use(10) ,(11) the(12) heat(13) and(14) AC(15) are(16) powerful(17) .(18) 
+			<opinion polarity="+" feature="ac" featWords="15" opWords="17"/>
+			<opinion polarity="+" feature="heat" featWords="13" opWords="17"/>
+		</sentence>
+		<sentence id="14">
+			In(1) general(2) ,(3) the(4) Maxima(5) is(6) a(7) good(8) looking(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8,9"/>
+		</sentence>
+		<sentence id="15">
+			Some(1) folks(2) do(3) not(4) like(5) the(6) taillights(7) ;(8) admittedly(9) they(10) are(11) different(12) and(13) take(14) a(15) little(16) getting(17) used(18) to(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			The(1) GXE(2) and(3) GLE(4) models(5) come(6) with(7) red(8) taillights(9) ,(10) the(11) SE(12) with(13) the(14) "(15) smoke(16) "(17) rimmed(18) taillights(19) pictured(20) above(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			In(1) general(2) ,(3) the(4) SE(5) taillights(6) work(7) better(8) with(9) darker(10) colors(11) ,(12) like(13) the(14) black(15) and(16) grey(17) lustre(18) ((19) a(20) dark(21) charcoal(22) gray(23) )(24) .(25) 
+		</sentence>
+		<sentence id="18">
+			For(1) its(2) size(3) and(4) muscle(5) ,(6) this(7) car(8) gets(9) very(10) good(11) gas(12) mileage(13) ,(14) too(15) :(16) 21/28(17) ,(18) we(19) average(20) about(21) 26(22) .(23) 
+			<opinion polarity="+" feature="gas" featWords="12,13" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="19">
+			It(1) is(2) possible(3) to(4) get(5) a(6) new(7) GXE(8) for(9) under(10) $20,000(11) and(12) a(13) new(14) SE(15) for(16) under(17) $22,000(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			In(1) short(2) ,(3) it(4) 's(5) a(6) good(7) value(8) for(9) the(10) money(11) ;(12) it(13) 's(14) often(15) compared(16) to(17) luxury(18) and(19) sport(20) sedans(21) which(22) cost(23) 5,000(24) to(25) 10,000(26) more(27) !(28) 
+		</sentence>
+		<sentence id="21">
+			This(1) car(2) handles(3) like(4) a(5) sport(6) sedan(7) but(8) has(9) the(10) room(11) and(12) economy(13) of(14) a(15) "(16) family(17) "(18) sedan(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			It(1) 's(2) lots(3) of(4) fun(5) to(6) drive(7) and(8) I(9) would(10) recommend(11) this(12) car(13) to(14) anyone(15) who(16) is(17) considering(18) a(19) 4-door(20) sedan(21) but(22) still(23) wants(24) to(25) have(26) fun(27) on(28) the(29) road(30) .(31) ((32) Note(33) :(34) some(35) cars(36) have(37) a(38) squeak(39) where(40) the(41) front(42) right(43) pillar(44) joins(45) the(46) dash(47) ;(48) this(49) appears(50) to(51) be(52) an(53) individual(54) problem(55) as(56) ours(57) never(58) had(59) it(60) .(61) Listen(62) when(63) you(64) test(65) drive(66) .(67) )(68) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+	</text>
+</review>

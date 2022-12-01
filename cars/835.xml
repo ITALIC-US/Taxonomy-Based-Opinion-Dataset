@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="835" item="2004 Nissan Maxima" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) 2004(2) Nissan_Maxima(3) ,(4) fun(5) when(6) it(7) RUNS(8) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) horsepower(2) and(3) fun(4) to(5) drive(6) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) tire(2) slippage(3) ,(4) unreliable(5) ,(6) numerous(7) engine(8) problems(9) 
+			<opinion polarity="-" feature="reliability" opWords="5"/>
+			<opinion polarity="-" feature="tire" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) 2004(4) Maxima_SE(5) with(6) all(7) the(8) bells(9) and(10) whistles(11) that(12) come(13) in(14) this(15) model(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) must(2) say(3) when(4) its(5) running(6) it(7) is(8) a_lot_of(9) fun(10) to(11) drive(12) minus(13) the(14) wheel(15) slippage(16) from(17) a(18) stop(19) and(20) the(21) massive(22) torque(23) steer(24) when(25) accelerating(26) hard(27) .(28) 
+			<opinion polarity="+" feature="torque" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) a(4) large(5) number(6) of(7) issues(8) with(9) the(10) engine(11) ,(12) 5(13) of(14) the(15) 6(16) coils(17) have(18) failed(19) over(20) the(21) past(22) five(23) months(24) ,(25) resulting(26) in(27) me(28) being(29) without(30) the(31) car(32) for(33) over(34) 46(35) days(36) and(37) yes(38) ,(39) I(40) am(41) without(42) it(43) right(44) now(45) for(46) the(47) number(48) 1(49) coil(50) .(51) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) the(3) shifter(4) had(5) a(6) short(7) in(8) it(9) and(10) took(11) 11(12) days(13) to(14) be(15) replaced(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Nissan(1) mentioned(2) this(3) was(4) a(5) part(6) they(7) had(8) to(9) have(10) specially(11) made(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) had(3) to(4) replace(5) the(6) Mass_Air_Flow(7) sensor(8) as_well(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) ,(2) like(3) the(4) title(5) says(6) ,(7) when(8) it(9) runs(10) ,(11) it(12) 's(13) a_ton(14) of(15) fun(16) ,(17) but(18) I(19) have(20) been(21) driving(22) the(23) Altima(24) loaner(25) car(26) so(27) much(28) that(29) sometimes(30) I(31) forget(32) I(33) own(34) the(35) Maxima(36) .(37) 
+		</sentence>
+	</text>
+</review>

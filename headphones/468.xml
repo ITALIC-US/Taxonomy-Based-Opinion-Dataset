@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="468" item="Sony MDR-7506 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Nice(1) sounding(2) headphones(3) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) sounding(2) ,(3) can(4) turn(5) it(6) up(7) ,(8) great(9) bass(10) response(11) .(12) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+			<opinion polarity="+" feature="bass" featWords="10,11" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Seems(1) to(2) need(3) a(4) break(5) in(6) period(7) right(8) out(9) of(10) the(11) box(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) for(4) the(5) express(6) reason(7) of(8) producing(9) professional(10) sounding(11) home(12) recordings(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			So(1) far(2) ,(3) these(4) sound(5) very(6) nice(7) .(8) 
+			<opinion polarity="+" feature="sound quality" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="3">
+			The(1) bass(2) response(3) is(4) phenomenal(5) without(6) being(7) over(8) bearing(9) ,(10) tubby(11) or(12) blurred(13) .(14) 
+			<opinion polarity="+" feature="bass" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			You(1) can(2) really(3) crank(4) these(5) up(6) to(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) reached(2) the(3) pain(4) threshold(5) before(6) the(7) distortion(8) hit(9) so(10) unless(11) you(12) are(13) a(14) maniac(15) ,(16) the(17) volume(18) should(19) be(20) fine(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			The(1) cans(2) are(3) brutally(4) honest(5) about(6) what(7) your(8) music(9) sounds(10) like(11) and(12) seem(13) to(14) not(15) color(16) the(17) music(18) which(19) is(20) what(21) I(22) was(23) after(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Clarity(1) ,(2) great(3) freq(4) .(5) response(6) and(7) comfortable(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+		</sentence>
+		<sentence id="8">
+			I(1) did(2) notice(3) they(4) sounded(5) better(6) too(7) after(8) a_bit(9) of(10) a(11) break(12) in(13) period(14) .(15) 
+		</sentence>
+	</text>
+</review>

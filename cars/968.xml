@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="968" item="1999 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			Screw-baru(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			do(1) not(2) BUY_THIS_CAR(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			98(1) &(2) 99(3) transmission(4) often(5) lurches(6) ,(7) ect(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Post(1) script(2) to(3) "(4) Not(5) So_Sporty(6) "(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Our(1) 99(2) Forester_S(3) has(4) caused(5) us(6) to(7) have(8) three(9) near(10) accidents(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) occasional(2) stuttering(3) when(4) trying(5) to(6) acceleration(7) left(8) my(9) wife(10) at(11) the(12) mercy(13) of(14) the(15) brakes(16) of(17) the(18) other(19) driver(20) ,(21) nearly(22) being(23) hit(24) on(25) three(26) separate(27) occasions(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			After(1) ten(2) visits(3) to(4) two(5) dealers(6) and(7) correspondence(8) to(9) Subaru_of_North_America(10) we(11) were(12) no(13) better(14) off(15) than(16) when(17) our(18) troubles(19) began(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			One(1) dealer(2) identified(3) a(4) fault(5) in(6) a(7) throttle(8) position(9) sensor(10) and(11) a(12) fault(13) in(14) a(15) torque(16) sensor(17) neither(18) of(19) which(20) they(21) would(22) replace(23) under(24) warrantee(25) saying(26) that(27) both(28) faults(29) could(30) not(31) show(32) up(33) at(34) the(35) same(36) time(37) .(38) 
+		</sentence>
+		<sentence id="6">
+			After(1) numerous(2) test(3) drives(4) all(5) the(6) mechanic(7) and(8) area(9) representative(10) would(11) say(12) was(13) that(14) our(15) vehicle(16) drives(17) "(18) normally(19) "(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Convinced(1) the(2) transmission(3) was(4) a(5) one(6) time(7) fluke(8) of(9) manufacturing(10) we(11) went(12) to(13) trade(14) our(15) unsafe(16) vehicle(17) for(18) a(19) new(20) one(21) .(22) 
+			<opinion polarity="-" feature="safety" opWords="16"/>
+		</sentence>
+		<sentence id="8">
+			We(1) sat(2) in(3) a(4) 2001(5) S(6) +(7) and(8) noticed(9) the(10) glove(11) box(12) had(13) a(14) sizable(15) gap(16) between(17) the(18) top(19) of(20) the(21) box(22) and(23) the(24) dash(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			When(1) asked(2) the(3) dealer(4) said(5) that(6) this(7) was(8) "(9) normal(10) "(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Sure(1) enough(2) 4(3) of(4) 5(5) cars(6) had(7) similar(8) anomalies(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			What(1) is(2) "(3) NORMAL(4) "(5) to(6) Subaru(7) ?(8) 
+		</sentence>
+		<sentence id="12">
+			I(1) know(2) this(3) is(4) just(5) one(6) small(7) example(8) of(9) quality(10) workmanship(11) but(12) after(13) our(14) other(15) problems(16) we(17) are(18) looking(19) for(20) a(21) nice(22) used(23) Volvo(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="22"/>
+		</sentence>
+		<sentence id="13">
+			I(1) will(2) say(3) the(4) amenities(5) of(6) the(7) 2001(8) are(9) nice(10) .(11) 
+			<opinion polarity="+" feature="amenities" featWords="5" opWords="10"/>
+		</sentence>
+		<sentence id="14">
+			The(1) many(2) upgrades(3) to(4) equipment(5) make(6) the(7) 2001(8) a(9) good(10) purchase(11) if(12) you(13) are(14) willing(15) to(16) take(17) the(18) chance(19) that(20) you(21) got(22) a(23) car(24) that(25) is(26) not(27) a(28) product(29) of(30) Subaru(31) 's(32) recent(33) poor(34) quality(35) workmanship(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			GOOD_LUCK(1) !(2) 
+		</sentence>
+	</text>
+</review>

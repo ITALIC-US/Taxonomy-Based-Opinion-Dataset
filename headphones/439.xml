@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="439" item="Shure E2C Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			These(1) are(2) the(3) ONES(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			QUALITY(1) through(2) and(3) through(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Quality(1) construction(2) ,(3) sound(4) and(5) accessories(6) .(7) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) think(3) of(4) any(5) -(6) for(7) the(8) price(9) -(10) they(11) 're(12) awesome(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) these(2) and(3) FIT_THEM_PROPERLY(4) and(5) you(6) will(7) not(8) be(9) disappointed(10) !(11) !(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) wanted(2) to(3) replace(4) the(5) OEM(6) earbuds(7) with(8) something(9) '(10) great(11) '(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) read(2) the(3) reviews(4) and(5) decided(6) upon(7) the(8) E2C(9) for(10) several(11) reasons(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) first(2) being(3) "(4) Isolation(5) "(6) earbuds(7) -(8) these(9) are(10) simply(11) ear(12) plugs(13) that(14) allow(15) a(16) sound(17) tube(18) to(19) go(20) into(21) your(22) ear(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			They(1) block(2) out(3) other(4) sound(5) and(6) allow(7) the(8) music(9) to(10) enter(11) your(12) ear(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			This(1) results(2) in(3) turning(4) the(5) volume(6) DOWN(7) on(8) my(9) MP3(10) player(11) rather(12) than(13) UP(14) to(15) compete(16) with(17) surrounding(18) noise(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			This(1) is(2) important(3) while(4) flying(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			They(1) come(2) with(3) an(4) '(5) assortment(6) '(7) of(8) rubber(9) and(10) foam(11) earpieces(12) to(13) fit(14) YOUR(15) ear(16) -(17) 18(18) different(19) units(20) to(21) be(22) exact(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) a(3) MEDIUM(4) in(5) my(6) left(7) ear(8) and(9) a(10) LARGE(11) in(12) my(13) right(14) ear(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) fit(2) is(3) PERFECT(4) and(5) I(6) can(7) go(8) ALL(9) day(10) or(11) ALL(12) night(13) without(14) discomfort(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) cord(2) thickness(3) is(4) the(5) first(6) indicator(7) that(8) this(9) is(10) not(11) your(12) usual(13) ear(14) bud(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) thick(3) and(4) feels(5) '(6) better(7) '(8) than(9) OEM(10) stuff(11) .(12) 
+			<opinion polarity="+" feature="cord" featWords="1" featRef="cord" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			Once(1) you(2) have(3) a(4) GOOD(5) fit(6) ,(7) the(8) sound(9) will(10) be(11) incredible(12) AND(13) the(14) sound(15) isolation(16) will(17) be(18) noticeable(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="9" opWords="12"/>
+			<opinion polarity="+" feature="isolation" featWords="15,16" opWords="19"/>
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) not(3) tried(4) working(5) out(6) with(7) these(8) things(9) in(10) yet(11) ,(12) but(13) I_DID(14) build(15) about(16) 30_feet(17) of(18) wooden(19) fence(20) with(21) them(22) in(23) and(24) they(25) never(26) came(27) out(28) -(29) I(30) think(31) the(32) workout(33) will(34) be(35) a(36) piece(37) of(38) cake(39) .(40) 
+		</sentence>
+		<sentence id="14">
+			The(1) cord(2) is(3) long(4) and(5) will(6) most(7) likely(8) need(9) to(10) be(11) put(12) in(13) your(14) pocket(15) .(16) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) carrying(2) case(3) is(4) QUALITY(5) but(6) I(7) do(8) not(9) use(10) it(11) because(12) I(13) always(14) seem(15) to(16) have(17) these(18) things(19) in(20) at(21) work(22) or(23) at(24) home(25) -(26) NEVER(27) in(28) between(29) because(30) they(31) WILL(32) isolate(33) surrounding(34) sounds(35) that(36) you(37) need(38) to(39) hear(40) if(41) you(42) are(43) driving(44) !(45) 
+			<opinion polarity="+" feature="case" featWords="3" opWords="5"/>
+		</sentence>
+	</text>
+</review>

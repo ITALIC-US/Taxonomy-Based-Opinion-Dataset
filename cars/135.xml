@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="135" item="1997 Cadillac Eldorado" rating="5">
+	<title>
+		<sentence id="1">
+			One(1) of(2) the(3) best(4) rides(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			beautiful(1) car(2) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			gas(1) mileage(2) .(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) has(3) been(4) around(5) for(6) a(7) long(8) time(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) seems(2) the(3) longer(4) it(5) 's(6) around(7) the(8) better(9) is(10) gets(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) is(3) made(4) of(5) nothing(6) but(7) the(8) best(9) and(10) is(11) one(12) of(13) the(14) finest(15) their(16) is(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) has(3) the(4) room(5) and(6) rate(7) that(8) people(9) love(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Something(1) has(2) got(3) to(4) be(5) good(6) about(7) this(8) car(9) for(10) is(11) to(12) have(13) been(14) around(15) this(16) long(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) really(2) the(3) the(4) car(5) because_of(6) the(7) luxury(8) and(9) the(10) style(11) it(12) is(13) made(14) on(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) has(3) room(4) and(5) is(6) a(7) very(8) beautiful(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) is(3) also(4) one(5) of(6) the(7) top(8) sold(9) cars(10) in(11) my(12) area(13) on(14) the(15) cadillac(16) lot(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			If(1) would(2) recommend(3) this(4) car(5) to(6) anybody(7) with(8) a(9) family(10) that(11) loves(12) nice(13) thing(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) want(3) to(4) look(5) big(6) and(7) be(8) big(9) ,(10) get(11) the(12) cadillac(13) .(14) 
+		</sentence>
+	</text>
+</review>

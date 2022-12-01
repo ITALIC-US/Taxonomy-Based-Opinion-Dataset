@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="140" item="Westgate Lakes Resort" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) a(3) scam(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Welcome_Center(1) workers(2) not(3) friendly(4) ,(5) dirty(6) rooms(7) ,(8) hassle(9) 
+			<opinion polarity="-" feature="rooms" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) jeopardize(3) your(4) vacation(5) with(6) these(7) people(8) ,(9) stay(10) at(11) a(12) trusted(13) resort(14) !(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			All(1) I(2) can(3) say(4) is(5) "(6) buyer(7) beware(8) "(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			They(1) screwed(2) me(3) around(4) right(5) from(6) the(7) get(8) go(9) ,(10) having(11) me(12) stay(13) at(14) the(15) Town_Center(16) ,(17) then(18) reassigning(19) me(20) to(21) the(22) Blue_Tree(23) ,(24) then(25) again(26) further_down(27) the(28) line(29) to(30) the(31) Leasure(32) 2(33) resort(34) ((35) resort(36) is(37) a(38) big(39) stretch(40) !(41) )(42) .(43) 
+		</sentence>
+		<sentence id="3">
+			It(1) looks(2) like(3) a(4) good(5) deal(6) online(7) ,(8) but(9) when(10) we(11) arrived(12) in(13) Orlando(14) to(15) begin(16) our(17) stay(18) in(19) what(20) I(21) thought(22) was(23) a(24) 8(25) person(26) villa(27) complete(28) with(29) leather(30) couches(31) ,(32) marble(33) jacuzzi(34) tub(35) and(36) big(37) screen(38) TV(39) ,(40) we(41) were(42) sadly(43) mistaken(44) when(45) we(46) opened(47) the(48) door(49) to(50) our(51) room(52) .(53) 
+			<opinion polarity="+" feature="sofa" featWords="31" opWords="30"/>
+			<opinion polarity="+" feature="jacuzzi" featWords="34" opWords="33"/>
+			<opinion polarity="+" feature="tv" featWords="39" opWords="37"/>
+		</sentence>
+		<sentence id="4">
+			There(1) was(2) dirty(3) socks(4) and(5) a(6) wet(7) towel(8) in(9) one(10) of(11) the(12) 2(13) bedrooms(14) ,(15) a(16) roach(17) in(18) the(19) kitchen(20) .(21) 
+			<opinion polarity="-" feature="towels" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			Not(1) to(2) mention(3) that(4) from(5) the(6) moment(7) we(8) walked(9) into(10) their(11) "(12) Welcome_Center(13) "(14) we(15) were(16) greeted(17) by(18) several(19) mumbling(20) ,(21) slacker(22) kids(23) working(24) behind(25) the(26) counter(27) who(28) seriously(29) need(30) to(31) work(32) on(33) their(34) English(35) skills(36) !(37) 
+		</sentence>
+		<sentence id="6">
+			My(1) wife(2) took(3) one(4) look(5) at(6) the(7) 10_foot(8) x(9) 10_foot(10) pool(11) ,(12) and(13) the(14) beer-swilling(15) unbathed(16) rufions(17) splashing(18) about(19) ,(20) and(21) said(22) "(23) there(24) is(25) no(26) way(27) our(28) 3-year(29) old(30) is(31) swimming(32) in(33) that(34) .(35) Long(36) story(37) short(38) ,(39) it(40) almost(41) ruined(42) our(43) trip(44) to(45) Disney(46) for(47) our(48) daughter(49) ,(50) but(51) thanks(52) to(53) an(54) abundance(55) of(56) hotels(57) in(58) the(59) area(60) we(61) opted(62) for(63) a(64) Marriott(65) .(66) Now(67) they(68) are(69) refusing(70) to(71) give(72) me(73) a(74) full(75) refund(76) .(77) THey(78) are(79) trying(80) to(81) hold(82) one(83) night(84) stay(85) on(86) my(87) credit(88) card(89) saying(90) that(91) this(92) a(93) penalty(94) .(95) I(96) say(97) they(98) should(99) pay(100) me(101) one(102) noghts(103) stay(104) for(105) the(106) pain(107) and(108) suffering(109) they(110) have(111) put(112) me(113) through(114) .(115) 
+		</sentence>
+	</text>
+</review>

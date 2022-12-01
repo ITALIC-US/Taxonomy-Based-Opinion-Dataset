@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="563" item="1995 Oldsmobile Achieva" rating="3">
+	<title>
+		<sentence id="1">
+			There(1) Are_Some_Faults(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas_Mileage(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior_Workmanship(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) 1995(4) Olds_Achieva(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) the(3) car(4) brand(5) new(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) price(2) was(3) great(4) ,(5) but(6) the(7) workmanship(8) of(9) the(10) interior(11) is(12) somewhat(13) poor(14) .(15) 
+			<opinion polarity="-" feature="interior" featWords="11" opWords="14"/>
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) vents(2) in(3) the(4) doors(5) have(6) fallen(7) out(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) lights(2) will(3) not(4) work(5) at(6) times(7) when(8) it(9) rains(10) ,(11) especially(12) the(13) taillights(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) the(3) automatic(4) lock(5) on(6) the(7) doors(8) when(9) you(10) put(11) it(12) in(13) gear(14) and(15) that(16) is(17) a(18) great(19) safety(20) feature(21) ,(22) but(23) at(24) times(25) when(26) you(27) shut(28) the(29) car(30) off(31) one(32) door(33) or(34) the(35) other(36) will(37) not(38) unlock(39) .(40) 
+			<opinion polarity="+" feature="safety" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="7">
+			The(1) sound(2) system(3) is(4) excellent(5) though(6) .(7) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) gas(2) mileage(3) is(4) EXCELLENT(5) !(6) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			I(1) just(2) wish(3) the(4) workmanship(5) of(6) the(7) interior(8) would(9) have(10) been(11) better(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) drives(3) like(4) a(5) dream(6) though(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			You(1) could(2) not(3) ask(4) for(5) a(6) better(7) ride(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) love(2) the(3) gas(4) mileage(5) ,(6) but(7) I(8) hate(9) the(10) auto-lock(11) system(12) .(13) 
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="2"/>
+		</sentence>
+	</text>
+</review>

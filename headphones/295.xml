@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="295" item="V-Moda Vibe Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Expensive(1) ,(2) but(3) worth(4) it(5) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Terrific(1) sound(2) ,(3) great(4) look(5) ((6) in(7) a(8) huge(9) variety(10) of(11) colors(12) )(13) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="appearance" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="appearance" featWords="12" opWords="10" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Definitely(1) not(2) inexpensive(3) .(4) 
+			<opinion polarity="-" feature="price" opWords="2,3" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) good(4) sound(5) and(6) are(7) willing(8) to(9) pay(10) for(11) it(12) ,(13) get(14) them(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Yesterday(1) .(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) earbuds(4) from(5) Amazon(6) simply(7) because(8) I(9) 've(10) never(11) been(12) able(13) to(14) wear(15) earbuds(16) ,(17) and(18) another(19) person(20) mentioned(21) she(22) 'd(23) gotten(24) these(25) because(26) she(27) has(28) very(29) small(30) ear(31) canals(32) and(33) was(34) able(35) to(36) use(37) them(38) .(39) 
+		</sentence>
+		<sentence id="2">
+			So(1) far(2) ,(3) they(4) have(5) been(6) well(7) worth(8) the(9) money(10) .(11) 
+			<opinion polarity="+" feature="headphones" opWords="8,9,10" potency="7"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 'd(2) always(3) bought(4) fairly(5) cheap(6) headphones(7) that(8) made(9) me(10) look(11) like(12) something(13) out(14) of(15) a(16) retro(17) recording(18) studio(19) ,(20) and(21) ,(22) honestly(23) ,(24) they(25) were(26) not(27) very(28) compact(29) ,(30) attractive(31) or(32) unobtrusive(33) .(34) 
+			<opinion polarity="-" feature="portability" opWords="27,29" potency="28"/>
+			<opinion polarity="-" feature="appearance" opWords="27,31" potency="28"/>
+			<opinion polarity="-" feature="comfort" opWords="27,33" potency="28"/>
+		</sentence>
+		<sentence id="4">
+			The(1) V-Modas(2) are(3) the(4) very(5) first(6) earbuds(7) I(8) 've(9) ever(10) been(11) able(12) to(13) wear(14) ,(15) because(16) they(17) come(18) with(19) three(20) sizes(21) of(22) rubber(23) fittings(24) ,(25) in(26) each(27) of(28) "(29) clear(30) "(31) ((32) white(33) )(34) and(35) black(36) ,(37) as_well(38) as(39) a(40) small(41) leather(42) pouch(43) .(44) 
+			<opinion polarity="+" feature="case" featWords="43" opWords="41"/>
+			<opinion polarity="+" feature="case" featWords="43" opWords="42"/>
+		</sentence>
+		<sentence id="5">
+			The(1) pouch(2) is(3) unfortunately(4) not(5) large(6) enough(7) for(8) a(9) 3G(10) iPod(11) as_well(12) ,(13) but(14) I(15) have(16) greatly(17) enjoyed(18) being(19) able(20) to(21) slip(22) earbuds(23) and(24) iPod(25) into(26) a(27) breast(28) pocket(29) and(30) go(31) ,(32) as_well(33) as(34) do(35) my(36) exercising(37) without(38) huge(39) earmuff-looking(40) things(41) .(42) 
+			<opinion polarity="-" feature="size" opWords="5,6,7" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) is(3) terrific(4) ,(5) as(6) one(7) would(8) expect(9) from(10) an(11) item(12) which(13) fits(14) into(15) the(16) ear(17) canal(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) 've(2) reset(3) my(4) iPod(5) 's(6) balance(7) to(8) a(9) bass(10) boost(11) ,(12) which(13) has(14) also(15) been(16) helpful(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) fit(2) is(3) perfect(4) ;(5) as(6) expected(7) ,(8) I(9) need(10) the(11) smallest(12) size(13) fittings(14) to(15) work(16) in(17) my(18) ears(19) .(20) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			These(1) are(2) not(3) for(4) the(5) casual(6) listener(7) ;(8) they(9) are(10) expensive(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="11"/>
+		</sentence>
+		<sentence id="10">
+			They(1) are(2) ,(3) however(4) ,(5) for(6) those(7) who(8) want(9) good(10) sound(11) and(12) are(13) willing(14) to(15) pay(16) for(17) it(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			If(1) your(2) MP3(3) player(4) is(5) something(6) you(7) use(8) very(9) casually(10) or(11) infrequently(12) ,(13) get(14) something(15) cheaper(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) particularly(3) interested(4) in(5) the(6) ones(7) I(8) got(9) because(10) they(11) allow(12) me(13) to(14) sleep(15) on(16) my(17) side(18) with(19) earphones(20) on(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Since(1) I(2) obtained(3) them(4) shortly(5) before(6) surgery(7) ,(8) this(9) was(10) a(11) big(12) factor(13) for(14) me(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			I(1) guess(2) the(3) real(4) test(5) for(6) me(7) is(8) that(9) I(10) 'd(11) buy(12) them(13) again(14) in(15) a(16) heartbeat(17) ;(18) they(19) 're(20) that(21) good(22) .(23) 
+			<opinion polarity="+" feature="headphones" featWords="19" featRef="headphones" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="15">
+			In(1) fact(2) ,(3) I(4) 'm(5) thinking(6) of(7) getting(8) them(9) for(10) others(11) I(12) know(13) who(14) love(15) the(16) sound(17) of(18) earbuds(19) ,(20) but(21) not(22) the(23) fit(24) .(25) 
+		</sentence>
+	</text>
+</review>

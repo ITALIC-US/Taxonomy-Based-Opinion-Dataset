@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="79" item="2003 Nissan Frontier" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) like(2) my(3) little(4) Truck(5) ...(6) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everything(1) but(2) whats(3) listed(4) below(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) low-end(3) tourque(4) ,(5) gas(6) tank(7) ,(8) lack(9) of(10) cruise(11) control(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recomend(3) the(4) nissan(5) truck(6) .(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			The(1) only(2) other(3) viable(4) small(5) truck(6) option(7) is(8) the(9) Toyota(10) ,(11) drive(12) both(13) and(14) go(15) from(16) there(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) did(2) not(3) like(4) my(5) ranger(6) pickup(7) .(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) had(2) major(3) issues(4) and(5) it(6) drank(7) gas(8) ...(9) I(10) decided(11) that(12) I(13) could(14) not(15) take(16) it(17) any(18) more(19) .(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Plus(1) I(2) wanted(3) a(4) new(5) car(6) ...(7) So(8) I(9) went(10) car(11) shopping(12) ((13) again(14) ,(15) I(16) had(17) the(18) ranger(19) just(20) four(21) months(22) )(23) .(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) looked(2) a(3) camry(4) and(5) that(6) was(7) to(8) old(9) peopleish(10) .(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) liked(2) the(3) Tacoma(4) ,(5) and(6) it(7) was(8) a(9) 5-speed(10) ,(11) something(12) on(13) my(14) list(15) .(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) mazda(2) b-series(3) was(4) off(5) my(6) list(7) ,(8) because_of(9) its(10) ford(11) roots(12) ...(13) The(14) dakota(15) ,(16) cost(17) to(18) much(19) and(20) even(21) with(22) a(23) V(24) -(25) 8(26) did(27) not(28) have(29) the(30) power(31) I(32) wanted(33) ,(34) plus(35) they(36) drink(37) gas(38) ,(39) worse(40) than(41) my(42) ranger(43) ...(44) A(45) sentra(46) was(47) to(48) small(49) ,(50) an(51) altima(52) was(53) to(54) expensive(55) ...(56) Then_I(57) saw(58) my(59) car(60) !(61) a(62) leftover(63) 2003(64) Frontier_XE_King_Cab(65) 5-speed(66) .(67) .(68) 
+			<opinion polarity="-" feature="price" opWords="55"/>
+			<opinion polarity="-" feature="size" opWords="49"/>
+		</sentence>
+		<sentence id="7">
+			Perfect(1) ...(2) With(3) a(4) $2500(5) rebate(6) ,(7) I(8) drove(9) home(10) @(11) $13,000(12) ,(13) in(14) my(15) first(16) new(17) car(18) .(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) had(3) it(4) scince(5) Jan(6) .(7) 6th(8) and(9) have(10) put(11) 2600(12) mi(13) on(14) it(15) .(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) 4-cyl(2) .(3) engine(4) has(5) decent(6) power(7) ,(8) but(9) could(10) use(11) a(12) little(13) more(14) off(15) the(16) line(17) punch(18) ...(19) The(20) 5-speed(21) manual(22) shifts(23) well(24) ,(25) it(26) has(27) a(28) little(29) longer(30) throw(31) than(32) some(33) ,(34) but(35) not(36) bad(37) ...(38) The(39) truck(40) handles(41) well(42) ,(43) but(44) it(45) leans(46) more(47) than(48) my(49) ranger(50) did(51) ,(52) but(53) it(54) rides(55) sooo(56) much(57) better(58) than(59) my(60) ranger(61) did(62) ...(63) The(64) ride(65) is(66) great(67) ,(68) almost(69) car(70) like(71) ...(72) The(73) 15(74) "(75) tires(76) grip(77) well(78) and(79) handle(80) snow(81) with(82) aplomb(83) ,(84) even(85) with(86) 2wd(87) .(88) .(89) Just(90) need(91) to(92) add(93) weight(94) to(95) the(96) back(97) .(98) .(99) My(100) biggest(101) pet(102) peve(103) is(104) the(105) 15(106) Gal(107) tank(108) .(109) .(110) This(111) truck(112) get(113) 26(114) mpgs(115) ,(116) which(117) is(118) good(119) ,(120) but(121) the(122) guage(123) reads(124) empty(125) at(126) 375(127) Miles(128) ...(129) Get(130) with(131) it(132) nissan(133) ,(134) put(135) a(136) 20(137) Gal(138) tank(139) in(140) a(141) truck(142) ...(143) Yeesh(144) !(145) My(146) truck(147) is(148) white(149) and(150) i(151) liek(152) the(153) color(154) ,(155) it(156) hides(157) dirt(158) somewhat(159) .(160) .(161) The(162) dealer(163) added(164) a(165) graphic(166) kit(167) and(168) that(169) sets(170) it(171) off(172) ...(173) I(174) get(175) tons(176) of(177) complements(178) on(179) this(180) truck(181) ...(182) The(183) interior(184) is(185) nice(186) ,(187) it(188) has(189) a(190) good(191) mixture(192) of(193) plastics(194) and(195) fabrics(196) ...(197) The(198) glove(199) box(200) rattles(201) a(202) little(203) ,(204) but(205) thats(206) it(207) .(208) .(209) It(210) has(211) a(212) full(213) consoule(214) and(215) had(216) a(217) place(218) to(219) plug(220) your(221) cell(222) phone(223) in(224) the(225) center(226) consoule(227) ...(228) The(229) cd(230) player(231) works(232) well(233) ,(234) but(235) the(236) speakers(237) stink(238) .(239) .(240) The(241) heat(242) and(243) a(244) /(245) c(246) work(247) well(248) ,(249) but(250) havent(251) used(252) tha(253) a(254) /(255) c(256) much(257) yet(258) ,(259) so(260) I(261) will(262) hold(263) comment(264) until(265) I(266) test(267) it(268) fully(269) ...(270) The(271) guages(272) are(273) fairly(274) easy(275) to(276) read(277) with(278) the(279) head(280) lights(281) on(282) ,(283) but(284) not(285) with(286) them(287) off(288) ...(289) This(290) truck(291) has(292) 1(293) jump(294) seat(295) ,(296) and(297) thats(298) a(299) major(300) pain(301) for(302) who(303) ever(304) gets(305) stuck(306) back(307) there(308) ...(309) The(310) only(311) problem(312) was(313) a(314) manufactures(315) defect(316) ,(317) they(318) left(319) a(320) bolt(321) /(322) washer(323) off(324) the(325) harmonic(326) balancer(327) and(328) it(329) fell(330) off(331) ,(332) busting(333) the(334) belts(335) and(336) stranding(337) me(338) ...(339) I(340) am(341) to(342) get(343) my(344) truck(345) back(346) tommrow(347) ...(348) Nissan(349) fixed(350) the(351) problem(352) promptly(353) and(354) with(355) cortasey(356) ...(357) They(358) called(359) me(360) several(361) times(362) to(363) apologize(364) .(365) .(366) This(367) is(368) one(369) of(370) the(371) few(372) frontiers(373) thats(374) had(375) any(376) issues(377) before(378) 100K..Thats(379) a(380) good(381) sign(382) ...(383) Amount_Paid(384) ((385) US(386) $(387) )(388) :(389) 13500(390) Condition(391) :(392) NewModel_Year(393) :(394) 2003Model(395) and(396) Options(397) :(398) XE_Value_Pkg(399) ,(400) Floor_Mats(401) ,(402) Manual_Trannie(403) 
+			<opinion polarity="+" feature="heat" featWords="242" opWords="247,248"/>
+			<opinion polarity="+" feature="interior" featWords="184" opWords="186"/>
+			<opinion polarity="+" feature="ride quality" featWords="65" opWords="67"/>
+			<opinion polarity="+" feature="handling" opWords="41,42"/>
+			<opinion polarity="+" feature="horsepower" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

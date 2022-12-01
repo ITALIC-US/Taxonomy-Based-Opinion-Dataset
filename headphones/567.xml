@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="567" item="Bose TriPort Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) hope(2) I(3) can(4) still(5) return(6) them(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Attractive(1) looking(2) ,(3) small(4) and(5) lightweight(6) .(7) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+			<opinion polarity="+" feature="size" opWords="4"/>
+			<opinion polarity="+" feature="weight" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) is(3) pretty(4) good(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overpriced(1) and(2) shabby(3) construction(4) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Take(1) a(2) pass(3) friends(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) always(3) felt(4) that(5) Bose(6) equipment(7) was(8) overpriced(9) ,(10) but(11) decided(12) to(13) take(14) the(15) plunge(16) on(17) these(18) as(19) the(20) size(21) was(22) good(23) and(24) the(25) sound(26) was(27) nice(28) .(29) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+			<opinion polarity="+" feature="size" featWords="21" opWords="23"/>
+			<opinion polarity="+" feature="sound quality" featWords="26" opWords="28"/>
+		</sentence>
+		<sentence id="2">
+			One(1) month(2) later(3) and(4) they(5) have(6) come(7) apart(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) a(3) thin(4) ,(5) flat(6) metal(7) blade(8) which(9) connects(10) the(11) cups(12) to(13) the(14) band(15) that(16) goes(17) over(18) your(19) head(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) plastic(2) receptor(3) for(4) the(5) metal(6) blade(7) has(8) come(9) apart(10) on(11) both(12) sides(13) and(14) the(15) first(16) time(17) it(18) seperated(19) ((20) when(21) I(22) was(23) taking(24) them(25) off(26) )(27) ,(28) the(29) blade(30) cut(31) my(32) face(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) not(3) going(4) to(5) scar(6) or(7) anything(8) ,(9) but(10) it(11) did(12) draw(13) blood(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) NOT(3) rough(4) on(5) my(6) headsets(7) to(8) begin(9) with(10) so(11) was(12) very(13) surprised(14) when(15) the(16) left(17) side(18) also(19) came(20) apart(21) even_though(22) I(23) was(24) being(25) doubly(26) careful(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			All(1) in_all(2) ,(3) I(4) am(5) much(6) happier(7) with(8) my(9) Sennheiser_HD(10) 570(11) 's(12) 
+		</sentence>
+	</text>
+</review>

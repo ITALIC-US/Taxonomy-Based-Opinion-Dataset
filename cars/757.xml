@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="757" item="2005 Ford Escape" rating="1">
+	<title>
+		<sentence id="1">
+			Cheap_Build(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			All(1) this(2) plastic(3) for(4) Over(5) 17K(6) !(7) !(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			mentioned(1) above(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) it(4) .(5) 
+			<opinion polarity="-" feature="car" featWords="4" featRef="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) questionable(2) transmission(3) is(4) reason(5) enough(6) to(7) stay(8) away(9) .(10) 
+			<opinion polarity="-" feature="car" opWords="8,9"/>
+			<opinion polarity="-" feature="transmission" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) 2005(4) Escape_XLS(5) with(6) a(7) 4(8) cyl(9) with(10) about(11) 2000_miles(12) on(13) it(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) not(3) pleased(4) with(5) the(6) over(7) quality(8) of(9) this(10) SUV(11) .(12) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) entire(2) dash(3) is(4) plastic(5) ,(6) thin(7) plastic(8) .(9) 
+			<opinion polarity="-" feature="dash" featWords="3" opWords="7"/>
+			<opinion polarity="-" feature="dash" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) shifter(2) is(3) made(4) of(5) plastic(6) and(7) the(8) silver(9) back(10) is(11) plastic(12) and(13) it(14) 's(15) hollow(16) .(17) 
+			<opinion polarity="-" feature="shifter" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			I(1) tapped(2) on(3) it(4) and(5) it(6) sounds(7) like(8) a(9) plastic(10) easter(11) egg(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) a(3) high(4) frequency(5) buzz(6) throughout(7) the(8) steering(9) wheel(10) while(11) driving(12) at(13) parking(14) lot(15) speeds(16) and(17) a(18) whirring(19) sound(20) from(21) the(22) power(23) steering(24) pump(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			The(1) door(2) handles(3) are(4) plastic(5) and(6) are(7) known(8) to(9) break(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) hoop(2) inside(3) the(4) door(5) breaks(6) -(7) I(8) take(9) it(10) easy(11) on(12) the(13) handle(14) when(15) I(16) open(17) the(18) door(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			The(1) tailgate(2) handle(3) bends(4) when(5) I(6) squeeze(7) it(8) to(9) open(10) the(11) hatch(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			It(1) does(2) not(3) inspire(4) confidence(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			The(1) salesman(2) stripped(3) the(4) cheesey(5) plastic(6) anchors(7) that(8) hold(9) on(10) my(11) license(12) plate(13) and(14) I(15) lost(16) a(17) screw(18) -(19) Why(20) is(21) everything(22) plastic(23) ?(24) 
+		</sentence>
+		<sentence id="12">
+			The(1) transmission(2) is(3) clunky(4) .(5) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			Driving(1) the(2) vehicle(3) with(4) the(5) OverDrive(6) off(7) going(8) down(9) a(10) slight(11) grade(12) the(13) transmission(14) drops(15) hard(16) into(17) gear(18) from(19) 2nd(20) to(21) 1st(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			I(1) dont(2) drive(3) around(4) with(5) it(6) off(7) anymore(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			When(1) accelerating(2) the(3) transmission(4) hesitates(5) going(6) from(7) 1st(8) to(9) 2nd(10) and(11) it(12) feels(13) like(14) a(15) kick(16) in(17) the(18) pants(19) when(20) it(21) does(22) shift(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			The(1) torque(2) coverters(3) are(4) known(5) to(6) blow(7) on(8) the(9) trannies(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			And(1) the(2) transmissions(3) drop(4) out(5) add(6) different(7) mileages(8) ,(9) even(10) as(11) low(12) as(13) 2500_miles(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			All(1) of(2) the(3) problems(4) can(5) be(6) found(7) at(8) :(9) http://www.escape-central.com/1forum/(10) http://warnerrobert.com/cgi-bin/ubbcgi/ultimatebb.cgi?ubb=get_topic;f=16;t=000338;p=(11) The_Board(12) on(13) Edmunds(14) has(15) been(16) yanked(17) for(18) some(19) reason(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			I(1) am(2) trading(3) this(4) vehicle(5) in(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			Only(1) those(2) wearing(3) rosecolored(4) glasses(5) would(6) rave(7) about(8) this(9) vehicle(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17,444.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) XLS(16) ,(17) auto(18) 
+		</sentence>
+	</text>
+</review>

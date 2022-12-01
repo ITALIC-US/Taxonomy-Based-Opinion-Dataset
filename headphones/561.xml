@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="561" item="Bose TriPort Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) pair(2) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) bass(2) ,(3) lightweight(4) ,(5) good(6) sound(7) qulity(8) all(9) around(10) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="7,8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mid(1) high(2) sounds(3) bad(4) without(5) EQ(6) 
+			<opinion polarity="-" feature="mids" featWords="1" opWords="3,4"/>
+			<opinion polarity="-" feature="highs" featWords="2" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			These(1) phone(2) 's(3) are(4) a(5) great(6) addition(7) to(8) anybodys(9) portable(10) music(11) player(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recenetly(2) picked(3) up(4) a(5) pair(6) of(7) the(8) Bose_Tri(9) port(10) 's(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) to(3) say(4) ,(5) they(6) are(7) probably(8) the(9) best(10) headphones(11) I(12) have(13) ever(14) used(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			I(1) also(2) have(3) pair(4) of(5) quietcomfert(6) 2(7) 's(8) ,(9) and(10) I(11) think(12) this(13) has(14) better(15) sound(16) quility(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) Quietcomfert(2) 's(3) have(4) better(5) bass(6) ,(7) but(8) the(9) triports(10) seem(11) to(12) have(13) more(14) around(15) more(16) clarity(17) ,(18) comparing(19) the(20) tri(21) 's(22) to(23) the(24) quietcomferts(25) ,(26) the(27) quiet(28) seems(29) muddy(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) bass(2) on(3) these(4) headphones(5) is(6) very(7) good(8) ,(9) it(10) cant(11) match(12) the(13) noise(14) cancling(15) headphones(16) .(17) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="6">
+			But(1) if(2) really(3) crank(4) these(5) things(6) up(7) ,(8) they(9) will(10) give(11) you(12) some(13) thrumping(14) bass(15) .(16) 
+			<opinion polarity="+" feature="bass" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="7">
+			One(1) of(2) the(3) things(4) that(5) I(6) love(7) about(8) this(9) pair(10) of(11) headphones(12) is(13) that(14) they(15) have(16) a(17) very(18) wide(19) range(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			When(1) you(2) put(3) these(4) on(5) ,(6) you(7) really(8) feel(9) like(10) the(11) bass(12) is(13) coming(14) under(15) you(16) ,(17) and(18) the(19) treble(20) is(21) coming(22) right(23) on(24) top(25) of(26) you(27) ,(28) it(29) sounds(30) weird(31) ,(32) but(33) in(34) practice(35) it(36) is(37) very(38) natural(39) .(40) 
+			<opinion polarity="+" feature="sound quality" opWords="30,31"/>
+		</sentence>
+		<sentence id="9">
+			When(1) you(2) get(3) these(4) and(5) listen(6) to(7) another(8) pair(9) of(10) single(11) driver(12) phones(13) '(14) ,(15) it(16) will(17) sound(18) very(19) narrow(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			The(1) main(2) con(3) of(4) these(5) heaphones(6) is(7) the(8) frequincy(9) responce(10) of(11) the(12) middle(13) of(14) the(15) mid-treble(16) range(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Jazz(1) songs(2) will(3) sometimes(4) sound(5) much(6) different(7) on(8) these(9) headphones(10) with(11) no(12) custom(13) EQ(14) ((15) iPod(16) )(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			But(1) if(2) your(3) player(4) has(5) a(6) custom(7) EQ(8) ,(9) you(10) can(11) rally(12) expliot(13) the(14) sound(15) qulity(16) of(17) these(18) things(19) .(20) 
+		</sentence>
+	</text>
+</review>

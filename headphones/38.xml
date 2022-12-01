@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="38" item="Sennheiser HD 485 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Very_Good_Looking(1) ,(2) But_Awful_Sound_Quality(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) Sennheiser_Name(3) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) Thick_And_Warm_Sounding(2) ,(3) Expensive(4) ,(5) Poor_Value(6) 
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Sennheiser(1) is(2) a(3) quality(4) company(5) that(6) makes(7) solid(8) headphones(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			But(1) unfortunately(2) ,(3) they(4) have(5) one(6) really(7) bad(8) line(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) HD(2) 4(3) ...(4) line(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			This(1) review(2) would(3) also(4) include(5) the(6) HD410(7) ,(8) 435(9) ,(10) 465(11) ,(12) and(13) this(14) one(15) ,(16) the(17) 485(18) ,(19) as(20) all(21) have(22) similar(23) poor(24) sound(25) quality(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			The(1) bass(2) is(3) very(4) good(5) ,(6) but(7) overwhemling(8) ,(9) and(10) ridiculously(11) warm(12) .(13) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="-" feature="bass" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			And(1) these(2) specific(3) ones(4) sound(5) much(6) too(7) bright(8) ,(9) and(10) mixed(11) in(12) with(13) the(14) overpowered(15) bass(16) ,(17) makes(18) these(19) sound(20) much(21) too(22) thick(23) sounding(24) .(25) 
+			<opinion polarity="-" feature="sound quality" opWords="5,7,8" potency="6"/>
+		</sentence>
+		<sentence id="7">
+			Very(1) disappointing(2) sound(3) quality(4) .(5) 
+			<opinion polarity="-" feature="sound quality" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="8">
+			These(1) are(2) very(3) comfortable(4) ,(5) and(6) have(7) the(8) Sennheiser(9) name(10) and(11) the(12) two(13) year(14) warranty(15) ,(16) but(17) sound(18) quality(19) is(20) poor(21) and(22) these(23) are(24) not(25) a(26) good(27) value(28) at(29) all(30) to(31) me(32) .(33) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			I(1) 'd(2) prefer(3) the(4) Beyerdynamic(5) DT231(6) or(7) Grado(8) SR80(9) at(10) this(11) pricepoint(12) .(13) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="573" item="Sahara Hotel & Casino" rating="3">
+	<title>
+		<sentence id="1">
+			Older(1) but(2) still(3) decent(4) 
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Less(1) than(2) $40.00(3) ,(4) Great(5) connection(6) to(7) the(8) monorail(9) ,(10) polite(11) and(12) cooperative(13) staff(14) ,(15) good(16) parking(17) 
+			<opinion polarity="+" feature="staff" featWords="14" opWords="11"/>
+			<opinion polarity="+" feature="staff" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="parking" featWords="17" opWords="16"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dated(1) ,(2) Could(3) use(4) a(5) good(6) cleaning(7) throughout(8) ,(9) saggy(10) beds(11) ,(12) dirty(13) windows(14) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+			<opinion polarity="-" feature="bed" featWords="11" opWords="10"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) if(2) you(3) do(4) not(5) demand(6) perfection(7) and(8) are(9) not(10) a(11) neat(12) freak(13) !(14) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			During(1) July_2006(2) a(3) friend(4) and(5) I(6) spent(7) four(8) nights(9) at(10) the(11) Sahara(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) were(2) a_bit(3) concerned(4) from(5) having(6) read(7) other(8) reviews(9) on(10) here(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			But(1) for(2) $38.00(3) we(4) thought(5) we(6) 'd(7) give(8) it(9) a(10) try(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			We(1) requested(2) and(3) even(4) called(5) ahead(6) to(7) ensure(8) a(9) room(10) in(11) the(12) Tangiers(13) tower(14) so_that(15) we(16) could(17) control(18) our(19) own(20) room(21) temperature(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) assured(3) over(4) the(5) phone(6) that(7) that(8) we(9) would(10) be(11) in(12) the(13) Tangiers(14) tower(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Upon(1) check(2) in(3) we(4) were(5) assigned(6) a(7) room(8) in(9) the(10) Alexandria_Tower(11) ,(12) but(13) when(14) we(15) spoke(16) up(17) ,(18) the(19) room(20) was(21) immediately(22) and(23) politely(24) changed(25) to(26) a(27) 9th(28) floor(29) room(30) in(31) the(32) Tangiers(33) tower(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			All(1) in_all(2) ,(3) the(4) room(5) was(6) decent(7) ,(8) although(9) there(10) were(11) finger(12) and(13) hand(14) prints(15) all(16) over(17) the(18) window(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			Other(1) than(2) that(3) ,(4) a(5) couple(6) of(7) minor(8) stains(9) were(10) visable(11) on(12) the(13) carpet(14) and(15) some(16) bathroom(17) tiles(18) had(19) chips(20) in(21) them(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			One(1) of(2) the(3) beds(4) seemed(5) to(6) have(7) a(8) large(9) saggy(10) spot(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			The(1) television(2) is(3) small(4) ,(5) but(6) then(7) ,(8) hopefully(9) you(10) did(11) not(12) come(13) to(14) Las_Vegas(15) to(16) sit(17) in(18) your(19) hotel(20) room(21) and(22) watch(23) television(24) .(25) 
+			<opinion polarity="-" feature="tv" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) pool(2) and(3) other(4) ammenities(5) were(6) fine(7) .(8) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			We(1) ate(2) at(3) the(4) buffet(5) once(6) and(7) enjoyed(8) the(9) savory(10) pork(11) chops(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) monorail(2) is(3) very(4) convienent(5) and(6) close(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			We(1) had(2) no(3) problem(4) with(5) a(6) wait(7) at(8) check(9) in(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			We(1) arrived(2) around(3) 9pm(4) ,(5) but(6) did(7) see(8) ridiculously(9) long(10) lines(11) in(12) the(13) early(14) evening(15) hours(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) if(4) you(5) are(6) a(7) neat(8) freak(9) or(10) have(11) some(12) type(13) of(14) OCD(15) disorder(16) when(17) it(18) comes(19) to(20) germs(21) ,(22) I(23) would(24) not(25) recommend(26) the(27) Sahara(28) ,(29) if(30) however(31) ,(32) you(33) want(34) to(35) stay(36) on(37) the(38) strip(39) with(40) a(41) connection(42) to(43) all(44) other(45) major(46) strip(47) locations(48) via(49) the(50) monorail(51) for(52) less(53) than(54) $40.00(55) and(56) do(57) not(58) demand(59) absolute(60) perfection(61) ,(62) then(63) the(64) Sahara(65) may(66) be(67) just(68) your(69) place(70) !(71) 
+			<opinion polarity="-" feature="hotel" opWords="25,26"/>
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) are(3) staying(4) for(5) more(6) than(7) 3(8) days(9) ,(10) it(11) is(12) probably(13) worth(14) buying(15) the(16) $40.00(17) 3(18) day(19) pass(20) for(21) the(22) monorail(23) ,(24) as(25) this(26) property(27) is(28) at(29) the(30) far(31) northern(32) end(33) of(34) the(35) strip(36) .(37) 
+		</sentence>
+		<sentence id="18">
+			It(1) could(2) get(3) expensive(4) at(5) $5.00(6) per(7) individual(8) ride(9) and(10) would(11) somewhat(12) limit(13) where(14) and(15) when(16) you(17) would(18) decide(19) to(20) get(21) off(22) .(23) 
+		</sentence>
+	</text>
+</review>

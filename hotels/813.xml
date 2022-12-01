@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="813" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			Fiesta_Americana_Coral_Beach_Cancun(1) --(2) THIS(3) is(4) what(5) your(6) honeymoon(7) is(8) all(9) about(10) !(11) !(12) !(13) !(14) !(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Amazing(1) rooms(2) ,(3) spectacular(4) views(5) ,(6) beautiful(7) beaches(8) ,(9) A(10) +(11) Customer(12) service(13) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="view" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="beach" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			For(1) some(2) it(3) 's(4) a_bit(5) pricey(6) 
+			<opinion polarity="-" feature="price" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Spectacular(1) views(2) ,(3) pristine(4) beaches(5) ,(6) top(7) notch(8) customer(9) service(10) and(11) excellent(12) restaurants(13) all(14) make(15) the(16) Coral_Beach(17) the(18) place(19) for(20) honeymooners(21) !(22) !(23) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="beach" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="10" opWords="7,8"/>
+			<opinion polarity="+" feature="food" featWords="13" opWords="12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			While(1) planning(2) my(3) wedding(4) ,(5) I(6) was(7) looking(8) in(9) the(10) back(11) of(12) the(13) wedding(14) magazines(15) for(16) honeymoon(17) packages(18) ((19) the(20) BEST(21) place(22) to(23) find(24) that(25) stuff(26) ,(27) by(28) the(29) way(30) )(31) .(32) .(33) and(34) I(35) came(36) across(37) a(38) full(39) page(40) ad(41) for(42) the(43) Fiesta_Americana_Grand_Coral_Beach(44) .(45) 
+			<opinion polarity="+" feature="place" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="2">
+			The(1) picture(2) they(3) had(4) was(5) beautiful(6) ,(7) and(8) it(9) included(10) all(11) sorts(12) of(13) nice(14) extras(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) ,(3) however(4) ,(5) a(6) little(7) pricey(8) .(9) 
+			<opinion polarity="-" feature="price" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="4">
+			The(1) resort(2) is(3) not(4) all-inclusive(5) ((6) like(7) some(8) other(9) hotels(10) in(11) the(12) area(13) )(14) ,(15) and(16) it(17) cost(18) around(19) $4500(20) total(21) included(22) airfare(23) for(24) two(25) people(26) .(27) 
+			<opinion polarity="-" feature="hotel" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			But(1) ,(2) we(3) said(4) ,(5) it(6) 's(7) our(8) honeymoon(9) .(10) .(11) let(12) 's(13) travel(14) in(15) STYLE(16) ,(17) baby(18) !(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) searched(2) around(3) on(4) the(5) internet(6) for(7) some(8) information(9) about(10) the(11) hotel(12) and(13) I(14) found(15) out(16) they(17) are(18) the(19) only(20) AAA(21) 5(22) Diamond(23) rated(24) hotel(25) in(26) Cancun(27) ((28) actually(29) ,(30) I(31) think(32) in(33) Mexico(34) )(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			They(1) have(2) six(3) different(4) restaurants(5) and(6) bars(7) scattered(8) throughout(9) their(10) hotel(11) ((12) one(13) is(14) a(15) five-star(16) Mexican(17) restaurant(18) )(19) ,(20) an(21) award(22) winning(23) spa(24) ,(25) and(26) so(27) much(28) more(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			Ok(1) ,(2) this(3) is(4) going(5) to(6) be(7) LONG(8) .(9) .(10) because(11) there(12) is(13) SO(14) much(15) to(16) talk(17) about(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Basic_Hotel_Information_There(1) are(2) 602(3) rooms(4) on(5) 11(6) floors(7) .(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			The(1) check(2) in(3) time(4) is(5) 3(6) and(7) the(8) check(9) out(10) time(11) is(12) 1(13) pm(14) ((15) which(16) is(17) pretty(18) generous(19) )(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			They(1) do(2) have(3) express(4) check(5) out(6) service(7) ,(8) and(9) no(10) pets(11) are(12) allowed(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			They(1) also(2) offer(3) just(4) about(5) any(6) service(7) you(8) can(9) imagine(10) :(11) 24-Hour(12) Front_Desk(13) ,(14) 24-Hour(15) Room_Service(16) ,(17) Airport_Transfers(18) ,(19) Baggage_Hold(20) ,(21) Banquet_Service(22) ,(23) Concierge(24) ,(25) Doctor_On_Call(26) /(27) Medical_Services(28) ,(29) Dry_Cleaning(30) /(31) Laundry(32) same(33) day(34) ,(35) Dry_Cleaning(36) /(37) Laundry(38) weekends(39) ,(40) Executive(41) /(42) VIP_Services_Express(43) check(44) in(45) ,(46) Express(47) check(48) out(49) ,(50) Free_Newspaper_Front_Desk_Ice(51) /(52) Vending_Machines(53) ,(54) Ironing_Service(55) ,(56) Laundry(57) /(58) Valet(59) ,(60) Limited_Room_Service(61) ,(62) Loyalty_Program_Mail_Services(63) ,(64) Money_Exchange_Facilities(65) ,(66) Multilingual_Staff_Porter(67) /(68) Bellmen(69) ,(70) Room_Service(71) ,(72) Safe_Deposit_Box(73) at(74) Front_Desk_Shoe_Shine(75) ,(76) Valet_Parking(77) ,(78) Valet_Service(79) ,(80) Wake-Up_Calls_Whew(81) .(82) .(83) 
+		</sentence>
+		<sentence id="13">
+			And(1) that(2) 's(3) not(4) even(5) the(6) tip(7) of(8) the(9) iceberg(10) !(11) 
+		</sentence>
+		<sentence id="14">
+			They(1) even(2) have(3) a(4) little(5) mini-mall(6) inside(7) to(8) shop(9) for(10) everything(11) from(12) fine(13) art(14) to(15) cheap(16) cigarettes(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			We(1) stayed(2) in(3) the(4) Master_Suite_Kind(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) 79(3) of(4) these(5) rooms(6) in(7) the(8) Fiesta_Americana(9) ((10) no(11) ,(12) I(13) 'm(14) not(15) going(16) to(17) talk(18) about(19) all(20) the(21) other(22) different(23) kinds(24) of(25) rooms(26) )(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			Let(1) me(2) try(3) and(4) describe(5) it(6) for(7) you(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			It(1) 's(2) 860(3) sq(4) ft(5) --(6) that(7) 's(8) the(9) size(10) of(11) a(12) one(13) bedroom(14) apartment(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			It(1) 's(2) got(3) a(4) huge(5) private(6) terrace(7) with(8) spectacular(9) views(10) of(11) the(12) Gulf(13) and(14) the(15) pool(16) .(17) 
+			<opinion polarity="+" feature="view" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="20">
+			The(1) water(2) ,(3) I(4) have(5) never(6) seen(7) water(8) so(9) beautiful(10) .(11) .(12) all(13) the(14) different(15) shades(16) of(17) blue(18) .(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			People(1) talk(2) about(3) Florida(4) .(5) .(6) and(7) I(8) 'm(9) telling(10) you(11) ,(12) Florida(13) ((14) from(15) the(16) Keys(17) up(18) to(19) Pensacola(20) or(21) Jacksonville(22) )(23) looks(24) like(25) dirty(26) bath(27) water(28) compared(29) to(30) Cancun(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			It(1) has(2) a(3) huge(4) jacuzzi(5) tub(6) and(7) a(8) big(9) walk(10) in(11) shower(12) ((13) built(14) for(15) two(16) )(17) --(18) the(19) bathroom(20) itself(21) is(22) as(23) large(24) as(25) most(26) people(27) 's(28) bedroom(29) .(30) 
+			<opinion polarity="+" feature="jacuzzi" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			The(1) bed(2) was(3) nice(4) and(5) soft(6) ,(7) and(8) it(9) even(10) had(11) a(12) spacious(13) sunken(14) living(15) room(16) .(17) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bed" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="16" opWords="13"/>
+		</sentence>
+		<sentence id="24">
+			Ok(1) ,(2) enough(3) about(4) the(5) hotel(6) 's(7) boring(8) specifics(9) .(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			Let(1) 's(2) talk(3) about(4) how(5) the(6) Fiesta_Americana(7) is(8) number(9) one(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			Arrival_We(1) arrived(2) at(3) Cancun(4) 's(5) airport(6) and(7) ventured(8) through(9) customs(10) by(11) about(12) 2(13) pm.(14) The(15) package(16) we(17) received(18) included(19) complementary(20) transfers(21) to(22) and(23) from(24) the(25) hotel(26) ,(27) and(28) we(29) were(30) greeted(31) with(32) a(33) man(34) holding(35) our(36) sign(37) .(38) 
+		</sentence>
+		<sentence id="27">
+			He(1) was(2) polite(3) and(4) spoke(5) English(6) decently(7) well(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			He(1) also(2) had(3) some(4) chocolate(5) covered(6) strawberries(7) and(8) champagne(9) for(10) the(11) ride(12) back(13) to(14) the(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			I(1) 'll(2) state(3) this(4) right(5) now(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			I(1) love(2) Mexico(3) .(4) 
+		</sentence>
+		<sentence id="31">
+			I(1) love(2) the(3) people(4) .(5) 
+		</sentence>
+		<sentence id="32">
+			I(1) love(2) the(3) scenery(4) .(5) 
+		</sentence>
+		<sentence id="33">
+			I(1) love(2) everything(3) about(4) Mexico(5) .(6) 
+		</sentence>
+		<sentence id="34">
+			He(1) engaged(2) us(3) in(4) a(5) little(6) conversation(7) ,(8) but(9) mostly(10) left(11) us(12) along(13) for(14) the(15) trip(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			We(1) arrived(2) at(3) the(4) hotel(5) and(6) were(7) blown(8) away(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			This(1) hotel(2) is(3) gorgeous(4) on(5) the(6) outside(7) !(8) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="37">
+			Huge(1) frescos(2) adorn(3) the(4) exterior(5) walls(6) ,(7) and(8) the(9) hotel(10) just(11) shines(12) .(13) 
+		</sentence>
+		<sentence id="38">
+			At(1) any(2) point(3) in(4) time(5) ,(6) day(7) or(8) night(9) ,(10) there(11) were(12) always(13) a(14) slew(15) of(16) bellhops(17) and(18) doormen(19) to(20) greet(21) us(22) .(23) 
+		</sentence>
+		<sentence id="39">
+			One(1) took(2) our(3) bags(4) and(5) room(6) number(7) and(8) lugged(9) them(10) up(11) while(12) we(13) checked(14) in(15) .(16) 
+		</sentence>
+		<sentence id="40">
+			Let(1) me(2) tell(3) you(4) that(5) these(6) people(7) are(8) the(9) nicest(10) customer(11) service(12) representatives(13) I(14) have(15) ever(16) found(17) .(18) 
+			<opinion polarity="+" feature="service" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="41">
+			They(1) all(2) spoke(3) English(4) ((5) which(6) is(7) nice(8) since(9) my(10) Spanish(11) is(12) horrid(13) )(14) ,(15) and(16) they(17) were(18) all(19) polite(20) as(21) anything(22) .(23) 
+		</sentence>
+		<sentence id="42">
+			Check(1) in(2) was(3) painless(4) and(5) quick(6) ,(7) we(8) gave(9) a(10) credit(11) card(12) for(13) any(14) incidentals(15) and(16) were(17) up(18) to(19) our(20) room(21) ((22) it(23) was(24) on(25) the(26) 8th(27) floor(28) I(29) believe(30) )(31) .(32) 
+		</sentence>
+		<sentence id="43">
+			If(1) you(2) think(3) the(4) outside(5) is(6) impressive(7) ,(8) wait(9) till(10) you(11) see(12) the(13) inside(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			Marble(1) floors(2) ,(3) a(4) huge(5) stained(6) glass(7) ceiling(8) ,(9) a(10) water(11) fountain(12) ,(13) carved(14) statues(15) .(16) .(17) 
+		</sentence>
+		<sentence id="45">
+			Amazing(1) .(2) 
+		</sentence>
+		<sentence id="46">
+			That(1) was(2) our(3) first(4) opinion(5) of(6) the(7) room(8) as_well(9) .(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Amazing(1) .(2) .(3) 
+		</sentence>
+		<sentence id="48">
+			Food_We(1) had(2) not(3) eaten(4) that(5) much(6) ,(7) so(8) we(9) decided(10) to(11) go(12) downstairs(13) and(14) have(15) a(16) light(17) lunch(18) at(19) one(20) of(21) the(22) little(23) restaurants(24) inside(25) .(26) 
+			<opinion polarity="-" feature="food" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="49">
+			It(1) 's(2) nice(3) ,(4) because(5) you(6) can(7) just(8) charge(9) it(10) to(11) the(12) room(13) .(14) 
+		</sentence>
+		<sentence id="50">
+			I(1) learned(2) my(3) first(4) big(5) lesson(6) in(7) Cancun(8) .(9) 
+		</sentence>
+		<sentence id="51">
+			Never(1) order(2) Coke(3) .(4) 
+		</sentence>
+		<sentence id="52">
+			Why(1) ?(2) 
+		</sentence>
+		<sentence id="53">
+			Because(1) Cokes(2) ,(3) everywhere(4) you(5) go(6) ,(7) are(8) around(9) $(10) 3(11) .(12) 
+		</sentence>
+		<sentence id="54">
+			FOR(1) COKE(2) !(3) 
+		</sentence>
+		<sentence id="55">
+			We(1) ordered(2) two(3) Cokes(4) a(5) piece(6) ,(7) and(8) that(9) was(10) $12(11) .(12) .(13) 
+		</sentence>
+		<sentence id="56">
+			I(1) almost(2) had(3) heart(4) failure(5) .(6) 
+		</sentence>
+		<sentence id="57">
+			But(1) the(2) food(3) was(4) good(5) ,(6) and(7) we(8) had(9) an(10) enjoyable(11) little(12) time(13) .(14) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="58">
+			Beach(1) and(2) Pool_Their(3) pool(4) is(5) impressive(6) .(7) 
+			<opinion polarity="+" feature="swimming pool" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="59">
+			It(1) is(2) the(3) length(4) of(5) the(6) entire(7) hotel(8) ,(9) and(10) has(11) two(12) or(13) three(14) bars(15) that(16) you(17) can(18) swim(19) up(20) to(21) and(22) order(23) drinks(24) .(25) 
+		</sentence>
+		<sentence id="60">
+			They(1) also(2) have(3) a(4) private(5) beach(6) with(7) the(8) whitest(9) sand(10) you(11) 'll(12) ever(13) see(14) .(15) 
+		</sentence>
+		<sentence id="61">
+			Maid(1) and(2) Room_Service_After(3) fooling(4) around(5) for(6) a(7) while(8) ,(9) we(10) arrived(11) back(12) to(13) our(14) room(15) .(16) 
+		</sentence>
+		<sentence id="62">
+			They(1) had(2) actually(3) set(4) out(5) chocolate(6) covered(7) strawberries(8) and(9) champagne(10) for(11) us(12) .(13) .(14) plus(15) they(16) littered(17) the(18) bed(19) with(20) rose(21) petals(22) .(23) .(24) and(25) had(26) drawn(27) a(28) bubble(29) bath(30) ((31) also(32) littered(33) with(34) rose(35) petals(36) )(37) .(38) .(39) 
+		</sentence>
+		<sentence id="63">
+			These(1) people(2) KNOW(3) how(4) to(5) treat(6) honeymooners(7) .(8) 
+		</sentence>
+		<sentence id="64">
+			The(1) maid(2) service(3) comes(4) twice(5) daily(6) ,(7) the(8) morning(9) for(10) the(11) usual(12) cleaning(13) and(14) in(15) the(16) evening(17) for(18) a(19) turn(20) down(21) service(22) where(23) they(24) leave(25) a(26) chocolate(27) on(28) your(29) pillow(30) .(31) 
+		</sentence>
+		<sentence id="65">
+			The(1) room(2) service(3) is(4) available(5) 24(6) hours(7) ,(8) and(9) the(10) food(11) is(12) excellent(13) .(14) 
+			<opinion polarity="+" feature="food" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="66">
+			Always(1) comes(2) piping(3) hot(4) and(5) fresh(6) .(7) 
+		</sentence>
+		<sentence id="67">
+			More(1) food(2) Our(3) package(4) included(5) the(6) free(7) breakfast(8) .(9) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="68">
+			Now(1) for(2) most(3) hotels(4) ,(5) the(6) free(7) breakfast(8) is(9) crappy(10) .(11) .(12) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="food" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="69">
+			Not(1) here(2) .(3) 
+		</sentence>
+		<sentence id="70">
+			If(1) you(2) do(3) not(4) have(5) the(6) free(7) passes(8) ,(9) the(10) buffett(11) is(12) $20/person(13) .(14) .(15) 
+		</sentence>
+		<sentence id="71">
+			But(1) I(2) will(3) tell(4) you(5) IT(6) '(7) S_WORTH_IT(8) !(9) !(10) !(11) !(12) !(13) !(14) 
+		</sentence>
+		<sentence id="72">
+			The(1) coffee(2) is(3) the(4) best(5) coffee(6) ever(7) made(8) --(9) Starbucks(10) has(11) nothing(12) on(13) this(14) hotels(15) good(16) ,(17) Mexican(18) coffee(19) .(20) 
+		</sentence>
+		<sentence id="73">
+			They(1) have(2) everything(3) from(4) champagne(5) to(6) smoked(7) salmon(8) to(9) true(10) ,(11) authentic(12) Mexican(13) breakfast(14) dishes(15) .(16) 
+		</sentence>
+		<sentence id="74">
+			It(1) 's(2) luxurious(3) .(4) 
+		</sentence>
+		<sentence id="75">
+			The(1) fruit(2) is(3) amazingly(4) fresh(5) ,(6) and(7) everything(8) is(9) delicious(10) .(11) 
+			<opinion polarity="+" feature="food" opWords="10"/>
+		</sentence>
+		<sentence id="76">
+			It(1) is(2) at(3) Vina_Del_Mar(4) .(5) 
+		</sentence>
+		<sentence id="77">
+			The(1) decor(2) is(3) very(4) pretty(5) ,(6) and(7) the(8) waiters(9) are(10) absolute(11) dolls(12) .(13) 
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="78">
+			We(1) actually(2) were(3) on(4) a(5) first(6) name(7) basis(8) with(9) one(10) .(11) 
+		</sentence>
+		<sentence id="79">
+			We(1) also(2) ate(3) at(4) La_Joya(5) ((6) 5(7) star(8) )(9) ,(10) and(11) both(12) the(13) decor(14) and(15) the(16) food(17) were(18) excellent(19) .(20) 
+			<opinion polarity="+" feature="food" featWords="17" opWords="19"/>
+			<opinion polarity="+" feature="decoration" featWords="14" opWords="19"/>
+		</sentence>
+		<sentence id="80">
+			Other(1) ways(2) they(3) help(4) you(5) out(6) They(7) have(8) a(9) money(10) exchange(11) service(12) that(13) gave(14) the(15) best(16) conversion(17) rates(18) .(19) 
+		</sentence>
+		<sentence id="81">
+			They(1) also(2) have(3) a(4) travel(5) service(6) inside(7) where(8) you(9) can(10) book(11) all(12) the(13) stuff(14) you(15) want(16) to(17) do(18) like(19) going(20) to(21) Isla_Mujeres(22) ,(23) Chichen_Itza(24) or(25) XCaret(26) .(27) 
+		</sentence>
+		<sentence id="82">
+			They(1) are(2) a(3) little(4) on(5) the(6) expensive(7) side(8) ,(9) but(10) at_least(11) you(12) know(13) you(14) are(15) getting(16) a(17) reputable(18) dealer(19) ((20) not(21) those(22) guys(23) standing(24) on(25) the(26) side(27) of(28) the(29) road(30) )(31) .(32) 
+		</sentence>
+		<sentence id="83">
+			There(1) are(2) always(3) taxis(4) waiting(5) to(6) drive(7) you(8) places(9) .(10) 
+		</sentence>
+		<sentence id="84">
+			Piece(1) of(2) advice(3) .(4) 
+		</sentence>
+		<sentence id="85">
+			The(1) busses(2) are(3) unreliable(4) ,(5) cramped(6) and(7) smelly(8) ,(9) but(10) they(11) are(12) cheap(13) .(14) 
+		</sentence>
+		<sentence id="86">
+			The(1) taxis(2) are(3) 100_%(4) better(5) ,(6) but(7) they(8) are(9) expensive(10) .(11) 
+		</sentence>
+		<sentence id="87">
+			ONE(1) THING(2) :(3) make(4) sure(5) you(6) set(7) the(8) fare(9) BEFORE(10) you(11) get(12) into(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="88">
+			They(1) will(2) do(3) everything(4) to(5) scam(6) you(7) ,(8) so(9) set(10) the(11) fare(12) ((13) around(14) 70_pesos(15) is(16) reasonable(17) to(18) go(19) from(20) one(21) end(22) of(23) the(24) hotel(25) district(26) to(27) the(28) other(29) )(30) THEN(31) get(32) into(33) the(34) car(35) .(36) 
+		</sentence>
+		<sentence id="89">
+			I(1) also(2) would(3) not(4) rent(5) a(6) car(7) .(8) 
+		</sentence>
+		<sentence id="90">
+			They(1) drive(2) like(3) maniacs(4) .(5) 
+		</sentence>
+		<sentence id="91">
+			Seriously(1) .(2) 
+		</sentence>
+		<sentence id="92">
+			Red(1) lights(2) ,(3) speed(4) limits(5) ,(6) yield(7) signs(8) ,(9) stop(10) signs(11) .(12) .(13) 
+		</sentence>
+		<sentence id="93">
+			ALL(1) OPTIONAL(2) !(3) 
+		</sentence>
+		<sentence id="94">
+			Plus(1) ,(2) I(3) would(4) not(5) go(6) driving(7) outside_of(8) Cancun(9) in(10) a(11) rental(12) .(13) 
+		</sentence>
+		<sentence id="95">
+			There(1) are(2) very(3) few(4) gas(5) stations(6) and(7) the(8) police(9) love(10) to(11) pull(12) people(13) over(14) for(15) doing(16) nothing(17) wrong(18) .(19) 
+		</sentence>
+		<sentence id="96">
+			Plus(1) there(2) are(3) huge(4) iguanas(5) that(6) like(7) to(8) lie(9) in(10) the(11) road(12) ,(13) along_with(14) the(15) actual(16) speed(17) bumps(18) that(19) are(20) on(21) the(22) "(23) highways(24) .(25) "(26) But(27) if(28) you(29) are(30) set(31) on(32) renting(33) a(34) car(35) ,(36) there(37) is(38) a(39) car(40) rental(41) place(42) downstairs(43) .(44) 
+		</sentence>
+		<sentence id="97">
+			We(1) got(2) massages(3) at(4) the(5) spa(6) ,(7) and(8) those(9) ladies(10) were(11) remarkable(12) .(13) 
+		</sentence>
+		<sentence id="98">
+			Closing_These(1) people(2) truly(3) know(4) what(5) the(6) meaning(7) of(8) customer(9) service(10) is(11) .(12) 
+		</sentence>
+		<sentence id="99">
+			We(1) stayed(2) there(3) for(4) seven(5) days(6) ,(7) and(8) we(9) know(10) that(11) 's(12) where(13) we(14) want(15) to(16) return(17) .(18) 
+		</sentence>
+		<sentence id="100">
+			Everyone(1) was(2) so(3) polite(4) and(5) kind(6) .(7) .(8) 
+		</sentence>
+		<sentence id="101">
+			Oh(1) ,(2) another(3) note(4) .(5) 
+		</sentence>
+		<sentence id="102">
+			It(1) 's(2) customary(3) to(4) tip(5) EVERYONE(6) there(7) .(8) 
+		</sentence>
+		<sentence id="103">
+			If(1) a(2) bellhop(3) carries(4) your(5) bags(6) ,(7) tip(8) him(9) .(10) 
+		</sentence>
+		<sentence id="104">
+			The(1) maids(2) ,(3) tip(4) them(5) .(6) 
+		</sentence>
+		<sentence id="105">
+			When(1) in(2) doubt(3) ,(4) TIP_THEM(5) .(6) 
+		</sentence>
+		<sentence id="106">
+			They(1) were(2) helpful(3) in(4) setting(5) up(6) all(7) our(8) activities(9) from(10) snorkeling(11) in(12) the(13) reefs(14) to(15) traveling(16) out(17) to(18) Chichen_Itza(19) .(20) 
+		</sentence>
+		<sentence id="107">
+			This(1) hotel(2) deserves(3) it(4) 's(5) 5(6) diamond(7) rating(8) .(9) 
+		</sentence>
+		<sentence id="108">
+			I(1) would(2) definitely(3) recommend(4) it(5) !(6) !(7) !(8) !(9) 
+			<opinion polarity="+" feature="hotel" featWords="5" featRef="hotel" opWords="4" potency="3"/>
+		</sentence>
+	</text>
+</review>

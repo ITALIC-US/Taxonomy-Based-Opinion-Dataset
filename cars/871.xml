@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="871" item="2001 Mercedes-Benz S-Class" rating="1">
+	<title>
+		<sentence id="1">
+			Braking(1) problems(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Looking_Car(1) ,(2) Fun(3) When(4) it(5) Works(6) !(7) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) brakes(2) jammed(3) on(4) my(5) car(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Twice(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good_Car(1) -(2) Lots_of_Fun(3) until(4) ...(5) -(6) Braking(7) Problems_Spoiled(8) it(9) for(10) me(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Scary(1) .(2) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) writing(3) to(4) make(5) a(6) serious(7) complaint(8) about(9) Mercedes(10) service(11) and(12) build(13) quality(14) .(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			In(1) my(2) opinion(3) Mercedes_Benz_Authorised(4) service(5) agents(6) have(7) endangered(8) my(9) life(10) through(11) negligent(12) service(13) and(14) what(15) is(16) more(17) I(18) am(19) worried(20) that(21) there(22) could(23) potentially(24) be(25) a(26) serious(27) model(28) wide(29) fault(30) that(31) needs(32) to(33) be(34) rectified(35) immediately(36) before(37) someone(38) loses(39) their(40) life(41) .(42) 
+		</sentence>
+		<sentence id="3">
+			A(1) few(2) months(3) ago(4) ((5) 6TH_march_2003(6) )(7) I(8) bought(9) a(10) Mercedes_CLK(11) 430(12) Cabriolet(13) ((14) Avant_Garde(15) )(16) from(17) Fischer(18) ,(19) an(20) independent(21) Mercedes(22) specialist(23) in(24) Marbella(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) was(3) just(4) over(5) 1(6) year(7) old(8) and(9) as(10) such(11) is(12) covered(13) ,(14) ((15) I(16) was(17) informed(18) by(19) the(20) dealer(21) ,(22) Fischer(23) )(24) by(25) a(26) Mercedes_Guarantee(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			In_addition(1) Fischer(2) promised(3) me(4) a(5) 1(6) year(7) in-house(8) dealer(9) s(10) guarantee(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) cost(3) me(4) approximately(5) 55,000(6) euros(7) ((8) about(9) $55,000_US_dollars(10) .(11) )(12) All(13) was(14) going(15) well(16) until(17) Friday_16th_May_2003(18) when(19) I(20) was(21) driving(22) through(23) a(24) small(25) town(26) called(27) San_Pedro(28) de(29) Alcantara(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			Firstly(1) I(2) felt(3) the(4) car(5) becoming(6) sluggish(7) and(8) losing(9) power(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			Within(1) seconds(2) though(3) ,(4) as(5) I(6) attempted(7) to(8) find(9) a(10) parking(11) space(12) to(13) stop(14) in(15) ,(16) the(17) brakes(18) slammed(19) on(20) independently(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			It(1) felt(2) as_if(3) someone(4) has(5) slammed(6) on(7) the(8) footbrake(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) stopped(3) suddenly(4) and(5) skidded(6) to(7) the(8) right(9) ,(10) just(11) missing(12) a(13) parked(14) car(15) in(16) front(17) of(18) me(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) driving(3) only(4) at(5) perhaps(6) 10-15(7) Kmh(8) ((9) 8(10) or(11) 9(12) mph(13) )(14) at(15) the(16) time(17) or(18) there(19) could(20) have(21) been(22) a(23) serious(24) accident(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) no(3) warning(4) sign(5) on(6) the(7) dashboard(8) electronic(9) display(10) until(11) fully(12) 30(13) minutes(14) after(15) the(16) car(17) had(18) come(19) to(20) a(21) halt(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			I(1) repeat(2) ,(3) I(4) had(5) no(6) prior(7) warning(8) of(9) any(10) trouble(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			The(1) car(2) then(3) jammed(4) completely(5) .(6) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) brakes(2) were(3) on(4) ,(5) even(6) with(7) the(8) engine(9) turned(10) off(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			No-one(1) could(2) move(3) the(4) car(5) ,(6) even(7) with(8) the(9) gearbox(10) in(11) neutral(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			I(1) was(2) stuck(3) in(4) the(5) middle(6) of(7) the(8) road(9) for(10) 2.5(11) hours(12) awaiting(13) a(14) rescue(15) tow(16) truck(17) which(18) eventually(19) came(20) after(21) 3(22) hours(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			After(1) 2.5(2) hours(3) the(4) police(5) arranged(6) a(7) tow(8) truck(9) to(10) tow(11) me(12) to(13) the(14) side(15) of(16) the(17) road(18) to(19) await(20) the(21) tow(22) truck(23) that(24) Fischer(25) had(26) ordered(27) .(28) 
+		</sentence>
+		<sentence id="19">
+			I(1) had(2) to(3) pay(4) for(5) BOTH(6) tow(7) trucks(8) myself(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			Eventually(1) the(2) car(3) was(4) towed(5) to(6) the(7) official(8) Mercedes_Dealer(9) and(10) service(11) centre(12) in(13) Marbella(14) ,(15) which(16) I(17) believe(18) is(19) called(20) R_Benet_SA(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			By(1) the(2) time(3) the(4) car(5) had(6) reached(7) them(8) the(9) brakes(10) had(11) unlocked(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			At(1) first(2) they(3) ((4) Benet(5) )(6) told(7) Fischer(8) that(9) the(10) fault(11) was(12) because(13) there(14) was(15) not(16) enough(17) fuel(18) in(19) the(20) car(21) ((22) !(23) )(24) After(25) 1(26) week(27) more(28) Benet(29) told(30) us(31) that(32) they(33) had(34) now(35) identified(36) a(37) sensor(38) problem(39) which(40) was(41) being(42) rectified(43) .(44) 1(45) week(46) after(47) that(48) ,(49) Benet(50) told(51) us(52) that(53) they(54) had(55) now(56) identified(57) another(58) sensor(59) problem(60) and(61) were(62) awaiting(63) parts(64) from(65) Germany(66) .(67) 
+		</sentence>
+		<sentence id="23">
+			On(1) the(2) 5th_June_2003(3) ,(4) finally(5) Benet(6) told(7) us(8) that(9) the(10) car(11) was(12) ready(13) and(14) SAFE(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			Although(1) I(2) asked(3) for(4) a(5) full(6) print(7) out(8) and(9) report(10) on(11) the(12) work(13) carried(14) out(15) ,(16) nothing(17) was(18) forthcoming(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			Benet(1) told(2) Fischer(3) that(4) they(5) had(6) tested(7) the(8) car(9) for(10) an(11) hour(12) and(13) it(14) was(15) TOTALLY_Safe(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			On(1) the(2) evening(3) of(4) June_5th(5) at(6) 8pm(7) I(8) drove(9) the(10) car(11) from(12) Fischer(13) s(14) garage(15) ,(16) which(17) is(18) next(19) door(20) to(21) Benet(22) s(23) premises(24) .(25) 
+		</sentence>
+		<sentence id="27">
+			Within(1) seconds(2) it(3) was(4) apparent(5) that(6) the(7) same(8) fault(9) was(10) beginning(11) to(12) occur(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			Although(1) I(2) was(3) about(4) to(5) turn(6) on(7) to(8) the(9) highway(10) ((11) motorway(12) )(13) I(14) managed(15) to(16) turn(17) the(18) car(19) around(20) and(21) drive(22) very(23) slowly(24) back(25) to(26) Fischer(27) s(28) garage(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			I(1) just(2) made(3) it(4) ,(5) because(6) the(7) car(8) s(9) braking(10) system(11) was(12) about(13) to(14) lock(15) completely(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			Luckily(1) a(2) salesman(3) from(4) Fischer(5) was(6) still(7) at(8) work(9) and(10) was(11) able(12) to(13) help(14) me(15) .(16) 
+		</sentence>
+		<sentence id="31">
+			He(1) tried(2) to(3) park(4) the(5) car(6) in(7) a(8) garage(9) 100(10) metres(11) away(12) but(13) the(14) car(15) would(16) not(17) move(18) at(19) all(20) after(21) 80_meters(22) and(23) the(24) wheels(25) were(26) locked(27) .(28) 
+		</sentence>
+		<sentence id="32">
+			The(1) car(2) had(3) to(4) be(5) towed(6) the(7) 90(8) metres(9) or(10) so(11) back(12) to(13) Benet(14) the(15) next(16) day(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			More(1) importantly(2) however(3) ,(4) if(5) I(6) had(7) made(8) it(9) onto(10) the(11) motorway(12) ,(13) within(14) seconds(15) ,(16) the(17) brakes(18) would(19) have(20) jammed(21) on(22) with(23) no(24) warning(25) .(26) 
+		</sentence>
+		<sentence id="34">
+			The(1) car(2) would(3) not(4) have(5) been(6) able(7) to(8) be(9) moved(10) a(11) centimetre(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			Imagine(1) if(2) I(3) had(4) been(5) driving(6) at(7) more(8) than(9) 100kmh(10) and(11) the(12) car(13) s(14) brakes(15) had(16) locked(17) I(18) might(19) have(20) been(21) killed(22) ,(23) as(24) might(25) my(26) wife(27) and(28) kids(29) .(30) 
+		</sentence>
+		<sentence id="36">
+			I(1) bought(2) this(3) car(4) as(5) a(6) family(7) convertible(8) ,(9) after(10) all(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Throughout(1) this(2) unhappy(3) event(4) I(5) have(6) been(7) renting(8) a(9) car(10) at(11) my(12) own(13) expense(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			Mercedes(1) have(2) not(3) offered(4) me(5) a(6) courtesy(7) car(8) nor(9) mentioned(10) about(11) any(12) recompense(13) for(14) my(15) financial(16) outlay(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			The(1) dealer(2) I(3) bought(4) the(5) car(6) from(7) 12(8) weeks(9) ago(10) called(11) me(12) today(13) and(14) offered(15) me(16) a(17) deal(18) whereby(19) they(20) would(21) take(22) the(23) car(24) as(25) part(26) exchange(27) for(28) another(29) car(30) ,(31) but(32) only(33) at(34) just(35) over(36) 70_%(37) of(38) its(39) value(40) 12(41) weeks(42) ago(43) .(44) 
+		</sentence>
+		<sentence id="40">
+			Considering(1) I(2) have(3) had(4) barely(5) 7-8(6) weeks(7) motoring(8) that(9) is(10) some(11) depreciation(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			The(1) car(2) is(3) still(4) ng(5) repaired(6) as(7) of(8) the(9) 10th_June(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			I(1) am(2) REALLY_SCARED(3) to(4) drive(5) it(6) when(7) it(8) comes(9) back(10) .(11) 
+		</sentence>
+		<sentence id="43">
+			I(1) leave(2) you(3) to(4) make(5) your(6) own(7) conclusions(8) .(9) 
+		</sentence>
+	</text>
+</review>

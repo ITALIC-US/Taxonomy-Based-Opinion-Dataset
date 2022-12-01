@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="451" item="Creative Technology EP-630 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Fairly(1) good(2) noise(3) isolation(4) headphones(5) 
+			<opinion polarity="+" feature="isolation" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			decent(1) sound(2) ,(3) good(4) noise(5) blocking(6) ,(7) low(8) cost(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			wire(1) rubbing(2) sound(3) present(4) ,(5) may(6) be(7) uncomfortable(8) at(9) first(10) if(11) ear(12) canals(13) are(14) sensitive(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Definitely(1) worth(2) a(3) try(4) if(5) you(6) 're(7) looking(8) for(9) low(10) cost(11) noise(12) isolation(13) headphones(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Chances(1) are(2) you(3) 'll(4) be(5) satisfied(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			While(1) stuff(2) like(3) Shure(4) E4c(5) are(6) nice(7) to(8) have(9) ,(10) many(11) people(12) do(13) have(14) family(15) to(16) feed(17) so(18) they(19) may(20) find(21) $200(22) better(23) spent(24) somewhere(25) else(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			But(1) you(2) may(3) still(4) want(5) to(6) have(7) a(8) pair(9) of(10) noise(11) isolation(12) headphones(13) so(14) you(15) can(16) have(17) some(18) quiet(19) time(20) with(21) your(22) favorite(23) music(24) or(25) DVD(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			Enters(1) EP-630(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			The(1) headphones(2) sell(3) for(4) less(5) than(6) $30(7) and(8) they(9) do(10) a(11) pretty(12) good(13) job(14) .(15) 
+			<opinion polarity="+" feature="headphones" opWords="10,11,13,14" potency="12"/>
+		</sentence>
+		<sentence id="5">
+			With(1) them(2) in(3) your(4) ears(5) ,(6) the(7) ambient(8) noises(9) become(10) quite(11) distant(12) and(13) you(14) have(15) a(16) far(17) better(18) chance(19) to(20) appreciate(21) that(22) favorite(23) song(24) you(25) love(26) in(27) a(28) noisy(29) environment(30) ,(31) say(32) ,(33) a(34) Starbucks(35) full(36) of(37) people(38) .(39) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) is(3) solid(4) and(5) respectable(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) to(3) admit(4) I(5) do(6) not(7) have(8) particularly(9) picky(10) ears(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			But(1) I(2) do(3) listen(4) to(5) a(6) large(7) variety(8) of(9) materials(10) so(11) if(12) there(13) 's(14) a(15) weakness(16) in(17) any(18) particular(19) band(20) I(21) 'd(22) have(23) noticed(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			The(1) noise(2) isolation(3) works(4) by(5) the(6) tight(7) fit(8) of(9) silicone(10) earbuds(11) when(12) inserting(13) in(14) the(15) ear(16) canal(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			That(1) sounds(2) a(3) little(4) scary(5) but(6) I(7) have(8) no(9) problem(10) with(11) it(12) at(13) all(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			The(1) whole(2) thing(3) is(4) light(5) and(6) compact(7) so(8) you(9) can(10) bring(11) them(12) anywhere(13) easily(14) .(15) 
+			<opinion polarity="+" feature="weight" opWords="5"/>
+			<opinion polarity="+" feature="size" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			In(1) fact(2) it(3) is(4) indeed(5) a(6) good(7) idea(8) to(9) bring(10) them(11) on(12) your(13) flight(14) or(15) train(16) ride(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			It(1) also(2) includes(3) 2(4) sets(5) of(6) silicone(7) earbuds(8) of(9) different(10) sizes(11) so(12) you(13) can(14) find(15) yourself(16) a(17) good(18) fit(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			The(1) only(2) drawback(3) I(4) 've(5) noticed(6) is(7) that(8) when(9) the(10) wires(11) rubbing(12) with(13) things(14) ,(15) for_example(16) ,(17) your(18) clothes(19) ,(20) you(21) can(22) hear(23) the(24) rubbing(25) sound(26) ,(27) as(28) the(29) headphones(30) probably(31) do(32) not(33) have(34) shield(35) to(36) block(37) sound(38) travelling(39) directly(40) through(41) the(42) wire(43) ((44) instead_of(45) the(46) air(47) )(48) .(49) 
+		</sentence>
+		<sentence id="15">
+			So(1) you(2) probably(3) do(4) not(5) want(6) to(7) wear(8) them(9) in(10) actions(11) ,(12) such(13) as(14) jogging(15) .(16) 
+		</sentence>
+	</text>
+</review>

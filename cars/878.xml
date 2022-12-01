@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="878" item="1999 Mazda Protege" rating="2">
+	<title>
+		<sentence id="1">
+			Mazda(1) -(2) never(3) again(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Well(1) designed(2) vehicle(3) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) support(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Mazda(4) because(5) I(6) expected(7) it(8) to(9) be(10) a(11) well(12) designed(13) vehicle(14) with(15) good(16) value(17) for(18) the(19) money(20) paid(21) .(22) 
+			<opinion polarity="+" feature="design" opWords="12,13"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			My(1) problem(2) is(3) with(4) the(5) service(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) brought(2) the(3) car(4) to(5) Oak_Tree_Mazda(6) in(7) San_Jose_CA(8) for(9) service(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			At(1) best(2) ,(3) the(4) service(5) I(6) received(7) was(8) strange(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			At(1) worst(2) it(3) was(4) fraudulent(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			At(1) the(2) 15,000_mile(3) service(4) the(5) technician(6) charged(7) us(8) over(9) $100(10) for(11) changing(12) the(13) transmission(14) fluid(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Mazda(1) recommends(2) changing(3) the(4) transmission(5) fluid(6) at(7) 50,000_miles(8) -(9) not(10) 15,000(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Further(1) ,(2) no(3) mechanic(4) I(5) contacted(6) could(7) explain(8) why(9) the(10) transmission(11) fluid(12) should(13) be(14) changed(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			We(1) did(2) mention(3) to(4) the(5) mechanic(6) that(7) the(8) automatic(9) transmission(10) was(11) rough(12) but(13) that(14) is(15) a(16) warranty(17) issue(18) ,(19) not(20) maintenance(21) .(22) 
+			<opinion polarity="-" feature="transmission" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="11">
+			In_addition(1) ,(2) we(3) should(4) not(5) have(6) been(7) charged(8) for(9) any(10) service(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			We(1) have(2) the(3) Mazda(4) extended(5) protection(6) plan(7) which(8) covers(9) all(10) Mazda(11) recommended(12) /(13) required(14) service(15) for(16) the(17) first(18) 25,000_miles(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			While(1) I(2) am(3) working(4) with(5) Mazda(6) corporate(7) to(8) resolve(9) the(10) issue(11) I(12) wanted(13) to(14) pass(15) on(16) my(17) experience(18) to(19) fellow(20) readers(21) of(22) Epinions(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			While(1) the(2) Protegee(3) met(4) my(5) expectations(6) from(7) an(8) engineering(9) standpoint(10) the(11) support(12) has(13) been(14) awful(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Support(1) is(2) a(3) key(4) reason(5) for(6) buying(7) a(8) new(9) car(10) over(11) a(12) late(13) model(14) used(15) car(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			Next(1) time(2) I(3) will(4) evaluate(5) other(6) manufacturers(7) more(8) carefully(9) .(10) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="157" item="Koss KSC-22 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) for(2) working(3) out(4) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lightweight(1) -(2) Plastic_Case(3) -(4) Good_Sound(5) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lacks(1) strong(2) Bass(3) -(4) May(5) not(6) fit(7) all(8) ears(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) these(4) if(5) you(6) want(7) something(8) that(9) stays(10) in(11) /(12) on(13) your(14) ears(15) while(16) running(17) ,(18) etc.(19) The(20) sound(21) quality(22) ((23) except(24) bass(25) )(26) is(27) very(28) good(29) .(30) 
+			<opinion polarity="+" feature="sound quality" featWords="21,22" opWords="29" potency="28"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) as(4) a(5) replacement(6) for(7) the(8) earphones(9) that(10) came(11) with(12) my(13) MP3(14) player(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) something(3) that(4) was(5) not(6) going(7) to(8) keep(9) falling(10) out(11) of(12) my(13) ears(14) during(15) running(16) ,(17) walking(18) or(19) working(20) out(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			Let(1) me(2) say(3) up_front(4) that(5) I(6) am(7) not(8) an(9) audiophile(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) them(3) for(4) a(5) specific(6) purpose(7) so(8) my(9) review(10) is(11) limited(12) to(13) that(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			They(1) come(2) with(3) a(4) plastic(5) case(6) which(7) is(8) useful(9) if(10) you(11) take(12) them(13) off(14) and(15) want(16) to(17) prevent(18) damage(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) ear(2) clips(3) seem(4) flimsy(5) ,(6) but(7) in(8) fairness(9) have(10) held(11) up(12) to(13) my(14) "(15) on(16) /(17) off(18) "(19) motions(20) well(21) .(22) 
+			<opinion polarity="-" feature="earbuds" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) clips(2) are(3) a(4) standard(5) size(6) and(7) they(8) may(9) not(10) fit(11) everyone(12) properly(13) -(14) especially(15) if(16) you(17) have(18) small(19) ears(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			That(1) is(2) true(3) of(4) any(5) earphones(6) of(7) this(8) type(9) though(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			The(1) sound(2) quality(3) is(4) not(5) exceptional(6) ,(7) but(8) I(9) did(10) not(11) find(12) it(13) to(14) be(15) all(16) that(17) bad(18) either(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			Be(1) aware(2) that(3) if(4) you(5) enjoy(6) your(7) bass(8) ,(9) you(10) will(11) certainly(12) NOT(13) be(14) happy(15) with(16) these(17) earphones(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			They(1) definitely(2) lack(3) a(4) solid(5) bass(6) sound(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Other(1) than(2) that(3) ,(4) they(5) perform(6) well(7) for(8) use(9) at(10) the(11) gym(12) or(13) track(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) recommend(3) them(4) for(5) that(6) ((7) which(8) is(9) what(10) I(11) use(12) them(13) for(14) )(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			I(1) would(2) not(3) recommend(4) them(5) if(6) you(7) just(8) want(9) to(10) sit(11) and(12) listen(13) to(14) music(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			In(1) that(2) case(3) you(4) would(5) be(6) better(7) off(8) with(9) some(10) good(11) headphones(12) .(13) 
+		</sentence>
+	</text>
+</review>

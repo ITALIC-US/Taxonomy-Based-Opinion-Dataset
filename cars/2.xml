@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="2" item="2001 Volkswagen Jetta TDI" rating="5">
+	<title>
+		<sentence id="1">
+			Safety_AND_Style(1) ,(2) there(3) 's(4) a(5) new(6) concept(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			it(1) has(2) SAFE_AND_GOOD_LOOKING(3) !(4) !(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) simply(3) can(4) not(5) be(6) beat(7) ,(8) there(9) is(10) no(11) downside(12) or(13) disadvantage(14) !(15) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5,6,7" potency="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) went(2) and(3) checked(4) out(5) the(6) new(7) Jetta(8) today(9) ,(10) and(11) to(12) say(13) I(14) was(15) impressed(16) is(17) an(18) understatement(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			As(1) a(2) highschooler(3) who(4) has(5) to(6) have(7) a(8) good(9) looking(10) car(11) but(12) with(13) a(14) mom(15) who(16) has(17) to(18) have(19) a(20) safe(21) car(22) and(23) both(24) who(25) need(26) it(27) to(28) be(29) cheapthis(30) one(31) was(32) all(33) of(34) the(35) above(36) .(37) 
+			<opinion polarity="+" feature="design" opWords="9,10"/>
+			<opinion polarity="+" feature="safety" opWords="21"/>
+		</sentence>
+		<sentence id="3">
+			The(1) safety(2) features(3) one(4) this(5) car(6) are(7) amazing(8) ,(9) from(10) the(11) side(12) airbags(13) to(14) a(15) seatbelt(16) that(17) pulls(18) you(19) back(20) ((21) not(22) just(23) stops(24) you(25) )(26) in(27) a(28) collision(29) .(30) 
+			<opinion polarity="+" feature="safety" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) crash(3) test(4) ratings(5) are(6) top(7) of(8) the(9) line(10) .(11) 
+			<opinion polarity="+" feature="safety" featWords="3,4,5" opWords="7,8,9,10"/>
+		</sentence>
+		<sentence id="5">
+			As_if(1) all(2) of(3) this(4) was(5) not(6) enough(7) ,(8) these(9) safety(10) features(11) come(12) packaged(13) in(14) a(15) sleek(16) looking(17) car(18) ,(19) so(20) you(21) do(22) not(23) have(24) to(25) sacrafice(26) safety(27) for(28) style(29) ,(30) or(31) vice_versa(32) .(33) 
+			<opinion polarity="+" feature="design" opWords="16,17"/>
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) a(4) win(5) win(6) situation(7) ,(8) and(9) with(10) all(11) of(12) the(13) safety(14) features(15) being(16) standard(17) ,(18) the(19) price(20) remains(21) reasonable(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5,6"/>
+			<opinion polarity="+" feature="price" featWords="20" opWords="22"/>
+		</sentence>
+		<sentence id="7">
+			I(1) honestly(2) have(3) no(4) complaints(5) about(6) this(7) car(8) whatsoever(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Model_Year(1) :(2) 2001(3) 
+		</sentence>
+	</text>
+</review>

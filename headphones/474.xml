@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="474" item="Koss PRO-4AAT Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) Classic(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Sound(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Sound(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) 're(2) not(3) as(4) light(5) as(6) open(7) headphones(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) give(2) these(3) my(4) highest(5) recommendation(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) wanted(3) a(4) pair(5) of(6) these(7) forever(8) to(9) use(10) when(11) I(12) want(13) to(14) listen(15) to(16) music(17) at(18) high(19) levels(20) while(21) others(22) are(23) home(24) and(25) to(26) use(27) the(28) speakers(29) would(30) annoy(31) them(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			For(1) reference(2) ,(3) I(4) have(5) 2(6) stereo(7) systems(8) at(9) home(10) :(11) a(12) home(13) theatre(14) system(15) powered(16) by(17) a(18) Harman(19) /(20) Kardon(21) AVR520(22) receiver(23) driving(24) a(25) pair(26) of(27) JBL(28) S312(29) main(30) speakers(31) and(32) JBL(33) LX44(34) ear(35) speakers(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			The(1) other(2) system(3) is(4) "(5) vintage(6) "(7) :(8) a(9) Pioneer(10) SX1280(11) receiver(12) driving(13) a(14) pair(15) of(16) JBL(17) 4311B(18) Studio_Monitors(19) backed(20) up(21) by(22) a(23) pair(24) of(25) JBL(26) 4308B(27) Studio_Monitors(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			No(1) slouches(2) there(3) ....(4) So(5) ,(6) if(7) I(8) am(9) going(10) to(11) be(12) satisfied(13) by(14) a(15) pair(16) of(17) headphones(18) they(19) better(20) be(21) pretty(22) damn(23) good(24) ,(25) and(26) these(27) *(28) DO(29) *(30) satisfy(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'll(2) give(3) you(4) what(5) I(6) perceive(7) to(8) be(9) the(10) weaknesses(11) first(12) :(13) the(14) cord(15) is(16) too(17) short(18) ,(19) it(20) 's(21) generous(22) ,(23) but(24) if(25) you(26) want(27) to(28) walk(29) around(30) you(31) will(32) need(33) to(34) buy(35) an(36) extension(37) cord(38) .(39) 
+			<opinion polarity="-" feature="cord" featWords="15" opWords="17,18"/>
+		</sentence>
+		<sentence id="6">
+			You(1) will(2) also(3) need(4) to(5) dial(6) back(7) the(8) treble(9) ,(10) and(11) click(12) in(13) an(14) extra(15) notch(16) of(17) bass(18) over(19) your(20) speakers(21) ,(22) but(23) this(24) is(25) in(26) comparison(27) to(28) JBL(29) 's(30) with(31) 12(32) "(33) woofers(34) ,(35) so(36) not(37) really(38) a(39) surprise(40) .(41) Now(42) for(43) the(44) strengths(45) :(46) the(47) sound(48) is(49) crystal(50) clear(51) .(52) You(53) hear(54) everything(55) .(56) Period(57) .(58) The(59) midrange(60) and(61) treble(62) are(63) simply(64) astounding(65) .(66) Bass(67) is(68) strong(69) if(70) you(71) remember(72) to(73) dial(74) in(75) an(76) extra(77) click(78) as(79) mentioned(80) above(81) .(82) Ear(83) fatigue(84) is(85) little(86) even(87) after(88) an(89) hour(90) at(91) high(92) volumes(93) .(94) These(95) phones(96) are(97) built(98) like(99) the(100) proverbial(101) brick(102) you-know-what-house(103) .(104) This(105) is(106) a(107) quality(108) product(109) .(110) And(111) they(112) are(113) made(114) in(115) America(116) .(117) The(118) Pro4AA(119) 's(120) are(121) a(122) classic(123) from(124) a(125) classic(126) company(127) .(128) Let(129) me(130) put(131) it(132) this(133) way(134) ,(135) they(136) are(137) made(138) in(139) Milwaukee(140) where(141) they(142) make(143) another(144) American(145) classic(146) :(147) Harley-Davidson(148) .(149) These(150) are(151) ,(152) depending(153) on(154) how(155) you(156) want(157) to(158) look(159) at(160) it(161) either(162) the(163) Harley-Davidson(164) ,(165) or(166) JBL(167) L100(168) of(169) headphones(170) .(171) You(172) can(173) not(174) go(175) wrong(176) .(177) 
+			<opinion polarity="+" feature="sound quality" featWords="48" opWords="50,51"/>
+			<opinion polarity="+" feature="mids" featWords="60" opWords="65" potency="64"/>
+			<opinion polarity="+" feature="highs" featWords="62" opWords="65" potency="64"/>
+			<opinion polarity="+" feature="bass" featWords="67" opWords="69"/>
+		</sentence>
+	</text>
+</review>

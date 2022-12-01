@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="5" item="2004 Honda Civic" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) would(2) buy(3) a(4) Honda(5) again(6) -(7) in(8) a(9) heart(10) beat(11) !(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			motor(1) ,(2) fuel(3) efficiency(4) ,(5) price(6) ,(7) size(8) ,(9) looks(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) that(2) I(3) can(4) think(5) of(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Never(1) leave(2) your(3) key(4) on(5) your(6) car(7) seat(8) with(9) all(10) the(11) windows(12) closed(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) vehicle(2) locks(3) itself(4) after(5) a(6) few(7) minutes(8) if(9) the(10) engine(11) is(12) off(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) the(4) proud(5) owner(6) of(7) a(8) 2004(9) Honda_Civic_LX(10) since(11) July_of_2004(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) my(3) very(4) first(5) car(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) decided(2) to(3) buy(4) a(5) new(6) Honda(7) because_of(8) its(9) outstanding(10) reputation(11) and(12) I(13) have(14) to(15) admit(16) this(17) little(18) car(19) has(20) met(21) my(22) expectations(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			I(1) decided(2) to(3) get(4) the(5) extended(6) guaranty(7) only(8) because(9) I(10) am(11) over-protective(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) I(3) was(4) a(5) new(6) driver(7) when(8) I(9) bough(10) my(11) first(12) car(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			I(1) compared(2) used(3) and(4) new(5) Honda_Civics(6) and(7) the(8) price(9) difference(10) between(11) semi-new(12) and(13) new(14) was(15) not(16) much(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) only(2) thing(3) that(4) failed(5) in(6) four(7) years(8) was(9) very(10) minor(11) :(12) The(13) front(14) passenger(15) side(16) window(17) would(18) get(19) stuck(20) .(21) 
+			<opinion polarity="-" feature="window" featWords="17" opWords="19,20"/>
+		</sentence>
+		<sentence id="8">
+			It(1) went(2) down(3) but(4) it(5) would(6) not(7) go(8) up(9) as(10) easily(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) took(2) it(3) to(4) the(5) dealership(6) and(7) I(8) only(9) had(10) to(11) pay(12) the(13) deductible(14) of(15) $(16) 50(17) and(18) got(19) it(20) fixed(21) in(22) no(23) time(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Other(1) than(2) that(3) -(4) The(5) car(6) has(7) given(8) me(9) no(10) problems(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Be(1) careful(2) not(3) to(4) fill(5) the(6) trunk(7) with(8) junk(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			I(1) caused(2) a(3) slight(4) damage(5) that(6) caused(7) the(8) back(9) license(10) plate(11) lights(12) to(13) go(14) off(15) because(16) I(17) was(18) moving(19) big(20) boxes(21) in(22) the(23) trunk(24) and(25) I(26) caused(27) an(28) electrical(29) interruption(30) ((31) so(32) the(33) mechanic(34) said(35) )(36) As(37) for(38) fuel(39) efficiency(40) ,(41) I(42) could(43) not(44) be(45) happier(46) .(47) 
+		</sentence>
+		<sentence id="13">
+			Specially(1) with(2) this(3) economy(4) and(5) gas(6) price(7) inflation(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Some(1) of(2) my(3) favorite(4) LX(5) 's(6) features(7) are(8) back(9) and(10) front(11) seats(12) that(13) can(14) go(15) flat(16) in_order_to(17) carry(18) large(19) items(20) that(21) would(22) not(23) fit(24) in(25) the(26) trunk(27) .(28) 
+		</sentence>
+		<sentence id="15">
+			When(1) the(2) back(3) seats(4) are(5) down(6) the(7) trunk(8) and(9) the(10) cabin(11) are(12) one(13) big(14) storage(15) space(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			The(1) security(2) feature(3) that(4) does(5) not(6) allow(7) the(8) car(9) to(10) start(11) or(12) be(13) driven(14) with(15) a(16) key(17) other(18) than(19) the(20) original(21) keys(22) provide(23) by(24) the(25) dealership(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) LX(16) ,(17) automatic(18) 
+		</sentence>
+	</text>
+</review>

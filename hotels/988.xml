@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="988" item="Renaissance Oklahoma Cty Conv Ctr" rating="4">
+	<title>
+		<sentence id="1">
+			We(1) like(2) the(3) Renaissance_Oklahoma_City(4) hotel(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) ,(2) clean(3) rooms(4) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) walk(2) from(3) parking(4) garage(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			In(1) my(2) opinion(3) ,(4) the(5) Renaissance(6) is(7) the(8) best(9) hotel(10) in(11) downtown(12) Oklahoma_City(13) .(14) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Renaissance_Oklahoma_City(2) hotel(3) is(4) pretty(5) good(6) .(7) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) are(3) quiet(4) and(5) clean(6) .(7) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Room(1) service(2) is(3) fast(4) and(5) the(6) food(7) is(8) good(9) .(10) 
+			<opinion polarity="+" feature="food" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="room service" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			My(1) wife(2) and(3) I(4) went(5) to(6) the(7) spa(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) a(3) massage(4) and(5) she(6) got(7) a(8) pedicure(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			The(1) spa(2) staff(3) is(4) friendly(5) and(6) helpful(7) .(8) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="7"/>
+			<opinion polarity="+" feature="staff" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			We(1) have(2) not(3) tried(4) the(5) restaurant(6) on(7) the(8) first(9) floor(10) ,(11) though(12) it(13) is(14) probably(15) worth(16) a(17) try(18) based(19) on(20) the(21) quality(22) of(23) room(24) service(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) are(3) attending(4) an(5) event(6) at(7) the(8) myriad(9) ,(10) you(11) can(12) get(13) there(14) by(15) an(16) enclosed(17) walkway(18) over(19) the(20) street(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) lobby(2) has(3) a(4) water(5) garden(6) that(7) helps(8) keep(9) the(10) noise(11) down(12) on(13) the(14) upper(15) floors(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			All(1) around(2) a(3) good(4) hotel(5) .(6) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			We(1) stay(2) there(3) whenever(4) we(5) are(6) in(7) Oklahoma_City(8) .(9) 
+		</sentence>
+	</text>
+</review>

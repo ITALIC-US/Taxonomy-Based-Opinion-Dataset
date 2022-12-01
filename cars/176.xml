@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="176" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			European_Convert(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fuel(1) economy(2) ,(3) interior(4) appointments(5) ,(6) legendary(7) Toyota(8) reliability(9) ,(10) appearance(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Vision(1) to(2) the(3) rear(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) an(6) economical(7) ,(8) affordable(9) car(10) that(11) looks(12) great(13) ,(14) drives(15) great(16) and(17) will(18) be(19) reliable(20) to(21) a(22) fault(23) ,(24) the(25) Celica(26) should(27) probably(28) be(29) your(30) choice(31) .(32) 
+			<opinion polarity="+" feature="reliability" opWords="20"/>
+			<opinion polarity="+" feature="ride quality" opWords="15,16"/>
+			<opinion polarity="+" feature="design" opWords="12,13"/>
+			<opinion polarity="+" feature="price" opWords="9"/>
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) purchased(3) my(4) 2001(5) Celica(6) and(7) am(8) extremely(9) happy(10) with(11) my(12) choice(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) 's(3) performance(4) certainly(5) exceeds(6) my(7) expectations(8) overall(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			It(1) handles(2) very(3) well(4) and(5) what(6) 's(7) not(8) to(9) like(10) about(11) 35(12) mpg(13) on(14) the(15) highway(16) ?(17) 
+			<opinion polarity="+" feature="handling" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) took(2) a(3) 400_mile(4) round(5) trip(6) shortly(7) after(8) getting(9) the(10) car(11) and(12) ,(13) at(14) interstate(15) speeds(16) with(17) the(18) air(19) conditioning(20) on(21) ,(22) the(23) car(24) virtually(25) sipped(26) gas(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			There(1) was(2) plenty_of(3) reserve(4) power(5) for(6) entering(7) the(8) highway(9) and(10) for(11) passing(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) interior(2) is(3) very(4) comfortable(5) for(6) a(7) small(8) car(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) seats(2) are(3) contoured(4) just(5) right(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Adjustments(1) could(2) be(3) a_bit(4) more(5) refined(6) ,(7) especially(8) height(9) of(10) the(11) bottom(12) cushion(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			I(1) think(2) this(3) is(4) just(5) a(6) matter(7) of(8) preference(9) do(10) not(11) think(12) the(13) individual(14) driver(15) will(16) have(17) any(18) trouble(19) finding(20) an(21) optimum(22) position(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) sound(2) system(3) is(4) very(5) good(6) with(7) plenty_of(8) adjustments(9) to(10) find(11) that(12) "(13) just(14) right(15) "(16) sound(17) .(18) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) opted(2) for(3) the(4) 5-speed(5) simply(6) because(7) I(8) think(9) it(10) makes(11) a(12) car(13) like(14) this(15) much(16) more(17) fun(18) to(19) drive(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="18"/>
+		</sentence>
+		<sentence id="12">
+			Heating(1) and(2) air(3) conditioning(4) are(5) almost(6) instantaneous(7) .(8) 
+			<opinion polarity="+" feature="ac" featWords="3,4" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="heat" featWords="1" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="13">
+			There(1) are(2) plenty_of(3) storage(4) areas(5) for(6) all(7) that(8) stuff(9) we(10) seem(11) to(12) carry(13) with(14) us(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) rear(2) seat(3) backs(4) fold(5) down(6) to(7) extend(8) the(9) hatchback(10) "(11) trunk(12) "(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Handling(1) is(2) great(3) .(4) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			I(1) travel(2) mountain(3) roads(4) quite(5) a_bit(6) and(7) the(8) Celica(9) 's(10) suspension(11) makes(12) driving(13) these(14) roads(15) a(16) pleasure(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			My(1) car(2) has(3) a(4) sun(5) roof(6) and(7) with(8) the(9) roof(10) fully(11) open(12) there(13) is(14) a_bit(15) of(16) a(17) breeze(18) but(19) nothing(20) significant(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			A(1) wind(2) deflector(3) would(4) help(5) but(6) one(7) is(8) not(9) built(10) in(11) and(12) I(13) have(14) not(15) checked(16) on(17) after-market(18) accessories(19) yet(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			All(1) in_all(2) ,(3) the(4) Celica(5) is(6) a(7) great(8) little(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="20">
+			The(1) price(2) is(3) affordable(4) even(5) with(6) some(7) of(8) the(9) more(10) useful(11) options(12) .(13) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="21">
+			I(1) am(2) a(3) convert(4) from(5) Volvo(6) ,(7) having(8) owned(9) them(10) for(11) years(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			My(1) last(2) Volvo(3) was(4) so(5) trouble-prone(6) and(7) unreliable(8) that(9) ,(10) based(11) on(12) past(13) experiences(14) with(15) Toyota(16) trucks(17) ,(18) I(19) decided(20) to(21) make(22) a(23) change(24) .(25) 
+			<opinion polarity="-" feature="reliability" opWords="8"/>
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="23">
+			So(1) far(2) I(3) 'm(4) glad(5) I(6) did(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,392(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Celica_GT(16) 
+		</sentence>
+	</text>
+</review>

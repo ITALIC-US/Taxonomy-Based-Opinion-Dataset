@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="301" item="2001 Toyota Celica" rating="3">
+	<title>
+		<sentence id="1">
+			I(1) 'm(2) glad(3) we(4) traded(5) it(6) ,(7) but(8) sometimes(9) miss(10) it(11) .(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			gets(1) attention(2) for(3) it(4) 's(5) sporty(6) look(7) ,(8) good(9) stereo(10) ,(11) descent(12) fuel(13) economy(14) ,(15) just(16) fun(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="design" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) backseat(2) &(3) trunk(4) ,(5) poor(6) paint(7) job(8) ,(9) very(10) uncomfortable(11) seating(12) ,(13) high(14) car(15) insurance(16) ,(17) 
+			<opinion polarity="-" feature="seat" featWords="12" opWords="11"/>
+			<opinion polarity="-" feature="color" featWords="7,8" opWords="6"/>
+			<opinion polarity="-" feature="trunk" featWords="4" opWords="1"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) fiance(2) bought(3) this(4) in_2003(5) used(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			He(1) absolutely(2) loved(3) it(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			He(1) loved(2) the(3) idea(4) of(5) how(6) fast(7) it(8) would(9) accelerate(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) great(3) car(4) for(5) a(6) teenage(7) guy(8) /(9) girl(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			We(1) got(2) sick(3) of(4) it(5) cause(6) we(7) could(8) never(9) have(10) any(11) passengers(12) in(13) the(14) back(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Road(1) trips(2) were(3) terrible(4) with(5) it(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'm(2) glad(3) we(4) sold(5) it(6) ,(7) but(8) I(9) do(10) miss(11) it(12) sometimes(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 19000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

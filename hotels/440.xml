@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="440" item="Riverside Tower Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) good(2) choice(3) budget(4) hotel(5) in(6) the(7) upper(8) west(9) side(10) .(11) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) friendly(3) &(4) quiet(5) location(6) .(7) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="place" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Well(1) suited(2) to(3) group(4) of(5) 3(6) or(7) more(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Basic(1) but(2) clean(3) facilities(4) .(5) 
+			<opinion polarity="+" feature="facilities" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="facilities" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) stay(3) here(4) again(5) ,(6) especially(7) if(8) I(9) needed(10) a(11) room(12) for(13) 3(14) or(15) 4(16) people(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			A(1) little(2) basic(3) and(4) off(5) the(6) beaten(7) track(8) ,(9) but(10) fine(11) for(12) a(13) budget(14) hotel(15) .(16) 
+			<opinion polarity="+" feature="hotel" opWords="3" potency="2"/>
+			<opinion polarity="+" feature="hotel" featWords="15" opWords="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) travelled(2) to(3) New_York(4) with(5) 2(6) friends(7) ,(8) and(9) given(10) the(11) costs(12) associated(13) with(14) hotels(15) in(16) Manhattan(17) and(18) also(19) given(20) the(21) fact(22) that(23) we(24) each(25) wanted(26) our(27) own(28) bed(29) we(30) were(31) somewhat(32) limited(33) in(34) choice(35) .(36) 
+		</sentence>
+		<sentence id="2">
+			The(1) Riverside_Tower_Hotel(2) ((3) www.riversidetowerhotel.com)(4) offered(5) us(6) a(7) '(8) suite(9) '(10) suitable(11) for(12) 4(13) with(14) a(15) private(16) bath(17) for(18) $109(19) per(20) night(21) .(22) The(23) '(24) suite(25) '(26) consisted(27) of(28) 2(29) small(30) rooms(31) ((32) just(33) bigger(34) than(35) a(36) double(37) bed(38) in(39) width(40) )(41) with(42) a(43) shared(44) basic(45) tiled(46) bathroom(47) ((48) which(49) joined(50) the(51) rooms(52) )(53) .(54) 
+			<opinion polarity="-" feature="rooms" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="3">
+			Each(1) room(2) had(3) a(4) TV(5) ((6) one(7) had(8) a(9) Fridge(10) and(11) Microwave(12) )(13) and(14) 2(15) single(16) beds(17) ((18) the(19) beds(20) were(21) a(22) single(23) with(24) a(25) pull(26) out(27) travel(28) single(29) -(30) quite(31) comfy(32) though(33) )(34) .(35) 
+			<opinion polarity="+" feature="bed" featWords="20" opWords="32" potency="31"/>
+		</sentence>
+		<sentence id="4">
+			Reception(1) was(2) fine(3) and(4) we(5) were(6) soon(7) checking(8) into(9) our(10) room(11) .(12) 
+			<opinion polarity="+" feature="front desk" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) were(3) basic(4) but(5) clean(6) with(7) closet(8) space(9) for(10) clothes(11) etc.(12) I(13) seem(14) to(15) recall(16) a(17) safe(18) in(19) the(20) room(21) also(22) ((23) but(24) I(25) could(26) be(27) wrong(28) here(29) )(30) .(31) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) air-conditioning(2) in(3) my(4) room(5) was(6) effective(7) but(8) noisy(9) .(10) 
+			<opinion polarity="+" feature="air conditioning units" featWords="2" opWords="7"/>
+			<opinion polarity="-" feature="air conditioning units" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			Each(1) room(2) had(3) a(4) sink(5) whilst(6) the(7) bathroom(8) had(9) a(10) toilet(11) and(12) shower(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Decoration(1) was(2) simple(3) painted(4) walls(5) and(6) was(7) generally(8) clean(9) .(10) 
+			<opinion polarity="+" feature="walls" featWords="5" opWords="3,4"/>
+			<opinion polarity="+" feature="hotel" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="9">
+			Room(1) service(2) was(3) daily(4) .(5) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Location(1) wise(2) the(3) hotel(4) is(5) situated(6) on(7) 12th(8) Avenue(9) at(10) 81st(11) Street(12) on(13) Riverside_Drive(14) ((15) considered(16) a(17) safe(18) area(19) ((20) where(21) is(22) not(23) in(24) NYC(25) these(26) days(27) ?(28) )(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			The(1) nearest(2) subway(3) /(4) tube(5) station(6) is(7) about(8) a(9) 4(10) or(11) 5(12) block(13) walk(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			With(1) this(2) hotel(3) being(4) a(5) little(6) of(7) the(8) beaten(9) track(10) there(11) was(12) very(13) little(14) '(15) New_York(16) '(17) noise(18) to(19) be(20) heard(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Check(1) in(2) and(3) Check(4) out(5) went(6) smoothly(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			My(1) other(2) experience(3) of(4) New_York_Budget_Hotels(5) are(6) the(7) Malibu_Hotel(8) ((9) worse(10) than(11) here(12) )(13) and(14) the(15) Portland_Square_Hotel(16) ((17) probably(18) slightly(19) better(20) than(21) here(22) -(23) although(24) not(25) much(26) in(27) it(28) )(29) .(30) 
+		</sentence>
+	</text>
+</review>

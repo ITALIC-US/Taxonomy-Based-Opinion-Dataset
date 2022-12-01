@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="434" item="Skull Candy LINK�?� Earbuds Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) Ive(3) had(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent_Sound(1) and(2) BASE(3) !(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			Excellent(1) sound(2) isolation(3) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Volume(1) switch(2) on(3) the(4) cord(5) pointless(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Read(1) my(2) review(3) of(4) the(5) same(6) ((7) black(8) headphones(9) shown(10) on(11) pic(12) )(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) dont(2) understand(3) people(4) who(5) gave(6) 1(7) ((8) one(9) )(10) Star_AND(11) said(12) that(13) the(14) Sound_Quality(15) was(16) excellent(17) !(18) 
+		</sentence>
+		<sentence id="3">
+			Then(1) why(2) one(3) star(4) ?(5) ?(6) 
+		</sentence>
+		<sentence id="4">
+			OR(1) because(2) they(3) "(4) broke(5) it(6) "(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			What(1) is(2) the(3) most(4) important(5) characteristic(6) of(7) headphones(8) ?(9) ?(10) 
+		</sentence>
+		<sentence id="6">
+			Back(1) to(2) the(3) main(4) point(5) ,(6) I(7) 've(8) had(9) Sony(10) MDR-EX90LP(11) ((12) $99(13) )(14) in-the-ear(15) ,(16) V-MODA(17) ((18) gun(19) metal(20) )(21) in-the-ear(22) plugs(23) ((24) 99(25) )(26) Sure(27) Ec2(28) and(29) me(30) and(31) tested(32) them(33) with(34) my(35) family(36) to(37) see(38) if(39) we(40) can(41) agree(42) on(43) something(44) :(45) )(46) These(47) are(48) BETTER(49) then(50) any(51) of(52) them(53) .(54) 
+		</sentence>
+		<sentence id="7">
+			Comfortable(1) ,(2) good(3) base(4) and(5) sound(6) isolation(7) which(8) is(9) very(10) important(11) for(12) a(13) train-commuter(14) like(15) me(16) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="isolation" featWords="6,7" opWords="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="695" item="1998 Toyota 4Runner" rating="3">
+	<title>
+		<sentence id="1">
+			Learning(1) to(2) drive(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) family(2) car(3) ,(4) good(5) snow(6) handling(7) 
+			<opinion polarity="+" feature="handling" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			limited(1) seat(2) and(3) steering(4) wheel(5) adjustments(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Toyota(2) 4-runner(3) is(4) definatley(5) a(6) good(7) choice(8) if(9) you(10) are(11) looking(12) to(13) purchase(14) and(15) SUV(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) parents(2) bought(3) thier(4) 1998(5) Toyota(6) 4-runner(7) in(8) early(9) 2000(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			We(1) previousy(2) owned(3) a(4) 1996(5) Toyota_Tacoma(6) and(7) were(8) planning(9) a(10) trip(11) to(12) Tahoe(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			My(1) sister(2) and(3) I(4) were(5) getting(6) a_bit(7) to(8) tall(9) to(10) be(11) sitting(12) in(13) the(14) tiny(15) backseat(16) of(17) that(18) truck(19) ,(20) especially(21) for(22) such(23) a(24) long(25) trip(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			So(1) my(2) dad(3) and(4) I(5) went(6) to(7) the(8) dealership(9) and(10) feel(11) in(12) love(13) with(14) the(15) 4-runner(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) just(3) learing(4) how(5) to(6) drive(7) at(8) the(9) time(10) ,(11) and(12) I(13) learned(14) using(15) the(16) Toyota(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) Toyota(2) 4-runner(3) has(4) a_lot_of(5) power(6) for(7) an(8) SUV(9) and(10) off(11) the(12) line(13) it(14) 's(15) as(16) quick(17) as(18) some(19) of(20) the(21) sportier(22) cars(23) on(24) the(25) market(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			It(1) does(2) not(3) take(4) corners(5) too(6) well(7) ,(8) but(9) it(10) has(11) remarkable(12) traction(13) and(14) handling(15) when(16) it(17) comes(18) to(19) driving(20) in(21) the(22) snow(23) .(24) 
+			<opinion polarity="+" feature="handling" featWords="15" opWords="12"/>
+			<opinion polarity="+" feature="drive" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="8">
+			The(1) stock(2) stereo(3) sounds(4) great(5) ,(6) both(7) in(8) the(9) front(10) and(11) the(12) rear(13) of(14) the(15) car(16) .(17) 
+			<opinion polarity="+" feature="sound system" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="9">
+			Its(1) great(2) for(3) towing(4) ,(5) and(6) the(7) back(8) seat(9) fold(10) down(11) to(12) give(13) you(14) quite(15) a_bit(16) of(17) hauling(18) space(19) .(20) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="10">
+			Even(1) without(2) folding(3) the(4) seats(5) down(6) there(7) is(8) plenty_of(9) room(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			The(1) car(2) itself(3) is(4) room(5) and(6) great(7) for(8) a(9) family(10) of(11) four(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			We(1) did(2) not(3) have(4) any(5) problems(6) with(7) the(8) car(9) until(10) recently(11) when(12) the(13) transmission(14) started(15) slipping(16) ,(17) but(18) I(19) think(20) thats(21) more(22) from(23) the(24) car(25) taking(26) abuse(27) from(28) my(29) sister(30) and(31) I(32) than(33) it(34) is(35) from(36) normal(37) wear(38) and(39) tear(40) .(41) 
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) complaint(3) I(4) have(5) is(6) that(7) I(8) am(9) a(10) short(11) person(12) and(13) the(14) seat(15) does(16) not(17) quite(18) move(19) enough(20) for(21) complete(22) driving(23) comfort(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			The(1) Toyota(2) 4-runner(3) is(4) definetley(5) a(6) tough(7) car(8) ,(9) and(10) would(11) recomend(12) it(13) for(14) anyone(15) who(16) wants(17) a(18) family(19) car(20) ,(21) but(22) not(23) a(24) station(25) wagon(26) ,(27) and(28) is(29) looking(30) for(31) something(32) a(33) little(34) meaner(35) than(36) a(37) minivan(38) .(39) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) also(3) a(4) must(5) have(6) for(7) those(8) adventerous(9) mountain(10) type(11) people(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998(12) 
+		</sentence>
+	</text>
+</review>

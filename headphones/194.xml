@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="194" item="Targus Noise Cancellation Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) but(4) brakes(5) easily(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="headphones" opWords="5" potency="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) sound(2) quality(3) ,(4) good(5) battery(6) life(7) ,(8) long(9) cable(10) ,(11) compact(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="battery life" featWords="6,7" opWords="5"/>
+			<opinion polarity="+" feature="cord" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="portability" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			breaks(1) easily(2) ,(3) wires(4) easily(5) damaged(6) 
+			<opinion polarity="-" feature="durability" opWords="1" potency="2"/>
+			<opinion polarity="-" feature="durability" opWords="6" potency="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) 2(3) of(4) these(5) headphones(6) ,(7) wanting(8) better(9) sound(10) quality(11) than(12) the(13) cheap(14) headphones(15) I(16) had(17) before(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			They(1) had(2) nice(3) long(4) cables(5) ,(6) and(7) came(8) with(9) a(10) set(11) of(12) batteries(13) .(14) 
+			<opinion polarity="+" feature="cord" featWords="5" opWords="3"/>
+			<opinion polarity="+" feature="cord" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) traveled(2) around(3) with(4) one(5) pair(6) ,(7) and(8) left(9) the(10) other(11) pair(12) at(13) home(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			I(1) listened(2) to(3) music(4) with(5) them(6) daily(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Battery(1) life(2) was(3) good(4) ,(5) one(6) month(7) of(8) use(9) and(10) the(11) battery(12) did(13) not(14) seem(15) to(16) die(17) out(18) .(19) 
+			<opinion polarity="+" feature="battery life" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			After(1) that(2) month(3) ,(4) the(5) left(6) speaker(7) went(8) out(9) on(10) one(11) of(12) them(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) took(2) it(3) apart(4) and(5) found(6) a(7) frayed(8) wire(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Tried(1) to(2) fix(3) it(4) ,(5) but(6) did(7) not(8) work(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			After(1) another(2) week(3) ,(4) the(5) other(6) headphone(7) 's(8) left(9) speaker(10) went(11) out(12) too(13) !(14) 
+		</sentence>
+		<sentence id="10">
+			Again(1) ,(2) another(3) frayed(4) wire(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			It(1) seems(2) that(3) 's(4) a(5) problem(6) with(7) the(8) headphone(9) 's(10) wires(11) .(12) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="262" item="2000 Nissan Maxima" rating="3">
+	<title>
+		<sentence id="1">
+			SE(1) 2000(2) !(3) !(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handling(1) ,(2) acceleration(3) ,(4) style(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			stalls(1) in(2) cold(3) weather(4) when(5) put(6) into(7) gear(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) an(3) awesome(4) car(5) to(6) drive(7) ;(8) 222(9) horsepower(10) that(11) eat(12) up(13) the(14) corners(15) !(16) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) ride(2) is(3) comfortable(4) ,(5) but(6) tends(7) to(8) "(9) bounce(10) "(11) along(12) the(13) seams(14) on(15) some(16) concrete(17) highways(18) .(19) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) acceleration(2) and(3) shifting(4) are(5) great(6) along_with(7) the(8) basic(9) sound(10) system(11) .(12) 
+			<opinion polarity="+" feature="shifter" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			We(1) like(2) the(3) the(4) keyless(5) entry(6) and(7) built-in(8) programmable(9) home(10) security(11) features(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			A(1) hot(2) looking(3) car(4) !(5) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ...(2) I(3) 've(4) had(5) the(6) car(7) since(8) the(9) beginning(10) of(11) November(12) and(13) with(14) the(15) cold(16) weather(17) in(18) Minnesota(19) there(20) are(21) some(22) transmission(23) problems(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			While(1) the(2) car(3) starts(4) readily(5) in(6) cold(7) weather(8) ,(9) unless(10) it(11) is(12) warmed(13) up(14) ((15) remember(16) the(17) 60(18) 's(19) and(20) 70(21) 's(22) when(23) that(24) was(25) a(26) prerequisite(27) ?(28) )(29) ,(30) it(31) stalls(32) when(33) put(34) into(35) gear(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			This(1) has(2) happened(3) repeatedly(4) even(5) when(6) in(7) a(8) garage(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Nissan(1) has(2) run(3) many(4) diagnostic(5) tests(6) and(7) replaced(8) several(9) parts(10) ,(11) but(12) the(13) problem(14) continues(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			As(1) stated(2) in(3) the(4) owner(5) 's(6) manual(7) we(8) are(9) using(10) high(11) octane(12) ((13) 91(14) +(15) )(16) gasoline(17) which(18) the(19) Nissan(20) "(21) team(22) of(23) experts(24) "(25) recommended(26) and(27) said(28) would(29) solve(30) the(31) problem(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			We(1) are(2) now(3) waiting(4) for(5) the(6) regional(7) service(8) manager(9) to(10) arrive(11) in(12) the(13) Mpls(14) .(15) /(16) St(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Paul(1) area(2) to(3) determine(4) what(5) the(6) problem(7) is(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			We(1) were(2) told(3) by(4) the(5) local(6) service(7) manager(8) that(9) we(10) may(11) be(12) told(13) that(14) we(15) need(16) to(17) use(18) a(19) particular(20) brand(21) of(22) gasoline(23) and(24) that(25) the(26) fault(27) lies(28) with(29) our(30) local(31) refinery(32) !(33) 
+		</sentence>
+		<sentence id="14">
+			Excuse(1) me(2) ,(3) should(4) not(5) a(6) car(7) be(8) built(9) to(10) handle(11) many(12) "(13) brands(14) "(15) of(16) gas(17) ?(18) 
+		</sentence>
+		<sentence id="15">
+			And(1) can(2) one(3) be(4) assured(5) that(6) the(7) recommended(8) brand(9) is(10) always(11) available(12) in(13) every(14) city(15) one(16) goes(17) to(18) ?(19) 
+		</sentence>
+		<sentence id="16">
+			We(1) are(2) very(3) frustrated(4) since(5) we(6) are(7) making(8) a(9) lease(10) payment(11) for(12) less(13) than(14) perfect(15) new(16) car(17) !(18) ((19) It(20) was(21) in(22) the(23) shop(24) for(25) 7(26) days(27) after(28) the(29) first(30) 10(31) days(32) we(33) had(34) it(35) .(36) )(37) It(38) 's(39) hard(40) to(41) know(42) if(43) I(44) should(45) recommend(46) this(47) car(48) to(49) a(50) friend(51) ;(52) other(53) than(54) the(55) stalling(56) problem(57) ,(58) it(59) 's(60) a(61) really(62) great(63) car(64) and(65) I(66) would(67) be(68) hard(69) pressed(70) to(71) find(72) a(73) subsitute(74) .(75) 
+			<opinion polarity="+" feature="car" featWords="64" opWords="63"/>
+			<opinion polarity="+" feature="car" featWords="17" opWords="15"/>
+		</sentence>
+	</text>
+</review>

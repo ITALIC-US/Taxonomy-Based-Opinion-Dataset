@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="761" item="2000 Chrysler Town & Country" rating="3">
+	<title>
+		<sentence id="1">
+			Mixed(1) feelings(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Safe(1) ,(2) comfortable(3) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Various(1) problems(2) at(3) 35,000_miles(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Safe(1) van(2) with(3) quality(4) issues(5) .(6) 
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) a(3) 2000(4) Chrysler_T(5) /(6) C_LXI(7) from(8) a(9) local(10) dealer(11) during(12) the(13) fall(14) of(15) 2000(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			This(1) has(2) been(3) our(4) 4th(5) MOPAR(6) minivan(7) ,(8) and(9) 3rd(10) T(11) /(12) C._We(13) have(14) 3(15) small(16) children(17) ((18) all(19) under(20) 10yrs(21) old(22) )(23) and(24) we(25) would(26) be(27) hard(28) pressed(29) to(30) put(31) them(32) in(33) anything(34) other(35) than(36) a(37) MOPAR(38) minivan(39) .(40) 
+		</sentence>
+		<sentence id="3">
+			Two(1) of(2) the(3) ((4) 4(5) )(6) vans(7) were(8) involved(9) in(10) accidents(11) --(12) one(13) broadsided(14) by(15) a(16) guy(17) in(18) a(19) GM(20) car(21) doing(22) 40mph(23) ,(24) and(25) the(26) other(27) was(28) all(29) but(30) totalled(31) when(32) a(33) guy(34) made(35) a(36) left(37) in(38) front(39) of(40) my(41) wife(42) on(43) a(44) local(45) highway(46) .(47) 
+		</sentence>
+		<sentence id="4">
+			In(1) both(2) cases(3) ,(4) my(5) wife(6) and(7) three(8) little(9) ones(10) sustained(11) no(12) serious(13) injuries(14) ((15) kids(16) also(17) all(18) in(19) car(20) seats(21) )(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			This(1) 2000(2) T(3) /(4) C(5) though(6) ,(7) at(8) a(9) hefty(10) price(11) of(12) $32K(13) ,(14) has(15) been(16) somewhat(17) of(18) a(19) disappointment(20) .(21) 
+			<opinion polarity="-" feature="price" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			At(1) 35K_miles(2) ,(3) it(4) 's(5) needed(6) the(7) following(8) service(9) :(10) 1(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Complete(1) front(2) brakes(3) ((4) pads(5) worn(6) to(7) nothing(8) ,(9) rotors(10) too(11) thin(12) to(13) be(14) serviced(15) )(16) ,(17) 2(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Replace(1) both(2) front(3) headlamp(4) assys(5) ((6) fogged(7) up(8) on(9) inside(10) )(11) ,(12) 3(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			A(1) /(2) C(3) does(4) not(5) blow(6) cold(7) ((8) just(9) blows(10) "(11) cool(12) "(13) --(14) been(15) in(16) several(17) times(18) ,(19) no(20) resolution(21) )(22) ,(23) 4(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Battery(1) failed(2) ,(3) 5(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			Stock(1) tires(2) ((3) Michelins(4) )(5) needed(6) replacement(7) at(8) 30K(9) ((10) tread(11) low(12) ,(13) front(14) had(15) torn(16) belt(17) )(18) ,(19) 6(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Intermittant(1) humming(2) noise(3) from(4) DS(5) radio(6) speaker(7) ((8) with(9) radio(10) off(11) )(12) when(13) hitting(14) bumps(15) in(16) the(17) road(18) ,(19) 7(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) "(2) Customer_Care(3) "(4) 800-roadside(5) assistance(6) was(7) poor(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Called(1) twice(2) --(3) once(4) for(5) dead(6) battery(7) and(8) they(9) sent(10) a(11) guy(12) from(13) 35_miles(14) away(15) ((16) took(17) him(18) 1.5hrs(19) to(20) arrive(21) )(22) ,(23) second(24) time(25) for(26) help(27) changing(28) a(29) flat(30) ((31) sent(32) a(33) guy(34) from(35) 12_miles(36) away(37) ,(38) rude(39) teenager(40) showed(41) up(42) also(43) 1.5(44) hrs(45) later(46) after(47) wife(48) already(49) changed(50) flat(51) )(52) .(53) 
+		</sentence>
+		<sentence id="15">
+			For(1) a(2) standard-Caravan(3) or(4) Voyager_I(5) guess(6) we(7) 'd(8) expect(9) some(10) things(11) like(12) this(13) to(14) happen(15) ,(16) but(17) for(18) tires(19) /(20) brakes(21) at(22) 35K(23) and(24) the(25) other(26) plethera(27) of(28) maintenance(29) issues(30) I(31) 'll(32) have(33) to(34) say(35) we(36) 're(37) very(38) disappointed(39) .(40) 
+			<opinion polarity="-" feature="car" opWords="39" potency="38"/>
+		</sentence>
+		<sentence id="16">
+			I(1) hope(2) Chrysler(3) gets(4) their(5) act(6) together(7) or(8) the(9) next(10) vehicle(11) we(12) buy(13) will(14) be(15) an(16) import(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) T(16) /(17) C_LXI(18) ,(19) PS(20) ,(21) PB(22) ,(23) Air(24) ,(25) cloth(26) seats(27) ,(28) CD(29) ,(30) luggage(31) rack(32) ,(33) dual(34) /(35) rear(36) heat(37) 
+		</sentence>
+	</text>
+</review>

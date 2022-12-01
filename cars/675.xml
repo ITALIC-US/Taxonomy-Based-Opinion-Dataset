@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="675" item="1999 Pontiac Grand Prix" rating="3">
+	<title>
+		<sentence id="1">
+			Very(1) unreliable(2) in(3) my(4) opinion(5) 
+			<opinion polarity="-" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) motor(2) ,(3) great(4) acceleration(5) ,(6) comfortable(7) ride(8) 
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="acceleration" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) unreliable(2) .(3) 
+			<opinion polarity="-" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Things(1) wearing(2) out(3) that(4) should(5) not(6) be(7) wearing(8) out(9) after(10) only(11) 130-140,000(12) km.(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) love(2) most(3) aspects(4) of(5) the(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) very(3) upset(4) at(5) GM_Canada(6) ,(7) and(8) the(9) way(10) they(11) treated(12) a(13) lifetime(14) customer(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) being(3) written(4) by(5) someone(6) who(7) since(8) his(9) first(10) vehicle(11) in_1985(12) has(13) sworn(14) by(15) GM(16) products(17) all(18) the(19) way(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			In(1) my(2) mind(3) ,(4) they(5) were(6) the(7) best(8) vehicles(9) on(10) the(11) road(12) .(13) .(14) until(15) now(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			I(1) live(2) in(3) Mississauga(4) ,(5) Ontario(6) ;(7) Canada(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			My(1) wife(2) and(3) I(4) purchased(5) a(6) 1999(7) Pontiac_Grand_Prix_GT(8) 4dr(9) in(10) Sept(11) 2001(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) my(3) 5th(4) GM(5) vehicle(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			At(1) the(2) time(3) the(4) car(5) had(6) 23,000(7) km(8) on(9) it(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			One(1) could(2) assume(3) that(4) the(5) car(6) was(7) being(8) turned(9) back(10) onto(11) the(12) dealer(13) s(14) lot(15) because(16) the(17) lease(18) was(19) up(20) ,(21) or(22) perhaps(23) because(24) it(25) was(26) a(27) lemon(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			I(1) assumed(2) the(3) first(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			Turns(1) out(2) I(3) was(4) dead(5) wrong(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Thankfully(1) ,(2) I(3) purchased(4) the(5) extended(6) warranty(7) which(8) was(9) around(10) $800(11) extra(12) ,(13) because(14) over(15) the(16) next(17) 2(18) years(19) ,(20) the(21) GM(22) dealer(23) poured(24) another(25) $1600(26) of(27) work(28) into(29) this(30) car(31) in(32) warranty(33) work(34) for(35) all(36) kinds(37) of(38) various(39) things(40) .(41) 
+		</sentence>
+		<sentence id="11">
+			Like(1) any(2) car(3) ,(4) mine(5) has(6) seen(7) some(8) wear(9) &(10) tear(11) and(12) is(13) now(14) up(15) to(16) 146,000(17) km(18) ,(19) and(20) there(21) s(22) been(23) the(24) usual(25) brakes(26) &(27) cylinders(28) replacements(29) ,(30) tire(31) changes(32) ,(33) and(34) all(35) the(36) normal(37) tune(38) ups(39) &(40) oil(41) changes(42) etc(43) that(44) go(45) with(46) owning(47) a(48) car(49) .(50) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) no(3) issues(4) with(5) normal(6) wear(7) &(8) tear(9) problems(10) it(11) s(12) a(13) part(14) of(15) life(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) what(3) has(4) happened(5) with(6) my(7) car(8) in(9) the(10) past(11) 4(12) months(13) ,(14) has(15) got(16) me(17) thinking(18) ,(19) I(20) ve(21) purchased(22) my(23) very(24) last(25) GM(26) car(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			First(1) up(2) was(3) the(4) heater(5) transistor(6) needed(7) replacing(8) ,(9) although(10) it(11) had(12) been(13) replaced(14) not(15) 13(16) months(17) earlier(18) .(19) $150(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Next(1) up(2) ,(3) the(4) heater(5) motor(6) ran(7) out(8) of(9) oil(10) so(11) it(12) started(13) to(14) make(15) a(16) howling(17) noise(18) everytime(19) someone(20) touched(21) the(22) brakes(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			Thankfully(1) a(2) GM(3) mechanic(4) was(5) able(6) to(7) force(8) some(9) oil(10) back(11) into(12) heater(13) motor(14) and(15) he(16) did(17) it(18) at(19) no(20) charge(21) ,(22) but(23) put(24) me(25) on(26) notice(27) that(28) it(29) s(30) just(31) a(32) matter(33) of(34) time(35) before(36) the(37) motor(38) goes(39) and(40) the(41) part(42) itself(43) will(44) be(45) $180(46) .(47) 
+		</sentence>
+		<sentence id="17">
+			Next(1) up(2) ,(3) throughout(4) October(5) &(6) November(7) ,(8) we(9) started(10) to(11) notice(12) that(13) everytime(14) we(15) had(16) the(17) car(18) parked(19) on(20) our(21) driveway(22) outside(23) and(24) it(25) snowed(26) or(27) rained(28) ,(29) that(30) there(31) was(32) water(33) on(34) the(35) floor(36) of(37) the(38) front(39) passenger(40) side(41) of(42) the(43) car(44) .(45) 
+		</sentence>
+		<sentence id="18">
+			Turns(1) out(2) there(3) was(4) a(5) leak(6) up(7) behind(8) the(9) heater(10) somewhere(11) due(12) to(13) rust(14) .(15) $550(16) to(17) plug(18) that(19) leak(20) ,(21) just(22) before(23) Xmas(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			GM(1) has(2) been(3) selling(4) cars(5) in(6) Canada(7) for(8) over(9) 80(10) years(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			You(1) think(2) they(3) know(4) that(5) salt(6) is(7) used(8) on(9) the(10) roads(11) here(12) in(13) Ontario(14) in(15) the(16) winter(17) ,(18) and(19) build(20) a(21) car(22) with(23) metal(24) that(25) can(26) stand(27) more(28) than(29) 5(30) yrs(31) on(32) the(33) road(34) .(35) 
+		</sentence>
+		<sentence id="21">
+			The(1) next(2) quality(3) based(4) issue(5) was(6) Jan(7) 5th(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			I(1) m(2) driving(3) to(4) work(5) on(6) a(7) morning(8) when(9) it(10) s(11) getting(12) colder(13) outside(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			I(1) put(2) my(3) window(4) down(5) to(6) have(7) a(8) smoke(9) and(10) it(11) stops(12) working(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			New(1) electrical(2) switch(3) required(4) to(5) get(6) the(7) power(8) window(9) going(10) .(11) $372(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			Since(1) the(2) beginning(3) of(4) December(5) ,(6) I(7) ve(8) spent(9) $1090(10) on(11) items(12) that(13) I(14) don(15) t(16) necessarily(17) see(18) as(19) wear(20) &(21) tear(22) .(23) not(24) in(25) a(26) car(27) that(28) s(29) only(30) got(31) 146,000(32) km(33) on(34) it(35) and(36) fairly(37) well(38) taken(39) care(40) of(41) .(42) 
+		</sentence>
+		<sentence id="26">
+			I(1) could(2) see(3) it(4) if(5) this(6) was(7) a(8) car(9) with(10) 200,000(11) +(12) km(13) that(14) some(15) of(16) the(17) things(18) that(19) have(20) happened(21) to(22) me(23) in(24) the(25) past(26) month(27) ,(28) would(29) happen(30) through(31) wear(32) &(33) tear(34) ,(35) but(36) not(37) on(38) this(39) car(40) ,(41) not(42) this(43) early(44) .(45) 
+		</sentence>
+		<sentence id="27">
+			In(1) my(2) opinion(3) ,(4) GM(5) has(6) completely(7) lost(8) it(9) s(10) focus(11) when(12) it(13) comes(14) to(15) securing(16) quality(17) parts(18) &(19) components(20) to(21) build(22) it(23) s(24) cars(25) and(26) /(27) or(28) the(29) quality(30) of(31) work(32) that(33) goes(34) into(35) building(36) their(37) vehicles(38) is(39) way(40) lower(41) than(42) what(43) it(44) used(45) to(46) be(47) .(48) 
+		</sentence>
+		<sentence id="28">
+			I(1) ve(2) decided(3) that(4) I(5) m(6) not(7) going(8) to(9) be(10) one(11) of(12) the(13) people(14) that(15) continues(16) to(17) finance(18) GM(19) s(20) Quality_Assurance_Long_Term(21) testing(22) program(23) any(24) longer(25) ,(26) where(27) the(28) lucky(29) winner(30) gets(31) to(32) fork(33) over(34) money(35) to(36) fix(37) GM(38) s(39) problems(40) ,(41) and(42) they(43) say(44) thank(45) you(46) very(47) much(48) for(49) the(50) money(51) and(52) keep(53) the(54) data(55) .(56) 
+		</sentence>
+		<sentence id="29">
+			After(1) each(2) incident(3) ,(4) I(5) sent(6) an(7) email(8) to(9) GM(10) on(11) their(12) website(13) ,(14) documenting(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			After(1) the(2) patch(3) the(4) rust(5) box(6) incident(7) ,(8) I(9) finally(10) got(11) a(12) call(13) from(14) a(15) CSR(16) at(17) GM(18) while(19) I(20) was(21) away(22) on(23) vacation(24) for(25) Xmas(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			We(1) managed(2) to(3) connect(4) just(5) after(6) new(7) year(8) s.(9) While(10) she(11) was(12) nice(13) and(14) quietly(15) listened(16) to(17) me(18) ,(19) there(20) were(21) no(22) offers(23) to(24) do(25) anything(26) for(27) me(28) ,(29) only(30) that(31) she(32) look(33) into(34) a(35) few(36) things(37) and(38) get(39) back(40) to(41) me(42) .(43) 
+		</sentence>
+		<sentence id="32">
+			She(1) finally(2) got(3) back(4) to(5) me(6) and(7) told(8) me(9) that(10) there(11) was(12) nothing(13) GM(14) could(15) do(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			I(1) asked(2) her(3) to(4) escalate(5) my(6) complaint(7) to(8) her(9) supervisor(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			She(1) told(2) me(3) that(4) it(5) would(6) take(7) a(8) couple(9) of(10) days(11) ,(12) but(13) someone(14) would(15) call(16) me(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			Jan(1) 7th(2) ,(3) a(4) supervisor(5) /(6) manager(7) at(8) the(9) GM(10) customer(11) service(12) center(13) got(14) back(15) to(16) me(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			She(1) basically(2) explained(3) to(4) me(5) what(6) the(7) front(8) line(9) representative(10) did(11) ,(12) and(13) that(14) GM(15) is(16) under(17) no(18) obligation(19) contractually(20) to(21) do(22) anything(23) for(24) me(25) ,(26) which(27) I(28) agreed(29) with(30) .(31) 
+		</sentence>
+		<sentence id="37">
+			I(1) told(2) the(3) manager(4) ,(5) I(6) m(7) looking(8) for(9) an(10) exception(11) to(12) GM(13) s(14) policy(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			She(1) explained(2) that(3) there(4) is(5) some(6) leeway(7) on(8) GM(9) s(10) policy(11) ((12) outside_of(13) their(14) contractual(15) obligations(16) )(17) but(18) that(19) my(20) vehicle(21) was(22) too(23) old(24) for(25) consideration(26) to(27) activate(28) it(29) .(30) 
+		</sentence>
+		<sentence id="39">
+			I(1) told(2) the(3) manager(4) that(5) I(6) would(7) like(8) to(9) have(10) my(11) file(12) escalated(13) to(14) her(15) boss(16) to(17) have(18) a(19) discussion(20) with(21) that(22) individual(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			She(1) told(2) me(3) that(4) if(5) I(6) wanted(7) my(8) file(9) escalated(10) ,(11) the(12) proper(13) channel(14) to(15) use(16) would(17) be(18) to(19) call(20) the(21) dealership(22) and(23) get(24) the(25) name(26) of(27) the(28) District_Service_Manager(29) that(30) looks(31) after(32) the(33) dealerships(34) in(35) the(36) geographical(37) area(38) where(39) I(40) bought(41) my(42) car(43) .(44) 
+		</sentence>
+		<sentence id="41">
+			Instead_of(1) offering(2) to(3) provide(4) me(5) with(6) this(7) person(8) s(9) name(10) ,(11) she(12) basically(13) left(14) me(15) with(16) the(17) impression(18) that(19) I(20) had(21) to(22) proactively(23) call(24) the(25) dealership(26) and(27) track(28) down(29) this(30) contact(31) info(32) myself(33) .(34) 
+		</sentence>
+		<sentence id="42">
+			I(1) continued(2) to(3) ask(4) this(5) manager(6) for(7) the(8) name(9) of(10) her(11) boss(12) ,(13) and(14) she(15) continued(16) to(17) tell(18) me(19) that(20) I(21) had(22) to(23) call(24) the(25) dealership(26) where(27) I(28) bought(29) my(30) car(31) from(32) .(33) 
+		</sentence>
+		<sentence id="43">
+			We(1) went(2) around(3) in(4) circles(5) three(6) or(7) four_times(8) with(9) my(10) query(11) and(12) this(13) response(14) from(15) her(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			She(1) has(2) a(3) boss(4) ,(5) and(6) I(7) wanted(8) to(9) speak(10) to(11) that(12) person(13) .(14) 
+		</sentence>
+		<sentence id="45">
+			She(1) refused(2) to(3) provide(4) me(5) with(6) that(7) person(8) s(9) name(10) or(11) contact(12) info(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			Near(1) the(2) tail(3) end(4) of(5) our(6) discussion(7) ,(8) she(9) told(10) me(11) ,(12) we(13) ve(14) been(15) through(16) this(17) three_times(18) already(19) ,(20) and(21) the(22) response(23) is(24) the(25) same(26) ,(27) and(28) you(29) get(30) the(31) same(32) response(33) from(34) anyone(35) else(36) here(37) .(38) 
+		</sentence>
+		<sentence id="47">
+			I(1) happen(2) to(3) find(4) this(5) manager(6) s(7) handling(8) of(9) my(10) call(11) ,(12) quite(13) rude(14) and(15) non(16) customer(17) service(18) focused(19) .(20) 
+		</sentence>
+		<sentence id="48">
+			I(1) asked(2) to(3) speak(4) to(5) her(6) superior(7) ,(8) ((9) perhaps(10) not(11) right(12) that(13) second(14) but(15) eventually(16) )(17) and(18) she(19) refused(20) me(21) on(22) multiple(23) counts(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			I(1) can(2) assure(3) you(4) ,(5) that(6) in(7) my(8) business(9) ,(10) that(11) would(12) not(13) happen(14) .(15) 
+		</sentence>
+		<sentence id="50">
+			A(1) 3(2) page(3) letter(4) has(5) been(6) sent(7) to(8) the(9) president(10) of(11) GM_Canada(12) about(13) my(14) recent(15) experiences(16) .(17) 
+		</sentence>
+		<sentence id="51">
+			We(1) ll(2) see(3) if(4) it(5) even(6) makes(7) it(8) into(9) his(10) office(11) ,(12) let(13) alone(14) me(15) getting(16) some(17) useless(18) reply(19) .(20) 
+		</sentence>
+		<sentence id="52">
+			As(1) of(2) January_19th(3) ,(4) there(5) s(6) been(7) no(8) reply(9) .(10) 
+		</sentence>
+		<sentence id="53">
+			To(1) add(2) even(3) more(4) misery(5) to(6) this(7) pathetic(8) story(9) ;(10) Jan(11) 15th(12) ,(13) I(14) take(15) my(16) car(17) into(18) a(19) Goodyear_Auto_Service(20) shop(21) to(22) get(23) them(24) to(25) look(26) at(27) a(28) hum(29) that(30) just(31) developed(32) in(33) the(34) past(35) couple(36) of(37) days(38) .(39) 
+		</sentence>
+		<sentence id="54">
+			I(1) m(2) nervous(3) that(4) it(5) s(6) the(7) power(8) train(9) or(10) transmission(11) .(12) 
+		</sentence>
+		<sentence id="55">
+			Nope(1) ,(2) it(3) s(4) both(5) front(6) wheel(7) bearings(8) ,(9) tighten(10) up(11) a(12) tie(13) rod(14) ,(15) and(16) a(17) wheel(18) alignment(19) .(20) 
+		</sentence>
+		<sentence id="56">
+			With(1) taxes(2) another(3) $1900(4) .(5) 
+		</sentence>
+		<sentence id="57">
+			Of(1) course(2) ,(3) today(4) s(5) repair(6) is(7) normal(8) wear(9) and(10) tear(11) ,(12) but(13) still(14) adds(15) to(16) the(17) overall(18) total(19) that(20) I(21) ve(22) forked(23) over(24) recently(25) .(26) 
+		</sentence>
+		<sentence id="58">
+			Not(1) counting(2) gas(3) ,(4) insurance(5) ,(6) highway(7) toll(8) charges(9) etc(10) ,(11) I(12) ve(13) poured(14) $2900(15) into(16) my(17) car(18) from(19) Dec(20) 1(21) ,(22) 2004(23) to(24) Jan(25) 15(26) ,(27) 2005(28) .(29) 
+		</sentence>
+		<sentence id="59">
+			If(1) you(2) re(3) driving(4) a(5) GM(6) vehicle(7) ,(8) sell(9) it(10) or(11) trade(12) it(13) off(14) .(15) .(16) immediately(17) .(18) .(19) don(20) t(21) wait(22) until(23) you(24) get(25) stuck(26) up(27) the(28) %(29) &(30) *(31) ((32) like(33) me(34) .(35) The(36) only(37) way(38) these(39) big(40) companies(41) will(42) get(43) the(44) message(45) that(46) their(47) manufacturing(48) quality(49) sucks(50) ,(51) is(52) for(53) thousands(54) of(55) consumers(56) to(57) vote(58) with(59) their(60) dollars(61) and(62) buy(63) non(64) North_American(65) made(66) cars(67) .(68) I(69) sent(70) letters(71) a(72) couple(73) days(74) ago(75) to(76) every(77) single(78) member(79) of(80) the(81) GM_Board_of_Directors(82) in(83) Detroit(84) .(85) I(86) eventually(87) did(88) get(89) a(90) call(91) from(92) someone(93) at(94) GM_Canada(95) again(96) ,(97) and(98) like(99) the(100) former(101) experience(102) ,(103) there(104) 's(105) nothing(106) they(107) can(108) do(109) for(110) me(111) ,(112) and(113) the(114) representative(115) tried(116) to(117) suggest(118) that(119) because(120) all(121) of(122) my(123) service(124) work(125) has(126) not(127) been(128) done(129) at(130) a(131) GM(132) dealer(133) ,(134) that(135) could(136) be(137) part(138) of(139) my(140) problems(141) .(142) Please(143) !(144) !(145) !(146) !(147) Me(148) not(149) getting(150) an(151) oil(152) change(153) at(154) my(155) GM(156) dealer(157) has(158) nothing(159) to(160) do(161) with(162) my(163) vehicle(164) rusting(165) out(166) prematurely(167) .(168) We(169) need(170) to(171) let(172) em(173) have(174) it(175) where(176) it(177) hurts(178) the(179) most(180) ,(181) right(182) in(183) the(184) pocket(185) book(186) .(187) If(188) you(189) have(190) recently(191) experienced(192) manufacturing(193) quality(194) problems(195) with(196) you(197) re(198) GM(199) vehicle(200) ,(201) don(202) t(203) keep(204) it(205) quiet(206) .(207) Tell(208) GM(209) ,(210) go(211) to(212) www.gmcanada.com(213) and(214) click(215) on(216) their(217) contact(218) us(219) link(220) at_the_bottom(221) of(222) the(223) home(224) page(225) .(226) April_25_,_2005(227) ;(228) the(229) rusty(230) leak(231) on(232) my(233) car(234) is(235) back(236) .(237) After(238) a(239) rainy(240) weekend(241) ,(242) water(243) is(244) collecting(245) on(246) the(247) passenger(248) side(249) floor(250) .(251) Going(252) back(253) to(254) the(255) dealership(256) tomorrow(257) .(258) We(259) 'll(260) see(261) if(262) they(263) 'll(264) fix(265) their(266) mistakes(267) .(268) I(269) find(270) that(271) the(272) leak(273) that(274) appeared(275) to(276) have(277) returned(278) ,(279) was(280) a(281) new(282) item(283) .(284) The(285) AC(286) lines(287) were(288) plugged(289) with(290) debris(291) which(292) caused(293) the(294) lines(295) to(296) back(297) up(298) and(299) leak(300) fluid(301) onto(302) the(303) car(304) floor(305) ,(306) so(307) not(308) a(309) reoccurence(310) of(311) the(312) first(313) leak(314) fixed(315) in(316) December(317) .(318) New(319) battery(320) installed(321) .(322) And(323) since(324) it(325) was(326) there(327) anyways(328) ,(329) test(330) the(331) AC(332) system(333) and(334) refill(335) any(336) missing(337) freon(338) .(339) All(340) told(341) ,(342) just(343) over(344) $500(345) again(346) .(347) I(348) 'm(349) now(350) up(351) to(352) $3400(353) since(354) December_1st(355) on(356) this(357) car(358) ((359) not(360) counting(361) oil(362) changes(363) etc(364) )(365) .(366) 
+		</sentence>
+		<sentence id="60">
+			Over(1) $1100(2) of(3) which(4) I(5) attribute(6) to(7) manufacturing(8) quality(9) issues(10) ,(11) product(12) quality(13) issues(14) ((15) which(16) is(17) unacceptable(18) )(19) versus(20) normal(21) wear(22) and(23) tear(24) ((25) which(26) I(27) 'm(28) ok(29) with(30) paying(31) for(32) )(33) .(34) 
+		</sentence>
+		<sentence id="61">
+			The(1) ultimate(2) smack(3) in(4) the(5) face(6) was(7) the(8) rude(9) customer(10) service(11) manager(12) from(13) the(14) GM_Canada_Service_Center(15) ,(16) and(17) then(18) one(19) of(20) their(21) reprentatives(22) recently(23) trying(24) to(25) tell(26) me(27) that(28) because(29) I(30) 've(31) not(32) gotten(33) all(34) of(35) my(36) regular(37) maintenance(38) ((39) oil(40) changes(41) etc(42) )(43) done(44) at(45) the(46) dealership(47) ,(48) that(49) is(50) why(51) the(52) rust(53) problem(54) happened(55) and(56) why(57) they(58) can(59) not(60) help(61) me(62) .(63) 
+		</sentence>
+		<sentence id="62">
+			Not(1) only(2) do(3) I(4) feel(5) financially(6) ripped(7) off(8) ,(9) I(10) feel(11) completely(12) dropped(13) by(14) a(15) large(16) corporation(17) that(18) I(19) have(20) been(21) loyal(22) to(23) ,(24) my(25) entire(26) driving(27) life(28) .(29) 
+		</sentence>
+		<sentence id="63">
+			Never(1) again(2) .(3) 
+		</sentence>
+		<sentence id="64">
+			Take(1) note(2) ....(3) their(4) stock(5) price(6) is(7) dropping(8) like(9) a(10) rock(11) for(12) a(13) reason(14) .(15) 
+		</sentence>
+		<sentence id="65">
+			I(1) 'm(2) not(3) the(4) only(5) one(6) that(7) experiencing(8) these(9) nightmares(10) .(11) 
+		</sentence>
+		<sentence id="66">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Grand_Prix_GT(16) 
+		</sentence>
+	</text>
+</review>

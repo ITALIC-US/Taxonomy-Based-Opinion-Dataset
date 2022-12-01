@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="480" item="Philips HN-110 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) performance(2) for(3) a(4) reasonable(5) price(6) 
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) with(2) good(3) passive(4) sound(5) isolation(6) and(7) active(8) noise(9) cancelation(10) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="5,6" opWords="3"/>
+			<opinion polarity="+" feature="isolation" featWords="9,10" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Will(1) not(2) win(3) any(4) audiophile(5) awards(6) ,(7) but(8) sound(9) good(10) 
+			<opinion polarity="+" feature="sound quality" opWords="9,10"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) these(4) headphones(5) to(6) anyone(7) who(8) travels(9) regularly(10) and(11) wants(12) a(13) reasonably(14) priced(15) set(16) of(17) headphones(18) which(19) work(20) pretty(21) well(22) .(23) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) for(4) a(5) set(6) of(7) noise(8) canceling(9) headphones(10) to(11) replace(12) my(13) Aiwa_HP-CN(14) 5(15) ((16) they(17) are(18) pretty(19) uncomfortable(20) on(21) long(22) flights(23) ,(24) do(25) not(26) stay(27) well(28) on(29) my(30) head(31) and(32) have(33) an(34) annoying(35) hiss(36) -(37) but(38) they(39) are(40) 1st(41) generation(42) so(43) I(44) did(45) not(46) have(47) too(48) many(49) choices(50) when(51) I(52) bought(53) them(54) )(55) .(56) 
+		</sentence>
+		<sentence id="2">
+			I(1) went(2) down(3) to(4) my(5) local(6) Target(7) and(8) Best_Buy(9) stores(10) to(11) check(12) out(13) the(14) different(15) options(16) ,(17) and(18) found(19) a(20) set(21) of(22) Sony(23) MDR-NC11(24) for(25) about(26) $100(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			I(1) brought(2) them(3) home(4) and(5) found(6) them(7) almost(8) impossible(9) to(10) put(11) on(12) comfortably(13) ,(14) and(15) they(16) sounded(17) HORRIBLE(18) -(19) So(20) I(21) promptly(22) returned(23) them(24) .(25) 
+			<opinion polarity="-" feature="sound quality" opWords="17,18"/>
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) went(3) back(4) to(5) the(6) store(7) ,(8) the(9) Philips(10) set(11) was(12) sitting(13) right(14) next(15) to(16) the(17) Sonys(18) so(19) I(20) figured(21) I(22) would(23) give(24) them(25) a(26) try(27) ,(28) and(29) at(30) $60(31) I(32) did(33) not(34) think(35) they(36) could(37) be(38) too(39) bad(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) them(3) home(4) and(5) did(6) a(7) quick(8) comparison(9) with(10) my(11) Aiwa(12) set(13) ...(14) 1(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) passive(2) noise(3) cancelation(4) -(5) The(6) cup(7) covered(8) my(9) ears(10) a_lot(11) better(12) and(13) did(14) not(15) place(16) as(17) much(18) pressure(19) on(20) the(21) lobe(22) just(23) outside(24) my(25) ear(26) canal(27) ((28) part(29) of(30) the(31) reason(32) the(33) Aiwa(34) 's(35) got(36) uncomfortable(37) )(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			They(1) did(2) a(3) remarkably(4) good(5) job(6) blocking(7) out(8) noise(9) without(10) even(11) turning(12) on(13) the(14) active(15) noise(16) cancelation(17) system(18) .(19) 2(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			The(1) active(2) noise(3) cancelation(4) -(5) I(6) have(7) not(8) had(9) a(10) chance(11) to(12) test(13) these(14) in(15) an(16) airplane(17) yet(18) ,(19) but(20) they(21) did(22) really(23) well(24) when(25) canceling(26) out(27) the(28) noise(29) of(30) my(31) refridgerator(32) ,(33) the(34) A(35) /(36) C(37) compressor(38) outside(39) and(40) my(41) neighbor(42) 's(43) mower(44) .(45) 
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) really(3) looking(4) forward(5) to(6) my(7) next(8) flight(9) so(10) I(11) can(12) really(13) test(14) it(15) out(16) ,(17) but(18) based(19) on(20) the(21) performance(22) so(23) far(24) I(25) am(26) sure(27) I(28) will(29) not(30) be(31) disappointed(32) .(33) 3(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			The(1) sound(2) quality(3) -(4) In(5) my(6) side(7) by(8) side(9) comparison(10) of(11) the(12) same(13) song(14) ,(15) I(16) found(17) that(18) the(19) Aiwa(20) set(21) produced(22) slightly(23) better(24) high(25) and(26) medium(27) range(28) reproduction(29) ,(30) but(31) the(32) Philips(33) had(34) better(35) bass(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			Typically(1) I(2) would(3) be(4) using(5) these(6) in(7) a(8) noisy(9) environment(10) anyway(11) so(12) I(13) just(14) want(15) the(16) headphones(17) to(18) sound(19) decent(20) and(21) have(22) reasonable(23) bass(24) -(25) which(26) the(27) Philips(28) set(29) provides(30) -(31) I(32) do(33) not(34) think(35) it(36) will(37) win(38) any(39) audiophile(40) awards(41) .(42) 
+		</sentence>
+		<sentence id="12">
+			One(1) huge(2) plus(3) over(4) other(5) sets(6) I(7) have(8) tried(9) is(10) that(11) even(12) when(13) the(14) noise(15) cancelation(16) system(17) is(18) turned(19) on(20) ,(21) there(22) is(23) no(24) annoying(25) hiss(26) !(27) 
+		</sentence>
+		<sentence id="13">
+			Overall(1) ,(2) I(3) would(4) highly(5) recommend(6) these(7) headphones(8) ,(9) they(10) are(11) compact(12) enough(13) when(14) folded(15) down(16) to(17) make(18) them(19) easy(20) traveling(21) companions(22) ,(23) they(24) have(25) a(26) reasonably(27) good(28) sound(29) performance(30) ,(31) with(32) good(33) passive(34) and(35) active(36) noise(37) cancelation(38) at(39) a(40) reasonable(41) price(42) point(43) .(44) 
+			<opinion polarity="+" feature="headphones" featWords="8" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="size" opWords="12"/>
+			<opinion polarity="+" feature="sound quality" featWords="29" opWords="28"/>
+			<opinion polarity="+" feature="isolation" featWords="37,38" opWords="33"/>
+			<opinion polarity="+" feature="price" featWords="42" opWords="41"/>
+		</sentence>
+	</text>
+</review>

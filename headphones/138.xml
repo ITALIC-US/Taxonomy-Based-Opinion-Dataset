@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="138" item="Ultimate Ears super.fi 5 EB�?� Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Absoulte_Waste_Of(1) $200(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) Other_Than_They(2) 're(3) Comfortable(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible_Sound_Quality(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Canalphones(1) are(2) this(3) in(4) a(5) nut(6) shell(7) --(8) good(9) sound(10) in(11) a(12) small(13) size(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="size" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) tried(3) some(4) Shure(5) models(6) and(7) have(8) been(9) impressed(10) with(11) theirs(12) ,(13) but(14) Ultimate_Ears_I(15) 'm(16) not(17) so(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Especially(1) this(2) superfi.5EB(3) model(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) is(4) absoultely(5) horrible(6) ,(7) overbassed(8) ,(9) ridiculously(10) recessed(11) mids(12) ,(13) and(14) bright(15) treble(16) with(17) no(18) clarity(19) to(20) speak(21) of(22) .(23) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="bass" opWords="8"/>
+			<opinion polarity="-" feature="mids" featWords="12" opWords="11" potency="10"/>
+			<opinion polarity="-" feature="highs" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="5">
+			Absoulte(1) garbage(2) sound(3) .(4) 
+			<opinion polarity="-" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 'd(2) even(3) say(4) a(5) good(6) pair(7) of(8) Sennheiser(9) HD202s(10) or(11) Koss(12) UR21s(13) are(14) way(15) sonically(16) better(17) than(18) these(19) in(20) sound(21) quality(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) comfortable(3) and(4) small(5) ,(6) and(7) they(8) are(9) also(10) much(11) too(12) expensive(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="size" opWords="5"/>
+			<opinion polarity="-" feature="price" opWords="12,13" potency="11"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 'd(2) never(3) pay(4) $200(5) for(6) a(7) set(8) like(9) this(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Absoultely(1) disgusting(2) sound(3) quality(4) .(5) 
+			<opinion polarity="-" feature="sound quality" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="10">
+			I(1) 'd(2) recommend(3) almost(4) any(5) canalphone(6) than(7) this(8) ,(9) the(10) Shure(11) E2C(12) completely(13) blows(14) this(15) away(16) .(17) 
+		</sentence>
+	</text>
+</review>

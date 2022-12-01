@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="419" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			Great_First_Car(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			My_First_Love(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas_Saver(1) ,(2) Small(3) ,(4) Dependable(5) most(6) of(7) the(8) time(9) .(10) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parts(1) availability(2) ,(3) ugly(4) shape(5) ,(6) inside(7) door(8) panels(9) very(10) fragile(11) ,(12) has(13) a(14) mind(15) of(16) its(17) own(18) .(19) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) get(3) it(4) as(5) a(6) beginner(7) car(8) or(9) as(10) a(11) work(12) car(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Good(1) on(2) gas(3) and(4) cheap(5) insurance(6) .(7) 
+			<opinion polarity="+" feature="gas" featWords="3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) my(2) first(3) real(4) car(5) was(6) the(7) 1992(8) Saturn(9) SL1(10) which(11) i(12) adored(13) and(14) loved(15) to(16) death(17) until(18) the(19) day(20) a(21) year(22) and(23) a_half(24) later(25) my(26) car(27) had(28) oil(29) problems(30) and(31) made(32) valve(33) sounds(34) ,(35) thats(36) when(37) i(38) lost(39) faith(40) .(41) 
+		</sentence>
+		<sentence id="2">
+			Why(1) you(2) ask(3) i(4) lost(5) faith(6) ?(7) 
+		</sentence>
+		<sentence id="3">
+			Cuz(1) we(2) rebuilt(3) the(4) bad(5) boy(6) engine(7) from(8) head(9) to(10) toe(11) replacing(12) EVERYTHING(13) that(14) was(15) essential(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			It(1) only(2) has(3) 5,000_miles(4) on(5) the(6) new(7) engine(8) then(9) it(10) went(11) poop(12) on(13) me(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Had(1) no(2) idea(3) what(4) it(5) was(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Oil(1) light(2) was(3) on(4) ,(5) car(6) wouldnt(7) accelerate(8) normally(9) and(10) would(11) slowly(12) get(13) going(14) ,(15) made(16) very(17) loud(18) valve(19) sounds(20) ,(21) almost(22) stall(23) after(24) i(25) would(26) put(27) the(28) clutch(29) in(30) ,(31) and(32) the(33) engine(34) would(35) over(36) heat(37) really(38) fast(39) .(40) 
+		</sentence>
+		<sentence id="7">
+			I(1) finally(2) took(3) it(4) into(5) the(6) dealer(7) ((8) which(9) took(10) forever(11) cuz(12) they(13) were(14) so(15) "(16) busy(17) "(18) )(19) and(20) they(21) determined(22) it(23) as(24) the(25) timing(26) chain(27) problem(28) which(29) they(30) could(31) fix(32) /(33) replace(34) for(35) $600(36) ,(37) so(38) i(39) said(40) screw(41) that(42) and(43) had(44) my(45) dad(46) fix(47) it(48) for(49) $(50) 0(51) and(52) it(53) was(54) the(55) timing(56) chain(57) .(58) 
+		</sentence>
+		<sentence id="8">
+			It(1) had(2) skipped(3) a(4) tooth(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			Dont(1) ask(2) me(3) why(4) or(5) how(6) cuz(7) I(8) wasnt(9) that(10) hard(11) on(12) it(13) and(14) my(15) dad(16) is(17) a(18) great(19) mechanic(20) so(21) it(22) has(23) a(24) little(25) mind(26) of(27) its(28) own(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			I(1) still(2) sometimes(3) think(4) about(5) my(6) first(7) love(8) but(9) then(10) i(11) get(12) disappointed(13) and(14) sad(15) so(16) im(17) selling(18) it(19) now(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			I(1) just(2) need(3) to(4) move(5) on(6) to(7) something(8) better(9) and(10) worth(11) my(12) time(13) to(14) deck(15) out(16) cuz(17) i(18) am(19) one(20) of(21) those(22) foreign(23) car(24) racing(25) enthusiasts(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			If(1) i(2) were(3) a(4) teenager(5) looking(6) for(7) a(8) first(9) dependable(10) car(11) ,(12) i(13) would(14) definately(15) consider(16) a(17) Saturn(18) .(19) 
+			<opinion polarity="+" feature="reliability" opWords="10"/>
+		</sentence>
+		<sentence id="13">
+			Dont(1) get(2) me(3) wrong(4) ,(5) i(6) dont(7) hate(8) them(9) ,(10) they(11) are(12) great(13) built(14) cars(15) ,(16) i(17) just(18) need(19) to(20) move(21) on(22) and(23) get(24) something(25) different(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="13,14"/>
+		</sentence>
+		<sentence id="14">
+			The(1) parts(2) are(3) really(4) hard(5) to(6) find(7) like(8) at(9) NAPA(10) or(11) Auto_Zone(12) which(13) forces(14) you(15) to(16) go(17) to(18) the(19) dealer(20) which(21) can(22) be(23) expensive(24) depending(25) on(26) the(27) part(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			They(1) are(2) really(3) really(4) easy(5) to(6) work(7) on(8) ,(9) everything(10) was(11) placed(12) greatly(13) and(14) it(15) is(16) a(17) breeze(18) to(19) work(20) on(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			I(1) 'm(2) going(3) to(4) buy(5) the(6) Saturn_SUV(7) for(8) my(9) wife(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			The(1) gray(2) interior(3) is(4) good(5) looking(6) and(7) wont(8) crack(9) or(10) chip(11) due(12) to(13) strong(14) material(15) ,(16) but(17) if(18) you(19) take(20) it(21) out(22) carelessly(23) ,(24) the(25) little(26) clips(27) that(28) hold(29) it(30) on(31) do(32) break(33) easily(34) and(35) it(36) wont(37) stay(38) on(39) like(40) normal(41) .(42) 
+			<opinion polarity="+" feature="material" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="interior" featWords="3" opWords="5,6"/>
+		</sentence>
+		<sentence id="18">
+			The(1) seats(2) are(3) ok(4) and(5) are(6) comfy(7) for(8) a(9) while(10) cuz(11) they(12) are(13) bucket(14) seats(15) but(16) they(17) dont(18) take(19) abuse(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="19">
+			Mine(1) have(2) tear(3) and(4) wear(5) all(6) over(7) them(8) and(9) i(10) am(11) a(12) neat(13) freak(14) and(15) clean(16) my(17) car(18) every(19) weak(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			I(1) 've(2) seen(3) a_lot_of(4) Saturns(5) that(6) have(7) the(8) same(9) problem(10) i(11) do(12) ,(13) and(14) that(15) is(16) the(17) windshield(18) gets(19) scratched(20) by(21) the(22) wipers(23) and(24) leaves(25) two(26) lines(27) there(28) ,(29) forever(30) .(31) 
+		</sentence>
+		<sentence id="21">
+			Trunk(1) space(2) is(3) ok(4) and(5) can(6) fit(7) a_lot(8) in(9) it(10) ,(11) has(12) a(13) small(14) spare(15) tire(16) with(17) a(18) jack(19) .(20) 
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			The(1) drive(2) and(3) handling(4) is(5) like(6) a(7) luxury(8) car(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			The(1) shifting(2) is(3) sooooo(4) smooth(5) and(6) comfortable(7) even_though(8) the(9) shifter(10) squeaks(11) when(12) in(13) certain(14) spots(15) and(16) the(17) drive(18) axle(19) or(20) the(21) suspension(22) makes(23) noises(24) when(25) going(26) over(27) bumps(28) .(29) 
+			<opinion polarity="-" feature="shifter" featWords="10" opWords="11"/>
+			<opinion polarity="+" feature="shifter" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="shifter" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="24">
+			The(1) windows(2) inside(3) have(4) a(5) few(6) rust(7) spots(8) on(9) them(10) where(11) the(12) metal(13) is(14) and(15) the(16) inside(17) door(18) panels(19) are(20) pathetic(21) and(22) are(23) very(24) fragile(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			The(1) driver(2) window(3) regulator(4) doesnt(5) work(6) so(7) anyone(8) could(9) push(10) down(11) on(12) my(13) window(14) and(15) could(16) get(17) in(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			The(1) stereo(2) is(3) good(4) except(5) the(6) speakers(7) work(8) WAY(9) better(10) with(11) a(12) cd(13) player(14) installed(15) .(16) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			I(1) didnt(2) need(3) to(4) buy(5) other(6) speakers(7) cuz(8) my(9) factory(10) ones(11) do(12) an(13) excellent(14) job(15) .(16) 
+		</sentence>
+		<sentence id="28">
+			My(1) the(2) a(3) /(4) c(5) still(6) works(7) great(8) and(9) blows(10) ice(11) cold(12) except(13) slows(14) the(15) car(16) down(17) big(18) time(19) .(20) 
+		</sentence>
+		<sentence id="29">
+			Other(1) than(2) that(3) ,(4) this(5) car(6) is(7) great(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="30">
+			The(1) plastic(2) panels(3) on(4) the(5) outside(6) are(7) great(8) cuz(9) they(10) wont(11) rust(12) or(13) dent(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			I(1) would(2) highly(3) recommend(4) a(5) Saturn(6) to(7) anyone(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="32">
+			This(1) car(2) had(3) the(4) 1.9_Liter(5) ,(6) 85(7) horsepower(8) ,(9) 4(10) cylinder(11) ,(12) SOHC(13) ((14) Single_Over_Head_Cam(15) )(16) engine(17) ,(18) 5(19) speed(20) manual(21) transmission(22) which(23) shifts(24) very(25) smoothly(26) ,(27) and(28) front(29) wheel(30) drive(31) which(32) is(33) really(34) helpful(35) in(36) the(37) winter(38) time(39) .(40) 
+			<opinion polarity="+" feature="shifter" opWords="24,26" potency="25"/>
+		</sentence>
+		<sentence id="33">
+			The(1) heater(2) is(3) great(4) and(5) the(6) a(7) /(8) c(9) can(10) be(11) ice(12) cold(13) when(14) it(15) is(16) charged(17) up(18) even_though(19) it(20) slows(21) the(22) car(23) down(24) tremendously(25) when(26) it(27) is(28) on(29) .(30) 
+			<opinion polarity="+" feature="heat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="34">
+			My(1) power(2) door(3) locks(4) didnt(5) work(6) for(7) a(8) while(9) until(10) i(11) took(12) the(13) lighter(14) out(15) which(16) was(17) the(18) problem(19) .(20) 
+		</sentence>
+		<sentence id="35">
+			The(1) window(2) regulators(3) are(4) getting(5) harder(6) to(7) turn(8) and(9) the(10) inside(11) door(12) panels(13) are(14) very(15) fragile(16) and(17) crack(18) and(19) pop(20) out(21) easily(22) .(23) 
+		</sentence>
+		<sentence id="36">
+			It(1) has(2) a(3) trunk(4) and(5) gas(6) cap(7) release(8) button(9) 's(10) inside(11) which(12) is(13) really(14) helpful(15) .(16) 
+		</sentence>
+		<sentence id="37">
+			Good(1) trunk(2) space(3) and(4) a(5) small(6) donut(7) spare(8) tire(9) with(10) a(11) great(12) wrench(13) that(14) works(15) great(16) .(17) 
+			<opinion polarity="+" feature="trunk space" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="38">
+			The(1) design(2) for(3) the(4) hub(5) caps(6) are(7) great(8) cuz(9) they(10) screw(11) on(12) to(13) the(14) tire(15) so(16) they(17) can(18) not(19) fall(20) off(21) .(22) 
+		</sentence>
+		<sentence id="39">
+			The(1) car(2) on(3) average(4) gets(5) 28-31(6) mpg(7) which(8) is(9) great(10) for(11) a(12) little(13) car(14) .(15) 
+		</sentence>
+		<sentence id="40">
+			The(1) '(2) Service_Engine_Soon(3) '(4) light(5) always(6) comes(7) on(8) when(9) there(10) is(11) nothing(12) wrong(13) and(14) i(15) have(16) talked(17) to(18) a(19) couple(20) of(21) friends(22) who(23) own(24) a(25) Saturn(26) and(27) they(28) have(29) the(30) same(31) problem(32) .(33) 
+		</sentence>
+		<sentence id="41">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 1,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) SL1(16) 5(17) speed(18) manual(19) 
+		</sentence>
+	</text>
+</review>

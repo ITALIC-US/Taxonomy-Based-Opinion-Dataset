@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="350" item="Sony MDR-V700DJ Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) headphones(3) in(4) the(5) world(6) --(7) you(8) better(9) believe(10) it(11) !(12) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfy(1) ,(2) great(3) quality(4) and(5) sound(6) ,(7) good(8) looking(9) ,(10) overall(11) awesome(12) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="headphones" opWords="3,4"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="3"/>
+			<opinion polarity="+" feature="appearance" opWords="8,9"/>
+			<opinion polarity="+" feature="headphones" opWords="12" potency="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Finish(1) can(2) scratch(3) if(4) you(5) do(6) not(7) watch(8) it(9) ,(10) very(11) big(12) but(13) not(14) too(15) bad(16) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) phones(4) because(5) I(6) just(7) got(8) a(9) new(10) MD(11) player(12) and(13) Stereo(14) ,(15) and(16) wanted(17) some(18) quality(19) when(20) I(21) listened(22) to(23) them(24) privately(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			So(1) I(2) rounded(3) up(4) 105(5) bucks(6) and(7) bought(8) these(9) awesome(10) headphones(11) .(12) 
+			<opinion polarity="+" feature="headphones" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			Bottom_Line-They(1) are(2) my(3) pride(4) and(5) joy(6) ,(7) one(8) of(9) the(10) nicest(11) and(12) most(13) quality(14) things(15) I(16) own(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) a_bit(3) big(4) and(5) heavy(6) ,(7) but(8) are(9) cool-looking(10) ,(11) futuristic-techno(12) ,(13) and(14) pamper(15) your(16) ears(17) with(18) leatherette(19) ear(20) pads(21) that(22) are(23) so(24) soft(25) ,(26) and(27) a(28) nice(29) big(30) headband(31) .(32) 
+			<opinion polarity="-" feature="size" opWords="4" potency="3"/>
+			<opinion polarity="-" feature="weight" opWords="6"/>
+			<opinion polarity="+" feature="appearance" opWords="10"/>
+			<opinion polarity="+" feature="earpads" opWords="25" potency="24"/>
+			<opinion polarity="+" feature="headband" featWords="31" opWords="29"/>
+			<opinion polarity="+" feature="headband" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="5">
+			do(1) not(2) let(3) ANYONE(4) tell(5) you(6) they(7) are(8) low(9) quality(10) ,(11) that(12) the(13) headband(14) sucks(15) ;(16) take(17) it(18) from(19) me(20) ,(21) it(22) does(23) not(24) .(25) 
+			<opinion polarity="-" feature="headband" featWords="14" opWords="15"/>
+		</sentence>
+		<sentence id="6">
+			It(1) seems(2) perfectly(3) well(4) padded(5) and(6) feels(7) great(8) on(9) anyone(10) ,(11) and(12) all(13) my(14) friends(15) love(16) listening(17) to(18) it(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="4,5"/>
+			<opinion polarity="+" feature="comfort" opWords="7,8"/>
+		</sentence>
+		<sentence id="7">
+			It(1) really(2) blew(3) me(4) away(5) when(6) I(7) first(8) got(9) them(10) and(11) listened(12) to(13) them(14) ,(15) since(16) the(17) sound(18) quality(19) is(20) phenomenal(21) .(22) 
+			<opinion polarity="+" feature="sound quality" featWords="18,19" opWords="21"/>
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) want(3) to(4) blow(5) $14,000(6) getting(7) super-hyper-Denon-electrostatic-30-pound-freak-headphones(8) ,(9) go(10) right(11) ahead(12) but(13) this(14) is(15) enough(16) sound(17) for(18) any(19) normal(20) person(21) ,(22) and(23) its(24) frequency(25) range(26) and(27) sound(28) ,(29) as_well(30) as(31) the(32) drivers(33) ,(34) are(35) identical(36) to(37) the(38) pricier(39) MDR-V900(40) ,(41) just(42) their(43) earpads(44) have(45) a(46) different(47) design(48) ,(49) and(50) do(51) not(52) have(53) the(54) amorphous(55) diaphragms(56) ,(57) but(58) who(59) needs(60) those(61) ?(62) 
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) the(3) best(4) and(5) most(6) intriguing(7) styling(8) of(9) any(10) headphones(11) I(12) 've(13) ever(14) seen(15) ,(16) a_real(17) jaw(18) dropper(19) .(20) 
+			<opinion polarity="+" feature="appearance" featWords="8" opWords="4"/>
+			<opinion polarity="+" feature="appearance" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) flaw(3) is(4) that(5) they(6) are(7) so(8) big(9) ,(10) it(11) 's(12) hard(13) to(14) keep(15) them(16) around(17) your(18) neck(19) ,(20) but(21) you(22) can(23) do(24) it(25) still(26) .(27) 
+			<opinion polarity="-" feature="size" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="11">
+			Just(1) watch(2) out(3) since(4) the(5) silver(6) finish(7) can(8) get(9) scratched(10) off(11) if(12) you(13) are(14) careless(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Otherwise(1) ,(2) you(3) are(4) not(5) truly(6) listening(7) to(8) music(9) if(10) you(11) are(12) using(13) the(14) 6.99(15) headphones(16) that(17) came(18) with(19) your(20) walkman(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			The(1) quality(2) is(3) not(4) there(5) ,(6) you(7) are(8) wasting(9) your(10) time(11) if(12) you(13) are(14) not(15) using(16) these(17) headphones(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Buy(1) now(2) and(3) enjoy(4) some(5) great(6) sound(7) and(8) comfort(9) !(10) 
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="comfort" featWords="9" opWords="6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="557" item="2004 Scion xB" rating="3">
+	<title>
+		<sentence id="1">
+			Poorly(1) designed(2) bumper(3) assembly(4) 
+			<opinion polarity="-" feature="design" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) car(2) if(3) better(4) designed(5) bumper(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Please(1) refer(2) to(3) the(4) above(5) comments(6) in(7) the(8) body(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Poor(1) bumper(2) assembly(3) and(4) poor(5) customer(6) assistance(7) at(8) the(9) dealer(10) .(11) 
+			<opinion polarity="-" feature="bumper" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) plastic(2) frame(3) and(4) plastic(5) screws(6) holding(7) the(8) bumper(9) together(10) are(11) very(12) poorly(13) designed(14) .(15) 
+			<opinion polarity="-" feature="design" opWords="13,14" potency="12"/>
+		</sentence>
+		<sentence id="2">
+			A(1) twig(2) or(3) pump(4) in(5) road(6) can(7) cause(8) the(9) screw(10) to(11) break(12) loose(13) from(14) the(15) plastic(16) frame(17) causing(18) a(19) horrible(20) noise(21) as(22) the(23) plastic(24) drags(25) on(26) the(27) ground(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			Neither(1) Toyota(2) or(3) the(4) dealer(5) will(6) take(7) any(8) responsibility(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) told(3) that(4) the(5) entire(6) bumper(7) in(8) perfect(9) condition(10) needed(11) to(12) be(13) replace(14) for(15) $(16) 425.00(17) plus(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Many(1) calls(2) were(3) made(4) to(5) Scion(6) representatives(7) who(8) stated(9) that(10) Toyota(11) was(12) not(13) likely(14) to(15) change(16) their(17) bumper(18) design(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Mind(1) you(2) the(3) only(4) thing(5) broken(6) is(7) a(8) plastic(9) screw(10) on(11) the(12) left(13) drivers(14) side(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			We(1) were(2) told(3) to(4) go(5) to(6) a(7) body(8) shop(9) and(10) have(11) it(12) repaired(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			The(1) price(2) of(3) drilling(4) a(5) new(6) hole(7) and(8) replacing(9) the(10) screw(11) $(12) 25.00(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			If(1) I(2) were(3) on(4) a(5) budget(6) ,(7) I(8) would(9) think(10) long(11) and(12) hard(13) before(14) purchasing(15) the(16) Scion(17) xB(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			As(1) there(2) are(3) always(4) things(5) on(6) the(7) road(8) ,(9) the(10) chances(11) of(12) running(13) over(14) a(15) twig(16) or(17) a(18) pot(19) hole(20) are(21) always(22) present(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			To(1) use(2) a(3) cheap(4) plastic(5) screw(6) and(7) plastic(8) brace(9) is(10) a(11) poor(12) design(13) from(14) Toyota(15) .(16) 
+			<opinion polarity="-" feature="design" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="12">
+			Be(1) a(2) careful(3) buyer(4) but(5) rest(6) assured(7) you(8) will(9) be(10) told(11) this(12) bumper(13) screw(14) failure(15) is(16) very(17) rare(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			I(1) bet(2) not(3) .(4) 
+		</sentence>
+	</text>
+</review>

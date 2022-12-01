@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="638" item="2003 Toyota Matrix" rating="3">
+	<title>
+		<sentence id="1">
+			Hot(1) hatch(2) reinvented(3) ,(4) or(5) tall(6) econobox(7) in(8) fancy(9) clothes(10) ?(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Interior(1) versatility(2) ,(3) quick(4) steering(5) ,(6) fuel(7) economy(8) ,(9) distinctive(10) styling(11) 
+			<opinion polarity="+" feature="design" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Econobox(1) feel(2) ,(3) poorly(4) designed(5) cockpit(6) ,(7) distinctive(8) styling(9) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) practical(2) package(3) let(4) down(5) by(6) a(7) cheap(8) ,(9) poorly(10) styled(11) interior(12) and(13) overburdened(14) chassis(15) .(16) 
+			<opinion polarity="-" feature="interior" featWords="12" opWords="10,11"/>
+			<opinion polarity="+" feature="package" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			About(1) five(2) years(3) ago(4) auto(5) manufacturers(6) began(7) to(8) realize(9) that(10) consumers(11) sets(12) of(13) needs(14) did(15) not(16) always(17) match(18) up(19) with(20) existing(21) product(22) categories(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			What(1) if(2) someone(3) wanted(4) to(5) image(6) and(7) handling(8) of(9) a(10) sports(11) car(12) ,(13) but(14) the(15) carrying(16) capacity(17) of(18) an(19) SUV(20) ?(21) 
+		</sentence>
+		<sentence id="3">
+			Or(1) the(2) image(3) of(4) an(5) SUV(6) ,(7) but(8) the(9) carrying(10) capacity(11) of(12) a(13) minivan(14) and(15) the(16) ride(17) of(18) a(19) luxury(20) car(21) ?(22) 
+		</sentence>
+		<sentence id="4">
+			In(1) response(2) to(3) this(4) realization(5) ,(6) we(7) are(8) now(9) seeing(10) ossover(11) vehicles(12) that(13) do(14) not(15) neatly(16) fit(17) into(18) any(19) conventional(20) category(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			The(1) Toyota_Matrix(2) is(3) one(4) such(5) vehicle(6) .(7) ((8) As(9) is(10) its(11) twin(12) ,(13) the(14) Pontiac_Vibe(15) .(16) )(17) The_Matrix(18) ,(19) especially(20) in(21) XRS(22) form(23) ,(24) is(25) sort(26) of(27) a(28) tall(29) station(30) wagon(31) /(32) sports(33) car(34) cross(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) very(3) similar(4) in(5) size(6) and(7) interior(8) versatility(9) to(10) the(11) Chrysler_PT_Cruiser(12) ,(13) but(14) with(15) ultra-modern(16) rather(17) than(18) retro(19) styling(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) engineered(3) by(4) Toyota(5) on(6) the(7) new(8) Corolla(9) chassis(10) and(11) is(12) manufactured(13) in(14) a(15) GM-Toyota(16) joint(17) venture(18) plant(19) managed(20) by(21) Toyota(22) in(23) California(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Pontiac(1) sells(2) a(3) vehicle(4) that(5) differs(6) largely(7) in(8) exterior(9) styling(10) as(11) the(12) Vibe(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Three(1) trim(2) lines(3) are(4) offered(5) :(6) base(7) ,(8) XR(9) ,(10) and(11) XRS(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) first(2) two(3) differ(4) in(5) interior(6) trim(7) and(8) standard(9) equipment(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			They(1) share(2) a(3) 130(4) horsepower(5) engine(6) ((7) 123(8) horsepower(9) with(10) the(11) optional(12) all-wheel-drive(13) )(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			The(1) XRS(2) has(3) a(4) 180(5) horsepower(6) engine(7) ((8) from(9) the(10) Celica_GT-S(11) )(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			All(1) of(2) the(3) engines(4) are(5) the(6) same(7) size(8) ,(9) four(10) cylinders(11) displacing(12) 1.8(13) liters(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Contrary(1) to(2) some(3) reviews(4) ,(5) though(6) ,(7) the(8) blocks(9) are(10) not(11) the(12) same(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) higher(2) output(3) engine(4) has(5) a(6) wider(7) bore(8) and(9) shorter(10) stroke(11) to(12) enable(13) higher(14) engine(15) speeds(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			Bore(1) and(2) stroke(3) aside(4) ,(5) the(6) key(7) variable(8) is(9) how(10) high(11) in(12) the(13) RPM(14) range(15) each(16) engine(17) maintains(18) its(19) torque(20) output(21) ((22) i(23) .(24) e(25) .(26) breathes(27) )(28) .(29) 
+		</sentence>
+		<sentence id="17">
+			Both(1) engines(2) produce(3) roughly(4) the(5) same(6) amount(7) of(8) power(9) up(10) to(11) about(12) 5,000(13) RPM(14) ,(15) but(16) past(17) that(18) point(19) the(20) base(21) engine(22) begins(23) to(24) run(25) out(26) of(27) steam(28) .(29) 
+		</sentence>
+		<sentence id="18">
+			Unlike(1) in(2) the(3) Vibe(4) ,(5) in(6) the(7) Matrix(8) the(9) 180(10) horsepower(11) engine(12) is(13) available(14) with(15) an(16) automatic(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			When(1) I(2) tested(3) the(4) Vibe(5) ,(6) I(7) drove(8) the(9) performance(10) model(11) with(12) a(13) stick(14) ,(15) so(16) this(17) time(18) I(19) drove(20) the(21) XR(22) with(23) an(24) automatic(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			Update(1) :(2) I(3) have(4) read(5) that(6) the(7) XRS(8) is(9) no_longer(10) available(11) with(12) an(13) automatic(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			However(1) ,(2) Toyota(3) 's(4) web(5) site(6) continues(7) to(8) display(9) this(10) configuration(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			Toyota_Matrix_Reliability_Some(1) things(2) I(3) can(4) not(5) practically(6) cover(7) within(8) the(9) context(10) of(11) a(12) review(13) because_of(14) frequent(15) changes(16) ,(17) a(18) large(19) number(20) of(21) variables(22) ,(23) or(24) both(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			One(1) of(2) these(3) is(4) reliability(5) information(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			However(1) ,(2) many(3) people(4) are(5) interested(6) in(7) such(8) information(9) ,(10) so(11) I(12) 've(13) started(14) collecting(15) my(16) own(17) data(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			Results(1) ,(2) once(3) they(4) are(5) available(6) ,(7) will(8) be(9) posted(10) to(11) my(12) site(13) ,(14) www.truedelta.com(15) ,(16) with(17) updates(18) every(19) three(20) months(21) .(22) 
+		</sentence>
+		<sentence id="26">
+			Unlike(1) other(2) sources(3) ,(4) TrueDelta(5) will(6) clearly(7) identify(8) what(9) difference(10) it(11) will(12) make(13) if(14) you(15) buy(16) a(17) Matrix(18) rather(19) than(20) something(21) else(22) by(23) providing(24) "(25) times(26) in(27) the(28) shop(29) "(30) and(31) "(32) days(33) in(34) the(35) shop(36) "(37) stats(38) ((39) among(40) others(41) )(42) .(43) 
+		</sentence>
+		<sentence id="27">
+			You(1) will(2) be(3) able(4) to(5) specify(6) the(7) number(8) of(9) years(10) ,(11) annual(12) miles(13) ,(14) and(15) types(16) of(17) repairs(18) to(19) include(20) in(21) Toyota_Matrix(22) reliability(23) comparisons(24) .(25) 
+		</sentence>
+		<sentence id="28">
+			Before(1) I(2) can(3) report(4) results(5) ,(6) I(7) need(8) data(9) on(10) all(11) cars(12) --(13) not(14) just(15) the(16) Matrix(17) --(18) from(19) people(20) like(21) you(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			To(1) encourage(2) participation(3) ,(4) those(5) who(6) help(7) provide(8) the(9) data(10) will(11) receive(12) free(13) access(14) to(15) the(16) site(17) 's(18) reliability(19) information(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			For(1) the(2) details(3) ,(4) and(5) to(6) sign(7) up(8) ,(9) visit(10) www.truedelta.com.(11) Styling(12) and(13) Accommodations_I(14) strongly(15) prefer(16) the(17) styling(18) of(19) the(20) Vibe(21) to(22) that(23) of(24) the(25) Matrix(26) ,(27) which(28) intentionally(29) includes(30) a(31) number(32) of(33) quirky(34) elements(35) .(36) 
+		</sentence>
+		<sentence id="31">
+			Where(1) the(2) Vibe(3) is(4) styled(5) to(6) look(7) somewhat(8) familiar(9) and(10) more(11) or(12) less(13) conventionally(14) attractive(15) ,(16) Toyota(17) clearly(18) wanted(19) to(20) stir(21) controversy(22) with(23) its(24) version(25) .(26) 
+		</sentence>
+		<sentence id="32">
+			I(1) especially(2) don(3) t(4) care(5) for(6) the(7) sheetmetal(8) creases(9) that(10) trace(11) a(12) curve(13) over(14) each(15) wheel(16) opening(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			The(1) pinched(2) rear(3) side(4) window(5) doesn(6) t(7) do(8) much(9) for(10) me(11) ,(12) either(13) ,(14) as(15) it(16) accentuates(17) the(18) extreme(19) height(20) of(21) the(22) bodyside(23) .(24) 
+		</sentence>
+		<sentence id="34">
+			Maybe(1) this(2) plays(3) with(4) the(5) 20-something(6) crowd(7) ,(8) but(9) not(10) with(11) me(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			That(1) said(2) ,(3) some(4) Matrices(5) are(6) uglier(7) than(8) others(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			A(1) white(2) base(3) model(4) with(5) hubcaps(6) in(7) the(8) showroom(9) was(10) hideous(11) .(12) 
+			<opinion polarity="-" feature="design" opWords="11"/>
+		</sentence>
+		<sentence id="37">
+			The(1) red(2) XR(3) with(4) aero(5) package(6) and(7) 17(8) alloys(9) ,(10) replicating(11) the(12) look(13) of(14) a(15) loaded(16) XRS(17) ,(18) looked(19) much(20) better(21) .(22) 
+		</sentence>
+		<sentence id="38">
+			The(1) Matrix(2) comes(3) standard(4) with(5) rocker(6) panel(7) moldings(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			With(1) the(2) $270(3) sport(4) plus(5) package(6) the(7) look(8) of(9) these(10) is(11) continued(12) onto(13) the(14) front(15) and(16) rear(17) bumper(18) ,(19) creating(20) an(21) even(22) line(23) around(24) the(25) bottom(26) edge(27) of(28) the(29) body(30) .(31) 
+		</sentence>
+		<sentence id="40">
+			Without(1) this(2) package(3) ,(4) the(5) in(6) of(7) the(8) car(9) looks(10) strangely(11) weak(12) ,(13) as(14) the(15) standard(16) bumper(17) is(18) higher(19) than(20) the(21) rocker(22) moldings(23) aft(24) of(25) the(26) front(27) wheel(28) well(29) .(30) 
+			<opinion polarity="-" feature="design" opWords="10,12"/>
+		</sentence>
+		<sentence id="41">
+			A(1) no-brainer(2) given(3) the(4) reasonable(5) price(6) .(7) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="42">
+			The(1) interior(2) styling(3) is(4) a_bit(5) more(6) conventional(7) ,(8) though(9) still(10) unattractive(11) .(12) 
+			<opinion polarity="+" feature="interior" opWords="7"/>
+		</sentence>
+		<sentence id="43">
+			Likely(1) because_of(2) the(3) Pontiac(4) connection(5) ,(6) the(7) gauges(8) are(9) red(10) .(11) 
+		</sentence>
+		<sentence id="44">
+			They(1) are(2) lit(3) all(4) the(5) time(6) ,(7) even(8) during(9) the(10) day(11) .(12) 
+		</sentence>
+		<sentence id="45">
+			To(1) cater(2) to(3) the(4) young(5) target(6) audience(7) ,(8) each(9) gauge(10) is(11) surrounded(12) by(13) a(14) thick(15) chromed(16) plastic(17) ring(18) and(19) the(20) instrument(21) panel(22) has(23) a(24) metallic(25) look(26) to(27) it(28) .(29) 
+		</sentence>
+		<sentence id="46">
+			Nothing(1) especially(2) tasteful(3) here(4) ,(5) though(6) .(7) 
+		</sentence>
+		<sentence id="47">
+			The(1) pair(2) of(3) gimmicks(4) can(5) not(6) overcome(7) the(8) general(9) artlessness(10) of(11) the(12) interior(13) design(14) .(15) 
+		</sentence>
+		<sentence id="48">
+			The(1) dash(2) seems(3) cobbled(4) together(5) ,(6) with(7) too(8) many(9) separate(10) surfaces(11) and(12) shapes(13) and(14) no(15) unifying(16) theme(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			As(1) with(2) the(3) Pontiac(4) ,(5) the(6) seat(7) fabric(8) is(9) available(10) in(11) light(12) gray(13) and(14) dark(15) gray(16) .(17) 
+		</sentence>
+		<sentence id="50">
+			The(1) light(2) gray(3) looks(4) downright(5) cheap(6) .(7) 
+		</sentence>
+		<sentence id="51">
+			The(1) dark(2) gray(3) looks(4) much(5) better(6) ,(7) though(8) it(9) s(10) still(11) nothing(12) to(13) rave(14) about(15) .(16) 
+		</sentence>
+		<sentence id="52">
+			I(1) drove(2) a(3) PT_Cruiser(4) the(5) same(6) day(7) .(8) 
+		</sentence>
+		<sentence id="53">
+			At_least(1) in(2) the(3) all-charcoal(4) interior(5) of(6) the(7) car(8) I(9) drove(10) ((11) which(12) might(13) be(14) new(15) for(16) 2003(17) ;(18) older(19) PTs_I(20) ve(21) seen(22) were(23) a(24) two-tone(25) taupe(26) inside(27) )(28) ,(29) the(30) PT(31) s(32) interior(33) seemed(34) both(35) much(36) more(37) stylish(38) and(39) higher(40) in(41) quality(42) .(43) 
+		</sentence>
+		<sentence id="54">
+			The(1) strong(2) point(3) of(4) the(5) Matrix(6) s(7) interior(8) is(9) the(10) amount(11) of(12) volume(13) available(14) inside(15) this(16) fairly(17) compact(18) vehicle(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="55">
+			All(1) of(2) the(3) seats(4) are(5) positioned(6) mini-SUV(7) high(8) .(9) 
+		</sentence>
+		<sentence id="56">
+			This(1) affords(2) good(3) thigh(4) support(5) for(6) adults(7) in(8) the(9) rear(10) seat(11) ,(12) a(13) feature(14) too(15) often(16) lacking(17) in(18) largish(19) sedans(20) .(21) 
+		</sentence>
+		<sentence id="57">
+			Headroom(1) and(2) legroom(3) is(4) adequate(5) for(6) two(7) adults(8) front(9) and(10) rear(11) .(12) 
+			<opinion polarity="+" feature="leg room" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="head room" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="58">
+			Not(1) only(2) could(3) my(4) feet(5) fit(6) under(7) the(8) front(9) seat(10) ,(11) but(12) I(13) could(14) lift(15) my(16) toes(17) up(18) and(19) they(20) still(21) didn(22) t(23) touch(24) the(25) seat(26) s(27) underside(28) .(29) 
+		</sentence>
+		<sentence id="59">
+			This(1) is(2) a(3) fairly(4) narrow(5) vehicle(6) ,(7) though(8) ,(9) so(10) three(11) adults(12) will(13) fit(14) in(15) the(16) rear(17) only(18) in(19) a(20) pinch(21) .(22) 
+			<opinion polarity="-" feature="size" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="60">
+			Despite(1) the(2) high(3) seating(4) position(5) ,(6) the(7) view(8) out(9) the(10) side(11) windows(12) isn(13) t(14) especially(15) open(16) .(17) 
+		</sentence>
+		<sentence id="61">
+			The(1) Matrix(2) s(3) beltline(4) ((5) base(6) of(7) side(8) windows(9) )(10) starts(11) fairly(12) high(13) and(14) rises(15) continuously(16) as(17) it(18) moves(19) rearward(20) .(21) 
+		</sentence>
+		<sentence id="62">
+			Shorter(1) rear(2) seat(3) passengers(4) ((5) and(6) especially(7) kids(8) )(9) might(10) feel(11) a_bit(12) closed(13) in(14) as(15) a(16) result(17) .(18) 
+		</sentence>
+		<sentence id="63">
+			Every(1) seat(2) but(3) that(4) of(5) the(6) driver(7) can(8) be(9) folded(10) ,(11) opening(12) up(13) long(14) and(15) tall(16) cargo(17) space(18) .(19) 
+		</sentence>
+		<sentence id="64">
+			Cargo(1) space(2) width(3) is(4) limited(5) ,(6) though(7) ,(8) as(9) the(10) rear(11) wheelwells(12) intrude(13) nearly(14) all(15) the(16) way(17) to(18) the(19) rear(20) edge(21) .(22) 
+		</sentence>
+		<sentence id="65">
+			I(1) measured(2) the(3) available(4) width(5) ,(6) and(7) it(8) came(9) to(10) 40_inches(11) .(12) 
+		</sentence>
+		<sentence id="66">
+			This(1) is(2) two(3) shy(4) of(5) the(6) length(7) of(8) my(9) double(10) stroller(11) when(12) folded(13) .(14) 
+		</sentence>
+		<sentence id="67">
+			The(1) stroller(2) will(3) probably(4) still(5) fit(6) ,(7) just(8) not(9) flat(10) on(11) the(12) floor(13) .(14) 
+		</sentence>
+		<sentence id="68">
+			The(1) cargo(2) area(3) and(4) folded(5) seatbacks(6) are(7) covered(8) with(9) a(10) hard(11) plastic(12) with(13) raised(14) ridges(15) to(16) facilitate(17) scar-free(18) ,(19) low(20) effort(21) loading(22) and(23) unloading(24) .(25) 
+		</sentence>
+		<sentence id="69">
+			This(1) surface(2) is(3) much(4) more(5) slippery(6) than(7) carpet(8) would(9) be(10) ,(11) but(12) numerous(13) tie-downs(14) are(15) provided(16) on(17) the(18) walls(19) and(20) floor(21) to(22) secure(23) objects(24) .(25) 
+		</sentence>
+		<sentence id="70">
+			The(1) Matrix_I(2) drove(3) had(4) an(5) optional(6) cargo(7) mat(8) covering(9) the(10) hard(11) surface(12) .(13) 
+		</sentence>
+		<sentence id="71">
+			One(1) especially(2) neat(3) feature(4) :(5) a(6) standard(7) electrical(8) outlet(9) is(10) located(11) in(12) the(13) center(14) console(15) .(16) 
+		</sentence>
+		<sentence id="72">
+			So(1) forget(2) about(3) converters(4) ,(5) you(6) can(7) just(8) plug(9) in(10) your(11) notebook(12) computer(13) ,(14) hair(15) dryer(16) ,(17) whatever(18) using(19) the(20) regular(21) plug(22) .(23) 
+		</sentence>
+		<sentence id="73">
+			Why(1) hasn(2) t(3) anyone(4) done(5) this(6) before(7) ?(8) 
+		</sentence>
+		<sentence id="74">
+			The(1) only(2) other(3) place(4) I(5) ve(6) seen(7) this(8) is(9) in(10) a(11) fully(12) loaded(13) Toyota_Avalon(14) .(15) 
+		</sentence>
+		<sentence id="75">
+			It(1) seems(2) more(3) appropriate(4) here(5) .(6) 
+		</sentence>
+		<sentence id="76">
+			This(1) is(2) a(3) Toyota(4) ,(5) so(6) reliability(7) should(8) be(9) good(10) .(11) 
+			<opinion polarity="+" feature="reliability" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="77">
+			That(1) said(2) ,(3) a(4) number(5) of(6) interior(7) trim(8) pieces(9) were(10) of(11) dubious(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="78">
+			On(1) the(2) Road(3) When(4) I(5) drove(6) the(7) Vibe(8) ,(9) I(10) didn(11) t(12) buy(13) the(14) tall(15) sports(16) car(17) thing(18) .(19) 
+		</sentence>
+		<sentence id="79">
+			So(1) this(2) time(3) I(4) decided(5) to(6) see(7) if(8) the(9) Matrix(10) worked(11) as(12) less(13) ambitious(14) ,(15) basic(16) transportation(17) .(18) 
+		</sentence>
+		<sentence id="80">
+			Sure(1) ,(2) the(3) XR_I(4) drove(5) had(6) the(7) full(8) sport(9) exterior(10) treatment(11) ,(12) and(13) would(14) have(15) looked(16) much(17) worse(18) without(19) it(20) ,(21) but(22) it(23) had(24) the(25) 130(26) horse(27) engine(28) ,(29) so(30) I(31) largely(32) gave(33) it(34) a(35) pass(36) in(37) terms(38) of(39) sporty(40) expectations(41) .(42) 
+		</sentence>
+		<sentence id="81">
+			With(1) my(2) expectations(3) thus(4) diminished(5) ,(6) I(7) didn(8) t(9) have(10) a(11) problem(12) with(13) the(14) acceleration(15) of(16) the(17) base(18) engine(19) ,(20) even(21) with(22) the(23) automatic(24) .(25) 
+		</sentence>
+		<sentence id="82">
+			In(1) normal(2) driving(3) it(4) moved(5) the(6) car(7) as_well(8) as(9) I(10) wanted(11) ,(12) I(13) didn(14) t(15) feel(16) as_if(17) I(18) had(19) to(20) floor(21) it(22) just(23) to(24) get(25) around(26) .(27) 
+		</sentence>
+		<sentence id="83">
+			That(1) said(2) ,(3) this(4) was(5) largely(6) because(7) the(8) transmission(9) generally(10) worked(11) the(12) engine(13) hard(14) without(15) my(16) having(17) to(18) prod(19) it(20) .(21) 
+		</sentence>
+		<sentence id="84">
+			I(1) say(2) generally(3) ,(4) because(5) the(6) transmission(7) was(8) sometimes(9) reluctant(10) to(11) downshift(12) .(13) 
+		</sentence>
+		<sentence id="85">
+			From(1) a(2) dead(3) stop(4) ,(5) however(6) ,(7) the(8) transmission(9) held(10) up(11) its(12) end(13) .(14) 
+		</sentence>
+		<sentence id="86">
+			In(1) moderate(2) acceleration(3) ,(4) it(5) shifted(6) at(7) 4500-5000(8) RPM(9) .(10) ((11) Since(12) the(13) XRS(14) engine(15) makes(16) similar(17) power(18) up(19) to(20) this(21) level(22) ,(23) I(24) suspect(25) that(26) performance(27) in(28) normal(29) driving(30) is(31) very(32) similar(33) .(34) )(35) What(36) this(37) translates(38) to(39) is(40) lots(41) and(42) lots(43) of(44) engine(45) noise(46) of(47) the(48) moderately(49) rough(50) four-cylinder(51) variety(52) .(53) 
+		</sentence>
+		<sentence id="87">
+			It(1) sounds(2) very(3) much(4) the(5) typical(6) Japanese(7) econobox(8) ,(9) just(10) pulling(11) a(12) bigger(13) box(14) .(15) 
+		</sentence>
+		<sentence id="88">
+			On(1) the(2) flip(3) side(4) ,(5) fuel(6) economy(7) should(8) also(9) be(10) econoboxish(11) ,(12) with(13) EPA(14) ratings(15) of(16) 28/33(17) .(18) 
+		</sentence>
+		<sentence id="89">
+			As(1) with(2) the(3) Vibe(4) ,(5) my(6) main(7) issues(8) lie(9) elsewhere(10) .(11) 
+		</sentence>
+		<sentence id="90">
+			To(1) begin(2) with(3) ,(4) the(5) driving(6) position(7) is(8) awful(9) .(10) 
+		</sentence>
+		<sentence id="91">
+			The(1) shifter(2) is(3) mounted(4) on(5) an(6) extension(7) of(8) the(9) dash(10) .(11) 
+		</sentence>
+		<sentence id="92">
+			It(1) is(2) a(3) couple(4) inches(5) too(6) far(7) forward(8) ,(9) a(10) couple(11) inches(12) too(13) high(14) ,(15) and(16) a_bit(17) far(18) to(19) the(20) right(21) .(22) 
+		</sentence>
+		<sentence id="93">
+			I(1) fixed(2) this(3) in(4) the(5) Matrix(6) by(7) driving(8) the(9) automatic(10) .(11) ((12) The(13) Matrix(14) in(15) the(16) showroom(17) was(18) a(19) manual(20) ,(21) allowing(22) me(23) to(24) confirm(25) that(26) I(27) can(28) not(29) stand(30) the(31) shifter(32) location(33) in(34) these(35) cars(36) .(37) )(38) Even(39) with(40) this(41) problem(42) out(43) of(44) the(45) way(46) ,(47) I(48) never(49) felt(50) comfortable(51) behind(52) the(53) wheel(54) ;(55) something(56) about(57) the(58) wheel-seat-pedals(59) relationship(60) is(61) just(62) wrong(63) .(64) 
+		</sentence>
+		<sentence id="94">
+			Maybe(1) it(2) s(3) the(4) minivan(5) overtones(6) ?(7) 
+		</sentence>
+		<sentence id="95">
+			The(1) seats(2) don(3) t(4) help(5) .(6) 
+		</sentence>
+		<sentence id="96">
+			The(1) cushion(2) is(3) small(4) and(5) overly(6) soft(7) ,(8) so_that(9) I(10) didn(11) t(12) feel(13) properly(14) supported(15) .(16) 
+		</sentence>
+		<sentence id="97">
+			The(1) seat(2) s(3) side(4) bolsters(5) are(6) reasonably(7) prominent(8) ,(9) but(10) they(11) re(12) too(13) soft(14) to(15) do(16) much(17) good(18) .(19) 
+		</sentence>
+		<sentence id="98">
+			To(1) make(2) things(3) worse(4) ,(5) there(6) is(7) no(8) handle(9) on(10) the(11) door(12) to(13) use(14) as(15) a(16) brace(17) only(18) an(19) indentation(20) in(21) the(22) armrest(23) that(24) is(25) too(26) shallow(27) and(28) too(29) far(30) rearward(31) for(32) this(33) purpose(34) .(35) 
+		</sentence>
+		<sentence id="99">
+			People(1) who(2) like(3) a(4) firm(5) handhold(6) on(7) the(8) door(9) will(10) be(11) very(12) unhappy(13) here(14) .(15) 
+		</sentence>
+		<sentence id="100">
+			The(1) Matrix(2) has(3) the(4) same(5) handling(6) quirks(7) as(8) the(9) Vibe(10) ,(11) but(12) they(13) re(14) more(15) excusable(16) in(17) its(18) less(19) performance-oriented(20) guise(21) .(22) 
+		</sentence>
+		<sentence id="101">
+			The(1) steering(2) is(3) pretty(4) good(5) ,(6) with(7) quick(8) responses(9) ((10) possibly(11) too(12) quick(13) for(14) some(15) people(16) .(17) )(18) Unfortunately(19) ,(20) the(21) quickness(22) of(23) the(24) steering(25) is(26) the(27) beginning(28) and(29) end(30) of(31) the(32) Matrix(33) s(34) sporty(35) driving(36) persona(37) .(38) 
+			<opinion polarity="+" feature="response" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="steering" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="102">
+			It(1) leans(2) more(3) than(4) I(5) like(6) ,(7) especially(8) at(9) the(10) rear(11) ,(12) and(13) understeer(14) is(15) prominent(16) .(17) 
+		</sentence>
+		<sentence id="103">
+			When(1) you(2) try(3) to(4) drive(5) aggressively(6) the(7) vehicle(8) sends(9) a(10) clear(11) message(12) to(13) back(14) off(15) .(16) 
+		</sentence>
+		<sentence id="104">
+			It(1) refuses(2) to(3) reward(4) such(5) behavior(6) with(7) any(8) entertainment(9) value(10) .(11) 
+		</sentence>
+		<sentence id="105">
+			The(1) optional(2) 17(3) wheels(4) do(5) not(6) significantly(7) alter(8) the(9) dynamics(10) of(11) the(12) chassis(13) .(14) 
+		</sentence>
+		<sentence id="106">
+			Like(1) those(2) seat(3) bolsters(4) ,(5) they(6) seem(7) to(8) be(9) offered(10) for(11) stylistic(12) purposes(13) only(14) .(15) 
+		</sentence>
+		<sentence id="107">
+			The(1) chassis(2) rides(3) fairly(4) well(5) ,(6) nothing(7) luxurious(8) but(9) definitely(10) up(11) to(12) the(13) compact(14) car(15) average(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="ride quality" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="108">
+			So(1) there(2) s(3) room(4) to(5) stiffen(6) it(7) up(8) without(9) totally(10) killing(11) ride(12) quality(13) .(14) 
+			<opinion polarity="+" feature="ride quality" featWords="12,13" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="109">
+			While(1) the(2) engineers(3) are(4) adjusting(5) the(6) suspension(7) ,(8) torque(9) steer(10) requires(11) some(12) attention(13) .(14) 
+		</sentence>
+		<sentence id="110">
+			Sure(1) ,(2) there(3) s(4) not(5) much(6) torque(7) to(8) manage(9) here(10) ,(11) but(12) under(13) full(14) throttle(15) front(16) end(17) gets(18) squirrelly(19) ,(20) bobbing(21) and(22) weaving(23) a_bit(24) .(25) 
+		</sentence>
+		<sentence id="111">
+			Overall_I(1) felt(2) I(3) was(4) driving(5) a(6) subcompact(7) chassis(8) carrying(9) more(10) car(11) body(12) than(13) it(14) could(15) handle(16) .(17) 
+		</sentence>
+		<sentence id="112">
+			The(1) PT_Cruiser(2) was(3) a(4) much(5) more(6) substantial(7) feeling(8) ,(9) more(10) composed(11) ,(12) better(13) handling(14) vehicle(15) .(16) 
+		</sentence>
+		<sentence id="113">
+			Maybe(1) this(2) is(3) because(4) it(5) is(6) a(7) heavier(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="114">
+			Althought_the_Chrysler(1) is(2) a(3) couple(4) of(5) inches(6) shorter(7) ((8) in(9) length(10) )(11) and(12) narrower(13) than(14) the(15) Toyota(16) ,(17) it(18) weighs(19) about(20) 350(21) lbs(22) .(23) more(24) ,(25) a(26) significant(27) amount(28) .(29) 
+		</sentence>
+		<sentence id="115">
+			While(1) the(2) Toyota(3) 's(4) relatively(5) light(6) weight(7) is(8) good(9) for(10) economy(11) ,(12) the(13) measures(14) taken(15) to(16) obtain(17) it(18) result(19) in(20) an(21) economy(22) car(23) feel(24) .(25) 
+		</sentence>
+		<sentence id="116">
+			However(1) ,(2) as(3) long(4) as(5) you(6) go(7) in(8) expecting(9) the(10) feel(11) of(12) a(13) tall(14) econobox(15) ,(16) I(17) guess(18) you(19) will(20) not(21) be(22) disappointed(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="21,23"/>
+		</sentence>
+		<sentence id="117">
+			Toyota_Matrix_Pricing(1) and(2) Price_Comparisons_Prices(3) ,(4) because(5) they(6) change(7) frequently(8) and(9) can(10) include(11) many(12) variables(13) ,(14) are(15) also(16) handled(17) through(18) my(19) site(20) .(21) 
+		</sentence>
+		<sentence id="118">
+			With(1) TrueDelta(2) ,(3) you(4) do(5) not(6) need(7) to(8) select(9) trim(10) lines(11) or(12) option(13) packages(14) to(15) price(16) a(17) Matrix(18) .(19) 
+		</sentence>
+		<sentence id="119">
+			It(1) is(2) also(3) the(4) only(5) site(6) that(7) provides(8) true(9) "(10) apples(11) to(12) apples(13) "(14) price(15) comparisons(16) ,(17) with(18) adjustments(19) for(20) feature(21) differences(22) .(23) 
+		</sentence>
+		<sentence id="120">
+			The(1) two(2) most(3) popular(4) comparisons(5) ((6) 2006(7) models(8) base(9) to(10) base(11) ,(12) without(13) rebates(14) ,(15) adjusted(16) for(17) feature(18) differences(19) )(20) :(21) Vibe(22) :(23) Very(24) close(25) at(26) MSRP(27) ,(28) about(29) $400(30) more(31) at(32) invoice(33) Mazda3(34) hatch(35) :(36) About(37) $1,600(38) less(39) at(40) MSRP(41) and(42) $1,100(43) less(44) at(45) invoice(46) ,(47) but(48) only(49) after(50) a(51) large(52) feature(53) adjustment(54) To(55) quickly(56) generate(57) these(58) and(59) other(60) comparisons(61) with(62) the(63) specific(64) features(65) you(66) want(67) ,(68) visit(69) the(70) page(71) for(72) the(73) Matrix(74) :(75) http://www.truedelta.com/models/Matrix.php(76) Last_Words_I(77) like(78) the(79) concept(80) for(81) this(82) car(83) ,(84) and(85) I(86) 'm(87) even(88) warming(89) to(90) the(91) look(92) when(93) it(94) is(95) properly(96) optioned(97) ,(98) but(99) I(100) can(101) not(102) get(103) over(104) what(105) it(106) is(107) like(108) to(109) sit(110) in(111) and(112) drive(113) .(114) 
+		</sentence>
+		<sentence id="121">
+			I(1) 'd(2) personally(3) much(4) rather(5) have(6) a(7) Ford_Focus(8) or(9) Chrysler_PT_Cruiser(10) .(11) 
+		</sentence>
+		<sentence id="122">
+			To(1) learn(2) more(3) about(4) my(5) reliability(6) research(7) and(8) sign(9) up(10) to(11) participate(12) in(13) it(14) ,(15) or(16) to(17) perform(18) thorough(19) up-to-date(20) new(21) car(22) price(23) comparisons(24) ,(25) visit(26) www.truedelta.com.(27) A(28) link(29) to(30) this(31) website(32) and(33) alphabetized(34) links(35) to(36) my(37) other(38) vehicle(39) reviews(40) can(41) be(42) found(43) on(44) my(45) profile(46) page(47) .(48) 
+		</sentence>
+		<sentence id="123">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20000(7) 
+		</sentence>
+	</text>
+</review>

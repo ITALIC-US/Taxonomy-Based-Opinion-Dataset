@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="502" item="2000 Mercedes-Benz SLK" rating="3">
+	<title>
+		<sentence id="1">
+			MBZ_SLK(1) 230(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			hard(1) top(2) convertible(3) ,(4) and(5) its(6) a(7) fine(8) looking(9) ride(10) 
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			unlikely(1) primary(2) vehicle(3) if(4) you(5) are(6) >(7) 6(8) '(9) 0(10) "(11) -(12) and(13) underpowered(14) 
+			<opinion polarity="-" feature="horsepower" opWords="14"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			perfect(1) wife(2) or(3) g(4) /(5) f(6) vehicle(7) or(8) heck(9) if(10) you(11) are(12) an(13) average(14) size(15) male(16) that(17) is(18) shorter(19) than(20) 6(21) '(22) 0(23) "(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			While(1) the(2) hard(3) top(4) convertible(5) option(6) is(7) the(8) best(9) of(10) what(11) this(12) car(13) has(14) to(15) deliver(16) I(17) would(18) like(19) to(20) also(21) mention(22) a(23) few(24) other(25) observations(26) over(27) the(28) past(29) months(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) definitely(4) HOT(5) -(6) slick(7) ,(8) cool(9) and(10) the(11) #(12) 1(13) vehicle(14) for(15) sunny(16) ,(17) moderate(18) temperature(19) southern(20) California(21) .(22) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) has(3) a(4) nice(5) power(6) ban(7) at(8) the(9) mphs(10) ,(11) 40-70(12) ;(13) but(14) fails(15) to(16) thrill(17) at(18) the(19) start(20) and(21) while(22) cruising(23) the(24) interstates(25) beyond(26) 70(27) mph(28) .(29) 
+			<opinion polarity="+" feature="horsepower" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Worth(1) mentioning(2) to(3) each(4) of(5) my(6) male(7) counterparts(8) is(9) that(10) while(11) your(12) wife(13) is(14) less(15) than(16) 6(17) '(18) 0(19) '(20) tall(21) and(22) narrower(23) than(24) a(25) man(26) of(27) equal(28) height(29) -(30) I(31) can(32) share(33) this(34) fact(35) from(36) a(37) 6(38) "(39) 3(40) "(41) ,(42) 240(43) lb(44) man(45) .(46) 
+		</sentence>
+		<sentence id="5">
+			If(1) your(2) wife(3) or(4) you(5) ((6) provided(7) that(8) you(9) are(10) only(11) avg(12) height(13) and(14) average(15) width(16) )(17) want(18) this(19) car(20) make(21) sure(22) you(23) press(24) the(25) dealer(26) to(27) give(28) you(29) the(30) car(31) for(32) hours(33) if_not(34) for(35) a(36) whole(37) day(38) .(39) 
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) is(3) tiny(4) ,(5) and(6) narrow(7) -(8) not(9) to(10) mention(11) that(12) if(13) your(14) height(15) is(16) illproportioned(17) from(18) waist(19) to(20) head(21) -(22) you(23) will(24) not(25) be(26) able(27) to(28) see(29) out(30) of(31) the(32) windshield(33) with(34) the(35) top(36) attached(37) .(38) 
+			<opinion polarity="-" feature="size" opWords="7"/>
+			<opinion polarity="-" feature="size" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Enjoy(1) the(2) look(3) of(4) the(5) car(6) ,(7) the(8) ride(9) and(10) the(11) moderate(12) power(13) that(14) the(15) MBZ(16) supercharger(17) provides(18) .(19) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="8">
+			But(1) if(2) you(3) are(4) >(5) 6(6) "(7) 0(8) "(9) enjoy(10) the(11) very(12) short(13) trips(14) you(15) 'll(16) eventually(17) make(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

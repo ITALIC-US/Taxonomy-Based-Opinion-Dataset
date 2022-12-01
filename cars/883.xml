@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="883" item="2000 Audi A4" rating="2">
+	<title>
+		<sentence id="1">
+			2000(1) A4(2) 2.8(3) Great(4) while(5) under(6) warranty(7) ,(8) but(9) not(10) for(11) the(12) long(13) haul(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) styling(2) ,(3) sporty(4) ,(5) solid(6) ,(7) great(8) Bose(9) stereo(10) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) extended(2) powertrain(3) warranty(4) ,(5) unreliable(6) ,(7) small(8) back(9) seat(10) 
+			<opinion polarity="-" feature="seat" featWords="9,10" opWords="8"/>
+			<opinion polarity="-" feature="reliability" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Cute(1) and(2) sporty(3) ,(4) but(5) do(6) not(7) expect(8) this(9) car(10) to(11) last(12) forever(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Lease(1) it(2) until(3) the(4) warranty(5) expires(6) ,(7) then(8) give(9) it(10) back(11) !(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) purchased(3) this(4) car(5) back(6) in(7) April_2000(8) ,(9) it(10) was(11) an(12) expensive(13) gift(14) to(15) myself(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) wanted(3) an(4) A4(5) ever(6) since(7) they(8) came(9) out(10) in(11) '(12) 96(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) ,(2) I(3) have(4) been(5) very(6) pleased(7) with(8) my(9) purchase(10) ...(11) until(12) two(13) weeks(14) ago(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Having(1) paid(2) off(3) this(4) car(5) over(6) a(7) year(8) ago(9) ,(10) and(11) considering(12) the(13) reliability(14) since(15) its(16) warranty(17) expired(18) in_2003(19) ,(20) I(21) thought(22) I(23) would(24) have(25) this(26) car(27) for(28) 7-8(29) years(30) minimum(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) not(3) even(4) any(5) other(6) cars(7) out(8) there(9) catching(10) my(11) eye(12) ,(13) not(14) even(15) the(16) new(17) 2006(18) A4(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Then(1) ,(2) without(3) warning(4) ,(5) and(6) with(7) only(8) 47,700_miles(9) on(10) the(11) car(12) ,(13) the(14) transmission(15) died(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Luckily(1) I(2) had(3) just(4) dropped(5) my(6) daughter(7) off(8) at(9) school(10) and(11) was(12) not(13) on(14) the(15) freeway(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			My(1) car(2) came(3) to(4) an(5) abrupt(6) halt(7) with(8) a(9) horrible(10) clank(11) and(12) was(13) totally(14) immobile(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) the(3) car(4) towed(5) to(6) the(7) dealership(8) that(9) I(10) have(11) done(12) ALL(13) the(14) service(15) for(16) the(17) car(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			The(1) service(2) rep(3) said(4) that(5) it(6) could(7) be(8) something(9) minor(10) ,(11) especially(12) if(13) there(14) were(15) no(16) warnings(17) or(18) sounds(19) before(20) the(21) car(22) stopped(23) ,(24) or(25) worse(26) case(27) scenario(28) the(29) entire(30) transmission(31) will(32) need(33) to(34) be(35) replaced(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			Well(1) ,(2) guess(3) what(4) the(5) outcome(6) was(7) ...(8) a(9) brand(10) new(11) transmission(12) on(13) a(14) car(15) that(16) 's(17) only(18) 5.5(19) years(20) old(21) with(22) less(23) than(24) 50K_miles(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Audi_of_America(1) offered(2) no(3) condolences(4) ...(5) I(6) was(7) way(8) too(9) far(10) out(11) of(12) warranty(13) to(14) get(15) their(16) assistance(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			And(1) ,(2) no(3) ,(4) there(5) is(6) no(7) powertrain(8) warranty(9) beyond(10) the(11) original(12) warranty(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) repair(2) was(3) going(4) to(5) cost(6) me(7) over(8) $5,000(9) ,(10) but(11) with(12) my(13) handy(14) service(15) coupon(16) ((17) 10_%(18) discount(19) )(20) and(21) the(22) service(23) man(24) knocking(25) another(26) $300(27) off(28) the(29) price(30) if(31) I(32) get(33) my(34) other(35) scheduled(36) service(37) done(38) ((39) oil(40) change(41) ,(42) front(43) brakes(44) ,(45) engine(46) mounts(47) )(48) ,(49) I(50) can(51) get(52) it(53) all(54) for(55) the(56) bargain(57) price(58) of(59) $4,750(60) .(61) 
+		</sentence>
+		<sentence id="15">
+			So(1) the(2) next(3) day(4) I(5) had(6) the(7) car(8) towed(9) to(10) our(11) family(12) mechanic(13) who(14) has(15) worked(16) on(17) our(18) Mercedes(19) 's(20) for(21) 20(22) years(23) do(24) the(25) repair(26) &(27) service(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			That(1) saved(2) me(3) about(4) $1,400(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			The(1) car(2) runs(3) great(4) now(5) ,(6) but(7) I(8) am(9) still(10) a_bit(11) weary(12) of(13) something(14) so(15) vital(16) to(17) the(18) car(19) like(20) a(21) transmission(22) ,(23) being(24) so(25) unreliable(26) .(27) 
+			<opinion polarity="-" feature="reliability" opWords="26" potency="25"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="18">
+			What(1) next(2) ?(3) 
+		</sentence>
+		<sentence id="19">
+			I(1) still(2) like(3) my(4) car(5) a_lot(6) ,(7) even(8) with(9) its(10) minor(11) annoyances(12) ((13) the(14) steering(15) wheel(16) creaks(17) and(18) the(19) driver(20) 's(21) side(22) window(23) makes(24) a(25) hideous(26) screeching(27) noise(28) going(29) down(30) on(31) hot(32) days(33) )(34) ,(35) but(36) I(37) feel(38) like(39) a(40) spouse(41) that(42) has(43) been(44) cheated(45) on(46) .(47) 
+		</sentence>
+		<sentence id="20">
+			Will(1) she(2) ever(3) gain(4) my(5) trust(6) back(7) ...(8) maybe(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			Will_I(1) ever(2) BUY(3) another(4) Audi(5) ...(6) probably(7) not(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 32,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) A4(16) 2.8(17) 
+		</sentence>
+	</text>
+</review>

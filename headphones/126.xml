@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="126" item="Sennheiser HD 212Pro Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Boom(1) ,(2) boom(3) ,(4) boom(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bass(1) way(2) too(3) strong(4) ((5) or(6) mids(7) and(8) highs(9) too(10) weak(11) )(12) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="3,4"/>
+			<opinion polarity="-" feature="mids" featWords="7" opWords="10,11"/>
+			<opinion polarity="-" feature="highs" featWords="9" opWords="10,11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) like(3) strong(4) bass(5) in(6) at(7) $60-70(8) these(9) are(10) for(11) you(12) .(13) 
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) cans(2) have(3) a(4) nice(5) design(6) ,(7) but(8) rather(9) poor(10) sound(11) .(12) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="sound quality" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) overall(2) construction(3) is(4) solid(5) and(6) backed(7) by(8) a(9) 2(10) year(11) warranty(12) .(13) 
+			<opinion polarity="+" feature="durability" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			A_bit(1) plasticky(2) ,(3) but(4) that(5) 's(6) to(7) be(8) expected(9) at(10) this(11) price(12) .(13) 
+			<opinion polarity="-" feature="durability" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="4">
+			The(1) cans(2) are(3) detachable(4) and(5) are(6) adjustable(7) to(8) a(9) dozen(10) fixed(11) positions(12) about(13) 1mm(14) apart(15) on(16) the(17) plastic(18) headband(19) .(20) 
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			The(1) cans(2) are(3) comfy(4) ,(5) although(6) a_bit(7) small(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="-" feature="size" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="6">
+			The(1) wire(2) is(3) made(4) of(5) oxygen(6) free(7) copper(8) kind(9) and(10) is(11) 3m(12) long(13) .(14) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="4,5,6,7,8"/>
+			<opinion polarity="+" feature="cord" featWords="2" opWords="13"/>
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) also(3) detachable(4) .(5) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) minijacks(2) that(3) go(4) into(5) the(6) cans(7) are(8) gold(9) plated(10) ,(11) while(12) the(13) other(14) end(15) is(16) not(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			My(1) biggest(2) gripe(3) with(4) sound(5) quality(6) is(7) the(8) bass(9) :(10) it(11) is(12) way(13) too(14) strong(15) for(16) me(17) .(18) 
+			<opinion polarity="-" feature="bass" featWords="11" featRef="bass" opWords="14,15"/>
+		</sentence>
+		<sentence id="10">
+			At_least(1) when(2) plugged(3) directly(4) into(5) an(6) Audigy2(7) soundcard(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			Without(1) an(2) equalizer(3) ,(4) I(5) have(6) to(7) turn(8) down(9) the(10) volume(11) to(12) a(13) point(14) where(15) the(16) mids(17) and(18) highs(19) are(20) muffled(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) not(3) such(4) a(5) big(6) deal(7) on(8) a(9) PC(10) ,(11) as(12) most(13) software(14) players(15) have(16) at_least(17) a(18) 10-band(19) equalizer(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			On(1) a(2) portable(3) player(4) without(5) an(6) equalizer(7) ,(8) they(9) 're(10) unusable(11) for(12) me(13) .(14) 
+			<opinion polarity="-" feature="headphones" featWords="9" featRef="headphones" opWords="11"/>
+		</sentence>
+	</text>
+</review>

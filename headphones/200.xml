@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="200" item="Koss KSC35 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			One(1) size(2) does(3) NOT(4) fit(5) all(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Portable(1) ,(2) lightweight(3) 
+			<opinion polarity="+" feature="portability" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) quality(2) ,(3) ergonomics(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			They(1) didn(2) t(3) block(4) out(5) subway(6) noises(7) or(8) street(9) noises(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Bass(1) was(2) barely(3) discernible(4) and(5) treble(6) was(7) very(8) high(9) .(10) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="3,4"/>
+			<opinion polarity="-" feature="highs" featWords="6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="3">
+			The(1) most(2) likely(3) culprit(4) of(5) the(6) poor(7) sound(8) quality(9) was(10) that(11) the(12) ear(13) clips(14) didn(15) t(16) fit(17) properly(18) .(19) 
+			<opinion polarity="-" feature="sound quality" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			They(1) were(2) one(3) size(4) fits(5) all(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) small(3) ears(4) and(5) could(6) never(7) get(8) the(9) clips(10) to(11) stay(12) put(13) and(14) my(15) ears(16) would(17) get(18) sore(19) after(20) 10(21) minutes(22) of(23) wear(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Another(1) problem(2) with(3) fit(4) was(5) that(6) the(7) clips(8) that(9) went(10) behind(11) the(12) ears(13) constantly(14) got(15) caught(16) on(17) my(18) earrings(19) and(20) pulled(21) one(22) of(23) my(24) plugs(25) out(26) which(27) was(28) quite(29) painful(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			I(1) read(2) other(3) reviews(4) that(5) the(6) fit(7) takes(8) some(9) time(10) to(11) get(12) used(13) to(14) so(15) to(16) give(17) these(18) the(19) benefit(20) of(21) the(22) doubt(23) I(24) used(25) them(26) for(27) a(28) month(29) ,(30) 5(31) days(32) a(33) week(34) for(35) about(36) 30(37) minutes(38) per(39) day(40) .(41) 
+		</sentence>
+		<sentence id="8">
+			Needless(1) to(2) say(3) I(4) never(5) got(6) used(7) to(8) the(9) fit(10) and(11) they(12) were(13) constantly(14) falling(15) off(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) not(3) recommend(4) these(5) to(6) anyone(7) with(8) a_lot_of(9) piercings(10) in(11) their(12) ears(13) or(14) with(15) small(16) ears(17) .(18) 
+			<opinion polarity="-" feature="headphones" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

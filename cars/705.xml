@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="705" item="1995 BMW 3 Series" rating="3">
+	<title>
+		<sentence id="1">
+			325i(1) ((2) 52(3) k(4) miles(5) )(6) Test_Drive(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) handling(2) ,(3) braking(4) 
+			<opinion polarity="+" feature="brakes" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			noisy(1) side(2) mirrors(3) ,(4) tape(5) only(6) 
+			<opinion polarity="-" feature="mirrors" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) test(2) drove(3) the(4) only(5) BMW(6) under(7) $25(8) k(9) @(10) CarMax(11) in(12) Atlanta(13) ,(14) GA(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) a(3) pretty(4) nice(5) ride(6) but(7) the(8) following(9) things(10) were(11) a_bit(12) annoying(13) :(14) *(15) the(16) power(17) side(18) mirrors(19) were(20) really(21) loud(22) ((23) the(24) loudest(25) i(26) 've(27) ever(28) heard(29) )(30) and(31) the(32) sales(33) person(34) insisted(35) that(36) was(37) '(38) normal(39) '(40) -(41) they(42) made(43) this(44) buzzing(45) type(46) noise(47) when(48) moving(49) *(50) it(51) only(52) had(53) a(54) tape(55) player(56) ((57) tape(58) /(59) CD(60) combo(61) would(62) have(63) been(64) better(65) *(66) no(67) remote(68) entry(69) ((70) keyless(71) )(72) *(73) no(74) tinting(75) We(76) liked(77) :(78) *(79) smooth(80) running(81) 2.5(82) L(83) v6(84) engine(85) with(86) 190(87) hp(88) *(89) decent(90) power(91) ((92) though(93) an(94) extra(95) 10(96) -(97) 20(98) hp(99) would(100) only(101) make(102) it(103) better(104) )(105) *(106) comfy(107) leather(108) seats(109) *(110) good(111) handling(112) &(113) braking(114) *(115) decent(116) price(117) ((118) $21(119) k(120) including(121) all(122) taxes(123) /(124) fees(125) )(126) Since(127) our(128) budget(129) is(130) $25(131) k(132) ,(133) we(134) 'll(135) wait(136) for(137) a(138) newer(139) 3(140) series(141) ((142) maybe(143) 97(144) )(145) 
+			<opinion polarity="+" feature="engine" featWords="85" opWords="80"/>
+			<opinion polarity="+" feature="price" featWords="117" opWords="116"/>
+			<opinion polarity="+" feature="handling" featWords="112" opWords="111"/>
+			<opinion polarity="+" feature="seat" featWords="109" opWords="108"/>
+			<opinion polarity="+" feature="seat" featWords="109" opWords="107"/>
+			<opinion polarity="+" feature="horsepower" featWords="91" opWords="90"/>
+			<opinion polarity="+" feature="horsepower" featWords="91" opWords="90"/>
+			<opinion polarity="-" feature="mirrors" featWords="19" opWords="22" potency="21"/>
+			<opinion polarity="-" feature="car" opWords="13"/>
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+	</text>
+</review>

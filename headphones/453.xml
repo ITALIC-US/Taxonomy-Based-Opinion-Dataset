@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="453" item="Creative Technology EP-630 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Probably(1) the(2) best(3) headphones(4) for(5) the(6) price(7) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) price(2) .(3) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) isolation(2) .(3) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Comfortable(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Great(1) sound(2) that(3) makes(4) listening(5) a_real(6) pleasure(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) very(3) good(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) quality(3) excellent(4) .(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) little(4) bit(5) too(6) much(7) bass(8) ,(9) but(10) that(11) is(12) ok(13) for(14) most(15) listeners(16) .(17) 
+			<opinion polarity="-" feature="bass" featWords="8" opWords="6,7" potency="4,5"/>
+		</sentence>
+		<sentence id="4">
+			Especially(1) if(2) you(3) listen(4) to(5) hip-hop(6) or(7) just(8) anything(9) like(10) the(11) top(12) 40s(13) or(14) pop(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) comfortable(3) and(4) only(5) cost(6) $22(7) !(8) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+	</text>
+</review>

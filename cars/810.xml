@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="810" item="1996 Mitsubishi Montero" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) a(3) great(4) truck(5) when(6) it(7) is(8) running(9) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Flexible(1) truck(2) ,(3) seats(4) 7(5) ,(6) fun(7) to(8) drive(9) ,(10) lots(11) of(12) gadgets(13) 
+			<opinion polarity="+" feature="truck" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			does(1) not(2) run(3) anymore(4) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) away(2) from(3) higher(4) mileage(5) Montero(6) 's(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			You(1) do(2) not(3) want(4) to(5) have(6) the(7) same(8) problems(9) we(10) did(11) !(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) bought(5) a(6) used(7) Montero(8) with(9) a_lot_of(10) miles(11) ,(12) but(13) expected(14) it(15) to(16) continue(17) working(18) for(19) longer(20) than(21) a(22) month(23) after(24) we(25) bought(26) it(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Soon(1) after(2) we(3) bought(4) the(5) truck(6) the(7) check(8) engine(9) light(10) would(11) come(12) on(13) and(14) the(15) engine(16) would(17) run(18) rough(19) intermittently(20) .(21) 
+			<opinion polarity="-" feature="engine" featWords="16" opWords="19"/>
+		</sentence>
+		<sentence id="3">
+			We(1) brought(2) the(3) car(4) to(5) the(6) Mitsu(7) dealer(8) we(9) bought(10) it(11) from(12) ((13) Valley_Mazda_Mitsubishi(14) in(15) San_Luis_Obispo-never(16) ever(17) buy(18) from(19) them(20) !(21) )(22) and(23) they(24) tried(25) to(26) fix(27) it(28) twice(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			After(1) the(2) third(3) time(4) the(5) engine(6) seizedvand(7) after(8) $3000(9) in(10) repairs(11) the(12) engine(13) now(14) runs(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			It(1) turns(2) out(3) that(4) the(5) valve(6) seat(7) broke(8) apart(9) and(10) fell(11) into(12) the(13) cylinder(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) head(2) ,(3) piston(4) ,(5) and(6) a(7) bearing(8) on(9) that(10) cylinder(11) needed(12) replacing(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Besides(1) the(2) engine(3) ((4) 3.5(5) L(6) V6(7) DOHC(8) )(9) ,(10) we(11) had(12) no(13) problems(14) with(15) it(16) and(17) would(18) have(19) kept(20) it(21) for(22) a(23) long(24) time(25) if(26) it(27) did(28) not(29) die(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) overall(3) was(4) well(5) designed(6) and(7) was(8) easy(9) to(10) use(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="9"/>
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="9">
+			We(1) never(2) had(3) a(4) chance(5) to(6) drive(7) it(8) off(9) road(10) ,(11) but(12) found(13) it(14) to(15) be(16) good(17) on(18) the(19) road(20) and(21) in(22) slippery(23) wet(24) stuff(25) in(26) 4WD(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) a_bit(3) top(4) heavy(5) and(6) would(7) recommend(8) using(9) 4WD(10) whenever(11) it(12) starts(13) to(14) rain(15) or(16) snow(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			We(1) researched(2) this(3) car(4) a_bit(5) before(6) buying(7) and(8) found(9) the(10) Montero(11) to(12) be(13) one(14) of(15) the(16) better(17) midsize(18) SUVs(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Perhaps(1) we(2) were(3) unlucky(4) or(5) perhaps(6) others(7) have(8) had(9) similar(10) problems(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Is(1) it(2) worth(3) taking(4) that(5) chance(6) ?(7) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) Full(16) loaded(17) 
+		</sentence>
+	</text>
+</review>

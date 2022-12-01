@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="847" item="1999 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Honda_Accord(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) good(2) paperweight(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) ,(2) ugly(3) ,(4) overall(5) bad(6) 
+			<opinion polarity="-" feature="car" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="design" opWords="3"/>
+			<opinion polarity="-" feature="speed" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Man(1) ,(2) i(3) really(4) hate(5) this(6) car(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) the(3) slowest(4) ugliest(5) hunk(6) of(7) cr(8) *(9) p(10) ((11) seems(12) that(13) epinion(14) thinks(15) this(16) is(17) a(18) bad(19) word(20) )(21) i(22) 've(23) ever(24) drove(25) and(26) i(27) 've(28) driven(29) some(30) pretty(31) bad(32) cars(33) .(34) 
+			<opinion polarity="-" feature="car" featWords="33" opWords="32" potency="31"/>
+			<opinion polarity="-" feature="design" opWords="5"/>
+			<opinion polarity="-" feature="speed" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Personnally_i(1) 'd(2) rather(3) pimp(4) it(5) in(6) the(7) good(8) ole(9) '(10) driver(11) 's(12) ed.(13) car(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			I(1) mean(2) come(3) on(4) everyone(5) wants(6) one(7) of(8) them(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			What(1) 's(2) better(3) than(4) two(5) brake(6) pedals(7) ?(8) 
+		</sentence>
+		<sentence id="6">
+			Two(1) gas(2) pedals(3) ...(4) but(5) thats(6) beside(7) the(8) point(9) is(10) not(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Anyway(1) back(2) to(3) this(4) hunk(5) of(6) cr(7) *(8) p(9) ,(10) it(11) broke(12) down(13) on(14) me(15) 3_times(16) in(17) less(18) than(19) an(20) hour(21) and(22) no(23) one(24) could(25) get(26) it(27) working(28) again(29) after(30) that(31) or(32) it(33) would(34) have(35) probably(36) broken(37) down(38) some(39) more(40) .(41) 
+		</sentence>
+		<sentence id="8">
+			So(1) next(2) time(3) you(4) see(5) one(6) driving(7) down(8) the(9) road(10) do(11) the(12) driver(13) a(14) favor(15) and(16) hit(17) them(18) put(19) them(20) out(21) of(22) the(23) misery(24) of(25) driving(26) the(27) hunk(28) of(29) crap(30) !(31) 
+		</sentence>
+	</text>
+</review>

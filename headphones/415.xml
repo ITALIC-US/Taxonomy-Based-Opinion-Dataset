@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="415" item="Sennheiser HD 600 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) to(5) rock(6) ,(7) look(8) elsewhere(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) comfortable(2) Single(3) cord(4) connection(5) to(6) the(7) ear(8) pieces(9) Good_Bass(10) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weak(1) mid-range(2) A_bit(3) bright(4) 
+			<opinion polarity="-" feature="mids" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) think(2) the(3) best(4) way(5) to(6) determine(7) if(8) these(9) are(10) the(11) headphones(12) are(13) for(14) you(15) is(16) for(17) you(18) to(19) consider(20) what(21) type(22) of(23) music(24) you(25) will(26) be(27) listening(28) to(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) the(3) 590(4) 's(5) for(6) my(7) mainly(8) rock-n-roll(9) interests(10) ,(11) and(12) was(13) a(14) little(15) disappointed(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) clarity(2) was(3) good(4) but(5) it(6) lacked(7) that(8) "(9) wow(10) "(11) factor(12) ,(13) which(14) I(15) consider(16) the(17) most(18) important(19) part(20) of(21) the(22) experience(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) that(3) when(4) the(5) tracks(6) really(7) got(8) motoring(9) the(10) vocals(11) seemed(12) to(13) be(14) lost(15) in(16) the(17) background(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) mid-range(2) just(3) didnt(4) come(5) through(6) when(7) they(8) needed(9) to(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			If(1) your(2) musical(3) tastes(4) are(5) more(6) towards(7) classical(8) or(9) jazz(10) ,(11) they(12) may(13) be(14) a(15) good(16) choice(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			They(1) did(2) have(3) nice(4) warm(5) bass(6) ,(7) and(8) crisp(9) treble(10) .(11) 
+			<opinion polarity="+" feature="bass" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="highs" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			At(1) louder(2) volumes(3) they(4) tend(5) to(6) be(7) a_bit(8) bright(9) as_well(10) .(11) 
+			<opinion polarity="-" feature="highs" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="9">
+			My(1) best(2) advice(3) is(4) to(5) find(6) a(7) dealer(8) that(9) lets(10) you(11) sample(12) the(13) headphones(14) with(15) music(16) that(17) you(18) bring(19) with(20) you(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			FYI(1) ...(2) I(3) switched(4) to(5) Grado(6) 325i(7) 's(8) and(9) was(10) very(11) pleased(12) with(13) how(14) they(15) handled(16) rock(17) music(18) ....(19) much(20) better(21) .(22) 
+		</sentence>
+	</text>
+</review>

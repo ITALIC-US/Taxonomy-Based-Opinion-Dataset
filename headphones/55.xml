@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="55" item="Skull Candy G.I. Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Terrible(1) quality(2) ,(3) okay(4) sound(5) .(6) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Okay(1) sound(2) ,(3) looks(4) cool(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="appearance" opWords="4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) quality(2) plastic(3) ,(4) uncomfortable(5) ,(6) breaks(7) easily(8) ,(9) not(10) for(11) active(12) people(13) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="5"/>
+			<opinion polarity="-" feature="durability" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) this(4) brand(5) .(6) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) horrible(3) ,(4) feels(5) terrible(6) ,(7) breaks(8) easily(9) ,(10) and(11) is(12) not(13) worth(14) it(15) for(16) the(17) mediocre(18) sound(19) .(20) 
+			<opinion polarity="-" feature="appearance" opWords="3"/>
+			<opinion polarity="-" feature="comfort" opWords="5,6"/>
+			<opinion polarity="-" feature="durability" opWords="8"/>
+			<opinion polarity="-" feature="sound quality" featWords="19" opWords="18"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) gone(3) through(4) 4(5) of(6) this(7) same(8) product(9) in(10) less(11) than(12) a(13) year(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			No(1) ,(2) I(3) 'm(4) not(5) one(6) of(7) those(8) insane(9) crazy(10) skateboarder(11) types(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'm(2) a(3) computer(4) nerd(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			I(1) use(2) these(3) headphones(4) when(5) I(6) 'm(7) at(8) my(9) computer(10) ,(11) or(12) on(13) the(14) bus(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) not(3) very(4) "(5) active(6) "(7) so(8) I(9) do(10) not(11) jog(12) /(13) run(14) with(15) them(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) 2(3) of(4) the(5) headphones(6) I(7) 've(8) had(9) ,(10) the(11) silver(12) earphone(13) part(14) connected(15) with(16) the(17) band(18) that(19) goes(20) over(21) the(22) head(23) has(24) snapped(25) completely(26) off(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			And(1) these(2) headphones(3) are(4) anything(5) but(6) comfortable(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) a(3) medium(4) sized(5) head(6) ,(7) and(8) no(9) matter(10) how(11) I(12) adjusted(13) them(14) ,(15) after(16) wearing(17) them(18) for(19) over(20) an(21) hour(22) it(23) felt(24) like(25) my(26) head(27) was(28) being(29) compressed(30) and(31) hurt(32) like(33) hell(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			The(1) other(2) 1(3) I(4) bought(5) ,(6) I(7) had(8) opened(9) the(10) package(11) and(12) the(13) cord(14) connecting(15) to(16) the(17) headphones(18) was(19) completely(20) severed(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			I(1) had(2) not(3) opened(4) the(5) package(6) anywhere(7) near(8) the(9) cord(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			The(1) 4th(2) I(3) speak(4) of(5) was(6) a(7) friend(8) 's(9) ,(10) and(11) theirs(12) also(13) broke(14) after(15) 2(16) weeks(17) of(18) use(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Skullcandy(1) 's(2) customer(3) service(4) is(5) pretty(6) awful(7) ,(8) Precor(9) only(10) gets(11) back(12) to(13) you(14) after(15) 10(16) days(17) after(18) emailing(19) them(20) and(21) only(22) asks(23) you(24) to(25) return(26) it(27) ,(28) does(29) not(30) address(31) your(32) concerns(33) or(34) care(35) about(36) your(37) problem(38) at(39) all(40) .(41) 
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) not(3) sent(4) mine(5) back(6) but(7) if(8) I(9) get(10) the(11) same(12) product(13) in(14) return(15) ,(16) I(17) 'm(18) selling(19) these(20) off(21) to(22) some(23) other(24) unfortunate(25) skater(26) .(27) 
+		</sentence>
+	</text>
+</review>

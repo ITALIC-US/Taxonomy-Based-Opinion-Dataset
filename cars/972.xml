@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="972" item="2003 Mercedes-Benz M-Class" rating="1">
+	<title>
+		<sentence id="1">
+			2003(1) Mercedes(2) E500(3) IS_NOT_THE_CAR_YOU_WANT(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) pickup(2) on(3) this(4) car(5) is(6) awesome(7) .(8) 
+			<opinion polarity="+" feature="pickup" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Handles(1) likes(2) a(3) sports(4) car(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Brakes(1) terrible(2) .(3) 
+			<opinion polarity="-" feature="brakes" featWords="1" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Nothing(1) but(2) trouble(3) with(4) this(5) car(6) since(7) I(8) bought(9) it(10) 14K_miles(11) ago(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) body(2) is(3) beautiful(4) .(5) 
+			<opinion polarity="+" feature="design" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) I(3) bought(4) the(5) sport(6) model(7) and(8) besides(9) the(10) emblem(11) '(12) Sport(13) '(14) ,(15) you(16) would(17) not(18) know(19) it(20) was(21) any(22) different(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			You(1) do(2) not(3) even(4) get(5) chromed(6) rear(7) pipes(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Mercedes(1) will(2) do(3) it(4) at(5) the(6) dealer(7) for(8) an(9) additional(10) $350(11) for(12) a(13) $50(14) option(15) !(16) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 68,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Mercedes(16) E500(17) Sport(18) 
+		</sentence>
+	</text>
+</review>

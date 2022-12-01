@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="76" item="2003 Nissan Frontier" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) love(2) my(3) 2003(4) Nissan_Frontier(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everything(1) but(2) whats(3) listed(4) below(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) gas(2) tank(3) ,(4) lack(5) of(6) cruise(7) on(8) base(9) models(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recommend(3) this(4) truck(5) over(6) any(7) of(8) its(9) comepitior(10) for(11) its(12) comfort(13) and(14) overall(15) feel(16) .(17) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Its(1) a(2) 5_out_of_5(3) in(4) my(5) book(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) got(2) my(3) Frontier(4) in(5) early(6) January(7) ,(8) it(9) was(10) left(11) over(12) on(13) the(14) dealers(15) lot(16) and(17) i(18) knew(19) i(20) could(21) get(22) a(23) great(24) deal(25) on(26) it(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) choose(2) the(3) basic(4) truck(5) because(6) i(7) wanted(8) somthing(9) simple(10) and(11) cheap(12) that(13) could(14) withstand(15) 30K_miles(16) a(17) year(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			The(1) standard(2) 2.4(3) 4cyl(4) engine(5) has(6) enough(7) get(8) up(9) and(10) go(11) for(12) me(13) ,(14) but(15) alot(16) of(17) people(18) find(19) it(20) slow(21) ,(22) especillay(23) with(24) the(25) automatic(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			Mine(1) has(2) the(3) 5-speed(4) manual(5) and(6) it(7) shifts(8) well(9) ,(10) and(11) makes(12) the(13) best(14) of(15) the(16) 2.4(17) engine(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			It(1) handles(2) well(3) ,(4) as(5) I(6) have(7) gotten(8) it(9) up(10) to(11) 55(12) mph(13) on(14) some(15) very(16) curvy(17) roads(18) .(19) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="6">
+			It(1) also(2) rides(3) as_well(4) as(5) most(6) family(7) sedans(8) .(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			It(1) gets(2) near(3) 30(4) mpg(5) .(6) on(7) the(8) highway(9) and(10) 25(11) around(12) town(13) ,(14) wich(15) is(16) decent(17) ,(18) but(19) i(20) wish(21) it(22) had(23) a(24) bigger(25) gas(26) tank(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			Overall(1) it(2) drives(3) more(4) like(5) a(6) car(7) than(8) a(9) truck(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			My(1) truck(2) is(3) the(4) extended(5) cab(6) and(7) not(8) a(9) 4-door(10) model(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			This(1) is(2) fine(3) for(4) me(5) as(6) I(7) usualy(8) only(9) carry(10) one(11) other(12) passanger(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			The(1) am(2) /(3) fm(4) /(5) cd(6) player(7) sounds(8) well(9) for(10) a(11) basic(12) truck(13) and(14) the(15) overall(16) noise(17) level(18) is(19) good(20) for(21) this(22) price(23) level(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			The(1) seats(2) are(3) extermly(4) comfortable(5) ,(6) I(7) drove(8) to(9) atlanta(10) and(11) i(12) was(13) not(14) even(15) sore(16) ((17) its(18) a(19) 4(20) hour(21) drive(22) )(23) .(24) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) a(2) /(3) c(4) works(5) well(6) and(7) cools(8) the(9) cabin(10) quickly(11) and(12) with(13) no(14) fuss(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) only(2) thing(3) wrong(4) is(5) that(6) mine(7) has(8) a(9) funky(10) smell(11) that(12) nobody(13) can(14) get(15) rid(16) of(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			Overall_I(1) enjoy(2) this(3) truck(4) and(5) would(6) recomend(7) it(8) over(9) any(10) other(11) compact(12) pickup(13) truck(14) .(15) 
+			<opinion polarity="+" feature="truck" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) XE(16) ,(17) 5-speed(18) ,(19) CD(20) ,(21) A(22) /(23) C(24) ,(25) 4(26) cylinder(27) 
+		</sentence>
+	</text>
+</review>

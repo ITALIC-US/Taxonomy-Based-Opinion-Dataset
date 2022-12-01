@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="754" item="2001 Toyota Tacoma" rating="2">
+	<title>
+		<sentence id="1">
+			I(1) sold(2) it(3) and(4) bought(5) a(6) Ford(7) ...(8) WTF(9) ?(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) reliable(2) ,(3) poor(4) fit(5) and(6) finish(7) ,(8) expensive(9) to(10) maintain(11) ...(12) that(13) damn(14) dash(15) rattle(16) !(17) 
+			<opinion polarity="-" feature="finish" featWords="7" opWords="4"/>
+			<opinion polarity="-" feature="comfort" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) worth(2) the(3) money(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) review(2) is(3) on(4) the(5) Tacoma_I(6) used(7) to(8) own(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Having(1) been(2) a(3) "(4) Toyota(5) man(6) "(7) for(8) 15(9) years(10) ,(11) many(12) people(13) now(14) ask(15) me(16) why(17) I(18) drive(19) a(20) fairly(21) ubiquitous(22) ,(23) white(24) Ford(25) F-150(26) now(27) instead_of(28) the(29) cute(30) little(31) X-cab(32) SR5-V6(33) Tacoma_I(34) used(35) to(36) own(37) .(38) 
+			<opinion polarity="+" feature="car" opWords="30"/>
+		</sentence>
+		<sentence id="3">
+			Okay(1) ,(2) here(3) 's(4) the(5) deal(6) ...(7) Poor(8) build(9) quality(10) -(11) the(12) fit(13) and(14) finish(15) were(16) not(17) anything(18) like(19) the(20) older(21) Toyotas_I(22) had(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Clear(1) coat(2) developed(3) little(4) micro(5) cracks(6) on(7) the(8) hood(9) ,(10) thin(11) sheatmetal(12) that(13) got(14) dinged(15) easily(16) ,(17) etc(18) etc.(19) Reliability(20) -(21) the(22) truck(23) went(24) to(25) the(26) shop(27) several(28) times(29) in(30) the(31) first(32) couple(33) of(34) years(35) I(36) had(37) it(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			Little(1) miscellaneous(2) ,(3) annoying(4) type(5) things(6) ,(7) but(8) still(9) bothersome(10) nonetheless(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Cost(1) -(2) This(3) thing(4) warped(5) brake(6) rotors(7) like(8) a(9) mother(10) !(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) easily(2) spent(3) over(4) $2500(5) in(6) 3(7) years(8) on(9) various(10) break(11) jobs(12) and(13) repairs(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Of(1) course(2) ,(3) Toyota(4) maintains(5) this(6) is(7) "(8) wear(9) and(10) tear(11) "(12) ,(13) so(14) it(15) was(16) not(17) covered(18) by(19) warranty(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			That(1) damn(2) dashboard(3) rattle(4) -(5) '(6) nuff(7) said(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			If(1) I(2) 'm(3) paying(4) $25K(5) for(6) some(7) plush(8) plush(9) little(10) truck(11) ,(12) the(13) thing(14) should(15) not(16) sound(17) like(18) a(19) 1980(20) AMC_Pacer(21) on(22) the(23) inside(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			And(1) I(2) 'm(3) not(4) the(5) only(6) one(7) who(8) has(9) that(10) rattle(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Other_Tacomas_I(1) 've(2) been(3) in(4) ,(5) even(6) from(7) different(8) years(9) ,(10) have(11) that(12) same(13) rattle(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			In(1) closing(2) :(3) So(4) how(5) has(6) life(7) been(8) with(9) the(10) F150(11) ?(12) 
+		</sentence>
+		<sentence id="14">
+			Well(1) ,(2) it(3) has(4) not(5) been(6) exciting(7) ,(8) but(9) the(10) thing(11) has(12) been(13) totally(14) reliable(15) ,(16) 100_%(17) smooth(18) and(19) quiet(20) ,(21) and(22) very(23) economical(24) to(25) maintain(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="20"/>
+			<opinion polarity="+" feature="car" opWords="18"/>
+			<opinion polarity="+" feature="reliability" opWords="15" potency="14"/>
+			<opinion polarity="-" feature="car" opWords="5,7"/>
+		</sentence>
+		<sentence id="15">
+			Ford(1) ?(2) 
+		</sentence>
+		<sentence id="16">
+			Who(1) woulda(2) thunk(3) it(4) ?(5) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) SR5(16) V6(17) 4WD(18) TRD_Loaded(19) 
+		</sentence>
+	</text>
+</review>

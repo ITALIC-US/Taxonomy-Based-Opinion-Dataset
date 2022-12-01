@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="193" item="2003 Audi allroad" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) of(3) all(4) words(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			What(1) a(2) Car(3) !(4) !(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			What(1) a(2) 4(3) WD_Wagon(4) !(5) !(6) !(7) 
+		</sentence>
+		<sentence id="3">
+			An(1) adults(2) GTI(3) !(4) !(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Need(1) and(2) SUV(3) in(4) room(5) and(6) safety(7) ?(8) 
+		</sentence>
+		<sentence id="2">
+			Want(1) great(2) MPG(3) ?(4) 
+			<opinion polarity="+" feature="gas" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			But(1) want(2) a(3) car(4) ride(5) ?(6) 
+		</sentence>
+		<sentence id="4">
+			Get(1) the(2) Allroad(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 'm(2) on(3) day_4(4) of(5) my(6) 2003(7) Allroad(8) and(9) 500_miles(10) later(11) its(12) a(13) wow(14) ,(15) a(16) hoot(17) ,(18) an(19) incredible(20) car(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="2">
+			My(1) son(2) has(3) a(4) VW(5) 337(6) GTI(7) ,(8) and(9) I(10) wanted(11) that(12) kind(13) of(14) performance(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			But(1) I(2) need(3) Quattro(4) ,(5) and(6) the(7) space(8) of(9) an(10) SUV(11) for(12) work(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) also(2) needed(3) comfort(4) as(5) I(6) had(7) it(8) with(9) my(10) 2000(11) Explorer(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) the(3) Allroad(4) with(5) the(6) 6(7) speed(8) manual(9) ,(10) Premium_Package(11) and(12) CW(13) package(14) .(15) 22.5(16) MPG(17) in(18) combined(19) New_York(20) to(21) New_Jersey(22) driving(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Runs(1) to(2) 90(3) in(4) 3rd(5) and(6) 4th(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			It(1) got(2) me(3) out(4) of(5) a(6) jam(7) .(8) at(9) a(10) toll(11) gate(12) ,(13) and(14) more(15) comfort(16) than(17) I(18) have(19) ever(20) had(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			This(1) car(2) is(3) so(4) quiet(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) on(3) the(4) turnpike(5) at(6) 65(7) and(8) wondered(9) why(10) is(11) the(12) tach(13) at(14) 5000(15) RPM(16) ?(17) 
+		</sentence>
+		<sentence id="10">
+			I(1) never(2) heard(3) the(4) engine(5) roar(6) ,(7) I(8) just(9) forgot(10) to(11) continue(12) shifting(13) to(14) 5th(15) and(16) 6th(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			The(1) stereo(2) is(3) great(4) although(5) AM(6) is(7) a_bit(8) fuzzy(9) .(10) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) ergonomics(2) are(3) excellent(4) ,(5) the(6) leather(7) is(8) perfect(9) .(10) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			All(1) my(2) friends(3) are(4) drooling(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			My(1) son(2) can(3) not(4) get(5) enough(6) of(7) it(8) ,(9) even(10) my(11) wife(12) who(13) has(14) an(15) A4(16) 2.8(17) as(18) that(19) big(20) grin(21) when(22) she(23) shifts(24) the(25) Allroad(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			What(1) more(2) can(3) I(4) say(5) ?(6) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 41259.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Prem_Pkg(16) ,(17) CW_Pkg(18) 
+		</sentence>
+	</text>
+</review>

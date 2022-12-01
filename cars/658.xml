@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="658" item="2001 Volkswagen Jetta TDI" rating="2">
+	<title>
+		<sentence id="1">
+			Powerful(1) ,(2) yet(3) fragile(4) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			powerful(1) ,(2) fast(3) ,(4) comfortable(5) ,(6) great(7) look(8) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) reliable(2) ,(3) interior(4) ,(5) rear(6) leg(7) room(8) 
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) have(3) enough(4) savings(5) for(6) maintanance(7) and(8) time(9) to(10) take(11) it(12) to(13) the(14) shop(15) ....(16) you(17) will(18) enjoy(19) it(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="20" featRef="car" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			Otherwise(1) not(2) recommended(3) .(4) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) started(3) looking(4) for(5) a(6) new(7) car(8) ,(9) Volkswagen(10) was(11) not(12) even(13) on(14) my(15) list(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) some(3) friends(4) brought(5) to(6) our(7) attention(8) and(9) my(10) husband(11) decided(12) that(13) it(14) would(15) be(16) a(17) perfect(18) car(19) for(20) me(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="3">
+			I(1) can(2) not(3) complain(4) ,(5) the(6) car(7) is(8) very(9) powerful(10) and(11) the(12) only(13) car(14) where(15) sitting(16) on(17) the(18) driver(19) sit(20) I(21) feel(22) comfortable(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="23"/>
+			<opinion polarity="+" feature="horsepower" opWords="10"/>
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) 5(3) '(4) 4(5) "(6) ,(7) so(8) not(9) in(10) every(11) car(12) I(13) can(14) reach(15) the(16) accelerator(17) without(18) pushing(19) my(20) seat(21) all(22) the(23) way(24) to(25) the(26) steering(27) wheel(28) .(29) I(30) am(31) not(32) even(33) disappointed(34) with(35) the(36) back(37) leg(38) room(39) ,(40) since(41) it(42) is(43) just(44) 2(45) of(46) us(47) .(48) 2(49) months(50) down(51) the(52) road(53) mysterious(54) engine(55) check(56) light(57) came(58) on(59) and(60) I(61) went(62) through(63) all(64) kinds(65) of(66) troubles(67) to(68) getting(69) to(70) the(71) dealership(72) and(73) then(74) trying(75) to(76) get(77) back(78) to(79) work(80) .(81) Let(82) 's(83) just(84) say(85) if(86) you(87) are(88) working(89) full(90) time(91) during(92) the(93) day(94) and(95) do(96) not(97) have(98) someone(99) to(100) take(101) you(102) to(103) work(104) in_case(105) of(106) car(107) problems(108) ,(109) this(110) car(111) is(112) NOT(113) for(114) you(115) .(116) Under(117) warranty(118) I(119) had(120) taken(121) it(122) 3_times(123) because_of(124) minor(125) problems(126) ,(127) like(128) sensors(129) ,(130) switches(131) and(132) relays(133) .(134) After(135) warranty(136) I(137) also(138) have(139) taken(140) her(141) a(142) couple(143) times(144) in(145) because_of(146) the(147) sensors(148) .(149) It(150) cost(151) me(152) over(153) 500(154) all(155) together(156) so(157) far(158) .(159) Yesterday(160) the(161) check(162) engine(163) light(164) came(165) on(166) again(167) and(168) I(169) can(170) swear(171) that(172) is(173) another(174) sensor(175) .(176) I(177) will(178) be(179) selling(180) the(181) car(182) very(183) soon(184) believe(185) me(186) .(187) Working(188) full(189) time(190) and(191) having(192) not(193) other(194) means(195) of(196) transportation(197) ,(198) due(199) to(200) inconvenient(201) service(202) center(203) hours(204) and(205) delays(206) ,(207) I(208) can(209) not(210) afford(211) taking(212) the(213) car(214) to(215) the(216) shop(217) every(218) 2(219) month(220) and(221) spending(222) over(223) $300(224) each(225) time(226) .(227) The(228) interior(229) ((230) mine(231) is(232) beige(233) )(234) has(235) all(236) kinds(237) of(238) stains(239) possible(240) by(241) now(242) ,(243) even_though(244) no(245) one(246) rides(247) on(248) the(249) back(250) and(251) we(252) have(253) front(254) seat(255) covers(256) .(257) It(258) does(259) not(260) help(261) .(262) I(263) love(264) the(265) car(266) ....(267) and(268) honestly(269) I(270) want(271) to(272) keep(273) it(274) ,(275) but(276) can(277) not(278) afford(279) to(280) ....(281) Amount_Paid(282) ((283) US(284) $(285) )(286) :(287) 22500(288) Condition(289) :(290) NewModel_Year(291) :(292) 2001Model(293) and(294) Options(295) :(296) Automatic(297) ,(298) VR6(299) ,(300) SLX(301) 
+			<opinion polarity="+" feature="car" opWords="32,34"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="449" item="1999 Lexus RX 300" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Egg(2) ....(3) nature(4) 's(5) perfect(6) shape(7) ?(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lexus(1) quality(2) ,(3) safety(4) ,(5) quiet(6) ,(7) luxurious(8) ,(9) car-like(10) ride(11) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Eggmobile(1) looks(2) ,(3) not(4) much(5) bigger(6) than(7) a(8) car(9) ,(10) pricey(11) ,(12) jacked-up(13) Camry(14) for(15) $10k(16) more(17) 
+			<opinion polarity="-" feature="price" opWords="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) vehicle(2) is(3) great(4) at(5) what(6) it(7) does(8) ,(9) but(10) do(11) you(12) really(13) need(14) an(15) SUV(16) if(17) you(18) 're(19) buying(20) one(21) this(22) size(23) ?(24) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) also(3) more(4) affordable(5) choices(6) out(7) there(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) my(2) father(3) ,(4) who(5) already(6) owned(7) a(8) Lexus_GS(9) 300(10) ,(11) announced(12) that(13) he(14) had(15) purchased(16) a(17) Lexus_RX(18) 300(19) ,(20) I(21) was(22) a_bit(23) surprised(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			He(1) 'd(2) always(3) driven(4) a(5) Chevy(6) pickup(7) and(8) the(9) RX(10) 300(11) certainly(12) was(13) a(14) step(15) in(16) a(17) different(18) direction(19) for(20) him(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			He(1) wanted(2) something(3) with(4) a(5) little(6) more(7) cargo(8) space(9) for(10) the(11) numerous(12) long(13) trips(14) he(15) and(16) my(17) mother(18) take(19) in(20) their(21) retirement(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			I(1) suppose(2) the(3) RX(4) has(5) the(6) ability(7) to(8) carry(9) a(10) few(11) more(12) bulky(13) items(14) ,(15) but(16) overall(17) ,(18) I(19) do(20) not(21) think(22) the(23) sacrifices(24) are(25) worth(26) gaining(27) a(28) little(29) more(30) cargo(31) room(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			Especially(1) since(2) he(3) paid(4) nearly(5) $38,000(6) for(7) a(8) 2wd(9) model(10) ,(11) since(12) at(13) the(14) time(15) ,(16) Lexus(17) was(18) simply(19) not(20) discounting(21) them(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			These(1) days(2) ,(3) with(4) a(5) declining(6) stock(7) market(8) and(9) economy(10) ,(11) they(12) will(13) part(14) with(15) a(16) 2wd(17) model(18) with(19) premium(20) pkg(21) w(22) /(23) leather(24) for(25) about(26) $35,000(27) ,(28) including(29) sales(30) tax(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			That(1) 's(2) more(3) than(4) you(5) 'd(6) pay(7) for(8) the(9) larger(10) and(11) more(12) powerful(13) Chevy_Tahoe(14) lots(15) of(16) options(17) like(18) leather(19) ,(20) buckets(21) ,(22) running(23) boards(24) ,(25) etc.(26) It(27) 's(28) about(29) the(30) same(31) as(32) a(33) loaded(34) LT(35) 2wd(36) Chevy_Tahoe(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			Yes(1) ,(2) the(3) Lexus(4) is(5) slightlly(6) more(7) luxurious(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			Yes(1) ,(2) it(3) will(4) be(5) more(6) trouble-free(7) in(8) the(9) long(10) run(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			And(1) yes(2) ,(3) the(4) dealers(5) are(6) better(7) ,(8) but(9) for(10) me(11) ,(12) the(13) Tahoe(14) is(15) better(16) in(17) almost(18) every(19) other(20) area(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			For(1) drivers(2) who(3) want(4) a(5) car-like(6) SUV(7) and(8) for(9) some(10) reason(11) feel(12) a(13) full-sized(14) SUV(15) is(16) too(17) big(18) for(19) them(20) ,(21) I(22) would(23) suggest(24) checking(25) out(26) the(27) nearly(28) identical(29) Toyota_Highlander(30) ,(31) which(32) gives(33) up(34) a(35) little(36) luxury(37) for(38) a(39) little(40) more(41) space(42) inside(43) and(44) a(45) much(46) lower(47) price(48) tag(49) .(50) 
+		</sentence>
+		<sentence id="12">
+			The(1) RX(2) 300(3) is(4) basically(5) just(6) a(7) Toyota_Camry(8) that(9) is(10) modified(11) and(12) raised(13) some(14) ,(15) so(16) go(17) into(18) a(19) purchase(20) understanding(21) that(22) you(23) are(24) paying(25) about(26) $35,000(27) for(28) a(29) $25,000(30) Camry(31) with(32) a(33) few(34) extra(35) features(36) ,(37) an(38) enclosed(39) cargo(40) "(41) greenhouse(42) "(43) ,(44) and(45) nicer(46) interior(47) materials(48) .(49) 
+		</sentence>
+		<sentence id="13">
+			Here(1) 's(2) how(3) the(4) RX(5) 300(6) stacks(7) up(8) :(9) EXTERIOR(10) :(11) It(12) 's(13) not(14) ugly(15) ,(16) but(17) it(18) is(19) "(20) unconventional(21) "(22) to(23) say(24) the(25) least(26) .(27) 
+			<opinion polarity="+" feature="design" opWords="14,15"/>
+		</sentence>
+		<sentence id="14">
+			We(1) call(2) it(3) "(4) the(5) eggmobile(6) "(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			It(1) 's(2) funny(3) to(4) see(5) my(6) former-builder(7) dad(8) driving(9) this(10) around(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			With(1) brawnier(2) tires(3) and(4) in(5) a(6) color(7) like(8) Black(9) ,(10) it(11) might(12) look(13) more(14) appropriate(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			In(1) standard(2) guise(3) ,(4) it(5) can(6) be(7) mistaken(8) for(9) a(10) new(11) type(12) of(13) minivan(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			Not(1) bad(2) ,(3) but(4) not(5) to(6) my(7) tastes(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="19">
+			Paint(1) quality(2) is(3) typical(4) Lexus(5) ...(6) outstanding(7) .(8) 
+			<opinion polarity="+" feature="color" featWords="1" opWords="7"/>
+		</sentence>
+		<sentence id="20">
+			INTERIOR(1) :(2) Not(3) as(4) nice(5) as(6) most(7) other(8) Lexus(9) vehicles(10) ,(11) but(12) nice(13) .(14) 
+			<opinion polarity="+" feature="interior" featWords="1" opWords="13"/>
+		</sentence>
+		<sentence id="21">
+			The(1) seating(2) is(3) comfortable(4) ,(5) if(6) a(7) little(8) tight(9) for(10) those(11) accustomed(12) to(13) traditional(14) big(15) SUV(16) 's(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			Leg(1) room(2) is(3) fine(4) in(5) front(6) ,(7) and(8) acceptable(9) in(10) the(11) rear(12) seats(13) .(14) 
+			<opinion polarity="+" feature="leg room" featWords="1,2" opWords="9"/>
+			<opinion polarity="+" feature="leg room" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			This(1) is(2) not(3) a(4) vehicle(5) for(6) a(7) big(8) family(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			It(1) holds(2) 5(3) passengers(4) ,(5) but(6) at_least(7) 3(8) of(9) them(10) had(11) better(12) be(13) children(14) on(15) long(16) trips(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			Stereo(1) quality(2) is(3) good(4) .(5) 
+			<opinion polarity="+" feature="sound system" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			A_lot_of(1) people(2) object(3) to(4) the(5) odd(6) control(7) "(8) pod(9) "(10) that(11) extends(12) from(13) the(14) front(15) ,(16) but(17) I(18) think(19) it(20) is(21) a(22) good(23) feature(24) ,(25) though(26) it(27) does(28) add(29) to(30) the(31) minivan(32) look(33) .(34) 
+		</sentence>
+		<sentence id="27">
+			PERFORMANCE(1) :(2) Acceleration(3) is(4) adequate(5) with(6) the(7) V(8) -(9) 6(10) engine(11) lifted(12) from(13) the(14) Camry(15) .(16) 
+			<opinion polarity="+" feature="acceleration" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="28">
+			Engine(1) noise(2) is(3) low(4) ,(5) and(6) the(7) overall(8) feel(9) is(10) "(11) smooth(12) "(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			Braking(1) is(2) again(3) run-of-the-mill(4) .(5) 
+		</sentence>
+		<sentence id="30">
+			Nothing(1) bad(2) ,(3) but(4) nothing(5) outstanding(6) ,(7) either(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			Handling(1) is(2) a(3) weak(4) area(5) ,(6) in(7) my(8) opinion(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			There(1) is(2) a(3) little(4) too(5) much(6) body(7) roll(8) ,(9) probably(10) because_of(11) the(12) softly(13) tuned(14) suspension(15) ,(16) and(17) a(18) noticeable(19) lack(20) of(21) road(22) feel(23) .(24) 
+			<opinion polarity="-" feature="body roll" featWords="7,8" opWords="5,6"/>
+		</sentence>
+		<sentence id="33">
+			I(1) like(2) a(3) "(4) in(5) control(6) "(7) feel(8) in(9) a(10) vehicle(11) ,(12) and(13) the(14) RX(15) 300(16) just(17) feels(18) too(19) isolated(20) for(21) my(22) tastes(23) .(24) 
+		</sentence>
+		<sentence id="34">
+			It(1) 's(2) not(3) bad(4) at(5) all(6) ,(7) but(8) it(9) 's(10) just(11) not(12) great(13) handling(14) .(15) 
+			<opinion polarity="-" feature="handling" featWords="14" opWords="12,13"/>
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="35">
+			Anyone(1) used(2) to(3) cushy(4) cruiser(5) cars(6) would(7) love(8) it(9) ,(10) though(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			Ride(1) is(2) quiet(3) and(4) smooth(5) ,(6) which(7) you(8) 'd(9) expect(10) from(11) any(12) Lexus(13) .(14) 
+			<opinion polarity="+" feature="ride quality" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="ride quality" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="37">
+			SAFETY(1) :(2) The(3) RX(4) 300(5) is(6) top(7) rated(8) in(9) crash(10) tests(11) by(12) the(13) IIHS(14) in(15) their(16) frontal(17) offset(18) test(19) .(20) 
+		</sentence>
+		<sentence id="38">
+			It(1) has(2) the(3) usual(4) front(5) airbags(6) ,(7) crash(8) pretensioners(9) ,(10) and(11) ABS(12) brakes(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			It(1) also(2) has(3) side(4) airbags(5) ,(6) a(7) big(8) plus(9) ,(10) though(11) I(12) am(13) not(14) sure(15) if(16) they(17) are(18) the(19) type(20) which(21) protects(22) the(23) head(24) as_well(25) as(26) the(27) torso(28) .(29) 
+		</sentence>
+		<sentence id="40">
+			The(1) NHTSA(2) also(3) has(4) it(5) rated(6) well(7) in(8) both(9) frontal(10) and(11) side(12) impact(13) tests(14) .(15) 4(16) stars(17) front(18) driver(19) ,(20) 5(21) front(22) driver(23) ,(24) and(25) a(26) rare(27) 5(28) star(29) rating(30) on(31) side(32) impacts(33) .(34) 
+		</sentence>
+		<sentence id="41">
+			Keep(1) in(2) mind(3) ,(4) this(5) is(6) a(7) fairly(8) light(9) SUV(10) ,(11) so(12) a(13) great(14) test(15) score(16) may(17) not(18) equate(19) to(20) an(21) average(22) test(23) score(24) in(25) a(26) larger(27) ,(28) heavier(29) SUV(30) .(31) 
+		</sentence>
+		<sentence id="42">
+			But(1) safety(2) is(3) definitely(4) a(5) strongpoint(6) in(7) this(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			In(1) my(2) opinion(3) ,(4) you(5) should(6) not(7) buy(8) any(9) vehicle(10) that(11) is(12) not(13) as(14) safe(15) as(16) possible(17) in(18) a(19) crash(20) ,(21) so(22) this(23) factor(24) alone(25) vaults(26) the(27) RX(28) 300(29) near(30) the(31) top(32) of(33) my(34) SUV(35) shopping(36) list(37) .(38) 
+		</sentence>
+		<sentence id="44">
+			But(1) if(2) you(3) want(4) maxium(5) safety(6) ,(7) either(8) choose(9) a(10) very(11) large(12) vehicle(13) or(14) one(15) that(16) can(17) properly(18) avoid(19) most(20) dangerous(21) situations(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			Usually(1) this(2) means(3) a(4) sports(5) sedan(6) .(7) 
+		</sentence>
+		<sentence id="46">
+			For(1) less(2) than(3) $35,000(4) ,(5) a(6) used(7) 2-3(8) y(9) /(10) o(11) Lexus_LS(12) 400(13) would(14) provide(15) more(16) luxury(17) ,(18) more(19) power(20) ,(21) more(22) seating(23) space(24) ,(25) almost(26) as(27) much(28) cargo(29) space(30) ,(31) better(32) safety(33) ,(34) and(35) comparable(36) overall(37) ownership(38) costs(39) .(40) 
+		</sentence>
+		<sentence id="47">
+			OWNERSHIP_EXPERIENCE(1) :(2) You(3) can(4) expect(5) the(6) typically(7) great(8) Lexus(9) experience(10) .(11) 
+		</sentence>
+		<sentence id="48">
+			Great(1) reliablity(2) ,(3) good(4) service(5) ,(6) and(7) solid(8) resale(9) values(10) .(11) 
+			<opinion polarity="+" feature="resale value" featWords="9,10" opWords="8"/>
+			<opinion polarity="+" feature="service" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="49">
+			Lexus(1) dealers(2) are(3) not(4) ,(5) however(6) ,(7) Saturn(8) dealers(9) .(10) 
+		</sentence>
+		<sentence id="50">
+			You(1) will(2) get(3) the(4) usual(5) sales(6) pitches(7) and(8) have(9) to(10) negotiate(11) to(12) get(13) a(14) good(15) deal(16) .(17) 
+		</sentence>
+		<sentence id="51">
+			UTILITY_VALUE(1) :(2) This(3) is(4) where(5) the(6) RX(7) 300(8) loses(9) points(10) .(11) 
+		</sentence>
+		<sentence id="52">
+			While(1) it(2) is(3) not(4) small(5) ,(6) it(7) really(8) is(9) not(10) much(11) bigger(12) than(13) a(14) most(15) midsize(16) cars(17) .(18) 
+		</sentence>
+		<sentence id="53">
+			Unless(1) you(2) carry(3) large(4) boxes(5) often(6) ,(7) I(8) think(9) that(10) a(11) car(12) gives(13) one(14) a(15) better(16) combination(17) of(18) ride(19) and(20) handling(21) ,(22) and(23) a(24) larger(25) SUV(26) gives(27) a(28) more(29) useable(30) cargo(31) capacity(32) .(33) 
+		</sentence>
+		<sentence id="54">
+			The(1) RX(2) 300(3) is(4) what(5) it(6) was(7) designed(8) to(9) be(10) ,(11) a(12) compromise(13) .(14) 
+		</sentence>
+		<sentence id="55">
+			I(1) think(2) the(3) compromise(4) makes(5) more(6) sense(7) in(8) a(9) $28,000-$30,000(10) Toyota_Highlander(11) than(12) in(13) a(14) $35,000(15) RX(16) 300(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			Lexus(1) is(2) a(3) luxury(4) brand(5) .(6) 
+		</sentence>
+		<sentence id="57">
+			If(1) you(2) want(3) real(4) Luxury(5) content(6) ,(7) move(8) up(9) to(10) their(11) bigger(12) and(13) costlier(14) vehicles(15) .(16) 
+		</sentence>
+		<sentence id="58">
+			The(1) RX(2) 300(3) is(4) often(5) compared(6) to(7) the(8) new(9) Acura_MDX(10) and(11) the(12) BMW(13) X5(14) in(15) concept(16) .(17) 
+		</sentence>
+		<sentence id="59">
+			They(1) both(2) offer(3) a(4) little(5) more(6) of(7) something(8) ((9) space(10) in(11) the(12) Acura(13) ,(14) performance(15) and(16) luxury(17) in(18) the(19) BMW(20) )(21) so(22) you(23) really(24) need(25) to(26) decide(27) if(28) you(29) need(30) an(31) SUV(32) at(33) all(34) before(35) considering(36) this(37) class(38) of(39) vehicle(40) .(41) 
+		</sentence>
+		<sentence id="60">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 38000(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) 2wd(14) w(15) /(16) premium(17) pkg(18) 
+		</sentence>
+	</text>
+</review>

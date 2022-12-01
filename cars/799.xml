@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="799" item="1995 Pontiac Bonneville" rating="2">
+	<title>
+		<sentence id="1">
+			Poor_Value(1) 1995(2) Bonneville(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) Sporty(3) ,(4) Cheap(5) second(6) hand(7) car(8) .(9) 
+			<opinion polarity="+" feature="price" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Air_Condition_Poor(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Poor_Rear(1) defrost(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Front(1) end(2) parts(3) need(4) replacement(5) frequently(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) this(4) car(5) ,(6) unless(7) your(8) really(9) like(10) the(11) looks(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			This(1) ones(2) a(3) looser(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Nice(1) looking(2) car(3) ,(4) but(5) poor(6) maintenance(7) record(8) for(9) me(10) .(11) 
+			<opinion polarity="-" feature="maintenance" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Air(1) condition(2) does(3) not(4) work(5) right(6) after(7) many(8) repairs(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Front(1) end(2) parts(3) need(4) replacing(5) ever(6) after(7) light(8) use(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			Air_Condition(1) problems(2) ,(3) poor(4) heating(5) /(6) cooling(7) fan(8) .(9) 
+			<opinion polarity="-" feature="heat" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Electronic(1) climate(2) control(3) frustrating(4) .(5) 
+			<opinion polarity="-" feature="climate" featWords="2,3" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Poor_Rear(1) defrost(2) .(3) 
+		</sentence>
+		<sentence id="7">
+			Ball(1) joints(2) ,(3) and(4) Tie_Rod(5) ends(6) need(7) replacement(8) frequently(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			These(1) cars(2) depreciate(3) quickly(4) from(5) being(6) new(7) ,(8) so(9) you(10) can(11) pick(12) up(13) a_second(14) hand(15) one(16) cheap(17) if(18) you(19) look(20) around(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Avoid(1) electronic(2) climate(3) control(4) .(5) 
+			<opinion polarity="-" feature="climate" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="10">
+			Make(1) a(2) good(3) Taxi_Cab(4) but(5) over(6) all(7) poor(8) car(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			do(1) not(2) waste(3) your(4) time(5) on(6) this(7) one(8) this(9) car(10) not(11) recommended(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="10" opWords="11,12"/>
+		</sentence>
+		<sentence id="12">
+			Ive(1) had(2) this(3) car(4) for(5) 7(6) years(7) now(8) and(9) have(10) spent(11) over(12) $10000.00(13) in(14) maitence(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Junk(1) .(2) 
+		</sentence>
+		<sentence id="14">
+			Avoid(1) this(2) one(3) .(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) looking(3) for(4) a(5) good(6) car(7) in(8) this(9) size(10) look(11) for(12) the(13) Dodge_Intrepid(14) instead(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10000.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995(12) 
+		</sentence>
+	</text>
+</review>

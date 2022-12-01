@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="168" item="1993 Buick LeSabre" rating="5">
+	<title>
+		<sentence id="1">
+			Take(1) control(2) of(3) the(4) road(5) with(6) the(7) Buick_LeSabre(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			This(1) car(2) is(3) perfect(4) for(5) a(6) four(7) person(8) family(9) !(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) of(2) the(3) features(4) stop(5) working(6) after(7) a(8) long(9) time(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) is(3) great(4) for(5) some(6) people(7) ,(8) but(9) not(10) everyone(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Always(1) get(2) as(3) much(4) information(5) as(6) possible(7) about(8) the(9) car(10) you(11) are(12) interested(13) in(14) ,(15) before(16) you(17) buy(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) car(4) with(5) my(6) family(7) 7(8) years(9) ago(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Ever(1) since(2) then(3) ,(4) it(5) has(6) worked(7) great(8) for(9) the(10) most(11) part(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="7,8"/>
+		</sentence>
+		<sentence id="3">
+			It(1) rides(2) smoothly(3) and(4) we(5) have(6) never(7) had(8) to(9) take(10) the(11) car(12) to(13) the(14) garage(15) ,(16) except_for(17) regular(18) expections(19) and(20) such(21) .(22) 
+			<opinion polarity="+" feature="ride quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			We(1) have(2) about(3) 150,000_miles(4) on(5) the(6) car(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) many(3) special(4) features(5) like(6) power(7) windows(8) ,(9) power(10) lock(11) doors(12) ,(13) the(14) usual(15) stuff(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) thing(3) that(4) I(5) do(6) not(7) like(8) about(9) it(10) is(11) that(12) it(13) makes(14) you(15) feel(16) kind(17) of(18) stuffy(19) because(20) it(21) does(22) not(23) have(24) a_lot_of(25) window(26) space(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) power(2) doors(3) down(4) work(5) all(6) the(7) time(8) any(9) more(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Some(1) times(2) the(3) passenger(4) 's(5) door(6) does(7) not(8) unlock(9) from(10) the(11) outside(12) ,(13) sometimes(14) that(15) happens(16) with(17) the(18) front(19) door(20) too(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			It(1) sounds(2) like(3) this(4) car(5) is(6) terrible(7) ,(8) but(9) because(10) I(11) know(12) nothing(13) about(14) the(15) technical(16) names(17) of(18) the(19) car(20) parts(21) ,(22) I(23) can(24) not(25) really(26) describe(27) the(28) car(29) that(30) well(31) .(32) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) works(3) well(4) and(5) I(6) runs(7) and(8) drives(9) smoothly(10) .(11) 
+			<opinion polarity="+" feature="ride quality" opWords="9,10"/>
+			<opinion polarity="+" feature="ride quality" opWords="7,10"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) like(2) this(3) car(4) a_lot(5) ,(6) but(7) it(8) might(9) not(10) be(11) the(12) car(13) for(14) everyone(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			You(1) should(2) always(3) go(4) the(5) the(6) car(7) 's(8) website(9) first(10) ,(11) check(12) magazines(13) like(14) "(15) Consumer_Reports(16) "(17) ,(18) and(19) check(20) dealers(21) prices(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Good(1) luck(2) !(3) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) Automatic(16) ,(17) power(18) windows(19) ,(20) doors(21) and(22) seats(23) ,(24) cruise(25) control(26) 
+		</sentence>
+	</text>
+</review>

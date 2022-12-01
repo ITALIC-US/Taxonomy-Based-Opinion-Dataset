@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="146" item="Westgate Lakes Resort" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) bad(2) if(3) you(4) want(5) to(6) save(7) a(8) few(9) bucks(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) and(2) close(3) to(4) Orlando(5) attractions(6) ((7) Universal(8) ,(9) Disney(10) ,(11) restaurants(12) &(13) shopping(14) )(15) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Moldy(1) bathrooms(2) ,(3) long(4) sales(5) pitches(6) ....(7) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) went(5) to(6) Westgate_Lakes(7) on(8) a(9) promotion(10) that(11) incuded(12) a(13) three(14) night(15) stay(16) and(17) tickets(18) to(19) a(20) theme(21) park(22) for(23) $199(24) if(25) we(26) sat(27) through(28) a(29) 90(30) minute(31) sales(32) pitch(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			We(1) thought(2) we(3) were(4) going(5) to(6) stay(7) in(8) a(9) 5(10) star(11) resort(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			They(1) lied(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			We(1) got(2) to(3) the(4) room(5) and(6) there(7) was(8) MOLD(9) in(10) the(11) jacuzzi(12) and(13) the(14) shower(15) ,(16) and(17) seemed(18) a_bit(19) seedy(20) .(21) 
+			<opinion polarity="-" feature="rooms" featWords="5" opWords="20"/>
+		</sentence>
+		<sentence id="5">
+			The(1) grounds(2) were(3) nice(4) enough(5) and(6) the(7) pool(8) was(9) not(10) bad(11) .(12) 
+			<opinion polarity="+" feature="grounds" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="swimming pool" featWords="8" opWords="10,11"/>
+		</sentence>
+		<sentence id="6">
+			The(1) parking(2) situation(3) was(4) kinda(5) rough(6) because(7) we(8) had(9) a(10) hard(11) time(12) finding(13) parking(14) near(15) our(16) room(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) "(2) 90(3) minute(4) "(5) pitch(6) was(7) what(8) angered(9) me(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			IT(1) LASTED(2) 3(3) HOURS(4) !(5) !(6) !(7) !(8) !(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="9">
+			They(1) would(2) not(3) take(4) no(5) for(6) an(7) answer(8) .(9) 
+		</sentence>
+	</text>
+</review>

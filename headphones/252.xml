@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="252" item="Sennheiser RS 140-EU - RF Wireless High SPL Closed-Back Design Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) what(2) I(3) expected(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Portable(1) .(2) 
+			<opinion polarity="+" feature="portability" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Lightweight(1) .(2) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Good(1) stereo(2) sound(3) .(4) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Static(1) /(2) Hiss(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Range(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) a(4) less(5) expensive(6) set(7) of(8) headphones(9) ,(10) the(11) comfort(12) and(13) sound(14) do(15) not(16) outweigh(17) having(18) static(19) and(20) hissing(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) previously(2) owned(3) the(4) Sennheiser(5) T40(6) and(7) was(8) impressed(9) with(10) the(11) range(12) and(13) sound(14) quality(15) ,(16) but(17) I(18) use(19) them(20) while(21) I(22) am(23) working(24) around(25) the(26) house(27) and(28) yard(29) and(30) every(31) time(32) I(33) bent(34) over(35) they(36) fell(37) off(38) .(39) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) I(3) 'd(4) shop(5) for(6) a(7) better(8) set(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) RS130(2) headset(3) is(4) so(5) comfortable(6) ,(7) very(8) lightweight(9) ,(10) blocks(11) out(12) just(13) enough(14) outside(15) sound(16) ,(17) and(18) never(19) falls(20) off(21) my(22) head(23) when(24) I(25) move(26) around(27) .(28) 
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="weight" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) when(4) sitting(5) in(6) the(7) same(8) room(9) is(10) very(11) good(12) .(13) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="5">
+			As(1) a(2) matter(3) of(4) fact(5) the(6) sound(7) quality(8) when(9) further(10) away(11) is(12) probably(13) just(14) as(15) good(16) if(17) I(18) could(19) hear(20) it(21) above(22) the(23) hissing(24) /(25) static(26) sound(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) very(3) annoying(4) .(5) 
+			<opinion polarity="-" feature="headphones" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="7">
+			I(1) use(2) it(3) most(4) often(5) in(6) my(7) kitchen(8) which(9) is(10) about(11) 40(12) ft(13) from(14) where(15) it(16) is(17) located(18) -(19) in(20) direct(21) line(22) ((23) no(24) walls(25) ,(26) etc(27) )(28) and(29) I(30) get(31) constant(32) hiss(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			As(1) I(2) write(3) this(4) ,(5) I(6) am(7) in(8) a(9) room(10) also(11) 40(12) ft(13) away(14) with(15) 3(16) walls(17) in(18) between(19) and(20) the(21) hiss(22) is(23) negligible(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) checked(3) my(4) kitchen(5) for(6) possible(7) interferences(8) -(9) can(10) not(11) explain(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) not(3) have(4) enough(5) range(6) to(7) even(8) go(9) outside(10) ,(11) which(12) I(13) could(14) with(15) the(16) T40(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Overall(1) ,(2) I(3) am(4) disappointed(5) for(6) the(7) amount(8) of(9) money(10) I(11) spent(12) .(13) 
+		</sentence>
+	</text>
+</review>

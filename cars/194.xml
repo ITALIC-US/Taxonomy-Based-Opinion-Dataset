@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="194" item="2003 Audi allroad" rating="5">
+	<title>
+		<sentence id="1">
+			one(1) of(2) the(3) best(4) vehicles(5) I(6) have(7) owned(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Performance(1) ,(2) handling(3) ,(4) space(5) ,(6) looks(7) and(8) quality(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			needed(1) better(2) tires(3) .(4) steering(5) can(6) be(7) a(8) little(9) vague(10) at(11) lower(12) speeds(13) -(14) 
+			<opinion polarity="-" feature="steering" featWords="5" opWords="10" potency="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Having(1) owned(2) numerous(3) German(4) cars(5) over(6) the(7) years(8) -(9) I(10) really(11) loved(12) my(13) Audi_All(14) road(15) -(16) which(17) I(18) leased(19) back(20) in_2003(21) it(22) will(23) return(24) back(25) to(26) Audi(27) next(28) month(29) having(30) served(31) me(32) well(33) for(34) the(35) whole(36) term(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			The(1) blend(2) of(3) performance(4) and(5) space(6) will(7) be(8) hard(9) to(10) beat(11) -(12) and(13) I(14) loved(15) the(16) handling(17) -(18) I(19) live(20) close(21) to(22) the(23) mountains(24) and(25) many(26) trips(27) up(28) sking(29) never(30) caused(31) any(32) problems(33) for(34) the(35) Audi(36) 's(37) all(38) wheel(39) drive(40) .(41) 
+			<opinion polarity="+" feature="handling" featWords="17" opWords="15"/>
+		</sentence>
+		<sentence id="3">
+			The(1) only(2) compliant(3) would(4) be(5) on(6) the(7) original(8) pirella(9) tires(10) which(11) lasted(12) a(13) perfect(14) 18,000(15) before(16) having(17) to(18) be(19) changed(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) upset(3) that(4) the(5) European_All_Road(6) replacement(7) is(8) not(9) coming(10) to(11) the(12) US(13) and(14) not(15) a(16) great(17) lover(18) of(19) the(20) new(21) Q7(22) I(23) am(24) most(25) likely(26) going(27) to(28) lease(29) one(30) of(31) the(32) new(33) Audi(34) A3(35) 3.2(36) all(37) wheel(38) drives(39) this(40) time(41) around(42) .(43) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 47000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) allroad(16) 2.7(17) t(18) 
+		</sentence>
+	</text>
+</review>

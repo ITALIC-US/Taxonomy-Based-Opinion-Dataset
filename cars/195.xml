@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="195" item="2003 Audi allroad" rating="4">
+	<title>
+		<sentence id="1">
+			Excellent(1) vehicle(2) with(3) small(4) flaws(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Interior(1) fit(2) /(3) finish(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Performance(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Best(1) in(2) class(3) all(4) wheel(5) drive(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Niggling(1) glitches(2) mar(3) a(4) perfect(5) score(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) 2003(2) allroad(3) is(4) my(5) second(6) Audi(7) and(8) my(9) second(10) with(11) the(12) 2.7T(13) engine(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) interior(2) fit(3) and(4) finish(5) is(6) best(7) in(8) class(9) .(10) 
+			<opinion polarity="+" feature="finish" featWords="5" opWords="7"/>
+			<opinion polarity="+" feature="comfort" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) exterior(2) lines(3) are(4) clean(5) and(6) refined(7) ;(8) the(9) new(10) Audi(11) styling(12) for(13) 2005(14) may(15) take(16) some(17) getting(18) used(19) to(20) .(21) 
+			<opinion polarity="+" feature="exterior" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="exterior" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) powertrain(2) is(3) first(4) rate(5) .(6) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			Lots(1) of(2) low(3) end(4) torque(5) and(6) performance(7) is(8) good(9) -(10) even(11) for(12) a(13) heavy(14) vehicle(15) .(16) 
+			<opinion polarity="-" feature="weight" opWords="14"/>
+			<opinion polarity="+" feature="performance" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="6">
+			The(1) allroad(2) is(3) essentially(4) a(5) station(6) wagon(7) on(8) steroids(9) and(10) ,(11) as(12) such(13) ,(14) gives(15) you(16) the(17) AWD(18) performance(19) of(20) an(21) SUV(22) without(23) the(24) socially-irresponsible(25) gas(26) mileage(27) .(28) 
+			<opinion polarity="-" feature="gas" featWords="26,27" opWords="25"/>
+		</sentence>
+		<sentence id="7">
+			Nice(1) feature(2) -(3) the(4) driver(5) adjustable(6) right(7) height(8) ...(9) I(10) only(11) shovel(12) my(13) driveway(14) for(15) REALLY(16) deep(17) snow(18) now(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			So(1) -(2) the(3) flaws(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) the(3) infamous(4) ignition(5) coil(6) failure(7) that(8) has(9) afflicted(10) many(11) Audis(12) and(13) VWs(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			But(1) Audi_of_America(2) was(3) very(4) quick(5) to(6) remedy(7) the(8) situation(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			Another(1) problem(2) is(3) that(4) our(5) key(6) remotes(7) keep(8) dying(9) out(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			This(1) necessitates(2) a(3) trip(4) to(5) the(6) dealer(7) for(8) repair(9) /(10) reprogramming(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Inconvenient(1) -(2) yes(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			Showstopper(1) -(2) no(3) ...(4) not(5) with(6) the(7) other(8) positives(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			I(1) will(2) probably(3) replace(4) this(5) vehicle(6) when(7) it(8) 's(9) off(10) lease(11) with(12) an(13) S4(14) Avant(15) ...(16) slightly(17) smaller(18) ...(19) way(20) faster(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 46000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) 2.7T(16) 
+		</sentence>
+	</text>
+</review>

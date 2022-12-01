@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="784" item="2001 Toyota MR2 Spyder" rating="2">
+	<title>
+		<sentence id="1">
+			NOT(1) Better(2) than(3) a(4) Boxster(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low(1) cost(2) ,(3) good(4) gas(5) mileage(6) ,(7) roomy(8) interior(9) 
+			<opinion polarity="+" feature="interior" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) power(2) ,(3) no(4) storage(5) ,(6) continuous(7) upgrade(8) cycle(9) 
+			<opinion polarity="-" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Too(1) many(2) shortcomings(3) plague(4) this(5) car(6) and(7) keep(8) it(9) from(10) being(11) a(12) truly(13) stellar(14) buy(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			If(1) Toyota(2) can(3) solve(4) these(5) problems(6) in(7) the(8) future(9) then(10) I(11) 'll(12) revisit(13) the(14) opinion(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Last(1) year(2) I(3) authored(4) an(5) opinion(6) for(7) the(8) 2000(9) MR2(10) Spyder(11) in(12) which(13) I(14) stated(15) that(16) it(17) was(18) better(19) than(20) a(21) Boxster(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			To(1) clarify(2) at(3) the(4) time(5) I(6) was(7) an(8) owner(9) of(10) the(11) 2000(12) MR2(13) Spyder(14) and(15) was(16) looking(17) solely(18) at(19) a(20) price(21) /(22) performance(23) comparison(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			A(1) buyer(2) could(3) spend(4) $25K(5) on(6) a(7) Spyder(8) and(9) get(10) close(11) the(12) performance(13) of(14) a(15) base(16) automatic(17) Boxster(18) costing(19) $20K(20) more(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Is(1) the(2) car(3) really(4) "(5) Better(6) than(7) a(8) Boxster(9) "(10) ?(11) 
+		</sentence>
+		<sentence id="5">
+			No(1) .(2) 
+		</sentence>
+		<sentence id="6">
+			After(1) 1(2) year(3) I(4) sold(5) my(6) car(7) and(8) here(9) 's(10) why(11) :(12) 1(13) )(14) There(15) was(16) always(17) a(18) feeling(19) of(20) wanting(21) a(22) little(23) more(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			If(1) I(2) only(3) had(4) more(5) horsepower(6) ,(7) if(8) I(9) only(10) had(11) more(12) storage(13) ,(14) if(15) I(16) only(17) upgraded(18) the(19) suspension(20) ,(21) etc.(22) etc.(23) After(24) time(25) I(26) grew(27) tired(28) of(29) this(30) continuous(31) upgrade(32) cycle(33) I(34) had(35) fallen(36) into(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			Many(1) Spyder(2) owners(3) were(4) consistenly(5) spending(6) $3K-$5(7) on(8) upgrades(9) to(10) their(11) cars(12) and(13) some(14) have(15) spent(16) over(17) $10K(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) really(3) like(4) doing(5) this(6) sort(7) of(8) thing(9) ,(10) then(11) maybe(12) the(13) Spyder(14) is(15) for(16) you(17) ,(18) but(19) after(20) awhile(21) it(22) was(23) very(24) tiresome(25) and(26) burning(27) a(28) continual(29) hole(30) in(31) the(32) wallet(33) with(34) no(35) end(36) in(37) sight(38) .(39) 
+			<opinion polarity="-" feature="car" opWords="25" potency="24"/>
+		</sentence>
+		<sentence id="10">
+			For(1) only(2) slightly(3) more(4) you(5) could(6) be(7) driving(8) a(9) Honda(10) S2000(11) ,(12) a(13) much(14) better(15) car(16) overall(17) than(18) the(19) Spyder(20) in(21) my(22) opinion(23) .(24) 2(25) )(26) Cheap(27) fit(28) and(29) finish(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			It(1) maybe(2) is(3) not(4) something(5) you(6) notice(7) when(8) you(9) first(10) look(11) at(12) a(13) car(14) ,(15) but(16) after(17) sitting(18) inside(19) it(20) for(21) awhile(22) you(23) can(24) really(25) start(26) to(27) pick(28) apart(29) the(30) fit(31) and(32) finish(33) of(34) the(35) car(36) .(37) 
+		</sentence>
+		<sentence id="12">
+			No(1) leather(2) ((3) although(4) it(5) is(6) an(7) option(8) now(9) ,(10) but(11) still(12) lacking(13) )(14) ,(15) plastic(16) galore(17) including(18) simulated(19) aluminum(20) handles(21) still(22) showing(23) plastic(24) mold(25) lines(26) ,(27) uncomfortable(28) arm(29) rests(30) ,(31) mixed(32) color(33) dash(34) illumination(35) ,(36) and(37) a(38) glovebox(39) that(40) rattles(41) in(42) just(43) about(44) every(45) one(46) that(47) rolls(48) off(49) the(50) assembly(51) line(52) .(53) 
+		</sentence>
+		<sentence id="13">
+			Maybe(1) I(2) was(3) expecting(4) the(5) fit(6) and(7) finish(8) of(9) a(10) BMW(11) or(12) Porsche(13) ,(14) and(15) should(16) have(17) realized(18) the(19) car(20) was(21) a(22) Toyota(23) ,(24) but(25) even(26) for(27) Toyota_I(28) was(29) disappointed(30) over(31) time(32) .(33) 3(34) )(35) No(36) storage(37) space(38) .(39) 
+			<opinion polarity="-" feature="car" opWords="30"/>
+		</sentence>
+		<sentence id="14">
+			Add(1) another(2) $300(3) to(4) the(5) cost(6) of(7) the(8) car(9) of(10) a(11) nice(12) luggage(13) rack(14) ,(15) you(16) 'll(17) need(18) it(19) and(20) Toyota(21) does(22) not(23) offer(24) it(25) so(26) you(27) 'll(28) have(29) to(30) go(31) aftermarket(32) ((33) see(34) upgrade(35) cycle(36) above(37) )(38) .(39) 
+		</sentence>
+		<sentence id="15">
+			Many(1) of(2) the(3) car(4) magazines(5) have(6) stressed(7) this(8) point(9) and(10) yet(11) you(12) 'll(13) find(14) MR2(15) Spyder(16) owners(17) glossing(18) over(19) this(20) lack(21) of(22) storage(23) space(24) as(25) I(26) previously(27) did(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			Well(1) actually(2) living(3) with(4) that(5) limited(6) storage(7) space(8) for(9) a(10) year(11) certainly(12) made(13) a(14) difference(15) and(16) changed(17) my(18) opinion(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			All(1) too(2) often(3) I(4) could(5) not(6) carry(7) something(8) I(9) wanted(10) to(11) carry(12) ((13) like(14) groceries(15) )(16) without(17) using(18) the(19) passenger(20) seat(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			When(1) you(2) think(3) storage(4) on(5) this(6) car(7) ,(8) think(9) motorcycle(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			Toyota(1) made(2) a(3) terrible(4) mistake(5) in(6) not(7) giving(8) this(9) car(10) a(11) trunk(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			One(1) of(2) the(3) first(4) things(5) MR2(6) Spyder(7) owners(8) do(9) is(10) throw(11) out(12) their(13) spare(14) and(15) get(16) a(17) can(18) of(19) fix(20) a(21) flat(22) in_order_to(23) give(24) themselves(25) some(26) storage(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			The(1) luggage(2) rack(3) is(4) nice(5) ,(6) although(7) some(8) owners(9) have(10) stated(11) that(12) they(13) 've(14) had(15) engine(16) overheating(17) after(18) installing(19) the(20) luggage(21) rack(22) because(23) it(24) blocks(25) the(26) cooling(27) vents(28) on(29) the(30) trunk(31) lid(32) .(33) 
+			<opinion polarity="-" feature="engine" featWords="16" opWords="17"/>
+		</sentence>
+		<sentence id="22">
+			1.9_cubic_feet(1) of(2) storage(3) space(4) does(5) not(6) cut(7) it(8) .(9) 4(10) )(11) Performance(12) ,(13) I(14) addressed(15) this(16) in(17) #(18) 1(19) above(20) ,(21) but(22) Toyota(23) sells(24) this(25) car(26) as(27) a(28) sports(29) car(30) ,(31) having(32) owned(33) other(34) sports(35) cars(36) I(37) was(38) disappointed(39) in(40) the(41) overall(42) performance(43) of(44) the(45) car(46) as(47) it(48) is(49) not(50) in(51) the(52) same(53) league(54) as(55) say(56) a(57) BMW_M_Roadster(58) or(59) Porsche_Boxster(60) ,(61) although(62) it(63) does(64) not(65) cost(66) as(67) much(68) either(69) .(70) 
+			<opinion polarity="-" feature="performance" featWords="43" opWords="39"/>
+		</sentence>
+		<sentence id="23">
+			Ultimately(1) I(2) wanted(3) something(4) that(5) performed(6) strongly(7) from(8) the(9) factory(10) and(11) not(12) something(13) I(14) had(15) to(16) strap(17) a(18) turbo(19) onto(20) and(21) blow(22) away(23) my(24) factory(25) warranty(26) to(27) get(28) any(29) performance(30) out(31) of(32) the(33) car(34) .(35) 
+			<opinion polarity="+" feature="performance" opWords="6,7"/>
+		</sentence>
+		<sentence id="24">
+			I(1) 'd(2) still(3) rate(4) the(5) car(6) highly(7) for(8) handling(9) out(10) of(11) the(12) factory(13) and(14) will(15) another(16) $1000(17) thrown(18) in(19) with(20) aftermarket(21) suspension(22) parts(23) ,(24) it(25) handles(26) even(27) better(28) ,(29) but(30) the(31) car(32) lacks(33) serious(34) power(35) and(36) the(37) body(38) flex(39) is(40) terrible(41) ,(42) nowhere(43) near(44) as(45) solid(46) as(47) say(48) a(49) Honda(50) S2000(51) .(52) 
+		</sentence>
+		<sentence id="25">
+			If(1) you(2) have(3) performance(4) in(5) mind(6) ,(7) take(8) the(9) step(10) up(11) to(12) the(13) Honda(14) S2000(15) ,(16) you(17) will(18) not(19) be(20) disappointed(21) when(22) compared(23) to(24) the(25) Spyder(26) .(27) 5(28) )(29) The(30) stereo(31) is(32) poor(33) ,(34) chalk(35) that(36) up(37) as(38) an(39) instant(40) replacement(41) of(42) head(43) unit(44) and(45) speakers(46) ,(47) toss(48) in(49) an(50) amp(51) and(52) a(53) cd(54) changer(55) and(56) there(57) is(58) another(59) 1-2K(60) in(61) expense(62) ((63) see(64) #(65) 1(66) above(67) )(68) .(69) 
+			<opinion polarity="-" feature="sound system" featWords="31" opWords="33"/>
+		</sentence>
+		<sentence id="26">
+			The(1) really(2) dumb(3) thing(4) about(5) the(6) stereo(7) is(8) that(9) it(10) is(11) illuminated(12) in(13) green(14) while(15) the(16) rest(17) of(18) the(19) dash(20) is(21) amber(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			This(1) is(2) because(3) Toyota(4) pulled(5) the(6) Sony(7) unit(8) used(9) in(10) Japan(11) and(12) Europe(13) in(14) favor(15) of(16) a(17) cheaper(18) Panasonic(19) unit(20) for(21) the(22) US(23) and(24) the(25) colors(26) do(27) not(28) match(29) .(30) 
+		</sentence>
+		<sentence id="28">
+			Just(1) plain(2) dumb(3) and(4) a(5) further(6) cost(7) cutting(8) /(9) corner(10) cutting(11) measure(12) by(13) Toyota(14) to(15) try(16) and(17) keep(18) the(19) price(20) down(21) on(22) the(23) car(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			Many(1) MR2(2) Spyder(3) owners(4) have(5) also(6) used(7) up(8) a(9) significant(10) part(11) of(12) their(13) already(14) limited(15) storage(16) space(17) with(18) CD(19) changers(20) and(21) subwoofers(22) making(23) an(24) already(25) bad(26) storage(27) problem(28) even(29) worse(30) .(31) 6(32) )(33) Scarce(34) factory(35) options(36) :(37) No(38) hardtop(39) from(40) the(41) factory(42) .(43) 
+		</sentence>
+		<sentence id="30">
+			Although(1) Toyota(2) offers(3) a(4) hardtop(5) in(6) Europe(7) and(8) Japan(9) it(10) is(11) not(12) offered(13) in(14) the(15) US(16) meaning(17) that(18) if(19) you(20) want(21) one(22) you(23) have(24) to(25) get(26) an(27) aftermarket(28) supplier(29) to(30) import(31) one(32) for(33) you(34) and(35) that(36) 's(37) easily(38) another(39) $2000(40) to(41) $2500(42) in(43) cost(44) ((45) see(46) #(47) 1(48) above(49) )(50) ,(51) oddly(52) enough(53) this(54) is(55) a(56) point(57) where(58) Porsche(59) is(60) actually(61) less(62) expensive(63) than(64) Toyota(65) !(66) 
+		</sentence>
+		<sentence id="31">
+			The(1) hard(2) top(3) is(4) a(5) nice(6) addition(7) and(8) should(9) be(10) offered(11) from(12) the(13) factory(14) but(15) is(16) not(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			In(1) fact(2) ,(3) almost(4) ALL(5) of(6) the(7) options(8) available(9) in(10) Japan(11) and(12) Europe(13) are(14) NOT(15) offered(16) in(17) the(18) US(19) !(20) 
+		</sentence>
+		<sentence id="33">
+			Why(1) ?(2) 
+		</sentence>
+		<sentence id="34">
+			Toyota(1) has(2) never(3) explained(4) despite(5) repeated(6) attempts(7) to(8) get(9) them(10) to(11) do(12) so(13) .(14) 
+		</sentence>
+		<sentence id="35">
+			If(1) the(2) car(3) is(4) going(5) to(6) require(7) some(8) additions(9) to(10) make(11) it(12) peppier(13) or(14) more(15) luxurious(16) ,(17) then(18) those(19) should(20) be(21) offered(22) by(23) Toyota(24) as(25) options(26) and(27) they(28) simply(29) are(30) not(31) ,(32) thus(33) forcing(34) owners(35) to(36) go(37) the(38) aftermarket(39) route(40) and(41) have(42) items(43) custom(44) imported(45) from(46) Japan(47) .(48) 
+		</sentence>
+		<sentence id="36">
+			The(1) #(2) 1(3) item(4) ?(5) a(6) new(7) front(8) nose(9) emblem(10) replacing(11) the(12) stock(13) Toyota(14) logo(15) with(16) the(17) emblem(18) used(19) in(20) Japan(21) of(22) the(23) MR2(24) Eagle(25) .(26) 
+		</sentence>
+		<sentence id="37">
+			Even(1) cars(2) in(3) the(4) same(5) price(6) range(7) like(8) the(9) Miata(10) offer(11) more(12) options(13) available(14) to(15) personalize(16) or(17) uprgrade(18) your(19) car(20) than(21) Toyota(22) does(23) .(24) 
+		</sentence>
+		<sentence id="38">
+			Of(1) those(2) items(3) offered(4) last(5) year(6) from(7) Toyota(8) through(9) TRD(10) ,(11) 2(12) of(13) them(14) have(15) already(16) been(17) discontinued(18) ,(19) thus(20) decreasing(21) the(22) optimism(23) that(24) Toyota(25) might(26) do(27) something(28) to(29) improve(30) the(31) car(32) .(33) 7(34) )(35) Mechanical(36) problems(37) .(38) 
+		</sentence>
+		<sentence id="39">
+			Although(1) I(2) never(3) had(4) a(5) significant(6) problem(7) with(8) the(9) car(10) ,(11) other(12) owners(13) have(14) .(15) 
+		</sentence>
+		<sentence id="40">
+			I(1) know(2) of(3) at_least(4) 3(5) engines(6) that(7) have(8) needed(9) to(10) be(11) replaced(12) and(13) dozens(14) that(15) have(16) had(17) a(18) faulty(19) timing(20) chain(21) that(22) has(23) created(24) a(25) loud(26) engine(27) rattling(28) sound(29) thus(30) requiring(31) service(32) time(33) to(34) eliminate(35) it(36) .(37) 
+		</sentence>
+		<sentence id="41">
+			In(1) one(2) instance(3) the(4) replacement(5) part(6) failed(7) and(8) the(9) problem(10) came(11) back(12) .(13) 
+		</sentence>
+		<sentence id="42">
+			I(1) suspect(2) that(3) if(4) more(5) serious(6) horsepower(7) was(8) added(9) to(10) this(11) car(12) that(13) other(14) mechanical(15) problems(16) would(17) crop(18) up(19) with(20) the(21) engine(22) or(23) drivetrain(24) ,(25) the(26) car(27) simply(28) was(29) not(30) designed(31) to(32) handle(33) it(34) in(35) my(36) opinion(37) .(38) 
+		</sentence>
+		<sentence id="43">
+			If(1) you(2) do(3) buy(4) one(5) of(6) these(7) cars(8) and(9) hear(10) rattling(11) at(12) engine(13) idle(14) ,(15) get(16) the(17) car(18) fixed(19) right(20) away(21) .(22) 
+		</sentence>
+		<sentence id="44">
+			There(1) have(2) also(3) been(4) a(5) few(6) instances(7) of(8) oil(9) literally(10) "(11) disappearing(12) "(13) from(14) the(15) car(16) 's(17) engine(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			Owners(1) claim(2) that(3) they(4) checked(5) their(6) oil(7) ,(8) that(9) no(10) oil(11) spots(12) or(13) oil(14) burning(15) were(16) evident(17) ,(18) yet(19) the(20) oil(21) disappeared(22) and(23) in(24) some(25) instance(26) caused(27) serious(28) problems(29) .(30) 
+		</sentence>
+		<sentence id="46">
+			I(1) do(2) not(3) know(4) what(5) to(6) make(7) of(8) these(9) stories(10) since(11) it(12) never(13) happened(14) to(15) me(16) ,(17) but(18) it(19) was(20) at_least(21) a(22) cause(23) for(24) concern(25) and(26) made(27) me(28) check(29) my(30) oil(31) more(32) often(33) .(34) 
+		</sentence>
+		<sentence id="47">
+			Did(1) I(2) mention(3) no(4) oil(5) pressure(6) gauge(7) in(8) the(9) car(10) ?(11) 
+		</sentence>
+		<sentence id="48">
+			Sports(1) cars(2) should(3) have(4) those(5) !(6) 8(7) )(8) Defensive(9) owners(10) :(11) I(12) was(13) one(14) ,(15) I(16) have(17) to(18) admit(19) it(20) .(21) 
+		</sentence>
+		<sentence id="49">
+			Whenever(1) anyone(2) said(3) anything(4) negative(5) about(6) the(7) Spyder_I(8) was(9) more(10) apt(11) to(12) respond(13) a(14) defensive(15) manner(16) and(17) try(18) to(19) "(20) prove(21) "(22) them(23) wrong(24) .(25) 
+		</sentence>
+		<sentence id="50">
+			Ultimately(1) I(2) realized(3) that(4) most(5) MR2(6) Spyder(7) owners(8) do(9) this(10) and(11) that(12) should(13) indicate(14) something(15) about(16) the(17) car(18) if(19) the(20) car(21) has(22) to(23) be(24) defended(25) all(26) of(27) the(28) time(29) .(30) 
+		</sentence>
+		<sentence id="51">
+			In(1) fact(2) I(3) suspect(4) that(5) if(6) an(7) existing(8) MR2(9) Spyder(10) owner(11) reads(12) this(13) Epinion(14) that(15) they(16) 'll(17) get(18) fired(19) up(20) and(21) feel(22) the(23) need(24) to(25) defend(26) the(27) MR2(28) Spyder(29) or(30) try(31) and(32) refute(33) what(34) I(35) 've(36) said(37) about(38) the(39) car(40) here(41) .(42) 
+		</sentence>
+		<sentence id="52">
+			You(1) can(2) not(3) wish(4) away(5) experience(6) though(7) and(8) I(9) 've(10) had(11) a(12) year(13) 's(14) experience(15) in(16) owning(17) an(18) MR2(19) Spyder(20) and(21) can(22) tell(23) you(24) all(25) the(26) good(27) and(28) bad(29) about(30) the(31) car(32) .(33) 
+		</sentence>
+		<sentence id="53">
+			There(1) are(2) several(3) very(4) vocal(5) users(6) on(7) the(8) Internet(9) who(10) seem(11) to(12) believe(13) that(14) the(15) MR2(16) Spyder(17) is(18) the(19) epitomy(20) of(21) a(22) sports(23) car(24) or(25) the(26) ultimate(27) driving(28) machine(29) ((30) no(31) wait(32) that(33) 's(34) BMW(35) !(36) )(37) and(38) I(39) simply(40) grew(41) tired(42) of(43) unrealistic(44) expectations(45) of(46) the(47) car(48) and(49) owners(50) who(51) did(52) not(53) think(54) before(55) opening(56) their(57) mouths(58) or(59) typing(60) at(61) their(62) keyboards(63) .(64) 
+		</sentence>
+		<sentence id="54">
+			So(1) there(2) you(3) have(4) my(5) reasons(6) why(7) I(8) sold(9) the(10) car(11) after(12) 1(13) year(14) .(15) 
+		</sentence>
+		<sentence id="55">
+			On(1) the(2) positive(3) side(4) ,(5) I(6) got(7) almost(8) what(9) I(10) paid(11) for(12) the(13) car(14) plus(15) all(16) the(17) extras(18) out(19) of(20) it(21) after(22) a(23) year(24) so(25) resell(26) value(27) was(28) pretty(29) good(30) because(31) I(32) sold(33) it(34) just(35) before(36) summer(37) and(38) Toyota(39) continues(40) to(41) bring(42) the(43) cars(44) over(45) slowly(46) and(47) mark(48) them(49) up(50) at(51) dealerships(52) .(53) 
+		</sentence>
+		<sentence id="56">
+			I(1) suspect(2) this(3) will(4) change(5) this(6) year(7) and(8) in(9) fact(10) it(11) already(12) has(13) as(14) I(15) 've(16) seen(17) resale(18) values(19) on(20) the(21) car(22) dropping(23) as(24) of(25) late(26) .(27) 
+		</sentence>
+		<sentence id="57">
+			No(1) more(2) so(3) than(4) any(5) other(6) car(7) ,(8) but(9) the(10) newness(11) factor(12) in(13) the(14) market(15) has(16) certainly(17) worn(18) off(19) at(20) this(21) point(22) .(23) 
+		</sentence>
+		<sentence id="58">
+			Although(1) I(2) am(3) listing(4) this(5) as(6) a(7) negative(8) report(9) and(10) not(11) recommending(12) a(13) buy(14) on(15) this(16) car(17) ,(18) there(19) are(20) some(21) circumstances(22) in(23) which(24) I(25) would(26) recommend(27) a(28) buy(29) .(30) 
+			<opinion polarity="+" feature="car" opWords="27"/>
+			<opinion polarity="-" feature="car" featWords="17" opWords="11,12"/>
+		</sentence>
+		<sentence id="59">
+			If(1) the(2) problems(3) listed(4) above(5) do(6) not(7) bother(8) you(9) in(10) the(11) least(12) ,(13) then(14) the(15) car(16) may(17) be(18) a(19) match(20) for(21) you(22) .(23) 
+		</sentence>
+		<sentence id="60">
+			If(1) you(2) are(3) a(4) "(5) Riceboy(6) "(7) and(8) like(9) adding(10) coffee(11) can(12) size(13) exhausts(14) ,(15) neon(16) lighting(17) and(18) Type_R(19) stickers(20) to(21) your(22) car(23) ,(24) this(25) is(26) probably(27) the(28) car(29) for(30) you(31) to(32) sink(33) your(34) money(35) into(36) .(37) 
+		</sentence>
+		<sentence id="61">
+			I(1) thought(2) the(3) review(4) of(5) the(6) 2000(7) model(8) where(9) the(10) reviewer(11) said(12) that(13) he(14) could(15) not(16) figure(17) out(18) exactly(19) who(20) this(21) car(22) was(23) targeted(24) at(25) and(26) why(27) they(28) would(29) purchase(30) one(31) vs(32) .(33) another(34) car(35) was(36) pretty(37) accurate(38) .(39) 
+		</sentence>
+		<sentence id="62">
+			I(1) purchased(2) mine(3) originally(4) because(5) I(6) missed(7) my(8) previous(9) convertible(10) and(11) had(12) recently(13) relocated(14) to(15) a(16) more(17) condusive(18) climate(19) ,(20) as(21) it(22) turns(23) out(24) the(25) car(26) was(27) no(28) substitute(29) for(30) my(31) previous(32) convertible(33) which(34) was(35) more(36) of(37) a(38) true(39) sports(40) car(41) .(42) 
+		</sentence>
+		<sentence id="63">
+			Single(1) owners(2) who(3) rarely(4) take(5) passengers(6) and(7) who(8) are(9) looking(10) for(11) a(12) communter(13) car(14) that(15) looks(16) sporty(17) will(18) probably(19) like(20) this(21) car(22) as_well(23) .(24) 
+			<opinion polarity="+" feature="design" opWords="16,17"/>
+		</sentence>
+		<sentence id="64">
+			Those(1) owners(2) are(3) less(4) likely(5) to(6) car(7) about(8) real(9) performance(10) vs(11) .(12) looking(13) sporty(14) and(15) driving(16) something(17) with(18) good(19) fuel(20) economy(21) ((22) around(23) 30(24) mph(25) on(26) average(27) )(28) .(29) 
+			<opinion polarity="+" feature="gas" featWords="20,21" opWords="19"/>
+			<opinion polarity="+" feature="design" opWords="13,14"/>
+		</sentence>
+		<sentence id="65">
+			Although(1) I(2) 'm(3) not(4) a(5) big(6) Mazda_Miata(7) fan(8) ,(9) the(10) Miata(11) is(12) a(13) more(14) well(15) rounded(16) car(17) for(18) the(19) same(20) dollar(21) amount(22) ,(23) but(24) it(25) should(26) be(27) since(28) Mazda(29) has(30) had(31) more(32) time(33) to(34) improve(35) the(36) car(37) .(38) 
+		</sentence>
+		<sentence id="66">
+			Maybe(1) in(2) time(3) the(4) MR2(5) Spyder(6) will(7) improve(8) as_well(9) ,(10) and(11) in(12) fact(13) that(14) 's(15) how(16) I(17) 'd(18) close(19) this(20) opinion(21) .(22) 
+		</sentence>
+		<sentence id="67">
+			If(1) you(2) really(3) want(4) one(5) of(6) these(7) cars(8) ,(9) wait(10) a(11) year(12) or(13) two(14) and(15) see(16) if(17) Toyota(18) fixes(19) the(20) problems(21) listed(22) above(23) ,(24) if(25) they(26) do(27) ,(28) then(29) I(30) 'd(31) certainly(32) upgrade(33) my(34) opinion(35) of(36) this(37) car(38) .(39) 
+		</sentence>
+		<sentence id="68">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23615(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) No(16) options(17) to(18) speak(19) of(20) 
+		</sentence>
+	</text>
+</review>

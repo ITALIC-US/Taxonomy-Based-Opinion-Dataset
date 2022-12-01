@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="749" item="Patricia Grand Resort Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Patricia_Grand(2) made(3) for(4) a(5) wonderful(6) honeymoon(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spacious(1) rooms(2) ,(3) amazing(4) view(5) ,(6) spectacular(7) pool(8) and(9) lounge(10) area(11) ,(12) friendly(13) staff(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="view" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="staff" featWords="14" opWords="13"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) across(2) the(3) street(4) ,(5) slow(6) elevator(7) at(8) times(9) 
+			<opinion polarity="-" feature="elevator" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) June_of_2002(2) ,(3) my(4) husband(5) and(6) I(7) traveled(8) to(9) MB(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) his(3) first(4) time(5) there(6) but(7) I(8) had(9) been(10) vacationing(11) there(12) since(13) childhood(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) booked(3) the(4) room(5) ,(6) we(7) asked(8) for(9) special(10) accommodations(11) due(12) to(13) the(14) fact(15) it(16) was(17) our(18) honeymoon(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) arrived(3) ,(4) it(5) was(6) a(7) basic(8) room(9) .(10) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			My(1) husband(2) called(3) down(4) to(5) the(6) front(7) desk(8) and(9) spoke(10) with(11) the(12) manager(13) and(14) explained(15) our(16) situation(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			She(1) immediately(2) moved(3) us(4) to(5) a(6) suite(7) at(8) no(9) additional(10) charge(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			When(1) we(2) walked(3) into(4) the(5) suite(6) ,(7) we(8) were(9) impressed(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) very(3) nice(4) .(5) 
+			<opinion polarity="+" feature="hotel" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			The(1) view(2) was(3) beautiful(4) .(5) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) rooms(2) were(3) spacious(4) and(5) nicely(6) decorated(7) ...(8) though(9) a_bit(10) dated(11) .(12) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6,7"/>
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			I(1) know(2) they(3) have(4) since(5) then(6) renovated(7) the(8) upper(9) floors(10) and(11) are(12) working(13) their(14) way(15) down(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) pool(2) area(3) is(4) beautiful(5) .(6) 
+			<opinion polarity="+" feature="swimming pool" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			Lots(1) of(2) room(3) to(4) swim(5) and(6) not(7) feel(8) like(9) someone(10) is(11) always(12) right(13) next(14) to(15) you(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			The(1) elevators(2) were(3) a_bit(4) slow(5) at(6) times(7) .(8) 
+			<opinion polarity="-" feature="elevator" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			But(1) ,(2) what(3) do(4) you(5) expect(6) in(7) June(8) with(9) a(10) number(11) of(12) guests(13) coming(14) and(15) going(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			We(1) enjoyed(2) the(3) Patricia_Grand(4) so(5) much(6) ,(7) we(8) are(9) returning(10) this(11) coming_May(12) for(13) 9(14) days(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			Hope(1) this(2) gives(3) some(4) insight(5) into(6) the(7) Grand(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			Not(1) every(2) review(3) is(4) a(5) negative(6) one(7) .(8) 
+		</sentence>
+	</text>
+</review>

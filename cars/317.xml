@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="317" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Civic_Si(1) on(2) a(3) Professional_Race_Track(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) power(3) and(4) a(5) competent(6) suspension(7) 
+			<opinion polarity="+" feature="suspension" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Narrow(1) power(2) band(3) and(4) a(5) lack(6) of(7) low(8) end(9) torque(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Last_Month_I(1) had(2) the(3) opportunity(4) to(5) drive(6) my(7) 00(8) Civic_Si(9) at(10) Big_Willow_Raceway(11) in(12) Rosamond_CA(13) ,(14) driving(15) on(16) a(17) professional(18) racetrack(19) is(20) a(21) good(22) way(23) to(24) learn(25) the(26) limits(27) of(28) a(29) car(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) the(3) Si(4) because(5) I(6) was(7) interested(8) in(9) track(10) racing(11) and(12) decided(13) that(14) it(15) could(16) serve(17) as(18) my(19) daily(20) driver(21) as_well(22) as(23) an(24) occasional(25) racecar(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			The(1) track(2) was(3) rented(4) by(5) an(6) organization(7) called(8) Open_Track(9) and(10) for(11) about(12) $200(13) they(14) let(15) me(16) drive(17) in(18) their(19) run(20) groups(21) for(22) the(23) weekend(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			This(1) was(2) my(3) first(4) time(5) driving(6) my(7) unmodified(8) Si(9) on(10) a(11) track(12) and(13) I(14) was(15) a_bit(16) nervous(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) been(3) driving(4) the(5) Si(6) on(7) the(8) streets(9) for(10) a(11) while(12) it(13) began(14) to(15) feel(16) like(17) a(18) regular(19) civic(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) time(3) I(4) was(5) able(6) to(7) appreciate(8) the(9) extra(10) money(11) I(12) kicked(13) down(14) for(15) the(16) Si(17) model(18) was(19) on(20) freeway(21) onramps(22) in(23) Vtech(24) when(25) the(26) engine(27) would(28) rev(29) above(30) 6000(31) rpms(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			Driving_the_Si(1) on(2) the(3) racetrack(4) allowed(5) me(6) to(7) appreciate(8) the(9) Vtech(10) and(11) high(12) horse(13) power(14) that(15) the(16) car(17) had(18) in(19) its(20) upper(21) power(22) band(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			My(1) first(2) time(3) on(4) the(5) track(6) with(7) the(8) car(9) began(10) slowly(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) wanted(2) to(3) get(4) a(5) feel(6) for(7) the(8) track(9) and(10) learn(11) the(12) proper(13) lines(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			When(1) the(2) second(3) run(4) group(5) came(6) around(7) I(8) began(9) feeling(10) comfortable(11) with(12) the(13) car(14) and(15) began(16) pushing(17) it(18) more(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			Every(1) shift(2) I(3) made(4) was(5) at(6) redline(7) ,(8) I(9) began(10) to(11) see(12) what(13) the(14) vtech(15) was(16) all(17) about(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			If(1) I(2) upshifted(3) to(4) early(5) or(6) downshifted(7) to(8) late(9) the(10) car(11) would(12) fall(13) out(14) of(15) vtech(16) and(17) loose(18) much(19) of(20) its(21) acceleration(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			The(1) short(2) gearing(3) and(4) narrow(5) power(6) band(7) offered(8) by(9) the(10) Si(11) disappointed(12) me(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			These(1) features(2) required(3) that(4) I(5) constantly(6) shift(7) ,(8) which(9) often(10) times(11) distracted(12) me(13) from(14) taking(15) the(16) proper(17) line(18) around(19) the(20) track(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			When(1) I(2) did(3) manage(4) to(5) keep(6) up(7) with(8) the(9) shifting(10) the(11) results(12) were(13) extremely(14) pleasing(15) and(16) a(17) smile(18) never(19) came(20) off(21) my(22) face(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			Handling(1) was(2) extremely(3) predictable(4) .(5) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="17">
+			To(1) my(2) surprise(3) the(4) stock(5) tires(6) gripped(7) extremely(8) well(9) around(10) the(11) 80(12) +(13) mph(14) sweeper(15) that(16) led(17) to(18) the(19) back(20) straight(21) .(22) 
+			<opinion polarity="+" feature="tire" featWords="6" opWords="7,9" potency="8"/>
+		</sentence>
+		<sentence id="18">
+			I(1) did(2) manage(3) to(4) go(5) beyond(6) the(7) handling(8) limits(9) of(10) the(11) car(12) through(13) a(14) few(15) corners(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			When(1) this(2) happened(3) the(4) car(5) reacted(6) by(7) under(8) steering(9) to(10) the(11) outside_of(12) the(13) corner(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			I(1) noticed(2) that(3) keeping(4) my(5) foot(6) planted(7) on(8) the(9) gas(10) while(11) exiting(12) a(13) corner(14) helped(15) keep(16) a(17) solid(18) line(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			Backing(1) off(2) the(3) throttle(4) while(5) exiting(6) a(7) corner(8) caused(9) the(10) rear(11) end(12) to(13) become(14) unsettled(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			I(1) managed(2) to(3) scare(4) myself(5) on(6) a(7) couple(8) occasions(9) by(10) lifting(11) the(12) throttle(13) while(14) exiting(15) ,(16) but(17) I(18) eventually(19) learned(20) that(21) keeping(22) the(23) throttle(24) planted(25) was(26) the(27) best(28) idea(29) even_though(30) it(31) felt(32) counter(33) intuitive(34) .(35) 
+		</sentence>
+		<sentence id="23">
+			My(1) experience(2) with(3) the(4) Si(5) on(6) a(7) professional(8) track(9) changed(10) my(11) view(12) of(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			I(1) am(2) now(3) able(4) to(5) appreciate(6) the(7) added(8) features(9) of(10) Vtech(11) and(12) the(13) sport(14) tuned(15) suspension(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			I(1) would(2) definitely(3) recommend(4) this(5) car(6) to(7) anyone(8) who(9) is(10) on(11) a(12) tight(13) budget(14) and(15) does(16) not(17) want(18) to(19) compromise(20) performance(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+	</text>
+</review>

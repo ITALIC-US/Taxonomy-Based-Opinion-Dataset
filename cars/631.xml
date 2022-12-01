@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="631" item="2002 Subaru Impreza" rating="3">
+	<title>
+		<sentence id="1">
+			I_Thought_It(1) 'd(2) be(3) Better(4) ...(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Unbelievable(1) value(2) ,(3) a(4) high-performance(5) car(6) with(7) family-car(8) potential(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Feels(1) bulky(2) ,(3) cramped(4) ,(5) exterior(6) styling(7) is(8) a(9) hot(10) subject(11) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) great(4) value(5) for(6) the(7) money(8) and(9) will(10) provide(11) countless(12) hours(13) of(14) enjoyment(15) ,(16) but(17) it(18) has(19) a(20) few(21) downfalls(22) which(23) must(24) be(25) acknowledged(26) .(27) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) took(3) a(4) 5-speed(5) WRX(6) out(7) for(8) a(9) test-drive(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) did(2) it(3) on(4) a(5) whim(6) ,(7) really(8) .(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			My(1) friend(2) and(3) I(4) were(5) driving(6) around(7) in(8) Alice(9) ((10) my(11) 1992(12) SVX(13) .(14) Read(15) the(16) review(17) at(18) http://www.epinions.com/content_41724186244)(19) and(20) I(21) decided(22) it(23) was(24) time(25) to(26) try(27) out(28) a(29) WRX(30) .(31) So(32) we(33) pulled(34) into(35) the(36) dealership(37) and(38) found(39) a(40) salesperson(41) .(42) The(43) friendly(44) saleswoman(45) ((46) Sarah(47) was(48) her(49) name(50) )(51) informed(52) me(53) that(54) she(55) 'd(56) have(57) to(58) run(59) a(60) credit(61) check(62) before(63) I(64) could(65) drive(66) the(67) car(68) .(69) 
+		</sentence>
+		<sentence id="4">
+			My(1) heart(2) sank(3) a(4) little(5) ,(6) but(7) I(8) figured(9) I(10) could(11) somehow(12) get(13) around(14) it(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) played(2) dumb(3) .(4) "(5) How(6) do(7) we(8) take(9) care(10) of(11) the(12) credit(13) check(14) thing(15) ?(16) "(17) I(18) asked(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			She(1) explained(2) to(3) me(4) what(5) it(6) basically(7) was(8) and(9) then(10) said(11) "(12) you(13) know(14) what(15) .(16) .(17) how(18) much(19) do(20) you(21) make(22) a(23) year(24) ?(25) "(26) I(27) lied(28) .(29) "(30) Depends(31) ,(32) but(33) it(34) fluctuates(35) between(36) 20(37) and(38) 30k(39) .(40) "(41) "(42) Let(43) 's(44) just(45) go(46) .(47) "(48) So(49) outside(50) we(51) went(52) .(53) 
+		</sentence>
+		<sentence id="7">
+			After(1) letting(2) the(3) engine(4) warm(5) up(6) to(7) operating(8) temperature(9) ,(10) she(11) gave(12) me(13) the(14) speech(15) .(16) "(17) Because(18) this(19) is(20) a(21) WRX(22) ,(23) I(24) can(25) not(26) let(27) you(28) exceed(29) the(30) speed(31) limit(32) on(33) main(34) roads(35) ,(36) but(37) once(38) we(39) get(40) onto(41) a(42) back(43) road(44) ,(45) it(46) 's(47) your(48) speeding(49) ticket(50) and(51) not(52) mine(53) .(54) "(55) Well(56) ,(57) the(58) WRX(59) did(60) a(61) fine(62) job(63) of(64) going(65) straight(66) --(67) acceleration(68) was(69) plentiful(70) ,(71) though(72) not(73) as(74) apt(75) to(76) push(77) you(78) into(79) your(80) seatback(81) as(82) ,(83) say(84) ,(85) my(86) SVX(87) .(88) 
+			<opinion polarity="+" feature="acceleration" featWords="68" opWords="70"/>
+		</sentence>
+		<sentence id="8">
+			The(1) first(2) four(3) gears(4) went(5) by(6) quickly(7) ,(8) but(9) 5th(10) gear(11) was(12) relatively(13) tall(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			At(1) 45(2) mph(3) the(4) transmission(5) lagged(6) in(7) 5th(8) and(9) I(10) had(11) to(12) downshift(13) to(14) 4th(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Pulling(1) onto(2) a(3) back(4) road(5) ,(6) I(7) had(8) an(9) opportunity(10) to(11) see(12) the(13) turbo(14) /(15) AWD(16) combination(17) in(18) action(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) no(3) snow(4) on(5) the(6) ground(7) at(8) this(9) point(10) ,(11) so(12) it(13) was(14) dry(15) ,(16) bumpy(17) tarmac(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) WRX(2) 's(3) suspension(4) was(5) quite(6) firm(7) ,(8) and(9) every(10) bump(11) in(12) the(13) road(14) was(15) easily(16) felt(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			This(1) could(2) be(3) a(4) good(5) thing(6) or(7) a(8) bad(9) thing(10) ,(11) depending(12) on(13) your(14) personal(15) preference(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Coming(1) into(2) tight(3) turns(4) ,(5) the(6) brakes(7) were(8) not(9) quite(10) as(11) beefy(12) as(13) I(14) would(15) have(16) liked(17) and(18) it(19) took(20) a(21) little(22) too(23) much(24) effort(25) to(26) bring(27) the(28) car(29) down(30) to(31) a(32) reasonable(33) speed(34) .(35) 
+		</sentence>
+		<sentence id="15">
+			However(1) ,(2) once(3) I(4) got(5) used(6) to(7) the(8) required(9) braking(10) distance(11) and(12) the(13) differences(14) between(15) the(16) gears(17) ,(18) things(19) went(20) a(21) little(22) smoother(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			I(1) felt(2) bad(3) bring(4) the(5) tachometer(6) past(7) 4,500(8) rpms(9) because(10) the(11) engine(12) only(13) had(14) ~(15) 600_miles(16) on(17) it(18) and(19) the(20) car(21) was(22) not(23) mine(24) ,(25) but(26) once(27) or(28) twice(29) I(30) brought(31) it(32) to(33) the(34) redline(35) .(36) 
+		</sentence>
+		<sentence id="17">
+			This(1) was(2) the(3) first(4) time(5) I(6) had(7) ever(8) noticed(9) turbo(10) lag(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			My(1) old(2) '(3) 89(4) Turbo_Subaru_Hatchback(5) ((6) read(7) the(8) review(9) at(10) http://www.epinions.com/auto-review-7789-606A694-38DA4B06-prod5)(11) had(12) almost(13) no(14) lag(15) whatsoever(16) due(17) to(18) a(19) relatively(20) miniscule(21) turbo(22) impeller(23) .(24) My(25) uncle(26) 's(27) Saab(28) 9-5(29) Aero(30) has(31) very(32) little(33) lag(34) .(35) I(36) suppose(37) the(38) WRX(39) 's(40) turbocharger(41) is(42) a(43) little(44) larger(45) than(46) both(47) of(48) these(49) cars(50) though(51) ,(52) and(53) the(54) lag(55) was(56) actually(57) quite(58) noticeable(59) and(60) I(61) almost(62) felt(63) that(64) if(65) I(66) owned(67) this(68) car(69) ,(70) it(71) would(72) become(73) annoying(74) to(75) have(76) to(77) wait(78) those(79) extra(80) milliseconds(81) for(82) the(83) power(84) to(85) come(86) on(87) .(88) Once(89) the(90) power(91) was(92) on(93) ,(94) however(95) ,(96) it(97) was(98) pretty(99) nice(100) .(101) A(102) quiet(103) little(104) whine(105) from(106) under(107) the(108) hood(109) and(110) a(111) nice(112) growl(113) from(114) the(115) exhaust(116) all(117) added(118) to(119) the(120) whistling(121) of(122) the(123) trees(124) zipping(125) past(126) at(127) 60mph(128) on(129) the(130) twisty(131) road(132) .(133) As(134) far(135) as(136) interior(137) appointments(138) went(139) ,(140) the(141) WRX(142) seemed(143) about(144) average(145) .(146) The(147) console(148) and(149) instrument(150) clusters(151) were(152) run-of-the-mill(153) ,(154) though(155) this(156) particular(157) WRX(158) had(159) a(160) carbon-fiber-look(161) package(162) which(163) was(164) pretty(165) cute(166) .(167) The(168) seats(169) were(170) plenty(171) supportive(172) and(173) comfortable(174) .(175) Legroom(176) ,(177) however(178) ,(179) was(180) tremendously(181) inadequate(182) .(183) I(184) 'm(185) not(186) sure(187) why(188) it(189) felt(190) so(191) cramped(192) down(193) there(194) ,(195) but(196) at_least(197) there(198) was(199) plenty_of(200) headroom(201) for(202) my(203) 6(204) '(205) 2(206) "(207) frame(208) to(209) sit(210) comfortably(211) in(212) .(213) I(214) will(215) not(216) get(217) into(218) an(219) exterior(220) styling(221) discussion(222) here(223) ,(224) since(225) opinions(226) are(227) widely(228) varied(229) .(230) I(231) will(232) say(233) that(234) I(235) personally(236) do(237) not(238) like(239) the(240) new(241) body(242) style(243) nearly(244) as(245) much(246) as(247) I(248) do(249) the(250) old(251) one(252) .(253) The(254) new(255) body(256) looks(257) too(258) pillowy(259) for(260) me(261) ,(262) where(263) the(264) last(265) one(266) had(267) some(268) really(269) sharp(270) ,(271) aggressive(272) lines(273) .(274) Nearly(275) everybody(276) in(277) the(278) automotive(279) industry(280) raves(281) about(282) this(283) car(284) and(285) compares(286) it(287) to(288) the(289) BMW(290) 330xi(291) and(292) the(293) Audi(294) S4(295) .(296) I(297) can(298) see(299) why(300) these(301) comparisons(302) would(303) make(304) sense(305) from(306) a(307) drivetrain(308) and(309) horsepower(310) standpoint(311) ,(312) but(313) the(314) BMW(315) and(316) the(317) Audi(318) are(319) really(320) a(321) different(322) breed(323) of(324) car(325) entirely(326) .(327) I(328) believe(329) the(330) WRX(331) currently(332) stands(333) in(334) a(335) class(336) of(337) its(338) own(339) .(340) It(341) will(342) soon(343) be(344) joined(345) by(346) a(347) turbocharged(348) Mitsubishi_Lancer(349) and(350) I(351) 'm(352) sure(353) Toyota(354) will(355) opt(356) to(357) release(358) an(359) AWD(360) ,(361) turbocharged(362) Celica(363) sometime(364) in(365) the(366) near(367) future(368) .(369) There(370) is(371) no(372) question(373) in(374) my(375) mind(376) that(377) the(378) WRX(379) is(380) an(381) incredible(382) car(383) and(384) the(385) best(386) value-for-the-money(387) sports(388) car(389) to(390) come(391) along(392) in(393) quite(394) some(395) time(396) ,(397) but(398) I(399) think(400) that(401) Subaru(402) is(403) actually(404) slacking(405) a(406) little(407) bit(408) because(409) they(410) know(411) they(412) 've(413) got(414) the(415) only(416) AWD(417) turbo(418) car(419) for(420) 25k(421) in(422) the(423) USA(424) right(425) now(426) .(427) Once(428) some(429) other(430) manufacturers(431) jump(432) on(433) the(434) bandwagon(435) ,(436) Subaru(437) will(438) undoubtedly(439) have(440) to(441) work(442) a(443) little(444) harder(445) to(446) maintain(447) its(448) premium(449) status(450) .(451) Amount_Paid(452) ((453) US(454) $(455) )(456) :(457) 25000(458) Condition(459) :(460) NewModel_Year(461) :(462) 2002Model(463) and(464) Options(465) :(466) Base_Model(467) 5-speed(468) WRX(469) 
+			<opinion polarity="+" feature="car" featWords="383" opWords="382"/>
+			<opinion polarity="-" feature="leg room" featWords="176" opWords="182"/>
+			<opinion polarity="+" feature="seat" featWords="169" opWords="174"/>
+			<opinion polarity="+" feature="seat" featWords="169" opWords="172"/>
+			<opinion polarity="+" feature="design" opWords="166"/>
+			<opinion polarity="+" feature="car" opWords="100"/>
+		</sentence>
+	</text>
+</review>

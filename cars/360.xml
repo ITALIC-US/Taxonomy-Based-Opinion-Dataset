@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="360" item="1998 Honda Accord" rating="3">
+	<title>
+		<sentence id="1">
+			Speedometer(1) accuracy(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) reliability(3) ,(4) good(5) gas(6) mileage(7) for(8) engine(9) size(10) 
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			inaccurate(1) speedometer(2) manufacturers(3) standard(4) 10_%(5) +(6) /(7) -(8) is(9) a(10) turn(11) off(12) for(13) me(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) Honda_Accord(4) 98(5) V6(6) with(7) all(8) the(9) whistles(10) and(11) bells(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Discovered(1) that(2) my(3) speedometer(4) is(5) 10_%(6) inaccurate(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Dealer(1) replaced(2) it(3) at(4) 11k(5) but(6) told(7) me(8) new(9) one(10) would(11) also(12) be(13) off(14) by(15) up(16) to(17) 10_%(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Honda(1) recently(2) sent(3) me(4) a(5) letter(6) saying(7) their(8) speedometers(9) are(10) permitted(11) to(12) be(13) 10_%(14) inaccurate(15) as(16) that(17) is(18) their(19) manufacturers(20) standard(21) for(22) this(23) part(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Other(1) than(2) inaccurate(3) speedo(4) this(5) car(6) is(7) great(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			Lots(1) of(2) power(3) ((4) even(5) tho(6) I(7) 'm(8) never(9) sure(10) what(11) speed(12) I(13) am(14) traveling(15) at(16) )(17) ,(18) good(19) gas(20) mileage(21) and(22) well(23) put(24) together(25) .(26) 
+			<opinion polarity="+" feature="gas" featWords="20,21" opWords="19"/>
+		</sentence>
+		<sentence id="7">
+			The(1) vtec(2) engine(3) lives(4) up(5) to(6) reputation(7) but(8) would(9) not(10) buy(11) another(12) Honda(13) product(14) again(15) until(16) they(17) make(18) a(19) speedometer(20) that(21) is(22) more(23) accurate(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Apparently(1) there(2) is(3) no(4) federal(5) standard(6) for(7) speedometer(8) accuracy(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Wish_I(1) had(2) known(3) before(4) I(5) bought(6) .(7) 
+		</sentence>
+	</text>
+</review>

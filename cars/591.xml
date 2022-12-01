@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="591" item="2002 Honda Odyssey" rating="1">
+	<title>
+		<sentence id="1">
+			2002(1) honda(2) odyssey(3) transmission(4) problem(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Room(1) interior(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) issues(2) ,(3) door(4) sticking(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Owned(1) this(2) car(3) for(4) 5(5) yrs(6) .(7) with(8) only(9) 50k_miles(10) on(11) it(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Already(1) had(2) transmission(3) problems(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Dealer(1) is(2) not(3) sure(4) if(5) they(6) will(7) pay(8) for(9) it(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Cost(1) is(2) $3500(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) upset(3) that(4) after(5) all(6) the(7) problems(8) with(9) past(10) and(11) current(12) minivans(13) ,(14) the(15) customer(16) service(17) is(18) so(19) bad(20) .(21) 
+			<opinion polarity="-" feature="service" featWords="16,17" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="6">
+			There(1) has(2) been(3) a(4) class(5) action(6) lawsuit(7) and(8) the(9) warranty(10) was(11) extended(12) for(13) 1999-2001(14) year(15) models(16) but(17) not(18) the(19) 2002(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			But(1) 2002-2004(2) models(3) have(4) the(5) same(6) problems(7) based(8) on(9) all(10) the(11) complaints(12) that(13) I(14) see(15) on(16) blogs(17) and(18) websites(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 32000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) automatic(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="468" item="2001 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			Can(1) not(2) wait(3) to(4) trade(5) in(6) my(7) Honda(8) !(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			3rd(1) Row_Seat(2) ,(3) Honda_Reputation(4) ,(5) Trade-in_Value(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Center(1) "(2) console(3) "(4) ,(5) power(6) doors(7) that(8) do(9) not(10) stop(11) for(12) obstructions(13) ,(14) stereo(15) ,(16) road(17) noise(18) ,(19) Honda_Dealers(20) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) are(2) other(3) options(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			It(1) seems(2) Honda(3) did(4) not(5) design(6) the(7) Odyssey(8) for(9) real(10) people(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			If(1) Honda(2) could(3) fix(4) some(5) of(6) these(7) annoying(8) problems(9) ,(10) it(11) would(12) be(13) an(14) awesome(15) Mini-Van(16) .(17) 
+			<opinion polarity="+" feature="minivan" featWords="16" opWords="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			**(1) Sorry(2) this(3) is(4) soooo(5) long(6) **(7) We(8) bought(9) our(10) 2001(11) Honda_Odyssey(12) in(13) May_2001(14) when(15) my(16) 8(17) year(18) old(19) Ford_Aerostar(20) ((21) my(22) 2nd(23) Aerostar(24) ,(25) by(26) the(27) way(28) )(29) died(30) a(31) horrible(32) ,(33) too(34) expensive(35) to(36) repair(37) death(38) .(39) 
+			<opinion polarity="-" feature="price" opWords="34,35"/>
+		</sentence>
+		<sentence id="2">
+			Taking(1) on(2) a(3) car(4) payment(5) was(6) not(7) high(8) on(9) our(10) list(11) of(12) things(13) to(14) do(15) that(16) year(17) ,(18) but(19) I(20) needed(21) good(22) ,(23) reliable(24) transportation(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			So(1) we(2) set(3) out(4) to(5) find(6) the(7) new(8) van(9) to(10) park(11) in(12) our(13) garage(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			We(1) read(2) all(3) the(4) reviews(5) we(6) could(7) get(8) our(9) hands(10) on(11) and(12) decided(13) on(14) the(15) Odyssey(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Honda(1) has(2) a(3) great(4) reputation(5) for(6) reliable(7) vehicles(8) with(9) high(10) resale(11) value(12) .(13) 
+			<opinion polarity="+" feature="resale value" featWords="11,12" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			Wow(1) -(2) what(3) a(4) change(5) from(6) Ford(7) !(8) 
+		</sentence>
+		<sentence id="7">
+			So(1) ...(2) we(3) headed(4) down(5) to(6) our(7) local(8) Honda(9) dealer(10) only(11) to(12) find(13) they(14) had(15) NO_Odysseys(16) on(17) the(18) lot(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			A(1) shipment(2) was(3) expected(4) from(5) Canada(6) within(7) the(8) week(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			When(1) those(2) 3(3) vans(4) arrived(5) ,(6) we(7) hurried(8) over(9) and(10) crawled(11) in(12) and(13) over(14) and(15) under(16) the(17) Odyssey(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Our(1) kids(2) got(3) a(4) big(5) kick(6) out(7) of(8) the(9) power(10) doors(11) and(12) I(13) loved(14) the(15) "(16) magic(17) "(18) 3rd(19) row(20) seat(21) and(22) the(23) ease(24) of(25) removing(26) the(27) second(28) row(29) captain(30) 's(31) seats(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			We(1) were(2) bummed(3) that(4) leather(5) was(6) not(7) available(8) but(9) the(10) cloth(11) was(12) not(13) too(14) bad(15) ((16) it(17) does(18) stain(19) ALOT(20) easier(21) ,(22) though(23) -(24) especially(25) with(26) 3(27) kids(28) and(29) a(30) dog(31) !(32) )(33) I(34) liked(35) how(36) spunky(37) it(38) was(39) -(40) I(41) do(42) have(43) a(44) "(45) bit(46) "(47) of(48) a(49) lead(50) foot(51) !(52) 
+		</sentence>
+		<sentence id="12">
+			And(1) it(2) seemed(3) to(4) have(5) a(6) nice(7) package(8) of(9) basic(10) features(11) -(12) keyless(13) entry(14) ,(15) climate(16) control(17) ,(18) rear(19) a(20) /(21) c(22) .(23) 
+			<opinion polarity="+" feature="package" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="13">
+			Being(1) the(2) curious(3) thing(4) that(5) I(6) am(7) ,(8) I(9) convinced(10) my(11) husband(12) that(13) we(14) needed(15) to(16) at_least(17) look(18) at(19) some(20) other(21) models(22) -(23) just(24) to(25) compare(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Well(1) ,(2) we(3) ended(4) up(5) back(6) at(7) the(8) Honda(9) dealership(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			Boy(1) ,(2) Honda(3) dealers(4) sure(5) think(6) they(7) are(8) Gods(9) !(10) 
+		</sentence>
+		<sentence id="16">
+			Not(1) only(2) would(3) they(4) not(5) even(6) consider(7) cutting(8) any(9) kind(10) of(11) deal(12) with(13) us(14) ,(15) they(16) upped(17) the(18) MSRP(19) by(20) $2000(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			Then(1) we(2) found(3) out(4) that(5) these(6) Odysseys(7) were(8) considered(9) "(10) used(11) "(12) because(13) they(14) were(15) purchased(16) by(17) the(18) dealership(19) in(20) Canada(21) !(22) 
+		</sentence>
+		<sentence id="18">
+			They(1) only(2) had(3) 10_miles(4) on(5) them(6) !(7) 
+		</sentence>
+		<sentence id="19">
+			Because(1) they(2) were(3) not(4) made(5) for(6) the(7) US(8) market(9) ,(10) the(11) Honda(12) warrantee(13) was(14) void(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			But(1) the(2) dealer(3) would(4) provide(5) a(6) warrantee(7) that(8) was(9) the(10) same(11) ((12) minus(13) any(14) recalls(15) ,(16) etc.(17) )(18) The(19) controls(20) /(21) temp(22) were(23) in(24) metric(25) /(26) celsius(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			Something_I(1) "(2) would(3) get(4) use(5) to(6) "(7) the(8) salesperson(9) said(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			Yea(1) -(2) so(3) ,(4) we(5) went(6) a(7) hunting(8) and(9) ended(10) up(11) 60_miles(12) away(13) where(14) a(15) brand(16) new(17) ,(18) American_Odyssey(19) was(20) just(21) waiting(22) for(23) us(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			That(1) dealer(2) sold(3) us(4) the(5) van(6) for(7) $26,000(8) ((9) sticker(10) was(11) $27,300(12) )(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			We(1) were(2) thrilled(3) !(4) 
+		</sentence>
+		<sentence id="25">
+			A(1) few(2) weeks(3) later(4) ,(5) we(6) took(7) a(8) 2(9) week(10) driving(11) trip(12) ((13) put(14) on(15) over(16) 4000_miles(17) !(18) )(19) and(20) were(21) still(22) pretty(23) pleased(24) -(25) but(26) we(27) started(28) noticing(29) a(30) few(31) annoying(32) things(33) about(34) the(35) Odyssey(36) .....(37) 1(38) .(39) 
+		</sentence>
+		<sentence id="26">
+			The(1) folding(2) center(3) console(4) tray(5) -(6) my(7) purse(8) strap(9) always(10) gets(11) caught(12) on(13) the(14) handle(15) to(16) fold(17) the(18) tray(19) causing(20) the(21) tray(22) to(23) collapse(24) ,(25) especially(26) when(27) the(28) cup(29) holders(30) are(31) loaded(32) with(33) coffee(34) or(35) Coca_Cola(36) !(37) 2(38) .(39) 
+		</sentence>
+		<sentence id="27">
+			The(1) cup(2) holders(3) are(4) way(5) too(6) shallow(7) -(8) I(9) can(10) not(11) begin(12) to(13) tell(14) you(15) how(16) many(17) times(18) I(19) 've(20) arrived(21) at(22) work(23) wearing(24) my(25) coffee(26) because(27) the(28) cup(29) tipped(30) out(31) on(32) a(33) curve(34) .(35) 
+		</sentence>
+		<sentence id="28">
+			I(1) have(2) even(3) complained(4) to(5) Honda(6) about(7) this(8) one(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			I(1) know(2) cup(3) holders(4) are(5) a(6) silly(7) ,(8) tiny(9) part(10) of(11) car(12) ownership(13) ,(14) but(15) jeez(16) !(17) 
+		</sentence>
+		<sentence id="30">
+			How(1) hard(2) could(3) it(4) be(5) to(6) design(7) functional(8) cup(9) holders(10) ?(11) 3(12) .(13) 
+			<opinion polarity="+" feature="cup holders" featWords="9,10" opWords="8"/>
+		</sentence>
+		<sentence id="31">
+			The(1) stereo(2) is(3) awful(4) .(5) 
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="32">
+			Very(1) poor(2) quality(3) .(4) 4(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			The(1) Odyssey(2) is(3) one(4) of(5) the(6) loudest(7) newer(8) cars(9) I(10) have(11) ever(12) rode(13) in(14) .(15) 
+			<opinion polarity="-" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="34">
+			To(1) hold(2) a(3) conversation(4) with(5) people(6) in(7) the(8) backseats(9) ,(10) you(11) have(12) to(13) yell(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			Not(1) very(2) pleasant(3) !(4) 5(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="1,3"/>
+		</sentence>
+		<sentence id="36">
+			The(1) seats(2) are(3) not(4) particularly(5) comfortable(6) .(7) 6(8) .(9) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="37">
+			No(1) leather(2) upholstery(3) .(4) 7(5) .(6) 
+		</sentence>
+		<sentence id="38">
+			This(1) is(2) the(3) icing(4) on(5) the(6) cake(7) -(8) I(9) actually(10) got(11) STUCK(12) in(13) the(14) power(15) door(16) today(17) !(18) 
+		</sentence>
+		<sentence id="39">
+			Stuck(1) !(2) 
+		</sentence>
+		<sentence id="40">
+			I(1) have(2) bruises(3) down(4) both(5) arms(6) from(7) the(8) door(9) shutting(10) on(11) me(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			It(1) 's(2) suppose(3) to(4) "(5) sense(6) "(7) an(8) obstruction(9) and(10) reverse(11) ....(12) RIGHT(13) !(14) 
+		</sentence>
+		<sentence id="42">
+			It(1) would(2) not(3) stop(4) even(5) with(6) me(7) putting(8) all(9) of(10) my(11) weight(12) against(13) the(14) door(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			Now(1) imagine(2) that(3) happening(4) to(5) your(6) toddler(7) !(8) 
+		</sentence>
+		<sentence id="44">
+			I(1) 'll(2) be(3) turning(4) that(5) feature(6) off(7) until(8) Honda(9) service(10) fixes(11) this(12) problem(13) !(14) 8(15) .(16) 
+		</sentence>
+		<sentence id="45">
+			No(1) power(2) lift(3) gate(4) .(5) 9(6) .(7) 
+		</sentence>
+		<sentence id="46">
+			The(1) power(2) port(3) /(4) lighter(5) is(6) in(7) a(8) hard(9) to(10) reach(11) place(12) ,(13) almost(14) on(15) the(16) floor(17) .(18) 10(19) .(20) 
+		</sentence>
+		<sentence id="47">
+			The(1) controls(2) are(3) hard(4) to(5) see(6) -(7) blocked(8) by(9) the(10) steering(11) wheel(12) ,(13) turn(14) signal(15) handle(16) and(17) shifter(18) .(19) 11(20) .(21) 
+		</sentence>
+		<sentence id="48">
+			The(1) gas(2) mileage(3) is(4) not(5) good(6) at(7) all(8) .(9) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="5,6"/>
+		</sentence>
+		<sentence id="49">
+			I(1) got(2) better(3) mileage(4) in(5) my(6) Aerostar(7) -(8) go(9) figure(10) !(11) !(12) 12(13) .(14) 
+		</sentence>
+		<sentence id="50">
+			There(1) are(2) not(3) enough(4) color(5) choices(6) of(7) this(8) van(9) -(10) I(11) do(12) not(13) like(14) seeing(15) "(16) my(17) "(18) van(19) everywhere(20) I(21) go(22) .(23) 
+		</sentence>
+		<sentence id="51">
+			I(1) had(2) to(3) put(4) an(5) obnoxious(6) antenna(7) ball(8) on(9) it(10) so(11) I(12) could(13) pick(14) it(15) out(16) in(17) a(18) parking(19) lot(20) .(21) 13(22) .(23) 
+		</sentence>
+		<sentence id="52">
+			Withing(1) the(2) first(3) few(4) months(5) ,(6) a(7) dashboard(8) rattle(9) started(10) which(11) the(12) service(13) dept(14) can(15) not(16) locate(17) !(18) !(19) !(20) 
+		</sentence>
+		<sentence id="53">
+			It(1) does(2) have(3) some(4) good(5) qualities(6) .(7) 
+		</sentence>
+		<sentence id="54">
+			I(1) still(2) love(3) the(4) 3rd(5) row(6) seat(7) and(8) the(9) ease(10) of(11) removing(12) the(13) 2nd(14) row(15) .(16) 
+		</sentence>
+		<sentence id="55">
+			It(1) handles(2) and(3) brakes(4) nice(5) .(6) 
+			<opinion polarity="+" feature="brakes" opWords="4,5"/>
+			<opinion polarity="+" feature="handling" opWords="2,5"/>
+		</sentence>
+		<sentence id="56">
+			It(1) 's(2) very(3) roomy(4) .(5) 
+			<opinion polarity="+" feature="room" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="57">
+			And(1) when(2) I(3) trade(4) it(5) in(6) or(7) sell(8) it(9) in(10) the(11) next(12) month(13) or(14) so(15) ,(16) I(17) 'll(18) get(19) a(20) good(21) price(22) for(23) it(24) .(25) 
+			<opinion polarity="+" feature="price" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="58">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 26000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX(16) 
+		</sentence>
+	</text>
+</review>

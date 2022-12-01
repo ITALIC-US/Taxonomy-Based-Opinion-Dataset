@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="198" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			Happy(1) with(2) my(3) sporty(4) new(5) car(6) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sporty(1) and(2) cute(3) -(4) very(5) happy(6) so(7) far(8) 
+			<opinion polarity="+" feature="car" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) visability(2) -(3) back(4) seat(5) is(6) CRAMPED(7) -(8) but(9) what(10) do(11) you(12) expect(13) ?(14) 
+			<opinion polarity="-" feature="seat" featWords="4,5" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recommend(3) this(4) car(5) -(6) if(7) I(8) have(9) any(10) problems(11) I(12) 'll(13) be(14) sure(15) to(16) edit(17) my(18) Epinion(19) to(20) keep(21) you(22) "(23) in(24) the(25) know(26) "(27) -(28) Happy(29) driving(30) !(31) !(32) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) with(5) 7,000_miles(6) on(7) it(8) .(9) 4,000_miles(10) later(11) ,(12) it(13) has(14) been(15) trouble(16) free(17) and(18) I(19) am(20) very(21) happy(22) with(23) with(24) the(25) car(26) and(27) my(28) Toyota(29) experience(30) in(31) general(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="26" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) the(3) GT(4) -(5) automatic(6) -(7) with(8) CD(9) player(10) ,(11) spoiler(12) and(13) sunroof(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Great(1) sound(2) system(3) ,(4) with(5) lots(6) of(7) pep(8) -(9) great(10) car(11) for(12) the(13) money(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			The(1) trunk(2) is(3) HUGE(4) -(5) I(6) made(7) a(8) big(9) thanksgiving(10) dinner(11) and(12) fit(13) about(14) 12(15) big(16) bags(17) of(18) groceries(19) in(20) the(21) trunk(22) .(23) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			You(1) 'd(2) be(3) surprised(4) how(5) much(6) can(7) fit(8) in(9) the(10) trunk(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) get(2) lots(3) of(4) compliments(5) on(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) almost(2) bought(3) the(4) 2(5) door(6) Accord(7) -(8) and(9) I(10) 'm(11) glad(12) I(13) did(14) not(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) interior(2) is(3) very(4) sporty(5) -(6) there(7) are(8) lots(9) of(10) upholstery(11) color(12) options(13) ((14) if(15) you(16) 're(17) buying(18) it(19) new(20) )(21) .(22) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			There(1) are(2) also(3) tons(4) of(5) performance(6) and(7) appearance(8) aftermarket(9) products(10) available(11) for(12) the(13) Celica(14) ((15) spoilers(16) ,(17) fender(18) flares(19) ,(20) neon(21) lightes(22) ,(23) all(24) the(25) stuff(26) you(27) see(28) on(29) "(30) The(31) Fast(32) and(33) the(34) Furious(35) "(36) )(37) .(38) 
+		</sentence>
+		<sentence id="10">
+			Thus(1) far(2) the(3) car(4) has(5) been(6) great(7) -(8) My(9) only(10) complaint(11) is(12) the(13) visability(14) out(15) the(16) back(17) -(18) the(19) spoiler(20) is(21) right(22) in(23) the(24) way(25) when(26) you(27) look(28) in(29) the(30) rear(31) view(32) mirror(33) .(34) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) EXTREMELY(3) difficult(4) to(5) back(6) out(7) of(8) a(9) parking(10) space(11) and(12) see(13) what(14) is(15) going(16) on(17) behind(18) you(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GT(16) -(17) automatic(18) ,(19) spoiler(20) ,(21) sunroof(22) ,(23) CD(24) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="53" item="Sony MDR-V300 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			BOOM(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			BOOM(1) !(2) 
+		</sentence>
+		<sentence id="3">
+			Out(1) go(2) the(3) V300(4) 's(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overboosted(1) bass(2) ,(3) mediocre(4) comfort(5) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="comfort" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) rather(2) uncomfortable(3) and(4) very(5) flimsy(6) pair(7) of(8) headphones(9) judged(10) suitable(11) only(12) for(13) bass(14) freaks(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="3" potency="2"/>
+			<opinion polarity="-" feature="durability" opWords="6" potency="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) previously(3) written(4) an(5) opinion(6) titled(7) One(8) of(9) the(10) best(11) low-priced(12) Sony(13) headphones(14) in(15) years(16) !(17) 
+		</sentence>
+		<sentence id="2">
+			But(1) after(2) listening(3) to(4) more(5) expensive(6) headphones(7) from(8) other(9) brands(10) ,(11) I(12) feel(13) ripped(14) off(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) Sony(2) MDR-V300(3) 's(4) are(5) labeled(6) "(7) Studio_Monitor(8) "(9) Headphones(10) ,(11) but(12) are(13) nowhere(14) near(15) neutral(16) in(17) performance(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Sound_Quality_Time(1) and(2) time(3) again(4) two(5) words(6) spring(7) to(8) mind(9) when(10) listening(11) to(12) the(13) Sony(14) MDR-V300(15) 's(16) :(17) boomy(18) and(19) muddy(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) headphones(2) produce(3) some(4) midrange(5) and(6) treble(7) ,(8) but(9) whatever(10) higher(11) frequencies(12) they(13) produce(14) are(15) completely(16) overpowered(17) by(18) the(19) muddy(20) and(21) overboosted(22) bass(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) quality(3) seems(4) as_if(5) someone(6) had(7) turned(8) the(9) bass(10) control(11) on(12) my(13) receiver(14) all(15) the(16) way(17) to(18) maximum(19) and(20) the(21) treble(22) control(23) halfway(24) between(25) minimum(26) and(27) flat(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			Comfort_The_Sony(1) MDR-V300(2) 's(3) are(4) less(5) comfortable(6) than(7) some(8) of(9) the(10) other(11) headphones(12) I(13) had(14) tried(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) supraural(2) pads(3) press(4) too(5) tightly(6) against(7) my(8) ears(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			And(1) the(2) relatively(3) flimsy(4) headband(5) does(6) not(7) inspire(8) confidence(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			As(1) a(2) result(3) ,(4) I(5) can(6) barely(7) survive(8) an(9) hour(10) 's(11) listening(12) to(13) these(14) headphones(15) before(16) I(17) want(18) to(19) take(20) them(21) off(22) ,(23) not(24) only(25) because_of(26) the(27) pressure(28) on(29) my(30) ears(31) ,(32) but(33) because_of(34) these(35) headphones(36) '(37) muddy(38) ,(39) overpowering(40) ,(41) fatiguing(42) bass(43) .(44) 
+			<opinion polarity="-" feature="bass" featWords="43" opWords="38"/>
+			<opinion polarity="-" feature="bass" featWords="43" opWords="40"/>
+			<opinion polarity="-" feature="bass" featWords="43" opWords="42"/>
+		</sentence>
+		<sentence id="11">
+			Conclusion_The_Sony(1) MDR-V300(2) 's(3) are(4) a(5) perfect(6) example(7) of(8) why(9) open-back(10) headphones(11) outperform(12) closed(13) headphones(14) :(15) They(16) sound(17) way(18) too(19) dark(20) for(21) my(22) ears(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			For(1) $50(2) ,(3) there(4) are(5) better(6) choices(7) than(8) these(9) sonic(10) pieces(11) of(12) garbage(13) .(14) 
+		</sentence>
+	</text>
+</review>

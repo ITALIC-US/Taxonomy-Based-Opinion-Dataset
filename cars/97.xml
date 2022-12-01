@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="97" item="1993 Lincoln Town Car" rating="5">
+	<title>
+		<sentence id="1">
+			"(1) Value(2) in(3) a(4) used(5) Lincoln(6) "(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxury(1) ,(2) safety(3) ,(4) quality(5) ,(6) convenience(7) and(8) low(9) cost(10) operation(11) .(12) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Many(1) question(2) the(3) value(4) in(5) buying(6) a(7) used(8) automobile(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) my(3) current(4) 93(5) Lincoln_Town_Car(6) in_1995(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			At(1) that(2) time(3) ,(4) it(5) had(6) been(7) driven(8) 38,000_miles(9) but(10) appeared(11) to(12) be(13) in(14) excellent(15) condition(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) able(3) to(4) purchase(5) it(6) from(7) a(8) Linclon(9) dealer(10) for(11) about(12) one_half(13) the(14) original(15) retail(16) selling(17) price(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Since(1) I(2) purchased(3) it(4) ,(5) my(6) wife(7) and(8) I(9) have(10) driven(11) it(12) until(13) now(14) the(15) odometer(16) reads(17) 161,000_miles(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			This(1) had(2) been(3) done(4) while(5) burning(6) only(7) regular(8) gasoline(9) and(10) doing(11) routine(12) maintenance(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) purchased(3) new(4) tires(5) twice(6) ,(7) had(8) one(9) engine(10) tuneup(11) and(12) one(13) brake(14) job(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Everything(1) about(2) it(3) functions(4) as(5) good(6) today(7) as(8) when(9) I(10) purchased(11) it(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Never(1) before(2) have(3) I(4) enjoyed(5) luxury(6) transportation(7) at(8) such(9) low(10) cost(11) and(12) I(13) have(14) been(15) associated(16) with(17) the(18) retail(19) auto(20) business(21) for(22) over(23) 50(24) years(25) .(26) 
+			<opinion polarity="+" feature="price" featWords="11" opWords="10"/>
+		</sentence>
+	</text>
+</review>

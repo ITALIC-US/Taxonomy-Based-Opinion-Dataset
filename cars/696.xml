@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="696" item="1998 Toyota 4Runner" rating="3">
+	<title>
+		<sentence id="1">
+			Toyota(1) 4(2) Runner(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Attractive_Roomy(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) bumpy(2) ride(3) 
+			<opinion polarity="-" feature="ride quality" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="ride quality" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) Toyota(4) 4(5) Runner(6) because(7) we(8) researched(9) Consumer_Reports(10) for(11) reliability(12) information(13) and(14) it(15) was(16) also(17) one(18) of(19) the(20) best(21) looking(22) SUV(23) 's(24) around(25) but(26) good(27) looks(28) and(29) Reliability(30) were(31) the(32) good(33) points(34) I(35) can(36) tell(37) you(38) about(39) .(40) 
+			<opinion polarity="+" feature="design" opWords="21,22"/>
+			<opinion polarity="+" feature="design" featWords="28" opWords="27"/>
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) terrible(3) on(4) gas(5) even_though(6) it(7) was(8) a(9) 4(10) cylinder(11) and(12) that(13) was(14) an(15) enormous(16) mistake(17) we(18) discovered(19) when(20) we(21) went(22) to(23) trade(24) it(25) after(26) I(27) had(28) our(29) last(30) baby(31) and(32) we(33) took(34) a(35) miserably(36) uncomfortable(37) 7(38) hour(39) trip(40) to(41) Virginia(42) with(43) me(44) sitting(45) in(46) the(47) back(48) seat(49) with(50) the(51) baby(52) .(53) 
+			<opinion polarity="-" feature="comfort" opWords="37"/>
+		</sentence>
+		<sentence id="3">
+			I(1) felt(2) every(3) bump(4) on(5) the(6) road(7) multiplied(8) and(9) felt(10) guilty(11) not(12) having(13) known(14) how(15) uncomfortable(16) our(17) other(18) two(19) children(20) must(21) have(22) been(23) all(24) the(25) other(26) months(27) we(28) owned(29) our(30) 4(31) runner(32) .(33) 
+			<opinion polarity="-" feature="comfort" opWords="16"/>
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) went(3) to(4) trade(5) it(6) we(7) were(8) $8,000.00(9) upside(10) down(11) and(12) had(13) to(14) sell(15) it(16) away(17) from(18) the(19) dealership(20) where(21) we(22) bought(23) our(24) Lexus(25) RX300(26) which(27) we(28) love(29) !(30) 
+		</sentence>
+	</text>
+</review>

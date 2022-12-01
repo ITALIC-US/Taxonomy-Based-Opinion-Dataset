@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="851" item="1999 Saturn SL" rating="1">
+	<title>
+		<sentence id="1">
+			NIGHT_MARE_ON_WHEELS(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			inexpensive(1) ,(2) good(3) gas(4) mileage(5) 
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			lemon(1) ,(2) lemon(3) ,(4) lemon(5) ,(6) might(7) as_well(8) make(9) lemonade(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) sister(2) is(3) the(4) owner(5) of(6) her(7) third(8) Saturn(9) SL2(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			She(1) just(2) loved(3) her(4) two(5) first(6) Saturn(7) 's(8) and(9) never(10) had(11) problems(12) with(13) them(14) and(15) kept(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			She(1) had(2) regular(3) maintenance(4) done(5) on(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			She(1) and(2) her(3) mother(4) in(5) law(6) bought(7) identical(8) Saturn(9) SL2(10) cars(11) at(12) the(13) same(14) time(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			In(1) different(2) colors(3) .(4) 
+		</sentence>
+		<sentence id="6">
+			My(1) sister(2) is(3) having(4) transmission(5) problems(6) from(7) day_one(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			She(1) has(2) taken(3) the(4) car(5) in(6) for(7) service(8) four_times(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) only(3) has(4) 16,000_miles(5) on(6) it(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			They(1) keep(2) telling(3) her(4) there(5) 's(6) nothing(7) wrong(8) with(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			I(1) personally(2) know(3) better(4) than(5) that(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) ridden(3) in(4) the(5) car(6) on(7) numerous(8) occasions(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) jerks(3) something(4) awful(5) .(6) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			I(1) can(2) only(3) assume(4) it(5) has(6) something(7) to(8) do(9) with(10) the(11) transmission(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			My(1) sister(2) and(3) I(4) both(5) have(6) pre-existing(7) back(8) injuries(9) and(10) the(11) jerking(12) around(13) really(14) bothers(15) our(16) backs(17) and(18) necks(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			We(1) think(2) Saturn(3) is(4) fooling(5) around(6) trying(7) to(8) wait(9) till(10) the(11) extended(12) warranty(13) runs(14) out(15) .(16) ((17) If(18) you(19) buy(20) a(21) Saturn(22) be(23) sure(24) to(25) purchase(26) an(27) extended(28) warranty(29) cause(30) your(31) gonna(32) need(33) it(34) )(35) She(36) asked(37) them(38) at(39) the(40) service(41) center(42) why(43) they(44) could(45) not(46) just(47) replace(48) the(49) transmission(50) and(51) was(52) told(53) "(54) oh(55) no(56) that(57) would(58) cost(59) us(60) $4000.00(61) "(62) well(63) what(64) about(65) the(66) $17,000.00(67) plus(68) the(69) extended(70) warranty(71) means(72) nothing(73) .(74) 
+		</sentence>
+		<sentence id="16">
+			Well(1) if(2) they(3) call(4) that(5) family(6) and(7) a(8) new(9) kind(10) of(11) car(12) company(13) I(14) want(15) a(16) divorce(17) from(18) this(19) company(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			She(1) is(2) still(3) dealing(4) with(5) them(6) to(7) date(8) and(9) still(10) getting(11) the(12) runaround(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			She(1) thinks(2) she(3) might(4) have(5) to(6) sue(7) them(8) for(9) injuries(10) sustained(11) from(12) the(13) jerking(14) of(15) the(16) car(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			My(1) sister(2) use(3) to(4) sing(5) Saturn(6) praises(7) but(8) not(9) anymore(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			I(1) do(2) not(3) think(4) she(5) will(6) ever(7) own(8) a(9) forth(10) Saturn(11) and(12) I(13) do(14) not(15) blame(16) her(17) at(18) all(19) .(20) 
+		</sentence>
+	</text>
+</review>

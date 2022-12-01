@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="154" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			2001(1) Celica_GT(2) -(3) Good(4) ,(5) but(6) not(7) perfect(8) ...(9) 
+			<opinion polarity="-" feature="car" opWords="7,8"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliability(1) ,(2) nimble(3) handling(4) ,(5) awesome(6) styling(7) ,(8) fuel(9) economy(10) 
+			<opinion polarity="+" feature="design" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="handling" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			non-existent(1) low(2) end(3) torque(4) ,(5) not(6) good(7) for(8) stick(9) shift(10) newbies(11) ,(12) not(13) much(14) power(15) ,(16) blind(17) zones(18) 
+			<opinion polarity="-" feature="torque" featWords="4" opWords="2,3"/>
+			<opinion polarity="-" feature="torque" featWords="4" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) accustom(4) yourself(5) to(6) the(7) clutch(8) and(9) do(10) not(11) mind(12) the(13) lack(14) of(15) sports(16) car(17) power(18) ,(19) I(20) strongly(21) recommend(22) it(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) fun(3) to(4) drive(5) ,(6) and(7) good(8) on(9) gas(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) had(3) an(4) opportunity(5) to(6) test(7) drive(8) a(9) 2001(10) Toyota_Celica_GT(11) ,(12) and(13) it(14) was(15) a(16) mixed(17) experience(18) overall(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			Like(1) the(2) Mitsubishi_Eclipse(3) ,(4) you(5) have(6) the(7) fighter(8) plane(9) cockpit(10) feeling(11) when(12) sitting(13) behind(14) the(15) wheel(16) of(17) the(18) Celica(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) a(3) pro(4) as(5) far(6) as(7) I(8) 'm(9) concerned(10) ,(11) but(12) even(13) so(14) ,(15) it(16) is(17) not(18) the(19) most(20) comfortable(21) vehicle(22) ever(23) made(24) .(25) 
+			<opinion polarity="+" feature="comfort" opWords="19,21"/>
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) tolerate(3) it(4) 's(5) cramped(6) interior(7) ,(8) but(9) others(10) may(11) not(12) .(13) 
+			<opinion polarity="-" feature="interior" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			Definitely(1) try(2) before(3) you(4) buy(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			For(1) me(2) ,(3) the(4) driver(5) 's(6) seat(7) provided(8) good(9) support(10) ,(11) especially(12) in(13) those(14) high(15) speed(16) turns(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) back(2) seat(3) is(4) very(5) small(6) and(7) while(8) I(9) *(10) think(11) *(12) an(13) average(14) person(15) could(16) get(17) in(18) it(19) ,(20) do(21) not(22) expect(23) them(24) to(25) be(26) comfortable(27) .(28) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="8">
+			This(1) Celica_GT(2) came(3) equipped(4) with(5) a(6) 140(7) HP(8) 4(9) banger(10) and(11) a(12) 5-speed(13) manual(14) transmission(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) four(2) cylinder(3) engine(4) runs(5) like(6) a(7) sewing(8) machine(9) and(10) delivers(11) the(12) famed(13) Toyota(14) reliability(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			However(1) ,(2) it(3) does(4) not(5) have(6) a_lot_of(7) umph(8) behind(9) it(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			My(1) 97(2) Nissan_Sentra(3) is(4) not(5) that(6) much(7) slower(8) ,(9) and(10) its(11) an(12) econo-box(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Something(1) like(2) a(3) Nissan_Altima(4) V6(5) would(6) eat(7) the(8) Celica(9) for(10) lunch(11) off(12) the(13) line(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) Celica(2) 's(3) engine(4) does(5) generate(6) some(7) decent(8) torque(9) ,(10) but(11) you(12) have(13) to(14) rev(15) pretty(16) high(17) before(18) you(19) can(20) get(21) it(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) low(3) end(4) torque(5) pretty(6) much(7) does(8) not(9) exist(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			The(1) clutch(2) is(3) unforgiving(4) .(5) 
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) quite(3) a_bit(4) more(5) sensitive(6) than(7) the(8) clutch(9) in(10) the(11) Nissan_Altima(12) ,(13) the(14) Honda_Accord(15) ,(16) or(17) the(18) Mitsubishi_Eclipse(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Combined(1) with(2) the(3) fact(4) that(5) the(6) engine(7) generates(8) very(9) little(10) low(11) end(12) torque(13) and(14) you(15) get(16) a(17) potentially(18) dangerous(19) combination(20) ,(21) especially(22) for(23) a(24) stick-shift(25) beginner(26) :(27) it(28) 's(29) very(30) easy(31) to(32) kill(33) the(34) engine(35) on(36) take(37) off(38) .(39) 
+			<opinion polarity="-" feature="torque" featWords="13" opWords="11,12"/>
+			<opinion polarity="-" feature="torque" featWords="13" opWords="10"/>
+		</sentence>
+		<sentence id="18">
+			If(1) this(2) were(3) to(4) happen(5) while(6) you(7) were(8) pulling(9) out(10) into(11) busy(12) traffic(13) it(14) could(15) prove(16) ...(17) inconvenient(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			Also(1) ,(2) it(3) could(4) prove(5) to(6) be(7) annoying(8) to(9) some(10) in(11) a(12) heavy(13) stop-and-go(14) traffic(15) situation(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			On(1) a(2) positive(3) note(4) ,(5) the(6) sensitive(7) clutch(8) does(9) make(10) the(11) Celica(12) very(13) good(14) on(15) speed(16) shifting(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			The(1) Celica(2) has(3) killer(4) looks(5) ,(6) IMO(7) .(8) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			The(1) only(2) sporty(3) import(4) car(5) that(6) is(7) better(8) is(9) the(10) Mitsubishi_Eclipse(11) ,(12) which(13) I(14) am(15) reluctant(16) to(17) buy(18) due(19) to(20) its(21) suspect(22) reliability(23) .(24) 
+			<opinion polarity="-" feature="reliability" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="23">
+			With(1) one(2) of(3) the(4) low-profile(5) rear(6) wings(7) ((8) I(9) think(10) the(11) high(12) profile(13) ones(14) look(15) stupid(16) .(17) They(18) just(19) scream(20) "(21) look(22) ,(23) I(24) 'm(25) in(26) high(27) school(28) "(29) )(30) it(31) will(32) definitely(33) turn(34) heads(35) .(36) 
+		</sentence>
+		<sentence id="24">
+			The(1) handling(2) is(3) superb(4) .(5) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			Might(1) be(2) the(3) best(4) handling(5) vehicle(6) I(7) 've(8) ever(9) sat(10) in(11) ,(12) period(13) ,(14) the(15) end(16) .(17) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			This(1) nimbleness(2) will(3) make(4) it(5) good(6) for(7) dealing(8) with(9) heavy(10) traffic(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			Like(1) any(2) sports(3) car(4) ,(5) it(6) has(7) significant(8) blind(9) zones(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			It(1) also(2) gets(3) very(4) good(5) fuel(6) economy(7) ,(8) which(9) is(10) a(11) pretty(12) good(13) consolation(14) prize(15) for(16) its(17) relatively(18) weak(19) engine(20) .(21) 
+			<opinion polarity="-" feature="engine" featWords="20" opWords="19" potency="18"/>
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="29">
+			You(1) can(2) expect(3) approximately(4) 30-32(5) mpg(6) on(7) the(8) highway(9) .(10) 
+		</sentence>
+		<sentence id="30">
+			The(1) instrument(2) cluster(3) is(4) not(5) anything(6) to(7) shout(8) about(9) ,(10) but(11) it(12) gets(13) the(14) job(15) done(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			You(1) do(2) have(3) a(4) tachometer(5) and(6) a(7) digital(8) odometer(9) ,(10) which(11) are(12) nice(13) touches(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			The(1) gauges(2) are(3) not(4) heavily(5) recessed(6) into(7) the(8) dash(9) ,(10) which(11) will(12) please(13) some(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			The(1) stereo(2) can(3) be(4) a_bit(5) difficult(6) to(7) deal(8) with(9) ,(10) but(11) this(12) has(13) as(14) much(15) to(16) do(17) with(18) the(19) car(20) being(21) a(22) manual(23) transmission(24) ((25) and(26) thus(27) ,(28) you(29) need(30) both(31) hands(32) to(33) drive(34) )(35) as(36) it(37) does(38) with(39) the(40) placement(41) .(42) 
+		</sentence>
+		<sentence id="34">
+			The(1) 5-speed(2) shifter(3) is(4) very(5) ergonomic(6) and(7) a(8) pleasure(9) to(10) use(11) .(12) 
+			<opinion polarity="+" feature="shifter" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="35">
+			The(1) stereo(2) is(3) about(4) what(5) you(6) would(7) expect(8) for(9) a(10) factory(11) stereo(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			Not(1) bad(2) ,(3) but(4) if(5) you(6) 're(7) wanting(8) to(9) seriously(10) rock(11) out(12) ,(13) some(14) modification(15) is(16) in(17) order(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="37">
+			The(1) A(2) /(3) C(4) worked(5) fine(6) .(7) 
+		</sentence>
+		<sentence id="38">
+			Not(1) much(2) more(3) I(4) can(5) say(6) about(7) that(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			I(1) do(2) not(3) know(4) about(5) the(6) heater(7) ,(8) as(9) it(10) was(11) 95(12) degrees(13) outside(14) when(15) I(16) test(17) drove(18) the(19) vehicle(20) .(21) 
+		</sentence>
+		<sentence id="40">
+			Condition(1) :(2) UsedModel_Year(3) :(4) 2001Model(5) and(6) Options(7) :(8) 2001(9) Toyota_Celica_GT(10) ,(11) 5-speed(12) manual(13) 
+		</sentence>
+	</text>
+</review>

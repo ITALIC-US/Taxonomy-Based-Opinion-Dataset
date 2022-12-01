@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="924" item="Ritz Carlton Pentagon City" rating="5">
+	<title>
+		<sentence id="1">
+			With(1) METRO(2) and(3) a(4) mall(5) at(6) your(7) back(8) door(9) ,(10) everything(11) close(12) by(13) -(14) Perfect(15) !(16) !(17) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			You(1) could(2) not(3) expect(4) more(5) out(6) of(7) a(8) property(9) !(10) 
+		</sentence>
+		<sentence id="2">
+			Luxury(1) ,(2) cleanliness(3) ,(4) efficient(5) and(6) hospitable(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="+" feature="hotel" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) CONS(2) about(3) this(4) property(5) ,(6) the(7) stay(8) was(9) impeccably(10) perfect(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Luxury(1) ,(2) cleanliness(3) ,(4) efficient(5) and(6) hospitable(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="+" feature="hotel" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Of(1) the(2) various(3) locations(4) I(5) 've(6) stayed(7) with(8) the(9) Ritz-Carlton(10) ,(11) Pentagon_City(12) is(13) at(14) the(15) top(16) of(17) my(18) list(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'd(2) recommend(3) this(4) property(5) to(6) anyone(7) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) was(3) transferred(4) to(5) the(6) Pentagon(7) and(8) we(9) had(10) two(11) weeks(12) before(13) our(14) home(15) was(16) ready(17) to(18) take(19) possession(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) found(2) a(3) great(4) place(5) to(6) call(7) home(8) at(9) the(10) Ritz-Carlton_Pentagon_City_Mall(11) .(12) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Having(1) just(2) left(3) the(4) Middle_East(5) security(6) was(7) high(8) on(9) our(10) list(11) of(12) priorities(13) ,(14) hey(15) bad(16) habits(17) die(18) hard(19) LOL_The_Ritz(20) has(21) one(22) of(23) the(24) most(25) capable(26) staffs(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) that(3) within(4) the(5) first(6) few(7) days(8) I(9) had(10) an(11) entire(12) housekeeping(13) staff(14) catering(15) just(16) to(17) my(18) room(19) ....(20) at_least(21) it(22) felt(23) that(24) way(25) !(26) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) a(3) cafe(4) in(5) the(6) lobby(7) that(8) has(9) some(10) of(11) the(12) area(13) 's(14) most(15) well(16) known(17) dishes(18) and(19) just(20) a(21) few(22) steps(23) out(24) the(25) side(26) door(27) is(28) the(29) Pentagon_Fashion_City_Mall(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			You(1) step(2) out(3) into(4) an(5) enormous(6) atrium(7) that(8) gives(9) you(10) a(11) view(12) of(13) one(14) of(15) the(16) largest(17) and(18) most(19) prestigious(20) shopping(21) malls(22) of(23) the(24) area(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Just(1) steps(2) from(3) the(4) front(5) door(6) ,(7) you(8) can(9) find(10) one(11) of(12) the(13) easiest(14) to(15) access(16) METRO(17) stops(18) ,(19) which(20) is(21) the(22) Cities(23) prime(24) mode(25) of(26) public(27) transportation(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			Within(1) minutes(2) you(3) can(4) be(5) whisked(6) away(7) to(8) any(9) of(10) the(11) numerous(12) tourist(13) sites(14) and(15) attractions(16) that(17) the(18) city(19) has(20) to(21) offer(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			From(1) the(2) comfort(3) of(4) the(5) luxurious(6) Frette(7) 400(8) thread-count(9) Egyptian(10) cotton(11) bed(12) linens(13) to(14) the(15) totally(16) indulgent(17) Bulgari_White_Tea(18) bath(19) amenities(20) you(21) can(22) not(23) find(24) comparable(25) amenities(26) anywhere(27) in(28) the(29) City(30) .(31) 
+			<opinion polarity="+" feature="bedding" featWords="13" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			The(1) club(2) level(3) has(4) Flat-panel(5) ,(6) high(7) definition(8) televisions(9) and(10) High-speed-Wireless_Internet(11) access(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Housekeeping(1) on(2) the(3) club(4) level(5) is(6) twice(7) daily(8) with(9) evening(10) turndown(11) attention(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			The(1) club(2) level(3) also(4) offers(5) 24-hour(6) in-room(7) dining(8) service(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Of(1) the(2) various(3) locations(4) I(5) 've(6) stayed(7) with(8) the(9) Ritz-Carlton(10) ,(11) Pentagon_City(12) is(13) at(14) the(15) top(16) of(17) my(18) list(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			I(1) 'd(2) recommend(3) this(4) property(5) and(6) location(7) to(8) anyone(9) .(10) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</text>
+</review>

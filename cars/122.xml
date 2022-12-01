@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="122" item="1997 Pontiac Trans Sport" rating="5">
+	<title>
+		<sentence id="1">
+			Sporty_Looking(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Acceleration(1) ,(2) sporty(3) looking(4) ,(5) reliable(6) ,(7) comfortable(8) ,(9) good(10) mpg(11) 
+			<opinion polarity="+" feature="gas" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			braking(1) ,(2) few(3) squeaks(4) ,(5) few(6) blind(7) spots(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) the(4) van(5) for(6) 2(7) years(8) and(9) have(10) gone(11) on(12) trips(13) 2,100_miles(14) away(15) &(16) have(17) never(18) had(19) a(20) problem(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) put(3) in_7,000(4) miles(5) ,(6) ((7) 108k_miles(8) to(9) date(10) )(11) and(12) still(13) very(14) reliable(15) .(16) 
+			<opinion polarity="+" feature="reliability" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="3">
+			U(1) feel(2) secure(3) &(4) great(5) for(6) driving(7) at(8) night(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="safety" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			During(1) the(2) trip(3) ,(4) I(5) got(6) 450-500_miles(7) on(8) 1(9) full(10) tank(11) on(12) the(13) freeway(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			My(1) whole(2) family(3) loves(4) the(5) van(6) for(7) being(8) comfortable(9) and(10) sporty(11) looking(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="11,12"/>
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="van" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) a(3) few(4) squeaks(5) and(6) the(7) engine(8) is(9) almost(10) silent(11) .(12) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1997(12) 
+		</sentence>
+	</text>
+</review>

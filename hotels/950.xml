@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="950" item="Disneys Villas At Wilderness Lodge" rating="5">
+	<title>
+		<sentence id="1">
+			Rustic_Beauty(1) with(2) All_the_Comforts_of_Home(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gorgeous(1) !(2) !(3) !(4) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Roomy(1) ,(2) wonderful(3) villas(4) ,(5) tons(6) of(7) ambiance(8) at(9) the(10) hotel(11) .(12) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) be(2) pricey(3) ,(4) but(5) that(6) 's(7) true(8) of(9) all(10) the(11) Disney(12) hotels(13) .(14) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Watch(1) for(2) specials(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) villas(2) are(3) roomy(4) and(5) well(6) equipped(7) ,(8) the(9) hotel(10) has(11) rustic(12) beauty(13) and(14) charm(15) ,(16) and(17) it(18) 's(19) all(20) very(21) centrally(22) located(23) .(24) 
+			<opinion polarity="+" feature="place" featWords="18" featRef="place" opWords="22,23" potency="21"/>
+			<opinion polarity="+" feature="hotel" opWords="6,7"/>
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 're(3) ever(4) been(5) to(6) Yellowstone_Park(7) ,(8) you(9) will(10) think(11) that(12) you(13) 've(14) stepped(15) through(16) a(17) tear(18) in(19) the(20) space(21) /(22) time(23) continuum(24) when(25) you(26) visit(27) Disney_'s_Wilderness_Lodge(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			This(1) hotel(2) is(3) modeled(4) on(5) the(6) National_Park(7) lodges(8) ,(9) and(10) it(11) is(12) very(13) authentic(14) ,(15) with(16) all(17) the(18) rustic(19) ,(20) rough-hewn(21) charm(22) of(23) the(24) West(25) right(26) in(27) central(28) Florida(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			The(1) villas(2) are(3) a(4) fairly(5) new(6) addition(7) ,(8) and(9) they(10) take(11) the(12) Wilderness_Lodge(13) 's(14) regular(15) accommodations(16) up(17) to(18) a(19) new(20) level(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			The(1) regular(2) rooms(3) are(4) equivalent(5) to(6) the(7) other(8) deluxe(9) hotels(10) on(11) Disney(12) property(13) ,(14) such(15) as(16) the(17) Contemporary(18) and(19) the(20) Polynesian(21) .(22) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) villas(3) are(4) truly(5) a(6) home(7) away(8) from(9) home(10) ,(11) with(12) everything(13) you(14) need(15) to(16) settle(17) in(18) and(19) relax(20) with(21) your(22) family(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) villas(2) are(3) like(4) studio(5) apartments(6) ...(7) actually(8) ,(9) the(10) larger(11) ones(12) are(13) bigger(14) than(15) my(16) first(17) apartment(18) actually(19) was(20) !(21) 
+		</sentence>
+		<sentence id="7">
+			You(1) have(2) a(3) livingroom(4) with(5) a(6) television(7) ,(8) sleeper(9) ,(10) table(11) and(12) chairs(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			THere(1) is(2) a(3) kitchen(4) with(5) all(6) the(7) major(8) appliances(9) ,(10) including(11) a(12) dishwasher(13) ((14) who(15) wants(16) to(17) do(18) dishes(19) by_hand(20) on(21) vacation(22) ?(23) !(24) )(25) and(26) bedroom(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			The(1) sizeable(2) bathroom(3) even(4) has(5) a(6) jacuzzi(7) !(8) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) have(3) a(4) family(5) and(6) want(7) to(8) do(9) your(10) own(11) cooking(12) to(13) save(14) more(15) money(16) for(17) souvenirs(18) ,(19) you(20) will(21) definitely(22) be(23) able(24) to(25) do(26) so(27) in(28) comfort(29) in(30) the(31) roomy(32) ,(33) well-appointed(34) kitched(35) .(36) 
+		</sentence>
+		<sentence id="11">
+			do(1) not(2) worry(3) if(4) you(5) did(6) not(7) pack(8) your(9) kitchen(10) utensils(11) ,(12) as(13) Disney(14) provides(15) all(16) of(17) that(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			Just(1) stop(2) at(3) Publix(4) for(5) your(6) groceries(7) and(8) you(9) are(10) all(11) set(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			But(1) if(2) you(3) get(4) a(5) hankering(6) to(7) dine(8) out(9) ,(10) you(11) do(12) not(13) have(14) to(15) go(16) all(17) the(18) way(19) to(20) the(21) theme(22) parks(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) Wilderness_Lodge(2) has(3) two(4) restaurants(5) :(6) Whispering_Canyon(7) ,(8) which(9) is(10) family(11) geared(12) ((13) rowdy(14) waitstaffs(15) ,(16) hearty(17) western-style(18) skillets(19) ,(20) sandwiches(21) ,(22) and(23) similar(24) options(25) )(26) and(27) Artist_Point(28) ,(29) which(30) is(31) higher(32) up(33) on(34) the(35) fine-dining(36) scale(37) ((38) the(39) prices(40) reflect(41) that(42) ,(43) but(44) the(45) quality(46) makes(47) it(48) well(49) worth(50) the(51) cost(52) )(53) .(54) 
+		</sentence>
+		<sentence id="15">
+			Buffalo(1) and(2) salmon(3) are(4) two(5) highlights(6) of(7) Artist_Point(8) ,(9) and(10) their(11) selection(12) of(13) wines(14) from(15) the(16) northwest(17) is(18) very(19) impressive(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) a(3) quick-service(4) food(5) bar(6) ,(7) too(8) ,(9) as_well(10) as(11) a(12) souvenir(13) shop(14) that(15) also(16) offers(17) some(18) rudimentary(19) food(20) and(21) drug(22) items(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			The(1) hotel(2) has(3) a(4) lovely(5) pool(6) ,(7) and(8) if(9) you(10) watch(11) closely(12) ,(13) you(14) will(15) see(16) a(17) geyser(18) spout(19) into(20) the(21) air(22) on(23) a(24) semi-regular(25) schedule(26) .(27) 
+			<opinion polarity="+" feature="swimming pool" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			You(1) can(2) rent(3) boats(4) and(5) bicycles(6) ,(7) and(8) if(9) you(10) are(11) ambitious(12) ,(13) you(14) can(15) pedal(16) your(17) bike(18) all(19) the(20) way(21) to(22) the(23) adjacent(24) Fort_Wilderness(25) .(26) 
+		</sentence>
+		<sentence id="19">
+			Most(1) of(2) the(3) transportation(4) from(5) this(6) hotel(7) is(8) accomplished(9) via(10) bus(11) ,(12) but(13) there(14) is(15) a(16) boat(17) to(18) the(19) Magic_Kingdom(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Unlike(1) some(2) of(3) the(4) other(5) hotels(6) on(7) the(8) lake(9) ,(10) you(11) will(12) not(13) get(14) a(15) good(16) view(17) of(18) the(19) nightly(20) fireworks(21) from(22) the(23) dock(24) ,(25) but(26) the(27) electrical(28) water(29) parade(30) does(31) stop(32) by(33) every(34) evening(35) .(36) 
+		</sentence>
+		<sentence id="21">
+			Like(1) the(2) other(3) deluxe(4) hotels(5) ,(6) the(7) Wilderness_Lodge(8) can(9) be(10) pricey(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="11"/>
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			Watch(1) for(2) specials(3) ,(4) although(5) they(6) are(7) typically(8) only(9) availble(10) at(11) the(12) slower(13) times(14) of(15) year(16) .(17) 
+		</sentence>
+	</text>
+</review>

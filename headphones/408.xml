@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="408" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) for(2) long(3) flights(4) ,(5) but(6) ...(7) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfort(1) ,(2) and(3) decent(4) sound(5) .(6) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) ,(2) and(3) can(4) not(5) use(6) without(7) noise(8) canceling(9) turned(10) on(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) want(3) total(4) noise(5) isolation(6) ,(7) there(8) are(9) better(10) choices(11) on(12) the(13) market(14) but(15) they(16) 're(17) buds(18) that(19) go(20) in(21) the(22) ear(23) canal(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			The(1) problem(2) is(3) for(4) a_lot_of(5) people(6) like(7) me(8) ,(9) you(10) can(11) only(12) stand(13) them(14) for(15) so(16) long(17) before(18) they(19) get(20) uncomfortable(21) .(22) 
+			<opinion polarity="-" feature="comfort" opWords="21"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Bose(2) is(3) a(4) good(5) middle(6) of(7) the(8) road(9) solution(10) between(11) sound(12) quality(13) and(14) noise(15) reduction(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) very(3) comfortable(4) on(5) long(6) flights(7) .(8) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			Excellent(1) at(2) eliminating(3) the(4) low(5) frequency(6) drone(7) of(8) the(9) jet(10) engines(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) expect(3) total(4) silence(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			You(1) can(2) still(3) hear(4) people(5) talk(6) and(7) babies(8) cry(9) ,(10) but(11) its(12) amazing(13) good(14) they(15) are(16) at(17) canceling(18) the(19) roar(20) of(21) the(22) jet(23) engines(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			I(1) bought(2) something(3) cheaper(4) ((5) about(6) $50(7) )(8) from(9) Radio_Shack(10) ,(11) but(12) it(13) does(14) not(15) compare(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			They(1) just(2) rest(3) on(4) the(5) ear(6) which(7) after(8) a(9) while(10) gets(11) uncomfortable(12) too(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) Bose(2) fits(3) completely(4) around(5) the(6) ear(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			So(1) the(2) good(3) part(4) is(5) decent(6) sound(7) and(8) comfort(9) on(10) long(11) flights(12) .(13) 
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="comfort" featWords="9" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			The(1) bad(2) part(3) is(4) of(5) course(6) the(7) price(8) ,(9) and(10) that(11) you(12) can(13) not(14) use(15) them(16) without(17) the(18) noise(19) canceling(20) feature(21) .(22) 
+			<opinion polarity="-" feature="price" featWords="8" opWords="2"/>
+		</sentence>
+	</text>
+</review>

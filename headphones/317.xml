@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="317" item="Sony MDR-V250V Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) ,(2) but(3) flawed(4) headphones(5) ,(6) at(7) a(8) great(9) price(10) .(11) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="1"/>
+			<opinion polarity="-" feature="headphones" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) Volume_Control(3) ,(4) Mono(5) /(6) Stereo_Switch(7) ,(8) Fairly(9) comfortable(10) .(11) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) too(2) loud(3) ,(4) a_bit(5) small(6) .(7) 
+			<opinion polarity="-" feature="volume" opWords="1,2,3"/>
+			<opinion polarity="-" feature="size" opWords="6" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) is(2) ultra-cheap(3) ,(4) useful(5) and(6) a(7) big(8) improvment(9) over(10) standard(11) pre-packaged(12) headphone(13) that(14) come(15) with(16) CD_Players(17) .(18) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+			<opinion polarity="+" feature="headphones" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Be(1) warned(2) :(3) These(4) are(5) the(6) cheapest(7) quality(8) headphones(9) ever(10) .(11) 
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			That(1) 's(2) right(3) ,(4) folks(5) ,(6) these(7) things(8) are(9) CHEAP(10) ,(11) especially(12) considering(13) they(14) padding(15) and(16) the(17) ability(18) to(19) flip(20) each(21) speaker(22) ,(23) a(24) la(25) DJ_Headphones(26) .(27) 
+			<opinion polarity="+" feature="price" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) on(3) these(4) is(5) pretty(6) nice(7) ,(8) though(9) bass(10) can(11) be(12) quite(13) hard(14) on(15) the(16) ears(17) and(18) I(19) often(20) wanted(21) it(22) to(23) be(24) a(25) little(26) bit(27) louder(28) .(29) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="4">
+			Still(1) ,(2) in(3) the(4) end(5) ,(6) you(7) can(8) not(9) argue(10) with(11) the(12) price(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			These(1) things(2) have(3) incredible(4) value(5) ,(6) and(7) for(8) the(9) price(10) ,(11) they(12) are(13) VERY(14) comfortable(15) ((16) PADDING(17) )(18) and(19) have(20) much(21) better(22) sound(23) quality(24) than(25) those(26) crappy(27) little(28) plastic(29) ones(30) that(31) come(32) with(33) your(34) new(35) CD(36) player(37) .(38) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="6">
+			Please(1) ,(2) make(3) the(4) upgrade(5) to(6) these(7) and(8) appreciate(9) the(10) player(11) for(12) all(13) it(14) is(15) .(16) 
+		</sentence>
+	</text>
+</review>

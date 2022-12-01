@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="488" item="2000 Pontiac Firebird" rating="3">
+	<title>
+		<sentence id="1">
+			V6(1) Firebird(2) :(3) Sleekest_of_Slugs(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks_FAST(1) !(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			But(1) is(2) NOT(3) !(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) one(4) of(5) these(6) cars(7) ,(8) unless(9) you(10) just(11) WANT(12) to(13) be(14) all(15) show(16) and(17) no(18) go(19) ...(20) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Okay(1) ,(2) let(3) 's(4) get(5) started(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) recently(2) came(3) into(4) posession(5) of(6) a(7) 3.8(8) liter(9) V6(10) year_2000(11) Firebird(12) with(13) automatic(14) transmission(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) is(3) maroon(4) red(5) ,(6) it(7) is(8) in(9) clean(10) condition(11) ,(12) and(13) it(14) had(15) 40000_miles(16) when(17) I(18) bought(19) it(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) paid(2) 12000_dollars(3) for(4) this(5) car(6) ,(7) but(8) this(9) was(10) not(11) unreasonable(12) for(13) an(14) F-body(15) in(16) such(17) good(18) shape(19) and(20) with(21) low(22) mileage(23) .(24) 
+			<opinion polarity="+" feature="gas" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) the(3) "(4) base(5) "(6) model(7) ,(8) and(9) everything(10) 's(11) manual(12) but(13) the(14) transmission(15) .(16) ((17) Hand(18) crank(19) the(20) windows(21) ,(22) manual(23) locks(24) ,(25) you(26) get(27) my(28) drift(29) )(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			The(1) interior(2) is(3) pretty(4) nice(5) ,(6) though(7) in(8) some(9) cases(10) almost(11) Fordishly(12) cheap(13) and(14) plasticky(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="15"/>
+			<opinion polarity="-" feature="car" opWords="13"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) stand(2) 6(3) '(4) 3(5) ''(6) and(7) weigh(8) 175_pounds(9) ,(10) and(11) I(12) found(13) the(14) car(15) to(16) be(17) adequately(18) roomy(19) for(20) a(21) man(22) my(23) size(24) ((25) one(26) of(27) my(28) few(29) pleasant(30) surprises(31) with(32) this(33) ride(34) )(35) .(36) 
+			<opinion polarity="+" feature="room" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) not(3) "(4) spacious(5) "(6) ,(7) but(8) sports(9) cars(10) are(11) not(12) meant(13) to(14) be(15) .(16) 
+			<opinion polarity="-" feature="room" opWords="3,5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) sound(2) system(3) is(4) an(5) average(6) CD(7) stereo(8) with(9) front(10) and(11) rear(12) speakers(13) ;(14) I(15) have(16) not(17) customized(18) anythng(19) and(20) do(21) not(22) plan(23) to(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) loud(3) enough(4) to(5) damage(6) your(7) hearing(8) as(9) it(10) is(11) ,(12) even_though(13) it(14) can(15) not(16) touch(17) the(18) bone-jarring(19) thrum(20) of(21) the(22) Monsoon(23) system(24) found(25) in(26) Trans_Ams(27) .(28) 
+			<opinion polarity="+" feature="sound system" opWords="3,4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) 'll(2) say(3) one(4) thing(5) :(6) for(7) Ferrari(8) looks(9) at(10) a(11) cheap(12) price(13) ,(14) these(15) cars(16) are(17) unbeatable(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="18"/>
+			<opinion polarity="+" feature="price" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="12">
+			My(1) '(2) Bird(3) has(4) a(5) so-called(6) "(7) performance(8) "(9) package(10) that(11) includes(12) rectangular(13) dual(14) exhaust(15) ports(16) and(17) ...(18) special(19) tires(20) or(21) something(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Everything(1) about(2) the(3) exterior(4) of(5) this(6) car(7) ,(8) from(9) the(10) nostrils(11) up_front(12) to(13) the(14) spoiler(15) and(16) honeycomb(17) taillights(18) at(19) the(20) back(21) ,(22) screams(23) "(24) energy(25) .(26) "(27) Yet(28) ,(29) as(30) I(31) 'll(32) explain(33) in(34) a(35) minute(36) ,(37) this(38) is(39) not(40) all(41) a(42) good(43) thing(44) .(45) 
+		</sentence>
+		<sentence id="14">
+			Firebirds(1) look(2) better(3) than(4) Camaros(5) ,(6) and(7) avoid(8) much(9) ((10) not(11) all(12) ,(13) but(14) much(15) )(16) of(17) Camaros(18) '(19) "(20) redneck(21) "(22) stigma(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			After(1) all(2) ,(3) was(4) David_Hasselhoff(5) a(6) redneck(7) ?(8) 
+		</sentence>
+		<sentence id="16">
+			I(1) think(2) not(3) !(4) 
+		</sentence>
+		<sentence id="17">
+			Let(1) 's(2) not(3) talk(4) about(5) Burt_Reynolds(6) ,(7) though(8) ...(9) The(10) T-tops(11) are(12) fun(13) when(14) the(15) weather(16) 's(17) right(18) ((19) in(20) other(21) words(22) ,(23) when(24) it(25) 's(26) sunny(27) but(28) not(29) too(30) hot(31) ,(32) making(33) them(34) ideal(35) to(36) remove(37) in(38) the(39) spring(40) and(41) fall(42) but(43) uncomfortable(44) during(45) the(46) hot(47) and(48) humid(49) days(50) of(51) dead(52) Summer(53) )(54) .(55) 
+			<opinion polarity="-" feature="comfort" opWords="44"/>
+		</sentence>
+		<sentence id="18">
+			They(1) can(2) be(3) removed(4) and(5) locked(6) under(7) the(8) hatch(9) in(10) a(11) matter(12) of(13) minutes(14) ,(15) and(16) offer(17) more(18) security(19) than(20) a(21) ragtop(22) ((23) to(24) say(25) nothing(26) of(27) giving(28) the(29) car(30) a(31) more(32) "(33) solid(34) "(35) appearance(36) when(37) attached(38) ,(39) if(40) that(41) 's(42) your(43) cup(44) of(45) tea(46) )(47) .(48) 
+		</sentence>
+		<sentence id="19">
+			The(1) air-conditioning(2) system(3) in(4) my(5) Firebird(6) leaves(7) a_lot(8) to(9) be(10) desired(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			You(1) have(2) to(3) crank(4) it(5) to(6) "(7) max(8) "(9) to(10) really(11) feel(12) anything(13) ,(14) and(15) even(16) then(17) the(18) five(19) small(20) circular(21) vents(22) ((23) another(24) feature(25) with(26) looks(27) prioritized(28) over(29) functionality(30) )(31) take(32) quite(33) a(34) while(35) to(36) cool(37) the(38) car(39) down(40) .(41) 
+		</sentence>
+		<sentence id="21">
+			In_all(1) honesty(2) ,(3) I(4) 'd(5) say(6) that(7) ,(8) on(9) a(10) hot(11) day(12) ,(13) it(14) takes(15) every(16) bit(17) of(18) ten(19) minutes(20) of(21) running(22) the(23) air(24) full(25) blast(26) to(27) get(28) the(29) car(30) comfortable(31) to(32) drive(33) .(34) 
+			<opinion polarity="+" feature="comfort" opWords="31"/>
+		</sentence>
+		<sentence id="22">
+			No(1) real(2) security(3) system(4) on(5) this(6) "(7) bad(8) boy(9) .(10) "(11) For(12) all(13) of(14) its(15) dazzling(16) looks(17) ,(18) there(19) are(20) many(21) other(22) cars(23) out(24) there(25) more(26) worth(27) a(28) thief(29) 's(30) time(31) than(32) a(33) bone-stock(34) V6(35) Pontiac(36) .(37) 
+			<opinion polarity="+" feature="design" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="23">
+			Time(1) for(2) the(3) "(4) why(5) oh(6) why(7) "(8) segment(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Why(1) did(2) I(3) want(4) one(5) of(6) these(7) cars(8) ?(9) 
+		</sentence>
+		<sentence id="25">
+			I(1) wanted(2) to(3) look(4) cool(5) as(6) I(7) tooled(8) about(9) town(10) ,(11) and(12) what(13) better(14) way(15) than(16) in(17) such(18) a(19) sleek(20) ,(21) benostriled(22) ,(23) low(24) ,(25) racy(26) ,(27) scoopy(28) ,(29) muscle-car-heritage-carrying(30) ,(31) t-top-equipped(32) ,(33) dual-exhaust-sporting(34) car(35) ?(36) 
+			<opinion polarity="+" feature="design" opWords="20"/>
+		</sentence>
+		<sentence id="26">
+			Makes(1) sense(2) ,(3) right(4) ?(5) 
+		</sentence>
+		<sentence id="27">
+			Let(1) me(2) put(3) it(4) in(5) plain(6) English(7) :(8) I(9) was(10) suckered(11) in(12) by(13) the(14) flashy(15) appearance(16) of(17) this(18) car(19) and(20) refused(21) to(22) listen(23) to(24) that(25) little(26) voice(27) inside(28) my(29) head(30) that(31) said(32) "(33) But(34) it(35) will(36) not(37) really(38) be(39) fast(40) ,(41) it(42) just(43) looks(44) fast(45) !(46) Think(47) things(48) through(49) ,(50) Wes(51) !(52) "(53) For(54) all(55) of(56) its(57) visual(58) appeal(59) ,(60) the(61) V6(62) Firebird(63) is(64) still(65) a(66) grossly(67) underpowered(68) car(69) .(70) 
+			<opinion polarity="-" feature="horsepower" opWords="68" potency="67"/>
+		</sentence>
+		<sentence id="28">
+			Its(1) 3.8(2) liter(3) pushrod(4) engine(5) only(6) puts(7) out(8) 200(9) horsepower(10) .(11) 
+		</sentence>
+		<sentence id="29">
+			That(1) 's(2) not(3) much(4) by(5) sports-car(6) standards(7) .(8) 
+		</sentence>
+		<sentence id="30">
+			I(1) 'll(2) sum(3) this(4) up(5) in(6) a(7) pellucid(8) paragraph(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			Being(1) 200(2) horsepower(3) makes(4) you(5) faster(6) than(7) the(8) family(9) station(10) wagon(11) ,(12) but(13) still(14) FAR(15) too(16) slow(17) to(18) run(19) with(20) a(21) serious(22) sports(23) car(24) ((25) and(26) for(27) the(28) record(29) ,(30) I(31) draw(32) the(33) "(34) serious(35) "(36) line(37) about(38) 300hp(39) )(40) .(41) 
+			<opinion polarity="-" feature="speed" opWords="16,17"/>
+		</sentence>
+		<sentence id="32">
+			Your(1) Firebird(2) 's(3) looks(4) might(5) razzle-dazzle(6) people(7) who(8) have(9) no(10) clue(11) about(12) cars(13) ,(14) but(15) all(16) that(17) glitters(18) is(19) ultimately(20) not(21) gold(22) .(23) 
+		</sentence>
+		<sentence id="33">
+			There(1) are(2) many(3) cars(4) capable(5) of(6) leaving(7) me(8) in(9) the(10) dust(11) ,(12) and(13) their(14) owners(15) often(16) laugh(17) at(18) the(19) owners(20) of(21) V6(22) Firebirds(23) .(24) 
+		</sentence>
+		<sentence id="34">
+			While(1) it(2) 's(3) a(4) trite(5) expression(6) ,(7) it(8) 's(9) never(10) been(11) more(12) appropriate(13) :(14) This(15) car(16) is(17) a(18) sheep(19) in(20) wolf(21) 's(22) clothing(23) .(24) 
+		</sentence>
+		<sentence id="35">
+			Time(1) to(2) wind(3) things(4) down(5) with(6) a(7) list(8) of(9) remaining(10) concerns(11) to(12) cover(13) :(14) 1(15) .(16) 
+		</sentence>
+		<sentence id="36">
+			I(1) am(2) not(3) a(4) "(5) gearhead(6) "(7) and(8) make(9) no(10) claim(11) to(12) know(13) more(14) about(15) cars(16) than(17) the(18) average(19) person(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			Believe(1) it(2) or(3) not(4) ,(5) men(6) are(7) not(8) born(9) with(10) automotive(11) omniscience(12) .(13) 2(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			I(1) do(2) not(3) drive(4) a(5) manual(6) because(7) I(8) do(9) not(10) FREAKIN(11) '(12) WANT_TO(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			I(1) never(2) even(3) learned(4) ,(5) and(6) I(7) consider(8) driving(9) to(10) be(11) enough(12) work(13) without(14) reaching(15) down(16) for(17) a(18) knob(19) all(20) the(21) time(22) .(23) 3(24) .(25) 
+		</sentence>
+		<sentence id="40">
+			I(1) know(2) a(3) V6(4) Firebird(5) can(6) be(7) modified(8) ,(9) but(10) why(11) lay(12) big(13) bucks(14) to(15) gain(16) 20(17) or(18) 30(19) horsepower(20) and(21) STILL(22) be(23) a(24) slug(25) ?(26) 4(27) .(28) 
+		</sentence>
+		<sentence id="41">
+			I(1) do(2) not(3) know(4) why(5) F-bodies(6) were(7) not(8) selling(9) or(10) all(11) the(12) whys(13) and(14) wherefores(15) of(16) their(17) production(18) demise(19) in_2002(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			Nor(1) could(2) I(3) contribute(4) any(5) better(6) discussion(7) to(8) this(9) topic(10) than(11) has(12) already(13) been(14) contributed(15) by(16) other(17) men(18) and(19) women(20) .(21) 5(22) .(23) 
+		</sentence>
+		<sentence id="43">
+			Of(1) course(2) I(3) thought(4) about(5) getting(6) a(7) Trans_Am(8) ,(9) what(10) kind(11) of(12) question(13) is(14) that(15) ?(16) !(17) 
+		</sentence>
+		<sentence id="44">
+			I(1) 'm(2) 22(3) years(4) old(5) and(6) the(7) insurance(8) would(9) have(10) been(11) MURDER(12) !(13) 6(14) .(15) 
+		</sentence>
+		<sentence id="45">
+			I(1) should(2) have(3) gotten(4) a(5) Mitsubishi(6) 3000(7) GT(8) .(9) 
+		</sentence>
+		<sentence id="46">
+			These(1) cars(2) look(3) as(4) good(5) as(6) firebirds(7) ((8) if_not(9) better(10) )(11) and(12) can(13) actually(14) back(15) it(16) up(17) ,(18) while(19) still(20) being(21) V6(22) 's(23) .(24) 7(25) .(26) 
+		</sentence>
+		<sentence id="47">
+			If(1) you(2) bought(3) a(4) Mitsubishi(5) 3000(6) GT(7) ,(8) pat(9) yourself(10) on(11) the(12) back(13) .(14) 
+		</sentence>
+		<sentence id="48">
+			You(1) are(2) wiser(3) than(4) me(5) ,(6) and(7) less(8) impulsive(9) .(10) 
+		</sentence>
+		<sentence id="49">
+			do(1) not(2) buy(3) a(4) sports(5) car(6) based(7) entirely(8) on(9) looks(10) Make(11) sure(12) it(13) 's(14) fast(15) ,(16) too(17) .(18) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="2,3"/>
+		</sentence>
+		<sentence id="50">
+			Peace(1) !(2) 
+		</sentence>
+		<sentence id="51">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Base(16) coupe(17) ,(18) V6(19) performance(20) pack(21) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="620" item="Anabella Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) Bad(2) ,(3) But_Not_Good(4) 
+			<opinion polarity="+" feature="hotel" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Restaurant(1) and(2) Adult_Only_Pool(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Customer_Service(1) ,(2) Front_Desk(3) ,(4) Ants(5) in(6) Room(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) for(2) business(3) men(4) and(5) women(6) because_of(7) the(8) good(9) restaurant(10) and(11) right(12) by(13) the(14) convention(15) center(16) .(17) 
+			<opinion polarity="+" feature="food" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			Bad(1) for(2) families(3) wanting(4) the(5) disney(6) experience(7) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) found(2) out(3) about(4) the(5) Anabella(6) through(7) Get_Away_Today_Vacations(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) mid-priced(3) and(4) did(5) not(6) increased(7) Peak_Season(8) prices(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			We(1) decided(2) to(3) stay(4) there(5) for(6) 4(7) days(8) during(9) our(10) honeymoon(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) thing(3) was(4) that(5) they(6) do(7) not(8) have(9) a(10) airport(11) shuttle(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) a(3) plus(4) ,(5) but(6) not(7) a(8) big(9) deal(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			We(1) arrived(2) a(3) little(4) early(5) and(6) hoped(7) they(8) might(9) have(10) a(11) room(12) available(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			They(1) did(2) not(3) even(4) check(5) ,(6) just(7) put(8) our(9) luggage(10) in(11) a(12) room(13) and(14) told(15) us(16) to(17) come(18) back(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			We(1) walked(2) to(3) Disneyland(4) ((5) once(6) again(7) ,(8) no(9) shuttle(10) )(11) It(12) is(13) across(14) the(15) street(16) ,(17) but(18) it(19) took(20) a(21) good(22) 20(23) min.(24) to(25) get(26) there(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			We(1) did(2) notice(3) a(4) park(5) lot(6) entrance(7) after(8) that(9) that(10) reduced(11) the(12) time(13) to(14) 10(15) mins(16) and(17) then(18) a(19) parking(20) lot(21) shuttle(22) ride(23) ((24) recommended(25) )(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			After(1) we(2) got(3) back(4) to(5) the(6) hotel(7) ,(8) we(9) had(10) an(11) extremely(12) hard(13) time(14) getting(15) help(16) with(17) our(18) luggage(19) and(20) getting(21) help(22) at(23) all(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			We(1) waited(2) about(3) 20(4) mins(5) .(6) for(7) the(8) luggage(9) guy(10) to(11) get(12) off(13) the(14) phone(15) ,(16) then(17) he(18) got(19) our(20) luggage(21) and(22) took(23) us(24) to(25) a(26) golf(27) cart(28) and(29) left(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			We(1) waited(2) there(3) for(4) about(5) 5(6) mins(7) and(8) finally(9) my(10) husband(11) got(12) mad(13) and(14) grabbed(15) the(16) luggage(17) and(18) carried(19) to(20) our(21) room(22) .(23) ((24) which(25) was(26) across(27) the(28) resort(29) )(30) The(31) room(32) was(33) nice(34) ,(35) with(36) updated(37) decor(38) and(39) marble(40) ,(41) but(42) there(43) were(44) some(45) ants(46) on(47) the(48) floor(49) .(50) 
+			<opinion polarity="+" feature="rooms" featWords="32" opWords="34"/>
+			<opinion polarity="+" feature="decoration" featWords="38" opWords="37"/>
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) not(3) spotless(4) ,(5) but(6) clean(7) .(8) 
+			<opinion polarity="-" feature="rooms" featWords="1" featRef="rooms" opWords="3,4"/>
+			<opinion polarity="+" feature="rooms" featWords="1" featRef="rooms" opWords="7"/>
+		</sentence>
+		<sentence id="14">
+			We(1) then(2) went(3) to(4) eat(5) at(6) the(7) restaurant(8) ,(9) The_Tangerine(10) ,(11) which(12) was(13) very(14) good(15) with(16) good(17) service(18) throughout(19) the(20) whole(21) stay(22) .(23) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="15" potency="14"/>
+			<opinion polarity="+" feature="service" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="15">
+			When(1) we(2) returned(3) to(4) the(5) room(6) ,(7) we(8) had(9) received(10) a(11) message(12) on(13) the(14) phone(15) from(16) the(17) luggage(18) guy(19) apologizing(20) and(21) he(22) also(23) left(24) us(25) to(26) boxes(27) of(28) chocolates(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			We(1) felt(2) a(3) little(4) better(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			The(1) adult(2) pool(3) was(4) nice(5) .(6) 
+			<opinion polarity="+" feature="swimming pool" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			We(1) think(2) the(3) Anabella(4) is(5) OK(6) ,(7) but(8) probably(9) not(10) stay(11) there(12) again(13) .(14) 
+			<opinion polarity="+" feature="hotel" opWords="6"/>
+			<opinion polarity="-" feature="hotel" opWords="10,11"/>
+		</sentence>
+	</text>
+</review>

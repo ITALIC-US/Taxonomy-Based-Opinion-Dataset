@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="420" item="Quality Inn/Allentown, PA" rating="2">
+	<title>
+		<sentence id="1">
+			No(1) Quality(2) in(3) this(4) Hotel(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Prices(1) near(2) the(3) park(4) can(5) be(6) from(7) $50(8) -(9) $120(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) was(2) not(3) impressed(4) with(5) this(6) hotel(7) at(8) all(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Most(1) likely(2) will(3) not(4) return(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) July(2) several(3) family(4) members(5) went(6) to(7) Dorney_Park(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) not(3) sure(4) whether(5) to(6) go(7) or(8) not(9) till(10) the(11) last(12) minute(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			My(1) daughter(2) went(3) online(4) and(5) did(6) some(7) research(8) for(9) a(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Since(1) she(2) has(3) gone(4) away(5) more(6) than(7) me(8) ,(9) I(10) knew(11) she(12) would(13) find(14) a(15) reasonable(16) place(17) in(18) the(19) vicinity(20) of(21) our(22) destination(23) and(24) she(25) booked(26) a(27) room(28) for(29) 2(30) nights(31) .(32) 
+			<opinion polarity="+" feature="place" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="5">
+			I(1) could(2) have(3) stayed(4) in(5) their(6) room(7) since(8) we(9) were(10) only(11) planning(12) on(13) using(14) the(15) room(16) to(17) sleep(18) and(19) change(20) our(21) clothes(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			A_second(1) room(2) was(3) not(4) that(5) important(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) did(2) go(3) online(4) to(5) check(6) out(7) the(8) hotel(9) and(10) prices(11) just(12) for(13) information(14) and(15) printed(16) out(17) the(18) rates(19) I(20) had(21) seen(22) just_in_case(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			We(1) had(2) mapped(3) out(4) 2(5) different(6) directions(7) for(8) the(9) park(10) and(11) the(12) hotel(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) directions(2) from(3) NJ(4) to(5) the(6) hotel(7) were(8) a_bit(9) confusing(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			While(1) driving(2) to(3) the(4) hotel(5) ,(6) I(7) noticed(8) a(9) billboard(10) advertising(11) the(12) Quality_Inn(13) we(14) were(15) headed(16) for(17) and(18) it(19) stated(20) "(21) Rooms(22) for(23) $49(24) "(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			Problem(1) #(2) 1(3) The(4) hotel(5) was(6) not(7) visible(8) from(9) the(10) road(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) sign(2) is(3) only(4) above(5) the(6) hotel(7) and(8) we(9) almost(10) missed(11) it(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Problem(1) #(2) 2(3) Upon(4) our(5) arrival(6) at(7) the(8) hotel(9) ,(10) I(11) decided(12) I(13) wanted(14) my(15) own(16) room(17) and(18) asked(19) about(20) a(21) smoking(22) room(23) which(24) I(25) knew(26) they(27) had(28) from(29) the(30) website(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			He(1) was(2) going(3) to(4) charge(5) me(6) the(7) same(8) as(9) my(10) daughter(11) but(12) I(13) brought(14) up(15) that(16) I(17) had(18) seen(19) on(20) the(21) website(22) ((23) 50(24) )(25) "(26) Mature_Traveler(27) "(28) is(29) less(30) and(31) I(32) got(33) him(34) to(35) lower(36) the(37) price(38) .(39) 
+		</sentence>
+		<sentence id="15">
+			When(1) I(2) asked(3) about(4) the(5) $49(6) sign(7) on(8) the(9) road(10) he(11) did(12) not(13) have(14) a(15) good(16) answer(17) for(18) me(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			Problem(1) #(2) 3(3) I(4) was(5) given(6) a(7) room(8) on(9) the(10) 4th(11) floor(12) since(13) I(14) asked(15) for(16) a(17) smoking(18) room(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			When(1) I(2) went(3) to(4) the(5) 4th(6) floor(7) ,(8) the(9) smell(10) was(11) so(12) bad(13) I(14) wanted(15) to(16) switch(17) my(18) room(19) to(20) a(21) non-smoking(22) room(23) and(24) he(25) would(26) not(27) change(28) it(29) .(30) 
+		</sentence>
+		<sentence id="18">
+			What(1) transpired(2) is(3) a(4) long(5) story(6) in(7) which(8) after(9) 3(10) attempts(11) from(12) each(13) of(14) us(15) ,(16) he(17) did(18) give(19) me(20) a(21) room(22) on(23) the(24) 3rd(25) floor(26) and(27) said(28) he(29) had(30) no(31) rooms(32) on(33) the(34) 2nd(35) by(36) my(37) daughter(38) 's(39) floor(40) .(41) 
+		</sentence>
+		<sentence id="19">
+			Problem(1) #(2) 4(3) My(4) other(5) daughter(6) who(7) was(8) planning(9) on(10) going(11) back(12) to(13) NJ(14) decided(15) to(16) stay(17) overnight(18) since(19) there(20) was(21) a(22) bad(23) thunderstorm(24) in(25) Allentown(26) that(27) evening(28) and(29) decided(30) to(31) get(32) room(33) at(34) the(35) hotel(36) .(37) 
+		</sentence>
+		<sentence id="20">
+			Since(1) she(2) did(3) not(4) know(5) what(6) we(7) paid(8) ,(9) and(10) we(11) did(12) not(13) talk(14) prior(15) ,(16) he(17) charged(18) her(19) $79(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			At(1) that(2) point(3) ,(4) we(5) were(6) so(7) tired(8) ,(9) it(10) was(11) late(12) we(13) just(14) wanted(15) to(16) relax(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			But(1) he(2) gave(3) her(4) a(5) room(6) on(7) the(8) 2nd(9) floor(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			Funny(1) an(2) hour(3) earlier(4) he(5) told(6) me(7) he(8) had(9) no(10) rooms(11) on(12) the(13) 2nd(14) floor(15) for(16) me(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Problem(1) #(2) 5(3) When(4) we(5) returned(6) from(7) Dorney_Park(8) at(9) dinnertime(10) to(11) change(12) ,(13) we(14) noticed(15) my(16) room(17) was(18) cleaned(19) up(20) but(21) my(22) daughter(23) 's(24) was(25) not(26) .(27) 
+		</sentence>
+		<sentence id="25">
+			They(1) were(2) given(3) towels(4) .(5) 
+		</sentence>
+		<sentence id="26">
+			That(1) was(2) not(3) a(4) big(5) deal(6) to(7) us(8) .(9) 
+		</sentence>
+		<sentence id="27">
+			Problem(1) #(2) 6(3) While_I(4) was(5) in(6) the(7) lobby(8) ,(9) I(10) overheard(11) a(12) man(13) asking(14) for(15) prices(16) for(17) a(18) room(19) and(20) the(21) man(22) at(23) the(24) desk(25) told(26) him(27) the(28) price(29) was(30) $99(31) .(32) 
+		</sentence>
+		<sentence id="28">
+			The(1) man(2) did(3) not(4) stay(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			This(1) leads(2) me(3) to(4) believe(5) you(6) get(7) charged(8) what(9) they(10) want(11) to(12) charge(13) at(14) the(15) time(16) you(17) get(18) a(19) room(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			About(1) the(2) Quality_Inn_I(3) have(4) gone(5) to(6) other(7) Quality_Inns(8) which(9) were(10) much(11) better(12) than(13) this(14) with(15) large(16) lobbies(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			The(1) outside_of(2) this(3) hotel(4) is(5) very(6) plain(7) and(8) looks(9) like(10) it(11) needs(12) repairs(13) which(14) I(15) did(16) notice(17) vans(18) in(19) the(20) back(21) so(22) it(23) must(24) be(25) getting(26) some(27) type(28) of(29) repairs(30) .(31) 
+		</sentence>
+		<sentence id="32">
+			The(1) hotel(2) does(3) not(4) face(5) the(6) road(7) and(8) can(9) be(10) missed(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			There(1) is(2) only(3) a(4) gas(5) station(6) and(7) a(8) car(9) dealer(10) in(11) the(12) area(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			For(1) anything(2) else(3) ,(4) you(5) must(6) drive(7) away(8) to(9) it(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			This(1) hotel(2) had(3) a(4) small(5) reception(6) desk(7) at(8) the(9) entrance(10) and(11) a(12) small(13) living(14) room(15) type(16) sitting(17) area(18) to(19) the(20) right(21) similar(22) to(23) a(24) home(25) with(26) a(27) 32(28) "(29) TV(30) .(31) There(32) are(33) 4(34) floors(35) in(36) which(37) each(38) has(39) about(40) 22(41) rooms(42) .(43) The(44) rooms(45) are(46) all(47) decorated(48) the(49) same(50) from(51) what(52) I(53) could(54) see(55) when(56) walking(57) by(58) and(59) the(60) doors(61) were(62) opened(63) .(64) 
+			<opinion polarity="-" feature="front desk" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="36">
+			I(1) did(2) notice(3) some(4) rooms(5) had(6) a(7) table(8) and(9) 2(10) chairs(11) and(12) some(13) rooms(14) had(15) a(16) desk(17) and(18) a(19) desk(20) chair(21) .(22) 
+		</sentence>
+		<sentence id="37">
+			As(1) you(2) enter(3) a(4) room(5) with(6) a(7) plastic(8) card(9) that(10) says(11) on(12) it(13) "(14) For(15) room(16) service(17) ,(18) call(19) Domino(20) 's(21) "(22) ,(23) to(24) the(25) left(26) is(27) a(28) vanity(29) sink(30) with(31) a(32) mirror(33) above(34) it(35) .(36) 
+		</sentence>
+		<sentence id="38">
+			To(1) the(2) left(3) of(4) the(5) mirror(6) there(7) is(8) a(9) blow(10) dryer(11) .(12) 
+		</sentence>
+		<sentence id="39">
+			To(1) the(2) right(3) of(4) the(5) entrance(6) door(7) there(8) is(9) the(10) bathroom(11) .(12) 
+		</sentence>
+		<sentence id="40">
+			It(1) had(2) 2(3) towels(4) of(5) each(6) size(7) over(8) the(9) toilet(10) on(11) a(12) shelf(13) and(14) the(15) bathtub(16) with(17) a(18) shower(19) .(20) 
+		</sentence>
+		<sentence id="41">
+			The(1) bathroom(2) was(3) small(4) .(5) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="42">
+			It(1) appeared(2) clean(3) and(4) everything(5) was(6) solid(7) color(8) no(9) fancy(10) stuff(11) .(12) 
+		</sentence>
+		<sentence id="43">
+			When(1) you(2) pass(3) the(4) vanity(5) /(6) hallway(7) the(8) bed(9) is(10) on(11) the(12) right(13) with(14) 2(15) nightstands(16) with(17) simple(18) lights(19) and(20) a(21) tall(22) floor(23) lamp(24) .(25) 
+		</sentence>
+		<sentence id="44">
+			There(1) were(2) plain(3) solid(4) color(5) room(6) darkening(7) brown(8) curtains(9) .(10) 
+		</sentence>
+		<sentence id="45">
+			Under(1) the(2) window(3) was(4) the(5) AC(6) which(7) was(8) very(9) noisy(10) .(11) 
+			<opinion polarity="-" feature="air conditioning units" featWords="6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="46">
+			On(1) the(2) left(3) side(4) of(5) the(6) room(7) ,(8) there(9) was(10) a(11) small(12) desk(13) with(14) a(15) phone(16) and(17) a(18) desk(19) chair(20) ,(21) a(22) piece(23) of(24) furniture(25) that(26) held(27) the(28) 25(29) "(30) TV(31) ((32) just(33) your(34) basic(35) nothing(36) fancy(37) ,(38) but(39) it(40) worked(41) )(42) with(43) 3(44) drawers(45) .(46) Next(47) to(48) TV(49) was(50) a(51) coffeemaker(52) with(53) 2(54) envelopes(55) of(56) coffee(57) ((58) decaf(59) &(60) regular(61) )(62) and(63) the(64) supplies(65) to(66) make(67) the(68) coffee(69) over(70) a(71) compact(72) refrigerator(73) .(74) To(75) the(76) left(77) of(78) the(79) refrigerator(80) was(81) a(82) safe(83) on(84) the(85) floor(86) .(87) Right(88) beside(89) the(90) safe(91) was(92) an(93) open(94) area(95) with(96) hangers(97) and(98) a(99) rod(100) for(101) your(102) clothes(103) .(104) Next(105) to(106) the(107) open(108) closet(109) was(110) an(111) ironing(112) board(113) and(114) an(115) iron(116) .(117) The(118) flooring(119) was(120) a(121) multi-colored(122) dark(123) carpet(124) which(125) was(126) slightly(127) stained(128) but(129) not(130) dirty(131) .(132) The(133) bed(134) was(135) comfortable(136) .(137) The(138) toiletries(139) included(140) Cambria_&_Taylor(141) soaps(142) and(143) White_Rain(144) shampoo(145) &(146) conditioner(147) which(148) I(149) was(150) glad(151) because(152) I(153) forgot(154) my(155) conditioner(156) at(157) home(158) and(159) a(160) tube(161) of(162) hand(163) lotion(164) .(165) These(166) were(167) the(168) standard(169) hotel(170) size(171) .(172) In(173) the(174) lobby(175) there(176) are(177) machines(178) for(179) milk(180) &(181) juice(182) ,(183) cost(184) $.60(185) and(186) 2(187) other(188) machines(189) with(190) various(191) foods(192) and(193) candy(194) .(195) They(196) also(197) have(198) a(199) laundry(200) room(201) with(202) a(203) washer(204) and(205) dryer(206) .(207) I(208) believe(209) the(210) charge(211) is(212) $(213) 2(214) to(215) wash(216) your(217) laundry(218) .(219) It(220) is(221) located(222) next(223) to(224) the(225) elevator(226) .(227) There(228) is(229) no(230) pool(231) ,(232) but(233) we(234) did(235) not(236) mind(237) since(238) we(239) were(240) going(241) to(242) a(243) water(244) park(245) .(246) They(247) have(248) a(249) free(250) continental(251) breakfast(252) consisting(253) of(254) muffins(255) ,(256) small(257) wrapped(258) cakes(259) ,(260) bagels(261) which(262) looked(263) like(264) Lender(265) 's(266) ,(267) cereal(268) in(269) containers(270) ,(271) coffee(272) ,(273) juice(274) ,(275) tea(276) .(277) I(278) guess(279) better(280) than(281) nothing(282) .(283) There(284) was(285) a(286) man(287) cleaning(288) in(289) this(290) room(291) while(292) people(293) were(294) eating(295) which(296) disturbed(297) me(298) since(299) the(300) room(301) was(302) not(303) that(304) big(305) and(306) found(307) that(308) to(309) be(310) rude(311) .(312) They(313) have(314) a(315) paper(316) at(317) the(318) desk(319) with(320) a(321) list(322) of(323) local(324) places(325) to(326) eat(327) or(328) order(329) for(330) delivery(331) since(332) they(333) do(334) not(335) have(336) a(337) restaurant(338) or(339) room(340) service(341) in(342) the(343) hotel(344) .(345) Overall(346) ***(347) 3(348) Location(349) ((350) 3-4_miles(351) away(352) from(353) Dorney_Park(354) )(355) *(356) 1(357) Prices(358) change(359) ****(360) 3(361) Free_Breakfast(362) **(363) 3(364) Room(365) appearance(366) .(367) 0(368) Management(369) ,(370) Ambiance(371) ****(372) 4(373) Comfort(374) ,(375) Convenience_Price(376) compared(377) to(378) others(379) in(380) area(381) As_I(382) mentioned(383) above(384) ,(385) prices(386) will(387) change(388) .(389) It(390) was(391) not(392) bad(393) ,(394) but(395) could(396) have(397) been(398) better(399) had(400) the(401) gentleman(402) registering(403) been(404) a_bit(405) pleasant(406) and(407) consistent(408) with(409) the(410) room(411) rates(412) .(413) I(414) was(415) not(416) aware(417) there(418) would(419) be(420) a(421) $(422) 1(423) per(424) day(425) charge(426) for(427) the(428) safe(429) in(430) the(431) room(432) .(433) I(434) do(435) not(436) think(437) we(438) would(439) go(440) back(441) there(442) if(443) we(444) go(445) back(446) to(447) Dorney_Park(448) and(449) spend(450) the(451) night(452) in(453) Allentown(454) ,(455) PA(456) .(457) I(458) would(459) rather(460) spend(461) a(462) few(463) more(464) dollars(465) and(466) get(467) a(468) better(469) hotel(470) .(471) ~(472) ~(473) ~(474) ~(475) ~(476) ~(477) Their(478) website(479) for(480) more(481) information(482) :(483) http://www.choicehotels.com/ires/en-US/html/HotelInfo?hotel=PA508(484) ((485) My(486) thanks(487) to(488) SurgRN911(489) for(490) adding(491) this(492) hotel(493) to(494) the(495) database(496) .(497) )(498) 
+			<opinion polarity="-" feature="carpets" featWords="124" opWords="128" potency="127"/>
+			<opinion polarity="+" feature="carpets" featWords="124" opWords="130,131"/>
+			<opinion polarity="+" feature="bed" featWords="134" opWords="136"/>
+			<opinion polarity="+" feature="food" featWords="252" opWords="250"/>
+		</sentence>
+	</text>
+</review>

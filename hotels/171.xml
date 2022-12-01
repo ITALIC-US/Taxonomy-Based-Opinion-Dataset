@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="171" item="Oasis Cancun - All Inclusive" rating="4">
+	<title>
+		<sentence id="1">
+			Oasis_Cancun(1) is(2) good(3) ,(4) but(5) Too_Damn_Hot(6) for(7) me(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Service(1) ,(2) Food(3) ,(4) Accomodations(5) ,(6) Fun(7) ,(8) Good(9) people(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) Hot(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Me(1) and(2) my(3) wife(4) had(5) a(6) lovely(7) time(8) at(9) this(10) resort(11) ,(12) and(13) would(14) recommend(15) it(16) to(17) anyone(18) .(19) 
+			<opinion polarity="+" feature="hotel" featWords="16" featRef="hotel" opWords="15"/>
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) our(3) first(4) time(5) to(6) mexico(7) ,(8) and(9) much(10) to(11) our(12) surprise(13) the(14) service(15) was(16) excellent(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			They(1) treated(2) us(3) very(4) nice(5) and(6) their(7) english(8) was(9) very(10) good(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			The(1) food(2) was(3) much(4) to(5) my(6) liking(7) and(8) we(9) did(10) not(11) get(12) ill(13) at(14) all(15) during(16) our(17) holiday(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) the(2) temperature(3) was(4) much(5) too(6) hot(7) for(8) my(9) wife(10) and(11) I(12) and(13) we(14) do(15) not(16) think(17) we(18) will(19) go(20) back(21) to(22) Mexico(23) ,(24) but(25) all(26) in_all(27) it(28) was(29) a(30) very(31) pleasant(32) experience(33) from(34) the(35) get(36) go(37) .(38) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) also(3) the(4) first(5) time(6) we(7) have(8) ordered(9) our(10) holiday(11) online(12) from(13) "(14) Resort_Holiday_Weeks(15) "(16) http://www.resortholidayweeks.com(17) I(18) was(19) hesitant(20) at(21) first(22) but(23) everything(24) worked(25) out(26) and(27) I(28) will(29) find(30) my(31) next(32) holiday(33) that(34) way(35) as_well(36) .(37) 
+		</sentence>
+	</text>
+</review>

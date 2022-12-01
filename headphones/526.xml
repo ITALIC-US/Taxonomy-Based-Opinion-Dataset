@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="526" item="Sennheiser HDC 451 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Excellent(1) low-cost(2) noise(3) reducing(4) headphones(5) ,(6) bad(7) durability(8) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="2"/>
+			<opinion polarity="-" feature="durability" featWords="8" opWords="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low(1) cost(2) ,(3) good(4) quality(5) sound(6) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) durability(2) ,(3) no(4) carrying(5) case(6) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'd(2) recommend(3) these(4) only(5) if(6) you(7) can(8) not(9) pay(10) for(11) a(12) better(13) version(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			While(1) the(2) sound(3) quality(4) is(5) good(6) ,(7) what(8) good(9) does(10) it(11) do(12) if(13) it(14) breaks(15) ?(16) 
+			<opinion polarity="+" feature="sound quality" featWords="3,4" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) got(2) the(3) Sennheiser_HDC(4) 451(5) headphones(6) because(7) I(8) travel(9) quite(10) a_bit(11) via(12) airplane(13) and(14) was(15) looking(16) for(17) a(18) pair(19) of(20) headphones(21) that(22) would(23) cancel(24) out(25) some(26) of(27) the(28) noise(29) from(30) the(31) plane(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			The(1) Bose(2) headphones(3) ,(4) while(5) second-to-none(6) ,(7) were(8) a_bit(9) expensive(10) at(11) around(12) $300(13) .(14) 
+			<opinion polarity="-" feature="price" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="3">
+			These(1) Sennheisers(2) were(3) only(4) $80(5) and(6) were(7) competitive(8) with(9) the(10) Bose(11) headphones(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) price(2) ,(3) as(4) they(5) say(6) ,(7) was(8) right(9) .(10) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			I(1) used(2) these(3) headphones(4) with(5) my(6) Panasonic_Panasonic(7) DVD-LS90(8) while(9) traveling(10) and(11) found(12) that(13) they(14) were(15) really(16) quite(17) effective(18) in(19) keeping(20) the(21) sound(22) of(23) the(24) plane(25) out(26) and(27) the(28) movie(29) sound(30) in(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			As(1) you(2) can(3) imagine(4) ,(5) I(6) was(7) excited(8) to(9) have(10) saved(11) the(12) $220(13) ,(14) but(15) it(16) was(17) not(18) meant(19) to(20) be(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			After(1) three(2) trips(3) to(4) and(5) from(6) conferences(7) in(8) Las_Vegas(9) ,(10) the(11) headphones(12) broke(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Any(1) time(2) I(3) turn(4) the(5) noise-cancelling(6) features(7) on(8) ,(9) it(10) makes(11) an(12) incredibly(13) loud(14) noise(15) in(16) my(17) ears(18) ,(19) similar(20) to(21) paper(22) being(23) ripped(24) a(25) gale-force(26) wind(27) blowing(28) across(29) your(30) eardrums(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			Needless(1) to(2) say(3) ,(4) I(5) was(6) quite(7) disappointed(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			The(1) warranty(2) does(3) not(4) cover(5) them(6) ,(7) so(8) I(9) 'm(10) out(11) $80(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			My(1) next(2) purchase(3) will(4) be(5) the(6) Bose(7) headphones(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			They(1) seem(2) to(3) be(4) more(5) durable(6) and(7) even(8) come(9) with(10) a(11) padded(12) leather(13) carrying(14) case(15) ((16) maybe(17) that(18) 's(19) why(20) these(21) broke(22) ,(23) they(24) come(25) with(26) no(27) case(28) )(29) .(30) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) like(3) my(4) father(5) always(6) said(7) ,(8) you(9) get(10) what(11) you(12) pay(13) for(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			These(1) were(2) great(3) headphones(4) until(5) they(6) died(7) on(8) me(9) !(10) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="3"/>
+		</sentence>
+	</text>
+</review>

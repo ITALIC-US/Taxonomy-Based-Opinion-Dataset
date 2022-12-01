@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="511" item="1993 Toyota Corolla" rating="2">
+	<title>
+		<sentence id="1">
+			Hopefully(1) they(2) 've(3) improved(4) ....(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) runs(2) good(3) for(4) a(5) while(6) 
+			<opinion polarity="+" feature="car" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) .(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) hoping(3) that(4) the(5) Corolla(6) has(7) improved(8) since(9) we(10) had(11) one(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) got(2) one(3) in_1994(4) and(5) it(6) was(7) a(8) 1993(9) model(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) was(3) not(4) only(5) too(6) small(7) for(8) us(9) after(10) just(11) a(12) couple(13) months(14) but(15) the(16) parts(17) were(18) hard(19) to(20) get(21) ,(22) and(23) expensive(24) ,(25) but(26) every(27) other(28) month(29) we(30) would(31) be(32) back(33) in(34) the(35) shop(36) trying(37) to(38) get(39) it(40) fixed(41) and(42) the(43) bills(44) would(45) be(46) outrageous(47) .(48) 
+			<opinion polarity="-" feature="price" opWords="24"/>
+			<opinion polarity="-" feature="size" opWords="6,7"/>
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) getting(4) ready(5) to(6) buy(7) a(8) car(9) ((10) especially(11) if(12) you(13) have(14) kids(15) because(16) it(17) 's(18) a(19) very(20) small(21) car(22) )(23) do(24) not(25) get(26) this(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			One(1) time(2) we(3) locked(4) the(5) keys(6) in(7) and(8) it(9) took(10) about(11) 2(12) hours(13) to(14) get(15) them(16) out(17) because(18) triple(19) A(20) did(21) not(22) bring(23) the(24) correct(25) tool(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			The(1) guy(2) said(3) that(4) he(5) had(6) never(7) needed(8) the(9) tool(10) so(11) he(12) never(13) brought(14) it(15) along(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			It(1) figures(2) that(3) the(4) Corolla(5) would(6) need(7) it(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) not(3) a(4) good(5) car(6) in(7) my(8) experience(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,5"/>
+		</sentence>
+		<sentence id="9">
+			Maybe(1) it(2) has(3) gotten(4) better(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			For(1) Toyota(2) 's(3) sake(4) ,(5) I(6) hope(7) so(8) .(9) 
+		</sentence>
+	</text>
+</review>

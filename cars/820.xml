@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="820" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			Head_Rests_of_Seats_Are_a_Wrong_Design(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Onstar(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wrong(1) head(2) rest(3) design(4) ,(5) poor(6) gas(7) mileage(8) 
+			<opinion polarity="-" feature="gas" featWords="7,8" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) bought(2) a(3) new(4) 2005(5) Chev_Equinox(6) ((7) LT(8) 4WD(9) )(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) found(2) soon(3) the(4) head(5) rests(6) of(7) seats(8) are(9) a(10) wrong(11) design(12) --(13) they(14) incline(15) ahead(16) too(17) much(18) which(19) put(20) your(21) head(22) nowhere(23) comfortably(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			In(1) fact(2) ,(3) it(4) 's(5) hurting(6) my(7) neck(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) no(3) way(4) but(5) switch(6) the(7) vehicle(8) with(9) my(10) wife(11) 's(12) car(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			I(1) contacted(2) the(3) dealership(4) and(5) GM(6) customer(7) service(8) but(9) was(10) told(11) that(12) was(13) what(14) they(15) were(16) designed(17) and(18) they(19) were(20) unable(21) to(22) handle(23) my(24) complaint(25) or(26) let(27) me(28) get(29) it(30) returned(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			I(1) 'm(2) now(3) contacting(4) my(5) lawyer(6) to(7) make(8) this(9) a(10) case(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) have(3) the(4) same(5) problem(6) with(7) this(8) vehicle(9) ,(10) pls(11) contact(12) me(13) at(14) gdnzhu@yahoo.com(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Let(1) 's(2) make(3) a(4) collective(5) case(6) to(7) get(8) things(9) corrected(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) need(3) photos(4) regarding(5) what(6) I(7) 'm(8) talking(9) about(10) ,(11) I(12) 'll(13) be(14) glad(15) emailing(16) them(17) to(18) you(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			Any(1) suggestions(2) to(3) me(4) on(5) how(6) to(7) better(8) handle(9) this(10) situation(11) will(12) be(13) highly(14) appreciated(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27600(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005(12) 
+		</sentence>
+	</text>
+</review>

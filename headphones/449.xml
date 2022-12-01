@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="449" item="Sennheiser PX 100 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Sennheiser(1) PX100(2) Open_Headphones(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Foldable(1) ,(2) portable(3) ,(4) carry-case(5) with(6) cable(7) manager(8) ,(9) efficient(10) .(11) 
+			<opinion polarity="+" feature="portability" opWords="1"/>
+			<opinion polarity="+" feature="portability" opWords="3"/>
+			<opinion polarity="+" feature="headphones" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Somewhat(1) flimsy(2) cable(3) ,(4) price(5) is(6) a_bit(7) too(8) high(9) .(10) 
+			<opinion polarity="-" feature="cord" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="price" featWords="5" opWords="8,9" potency="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) replacement(2) for(3) headphones(4) bundled(5) with(6) a(7) portable(8) player(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Unlike(1) their(2) closed(3) sibling(4) ,(5) the(6) PX200(7) ,(8) Sennheiser(9) PX100(10) are(11) actually(12) a(13) clean-sounding(14) pair(15) of(16) headphones(17) .(18) 
+			<opinion polarity="+" feature="sound quality" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			Overall(1) sound(2) presentation(3) is(4) a_tad(5) blurry(6) ,(7) as(8) with(9) most(10) "(11) mini(12) "(13) headphones(14) of(15) this(16) price(17) category(18) .(19) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			Bass(1) is(2) a_bit(3) too(4) strong(5) ((6) girlfriend(7) 's(8) first(9) question(10) after(11) putting(12) them(13) on(14) :(15) "(16) is(17) the(18) bass(19) boost(20) on(21) ?(22) "(23) )(24) ,(25) overall(26) sounding(27) can(28) be(29) somewhat(30) too(31) darkish(32) ,(33) but(34) the(35) imaging(36) is(37) rather(38) precise(39) for(40) the(41) size(42) and(43) money(44) asked(45) .(46) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="4,5" potency="3"/>
+			<opinion polarity="-" feature="sound quality" featWords="27" opWords="31,32"/>
+		</sentence>
+		<sentence id="4">
+			Timpani(1) sound(2) boomish(3) and(4) lack(5) some(6) of(7) their(8) contour(9) ,(10) but(11) still(12) significantly(13) better(14) than(15) some(16) other(17) headphones(18) in(19) the(20) class(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			There(1) 's(2) a(3) good(4) amount(5) of(6) detail(7) with(8) highpass(9) synths(10) "(11) popping(12) in(13) "(14) within(15) a(16) mix(17) where(18) they(19) ought(20) to(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Bass(1) can(2) be(3) somewhat(4) painful(5) ,(6) especially(7) after(8) full-size(9) and(10) headphones(11) with(12) a(13) more(14) balanced(15) reproduction(16) .(17) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			It(1) does(2) tend(3) to(4) overwhelm(5) everything(6) else(7) ,(8) but(9) it(10) does(11) not(12) mask(13) other(14) instruments(15) unlike(16) other(17) small(18) headphones(19) might(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Some(1) of(2) the(3) finer(4) and(5) subtler(6) pads(7) are(8) there(9) ,(10) but(11) they(12) 're(13) barely(14) present(15) though(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Revealing(1) the(2) PX100(3) are(4) not(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			The(1) PX100(2) are(3) foldable(4) ,(5) and(6) come(7) with(8) a(9) carry-case(10) with(11) a(12) cable(13) manager(14) .(15) 
+			<opinion polarity="+" feature="portability" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			Cups(1) swivel(2) ,(3) then(4) the(5) headband(6) collapses(7) ,(8) with(9) one(10) arm(11) being(12) laid(13) over(14) another(15) ((16) notch-to-notch(17) )(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			Cable(1) looks(2) a_bit(3) flimsy(4) though(5) ,(6) of(7) the(8) kind(9) that(10) usually(11) gets(12) spent(13) and(14) gets(15) a(16) faulty(17) contact(18) either(19) at(20) the(21) jack(22) or(23) the(24) earcup(25) .(26) 
+			<opinion polarity="-" feature="cord" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="13">
+			The(1) PX100(2) are(3) efficient(4) -(5) they(6) can(7) be(8) easily(9) driven(10) by(11) a(12) player(13) with(14) roughly(15) 1V(16) of(17) battery(18) power(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			PX100(1) are(2) bound(3) to(4) work(5) well(6) with(7) anything(8) that(9) has(10) a(11) headphone(12) jack(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Other(1) headphones(2) in(3) the(4) category(5) that(6) might(7) be(8) less(9) expensive(10) yet(11) are(12) a(13) match(14) to(15) ,(16) or(17) better(18) than(19) the(20) PX100(21) :(22) Grado_IGrado(23) ,(24) AKG(25) K-24P(26) ,(27) Koss_Porta-Pro(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			Or(1) ,(2) Grado(3) SR-60(4) for(5) just(6) a_bit(7) more(8) -(9) those(10) will(11) be(12) a(13) serious(14) upgrade(15) in(16) detail(17) ,(18) presence(19) and(20) resolution(21) .(22) 
+		</sentence>
+	</text>
+</review>

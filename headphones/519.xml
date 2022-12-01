@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="519" item="Sony MDR-V600 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Bitter(1) sweetness(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			very(1) comfortable(2) ,(3) great(4) bass(5) ,(6) extending(7) cord(8) ,(9) compact(10) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="size" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			broken(1) ,(2) price(3) ,(4) cords(5) too(6) long(7) sometimes(8) 
+			<opinion polarity="-" feature="cord" featWords="5" opWords="6,7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) if(3) your(4) not(5) going(6) to(7) stress(8) them(9) out(10) or(11) if(12) you(13) like(14) a_lot_of(15) bass(16) in(17) your(18) songs(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) .....(2) mine(3) are(4) broken(5) at(6) the(7) moment(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) the(3) second(4) time(5) for(6) me(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Although(1) they(2) put(3) out(4) amazing(5) bass(6) at(7) high(8) volumes(9) ,(10) the(11) cheap(12) plastic(13) construction(14) does(15) not(16) help(17) these(18) headphones(19) .(20) 
+			<opinion polarity="+" feature="bass" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="durability" featWords="14" opWords="12"/>
+			<opinion polarity="-" feature="durability" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			My(1) first(2) little(3) run-in(4) with(5) the(6) repair(7) shop(8) ended(9) with(10) a(11) $75(12) bill(13) to(14) re-connect(15) a(16) single(17) wire(18) that(19) broke(20) inside(21) the(22) ear(23) piece(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Right(1) now(2) ,(3) the(4) hinge(5) that(6) hold(7) the(8) speaker(9) on(10) is(11) in(12) two(13) pieces(14) and(15) I(16) have(17) not(18) taken(19) it(20) to(21) the(22) shop(23) again(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) cord(2) with(3) is(4) entire(5) 12(6) '(7) reach(8) when(9) fully(10) extended(11) was(12) perfect(13) for(14) my(15) bedroom(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) had(2) my(3) stereo(4) on(5) one(6) side(7) and(8) my(9) bed(10) on(11) the(12) other(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			I(1) could(2) use(3) these(4) headphones(5) to(6) block(7) out(8) all(9) sound(10) except(11) the(12) music(13) ((14) really(15) ticked(16) off(17) my(18) room-mate(19) )(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) speaker(2) casing(3) is(4) way(5) too(6) big(7) for(8) me(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			It(1) covers(2) half(3) of(4) my(5) head(6) when(7) I(8) have(9) them(10) on(11) and(12) I(13) look(14) like(15) Princess_Leah(16) from(17) "(18) Star_Wars(19) "(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			When(1) they(2) fold(3) up(4) ,(5) they(6) fit(7) nicely(8) ((9) and(10) with(11) much(12) trouble(13) )(14) onto(15) the(16) provided(17) carrying(18) bag(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="7,8"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="364" item="Masters Inn Garden City" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Bargain(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) drive(2) to(3) downtown(4) ,(5) Excellent_Bargain(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bedsheets(1) were(2) thin(3) .(4) 
+			<opinion polarity="-" feature="bedding" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Masters_Inn(2) is(3) an(4) excellent(5) bargain(6) for(7) the(8) budget-minded(9) consumer(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) recently(5) stayed(6) for(7) 3(8) nights(9) at(10) the(11) Masters_Inn(12) in(13) Garden_City(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) originally(2) tried(3) to(4) get(5) reservations(6) at(7) several(8) other(9) hotels(10) ,(11) but(12) it(13) was(14) a(15) holiday(16) weekend(17) and(18) most(19) were(20) booked(21) ((22) including(23) the(24) Masters_Inn(25) mid-town(26) Savannah(27) )(28) When(29) we(30) first(31) arrived(32) ,(33) the(34) lobby(35) was(36) clean(37) and(38) the(39) staff(40) was(41) friendly(42) .(43) 
+			<opinion polarity="+" feature="lobby" featWords="35" opWords="37"/>
+			<opinion polarity="+" feature="staff" featWords="40" opWords="42"/>
+		</sentence>
+		<sentence id="3">
+			We(1) checked(2) in(3) and(4) ventured(5) to(6) our(7) room(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Our(1) room(2) featured(3) a(4) king(5) size(6) bed(7) ,(8) a(9) cozy(10) table(11) and(12) chairs(13) ,(14) and(15) a(16) bathroom(17) with(18) a(19) toilet(20) and(21) shower(22) .(23) 
+			<opinion polarity="-" feature="tables" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			The(1) sink(2) was(3) outside_of(4) the(5) bathroom(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			The(1) bed(2) was(3) of(4) average(5) comfortable-ness(6) ,(7) but(8) the(9) sheets(10) very(11) thin(12) .(13) 
+			<opinion polarity="-" feature="bedding" featWords="10" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="7">
+			Fortunately(1) my(2) husband(3) and(4) I(5) always(6) travel(7) with(8) our(9) own(10) pillows(11) ,(12) as(13) the(14) ones(15) provided(16) here(17) were(18) very(19) small(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			The(1) TV(2) was(3) in(4) perfect(5) working(6) order(7) and(8) we(9) had(10) about(11) 70(12) channels(13) to(14) choose(15) from(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Of(1) course(2) we(3) did(4) not(5) watch(6) much(7) TV(8) ,(9) with(10) beautiful(11) Savannah(12) nearby(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) is(3) only(4) about(5) a(6) 5(7) minute(8) drive(9) from(10) downtown(11) River_Street(12) and(13) the(14) Historic_District(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) a(3) easy(4) drive(5) and(6) hard(7) to(8) get(9) lost(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			We(1) found(2) this(3) to(4) be(5) very(6) nice(7) ,(8) as(9) most(10) of(11) the(12) hotels(13) downtown(14) are(15) very(16) expensive(17) .(18) 
+			<opinion polarity="-" feature="price" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) a(3) bonus(4) to(5) be(6) within(7) close(8) driving(9) distance(10) and(11) still(12) be(13) getting(14) a(15) bargain(16) !(17) 
+		</sentence>
+		<sentence id="14">
+			The(1) malls(2) are(3) about(4) 10-15(5) minutes(6) away(7) ,(8) as(9) is(10) mid-town(11) Savannah(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) a(3) Dunkin_Donuts(4) right(5) across(6) the(7) street(8) from(9) the(10) hotel(11) which(12) we(13) had(14) coffee(15) and(16) bagels(17) from(18) every(19) morning(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) also(3) a(4) buffet(5) restaurant(6) attached(7) to(8) the(9) Masters_Inn(10) that(11) we(12) did(13) not(14) eat(15) at(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			The(1) bottom(2) line(3) is(4) if(5) you(6) are(7) looking(8) for(9) an(10) average(11) accomodations(12) within(13) close(14) distance(15) to(16) downtown(17) ,(18) the(19) Masters_Inn(20) in(21) Garden_City(22) is(23) just(24) fine(25) !(26) 
+		</sentence>
+		<sentence id="18">
+			Rooms(1) are(2) clean(3) and(4) spacious(5) .(6) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="5"/>
+		</sentence>
+	</text>
+</review>

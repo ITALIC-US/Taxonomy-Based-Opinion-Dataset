@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="870" item="Fifth Avenue Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			5th(1) Avenue(2) is(3) a(4) good(5) value(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Value(1) ,(2) Pleasant_Staff(3) ,(4) Free_Wine(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Valet_Parking(1) can(2) get(3) real(4) busy(5) ,(6) slow(7) elevators(8) ,(9) confusing(10) to(11) find(12) if(13) unfamiliar(14) with(15) whacky(16) Portland(17) streets(18) 
+			<opinion polarity="-" feature="elevator" featWords="8" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) have(5) been(6) here(7) maybe(8) three_times(9) in(10) the(11) past(12) four(13) years(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) been(3) able(4) to(5) consistently(6) get(7) some(8) good(9) rates(10) through(11) an(12) on-line(13) site(14) .(15) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			Finding(1) the(2) place(3) can(4) be(5) a(6) chore(7) with(8) the(9) one-ways(10) ,(11) the(12) transit(13) only(14) streets(15) /(16) sections(17) of(18) streets(19) ,(20) and(21) the(22) almost(23) hidden(24) entryway(25) ,(26) but(27) it(28) is(29) easy(30) going(31) once(32) you(33) 've(34) found(35) the(36) entryway(37) .(38) 
+		</sentence>
+		<sentence id="4">
+			The(1) valet(2) will(3) whisk(4) away(5) your(6) car(7) and(8) you(9) 'll(10) be(11) handed(12) a(13) little(14) ticket(15) stub(16) and(17) asked(18) if(19) you(20) need(21) help(22) with(23) your(24) bags(25) -(26) we(27) never(28) do(29) -(30) we(31) pack(32) light(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			They(1) actually(2) remember(3) us(4) and(5) I(6) wasn(7) t(8) driving(9) the(10) same(11) car(12) EACH(13) of(14) the(15) three_times(16) ...(17) either(18) they(19) are(20) really(21) good(22) ,(23) like(24) us(25) a_lot(26) ,(27) or(28) have(29) our(30) name(31) on(32) a(33) list(34) they(35) just(36) reviewed(37) with(38) all(39) the(40) people(41) checking(42) in(43) that(44) day(45) and(46) can(47) associate(48) the(49) first(50) name(51) given(52) the(53) last(54) -(55) anyway(56) ,(57) it(58) 's(59) a(60) nice(61) feeling(62) .(63) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) regularly(3) a(4) free(5) wine(6) /(7) martini(8) give(9) away(10) in(11) the(12) lobby(13) around(14) 5pm(15) ((16) ask(17) at(18) the(19) desk(20) )(21) on(22) Friday(23) and(24) Saturday(25) evenings(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			The(1) lobby(2) is(3) nice(4) enough(5) and(6) the(7) staff(8) is(9) always(10) willing(11) and(12) eager(13) to(14) help(15) ,(16) whether(17) on(18) the(19) phone(20) or(21) in(22) person(23) .(24) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) are(3) fine(4) -(5) I(6) 've(7) stayed(8) in(9) the(10) suites(11) and(12) a(13) regular(14) king(15) size(16) bedroom(17) .(18) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			The(1) suites(2) have(3) a(4) nice(5) set(6) of(7) French(8) doors(9) separating(10) the(11) bedroom(12) from(13) the(14) sitting(15) area(16) -(17) all(18) rooms(19) have(20) an(21) orangish(22) feel(23) and(24) the(25) same(26) piece(27) of(28) artwork(29) -(30) some(31) clown(32) on(33) a(34) ladder(35) in(36) orange(37) and(38) black(39) .(40) 
+		</sentence>
+		<sentence id="10">
+			Dimming(1) lights(2) in(3) the(4) bathroom(5) make(6) for(7) a(8) good(9) find(10) your(11) way(12) /(13) night(14) light(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Breakfast(1) in(2) the(3) morning(4) at(5) the(6) connected(7) restaurant(8) was(9) fine(10) -(11) a(12) little(13) pricey(14) for(15) a(16) couple(17) eggs(18) ,(19) but(20) are(21) not(22) most(23) of(24) the(25) restaurants(26) in(27) hotels(28) like(29) that(30) ?(31) ;(32) -(33) )(34) Good(35) location(36) -(37) walking(38) distance(39) to(40) a_lot(41) .(42) ((43) we(44) walk(45) a_lot(46) though(47) !(48) )(49) Go(50) for(51) a(52) good(53) steak(54) at(55) Ringside(56) ...(57) Portland(58) is(59) a(60) great(61) place(62) to(63) visit(64) .(65) 
+			<opinion polarity="+" feature="place" featWords="62" opWords="61"/>
+			<opinion polarity="+" feature="place" featWords="36" opWords="35"/>
+			<opinion polarity="-" feature="price" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="food" featWords="1" opWords="10"/>
+		</sentence>
+	</text>
+</review>

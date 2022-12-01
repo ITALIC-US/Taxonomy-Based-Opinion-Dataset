@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="142" item="Koss R-80 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) things(2) on(3) your(4) head(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) price(2) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			quality(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) some(4) headphones(5) with(6) good(7) sound(8) get(9) them(10) but(11) they(12) break(13) fast(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) pair(4) of(5) these(6) koss(7) headphones(8) and(9) im(10) not(11) complaining(12) about(13) the(14) quality(15) of(16) the(17) sound(18) but(19) the(20) they(21) just(22) break(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			One(1) day(2) i(3) brought(4) my(5) headphones(6) to(7) the(8) club(9) and(10) put(11) them(12) in(13) my(14) gym(15) bag(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Like(1) most(2) people(3) you(4) have(5) the(6) little(7) tiny(8) headphones(9) that(10) dont(11) keep(12) out(13) the(14) sound(15) of(16) other(17) people(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Well_i(1) left(2) my(3) headphones(4) in(5) my(6) bag(7) and(8) i(9) can(10) back(11) i(12) found(13) out(14) the(15) middle(16) part(17) of(18) the(19) headphone(20) that(21) holds(22) it(23) together(24) was(25) broken(26) .(27) it(28) was(29) just(30) smashed(31) in(32) half(33) .(34) so(35) know(36) i(37) just(38) hold(39) one(40) of(41) the(42) ear(43) peices(44) up(45) to(46) my(47) ear(48) and(49) let(50) the(51) other(52) dangle(53) .(54) 
+		</sentence>
+		<sentence id="5">
+			I(1) really(2) think(3) the(4) Craftsmanship(5) is(6) terrible(7) of(8) the(9) headphone(10) but(11) the(12) audio(13) is(14) crisp(15) and(16) clear(17) and(18) puts(19) out(20) loud(21) deep(22) rich(23) full(24) bass(25) .(26) 
+			<opinion polarity="+" feature="sound quality" featWords="13" opWords="15"/>
+			<opinion polarity="+" feature="sound quality" featWords="13" opWords="17"/>
+			<opinion polarity="+" feature="bass" featWords="25" opWords="21"/>
+			<opinion polarity="+" feature="bass" featWords="25" opWords="22"/>
+			<opinion polarity="+" feature="bass" featWords="25" opWords="23"/>
+			<opinion polarity="+" feature="bass" featWords="25" opWords="24"/>
+		</sentence>
+		<sentence id="6">
+			I(1) somewhat(2) recommend(3) these(4) but(5) bewarned(6) they(7) do(8) break(9) easly(10) so(11) be(12) careful(13) .(14) 
+		</sentence>
+	</text>
+</review>

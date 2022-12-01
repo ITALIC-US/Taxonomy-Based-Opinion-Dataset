@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="794" item="1998 BMW 5 Series" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) Special_Car_for_a_Special_Owner(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Safety(1) ,(2) performance(3) ,(4) luxury(5) and(6) that(7) "(8) legendary(9) BMW(10) feel(11) "(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Shimmy(2) ,(3) expensive(4) and(5) difficult(6) to(7) maintain(8) ,(9) electrical(10) glitches(11) ,(12) squeaks(13) and(14) rattles(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) car(2) except_for(3) The_Shimmy(4) which(5) is(6) not(7) repairable(8) in(9) mant(10) instances(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			10-3-01(1) UPDATE(2) :(3) The(4) car(5) has(6) a(7) shimmy(8) ((9) steering(10) wheel(11) and(12) car(13) vibrates(14) )(15) between(16) 50-60mph(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'll(2) spare(3) you(4) the(5) details(6) ,(7) but(8) this(9) can(10) not(11) seem(12) to(13) be(14) fixed(15) by(16) BMW(17) or(18) anyone(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) not(3) :(4) worn(5) bushings(6) ,(7) wheel(8) balance(9) ,(10) bad(11) tires(12) ,(13) alignment(14) or(15) anything(16) else(17) that(18) can(19) be(20) pinpointed(21) .(22) 
+			<opinion polarity="-" feature="tire" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			Unfortunately(1) ,(2) The_Shimmy(3) seems(4) to(5) be(6) a(7) common(8) failing(9) of(10) the(11) 5-series(12) and(13) many(14) people(15) have(16) complained(17) of(18) it(19) only(20) to(21) have(22) its(23) very(24) existence(25) denied(26) by(27) BMW(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			For(1) many(2) ,(3) many(4) more(5) accounts(6) of(7) The_Shimmy(8) and(9) the(10) aggravating(11) dealer(12) treatment(13) trying(14) to(15) fix(16) it(17) visit(18) http://www.bimmer.org/5series/messages/(19) and(20) do(21) a(22) search(23) for(24) "(25) shimmy(26) "(27) and(28) you(29) 'll(30) see(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			At(1) the(2) very(3) least(4) ,(5) if(6) you(7) still(8) intend(9) to(10) buy(11) one(12) of(13) these(14) cars(15) drive(16) it(17) for(18) a(19) while(20) on(21) the(22) highway(23) between(24) 50-60mph(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Any(1) shimmy(2) felt(3) through(4) the(5) steering(6) wheel(7) should(8) be(9) reason(10) to(11) find(12) a(13) different(14) car(15) -(16) no(17) amount(18) of(19) wheel(20) balancings(21) or(22) other(23) suspension(24) work(25) will(26) correct(27) this(28) problem(29) .(30) ((31) original(32) review(33) begins(34) here(35) )(36) I(37) own(38) a(39) 528i(40) 5-speed(41) with(42) the(43) Premium_Package(44) ,(45) sunroof(46) BMW_CD(47) changer(48) ,(49) heated(50) seats(51) and(52) steering(53) wheel(54) ,(55) and(56) DSP(57) stereo(58) .(59) 
+			<opinion polarity="+" feature="steering" featWords="53,54" opWords="50"/>
+			<opinion polarity="+" feature="seat" featWords="51" opWords="50"/>
+		</sentence>
+		<sentence id="8">
+			I(1) traded(2) my(3) 2001(4) Acura(5) 3.2(6) TL(7) for(8) the(9) "(10) Fiver(11) "(12) as(13) I(14) was(15) not(16) really(17) excited(18) about(19) the(20) TL(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) TL(2) is(3) a(4) fine(5) car(6) ,(7) but(8) lacks(9) the(10) "(11) soul(12) "(13) which(14) a(15) Bimmer(16) can(17) provide(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Let(1) 's(2) explain(3) this(4) soul(5) ,(6) and(7) compare(8) it(9) to(10) other(11) choices(12) for(13) similar(14) prices(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) 528i(2) compares(3) with(4) cars(5) such(6) as(7) the(8) Lexus(9) GS300(10) ,(11) ES300(12) ,(13) Acura_TL(14) ,(15) Lincoln_LS(16) ,(17) Infiniti(18) I30(19) ,(20) Mercedes(21) E320(22) and(23) others(24) in(25) this(26) size(27) and(28) price(29) range(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			While(1) the(2) others(3) have(4) improved(5) build(6) quality(7) ,(8) only(9) the(10) Bimmer(11) has(12) that(13) "(14) feel(15) "(16) so(17) prized(18) by(19) performance-oriented(20) drivers(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			The(1) luxury(2) is(3) all(4) there(5) in(6) the(7) Bimmer(8) :(9) wood(10) ,(11) leather(12) and(13) a(14) host(15) of(16) neat(17) features(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Compared(1) to(2) all(3) but(4) the(5) Mercedes(6) ,(7) the(8) Bimmer(9) has(10) the(11) nicest(12) appearance(13) inside(14) ,(15) and(16) the(17) materials(18) are(19) top-notch(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			The(1) Japaneese(2) competitors(3) all(4) have(5) a(6) distinct(7) "(8) Japaneese(9) "(10) look(11) and(12) feel(13) inside(14) which(15) is(16) hard(17) to(18) describe(19) ,(20) but(21) rest(22) assured(23) they(24) do(25) not(26) exude(27) the(28) same(29) level(30) of(31) opulence(32) and(33) quality(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			Also(1) ,(2) the(3) red(4) instrument(5) and(6) switchgear(7) illumination(8) at(9) night(10) is(11) quite(12) cool(13) !(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) Bimmer(2) has(3) more(4) squeaks(5) and(6) rattles(7) inside(8) than(9) the(10) Japaneese(11) cars(12) ,(13) but(14) not(15) by(16) much(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			The(1) Bimmer(2) 's(3) features(4) are(5) legion(6) ,(7) and(8) it(9) takes(10) quite(11) a(12) while(13) to(14) learn(15) them(16) all(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			For(1) those(2) who(3) 'd(4) rather(5) not(6) read(7) the(8) manuals(9) ,(10) the(11) Bimmer(12) can(13) be(14) a(15) little(16) hard(17) to(18) decipher(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			The(1) steering(2) wheel(3) controls(4) for(5) stereo(6) and(7) other(8) features(9) are(10) really(11) handy(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Performance(1) is(2) where(3) the(4) Bimmer(5) really(6) shines(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			The(1) handling(2) is(3) like(4) no(5) other(6) ,(7) and(8) any(9) car(10) magazine(11) will(12) attest(13) to(14) this(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			It(1) 's(2) not(3) so(4) much(5) the(6) physical(7) numbers(8) ,(9) but(10) instead(11) the(12) "(13) feel(14) "(15) of(16) the(17) car(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			It(1) 's(2) like(3) piloting(4) a(5) highly-scientific(6) instrument(7) through(8) traffic(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			The(1) engine(2) revs(3) willingly(4) with(5) a(6) good(7) exhaust(8) note(9) ,(10) and(11) reminds(12) me(13) of(14) a(15) rotary-powered(16) RX(17) -(18) 7(19) I(20) used(21) to(22) own(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			For(1) those(2) who(3) have(4) not(5) had(6) the(7) pleasure(8) of(9) a(10) rotary(11) ,(12) this(13) is(14) high(15) praise(16) indeed(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			The(1) main(2) downside(3) to(4) a(5) Bimmer(6) is(7) service(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			Not(1) only(2) do(3) repairs(4) occur(5) with(6) slightly(7) greater(8) frequency(9) than(10) Japaneese(11) counterparts(12) ,(13) but(14) the(15) parts(16) and(17) labor(18) are(19) expensive(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			Additionally(1) ,(2) service(3) often(4) requires(5) special(6) tools(7) and(8) knowledge(9) ,(10) and(11) smaller(12) shops(13) will(14) not(15) be(16) equipped(17) to(18) handle(19) this(20) car(21) .(22) 
+		</sentence>
+		<sentence id="30">
+			Either(1) way(2) ,(3) I(4) like(5) the(6) car(7) a_lot(8) so(9) far(10) and(11) am(12) glad(13) I(14) gave(15) up(16) my(17) boring(18) but(19) nearly(20) perfect(21) TL(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="21" potency="20"/>
+			<opinion polarity="-" feature="car" opWords="18"/>
+		</sentence>
+		<sentence id="31">
+			If(1) you(2) love(3) to(4) drive(5) ,(6) get(7) the(8) Bimmer(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			If(1) all(2) you(3) want(4) is(5) luxury(6) and(7) quality(8) ,(9) then(10) buy(11) a(12) Lexus(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,950(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) 528i(16) with(17) Premium_Package(18) ,(19) DSP(20) ,(21) moonroof(22) ,(23) heated(24) seats(25) &(26) steering(27) ,(28) CD(29) 
+			<opinion polarity="+" feature="steering" featWords="27" opWords="24"/>
+			<opinion polarity="+" feature="seat" featWords="25" opWords="24"/>
+		</sentence>
+	</text>
+</review>

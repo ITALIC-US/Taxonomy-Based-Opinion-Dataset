@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="595" item="2000 Chevrolet Silverado" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) Bad(2) ,(3) Not_Great(4) either(5) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy_Interior_Exterior_Appearance(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas_Mileage_Cheap_Interior_Noisy_Engine(1) /(2) Trans(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Wait(1) for(2) an(3) interior(4) upgrade(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Then(1) buy(2) ,(3) perhaps(4) a(5) newer(6) model(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Extremely(1) noisy(2) interior(3) 
+			<opinion polarity="-" feature="interior" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			2000(1) Silverado(2) 1500(3) V(4) -(5) 6(6) Vortec(7) ,(8) Extended_Cab(9) ,(10) with(11) 3rd(12) Door_Plenty_of(13) power(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Rough(1) shifting(2) automatic(3) transmission(4) Extended_Cab_Windows(5) are(6) not(7) air(8) tight(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Very(1) noisy(2) ,(3) when(4) traveling(5) ,(6) even(7) 5_miles_per_hour(8) ,(9) wind(10) whistles(11) in(12) around(13) windows(14) .(15) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) the(3) windows(4) replaced(5) today(6) ,(7) with(8) a(9) supposed(10) "(11) new(12) design(13) "(14) ;(15) and(16) they(17) leak(18) air(19) worse(20) than(21) the(22) originals(23) ....(24) so(25) go(26) figure(27) !(28) 
+		</sentence>
+		<sentence id="5">
+			Neat(1) little(2) transmission(3) feature(4) ,(5) allows(6) you(7) to(8) push(9) a(10) button(11) on(12) the(13) shift(14) lever(15) ,(16) to(17) engage(18) a(19) "(20) tow(21) /(22) pull(23) "(24) option(25) ,(26) that(27) enhances(28) towing(29) capability(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			Plenty_of(1) noises(2) in(3) truck(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			Especially(1) the(2) cheap(3) dash(4) board(5) that(6) is(7) made(8) of(9) paper(10) thin(11) plastic(12) ;(13) and(14) vibrates(15) at(16) each(17) bump(18) ,(19) or(20) if(21) you(22) have(23) the(24) radio(25) on(26) above(27) 25_%(28) volume(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			Fuel_Injectors(1) are(2) quite(3) loud(4) ,(5) and(6) engine(7) itself(8) is(9) a(10) noisy(11) little(12) devil(13) .(14) 
+			<opinion polarity="-" feature="engine" featWords="7" opWords="11"/>
+		</sentence>
+		<sentence id="9">
+			If(1) I(2) had(3) done(4) my(5) homework(6) ,(7) the(8) money(9) I(10) paid(11) for(12) this(13) truck(14) ,(15) could(16) have(17) purchased(18) a(19) much(20) nicer(21) ,(22) quieter(23) ,(24) user-friendly(25) truck(26) ;(27) that(28) does(29) not(30) need(31) to(32) be(33) taken(34) to(35) the(36) dealership(37) week(38) after(39) week(40) .(41) 
+			<opinion polarity="+" feature="truck" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18,500.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

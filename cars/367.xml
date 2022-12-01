@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="367" item="2001 Volkswagen Jetta TDI" rating="2">
+	<title>
+		<sentence id="1">
+			Horrible(1) 
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handles(1) nicely(2) 
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			sounds(1) like(2) a(3) tractor(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Horrible(1) -(2) not(3) recommended(4) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) driven(3) in(4) the(5) many(6) old(7) Jetta(8) 's(9) ,(10) and(11) I(12) did(13) not(14) seem(15) to(16) like(17) them(18) very(19) much(20) due(21) to(22) the(23) fact(24) that(25) they(26) truly(27) were(28) uncomfortable(29) to(30) be(31) in(32) .(33) 
+			<opinion polarity="-" feature="comfort" opWords="29"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) sat(3) in(4) the(5) back(6) you(7) could(8) feel(9) ever(10) single(11) pot(12) hole(13) and(14) crack(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			After(1) having(2) bought(3) a(4) 2001(5) Jetta_TDI(6) however(7) ,(8) I(9) have(10) to(11) say(12) that(13) I(14) really(15) can(16) not(17) fault(18) it(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Being(1) diesel(2) one(3) would(4) expect(5) it(6) to(7) be(8) slow(9) and(10) not(11) respond(12) quickly(13) ,(14) and(15) it(16) really(17) is(18) not(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) Jetta(2) that(3) I(4) own(5) is(6) manual(7) shift(8) ,(9) and(10) when(11) stopped(12) at(13) a(14) stop(15) light(16) ,(17) I(18) can(19) safely(20) say(21) that(22) I(23) can(24) take(25) off(26) and(27) not(28) be(29) left(30) eating(31) everyone(32) else(33) 's(34) smoke(35) .(36) 
+		</sentence>
+		<sentence id="7">
+			In(1) changing(2) gears(3) it(4) is(5) very(6) smooth(7) and(8) all(9) together(10) very(11) easy(12) to(13) drive(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="12"/>
+			<opinion polarity="+" feature="car" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			When(1) driving(2) on(3) the(4) highway(5) ,(6) the(7) RPM(8) 's(9) stay(10) relatively(11) low(12) ,(13) and(14) one(15) gets(16) very(17) good(18) mileage(19) from(20) a(21) full(22) tank(23) .(24) 
+			<opinion polarity="+" feature="gas" featWords="19" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="9">
+			I(1) think(2) my(3) car(4) averages(5) about(6) 350(7) to(8) 400_miles(9) per(10) tank(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Sometimes(1) less(2) if(3) I(4) do(5) not(6) leave(7) the(8) city(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			When(1) driving(2) at(3) faster(4) speeds(5) the(6) car(7) remains(8) very(9) smooth(10) and(11) comfortable(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="12"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="12">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) anyone(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) down(3) side(4) that(5) I(6) seem(7) to(8) find(9) is(10) that(11) being(12) Diesel(13) is(14) is(15) not(16) as(17) quite(18) as(19) I(20) would(21) like(22) ,(23) but(24) hey(25) ,(26) can(27) not(28) have(29) everything(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			Update(1) :(2) With(3) further(4) use(5) the(6) car(7) has(8) proved(9) to(10) be(11) unreliable(12) .(13) 
+			<opinion polarity="-" feature="reliability" opWords="12"/>
+		</sentence>
+		<sentence id="15">
+			The(1) check(2) engine(3) like(4) is(5) always(6) turning(7) on(8) ,(9) and(10) VW(11) had(12) to(13) try(14) and(15) fix(16) the(17) problem(18) 4_times(19) !(20) 
+		</sentence>
+		<sentence id="16">
+			They(1) kept(2) saying(3) that(4) it(5) was(6) the(7) glow(8) plugs(9) which(10) are(11) only(12) suppose(13) to(14) be(15) changed(16) every(17) 100,000_miles(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			Yet(1) ,(2) my(3) car(4) has(5) less(6) than(7) 35,000(8) and(9) already(10) has(11) taken(12) 3(13) new(14) sets(15) of(16) plugs(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			Now(1) ,(2) it(3) has(4) a(5) hard(6) time(7) starting(8) and(9) is(10) does(11) not(12) perform(13) as(14) it(15) should(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			I(1) bought(2) a(3) new(4) car(5) hoping(6) to(7) avoid(8) problems(9) ,(10) which(11) I(12) did(13) for(14) the(15) first(16) year(17) ,(18) since(19) then(20) the(21) car(22) has(23) proved(24) to(25) be(26) nothing(27) but(28) a(29) headache(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			I(1) am(2) truly(3) unhappy(4) with(5) the(6) way(7) it(8) has(9) been(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			Volkswagen(1) has(2) been(3) very(4) unhelpful(5) and(6) uninformed(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			They(1) claimed(2) that(3) one(4) of(5) the(6) times(7) the(8) car(9) went(10) in(11) for(12) the(13) check(14) engine(15) light(16) ,(17) that(18) the(19) brake(20) light(21) in(22) the(23) spoiler(24) was(25) causing(26) the(27) problem(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			A(1) brake(2) light(3) that(4) they(5) had(6) installed(7) and(8) proceeded(9) to(10) disconnect(11) only(12) for(13) the(14) check(15) engine(16) light(17) to(18) turn(19) back(20) on(21) a(22) week(23) later(24) .(25) 
+		</sentence>
+		<sentence id="24">
+			Basically(1) ,(2) do(3) not(4) buy(5) this(6) car(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="4,5"/>
+		</sentence>
+		<sentence id="25">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) TDI(16) manual(17) gears(18) 
+		</sentence>
+	</text>
+</review>

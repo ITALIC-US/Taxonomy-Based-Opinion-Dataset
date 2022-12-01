@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="285" item="Sheraton Studio City Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Looks(1) can(2) be(3) deceiving(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) pool(2) ,(3) cool(4) building(5) style(6) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="building" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Holes(1) in(2) comforters(3) ,(4) broken(5) doors(6) ((7) in(8) our(9) case(10) )(11) ,(12) Cheesy(13) theme(14) ,(15) gross(16) food(17) .(18) 
+			<opinion polarity="-" feature="food" featWords="17" opWords="16"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) family(2) and(3) I(4) went(5) up(6) to(7) Orlando_for_Halloween_Horror_Nights(8) ,(9) and(10) deceided(11) to(12) stay(13) at(14) the(15) Sheraton_Studio_City(16) because(17) it(18) looked(19) really(20) nice(21) and(22) it(23) was(24) at(25) a(26) good(27) price(28) .(29) 
+			<opinion polarity="+" feature="hotel" featWords="18" featRef="hotel" opWords="21" potency="20"/>
+			<opinion polarity="+" feature="price" featWords="28" opWords="27"/>
+		</sentence>
+		<sentence id="2">
+			On(1) our(2) arrival(3) ,(4) we(5) noticed(6) the(7) awfully(8) cheesy(9) movie(10) theme(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			It(1) just(2) never(3) ended(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			Upon(1) entering(2) our(3) room(4) ,(5) our(6) key(7) was(8) not(9) right(10) for(11) our(12) door(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			In(1) fact(2) even(3) a(4) pass(5) key(6) couldnt(7) get(8) us(9) into(10) our(11) room(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			After(1) a(2) while(3) ,(4) we(5) got(6) rebooked(7) into(8) another(9) room(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) decorations(2) were(3) cheesy(4) but(5) nice(6) ,(7) and(8) one(9) thing(10) really(11) grossed(12) us(13) out(14) .(15) 
+			<opinion polarity="-" feature="decoration" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			Their(1) were(2) little(3) holes(4) all(5) across(6) the(7) teal(8) bed(9) sheets(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Yuck(1) .(2) 
+		</sentence>
+		<sentence id="10">
+			Also(1) the(2) breakfast(3) they(4) served(5) was(6) just(7) above(8) being(9) mediocre(10) .(11) 
+			<opinion polarity="-" feature="food" featWords="3" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			It(1) tasted(2) just(3) like(4) a(5) deserted(6) Dennys(7) at(8) 2(9) a.m.(10) Trust(11) me(12) all(13) ,(14) do(15) not(16) stay(17) at(18) this(19) hotel(20) .(21) 
+			<opinion polarity="-" feature="hotel" featWords="20" opWords="16,17"/>
+		</sentence>
+	</text>
+</review>

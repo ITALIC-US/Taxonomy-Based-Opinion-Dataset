@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="747" item="2000 Toyota MR2 Spyder" rating="3">
+	<title>
+		<sentence id="1">
+			Just_A_Toy(1) 2(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) /(2) Performance_Ratio(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Storage_Space(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Ever(1) hear(2) some(3) computer(4) geek(5) say(6) "(7) If(8) cars(9) were(10) like(11) computers(12) they(13) 'd(14) all(15) go(16) 1,000(17) mph(18) ;(19) get(20) 250mpg(21) and(22) cost(23) $100(24) ?(25) "(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			The(1) inferred(2) point(3) is(4) that(5) cars(6) are(7) not(8) technologically(9) advancing(10) as(11) fast(12) as(13) computers(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			My(1) first(2) all-day(3) drive(4) in(5) the(6) new(7) MR2(8) Spyder(9) is(10) proof(11) that(12) this(13) assessment(14) about(15) car(16) technology(17) is(18) wrong(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			In_1989(1) I(2) drove(3) a(4) MR2(5) and(6) loved(7) it(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" featRef="car" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			Last(1) weekend(2) I(3) got(4) to(5) drive(6) the(7) all(8) new(9) 2001(10) MR2(11) Spyder(12) and(13) I(14) loved(15) it(16) ,(17) but(18) what(19) a(20) difference(21) eleven(22) years(23) makes(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="16" featRef="car" opWords="15"/>
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) handled(3) as_if(4) on(5) rails(6) ,(7) with(8) only(9) a(10) little(11) body(12) roll(13) at(14) high(15) speed(16) cornering(17) ((18) taking(19) a(20) recommended(21) 30mph(22) corner(23) at(24) 75(25) )(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Road(1) feel(2) is(3) outstanding(4) ,(5) with(6) no(7) vibration(8) coming(9) through(10) the(11) steering(12) wheel(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			As(1) is(2) Toyota(3) 's(4) forte(5) ,(6) control(7) layout(8) is(9) logical(10) and(11) well(12) laid(13) out(14) .(15) 
+			<opinion polarity="+" feature="controls" featWords="7" opWords="12,13,14"/>
+			<opinion polarity="+" feature="controls" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			The(1) entire(2) car(3) is(4) centered(5) around(6) the(7) driver(8) ,(9) which(10) makes(11) sense(12) since(13) their(14) is(15) room(16) for(17) only(18) one(19) passenger(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			Wind(1) noise(2) was(3) relatively(4) low(5) in(6) this(7) open-air(8) machine(9) and(10) speaking(11) to(12) your(13) passenger(14) at(15) highway(16) speeds(17) was(18) not(19) an(20) exercise(21) in(22) shouting(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			So(1) I(2) got(3) to(4) comparing(5) the(6) 1989(7) MR2(8) with(9) todays(10) MR2(11) and(12) can(13) say(14) they(15) are(16) unequivocally(17) worlds(18) apart(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			In(1) eleven(2) years(3) this(4) car(5) has(6) stayed(7) in(8) about(9) the(10) same(11) price(12) range(13) ((14) a(15) little(16) over(17) $20K(18) )(19) ,(20) and(21) if(22) one(23) takes(24) inflation(25) into(26) account(27) it(28) may(29) have(30) gotten(31) a_bit(32) cheaper(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			Yet(1) it(2) handles(3) significantly(4) better(5) ,(6) the(7) seats(8) are(9) better(10) ,(11) it(12) comes(13) with(14) a(15) much(16) better(17) stereo(18) system(19) and(20) is(21) quieter(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			In(1) fact(2) I(3) 'd(4) compare(5) the(6) MR2(7) Spyder(8) ,(9) in(10) terms(11) of(12) road(13) feel(14) and(15) handling(16) ,(17) more(18) with(19) a(20) $65,000(21) 1987(22) Porsche(23) 911(24) than(25) the(26) original(27) MR2(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			Now(1) that(2) 's(3) technological(4) progress(5) !(6) 
+		</sentence>
+		<sentence id="16">
+			Two(1) big(2) weaknesses(3) -(4) one(5) the(6) 138(7) hp(8) four(9) cylinder(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			After(1) driving(2) a(3) Mustang_Cobra(4) and(5) a(6) Pontiac_Trans_Am(7) ,(8) both(9) with(10) huge(11) V8(12) engines(13) in(14) the(15) same(16) price(17) range(18) as(19) this(20) MR2(21) ,(22) do(23) not(24) expect(25) to(26) win(27) any(28) drag(29) races(30) .(31) 
+		</sentence>
+		<sentence id="18">
+			You(1) might(2) do(3) better(4) at(5) the(6) gas(7) pump(8) ,(9) but(10) if(11) you(12) are(13) going(14) to(15) get(16) into(17) a(18) testosterone(19) race(20) at(21) a(22) red(23) light(24) ,(25) be(26) prepared(27) to(28) let(29) your(30) ego(31) deflate(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			In(1) fact(2) I(3) 'd(4) stay(5) clear(6) of(7) most(8) cars(9) ,(10) with(11) 7.0_seconds(12) as(13) the(14) fastest(15) I(16) could(17) get(18) this(19) car(20) to(21) 60mph(22) ((23) OK(24) ,(25) I(26) 'm(27) no(28) pro(29) ,(30) but(31) even(32) Motor_Trend(33) could(34) not(35) do(36) better(37) than(38) 6.8(39) )(40) .(41) 
+		</sentence>
+		<sentence id="20">
+			The(1) automatic(2) transmission(3) Grand_AM_SC(4) /(5) T(6) ,(7) slated(8) to(9) go(10) into(11) production(12) for(13) 2001(14) ,(15) can(16) do(17) 0-60(18) in(19) 6.6(20) ,(21) which(22) means(23) any(24) fool(25) driving(26) it(27) can(28) do(29) 6.6(30) .(31) 
+		</sentence>
+		<sentence id="21">
+			It(1) 's(2) always(3) embarrassing(4) to(5) get(6) beaten(7) in(8) a(9) race(10) by(11) a(12) four(13) door(14) ,(15) so(16) if(17) you(18) have(19) any(20) ideas(21) of(22) racing(23) I(24) would(25) not(26) buy(27) the(28) MR2(29) .(30) 
+			<opinion polarity="-" feature="car" opWords="26,27"/>
+		</sentence>
+		<sentence id="22">
+			Second(1) big(2) weakness(3) is(4) storage(5) space(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) literally(3) a(4) glove(5) compartment(6) box(7) ,(8) two(9) map(10) holders(11) in(12) the(13) doors(14) and(15) room(16) for(17) about(18) four(19) college(20) text(21) books(22) in(23) the(24) trunk(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			That(1) 's(2) it(3) !(4) 
+		</sentence>
+		<sentence id="25">
+			No(1) weekend(2) getaways(3) for(4) you(5) and(6) your(7) significant(8) other(9) ,(10) unless(11) you(12) plan(13) on(14) buying(15) all(16) your(17) clothes(18) and(19) other(20) needs(21) when(22) you(23) get(24) to(25) your(26) hotel(27) .(28) 
+		</sentence>
+		<sentence id="26">
+			This(1) last(2) point(3) got(4) met(5) thinking(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			Who(1) exactly(2) wants(3) this(4) car(5) ?(6) 
+		</sentence>
+		<sentence id="28">
+			It(1) can(2) not(3) serve(4) as(5) a(6) primary(7) vehicle(8) ,(9) and(10) anyone(11) who(12) wants(13) a(14) secondary(15) vehicle(16) for(17) $23,500(18) ,(19) certainly(20) can(21) afford(22) a(23) Porshe_Boxster(24) or(25) Corvette(26) for(27) about(28) $45,000(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			Both(1) the(2) Porsche(3) and(4) Corvetter(5) can(6) handle(7) your(8) luggage(9) needs(10) ((11) the(12) Vette(13) actually(14) has(15) 24_cubic_feet(16) of(17) luggage(18) capacity(19) )(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			So(1) if(2) this(3) is(4) going(5) to(6) be(7) a(8) primary(9) vehicle(10) ,(11) you(12) 'd(13) have(14) to(15) look(16) elsewhere(17) ,(18) and(19) elsewhere(20) for(21) most(22) will(23) be(24) the(25) Mazda_Miata(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			Priced(1) almost(2) exactly(3) as(4) the(5) MR2(6) ,(7) it(8) is(9) not(10) as(11) good(12) through(13) the(14) turns(15) ,(16) is(17) not(18) as(19) fast(20) and(21) is(22) not(23) as(24) refined(25) .(26) 
+		</sentence>
+		<sentence id="32">
+			But(1) it(2) can(3) hold(4) a(5) bag(6) of(7) groceries(8) ,(9) looks(10) great(11) and(12) its(13) versatility(14) makes(15) up(16) for(17) its(18) sports(19) car(20) shortcomings(21) .(22) 
+			<opinion polarity="+" feature="design" opWords="10,11"/>
+		</sentence>
+		<sentence id="33">
+			The(1) Toyota(2) is(3) only(4) a(5) $23,000(6) toy(7) ,(8) and(9) if(10) you(11) have(12) $23K(13) for(14) a(15) toy(16) I(17) have(18) to(19) recommend(20) saving(21) a(22) little(23) longer(24) and(25) getting(26) the(27) Porsche(28) .(29) 
+		</sentence>
+		<sentence id="34">
+			---------------------------------(1) Addendum(2) ---------------------------------(3) For(4) whatever(5) reason(6) ,(7) a(8) poster(9) going(10) by(11) the(12) alias(13) Kendude(14) ,(15) got(16) very(17) mad(18) at(19) the(20) review(21) above(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			He(1) then(2) made(3) some(4) unsubstantiated(5) statements(6) that(7) the(8) Boxster(9) has(10) had(11) cracked(12) engine(13) blocks(14) and(15) that(16) the(17) Spyder(18) was(19) faster(20) from(21) 40(22) -(23) 70(24) mph(25) than(26) the(27) Boxster(28) .(29) 
+		</sentence>
+		<sentence id="36">
+			I(1) decided(2) to(3) add(4) this(5) comparison(6) review(7) ,(8) using(9) only(10) credible(11) websites(12) as(13) the(14) basis(15) for(16) this(17) comparison(18) .(19) 
+		</sentence>
+		<sentence id="37">
+			First(1) and(2) foremost(3) ,(4) the(5) Boxster(6) is(7) rated(8) in(9) the(10) top(11) 20_%(12) of(13) all(14) vehicles(15) in(16) terms(17) of(18) reliablity(19) by(20) JDPower(21) ((22) http://www.jdpower.com).(23) At(24) this(25) time(26) they(27) do(28) not(29) have(30) a(31) rating(32) for(33) the(34) Toyota_Spyder(35) because(36) it(37) is(38) so(39) new(40) .(41) I(42) have(43) not(44) driven(45) a(46) Boxster(47) ,(48) but(49) the(50) experts(51) at(52) Car_&_Driver(53) did(54) ,(55) and(56) I(57) put(58) together(59) the(60) following(61) spec(62) data(63) :(64) Specification(65) .......(66) Boxster(67) ..........(68) Spyder(69) Price...............$42,195............23,615(70) Horsepower..........217(71) hp............138(72) Torque................185(73) lbs.............125(74) Braking(75) 70(76) 0......159(77) ft...........167(78) *(79) Cornering(80) :(81) ...........(82) 91(83) g(84) ............(85) n(86) /(87) a(88) 50(89) 70..............7.0(90) sec(91) **(92) .........(93) 9.3(94) 0-60..................6.5(95) sec(96) ............(97) 7.0(98) mile................15.0(99) sec...........16.1(100) Top(101) Speed.............147(102) mph(103) ...........(104) n(105) /(106) a(107) *(108) This(109) is(110) Toyota(111) s(112) claim(113) **(114) Porsche(115) test(116) is(117) 7.0(118) sec(119) from(120) 50(121) 75mph(122) ((123) this(124) spec(125) is(126) from(127) Porsche(128) )(129) Source(130) :(131) http://www.carseverything.com/reviews/specs.html/Toyota_MR_Spyder.html(132) As(133) one(134) can(135) see(136) ,(137) in_all(138) performance(139) criteria(140) ,(141) especially(142) the(143) 50(144) -(145) 70(146) acceleration(147) ,(148) the(149) Boxster(150) performed(151) better(152) than(153) the(154) Spyder(155) ,(156) which(157) is(158) what(159) I(160) would(161) expect(162) from(163) a(164) car(165) costing(166) $20,000(167) more(168) .(169) 
+		</sentence>
+		<sentence id="38">
+			It(1) is(2) also(3) important(4) to(5) note(6) that(7) the(8) Boxster(9) is(10) one(11) of(12) Car_&_Drivers(13) 10(14) best(15) cars(16) ,(17) three(18) -(19) years(20) running(21) .(22) 
+		</sentence>
+		<sentence id="39">
+			After(1) a(2) test(3) of(4) the(5) Miata(6) vs(7) the(8) Spyder(9) ,(10) Car_&_Driver(11) echoed(12) my(13) own(14) sentiments(15) by(16) saying(17) :(18) Miata(19) 's(20) larger(21) trunk(22) makes(23) it(24) more(25) than(26) a(27) weekend(28) toy(29) .(30) and(31) "(32) Still(33) ,(34) most(35) roadster(36) buyers(37) do(38) not(39) race(40) their(41) vehicles(42) .(43) They(44) 're(45) more(46) likely(47) used(48) for(49) weekend(50) getaways(51) to(52) view(53) the(54) changing(55) colors(56) of(57) fall(58) at(59) a(60) leisurely(61) pace(62) .(63) What(64) you(65) need(66) for(67) that(68) activity(69) is(70) some(71) trunk(72) space(73) ,(74) and(75) here(76) the(77) MR2(78) 's(79) score(80) is(81) rather(82) dismal(83) .(84) Most(85) of(86) what(87) there(88) is(89) of(90) front(91) trunk(92) space(93) is(94) used(95) to(96) accommodate(97) the(98) spare(99) tire(100) ,(101) leaving(102) a(103) paltry(104) two_cubic_feet(105) .(106) What(107) about(108) behind(109) the(110) roadster(111) 's(112) two(113) seats(114) ?(115) There(116) 's(117) a(118) small(119) compartment(120) there(121) that(122) might(123) accept(124) a(125) briefcase(126) ,(127) perhaps(128) an(129) overnight(130) change(131) of(132) skivvies(133) and(134) socks(135) .(136) http://www.caranddriver.com/FrameSet/0,1350,_sl_NewArticle_sl_0_cm_1633_cm_3926_1_17_cm_00,00.html(137) So(138) if(139) I(140) may(141) conclude(142) ,(143) the(144) Spyder(145) is(146) an(147) excellent(148) car(149) ,(150) but(151) in(152) no(153) way(154) is(155) it(156) as(157) good(158) as(159) the(160) Boxster(161) .(162) Is_the_Boxster(163) worth(164) $20,000(165) more(166) ?(167) That(168) is(169) up(170) to(171) you(172) and(173) your(174) wallet(175) .(176) Certainly(177) the(178) Spyder(179) is(180) a(181) great(182) car(183) for(184) the(185) price(186) -(187) good(188) looks(189) ,(190) good(191) performance(192) and(193) actually(194) competitive(195) with(196) a(197) car(198) costing(199) nearly(200) twice(201) its(202) price(203) .(204) Give(205) the(206) Spyder(207) a(208) trunk(209) and(210) Toyota(211) would(212) easily(213) be(214) able(215) to(216) increase(217) yearly(218) output(219) from(220) 5,000(221) vehicles(222) annually(223) to(224) 25,000(225) ((226) surpassing(227) the(228) Miata(229) 's(230) 20,000(231) )(232) .(233) However(234) ,(235) if(236) the(237) purpose(238) is(239) purely(240) driving(241) pleasure(242) ,(243) and(244) performance(245) being(246) the(247) #(248) 1(249) component(250) of(251) that(252) pleasure(253) ,(254) the(255) Boxster(256) wins(257) .(258) Eliminate(259) the(260) need(261) for(262) a(263) convertible(264) ,(265) and(266) I(267) would(268) not(269) recommend(270) either(271) of(272) these(273) vehicles(274) .(275) The(276) Corvette(277) is(278) about(279) $39,500(280) ,(281) crushes(282) both(283) of(284) these(285) cars(286) in(287) every(288) performance(289) category(290) and(291) adds(292) 24_cubic_feet(293) of(294) cargo(295) space(296) ((297) more(298) than(299) a(300) Toyota_Corolla(301) and(302) Mazda_Protege(303) combined(304) !(305) )(306) .(307) 
+			<opinion polarity="-" feature="car" opWords="269,270"/>
+			<opinion polarity="+" feature="car" opWords="195"/>
+			<opinion polarity="+" feature="performance" featWords="192" opWords="191"/>
+			<opinion polarity="+" feature="design" featWords="189" opWords="188"/>
+			<opinion polarity="+" feature="car" featWords="183" opWords="182"/>
+		</sentence>
+	</text>
+</review>

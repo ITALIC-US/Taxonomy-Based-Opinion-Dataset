@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="180" item="Maxell HB-375 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			One(1) Size_Fit_None-Worst(2) $15(3) I(4) ever(5) Spent(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Will(1) not(2) fit(3) ,(4) are(5) not(6) comfortable(7) 
+			<opinion polarity="-" feature="comfort" opWords="2,3"/>
+			<opinion polarity="-" feature="comfort" opWords="6,7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) the(4) absolute(5) WORST(6) headphones(7) I(8) have(9) ever(10) put(11) in(12) my(13) ears(14) .(15) 
+			<opinion polarity="-" feature="headphones" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			As(1) soon(2) as(3) I(4) put(5) them(6) in(7) ,(8) they(9) fell(10) out(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) could(2) not(3) find(4) a(5) way(6) to(7) keep(8) them(9) in(10) my(11) ears(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) part(2) that(3) goes(4) behind(5) your(6) ear(7) does(8) not(9) fit(10) and(11) it(12) is(13) hard(14) plastic(15) ,(16) so(17) it(18) will(19) not(20) bend(21) to(22) fit(23) .(24) 
+			<opinion polarity="-" feature="comfort" opWords="9,10"/>
+		</sentence>
+		<sentence id="5">
+			After(1) the(2) little(3) time(4) they(5) were(6) in(7) my(8) ears(9) ,(10) I(11) was(12) almost(13) glad(14) they(15) fell(16) out(17) because(18) they(19) were(20) so(21) uncomfortable(22) .(23) 
+			<opinion polarity="-" feature="comfort" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="6">
+			The(1) part(2) around(3) the(4) speaker(5) is(6) hard(7) plastic(8) and(9) does(10) not(11) fit(12) any(13) ear(14) .(15) 
+			<opinion polarity="-" feature="comfort" opWords="11,12"/>
+		</sentence>
+		<sentence id="7">
+			These(1) headphones(2) are(3) not(4) ear(5) friendly(6) at(7) all(8) The(9) only(10) plus(11) about(12) these(13) headphones(14) is(15) that(16) they(17) are(18) very(19) loud(20) with(21) the(22) volume(23) control(24) ,(25) so(26) when(27) they(28) fall(29) out(30) of(31) your(32) ears(33) ,(34) you(35) can(36) almost(37) still(38) hear(39) the(40) music(41) .(42) 
+			<opinion polarity="-" feature="comfort" opWords="4,5,6"/>
+			<opinion polarity="+" feature="volume control" featWords="23,24" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) never(3) written(4) a(5) review(6) on(7) the(8) Internet(9) ,(10) but(11) I(12) felt(13) so(14) strongly(15) about(16) these(17) headphones(18) ,(19) I(20) did(21) not(22) want(23) anyone(24) else(25) to(26) buy(27) these(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			Please(1) ,(2) Please(3) ,(4) Please(5) do(6) not(7) waste(8) your(9) money(10) on(11) these(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			You(1) will(2) be(3) sorry(4) you(5) did(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			I(1) guarantee(2) it(3) .(4) 
+		</sentence>
+	</text>
+</review>

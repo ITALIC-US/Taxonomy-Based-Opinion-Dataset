@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="412" item="Red Roof Inn Chicago Downtown" rating="2">
+	<title>
+		<sentence id="1">
+			Only(1) for(2) the(3) value(4) oriented(5) traveler(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) low(3) price(4) 
+			<opinion polarity="+" feature="price" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lobby(1) is(2) bad(3) ,(4) service(5) is(6) limited(7) 
+			<opinion polarity="-" feature="lobby" featWords="1" opWords="2"/>
+			<opinion polarity="-" feature="service" featWords="5" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) visiting(2) Chi-town(3) on(4) a(5) $100/night(6) budget(7) ,(8) this(9) is(10) a(11) fine(12) place(13) to(14) stay(15) .(16) 
+			<opinion polarity="+" feature="place" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) recommend(2) spending(3) a(4) little(5) more(6) for(7) better(8) quality(9) and(10) service(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) made(3) an(4) unplanned(5) visit(6) to(7) Chicago(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) city(2) s(3) hotels(4) were(5) sold(6) out(7) and(8) the(9) only(10) conveniently(11) located(12) room(13) I(14) could(15) get(16) was(17) in(18) the(19) Red_Roof_Inn_Downtown_Chicago(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Despite(1) the(2) fact(3) that(4) I(5) typically(6) stay(7) in(8) upscale(9) business(10) hotels(11) ,(12) I(13) am(14) no(15) worse(16) for(17) wear(18) after(19) a(20) two-night(21) stay(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			LOCATION(1) One(2) of(3) the(4) two(5) best(6) things(7) about(8) the(9) Red_Roof_Inn_Downtown_Chicago(10) is(11) the(12) location(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) just(3) one(4) block(5) off(6) Michigan_Avenue(7) on(8) Ontario(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			You(1) can(2) walk(3) to(4) the(5) Magnificent_Mile(6) including(7) Water_Tower_Place(8) and(9) all(10) of(11) the(12) other(13) cool(14) stuff(15) that(16) makes(17) downtown(18) Chicago(19) a(20) great(21) place(22) to(23) be(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) also(3) within(4) walking(5) distance(6) of(7) Navy_Pier(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			PUBLIC_AREAS_This(1) hotel(2) doesn(3) t(4) look(5) like(6) the(7) Red_Roof_Inn(8) you(9) have(10) seen(11) just(12) off(13) the(14) interstate(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) located(3) in(4) a(5) renovated(6) ten(7) or(8) twelve(9) story(10) classic(11) building(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			In(1) fact(2) ,(3) it(4) doesn(5) t(6) even(7) have(8) a(9) red(10) roof(11) !(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) lobby(2) is(3) very(4) small(5) and(6) the(7) night(8) I(9) checked(10) in(11) it(12) was(13) chock(14) full(15) of(16) marginal(17) looking(18) characters(19) .(20) 
+			<opinion polarity="-" feature="lobby" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			Every(1) time(2) I(3) passed(4) through(5) ,(6) there(7) were(8) 4-5(9) people(10) who(11) didn(12) t(13) look(14) like(15) hotel(16) guests(17) loitering(18) around(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			The(1) furniture(2) was(3) a(4) little(5) worn(6) ,(7) but(8) generally(9) clean(10) .(11) 
+			<opinion polarity="-" feature="furnishings" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="furnishings" featWords="2" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="14">
+			Only(1) 1(2) of(3) the(4) 2(5) elevators(6) was(7) working(8) during(9) my(10) visit(11) and(12) I(13) habitually(14) had(15) long(16) waits(17) to(18) get(19) to(20) and(21) from(22) my(23) room(24) ((25) as(26) I(27) was(28) on(29) the(30) 9th(31) floor(32) I(33) didn(34) t(35) feel(36) like(37) taking(38) the(39) stairs(40) )(41) .(42) 
+		</sentence>
+		<sentence id="15">
+			ROOMS_My(1) room(2) was(3) small(4) ,(5) but(6) the(7) furniture(8) was(9) in(10) good(11) repair(12) and(13) the(14) carpet(15) ,(16) soft(17) goods(18) and(19) linens(20) were(21) clean(22) .(23) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="carpets" featWords="15" opWords="22"/>
+			<opinion polarity="+" feature="bedding" featWords="20" opWords="22"/>
+		</sentence>
+		<sentence id="16">
+			In_addition(1) to(2) the(3) bed(4) ((5) which(6) was(7) comfortable(8) )(9) ,(10) the(11) room(12) had(13) a(14) nice(15) work(16) desk(17) and(18) a(19) TV(20) armoire(21) .(22) 
+			<opinion polarity="+" feature="bed" featWords="4" opWords="8"/>
+			<opinion polarity="+" feature="tv" featWords="20" opWords="15"/>
+		</sentence>
+		<sentence id="17">
+			The(1) bathroom(2) was(3) basic(4) and(5) reasonably(6) clean(7) ((8) not(9) perfect(10) ,(11) but(12) not(13) gross(14) either(15) )(16) .(17) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="9,10"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="13,14"/>
+		</sentence>
+		<sentence id="18">
+			The(1) water(2) pressure(3) in(4) the(5) shower(6) was(7) low(8) ,(9) but(10) there(11) seemed(12) to(13) be(14) plenty_of(15) hot(16) water(17) for(18) my(19) morning(20) showers(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			The(1) street(2) noise(3) in(4) my(5) 9th(6) floor(7) was(8) not(9) terrible(10) ,(11) but(12) I(13) would(14) guess(15) it(16) is(17) annoying(18) on(19) lower(20) floors(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			SERVICE_There(1) is(2) no(3) valet(4) or(5) bell(6) service(7) ,(8) though(9) I(10) do(11) believe(12) the(13) hotel(14) has(15) a(16) parking(17) arrangement(18) with(19) a(20) nearby(21) garage(22) .(23) 
+		</sentence>
+		<sentence id="21">
+			The(1) front-desk(2) clerk(3) was(4) slow(5) and(6) a_bit(7) surly(8) .(9) 
+			<opinion polarity="-" feature="front desk" featWords="3" opWords="5"/>
+			<opinion polarity="-" feature="front desk" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="22">
+			Maid(1) service(2) was(3) fine(4) .(5) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			OVERALL(1) /(2) VALUE_I(3) mentioned(4) that(5) the(6) Red_Roof(7) s(8) location(9) was(10) one(11) of(12) the(13) two(14) best(15) things(16) about(17) the(18) hotel(19) ,(20) the(21) other(22) great(23) thing(24) is(25) the(26) $99(27) rate(28) .(29) 
+		</sentence>
+		<sentence id="24">
+			Frankly(1) ,(2) though(3) this(4) isn(5) t(6) a(7) business(8) class(9) hotel(10) ,(11) I(12) don(13) t(14) think(15) you(16) can(17) match(18) that(19) price(20) for(21) a(22) reasonably(23) clean(24) ,(25) modern(26) room(27) within(28) 1(29) block(30) of(31) Michigan_Ave(32) .(33) 
+			<opinion polarity="+" feature="rooms" featWords="27" opWords="24" potency="23"/>
+			<opinion polarity="+" feature="rooms" featWords="27" opWords="26"/>
+		</sentence>
+		<sentence id="25">
+			Vacation(1) travelers(2) who(3) don(4) t(5) need(6) the(7) bells(8) and(9) whistles(10) of(11) a(12) full(13) service(14) hotel(15) and(16) who(17) want(18) to(19) save(20) a(21) few(22) bucks(23) will(24) be(25) satisfied(26) .(27) 
+		</sentence>
+	</text>
+</review>

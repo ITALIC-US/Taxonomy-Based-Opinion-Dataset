@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="841" item="1999 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			disappointed(1) and(2) wrong(3) dicision(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) exterior(2) style(3) 
+			<opinion polarity="+" feature="exterior" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) quality(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Accord(4) last(5) year(6) at(7) 99(8) ,(9) there(10) were(11) so(12) many(13) choices(14) for(15) me(16) to(17) choose(18) at(19) that(20) time(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) Honda(3) is(4) a(5) good(6) quality(7) ,(8) reliable(9) vehicle(10) because_of(11) the(12) previous(13) /(14) currently(15) owned(16) .(17) 
+			<opinion polarity="+" feature="reliability" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) pretty(3) good(4) in(5) the(6) first(7) 6(8) months(9) ,(10) but(11) afterward(12) ,(13) it(14) started(15) giving(16) me(17) nothing(18) but(19) problems(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			First(1) the(2) channel(3) of(4) the(5) window(6) broke(7) twice(8) ,(9) then(10) it(11) has(12) an(13) annoying(14) squeezing(15) noise(16) from(17) the(18) brake(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) mechanic(2) told(3) me(4) the(5) brake(6) was(7) fine(8) except(9) the(10) edges(11) are(12) touching(13) the(14) rotor(15) and(16) causing(17) the(18) noise(19) ,(20) there(21) 's(22) no(23) chance(24) to(25) get(26) rid-off(27) the(28) noise(29) or(30) to(31) replace(32) a(33) new(34) one(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			That(1) 's(2) okay(3) ,(4) but(5) then(6) the(7) interior(8) started(9) bumping(10) me(11) now(12) ,(13) the(14) door(15) panel(16) has(17) a(18) gap(19) and(20) giving(21) me(22) some(23) crapping(24) noise(25) also(26) the(27) plastic(28) cover(29) in(30) the(31) map(32) light(33) is(34) likely(35) to(36) yell(37) at(38) me(39) when(40) I(41) am(42) driving(43) .(44) 
+		</sentence>
+		<sentence id="7">
+			Those(1) noises(2) are(3) driving(4) me(5) crazy(6) now(7) ...(8) I(9) think(10) Honda(11) should(12) focus(13) on(14) the(15) quality(16) but(17) not(18) on(19) the(20) quantity(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) am(2) saying(3) my(4) sister(5) 's(6) 92(7) Accord(8) is(9) way(10) better(11) than(12) mine(13) ,(14) at_least(15) hers(16) got(17) not(18) that(19) many(20) problem(21) as(22) I(23) do(24) !(25) 
+		</sentence>
+		<sentence id="9">
+			I(1) mean(2) if(3) we(4) are(5) willing(6) to(7) pay(8) around(9) $20k(10) for(11) a(12) comfortable(13) sedan(14) ,(15) these(16) problems(17) should(18) not(19) be(20) happened(21) .(22) 
+			<opinion polarity="+" feature="comfort" opWords="13"/>
+		</sentence>
+	</text>
+</review>

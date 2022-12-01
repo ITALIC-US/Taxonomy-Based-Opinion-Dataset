@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="650" item="2002 Honda CR-V" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) enough(2) engine(3) for(4) the(5) SUV(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			4(1) wheel(2) drive(3) ,(4) good(5) gas(6) mileage(7) 
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) ,(2) high(3) center(4) of(5) gravity(6) ,(7) not(8) sufficient(9) power(10) 
+			<opinion polarity="-" feature="horsepower" featWords="10" opWords="8,9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Either(1) get(2) a(3) bigger(4) SUV(5) or(6) a(7) 4(8) door(9) car(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) SUV(4) where(5) power(6) was(7) compromised(8) for(9) fuel(10) economy(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			It(1) does(2) not(3) have(4) ample(5) power(6) for(7) driving(8) up(9) hill(10) or(11) towing(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			If(1) it(2) is(3) just(4) for(5) driving(6) in(7) town(8) to(9) work(10) than(11) it(12) will(13) work(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) doubts(3) about(4) true(5) offroad(6) capabilities(7) as_well(8) ,(9) clearance(10) is(11) not(12) enough(13) for(14) anything(15) serious(16) nor(17) are(18) the(19) tires(20) big(21) enough(22) ,(23) although(24) the(25) engine(26) could(27) not(28) handle(29) anything(30) to(31) serious(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) the(3) same(4) as(5) any(6) 4(7) door(8) car(9) really(10) except(11) a(12) little(13) more(14) cargo(15) room(16) which(17) is(18) a(19) plus(20) but(21) if(22) you(23) do(24) not(25) need(26) the(27) room(28) do(29) not(30) waste(31) your(32) time(33) with(34) a(35) SUV(36) .(37) 
+		</sentence>
+	</text>
+</review>

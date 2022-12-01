@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="371" item="1998 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			The(1) new(2) V6(3) has(4) serious(5) problems(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling(1) ,(2) and(3) overall(4) best(5) looking(6) coupe(7) in(8) it(9) 's(10) class(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) problems(2) ((3) Moonroof(4) gets(5) stuck(6) ,(7) transmission(8) breaks(9) )(10) 
+			<opinion polarity="+" feature="transmission" featWords="8" opWords="9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) 1998(2) V6(3) engine(4) was(5) brand(6) new(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			After(1) 3years(2) transmission(3) problems(4) are(5) among(6) many(7) problems(8) that(9) have(10) surfaced(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			do(1) not(2) play(3) russian(4) roulette(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			Buy(1) a(2) newer(3) model(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) Honda(2) came(3) out(4) with(5) the(6) new(7) 200hp(8) engine(9) in_1998(10) all(11) Honda(12) lovers(13) cheered(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Now(1) 4(2) years(3) later(4) when(5) they(6) have(7) been(8) put(9) to(10) the(11) test(12) there(13) is(14) now(15) evident(16) ,(17) a(18) serious(19) problem(20) with(21) the(22) transmissions(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) gone(3) to(4) other(5) web-sites(6) and(7) heard(8) the(9) same(10) thing(11) on(12) the(13) v6(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			After(1) 70,000_miles(2) many(3) of(4) the(5) transmissions(6) begin(7) to(8) clunk(9) while(10) shifting(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Because_of(1) the(2) complexity(3) of(4) the(5) VTEC(6) transmissions(7) the(8) remedy(9) require(10) 9(11) hours(12) of(13) labor(14) and(15) a(16) whopping(17) $4500(18) from(19) the(20) dealer(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) guess(2) I(3) was(4) just(5) in(6) awe(7) of(8) the(9) past(10) history(11) of(12) Honda(13) and(14) should(15) have(16) thought(17) twice(18) about(19) purchasing(20) a(21) car(22) with(23) a(24) version(25) 1.0(26) engine(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			My(1) advice(2) would(3) be(4) to(5) either(6) buy(7) a(8) 4(9) cylinder(10) or(11) buy(12) an(13) extended(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			I(1) 'm(2) sure(3) Honda(4) now(5) knows(6) it(7) has(8) a(9) problem(10) and(11) the(12) new(13) 2003(14) accords(15) probably(16) will(17) have(18) much(19) better(20) transmissions(21) ,(22) but(23) if(24) you(25) are(26) thinking(27) about(28) buying(29) a(30) used(31) v6(32) you(33) might(34) want(35) to(36) think(37) twice....$4500(38) !(39) !(40) !(41) !(42) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) Coupe_EX(16) V6(17) 
+		</sentence>
+	</text>
+</review>

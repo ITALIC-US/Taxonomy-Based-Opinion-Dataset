@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy productClass="car">
+	<featureRoot name="car" featWords="auto,automobile,automobiles,car,cars,suv,vehicle,vehicles">
+		<feature name="cab" featWords="cab"/>
+		<feature name="color" featWords="color,colors,paint,paint job,paint jobs,paint work"/>
+		<feature name="comfort" featWords="comfort,ergonomics,fit"/>
+		<feature name="components" featWords="components">
+			<feature name="airbag" featWords="airbag"/>
+			<feature name="amenities" featWords="amenities,goodies">
+				<feature name="cup holders" featWords="cup holder,cup holders,cupholder,cupholders,drink holders"/>
+			</feature>
+			<feature name="battery" featWords="battery"/>
+			<feature name="brakes" featWords="brake,brakes,braking,stopping power"/>
+			<feature name="bumper" featWords="bumper"/>
+			<feature name="climate" featWords="climate,climate control">
+				<feature name="ac" featWords="ac,air conditioner,air conditioning,cooling system"/>
+				<feature name="heat" featWords="heat,heater,heaters,heating"/>
+			</feature>
+			<feature name="clutch" featWords="clutch"/>
+			<feature name="controls" featWords="button,buttons,control,controls,knobs,switches"/>
+			<feature name="dash" featWords="dash,dash board,dashboard"/>
+			<feature name="door" featWords="door,doors"/>
+			<feature name="drive" featWords="drive,drive train,drivetrain,power train,powertrain,traction"/>
+			<feature name="engine" featWords="engine,engines,motor">
+				<feature name="acceleration" featWords="acceleration,accelerator"/>
+				<feature name="horsepower" featWords="horsepower,power"/>
+				<feature name="speed" featWords="speed,speeds"/>
+				<feature name="torque" featWords="torque"/>
+			</feature>
+			<feature name="exhaust" featWords="exhaust"/>
+			<feature name="gauges" featWords="gauge,gauges">
+				<feature name="odometer" featWords="odometer"/>
+			</feature>
+			<feature name="gearbox" featWords="gear,gear box,gearbox,gears">
+				<feature name="shifter" featWords="gear selector,shift,shifter,shifting,shifts"/>
+			</feature>
+			<feature name="horn" featWords="horn"/>
+			<feature name="lights" featWords="lighting,lights">
+				<feature name="headlights" featWords="headlights"/>
+			</feature>
+			<feature name="mirrors" featWords="mirror,mirrors,rear view mirror,view mirror"/>
+			<feature name="radiator" featWords="radiator"/>
+			<feature name="seat" featWords="back seat,back seats,backseat,backseats,front seat,front seats,middle seats,passenger seat,passenger side,rear seat,rear seats,seat,seating,seats">
+				<feature name="cushion" featWords="cushion"/>
+				<feature name="seating position" featWords="seating position"/>
+			</feature>
+			<feature name="sound system" featWords="audio system,audio systems,sound,sound system,stereo,stereo system">
+				<feature name="bass" featWords="bass"/>
+				<feature name="radio" featWords="radio">
+					<feature name="reception" featWords="reception"/>
+				</feature>
+				<feature name="speakers" featWords="speaker,speakers"/>
+			</feature>
+			<feature name="steering" featWords="steering,steering wheel">
+				<feature name="power steering" featWords="power steering"/>
+				<feature name="turning radius" featWords="turning,turning angle,turning circle,turning radius"/>
+			</feature>
+			<feature name="suspension" featWords="suspension,suspensions"/>
+			<feature name="transmission" featWords="transmission,transmissions"/>
+			<feature name="trunk" featWords="trunk"/>
+			<feature name="wheel" featWords="wheel,wheels">
+				<feature name="rim" featWords="rim,rims"/>
+				<feature name="tire" featWords="tire,tires">
+					<feature name="spare tire" featWords="spare tire,spare tires"/>
+				</feature>
+			</feature>
+			<feature name="window" featWords="window,windows"/>
+			<feature name="wipers" featWords="wipers"/>
+		</feature>
+		<feature name="design" featWords="appearance,body design,body style,body styling,design,designs,look,looks,redesign,style,styling"/>
+		<feature name="exterior" featWords="exterior,outside"/>
+		<feature name="finish" featWords="finish"/>
+		<feature name="gas" featWords="consumption,fuel,fuel economy,fuel efficiency,fuel mileage,fuel-economy,gas,gas consumption,gas efficiency,gas milage,gas mileage,gasoline,milage,mileage,mpg,oil consumption">
+			<feature name="cruising range" featWords="cruising,cruising range"/>
+			<feature name="emissions" featWords="emissions"/>
+			<feature name="gas tank" featWords="fuel tank,gas tank,tank"/>
+		</feature>
+		<feature name="grip" featWords="grip">
+			<feature name="body roll" featWords="body roll"/>
+		</feature>
+		<feature name="handling" featWords="handling">
+			<feature name="ride quality" featWords="ride,ride quality,rides,riding"/>
+		</feature>
+		<feature name="interior" featWords="inside,insides,interior,interiors"/>
+		<feature name="maintenance" featWords="maintenance,maintenance costs"/>
+		<feature name="material" featWords="material,materials"/>
+		<feature name="package" featWords="package,packages"/>
+		<feature name="performance" featWords="performance"/>
+		<feature name="pickup" featWords="pickup"/>
+		<feature name="price" featWords="cost,costs,expense,price">
+			<feature name="resale value" featWords="re-sale value,resale,resale value,resale values"/>
+		</feature>
+		<feature name="reliability" featWords="dependability,reliability"/>
+		<feature name="response" featWords="response,responses"/>
+		<feature name="room" featWords="room,space">
+			<feature name="head room" featWords="head room,headroom"/>
+			<feature name="leg room" featWords="leg room,leg space,legroom"/>
+			<feature name="seat room" featWords="seat area,seat room"/>
+			<feature name="trunk space" featWords="cargo area,cargo space,storage,storage area,storage room,storage space,trunk room,trunk space"/>
+		</feature>
+		<feature name="safety" featWords="safety,safety rating">
+			<feature name="crash test" featWords="crash test"/>
+		</feature>
+		<feature name="service" featWords="customer service,service,service plan,servicing,support"/>
+		<feature name="size" featWords="size"/>
+		<feature name="stability" featWords="stability"/>
+		<feature name="truck" featWords="truck,trucks"/>
+		<feature name="van" featWords="van">
+			<feature name="minivan" featWords="mini van,mini-van,minivan"/>
+		</feature>
+		<feature name="visibility" featWords="view,visibility,vision,visuals"/>
+		<feature name="warranty" featWords="warranty"/>
+		<feature name="weight" featWords="weight"/>
+	</featureRoot>
+</taxonomy>

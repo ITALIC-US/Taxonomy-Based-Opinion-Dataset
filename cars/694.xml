@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="694" item="1998 Toyota 4Runner" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) the(2) 4Runner(3) when(4) it(5) comes(6) to(7) SUV(8) 's(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			looks(1) ,(2) Toyota(3) mechanical(4) reliability(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			ergonomics(1) ,(2) ride(3) quality(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			would(1) not(2) buy(3) another(4) unless(5) the(6) ride(7) is(8) greatly(9) improved(10) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) bought(5) our(6) 98(7) 4Runner(8) from(9) our(10) friends(11) as(12) they(13) were(14) switching(15) vehicles(16) and(17) did(18) not(19) want(20) to(21) trade(22) it(23) in(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			It(1) only(2) had(3) 17000_miles(4) on(5) it(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) had(2) appealed(3) to(4) me(5) because(6) it(7) looked(8) good(9) ,(10) had(11) a(12) 4(13) cylinder(14) engine(15) for(16) better(17) gas(18) mileage(19) ,(20) and(21) I(22) knew(23) would(24) be(25) good(26) mechanically(27) .(28) 
+			<opinion polarity="+" feature="car" opWords="26,27"/>
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) right(3) about(4) these(5) things(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			But(1) after(2) owning(3) it(4) for(5) a(6) few(7) months(8) I(9) began(10) to(11) dislike(12) the(13) thing(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			First(1) ,(2) acceleration(3) is(4) very(5) slow(6) and(7) strained(8) with(9) the(10) four(11) .(12) 
+			<opinion polarity="-" feature="acceleration" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) SR5(2) V6(3) will(4) be(5) better(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Seats(1) are(2) uncomfortable(3) ,(4) but(5) ride(6) quality(7) and(8) freeway(9) noise(10) are(11) the(12) worst(13) of(14) any(15) SUV_I(16) 've(17) ever(18) ridden(19) in(20) or(21) driven(22) ,(23) and(24) that(25) 's(26) alot(27) .(28) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			Went(1) on(2) vacation(3) to(4) Florida(5) and(6) actually(7) was(8) getting(9) motion(10) sickness(11) in(12) this(13) vehicle(14) ,(15) bumpy(16) and(17) jittery(18) ride(19) .(20) 
+			<opinion polarity="-" feature="ride quality" featWords="19" opWords="18"/>
+			<opinion polarity="-" feature="ride quality" featWords="19" opWords="16"/>
+		</sentence>
+		<sentence id="10">
+			Felt(1) relieved(2) to(3) make(4) it(5) back(6) home(7) !(8) 
+		</sentence>
+		<sentence id="11">
+			After(1) the(2) trip(3) we(4) agreed(5) to(6) get(7) rid(8) of(9) it(10) !(11) 
+		</sentence>
+		<sentence id="12">
+			Also(1) ,(2) the(3) cupholders(4) are(5) flimsy(6) ,(7) thin(8) plastic(9) ((10) they(11) broke(12) )(13) and(14) placed(15) right(16) in(17) front(18) of(19) the(20) a(21) /(22) c(23) controls(24) and(25) vent(26) ,(27) so(28) you(29) have(30) to(31) move(32) them(33) if(34) you(35) want(36) to(37) make(38) a(39) /(40) c(41) adjustments(42) .(43) 
+			<opinion polarity="-" feature="cup holders" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			Poor(1) engineering(2) throughout(3) the(4) inside(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			Toyota(1) may(2) have(3) improved(4) since(5) 1998(6) with(7) the(8) 4Runner(9) ,(10) and(11) their(12) engines(13) are(14) superior(15) to(16) most(17) domestics(18) ((19) I(20) am(21) an(22) auto(23) tech(24) )(25) ,(26) but(27) they(28) remain(29) light(30) years(31) behind(32) Ford_'s_Explorer(33) /(34) Expedition(35) and(36) GM_'s_Suburban(37) in(38) ride(39) comfort(40) and(41) interior(42) engineering(43) in(44) my(45) opinion(46) .(47) 
+		</sentence>
+		<sentence id="15">
+			Most(1) full(2) size(3) SUV(4) 's(5) are(6) body(7) on(8) frame(9) ,(10) which(11) would(12) preclude(13) a(14) somewhat(15) stiff(16) ride(17) ,(18) but(19) this(20) one(21) was(22) like(23) an(24) old(25) pickup(26) truck(27) !(28) 
+		</sentence>
+		<sentence id="16">
+			Check(1) out(2) Ford(3) 's(4) 2002(5) and(6) later(7) SUV(8) 's(9) for(10) independent(11) rear(12) suspension(13) and(14) ride(15) in(16) one(17) ,(18) you(19) will(20) see(21) the(22) difference(23) it(24) makes(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			I(1) do(2) not(3) recommend(4) this(5) particular(6) year(7) of(8) Toyota(9) for(10) a(11) good(12) choice(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998(12) 
+		</sentence>
+	</text>
+</review>

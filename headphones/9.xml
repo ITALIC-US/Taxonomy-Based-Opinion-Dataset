@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="9" item="Sentry  HO900 Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Bad(1) quality(2) sound(3) ,(4) questionable(5) design(6) 
+			<opinion polarity="-" feature="sound quality" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="design" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) wireless(2) range(3) ,(4) headphones(5) fit(6) well(7) and(8) are(9) comfortable(10) 
+			<opinion polarity="+" feature="range" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="6,7"/>
+			<opinion polarity="+" feature="comfort" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) sound(2) quality(3) ,(4) does(5) not(6) come(7) with(8) AC(9) adapter(10) for(11) transmitter(12) ,(13) poor(14) quality(15) wiring(16) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Unless(1) your(2) expectations(3) of(4) quality(5) are(6) low(7) and(8) /(9) or(10) the(11) product(12) would(13) be(14) used(15) to(16) listen(17) to(18) a(19) low(20) quality(21) sound(22) source(23) ,(24) avoid(25) this(26) particular(27) product(28) .(29) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) transmitter(2) is(3) fairly(4) compact(5) thus(6) easy(7) to(8) place(9) in(10) a(11) safe(12) location(13) and(14) it(15) seems(16) to(17) keep(18) a(19) balanced(20) footing(21) in(22) its(23) cradle(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			However(1) this(2) product(3) comes(4) with(5) NO_AC(6) adapter(7) plus(8) the(9) 9volt(10) battery(11) clip(12) seemed(13) rather(14) fragile(15) on(16) top(17) of(18) the(19) wires(20) for(21) it(22) were(23) about(24) an(25) inch(26) too(27) short(28) to(29) put(30) a(31) battery(32) in(33) without(34) risk(35) of(36) tearing(37) the(38) wires(39) .(40) 
+		</sentence>
+		<sentence id="3">
+			The(1) wires(2) to(3) connect(4) the(5) transmitter(6) to(7) the(8) audio(9) device(10) ((11) mp3(12) player(13) ,(14) pc(15) ,(16) etc(17) )(18) were(19) functional(20) but(21) appeared(22) just(23) as(24) fragile(25) and(26) prone(27) to(28) tearing(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			The(1) headphones(2) were(3) comfortable(4) and(5) adjusted(6) to(7) a(8) very(9) nice(10) fit(11) .(12) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="5">
+			I(1) found(2) these(3) headphones(4) to(5) have(6) a(7) very(8) low(9) sound(10) quality(11) ,(12) extremely(13) low(14) bass(15) response(16) and(17) they(18) carried(19) quite(20) a_bit(21) of(22) distortion(23) at(24) volumes(25) over(26) 50_%(27) .(28) 
+			<opinion polarity="-" feature="sound quality" featWords="10,11" opWords="9"/>
+		</sentence>
+		<sentence id="6">
+			The(1) battery(2) cover(3) for(4) the(5) 2(6) AAA(7) batteries(8) which(9) power(10) the(11) headphones(12) fell(13) off(14) 5_times(15) before(16) I(17) successfully(18) got(19) it(20) to(21) stay(22) on(23) and(24) once(25) I(26) took(27) it(28) back(29) off(30) to(31) put(32) the(33) batteries(34) in(35) the(36) retaining(37) block(38) on(39) the(40) cover(41) fell(42) off(43) in(44) my(45) hand(46) .(47) 
+		</sentence>
+		<sentence id="7">
+			After(1) sampling(2) several(3) audio(4) sources(5) this(6) product(7) went(8) back(9) in(10) the(11) box(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) decided(2) to(3) keep(4) using(5) the(6) tape(7) mended(8) headphones(9) that(10) I(11) 've(12) been(13) using(14) for(15) almost(16) 5(17) years(18) rather(19) than(20) deal(21) with(22) the(23) shortfalls(24) of(25) this(26) product(27) .(28) 
+		</sentence>
+	</text>
+</review>

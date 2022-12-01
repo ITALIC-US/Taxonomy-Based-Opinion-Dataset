@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="643" item="1995 Mercedes-Benz E-Class" rating="1">
+	<title>
+		<sentence id="1">
+			Money_Sponge(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Classy(1) looking(2) ,(3) good(4) gas(5) mileage(6) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Electrical(1) wiring(2) harness(3) will(4) deteriorate(5) ,(6) need(7) replacement(8) IF(9) you(10) do(11) not(12) first(13) have(14) an(15) engine(16) fire(17) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			For(1) such(2) a(3) quality(4) manufacturer(5) ,(6) this(7) car(8) is(9) a(10) sponge(11) on(12) wheels(13) for(14) repairs(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			After(1) buying(2) the(3) 1995(4) C-280(5) I(6) learned(7) that(8) all(9) MB(10) cars(11) manufactured(12) between(13) 1992-1995(14) had(15) a(16) wiring(17) harness(18) problem(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Cost(1) to(2) repair(3) ?(4) 
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) neighborhood(3) of(4) $2,000(5) and(6) MB(7) pretends(8) they(9) do(10) not(11) know(12) they(13) have(14) a(15) problem(16) !(17) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 8500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) C-280(16) 
+		</sentence>
+	</text>
+</review>

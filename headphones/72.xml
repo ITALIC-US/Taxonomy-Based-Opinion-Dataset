@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="72" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Sennheiser_HD(1) 280(2) professional(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			accurate(1) audio(2) reproduction(3) ,(4) 32db(5) noise(6) attenuation(7) ,(8) sennheiser(9) quality(10) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			alot(1) of(2) pro(3) audio(4) stores(5) sell(6) out(7) of(8) these(9) headphones(10) !(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			clean(1) and(2) natural(3) sound(4) ,(5) better(6) noise(7) attenuation(8) than(9) most(10) rifle(11) rage(12) earplugs(13) ,(14) durable(15) ,(16) replaceable(17) parts(18) ,(19) kills(20) the(21) Sony(22) MDR-V700DJ(23) .(24) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			A(1) MUST_FOR_DJ(2) '(3) S(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			For(1) over(2) 50(3) years(4) Sennheiser(5) has(6) been(7) producing(8) top(9) studio(10) and(11) consumer(12) grade(13) audio(14) products(15) .(16) this(17) new(18) headphone(19) was(20) designed(21) for(22) dj(23) 's(24) and(25) enviroments(26) where(27) monitoring(28) in(29) high(30) noise(31) were(32) present(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			As(1) a(2) DJ(3) myself(4) I(5) was(6) looking(7) to(8) replace(9) my(10) worn(11) out(12) sony(13) mdr-v700(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			The(1) sony(2) headphones(3) produced(4) a(5) high(6) bass(7) response(8) to(9) allow(10) easier(11) beat(12) matching(13) while(14) mixing(15) ,(16) hence(17) the(18) sound(19) quality(20) was(21) muddy(22) and(23) fatigued(24) my(25) ears(26) after(27) an(28) hour(29) of(30) use(31) .(32) 
+			<opinion polarity="+" feature="bass" featWords="7,8" opWords="6"/>
+			<opinion polarity="-" feature="sound quality" featWords="19,20" opWords="22"/>
+			<opinion polarity="-" feature="sound quality" featWords="19,20" opWords="24"/>
+		</sentence>
+		<sentence id="4">
+			The(1) HD(2) 280(3) are(4) completely(5) different(6) ,(7) it(8) provides(9) a(10) flat(11) frequency(12) response(13) from(14) 8hz(15) to(16) 25khz(17) .(18) 
+			<opinion polarity="+" feature="frequency response" featWords="12,13" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			Thus(1) you(2) can(3) hear(4) every(5) high-hat(6) and(7) every(8) possiable(9) detail(10) in(11) the(12) audio(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Of(1) all(2) of(3) the(4) headphones(5) i(6) have(7) used(8) this(9) is(10) truly(11) the(12) most(13) natural(14) sounding(15) closed(16) headphone(17) i(18) have(19) owned(20) .(21) 
+			<opinion polarity="+" feature="sound quality" opWords="14,15"/>
+		</sentence>
+		<sentence id="7">
+			Also(1) replacement(2) parts(3) are(4) availiable(5) such(6) as(7) cable(8) ,(9) ear(10) pads(11) .(12) 
+		</sentence>
+	</text>
+</review>

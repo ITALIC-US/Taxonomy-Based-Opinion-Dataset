@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="389" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) thrill(2) and(3) the(4) Rush(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handles(1) well(2) ,(3) feel(4) good(5) behind(6) the(7) wheel(8) 
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) fast(2) ,(3) will(4) cause(5) accidents(6) 
+			<opinion polarity="-" feature="speed" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) very(4) sporty(5) car(6) with(7) great(8) handling(9) and(10) looks(11) beautiful(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="11,12"/>
+			<opinion polarity="+" feature="handling" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) easy(3) for(4) me(5) to(6) fall(7) in(8) love(9) with(10) it(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) just(2) loved(3) the(4) way(5) it(6) felt(7) when(8) I(9) was(10) behind(11) the(12) wheel(13) and(14) I(15) felt(16) the(17) adrenaline(18) rush(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Those(1) are(2) all(3) very(4) nice(5) things(6) in(7) a(8) car(9) but(10) you(11) must(12) look(13) at(14) the(15) bad(16) qualities(17) as_well(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			These(1) cars(2) are(3) very(4) fast(5) and(6) very(7) dangerous(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="speed" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) handling(2) of(3) the(4) car(5) will(6) not(7) always(8) save(9) you(10) when(11) you(12) are(13) going(14) too(15) fast(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			When(1) you(2) are(3) behind(4) the(5) wheel(6) of(7) one(8) of(9) these(10) cars(11) you(12) really(13) want(14) to(15) go(16) fast(17) ,(18) take(19) it(20) from(21) me(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			I(1) bought(2) this(3) car(4) but(5) soon(6) realized(7) that(8) it(9) was(10) not(11) for(12) me(13) when(14) I(15) almost(16) got(17) in(18) an(19) accident(20) with(21) this(22) beautiful(23) car(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="9">
+			Remember(1) that(2) when(3) buying(4) a(5) car(6) you(7) always(8) want(9) to(10) find(11) something(12) in(13) your(14) price(15) range(16) ,(17) one(18) that(19) handles(20) well(21) ,(22) and(23) one(24) that(25) will(26) not(27) cause(28) you(29) to(30) want(31) to(32) drive(33) fast(34) .(35) 
+			<opinion polarity="+" feature="handling" opWords="20,21"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="161" item="1999 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			1999(1) Buick_Regal_Dependability(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			awsome(1) drive(2) train(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Power(1) windows(2) :(3) ((4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) thought(2) i(3) would(4) write(5) a(6) quick(7) review(8) on(9) my(10) car(11) for(12) anyone(13) looking(14) at(15) buying(16) a(17) used(18) Regal(19) .(20) 153,000_miles(21) on(22) it(23) and(24) never(25) a(26) big(27) problem(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			Only(1) thing(2) replaced(3) is(4) a(5) mass(6) air(7) flow(8) sensor(9) ,(10) starter(11) and(12) all(13) the(14) power(15) windows(16) have(17) gone(18) out(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Other(1) than(2) that(3) best(4) car(5) I(6) have(7) ever(8) owned(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) service(3) it(4) regularly(5) which(6) has(7) a_lot(8) to(9) do(10) with(11) it(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Even(1) has(2) the(3) original(4) A(5) /(6) C(7) unit(8) ,(9) that(10) reminds(11) me(12) I(13) did(14) replace(15) the(16) blower(17) fan(18) for(19) the(20) A(21) /(22) C._Knock(23) on(24) wood(25) Ill(26) keep(27) her(28) till(29) she(30) dies(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Regal_LE(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="924" item="1999 Pontiac Firebird" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) 'm(2) Sick_Of_My_Firebird_Convertible(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks_Great_Going_Down_the_Road(1) and(2) it(3) is(4) Fun(5) to(6) Drive(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mine(1) is(2) falling(3) apart(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) never(3) own(4) another(5) GM(6) product(7) again(8) !(9) 
+		</sentence>
+		<sentence id="2">
+			GM(1) has(2) made(3) no(4) effort(5) to(6) correct(7) these(8) problems(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) '(4) 99(5) Firebird_Convertible(6) new(7) in(8) December(9) '(10) 99(11) and(12) right(13) away(14) I(15) had(16) a(17) few(18) problems(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			While(1) still(2) under(3) warranty(4) my(5) rear(6) trunk(7) release(8) motor(9) burnt(10) out(11) and(12) my(13) Monsoon(14) stereo(15) quit(16) working(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Things(1) got(2) worse(3) from(4) there(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			At(1) 42,000_miles(2) my(3) transmission(4) went(5) out(6) ,(7) cost(8) me(9) a(10) little(11) over(12) $2,000(13) to(14) have(15) the(16) transmission(17) rebuilt(18) .(19) 
+			<opinion polarity="-" feature="transmission" featWords="4" opWords="5,6"/>
+		</sentence>
+		<sentence id="5">
+			Around(1) 50,000_miles(2) my(3) plastic(4) door(5) panels(6) started(7) to(8) crack(9) open(10) ((11) no(12) I(13) do(14) not(15) have(16) leather(17) ,(18) just(19) gray(20) plastic(21) )(22) and(23) my(24) driver(25) side(26) visor(27) fell(28) off(29) in(30) my(31) lap(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			I(1) never(2) fixed(3) the(4) cracked(5) door(6) panels(7) because(8) GM(9) wants(10) $600(11) a(12) panel(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) visor(2) cost(3) me(4) $85(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			In(1) the(2) summer(3) of(4) 2002(5) ,(6) my(7) alternator(8) had(9) to(10) be(11) replaced(12) at(13) a(14) cost(15) of(16) $150(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			In(1) October_2003(2) ,(3) I(4) have(5) the(6) following(7) problems(8) that(9) have(10) not(11) been(12) fixed(13) yet(14) :(15) 1(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			My(1) passenger(2) side(3) overhead(4) visor(5) broke(6) off(7) ((8) this(9) is(10) a(11) convertible(12) ,(13) so(14) I(15) move(16) the(17) visors(18) a_LOT(19) to(20) unlatch(21) the(22) roof(23) )(24) .(25) 2(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			My(1) rear(2) window(3) has(4) come(5) loose(6) from(7) the(8) cloth(9) top(10) and(11) now(12) leaks(13) .(14) 3(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			My(1) driver(2) side(3) power(4) window(5) is(6) shorting(7) out(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			It(1) will(2) stop(3) working(4) and(5) so(6) far(7) I(8) can(9) shut(10) the(11) car(12) off(13) ,(14) wait(15) a(16) few(17) minutes(18) and(19) then(20) turn(21) the(22) car(23) back(24) on(25) ...(26) then(27) the(28) window(29) works(30) again(31) .(32) <(33) /(34) p(35) >(36) I(37) do(38) not(39) understand(40) why(41) other(42) people(43) 's(44) firebirds(45) have(46) been(47) so(48) great(49) and(50) mine(51) is(52) falling(53) apart(54) ?(55) ?(56) ?(57) <(58) /(59) p(60) >(61) TO(62) :(63) General_Motor_Company(64) -(65) It(66) would(67) be(68) nice(69) if(70) you(71) had(72) enough(73) respect(74) for(75) one(76) of(77) your(78) customers(79) to(80) explain(81) to(82) me(83) why(84) my(85) $28,000(86) firebird(87) is(88) a(89) piece(90) of(91) junk(92) .(93) 
+			<opinion polarity="-" feature="car" opWords="53,54"/>
+			<opinion polarity="+" feature="car" opWords="49" potency="48"/>
+		</sentence>
+		<sentence id="14">
+			The(1) General_Motor_Company(2) actually(3) told(4) me(5) all(6) this(7) was(8) my(9) fault(10) because(11) I(12) did(13) not(14) buy(15) an(16) extended(17) warranty(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Convertible(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="88" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Very(1) nice(2) for(3) gamers(4) and(5) audiophiles(6) 
+			<opinion polarity="+" feature="headphones" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) at(3) a(4) reasonable(5) price(6) ,(7) excellent(8) noise(9) cancelling(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="isolation" featWords="9,10" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) burn(2) in(3) ,(4) sometimes(5) gets(6) uncomfortable(7) on(8) ears(9) 
+			<opinion polarity="-" feature="comfort" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) Sennheisers(4) 3-4(5) Months(6) ago(7) for(8) 80(9) bucks(10) off(11) Ebay(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			These(1) are(2) probably(3) the(4) best(5) headphones(6) at(7) this(8) price(9) you(10) can(11) get(12) .(13) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			The(1) low(2) frequency(3) ,(4) the(5) midrange(6) ,(7) and(8) the(9) highs(10) are(11) excellent(12) .(13) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="12"/>
+			<opinion polarity="+" feature="mids" featWords="6" opWords="12"/>
+			<opinion polarity="+" feature="highs" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			At(1) first(2) ,(3) I(4) thought(5) these(6) were(7) really(8) bad(9) headphones(10) ,(11) they(12) were(13) probably(14) worse(15) sounding(16) than(17) my(18) 5_dollar(19) Sony(20) headphones(21) i(22) bought(23) .(24) 
+			<opinion polarity="-" feature="headphones" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) 5(3) days(4) of(5) use(6) ,(7) the(8) sound(9) began(10) to(11) clear(12) up(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			After(1) the(2) 50(3) hour(4) burn(5) though(6) ,(7) these(8) headphones(9) have(10) almost(11) tripled(12) in(13) quality(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) also(3) great(4) for(5) high(6) noise(7) environments(8) ,(9) I(10) turn(11) my(12) stereo(13) up(14) all(15) the(16) way(17) then(18) put(19) these(20) on(21) ,(22) I(23) wont(24) be(25) able(26) to(27) hear(28) nothing(29) but(30) these(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			These(1) headphones(2) are(3) also(4) pretty(5) comfortable(6) ,(7) but(8) you(9) have(10) to(11) get(12) used(13) to(14) it(15) so(16) you(17) can(18) withstand(19) long(20) hours(21) with(22) it(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="9">
+			I(1) use(2) these(3) headphones(4) exclusively(5) for(6) Counter-Strike(7) ((8) I(9) use(10) it(11) at_least(12) 6(13) hours(14) a(15) day(16) )(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Once(1) you(2) used(3) it(4) enough(5) ,(6) your(7) head(8) will(9) get(10) used(11) to(12) it(13) and(14) it(15) wont(16) give(17) you(18) headaches(19) after(20) the(21) first(22) time(23) you(24) use(25) it(26) .(27) 
+		</sentence>
+	</text>
+</review>

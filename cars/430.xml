@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="430" item="1996 Toyota Camry" rating="4">
+	<title>
+		<sentence id="1">
+			a(1) love(2) ((3) ?(4) )(5) story(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reasonably(1) economical(2) ,(3) smooth(4) responsive(5) powertrain(6) ,(7) bulletproof(8) reliability(9) ,(10) excellent(11) fit(12) and(13) finish(14) .(15) 
+			<opinion polarity="+" feature="finish" featWords="14" opWords="11"/>
+			<opinion polarity="+" feature="comfort" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="reliability" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="drive" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="drive" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			suspension(1) is(2) made(3) of(4) memory(5) foam(6) ,(7) numb(8) steering(9) ,(10) big(11) ((12) hence(13) a(14) monumental(15) turning(16) radius(17) )(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) excellent(2) car(3) for(4) those(5) prioritizing(6) safe(7) ,(8) comfortable(9) and(10) economical(11) transportation(12) .(13) 
+			<opinion polarity="+" feature="safety" opWords="7"/>
+			<opinion polarity="+" feature="price" opWords="11"/>
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Be(1) warned(2) -(3) you(4) may(5) fall(6) in(7) love(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) will(2) start(3) off(4) this(5) review(6) of(7) my(8) 1996(9) Toyota_Camry(10) by(11) saying(12) I(13) did(14) not(15) want(16) to(17) like(18) the(19) car(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) acquired(3) due(4) to(5) circumstances(6) out(7) of(8) my(9) control(10) ((11) I(12) smashed(13) my(14) Jetta(15) !(16) )(17) and(18) this(19) beige(20) whale(21) came(22) into(23) my(24) possession(25) with(26) much(27) angst(28) and(29) overall(30) disapproval(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) over(3) the(4) relatively(5) short(6) 6(7) months(8) I(9) have(10) owned(11) the(12) car(13) ,(14) I(15) will(16) tell(17) the(18) tale(19) of(20) how(21) it(22) has(23) slowly(24) started(25) to(26) turn(27) me(28) around(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			Firstly(1) ,(2) this(3) car(4) is(5) a(6) ship(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			If(1) it(2) had(3) ballast(4) and(5) were(6) sufficiently(7) watertight(8) ,(9) I(10) have(11) no_doubt(12) that(13) paying(14) passengers(15) would(16) board(17) and(18) set(19) sail(20) across(21) the(22) ocean(23) blue(24) -(25) do(26) not(27) kid(28) yourself(29) ,(30) its(31) mammoth(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			This(1) became(2) most(3) immediately(4) known(5) to(6) me(7) as(8) I(9) was(10) maneuvering(11) around(12) the(13) parking(14) lot(15) of(16) a(17) nearby(18) grocery(19) store(20) I(21) frequently(22) navigated(23) in(24) my(25) lost(26) Bavarian(27) counterpart(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			When(1) I(2) saw(3) a(4) free(5) parking(6) space(7) in(8) the(9) Jetta(10) ,(11) I(12) could(13) be(14) at(15) any(16) angle(17) and(18) any(19) position(20) -(21) it(22) was(23) as_if(24) the(25) front(26) wheels(27) came(28) off(29) and(30) went(31) horizontal(32) ,(33) and(34) the(35) car(36) just(37) '(38) fit(39) '(40) everywhere(41) .(42) 
+		</sentence>
+		<sentence id="8">
+			With(1) the(2) Toyota(3) -(4) not(5) so(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			There(1) were(2) a(3) few(4) harrowing(5) moments(6) when(7) several(8) senior(9) citizens(10) nearly(11) lost(12) the(13) contents(14) of(15) their(16) grocery(17) carts(18) due(19) to(20) the(21) proportions(22) of(23) the(24) Toyota(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			As(1) I(2) drove(3) it(4) more(5) ,(6) I(7) noticed(8) how(9) there(10) was(11) an(12) absence(13) of(14) the(15) normal(16) sounds(17) one(18) would(19) find(20) in(21) a(22) Volkswagen(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			Squeaking(1) knobs(2) ,(3) screeching(4) fan(5) belts(6) ,(7) rushing(8) wind(9) noice(10) -(11) they(12) were(13) all(14) missing(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Peaceful(1) ,(2) I(3) began(4) to(5) think(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			But(1) NO(2) !(3) 
+		</sentence>
+		<sentence id="14">
+			I(1) had(2) to(3) hate(4) this(5) car(6) .(7) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) big(3) ,(4) ugly(5) ,(6) and(7) drives(8) like(9) a(10) frigate(11) .(12) 
+			<opinion polarity="-" feature="design" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			On(1) a(2) long(3) road(4) trip(5) to(6) a(7) friends(8) cottage(9) ,(10) there(11) was(12) further(13) evidence(14) that(15) the(16) car(17) was(18) ...(19) err(20) ,(21) plausibly(22) a(23) good(24) vehicle(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="25" opWords="24"/>
+		</sentence>
+		<sentence id="17">
+			The(1) 2.2L(2) 4-cylinder(3) bested(4) the(5) power(6) in(7) my(8) Vee-Dub(9) by(10) about(11) 10(12) horsepower(13) ,(14) marginal(15) considering(16) it(17) was(18) a(19) football(20) field(21) larger(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			But(1) the(2) delivery(3) of(4) the(5) power(6) was(7) so(8) much(9) smoother(10) ,(11) and(12) because_of(13) the(14) larger(15) displacement(16) 2.2L(17) engine(18) compared(19) to(20) the(21) German(22) 2.0L(23) ,(24) the(25) torque(26) was(27) available(28) at(29) a(30) lower(31) RPM(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) able(3) to(4) pass(5) with(6) more(7) confidence(8) ,(9) and(10) it(11) was(12) so(13) smooth(14) !(15) 
+			<opinion polarity="+" feature="car" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="20">
+			This(1) is(2) a(3) four-banger(4) ?(5) 
+		</sentence>
+		<sentence id="21">
+			Adding(1) to(2) my(3) frustration(4) ,(5) the(6) fuel(7) mileage(8) on(9) my(10) highway(11) journey(12) was(13) about(14) 30(15) mpg(16) ((17) although(18) around(19) town(20) you(21) 'll(22) struggle(23) for(24) mid-20(25) 's(26) )(27) .(28) 
+		</sentence>
+		<sentence id="22">
+			So(1) .(2) 
+		</sentence>
+		<sentence id="23">
+			I(1) am(2) at(3) a(4) crossroads(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			The(1) car(2) is(3) good(4) ,(5) because(6) it(7) is(8) efficient(9) and(10) smooth(11) ,(12) but(13) its(14) so(15) big(16) and(17) ugly(18) -(19) can(20) this(21) relationship(22) really(23) work(24) ?(25) 
+			<opinion polarity="-" feature="design" opWords="18"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			I(1) kept(2) driving(3) -(4) the(5) car(6) was(7) purchased(8) for(9) a(10) mere(11) $3,000(12) ,(13) what(14) could(15) I(16) do(17) wrong(18) ?(19) 
+		</sentence>
+		<sentence id="26">
+			Yet(1) another(2) road(3) trip(4) invaded(5) my(6) calendar(7) ,(8) and(9) this(10) time(11) it(12) was(13) to(14) visit(15) my(16) parents(17) in(18) a(19) small(20) town(21) 500(22) KM(23) north(24) of(25) where(26) I(27) live(28) near(29) the(30) city(31) .(32) 
+		</sentence>
+		<sentence id="27">
+			I(1) had(2) to(3) pack(4) the(5) car(6) chalk(7) full(8) of(9) stuff(10) for(11) the(12) weekend(13) ,(14) along_with(15) a(16) wife(17) and(18) a(19) mountain(20) bike(21) .(22) 
+		</sentence>
+		<sentence id="28">
+			To(1) my(2) dismay(3) ,(4) and(5) utter(6) disappointment(7) ,(8) the(9) trusty(10) Toyota(11) took(12) almost(13) the(14) entire(15) contents(16) of(17) our(18) weekend(19) in(20) the(21) trunk(22) ,(23) with(24) just(25) the(26) tire(27) of(28) the(29) bicycle(30) portruding(31) from(32) the(33) folding(34) seatbacks(35) .(36) 
+		</sentence>
+		<sentence id="29">
+			Indeed(1) the(2) proportions(3) of(4) this(5) car(6) are(7) significant(8) ,(9) but(10) it(11) is(12) used(13) so(14) wisely(15) ,(16) one_may(17) wonder(18) if(19) it(20) was(21) purposely(22) built(23) to(24) its(25) size(26) for(27) a(28) reason(29) ?(30) 
+		</sentence>
+		<sentence id="30">
+			Hmmm(1) .(2) 
+		</sentence>
+		<sentence id="31">
+			To(1) this(2) day(3) ,(4) the(5) car(6) has(7) proven(8) itself(9) again(10) and(11) again(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			Today(1) ,(2) I(3) drove(4) home(5) through(6) a(7) rain(8) /(9) snow(10) storm(11) along(12) a(13) cold(14) ,(15) dark(16) highway(17) ,(18) and(19) had(20) the(21) feeling(22) I(23) could(24) be(25) trekking(26) across(27) the(28) Arctic(29) in(30) this(31) car(32) .(33) 
+		</sentence>
+		<sentence id="33">
+			It(1) is(2) so(3) endlessly(4) confidence(5) inspiring(6) ,(7) and(8) honestly(9) ,(10) I(11) have(12) given(13) in(14) .(15) 
+		</sentence>
+		<sentence id="34">
+			I(1) love(2) the(3) car(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="35">
+			I(1) do(2) miss(3) my(4) Jetta(5) for(6) its(7) razor(8) sharp(9) handling(10) and(11) utterly(12) dynamic(13) driviing(14) experience(15) ,(16) but(17) the(18) Toyota(19) is(20) just(21) so(22) good(23) at(24) being(25) a(26) car(27) ,(28) it(29) is(30) undeniably(31) lovable(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="27" opWords="23"/>
+			<opinion polarity="+" feature="car" opWords="32" potency="31"/>
+			<opinion polarity="+" feature="handling" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="36">
+			Even(1) the(2) style(3) is(4) not(5) so(6) hard(7) on(8) the(9) eyes(10) anymore(11) ,(12) although(13) if(14) I(15) were(16) to(17) go(18) back(19) to(20) the(21) time(22) when(23) the(24) car(25) was(26) new(27) ,(28) I(29) would(30) not(31) have(32) chosen(33) '(34) elderly-mans(35) pleated(36) pants(37) beige(38) '(39) as(40) a(41) colour(42) .(43) 
+		</sentence>
+		<sentence id="37">
+			Reliability(1) is(2) something(3) I(4) will(5) not(6) even(7) touch(8) on(9) -(10) its(11) a(12) Toyota(13) ,(14) the(15) car(16) has(17) had(18) zero(19) problems(20) and(21) feels(22) as(23) sturdy(24) as(25) a(26) mountain(27) .(28) 
+		</sentence>
+		<sentence id="38">
+			Albeit(1) a(2) mountain(3) sitting(4) on(5) a(6) platform(7) of(8) gelatin(9) ,(10) but(11) a(12) mountain(13) nonetheless(14) .(15) 
+		</sentence>
+		<sentence id="39">
+			Because(1) this(2) has(3) been(4) more(5) of(6) a(7) meandering(8) story(9) than(10) the(11) factual(12) review(13) most(14) of(15) you(16) are(17) used(18) to(19) ,(20) I(21) suggest(22) you(23) visit(24) the(25) pros(26) and(27) cons(28) section(29) to(30) actually(31) take(32) something(33) useful(34) away(35) from(36) the(37) 10(38) minutes(39) I(40) have(41) borrowed(42) from(43) you(44) .(45) 
+		</sentence>
+		<sentence id="40">
+			Thanks(1) for(2) reading(3) and(4) happy(5) driving(6) .(7) 
+		</sentence>
+		<sentence id="41">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) LE(16) 4-cyl(17) .(18) auto(19) 
+		</sentence>
+	</text>
+</review>

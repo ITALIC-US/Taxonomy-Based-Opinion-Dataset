@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="258" item="Bose (017817401494) Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) Real_Earbuds(2) !(3) !(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			They(1) do(2) not(3) stay(4) in(5) my(6) ears(7) even(8) when(9) just(10) driving(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			So(1) no(2) pros(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pop(1) out(2) of(3) your(4) ears(5) like(6) bread(7) from(8) a(9) toaster(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) love(2) all(3) Bose(4) products(5) except_for(6) these(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Horrendous(1) design(2) .(3) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) reviewing(3) solely(4) on(5) the(6) fact(7) that(8) they(9) do(10) not(11) stay(12) in(13) the(14) ears(15) at(16) all(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Not(1) true(2) earbuds(3) they(4) simply(5) rest(6) in(7) the(8) cup(9) of(10) the(11) lower(12) ear(13) ,(14) not(15) well(16) ,(17) however(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			These(1) things(2) shift(3) around(4) even(5) when(6) you(7) 're(8) just(9) looking(10) around(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Returned(1) them(2) and(3) bought(4) the(5) Sony(6) MDR-EX90LP(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			The(1) Sony(2) 's(3) fit(4) like(5) they(6) 're(7) glued(8) in(9) my(10) ear(11) canals(12) ,(13) and(14) the(15) aluminum(16) posts(17) make(18) them(19) easy(20) to(21) secure(22) remove(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			Unlike(1) the(2) Ultimate_Ears_Super(3) .(4) fi(5) 2(6) ,(7) my(8) last(9) set(10) of(11) earbuds(12) ,(13) the(14) Sony(15) 's(16) sound(17) is(18) not(19) dependent(20) upon(21) the(22) airtight(23) seal(24) ,(25) so(26) no(27) adjusting(28) and(29) pressing(30) to(31) pressurize(32) is(33) necessary(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			Surprisingly(1) ,(2) the(3) Sony(4) 's(5) have(6) the(7) richest(8) ,(9) fullest(10) ,(11) and(12) by(13) far(14) bassiest(15) sound(16) of(17) any(18) earbuds(19) I(20) have(21) tried(22) .(23) 
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="8"/>
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="10"/>
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

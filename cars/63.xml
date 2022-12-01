@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="63" item="2001 Ford Crown Victoria" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Taxi(1) cabs(2) use(3) it(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Ugly(1) but(2) loyal(3) .(4) 
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="-" feature="design" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			O.K.(1) if(2) you(3) have(4) read(5) some(6) of(7) my(8) other(9) opinions(10) ,(11) you(12) already(13) know(14) that(15) I(16) have(17) worked(18) at(19) an(20) auto(21) repair(22) shop(23) for(24) 2(25) years(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) is(3) great(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) one(3) of(4) the(5) cars(6) that(7) are(8) used(9) in(10) New_York_City(11) as(12) a(13) yellow(14) cab(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) not(3) the(4) best(5) looking(6) car(7) in(8) the(9) world(10) but(11) it(12) is(13) reliable(14) .(15) 
+			<opinion polarity="+" feature="reliability" opWords="14"/>
+			<opinion polarity="-" feature="design" opWords="3,5,6"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) seen(3) and(4) worked(5) on(6) the(7) 2001(8) Crownvictoria(9) before(10) I(11) left(12) my(13) job(14) this(15) pass(16) month(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) only(2) did(3) an(4) oil(5) change(6) and(7) break(8) job(9) ,(10) but(11) I(12) have(13) checked(14) out(15) the(16) car(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			From(1) what(2) I(3) saw(4) it(5) is(6) a(7) big(8) improvement(9) in(10) engine(11) room(12) and(13) comfort(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) are(3) a(4) taxi(5) driver(6) ,(7) you(8) will(9) probably(10) be(11) paying(12) less(13) for(14) labor(15) fees(16) at(17) your(18) auto(19) repair(20) shop(21) because(22) it(23) is(24) a_lot(25) easier(26) to(27) work(28) on(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) motor(2) mounts(3) is(4) still(5) put(6) in(7) the(8) same(9) hard(10) position(11) ,(12) but(13) the(14) fan(15) ,(16) radiator(17) and(18) the(19) upper(20) control(21) arms(22) are(23) a_lot(24) easier(25) to(26) reach(27) and(28) work(29) on(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			For(1) the(2) private(3) users(4) ,(5) you(6) might(7) find(8) that(9) it(10) is(11) relatively(12) easy(13) to(14) work(15) on(16) the(17) car(18) yourself(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			It(1) does(2) not(3) have(4) a_lot_of(5) electronic(6) equipment(7) 's(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			You(1) probably(2) will(3) not(4) need(5) a(6) technician(7) to(8) work(9) on(10) most(11) of(12) the(13) problems(14) you(15) might(16) encounter(17) in(18) the(19) car(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) price(2) for(3) the(4) breaks(5) varies(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Some(1) auto(2) parts(3) sell(4) a(5) break(6) pad(7) for(8) as(9) much(10) as(11) $60(12) while(13) another(14) auto(15) part(16) might(17) sell(18) the(19) same(20) break(21) for(22) $20(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			So(1) shop(2) around(3) for(4) parts(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,000(7) Model_Year(8) :(9) 2001(10) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="118" item="Sennheiser RS 45 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			First(1) wireless(2) headphones(3) for(4) me(5) :(6) not(7) impressed(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Light(1) ,(2) comfortable(3) ,(4) reasonable(5) sound(6) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Prone(1) to(2) RF(3) interference(4) ,(5) charging(6) time(7) ,(8) volume(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) got(3) these(4) phones(5) to(6) watch(7) movies(8) without(9) disturbing(10) my(11) neighbors(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Here(1) is(2) the(3) bottom(4) line(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) light(3) and(4) fairly(5) comfortable(6) ,(7) albeit(8) in(9) warm(10) climate(11) your(12) ears(13) can(14) sweat(15) .(16) 24h(17) first(18) charging(19) cycle(20) is(21) a_bit(22) lengthy(23) for(24) modern(25) batteries(26) .(27) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) since(3) I(4) 've(5) got(6) mine(7) refurbished(8) ,(9) I(10) guessed(11) they(12) 've(13) been(14) already(15) broken(16) in(17) ,(18) thus(19) I(20) 've(21) skipped(22) the(23) waiting(24) and(25) cranked(26) them(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			The(1) impression(2) :(3) 1(4) )(5) They(6) are(7) not(8) very(9) loud(10) .(11) 
+			<opinion polarity="-" feature="volume" opWords="8,10" potency="9"/>
+		</sentence>
+		<sentence id="6">
+			Not(1) at(2) all(3) .(4) 2(5) )(6) It(7) can(8) be(9) that(10) I(11) am(12) living(13) in(14) a(15) frequency(16) congested(17) place(18) ,(19) but(20) when(21) I(22) am(23) moving(24) about(25) my(26) apartment(27) ,(28) there(29) are(30) numerous(31) spots(32) where(33) the(34) transmitted(35) sound(36) is(37) covered(38) by(39) static(40) hiss(41) .(42) 
+		</sentence>
+		<sentence id="7">
+			Happens(1) on(2) all(3) the(4) channels(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Quite(1) annoying(2) .(3) 3(4) )(5) As(6) somebody(7) suggested(8) ,(9) if(10) possible(11) you(12) should(13) use(14) a(15) line(16) out(17) to(18) hook(19) them(20) up(21) ,(22) not(23) the(24) phone(25) out(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			You(1) will(2) not(3) be(4) able(5) to(6) control(7) the(8) volume(9) on(10) the(11) other(12) side(13) anyway(14) as(15) the(16) transmitter(17) have(18) limited(19) gain(20) .(21) 4(22) )(23) Get(24) a(25) spare(26) battery(27) !(28) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) these(3) headphones(4) do(5) the(6) job(7) ,(8) but(9) nothing(10) to(11) be(12) excited(13) about(14) .(15) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="5,6,7"/>
+		</sentence>
+	</text>
+</review>

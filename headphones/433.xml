@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="433" item="Sennheiser Sport Line OMX 70 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) workout(2) headphones(3) if(4) they(5) fit(6) correctly(7) ...(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Waterproof(1) ,(2) great(3) sound(4) ,(5) comfortable(6) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			do(1) not(2) fit(3) all(4) ears(5) ((6) those(7) with(8) small(9) ears(10) ,(11) it(12) may(13) not(14) stay(15) on(16) well(17) )(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) sports(2) earphones(3) if(4) they(5) fit(6) correctly(7) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) searching(3) for(4) the(5) perfect(6) workout(7) headphones(8) /(9) earphones(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) a(3) smaller(4) head(5) and(6) ears(7) and(8) the(9) earphones(10) that(11) come(12) with(13) the(14) iPod(15) fall(16) out(17) of(18) my(19) ears(20) ,(21) especially(22) when(23) they(24) get(25) sweaty(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			I(1) read(2) the(3) epinions(4) review(5) on(6) these(7) headphones(8) and(9) decided(10) to(11) give(12) them(13) a(14) go(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) like(2) the(3) separate(4) earpieces(5) -(6) they(7) are(8) more(9) comfortable(10) than(11) the(12) Sennheiser_PMX(13) 70(14) headphones(15) with(16) neckband(17) ,(18) but(19) they(20) do(21) not(22) fit(23) my(24) ears(25) that(26) well(27) and(28) slide(29) off(30) fairly(31) easily(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			Even(1) with(2) the(3) adjustable(4) stem(5) all(6) the(7) way(8) down(9) ,(10) they(11) fall(12) off(13) my(14) mini(15) ears(16) :(17) ((18) The(19) sound(20) is(21) great(22) .(23) I(24) like(25) being(26) able(27) to(28) hear(29) some(30) ambient(31) noise(32) for(33) safety(34) 's(35) sake(36) ,(37) which(38) is(39) why(40) I(41) have(42) not(43) tried(44) any(45) in-ear(46) earphones(47) .(48) I(49) like(50) the(51) color(52) ((53) matches(54) the(55) green(56) iPod(57) Nano(58) well(59) )(60) and(61) the(62) fact(63) that(64) they(65) are(66) durable(67) ,(68) sweat(69) proof(70) and(71) have(72) a(73) longer(74) cord(75) with(76) an(77) attached(78) clip(79) .(80) 
+			<opinion polarity="+" feature="sound quality" featWords="20" opWords="22"/>
+			<opinion polarity="+" feature="cord" featWords="75" opWords="74"/>
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) is(3) great(4) !(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) run(3) in(4) these(5) fine(6) if(7) I(8) get(9) the(10) situated(11) just(12) right(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Forget(1) aerobics(2) or(3) anything(4) that(5) would(6) require(7) jostling(8) around(9) or(10) turning(11) my(12) head(13) upside(14) down(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I(1) 'll(2) have(3) to(4) stick(5) with(6) the(7) PMX70s(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) sure(3) my(4) husband(5) will(6) be(7) thrilled(8) with(9) these(10) since(11) he(12) lifts(13) weights(14) and(15) the(16) neckband(17) on(18) the(19) PMX70s(20) can(21) get(22) in(23) the(24) way(25) when(26) you(27) lie(28) down(29) on(30) the(31) weight(32) lifting(33) bench(34) or(35) the(36) reclining(37) Nautilus(38) machines(39) .(40) 
+		</sentence>
+		<sentence id="11">
+			So(1) I(2) get(3) the(4) PMXs(5) and(6) he(7) gets(8) the(9) OMXs(10) :(11) )(12) One(13) happy(14) Sennheiser(15) family(16) :(17) )(18) 
+		</sentence>
+	</text>
+</review>

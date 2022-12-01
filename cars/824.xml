@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="824" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			2005(1) Chevy_Uplander(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			My(1) lease(2) is(3) almost(4) up(5) !(6) 
+		</sentence>
+		<sentence id="3">
+			Woohoo(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Integrated(1) child(2) seat(3) ,(4) DVD(5) player(6) ((7) when(8) it(9) worked(10) )(11) ,(12) lots(13) of(14) cargo(15) space(16) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Brakes(1) and(2) rotors(3) often(4) ,(5) automatic(6) sliding(7) doors(8) do(9) not(10) work(11) ,(12) takes(13) 5(14) tries(15) to(16) start(17) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) is(2) roomy(3) but(4) ,(5) it(6) handles(7) lousy(8) ,(9) has(10) a(11) noisy(12) interior(13) and(14) the(15) power(16) sliding(17) doors(18) and(19) DVD(20) player(21) broke(22) .(23) 
+			<opinion polarity="-" feature="door" featWords="18" opWords="22"/>
+			<opinion polarity="-" feature="interior" featWords="13" opWords="12"/>
+			<opinion polarity="-" feature="handling" opWords="7,8"/>
+			<opinion polarity="+" feature="room" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Lots(1) of(2) vans(3) are(4) roomy(5) ,(6) you(7) can(8) find(9) better(10) .(11) 
+			<opinion polarity="+" feature="room" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) ve(2) had(3) the(4) Chevy_Uplander(5) for(6) almost(7) three(8) years(9) ,(10) and(11) I(12) m(13) counting(14) the(15) days(16) until(17) my(18) lease(19) is(20) up(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) not(3) the(4) worst(5) vehicle(6) I(7) ve(8) ever(9) had(10) ,(11) I(12) once(13) had(14) a(15) Beretta(16) that(17) racked(18) up(19) a(20) monthly(21) repair(22) bill(23) that(24) rivaled(25) my(26) rent(27) at(28) the(29) time(30) ,(31) but(32) I(33) have(34) had(35) more(36) problems(37) with(38) this(39) van(40) than(41) I(42) believe(43) a(44) vehicle(45) made(46) in(47) this(48) age(49) of(50) technology(51) should(52) .(53) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) are(3) considering(4) buying(5) an(6) Uplander(7) ,(8) I(9) think(10) this(11) review(12) is(13) worth(14) your(15) time(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			Sporty_Look_Before_the_Uplander_I(1) had(2) a(3) Venture(4) that(5) I(6) was(7) quite(8) happy(9) with(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="5">
+			When(1) the(2) lease(3) was(4) up(5) on(6) the(7) Venture_I(8) got(9) the(10) Uplander(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			At(1) the(2) time(3) the(4) Uplander(5) was(6) a(7) new(8) model(9) that(10) replaced(11) the(12) Venture(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) two(3) young(4) children(5) and(6) a(7) golden(8) retriever(9) so(10) I(11) m(12) a(13) mini-van(14) mom(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) the(3) extended(4) wheel(5) base(6) model(7) with(8) automatic(9) sliding(10) doors(11) and(12) DVD(13) player(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			The(1) Uplander(2) was(3) touted(4) as(5) having(6) a(7) more(8) sporty(9) look(10) and(11) more(12) convenience(13) items(14) for(15) the(16) driver(17) than(18) past(19) GM(20) mini-vans(21) .(22) 
+			<opinion polarity="+" feature="design" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			I(1) suppose(2) it(3) looks(4) more(5) sporty(6) ,(7) for(8) this(9) model(10) year(11) the(12) front(13) end(14) looks(15) just(16) like(17) a(18) Trailblazer(19) ,(20) but(21) I(22) didn(23) t(24) think(25) the(26) Venture(27) looked(28) bad(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			And(1) no(2) matter(3) how(4) you(5) dress(6) it(7) up(8) ,(9) it(10) is(11) still(12) a(13) box(14) on(15) wheels(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			So(1) I(2) m(3) not(4) giving(5) the(6) van(7) any(8) extra(9) points(10) for(11) being(12) sporty(13) looking(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) it(3) is(4) a(5) nice(6) shade(7) of(8) navy(9) blue(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Driver_Convenience(1) or(2) How(3) well(4) does(5) this(6) van(7) serve(8) Mom(9) ?(10) 
+		</sentence>
+		<sentence id="15">
+			This(1) translated(2) means(3) -(4) cupholders(5) and(6) compartments(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) many(3) but(4) I(5) m(6) not(7) sure(8) they(9) are(10) all(11) convenient(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) six(3) cupholders(4) within(5) easy(6) reach(7) of(8) the(9) driver(10) ,(11) four(12) in(13) the(14) 2nd(15) row(16) of(17) seats(18) and(19) two(20) in(21) the(22) 3rd(23) row(24) .(25) 
+		</sentence>
+		<sentence id="18">
+			At(1) first(2) I(3) couldn(4) t(5) understand(6) how(7) anyone(8) would(9) need(10) so(11) many(12) cupholders(13) ,(14) but(15) I(16) confess(17) I(18) have(19) been(20) using(21) most(22) of(23) them(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			Not(1) really(2) for(3) drinks(4) ,(5) mostly(6) for(7) change(8) ,(9) lipgloss(10) and(11) small(12) toys(13) ,(14) because(15) there(16) is(17) no(18) where(19) else(20) to(21) put(22) this(23) stuff(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			I(1) only(2) use(3) the(4) cupholders(5) in(6) the(7) between-the-front-seats(8) tray(9) for(10) drinks(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			What(1) do(2) I(3) mean(4) a(5) tray(6) ?(7) 
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) a(3) plastic(4) tray(5) that(6) is(7) connected(8) to(9) the(10) side(11) of(12) the(13) drivers(14) seat(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			It(1) folds(2) up(3) and(4) down(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			There(1) is(2) no(3) point(4) in(5) having(6) it(7) down(8) ,(9) you(10) can(11) t(12) fit(13) anything(14) between(15) the(16) seats(17) with(18) it(19) down(20) ,(21) so(22) I(23) always(24) have(25) it(26) up(27) .(28) 
+		</sentence>
+		<sentence id="25">
+			I(1) set(2) my(3) purse(4) on(5) it(6) .(7) 
+		</sentence>
+		<sentence id="26">
+			There(1) is(2) nowhere(3) else(4) to(5) put(6) my(7) purse(8) except(9) on(10) the(11) floor(12) ((13) ick(14) )(15) or(16) on(17) the(18) passenger(19) seat(20) ,(21) where(22) it(23) goes(24) flying(25) onto(26) the(27) floor(28) at(29) the(30) mere(31) mention(32) of(33) braking(34) .(35) 
+		</sentence>
+		<sentence id="27">
+			There(1) is(2) no(3) console(4) ,(5) or(6) bin(7) for(8) the(9) multitudes(10) of(11) mom-stuff(12) you(13) need(14) to(15) have(16) in(17) the(18) van(19) ,(20) up_front(21) and(22) within(23) reach(24) .(25) 
+		</sentence>
+		<sentence id="28">
+			There(1) is(2) a(3) small(4) cubbie(5) beneath(6) the(7) cup(8) holder(9) pull-out(10) ((11) I(12) call(13) it(14) a(15) change(16) drawer(17) )(18) ,(19) but(20) nothing(21) worth(22) putting(23) in(24) there(25) will(26) fit(27) in(28) there(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			Consequently(1) ,(2) I(3) keep(4) a(5) plastic(6) shoe(7) box(8) under(9) the(10) tray(11) thingy(12) to(13) hold(14) my(15) CD(16) s(17) ,(18) wipes(19) ,(20) snacks(21) etc.(22) I(23) like(24) to(25) point(26) out(27) that(28) the(29) tray(30) can(31) hold(32) the(33) weight(34) of(35) a(36) 3(37) year(38) old(39) as(40) he(41) climbs(42) from(43) the(44) back(45) to(46) the(47) front(48) .(49) 
+		</sentence>
+		<sentence id="30">
+			There(1) is(2) a(3) giant(4) box(5) that(6) fits(7) between(8) the(9) 2nd(10) row(11) captains(12) chairs(13) ,(14) with(15) another(16) tray(17) and(18) 4(19) cupholders(20) on(21) the(22) top(23) .(24) 
+		</sentence>
+		<sentence id="31">
+			The(1) box(2) can(3) be(4) taken(5) out(6) of(7) the(8) van(9) if(10) you(11) don(12) t(13) use(14) it(15) .(16) 
+		</sentence>
+		<sentence id="32">
+			My(1) kids(2) use(3) the(4) cupholders(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			I(1) don(2) t(3) keep(4) anything(5) in(6) the(7) box(8) except(9) a(10) few(11) emergency(12) clothing(13) items(14) because(15) you(16) can(17) t(18) reach(19) it(20) from(21) the(22) front(23) seat(24) or(25) open(26) it(27) and(28) get(29) anything(30) out(31) of(32) it(33) while(34) driving(35) ((36) not(37) that(38) you(39) should(40) ever(41) do(42) that(43) ,(44) it(45) would(46) be(47) unsafe(48) )(49) .(50) 
+		</sentence>
+		<sentence id="34">
+			There(1) are(2) also(3) fold(4) out(5) compartments(6) on(7) the(8) back(9) of(10) the(11) front(12) row(13) seats(14) ,(15) presumably(16) to(17) put(18) books(19) or(20) maps(21) in(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			These(1) compartments(2) are(3) not(4) big(5) enough(6) to(7) fit(8) any(9) of(10) the(11) books(12) my(13) children(14) own(15) ,(16) so(17) they(18) are(19) useless(20) to(21) us(22) .(23) 
+		</sentence>
+		<sentence id="36">
+			The(1) kids(2) can(3) t(4) reach(5) these(6) compartments(7) from(8) their(9) car(10) seats(11) anyway(12) .(13) 
+		</sentence>
+		<sentence id="37">
+			But(1) I(2) m(3) sure(4) there(5) are(6) kids(7) somewhere(8) who(9) could(10) put(11) them(12) to(13) good(14) use(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			There(1) is(2) a(3) nvenience(4) center(5) behind(6) the(7) 3rd(8) row(9) of(10) seats(11) .(12) 
+		</sentence>
+		<sentence id="39">
+			When(1) you(2) open(3) the(4) back(5) hatch(6) it(7) is(8) located(9) right(10) there(11) in(12) the(13) floor(14) .(15) 
+		</sentence>
+		<sentence id="40">
+			It(1) is(2) two(3) compartments(4) with(5) lids(6) .(7) 
+		</sentence>
+		<sentence id="41">
+			I(1) like(2) to(3) stow(4) the(5) dog(6) s(7) things(8) in(9) here(10) and(11) extra(12) paper(13) towels(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			Grocery(1) bags(2) fit(3) in(4) it(5) nicely(6) too(7) .(8) 
+		</sentence>
+		<sentence id="43">
+			Paper(1) grocery(2) bags(3) work(4) best(5) .(6) 
+		</sentence>
+		<sentence id="44">
+			I(1) have(2) had(3) groceries(4) fall(5) out(6) after(7) opening(8) the(9) hatch(10) when(11) using(12) the(13) plastic(14) bags(15) .(16) 
+		</sentence>
+		<sentence id="45">
+			You(1) can(2) remove(3) this(4) center(5) if(6) you(7) don(8) t(9) need(10) it(11) in(12) there(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			But(1) when(2) you(3) fold(4) down(5) the(6) 3rd(7) row(8) seats(9) ,(10) the(11) floor(12) will(13) have(14) a(15) drop-off(16) where(17) the(18) center(19) should(20) be(21) .(22) 
+		</sentence>
+		<sentence id="47">
+			The(1) 3rd(2) row(3) seats(4) sit(5) on(6) top(7) of(8) the(9) floor(10) when(11) folded(12) down(13) ,(14) they(15) do(16) not(17) fold(18) down(19) flat(20) into(21) the(22) floor(23) .(24) 
+		</sentence>
+		<sentence id="48">
+			My(1) seats(2) are(3) a(4) 50-50(5) split(6) ,(7) so(8) you(9) can(10) fold(11) down(12) one(13) side(14) or(15) the(16) other(17) ,(18) or(19) both(20) .(21) 
+		</sentence>
+		<sentence id="49">
+			A(1) medium(2) or(3) large(4) size(5) stroller(6) ,(7) even(8) folded(9) up(10) ,(11) will(12) not(13) fit(14) between(15) the(16) 3rd(17) row(18) seats(19) and(20) the(21) hatch(22) when(23) the(24) seats(25) are(26) up(27) .(28) 
+		</sentence>
+		<sentence id="50">
+			You(1) will(2) need(3) to(4) put(5) the(6) seats(7) down(8) .(9) 
+		</sentence>
+		<sentence id="51">
+			An(1) umbrella(2) stroller(3) would(4) fit(5) .(6) 
+		</sentence>
+		<sentence id="52">
+			One(1) of(2) those(3) big(4) plastic(5) wagons(6) just(7) barely(8) fits(9) inside(10) the(11) van(12) with(13) the(14) 3rd(15) row(16) seats(17) down(18) .(19) 
+		</sentence>
+		<sentence id="53">
+			It(1) is(2) the(3) vertical(4) clearance(5) for(6) the(7) handle(8) that(9) is(10) the(11) problem(12) here(13) ,(14) because(15) the(16) seats(17) don(18) t(19) fold(20) down(21) into(22) the(23) floor(24) .(25) 
+		</sentence>
+		<sentence id="54">
+			If(1) I(2) do(3) fold(4) down(5) the(6) 3rd(7) row(8) seats(9) ,(10) they(11) usually(12) stay(13) that(14) way(15) until(16) I(17) have(18) a(19) reason(20) to(21) put(22) them(23) back(24) up(25) .(26) 
+		</sentence>
+		<sentence id="55">
+			This(1) is(2) because(3) they(4) are(5) difficult(6) to(7) put(8) up(9) .(10) 
+		</sentence>
+		<sentence id="56">
+			You(1) have(2) to(3) crawl(4) inside(5) the(6) back(7) of(8) the(9) van(10) and(11) simultaneously(12) pull(13) a(14) lever(15) on(16) the(17) back(18) of(19) the(20) seat(21) and(22) pull(23) the(24) seat(25) up(26) ,(27) while(28) on(29) your(30) hands(31) and(32) knees(33) .(34) 
+		</sentence>
+		<sentence id="57">
+			Not(1) easy(2) to(3) do(4) .(5) 
+		</sentence>
+		<sentence id="58">
+			The(1) second(2) row(3) captain(4) s(5) chairs(6) can(7) be(8) folded(9) forward(10) or(11) removed(12) ,(13) but(14) not(15) easily(16) either(17) .(18) 
+		</sentence>
+		<sentence id="59">
+			I(1) can(2) t(3) remove(4) them(5) by(6) myself(7) ,(8) my(9) husband(10) has(11) to(12) do(13) it(14) .(15) 
+		</sentence>
+		<sentence id="60">
+			You(1) have(2) to(3) pull(4) up(5) on(6) a(7) strap(8) in(9) the(10) back(11) of(12) the(13) seat(14) near(15) the(16) floor(17) with(18) all(19) the(20) strength(21) you(22) can(23) muster(24) and(25) swear(26) a_lot(27) until(28) the(29) seat(30) unhooks(31) from(32) the(33) floor(34) .(35) 
+		</sentence>
+		<sentence id="61">
+			I(1) ve(2) only(3) been(4) able(5) to(6) do(7) it(8) once(9) .(10) 
+		</sentence>
+		<sentence id="62">
+			So(1) really(2) ,(3) seats(4) can(5) be(6) folded(7) down(8) or(9) removed(10) to(11) get(12) more(13) room(14) in(15) the(16) back(17) of(18) the(19) van(20) but(21) ladies(22) ,(23) don(24) t(25) plan(26) on(27) doing(28) it(29) yourself(30) .(31) 
+		</sentence>
+		<sentence id="63">
+			The(1) best(2) features(3) The(4) best(5) part(6) about(7) this(8) van(9) is(10) an(11) integrated(12) child(13) seat(14) .(15) 
+		</sentence>
+		<sentence id="64">
+			My(1) previous(2) Venture(3) had(4) one(5) and(6) it(7) was(8) one(9) of(10) the(11) two(12) major(13) selling(14) points(15) for(16) me(17) when(18) I(19) chose(20) to(21) get(22) the(23) Uplander(24) .(25) 
+		</sentence>
+		<sentence id="65">
+			One(1) of(2) the(3) 2nd(4) row(5) captains(6) chairs(7) has(8) a(9) built(10) in(11) child(12) seat(13) .(14) 
+		</sentence>
+		<sentence id="66">
+			It(1) is(2) so(3) convenient(4) !(5) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="67">
+			It(1) is(2) a(3) 5-point(4) harness(5) car(6) seat(7) that(8) folds(9) out(10) of(11) the(12) seat(13) back(14) and(15) is(16) adjustable(17) .(18) 
+		</sentence>
+		<sentence id="68">
+			My(1) daughter(2) has(3) been(4) using(5) this(6) seat(7) since(8) she(9) was(10) 2(11) .(12) 
+		</sentence>
+		<sentence id="69">
+			It(1) saved(2) us(3) the(4) trouble(5) of(6) buying(7) one(8) more(9) car(10) seat(11) .(12) 
+		</sentence>
+		<sentence id="70">
+			If(1) I(2) need(3) to(4) accommodate(5) one(6) more(7) adult(8) passenger(9) ,(10) say(11) if(12) I(13) m(14) going(15) somewhere(16) without(17) the(18) kids(19) ((20) yeah(21) right(22) !(23) )(24) ,(25) I(26) just(27) fold(28) up(29) the(30) seat(31) ,(32) as(33) opposed(34) to(35) the(36) monumental(37) task(38) of(39) removing(40) and(41) then(42) replacing(43) a(44) car(45) seat(46) .(47) 
+		</sentence>
+		<sentence id="71">
+			The(1) second(2) best(3) feature(4) was(5) the(6) DVD(7) player(8) .(9) 
+		</sentence>
+		<sentence id="72">
+			Up(1) until(2) a(3) month(4) ago(5) when(6) it(7) broke(8) .(9) 
+		</sentence>
+		<sentence id="73">
+			When(1) it(2) worked(3) ,(4) this(5) feature(6) was(7) invaluable(8) to(9) me(10) .(11) 
+		</sentence>
+		<sentence id="74">
+			My(1) kids(2) were(3) occupied(4) and(5) not(6) fighting(7) ((8) unless(9) it(10) s(11) over(12) a(13) movie(14) )(15) ,(16) especially(17) for(18) long(19) trips(20) .(21) 
+		</sentence>
+		<sentence id="75">
+			I(1) can(2) reach(3) the(4) controls(5) on(6) the(7) DVD(8) player(9) from(10) the(11) driver(12) s(13) seat(14) which(15) makes(16) it(17) easy(18) for(19) me(20) to(21) switch(22) movies(23) ((24) or(25) turn(26) it(27) off(28) for(29) a(30) time-out(31) )(32) .(33) 
+		</sentence>
+		<sentence id="76">
+			The(1) DVD(2) comes(3) with(4) a(5) remote(6) if(7) you(8) have(9) older(10) kids(11) who(12) know(13) how(14) to(15) use(16) it(17) .(18) 
+		</sentence>
+		<sentence id="77">
+			The(1) remote(2) doesn(3) t(4) work(5) from(6) the(7) front(8) seat(9) ;(10) it(11) has(12) to(13) be(14) pointed(15) at(16) the(17) player(18) .(19) 
+		</sentence>
+		<sentence id="78">
+			But(1) one(2) day(3) the(4) player(5) just(6) crapped(7) out(8) in(9) the(10) middle(11) of(12) a(13) movie(14) and(15) didn(16) t(17) spit(18) out(19) the(20) DVD(21) for(22) another(23) 12(24) hours(25) .(26) 
+		</sentence>
+		<sentence id="79">
+			It(1) has(2) been(3) making(4) strange(5) noises(6) ever(7) since(8) .(9) 
+		</sentence>
+		<sentence id="80">
+			I(1) do(2) have(3) to(4) give(5) the(6) van(7) praise(8) for(9) a(10) very(11) roomy(12) interior(13) .(14) 
+			<opinion polarity="+" feature="interior" featWords="13" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="81">
+			My(1) in-laws(2) live(3) 4(4) hrs(5) away(6) and(7) we(8) make(9) that(10) trip(11) a(12) few(13) times(14) a(15) year(16) .(17) 
+		</sentence>
+		<sentence id="82">
+			All(1) four(2) of(3) us(4) and(5) the(6) dog(7) .(8) 
+		</sentence>
+		<sentence id="83">
+			With(1) the(2) 3rd(3) row(4) seats(5) down(6) ,(7) the(8) van(9) can(10) hold(11) everyone(12) s(13) stuff(14) and(15) the(16) dog(17) ((18) who(19) is(20) 85(21) lbs(22) ,(23) not(24) a(25) teeny(26) dog(27) )(28) .(29) 
+		</sentence>
+		<sentence id="84">
+			When(1) we(2) only(3) had(4) one(5) baby(6) ,(7) it(8) was(9) not(10) uncommon(11) for(12) us(13) to(14) pile(15) every(16) single(17) thing(18) we(19) thought(20) the(21) baby(22) might(23) possibly(24) need(25) into(26) the(27) van(28) .(29) 
+		</sentence>
+		<sentence id="85">
+			The(1) bouncy(2) seat(3) ,(4) the(5) play(6) mat(7) with(8) the(9) attached(10) toy(11) bar(12) ,(13) stroller(14) ,(15) diapers(16) ,(17) toys(18) ,(19) etc.(20) And(21) everything(22) would(23) always(24) fit(25) .(26) 
+		</sentence>
+		<sentence id="86">
+			But(1) then(2) again(3) ,(4) it(5) had(6) better(7) .(8) 
+		</sentence>
+		<sentence id="87">
+			I(1) didn(2) t(3) get(4) an(5) extended(6) length(7) mini-van(8) because(9) it(10) s(11) sexy(12) .(13) 
+		</sentence>
+		<sentence id="88">
+			The(1) problems(2) The(3) problems(4) began(5) within(6) four(7) months(8) of(9) having(10) the(11) van(12) .(13) 
+		</sentence>
+		<sentence id="89">
+			The(1) whole(2) van(3) would(4) shudder(5) and(6) shake(7) when(8) braking(9) .(10) 
+			<opinion polarity="-" feature="van" featWords="3" opWords="7"/>
+			<opinion polarity="-" feature="van" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="90">
+			It(1) was(2) noticeable(3) at(4) all(5) speeds(6) but(7) physically(8) jarring(9) at(10) speeds(11) over(12) 50(13) mph(14) .(15) 
+		</sentence>
+		<sentence id="91">
+			Enough(1) to(2) make(3) the(4) kids(5) yell(6) Mommy(7) !(8) 
+		</sentence>
+		<sentence id="92">
+			What(1) are(2) you(3) doing(4) !(5) .(6) 
+		</sentence>
+		<sentence id="93">
+			The(1) first(2) time(3) I(4) took(5) it(6) in(7) for(8) service(9) ,(10) ((11) I(12) go(13) to(14) the(15) dealership(16) because(17) these(18) things(19) should(20) be(21) under(22) warranty(23) when(24) the(25) car(26) is(27) new(28) ,(29) right(30) ?(31) )(32) the(33) van(34) had(35) 6000_miles(36) on(37) it(38) and(39) I(40) had(41) to(42) get(43) new(44) front(45) and(46) rear(47) rotors(48) .(49) 
+		</sentence>
+		<sentence id="94">
+			Ridiculous(1) .(2) 
+		</sentence>
+		<sentence id="95">
+			About(1) ten(2) months(3) later(4) ,(5) the(6) same(7) shuddering(8) happened(9) again(10) .(11) 
+		</sentence>
+		<sentence id="96">
+			I(1) got(2) new(3) front(4) brake(5) pads(6) and(7) the(8) rotors(9) turned(10) .(11) 
+		</sentence>
+		<sentence id="97">
+			Within(1) three(2) months(3) of(4) getting(5) these(6) new(7) brake(8) pads(9) I(10) had(11) to(12) get(13) new(14) rotors(15) again(16) .(17) 
+		</sentence>
+		<sentence id="98">
+			I(1) think(2) you(3) can(4) see(5) the(6) pattern(7) here(8) .(9) 
+		</sentence>
+		<sentence id="99">
+			In(1) total(2) I(3) have(4) had(5) two(6) sets(7) of(8) brake(9) pads(10) ,(11) three(12) sets(13) of(14) rotors(15) and(16) also(17) the(18) wheel(19) hubs(20) in(21) the(22) front(23) replaced(24) .(25) 
+		</sentence>
+		<sentence id="100">
+			All(1) of(2) this(3) by(4) 45,000_miles(5) .(6) 
+		</sentence>
+		<sentence id="101">
+			This(1) kind(2) of(3) repair(4) frequency(5) for(6) brakes(7) and(8) rotors(9) is(10) unacceptable(11) to(12) me(13) and(14) no(15) ,(16) it(17) wasn(18) t(19) all(20) covered(21) by(22) warranty(23) .(24) 
+		</sentence>
+		<sentence id="102">
+			The(1) next(2) item(3) on(4) the(5) problem(6) list(7) is(8) the(9) automatic(10) sliding(11) side(12) doors(13) .(14) 
+		</sentence>
+		<sentence id="103">
+			Specifically(1) ,(2) the(3) locks(4) on(5) the(6) doors(7) will(8) not(9) unlock(10) with(11) the(12) key(13) fob(14) or(15) with(16) the(17) buttons(18) in(19) the(20) car(21) ,(22) so(23) I(24) have(25) to(26) manually(27) unlock(28) the(29) doors(30) ,(31) then(32) press(33) the(34) button(35) to(36) have(37) the(38) door(39) automatically(40) open(41) .(42) 
+		</sentence>
+		<sentence id="104">
+			I(1) should(2) note(3) here(4) that(5) it(6) is(7) really(8) difficult(9) to(10) manually(11) open(12) the(13) sliding(14) doors(15) .(16) 
+		</sentence>
+		<sentence id="105">
+			You(1) have(2) to(3) have(4) herculean(5) strength(6) to(7) pull(8) the(9) door(10) open(11) .(12) 
+		</sentence>
+		<sentence id="106">
+			And(1) if(2) you(3) have(4) a(5) child(6) in(7) your(8) arms(9) or(10) you(11) are(12) carrying(13) the(14) baby(15) in(16) the(17) car-seat(18) basket(19) ,(20) forget(21) it(22) .(23) 
+		</sentence>
+		<sentence id="107">
+			So(1) it(2) is(3) quite(4) inconvenient(5) and(6) frustrating(7) when(8) the(9) doors(10) will(11) not(12) open(13) automatically(14) as(15) they(16) should(17) .(18) 
+			<opinion polarity="-" feature="door" featWords="10" opWords="7"/>
+			<opinion polarity="-" feature="door" featWords="10" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="108">
+			I(1) also(2) paid(3) extra(4) for(5) this(6) feature(7) .(8) 
+		</sentence>
+		<sentence id="109">
+			I(1) have(2) taken(3) the(4) car(5) in(6) twice(7) for(8) this(9) problem(10) and(11) it(12) never(13) has(14) been(15) fixed(16) so(17) I(18) gave(19) up(20) on(21) it(22) .(23) 
+		</sentence>
+		<sentence id="110">
+			I(1) was(2) able(3) to(4) manually(5) operate(6) car(7) door(8) locks(9) back(10) in_1979(11) ,(12) I(13) guess(14) I(15) can(16) do(17) it(18) for(19) the(20) rest(21) of(22) this(23) lease(24) .(25) 
+		</sentence>
+		<sentence id="111">
+			My(1) latest(2) problem(3) is(4) starting(5) the(6) engine(7) .(8) 
+		</sentence>
+		<sentence id="112">
+			It(1) takes(2) five_times(3) to(4) get(5) the(6) van(7) started(8) .(9) 
+		</sentence>
+		<sentence id="113">
+			I(1) turn(2) the(3) key(4) and(5) the(6) engine(7) tries(8) to(9) turn(10) over(11) ,(12) but(13) won(14) t(15) .(16) 
+		</sentence>
+		<sentence id="114">
+			Not(1) even_if(2) I(3) give(4) it(5) gas(6) while(7) turning(8) the(9) key(10) ((11) I(12) know(13) ,(14) I(15) know(16) carburators(17) are(18) gone(19) but(20) old(21) habits(22) die(23) hard(24) )(25) .(26) 
+		</sentence>
+		<sentence id="115">
+			So(1) ,(2) five(3) tries(4) and(5) the(6) engine(7) will(8) finally(9) turn(10) over(11) .(12) 
+		</sentence>
+		<sentence id="116">
+			It(1) doesn(2) t(3) seem(4) to(5) matter(6) what(7) the(8) weather(9) is(10) either(11) .(12) 
+		</sentence>
+		<sentence id="117">
+			It(1) could(2) be(3) February(4) or(5) August(6) ,(7) it(8) takes(9) more(10) than(11) twice(12) to(13) get(14) the(15) van(16) started(17) .(18) 
+		</sentence>
+		<sentence id="118">
+			I(1) don(2) t(3) know(4) the(5) origin(6) of(7) this(8) problem(9) .(10) 
+		</sentence>
+		<sentence id="119">
+			I(1) asked(2) about(3) it(4) on(5) one(6) of(7) my(8) many(9) trips(10) to(11) service(12) at(13) the(14) dealership(15) ,(16) but(17) they(18) wanted(19) too(20) much(21) money(22) just(23) to(24) check(25) things(26) ,(27) so(28) I(29) passed(30) .(31) 
+		</sentence>
+		<sentence id="120">
+			Lastly(1) ,(2) the(3) radio(4) buttons(5) don(6) t(7) work(8) .(9) 
+		</sentence>
+		<sentence id="121">
+			Now(1) how(2) annoying(3) is(4) that(5) ?(6) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="122">
+			The(1) button(2) to(3) turn(4) it(5) on(6) has(7) to(8) be(9) pressed(10) several(11) times(12) before(13) it(14) works(15) and(16) the(17) button(18) that(19) controls(20) the(21) bass(22) ,(23) fade(24) ,(25) etc.(26) sometimes(27) works(28) ,(29) sometimes(30) doesn(31) t(32) .(33) 
+		</sentence>
+		<sentence id="123">
+			How(1) long(2) have(3) we(4) been(5) making(6) car(7) radios(8) now(9) ?(10) 
+		</sentence>
+		<sentence id="124">
+			Technical(1) stuff(2) ,(3) sort(4) of(5) I(6) will(7) do(8) my(9) best(10) at(11) describing(12) this(13) stuff(14) ,(15) bear(16) with(17) me(18) .(19) 
+		</sentence>
+		<sentence id="125">
+			The(1) inside(2) of(3) this(4) van(5) is(6) LOUD(7) .(8) 
+		</sentence>
+		<sentence id="126">
+			It(1) is(2) the(3) wind(4) noise(5) and(6) it(7) is(8) very(9) noticeable(10) .(11) 
+		</sentence>
+		<sentence id="127">
+			You(1) can(2) also(3) hear(4) the(5) wheel(6) hubs(7) and(8) axles(9) creek(10) and(11) bong(12) over(13) every(14) crack(15) in(16) the(17) road(18) .(19) 
+		</sentence>
+		<sentence id="128">
+			There(1) is(2) also(3) the(4) loud(5) drone(6) of(7) the(8) tires(9) on(10) the(11) pavement(12) .(13) 
+		</sentence>
+		<sentence id="129">
+			If(1) you(2) can(3) get(4) the(5) radio(6) to(7) turn(8) on(9) ,(10) turn(11) it(12) up(13) to(14) drown(15) out(16) the(17) noise(18) .(19) 
+		</sentence>
+		<sentence id="130">
+			The(1) van(2) is(3) seriously(4) underpowered(5) .(6) 
+			<opinion polarity="-" feature="horsepower" opWords="5"/>
+		</sentence>
+		<sentence id="131">
+			I(1) cringe(2) every(3) time(4) I(5) have(6) to(7) slow(8) down(9) in(10) traffic(11) ,(12) because(13) it(14) took(15) me(16) so(17) long(18) to(19) get(20) up(21) to(22) speed(23) .(24) 
+		</sentence>
+		<sentence id="132">
+			I(1) only(2) pass(3) very(4) slow(5) moving(6) cars(7) .(8) 
+		</sentence>
+		<sentence id="133">
+			And(1) pretty(2) much(3) everyone(4) else(5) passes(6) me(7) .(8) 
+		</sentence>
+		<sentence id="134">
+			The(1) handling(2) isn(3) t(4) good(5) either(6) .(7) 
+		</sentence>
+		<sentence id="135">
+			It(1) is(2) very(3) stiff(4) feeling(5) .(6) 
+		</sentence>
+		<sentence id="136">
+			It(1) basically(2) drives(3) like(4) a(5) box(6) on(7) wheels(8) .(9) 
+		</sentence>
+		<sentence id="137">
+			When(1) I(2) have(3) my(4) dog(5) in(6) the(7) back(8) I(9) make(10) sure(11) to(12) drive(13) very(14) carefully(15) around(16) corners(17) ,(18) for(19) fear(20) of(21) toppling(22) over(23) .(24) 
+		</sentence>
+		<sentence id="138">
+			Another(1) thing(2) worth(3) noting(4) is(5) that(6) the(7) van(8) has(9) a(10) 22_gallon(11) gas(12) tank(13) .(14) 
+		</sentence>
+		<sentence id="139">
+			So(1) far(2) my(3) personal(4) best(5) at(6) the(7) gas(8) pump(9) is(10) $75(11) for(12) a(13) tank(14) .(15) 
+		</sentence>
+		<sentence id="140">
+			I(1) get(2) about(3) 18(4) mpg(5) around(6) town(7) and(8) a(9) smidgen(10) better(11) on(12) the(13) highway(14) .(15) 
+		</sentence>
+		<sentence id="141">
+			I(1) use(2) the(3) cheapest(4) gas(5) and(6) I(7) ve(8) never(9) noticed(10) any(11) problems(12) with(13) it(14) .(15) 
+		</sentence>
+		<sentence id="142">
+			So(1) ,(2) in(3) the(4) end(5) ,(6) I(7) can(8) not(9) recommend(10) this(11) van(12) .(13) 
+			<opinion polarity="-" feature="van" featWords="12" opWords="9,10"/>
+		</sentence>
+		<sentence id="143">
+			The(1) two(2) best(3) features(4) are(5) the(6) integrated(7) child(8) seat(9) and(10) DVD(11) player(12) .(13) 
+		</sentence>
+		<sentence id="144">
+			A(1) car(2) seat(3) you(4) can(5) always(6) buy(7) separate(8) ,(9) or(10) you(11) may(12) already(13) own(14) several(15) ,(16) and(17) the(18) DVD(19) player(20) broke(21) before(22) my(23) lease(24) was(25) up(26) .(27) 
+		</sentence>
+		<sentence id="145">
+			You(1) can(2) also(3) buy(4) a(5) separate(6) DVD(7) player(8) these(9) days(10) fairly(11) cheap(12) .(13) 
+		</sentence>
+		<sentence id="146">
+			I(1) won(2) t(3) be(4) wasting(5) money(6) on(7) a(8) package(9) upgrade(10) in(11) my(12) next(13) vehicle(14) just(15) to(16) get(17) a(18) DVD(19) player(20) .(21) 
+		</sentence>
+		<sentence id="147">
+			These(1) two(2) pros(3) don(4) t(5) even(6) come(7) close(8) to(9) outweighing(10) the(11) cons(12) of(13) this(14) van(15) .(16) 
+		</sentence>
+		<sentence id="148">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $385.00(7) /(8) mo(9) Condition(10) :(11) NewModel_Year(12) :(13) 2005Model(14) and(15) Options(16) :(17) LT(18) ,(19) extended(20) wheel(21) base(22) ,(23) power(24) sliding(25) doors(26) ,(27) rear(28) DVD(29) player(30) 
+		</sentence>
+	</text>
+</review>

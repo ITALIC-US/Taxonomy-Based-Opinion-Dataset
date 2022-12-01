@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="533" item="Koss Porta Pro Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Big(1) sound(2) for(3) the(4) gym(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Big(1) bass(2) sound(3) ,(4) sounds(5) great(6) ,(7) folding(8) design(9) and(10) storage(11) case(12) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" opWords="5,6"/>
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) metal(2) band(3) and(4) ear(5) speakers(6) ,(7) short(8) cord(9) ,(10) mids(11) and(12) highs(13) distorted(14) and(15) low(16) 
+			<opinion polarity="-" feature="cord" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="mids" featWords="11" opWords="14"/>
+			<opinion polarity="-" feature="highs" featWords="13" opWords="14"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) sound(2) of(3) your(4) music(5) will(6) boom(7) ,(8) producing(9) a(10) quality(11) sound(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) surprised(3) to(4) hear(5) these(6) headphones(7) when(8) I(9) first(10) tried(11) them(12) out(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) advertised(3) as(4) fitness(5) headphones(6) with(7) a(8) big(9) bass(10) sound(11) .(12) 
+			<opinion polarity="+" feature="bass" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) latter(2) part(3) is(4) more(5) evident(6) than(7) the(8) fitness(9) part(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			You(1) get(2) a(3) big(4) sound(5) ,(6) a(7) quality(8) sound(9) that(10) was(11) impressive(12) to(13) me(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) not(3) the(4) best(5) work(6) out(7) headphones(8) because(9) they(10) are(11) a(12) little(13) awkward(14) with(15) the(16) behind(17) the(18) head(19) design(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) cord(2) attached(3) to(4) both(5) earpieces(6) and(7) is(8) short(9) .(10) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			There(1) should(2) only(3) be(4) a(5) single(6) longer(7) cord(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Midrange(1) and(2) Highs(3) seem(4) to(5) be(6) filtered(7) or(8) not(9) as(10) loud(11) as(12) the(13) lower(14) frequencies(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			And(1) after(2) extended(3) use(4) it(5) became(6) uncomfortable(7) to(8) my(9) head(10) .(11) 
+			<opinion polarity="-" feature="comfort" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			Overall_I(1) like(2) really(3) like(4) the(5) way(6) these(7) headphones(8) sound(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			These(1) are(2) the(3) best(4) KOSS_Headphones(5) that(6) I(7) have(8) heard(9) and(10) is(11) highly(12) recommended(13) .(14) 
+		</sentence>
+	</text>
+</review>

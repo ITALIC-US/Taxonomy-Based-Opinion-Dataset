@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="644" item="2003 Toyota Matrix" rating="3">
+	<title>
+		<sentence id="1">
+			You(1) might(2) wanna(3) think(4) twice(5) ...(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Style(1) ,(2) Tons(3) of(4) rooms(5) ,(6) price(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Performance(1) ,(2) VERY(3) loud(4) engine(5) and(6) road(7) noise(8) .(9) 
+			<opinion polarity="+" feature="engine" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommended(1) with(2) reservation(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			1(1) .(2) )(3) Introduction_Hello(4) ,(5) My(6) name(7) is(8) Joey(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) a(3) 20(4) years(5) old(6) college(7) student(8) at(9) Honolulu(10) .(11) 3(12) Months(13) ago(14) I(15) plan(16) to(17) buy(18) a(19) car(20) that(21) 's(22) around(23) $18k(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			What(1) I(2) want(3) in(4) a(5) car(6) are(7) Performance(8) ,(9) cargo(10) space(11) and(12) the(13) look(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			So(1) I(2) started(3) to(4) do(5) some(6) research(7) ,(8) and(9) I(10) found(11) the(12) prefect(13) car(14) for(15) me(16) ,(17) the(18) Toyota_Matrix_XRS(19) .(20) 2(21) .(22) )(23) What(24) I(25) like(26) ...(27) I(28) really(29) like(30) the(31) style(32) of(33) the(34) car(35) ,(36) it(37) looks(38) better(39) than(40) most(41) other(42) wagons(43) ,(44) and(45) the(46) 180HP(47) engine(48) used(49) in(50) the(51) new(52) celicas(53) makes(54) me(55) happy(56) .(57) 
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) best(3) part(4) is(5) the(6) cargo(7) space(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			I(1) go(2) serving(3) a_lot(4) ,(5) not(6) even(7) a(8) truck(9) can(10) carry(11) my(12) board(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			But(1) in(2) the(3) matrix(4) when(5) I(6) fold(7) down(8) the(9) passenger(10) sit(11) and(12) the(13) rear(14) sits(15) ,(16) I(17) can(18) fit(19) in(20) 2(21) standard(22) sized(23) serving(24) board(25) with(26) enough(27) room(28) for(29) 3(30) ice(31) box(32) .(33) 
+		</sentence>
+		<sentence id="8">
+			Yes(1) !(2) 3(3) huge(4) Ice(5) box(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			Even(1) with(2) 5(3) adults(4) in(5) the(6) matrix(7) ,(8) there(9) is(10) still(11) lots(12) of(13) cargo(14) room(15) left(16) .(17) 3(18) .(19) )(20) What(21) I(22) do(23) not(24) like(25) ...(26) Ok(27) ,(28) here(29) goes(30) ...(31) The(32) biggest(33) problem(34) with(35) the(36) XRS(37) is(38) the(39) performance(40) ,(41) although(42) it(43) 's(44) 180hp(45) .(46) but(47) the(48) car(49) is(50) not(51) fast(52) at(53) all(54) ,(55) not(56) even(57) downshifting(58) will(59) help(60) .(61) 130lb(62) of(63) torque(64) !(65) ?(66) !(67) 
+			<opinion polarity="-" feature="speed" opWords="51,52"/>
+		</sentence>
+		<sentence id="10">
+			What(1) is(2) wrong(3) with(4) Toyota(5) !(6) ?(7) 
+		</sentence>
+		<sentence id="11">
+			With(1) a(2) 180HP(3) VVTi-L(4) engine(5) but(6) with(7) that(8) torque(9) ?(10) 
+		</sentence>
+		<sentence id="12">
+			Very(1) smart(2) ...(3) -(4) _(5) -(6) Another(7) huge(8) issue(9) is(10) that(11) the(12) ride(13) is(14) very(15) uncomformtable(16) ,(17) I(18) go(19) to(20) the(21) beach(22) a_lot(23) ,(24) with(25) that(26) poorly(27) designed(28) suspension(29) ,(30) those(31) uneven(32) roads(33) on(34) the(35) way(36) is(37) killing(38) me(39) .(40) 
+			<opinion polarity="-" feature="suspension" featWords="29" opWords="27,28"/>
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="13">
+			And(1) the(2) engine(3) and(4) road(5) noise(6) is(7) SOOOO_LOUD(8) !(9) !(10) !(11) 
+		</sentence>
+		<sentence id="14">
+			Even(1) in(2) the(3) normal(4) drive(5) speed(6) 20-35mph(7) is(8) already(9) loud(10) and(11) annoying(12) ,(13) just(14) wait(15) until(16) you(17) get(18) to(19) the(20) highway(21) and(22) doing(23) about(24) 70mph(25) ...(26) 4(27) .(28) )(29) Worth(30) it(31) ?(32) 
+			<opinion polarity="-" feature="car" opWords="12"/>
+			<opinion polarity="-" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="15">
+			Not(1) really(2) ...(3) You(4) might(5) wanna(6) check(7) out(8) Mazada(9) potege5(10) ,(11) Ford(12) focus(13) SVT(14) or(15) the(16) WRX(17) wagon(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18,000(7) 
+		</sentence>
+	</text>
+</review>

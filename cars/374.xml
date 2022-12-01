@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="374" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			BMW(1) Z3(2) -(3) One(4) of(5) the(6) hottest(7) hatchbacks(8) in(9) the(10) world(11) .(12) .(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) !(2) 
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Very(1) fun(2) to(3) drive(4) ,(5) Good(6) ergonomics(7) ,(8) Figure(9) hugging(10) seats(11) .(12) 
+			<opinion polarity="+" feature="comfort" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Exterior(1) looks(2) a_bit(3) on(4) the(5) ugly(6) duckling(7) side(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Besides(1) the(2) styling(3) ,(4) which(5) is(6) controversial(7) ,(8) this(9) car(10) is(11) very(12) fun(13) ,(14) plush(15) &(16) a(17) good(18) value(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="15"/>
+			<opinion polarity="+" feature="car" featWords="10" opWords="13"/>
+			<opinion polarity="-" feature="design" featWords="3" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			For(1) many(2) individuals(3) who(4) want(5) the(6) refined(7) and(8) meaty(9) performance(10) associated(11) with(12) the(13) M_Roadster(14) ,(15) but(16) the(17) practicality(18) of(19) a(20) 3-door(21) coupe(22) ,(23) the(24) BMW_M_Coupe(25) is(26) perfect(27) .(28) 
+			<opinion polarity="+" feature="performance" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="performance" featWords="10" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			It(1) may(2) not(3) be(4) as(5) sporty(6) looking(7) as(8) the(9) M_Roadster(10) ,(11) but(12) thanks(13) to(14) its(15) much(16) stiffer(17) structure(18) ,(19) the(20) M_Coupe(21) handles(22) better(23) and(24) offers(25) greater(26) utility(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			Driving_Impressions(1) :(2) When(3) I(4) drove(5) the(6) Z3(7) equipped(8) with(9) the(10) 1.9(11) liter(12) 4-cylinder(13) I(14) was(15) a(16) little(17) disappointed(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="18"/>
+		</sentence>
+		<sentence id="4">
+			While(1) the(2) Z3(3) was(4) a(5) good-looking(6) little(7) convertible(8) ,(9) its(10) acceleration(11) wasn(12) t(13) anything(14) to(15) write(16) home(17) about(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			Under(1) the(2) hood(3) there(4) is(5) a(6) 3.2(7) liter(8) 6-cylinder(9) power(10) plant(11) producing(12) a(13) massive(14) 240(15) horsepower(16) .(17) 
+			<opinion polarity="+" feature="horsepower" featWords="16" opWords="14"/>
+		</sentence>
+		<sentence id="6">
+			The(1) engine(2) in(3) the(4) M_Coupe(5) is(6) an(7) iron(8) block(9) alloy(10) head(11) 6-cylinder(12) ;(13) this(14) engine(15) was(16) used(17) in(18) the(19) old(20) M3s(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) twin(3) chain-driven(4) overhead(5) camshafts(6) ,(7) and(8) they(9) operate(10) four(11) valves(12) per(13) cylinder(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Acceleration(1) from(2) 0(3) to(4) 60(5) mph(6) can(7) be(8) had(9) from(10) a(11) standing(12) start(13) in(14) just(15) 5_seconds(16) ((17) according_to(18) specs(19) )(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			Acceleration(1) comes(2) so(3) fast(4) and(5) with(6) so(7) much(8) refinement(9) that(10) speeds(11) of(12) 60(13) MPH(14) can(15) be(16) reached(17) with(18) only(19) partial(20) throttle(21) and(22) without(23) hearing(24) the(25) engine(26) whine(27) in(28) agony(29) .(30) .(31) 
+			<opinion polarity="+" feature="acceleration" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="10">
+			Instead_of(1) the(2) whine(3) of(4) the(5) 1.9-liter(6) in(7) the(8) base(9) model(10) ,(11) the(12) M_Coupe(13) s(14) dual(15) exhaust(16) offers(17) a(18) meaty(19) sounding(20) note(21) that(22) is(23) comparable(24) to(25) many(26) refined(27) V8s(28) on(29) the(30) market(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			That(1) said(2) ,(3) you(4) probably(5) should(6) watch(7) your(8) speedometer(9) regularly(10) in(11) the(12) M_Coupe(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			All(1) M_Coupes(2) come(3) with(4) a(5) 5-speed(6) manual(7) transmission(8) ;(9) no(10) automatic(11) is(12) available(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) just(3) fine(4) with(5) me(6) ,(7) as(8) the(9) 5-speed(10) is(11) very(12) refined(13) ;(14) the(15) throws(16) are(17) short(18) ,(19) the(20) gearing(21) close(22) ,(23) and(24) gear(25) engagement(26) is(27) smooth(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) M_Coupe(2) may(3) be(4) extremely(5) fast(6) ,(7) but(8) that(9) s(10) not(11) really(12) what(13) this(14) car(15) is(16) about(17) .(18) 
+			<opinion polarity="+" feature="speed" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			The(1) M_Coupe(2) is(3) one(4) of(5) the(6) most(7) competent(8) handlers(9) in(10) the(11) world(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			The(1) M_Coupe(2) can(3) handle(4) any(5) situation(6) on(7) the(8) back-roads(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Turn(1) in(2) is(3) excellent(4) and(5) body(6) roll(7) is(8) next(9) to(10) none(11) ;(12) even(13) with(14) extremely(15) aggressive(16) driving(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			The(1) feel(2) is(3) always(4) safe(5) and(6) well(7) behaved(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="7,8"/>
+			<opinion polarity="+" feature="safety" opWords="5"/>
+		</sentence>
+		<sentence id="19">
+			There(1) 's(2) surprisingly(3) strong(4) understeer(5) and(6) it(7) takes(8) real(9) effort(10) to(11) kick(12) the(13) tail(14) out(15) under(16) full(17) power(18) ((19) and(20) it(21) 's(22) impossible(23) when(24) the(25) traction(26) control(27) is(28) switched(29) on(30) )(31) .(32) 
+		</sentence>
+		<sentence id="20">
+			Braking(1) is(2) also(3) superb(4) .(5) 
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="21">
+			The(1) standard(2) 4-wheel(3) disc(4) brakes(5) mated(6) with(7) 4-wheel(8) ABS(9) brings(10) this(11) sporty(12) BMW(13) to(14) a(15) stop(16) with(17) full(18) confidence(19) ;(20) no(21) fade(22) or(23) vibration(24) is(25) felt(26) under(27) heavy(28) use(29) whatsoever(30) .(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			Interior_Accommodation(1) :(2) First(3) impressions(4) with(5) the(6) interior(7) of(8) the(9) M_Coupe(10) is(11) that(12) it(13) is(14) very(15) small(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) enough(3) room(4) for(5) 2(6) average(7) sized(8) adults(9) ((10) this(11) is(12) a(13) 2(14) seater(15) by(16) the(17) way(18) )(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			The(1) steering(2) wheel(3) is(4) thick(5) and(6) feels(7) like(8) glue(9) when(10) it(11) 's(12) in(13) your(14) hands(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			There(1) is(2) a(3) tachometer(4) and(5) many(6) cockpit(7) like(8) gauges(9) near(10) the(11) excellent(12) sounding(13) CD(14) player(15) stereo(16) system(17) .(18) 
+			<opinion polarity="+" feature="sound system" featWords="16,17" opWords="12,13"/>
+		</sentence>
+		<sentence id="26">
+			The(1) seats(2) are(3) '(4) super(5) supportive(6) '(7) which(8) offer(9) excellent(10) bolstering(11) for(12) aggressive(13) driving(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="27">
+			The(1) cabin(2) 's(3) ergonomics(4) are(5) first(6) class(7) and(8) allow(9) for(10) the(11) driver(12) to(13) keep(14) his(15) or(16) her(17) eyes(18) on(19) the(20) road(21) at(22) all(23) times(24) ,(25) this(26) is(27) essential(28) for(29) a(30) car(31) that(32) is(33) made(34) to(35) drive(36) hard(37) and(38) fast(39) .(40) 
+		</sentence>
+		<sentence id="28">
+			Exterior_Innovation(1) :(2) The(3) exterior(4) ,(5) while(6) some(7) may(8) love(9) it(10) ,(11) this(12) is(13) not(14) my(15) favorite(16) looking(17) automobile(18) .(19) 
+			<opinion polarity="+" feature="exterior" featWords="4" opWords="9"/>
+		</sentence>
+		<sentence id="29">
+			It(1) is(2) one(3) of(4) the(5) most(6) original(7) coupes(8) I(9) have(10) driven(11) ,(12) but(13) that(14) is(15) not(16) going(17) to(18) give(19) this(20) car(21) any(22) brownie(23) points(24) in(25) the(26) looks(27) department(28) .(29) 
+		</sentence>
+		<sentence id="30">
+			The(1) M_Coupe(2) comes(3) with(4) 5(5) spoke(6) ,(7) 17(8) "(9) alloy(10) rims(11) ,(12) flared(13) wheel(14) arches(15) ,(16) and(17) side(18) vents(19) that(20) were(21) developed(22) from(23) the(24) regular(25) Z3(26) and(27) the(28) old(29) 507(30) .(31) The(32) M_Coupes(33) comes(34) with(35) very(36) stylish(37) headlamps(38) ,(39) the(40) tapered(41) headlamp(42) design(43) is(44) crucial(45) in(46) defining(47) the(48) Coupes(49) front(50) fascia(51) .(52) Price(53) :(54) The(55) price(56) for(57) these(58) cars(59) are(60) pretty(61) high(62) ,(63) a(64) 2000(65) model(66) will(67) set(68) you(69) back(70) around(71) $25,000(72) .(73) These(74) cars(75) new(76) ran(77) for(78) as(79) much(80) as(81) $42,000(82) .(83) There(84) were(85) not(86) very(87) many(88) made(89) ,(90) so(91) prices(92) remain(93) high(94) .(95) Conclusion(96) :(97) If(98) you(99) are(100) looking(101) for(102) an(103) upscale(104) sports(105) coupe(106) on(107) the(108) used(109) market(110) ,(111) the(112) M_Coupe(113) offers(114) plenty_of(115) bang(116) for(117) your(118) buck(119) .(120) While(121) repairs(122) may(123) cost(124) a_bit(125) more(126) than(127) your(128) average(129) American(130) hatchback(131) ,(132) the(133) M_Coupe(134) offers(135) exclusivity(136) rights(137) that(138) the(139) driver(140) will(141) enjoy(142) as(143) long(144) as(145) they(146) own(147) this(148) vehicle(149) .(150) -(151) Happy_Car_Shopping_Amount_Paid(152) ((153) US(154) $(155) )(156) :(157) 30000(158) Model_Year(159) :(160) 2000Model(161) and(162) Options(163) :(164) Z3_M(165) coupe(166) 5(167) speed(168) manual(169) 
+			<opinion polarity="-" feature="price" featWords="56" opWords="62"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="460" item="Sony MDR-RF960RK Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Value(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			long(1) battery(2) life(3) ,(4) great(5) sound(6) ,(7) comfortable(8) to(9) wear(10) for(11) extended(12) periods(13) of(14) time(15) ,(16) good(17) range(18) .(19) 
+			<opinion polarity="+" feature="battery life" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+			<opinion polarity="+" feature="range" featWords="18" opWords="17"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hiss(1) and(2) pop(3) when(4) the(5) battery(6) is(7) low(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Hard(1) to(2) position(3) on(4) charger(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) these(4) headphones(5) for(6) about(7) 2(8) years(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) them(3) refurbished(4) to(5) replace(6) a(7) set(8) of(9) $180(10) Sony(11) headphones(12) I(13) dropped(14) and(15) broke(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) picked(2) these(3) up(4) refurbished(5) for(6) $36(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			They(1) sound(2) as(3) good(4) as(5) the(6) expensive(7) ones(8) and(9) have(10) lasted(11) longer(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) m(2) buying(3) a_second(4) pair(5) for(6) my(7) wife(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) received(3) them(4) I(5) did(6) not(7) fully(8) charge(9) the(10) batteries(11) and(12) they(13) performed(14) poorly(15) .(16) 
+			<opinion polarity="-" feature="battery" featWords="11" opWords="14,15"/>
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) on(3) the(4) verge(5) of(6) returning(7) them(8) and(9) even(10) had(11) an(12) rma(13) #(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Before(1) I(2) boxed(3) them(4) up(5) ,(6) I(7) tried(8) them(9) one(10) more(11) time(12) after(13) a(14) full(15) charge(16) and(17) I(18) am(19) sure(20) glad(21) I(22) did(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) been(3) great(4) ever(5) since(6) .(7) 
+			<opinion polarity="+" feature="headphones" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) sound(2) quality(3) is(4) very(5) good(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) headphones(2) will(3) run(4) around(5) 20(6) hours(7) on(8) 1(9) charge(10) and(11) after(12) 2(13) years(14) are(15) still(16) as(17) good(18) as(19) when(20) I(21) first(22) received(23) them(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			The(1) over(2) the(3) ear(4) design(5) is(6) comfortable(7) and(8) helps(9) to(10) block(11) out(12) other(13) sounds(14) .(15) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="7"/>
+		</sentence>
+	</text>
+</review>

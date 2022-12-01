@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="426" item="2001 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			Lack_of_Power(1) ,(2) Features(3) ,(4) and(5) SAFETY(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			4-cylinder(1) with(2) no(3) torque(4) gets(5) acceptable(6) gas(7) mileage(8) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) other(2) than(3) getting(4) acceptable(5) mileage(6) 
+			<opinion polarity="+" feature="gas" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Steer(1) clear(2) ,(3) run(4) away(5) ,(6) etc.(7) if(8) you(9) would(10) like(11) to(12) walk(13) away(14) from(15) a(16) crash(17) alive(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) car(2) was(3) the(4) worst(5) car(6) that(7) I(8) have(9) ever(10) owned(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) swindled(3) by(4) the(5) Honda(6) salesman(7) and(8) thought(9) I(10) was(11) getting(12) a(13) great(14) car(15) ...(16) oops(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) not(3) just(4) that(5) the(6) 4-cylinder(7) engine(8) has(9) no(10) power(11) whatsoever(12) due(13) to(14) its(15) complete(16) lack(17) of(18) torque(19) ,(20) or(21) that(22) Honda(23) was(24) still(25) making(26) vehicles(27) with(28) crank(29) windows(30) and(31) without(32) power(33) locks(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			After(1) putting(2) up(3) with(4) this(5) piece(6) of(7) junk(8) for(9) a(10) year(11) ,(12) I(13) got(14) into(15) an(16) accident(17) in(18) it(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) rear-ended(3) by(4) a(5) car(6) traveling(7) 60mph(8) as(9) I(10) sat(11) at(12) a(13) stop(14) sign(15) at_the_bottom(16) of(17) a(18) hill(19) ,(20) and(21) was(22) rammed(23) forward(24) into(25) a(26) tree(27) directly(28) in(29) front(30) of(31) me(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			My(1) entire(2) right(3) leg(4) was(5) broken(6) ,(7) right(8) lung(9) was(10) punctured(11) and(12) 4(13) right(14) ribs(15) were(16) cracked(17) due(18) to(19) shoddy(20) airbags(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) seat(2) construction(3) on(4) this(5) car(6) is(7) so(8) weak(9) that(10) the(11) seats(12) LITERALLY_CRUMPLED(13) forward(14) ,(15) causing(16) my(17) extensive(18) injuries(19) and(20) fracturing(21) multiple(22) discs(23) in(24) my(25) passenger(26) 's(27) vertebrae(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			That(1) is(2) a(3) PERMANENT(4) and(5) debilitating(6) injury(7) !(8) 
+		</sentence>
+		<sentence id="9">
+			I(1) never(2) would(3) have(4) recommended(5) this(6) car(7) from(8) day_one(9) ,(10) but(11) now(12) I(13) am(14) URGING(15) you(16) to(17) steer(18) clear(19) of(20) it(21) if(22) you(23) value(24) your(25) life(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			Everyone(1) that(2) sees(3) the(4) scene(5) of(6) the(7) accident(8) says(9) that(10) my(11) passenger(12) and(13) I(14) are(15) lucky(16) to(17) be(18) alive(19) !(20) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) "(16) Value_Package(17) "(18) 
+		</sentence>
+	</text>
+</review>

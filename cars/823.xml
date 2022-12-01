@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="823" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) hate(2) my(3) Equinox(4) 
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) back(2) seat(3) can(4) be(5) pushed(6) back(7) to(8) give(9) more(10) leg(11) room(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			stained(1) seats(2) ,(3) AC(4) problems(5) ,(6) radio(7) buttons(8) ,(9) cd(10) player(11) rejects(12) cd(13) 's(14) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Equinox(4) in(5) 12/05(6) as(7) a(8) Christmas(9) gift(10) to(11) myself(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) to(3) be(4) one(5) of(6) the(7) worst(8) gifts(9) ever(10) !(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) nothing(4) but(5) problems(6) with(7) this(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) owned(2) Hondas(3) before(4) this(5) and(6) will(7) go(8) back(9) to(10) them(11) as(12) soon(13) as(14) I(15) can(16) unload(17) this(18) piece(19) of(20) ****(21) on(22) someone(23) else(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			The(1) seats(2) stain(3) very(4) easily(5) ,(6) and(7) the(8) stains(9) can(10) not(11) be(12) removed(13) even(14) by(15) a(16) professional(17) .(18) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			Attempts(1) on(2) my(3) own(4) to(5) remove(6) only(7) leave(8) more(9) stains(10) /(11) water(12) spots(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) not(3) even(4) offered(5) Stainguard(6) treatment(7) at(8) the(9) dealer(10) ,(11) so(12) I(13) assumed(14) the(15) seats(16) were(17) treated(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			My_Hondas(1) were(2) .(3) 
+		</sentence>
+		<sentence id="9">
+			I(1) also(2) have(3) a(4) problem(5) with(6) a(7) mildew(8) smell(9) that(10) the(11) dealership(12) can(13) not(14) find(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) numbers(2) on(3) the(4) radio(5) buttons(6) wore(7) off(8) quickly(9) ,(10) and(11) replacing(12) the(13) radio(14) did(15) not(16) help(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Within(1) 2(2) weeks(3) they(4) were(5) worn(6) off(7) again(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) do(2) not(3) press(4) them(5) that(6) much(7) !(8) !(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="13">
+			The(1) air(2) conditioner(3) stops(4) blowing(5) cool(6) air(7) after(8) I(9) travel(10) a(11) little(12) over(13) 1(14) hour(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			That(1) is(2) another(3) problem(4) the(5) dealership(6) could(7) not(8) duplicate(9) .(10) :(11) ((12) The(13) gas(14) mileage(15) is(16) horrible(17) for(18) a(19) small(20) SUV(21) .(22) Amount_Paid(23) ((24) US(25) $(26) )(27) :(28) 20,000(29) Condition(30) :(31) NewModel_Year(32) :(33) 2005Model(34) and(35) Options(36) :(37) LS(38) 
+			<opinion polarity="-" feature="gas" featWords="14,15" opWords="17"/>
+		</sentence>
+	</text>
+</review>

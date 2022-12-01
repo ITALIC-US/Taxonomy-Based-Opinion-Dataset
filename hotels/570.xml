@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="570" item="Sahara Hotel & Casino" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) Empire_Strikes(2) "(3) Sahara(4) :(5) "(6) A(7) ((8) n(9) Almost(10) )(11) Worthy_Casino(12) .(13) .(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			For_Now(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) bank(2) of(3) "(4) Star_Wars(5) "(6) slot(7) machines(8) ,(9) Parking(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smoky(1) ,(2) Construction(3) situation(4) ,(5) Lame(6) sign-up(7) bonus(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) more(2) I(3) wrote(4) about(5) this(6) casino(7) the(8) more(9) I(10) realized(11) it(12) had(13) not(14) in(15) any(16) way(17) wowed(18) me(19) ((20) despite(21) the(22) slot(23) diversity(24) )(25) and(26) I(27) could(28) not(29) recommend(30) it(31) .(32) 
+			<opinion polarity="-" feature="hotel" opWords="29,30"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) is(2) easy(3) to(4) see(5) why(6) the(7) Sahara(8) trades(9) on(10) its(11) history(12) in(13) Las_Vegas(14) ,(15) with(16) its(17) giant(18) portraits(19) of(20) celebrities(21) of(22) yore(23) ((24) Elvis(25) ,(26) etc.(27) )(28) in(29) their(30) lobby(31) area(32) ;(33) this(34) casino(35) has(36) the(37) feeling(38) of(39) being(40) exactly(41) what(42) one(43) thinks(44) they(45) would(46) find(47) in(48) Las_Vegas(49) .(50) 
+		</sentence>
+		<sentence id="2">
+			The(1) Sahara(2) feels(3) like(4) a(5) big(6) ,(7) fairly(8) generic(9) casino(10) that(11) is(12) full(13) of(14) flash(15) ,(16) but(17) for(18) people(19) who(20) are(21) not(22) into(23) gambling(24) is(25) pretty(26) dull(27) .(28) 
+			<opinion polarity="+" feature="casino" featWords="10" opWords="6"/>
+			<opinion polarity="-" feature="casino" featWords="10" opWords="9" potency="8"/>
+			<opinion polarity="-" feature="casino" featWords="10" opWords="27" potency="26"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Sahara_Casino(2) is(3) one(4) of(5) Las_Vegas(6) 's(7) oldest(8) casinos(9) and(10) I(11) arrived(12) at(13) it(14) on(15) a(16) Tuesday_morning(17) for(18) some(19) pre-convention(20) gambling(21) and(22) after(23) navigating(24) around(25) the(26) construction(27) -(28) it(29) is(30) currently(31) undergoing(32) a(33) face-lift(34) -(35) I(36) entered(37) for(38) one(39) of(40) the(41) most(42) bland(43) casino(44) experiences(45) I(46) had(47) while(48) in(49) Las_Vegas(50) .(51) 
+		</sentence>
+		<sentence id="4">
+			That(1) said(2) ,(3) the(4) Sahara(5) was(6) one(7) of(8) only(9) three(10) casinos(11) I(12) went(13) to(14) more(15) than(16) once(17) while(18) in(19) Las_Vegas(20) and(21) there(22) is(23) a(24) ridiculously(25) simple(26) reason(27) as(28) to(29) why(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) Sahara(2) ,(3) in(4) my(5) experience(6) ,(7) was(8) the(9) only(10) casino(11) in(12) Las_Vegas(13) to(14) have(15) a(16) video(17) slot(18) machine(19) based(20) upon(21) "(22) The(23) Empire_Strikes_Back(24) "(25) ((26) reviewed(27) at(28) :(29) http://www.epinions.com/content_64646909572(30) )(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			Yes(1) ,(2) my(3) third(4) favorite(5) film(6) of(7) all(8) time(9) makes(10) for(11) a(12) pretty(13) cool(14) video(15) slot(16) machine(17) and(18) the(19) Sahara(20) was(21) the(22) only(23) place(24) I(25) could(26) go(27) to(28) play(29) it(30) ,(31) so(32) I(33) went(34) back(35) several(36) nights(37) after(38) my(39) convention(40) !(41) 
+		</sentence>
+		<sentence id="7">
+			Sahara_Casino(1) :(2) came(3) in(4) with(5) $5.00(6) ,(7) left(8) with(9) $0.00(10) ((11) after(12) three(13) trips(14) ,(15) the(16) last(17) of(18) which(19) I(20) came(21) in(22) with(23) the(24) $40.00(25) of(26) prior(27) Sahara(28) winnings(29) )(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			Location_The_Sahara(1) is(2) a(3) large(4) hotel(5) and(6) casino(7) located(8) at(9) 2535(10) Las_Vegas_Boulevard_South(11) in(12) Las_Vegas(13) ,(14) Nevada(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			For(1) those(2) unfamiliar(3) with(4) Las_Vegas(5) ,(6) Las_Vegas_Boulevard(7) is(8) more(9) commonly(10) referred(11) to(12) as(13) The_Strip(14) ,(15) the(16) highest(17) concentration(18) of(19) the(20) most(21) famous(22) casinos(23) in(24) Las_Vegas(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			The(1) Sahara(2) is(3) near(4) the(5) Stratosphere(6) ((7) reviewed(8) at(9) :(10) http://www.epinions.com/content_442398314116(11) )(12) which(13) pretty(14) much(15) defines(16) one(17) end(18) of(19) the(20) Strip(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			Normally(1) ,(2) the(3) Sahara(4) might(5) be(6) easy(7) enough(8) to(9) get(10) into(11) ,(12) but(13) there(14) were(15) some(16) pretty(17) massive(18) renovations(19) going(20) on(21) outside(22) the(23) casino(24) and(25) in(26) the(27) street(28) outside(29) ,(30) making(31) turning(32) into(33) the(34) parking(35) garage(36) a_bit(37) of(38) a(39) challenge(40) ,(41) especially(42) at(43) peak(44) hours(45) .(46) 
+		</sentence>
+		<sentence id="12">
+			The(1) main(2) level(3) of(4) the(5) hotel(6) and(7) casino(8) -(9) the(10) only(11) part(12) I(13) spent(14) any(15) real(16) time(17) in(18) -(19) is(20) essentially(21) a(22) mammoth(23) room(24) with(25) high(26) ceilings(27) and(28) the(29) glittery(30) lights(31) one(32) might(33) associate(34) with(35) Las_Vegas(36) casinos(37) from(38) things(39) like(40) the(41) movies(42) .(43) 
+		</sentence>
+		<sentence id="13">
+			The(1) casino(2) level(3) is(4) packed(5) with(6) gaming(7) tables(8) and(9) video(10) slot(11) machines(12) ,(13) as_well(14) as(15) a(16) central(17) bar(18) and(19) a(20) stage(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			Despite(1) the(2) emphasis(3) on(4) gaming(5) ,(6) there(7) is(8) a(9) very(10) open(11) feel(12) to(13) the(14) casino(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Despite(1) that(2) sense(3) of(4) openness(5) ,(6) there(7) is(8) a(9) pretty(10) concentrated(11) scent(12) of(13) lingering(14) tobacco(15) ,(16) as_if(17) the(18) generations(19) of(20) nicotine(21) that(22) have(23) no_doubt(24) come(25) through(26) the(27) casino(28) have(29) lingered(30) on(31) the(32) wallpaper(33) and(34) carpets(35) .(36) 
+		</sentence>
+		<sentence id="16">
+			Size(1) /(2) Atmosphere(3) /(4) "(5) Atmosphere(6) "(7) The(8) Sahara_Casino(9) is(10) a(11) fairly(12) large(13) casinos(14) in(15) Las_Vegas(16) and(17) it(18) feels(19) like(20) it(21) is(22) capitalizing(23) on(24) the(25) space(26) it(27) has(28) .(29) 
+			<opinion polarity="+" feature="casino" featWords="14" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="17">
+			All(1) of(2) the(3) ceilings(4) are(5) high(6) ,(7) all(8) of(9) the(10) carpets(11) are(12) clean(13) and(14) the(15) place(16) feels(17) like(18) one(19) massive(20) hotel(21) lobby(22) .(23) 
+			<opinion polarity="+" feature="carpets" featWords="11" opWords="13"/>
+			<opinion polarity="+" feature="lobby" featWords="22" opWords="20"/>
+		</sentence>
+		<sentence id="18">
+			The(1) casino(2) is(3) lit(4) ,(5) spaced(6) and(7) dressed(8) up(9) like(10) a(11) hotel(12) lobby(13) ,(14) making(15) for(16) a(17) very(18) neutral(19) overall(20) feel(21) to(22) the(23) casino(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			There(1) are(2) over(3) a_thousand(4) video(5) slot(6) machines(7) spread(8) out(9) over(10) the(11) casino(12) floor(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) high(2) ceilings(3) should(4) help(5) dissipate(6) the(7) cigarette(8) and(9) cigar(10) smoke(11) that(12) is(13) prevalent(14) in(15) the(16) casino(17) ,(18) but(19) for(20) some(21) reason(22) the(23) place(24) still(25) has(26) a(27) rather(28) pungent(29) tobacco(30) scent(31) .(32) 
+		</sentence>
+		<sentence id="21">
+			For(1) those(2) sensitive(3) to(4) such(5) things(6) ,(7) this(8) remains(9) a(10) severe(11) drawback(12) to(13) the(14) Sahara(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			This(1) is(2) especially(3) true(4) in(5) the(6) offshoot(7) rooms(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Off(1) the(2) main(3) casino(4) floor(5) are(6) a(7) couple(8) of(9) rooms(10) where(11) there(12) are(13) either(14) more(15) slot(16) machines(17) ((18) the(19) bank(20) of(21) "(22) Star_Wars(23) "(24) video(25) slots(26) ,(27) for_example(28) ,(29) is(30) actually(31) in(32) a(33) side(34) room(35) )(36) or(37) sports(38) betting(39) or(40) poker(41) .(42) 
+		</sentence>
+		<sentence id="24">
+			As(1) for(2) the(3) "(4) atmosphere(5) "(6) of(7) the(8) Sahara(9) ,(10) I(11) swear(12) ,(13) I(14) do(15) not(16) recall(17) seeing(18) a(19) serving(20) woman(21) in(22) the(23) casino(24) on(25) any(26) of(27) my(28) trips(29) to(30) the(31) Sahara(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			My(1) first(2) time(3) in(4) ,(5) I(6) was(7) greeted(8) by(9) a(10) woman(11) in(12) a(13) pantsuit(14) who(15) gave(16) me(17) my(18) free(19) spin(20) after(21) directing(22) me(23) to(24) the(25) player(26) 's(27) club(28) to(29) sign(30) up(31) .(32) 
+		</sentence>
+		<sentence id="26">
+			And(1) on(2) one(3) of(4) the(5) times(6) I(7) was(8) leaving(9) ,(10) another(11) woman(12) in(13) a(14) pantsuit(15) asked(16) if(17) I(18) wanted(19) to(20) go(21) to(22) a(23) show(24) ((25) but(26) I(27) was(28) in(29) a(30) hurry(31) elsewhere(32) )(33) .(34) 
+		</sentence>
+		<sentence id="27">
+			Either(1) the(2) women(3) of(4) the(5) Sahara(6) are(7) a(8) professional(9) looking(10) lot(11) or(12) there(13) are(14) very(15) few(16) who(17) are(18) kept(19) very(20) busy(21) .(22) 
+		</sentence>
+		<sentence id="28">
+			As(1) far(2) as(3) other(4) aspects(5) of(6) "(7) atmosphere(8) ,(9) "(10) this(11) is(12) a(13) relatively(14) nondescript(15) casino(16) ,(17) especially(18) on(19) the(20) casino(21) floor(22) .(23) 
+			<opinion polarity="-" feature="casino" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="29">
+			Gaming_Options(1) /(2) Player_'s_Club_I(3) have(4) a(5) very(6) simple(7) gambling(8) philosophy(9) :(10) I(11) sit(12) down(13) at(14) a(15) slot(16) machine(17) with(18) $5.00(19) .(20) 
+		</sentence>
+		<sentence id="30">
+			I(1) work(2) it(3) up(4) to(5) $10(6) or(7) down(8) to(9) zero(10) .(11) 
+		</sentence>
+		<sentence id="31">
+			I(1) know(2) my(3) limits(4) :(5) I(6) can(7) afford(8) to(9) lose(10) $5.00(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			So(1) ,(2) when(3) I(4) am(5) above(6) that(7) ,(8) I(9) 'll(10) usually(11) work(12) it(13) up(14) or(15) whittle(16) it(17) down(18) to(19) the(20) next(21) even(22) $5.00(23) .(24) 
+		</sentence>
+		<sentence id="33">
+			Have(1) a(2) strategy(3) ,(4) know(5) your(6) limits(7) :(8) the(9) Sahara_Casino(10) worked(11) quite(12) well(13) for(14) me(15) .(16) .(17) .(18) in(19) general(20) .(21) 
+		</sentence>
+		<sentence id="34">
+			I(1) became(2) pretty(3) obsessed(4) with(5) the(6) "(7) Star_Wars(8) "(9) video(10) slot(11) machines(12) and(13) while(14) I(15) seemed(16) to(17) hit(18) it(19) pretty(20) regularly(21) on(22) the(23) "(24) Star_Wars(25) :(26) A(27) New_Hope(28) "(29) machine(30) ((31) interestingly(32) enough(33) ,(34) I(35) would(36) hit(37) the(38) bonuses(39) always(40) within(41) two(42) spins(43) of(44) the(45) man(46) playing(47) the(48) same(49) game(50) three(51) machines(52) away(53) )(54) and(55) I(56) generally(57) broke(58) even(59) on(60) the(61) "(62) Empire_Strikes_Back(63) "(64) machine(65) ,(66) I(67) soon(68) became(69) obse(70) .(71) .(72) .(73) er(74) ,(75) determined(76) to(77) see(78) the(79) bonus(80) round(81) on(82) the(83) "(84) Star_Wars(85) :(86) Dark_Side(87) "(88) machine(89) ,(90) which(91) eventually(92) eliminated(93) all(94) of(95) my(96) Sahara(97) profits(98) .(99) 
+		</sentence>
+		<sentence id="35">
+			Anyway(1) ,(2) outside(3) that(4) ,(5) I(6) generally(7) stayed(8) within(9) my(10) limits(11) and(12) in(13) the(14) end(15) ,(16) I(17) only(18) lost(19) $5.00(20) of(21) my(22) own(23) money(24) ((25) not(26) bad(27) for(28) over(29) six(30) hours(31) of(32) gaming(33) on(34) and(35) off(36) !(37) )(38) .(39) 
+		</sentence>
+		<sentence id="36">
+			I(1) 'm(2) primarily(3) a(4) slot(5) machine(6) player(7) and(8) I(9) have(10) no(11) shame(12) in(13) admitting(14) ,(15) I(16) tend(17) to(18) like(19) the(20) ones(21) that(22) are(23) more(24) video(25) game-like(26) and(27) that(28) is(29) all(30) I(31) played(32) at(33) the(34) Sahara(35) ;(36) three(37) of(38) the(39) four(40) "(41) Star_Wars(42) "(43) themes(44) video(45) slot(46) machines(47) ((48) I(49) never(50) did(51) go(52) on(53) the(54) far(55) right(56) "(57) A(58) New_Hope(59) "(60) machine(61) .(62) 
+		</sentence>
+		<sentence id="37">
+			.(1) .(2) )(3) .(4) 
+		</sentence>
+		<sentence id="38">
+			In_addition(1) to(2) being(3) the(4) only(5) casino(6) in(7) Las_Vegas(8) that(9) I(10) found(11) an(12) "(13) Empire_Strikes_Back(14) "(15) machine(16) at(17) ,(18) the(19) Sahara(20) was(21) also(22) the(23) only(24) one(25) I(26) saw(27) that(28) had(29) banks(30) of(31) "(32) The(33) Sopranos(34) "(35) slot(36) machines(37) .(38) 
+		</sentence>
+		<sentence id="39">
+			In_addition(1) ,(2) they(3) had(4) the(5) typical(6) slot(7) machines(8) ,(9) plus(10) Wheel_of_Fortune(11) ,(12) Deal_Or_No_Deal(13) ,(14) and(15) hundreds(16) of(17) others(18) .(19) 
+		</sentence>
+		<sentence id="40">
+			The(1) Sahara(2) had(3) a(4) pretty(5) decent(6) selection(7) and(8) I(9) recall(10) when(11) looking(12) around(13) upon(14) first(15) entering(16) that(17) there(18) were(19) many(20) that(21) were(22) not(23) duplicated(24) in(25) the(26) casino(27) .(28) 
+		</sentence>
+		<sentence id="41">
+			For(1) those(2) who(3) might(4) be(5) into(6) games(7) of(8) chance(9) and(10) card(11) games(12) instead_of(13) the(14) fun(15) video(16) slot(17) machines(18) ,(19) there(20) are(21) several(22) tables(23) with(24) table(25) games(26) ,(27) including(28) blackjack(29) ,(30) roulette(31) wheels(32) ,(33) mini(34) baccarat(35) ((36) I(37) 've(38) no(39) idea(40) what(41) makes(42) it(43) "(44) mini(45) ,(46) "(47) but(48) that(49) is(50) how(51) it(52) was(53) labeled(54) )(55) ,(56) craps(57) ,(58) Let_It_Ride(59) ,(60) Pai_Gow(61) ,(62) Big(63) 6(64) ,(65) 3(66) and(67) 4(68) card(69) poker(70) as_well(71) as(72) Texas_Hold-em(73) ,(74) War(75) and(76) Spanish(77) 21(78) ((79) but(80) you(81) do(82) not(83) have(84) to(85) be(86) Spanish(87) to(88) play(89) that(90) !(91) )(92) .(93) 
+		</sentence>
+		<sentence id="42">
+			This(1) is(2) definitely(3) a(4) place(5) not(6) only(7) trading(8) on(9) slot(10) /(11) video(12) poker(13) play(14) as(15) they(16) devote(17) a(18) fair(19) amount(20) of(21) space(22) to(23) the(24) card(25) /(26) table(27) games(28) .(29) 
+		</sentence>
+		<sentence id="43">
+			There(1) is(2) also(3) a(4) sports(5) betting(6) segment(7) ,(8) which(9) seems(10) to(11) be(12) a(13) bunch(14) of(15) small(16) betting(17) kiosks(18) ,(19) but(20) that(21) 's(22) not(23) truly(24) my(25) thing(26) .(27) 
+		</sentence>
+		<sentence id="44">
+			As_well(1) ,(2) the(3) Sahara(4) capitalizes(5) on(6) Keno(7) ,(8) one(9) of(10) the(11) more(12) lottery-style(13) games(14) and(15) they(16) seemed(17) to(18) have(19) a(20) pretty(21) decent(22) crowd(23) for(24) that(25) .(26) 
+		</sentence>
+		<sentence id="45">
+			As_well(1) ,(2) there(3) is(4) a(5) separate(6) poker(7) room(8) .(9) 
+		</sentence>
+		<sentence id="46">
+			There(1) is(2) a(3) player(4) 's(5) club(6) at(7) the(8) Sahara(9) ,(10) which(11) is(12) the(13) Club_Sahara(14) .(15) 
+		</sentence>
+		<sentence id="47">
+			Signing(1) up(2) is(3) easy(4) and(5) there(6) was(7) no(8) line(9) when(10) I(11) went(12) to(13) sign(14) up(15) ((16) or(17) ever(18) when(19) I(20) went(21) )(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			Signing(1) up(2) entails(3) the(4) member(5) to(6) a(7) free(8) spin(9) on(10) an(11) older(12) style(13) slot(14) machine(15) ,(16) which(17) requires(18) an(19) attendant(20) .(21) 
+		</sentence>
+		<sentence id="49">
+			I(1) never(2) saw(3) anyone(4) win(5) anything(6) from(7) the(8) free(9) spin(10) ,(11) which(12) makes(13) for(14) a(15) pretty(16) lousy(17) sign-up(18) bonus(19) .(20) 
+		</sentence>
+		<sentence id="50">
+			Points(1) here(2) are(3) accrued(4) based(5) upon(6) how(7) much(8) money(9) one(10) bets(11) in(12) combination(13) with(14) time(15) spent(16) at(17) a(18) machine(19) .(20) 
+		</sentence>
+		<sentence id="51">
+			The(1) points(2) accrue(3) according_to(4) a(5) countdown(6) ,(7) which(8) is(9) constantly(10) displayed(11) on(12) the(13) video(14) slot(15) machines(16) .(17) 
+		</sentence>
+		<sentence id="52">
+			As(1) you(2) place(3) bets(4) ,(5) the(6) countdown(7) goes(8) down(9) from(10) 1000(11) and(12) each(13) time(14) it(15) hits(16) zero(17) ,(18) you(19) are(20) given(21) a(22) point(23) .(24) 
+		</sentence>
+		<sentence id="53">
+			It(1) 's(2) irritating(3) when(4) one(5) runs(6) out(7) of(8) money(9) when(10) the(11) counter(12) is(13) below(14) 100(15) because(16) every(17) time(18) you(19) leave(20) a(21) machine(22) ,(23) the(24) countdown(25) starts(26) again(27) for(28) you(29) !(30) 
+		</sentence>
+		<sentence id="54">
+			Given(1) how(2) the(3) last(4) time(5) I(6) left(7) the(8) Sahara_I(9) had(10) only(11) something(12) like(13) 25(14) points(15) ,(16) I(17) did(18) not(19) even(20) look(21) into(22) what(23) they(24) could(25) be(26) redeemed(27) for(28) .(29) 
+		</sentence>
+		<sentence id="55">
+			Entertainment_Options_The_Sahara_Casino(1) boasts(2) entertainment(3) ,(4) but(5) for(6) the(7) life(8) of(9) me(10) ,(11) I(12) can(13) not(14) recall(15) seeing(16) signs(17) up(18) in(19) the(20) casino(21) for(22) the(23) acts(24) that(25) were(26) there(27) .(28) 
+		</sentence>
+		<sentence id="56">
+			The(1) guide(2) I(3) picked(4) up(5) ,(6) though(7) ,(8) tells(9) me(10) there(11) were(12) nightly(13) concerts(14) by(15) the(16) R_&_B(17) groups(18) The_Platters(19) ,(20) The_Coasters(21) and(22) the(23) Marvelettes(24) ;(25) I(26) am(27) sure(28) I(29) did(30) not(31) see(32) that(33) advertised(34) while(35) actually(36) in(37) Las_Vegas(38) .(39) 
+		</sentence>
+		<sentence id="57">
+			The(1) Sahara(2) also(3) has(4) a(5) spa(6) and(7) a(8) roller(9) coaster(10) of(11) sorts(12) that(13) speeds(14) the(15) rider(16) along(17) a(18) curve(19) ,(20) an(21) underground(22) tunnel(23) and(24) then(25) a(26) drop(27) off(28) a(29) tower(30) .(31) 
+		</sentence>
+		<sentence id="58">
+			Not(1) my(2) thing(3) .(4) 
+		</sentence>
+		<sentence id="59">
+			I(1) suppose(2) the(3) Sahara(4) ,(5) in_addition(6) to(7) having(8) a(9) long(10) history(11) ,(12) is(13) looking(14) to(15) adapt(16) to(17) the(18) times(19) .(20) 
+		</sentence>
+		<sentence id="60">
+			Dining_Options_The_Sahara(1) was(2) part(3) of(4) a(5) three(6) casino(7) day(8) for(9) me(10) ,(11) on(12) the(13) first(14) day(15) I(16) went(17) there(18) ((19) the(20) other(21) nights(22) I(23) came(24) to(25) it(26) after(27) dinner(28) )(29) ,(30) so(31) I(32) did(33) not(34) dine(35) at(36) this(37) casino(38) .(39) 
+		</sentence>
+		<sentence id="61">
+			However(1) ,(2) the(3) Sahara(4) has(5) at_least(6) seven(7) dining(8) options(9) ,(10) though(11) most(12) of(13) them(14) seemed(15) to(16) be(17) small(18) bars(19) .(20) 
+			<opinion polarity="-" feature="food" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="62">
+			There(1) is(2) even(3) a(4) bar(5) on(6) the(7) casino(8) floor(9) .(10) 
+		</sentence>
+		<sentence id="63">
+			For(1) those(2) who(3) are(4) not(5) just(6) planning(7) to(8) drink(9) their(10) way(11) through(12) the(13) Sahara(14) ,(15) there(16) is(17) a(18) buffet(19) ,(20) a(21) cafe(22) and(23) a(24) very(25) fancy(26) restaurant(27) in(28) the(29) casino(30) .(31) 
+		</sentence>
+		<sentence id="64">
+			There(1) is(2) also(3) a(4) Mexican(5) restaurant(6) and(7) a(8) steakhouse(9) .(10) 
+		</sentence>
+		<sentence id="65">
+			All(1) of(2) these(3) are(4) off(5) the(6) main(7) casino(8) floor(9) and(10) there(11) may(12) be(13) others(14) ,(15) but(16) given(17) how(18) I(19) was(20) captivated(21) by(22) "(23) Star_Wars(24) "(25) slots(26) ,(27) I(28) did(29) not(30) exactly(31) go(32) hunting(33) very(34) far(35) or(36) very(37) long(38) for(39) other(40) places(41) I(42) was(43) not(44) going(45) to(46) eat(47) .(48) 
+		</sentence>
+		<sentence id="66">
+			Shopping_Options_The_Sahara(1) has(2) a(3) Nascar(4) shop(5) ,(6) which(7) reinforces(8) the(9) idea(10) that(11) it(12) is(13) trying(14) to(15) keep(16) up(17) with(18) the(19) times(20) .(21) 
+		</sentence>
+		<sentence id="67">
+			Beyond(1) that(2) ,(3) the(4) shops(5) tend(6) to(7) upscale(8) or(9) Vegas(10) related(11) .(12) 
+		</sentence>
+		<sentence id="68">
+			As(1) a(2) result(3) ,(4) there(5) is(6) a(7) souvenir(8) shop(9) ,(10) a(11) liquor(12) store(13) ,(14) a(15) jewelry(16) shop(17) ,(18) a(19) fashion(20) clothes(21) store(22) and(23) a(24) poolwear(25) store(26) ((27) the(28) Sahara(29) hotel(30) has(31) a(32) big(33) pool(34) )(35) .(36) 
+			<opinion polarity="+" feature="swimming pool" featWords="34" opWords="33"/>
+		</sentence>
+		<sentence id="69">
+			Like(1) most(2) shopping(3) at(4) a(5) casino(6) in(7) Las_Vegas(8) ,(9) it(10) 's(11) ridiculously(12) expensive(13) to(14) shop(15) at(16) the(17) Sahara(18) .(19) 
+		</sentence>
+		<sentence id="70">
+			Of(1) course(2) ,(3) if(4) you(5) hit(6) it(7) big(8) .(9) .(10) .(11) 
+		</sentence>
+		<sentence id="71">
+			Overall_The_Sahara(1) is(2) a(3) casino(4) and(5) as(6) I(7) worked(8) on(9) my(10) review(11) I(12) was(13) surprised(14) that(15) all(16) of(17) the(18) supporting(19) materials(20) I(21) picked(22) up(23) in(24) Las_Vegas(25) supported(26) my(27) memory(28) of(29) the(30) place(31) :(32) this(33) is(34) a(35) bland(36) ,(37) very(38) ordinary(39) casino(40) .(41) 
+			<opinion polarity="-" feature="casino" featWords="40" opWords="36"/>
+			<opinion polarity="-" feature="casino" featWords="40" opWords="39" potency="38"/>
+		</sentence>
+		<sentence id="72">
+			It(1) may(2) have(3) its(4) history(5) ,(6) but(7) today(8) ,(9) it(10) 's(11) just(12) not(13) capitalizing(14) on(15) entertainment(16) ,(17) dining(18) ,(19) shopping(20) or(21) even(22) keeping(23) players(24) outside(25) the(26) obsessive(27) "(28) Star_Wars(29) "(30) slot(31) machine(32) players(33) coming(34) back(35) .(36) 
+		</sentence>
+		<sentence id="73">
+			When(1) I(2) go(3) back(4) next(5) year(6) for(7) my(8) convention(9) ,(10) if(11) I(12) do(13) not(14) find(15) the(16) "(17) Star_Wars(18) "(19) machines(20) still(21) there(22) ,(23) I(24) will(25) not(26) have(27) any(28) problem(29) leaving(30) this(31) casino(32) forever(33) .(34) 
+		</sentence>
+		<sentence id="74">
+			And(1) ultimately(2) ,(3) as(4) I(5) consider(6) how(7) overall(8) this(9) was(10) a(11) bland(12) casino(13) ,(14) even(15) the(16) "(17) Empire_Strikes_Back(18) "(19) slot(20) machine(21) is(22) not(23) enough(24) to(25) recommend(26) this(27) casino(28) for(29) .(30) 
+			<opinion polarity="-" feature="casino" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="75">
+			There(1) are(2) other(3) places(4) and(5) other(6) slot(7) machines(8) in(9) Las_Vegas(10) .(11) .(12) .(13) 
+		</sentence>
+		<sentence id="76">
+			Rating(1) is(2) more(3) appropriately(4) a(5) 2(6) 1/2(7) .(8) 
+		</sentence>
+		<sentence id="77">
+			This(1) is(2) a(3) perfectly(4) average(5) casino(6) .(7) 
+			<opinion polarity="-" feature="casino" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="78">
+			For(1) other(2) casinos(3) reviewed(4) by(5) me(6) ,(7) please(8) check(9) out(10) :(11) The(12) Rio(13) -(14) http://www.epinions.com/content_442979356292Hard(15) Rock_Casino(16) -(17) http://www.epinions.com/content_442860211844(18) Las_Vegas_Hilton_Casino(19) -(20) http://www.epinions.com/content_442732940932(21) Palace_Station(22) -(23) http://www.epinions.com/content_442357354116(24) 
+		</sentence>
+	</text>
+</review>

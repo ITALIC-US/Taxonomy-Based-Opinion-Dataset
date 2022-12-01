@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="597" item="2002 Honda Odyssey" rating="1">
+	<title>
+		<sentence id="1">
+			Major(1) problems(2) with(3) this(4) vehicle(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) got(2) high(3) marks(4) for(5) safety(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) has(2) had(3) major(4) repair(5) problems(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) this(3) mini(4) van(5) because(6) it(7) was(8) suppose(9) to(10) be(11) so(12) good(13) -(14) great(15) safety(16) rating(17) ,(18) etc.(19) Withine(20) 24(21) hours(22) the(23) van(24) stopped(25) running(26) and(27) had(28) to(29) be(30) returned(31) for(32) service(33) .(34) 
+			<opinion polarity="+" feature="safety" featWords="16,17" opWords="15"/>
+			<opinion polarity="+" feature="minivan" featWords="4,5" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="2">
+			We(1) thought(2) it(3) was(4) the(5) end(6) of(7) the(8) problems(9) but(10) it(11) was(12) only(13) the(14) beginning(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) made(3) 3(4) trips(5) to(6) the(7) dealer(8) -(9) the(10) last(11) one(12) it(13) stayed(14) in(15) the(16) shop(17) for(18) over(19) a(20) week(21) so(22) they(23) could(24) install(25) a(26) new(27) transmission(28) ((29) thankfully(30) we(31) had(32) the(33) extended(34) warrenty(35) )(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			We(1) have(2) reported(3) the(4) brakes(5) clicking(6) ,(7) each(8) time(9) we(10) have(11) been(12) told(13) they(14) are(15) fine(16) -(17) we(18) were(19) then(20) told(21) the(22) brakes(23) were(24) 75_%(25) worn(26) and(27) needed(28) replacing(29) ((30) which(31) we(32) did(33) do(34) )(35) and(36) 2(37) weeks(38) later(39) they(40) are(41) clicking(42) again(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			And(1) now(2) we(3) have(4) to(5) prepare(6) for(7) yet(8) another(9) trip(10) to(11) the(12) dealer(13) this(14) week(15) !(16) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) LX(16) with(17) DVD(18) and(19) leather(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="127" item="Bose QuietComfort 2 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			How(1) to(2) enjoy(3) classical(4) guitar(5) recordings(6) in(7) a(8) noisy(9) cafe(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) is(2) good(3) ,(4) very(5) comfortable(6) ,(7) they(8) work(9) as(10) advertised(11) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ,(2) not(3) good(4) for(5) quiet(6) listening(7) environments(8) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) recommend(2) these(3) because(4) they(5) perform(6) as(7) advertised(8) ,(9) they(10) feel(11) great(12) ,(13) and(14) they(15) sound(16) good(17) ,(18) even_if(19) the(20) price(21) is(22) kind(23) of(24) wacky(25) .(26) 
+			<opinion polarity="+" feature="headphones" opWords="2"/>
+			<opinion polarity="+" feature="comfort" opWords="11,12"/>
+			<opinion polarity="+" feature="sound quality" opWords="16,17"/>
+			<opinion polarity="-" feature="price" featWords="21" opWords="25" potency="23,24"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) work(2) at(3) a(4) university(5) ,(6) in(7) systems(8) support(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) office(2) I(3) work(4) in(5) is(6) full(7) of(8) white(9) noise(10) ,(11) mostly(12) from(13) the(14) server(15) room(16) nearby(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			One(1) day(2) ,(3) one(4) of(5) the(6) professors(7) came(8) in(9) wearing(10) these(11) Bose(12) headphones(13) plugged(14) into(15) an(16) Apple(17) iPod(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) curious(3) to(4) try(5) out(6) the(7) headphones(8) ,(9) and(10) he(11) handed(12) them(13) to(14) me(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) put(2) them(3) on(4) ,(5) and(6) the(7) acoustics(8) of(9) the(10) room(11) sort(12) of(13) dropped(14) out(15) of(16) existence(17) ;(18) I(19) had(20) not(21) realized(22) how(23) much(24) white(25) noise(26) there(27) was(28) in(29) the(30) room(31) until(32) it(33) disappeared(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			Over(1) the(2) next(3) few(4) days(5) ,(6) I(7) was(8) obsessed(9) over(10) how(11) the(12) headphones(13) would(14) work(15) in(16) various(17) places(18) that(19) I(20) frequented(21) ,(22) like(23) my(24) favorite(25) cafe(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Finally(1) ,(2) I(3) purchase(4) a(5) pair(6) online(7) from(8) Bose(9) directly(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) make(2) it(3) much(4) too(5) easy(6) ,(7) by(8) offering(9) a(10) 12(11) month(12) interest-free(13) payment(14) plan(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) headphones(2) come(3) in(4) a(5) lovely(6) package(7) ,(8) with(9) a(10) carrying(11) case(12) and(13) a(14) carrying(15) bag(16) .(17) 
+			<opinion polarity="+" feature="packaging" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			Included(1) is(2) an(3) extension(4) cord(5) ,(6) an(7) adapter(8) for(9) 1/4(10) "(11) plugs(12) ,(13) and(14) an(15) odd(16) adapter(17) for(18) airlines(19) .(20) Batteries(21) are(22) included(23) ,(24) and(25) the(26) dang(27) thing(28) does(29) not(30) seem(31) to(32) run(33) its(34) two(35) AAA(36) batteries(37) out(38) ,(39) ever(40) .(41) So(42) -(43) the(44) noise(45) cancellation(46) ?(47) Well(48) ,(49) in(50) a(51) somewhat(52) noisy(53) place(54) ,(55) the(56) headphones(57) are(58) really(59) stunning(60) .(61) They(62) passively(63) muffle(64) out(65) the(66) entire(67) range(68) of(69) sound(70) fairly(71) well(72) ,(73) better(74) than(75) my(76) old(77) Sony(78) V6(79) headphones(80) by(81) quite(82) a_lot(83) .(84) If(85) you(86) put(87) them(88) on(89) without(90) powering(91) them(92) ,(93) it(94) sounds(95) very(96) much(97) like(98) pressing(99) your(100) hands(101) over(102) your(103) ears(104) .(105) The(106) active(107) noise(108) canceling(109) only(110) affects(111) mid-low(112) frequency(113) sounds(114) that(115) are(116) regular(117) and(118) constant(119) .(120) Washing(121) machines(122) ,(123) vacuums(124) ,(125) lawn(126) mowers(127) ,(128) jet(129) engines(130) ,(131) air(132) conditioners(133) and(134) the(135) like(136) are(137) all(138) hushed(139) down(140) very(141) well(142) by(143) the(144) Bose(145) headphones(146) .(147) Other(148) sounds(149) are(150) passively(151) muffled(152) .(153) In(154) a(155) quiet(156) place(157) like(158) a(159) library(160) ,(161) you(162) will(163) hear(164) a(165) mid-high(166) frequency(167) white(168) noise(169) from(170) the(171) noise(172) cancellation(173) system(174) .(175) It(176) sounds(177) a_bit(178) like(179) cassette(180) tape(181) hiss(182) ,(183) and(184) is(185) independent(186) of(187) music(188) volume(189) .(190) In(191) quiet(192) listening(193) environments(194) ,(195) use(196) Grado(197) headphones(198) !(199) ((200) Or(201) whatever(202) you(203) like(204) -(205) I(206) 'm(207) obviously(208) a(209) Grado(210) fan(211) .(212) )(213) In(214) a(215) cafe(216) with(217) people(218) yammering(219) about(220) this(221) and(222) that(223) ,(224) along_with(225) dishwashers(226) and(227) air(228) conditioning(229) running(230) ,(231) even(232) music(233) playing(234) over(235) the(236) crummy(237) speakers(238) ,(239) the(240) Bose(241) headphones(242) help(243) tremendously(244) to(245) give(246) you(247) a(248) peaceful(249) listening(250) environment(251) ,(252) and(253) the(254) sound(255) quality(256) is(257) good(258) enough(259) that(260) you(261) 'll(262) enjoy(263) the(264) quiet(265) that(266) they(267) provide(268) .(269) I(270) 'm(271) looking(272) forward(273) to(274) testing(275) them(276) on(277) a(278) plane(279) ,(280) and(281) I(282) 'll(283) have(284) to(285) update(286) this(287) review(288) when(289) I(290) take(291) a(292) trip(293) in(294) the(295) next(296) few(297) months(298) .(299) These(300) headphones(301) are(302) no(303) Grados(304) ,(305) but(306) the(307) fact(308) that(309) they(310) sound(311) good(312) to(313) me(314) should(315) say(316) a_lot(317) ,(318) since(319) I(320) am(321) used(322) to(323) listening(324) to(325) Grado(326) SR225(327) headphones(328) .(329) The(330) bass(331) is(332) strong(333) ,(334) and(335) the(336) treble(337) has(338) reasonably(339) good(340) detail(341) .(342) They(343) sound(344) far(345) better(346) than(347) any(348) headphones(349) that(350) would(351) come(352) with(353) a(354) discman(355) ,(356) of(357) course(358) .(359) See(360) mthemaniac(361) 's(362) review(363) for(364) an(365) excellent(366) overview(367) of(368) that(369) quirky(370) Bose(371) sound(372) .(373) The(374) comfort(375) is(376) extraordinary(377) .(378) The(379) headband(380) is(381) padded(382) ,(383) the(384) headphones(385) are(386) very(387) light(388) ,(389) and(390) the(391) padded(392) ear(393) cups(394) go(395) around(396) your(397) ears(398) completely(399) .(400) Even(401) larger(402) ears(403) ((404) like(405) mine(406) )(407) fit(408) comfortably(409) within(410) the(411) ear(412) cups(413) ,(414) and(415) the(416) cups(417) rest(418) against(419) your(420) head(421) ,(422) right(423) around(424) your(425) ears(426) .(427) Beware(428) if(429) you(430) try(431) some(432) out(433) in(434) noisy(435) places(436) .(437) You(438) might(439) find(440) yourself(441) on(442) the(443) 12(444) month(445) interest-free(446) payment(447) plan(448) .(449) Bose(450) is(451) so(452) confident(453) that(454) they(455) offer(456) a(457) 30(458) day(459) trial(460) period(461) .(462) If(463) you(464) "(465) can(466) part(467) with(468) them(469) within(470) 30(471) days(472) "(473) ,(474) Bose(475) will(476) refund(477) the(478) cost(479) ,(480) complete(481) with(482) shipping(483) !(484) I(485) 'm(486) hooked(487) .(488) 
+			<opinion polarity="+" feature="headphones" featWords="57" opWords="60" potency="59"/>
+			<opinion polarity="+" feature="sound quality" featWords="255,256" opWords="258,259"/>
+			<opinion polarity="+" feature="highs" featWords="337" opWords="340,341"/>
+			<opinion polarity="+" feature="comfort" featWords="375" opWords="377"/>
+			<opinion polarity="+" feature="headband" featWords="380" opWords="382"/>
+			<opinion polarity="+" feature="weight" opWords="388" potency="387"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="691" item="Nob Hill Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Went(1) for(2) a(3) conference(4) ,(5) enjoyed(6) a(7) great(8) stay(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stunning(1) rooms(2) ,(3) nice(4) staff(5) ,(6) good(7) location(8) .(9) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="place" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) really(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) in(3) town(4) for(5) a(6) conference(7) and(8) stayed(9) at(10) the(11) Nob_Hill_Hotel(12) because(13) the(14) price(15) was(16) good(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) called(2) the(3) hotel(4) ,(5) and(6) the(7) front(8) desk(9) gave(10) me(11) a(12) rate(13) 15_%(14) better(15) than(16) that(17) listed(18) on(19) their(20) website(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) ended(2) up(3) staying(4) for(5) only(6) $85(7) per(8) night(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="4">
+			In_addition(1) because(2) three(3) of(4) the(5) nights(6) I(7) stayed(8) were(9) weekdays(10) ,(11) the(12) lady(13) at(14) the(15) front(16) desk(17) bumped(18) me(19) up(20) to(21) a(22) nicer(23) room(24) when(25) she(26) saw(27) me(28) wheel(29) in(30) my(31) large(32) suitcase(33) .(34) ((35) be(36) sure(37) to(38) walk(39) up(40) the(41) hill(42) to(43) the(44) beautiful(45) gigantic(46) courtyard(47) )(48) Overall(49) ,(50) they(51) were(52) very(53) good(54) ,(55) and(56) the(57) room(58) was(59) great(60) .(61) 
+			<opinion polarity="+" feature="rooms" featWords="58" opWords="60"/>
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) absolutley(3) stay(4) here(5) again(6) .(7) 
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+		</sentence>
+	</text>
+</review>

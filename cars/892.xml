@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="892" item="2000 Chevrolet Camaro" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) the(3) rich(4) man(5) 's(6) Cavalier(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			I(1) do(2) not(3) own(4) one(5) ,(6) I(7) have(8) too(9) much(10) taste(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			My(1) poor(2) relations(3) love(4) them(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Camaro(2) ,(3) the(4) boy(5) racer(6) wonder(7) ,(8) is(9) the(10) logical(11) step(12) up(13) from(14) the(15) wondrous(16) Chevy_Cavalier(17) ,(18) the(19) pride(20) of(21) company(22) fleets(23) and(24) other(25) cheap(26) buyers(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			If(1) Alamo(2) rented(3) muscle(4) cars(5) ,(6) the(7) Camaro(8) would(9) be(10) at(11) the(12) top(13) of(14) their(15) list(16) it(17) 's(18) so(19) generic(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			The(1) Camaro(2) shares(3) the(4) same(5) level(6) of(7) "(8) quality(9) ,(10) "(11) "(12) refinement(13) ,(14) "(15) and(16) "(17) tasteful(18) "(19) styling(20) as(21) its(22) baby(23) brother(24) ,(25) the(26) Cavalier(27) .(28) 
+			<opinion polarity="+" feature="design" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="4">
+			It(1) also(2) shares(3) an(4) inexplicable(5) attraction(6) to(7) the(8) trailer(9) court(10) set(11) and(12) to(13) women(14) with(15) too(16) much(17) hair(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) thing(3) I(4) do(5) not(6) understand(7) is(8) why(9) the(10) car(11) comes(12) with(13) conventional(14) cup(15) holders(16) rather(17) than(18) slots(19) for(20) a(21) full(22) six(23) pack(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Expect(1) to(2) see(3) the(4) most(5) recent(6) models(7) on(8) blocks(9) in(10) a(11) neighborhood(12) near(13) you(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) people(2) I(3) know(4) who(5) have(6) owned(7) Camaro(8) 's(9) did(10) not(11) have(12) the(13) best(14) of(15) luck(16) with(17) them(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) known(3) only(4) a(5) handful(6) of(7) Camaro(8) owners(9) ,(10) but(11) they(12) all(13) complained(14) of(15) problems(16) with(17) build(18) quality(19) ,(20) fit(21) and(22) finish(23) inside(24) and(25) out(26) and(27) poor(28) dealer(29) service(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			One(1) close(2) friend(3) experienced(4) windshield(5) and(6) "(7) T(8) "(9) top(10) leaks(11) by(12) the(13) time(14) the(15) vehicle(16) was(17) six(18) months(19) old(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			Another(1) friend(2) 's(3) Camaro(4) stalled(5) repeatedly(6) and(7) burned(8) oil(9) after(10) a(11) little(12) over(13) two(14) years(15) of(16) ownership(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			My(1) friend(2) 's(3) Chevrolet(4) dealers(5) were(6) unable(7) to(8) fix(9) these(10) problems(11) ,(12) nor(13) did(14) they(15) seem(16) particularly(17) interested(18) in(19) solving(20) them(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) driven(3) a(4) couple(5) of(6) Camaro(7) 's(8) and(9) found(10) them(11) to(12) be(13) very(14) strong(15) straight(16) line(17) performers(18) ,(19) but(20) they(21) neither(22) handled(23) or(24) stopped(25) very(26) well(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) more(3) to(4) performance(5) than(6) a(7) fast(8) 0-60(9) run(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			I(1) felt(2) uneasy(3) with(4) the(5) car(6) 's(7) rear(8) wheel(9) hop(10) ,(11) inadequate(12) braking(13) and(14) vague(15) steering(16) .(17) 
+			<opinion polarity="-" feature="steering" featWords="16" opWords="15"/>
+			<opinion polarity="-" feature="brakes" featWords="13" opWords="12"/>
+			<opinion polarity="-" feature="safety" opWords="3"/>
+		</sentence>
+		<sentence id="15">
+			The(1) ride(2) was(3) bone(4) jarring(5) ,(6) so(7) the(8) suspension(9) is(10) crude(11) rather(12) than(13) merely(14) firm(15) ,(16) especially(17) in(18) the(19) rear(20) .(21) 
+			<opinion polarity="-" feature="suspension" featWords="9" opWords="11"/>
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="16">
+			The(1) same(2) can(3) be(4) said(5) about(6) the(7) Ford_Mustang(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			I(1) am(2) no(3) fan(4) of(5) that(6) car(7) either(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			Both(1) of(2) the(3) Camaro(4) 's(5) I(6) drove(7) were(8) rattle(9) traps(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			They(1) were(2) not(3) very(4) well(5) balanced(6) vehicles(7) in(8) terms(9) of(10) handling(11) dynamics(12) ,(13) driving(14) position(15) ,(16) seat(17) comfort(18) ,(19) the(20) layout(21) of(22) controls(23) or(24) general(25) visibility(26) .(27) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="3,5,6" potency="4"/>
+		</sentence>
+		<sentence id="20">
+			Both(1) Camaro(2) 's(3) I(4) drove(5) were(6) less(7) than(8) two(9) years(10) old(11) ,(12) but(13) they(14) felt(15) and(16) looked(17) like(18) much(19) older(20) cars(21) ,(22) both(23) in(24) terms(25) of(26) condition(27) and(28) design(29) .(30) 
+		</sentence>
+		<sentence id="21">
+			Interior(1) fabrics(2) were(3) cheap(4) and(5) the(6) controls(7) and(8) switches(9) looked(10) were(11) flimsy(12) .(13) 
+			<opinion polarity="-" feature="controls" featWords="9" opWords="12"/>
+			<opinion polarity="-" feature="controls" featWords="7" opWords="12"/>
+			<opinion polarity="-" feature="interior" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			Exterior(1) panels(2) did(3) not(4) match(5) on(6) either(7) car(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			The(1) paint(2) had(3) a(4) definite(5) orange(6) peel(7) quality(8) on(9) both(10) vehicles(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			Opinions(1) on(2) styling(3) are(4) always(5) subjective(6) .(7) 
+		</sentence>
+		<sentence id="25">
+			I(1) personally(2) feel(3) the(4) Camaro(5) 's(6) styling(7) is(8) appalling(9) and(10) old(11) fashioned(12) ,(13) although(14) the(15) current(16) body(17) style(18) is(19) an(20) improvement(21) over(22) the(23) previous(24) generation(25) .(26) 
+		</sentence>
+		<sentence id="26">
+			With(1) better(2) build(3) quality(4) ,(5) less(6) ostentatious(7) "(8) look(9) at(10) my(11) fast(12) car(13) "(14) boy(15) racer(16) styling(17) ,(18) modern(19) refined(20) engines(21) and(22) an(23) updated(24) suspension(25) ,(26) the(27) Camaro(28) would(29) be(30) a(31) far(32) more(33) attractive(34) automobile(35) .(36) 
+		</sentence>
+		<sentence id="27">
+			As(1) it(2) stands(3) now(4) ,(5) I(6) do(7) not(8) understand(9) it(10) 's(11) appeal(12) ,(13) although(14) I(15) know(16) this(17) car(18) still(19) has(20) a(21) loyal(22) following(23) ,(24) even_if(25) that(26) following(27) diminishes(28) year(29) by(30) year(31) .(32) 
+		</sentence>
+	</text>
+</review>

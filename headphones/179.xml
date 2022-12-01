@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="179" item="Sennheiser MX 400 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			These(1) are(2) terrible(3) !(4) !(5) !(6) !(7) 
+			<opinion polarity="-" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NONE(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			TERRIBLE_SOUND(1) ,(2) CHEAP_MATERIAL(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) absolute(2) worst(3) earbuds(4) I(5) have(6) ever(7) used(8) .(9) 
+			<opinion polarity="-" feature="earbuds" featWords="4" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="2">
+			I(1) tried(2) these(3) on(4) my(5) iPod(6) nano(7) hoping(8) that(9) they(10) would(11) be(12) better(13) than(14) my(15) Sony(16) earbuds(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) no(3) comparison(4) ....(5) Sony(6) is(7) much(8) better(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			With(1) the(2) Sennheisers(3) ,(4) the(5) volume(6) is(7) lower(8) ,(9) the(10) bass(11) less(12) audible(13) and(14) the(15) sound(16) is(17) distorted(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Granted(1) they(2) were(3) cheaper(4) than(5) the(6) Sonys(7) ,(8) but(9) they(10) are(11) just(12) way(13) too(14) flimsy(15) for(16) every(17) day(18) use(19) .(20) 
+			<opinion polarity="-" feature="headphones" featWords="10" featRef="headphones" opWords="14,15"/>
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) recommend(4) these(5) at(6) all(7) !(8) !(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="7">
+			I(1) think(2) I(3) will(4) stick(5) with(6) my(7) Sony(8) earbuds(9) or(10) spend(11) some(12) more(13) $(14) and(15) get(16) in-ear(17) headphones(18) .(19) 
+		</sentence>
+	</text>
+</review>

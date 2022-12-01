@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="172" item="Bose TriPort® Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT_BUY_THESE(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			One(1) of(2) the(3) worst-designed(4) products(5) ever(6) 
+			<opinion polarity="-" feature="design" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			empties(1) your(2) wallet(3) efficiently(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			pieces(1) that(2) fall(3) off(4) ,(5) not(6) loud(7) enough(8) ,(9) awkward(10) plug(11) base(12) ,(13) poorly(14) fitting(15) .(16) 
+			<opinion polarity="-" feature="volume" opWords="6,7,8"/>
+			<opinion polarity="-" feature="comfort" featWords="15" opWords="14"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			They(1) are(2) overpriced(3) .(4) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) not(3) loud(4) enough(5) .(6) 
+			<opinion polarity="-" feature="volume" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="3">
+			They(1) fit(2) very(3) poorly(4) .(5) 
+			<opinion polarity="-" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			But(1) most(2) of(3) all(4) ...(5) ...(6) they(7) decided(8) to(9) put(10) these(11) little(12) rubber(13) ear(14) pads(15) on(16) them(17) which(18) FALL_OFF(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) no(3) way(4) to(5) secure(6) these(7) pads(8) ,(9) and(10) you(11) can(12) not(13) use(14) the(15) headphones(16) without(17) them(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) astounding(3) they(4) would(5) design(6) them(7) like(8) this(9) and(10) not(11) consider(12) this(13) would(14) be(15) an(16) enormous(17) hassle(18) !(19) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) the(3) plug(4) base(5) is(6) this(7) big(8) awkward(9) square(10) block(11) which(12) does(13) not(14) allow(15) for(16) easy(17) wrapping(18) around(19) an(20) iPod(21) or(22) other(23) device(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Instead(1) I(2) guess(3) they(4) want(5) you(6) to(7) always(8) put(9) the(10) headphones(11) away(12) in(13) this(14) goofy(15) case(16) they(17) include(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			do(1) not(2) be(3) conned(4) by(5) the(6) fact(7) they(8) 're(9) called(10) BOSE(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			They(1) should(2) be(3) called(4) BLOWS(5) .(6) 
+		</sentence>
+	</text>
+</review>

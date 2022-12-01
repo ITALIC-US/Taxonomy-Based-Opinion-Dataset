@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="344" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Headphone(1) mania(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			small(1) ,(2) lightweight(3) ,(4) compact(5) 
+			<opinion polarity="+" feature="size" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="portability" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			tend(1) to(2) tangle(3) ,(4) lose(5) sound(6) in(7) ear(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			the(1) new(2) sony(3) headphones(4) are(5) excellent(6) .(7) small(8) ,(9) compact(10) and(11) lightweight(12) ,(13) they(14) deliver(15) full(16) rich(17) sounds(18) ,(19) almost(20) deafening(21) bass(22) and(23) crisp(24) clean(25) highend(26) .(27) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="size" opWords="8"/>
+			<opinion polarity="+" feature="portability" opWords="10"/>
+			<opinion polarity="+" feature="weight" opWords="12"/>
+			<opinion polarity="+" feature="sound quality" featWords="18" opWords="16"/>
+			<opinion polarity="+" feature="sound quality" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="bass" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="highs" featWords="26" opWords="24"/>
+			<opinion polarity="+" feature="highs" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="2">
+			What(1) every(2) DJ(3) needs(4) in(5) a(6) headphone(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'd(2) categorize(3) these(4) as(5) more(6) of(7) a(8) mobile(9) headphone(10) then(11) a(12) home(13) use(14) headphone(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			At(1) times(2) ,(3) getting(4) tangled(5) and(6) even(7) losing(8) sound(9) in(10) one(11) or(12) both(13) ears(14) if(15) mishandled(16) slightly(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Any(1) excess(2) tugging(3) or(4) strain(5) on(6) the(7) cord(8) will(9) also(10) cause(11) it(12) to(13) randomly(14) drop(15) out(16) sounds(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) earpieces(2) are(3) small(4) ,(5) meaning(6) the(7) mobile(8) DJ(9) with(10) larger(11) ears(12) may(13) get(14) unwanted(15) outside(16) interferance(17) .(18) 
+			<opinion polarity="+" feature="size" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Comparing(1) to(2) other(3) headphones(4) in(5) its(6) price(7) range(8) I(9) 'd(10) say(11) this(12) is(13) the(14) middle(15) of(16) the(17) line(18) .(19) 
+		</sentence>
+	</text>
+</review>

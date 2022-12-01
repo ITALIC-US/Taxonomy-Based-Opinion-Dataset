@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="323" item="Sony MDRE829V.CE7 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Pretty(1) good(2) earphones(3) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) great(2) ,(3) low(4) price(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) be(2) uncomfortable(3) ,(4) do(5) not(6) stay(7) in(8) ear(9) well(10) when(11) exercising(12) .(13) 
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) just(4) not(5) very(6) comfortable(7) when(8) exercising(9) for(10) a(11) while(12) .(13) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) had(3) these(4) earphones(5) a(6) while(7) ,(8) two(9) pairs(10) actually(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) to(3) replace(4) the(5) first(6) pair(7) after(8) about(9) a(10) year(11) or(12) so(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			It(1) seems(2) for(3) me(4) the(5) rubber(6) sheath(7) covering(8) the(9) wire(10) slides(11) off(12) next(13) to(14) the(15) earphone(16) after(17) about(18) a(19) year(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) use(2) these(3) earphones(4) mainly(5) when(6) I(7) am(8) out(9) exercising(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			They(1) have(2) been(3) used(4) rather(5) roughly(6) while(7) running(8) or(9) cycling(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Sometimes(1) the(2) cord(3) gets(4) tugged(5) and(6) the(7) earphone(8) falls(9) out(10) ,(11) they(12) are(13) pretty(14) sturdy(15) though(16) and(17) the(18) rubber(19) takes(20) about(21) a(22) year(23) of(24) rough(25) treatment(26) before(27) it(28) wears(29) .(30) 
+			<opinion polarity="+" feature="durability" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="7">
+			Not(1) too(2) bad(3) considering(4) the(5) price(6) of(7) these(8) earphones(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			What(1) I(2) do(3) not(4) like(5) is(6) the(7) little(8) foam(9) covering(10) that(11) come(12) with(13) the(14) earphones(15) to(16) make(17) them(18) more(19) comfortable(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			They(1) only(2) last(3) for(4) about(5) two(6) uses(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			They(1) do(2) not(3) stay(4) on(5) the(6) earphone(7) very(8) well(9) and(10) they(11) get(12) lost(13) very(14) easily(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) earphones(2) only(3) come(4) with(5) two(6) of(7) them(8) ,(9) so(10) most(11) of(12) the(13) time(14) with(15) these(16) earphones(17) is(18) without(19) them(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			That(1) 's(2) kind(3) of(4) lame(5) because(6) as(7) I(8) start(9) to(10) sweat(11) and(12) move(13) the(14) earphones(15) start(16) to(17) slide(18) out(19) of(20) my(21) ear(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Also(1) the(2) hard(3) plastic(4) becomes(5) quite(6) uncomfortable(7) after(8) an(9) hour(10) or(11) two(12) of(13) exercising(14) .(15) 
+			<opinion polarity="-" feature="comfort" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="14">
+			They(1) sound(2) great(3) ,(4) do(5) not(6) use(7) much(8) battery(9) power(10) ,(11) and(12) are(13) comfortable(14) at(15) first(16) .(17) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+			<opinion polarity="+" feature="comfort" opWords="14"/>
+		</sentence>
+		<sentence id="15">
+			I(1) will(2) probably(3) look(4) for(5) something(6) different(7) though(8) when(9) the(10) pair(11) I(12) have(13) now(14) wear(15) out(16) .(17) 
+		</sentence>
+	</text>
+</review>

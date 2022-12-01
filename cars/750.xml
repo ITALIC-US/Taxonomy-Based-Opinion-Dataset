@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="750" item="2000 Toyota MR2 Spyder" rating="2">
+	<title>
+		<sentence id="1">
+			Gearing(1) Flaw(2) --(3) Critical_Disappointment(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			styling(1) ,(2) handling(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			low(1) power(2) ,(3) non-standard(4) gearing(5) to(6) compensate(7) 
+			<opinion polarity="-" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			A(1) single(2) fatal(3) flaw(4) prevents(5) this(6) car(7) from(8) getting(9) my(10) recommendation(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			While(1) I(2) agree(3) with(4) all(5) the(6) other(7) reviews(8) of(9) this(10) car(11) on(12) this(13) site(14) ((15) style(16) /(17) handling(18) excellent(19) ;(20) space(21) limited(22) )(23) ,(24) I(25) think(26) that(27) all(28) other(29) reviewers(30) ,(31) as_well(32) as(33) Toyota(34) ,(35) overlooked(36) the(37) single(38) most(39) annoying(40) thing(41) about(42) this(43) car(44) ,(45) which(46) will(47) ultimately(48) nag(49) at(50) every(51) sports(52) car(53) enthusiast(54) who(55) owns(56) it(57) .(58) 
+			<opinion polarity="-" feature="car" featWords="44" opWords="40"/>
+			<opinion polarity="+" feature="handling" featWords="18" opWords="19"/>
+			<opinion polarity="+" feature="design" featWords="16" opWords="19"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) is(3) purportedly(4) made(5) for(6) people(7) who(8) love(9) to(10) drive(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Yet(1) gear(2) ratios(3) have(4) been(5) artificially(6) skewed(7) to(8) give(9) the(10) impression(11) of(12) more(13) "(14) pep(15) "(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) a(3) trick(4) manufactures(5) can(6) play(7) when(8) providing(9) an(10) underpowered(11) engine(12) .(13) 
+			<opinion polarity="-" feature="engine" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			The(1) ratios(2) have(3) been(4) geared(5) up(6) for(7) quicker(8) acceleration(9) ,(10) but(11) you(12) hit(13) 5th(14) gear(15) at(16) 45mph(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			After(1) that(2) ,(3) there(4) is(5) no(6) where(7) to(8) go(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			At(1) highway(2) speed(3) ((4) 65-75(5) )(6) the(7) engine(8) is(9) whining(10) at(11) 4.5K(12) -(13) 5K(14) rpm(15) ,(16) and(17) you(18) 're(19) looking(20) for(21) another(22) gear(23) to(24) bring(25) the(26) tension(27) down(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			But(1) there(2) is(3) no(4) other(5) gear(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Just(1) tension(2) .(3) 
+		</sentence>
+		<sentence id="11">
+			Try(1) driving(2) that(3) way(4) for(5) more(6) than(7) 10(8) minutes(9) --(10) aaaargh(11) !(12) 
+		</sentence>
+		<sentence id="12">
+			Toyota(1) chose(2) to(3) ignore(4) three(5) better(6) alternatives(7) :(8) ((9) 1(10) )(11) larger(12) engine(13) --(14) probably(15) no(16) room(17) in(18) this(19) MR2(20) frame(21) ;(22) ((23) 2(24) )(25) turbo(26) --(27) the(28) best(29) and(30) most(31) obvious(32) choice(33) ;(34) ((35) 3(36) )(37) a(38) sixth(39) gear(40) --(41) 2nd(42) best(43) choice(44) ,(45) and(46) Celica(47) has(48) one(49) ;(50) why(51) not(52) MR2(53) ?(54) !(55) 
+		</sentence>
+		<sentence id="13">
+			Any(1) driver(2) who(3) owns(4) another(5) manual(6) transmission(7) car(8) along_with(9) this(10) MR2(11) will(12) get(13) annoyed(14) every(15) time(16) s(17) /(18) he(19) drives(20) this(21) car(22) ,(23) due(24) to(25) the(26) non-standard(27) gearing(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			As(1) a(2) result(3) ,(4) the(5) only(6) people(7) who(8) will(9) find(10) the(11) gearing(12) on(13) this(14) car(15) acceptable(16) are(17) those(18) who(19) generally(20) only(21) drive(22) automatics(23) ((24) this(25) is(26) their(27) first(28) or(29) only(30) manual(31) transmission(32) car(33) )(34) .(35) 
+		</sentence>
+		<sentence id="15">
+			For(1) the(2) rest(3) of(4) us(5) who(6) love(7) to(8) drive(9) sports(10) cars(11) ,(12) and(13) were(14) looking(15) forward(16) to(17) the(18) style(19) ,(20) thrill(21) and(22) grace(23) of(24) the(25) 2000(26) Toyota(27) MR2(28) ,(29) scream(30) loud(31) at(32) Toyota(33) ,(34) and(35) pass(36) on(37) this(38) one(39) .(40) 
+		</sentence>
+		<sentence id="16">
+			You(1) 'll(2) save(3) yourself(4) a_lot_of(5) heartache(6) and(7) regret(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			And(1) just(2) maybe(3) Toyota(4) will(5) get(6) it(7) right(8) in_2001(9) ,(10) by(11) adding(12) turbo(13) or(14) a(15) sixth(16) gear(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			Although(1) I(2) found(3) everything(4) else(5) on(6) this(7) car(8) exceptional(9) ((10) styling(11) and(12) handling(13) )(14) or(15) acceptable(16) ((17) no(18) cargo(19) space(20) ,(21) but(22) that(23) 's(24) ok(25) ,(26) given(27) the(28) obvious(29) intent(30) of(31) the(32) car(33) )(34) ,(35) and(36) would(37) have(38) given(39) the(40) car(41) 5(42) stars(43) ,(44) since(45) it(46) otherwise(47) hits(48) its(49) mark(50) ;(51) I(52) am(53) forced(54) to(55) reduce(56) the(57) rating(58) to(59) 2(60) stars(61) .(62) 
+			<opinion polarity="+" feature="handling" featWords="13" opWords="9"/>
+			<opinion polarity="+" feature="design" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="9"/>
+		</sentence>
+		<sentence id="19">
+			Its(1) major(2) flaw(3) is(4) so(5) annoying(6) that(7) I(8) had(9) to(10) cancel(11) my(12) deposit(13) and(14) pass(15) on(16) an(17) otherwise(18) dream(19) automobile(20) .(21) 
+		</sentence>
+	</text>
+</review>

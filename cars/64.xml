@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="64" item="2001 Ford Crown Victoria" rating="4">
+	<title>
+		<sentence id="1">
+			Category_Killer(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Value_Luxury(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Dirt(1) cheap(2) maintenance(3) costs(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Safety(1) .(2) 
+		</sentence>
+		<sentence id="4">
+			Low_Profile(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas_Mileage(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) your(2) looking(3) for(4) a(5) full(6) size(7) sedan(8) with(9) no(10) compromises(11) under(12) 30K(13) ,(14) your(15) search(16) is(17) over(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) fully(4) loaded(5) 2001(6) CV_LX(7) ,(8) H_&_P(9) ,(10) Comfort(11) +(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) Ford_'s_Full_Size_Sedan(3) "(4) Category_Killer(5) "(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Search(1) far(2) and(3) wide(4) and(5) you(6) will(7) not(8) find(9) any(10) other(11) car(12) with(13) V(14) -(15) 8(16) power(17) ,(18) interior(19) room(20) ,(21) and(22) trunk(23) space(24) for(25) under(26) 27K(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			I(1) dare(2) you(3) to(4) compare(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Dirt(1) cheap(2) maintenance(3) costs(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			Taxis(1) ,(2) fleet(3) companies(4) ,(5) and(6) police(7) departments(8) have(9) smoked(10) out(11) all(12) the(13) gremlins(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Not(1) to(2) mention(3) that(4) minor(5) maintenance(6) can(7) be(8) done(9) by(10) yourself(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			The(1) owner(2) 's(3) manual(4) tells(5) you(6) how(7) !(8) 
+		</sentence>
+		<sentence id="9">
+			Low(1) insurance(2) costs(3) for_good(4) drivers(5) .(6) 
+			<opinion polarity="+" feature="price" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="10">
+			Safety(1) .(2) 5(3) star(4) front(5) impact(6) &(7) 4(8) star(9) side(10) impact(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Enough(1) said(2) .(3) 
+		</sentence>
+		<sentence id="12">
+			Not(1) on(2) the(3) top(4) 10(5) car(6) theft(7) list(8) like(9) other(10) micro(11) sedans(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Low_Profile(1) .(2) 
+		</sentence>
+		<sentence id="14">
+			You(1) are(2) the(3) millionaire(4) next(5) door(6) in(7) a(8) car(9) like(10) this(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			After(1) all(2) ,(3) the(4) 50k(5) extra(6) you(7) did(8) not(9) spend(10) on(11) a(12) comparable(13) German(14) car(15) would(16) net(17) you(18) $140,000(19) in(20) 30(21) years(22) in(23) a(24) modest(25) mutual(26) fund(27) earning(28) 10_%(29) or(30) $250,000(31) on(32) an(33) aggressive(34) mutual(35) fund(36) earning(37) 20_%(38) .(39) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LX_HPP_Comfort_Plus_Leather(16) 
+		</sentence>
+	</text>
+</review>

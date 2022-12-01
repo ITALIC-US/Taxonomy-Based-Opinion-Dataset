@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="356" item="1998 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Nothing(1) but(2) problems(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sharp(1) styling(2) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliability(1) and(2) Craftsmanship(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) car(2) giving(3) me(4) nothing(5) but(6) headaches(7) which(8) I(9) hope(10) no(11) one(12) else(13) has(14) to(15) go(16) through(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) soon(2) as(3) I(4) saw(5) the(6) flamenco(7) black(8) pearl(9) V6EX(10) coupe(11) with(12) the(13) honda(14) bodykit(15) ,(16) spoiler(17) ,(18) floormats(19) ,(20) exhuast(21) tips(22) and(23) black(24) chrome(25) emblems(26) ,(27) I(28) knew(29) I(30) had(31) to(32) buy(33) it(34) .(35) 
+			<opinion polarity="+" feature="car" featWords="34" featRef="car" opWords="33"/>
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) back(3) in(4) June_of_1998(5) when(6) they(7) craze(8) to(9) get(10) these(11) coupes(12) were(13) intense(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) rolled(2) off(3) the(4) lot(5) a(6) happy(7) camper(8) getting(9) stares(10) from(11) everyone(12) ,(13) in(14) which(15) I(16) did(17) not(18) know(19) this(20) car(21) would(22) give(23) me(24) so(25) many(26) problems(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			Within(1) the(2) first(3) week(4) ,(5) I(6) noticed(7) water(8) leaking(9) into(10) the(11) rear(12) lights(13) which(14) Honda(15) replaced(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Four(1) months(2) down(3) the(4) line(5) the(6) passenger(7) seat(8) was(9) in-operational(10) ,(11) as_well(12) as(13) the(14) moonroof(15) getting(16) stuck(17) halfway(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Honda(1) fixed(2) these(3) problems(4) as_well(5) ,(6) however(7) I(8) did(9) have(10) to(11) bring(12) it(13) back(14) a(15) few(16) more(17) times(18) in(19) order(20) for(21) them(22) to(23) fix(24) the(25) passenger(26) seat(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			A(1) year(2) later(3) the(4) temperature(5) gauge(6) kept(7) on(8) rising(9) to(10) the(11) "(12) H(13) "(14) mark(15) when(16) sitting(17) for(18) long(19) periods(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			It(1) turns(2) out(3) there(4) was(5) a(6) wiring(7) problem(8) in(9) which(10) Honda(11) did(12) fix(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			When(1) I(2) first(3) purchased(4) the(5) car(6) ,(7) it(8) would(9) shift(10) in(11) a(12) way(13) that(14) made(15) you(16) rock(17) back_and_forth(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			I(1) always(2) assumed(3) that(4) this(5) was(6) normal(7) ,(8) until(9) my(10) check(11) engine(12) light(13) went(14) on(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Honda(1) ran(2) some(3) diagnostics(4) on(5) the(6) car(7) in(8) which(9) they(10) got(11) back(12) a(13) code(14) that(15) they(16) did(17) not(18) recognize(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			They(1) called(2) Honda(3) dealerships(4) on(5) the(6) mainland(7) ,(8) in(9) which(10) it(11) turns(12) out(13) my(14) transmission(15) was(16) faulty(17) .(18) 
+			<opinion polarity="-" feature="transmission" featWords="15" opWords="17"/>
+		</sentence>
+		<sentence id="13">
+			Honda(1) replaced(2) the(3) entire(4) transmission(5) on(6) the(7) vehicle(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Aside(1) from(2) all(3) these(4) problems(5) ,(6) the(7) car(8) is(9) very(10) stylish(11) and(12) the(13) V6(14) engine(15) offers(16) great(17) off(18) the(19) line(20) response(21) .(22) 
+			<opinion polarity="+" feature="design" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="15">
+			The(1) ergonomics(2) are(3) excellent(4) and(5) the(6) amount(7) of(8) features(9) you(10) get(11) for(12) the(13) price(14) are(15) great(16) .(17) 
+			<opinion polarity="+" feature="price" featWords="14" opWords="16"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			Leather(1) ,(2) moonroof(3) ,(4) power(5) drivers(6) seat(7) ,(8) climate(9) control(10) ...(11) all(12) included(13) !(14) ((15) Unlike(16) the(17) camry(18) which(19) you(20) have(21) to(22) purchase(23) a(24) majority(25) of(26) these(27) as(28) packages(29) .(30) .(31) even(32) on(33) the(34) Camry(35) 's(36) top(37) of(38) the(39) line(40) V6XLE(41) )(42) However(43) all(44) these(45) features(46) should(47) come(48) with(49) adequate(50) craftsmanship(51) .(52) 
+		</sentence>
+		<sentence id="17">
+			The(1) leather(2) feels(3) very(4) thin(5) and(6) wrinkles(7) easily(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			The(1) center(2) console(3) squeaks(4) when(5) opening(6) and(7) closing(8) as_well(9) as(10) rattling(11) of(12) plastic(13) parts(14) on(15) occasion(16) ((17) even(18) when(19) new(20) )(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) always(3) had(4) faith(5) in(6) Honda(7) ,(8) which(9) is(10) why(11) I(12) purchased(13) a(14) 95(15) Legend_LS(16) coupe(17) 9(18) months(19) after(20) purchasing(21) the(22) Accord(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			No(1) problems(2) in(3) that(4) car(5) what-so-ever(6) .(7) 
+		</sentence>
+		<sentence id="21">
+			I(1) then(2) traded(3) the(4) Legend(5) in(6) and(7) purchased(8) a(9) 97(10) 3.5RL(11) premium(12) with(13) no(14) problems(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			Also(1) ,(2) many(3) of(4) my(5) friends(6) and(7) colleagues(8) own(9) Honda(10) 's(11) /(12) Acura(13) 's(14) with(15) no(16) problems(17) reported(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			So(1) my(2) conclusion(3) is(4) that(5) if(6) you(7) have(8) a(9) bad(10) honda(11) .(12) .(13) you(14) got(15) it(16) bad(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Like(1) mentioned(2) above(3) ,(4) I(5) am(6) a(7) strong(8) believer(9) in(10) Honda(11) ,(12) however(13) this(14) review(15) is(16) rating(17) my(18) experience(19) with(20) the(21) '(22) 98(23) Accord(24) coupe(25) which(26) is(27) reflected(28) on(29) my(30) product(31) rating(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			Because_of(1) my(2) awful(3) experience(4) ,(5) I(6) personally(7) do(8) not(9) recommend(10) this(11) vehicle(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="12" opWords="9,10"/>
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29800(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) V6EX(16) ,(17) all(18) options(19) ,(20) extended(21) warranty(22) ,(23) lifetime(24) oil(25) /(26) filter(27) change(28) 
+		</sentence>
+	</text>
+</review>

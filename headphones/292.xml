@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="292" item="Sony MDRV500D Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) even(2) worth(3) 30_dollars(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) durability(2) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tinny(1) sound(2) lots(3) of(4) distortion(5) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) first(3) bought(4) these(5) headphones(6) I(7) thought(8) they(9) were(10) worth(11) it(12) for(13) the(14) price(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			That(1) was(2) until(3) I(4) bought(5) the(6) V-600(7) 's(8) which(9) are(10) of(11) better(12) quality(13) and(14) have(15) considerably(16) less(17) distortion(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			For(1) one(2) thing(3) these(4) headphones(5) produce(6) tinny(7) sound(8) .(9) 
+			<opinion polarity="-" feature="sound quality" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			Which(1) means(2) the(3) music(4) sounds(5) like(6) it(7) is(8) very(9) far(10) away(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			And(1) after(2) about(3) 20(4) minutes(5) of(6) using(7) these(8) headphones(9) I(10) found(11) my(12) left(13) ear(14) was(15) throbbing(16) in(17) pain(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) thought(2) that(3) maybe(4) the(5) headband(6) should(7) be(8) adjusted(9) but(10) it(11) did(12) not(13) help(14) my(15) situation(16) in(17) the(18) least(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) only(2) good(3) things(4) about(5) these(6) headphones(7) is(8) the(9) durability(10) .(11) 
+			<opinion polarity="+" feature="durability" featWords="10" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			These(1) things(2) should(3) last(4) for(5) as(6) long(7) as(8) you(9) want(10) them(11) to(12) really(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Also(1) if(2) you(3) do(4) not(5) mind(6) tinny(7) sound(8) and(9) if(10) your(11) only(12) looking(13) for(14) a(15) pair(16) of(17) headphones(18) these(19) should(20) do(21) the(22) job(23) quite(24) well(25) .(26) 
+			<opinion polarity="-" feature="sound quality" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="headphones" opWords="21,22,23"/>
+		</sentence>
+		<sentence id="10">
+			However(1) for(2) others(3) there(4) are(5) many(6) other(7) headphones(8) around(9) the(10) same(11) price(12) that(13) you(14) should(15) check(16) out(17) first(18) .(19) 
+		</sentence>
+	</text>
+</review>

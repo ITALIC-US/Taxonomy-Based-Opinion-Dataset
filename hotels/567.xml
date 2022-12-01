@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="567" item="Sahara Hotel & Casino" rating="4">
+	<title>
+		<sentence id="1">
+			Rock_the_Casbah(1) in(2) Las_Vegas(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			cheap(1) ,(2) decent(3) location(4) ,(5) next(6) to(7) water(8) park(9) ,(10) 24-hour(11) dining(12) ,(13) nice(14) casino(15) and(16) pool(17) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="place" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="casino" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="swimming pool" featWords="17" opWords="14"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a_bit(1) far(2) from(3) center(4) strip(5) ,(6) smallish(7) rooms(8) 
+			<opinion polarity="-" feature="rooms" featWords="8" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Degenerate(1) the(2) faithful(3) /(4) With(5) that(6) craazy(7) Casbah(8) sound(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) planning(2) where(3) to(4) stay(5) in(6) Las_Vegas(7) ,(8) the(9) number(10) one(11) factor(12) for(13) me(14) and(15) my(16) friends(17) was(18) price(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			As(1) recent(2) college(3) graduates(4) ,(5) we(6) aren(7) t(8) exactly(9) swimming(10) in(11) dough(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) we(3) also(4) wanted(5) a(6) hotel(7) that(8) had(9) the(10) right(11) number(12) of(13) amenities(14) and(15) was(16) at_least(17) somewhat(18) close(19) to(20) where(21) the(22) action(23) is(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			For(1) us(2) four(3) budget-conscious(4) girls(5) ,(6) the(7) Sahara_Hotel(8) and(9) Casino(10) was(11) just(12) about(13) perfect(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Location_The_Sahara(1) is(2) located(3) on(4) the(5) North_End_of_the_Strip(6) ,(7) next(8) to(9) the(10) Wet(11) n(12) Wild(13) water(14) park(15) and(16) diagonally(17) across(18) the(19) street(20) from(21) Circus_Circus(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) does(3) not(4) provide(5) free(6) transportation(7) from(8) the(9) airport(10) ,(11) but(12) we(13) found(14) the(15) airport(16) van(17) services(18) to(19) be(20) cheap(21) and(22) convenient(23) with(24) a(25) roundtrip(26) ticket(27) costing(28) around(29) $(30) 9(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			There(1) s(2) no(3) need(4) to(5) make(6) a(7) reservation(8) at(9) the(10) airport(11) ,(12) and(13) you(14) just(15) call(16) a(17) day(18) in(19) advance(20) to(21) arrange(22) your(23) return(24) trip(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			It(1) takes(2) about(3) 35(4) minutes(5) to(6) walk(7) to(8) the(9) Strip(10) s(11) northernmost(12) big(13) ,(14) nice(15) hotel(16) :(17) Treasure_Island(18) and(19) slightly(20) longer(21) to(22) get(23) to(24) the(25) Venetian(26) .(27) 
+			<opinion polarity="+" feature="hotel" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="9">
+			We(1) sometimes(2) got(3) lazy(4) and(5) took(6) cabs(7) ,(8) especially(9) when(10) going(11) to(12) the(13) hotels(14) that(15) are(16) near(17) the(18) other(19) end(20) of(21) the(22) Strip(23) such(24) as(25) the(26) MGM_Grand(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			A(1) cab(2) to(3) the(4) middle(5) of(6) the(7) Strip(8) cost(9) around(10) $12(11) ,(12) which(13) was(14) not(15) a(16) bad(17) deal(18) ,(19) splitting(20) it(21) four(22) ways(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			There(1) s(2) also(3) a(4) bus(5) that(6) runs(7) along(8) the(9) Strip(10) that(11) costs(12) $(13) 2(14) per(15) ride(16) ,(17) and(18) the(19) monorail(20) is(21) due(22) to(23) begin(24) operating(25) from(26) the(27) Sahara(28) to(29) the(30) rest(31) of(32) the(33) Strip(34) starting(35) this(36) summer(37) .(38) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) have(3) a(4) car(5) ,(6) there(7) s(8) free(9) garage(10) parking(11) .(12) 
+			<opinion polarity="+" feature="parking" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			Price(1) and(2) Check-in_Including(3) all(4) taxes(5) ,(6) our(7) room(8) cost(9) around(10) $350(11) for(12) four(13) nights(14) ,(15) which(16) meant(17) that(18) I(19) paid(20) well(21) under(22) $100(23) for(24) four(25) nights(26) in(27) Vegas(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			We(1) had(2) to(3) ask(4) for(5) extra(6) towels(7) ,(8) but(9) they(10) were(11) very(12) quick(13) to(14) bring(15) those(16) up(17) along_with(18) extra(19) soap(20) and(21) shampoo(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			Katy(1) and(2) I(3) arrived(4) at(5) around(6) 1AM(7) on(8) Friday_morning(9) ,(10) so(11) there(12) was(13) no(14) line(15) at(16) the(17) check-in(18) ,(19) but(20) ,(21) at(22) other(23) times(24) ,(25) we(26) saw(27) approximately(28) 40(29) people(30) waiting(31) to(32) check-in(33) .(34) 
+		</sentence>
+		<sentence id="16">
+			The(1) registration(2) desk(3) looked(4) rather(5) under-staffed(6) .(7) 
+			<opinion polarity="-" feature="front desk" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="17">
+			Checking(1) out(2) ,(3) which(4) has(5) to(6) be(7) done(8) by(9) noon(10) ,(11) was(12) a(13) breeze(14) ,(15) as(16) I(17) just(18) scanned(19) my(20) credit(21) card(22) in(23) a(24) machine(25) and(26) dropped(27) off(28) our(29) key(30) cards(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			Rooms(1) and(2) Amenities_The_Sahara(3) has(4) been(5) around(6) since(7) the(8) Rat_Pack(9) days(10) ,(11) but(12) it(13) has(14) been(15) updated(16) for(17) the(18) new(19) Vegas(20) with(21) a(22) roller(23) coaster(24) ,(25) a(26) NASCAR-themed(27) restaurant(28) ,(29) and(30) modern(31) rooms(32) .(33) 
+			<opinion polarity="+" feature="rooms" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="19">
+			The(1) roller(2) coaster(3) cost(4) $10(5) ,(6) so(7) we(8) stayed(9) away(10) from(11) that(12) ,(13) especially(14) since(15) we(16) were(17) usually(18) hung(19) over(20) or(21) drunk(22) ,(23) so(24) going(25) upside-down(26) wouldn(27) t(28) have(29) been(30) the(31) best(32) idea(33) .(34) 
+		</sentence>
+		<sentence id="20">
+			There(1) s(2) also(3) a(4) virtual(5) reality(6) ber(7) speedway(8) ,(9) but(10) none(11) of(12) us(13) were(14) really(15) interested(16) in(17) that(18) .(19) 
+		</sentence>
+		<sentence id="21">
+			Everything(1) has(2) a(3) desert(4) theme(5) ,(6) of(7) course(8) ,(9) and(10) it(11) gracefully(12) treads(13) the(14) line(15) between(16) tacky(17) and(18) tasteful(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			The(1) rooms(2) are(3) subdued(4) with(5) earthy(6) tones(7) .(8) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			The(1) Sahara(2) has(3) 1720(4) rooms(5) and(6) suites(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			According_to(1) the(2) web(3) site(4) ,(5) the(6) only(7) difference(8) between(9) the(10) standard(11) and(12) the(13) deluxe(14) rooms(15) is(16) that(17) the(18) deluxe(19) ones(20) have(21) individually(22) controlled(23) heating(24) and(25) A(26) /(27) C(28) units(29) ,(30) which(31) we(32) had(33) ,(34) so(35) I(36) guess(37) our(38) room(39) was(40) deluxe(41) .(42) 
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="11"/>
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="25">
+			Suites(1) are(2) also(3) available(4) with(5) a(6) living(7) room(8) and(9) ((10) most(11) of(12) the(13) time(14) )(15) a(16) balcony(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			All(1) the(2) rooms(3) come(4) with(5) either(6) two(7) double(8) beds(9) or(10) a(11) king(12) sized(13) bed(14) .(15) 
+		</sentence>
+		<sentence id="27">
+			I(1) found(2) the(3) double(4) beds(5) to(6) be(7) a_bit(8) too(9) small(10) as(11) I(12) was(13) teetering(14) on(15) the(16) edge(17) and(18) still(19) got(20) kicked(21) ,(22) elbowed(23) ,(24) and(25) hair(26) pulled(27) by(28) my(29) friend(30) .(31) 
+			<opinion polarity="-" feature="bed" featWords="5" opWords="9,10"/>
+		</sentence>
+		<sentence id="28">
+			The(1) pillows(2) are(3) nice(4) and(5) puffy(6) ,(7) though(8) .(9) 
+			<opinion polarity="+" feature="bedding" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bedding" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="29">
+			I(1) found(2) the(3) bathroom(4) disappointing(5) as(6) the(7) towels(8) were(9) a_bit(10) scratchy(11) and(12) not(13) very(14) absorbent(15) .(16) 
+			<opinion polarity="-" feature="towels" featWords="8" opWords="11"/>
+			<opinion polarity="-" feature="towels" featWords="8" opWords="13,15"/>
+		</sentence>
+		<sentence id="30">
+			The(1) shampoo(2) wouldn(3) t(4) lather(5) no(6) matter(7) how(8) hard(9) I(10) scrubbed(11) ,(12) and(13) there(14) should(15) have(16) been(17) two(18) sinks(19) instead_of(20) one(21) so(22) a(23) couple(24) of(25) us(26) could(27) have(28) brushed(29) our(30) teeth(31) and(32) done(33) makeup(34) at(35) the(36) same(37) time(38) .(39) [(40) One(41) hotel(42) room(43) for(44) four(45) girls(46) is(47) quite(48) the(49) ordeal(50) .(51) 
+		</sentence>
+		<sentence id="31">
+			It(1) took(2) us(3) about(4) 2(5) hours(6) to(7) leave(8) the(9) hotel(10) every(11) morning(12) .(13) ](14) There(15) s(16) a(17) hairdryer(18) ,(19) an(20) ironing(21) board(22) ,(23) ice(24) machines(25) on(26) every(27) floor(28) ,(29) and(30) plenty_of(31) drawer(32) space(33) if(34) you(35) feel(36) like(37) unpacking(38) .(39) 
+		</sentence>
+		<sentence id="32">
+			The(1) rooms(2) also(3) have(4) little(5) ,(6) round(7) tables(8) and(9) a(10) couple(11) of(12) chairs(13) ,(14) plus(15) a(16) huge(17) ,(18) picture(19) window(20) with(21) a(22) lovely(23) view(24) of(25) the(26) mountains(27) and(28) /(29) or(30) the(31) Strip(32) .(33) 
+			<opinion polarity="+" feature="view" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="33">
+			Luckily(1) ,(2) the(3) curtains(4) are(5) very(6) effective(7) at(8) keeping(9) out(10) the(11) bright(12) sun(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			The(1) pool(2) is(3) very(4) pleasant(5) and(6) has(7) plenty_of(8) chaise(9) lounges(10) .(11) 
+			<opinion polarity="+" feature="swimming pool" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="35">
+			It(1) s(2) not(3) good(4) for(5) actual(6) swimming(7) or(8) diving(9) ,(10) however(11) ,(12) since(13) it(14) s(15) all(16) one(17) depth(18) throughout(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			There(1) s(2) also(3) a(4) hot(5) tub(6) ,(7) but(8) it(9) closes(10) at(11) night(12) ,(13) and(14) I(15) didn(16) t(17) feel(18) like(19) going(20) into(21) a(22) boiling(23) pot(24) when(25) I(26) was(27) already(28) hot(29) from(30) the(31) sun(32) .(33) 
+		</sentence>
+		<sentence id="37">
+			Food(1) and(2) Drink(3) When(4) Katy(5) and(6) I(7) arrived(8) ,(9) we(10) were(11) starving(12) after(13) not(14) being(15) fed(16) during(17) our(18) budget(19) flight(20) ,(21) so(22) we(23) headed(24) to(25) the(26) 24-hour(27) Caravan_Caf�(28) which(29) features(30) mediocre(31) diner(32) food(33) .(34) 
+			<opinion polarity="-" feature="food" featWords="33" opWords="31"/>
+		</sentence>
+		<sentence id="38">
+			My(1) omelette(2) s(3) cheese(4) needed(5) to(6) be(7) melted(8) a_bit(9) more(10) ,(11) but(12) the(13) hash(14) browns(15) were(16) excellent(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			The(1) coffee(2) shop(3) had(4) surprisingly(5) good(6) bagels(7) ,(8) but(9) it(10) was(11) a_bit(12) overpriced(13) .(14) 
+			<opinion polarity="-" feature="price" opWords="13"/>
+		</sentence>
+		<sentence id="40">
+			I(1) went(2) down(3) there(4) at(5) 7AM(6) one(7) morning(8) to(9) buy(10) some(11) Powerade(12) for(13) my(14) sick(15) /(16) drunk(17) /(18) hungover(19) roommates(20) and(21) found(22) that(23) each(24) bottle(25) cost(26) over(27) $(28) 3(29) !(30) 
+		</sentence>
+		<sentence id="41">
+			We(1) didn(2) t(3) try(4) the(5) relatively(6) upscale(7) House_of_Lords(8) steakhouse(9) ,(10) the(11) l-American(12) NASCAR(13) caf�(14) ,(15) or(16) the(17) buffet(18) ((19) $6.99(20) -(21) $9.99(22) )(23) ,(24) but(25) Paco(26) s(27) had(28) decent(29) Mexican(30) food(31) with(32) entrees(33) starting(34) at(35) $5.95(36) and(37) cheap(38) Margaritas(39) .(40) 
+		</sentence>
+		<sentence id="42">
+			The(1) Thirsty_Camel_Bar(2) in(3) the(4) middle(5) of(6) the(7) casino(8) has(9) cheap(10) drinks(11) and(12) friendly(13) service(14) ,(15) although(16) Darren(17) claimed(18) that(19) the(20) bartender(21) wasn(22) t(23) coming(24) over(25) to(26) us(27) because(28) she(29) thought(30) I(31) was(32) a(33) teenage(34) prostitute(35) .(36) 
+			<opinion polarity="+" feature="price" opWords="10"/>
+			<opinion polarity="+" feature="service" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="43">
+			My(1) cosmo(2) and(3) Nate(4) s(5) Coors_Lite(6) came(7) out(8) to(9) a(10) total(11) of(12) $5.75(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			I(1) wish(2) I(3) could(4) find(5) a(6) place(7) with(8) those(9) prices(10) in(11) Boston(12) !(13) 
+		</sentence>
+		<sentence id="45">
+			Of(1) course(2) ,(3) they(4) bring(5) you(6) free(7) drinks(8) if(9) you(10) sit(11) around(12) gambling(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			The(1) Casbar_Lounge(2) features(3) a(4) free(5) shows(6) .(7) 
+		</sentence>
+		<sentence id="47">
+			When(1) we(2) were(3) there(4) ,(5) it(6) was(7) Sixtiesmania(8) ,(9) a(10) bunch(11) of(12) '(13) 60s(14) impersonators(15) that(16) seemed(17) pretty(18) lame(19) .(20) 
+		</sentence>
+		<sentence id="48">
+			For(1) $34.50(2) a(3) ticket(4) ,(5) you(6) can(7) see(8) some(9) original(10) '(11) 60s(12) acts(13) :(14) The(15) Platters(16) ,(17) the(18) Coasters(19) ,(20) and(21) the(22) Drifters(23) ,(24) or(25) what(26) s(27) left(28) of(29) them(30) at_least(31) .(32) 
+		</sentence>
+		<sentence id="49">
+			The(1) Casino_Since_I(2) m(3) the(4) opposite(5) of(6) a(7) high(8) roller(9) ,(10) I(11) liked(12) the(13) fact(14) that(15) the(16) 80,000_square_foot(17) Sahara_Casino(18) had(19) nickel(20) slots(21) and(22) video(23) poker(24) .(25) 
+		</sentence>
+		<sentence id="50">
+			Unfortunately(1) ,(2) the(3) Sahara(4) does(5) not(6) have(7) a(8) Wall_of_Fame(9) like(10) the(11) Boulder_Station(12) does(13) ,(14) but(15) this(16) winner(17) s(18) site(19) was(20) created(21) just(22) for(23) Sue(24) ,(25) Steph(26) ,(27) and(28) Mike(29) :(30) http://www.saharavegas.com/casino/winners2004.html(31) The_Moroccan(32) themed(33) casino(34) felt(35) less(36) hectic(37) than(38) some(39) of(40) the(41) other(42) ones(43) we(44) visited(45) .(46) 
+		</sentence>
+		<sentence id="51">
+			For(1) more(2) info(3) ,(4) check(5) out(6) http://www.saharavegas.com(7) 
+		</sentence>
+	</text>
+</review>

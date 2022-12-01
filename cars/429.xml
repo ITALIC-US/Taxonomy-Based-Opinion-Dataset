@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="429" item="1996 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Mixed_Bag_for_Me_Personally(2) -(3) Should(4) be(5) a(6) relatively(7) good(8) car(9) for(10) others(11) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) low(2) noise(3) level(4) ,(5) very(6) high(7) comfort(8) level(9) .(10) 
+			<opinion polarity="+" feature="comfort" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mechanical(1) problems(2) abound(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) good(4) car(5) ,(6) but(7) not(8) for(9) me(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Back(1) in_1996(2) I(3) painstakingly(4) spent(5) 6(6) months(7) worth(8) of(9) weekends(10) shopping(11) for(12) my(13) first(14) car(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			In(1) the(2) consumeristic(3) society(4) of(5) America(6) ,(7) we(8) obviously(9) are(10) interested(11) in(12) items(13) that(14) suit(15) our(16) personality(17) within(18) our(19) physical(20) and(21) financial(22) means(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			In_order_to(1) compromise(2) between(3) these(4) traits(5) of(6) mine(7) ,(8) I(9) finally(10) narrowed(11) down(12) my(13) search(14) between(15) the(16) Camry(17) ,(18) the(19) Accord(20) ,(21) and(22) the(23) Altima(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			Being(1) 6(2) '(3) 3(4) "(5) with(6) a(7) frugal(8) budget(9) at(10) the(11) time(12) ((13) I(14) was(15) in(16) college(17) )(18) ,(19) I(20) needed(21) a(22) vehicle(23) that(24) I(25) could(26) fit(27) inside(28) adequately(29) ,(30) be(31) as(32) affordable(33) as(34) possible(35) not(36) merely(37) with(38) the(39) sticker(40) price(41) but(42) with(43) all(44) the(45) accessory(46) costs(47) of(48) owning(49) a(50) vehicle(51) e(52) .(53) g(54) .(55) mileage(56) ,(57) upkeep(58) costs(59) ,(60) insurance(61) ,(62) etc.(63) ,(64) and(65) also(66) last(67) me(68) for(69) a(70) good(71) amount(72) of(73) time(74) .(75) I(76) also(77) wanted(78) an(79) automatic(80) even_though(81) I_DESIRED(82) having(83) a(84) stick(85) ((86) I(87) lived(88) in(89) heavily(90) trafficked(91) areas(92) where(93) drivers(94) have(95) no(96) patience(97) for(98) a(99) newbie(100) stick(101) driver(102) )(103) .(104) I(105) could(106) not(107) fit(108) too(109) comfortably(110) in(111) the(112) Accord(113) or(114) the(115) Altima(116) without(117) having(118) undue(119) pressure(120) against(121) my(122) back(123) and(124) the(125) sole(126) of(127) my(128) non-used(129) feet(130) ((131) in(132) automatic(133) )(134) .(135) Many(136) people(137) might(138) tell(139) me(140) THEY(141) fit(142) fine(143) ,(144) but(145) everything(146) from(147) differences(148) in(149) body(150) proportions(151) to(152) posture(153) might(154) allow(155) one(156) person(157) as(158) tall(159) as(160) me(161) to(162) fit(163) in(164) one(165) car(166) even_if(167) I(168) do(169) not(170) fit(171) .(172) Moral(173) of(174) the(175) story(176) :(177) Always(178) test(179) drive(180) .(181) Also(182) ,(183) the(184) high(185) sales(186) volume(187) of(188) the(189) Camry(190) allowed(191) many(192) more(193) dealers(194) in(195) my(196) area(197) to(198) try(199) to(200) sell(201) some(202) Camry(203) 's(204) weekly(205) at(206) "(207) loss(208) leader(209) "(210) prices(211) ,(212) whereas(213) the(214) opportunity(215) to(216) find(217) one(218) for(219) an(220) Accord(221) or(222) Altima(223) were(224) less(225) ,(226) more(227) frustrating(228) ,(229) and(230) more(231) underhanded(232) ((233) car(234) salesmen(235) are(236) slime(237) ,(238) remember(239) ?(240) )(241) My(242) own(243) promise(244) to(245) myself(246) was(247) that(248) even_though(249) I(250) 'm(251) probably(252) a(253) guy(254) more(255) befitting(256) inside(257) a(258) sports(259) car(260) that(261) whatever(262) car(263) I(264) ended(265) up(266) with(267) I(268) need(269) to(270) try(271) to(272) treat(273) it(274) for(275) what(276) it(277) was(278) designed(279) for(280) as(281) much(282) as(283) possible(284) .(285) E.(286) g(287) .(288) if(289) I(290) were(291) to(292) get(293) a(294) Camry(295) ,(296) I(297) can(298) not(299) try(300) to(301) drive(302) it(303) like(304) a(305) Supra(306) and(307) expect(308) it(309) to(310) hold(311) its(312) reliability(313) and(314) structural(315) integrity(316) .(317) One(318) fateful(319) October_morning(320) ,(321) I(322) picked(323) up(324) a(325) brand(326) new(327) shiny(328) black(329) 1996(330) 4-cyl(331) Camry_LE(332) from(333) "(334) Block(335) 16(336) "(337) .(338) Wow(339) ,(340) my(341) own(342) car(343) !(344) Comparing(345) this(346) car(347) to(348) the(349) other(350) cars(351) my(352) parents(353) owned(354) ,(355) the(356) newest(357) being(358) an(359) '(360) 86(361) Volvo(362) 240(363) DL(364) ,(365) it(366) was(367) such(368) a(369) luxury(370) piece(371) !(372) All(373) for(374) under(375) $18,000(376) out(377) the(378) door(379) ,(380) new(381) ,(382) including(383) keyless(384) system(385) !(386) Good(387) things(388) first(389) before(390) my(391) fingers(392) fly(393) off(394) with(395) the(396) detriments(397) of(398) this(399) car(400) :(401) 1(402) .(403) Great(404) family(405) car(406) !(407) ((408) but(409) hey(410) I(411) 'm(412) an(413) outgoing(414) single(415) young(416) adult(417) ...(418) )(419) 2(420) .(421) An(422) astonishing(423) amount(424) of(425) seating(426) room(427) in(428) a(429) car(430) with(431) a(432) seemingly(433) small(434) "(435) midsized(436) "(437) body(438) footprint(439) .(440) I(441) 've(442) driven(443) the(444) 2000(445) Dodge_Intrepid(446) as(447) a(448) rental(449) when(450) my(451) Camry(452) was(453) in(454) the(455) shop(456) after(457) it(458) was(459) rear-ended(460) .(461) The(462) beast(463) of(464) the(465) Inteprid(466) is(467) almost(468) as(469) big(470) as(471) ,(472) say(473) ,(474) a(475) '(476) 90(477) BMW(478) 750iL(479) large(480) luxury(481) sedan(482) ,(483) yet(484) I(485) swear(486) it(487) has(488) less(489) interior(490) space(491) than(492) my(493) Camry(494) .(495) A(496) testament(497) to(498) forethough(499) and(500) advanced(501) design(502) methodologies(503) of(504) Japanese(505) car(506) companies(507) .(508) 3(509) .(510) Quiet(511) .(512) Super(513) freakily(514) quiet(515) .(516) Everyone(517) who(518) has(519) sat(520) in(521) my(522) car(523) who(524) had(525) been(526) slightly(527) tired(528) and(529) was(530) on(531) a(532) trip(533) 30_miles(534) or(535) longer(536) with(537) me(538) always(539) fell(540) asleep(541) .(542) And(543) I(544) 'm(545) not(546) talking(547) about(548) the(549) type(550) of(551) sleep(552) one(553) would(554) succumb(555) to(556) inside(557) a(558) car(559) that(560) results(561) from(562) an(563) advanced(564) stage(565) of(566) carsickness(567) ,(568) either(569) .(570) The(571) suspension(572) ,(573) the(574) wind(575) noise(576) ,(577) the(578) seals(579) ,(580) the(581) noise-reducing(582) asphalt(583) sheets(584) ((585) first(586) appears(587) in(588) early(589) ES300(590) 's(591) ?(592) )(593) ,(594) all(595) good(596) .(597) 4(598) .(599) Gas(600) mileage(601) .(602) 
+			<opinion polarity="+" feature="car" opWords="515"/>
+			<opinion polarity="+" feature="car" opWords="511"/>
+			<opinion polarity="+" feature="car" featWords="406" opWords="404"/>
+		</sentence>
+		<sentence id="5">
+			.(1) .(2) fueled(3) by(4) plutonium(5) or(6) something(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			On(1) one(2) drive(3) down(4) the(5) San_Diego(6) ,(7) I(8) had(9) to(10) use(11) 3(12) calculators(13) before(14) I(15) could(16) verify(17) that(18) my(19) car(20) actually(21) did(22) use(23) 40(24) mpg(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Wow(1) .(2) 
+		</sentence>
+		<sentence id="8">
+			My(1) average(2) now(3) is(4) 30(5) mpg(6) and(7) I(8) 've(9) been(10) doing(11) much(12) more(13) city(14) driving(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I_ALWAYS(1) use(2) at_least(3) 92(4) octane(5) in(6) my(7) car(8) ,(9) btw(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			And(1) NEVER(2) from(3) Arco(4) ((5) for(6) those(7) Californians(8) reading(9) this(10) :(11) P(12) )(13) .(14) 5(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) engine(2) wear(3) does(4) show(5) whether(6) you(7) 've(8) done(9) your(10) significant(11) amount(12) of(13) highway(14) driving(15) or(16) not(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) 've(2) spent(3) considerably(4) more(5) time(6) in(7) this(8) car(9) on(10) highways(11) than(12) on(13) local(14) roads(15) and(16) my(17) local(18) Toyota(19) mechanic(20) lauds(21) about(22) the(23) condition(24) of(25) the(26) engine(27) .(28) 6(29) .(30) 
+		</sentence>
+		<sentence id="13">
+			Sound(1) system(2) .(3) 
+		</sentence>
+		<sentence id="14">
+			Not(1) the(2) best(3) ,(4) but(5) good(6) for(7) the(8) price(9) of(10) the(11) car(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			Since(1) the(2) first(3) Camry_I(4) 've(5) ridden(6) in(7) ((8) 1991(9) Camry(10) )(11) its(12) stock(13) sound(14) system(15) has(16) blown(17) me(18) away(19) ,(20) especially(21) for(22) its(23) price(24) and(25) the(26) target(27) audience(28) its(29) designed(30) for(31) ((32) lower-middle-class(33) nuclear(34) family(35) ,(36) etc.(37) )(38) .(39) 
+		</sentence>
+		<sentence id="16">
+			Sound(1) is(2) flat(3) ((4) I(5) 'm(6) an(7) audiophile(8) as_well(9) ,(10) my(11) headphones(12) are(13) Sennheiser_HD(14) 580(15) 's(16) :(17) P(18) )(19) ,(20) but(21) I(22) really(23) was(24) expecting(25) $5.99(26) RadioShack(27) quality(28) speakers(29) .(30) 7(31) .(32) 
+		</sentence>
+		<sentence id="17">
+			Temperature(1) modification(2) system(3) .(4) 
+		</sentence>
+		<sentence id="18">
+			It(1) 's(2) not(3) a(4) full-blown(5) environmental(6) control(7) system(8) ,(9) but(10) it(11) heats(12) pretty(13) darn(14) fast(15) and(16) cools(17) just(18) as(19) fast(20) as_well(21) ((22) but(23) it(24) robs(25) much-needed(26) horsepowers(27) from(28) the(29) engine(30) when(31) used(32) )(33) .(34) 8(35) .(36) 
+		</sentence>
+		<sentence id="19">
+			Looks(1) .(2) 
+		</sentence>
+		<sentence id="20">
+			It(1) still(2) retains(3) the(4) general(5) boxed(6) cockpit(7) shape(8) of(9) a(10) sedan(11) ,(12) but(13) the(14) fascia(15) improvements(16) from(17) the(18) 92-94(19) Camry(20) really(21) DOES(22) make(23) this(24) Camry(25) that(26) much(27) more(28) modern-appearing(29) than(30) the(31) 92-94(32) ones(33) ((34) I(35) feel(36) sorry(37) for(38) those(39) Camry(40) owners(41) )(42) .(43) 9(44) .(45) 
+		</sentence>
+		<sentence id="21">
+			Trunk(1) space(2) .(3) 
+		</sentence>
+		<sentence id="22">
+			You(1) can(2) fit(3) a(4) village(5) of(6) people(7) and(8) their(9) belongings(10) into(11) the(12) Camry(13) 's(14) trunk(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			And(1) the(2) rear(3) seats(4) fully(5) fold(6) down(7) !(8) 
+		</sentence>
+		<sentence id="24">
+			I(1) believe(2) my(3) interests(4) for(5) my(6) "(7) next(8) car(9) "(10) ((11) Lexus_GS(12) series(13) ,(14) Acura_TL(15) ,(16) etc.(17) )(18) do(19) not(20) even(21) have(22) this(23) feature(24) and(25) I(26) 'm(27) stumped(28) why(29) it(30) 's(31) left(32) out(33) of(34) those(35) cars(36) .(37) 
+		</sentence>
+		<sentence id="25">
+			Firmer(1) support(2) ?(3) 
+		</sentence>
+		<sentence id="26">
+			A(1) somehow(2) contributory(3) factor(4) to(5) the(6) rigidity(7) of(8) a(9) car(10) during(11) a(12) rear-end(13) collision(14) ?(15) 
+		</sentence>
+		<sentence id="27">
+			I(1) 'm(2) at(3) wit(4) 's(5) end(6) .(7) 
+		</sentence>
+		<sentence id="28">
+			Camry(1) scores(2) major(3) points(4) on(5) this(6) .(7) 
+		</sentence>
+		<sentence id="29">
+			On(1) to(2) the(3) bad(4) !(5) 
+		</sentence>
+		<sentence id="30">
+			I(1) do(2) read(3) a_lot(4) about(5) cars(6) and(7) have(8) friends(9) who(10) have(11) performance-oriented(12) cars(13) ,(14) so(15) I(16) know(17) more(18) than(19) the(20) average(21) male(22) family-man(23) .(24) 
+		</sentence>
+		<sentence id="31">
+			One(1) comment(2) I(3) keep(4) hearing(5) over(6) and(7) over(8) again(9) is(10) that(11) "(12) wow(13) your(14) car(15) sounds(16) like(17) a(18) 6-cylinder(19) !(20) "(21) or(22) "(23) Are(24) you(25) sure(26) this(27) is(28) not(29) a(30) V6(31) ?(32) !(33) "(34) or(35) others(36) who(37) do(38) own(39) 4-cyl(40) Camry(41) 's(42) claiming(43) that(44) their(45) cars(46) feel(47) like(48) it(49) performs(50) like(51) a(52) V6(53) ,(54) or(55) has(56) the(57) pickup(58) of(59) one(60) !(61) 
+		</sentence>
+		<sentence id="32">
+			The(1) similar(2) distinction(3) between(4) ALL(5) these(6) people(7) who(8) make(9) such(10) naive(11) comments(12) is(13) their(14) unintended(15) ignorance(16) of(17) auto(18) knowledge(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			SLOOOOW(1) :(2) If(3) our(4) 4-cyl(5) Camry(6) 's(7) had(8) V6(9) ,(10) please(11) explain(12) why(13) mine(14) only(15) goes(16) 0-60(17) mph(18) on(19) a(20) flat(21) straightaway(22) with(23) pedal(24) to(25) the(26) metal(27) in(28) 10.5_seconds(29) when(30) it(31) was(32) only(33) 3(34) months(35) old(36) .(37) 
+		</sentence>
+		<sentence id="34">
+			Also(1) ,(2) the(3) "(4) pickup(5) "(6) some(7) claim(8) it(9) has(10) ((11) even(12) the(13) stick(14) version(15) )(16) is(17) also_known_as(18) ...(19) a(20) jerking(21) motion(22) on(23) a(24) car(25) with(26) a(27) soft(28) suspension(29) .(30) 
+		</sentence>
+		<sentence id="35">
+			As(1) one(2) of(3) my(4) friends(5) commented(6) about(7) the(8) ol(9) '(10) Infiniti(11) J30(12) ,(13) "(14) it(15) may(16) sound(17) like(18) it(19) 's(20) damn(21) powerful(22) ,(23) but(24) we(25) 're(26) barely(27) movin(28) '(29) at(30) all(31) "(32) .(33) 
+			<opinion polarity="+" feature="horsepower" opWords="22"/>
+		</sentence>
+		<sentence id="36">
+			Sure(1) ,(2) mine(3) also(4) has(5) the(6) "(7) pick(8) up(9) "(10) of(11) a(12) V6(13) ...(14) but(15) the(16) engine(17) 's(18) revving(19) at(20) 6000(21) rpm(22) with(23) 2(24) people(25) in(26) it(27) on(28) 2nd(29) gear(30) trying(31) to(32) hit(33) 35(34) mph(35) ((36) I(37) 'm(38) not(39) sure(40) the(41) exact(42) speed(43) ,(44) but(45) it(46) 's(47) pretty(48) sad(49) ,(50) I(51) 'll(52) tell(53) you(54) .(55) )(56) Lack(57) of(58) power(59) :(60) Each(61) additional(62) passenger(63) you(64) add(65) inside(66) a(67) 4-cyl(68) Camry(69) makes(70) the(71) engine(72) strain(73) significantly(74) more(75) .(76) 
+		</sentence>
+		<sentence id="37">
+			As(1) a(2) driver(3) ,(4) you(5) can(6) feel(7) the(8) gas(9) pedal(10) requiring(11) more(12) push(13) for(14) each(15) passenger(16) .(17) 
+		</sentence>
+		<sentence id="38">
+			Torque(1) is(2) nonexistent(3) up(4) to(5) about(6) 1500(7) rpm(8) ;(9) basically(10) vanishes(11) at(12) 3500(13) rpm(14) .(15) 
+		</sentence>
+		<sentence id="39">
+			There(1) have(2) been(3) times(4) when(5) I(6) was(7) worried(8) if(9) the(10) Camry(11) would(12) make(13) it(14) up(15) certain(16) hills(17) with(18) a(19) full(20) load(21) of(22) people(23) in(24) it(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			Lack(1) of(2) speed(3) :(4) The(5) gear(6) ratio(7) between(8) 1st(9) and(10) 2nd(11) gears(12) is(13) pretty(14) awful(15) in(16) terms(17) of(18) trying(19) to(20) build(21) speed(22) up(23) ,(24) especially(25) for(26) ludicrously(27) short(28) onramps(29) onto(30) freeways(31) in(32) Los_Angeles(33) .(34) 3rd(35) ,(36) 4th(37) ,(38) and(39) overdrive(40) gears(41) pack(42) more(43) of(44) a(45) punch(46) .(47) 
+		</sentence>
+		<sentence id="41">
+			Mechanical(1) problems(2) GALORE(3) ...(4) -(5) Idle_Control_Valve(6) :(7) I(8) 've(9) had(10) this(11) replaced(12) ,(13) I(14) shat(15) you(16) not(17) ,(18) at_least(19) 8_times(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			I(1) 've(2) heard(3) some(4) other(5) Block(6) 16(7) Camry_LE(8) incidents(9) where(10) the(11) ICV(12) just(13) gives(14) .(15) 
+		</sentence>
+		<sentence id="43">
+			What(1) are(2) the(3) symptoms(4) ?(5) 
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) 're(3) trying(4) to(5) start(6) up(7) your(8) car(9) ((10) either(11) cold(12) or(13) warm(14) )(15) ,(16) your(17) car(18) should(19) be(20) able(21) to(22) sit(23) idly(24) at(25) around(26) 500-1000rpm(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			In(1) a(2) car(3) with(4) a(5) faulty(6) ICV(7) ,(8) once(9) you(10) turn(11) the(12) ignition(13) ,(14) the(15) car(16) revs(17) to(18) life(19) for(20) about(21) half(22) a_second(23) and(24) suddenly(25) dies(26) if(27) you(28) do(29) not(30) nudge(31) the(32) gas(33) pedal(34) a_bit(35) .(36) 
+		</sentence>
+		<sentence id="46">
+			I(1) was(2) freaking(3) out(4) that(5) the(6) light(7) pedal(8) gave(9) to(10) my(11) haste(12) in(13) trying(14) to(15) keep(16) the(17) idle(18) up(19) when(20) the(21) ICV(22) failed(23) and(24) would(25) be(26) harming(27) engine(28) endurance(29) ((30) they(31) say(32) that(33) after(34) the(35) first(36) 5(37) minutes(38) of(39) a(40) cold(41) start(42) ,(43) your(44) car(45) goes(46) through(47) engine(48) wear(49) equivalent(50) of(51) driving(52) 500_miles(53) ...(54) )(55) Anyhow(56) ,(57) the(58) part(59) +(60) labor(61) to(62) replace(63) the(64) ICV(65) runs(66) $300(67) ,(68) so(69) I(70) 'm(71) glad(72) it(73) was(74) all(75) warranty(76) work(77) .(78) 
+		</sentence>
+		<sentence id="47">
+			What(1) I(2) 'm(3) afraid(4) of(5) is(6) the(7) ICV(8) might(9) give(10) again(11) anytime(12) soon(13) ;(14) it(15) began(16) acting(17) up(18) at(19) around(20) 20K_miles(21) and(22) every(23) 15K_miles(24) or(25) so(26) would(27) act(28) up(29) ad_infinitum(30) .(31) -(32) Erroneous(33) status(34) lights(35) :(36) My(37) brother(38) ((39) 2000(40) 4-cyl(41) Camry_LE(42) )(43) and(44) his(45) genius(46) Toyota(47) aficionado(48) friend(49) can(50) also(51) testify(52) to(53) this(54) and(55) that(56) 's(57) erroneous(58) panel(59) lights(60) in(61) the(62) main(63) instrument(64) console(65) .(66) 
+		</sentence>
+		<sentence id="48">
+			Mine(1) happens(2) to(3) be(4) the(5) fault(6) rear-light(7) indicator(8) .(9) 
+		</sentence>
+		<sentence id="49">
+			Bad(1) car(2) ,(3) bad(4) .(5) -(6) Rear-collision(7) after-effects(8) :(9) My(10) trunk(11) door(12) requires(13) 2-3(14) slams(15) before(16) firmly(17) latching(18) .(19) ?(20) ?(21) ?(22) -(23) Subpar(24) paint(25) job(26) :(27) Even_WIND-BLOWN(28) tree(29) sap(30) droplets(31) tear(32) through(33) the(34) enamel(35) and(36) paint(37) and(38) reveals(39) primer(40) in(41) many(42) spots(43) of(44) the(45) car(46) !(47) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="50">
+			Hard(1) water(2) is(3) another(4) killer(5) ...(6) geez(7) .(8) -(9) Subpar(10) /(11) fender(12) /(13) door-panel(14) quality(15) :(16) Dings(17) are(18) too(19) easy(20) to(21) get(22) .(23) 
+		</sentence>
+		<sentence id="51">
+			Just(1) have(2) a(3) stomach(4) to(5) expect(6) them(7) to(8) happen(9) .(10) -(11) Timing(12) belt(13) :(14) Factory(15) timing(16) belt(17) was(18) loosening(19) at(20) 25K_miles(21) ,(22) already(23) .(24) 
+		</sentence>
+		<sentence id="52">
+			Remember(1) ,(2) I(3) drive(4) this(5) car(6) hard(7) maybe(8) once(9) or(10) twice(11) a(12) year(13) and(14) that(15) 's(16) it(17) .(18) 
+		</sentence>
+		<sentence id="53">
+			Otherwise(1) ,(2) I(3) know(4) it(5) 's(6) a(7) family(8) car(9) and(10) that(11) 's(12) what(13) it(14) was(15) designed(16) for(17) and(18) drive(19) it(20) accordingly(21) so(22) .(23) 
+		</sentence>
+		<sentence id="54">
+			Yet(1) still(2) ...(3) Then(4) ,(5) they(6) were(7) replace(8) at(9) 90K_mile(10) AGAIN(11) !(12) 
+		</sentence>
+		<sentence id="55">
+			Ungh(1) .(2) -(3) Engine(4) mounts(5) broken(6) and(7) replaced(8) :(9) Discovered(10) during(11) 90K_mile(12) service(13) .(14) -(15) Front(16) seats(17) :(18) Lack(19) of(20) lumbar(21) support(22) .(23) -(24) Brakes(25) :(26) Rear(27) brakes(28) are(29) drum(30) .(31) 
+		</sentence>
+		<sentence id="56">
+			Front(1) discs(2) are(3) ridiculously(4) puny(5) .(6) 
+		</sentence>
+		<sentence id="57">
+			And(1) as(2) they(3) age(4) ,(5) they(6) began(7) vibrating(8) the(9) whole(10) body(11) frame(12) of(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="58">
+			Toyota(1) mechanic(2) claims(3) it(4) 's(5) the(6) "(7) material(8) "(9) of(10) the(11) brakes(12) and(13) says(14) I(15) still(16) have(17) much(18) more(19) than(20) 70_%(21) padding(22) left(23) ,(24) even(25) after(26) 90K_miles(27) .(28) 
+		</sentence>
+		<sentence id="59">
+			Sometimes(1) ,(2) the(3) momentum(4) of(5) the(6) car(7) overpowers(8) the(9) braking(10) capability(11) ((12) e(13) .(14) g(15) .(16) I(17) can(18) hear(19) the(20) discs(21) slip(22) past(23) the(24) friction(25) coefficient(26) of(27) the(28) pads(29) ...(30) it(31) 's(32) scary(33) .(34) )(35) I(36) have(37) no(38) ABS(39) and(40) I(41) 'd(42) rather(43) not(44) have(45) it(46) because(47) I(48) know(49) how(50) to(51) pump(52) .(53) 
+		</sentence>
+		<sentence id="60">
+			But(1) I(2) heard(3) this(4) year(5) does(6) have(7) an(8) ABS(9) option(10) ?(11) 
+		</sentence>
+		<sentence id="61">
+			That(1) 's(2) even(3) scarier(4) .(5) 
+		</sentence>
+		<sentence id="62">
+			-(1) Too(2) many(3) Toyotas(4) /(5) Camrys(6) ?(7) :(8) I(9) think(10) there(11) may(12) just(13) be(14) way(15) too(16) many(17) Toyotas(18) out(19) in(20) active(21) duty(22) that(23) would(24) require(25) thorough(26) honest(27) and(28) top-notch(29) quality(30) maintenance(31) attention(32) for(33) each(34) vehicle(35) .(36) 
+		</sentence>
+		<sentence id="63">
+			I(1) 'm(2) sure(3) vehicle(4) designers(5) probably(6) had(7) this(8) in(9) mind(10) and(11) attempted(12) to(13) make(14) the(15) Camry(16) as(17) sturdy(18) as(19) possible(20) while(21) be(22) easily(23) accessible(24) for(25) repairs(26) ,(27) and(28) I(29) applaud(30) them(31) for(32) that(33) .(34) -(35) READ_YOUR_WARRANTY_PAPERS_CLEARLY(36) !(37) !(38) !(39) 
+		</sentence>
+		<sentence id="64">
+			Toyota(1) dealers(2) are(3) sleazy(4) here(5) and(6) there(7) ;(8) they(9) 've(10) attempted(11) to(12) rip(13) me(14) and(15) my(16) brother(17) off(18) but(19) have(20) only(21) succeeded(22) in(23) ripping(24) him(25) off(26) because_of(27) his(28) naivete(29) .(30) 
+		</sentence>
+		<sentence id="65">
+			Read(1) your(2) manual(3) ;(4) learn(5) about(6) your(7) car(8) .(9) 
+		</sentence>
+		<sentence id="66">
+			Be(1) informed(2) .(3) 
+		</sentence>
+		<sentence id="67">
+			Overall(1) :(2) I(3) might(4) have(5) gotten(6) somewhat(7) of(8) a(9) lemon(10) with(11) my(12) Camry(13) with(14) all(15) of(16) its(17) mechanical(18) faults(19) ,(20) but(21) it(22) 's(23) a(24) quiet(25) comfortable(26) ride(27) in(28) general(29) that(30) 's(31) otherwise(32) reliable(33) .(34) 
+			<opinion polarity="+" feature="reliability" opWords="33"/>
+			<opinion polarity="+" feature="ride quality" featWords="27" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="68">
+			I(1) do(2) not(3) drive(4) it(5) hard(6) ((7) even_though(8) I(9) always(10) have(11) urges(12) to(13) )(14) at(15) all(16) ,(17) and(18) if(19) one(20) drives(21) the(22) Camry(23) at(24) a(25) leisurely(26) pace(27) ,(28) one(29) should(30) not(31) run(32) into(33) anything(34) more(35) than(36) the(37) usual(38) oil(39) and(40) lube(41) every(42) so(43) often(44) .(45) 
+		</sentence>
+		<sentence id="69">
+			Overall(1) it(2) 's(3) a(4) good(5) car(6) with(7) clever(8) engineering(9) and(10) design(11) .(12) 
+			<opinion polarity="+" feature="design" featWords="11" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="70">
+			The(1) 1997(2) +(3) Camry(4) ,(5) to(6) me(7) ,(8) is(9) WORLDS(10) of(11) improvement(12) over(13) my(14) Camry(15) and(16) for(17) that(18) car(19) ,(20) I(21) give(22) VERY(23) high(24) praises(25) ((26) my(27) brother(28) has(29) the(30) 2000(31) 4-cyl(32) LE(33) model(34) )(35) .(36) 
+		</sentence>
+		<sentence id="71">
+			UPDATE(1) 08/01/2001(2) More_BADS(3) for(4) the(5) 1996(6) Camry(7) after(8) I(9) brought(10) it(11) in(12) for(13) a(14) 97000-mile(15) regular(16) oil(17) change(18) .(19) 
+		</sentence>
+		<sentence id="72">
+			Frustration(1) made(2) me(3) walk(4) over(5) to(6) the(7) Nissan(8) dealership(9) across(10) the(11) street(12) ,(13) test-drive(14) a(15) 2001(16) Maxima_SE(17) and(18) almost(19) trade(20) in(21) my(22) Camry_for_the_Maxima_I(23) just(24) test-drove(25) ,(26) ugh(27) .(28) 
+		</sentence>
+		<sentence id="73">
+			The(1) bads(2) :(3) I(4) mentioned(5) two(6) problems(7) to(8) the(9) mechanic(10) while(11) he(12) was(13) changing(14) my(15) oil(16) ((17) at(18) the(19) service(20) dept(21) of(22) an(23) authorized(24) Toyota(25) dealer(26) )(27) .(28) 1(29) )(30) My(31) telescopic(32) antenna(33) does(34) not(35) fully(36) extend(37) anymore(38) ,(39) and(40) 2(41) )(42) my(43) vinyl(44) dash(45) surface(46) is(47) lifting(48) away(49) from(50) the(51) foam(52) core(53) ,(54) right(55) above(56) the(57) gauge(58) cluster(59) .(60) 
+		</sentence>
+		<sentence id="74">
+			Motorized(1) telescopic(2) antenna(3) has(4) not(5) been(6) able(7) to(8) fully(9) extend(10) for(11) a(12) few(13) months(14) now(15) .(16) 
+		</sentence>
+		<sentence id="75">
+			I(1) tried(2) cleaning(3) off(4) the(5) muck(6) that(7) collects(8) at(9) each(10) segment(11) of(12) the(13) antenna(14) ,(15) and(16) re-lubricating(17) it(18) with(19) graphite(20) ,(21) WD-40(22) ,(23) among(24) other(25) things(26) ((27) because(28) that(29) 's(30) what(31) our(32) family(33) did(34) on(35) our(36) Volvo(37) 's(38) to(39) get(40) the(41) antennas(42) fully(43) extending(44) again(45) )(46) .(47) 
+		</sentence>
+		<sentence id="76">
+			No(1) go(2) .(3) 
+		</sentence>
+		<sentence id="77">
+			Mechanic(1) told(2) me(3) today(4) that(5) most(6) likely(7) the(8) nylon(9) teeth(10) ((11) What(12) the(13) heck(14) ?(15) !(16) )(17) of(18) the(19) motor(20) that(21) pushes(22) the(23) antenna(24) upward(25) was(26) probably(27) stripped(28) .(29) 
+		</sentence>
+		<sentence id="78">
+			And(1) that(2) the(3) whole(4) telescopic(5) antenna(6) assembly(7) would(8) require(9) replacement(10) .(11) $195(12) .(13) 
+		</sentence>
+		<sentence id="79">
+			About(1) the(2) dash(3) surface(4) :(5) Naive(6) me(7) asked(8) the(9) mechanic(10) if(11) he(12) could(13) just(14) help(15) me(16) dab(17) some(18) epoxy(19) or(20) glue(21) to(22) make(23) the(24) surface(25) stick(26) to(27) the(28) foam(29) core(30) again(31) .(32) 
+		</sentence>
+		<sentence id="80">
+			He(1) says(2) the(3) only(4) permanent(5) remedy(6) would(7) be(8) TO_REPLACE_THE_WHOLE_DASH(9) ,(10) which(11) labor(12) costs(13) ALONE(14) would(15) be(16) upward(17) of(18) $300(19) !(20) 
+		</sentence>
+		<sentence id="81">
+			NEXT(1) CAR(2) :(3) I(4) 'm(5) praying(6) nothing(7) else(8) falls(9) apart(10) on(11) this(12) piece(13) of(14) junk(15) until(16) the(17) Nissan_XVL(18) 's(19) /(20) Infiniti(21) G35(22) 's(23) hits(24) Stateside(25) ,(26) since(27) so(28) far(29) the(30) specs(31) read(32) like(33) that(34) of(35) my(36) dream(37) car(38) .(39) 
+		</sentence>
+		<sentence id="82">
+			Even(1) the(2) 2002(3) Maxima(4) 's(5) specs(6) are(7) impressive(8) already(9) :(10) VQ(11) 3.5_Liter(12) engine(13) pumping(14) out(15) 260(16) hp(17) &(18) 230(19) +(20) ft(21) /(22) lb(23) of(24) torque(25) ,(26) HID(27) headlights(28) ,(29) 6(30) spd(31) specially(32) designed(33) tranny(34) for(35) SE(36) model(37) ,(38) etc.(39) Goodies(40) galore(41) !(42) 
+		</sentence>
+		<sentence id="83">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17500(7) Condition(8) :(9) NewModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) LE(16) 4-cylinder(17) 
+		</sentence>
+	</text>
+</review>

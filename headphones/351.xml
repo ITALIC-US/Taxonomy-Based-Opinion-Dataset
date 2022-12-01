@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="351" item="Sony MDR-V700DJ Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Maybe(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) cool(4) looking(5) ,(6) nice(7) features(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="appearance" opWords="4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) durable(2) ,(3) easily(4) broken(5) 
+			<opinion polarity="-" feature="durability" opWords="5" potency="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			My(1) negative(2) rating(3) is(4) only(5) based(6) on(7) the(8) cheap(9) construction(10) .(11) 
+			<opinion polarity="-" feature="durability" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			Otherwise(1) ,(2) they(3) 're(4) great(5) -(6) but(7) they(8) can(9) not(10) stand(11) up(12) to(13) the(14) wear(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) pretty(3) excited(4) to(5) get(6) these(7) ,(8) and(9) I(10) loved(11) for(12) the(13) first(14) few(15) months(16) -(17) until(18) I(19) broke(20) them(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) dj(3) ,(4) but(5) these(6) did(7) not(8) even(9) break(10) while(11) djing(12) -(13) I(14) bumped(15) them(16) off(17) my(18) desk(19) and(20) they(21) fell(22) about(23) 3_feet(24) onto(25) a(26) carpeted(27) floor(28) .(29) *(30) SNAP(31) *(32) Pretty(33) disappointed(34) in(35) the(36) build(37) quality(38) for(39) such(40) a(41) pricey(42) set(43) of(44) phones(45) ,(46) and(47) one(48) specifically(49) targeted(50) at(51) djs(52) .(53) 
+		</sentence>
+		<sentence id="3">
+			The(1) construction(2) -(3) do(4) not(5) be(6) fooled(7) by(8) the(9) look(10) -(11) is(12) almost(13) entirely(14) plastic(15) ,(16) and(17) they(18) 're(19) just(20) not(21) going(22) to(23) hold(24) up(25) .(26) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="15"/>
+		</sentence>
+		<sentence id="4">
+			Had(1) similar(2) problems(3) with(4) other(5) Sony(6) products(7) -(8) I(9) 'm(10) done(11) with(12) them(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			They(1) do(2) have(3) great(4) sound(5) .(6) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) was(3) able(4) to(5) receive(6) a(7) replacement(8) part(9) from(10) Sony(11) for(12) $20(13) -(14) you(15) just(16) have(17) to(18) call(19) the(20) parts(21) center(22) .(23) 
+		</sentence>
+	</text>
+</review>

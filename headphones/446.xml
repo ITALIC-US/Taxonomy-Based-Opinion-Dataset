@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="446" item="Shure E2C Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Clean(1) sound(2) but(3) lacks(4) bass(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ultra(1) clean(2) sound(3) and(4) detail(5) ,(6) very(7) comfortable(8) fit(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="comfort" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Disappointed(1) in(2) the(3) lack(4) of(5) bass(6) response(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) to(4) use(5) with(6) my(7) video(8) iPod(9) because(10) the(11) original(12) iPod(13) earphones(14) would(15) distort(16) easily(17) with(18) songs(19) that(20) contained(21) a_lot_of(22) bass(23) and(24) were(25) uncomfortable(26) to(27) wear(28) .(29) 
+			<opinion polarity="-" feature="comfort" opWords="26"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) always(3) respected(4) Shure(5) s(6) reputation(7) in(8) the(9) audio(10) industry(11) and(12) thought(13) these(14) earphones(15) would(16) be(17) worth(18) the(19) money(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) very(3) disappointed(4) with(5) the(6) low-end(7) performance(8) of(9) these(10) earphones(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Although(1) they(2) don(3) t(4) distort(5) they(6) don(7) t(8) produce(9) adequate(10) bass(11) either(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) listen(2) to(3) a(4) wide(5) variety(6) of(7) music(8) from(9) rock(10) to(11) rap(12) to(13) jazz(14) and(15) wanted(16) earphones(17) to(18) perform(19) with(20) all(21) genres(22) but(23) the(24) Shure(25) E2c(26) s(27) fall(28) short(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			On(1) a(2) positive(3) note(4) ,(5) they(6) produce(7) a(8) very(9) clean(10) and(11) detailed(12) sound(13) that(14) is(15) accurate(16) and(17) precise(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="13" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			The(1) fit(2) kit(3) is(4) a(5) huge(6) plus(7) so(8) you(9) may(10) customize(11) the(12) earphones(13) to(14) your(15) comfort(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) construction(2) seems(3) to(4) be(5) great(6) quality(7) with(8) a(9) thick(10) cord(11) and(12) gold(13) plated(14) plug(15) .(16) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="6,7"/>
+			<opinion polarity="+" feature="cord" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="jack" featWords="15" opWords="13,14"/>
+		</sentence>
+	</text>
+</review>

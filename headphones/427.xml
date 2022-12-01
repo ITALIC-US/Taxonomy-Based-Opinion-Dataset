@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="427" item="Beyerdynamic DT 770 PRO Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Pro(1) headphones(2) good(3) for(4) home(5) use(6) too(7) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) sound(2) ,(3) well(4) made(5) ,(6) true(7) pro(8) quality(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="durability" opWords="4,5"/>
+			<opinion polarity="+" feature="headphones" opWords="8,9" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) as(2) comfortable(3) as(4) could(5) be(6) ,(7) inefficient(8) 
+			<opinion polarity="-" feature="headphones" opWords="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) because(5) I(6) was(7) looking(8) for(9) a(10) sealed(11) model(12) that(13) I(14) could(15) use(16) for(17) listening(18) during(19) my(20) daily(21) commute(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			My_Sennheiser(1) HD-580s(2) ,(3) while(4) fantastic(5) sounding(6) ,(7) tended(8) to(9) bother(10) the(11) people(12) around(13) me(14) because(15) so(16) much(17) of(18) the(19) sound(20) leaks(21) out(22) due(23) to(24) their(25) open(26) back(27) design(28) .(29) 
+			<opinion polarity="+" feature="sound quality" opWords="5,6"/>
+		</sentence>
+		<sentence id="3">
+			I(1) also(2) wanted(3) something(4) that(5) would(6) block(7) out(8) some(9) of(10) the(11) train(12) noise(13) I(14) hear(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) not(3) been(4) a(5) big(6) fan(7) of(8) most(9) of(10) the(11) Japanese(12) brand(13) headphones(14) ((15) Sony(16) ,(17) Aiwa(18) ,(19) etc(20) )(21) and(22) had(23) been(24) impressed(25) when(26) I(27) auditioned(28) the(29) Beyer(30) DT-990s(31) ((32) the(33) 770(34) 's(35) open-backed(36) cousin(37) )(38) ,(39) so(40) I(41) figured(42) I(43) 'd(44) give(45) these(46) a(47) try(48) .(49) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) not(3) disappointed(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) is(3) open(4) and(5) incredibly(6) detailed(7) ,(8) with(9) great(10) bass(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="bass" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="7">
+			They(1) sounded(2) very(3) close(4) in(5) quality(6) to(7) the(8) 580s(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			I(1) use(2) these(3) headphones(4) with(5) a(6) Headroom_Supreme(7) amp(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			You(1) will(2) not(3) be(4) able(5) to(6) use(7) them(8) with(9) a(10) portable(11) CD(12) player(13) because(14) it(15) will(16) not(17) have(18) enough(19) power(20) output(21) ((22) the(23) Sennheiser(24) 580s(25) have(26) the(27) same(28) problem(29) )(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			So(1) I(2) would(3) not(4) recommend(5) them(6) to(7) the(8) *(9) casual(10) *(11) portable(12) listener(13) ,(14) although(15) they(16) 'd(17) be(18) fine(19) for(20) home(21) use(22) .(23) 
+			<opinion polarity="-" feature="headphones" featWords="6" featRef="headphones" opWords="4,5"/>
+		</sentence>
+		<sentence id="11">
+			Comfort-wise(1) ,(2) they(3) 're(4) not(5) as(6) good(7) as(8) either(9) the(10) HD-580s(11) ,(12) the(13) DT-990s(14) ,(15) or(16) my(17) previous(18) portable(19) favorite(20) ,(21) the(22) Koss(23) TNT/77s(24) ((25) discontinued(26) about(27) 5(28) years(29) ago(30) )(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			Part(1) of(2) the(3) problem(4) is(5) due(6) to(7) the(8) vinyl(9) ,(10) rather(11) than(12) velour(13) ,(14) ear(15) pads(16) ((17) I(18) suspect(19) the(20) use(21) of(22) vinyl(23) is(24) to(25) assist(26) in(27) the(28) sound(29) isolation(30) properties(31) of(32) these(33) phones(34) )(35) ;(36) also(37) ,(38) the(39) headband(40) is(41) not(42) form(43) fitting(44) like(45) on(46) other(47) headphones(48) ,(49) so(50) they(51) do(52) not(53) stay(54) in(55) place(56) as_well(57) .(58) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) for(3) the(4) sound(5) they(6) provide(7) it(8) 's(9) worth(10) the(11) mild(12) discomfort(13) ((14) if(15) you(16) can(17) afford(18) to(19) spend(20) a_bit(21) more(22) ,(23) check(24) out(25) the(26) DT-831(27) ,(28) which(29) is(30) Beyer(31) 's(32) top(33) sealed(34) model(35) and(36) has(37) a(38) better(39) headband(40) design(41) )(42) .(43) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="354" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			so(1) you(2) wanna(3) be(4) a(5) dj(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortability(1) ,(2) portability(3) and(4) clean(5) sound(6) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			your(1) still(2) giving(3) money(4) to(5) sony(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) if(2) thats(3) the(4) case(5) then(6) these(7) babies(8) make(9) for(10) a(11) great(12) set(13) of(14) headphones(15) ,(16) and(17) not(18) only(19) that(20) they(21) have(22) the(23) best(24) endorsement(25) I(26) can(27) think(28) of(29) ...(30) and(31) that(32) is(33) the(34) fact(35) that(36) almost(37) every(38) bay(39) area(40) dj(41) I(42) know(43) of(44) uses(45) these(46) headphones(47) .(48) 
+		</sentence>
+		<sentence id="2">
+			They(1) make(2) for(3) great(4) clean(5) balanced(6) sound(7) when(8) your(9) in(10) the(11) mix(12) they(13) also(14) kick(15) hard(16) enough(17) that(18) you(19) can(20) still(21) have(22) distinguished(23) sound(24) while(25) being(26) bombarded(27) by(28) every(29) other(30) speaker(31) in(32) the(33) room(34) .(35) 
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) fairly(3) affordable(4) for(5) your(6) average(7) person(8) and(9) they(10) are(11) also(12) very(13) portable(14) ,(15) with(16) a(17) nifty(18) little(19) carrying(20) bag(21) they(22) fold(23) up(24) and(25) you(26) can(27) take(28) them(29) anywhere(30) .(31) 
+			<opinion polarity="+" feature="price" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="portability" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="4">
+			Another(1) plus(2) is(3) comfortability(4) ,(5) I(6) have(7) played(8) a(9) 4.5(10) hour(11) set(12) and(13) they(14) did(15) not(16) bother(17) me(18) as(19) far(20) as(21) comfortability(22) goes(23) ,(24) quite(25) nice(26) to(27) wear(28) for(29) long(30) amounts(31) of(32) time(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			They(1) have(2) it(3) all(4) :(5) comfortability(6) ,(7) portability(8) ,(9) affordability(10) and(11) clean(12) ,(13) balanced(14) ,(15) kickin(16) sound(17) quality(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="17,18" opWords="12"/>
+			<opinion polarity="+" feature="sound quality" featWords="17,18" opWords="14"/>
+			<opinion polarity="+" feature="sound quality" featWords="17,18" opWords="16"/>
+		</sentence>
+		<sentence id="6">
+			You(1) can(2) not(3) go(4) wrong(5) with(6) these(7) bad(8) boys(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) a(2) great(3) set(4) of(5) headphones(6) in(7) my(8) personal(9) epinion(10) .(11) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="131" item="1996 Acura TL Series" rating="5">
+	<title>
+		<sentence id="1">
+			Subtle(1) but(2) Sporty(3) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			High-torque(1) engine(2) ,(3) good(4) balance(5) of(6) sporty(7) and(8) luxury(9) ,(10) comfortable(11) interior(12) 
+			<opinion polarity="+" feature="interior" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Annoying(1) climate(2) controls(3) ,(4) jerky(5) transmission(6) 
+			<opinion polarity="-" feature="transmission" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="controls" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Beautiful(1) balance(2) between(3) luxury(4) and(5) sporty(6) ,(7) with(8) a(9) decent(10) engine(11) and(12) simplistic(13) feeling(14) .(15) 
+			<opinion polarity="+" feature="engine" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			Only(1) few(2) annoyances(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) white(4) 1996(5) Acura(6) 2.5(7) TL(8) and(9) I(10) could(11) not(12) imagine(13) driving(14) any(15) other(16) car(17) in(18) the(19) price(20) range(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			First(1) ,(2) the(3) exterior(4) :(5) It(6) has(7) a(8) subtle(9) ,(10) sporty(11) look(12) while(13) still(14) looking(15) like(16) a(17) Mercedes(18) .(19) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="design" featWords="12" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			It(1) does(2) not(3) have(4) the(5) "(6) let(7) 's(8) key(9) it(10) "(11) exterior(12) style(13) but(14) it(15) maintains(16) the(17) classy(18) look(19) that(20) is(21) appealing(22) to(23) the(24) eye(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			The(1) Interior(2) :(3) Wow(4) !(5) 
+		</sentence>
+		<sentence id="5">
+			The(1) leather(2) seats(3) even(4) have(5) lumber(6) support(7) !(8) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="6">
+			Cruise(1) controls(2) are(3) simple(4) and(5) look(6) simple(7) ,(8) the(9) radio(10) is(11) fairly(12) simple(13) if(14) a_bit(15) weak(16) ,(17) and(18) the(19) shifter(20) is(21) fun(22) to(23) operate(24) .(25) 
+			<opinion polarity="+" feature="shifter" featWords="20" opWords="22"/>
+			<opinion polarity="+" feature="controls" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) easy(3) to(4) have(5) fun(6) in(7) this(8) car(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) back(2) seats(3) are(4) MUCH(5) roomier(6) than(7) you(8) 'd(9) expect(10) looking(11) at(12) this(13) car(14) and(15) has(16) a(17) nifty(18) pass-through(19) to(20) the(21) trunk(22) from(23) the(24) back(25) seat(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			The(1) catch(2) on(3) the(4) seat(5) belt(6) is(7) a(8) little(9) too(10) sensitive(11) ,(12) as(13) it(14) locks(15) up(16) when(17) I(18) turn(19) my(20) head(21) too(22) fast(23) for(24) a(25) lane(26) change(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			The(1) speedometer(2) goes(3) up(4) to(5) 160(6) mph(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) 'll(2) probably(3) go(4) almost(5) that(6) ,(7) I(8) 'm(9) sure(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			The(1) con(2) about(3) the(4) interior(5) is(6) that(7) the(8) climate(9) controls(10) are(11) very(12) annoying(13) .(14) 
+			<opinion polarity="-" feature="controls" featWords="10" opWords="13"/>
+		</sentence>
+		<sentence id="13">
+			Sure(1) ,(2) it(3) has(4) a(5) big(6) knob(7) that(8) tells(9) you(10) where(11) the(12) temperature(13) is(14) set(15) ,(16) but(17) on(18) full(19) auto(20) ,(21) not(22) much(23) air(24) comes(25) out(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Even(1) the(2) air(3) that(4) DOES(5) come(6) out(7) only(8) comes(9) out(10) on(11) the(12) left(13) heating(14) vent(15) on(16) the(17) driver(18) 's(19) side(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			What(1) 's(2) up(3) with(4) that(5) ?(6) 
+		</sentence>
+		<sentence id="16">
+			When(1) I(2) drive(3) in(4) the(5) cold(6) morning(7) ,(8) I(9) like(10) to(11) have(12) warm(13) air(14) come(15) out(16) of(17) both(18) vents(19) ,(20) so(21) I(22) have(23) to(24) override(25) full(26) auto(27) by(28) pushing(29) a(30) very(31) small(32) button(33) in(34) the(35) middle(36) to(37) get(38) air(39) coming(40) out(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			It(1) 's(2) an(3) illogical(4) design(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			The(1) Engine(2) :(3) This(4) will(5) not(6) sound(7) right(8) ,(9) but(10) I(11) 'm(12) telling(13) you(14) the(15) truth(16) :(17) the(18) engine(19) is(20) a(21) 5(22) cylinder(23) .(24) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="6,7,8"/>
+		</sentence>
+		<sentence id="19">
+			Yes(1) ,(2) I(3) typed(4) that(5) correctly(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			A(1) 5(2) cylinder(3) .(4) 
+		</sentence>
+		<sentence id="21">
+			I(1) get(2) myself(3) into(4) a_lot_of(5) arguments(6) about(7) this(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			A_lot_of(1) people(2) claim(3) that(4) you(5) have(6) to(7) have(8) an(9) even(10) number(11) of(12) cylinders(13) to(14) balance(15) "(16) something(17) .(18) "(19) The(20) fact(21) that(22) my(23) engine(24) starts(25) disproves(26) all(27) that(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			It(1) has(2) 176(3) horsepower(4) ,(5) which(6) may(7) not(8) seem(9) like(10) much(11) ,(12) but(13) the(14) folks(15) at(16) Honda(17) ((18) Honda(19) makes(20) Acura(21) )(22) know(23) how(24) to(25) squeeze(26) a_lot_of(27) power(28) out(29) of(30) little(31) horsepower(32) at(33) high(34) revs(35) with(36) their(37) motorcycle(38) experience(39) .(40) 
+		</sentence>
+		<sentence id="24">
+			It(1) opens(2) up(3) at(4) the(5) high(6) end(7) during(8) acceleration(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			Honda(1) knows(2) how(3) to(4) make(5) 176(6) horsepower(7) go(8) from(9) 0-60(10) in(11) 7.5_seconds(12) ((13) I(14) timed(15) it(16) on(17) our(18) highway(19) .(20) )(21) The_Ride(22) :(23) Here(24) 's(25) where(26) most(27) of(28) the(29) pros(30) and(31) cons(32) come(33) from(34) .(35) 
+		</sentence>
+		<sentence id="26">
+			The(1) ride(2) is(3) very(4) smooth(5) while(6) still(7) giving(8) you(9) information(10) about(11) the(12) road(13) through(14) the(15) steering(16) wheel(17) --(18) and(19) that(20) 's(21) another(22) big(23) pro(24) .(25) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="27">
+			The(1) steering(2) is(3) very(4) easy(5) ,(6) responsive(7) ,(8) and(9) VERY(10) ,(11) VERY(12) well(13) balanced(14) .(15) 
+			<opinion polarity="+" feature="steering" featWords="2" opWords="13,14"/>
+			<opinion polarity="+" feature="steering" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="steering" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="28">
+			While(1) alone(2) on(3) Highway(4) 183(5) ,(6) at(7) 55(8) mph(9) ,(10) I(11) took(12) my(13) hands(14) off(15) of(16) the(17) steering(18) wheel(19) to(20) see(21) how(22) long(23) I(24) could(25) stay(26) in(27) my(28) lane(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			It(1) drove(2) straight(3) and(4) true(5) for(6) about(7) 1/4(8) of(9) a_mile(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			Now(1) the(2) con(3) :(4) Whenever(5) I(6) take(7) my(8) foot(9) off(10) the(11) gas(12) after(13) accelerating(14) sharply(15) ,(16) the(17) car(18) jerks(19) forward(20) quite(21) violently(22) .(23) 
+			<opinion polarity="-" feature="car" featWords="18" opWords="19" potency="22"/>
+		</sentence>
+		<sentence id="31">
+			It(1) feels(2) as_if(3) Superman(4) kicked(5) the(6) back(7) of(8) my(9) seat(10) all(11) of(12) a(13) sudden(14) ,(15) which(16) brings(17) me(18) to(19) my(20) other(21) con(22) .(23) 
+		</sentence>
+		<sentence id="32">
+			The(1) transmission(2) .(3) 
+		</sentence>
+		<sentence id="33">
+			Honda(1) has(2) trouble(3) making(4) good-shifting(5) automatics(6) .(7) 
+		</sentence>
+		<sentence id="34">
+			I(1) remember(2) driving(3) my(4) dad(5) 's(6) 1980(7) GMC(8) pickup(9) that(10) shifted(11) a(12) little(13) better(14) than(15) this(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			It(1) seems(2) as_if(3) the(4) transmission(5) is(6) waking(7) up(8) from(9) a(10) daydream(11) every(12) time(13) there(14) 's(15) a(16) change(17) in(18) speed(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) Auto(16) ,(17) Leather(18) ,(19) Tilt(20) ,(21) Moonroof(22) ,(23) CD(24) ,(25) ABS(26) 
+		</sentence>
+	</text>
+</review>

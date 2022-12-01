@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="221" item="Sony MDR-NC5 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Very_Good(1) for(2) the(3) $(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Portability(1) ,(2) Good_Sound(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tiny(1) bit(2) uncomfortable(3) ,(4) Does(5) not(6) ,(7) by(8) any(9) means(10) ,(11) "(12) cancel(13) "(14) noise(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="3" potency="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) headphones(4) at(5) an(6) incredibly(7) low(8) price(9) ,(10) so(11) my(12) expectations(13) were(14) not(15) incredibly(16) high(17) to(18) begin(19) with(20) .(21) 
+			<opinion polarity="+" feature="price" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="2">
+			Just(1) wanted(2) a(3) pair(4) of(5) noise(6) cancelling(7) phones(8) ,(9) because(10) the(11) bulk(12) of(13) my(14) listening(15) takes(16) place(17) walking(18) the(19) streets(20) of(21) New_York_City(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			I(1) did(2) not(3) expect(4) to(5) be(6) in(7) my(8) own(9) little(10) world(11) when(12) I(13) slipped(14) these(15) babies(16) on(17) ,(18) I(19) just(20) wanted(21) to(22) make(23) it(24) a(25) little(26) quieter(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) did(3) not(4) disappoint(5) me(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			However(1) they(2) should(3) not(4) be(5) titled(6) "(7) noise(8) cancelling(9) ,(10) "(11) they(12) should(13) be(14) called(15) "(16) noise(17) reducing(18) .(19) "(20) I(21) have(22) tried(23) the(24) Bose(25) NC2(26) 's(27) and(28) these(29) are(30) nowhere(31) near(32) those(33) ,(34) but(35) for(36) about(37) $260(38) less(39) they(40) will(41) do(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) a(3) little(4) distortion(5) on(6) higher(7) volumes(8) ,(9) but(10) since(11) you(12) do(13) not(14) need(15) to(16) listen(17) to(18) them(19) very(20) high(21) in(22) most(23) conditions(24) ,(25) you(26) rarely(27) get(28) up(29) there(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) extremely(3) portable(4) and(5) fold(6) up(7) quite(8) nicely(9) as_well(10) .(11) 
+			<opinion polarity="+" feature="portability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			Overall(1) ,(2) I(3) am(4) very(5) pleased(6) and(7) got(8) exactly(9) what(10) I(11) expected(12) .(13) 
+		</sentence>
+	</text>
+</review>

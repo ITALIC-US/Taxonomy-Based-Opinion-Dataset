@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="616" item="2003 Honda Pilot" rating="2">
+	<title>
+		<sentence id="1">
+			Honda_Pilot(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			SUV(1) on(2) Odyssey(3) body(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			REALLY(1) only(2) room(3) for(4) FOUR(5) people(6) comfortably(7) !(8) !(9) !(10) !(11) ((12) no(13) matter(14) what(15) they(16) say(17) .(18) .(19) read(20) on(21) )(22) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			REALLY(1) only(2) room(3) for(4) FOUR(5) adult-size(6) people(7) comfortably(8) !(9) !(10) !(11) !(12) ((13) no(14) matter(15) what(16) they(17) say(18) .(19) .(20) read(21) on(22) )(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) forward(4) to(5) test(6) driving(7) this(8) new(9) car(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) seen(3) the(4) brochures(5) and(6) was(7) waiting(8) for(9) it(10) to(11) arrive(12) at(13) the(14) dealership(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) finallly(3) got(4) in(5) and(6) drove(7) it(8) ,(9) I(10) was(11) thinking(12) ,(13) not(14) bad(15) ,(16) not(17) bad(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="17,18"/>
+			<opinion polarity="+" feature="car" opWords="14,15"/>
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) when(3) we(4) got(5) back(6) to(7) the(8) dealer(9) and(10) started(11) looking(12) at(13) it(14) more(15) closely(16) ,(17) then(18) I(19) made(20) some(21) discoveries(22) .(23) 1(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Front(1) seats(2) are(3) comfortable(4) for(5) the(6) driver(7) and(8) passenger(9) .(10) 2(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Middle(1) ((2) second(3) )(4) set(5) of(6) seats(7) are(8) comfortable(9) for(10) the(11) passengers(12) on(13) the(14) outsides(15) ((16) near(17) both(18) doors(19) )(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) if(3) you(4) happen(5) to(6) be(7) stuck(8) in(9) the(10) center(11) seat(12) between(13) these(14) other(15) two(16) passengers(17) ,(18) be(19) prepared(20) for(21) a(22) broken(23) back(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			You(1) are(2) sitting(3) up(4) against(5) a(6) tray(7) table(8) with(9) limited(10) padding(11) on(12) the(13) back(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) like(3) sitting(4) against(5) a(6) rock(7) .(8) 3(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) back(2) seat(3) is(4) useless(5) for(6) anyone(7) over(8) 11(9) .(10) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			My(1) teenage(2) son(3) got(4) in(5) the(6) back(7) and(8) could(9) just(10) about(11) fit(12) his(13) legs(14) in(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			His(1) knees(2) were(3) up(4) against(5) the(6) second(7) seat(8) ,(9) even(10) with(11) it(12) moved(13) up(14) .(15) 4(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) NO_TRUNK(3) space(4) unless(5) you(6) put(7) the(8) third(9) seat(10) down(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) think(2) MAYBE(3) you(4) could(5) get(6) in(7) four(8) to(9) five(10) grocery(11) bags(12) ,(13) fully(14) packed(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			We(1) like(2) to(3) take(4) long(5) trips(6) several(7) times(8) a(9) year(10) and(11) thought(12) the(13) Pilot(14) would(15) be(16) a(17) good(18) choice(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			Also(1) ,(2) we(3) often(4) take(5) several(6) hockey(7) team(8) players(9) with(10) us(11) to(12) a(13) game(14) and(15) "(16) commute(17) "(18) with(19) the(20) other(21) parents(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			There(1) is(2) NO_WAY(3) THAT(4) YOU_CAN_PUT_HOCKEY_BAGS_IN(5) THAT(6) CAR_UNLESS_THERE_ARE_ONLY(7) FOUR(8) PASSENGERS(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			So(1) ,(2) therefore(3) ,(4) there(5) is(6) no(7) way(8) you(9) can(10) put(11) luggage(12) in(13) that(14) car(15) unless(16) there(17) are(18) only(19) four(20) passengers(21) too(22) ,(23) which(24) means(25) that(26) you(27) are(28) paying(29) big(30) bucks(31) for(32) a(33) car(34) with(35) limited(36) comfortable(37) seating(38) and(39) limited(40) space(41) .(42) 
+			<opinion polarity="+" feature="seat" featWords="38" opWords="37"/>
+		</sentence>
+		<sentence id="19">
+			Sorry(1) ,(2) Honda(3) ,(4) I(5) was(6) ready(7) to(8) buy(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			Now_I(1) 'm(2) still(3) looking(4) .(5) 
+		</sentence>
+		<sentence id="21">
+			I(1) had(2) an(3) Odyssey(4) minivan(5) and(6) it(7) had(8) all(9) the(10) features(11) I(12) want(13) ,(14) EXCEPT(15) FOUR(16) WHEEL_DRIVE(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			When(1) the(2) Odyssey(3) comes(4) out(5) with(6) four(7) wheel(8) drive(9) ,(10) with(11) all(12) of(13) its(14) space(15) ,(16) I(17) 'll(18) be(19) first(20) in(21) line(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 31,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) automatic(16) 
+		</sentence>
+	</text>
+</review>

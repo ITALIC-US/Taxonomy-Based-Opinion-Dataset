@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="606" item="2000 Toyota Sienna" rating="3">
+	<title>
+		<sentence id="1">
+			Uncomfortable(1) seat(2) ,(3) ready(4) to(5) go(6) back(7) to(8) GM(9) vehicles(10) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) ride(2) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) seats(2) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) 6(2) months(3) of(4) narrowing(5) our(6) search(7) down(8) ,(9) my(10) husband(11) and(12) I(13) finally(14) decided(15) on(16) the(17) Sienna(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			We(1) test(2) drove(3) it(4) twice(5) and(6) I(7) sat(8) in(9) the(10) driver(11) 's(12) seat(13) on(14) 3(15) different(16) occasions(17) since(18) I(19) was(20) going(21) to(22) be(23) the(24) primary(25) driver(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) a(3) bad(4) lower(5) back(6) and(7) have(8) to(9) be(10) picky(11) about(12) car(13) seats(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			After(1) sitting(2) in(3) the(4) van(5) 3_times(6) and(7) assured(8) by(9) our(10) Toyota(11) salesman(12) that(13) the(14) seats(15) were(16) orthopedically(17) designed(18) ,(19) even_though(20) there(21) is(22) no(23) lumbar(24) support(25) ,(26) we(27) decided(28) to(29) buy(30) the(31) Sienna(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			After(1) 3(2) days(3) of(4) commuting(5) to(6) work(7) in(8) the(9) van(10) I(11) noticed(12) my(13) right(14) leg(15) kept(16) going(17) numb(18) if(19) I(20) was(21) in(22) the(23) seat(24) for(25) more(26) than(27) 30(28) minutes(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			Two(1) months(2) later(3) I(4) still(5) have(6) numbness(7) in(8) my(9) right(10) leg(11) whenever(12) I(13) 'm(14) in(15) the(16) car(17) for(18) more(19) than(20) 30(21) minutes(22) at(23) a(24) time(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			We(1) also(2) have(3) had(4) it(5) in(6) the(7) shop(8) 3_times(9) over(10) the(11) course(12) of(13) 2(14) months(15) ,(16) each(17) time(18) for(19) the(20) power(21) sliding(22) door(23) and(24) also(25) for(26) a(27) leaky(28) windshield(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			I(1) do(2) like(3) the(4) smooth(5) ride(6) of(7) the(8) van(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) ready(3) to(4) go(5) back(6) to(7) GM(8) at(9) this(10) point(11) !(12) 
+		</sentence>
+	</text>
+</review>

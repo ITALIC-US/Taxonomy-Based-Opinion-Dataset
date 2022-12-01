@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="905" item="2001 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			Abandon(1) all(2) Hope(3) ,(4) Those(5) that(6) buy(7) this(8) car(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Defectomobile(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			My(1) father(2) was(3) a(4) service(5) manager(6) at(7) a(8) car(9) dealership(10) for(11) 30(12) years(13) and(14) I(15) 've(16) never(17) seen(18) a(19) car(20) built(21) this(22) poorly(23) .(24) 
+			<opinion polarity="-" feature="car" featWords="20" opWords="21,23"/>
+		</sentence>
+		<sentence id="2">
+			Buy(1) one(2) and(3) suffer(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) vehicle(2) 's(3) drivetrain(4) is(5) malfunctioning(6) at(7) less(8) than(9) 18000_miles(10) .(11) 
+			<opinion polarity="-" feature="drive" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			My(1) wife(2) is(3) a(4) schoolteacher(5) and(6) drives(7) less(8) than(9) 5_miles(10) to(11) work(12) every(13) day(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) the(3) Subaru(4) for(5) its(6) all(7) wheel(8) drive(9) and(10) have(11) become(12) a(13) victim(14) of(15) no-wheel(16) drive(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) is(3) too(4) dangerous(5) for(6) my(7) wife(8) to(9) drive(10) to(11) work(12) ,(13) so(14) I(15) started(16) driving(17) it(18) too(19) the(20) train(21) station(22) in(23) the(24) morning(25) .(26) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			It(1) cant(2) make(3) that(4) arduous(5) journey(6) without(7) a(8) malfunction(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Vehicle(1) malfunctions(2) causing(3) the(4) car(5) to(6) quit(7) at(8) speed(9) in(10) traffic(11) include(12) :(13) A(14) timing(15) belt(16) that(17) just(18) plain(19) broke(20) at(21) 17000_miles(22) A(23) complete(24) failure(25) of(26) the(27) engine(28) control(29) module(30) Other(31) fun(32) failures(33) ;(34) Catalytic(35) converter(36) ,(37) exhaust(38) ,(39) and(40) electric(41) windows(42) .(43) 
+		</sentence>
+		<sentence id="7">
+			Buy_a_Subaru(1) at(2) your(3) peril(4) Amount_Paid(5) ((6) US(7) $(8) )(9) :(10) 20000(11) Condition(12) :(13) NewModel_Year(14) :(15) 2001(16) 
+		</sentence>
+	</text>
+</review>

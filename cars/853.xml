@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="853" item="1999 Saturn SL" rating="2">
+	<title>
+		<sentence id="1">
+			Saturn_SL(1) ((2) Sucks(3) Lots(4) )(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			safe(1) car(2) to(3) be(4) in(5) an(6) accident(7) 
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			you(1) 're(2) probably(3) the(4) cause(5) of(6) the(7) accident(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Drive(1) very(2) slowly(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Good(1) car(2) to(3) be(4) in(5) if(6) you(7) 're(8) going(9) to(10) crash(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) car(2) has(3) the(4) worst(5) handling(6) and(7) traction(8) I(9) 've(10) ever(11) experience(12) in_$12,000(13) or(14) less(15) passenger(16) economy(17) car(18) .(19) 
+			<opinion polarity="-" feature="handling" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) money(3) ,(4) buy(5) a(6) Honda(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) actually(3) caused(4) me(5) to(6) get(7) into(8) my(9) first(10) accident(11) because_of(12) it(13) 's(14) poor(15) handling(16) .(17) 
+			<opinion polarity="-" feature="handling" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) front-wheel(3) drive(4) which(5) is(6) supposed(7) to(8) be(9) a(10) good(11) thing(12) in(13) bad(14) weather(15) /(16) road(17) conditions(18) ,(19) but(20) the(21) front(22) wheels(23) tend(24) to(25) skip(26) off(27) the(28) road(29) when(30) accelerating(31) or(32) braking(33) on(34) any(35) type(36) of(37) pavement(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			It(1) causes(2) you(3) to(4) skid(5) ((6) in(7) air(8) )(9) where(10) any(11) other(12) car(13) would(14) not(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) driven(3) several(4) thousand(5) miles(6) on(7) similar(8) classed(9) cars(10) and(11) this(12) one(13) is(14) pathetically(15) inadequate(16) by(17) comparison(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			I(1) hated(2) this(3) car(4) and(5) I(6) 'm(7) glad(8) my(9) lease(10) is(11) up(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 11035(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) SL(16) no(17) extras(18) 
+		</sentence>
+	</text>
+</review>

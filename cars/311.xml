@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="311" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			When(1) you(2) need(3) to(4) get(5) from(6) A(7) to(8) B(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) ride(2) ,(3) very(4) reliable(5) 
+			<opinion polarity="+" feature="reliability" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) are(2) getting(3) a_bit(4) pricey(5) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) used(4) Honda_Civic(5) back(6) in_1993(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) had(2) no(3) radio(4) or(5) air(6) conditioning(7) ,(8) but(9) it(10) got(11) me(12) from(13) point(14) A(15) to(16) B._I(17) think(18) it(19) had(20) about(21) 100,000_miles(22) on(23) it(24) when(25) I(26) got(27) it(28) ,(29) as(30) it(31) was(32) about(33) 5(34) years(35) old(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			Now(1) this(2) model(3) was(4) not(5) a(6) DX(7) ,(8) did(9) not(10) even(11) have(12) any(13) letters(14) after(15) the(16) Civic(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) your(3) basic(4) 2(5) door(6) hatchback(7) that(8) looked(9) small(10) enough(11) that(12) all(13) you(14) had(15) to(16) do(17) was(18) put(19) a(20) penny(21) in(22) the(23) back(24) and(25) it(26) would(27) go(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) so(3) small(4) you(5) could(6) fold(7) a(8) spare(9) Civic(10) in(11) have(12) and(13) stick(14) it(15) in(16) the(17) glove(18) compartment(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Now(1) "(2) Red(3) "(4) ,(5) as(6) I(7) called(8) it(9) ,(10) had(11) no(12) power(13) steering(14) so_that(15) made(16) driving(17) interesting(18) ,(19) especially(20) in(21) the(22) snow(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			But(1) let(2) me(3) tell(4) you(5) ,(6) that(7) little(8) beast(9) could(10) handle(11) anything(12) !(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) drove(2) it(3) over(4) a_hundred_miles(5) a(6) day(7) on(8) a(9) paper(10) route(11) ((12) hey(13) ,(14) I(15) was(16) in(17) college(18) )(19) plus(20) the(21) regular(22) running(23) around(24) that(25) any(26) college(27) student(28) /(29) single(30) parent(31) did(32) .(33) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) took(3) a(4) beating(5) and(6) them(7) some(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			After(1) a(2) year(3) it(4) did(5) need(6) a(7) new(8) alternator(9) ,(10) but(11) after(12) the(13) way(14) I(15) treated(16) it(17) I(18) can(19) completely(20) understand(21) it(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			Unfortunately(1) the(2) starter(3) went(4) not(5) too(6) long(7) after(8) I(9) replaced(10) the(11) alternator(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Being(1) short(2) on(3) funds(4) and(5) not(6) knowing(7) much(8) about(9) cars(10) ,(11) I(12) let(13) some(14) well(15) meaning(16) friends(17) talk(18) me(19) into(20) letting(21) it(22) go(23) for(24) a(25) song(26) .(27) 
+		</sentence>
+		<sentence id="13">
+			That(1) was(2) a(3) great(4) mistake(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) been(3) in(4) the(5) newer(6) Civics(7) ,(8) and(9) I(10) must(11) say(12) that(13) they(14) are(15) very(16) nice(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			They(1) have(2) the(3) options(4) like(5) air(6) ,(7) power(8) steering(9) and(10) a(11) radio(12) that(13) at(14) one(15) time(16) were(17) luxuries(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			My(1) friend(2) that(3) has(4) one(5) loves(6) it(7) ,(8) and(9) will(10) probably(11) keep(12) it(13) for(14) at_least(15) 5(16) more(17) years(18) if(19) she(20) is(21) smart(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="7" featRef="car" opWords="6"/>
+		</sentence>
+		<sentence id="17">
+			I(1) know(2) am(3) married(4) to(5) a(6) guy(7) that(8) can(9) fix(10) about(11) anything(12) .(13) ((14) That(15) was(16) one(17) of(18) his(19) pick(20) up(21) lines(22) ,(23) and(24) I(25) really(26) did(27) not(28) believe(29) it(30) at(31) first(32) ...(33) but(34) it(35) is(36) true(37) !(38) )(39) He(40) is(41) a(42) fan(43) of(44) American(45) cars(46) .(47) 
+		</sentence>
+		<sentence id="18">
+			Well(1) ,(2) that(3) is(4) fine(5) ,(6) because(7) I(8) do(9) like(10) them(11) as_well(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			However(1) ,(2) if(3) he(4) was(5) not(6) car(7) savvy(8) I(9) would(10) stick(11) to(12) just(13) Hondas(14) ,(15) Mazdas(16) and(17) Nissans(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			Having(1) owning(2) all(3) three(4) ,(5) in_addition(6) to(7) Dodges(8) ,(9) Fords(10) and(11) Jeeps_I(12) found(13) them(14) much(15) more(16) reliable(17) for(18) some(19) one(20) that(21) does(22) not(23) know(24) much(25) about(26) cars(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) want(3) to(4) spend(5) about(6) $13,000(7) ((8) automatic(9) )(10) or(11) $12,000(12) ((13) standard(14) )(15) you(16) can(17) get(18) a(19) nice(20) DX(21) with(22) AM(23) /(24) FM(25) stereo(26) ,(27) rear(28) window(29) wiper(30) /(31) washer(32) ,(33) dual(34) airbags(35) ,(36) and(37) with(38) 16(39) valve(40) engine(41) .(42) 
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) a(3) nice(4) package(5) ,(6) but(7) for(8) over(9) $10,000(10) I(11) would(12) prefer(13) a(14) four(15) door(16) .(17) 
+			<opinion polarity="+" feature="package" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			I(1) must(2) admit(3) that(4) I(5) prefer(6) older(7) cars(8) that(9) a(10) "(11) shady(12) tree(13) "(14) mechanic(15) like(16) my(17) husband(18) can(19) work(20) on(21) .(22) 
+		</sentence>
+	</text>
+</review>

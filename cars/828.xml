@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="828" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			Bad_Choice(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfort(1) ,(2) Style(3) and(4) DVD(5) for(6) the(7) kids(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) electrical(2) that(3) can(4) go(5) wrong(6) has(7) gone(8) wrong(9) !(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) have(2) had(3) the(4) Uplander(5) for(6) a(7) full(8) year(9) and(10) have(11) not(12) been(13) pleased(14) with(15) it(16) at(17) all(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="12,14"/>
+		</sentence>
+		<sentence id="2">
+			We(1) chose(2) the(3) Uplander(4) over(5) the(6) Toyota(7) because_of(8) always(9) owning(10) GM(11) products(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) they(3) have(4) let(5) us(6) down(7) on(8) this(9) one(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Big_Time(1) .(2) 
+		</sentence>
+		<sentence id="5">
+			Multiple(1) electrical(2) problems(3) such(4) as(5) the(6) headlights(7) flickering(8) ,(9) the(10) radio(11) changing(12) channels(13) ,(14) the(15) gas(16) gauge(17) not(18) working(19) ,(20) engine(21) ,(22) abs(23) ,(24) and(25) traction(26) control(27) warning(28) lights(29) coming(30) on(31) and(32) multiple(33) trips(34) to(35) the(36) dealer(37) with(38) no(39) results(40) .(41) 
+			<opinion polarity="-" feature="gauges" featWords="17" opWords="18,19"/>
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005(12) 
+		</sentence>
+	</text>
+</review>

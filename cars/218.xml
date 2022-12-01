@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="218" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) car(2) Bad(3) company(4) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Better(1) value(2) ,(3) practical(4) improvements(5) ,(6) very(7) ergonomic(8) ,(9) power(10) ,(11) price(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Customer(1) service(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) &(3) I(4) just(5) bought(6) a(7) new(8) 2000(9) Nissan_Maxima_SE(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) fantastic(4) !(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			But(1) ,(2) our(3) purchasing(4) experience(5) was(6) a(7) nightmare(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) first(2) considered(3) a(4) Toyota_Camry(5) V6(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) tough(3) to(4) beat(5) since(6) the(7) Camry(8) is(9) very(10) reliable(11) and(12) has(13) great(14) ratings(15) and(16) reviews(17) .(18) 
+			<opinion polarity="+" feature="reliability" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="6">
+			Our(1) first(2) car(3) was(4) a(5) Honda_Accord(6) so(7) we(8) had(9) that(10) to(11) compare(12) to(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Toyota_&_Honda(1) were(2) companies(3) that(4) we(5) respected(6) because_of(7) their(8) commitment(9) to(10) quality(11) and(12) customer(13) service(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			We(1) know(2) of(3) several(4) people(5) with(6) bad(7) experiences(8) with(9) their(10) Nissans(11) so(12) we(13) were(14) skeptical(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) won(3) us(4) over(5) when(6) we(7) looked(8) at(9) the(10) better(11) styling(12) and(13) the(14) improved(15) engine(16) as_well(17) as(18) the(19) very(20) competitive(21) price(22) ((23) just(24) slightly(25) more(26) than(27) the(28) top(29) of(30) the(31) line(32) Camry(33) )(34) .(35) 
+			<opinion polarity="+" feature="price" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="10">
+			The(1) re-designed(2) interior(3) is(4) very(5) well(6) thought(7) and(8) out(9) and(10) makes(11) it(12) very(13) easy(14) to(15) reach(16) the(17) radio(18) /(19) cd(20) player(21) dash(22) or(23) the(24) temperature(25) controls(26) without(27) distracting(28) from(29) the(30) road(31) .(32) 
+			<opinion polarity="+" feature="interior" featWords="3" opWords="6,7"/>
+		</sentence>
+		<sentence id="11">
+			A(1) very(2) big(3) selling(4) point(5) was(6) the(7) interior(8) space(9) -(10) the(11) increased(12) headroom(13) really(14) makes(15) a(16) difference(17) if(18) you(19) 're(20) tall(21) ((22) I(23) 'm(24) 6(25) '(26) tall(27) )(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			We(1) liked(2) the(3) car(4) enough(5) to(6) trust(7) Nissan(8) by(9) purchasing(10) the(11) car(12) before(13) it(14) had(15) even(16) arrived(17) at(18) the(19) dealership(20) ((21) Oakland(22) ,(23) CA(24) )(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			We(1) were(2) anxious(3) to(4) see(5) our(6) new(7) Maxima(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			For(1) some(2) reason(3) the(4) car(5) did(6) not(7) arrive(8) when(9) we(10) were(11) told(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			We(1) then(2) found(3) out(4) that(5) Nissan(6) 's(7) trucker(8) had(9) delivered(10) our(11) car(12) to(13) another(14) dealership(15) in(16) Sacramento(17) ((18) 2(19) hours(20) away(21) by(22) car(23) )(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			It(1) went(2) down(3) hill(4) from(5) there(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			It(1) turned(2) out(3) it(4) was(5) not(6) another(7) dealership(8) but(9) an(10) Alamo_Car_Rental(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			It(1) gets(2) worse(3) .(4) 
+		</sentence>
+		<sentence id="19">
+			The(1) manager(2) of(3) the(4) Alamo_Car_Rental(5) saw(6) the(7) car(8) in(9) the(10) lot(11) and(12) was(13) so(14) impressed(15) he(16) decided(17) to(18) take(19) it(20) home(21) and(22) use(23) it(24) as(25) his(26) personal(27) car(28) for(29) a(30) few(31) days(32) !(33) 
+		</sentence>
+		<sentence id="20">
+			Nissan(1) finally(2) tracked(3) the(4) car(5) down(6) and(7) got(8) the(9) car(10) back(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			When(1) we(2) picked(3) up(4) the(5) car(6) ,(7) it(8) had(9) over(10) 50_miles(11) on(12) it(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			Nissan(1) offered(2) us(3) an(4) extended(5) warranty(6) to(7) compensate(8) for(9) that(10) whole(11) snafu(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			It(1) does(2) not(3) end(4) there(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			When(1) we(2) got(3) the(4) car(5) home(6) ,(7) an(8) unsightly(9) white(10) hazy(11) film(12) had(13) developed(14) all(15) over(16) the(17) car(18) ((19) we(20) chose(21) the(22) black(23) color(24) )(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			Each(1) time(2) I(3) wiped(4) it(5) off(6) ,(7) it(8) would(9) form(10) again(11) within(12) minutes(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			This(1) happened(2) for(3) the(4) next(5) 3(6) days(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			The(1) dealer(2) could(3) not(4) explain(5) why(6) this(7) was(8) happening(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			I(1) brought(2) the(3) car(4) back(5) twice(6) to(7) the(8) dealership(9) and(10) both(11) times(12) they(13) tried(14) using(15) a(16) chemical(17) to(18) remove(19) whatever(20) was(21) causing(22) he(23) film(24) but(25) that(26) did(27) not(28) work(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			After(1) 4(2) visits(3) to(4) the(5) dealer(6) ,(7) we(8) end(9) up(10) with(11) a(12) car(13) that(14) has(15) had(16) the(17) hood(18) and(19) the(20) front(21) bumper(22) swapped(23) with(24) 2(25) different(26) black(27) Maximas(28) and(29) still(30) a_bit(31) of(32) haze(33) on(34) the(35) side(36) front(37) fenders(38) .(39) 
+		</sentence>
+		<sentence id="30">
+			The(1) dealer(2) would(3) not(4) do(5) anything(6) more(7) to(8) make(9) up(10) for(11) the(12) time(13) &(14) frustration(15) of(16) having(17) to(18) bring(19) the(20) car(21) back(22) so(23) many(24) times(25) and(26) the(27) whole(28) horrible(29) experience(30) .(31) 
+		</sentence>
+		<sentence id="31">
+			The(1) car(2) is(3) great(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="32">
+			But(1) watch(2) out(3) when(4) trying(5) to(6) buy(7) it(8) !(9) 
+		</sentence>
+	</text>
+</review>

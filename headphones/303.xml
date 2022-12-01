@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="303" item="Sennheiser HD 202 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			I(1) was(2) skeptical(3) about(4) the(5) price(6) but(7) ...(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) bass(2) ,(3) good(4) outside(5) noise(6) blocking(7) ,(8) lightweight(9) ,(10) long(11) cord(12) ,(13) good(14) SQ(15) ,(16) comfortable(17) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="6,7" opWords="4"/>
+			<opinion polarity="+" feature="weight" opWords="9"/>
+			<opinion polarity="+" feature="cord" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="sound quality" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="comfort" opWords="17"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) hissing(2) and(3) bad(4) THD(5) at(6) high(7) volumes(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Grab(1) it(2) if(3) you(4) want(5) good(6) SQ(7) and(8) do(9) not(10) want(11) to(12) spend(13) too(14) much(15) money(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) are(2) really(3) good(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) not(3) listen(4) at(5) extremely(6) loud(7) volumes(8) so(9) the(10) distortion(11) is(12) no(13) problem(14) to(15) me(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) probably(3) the(4) best(5) pair(6) of(7) headphones(8) I(9) 've(10) ever(11) owned(12) ((13) also(14) most(15) expensive(16) )(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="8" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) looking(4) for(5) a(6) replacement(7) from(8) the(9) headphones(10) your(11) walkman(12) came(13) with(14) or(15) an(16) outside(17) 20_dollar(18) headphones(19) ,(20) this(21) is(22) what(23) you(24) want(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			At(1) first(2) ,(3) they(4) were(5) crushing(6) my(7) ears(8) because(9) it(10) was(11) too(12) big(13) for(14) my(15) head(16) but(17) after(18) sliding(19) and(20) adjusting(21) the(22) earpieces(23) up(24) and(25) down(26) to(27) fit(28) ,(29) they(30) were(31) very(32) snuggy(33) and(34) comfortable(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			The(1) padding(2) is(3) made(4) of(5) stuffed(6) leather(7) and(8) the(9) overall(10) construction(11) is(12) made(13) of(14) plastic(15) ,(16) for(17) flexibility(18) .(19) 
+			<opinion polarity="+" feature="earpads" featWords="2" opWords="4,5,6,7"/>
+		</sentence>
+		<sentence id="7">
+			Very(1) lightweight(2) and(3) does(4) not(5) put(6) any(7) stress(8) on(9) your(10) head(11) .(12) 
+			<opinion polarity="+" feature="weight" opWords="2" potency="1"/>
+		</sentence>
+	</text>
+</review>

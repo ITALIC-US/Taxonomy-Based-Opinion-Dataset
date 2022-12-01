@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="733" item="2005 Ford Mustang" rating="1">
+	<title>
+		<sentence id="1">
+			2005(1) Mustang(2) V6(3) Convertible(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) car(2) ,(3) decent(4) power(5) ,(6) top(7) goes(8) down(9) .(10) 
+			<opinion polarity="+" feature="horsepower" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poorly(2) assembled(3) .(4) 
+			<opinion polarity="-" feature="car" opWords="2,3" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Will(1) it(2) run(3) in_2008(4) ?(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) rented(3) one(4) of(5) these(6) for(7) a(8) week(9) in(10) Vegas(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Cute(1) car(2) ,(3) good(4) power(5) .(6) 
+			<opinion polarity="+" feature="horsepower" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Everyone(1) looked(2) and(3) pointed(4) ,(5) and(6) it(7) was(8) great(9) blasting(10) across(11) the(12) desert(13) in(14) it(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Build(1) quality(2) was(3) extremely(4) low(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) had(3) 5000_miles(4) on(5) it(6) and(7) the(8) top(9) NEVER(10) went(11) up(12) or(13) down(14) correctly(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Pieces(1) of(2) the(3) foot(4) well(5) kept(6) falling(7) off(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) drivers(2) window(3) would(4) go(5) up(6) ,(7) but(8) then(9) when(10) hitting(11) its(12) apogee(13) ,(14) would(15) automatically(16) roll(17) back(18) down(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			I(1) feel(2) this(3) is(4) unacceptable(5) for(6) a(7) car(8) built(9) in_2005(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			Fun(1) for(2) the(3) rental(4) but(5) I(6) would(7) never(8) buy(9) one(10) of(11) these(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 300(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) V6(16) convertible(17) 
+		</sentence>
+	</text>
+</review>

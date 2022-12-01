@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="633" item="2002 Subaru Impreza" rating="3">
+	<title>
+		<sentence id="1">
+			WRX(1) what(2) 's(3) all(4) the(5) fuss(6) about(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			AWD(1) ,(2) Stereo(3) ,(4) price(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Clutch(1) ,(2) lack(3) of(4) low(5) end(6) power(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) all(2) around(3) package(4) ,(5) but(6) at(7) this(8) point(9) in(10) my(11) life(12) I(13) want(14) a(15) car(16) that(17) does(18) not(19) make(20) me(21) work(22) so(23) hard(24) to(25) get(26) it(27) moving(28) .(29) 
+			<opinion polarity="+" feature="package" featWords="4" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) read(3) all(4) the(5) professional(6) and(7) amateur(8) reviews(9) on(10) the(11) Subaru_Imprezza_WRX_I(12) could(13) find(14) ,(15) and(16) 99_%(17) of(18) them(19) raved(20) about(21) the(22) car(23) being(24) the(25) greatest(26) thing(27) since(28) sliced(29) bread(30) .(31) 
+			<opinion polarity="+" feature="car" featWords="23" opWords="26"/>
+		</sentence>
+		<sentence id="2">
+			So(1) ,(2) naturally(3) I(4) could(5) not(6) wait(7) to(8) finally(9) test(10) drive(11) one(12) ,(13) and(14) to(15) be(16) frank(17) ,(18) I(19) was(20) not(21) impressed(22) .(23) 
+			<opinion polarity="-" feature="car" opWords="21,22"/>
+		</sentence>
+		<sentence id="3">
+			Sometimes(1) reality(2) can(3) not(4) match(5) the(6) hype(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			I(1) drove(2) two(3) seperate(4) WRX(5) sedans(6) in(7) the(8) course(9) of(10) a(11) day(12) and(13) after(14) months(15) of(16) dreaming(17) about(18) this(19) car(20) ,(21) I(22) came(23) to(24) the(25) hard(26) realization(27) that(28) this(29) car(30) ,(31) while(32) outstanding(33) on(34) paper(35) simply(36) in(37) my(38) opinion(39) did(40) not(41) live(42) up(43) to(44) it(45) 's(46) potential(47) and(48) was(49) not(50) going(51) to(52) be(53) the(54) car(55) I(56) spend(57) my(58) hard(59) earned(60) money(61) on(62) .(63) 
+			<opinion polarity="+" feature="car" featWords="30" opWords="33"/>
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) owned(3) a(4) turbo-charged(5) car(6) before(7) ((8) 89(9) Ford_Probe_GT(10) )(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			It(1) had(2) the(3) same(4) size(5) engine(6) ,(7) minus(8) DOHC(9) ,(10) 16(11) values(12) ,(13) intercooler(14) ,(15) among(16) other(17) things(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) was(3) an(4) absolute(5) blast(6) to(7) drive(8) on(9) the(10) highway(11) at(12) high(13) speeds(14) where(15) the(16) engine(17) was(18) high(19) in(20) the(21) RPM(22) band(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) WRX(2) gives(3) me(4) the(5) same(6) impression(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			When(1) driving(2) in(3) stop(4) and(5) go(6) traffic(7) ,(8) the(9) car(10) is(11) an(12) absolute(13) dog(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			It(1) has(2) simply(3) econo(4) car(5) power(6) until(7) you(8) get(9) in(10) the(11) higher(12) RPMs(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Even(1) then(2) though(3) I(4) did(5) not(6) feel(7) the(8) rocket(9) like(10) power(11) I(12) so(13) often(14) read(15) about(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Another(1) complain(2) I(3) have(4) with(5) the(6) car(7) is(8) it(9) 's(10) limp(11) clutch(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) clutch(2) is(3) as(4) limp(5) as(6) a(7) wet(8) noodle(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			I(1) prefer(2) a(3) clutch(4) that(5) offers(6) some(7) resistance(8) at_least(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			This(1) one(2) practically(3) goes(4) to(5) the(6) floor(7) on(8) it(9) 's(10) own(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			It(1) just(2) feels(3) weak(4) !(5) 
+			<opinion polarity="-" feature="car" featWords="1" featRef="car" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			The(1) AWD(2) impressed(3) with(4) it(5) 's(6) ability(7) to(8) offer(9) straight(10) takeoffs(11) ,(12) without(13) any(14) of(15) the(16) awful(17) torque-steer(18) so(19) many(20) front-wheelers(21) have(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="18">
+			But(1) unless(2) you(3) drive(4) like(5) a(6) banshee(7) in(8) the(9) rain(10) ,(11) or(12) live(13) in(14) the(15) part(16) of(17) the(18) country(19) that(20) it(21) does(22) rain(23) alot(24) ,(25) I(26) really(27) do(28) not(29) find(30) it(31) too(32) useful(33) ,(34) or(35) being(36) of(37) any(38) real(39) value(40) .(41) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) happy(3) with(4) the(5) car(6) 's(7) interior(8) for(9) the(10) most(11) part(12) .(13) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="3"/>
+		</sentence>
+		<sentence id="20">
+			Nice(1) stereo(2) ,(3) seats(4) ,(5) steering(6) wheel(7) .(8) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="21">
+			A(1) little(2) too(3) much(4) on(5) the(6) dark(7) side(8) though(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			I(1) am(2) glad(3) that(4) the(5) dealers(6) are(7) dropping(8) the(9) prices(10) on(11) the(12) WRX(13) 's(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			One(1) of(2) the(3) dealers(4) I(5) went(6) to(7) in(8) Austin(9) ,(10) can(11) not(12) get(13) rid(14) of(15) them(16) fast(17) enough(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			They(1) currently(2) have(3) about(4) 20(5) of(6) them(7) on(8) their(9) lot(10) ,(11) and(12) were(13) really(14) willing(15) to(16) offer(17) me(18) some(19) fantastic(20) payments(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			I(1) eventually(2) had(3) to(4) tell(5) them(6) that(7) this(8) just(9) was(10) not(11) the(12) car(13) for(14) me(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21800(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) WRX(16) sedan(17) ,(18) 5(19) speed(20) 
+		</sentence>
+	</text>
+</review>

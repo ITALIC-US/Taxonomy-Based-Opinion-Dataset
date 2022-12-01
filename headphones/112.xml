@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="112" item="Stanton DJ Pro 2000 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Decent(1) for(2) the(3) bedroom(4) DJ(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) quality(3) 50mm(4) drivers(5) Somewhat(6) comfortable(7) Decent(8) looks(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="7"/>
+			<opinion polarity="+" feature="appearance" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) build(2) quality(3) Low(4) volume(5) Poor(6) sound(7) isolation(8) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="volume" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="isolation" featWords="7,8" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bedroom(1) jocks(2) if(3) you(4) can(5) get(6) these(7) for(8) less(9) then(10) $65(11) they(12) 're(13) good(14) until(15) it(16) 's(17) time(18) to(19) play(20) out(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) 're(3) a(4) professional(5) DJ(6) buy(7) Pioneers(8) ,(9) Sonys(10) ,(11) Technics(12) ,(13) etc.(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) cans(4) being(5) an(6) avid(7) fan(8) of(9) Stanton(10) needles(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) impressed(3) with(4) the(5) sound(6) quality(7) and(8) the(9) comfort(10) ((11) comfort(12) for(13) side(14) monitoring(15) )(16) of(17) these(18) phones(19) for(20) the(21) price(22) but(23) I(24) was(25) very(26) disappointed(27) in(28) the(29) over(30) all(31) durability(32) of(33) them(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			As(1) for(2) the(3) sound(4) quality(5) the(6) sound(7) is(8) crisp(9) and(10) clear(11) and(12) the(13) frequency(14) response(15) was(16) close(17) to(18) flat(19) across(20) the(21) whole(22) range(23) .(24) 
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			As(1) a(2) set(3) of(4) phones(5) for(6) the(7) DJ(8) they(9) were(10) a_bit(11) lacking(12) in(13) the(14) bottom(15) end(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			AS(1) for(2) build(3) quality(4) my(5) first(6) pair(7) of(8) these(9) phones(10) quit(11) working(12) a(13) few(14) months(15) over(16) a(17) year(18) and(19) I(20) was(21) told(22) by(23) Stanton(24) that(25) they(26) were(27) no_longer(28) covered(29) under(30) the(31) warranty(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			After(1) sending(2) a(3) rather(4) unpleasant(5) email(6) Stanton(7) ,(8) to(9) their(10) credit(11) ,(12) did(13) replace(14) them(15) at(16) no(17) cost(18) to(19) me(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) not(3) had(4) any(5) problems(6) with(7) the(8) new(9) pair(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Another(1) problem(2) I(3) had(4) with(5) these(6) phones(7) was(8) the(9) lack(10) of(11) volume(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			On(1) more(2) then(3) one(4) occasion(5) playing(6) out(7) I(8) simply(9) did(10) not(11) have(12) enough(13) volume(14) and(15) sound(16) isolation(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			I(1) had(2) to(3) switch(4) headphones(5) after(6) mixing(7) only(8) a(9) couple(10) of(11) tracks(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			I(1) would(2) not(3) recommend(4) using(5) these(6) in(7) a(8) live(9) professional(10) environment(11) ,(12) however(13) ,(14) I(15) would(16) recommend(17) them(18) to(19) any(20) bedroom(21) DJ(22) as(23) long(24) as(25) you(26) can(27) get(28) them(29) for(30) under(31) $65.00(32) .(33) 
+		</sentence>
+		<sentence id="12">
+			Once(1) you(2) begin(3) playing(4) out(5) though(6) you(7) 'll(8) want(9) to(10) upgrade(11) to(12) a(13) better(14) pair(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Personally(1) I(2) use(3) the(4) Pioneer(5) HDJ-1000(6) which(7) is(8) just(9) about(10) as(11) close(12) to(13) the(14) perfect(15) pair(16) of(17) DJ(18) headphones(19) in(20) existence(21) .(22) 
+		</sentence>
+	</text>
+</review>

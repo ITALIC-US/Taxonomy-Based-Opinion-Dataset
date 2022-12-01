@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="472" item="Howard Johnson Inn - Chicago" rating="2">
+	<title>
+		<sentence id="1">
+			We(1) were(2) young(3) and(4) brave(5) ...(6) and(7) broke(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) location(3) ,(4) location(5) and(6) cheap(7) 
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) very(2) many(3) amenities(4) ,(5) a(6) little(7) shabby(8) .(9) 
+			<opinion polarity="-" feature="hotel" opWords="8" potency="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Although(1) we(2) appreciate(3) the(4) price(5) ,(6) I(7) probably(8) would(9) not(10) recommend(11) it(12) to(13) others(14) .(15) 
+			<opinion polarity="-" feature="hotel" featWords="12" featRef="hotel" opWords="10,11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) other(2) reviewer(3) was(4) dead(5) on(6) with(7) their(8) description(9) of(10) this(11) Howard_Johnson(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) pretty(3) much(4) bare(5) bones(6) --(7) as(8) they(9) said(10) ,(11) the(12) bedding(13) and(14) towels(15) are(16) about(17) as(18) simple(19) and(20) threadbare(21) as(22) you(23) can(24) get(25) ,(26) but(27) they(28) 've(29) always(30) been(31) clean(32) and(33) we(34) 've(35) stayed(36) here(37) a(38) number(39) of(40) times(41) .(42) 
+			<opinion polarity="+" feature="bedding" featWords="13" opWords="19"/>
+			<opinion polarity="-" feature="bedding" featWords="13" opWords="21"/>
+			<opinion polarity="+" feature="towels" featWords="15" opWords="19"/>
+			<opinion polarity="+" feature="towels" featWords="15" opWords="21"/>
+		</sentence>
+		<sentence id="3">
+			Sure(1) ,(2) the(3) bathroom(4) is(5) ANCIENT(6) and(7) there(8) are(9) water(10) stains(11) in(12) the(13) ceiling(14) ,(15) but(16) ,(17) again(18) ,(19) it(20) 's(21) always(22) been(23) clean(24) and(25) after(26) an(27) especially(28) bitter(29) cold(30) day(31) of(32) walking(33) on(34) and(35) to(36) /(37) from(38) Michigan_Avenue(39) ,(40) the(41) shower(42) was(43) nice(44) and(45) hot(46) .(47) 
+			<opinion polarity="+" feature="bathroom" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			And(1) just(2) to(3) comment(4) on(5) the(6) free(7) parking(8) ,(9) yes(10) ,(11) FREE_PARKING_IN_DOWNTOWN_CHICAGO(12) ,(13) my(14) husband(15) and(16) I(17) would(18) often(19) head(20) up(21) for(22) a(23) long(24) weekend(25) ,(26) get(27) there(28) on(29) a(30) Thursday_evening(31) ,(32) park(33) the(34) car(35) in(36) the(37) hotel(38) parking(39) lot(40) and(41) not(42) touch(43) it(44) until(45) we(46) checked(47) out(48) .(49) 
+			<opinion polarity="+" feature="parking" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			Meaning(1) ,(2) if(3) you(4) get(5) there(6) and(7) parking(8) is(9) full(10) ,(11) it(12) 's(13) full(14) and(15) you(16) are(17) out(18) of(19) luck(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Otherwise(1) ,(2) you(3) can(4) not(5) beat(6) it(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			We(1) walked(2) the(3) few(4) blocks(5) to(6) either(7) Michigan_Avenue(8) or(9) the(10) closest(11) "(12) L(13) "(14) station(15) and(16) just(17) got(18) around(19) Chicago(20) that(21) way(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) to(3) access(4) your(5) room(6) ,(7) you(8) need(9) your(10) room(11) key(12) to(13) access(14) the(15) hallway(16) from(17) the(18) outside(19) ,(20) so(21) there(22) is(23) a(24) plus(25) on(26) the(27) safety(28) issue(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) want(3) an(4) affordable(5) place(6) to(7) stay(8) in(9) Chicago(10) and(11) are(12) not(13) looking(14) for(15) all(16) the(17) bells(18) and(19) whistles(20) ,(21) then(22) check(23) out(24) this(25) HoJo(26) .(27) 
+			<opinion polarity="+" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			But(1) ,(2) if(3) you(4) are(5) used(6) to(7) more(8) tasteful(9) digs(10) ...(11) or(12) even(13) something(14) you(15) 'd(16) consider(17) '(18) average(19) '(20) ,(21) you(22) probably(23) will(24) not(25) be(26) happy(27) with(28) your(29) stay(30) here(31) .(32) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="110" item="Koss Pro3AA Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Koss(1) PRO-3AA(2) ,(3) niiiice(4) headphones(5) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) good(2) bass(3) reproducton(4) .(5) 
+			<opinion polarity="+" feature="bass" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			High(1) quality(2) sound(3) FULLY(4) encompasses(5) ear(6) !(7) !(8) !(9) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1,2"/>
+		</sentence>
+		<sentence id="3">
+			Quites(1) the(2) ambient(3) noise(4) !(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) are(2) a(3) liiiiiitle(4) tight(5) .(6) .(7) 
+			<opinion polarity="-" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			After(1) 8(2) hours(3) ,(4) your(5) ears(6) are(7) tired(8) .(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) very(4) nice(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) bass(2) is(3) very(4) clear(5) and(6) powerfull(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="bass" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) world(2) goes(3) away(4) when(5) you(6) put(7) these(8) headphones(9) on(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Much(1) better(2) than(3) my(4) Aiwa(5) headphones(6) .(7) 
+		</sentence>
+	</text>
+</review>

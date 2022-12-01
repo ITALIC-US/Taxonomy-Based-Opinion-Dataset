@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="681" item="2001 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			Beauty(1) or(2) Beast(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) ,(2) Comfortable(3) ,(4) Great_Tunes(5) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) Sports_Car(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Hi(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			I(1) traded(2) in(3) my(4) cherry(5) original-owner(6) 1984(7) Black_Jetta_GLI(8) when(9) the(10) engine(11) rebuild(12) showed(13) signs(14) of(15) wear(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Tempted(1) to(2) spring(3) for(4) a(5) 2001(6) Jetta(7) VR6(8) ,(9) I(10) decided(11) there(12) were(13) too(14) many(15) of(16) them(17) on(18) these(19) San_Francisco_East_Bay(20) streets(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			So(1) I(2) looked(3) at(4) a(5) Mazda_Protege_ES(6) ,(7) the(8) Honda_Civic_EX(9) ,(10) and(11) finally(12) a(13) 2001(14) Toyota_Corolla(15) "(16) S.(17) "(18) I(19) got(20) it(21) from(22) an(23) inexperienced(24) salesman(25) who(26) did(27) not(28) notice(29) Fremont_Toyota(30) 's(31) usual(32) $4k(33) "(34) dealer(35) markup(36) "(37) sticker(38) was(39) not(40) affixed(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			So(1) I(2) bought(3) it(4) with(5) a(6) 7.1_%(7) Federal_Credit_Union(8) loan(9) after(10) a(11) stupid(12) ,(13) rather(14) shady(15) misadventure(16) with(17) the(18) Toyota(19) loan(20) department(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) want(3) to(4) mention(5) what(6) they(7) gave(8) me(9) for(10) the(11) GLI(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			When(1) I(2) first(3) saw(4) the(5) S_I(6) liked(7) it(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			It(1) had(2) a(3) subtle(4) little(5) spoiler(6) with(7) that(8) "(9) third(10) eye(11) "(12) built(13) in(14) and(15) ,(16) thankfully(17) ,(18) the(19) stock(20) shelf-mounted(21) light(22) deactivated(23) and(24) concealed(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			I(1) also(2) liked(3) that(4) the(5) car(6) was(7) built(8) at(9) the(10) NUMMI(11) plant(12) in(13) Fremont(14) six_miles(15) away(16) ,(17) contributing(18) to(19) our(20) local(21) healthy(22) economy(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			It(1) burns(2) 20(3) cent-a-gallon(4) cheaper(5) fuel(6) and(7) gets(8) about(9) 30(10) mpg(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) black(2) and(3) grey(4) fabric(5) seats(6) seemed(7) supportive(8) enough(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) dash(2) lights(3) and(4) steering(5) wheel(6) were(7) much(8) cooler(9) than(10) any(11) Corolla_I(12) 'd(13) ever(14) seen(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			But(1) in(2) the(3) six(4) months(5) I(6) 've(7) driven(8) it(9) ,(10) with(11) about(12) 4200_miles(13) on(14) the(15) clock(16) ,(17) I(18) have(19) mixed(20) feelings(21) about(22) the(23) car(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			For(1) one(2) thing(3) ,(4) at(5) 5(6) '(7) 11(8) "(9) "(10) ,(11) 290(12) #(13) ,(14) I(15) 'm(16) a(17) big(18) dude(19) and(20) getting(21) in(22) and(23) out(24) of(25) this(26) thing(27) is(28) a(29) hassle(30) .(31) 
+		</sentence>
+		<sentence id="15">
+			Once(1) seated(2) ,(3) however(4) ,(5) the(6) headroom(7) is(8) most(9) adequate(10) .(11) 
+			<opinion polarity="+" feature="head room" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="16">
+			The(1) "(2) Indigo_Ink_Pearl(3) "(4) paint(5) is(6) handsome(7) .(8) 
+			<opinion polarity="+" feature="color" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="17">
+			The(1) Toyota(2) five-spoke(3) satin-alloy(4) wheels(5) set(6) it(7) apart(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			The(1) air(2) conditioning(3) works(4) great(5) and(6) the(7) CD(8) player(9) kicks(10) my(11) butt(12) !(13) 
+			<opinion polarity="+" feature="ac" featWords="2,3" opWords="4,5"/>
+		</sentence>
+		<sentence id="19">
+			The(1) downside(2) is(3) performance(4) .(5) 
+		</sentence>
+		<sentence id="20">
+			Compared(1) to(2) the(3) Jetta(4) ,(5) the(6) "(7) S(8) "(9) leans(10) and(11) rolls(12) like(13) a_real(14) pig(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			The(1) standard(2) engine(3) with(4) a(5) 4(6) speed(7) electronic(8) auto(9) transmission(10) is(11) no(12) match(13) for(14) the(15) Jetta(16) 's(17) wicked(18) responsiveness(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			Of(1) course(2) it(3) was(4) my(5) decision(6) to(7) forgo(8) a(9) 5(10) speed(11) for(12) the(13) auto(14) ,(15) due(16) to(17) my(18) bumper-to-bumper(19) Dumbarton_Bridge(20) commute(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			Guess(1) you(2) just(3) can(4) not(5) compare(6) the(7) two(8) at(9) the(10) Corolla(11) 's(12) price(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			So(1) what(2) I(3) 'm(4) saying(5) is(6) ,(7) I(8) 'm(9) living(10) with(11) my(12) decision(13) to(14) lose(15) the(16) fun-to-drive(17) but(18) no_longer(19) dependable(20) GLI(21) for(22) this(23) new(24) quiet(25) ,(26) more(27) comfortable(28) but(29) less(30) fun(31) to(32) drive(33) Corolla_S._Am_I(34) getting(35) old(36) ?(37) 
+			<opinion polarity="+" feature="car" opWords="17"/>
+			<opinion polarity="+" feature="car" opWords="25"/>
+		</sentence>
+	</text>
+</review>

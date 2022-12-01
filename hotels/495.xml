@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="495" item="Marriott Chicago O'Hare" rating="5">
+	<title>
+		<sentence id="1">
+			Chicago_Marriott_O'Hare(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) rate(2) ,(3) attractive(4) ,(5) comfortable(6) facility(7) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+			<opinion polarity="+" feature="facilities" featWords="7" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			one(1) bad(2) experience(3) with(4) a(5) restaurant(6) server(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			On(1) a(2) recent(3) visit(4) to(5) the(6) Chicago(7) area(8) ,(9) we(10) enjoyed(11) staying(12) at(13) this(14) hotel(15) for(16) four(17) nights(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			There(1) were(2) two(3) adults(4) and(5) two(6) nine(7) year(8) old(9) girls(10) in(11) our(12) party(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) booked(3) this(4) facility(5) because_of(6) their(7) "(8) Two(9) for(10) Breakfast(11) "(12) special(13) rate(14) -(15) a(16) room(17) with(18) two(19) double(20) beds(21) and(22) two(23) breakfast(24) buffets(25) in(26) their(27) "(28) Allie_'s_American_Grille(29) "(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) $99(2) per(3) night(4) rate(5) is(6) quite(7) good(8) for(9) the(10) Chicago(11) area(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			We(1) loved(2) the(3) appearance(4) of(5) the(6) hotel(7) ,(8) the(9) beautiful(10) indoor(11) /(12) outdoor(13) pool(14) ,(15) the(16) excellent(17) breakfast(18) buffet(19) ,(20) which(21) cost(22) us(23) only(24) $4.95(25) per(26) child(27) ,(28) the(29) overall(30) friendly(31) service(32) and(33) helpful(34) atmosphere(35) .(36) 
+			<opinion polarity="+" feature="food" featWords="19" opWords="17"/>
+		</sentence>
+		<sentence id="6">
+			There(1) were(2) only(3) two(4) negatives(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) small(4) ,(5) though(6) comfortable(7) and(8) attractive(9) .(10) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) the(3) only(4) time(5) we(6) attempted(7) to(8) eat(9) supper(10) in(11) their(12) restaurant(13) ,(14) we(15) received(16) very(17) poor(18) service(19) .(20) 
+			<opinion polarity="-" feature="service" featWords="19" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="9">
+			I(1) must(2) say(3) our(4) complaints(5) to(6) the(7) hostess(8) got(9) us(10) prompt(11) attention(12) and(13) rooms(14) service(15) ,(16) which(17) we(18) ordered(19) next(20) evening(21) was(22) extremely(23) helpful(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) I(3) would(4) recommend(5) the(6) Chicago_Marriott_O'Hare(7) as(8) an(9) excellent(10) hotel(11) for(12) family(13) or(14) business(15) travellers(16) .(17) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="10"/>
+		</sentence>
+	</text>
+</review>

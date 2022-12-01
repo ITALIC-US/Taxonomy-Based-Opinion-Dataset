@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="361" item="Sony MDR-V700DJ Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Poor(1) overall(2) quality(3) of(4) construction(5) .(6) 
+			<opinion polarity="-" feature="durability" featWords="5" opWords="1,3" potency="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) great(4) shape(5) and(6) excellent(7) movement(8) of(9) parts(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="appearance" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Entirely(1) plastic(2) construction(3) does(4) not(5) hold(6) up(7) .(8) 
+			<opinion polarity="-" feature="durability" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			would(1) not(2) recommend(3) them(4) to(5) anyone(6) .(7) 
+			<opinion polarity="-" feature="headphones" featWords="4" featRef="headphones" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Overall(1) quality(2) of(3) construction(4) is(5) very(6) poor(7) .(8) 
+			<opinion polarity="-" feature="durability" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Overall(1) sound(2) quality(3) is(4) excellent(5) .(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Configurability(1) is(2) awesome(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			First(1) pair(2) owned(3) ended(4) up(5) cracking(6) at(7) the(8) ends(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) DJ(3) ,(4) but(5) I(6) make(7) sure(8) I(9) take(10) care(11) of(12) my(13) equipment(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) maybe(3) I(4) was(5) a(6) little(7) too(8) rough(9) with(10) my(11) first(12) pair(13) so(14) I(15) bought(16) another(17) pair(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Making(1) sure(2) I(3) was(4) extra(5) careful(6) with(7) the(8) second(9) pair(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) not(3) even(4) a(5) year(6) when(7) I(8) noticed(9) the(10) cracks(11) appearing(12) at(13) the(14) exact(15) same(16) spot(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Come(1) to(2) find(3) out(4) ,(5) the(6) cylindrical(7) part(8) used(9) to(10) encase(11) the(12) wires(13) is(14) made(15) of(16) two(17) plastic(18) pieces(19) glued(20) together(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			That(1) is(2) where(3) the(4) cracks(5) appear(6) due(7) to(8) stress(9) from(10) the(11) phones(12) pressing(13) against(14) the(15) sides(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			It(1) would(2) have(3) made(4) more(5) sense(6) to(7) use(8) one(9) solid(10) piece(11) knowing(12) that(13) it(14) would(15) endure(16) some(17) stress(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) definitely(3) dissapointed(4) with(5) these(6) headphones(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			I(1) will(2) no_longer(3) consider(4) Sony(5) products(6) as(7) top(8) of(9) the(10) line(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) not(3) recommend(4) these(5) to(6) anyone(7) .(8) 
+			<opinion polarity="-" feature="headphones" featWords="5" featRef="headphones" opWords="3,4"/>
+		</sentence>
+		<sentence id="14">
+			I(1) would(2) do(3) some(4) research(5) and(6) read(7) reviews(8) before(9) buying(10) my(11) next(12) pair(13) .(14) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="916" item="2002 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			Disappointed(1) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) ,(2) Good_Looks(3) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine_Problem(1) ,(2) Horrific(3) paint(4) ,(5) Seriously(6) slow(7) ...(8) 
+			<opinion polarity="-" feature="speed" opWords="7" potency="6"/>
+			<opinion polarity="-" feature="color" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) have(2) a(3) lawsuit(4) pending(5) as(6) I(7) write(8) this(9) in(10) an(11) attempt(12) to(13) get(14) my(15) money(16) back(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) 2002(4) Honda_Civic(5) in(6) January_of_2002(7) ,(8) expecting(9) the(10) great(11) car(12) that(13) I(14) 've(15) read(16) and(17) heard(18) so(19) much(20) about(21) all(22) through(23) the(24) years(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			What(1) I(2) got(3) was(4) a(5) slap(6) in(7) the(8) face(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) so(4) many(5) problems(6) with(7) this(8) car(9) ,(10) that(11) I(12) have(13) a(14) lawsuit(15) pending(16) as(17) I(18) write(19) this(20) ,(21) in(22) an(23) attempt(24) to(25) get(26) my(27) money(28) back(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) problem(3) I(4) noticed(5) was(6) that(7) the(8) engine(9) was(10) not(11) turning(12) over(13) on(14) the(15) first(16) turn(17) of(18) the(19) key(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			This(1) might(2) be(3) acceptable(4) if(5) I(6) bought(7) a(8) 1982(9) Civic(10) ,(11) but(12) the(13) car(14) I(15) bought(16) was(17) approx(18) 2(19) weeks(20) old(21) when(22) it(23) happened(24) for(25) the(26) first(27) time(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			And(1) it(2) has(3) continued(4) since(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			It(1) stopped(2) acting(3) up(4) during(5) the(6) summer(7) months(8) ,(9) but(10) now(11) that(12) it(13) 's(14) getting(15) chilly(16) again(17) ,(18) it(19) 's(20) already(21) started(22) giving(23) me(24) problems(25) again(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			My(1) dealer(2) 's(3) Service_Manager(4) 's(5) response(6) to(7) me(8) was(9) ,(10) "(11) Honda(12) is(13) aware(14) of(15) the(16) problem(17) .(18) There(19) is(20) no(21) fix(22) for(23) it(24) .(25) We(26) will(27) let(28) you(29) know(30) when(31) there(32) is(33) "(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) not(3) heard(4) a(5) word(6) from(7) them(8) since(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Another(1) problem(2) that(3) I(4) have(5) noticed(6) is(7) terrible(8) terrible(9) defects(10) in(11) the(12) paint(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Unfortunately(1) for(2) me(3) ,(4) I(5) tried(6) to(7) have(8) one(9) of(10) these(11) fixed(12) ,(13) and(14) my(15) dealership(16) painted(17) the(18) whole(19) driver(20) side(21) door(22) ((23) without(24) asking(25) me(26) if(27) I(28) wanted(29) such(30) drastic(31) measures(32) taken(33) )(34) ,(35) and(36) the(37) idiots(38) can(39) not(40) get(41) the(42) paint(43) to(44) match(45) .(46) 
+		</sentence>
+		<sentence id="12">
+			I(1) 've(2) had(3) it(4) back(5) to(6) them(7) a(8) frillion(9) times(10) ,(11) and(12) my(13) door(14) still(15) does(16) not(17) match(18) the(19) car(20) ((21) If(22) you(23) 're(24) starting(25) to(26) get(27) the(28) impression(29) that(30) I(31) also(32) have(33) a(34) problem(35) with(36) the(37) awful(38) dealership(39) that(40) I(41) bought(42) the(43) car(44) from(45) [(46) a(47) mega-dealership(48) in(49) South_Jersey(50) ](51) ,(52) you(53) 're(54) correct(55) .(56) They(57) are(58) incompetent(59) )(60) .(61) 
+		</sentence>
+		<sentence id="13">
+			The(1) paint(2) defects(3) are(4) all(5) over(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			I(1) do(2) not(3) know(4) if(5) it(6) 's(7) just(8) the(9) color(10) that(11) I(12) got(13) or(14) if(15) it(16) 's(17) with(18) all(19) the(20) colors(21) ,(22) but(23) the(24) paint(25) on(26) this(27) car(28) is(29) awful(30) ((31) the(32) color(33) of(34) my(35) car(36) is(37) "(38) Eternal_Blue_Pearl(39) "(40) ,(41) I(42) refer(43) to(44) it(45) as(46) "(47) Eternal_Pain_In_The_Butt_Blue(48) "(49) )(50) .(51) 
+			<opinion polarity="-" feature="car" featWords="28" opWords="30"/>
+		</sentence>
+		<sentence id="15">
+			In_addition(1) to(2) the(3) specks(4) and(5) drips(6) ,(7) there(8) are(9) dull(10) spots(11) all(12) over(13) the(14) car(15) ,(16) as_if(17) the(18) manufacturer(19) conveniently(20) forgot(21) that(22) the(23) clearcoat(24) finish(25) should(26) be(27) applied(28) to(29) the(30) ENTIRE_CAR(31) !(32) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) numerous(3) defects(4) to(5) the(6) fit(7) and(8) finish(9) of(10) the(11) interior(12) as_well(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Places(1) where(2) things(3) do(4) not(5) match(6) up(7) flush(8) ,(9) a(10) weird(11) dull(12) spot(13) in(14) the(15) color(16) of(17) the(18) door(19) panel(20) ,(21) a(22) vibrating(23) rear(24) view(25) mirror(26) that(27) is(28) borderline(29) useless(30) unless(31) the(32) person(33) behind(34) you(35) has(36) lights(37) flashing(38) in(39) an(40) attempt(41) to(42) pull(43) you(44) over(45) to(46) stop(47) you(48) from(49) driving(50) that(51) car(52) that(53) is(54) falling(55) apart(56) .(57) 
+		</sentence>
+		<sentence id="18">
+			The(1) biggest(2) interior(3) problem(4) that(5) I(6) have(7) is(8) the(9) Air_Conditioning(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			The(1) AC(2) seems(3) warm(4) ,(5) but(6) I(7) can(8) not(9) tell(10) if(11) it(12) 's(13) not(14) as(15) cold(16) as(17) it(18) should(19) be(20) ,(21) or(22) if(23) it(24) 's(25) a(26) bi-product(27) of(28) the(29) fact(30) that(31) the(32) car(33) is(34) so(35) cheaply(36) slapped(37) together(38) that(39) the(40) vents(41) do(42) not(43) even(44) stay(45) where(46) you(47) position(48) them(49) .(50) 
+			<opinion polarity="-" feature="ac" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			I(1) mean(2) ,(3) they(4) literally(5) snap(6) closed(7) as(8) soon(9) as(10) you(11) try(12) to(13) position(14) them(15) where(16) it(17) 's(18) convenient(19) for(20) you(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			That(1) 's(2) right(3) ,(4) I(5) said(6) they(7) snap(8) CLOSED(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			This(1) car(2) is(3) my(4) worst(5) nightmare(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			I(1) am(2) just(3) driving(4) it(5) until(6) my(7) lawsuit(8) get(9) 's(10) my(11) money(12) back(13) ((14) cross(15) your(16) finger(17) 's(18) for(19) me(20) )(21) ,(22) at(23) which(24) time(25) I(26) will(27) go(28) out(29) and(30) buy(31) the(32) Volkswagen_GTI(33) that(34) I(35) wanted(36) all(37) along(38) ,(39) but(40) got(41) talked(42) out(43) of(44) because_of(45) Honda(46) 's(47) "(48) legendary(49) reliability(50) and(51) performance(52) "(53) .(54) 
+			<opinion polarity="+" feature="performance" featWords="52" opWords="49"/>
+			<opinion polarity="+" feature="reliability" featWords="50" opWords="49"/>
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) are(3) smart(4) ,(5) avoid(6) this(7) car(8) at(9) all(10) costs(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="25">
+			I(1) know(2) this(3) sounds(4) unbelievable(5) because(6) it(7) 's(8) an(9) almighty(10) Honda(11) ,(12) but(13) I(14) am(15) telling(16) you(17) the(18) honest(19) to(20) God(21) truth(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			This(1) car(2) is(3) a(4) dud(5) ,(6) and(7) I(8) have(9) the(10) pending(11) lawsuit(12) with(13) Lemonlaw(14) .(15) com(16) to(17) prove(18) it(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $17500.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) EX_Coupe_Automatic(16) 
+		</sentence>
+	</text>
+</review>

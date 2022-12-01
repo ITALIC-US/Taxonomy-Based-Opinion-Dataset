@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="337" item="Logitech (980461-0403) Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Logitech_Bluetooth(1) -(2) Touchdown(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			No(1) cables(2) attached(3) is(4) priceless(5) ,(6) 30(7) '(8) range(9) ,(10) controls(11) on(12) headset(13) .(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) good(2) for(3) moving(4) around(5) .(6) 
+			<opinion polarity="-" feature="headphones" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Delicate(1) ,(2) need(3) special(4) care(5) not(6) to(7) break(8) .(9) 
+			<opinion polarity="-" feature="durability" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) for(4) US$112(5) ,(6) true(7) they(8) are(9) a_bit(10) heavy(11) on(12) the(13) ears(14) ,(15) but(16) that(17) becomes(18) a(19) burden(20) if(21) you(22) do(23) any(24) kind(25) of(26) physical(27) activity(28) with(29) them(30) on(31) ,(32) the(33) weight(34) is(35) not(36) well(37) balanced(38) .(39) 
+			<opinion polarity="-" feature="weight" opWords="11"/>
+			<opinion polarity="-" feature="weight" featWords="34" opWords="36,37,38"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) them(3) to(4) use(5) at(6) the(7) beach(8) ,(9) sitting(10) ,(11) reading(12) a(13) good(14) book(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			As(1) my(2) main(3) sport(4) I(5) do(6) cycling(7) ,(8) I(9) do(10) not(11) use(12) them(13) while(14) training(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) read(3) other(4) reviews(5) that(6) say(7) that(8) the(9) plastic(10) at(11) the(12) back(13) cracks(14) ,(15) it(16) has(17) not(18) happened(19) to(20) me(21) so(22) far(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Maybe(1) it(2) is(3) because(4) when(5) I(6) slip(7) them(8) on(9) I(10) do(11) it(12) from(13) the(14) neck(15) upwards(16) so(17) I(18) do(19) not(20) pull(21) them(22) open(23) so(24) much(25) ,(26) and(27) when(28) I(29) take(30) them(31) of(32) I(33) pull(34) them(35) from(36) the(37) back(38) instead_of(39) opening(40) and(41) pushing(42) them(43) over(44) my(45) head(46) .(47) 
+		</sentence>
+		<sentence id="6">
+			The(1) thing(2) is(3) to(4) avoid(5) opening(6) them(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			Bottom(1) line(2) ,(3) great(4) if(5) you(6) use(7) them(8) during(9) an(10) inactivity(11) period(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) use(3) them(4) while(5) moving(6) around(7) you(8) 'll(9) hate(10) them(11) .(12) 
+		</sentence>
+	</text>
+</review>

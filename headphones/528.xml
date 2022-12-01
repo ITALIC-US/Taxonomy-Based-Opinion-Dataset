@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="528" item="Koss Porta Pro Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Fold(1) and(2) go(3) with(4) Koss_PortaPro_Headphones(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) good(2) sound(3) ,(4) foldable(5) ,(6) stylish(7) ,(8) good(9) warranty(10) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="portability" opWords="5"/>
+			<opinion polarity="+" feature="appearance" opWords="7"/>
+			<opinion polarity="+" feature="warranty" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ((2) SRP(3) $49.99(4) )(5) ,(6) no(7) volume(8) control(9) on(10) the(11) cord(12) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			These(1) are(2) lightweight(3) ,(4) comfortable(5) ,(6) folding(7) headphones(8) with(9) very(10) good(11) sound(12) and(13) a(14) good(15) warranty(16) .(17) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="12" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="warranty" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="2">
+			Although(1) a(2) little(3) expensive(4) ,(5) they(6) are(7) a(8) good(9) value(10) .(11) 
+			<opinion polarity="-" feature="price" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Why(1) I(2) was(3) looking(4) for(5) headphones(6) I(7) recently(8) purchased(9) these(10) Koss_PortaPro(11) headphones(12) after(13) destroying(14) 3(15) pairs(16) of(17) headphones(18) in(19) a(20) year(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) listen(2) to(3) audio(4) I(5) 've(6) downloaded(7) to(8) my(9) HP_Jornada(10) 548(11) as(12) I(13) drive(14) to(15) and(16) from(17) work(18) and(19) walk(20) between(21) buildings(22) at(23) work(24) ((25) 1/4_mile(26) each(27) walk(28) usually(29) a(30) couple(31) of(32) times(33) per(34) day(35) )(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) a(3) great(4) beta-tester(5) because(6) I(7) tend(8) to(9) be(10) rough(11) on(12) equipment(13) and(14) break(15) anything(16) I(17) 'm(18) carrying(19) easily(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) last(2) pair(3) of(4) headphones(5) died(6) when(7) I(8) severed(9) the(10) cord(11) as(12) I(13) was(14) getting(15) out(16) of(17) the(18) car(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			My(1) other(2) headphones(3) gave(4) out(5) as(6) the(7) wires(8) slowly(9) frayed(10) at(11) the(12) plug(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			So(1) far(2) the(3) Koss_PortaPro(4) headphones(5) have(6) been(7) reliable(8) with(9) very(10) good(11) sound(12) quality(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="12,13" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="7">
+			Although(1) they(2) are(3) a_bit(4) expensive(5) ((6) SRP(7) $49.99(8) )(9) ,(10) the(11) warranty(12) ,(13) sound(14) quality(15) and(16) ease(17) of(18) use(19) make(20) them(21) a(22) good(23) value(24) .(25) 
+			<opinion polarity="-" feature="price" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="price" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="8">
+			When(1) I(2) was(3) shopping(4) for(5) headphones(6) I(7) was(8) looking(9) for(10) full(11) headphones(12) ((13) I(14) hate(15) earbuds(16) )(17) that(18) were(19) foldable(20) and(21) easily(22) carried(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) Koss_PortaPro(2) headphones(3) meet(4) all(5) these(6) criteria(7) and(8) come(9) with(10) a(11) carrying(12) case(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Warranty_I(1) was(2) also(3) happy(4) to(5) see(6) that(7) they(8) came(9) with(10) a(11) lifetime(12) warranty(13) because(14) I(15) 'm(16) so(17) hard(18) on(19) headphones(20) .(21) 
+			<opinion polarity="+" feature="warranty" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="11">
+			When(1) I(2) went(3) to(4) the(5) Koss(6) website(7) to(8) register(9) my(10) warranty(11) ,(12) http://www.koss.com(13) ,(14) I(15) was(16) pleasantly(17) surprised(18) to(19) find(20) how(21) easy(22) it(23) was(24) to(25) register(26) ((27) http://www.koss.com/koss/kossweb.nsf/HomeWarranty).(28) I(29) 'm(30) assuming(31) that(32) I(33) 'll(34) have(35) to(36) use(37) it(38) at(39) some(40) point(41) because(42) I(43) tend(44) to(45) be(46) so(47) hard(48) on(49) equipment(50) .(51) If(52) they(53) replace(54) the(55) headphones(56) ,(57) the(58) extra(59) expense(60) up_front(61) will(62) be(63) worth(64) it(65) .(66) The(67) terms(68) of(69) the(70) warranty(71) and(72) how(73) to(74) use(75) it(76) were(77) easy(78) to(79) find(80) on(81) the(82) website(83) and(84) straightforward(85) .(86) I(87) do(88) not(89) have(90) to(91) send(92) in(93) the(94) register(95) receipt(96) ,(97) just(98) $(99) 6(100) for(101) shipping(102) and(103) handling(104) and(105) the(106) headphones(107) to(108) Milwaukee(109) ,(110) WI(111) .(112) You(113) can(114) also(115) get(116) warranty(117) information(118) by(119) calling(120) 1-800-USA-KOSS(121) .(122) Features_While_I(123) was(124) at(125) the(126) Koss(127) website(128) ,(129) I(130) had(131) fun(132) looking(133) through(134) the(135) Koss_Stereophones_Museum(136) ((137) http://www.koss.com/koss/kossweb.nsf/homeMuseum).(138) I(139) was(140) surprised(141) to(142) learn(143) that(144) the(145) Koss_PortaPros(146) have(147) been(148) in(149) production(150) since(151) 1984(152) .(153) The(154) styling(155) is(156) modern(157) enough(158) that(159) they(160) could(161) have(162) been(163) introduced(164) this(165) year(166) .(167) They(168) are(169) foldable(170) and(171) have(172) a(173) pressure(174) adjustment(175) at(176) the(177) temple(178) for(179) fitting(180) your(181) head(182) as(183) snugly(184) or(185) loosely(186) as(187) you(188) like(189) .(190) They(191) also(192) come(193) with(194) a(195) pouch(196) for(197) a(198) carrying(199) case(200) .(201) They(202) are(203) very(204) easy(205) to(206) store(207) as(208) I(209) 'm(210) going(211) into(212) a(213) meeting(214) or(215) home(216) for(217) the(218) evening(219) .(220) Sound_Although_I(221) am(222) not(223) an(224) audiophile(225) and(226) I(227) 'm(228) usually(229) listen(230) to(231) spoken(232) word(233) recordings(234) rather(235) than(236) music(237) ,(238) I(239) can(240) tell(241) that(242) the(243) performance(244) of(245) these(246) headphones(247) is(248) much(249) better(250) than(251) my(252) old(253) ones(254) .(255) The(256) sound(257) is(258) much(259) clearer(260) .(261) Also(262) ,(263) these(264) headphones(265) are(266) louder(267) on(268) the(269) third(270) setting(271) of(272) my(273) HP_Jornada(274) than(275) my(276) old(277) ones(278) were(279) cranked(280) all(281) the(282) way(283) up(284) ,(285) so(286) I(287) do(288) not(289) have(290) to(291) use(292) as(293) much(294) battery(295) power(296) to(297) listen(298) to(299) audio(300) on(301) my(302) PDA(303) .(304) The(305) only(306) thing(307) I(308) really(309) miss(310) is(311) having(312) a(313) volume(314) control(315) on(316) the(317) cord(318) .(319) Because(320) these(321) do(322) not(323) ,(324) I(325) have(326) to(327) make(328) all(329) of(330) the(331) volume(332) adjustments(333) on(334) my(335) PDA(336) which(337) a_bit(338) of(339) a(340) hassle(341) if(342) I(343) suddenly(344) want(345) to(346) stop(347) and(348) talk(349) to(350) someone(351) between(352) meetings(353) .(354) Overall_Overall(355) ,(356) I(357) would(358) recommend(359) Koss_PortaPro(360) headphones(361) to(362) anyone(363) on(364) the(365) go(366) who(367) wants(368) a(369) full(370) headband(371) headphone(372) .(373) 
+			<opinion polarity="+" feature="appearance" featWords="155" opWords="157"/>
+			<opinion polarity="+" feature="portability" opWords="170"/>
+		</sentence>
+	</text>
+</review>

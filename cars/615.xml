@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="615" item="2003 Honda Pilot" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) good(2) enough(3) to(4) win(5) me(6) over(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="1,2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			3rd(1) Row(2) seating(3) ,(4) DVD_System(5) ,(6) Honda_Reliability(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Handling(1) ,(2) Seats(3) ,(4) Looks(5) ,(6) Interior_Space(7) ,(8) Build_Quality(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) must(2) have(3) a(4) Honda(5) suv(6) ,(7) get(8) an(9) MDX(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			There(1) about(2) the(3) same(4) as(5) far(6) as(7) price(8) goes(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			First_Impression(1) :(2) I(3) drove(4) this(5) on(6) a(7) test(8) drive(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) to(3) compare(4) it(5) to(6) my(7) explorer(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			The(1) one(2) I(3) drove(4) was(5) a(6) loaded(7) out(8) EX(9) with(10) DVD(11) system(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) black(2) paint(3) had(4) multipule(5) scratches(6) and(7) was(8) not(9) as(10) glossy(11) as(12) I(13) would(14) have(15) expected(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Plus(1) the(2) exterior(3) had(4) these(5) tacky(6) gold(7) badges(8) and(9) name(10) plates(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Inside(1) ,(2) I(3) felt(4) as_if(5) I(6) where(7) squashed(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Plus(1) the(2) interior(3) had(4) a(5) plastic(6) feel(7) to(8) it(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Something_I(1) was(2) not(3) expecting(4) to(5) see(6) on(7) a(8) Honda(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Also(1) I(2) think(3) Honda(4) over(5) did(6) it(7) with(8) the(9) Keys(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			They(1) will(2) cost(3) $45-$50(4) per(5) key(6) to(7) replace(8) ,(9) if_not(10) more(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Drive(1) train(2) :(3) The(4) V(5) -(6) 6(7) has(8) enough(9) get(10) up(11) and(12) go(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			I(1) think(2) it(3) could(4) use(5) more(6) mid-range(7) power(8) and(9) low(10) end(11) torque(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			I(1) do(2) not(3) suspect(4) you(5) could(6) tow(7) very(8) much(9) with(10) it(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			The(1) transmission(2) shifts(3) fine(4) ,(5) but(6) the(7) shifter(8) can(9) get(10) in(11) your(12) way(13) ,(14) or(15) you(16) can(17) inadvertently(18) bump(19) into(20) the(21) wrong(22) gear(23) like(24) I(25) did(26) .(27) 
+			<opinion polarity="+" feature="transmission" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="15">
+			I(1) did(2) not(3) have(4) a(5) chance(6) to(7) measure(8) gas(9) mileage(10) ,(11) but(12) it(13) should(14) be(15) class(16) norm(17) .(18) if_not(19) a(20) wee-bit(21) better(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			Plus(1) they(2) require(3) premium(4) gas(5) if(6) I(7) remember(8) correctly(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Interior(1) :(2) The(3) interior(4) is(5) nicely(6) appointed(7) ,(8) but(9) :(10) The(11) seats(12) need(13) help(14) .(15) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="18">
+			The(1) are(2) not(3) supportive(4) and(5) are(6) painful(7) .(8) 
+			<opinion polarity="-" feature="seat" opWords="7"/>
+			<opinion polarity="-" feature="seat" opWords="3,4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) radio(2) is(3) fine(4) ,(5) but(6) could(7) be(8) a(9) little(10) closer(11) .(12) 
+			<opinion polarity="+" feature="radio" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			The(1) 3rd(2) row(3) seat(4) is(5) not(6) as(7) roomy(8) as(9) my(10) explorer(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			I(1) just(2) felt(3) the(4) interior(5) had(6) a(7) very(8) cheap(9) feel(10) to(11) it(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			The(1) DVD(2) system(3) was(4) nice(5) and(6) worked(7) well(8) from(9) what(10) I(11) gathered(12) from(13) the(14) small(15) demo(16) of(17) it(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			Durability(1) :(2) I(3) can(4) not(5) comment(6) here(7) ,(8) except(9) to(10) say(11) that(12) it(13) is(14) a(15) Honda(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			But(1) it(2) may(3) fall(4) victim(5) to(6) Hondas(7) transmission(8) woes(9) ,(10) like(11) some(12) Odysseys(13) have(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			Overall(1) ,(2) I(3) 'd(4) rather(5) have(6) an(7) Acura_MDX(8) or(9) 4-runner(10) as(11) far(12) as(13) the(14) foreign(15) SUV(16) 's(17) go(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			I(1) would(2) take(3) an(4) explorer(5) any(6) day(7) over(8) those(9) two(10) ,(11) but(12) that(13) is(14) just(15) my(16) love(17) towards(18) explorers(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) .01(7) Model_Year(8) :(9) 2003Model(10) and(11) Options(12) :(13) EX(14) ,(15) Sunroof(16) ,(17) Keyless(18) entry(19) ,(20) DVD_Navigation(21) system(22) 
+		</sentence>
+	</text>
+</review>

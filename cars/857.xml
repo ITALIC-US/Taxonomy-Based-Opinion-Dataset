@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="857" item="2000 Honda CR-V" rating="2">
+	<title>
+		<sentence id="1">
+			pathetic(1) excuse(2) for(3) a(4) truck(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			kinda(1) cute(2) ,(3) all(4) wheel(5) drive(6) 
+			<opinion polarity="+" feature="design" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			styling(1) ,(2) image(3) ,(4) power(5) ,(6) price(7) ,(8) etc(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) CR-V(2) is(3) NOT(4) a(5) sport(6) utility(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) not(3) at(4) all(5) suited(6) for(7) off-roading(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			In(1) fact(2) ,(3) the(4) CR-V(5) is(6) actually(7) based(8) on(9) the(10) Japanese_Accord(11) chassis(12) of(13) a(14) few(15) years(16) ago(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			So(1) basically(2) you(3) have(4) a(5) much(6) slower(7) accord(8) with(9) bad(10) styling(11) ,(12) no(13) power(14) and(15) all(16) wheel(17) drive(18) .(19) 
+			<opinion polarity="-" feature="design" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) want(3) a(4) small(5) SUV(6) buy(7) a(8) Nissan_Xterra(9) or(10) Jeep_Cherokee(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Stay(1) away(2) from(3) this(4) sad(5) wanna-be(6) truck(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) not(3) believe(4) people(5) allow(6) themselves(7) to(8) be(9) seen(10) driving(11) these(12) things(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Well_I(1) could(2) see(3) how(4) a(5) cute(6) little(7) car(8) like(9) this(10) could(11) appeal(12) to(13) young(14) women(15) ,(16) but(17) for(18) a(19) guy(20) its(21) really(22) just(23) too(24) lame(25) .(26) 
+			<opinion polarity="+" feature="design" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			Talk(1) about(2) being(3) castrated(4) by(5) your(6) car(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Anyways(1) ,(2) I(3) will(4) not(5) go(6) on(7) because(8) there(9) is(10) nothing(11) good(12) I(13) can(14) say(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Please(1) have(2) some(3) dignity(4) and(5) avoid(6) this(7) sad(8) little(9) excuse(10) for(11) a(12) truck(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			By(1) a(2) Civic(3) or(4) something(5) ,(6) it(7) 's(8) really(9) just(10) about(11) the(12) same(13) thing(14) .(15) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="316" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Honda_Civic_DX_Hatchback(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handles(1) great(2) ,(3) feels(4) secure(5) and(6) solid(7) on(8) the(9) road(10) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="safety" opWords="4,5"/>
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			larger(1) than(2) the(3) older(4) models(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) new(4) 2000(5) Honda_Civic_DX_Hatchback(6) in(7) August_2000(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) previously(3) owned(4) a(5) 1985(6) Civic_Hatchback(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) pleasantly(3) surprised(4) at(5) the(6) price(7) of(8) the(9) new(10) car(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Incidentally(1) ,(2) this(3) was(4) the(5) first(6) NEW(7) car(8) I(9) had(10) ever(11) purchased(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			No(1) ,(2) it(3) was(4) not(5) cheap(6) ,(7) but(8) I(9) felt(10) that(11) the(12) price(13) was(14) reasonable(15) ((16) well(17) ,(18) comparatively(19) )(20) .(21) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="15"/>
+			<opinion polarity="-" feature="price" opWords="5,6"/>
+		</sentence>
+		<sentence id="6">
+			I(1) purchased(2) during(3) the(4) "(5) end(6) of(7) year(8) "(9) sales(10) to(11) get(12) a(13) better(14) price(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) I(3) was(4) unable(5) to(6) get(7) standard(8) shift(9) because_of(10) this(11) and(12) had(13) to(14) search(15) high(16) and(17) low(18) to(19) find(20) the(21) silver(22) color(23) I(24) wanted(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) never(3) owned(4) an(5) automatic(6) transmission(7) car(8) before(9) so(10) this(11) has(12) been(13) a(14) major(15) adjustment(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) especially(2) feel(3) that(4) automatics(5) simply(6) do(7) not(8) have(9) the(10) "(11) pick(12) up(13) "(14) of(15) a(16) standard(17) shift(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			What(1) I(2) like(3) :(4) the(5) car(6) is(7) very(8) comfortable(9) to(10) drive(11) ;(12) it(13) gets(14) great(15) gas(16) mileage(17) ;(18) I(19) trust(20) the(21) make(22) /(23) model(24) from(25) my(26) previous(27) experience(28) and(29) expect(30) to(31) own(32) /(33) drive(34) it(35) for(36) 10(37) -15(38) years(39) .(40) 
+			<opinion polarity="+" feature="gas" featWords="16,17" opWords="15"/>
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+		</sentence>
+		<sentence id="11">
+			I(1) love(2) the(3) hatchback(4) because(5) it(6) seems(7) I(8) always(9) need(10) to(11) haul(12) something(13) -(14) whether(15) it(16) 's(17) the(18) bookshelves(19) I(20) suddenly(21) decide(22) to(23) buy(24) at(25) K-mart(26) or(27) the(28) 20_pound(29) bag(30) of(31) cat(32) food(33) ,(34) it(35) pretty(36) much(37) always(38) fits(39) in(40) the(41) car(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			The(1) hatchback(2) opening(3) on(4) the(5) 2000(6) model(7) is(8) larger(9) than(10) on(11) the(12) 1985(13) and(14) this(15) has(16) proven(17) to(18) be(19) most(20) useful(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			What(1) I(2) do(3) not(4) like(5) :(6) call(7) me(8) a(9) luddite(10) ,(11) but(12) I(13) still(14) prefer(15) standard(16) shift(17) ((18) just(19) personal(20) preference(21) ,(22) I(23) suppose(24) )(25) ;(26) the(27) 2000(28) model(29) is(30) ((31) to(32) me(33) )(34) much(35) larger(36) than(37) the(38) '(39) 85(40) -(41) I(42) 'm(43) still(44) having(45) trouble(46) parallel(47) parking(48) ;(49) the(50) back(51) windows(52) no_longer(53) open(54) ((55) I(56) 'm(57) dead(58) in(59) the(60) water(61) when(62) the(63) AC(64) eventually(65) dies(66) )(67) ;(68) there(69) is(70) NO_DAMN_ASHTRAY(71) !(72) !(73) !(74) !(75) 
+		</sentence>
+		<sentence id="14">
+			I(1) know(2) I(3) live(4) in(5) Kentucky(6) ,(7) but(8) this(9) FORCES(10) me(11) to(12) LITTER(13) !(14) !(15) !(16) 
+		</sentence>
+		<sentence id="15">
+			Oh(1) ,(2) and(3) BTW(4) ,(5) the(6) steering(7) is(8) SOOO(9) much(10) easier(11) on(12) the(13) 2000(14) than(15) on(16) my(17) "(18) 85(19) or(20) even(21) on(22) my(23) mom(24) 's(25) '(26) 95(27) .(28) 
+		</sentence>
+	</text>
+</review>

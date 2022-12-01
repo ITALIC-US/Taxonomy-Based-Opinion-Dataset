@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="421" item="Koss KSC75 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Good(1) price(2) /(3) value(4) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="4" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfort(1) ,(2) value(3) /(4) price(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Best(1) bass(2) responce(3) requires(4) a(5) push(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Best(1) 15(2) bucks(3) I(4) ever(5) spent(6) on(7) headphones(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Sound(1) is(2) full(3) and(4) both(5) highs(6) /(7) bass(8) are(9) there(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) own(2) a(3) pair(4) audiophile(5) 's(6) grade(7) Sennheisers(8) ((9) 590(10) )(11) ,(12) and(13) from(14) sound(15) quality(16) these(17) Koss(18) are(19) not(20) that(21) far(22) for(23) 10_%(24) of(25) the(26) price(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			The(1) worst(2) is(3) that(4) I(5) have(6) to(7) push(8) them(9) to(10) my(11) ears(12) to(13) get(14) the(15) best(16) bass(17) /(18) frequency(19) response(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			It(1) could(2) be(3) my(4) physical(5) ear(6) layout(7) ,(8) I(9) suppose(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Getting(1) these(2) on(3) is(4) a(5) challenge(6) that(7) requires(8) two(9) hands(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) hold(2) the(3) clip(4) with(5) one(6) hand(7) while(8) pulling(9) my(10) eart(11) through(12) with(13) the(14) other(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			But(1) once(2) they(3) are(4) on(5) they(6) are(7) OK(8) .(9) 
+			<opinion polarity="+" feature="headphones" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) less(3) fatigue(4) on(5) my(6) ears(7) than(8) from(9) heavily(10) padded(11) Senn(12) 's(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) can(2) wear(3) these(4) for(5) 2-3(6) hrs(7) no(8) problem(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			For(1) MP3(2) these(3) are(4) a(5) great(6) buy(7) .(8) 
+			<opinion polarity="+" feature="headphones" opWords="6,7"/>
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) a(3) Samsung(4) player(5) ,(6) and(7) at(8) 192(9) kbps(10) the(11) sound(12) detail(13) is(14) not(15) different(16) from(17) Senns(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			It(1) takes(2) a(3) mastered(4) CD(5) to(6) tell(7) the(8) difference(9) .(10) 
+		</sentence>
+	</text>
+</review>

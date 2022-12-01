@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="65" item="2001 Ford Crown Victoria" rating="5">
+	<title>
+		<sentence id="1">
+			CROWN_VICTORIA(1) what(2) more(3) could(4) you(5) want(6) ?(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Look(1) great(2) ,(3) feel(4) great(5) ...(6) long-term(7) longevity(8) and(9) high(10) comfort(11) .(12) 
+			<opinion polarity="+" feature="comfort" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) looks(2) all(3) around(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) "(2) trendy(3) "(4) ,(5) "(6) hip(7) "(8) ,(9) or(10) "(11) cute(12) "(13) 
+			<opinion polarity="-" feature="comfort" opWords="1,12"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) new(2) Crown_Vics(3) are(4) some(5) of(6) the(7) best(8) ever(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			They(1) 've(2) got(3) the(4) reliable(5) and(6) trustworthy(7) FORD(8) nameplate(9) ,(10) V8(11) power(12) ,(13) power(14) leather(15) seating(16) ,(17) smooth(18) yet(19) taught(20) suspension(21) ,(22) and(23) more(24) ...(25) These(26) cars(27) are(28) pimp(29) !(30) 
+			<opinion polarity="+" feature="suspension" featWords="21" opWords="20"/>
+			<opinion polarity="+" feature="suspension" featWords="21" opWords="18"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) 've(3) ever(4) want(5) to(6) look(7) seriously(8) "(9) Bad-A(10) "(11) ,(12) "(13) Mafia(14) "(15) ,(16) or(17) just(18) flat-out(19) "(20) Unmarked_Highway_Patrol(21) "(22) ,(23) but(24) ALSO(25) wanted(26) the(27) ultimate(28) comfort(29) and(30) convinience(31) of(32) a(33) Cadillac(34) ,(35) LOOK_NO_FURTHER(36) !(37) 
+			<opinion polarity="+" feature="comfort" featWords="29" opWords="28"/>
+		</sentence>
+		<sentence id="4">
+			Not(1) to(2) mention(3) the(4) performance(5) potential(6) in(7) these(8) babies(9) !(10) ________________________________________________________________________(11) Purchasing(12) and(13) Modification_Hints_for_the_Discerning_Automotive_Buyer(14) :(15) ________________________________________________________________________(16) Personally(17) ,(18) I(19) 'd(20) suggest(21) opting(22) for(23) the(24) optional(25) "(26) LIMO_TINTs(27) "(28) tinted(29) windows(30) ,(31) "(32) LITTLE(33) BUDDY(34) "(35) optional(36) in-cabin(37) shotgun(38) mount(39) ,(40) "(41) THIRSTY_DOUBLE(42) "(43) optional(44) cup(45) holder(46) package(47) ,(48) the(49) "(50) SHINE(51) '(52) EM(53) "(54) dual-spotlight(55) package(56) ,(57) and(58) the(59) excellent(60) "(61) COP_SHOCKS(62) "(63) Law_Enforcement_Suspension(64) ,(65) Brakes(66) ,(67) and(68) Drivetrain(69) package(70) .(71) 
+			<opinion polarity="+" feature="window" featWords="30" opWords="29"/>
+		</sentence>
+		<sentence id="5">
+			In(1) the(2) aftermarket(3) ,(4) look(5) to(6) NOS(7) ((8) Nitrous_Oxide_Systems(9) )(10) ,(11) for(12) a(13) complete(14) ,(15) and(16) comprehensive(17) bolt-on(18) nitrous(19) system(20) made(21) for(22) stock(23) 4.6L(24) Mustangs(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Check(1) it(2) out(3) ,(4) it(5) may(6) bolt-on(7) to(8) your(9) new(10) Crown_Vic(11) !(12) 
+		</sentence>
+		<sentence id="7">
+			You(1) 'll(2) also(3) want(4) to(5) seek(6) out(7) a(8) set(9) of(10) Flowmaster(11) dual(12) mufflers(13) for(14) that(15) great(16) combination(17) of(18) extra-low(19) ,(20) earthy(21) ,(22) "(23) Mafia(24) /(25) CIA(26) "(27) rumble(28) ,(29) and(30) high-pitched(31) "(32) Dukes_of_Hazard(33) "(34) -(35) style(36) scream(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			In_all(1) seriousness(2) ,(3) these(4) cars(5) have(6) excellent(7) high-mileage(8) potential(9) ,(10) offer(11) good(12) low-end(13) pickup(14) offered(15) by(16) the(17) 4.6L(18) ,(19) have(20) decent(21) fuel(22) mileage(23) ,(24) excellent(25) long-trip(26) comfort(27) ,(28) and(29) offer(30) plenty_of(31) elbow(32) room(33) in_all(34) seating(35) arrangements(36) and(37) configurations(38) .(39) 
+			<opinion polarity="+" feature="comfort" featWords="27" opWords="25"/>
+			<opinion polarity="+" feature="gas" featWords="22,23" opWords="21"/>
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) probably(3) the(4) most(5) humble(6) of(7) the(8) FORD(9) /(10) LINCOLN(11) luxury(12) cars(13) ,(14) so(15) prices(16) on(17) used(18) units(19) are(20) often(21) veritable(22) steals(23) !(24) 
+		</sentence>
+		<sentence id="10">
+			Buy_a_Crown_Vic(1) now(2) !(3) ...(4) And(5) cruise(6) in(7) comfort(8) .(9) 
+		</sentence>
+	</text>
+</review>

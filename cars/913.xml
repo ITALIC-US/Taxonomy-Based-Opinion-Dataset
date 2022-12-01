@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="913" item="2002 Hyundai Sonata" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) pretty(2) looking(3) car(4) -(5) but(6) highly(7) unreliable(8) !(9) 
+			<opinion polarity="-" feature="reliability" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			STAY_AWAY(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) ,(2) comfortable(3) ,(4) feature-laden(5) ,(6) stately(7) appearance(8) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Highly(1) unreliable(2) 
+			<opinion polarity="-" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Absolutely(1) avoid(2) this(3) car(4) .(5) 
+			<opinion polarity="-" feature="car" featWords="4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			It(1) will(2) be(3) great(4) for(5) the(6) first(7) year(8) or(9) so(10) ,(11) but(12) after(13) that(14) Hyundai(15) 's(16) fall(17) apart(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) 2002(4) Hyundai_Sonata_GLX(5) approximately(6) a(7) year(8) and(9) a_half(10) ago(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) first(3) six(4) months(5) ,(6) I(7) was(8) impressed(9) -(10) a(11) very(12) smart(13) vehicle(14) ,(15) good(16) looking(17) ,(18) quiet(19) and(20) stately(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="21"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="19"/>
+			<opinion polarity="+" feature="design" opWords="16,17"/>
+			<opinion polarity="+" feature="design" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="3">
+			After(1) the(2) first(3) six(4) months(5) ,(6) that(7) 's(8) when(9) the(10) problems(11) started(12) to(13) surface(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			First(1) the(2) oxygen(3) sensor(4) went(5) ,(6) I(7) was(8) not(9) very(10) worried(11) at(12) this(13) point(14) ,(15) but(16) I(17) still(18) thought(19) it(20) seemed(21) strange(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Secondly(1) ,(2) if(3) you(4) can(5) honestly(6) believe(7) it(8) ,(9) I(10) had(11) to(12) have(13) Hyundai(14) replace(15) over(16) 5(17) car(18) radios(19) !(20) 
+		</sentence>
+		<sentence id="6">
+			After(1) the(2) fifth(3) one(4) ,(5) I(6) said(7) to(8) the(9) Hyundai_Dealership(10) that(11) this(12) was(13) insane(14) ,(15) on(16) a(17) car(18) that(19) was(20) not(21) even(22) a(23) year(24) old(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			They(1) called(2) Hyundai_Canada(3) for(4) me(5) ,(6) and(7) Hyundai(8) informed(9) them(10) that(11) they(12) did(13) not(14) care(15) if(16) they(17) had(18) to(19) replace(20) 500(21) radio(22) 's(23) in(24) my(25) car(26) ,(27) they(28) would(29) not(30) exchange(31) it(32) for(33) another(34) unit(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			At(1) this(2) point(3) I(4) called(5) Clarion(6) ((7) who(8) manufactured(9) the(10) unit(11) )(12) and(13) they(14) provided(15) me(16) with(17) an(18) alternative(19) unit(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) have(3) any(4) issues(5) with(6) your(7) radio(8) -(9) call(10) Clarion(11) ,(12) they(13) are(14) aware(15) that(16) there(17) is(18) a(19) problem(20) with(21) the(22) factory(23) installed(24) unit(25) ((26) even_though(27) they(28) informed(29) me(30) the(31) problem(32) had(33) been(34) corrected(35) on(36) my(37) third(38) unit(39) !(40) )(41) .(42) 
+		</sentence>
+		<sentence id="10">
+			A(1) few(2) months(3) later(4) ,(5) I(6) started(7) to(8) smell(9) a(10) chemical(11) smell(12) coming(13) out(14) of(15) the(16) air(17) vents(18) ,(19) like(20) something(21) was(22) burning(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) power(2) cycled(3) on(4) and(5) off(6) ,(7) and(8) the(9) battery(10) light(11) would(12) flicker(13) which(14) was(15) accompanied(16) by(17) a(18) clicking(19) noise(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			I(1) had(2) the(3) car(4) towed(5) to(6) Hyundai(7) ,(8) and(9) they(10) told(11) me(12) it(13) was(14) the(15) battery(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			Then(1) ,(2) about(3) a(4) month(5) after(6) replacing(7) the(8) battery(9) ,(10) it(11) began(12) occurring(13) again(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			I(1) brought(2) the(3) car(4) in(5) again(6) ,(7) and(8) then(9) they(10) informed(11) me(12) that(13) the(14) alternator(15) was(16) not(17) charging(18) the(19) battery(20) properly(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			So(1) far(2) ,(3) fingers(4) crossed(5) ,(6) this(7) has(8) not(9) happened(10) again(11) !(12) 
+		</sentence>
+		<sentence id="16">
+			After(1) this(2) I(3) noticed(4) that(5) the(6) chrome(7) on(8) the(9) rear(10) part(11) of(12) the(13) car(14) around(15) the(16) license(17) plate(18) had(19) started(20) pitting(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			I(1) brought(2) it(3) into(4) Hyundai(5) again(6) ,(7) and(8) they(9) replaced(10) it(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			This(1) month(2) ((3) now(4) being(5) a(6) year(7) and(8) a_half(9) old(10) )(11) ,(12) the(13) automatic(14) climate(15) control(16) has(17) gone(18) on(19) the(20) fritz(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			It(1) will(2) not(3) heat(4) the(5) car(6) unless(7) it(8) is(9) set(10) to(11) 32(12) degrees(13) ((14) why(15) that(16) temperature(17) -(18) I(19) have(20) no(21) idea(22) !(23) )(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			The(1) wheel(2) well(3) is(4) broken(5) ,(6) which(7) I(8) have(9) to(10) replace(11) at(12) my(13) cost(14) ,(15) and(16) I(17) had(18) a(19) tire(20) explode(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			Also(1) -(2) my(3) brakes(4) just(5) went(6) unexpectedly(7) ,(8) and(9) the(10) rotors(11) were(12) chewed(13) up(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			Now_I(1) have(2) to(3) pay(4) to(5) get(6) these(7) replaced(8) !(9) 
+		</sentence>
+		<sentence id="23">
+			To(1) top(2) it(3) off(4) ,(5) the(6) car(7) is(8) now(9) rusting(10) -(11) any(12) place(13) a(14) stone(15) chip(16) hits(17) it(18) ,(19) which(20) is(21) unlike(22) any(23) car(24) I(25) have(26) seen(27) .(28) 
+		</sentence>
+		<sentence id="24">
+			I(1) have(2) a(3) 95(4) Saab(5) as_well(6) ,(7) and(8) there(9) is(10) not(11) one(12) little(13) bit(14) of(15) rust(16) on(17) it(18) !(19) 
+		</sentence>
+		<sentence id="25">
+			When(1) I(2) first(3) purchased(4) this(5) car(6) ,(7) I(8) thought(9) Hyundai(10) had(11) overcome(12) their(13) reliability(14) issues(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			They(1) are(2) attempting(3) to(4) give(5) confidence(6) to(7) consumers(8) by(9) providing(10) a(11) great(12) warranty(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			But(1) ,(2) the(3) warranty(4) will(5) not(6) cover(7) everything(8) -(9) there(10) are(11) still(12) many(13) items(14) that(15) you(16) have(17) to(18) pay(19) for(20) yourself(21) .(22) 
+		</sentence>
+		<sentence id="28">
+			As_well(1) ,(2) they(3) need(4) to(5) build(6) a(7) more(8) reliable(9) car(10) instead_of(11) a(12) poorly(13) designed(14) one(15) packed(16) with(17) features(18) that(19) break(20) .(21) 
+			<opinion polarity="-" feature="design" opWords="13,14"/>
+		</sentence>
+		<sentence id="29">
+			I(1) wish(2) I(3) had(4) purchased(5) a(6) Honda(7) or(8) Toyota(9) .(10) 
+		</sentence>
+		<sentence id="30">
+			I(1) would(2) not(3) have(4) been(5) able(6) to(7) afford(8) their(9) model(10) with(11) same(12) number(13) of(14) features(15) that(16) were(17) on(18) the(19) Hyundai(20) ((21) i(22) .(23) e(24) .(25) leather(26) seats(27) ,(28) etc.(29) )(30) ,(31) but(32) I(33) also(34) would(35) not(36) have(37) to(38) worry(39) about(40) sitting(41) at(42) the(43) side(44) of(45) the(46) road(47) .(48) 
+			<opinion polarity="+" feature="seat" featWords="27" opWords="26"/>
+		</sentence>
+		<sentence id="31">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) GLX(16) 
+		</sentence>
+	</text>
+</review>

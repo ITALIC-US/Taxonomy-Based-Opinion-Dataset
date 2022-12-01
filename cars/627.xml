@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="627" item="2002 Subaru Impreza" rating="3">
+	<title>
+		<sentence id="1">
+			IT(1) '(2) S_A_SUBARU(3) ?(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Decent(1) price(2) ,(3) full(4) time(5) all(6) wheel(7) drive(8) ,(9) comfortable(10) seats(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) pick(2) up(3) ,(4) poor(5) controls(6) ,(7) a(8) factory(9) defect(10) and(11) recall(12) on(13) the(14) gear(15) mechanisms(16) !(17) 
+			<opinion polarity="-" feature="controls" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) this(5) car(6) to(7) anyone(8) who(9) wants(10) an(11) AWD(12) ,(13) rugged(14) vehicle(15) to(16) access(17) anything(18) other(19) than(20) flat(21) city(22) roads(23) .(24) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) always(3) heard(4) nothing(5) but(6) great(7) things(8) about(9) Subaru(10) 's(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			All(1) the(2) commercials(3) show(4) the(5) cars(6) hauling(7) through(8) exciting(9) terrain(10) ,(11) with(12) tons(13) of(14) storage(15) space(16) and(17) safety(18) standards(19) ...(20) I(21) 've(22) been(23) completely(24) let(25) down(26) since(27) I(28) actually(29) bought(30) one(31) myself(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			I(1) opted(2) for(3) the(4) Impreza_Sport(5) model(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			It(1) costs(2) a(3) few(4) hundred(5) more(6) than(7) your(8) average(9) Impreza(10) with(11) the(12) upgraded(13) fog(14) lights(15) ,(16) keyless(17) remote(18) entry(19) with(20) alarm(21) ,(22) a(23) front(24) bug(25) deflector(26) and(27) a(28) rear(29) spoiler(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) dealers(2) boasted(3) about(4) the(5) storage(6) space(7) ,(8) the(9) flawless(10) handling(11) in(12) the(13) winter(14) snow(15) storms(16) and(17) spring(18) rains(19) and(20) the(21) comfort(22) of(23) the(24) ride(25) .(26) 
+			<opinion polarity="+" feature="handling" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			They(1) insisted(2) that(3) the(4) car(5) would(6) take(7) me(8) anywhere(9) I(10) wanted(11) to(12) go(13) on(14) the(15) Colorado(16) roads(17) ,(18) and(19) much(20) more(21) safely(22) than(23) my(24) SUV(25) would(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			They(1) were(2) great(3) sales(4) people(5) !(6) 
+		</sentence>
+		<sentence id="8">
+			The(1) Impreza(2) does(3) have(4) the(5) storage(6) space(7) ,(8) as(9) long(10) as(11) no(12) one(13) else(14) is(15) going(16) to(17) be(18) coming(19) along_with(20) you(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) a(3) hard(4) time(5) fitting(6) 4(7) adults(8) and(9) three(10) suitcases(11) in(12) the(13) car(14) on(15) a(16) recent(17) trip(18) to(19) the(20) airport(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			But(1) ,(2) it(3) did(4) fit(5) 2(6) snowboards(7) and(8) all(9) the(10) gear(11) for(12) a(13) weekend(14) to(15) the(16) mountains(17) with(18) one(19) seat(20) folded(21) down(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			Priorities(1) ,(2) I(3) guess(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			The(1) winter(2) handling(3) during(4) slow(5) speeds(6) have(7) been(8) great(9) ,(10) but(11) at(12) higher(13) speeds(14) the(15) car(16) handling(17) is(18) downright(19) scary(20) .(21) 
+			<opinion polarity="+" feature="handling" featWords="3" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			Having(1) driven(2) a(3) small(4) SUV(5) for(6) 9(7) years(8) ,(9) I(10) was(11) used(12) to(13) kicking(14) in(15) the(16) 4x4(17) and(18) taking(19) charge(20) ,(21) getting(22) myself(23) out(24) of(25) high(26) snow(27) and(28) keeping(29) on(30) the(31) road(32) .(33) 
+		</sentence>
+		<sentence id="14">
+			The(1) Impreza_'s_AWD(2) does(3) not(4) compare(5) and(6) is(7) not(8) all(9) it(10) 's(11) cracked(12) up(13) to(14) be(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			The(1) one(2) thing(3) that(4) stands(5) out(6) to(7) me(8) as(9) being(10) the(11) biggest(12) pitfall(13) of(14) owning(15) this(16) car(17) in(18) the(19) state(20) of(21) Colorado(22) is(23) the(24) engery(25) lacking(26) engine(27) .(28) 
+		</sentence>
+		<sentence id="16">
+			The(1) pick(2) up(3) is(4) horrible(5) !(6) 
+		</sentence>
+		<sentence id="17">
+			I(1) think(2) my(3) Impreza(4) cries(5) each(6) time(7) I(8) make(9) a(10) pass(11) into(12) the(13) mountains(14) !(15) 
+		</sentence>
+		<sentence id="18">
+			The(1) engine(2) revs(3) up(4) and(5) down(6) with(7) the(8) slightest(9) inclines(10) ,(11) taking(12) forever(13) to(14) catch(15) up(16) to(17) speed(18) ((19) and(20) I(21) often(22) need(23) to(24) brake(25) just(26) as(27) it(28) does(29) gain(30) speed(31) ,(32) as(33) the(34) car(35) is(36) now(37) careening(38) down(39) a(40) large(41) hill(42) !(43) )(44) .(45) 
+		</sentence>
+		<sentence id="19">
+			My(1) fiance(2) dislikes(3) the(4) car(5) for(6) all(7) of(8) these(9) reasons(10) and(11) more(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			For(1) him(2) ,(3) at(4) 6(5) '(6) 3(7) "(8) ,(9) it(10) 's(11) small(12) inside(13) .(14) The(15) legroom(16) is(17) more(18) tight(19) than(20) the(21) headroom(22) ,(23) but(24) the(25) body(26) room(27) is(28) smaller(29) .(30) He(31) often(32) complains(33) of(34) feeling(35) "(36) squished(37) in(38) "(39) and(40) does(41) not(42) enjoy(43) those(44) long(45) rides(46) in(47) the(48) mountains(49) at(50) all(51) !(52) He(53) also(54) complains(55) of(56) many(57) blind(58) spots(59) ,(60) in(61) comparrison(62) to(63) our(64) small(65) SUV(66) and(67) full(68) size(69) sedan(70) .(71) My(72) opinion(73) on(74) this(75) car(76) is(77) also(78) based(79) upon(80) the(81) Subaru_Service(82) and(83) Warranty(84) that(85) we(86) got(87) with(88) the(89) car(90) .(91) We(92) brought(93) the(94) car(95) in(96) for(97) it(98) 's(99) very(100) first(101) service(102) and(103) got(104) it(105) returned(106) to(107) us(108) with(109) ABSOLUTELY_NO_FLUIDS_IN_THE_ENGINE(110) !(111) I(112) 'm(113) sure(114) that(115) has(116) a_lot(117) to(118) do(119) with(120) it(121) 's(122) plaugeing(123) problems(124) today(125) ...(126) We(127) also(128) just(129) got(130) a(131) notification(132) in(133) the(134) mail(135) ((136) one(137) year(138) after(139) buying(140) and(141) driving(142) the(143) car(144) )(145) that(146) there(147) is(148) a(149) recall(150) on(151) the(152) driving(153) gears(154) that(155) may(156) cause(157) the(158) brake(159) systems(160) to(161) fail(162) .(163) For(164) a(165) company(166) who(167) prides(168) themselves(169) on(170) safety(171) ,(172) this(173) ranks(174) low(175) in(176) my(177) book(178) !(179) My(180) expectations(181) were(182) much(183) higher(184) of(185) Subaru(186) when(187) I(188) bought(189) this(190) car(191) ...(192) It(193) 's(194) not(195) a(196) COMPLETELY(197) bad(198) car(199) though(200) .(201) It(202) 's(203) rather(204) inexpensive(205) for(206) the(207) safety(208) features(209) that(210) it(211) has(212) ,(213) AWD(214) capabilities(215) and(216) size(217) class(218) .(219) We(220) got(221) a(222) great(223) price(224) for(225) ours(226) !(227) Amount_Paid(228) ((229) US(230) $(231) )(232) :(233) 21000(234) Condition(235) :(236) NewModel_Year(237) :(238) 2002Model(239) and(240) Options(241) :(242) SPORT(243) ,(244) automatic(245) 
+		</sentence>
+	</text>
+</review>

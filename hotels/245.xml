@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="245" item="Atlantic Paradise Inn" rating="1">
+	<title>
+		<sentence id="1">
+			Welfare(1) hotel(2) at(3) the(4) beach(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			If(1) you(2) like(3) to(4) do(5) drugs(6) in(7) your(8) room(9) this(10) is(11) the(12) place(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			1(1) chanel(2) on(3) the(4) television(5) ,(6) no(7) doorman(8) ,(9) run(10) down(11) area(12) ,(13) old(14) furnature(15) ,(16) scary(17) bar(18) 
+			<opinion polarity="-" feature="place" featWords="12" opWords="10,11"/>
+			<opinion polarity="-" feature="food" featWords="18" opWords="17"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) Hotel(2) may(3) have(4) been(5) ok(6) back(7) during(8) the(9) days(10) of(11) Al_Capone(12) but(13) today(14) it(15) is(16) more(17) suited(18) for(19) crack(20) heads(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) spent(3) a(4) weekend(5) at(6) the(7) Jersey_Shore(8) with(9) my(10) wife(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			We(1) usually(2) stayed(3) at(4) the(5) Ocean_Place_Spa(6) in(7) LongBranch(8) but(9) they(10) raised(11) there(12) rates(13) to(14) 325(15) a(16) night(17) so(18) I(19) thought(20) that(21) I(22) would(23) check(24) out(25) another(26) hotel(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) read(3) about(4) the(5) Berkley_Carteret(6) on(7) the(8) Web(9) and(10) frankly(11) I(12) got(13) sucked(14) in(15) by(16) there(17) ,(18) in(19) my(20) opinion(21) ,(22) fraudulent(23) self(24) promotion(25) It(26) is(27) described(28) in(29) various(30) press(31) releases(32) as(33) The_World_Famous_Berkley_Carteret_Hotel(34) and(35) all(36) I(37) have(38) to(39) say(40) is(41) what(42) a(43) joke(44) .(45) 
+		</sentence>
+		<sentence id="4">
+			Before(1) booking(2) the(3) room(4) I(5) checked(6) out(7) the(8) Orbitz_Web(9) site(10) and(11) it(12) rated(13) it(14) 4(15) stars(16) against(17) only(18) 2(19) stars(20) for(21) the(22) Ocean_Place_Spa(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			It(1) seemed(2) like(3) a(4) no(5) brainier(6) 4(7) stars(8) vs(9) .(10) 2(11) stars(12) and(13) 325(14) a(15) night(16) vs(17) .(18) 125(19) a(20) night(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			So(1) my(2) wife(3) and(4) I(5) set(6) out(7) for(8) the(9) Berkley_Carteret(10) with(11) much(12) anticipation(13) of(14) a(15) nice(16) romantic(17) weekend(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Upon(1) pulling(2) up(3) to(4) the(5) Berkley_I(6) new(7) I(8) was(9) screwed(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			It(1) looked(2) more(3) like(4) The_Bates_Motel(5) than(6) a(7) word(8) famousH(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) no(3) valet(4) parking(5) only(6) a(7) municipal(8) parking(9) lot(10) in(11) front(12) of(13) the(14) Hotel(15) that(16) looked(17) like(18) a(19) good(20) place(21) to(22) have(23) your(24) car(25) stolen(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			I(1) asked(2) the(3) desk(4) clerk(5) where(6) I(7) was(8) to(9) park(10) and(11) she(12) told(13) me(14) to(15) park(16) out(17) front(18) but(19) I(20) did(21) not(22) have(23) to(24) feed(25) the(26) meters(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			With(1) some(2) reluctance(3) I(4) parked(5) my(6) cars(7) and(8) muscled(9) my(10) bags(11) into(12) the(13) hotel(14) and(15) then(16) surprise(17) there(18) is(19) no(20) bellman(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			So(1) I(2) got(3) a(4) cart(5) and(6) loaded(7) up(8) my(9) bags(10) and(11) entered(12) the(13) elevator(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) elevator(2) was(3) old(4) and(5) run(6) down(7) and(8) made(9) a_lot(10) an(11) audible(12) moan(13) as(14) it(15) slowly(16) moved(17) upstairs(18) .(19) 
+			<opinion polarity="-" feature="elevator" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="elevator" featWords="2" opWords="6,7"/>
+		</sentence>
+		<sentence id="14">
+			A(1) young(2) man(3) with(4) a(5) nose(6) ring(7) boarded(8) the(9) elevator(10) on(11) the(12) second(13) floor(14) and(15) he(16) proceed(17) to(18) ask(19) me(20) if(21) I(22) would(23) like(24) to(25) read(26) his(27) Pornagraphic_Magazine(28) which(29) he(30) gave(31) me(32) before(33) he(34) exited(35) the(36) elevator(37) .(38) 
+		</sentence>
+		<sentence id="15">
+			When(1) we(2) got(3) out(4) of(5) the(6) elevator(7) on(8) the(9) 7th(10) floor(11) I(12) could(13) smell(14) the(15) pungent(16) aroma(17) of(18) Marianna(19) waffling(20) down(21) the(22) hallway(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			We(1) went(2) to(3) our(4) room(5) and(6) I(7) noticed(8) that(9) the(10) card(11) reader(12) lock(13) was(14) broken(15) so(16) I(17) had(18) to(19) get(20) a(21) key(22) for(23) the(24) dead(25) bolt(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) featured(3) old(4) 1950(5) s(6) style(7) fur(8) nature(9) ,(10) worn(11) carpeting(12) and(13) stained(14) wallpaper(15) .(16) 
+			<opinion polarity="-" feature="carpets" featWords="12" opWords="11"/>
+			<opinion polarity="-" feature="walls" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="18">
+			I(1) proceed(2) to(3) unpack(4) and(5) turn(6) on(7) the(8) television(9) and(10) surprise(11) It(12) only(13) received(14) one(15) channel(16) which(17) was(18) very(19) fuzzy(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			I(1) phoned(2) the(3) front(4) desk(5) to(6) enquire(7) about(8) the(9) television(10) reception(11) and(12) was(13) informed(14) that(15) they(16) had(17) a(18) satellite(19) dish(20) and(21) that(22) when(23) the(24) wind(25) blows(26) from(27) a(28) certain(29) direction(30) it(31) affects(32) reception(33) .(34) the(35) desk(36) clerk(37) then(38) told(39) me(40) that(41) I(42) was(43) lucky(44) because(45) sometime(46) they(47) did(48) not(49) even(50) receive(51) any(52) channels(53) at(54) all(55) .(56) 
+		</sentence>
+		<sentence id="20">
+			I(1) then(2) opened(3) the(4) curtains(5) to(6) check(7) out(8) my(9) ocean(10) front(11) view(12) only(13) to(14) discover(15) that(16) while(17) I(18) did(19) indeed(20) have(21) a(22) view(23) of(24) the(25) ocean(26) it(27) was(28) marred(29) by(30) an(31) very(32) large(33) abandoned(34) building(35) that(36) was(37) located(38) in(39) front(40) of(41) the(42) hotel(43) .(44) 
+		</sentence>
+		<sentence id="21">
+			I(1) then(2) saw(3) a(4) homeless(5) man(6) pushing(7) a(8) shopping(9) cart(10) walk(11) by(12) between(13) the(14) abandoned(15) building(16) and(17) the(18) hotel(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			About(1) five(2) minutes(3) later(4) I(5) was(6) on(7) the(8) phone(9) booking(10) a(11) room(12) at(13) the(14) Oster_Point_Hotel(15) in(16) Red_Bank(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			Unfortunately(1) they(2) were(3) booked(4) for(5) the(6) night(7) but(8) would(9) accommodate(10) me(11) the(12) next(13) morning(14) otherwise(15) I(16) would(17) have(18) left(19) that(20) same(21) night(22) .(23) .(24) 
+		</sentence>
+	</text>
+</review>

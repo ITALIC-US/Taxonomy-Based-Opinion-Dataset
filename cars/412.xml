@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="412" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Value(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			EX(1) V6(2) has(3) all(4) features(5) without(6) bargaining(7) for(8) options(9) ,(10) reasonable(11) price(12) 
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Accelaration(1) is(2) a(3) little(4) sluggish(5) and(6) up(7) /(8) down(9) shifting(10) can(11) be(12) annoying(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) one(6) with(7) all(8) features(9) including(10) and(11) reasonable(12) power(13) ,(14) it(15) 's(16) for(17) you(18) .(19) 
+			<opinion polarity="+" feature="horsepower" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			If(1) accelaration(2) is(3) important(4) than(5) any(6) of(7) the(8) above(9) ,(10) this(11) is(12) not(13) for(14) you(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) purchased(3) a(4) new(5) 2001(6) EX(7) V6(8) Sedan(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Between(1) the(2) 2002(3) Camry(4) and(5) the(6) Accord(7) ,(8) I(9) opted(10) for(11) the(12) accord(13) as(14) everything(15) from(16) Climate_Control(17) ,(18) Leather(19) to(20) Moon-roof(21) ,(22) security(23) come(24) standard(25) on(26) it(27) without(28) having(29) to(30) torture(31) ourselves(32) into(33) bargaining(34) for(35) each(36) option(37) set(38) ((39) unlike(40) Toyota(41) )(42) .(43) 
+		</sentence>
+		<sentence id="3">
+			The(1) other(2) car(3) that(4) I(5) own(6) is(7) a(8) 2000(9) Toyota(10) 4Runner(11) SR5(12) which(13) is(14) great(15) in(16) it(17) 's(18) own(19) respect(20) ((21) Better(22) acceleration(23) ,(24) smoother(25) shifting(26) )(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			Though(1) I(2) am(3) extremely(4) happy(5) with(6) the(7) purchase(8) of(9) the(10) 200(11) HP(12) V6(13) for(14) it(15) 's(16) comfort(17) ,(18) convenience(19) and(20) a(21) number(22) of(23) small(24) but(25) useful(26) features(27) ((28) like(29) the(30) armrest(31) for(32) rear(33) passengers(34) and(35) the(36) hood(37) holders(38) that(39) let(40) you(41) keep(42) the(43) hood(44) up(45) without(46) struggling(47) with(48) some(49) kind(50) of(51) rods(52) )(53) ,(54) I(55) am(56) sort(57) of(58) unconvinced(59) on(60) the(61) acceleration(62) of(63) this(64) car(65) for(66) the(67) power(68) it(69) has(70) .(71) 
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) see(3) other(4) smaller(5) and(6) less(7) powerful(8) cars(9) taking(10) off(11) moving(12) quicker(13) when(14) the(15) signal(16) turns(17) green(18) ,(19) For_the_Accord(20) V6(21) ,(22) I(23) have(24) to(25) push(26) the(27) engine(28) to(29) 4000(30) RPM(31) or(32) more(33) to(34) get(35) a(36) convincing(37) acceleration(38) but(39) still(40) being(41) unable(42) to(43) compete(44) with(45) the(46) smaller(47) cars(48) on(49) the(50) next(51) lane(52) .(53) 
+		</sentence>
+		<sentence id="6">
+			Once(1) the(2) car(3) shifts(4) to(5) higher(6) gears(7) ofcourse(8) the(9) power(10) is(11) tremendous(12) .(13) 
+			<opinion polarity="+" feature="horsepower" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			For_example(1) accelerating(2) from(3) 45(4) to(5) 65_miles_per_hour(6) is(7) a(8) breeze(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) ride(2) quality(3) is(4) quite(5) comfortable(6) ((7) better(8) than(9) my(10) 4(11) Runner(12) which(13) ofcourse(14) has(15) better(16) handling(17) )(18) .(19) 
+			<opinion polarity="+" feature="ride quality" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="9">
+			Overall_I(1) think(2) this(3) is(4) a(5) great(6) vehicle(7) for(8) the(9) city(10) as_well(11) as(12) for(13) long(14) trips(15) ,(16) But_I(17) guess(18) I(19) will(20) still(21) keep(22) my(23) 4Runner(24) cause(25) my(26) ego(27) hurts(28) when(29) those(30) small(31) cars(32) take(33) off(34) before(35) me(36) when(37) the(38) light(39) turns(40) green(41) .(42) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22100(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX(16) V6(17) 
+		</sentence>
+	</text>
+</review>

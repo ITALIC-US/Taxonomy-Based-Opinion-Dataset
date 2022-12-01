@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="351" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) 1992(2) Saturn_SL(3) is(4) a(5) tough(6) car(7) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) Safety(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Plastic(1) interior(2) unsnaps(3) after(4) high(5) milage(6) .(7) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) 1992(4) Saturn_SL(5) before(6) going(7) off(8) to(9) college(10) in(11) the(12) summer(13) of(14) 1992(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) chose(2) the(3) Saturn(4) because(5) it(6) was(7) a(8) fairly(9) good(10) looking(11) car(12) that(13) fit(14) my(15) budget(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="10,11"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) is(3) a(4) marvel(5) of(6) engineering(7) strength(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) delivered(2) pizza(3) to(4) put(5) myself(6) through(7) college(8) in(9) Starkville(10) ,(11) Mississippi(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Over(1) the(2) course(3) of(4) three(5) years(6) I(7) had(8) been(9) hit(10) from(11) behind(12) twice(13) by(14) other(15) motorists(16) and(17) had(18) hit(19) 5(20) deer(21) head-on(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			There(1) were(2) minor(3) damages(4) to(5) repair(6) from(7) two(8) of(9) the(10) deer(11) ((12) which(13) were(14) very(15) inexpensive(16) )(17) ,(18) but(19) both(20) rear-endings(21) I(22) received(23) required(24) no(25) repairs(26) .(27) 
+			<opinion polarity="+" feature="price" opWords="16"/>
+		</sentence>
+		<sentence id="7">
+			One(1) of(2) the(3) rear-endings(4) totaled(5) the(6) car(7) that(8) struck(9) me(10) ,(11) but(12) left(13) only(14) a(15) minor(16) scratch(17) visible(18) on(19) my(20) bumper(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			The(1) metal(2) under(3) the(4) bumper(5) bends(6) ,(7) but(8) the(9) shell(10) maintains(11) its(12) original(13) shape(14) -(15) it(16) is(17) amazing(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="18"/>
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) a(3) great(4) car(5) for(6) congested(7) traffic(8) areas(9) where(10) minor(11) bumps(12) are(13) common(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) beefs(3) with(4) the(5) car(6) are(7) that(8) 1(9) )(10) the(11) interior(12) tends(13) to(14) fall(15) apart(16) where(17) it(18) is(19) snapped(20) together(21) after(22) the(23) 100,000_mile(24) mark(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) inexpensive(3) to(4) repair(5) ,(6) but(7) it(8) can(9) be(10) a(11) headache(12) .(13) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			And(1) 2(2) )(3) The(4) alternator(5) must(6) be(7) replaced(8) ,(9) it(10) can(11) not(12) be(13) rebuilt(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			I(1) recommend(2) this(3) car(4) as(5) the(6) perfect(7) car(8) for(9) a(10) college-bound(11) student(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</text>
+</review>

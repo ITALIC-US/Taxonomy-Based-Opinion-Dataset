@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="814" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			2005(1) Chevy_Equinox_Battery_Drain(2) do(3) not(4) BUY(5) !(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			LOTS_OF_HEAD_AND_LEG_ROOM_FOR_TALL_PEOPLE(1) ,(2) RIDES_NICE(3) WHEN(4) RUNNING(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			UNRELIABLE(1) ,(2) Untrustworthy(3) ,(4) cheap(5) inside(6) doors(7) ,(8) feel(9) like(10) tin(11) .(12) 
+			<opinion polarity="-" feature="door" featWords="7" opWords="5"/>
+			<opinion polarity="-" feature="reliability" opWords="3"/>
+			<opinion polarity="-" feature="reliability" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			unless(1) you(2) plan(3) on(4) driving(5) this(6) car(7) everyday(8) ,(9) do(10) not(11) buy(12) it(13) .(14) 
+			<opinion polarity="-" feature="car" featWords="13" featRef="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="2">
+			It(1) will(2) be(3) a(4) headache(5) for(6) you(7) ,(8) buy(9) a(10) simpler(11) car(12) with(13) less(14) electronics(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hi(1) ,(2) I(3) bought(4) in_2006(5) ,(6) a(7) used(8) 2005(9) Chevy_Equinox(10) thru(11) an(12) auto(13) broker(14) connected(15) to(16) my(17) credit(18) union(19) with(20) an(21) excellent(22) history(23) of(24) finding(25) good(26) ,(27) reliable(28) used(29) cars(30) for(31) credit(32) union(33) customers(34) .(35) 
+			<opinion polarity="+" feature="car" featWords="30" opWords="28"/>
+		</sentence>
+		<sentence id="2">
+			I(1) test(2) drove(3) the(4) Equinox(5) and(6) loved(7) it(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" featRef="car" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			It(1) had(2) been(3) ,(4) previously(5) to(6) me(7) buying(8) it(9) ,(10) a(11) leased(12) vehicle(13) out(14) of(15) CA(16) ,(17) I(18) live(19) in(20) Oregon(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			It(1) had(2) only(3) 19,000_miles(4) on(5) it(6) when(7) I(8) bought(9) it(10) and(11) still(12) under(13) factory(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) also(2) purchased(3) an(4) extended(5) warranty(6) that(7) is(8) good(9) thru(10) 2011(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) single(3) ,(4) retired(5) and(6) live(7) alone(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Sometimes(1) I(2) can(3) go(4) several(5) days(6) without(7) having(8) to(9) drive(10) the(11) Equinox(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) also(2) own(3) a(4) little(5) used(6) Ford_Ranger(7) pickup(8) as_well(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Ever(1) since(2) buying(3) the(4) Equinox(5) ,(6) I(7) have(8) gone(9) thru(10) 4(11) brand(12) new(13) batteries(14) ,(15) replacing(16) them(17) because(18) if(19) I(20) do(21) not(22) drive(23) the(24) car(25) more(26) than(27) once(28) every(29) 2-3(30) days(31) ,(32) something(33) inside(34) the(35) motor(36) drains(37) the(38) charge(39) from(40) the(41) battery(42) .(43) 
+		</sentence>
+		<sentence id="10">
+			Does(1) not(2) matter(3) whether(4) it(5) is(6) the(7) most(8) expensive(9) Delco(10) battery(11) I(12) can(13) buy(14) ,(15) or(16) a(17) cheaper(18) Les_Schwab(19) battery(20) ,(21) if(22) I(23) let(24) the(25) Equinox(26) sit(27) for(28) 3(29) days(30) or(31) longer(32) without(33) driving(34) it(35) ,(36) something(37) in(38) the(39) motor(40) drains(41) all(42) the(43) energy(44) from(45) the(46) battery(47) ,(48) no(49) matter(50) how(51) old(52) ,(53) how(54) expensive(55) or(56) how(57) cheap(58) ,(59) and(60) I(61) come(62) out(63) on(64) the(65) third(66) or(67) fourth(68) day(69) to(70) a(71) dead(72) battery(73) .(74) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) had(3) it(4) towed(5) now(6) 8_times(7) in(8) two(9) years(10) to(11) first(12) the(13) Chevrolet_Dealership(14) closest(15) to(16) me(17) ,(18) then(19) later(20) to(21) my(22) regular(23) mechanic(24) and(25) no(26) one(27) can(28) find(29) a(30) thing(31) wrong(32) with(33) the(34) car(35) nor(36) can(37) they(38) explain(39) why(40) the(41) batteries(42) keep(43) being(44) drained(45) .(46) 
+		</sentence>
+		<sentence id="12">
+			I(1) do(2) not(3) want(4) to(5) have(6) to(7) drive(8) everyday(9) to(10) keep(11) this(12) darn(13) car(14) running(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			One(1) of(2) the(3) beauties(4) of(5) being(6) retired(7) is(8) not(9) having(10) to(11) be(12) somewhere(13) everyday(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Besides(1) I(2) also(3) have(4) the(5) older(6) truck(7) for(8) utility(9) purposes(10) and(11) I(12) go(13) back_and_forth(14) driving(15) each(16) equally(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			The(1) truck(2) can(3) sit(4) 3(5) weeks(6) and(7) start(8) up(9) on(10) the(11) first(12) try(13) ,(14) the(15) Equinox(16) will(17) have(18) a(19) dead(20) battery(21) after(22) sitting(23) 3-4(24) days(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			Since(1) the(2) Equinox(3) is(4) paid(5) for(6) ,(7) I(8) paid(9) over(10) $20,000(11) for(12) it(13) used(14) in_2005(15) ,(16) I(17) do(18) not(19) want(20) to(21) buy(22) another(23) car(24) and(25) have(26) car(27) payments(28) on(29) a(30) retirees(31) pension(32) .(33) 
+		</sentence>
+		<sentence id="17">
+			As_well(1) as(2) the(3) fact(4) ,(5) that(6) I(7) have(8) never(9) paid(10) that(11) much(12) for(13) a(14) car(15) in(16) my(17) life(18) and(19) I(20) have(21) never(22) had(23) a(24) car(25) be(26) such(27) trouble(28) before(29) .(30) 
+		</sentence>
+		<sentence id="18">
+			When(1) it(2) is(3) running(4) ,(5) it(6) is(7) great(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" featRef="car" opWords="8"/>
+		</sentence>
+		<sentence id="19">
+			But(1) I(2) do(3) not(4) trust(5) it(6) ,(7) no(8) one(9) can(10) find(11) what(12) is(13) the(14) matter(15) and(16) being(17) a(18) woman(19) ,(20) all(21) mechanics(22) I(23) have(24) dealt(25) with(26) look(27) at(28) me(29) like(30) it(31) is(32) something(33) I(34) am(35) doing(36) or(37) I(38) am(39) insane(40) because_of(41) my(42) gender(43) .(44) 
+			<opinion polarity="-" feature="car" featWords="6" featRef="car" opWords="4,5"/>
+		</sentence>
+		<sentence id="20">
+			Neither(1) of(2) which(3) is(4) true(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			I(1) am(2) a(3) retired(4) police(5) officer(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			And(1) I(2) am(3) not(4) dumb(5) and(6) I(7) keep(8) very(9) good(10) care(11) of(12) all(13) my(14) vehicles(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			So(1) if(2) you(3) are(4) not(5) going(6) to(7) drive(8) an(9) Equinox(10) everyday(11) ,(12) My(13) advice(14) is(15) NEVER_BUY_THIS_CAR(16) !(17) !(18) !(19) 
+		</sentence>
+		<sentence id="24">
+			I_GOT_A_LEMON_AND_I_AM_CURRENTLY_TRYING_TO_DECIDE(1) WHAT(2) TO_DO_WITH_IT(3) .(4) 
+		</sentence>
+		<sentence id="25">
+			TRADE_IT_IN(1) ,(2) GO_IN_THE_HOLE_AND_BUY_ANOTHER_BRAND_NEW_CAR_OR_KEEP_HOPING(3) THAT(4) SOMEDAY_SOMEONE_WILL_FIND_OUT(5) WHAT(6) DRAINS_THE_BATTERY(7) WHEN(8) IT_SITS_FOR(9) 3(10) DAYS_OR_LONGER(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			I_AM_VERY_TIRED_OF_HAVING_THE_DARN_THING_TOWED_ALL_THE_TIME(1) .(2) 8_TIMES(3) IN(4) TWO(5) YEARS_IS_OUTRAGEOUS(6) !(7) !(8) !(9) 
+		</sentence>
+		<sentence id="27">
+			I_COULD_HAVE_JUST_GOT_A_LEMON_BUT_I_WOULD_NEVER_BUY_THIS_CAR_AGAIN_IF_I_HAD_A_CHOICE_SO_STAY_AWAY_FROM_CHEVY_EQUINOX_NO_MATTER(1) WHAT(2) YEAR(3) .(4) 
+		</sentence>
+		<sentence id="28">
+			IF(1) ANYONE_CAN_SHED_LIGHT_ON(2) WHY(3) THE_BATTERY_KEEPS_BEING_DRAINED(4) ,(5) I_WOULD_GREATLY_APPRECIATE_IT_AS_I_REALLY_DO_NOT_WANT_TO_GET_ANOTHER_CAR(6) .(7) 
+		</sentence>
+		<sentence id="29">
+			NOTHING_IS_LEFT_ON(1) ,(2) NO_LIGHTS(3) ,(4) RADIO(5) ,(6) NO_PORTS_FOR_ELECTRONICS(7) ,(8) NOTHING(9) .(10) 
+		</sentence>
+		<sentence id="30">
+			I_CHECK_ALL_THIS_EVERY_TIME_I_SHUT_IT_OFF_AFTER_DRIVING_IT(1) .(2) 
+		</sentence>
+		<sentence id="31">
+			CAN_ANYONE_HELP(1) ?(2) ?(3) ?(4) 
+		</sentence>
+		<sentence id="32">
+			THANK(1) YOU(2) .(3) 
+		</sentence>
+		<sentence id="33">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,200(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) LX(16) ,(17) AWD(18) 
+		</sentence>
+	</text>
+</review>

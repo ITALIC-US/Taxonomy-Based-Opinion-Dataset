@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="716" item="2003 Subaru Forester" rating="2">
+	<title>
+		<sentence id="1">
+			NOT(1) for(2) Off_Road_Use(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) car(2) like(3) ride(4) ,(5) good(6) on(7) road(8) handling(9) ,(10) excellent(11) safety(12) rating(13) 
+			<opinion polarity="+" feature="safety" featWords="12,13" opWords="11"/>
+			<opinion polarity="+" feature="handling" featWords="9" opWords="6"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) an(2) off-road(3) vehicle(4) ,(5) poor(6) back(7) seat(8) leg(9) room(10) ,(11) very(12) little(13) cargo(14) space(15) 
+			<opinion polarity="+" feature="trunk space" featWords="14,15" opWords="13" potency="12"/>
+			<opinion polarity="-" feature="leg room" featWords="9,10" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) vehicle(2) for(3) pavement(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) buy(3) if(4) you(5) are(6) thinking(7) of(8) getting(9) off(10) the(11) pavement(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) bought(3) my(4) 2003(5) Forestor(6) ,(7) I(8) was(9) initially(10) very(11) pleased(12) with(13) it(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="14" featRef="car" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="2">
+			The(1) comfort(2) and(3) ride(4) on(5) the(6) road(7) was(8) excellent(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="9"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			Subaru(1) 's(2) commercials(3) ,(4) literature(5) and(6) the(7) salesman(8) at(9) the(10) dealership(11) lead(12) me(13) to(14) believe(15) that(16) it(17) was(18) an(19) off(20) road(21) vehicle(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			This(1) was(2) one(3) of(4) our(5) requirements(6) since(7) we(8) do(9) a(10) fair(11) amount(12) of(13) hiking(14) and(15) camping(16) so(17) we(18) travel(19) a_lot_of(20) dirt(21) roads(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Last(1) month(2) while(3) traveling(4) a(5) dirt(6) road(7) about(8) 20(9) mph(10) ,(11) we(12) scraped(13) over(14) a(15) rock(16) and(17) the(18) AT_Temp(19) light(20) came(21) on(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) suprised(3) ,(4) since(5) we(6) had(7) scraped(8) rocks(9) before(10) in(11) our(12) Blazer(13) and(14) Jeep(15) with(16) no(17) ill(18) effects(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			I(1) took(2) my(3) Forestor(4) into(5) the(6) dealer(7) immediately(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			After(1) looking(2) at(3) it(4) ,(5) they(6) informed(7) me(8) it(9) would(10) cost(11) about(12) $2,000(13) to(14) fix(15) and(16) it(17) was(18) not(19) covered(20) under(21) the(22) warranty(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			That(1) 's(2) when(3) I(4) found(5) out(6) the(7) Forestor(8) had(9) no(10) skid(11) plates(12) or(13) anything(14) to(15) protect(16) the(17) underside(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Its(1) not(2) a(3) bad(4) vehicle(5) if(6) you(7) never(8) leave(9) the(10) pavement(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="2,4"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003(12) 
+		</sentence>
+	</text>
+</review>

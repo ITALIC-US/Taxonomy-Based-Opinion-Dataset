@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="421" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			2001(1) Honda_Accord(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) fit(2) and(3) finish(4) .(5) 
+			<opinion polarity="+" feature="finish" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Adequate(1) power(2) with(3) VTEC(4) engine(5) Excellent(6) reliability(7) and(8) resale(9) 
+			<opinion polarity="+" feature="resale value" featWords="9" opWords="6"/>
+			<opinion polarity="+" feature="reliability" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Road(1) noise(2) high(3) at(4) low(5) speed(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Is(1) it(2) the(3) tires(4) ?(5) 
+		</sentence>
+		<sentence id="3">
+			Average(1) looks(2) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) .(3) 
+			<opinion polarity="+" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Shop(1) around(2) ,(3) check(4) competition(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Most(1) Hondas_I(2) am(3) familiar(4) with(5) are(6) very(7) reliable(8) and(9) long(10) lasting(11) with(12) regular(13) low(14) cost(15) maintenance(16) as(17) necessary(18) .(19) 
+			<opinion polarity="+" feature="reliability" opWords="10,11"/>
+			<opinion polarity="+" feature="reliability" opWords="8" potency="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) 2001(2) Honda_Accord_LX(3) is(4) quite(5) fairly(6) priced(7) against(8) its(9) competition(10) .(11) 
+			<opinion polarity="+" feature="price" opWords="6,7" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			The(1) folks(2) at(3) the(4) dealership(5) were(6) friendly(7) and(8) sincerely(9) tried(10) to(11) help(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Usual(1) horse(2) trading(3) ,(4) but(5) not(6) bad(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="6,7"/>
+		</sentence>
+		<sentence id="4">
+			Bought(1) car(2) primarily(3) for(4) it(5) reliability(6) ratings(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			While(1) this(2) car(3) is(4) excellent(5) for(6) anyone(7) who(8) wants(9) day(10) in(11) ,(12) day(13) out(14) driving(15) reliability(16) ,(17) the(18) new(19) styling(20) ,(21) with(22) color(23) keyed(24) body(25) side(26) moulding(27) is(28) aesthetically(29) pleasing(30) .(31) 
+			<opinion polarity="+" feature="design" opWords="29,30"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Driving(1) position(2) is(3) comfortable(4) and(5) ergonomics(6) good(7) .(8) 
+			<opinion polarity="+" feature="comfort" featWords="6" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Would(1) like(2) availability(3) of(4) side(5) air(6) bags(7) and(8) four(9) wheel(10) disc(11) brakes(12) ,(13) though(14) the(15) cost(16) would(17) be(18) higher(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			Also(1) would(2) like(3) a(4) keyless(5) remote(6) and(7) panic(8) button(9) entry(10) system(11) included(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16K(7) OTD_Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) All(16) standard(17) equipment(18) -(19) LX_Auto(20) 
+		</sentence>
+	</text>
+</review>

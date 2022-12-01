@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="613" item="2003 Honda Pilot" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) sure(2) if(3) I(4) like(5) it(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) ,(2) comfortable(3) ride(4) .(5) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Safe(1) .(2) 
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Large(1) cargo(2) area(3) .(4) 
+			<opinion polarity="+" feature="trunk space" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) radio(2) /(3) sound(4) even(5) in(6) EX._Steering(7) too_light(8) .(9) 
+			<opinion polarity="-" feature="sound system" featWords="4" opWords="1"/>
+			<opinion polarity="-" feature="radio" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Saggy(1) leather(2) seats(3) .(4) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="seat" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Uninspiring(1) handling(2) .(3) 
+			<opinion polarity="-" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Expensive(1) maintenance(2) schedule(3) .(4) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy_a_Toyota_Highlander(1) .(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) pilot(2) is(3) only(4) 2(5) weeks(6) old(7) and(8) I(9) am(10) still(11) not(12) sure(13) if(14) I(15) like(16) it(17) or(18) not(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) for(4) the(5) following(6) reasons(7) :(8) larger(9) family(10) ,(11) all(12) the(13) rave(14) reviews(15) ,(16) my(17) friend(18) told(19) me(20) he(21) loved(22) it(23) ,(24) and(25) because_of(26) supposedly(27) good(28) Honda(29) quality(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			Cons(1) :(2) I(3) did(4) test(5) drive(6) it(7) briefly(8) before(9) buying(10) and(11) found(12) it(13) boring(14) -(15) that(16) has(17) not(18) changed(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			What(1) I(2) did(3) discover(4) to(5) my(6) dismay(7) was(8) that(9) the(10) stock(11) 7(12) speaker(13) stereo(14) with(15) subwoofer(16) produces(17) absolutely(18) horrible(19) sound(20) and(21) the(22) FM(23) reception(24) is(25) poor(26) .(27) 
+			<opinion polarity="-" feature="sound system" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) not(3) an(4) audiophile(5) ,(6) but(7) this(8) radio(9) sounds(10) awful(11) for(12) any(13) car(14) ,(15) especially(16) for(17) a(18) $30,000(19) car(20) .(21) 
+			<opinion polarity="-" feature="radio" featWords="9" opWords="10,11"/>
+		</sentence>
+		<sentence id="6">
+			That(1) Pontiac_I(2) had(3) 15(4) years(5) ago(6) sounded(7) 1000_times(8) better(9) ((10) thats(11) right(12) -(13) 1000_times(14) )(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			I(1) know(2) ,(3) some(4) may(5) say(6) that(7) my(8) particular(9) radio(10) was(11) probably(12) broken(13) .(14) 
+			<opinion polarity="-" feature="radio" featWords="10" opWords="13"/>
+		</sentence>
+		<sentence id="8">
+			Let(1) me(2) assure(3) you(4) ,(5) I(6) checked(7) a(8) few(9) other(10) Pilots(11) and(12) they(13) ALL(14) have(15) this(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			FM(1) reception(2) is(3) poor(4) because_of(5) the(6) etched(7) antenna(8) .(9) 
+			<opinion polarity="-" feature="reception" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			With(1) only(2) 3_miles(3) on(4) the(5) odometer(6) ,(7) right(8) off(9) dealer(10) 's(11) lot(12) the(13) car(14) pulled(15) to(16) the(17) right(18) because(19) wheel(20) alignment(21) was(22) off(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			This(1) was(2) corrected(3) by(4) the(5) dealer(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Anyone(1) planning(2) to(3) buy(4) this(5) SUV(6) should(7) look(8) carefully(9) at(10) the(11) factory(12) recommended(13) maintenance(14) schedule(15) first(16) ,(17) which(18) along_with(19) regular(20) oil(21) changes(22) requires(23) other(24) things(25) that(26) will(27) add(28) to(29) the(30) cost(31) of(32) ownership(33) including(34) regular(35) changes(36) of(37) Transmission(38) and(39) rear(40) Differential(41) fluids(42) .(43) 
+		</sentence>
+		<sentence id="13">
+			Pilot(1) 's(2) leather(3) seats(4) are(5) too(6) soft(7) and(8) sag(9) quickly(10) .(11) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="9,10"/>
+			<opinion polarity="-" feature="seat" featWords="4" opWords="6,7"/>
+			<opinion polarity="+" feature="seat" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="14">
+			I(1) would(2) like(3) nice(4) firm(5) supportive(6) seats(7) .(8) 
+			<opinion polarity="+" feature="seat" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="seat" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="seat" featWords="7" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) a(3) huge(4) thread(5) on(6) honda-pilot(7) .(8) org(9) about(10) this(11) problem(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Steering(1) is(2) too(3) light(4) and(5) feels(6) numb(7) .(8) 
+			<opinion polarity="-" feature="steering" featWords="1" opWords="6,7"/>
+			<opinion polarity="-" feature="steering" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="17">
+			Unlike(1) some(2) reports(3) ,(4) I(5) think(6) this(7) SUV(8) feels(9) big(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			do(1) not(2) expect(3) more(4) than(5) 13(6) -(7) 14(8) mpg(9) in(10) city(11) driving(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Instrument(1) panel(2) is(3) largely(4) obscured(5) by(6) steering(7) wheel(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			Seat(1) leather(2) is(3) fragile(4) .(5) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="4"/>
+			<opinion polarity="+" feature="seat" featWords="1" opWords="2"/>
+		</sentence>
+		<sentence id="21">
+			Factory_RES(1) system(2) is(3) $2,000(4) .(5) 
+		</sentence>
+		<sentence id="22">
+			Aftermarket(1) with(2) install(3) $1,000(4) .(5) 
+		</sentence>
+		<sentence id="23">
+			NAV(1) option(2) -(3) $2,000(4) .(5) 
+		</sentence>
+		<sentence id="24">
+			Aftermarket(1) portable(2) unit(3) -(4) $900(5) No(6) moon(7) roof(8) option(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			Pros(1) :(2) Comfortable(3) ride(4) .(5) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="26">
+			This(1) SUV(2) rides(3) comfortably(4) and(5) safely(6) ,(7) although(8) quick(9) lane(10) changes(11) require(12) more(13) attention(14) than(15) usual(16) .(17) 
+			<opinion polarity="+" feature="ride quality" opWords="3,6"/>
+			<opinion polarity="+" feature="ride quality" opWords="3,4"/>
+		</sentence>
+		<sentence id="27">
+			Climate(1) control(2) system(3) is(4) powerful(5) and(6) quiet(7) .(8) 
+			<opinion polarity="+" feature="climate" featWords="1" opWords="7"/>
+			<opinion polarity="+" feature="climate" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="28">
+			Good(1) road(2) visibility(3) .(4) 
+			<opinion polarity="+" feature="visibility" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="29">
+			Ride(1) is(2) quiet(3) ,(4) I(5) know(6) because(7) I(8) keep(9) the(10) radio(11) off(12) most(13) of(14) the(15) time(16) .(17) 
+			<opinion polarity="+" feature="ride quality" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="30">
+			Lots(1) of(2) cargo(3) and(4) misc(5) storage(6) space(7) .(8) 
+		</sentence>
+		<sentence id="31">
+			Easy(1) to(2) park(3) in(4) a(5) city(6) because_of(7) angled(8) front(9) bumper(10) corners(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="1,2,3"/>
+		</sentence>
+		<sentence id="32">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30000(7) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="463" item="1999 Lexus RX 300" rating="1">
+	<title>
+		<sentence id="1">
+			Lousy(1) car(2) +(3) arrogant(4) manufacturer(5) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Squeak(1) brakes(2) ,(3) loud(4) wind(5) noise(6) ,(7) poor(8) gas(9) mileage(10) ,(11) poor(12) performance(13) ,(14) poor(15) build(16) quality(17) for(18) $42k(19) 
+			<opinion polarity="-" feature="performance" featWords="13" opWords="12"/>
+			<opinion polarity="-" feature="gas" featWords="9,10" opWords="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) the(3) Motor_Trend_Jan(4) .(5) 2005(6) issue(7) on(8) the(9) early(10) Lexus_RX(11) 300(12) model(13) �(14) s(15) teething(16) problem(17) ,(18) I(19) think(20) that(21) was(22) an(23) understatement(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			I(1) owned(2) a(3) 1999(4) RX(5) 300(6) and(7) it(8) has(9) given(10) me(11) nothing(12) but(13) problems(14) as(15) described(16) in(17) the(18) article(19) since(20) it(21) was(22) brand(23) new(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) written(3) to(4) Lexus(5) in(6) numerous(7) occasions(8) and(9) they(10) simply(11) ignored(12) my(13) complaints(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			In(1) their(2) last(3) written(4) response(5) ,(6) they(7) stated(8) that(9) the(10) break(11) noise(12) was(13) under(14) normal(15) operating(16) parameter(17) and(18) refused(19) to(20) fix(21) it(22) even(23) the(24) vehicle(25) was(26) still(27) under(28) warranty(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			Lexus(1) may(2) have(3) addressed(4) those(5) problems(6) in(7) later(8) year(9) models(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) their(3) irresponsible(4) &(5) arrogant(6) attitude(7) made(8) me(9) sick(10) to(11) my(12) stomach(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) did(2) one(3) thing(4) any(5) car(6) owners(7) can(8) do(9) and(10) that(11) is(12) ,(13) advising(14) all(15) my(16) acquaintances(17) and(18) prospective(19) Lexus(20) buyers(21) aware(22) the(23) potential(24) consequence(25) if(26) they(27) should(28) own(29) one(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 42000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999(12) 
+		</sentence>
+	</text>
+</review>

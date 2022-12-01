@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="956" item="1999 Dodge Caravan" rating="1">
+	<title>
+		<sentence id="1">
+			would(1) not(2) Recommend_This_To_Anyone(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) ,(2) lots(3) of(4) features(5) .(6) 
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unreliable(1) ,(2) multiple(3) problems(4) .(5) 
+			<opinion polarity="-" feature="reliability" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Leased(1) a(2) $31,000(3) Grand_Caravan_LE(4) ,(5) All(6) wheel(7) drive(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Aesthetically(1) ,(2) I(3) like(4) the(5) styling(6) and(7) looks(8) of(9) the(10) interior(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) great(3) room(4) in(5) it(6) and(7) is(8) great(9) for(10) trips(11) .(12) 
+			<opinion polarity="+" feature="room" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			HOWEVER(1) ,(2) it(3) has(4) been(5) a(6) mechanical(7) nightmare(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) the(3) same(4) wheel-bearing(5) replaced(6) twice(7) within(8) 30,000_miles(9) ,(10) the(11) tranny(12) replaced(13) at(14) 60,000(15) ,(16) and(17) it(18) has(19) had(20) various(21) noises(22) that(23) the(24) dealer(25) can(26) not(27) seem(28) to(29) fix(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			The(1) lines(2) to(3) the(4) rear(5) heat(6) and(7) air(8) also(9) corroded(10) ,(11) costing(12) nearly(13) $300(14) to(15) fix(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Have(1) not(2) gotten(3) any(4) support(5) or(6) feedback(7) from(8) Dodge(9) ((10) the(11) company(12) ,(13) not(14) the(15) dealer(16) )(17) to(18) help(19) ease(20) my(21) concerns(22) or(23) anger(24) about(25) their(26) product(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			It(1) seems(2) that(3) they(4) do(5) not(6) care(7) if(8) they(9) lose(10) a(11) customer(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LE_All(16) wheel(17) drive(18) 
+		</sentence>
+	</text>
+</review>

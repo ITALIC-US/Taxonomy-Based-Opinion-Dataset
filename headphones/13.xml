@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="13" item="Bang & Olufsen A8 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			OK(1) ,(2) but(3) not(4) great(5) .(6) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="headphones" opWords="4,5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) for(3) the(4) type(5) of(6) headphones(7) that(8) they(9) are(10) .(11) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) is(2) not(3) great(4) .(5) 
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) no(3) lows(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) happened(2) to(3) see(4) this(5) while(6) on(7) vacation(8) in(9) Orlando(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) hesitant(3) to(4) buy(5) them(6) because(7) the(8) sound(9) is(10) not(11) great(12) .(13) 
+			<opinion polarity="-" feature="sound quality" featWords="9" opWords="11,12"/>
+		</sentence>
+		<sentence id="3">
+			I(1) still(2) feel(3) the(4) same(5) ,(6) the(7) sound(8) is(9) not(10) great(11) .(12) 
+			<opinion polarity="-" feature="sound quality" featWords="8" opWords="10,11"/>
+		</sentence>
+		<sentence id="4">
+			The(1) A8(2) does(3) not(4) have(5) lows(6) and(7) the(8) highs(9) are(10) not(11) great(12) ,(13) but(14) the(15) mid(16) is(17) OK(18) .(19) 
+			<opinion polarity="-" feature="highs" featWords="9" opWords="11,12"/>
+			<opinion polarity="+" feature="mids" featWords="16" opWords="18"/>
+		</sentence>
+		<sentence id="5">
+			I(1) just(2) needed(3) something(4) to(5) throw(6) in(7) my(8) workout(9) bag(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			If(1) I(2) had(3) more(4) time(5) ,(6) I(7) would(8) spend(9) the(10) time(11) to(12) look(13) for(14) something(15) better(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) in(3) Tokyo(4) last(5) month(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			I(1) went(2) to(3) one(4) of(5) the(6) department(7) stores(8) in(9) electric(10) town(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) spent(2) a(3) couple(4) of(5) hours(6) checking(7) out(8) every(9) set(10) of(11) headphones(12) ,(13) and(14) then(15) I(16) just(17) did(18) not(19) buy(20) anything(21) ,(22) what(23) a(24) mistake(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			To(1) some(2) people(3) ,(4) I(5) would(6) think(7) these(8) headphones(9) are(10) pricey(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) one(2) thing(3) I(4) do(5) like(6) about(7) the(8) headphones(9) is(10) that(11) for(12) an(13) inner(14) ear(15) headphone(16) ,(17) they(18) look(19) nice(20) and(21) do(22) not(23) hurt(24) my(25) ears(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			If(1) anyone(2) knows(3) of(4) any(5) headphones(6) ,(7) that(8) are(9) small(10) ,(11) compact(12) ,(13) and(14) produce(15) better(16) sound(17) ,(18) please(19) let(20) me(21) know(22) .(23) 
+		</sentence>
+	</text>
+</review>

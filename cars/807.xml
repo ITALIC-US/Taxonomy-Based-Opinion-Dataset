@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="807" item="2001 Ford Escort ZX2" rating="2">
+	<title>
+		<sentence id="1">
+			wobbly(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			cheap(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flimsy(1) and(2) wobbly(3) handling(4) 
+			<opinion polarity="-" feature="handling" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="handling" featWords="4" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) did(2) not(3) buy(4) one(5) ,(6) but(7) rented(8) one(9) for(10) a(11) week(12) ,(13) and(14) would(15) not(16) think(17) of(18) buying(19) one(20) ,(21) although(22) I(23) 've(24) been(25) reasonably(26) happy(27) with(28) the(29) two(30) Fords_I(31) 've(32) owned(33) ,(34) a(35) 1990(36) Taurus(37) ,(38) which(39) was(40) OK(41) ,(42) and(43) my(44) present(45) 95(46) Ford_Contour(47) ,(48) which(49) I(50) love(51) .(52) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+			<opinion polarity="+" feature="car" opWords="41"/>
+			<opinion polarity="+" feature="car" opWords="27" potency="26"/>
+		</sentence>
+		<sentence id="2">
+			After(1) the(2) Contour(3) 's(4) elegant(5) handling(6) ,(7) this(8) Escort(9) sedan(10) felt(11) like(12) a(13) bicycle(14) with(15) wobbly(16) and(17) off-kilter(18) handlebars(19) .(20) 
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) found(2) that(3) the(4) brakes(5) are(6) slow(7) to(8) respond(9) .(10) 
+			<opinion polarity="-" feature="brakes" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			The(1) seats(2) try(3) and(4) mimic(5) sports(6) car(7) bucket(8) seats(9) unsuccessfully(10) and(11) are(12) pretty(13) uncomfortable(14) .(15) 
+			<opinion polarity="-" feature="seat" featWords="9" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) got(3) some(4) back(5) problems(6) and(7) found(8) getting(9) in(10) and(11) out(12) of(13) this(14) car(15) difficult(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			I(1) can(2) not(3) think(4) of(5) any(6) reason(7) anyone(8) should(9) buy(10) this(11) car(12) except_for(13) the(14) low(15) price(16) .(17) 
+			<opinion polarity="-" feature="price" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

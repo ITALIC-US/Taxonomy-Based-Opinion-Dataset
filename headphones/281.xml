@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="281" item="Sony MDR-EX51LPP Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Very(1) comfortable(2) ,(3) but(4) sound(5) just(6) OK(7) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) blocks(3) out(4) noise(5) well(6) ,(7) relatively(8) inexpensive(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="9" potency="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) just(2) is(3) not(4) that(5) good(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) only(2) had(3) these(4) earphones(5) for(6) one(7) day(8) so(9) I(10) can(11) not(12) attest(13) to(14) how(15) fragile(16) they(17) are(18) or(19) how(20) long(21) they(22) will(23) last(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) I(3) can(4) say(5) that(6) they(7) are(8) VERY(9) comfortable(10) to(11) wear(12) .(13) 
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) to(3) take(4) the(5) earphones(6) that(7) came(8) with(9) my(10) iriver(11) out(12) after(13) a(14) few(15) songs(16) -(17) they(18) are(19) quite(20) painful(21) to(22) wear(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Sadly(1) ,(2) the(3) Sony(4) earbuds(5) do(6) not(7) sound(8) as(9) good(10) as(11) they(12) feel(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) dynamic(2) range(3) is(4) not(5) even(6) as(7) good(8) as(9) the(10) earphones(11) that(12) came(13) with(14) my(15) iriver(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) nothing(3) crisp(4) about(5) the(6) highs(7) or(8) lows(9) -(10) everything(11) sounds(12) very(13) artificial(14) .(15) 
+			<opinion polarity="-" feature="sound quality" opWords="12,14" potency="13"/>
+		</sentence>
+		<sentence id="7">
+			They(1) do(2) cancel(3) noise(4) out(5) fairly(6) well(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			So(1) if(2) you(3) want(4) some(5) good(6) earplugs(7) that(8) play(9) music(10) the(11) way(12) it(13) sounded(14) before(15) CDs(16) were(17) invented(18) at(19) a(20) relatively(21) cheap(22) price(23) ,(24) these(25) are(26) the(27) earphones(28) for(29) you(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			As(1) for(2) me(3) ,(4) I(5) 'm(6) still(7) looking(8) for(9) some(10) comfortable(11) earphones(12) that(13) do(14) not(15) cost(16) $200(17) +(18) .(19) 
+		</sentence>
+	</text>
+</review>

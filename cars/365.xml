@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="365" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) family(2) car(3) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) room(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Although(1) this(2) car(3) may(4) look(5) like(6) a(7) family(8) sedan(9) ,(10) it(11) packs(12) a(13) surprising(14) amount(15) of(16) power(17) in(18) its(19) engine(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			It(1) accelerates(2) reasonably(3) quickly(4) and(5) purrs(6) like(7) a(8) kitten(9) if(10) kept(11) in(12) good(13) condition(14) .(15) 
+			<opinion polarity="+" feature="acceleration" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) also(3) handles(4) very(5) nicely(6) ,(7) taking(8) corners(9) with(10) precision(11) and(12) grace(13) .(14) 
+			<opinion polarity="+" feature="handling" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) most(2) appealing(3) part(4) of(5) the(6) car(7) for(8) me(9) though(10) is(11) not(12) how(13) it(14) handles(15) ,(16) but(17) in(18) the(19) amazing(20) amount(21) of(22) passenger(23) room(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) some(3) very(4) tall(5) friends(6) and(7) it(8) is(9) important(10) for(11) me(12) to(13) have(14) a(15) car(16) that(17) is(18) able(19) to(20) handle(21) a(22) full(23) car(24) of(25) them(26) plus(27) any(28) other(29) luggage(30) or(31) baggage(32) that(33) might(34) accompany(35) them(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			The(1) trunk(2) space(3) is(4) amazing(5) and(6) I(7) have(8) never(9) had(10) any(11) trouble(12) fitting(13) in(14) multiple(15) suitcases(16) and(17) the(18) like(19) .(20) 
+			<opinion polarity="+" feature="trunk space" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) makes(3) for(4) great(5) transportation(6) for(7) any(8) family(9) and(10) I(11) highly(12) reccomend(13) it(14) !(15) 
+		</sentence>
+		<sentence id="8">
+			Happy(1) trails(2) friends(3) and(4) good(5) luck(6) with(7) your(8) miles(9) of(10) trials(11) and(12) trials(13) of(14) miles(15) !(16) 
+		</sentence>
+	</text>
+</review>

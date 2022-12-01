@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="275" item="Amsterdam Court Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			What(1) A(2) Dump(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Parking(1) -(2) $20(3) with(4) validation(5) at(6) the(7) Gershwin_Theater(8) across(9) the(10) street(11) .(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) room(2) is(3) so(4) small(5) you(6) can(7) not(8) even(9) play(10) a(11) decent(12) game(13) of(14) twister(15) .(16) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			As(1) Bette_Davis(2) would(3) say(4) WHAT(5) A(6) DUMP(7) !(8) -(9) I(10) was(11) extremely(12) disappointed(13) in(14) this(15) place(16) -(17) the(18) only(19) saving(20) grace(21) was(22) the(23) $20(24) parking(25) across(26) the(27) street(28) at(29) the(30) Gershwin_Theater(31) ((32) with(33) validation(34) )(35) .(36) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) a(3) small(4) room(5) for(6) 3(7) people(8) -(9) we(10) had(11) asked(12) for(13) 2(14) beds(15) but(16) instead(17) received(18) a(19) rollaway(20) .(21) 
+			<opinion polarity="-" feature="rooms" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) shower(2) water(3) would(4) not(5) regulate(6) properly(7) -(8) it(9) went(10) from(11) hot(12) to(13) scalding(14) -(15) no(16) cold(17) water(18) !(19) 
+		</sentence>
+		<sentence id="4">
+			Can(1) you(2) believe(3) that(4) !(5) !(6) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) also(4) in(5) the(6) middle(7) of(8) renovations(9) so(10) the(11) entire(12) lobby(13) is(14) being(15) painted(16) and(17) is(18) a(19) mess(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Not(1) worth(2) the(3) $250(4) I(5) paid(6) for(7) one(8) night(9) !(10) !(11) !(12) !(13) 
+		</sentence>
+	</text>
+</review>

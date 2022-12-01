@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="35" item="Sony MDR-A35G Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Bad_Batch(1) ?(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			light(1) weight(2) ,(3) secure(4) but(5) comfortable(6) fit(7) ,(8) good(9) sound(10) 
+			<opinion polarity="+" feature="weight" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="7" opWords="4"/>
+			<opinion polarity="+" feature="comfort" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			head(1) band(2) breaks(3) after(4) less(5) than(6) a(7) month(8) rendering(9) the(10) headphones(11) useless(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			had(1) used(2) SONY(3) MDR-A35(4) headphones(5) for(6) years(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) generally(3) lasted(4) for(5) at_least(6) 6(7) months(8) of(9) heavy(10) daily(11) use(12) before(13) one(14) ear(15) has(16) gone(17) dead(18) ((19) presumably(20) a(21) broken(22) wire(23) )(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) none(3) of(4) my(5) recent(6) replacements(7) have(8) lasted(9) more(10) than(11) one(12) month(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) last(3) 4(4) months(5) I(6) have(7) gone(8) through(9) four(10) sets(11) of(12) MDR-A35s(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Each(1) set(2) has(3) broken(4) in(5) the(6) same(7) way(8) -(9) the(10) head(11) band(12) has(13) snapped(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) guess(2) that(3) SONY(4) changed(5) the(6) manufacturing(7) process(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			In(1) any(2) case(3) ,(4) I(5) now(6) have(7) to(8) look(9) for(10) a(11) replacement(12) make(13) .(14) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="449" item="SUPER 8 MOTEL - LEESBURG" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) terribly(2) bad(3) ...(4) especially(5) for(6) the(7) price(8) !(9) 
+			<opinion polarity="+" feature="hotel" opWords="1,3" potency="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) and(2) inexpensive(3) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) that(2) were(3) noticable(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) a(2) bad(3) place(4) to(5) stay(6) for(7) a(8) night(9) or(10) two(11) .(12) 
+			<opinion polarity="+" feature="place" featWords="4" opWords="1,3"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) definitely(3) stayed(4) in(5) worse(6) !(7) !(8) !(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) returned(3) from(4) a(5) weekend(6) trip(7) across(8) Florida(9) and(10) on(11) my(12) way(13) back(14) home(15) ,(16) I(17) spent(18) the(19) night(20) at(21) the(22) Leesburg_Super(23) 8(24) Motel(25) ,(26) located(27) off(28) of(29) Hwy(30) .(31) 27(32) and(33) the(34) Florida_Turnpike(35) ,(36) near(37) where(38) it(39) meets(40) up(41) with(42) Interstate(43) 75(44) .(45) 
+		</sentence>
+		<sentence id="2">
+			Normally(1) ,(2) I(3) prefer(4) to(5) stay(6) in(7) a(8) something(9) a(10) little(11) "(12) fancier(13) "(14) than(15) a(16) Super(17) 8(18) ,(19) but(20) when(21) I(22) was(23) looking(24) in(25) advance(26) at(27) the(28) prices(29) online(30) ,(31) I(32) saw(33) the(34) rate(35) of(36) $56(37) a(38) night(39) and(40) the(41) place(42) did(43) not(44) look(45) TOO(46) bad(47) .(48) 
+			<opinion polarity="+" feature="place" featWords="42" opWords="44,46,47"/>
+		</sentence>
+		<sentence id="3">
+			Comparing(1) it(2) to(3) other(4) motels(5) in(6) the(7) area(8) ,(9) one(10) thing(11) aside(12) from(13) the(14) price(15) that(16) attracted(17) me(18) to(19) the(20) motel(21) was(22) the(23) fact(24) that(25) the(26) hallways(27) to(28) the(29) room(30) were(31) all(32) interior(33) halls(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			As(1) a(2) female(3) traveling(4) alone(5) ,(6) I(7) have(8) this(9) "(10) thing(11) "(12) about(13) staying(14) at(15) motor(16) lodges(17) where(18) the(19) exterior(20) doors(21) open(22) out(23) to(24) the(25) parking(26) lots(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Yes(1) ,(2) it(3) may(4) seem(5) a(6) little(7) paranoid(8) ,(9) but(10) the(11) interior(12) walls(13) just(14) make(15) me(16) feel(17) a_bit(18) safer(19) .(20) ***(21) Please(22) note(23) that(24) the(25) exterior(26) of(27) the(28) motel(29) does(30) NOT(31) look(32) like(33) it(34) does(35) in(36) the(37) photograph(38) above(39) this(40) review(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			The(1) exterior(2) has(3) obviously(4) been(5) redone(6) as(7) it(8) is(9) a(10) pale(11) pink(12) stucco(13) color(14) now(15) ***(16) I(17) checked(18) in(19) around(20) 3:00(21) and(22) the(23) front(24) desk(25) clerk(26) was(27) nice(28) ,(29) albeit(30) a(31) little(32) laid(33) back(34) .(35) 
+			<opinion polarity="+" feature="front desk" featWords="24,25" opWords="28"/>
+		</sentence>
+		<sentence id="7">
+			My(1) room(2) was(3) on(4) the(5) 3rd(6) floor(7) and(8) upon(9) first(10) inspection(11) of(12) the(13) hotel(14) "(15) lobby(16) "(17) it(18) seemed(19) clean(20) and(21) what(22) I(23) would(24) expect(25) for(26) the(27) price(28) range(29) .(30) 
+			<opinion polarity="+" feature="lobby" featWords="16" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			I(1) took(2) the(3) elevator(4) to(5) the(6) third(7) floor(8) where(9) I(10) had(11) a(12) queen(13) size(14) ,(15) smoking(16) room(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) room(2) was(3) on(4) the(5) small(6) side(7) ,(8) but(9) easily(10) fit(11) a(12) queen(13) size(14) bed(15) ,(16) desk(17) and(18) a(19) two(20) drawer(21) dresser(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			There(1) was(2) no(3) separate(4) closet(5) ,(6) but(7) in(8) the(9) back(10) corner(11) of(12) the(13) room(14) ,(15) they(16) did(17) have(18) a(19) hanging(20) rod(21) with(22) hangers(23) and(24) ironing(25) board(26) /(27) iron(28) ,(29) as_well(30) as(31) a(32) safe(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) also(3) a(4) good(5) size(6) refrigerator(7) and(8) coffeemaker(9) ,(10) complete(11) with(12) coffee(13) making(14) supplies(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) nervous(3) to(4) look(5) in(6) the(7) bathroom(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			I(1) was(2) not(3) expecting(4) much(5) ,(6) but(7) I(8) was(9) VERY(10) pleased(11) to(12) find(13) a(14) clean(15) ,(16) well(17) kept(18) bathroom(19) .(20) 
+			<opinion polarity="+" feature="bathroom" featWords="19" opWords="15"/>
+			<opinion polarity="+" feature="bathroom" featWords="19" opWords="17,18"/>
+		</sentence>
+		<sentence id="14">
+			It(1) had(2) a(3) single(4) sink(5) ,(6) tub(7) and(8) shower(9) ((10) that(11) had(12) very(13) good(14) water(15) pressure(16) )(17) ,(18) as_well(19) as(20) a(21) mini(22) hairdryer(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			Except_for(1) the(2) occasional(3) faded(4) cigarette(5) burn(6) mark(7) on(8) the(9) bathroom(10) counter(11) ((12) remember(13) this(14) was(15) a(16) smoking(17) room(18) )(19) ,(20) it(21) was(22) in(23) nice(24) condition(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			The(1) bed(2) was(3) clean(4) ,(5) the(6) sheets(7) obviously(8) new(9) and(10) freshly(11) washed(12) ,(13) complete(14) with(15) a(16) soft(17) Velux(18) blanket(19) and(20) standard(21) "(22) Florida(23) tacky(24) "(25) bedspread(26) .(27) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bedding" featWords="7" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="bedding" featWords="7" opWords="11,12"/>
+			<opinion polarity="+" feature="bedding" featWords="19" opWords="17"/>
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) also(3) had(4) a(5) full(6) side(7) recliner(8) ,(9) so(10) you(11) could(12) sit(13) in(14) front(15) of(16) the(17) TV(18) and(19) relax(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			Please(1) keep(2) in(3) mind(4) that(5) this(6) is(7) a(8) room(9) that(10) would(11) be(12) good(13) for(14) no(15) more(16) than(17) 2(18) people(19) .(20) 
+		</sentence>
+		<sentence id="19">
+			Any(1) more(2) and(3) it(4) would(5) be(6) too(7) cramped(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			The(1) hotel(2) offers(3) free(4) wireless(5) high(6) speed(7) internet(8) service(9) and(10) I(11) had(12) no(13) connection(14) problems(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			On(1) each(2) floor(3) there(4) was(5) a(6) Coke_Machine(7) and(8) the(9) ice(10) machine(11) and(12) snack(13) machine(14) is(15) located(16) on(17) the(18) first(19) floor(20) ((21) a(22) wee(23) bit(24) inconvenient(25) ,(26) in(27) my(28) opinion(29) )(30) .(31) 
+		</sentence>
+		<sentence id="22">
+			There(1) is(2) a(3) swimming(4) pool(5) on(6) the(7) property(8) ,(9) in(10) front(11) and(12) the(13) pool(14) seemed(15) quite(16) clean(17) ((18) I(19) am(20) a(21) pool(22) owner(23) myself(24) and(25) can(26) recognize(27) a(28) nasty(29) pool(30) !(31) )(32) with(33) a(34) number(35) of(36) kids(37) playing(38) and(39) having(40) a(41) good(42) time(43) .(44) 
+			<opinion polarity="+" feature="swimming pool" featWords="14" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="23">
+			The(1) Leesburg_Super(2) 8(3) seemed(4) to(5) be(6) in(7) a(8) relatively(9) safe(10) area(11) and(12) was(13) located(14) near(15) a(16) number(17) of(18) stores(19) and(20) places(21) to(22) eat(23) .(24) 
+			<opinion polarity="+" feature="place" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="24">
+			There(1) is(2) a(3) Bob_Evans_Restaurant(4) across(5) the(6) street(7) and(8) a(9) Sonny_'s_BBQ(10) located(11) next(12) door(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			I(1) personally(2) enjoyed(3) an(4) inexpensive(5) dinner(6) from(7) the(8) Maryland_Fried_Chicken(9) located(10) down(11) the(12) street(13) ,(14) across(15) from(16) the(17) Publix(18) grocery(19) store(20) .(21) 
+			<opinion polarity="+" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="26">
+			Additionally(1) ,(2) there(3) are(4) a(5) number(6) of(7) chain(8) restaurants(9) like(10) McDonalds(11) ,(12) Wendy(13) 's(14) and(15) Taco_Bell(16) nearby(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Overall(1) ,(2) I(3) would(4) not(5) say(6) this(7) is(8) a(9) GREAT(10) motel(11) ,(12) but(13) for(14) the(15) price(16) paid(17) for(18) a(19) one(20) night(21) stay(22) $62(23) ((24) with(25) the(26) taxes(27) included(28) )(29) it(30) was(31) a(32) very(33) good(34) deal(35) .(36) 
+		</sentence>
+		<sentence id="28">
+			I(1) would(2) have(3) no(4) problems(5) staying(6) here(7) again(8) ...(9) but(10) for(11) only(12) a(13) night(14) or(15) two(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			If(1) I(2) had(3) to(4) stay(5) for(6) an(7) extended(8) period(9) of(10) time(11) ,(12) I(13) would(14) probably(15) suck(16) up(17) the(18) cost(19) and(20) stay(21) in(22) a(23) nicer(24) place(25) in(26) Wildwood(27) or(28) Orlando(29) .(30) 
+		</sentence>
+	</text>
+</review>

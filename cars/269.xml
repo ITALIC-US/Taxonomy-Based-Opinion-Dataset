@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="269" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Maxima(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Family(1) sedan(2) or(3) sports(4) sedan(5) ?(6) you(7) decide(8) .(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			competence(1) ,(2) roomy(3) interior(4) ,(5) fast(6) acceleration(7) ,(8) easy(9) to(10) use(11) ,(12) sporty(13) handling(14) ,(15) 
+			<opinion polarity="+" feature="handling" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="acceleration" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="interior" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) center(2) console(3) ,(4) wishing(5) you(6) had(7) a(8) newer(9) maxima(10) as(11) they(12) get(13) better(14) every(15) year(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Nice(1) overall(2) car(3) Sports(4) /(5) Family(6) sedan(7) in(8) one(9) and(10) very(11) reliable(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="reliability" opWords="12" potency="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			There(1) is(2) a(3) big(4) discrepancy(5) with(6) the(7) maxima(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Some(1) people(2) see(3) it(4) as(5) a(6) family(7) sedan(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Some(1) people(2) see(3) it(4) as(5) a(6) sport(7) sedan(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Well(1) it(2) 's(3) both(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			The(1) reason(2) why(3) I(4) like(5) the(6) Maxima(7) is(8) its(9) overall(10) abilities(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			It(1) goes(2) 2(3) ways(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			GUYS(1) :(2) you(3) can(4) trick(5) your(6) wives(7) into(8) buying(9) the(10) maxima(11) because(12) it(13) can(14) fit(15) the(16) whole(17) family(18) on(19) a(20) long(21) trip(22) in(23) comfort(24) ,(25) pick(26) up(27) the(28) occasional(29) co-workers(30) to(31) go(32) to(33) a(34) formal(35) dinner(36) ,(37) and(38) than(39) be(40) driven(41) like(42) the(43) beast(44) that(45) is(46) hidden(47) underneath(48) .(49) 
+		</sentence>
+		<sentence id="8">
+			Girls(1) :(2) you(3) can(4) trick(5) your(6) husband(7) into(8) buying(9) this(10) car(11) because(12) you(13) can(14) tell(15) him(16) its(17) quick(18) ,(19) handles(20) great(21) and(22) looks(23) good(24) while(25) you(26) just(27) want(28) it(29) for(30) casual(31) driving(32) to(33) pick(34) up(35) your(36) girlfriends(37) and(38) go(39) shopping(40) .(41) 
+			<opinion polarity="+" feature="design" opWords="23,24"/>
+			<opinion polarity="+" feature="handling" opWords="20,21"/>
+			<opinion polarity="+" feature="speed" opWords="18"/>
+		</sentence>
+		<sentence id="9">
+			Exterior(1) :(2) You(3) can(4) tell(5) a(6) Maxima(7) apart_from(8) other(9) sedans(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			It(1) has(2) that(3) mean(4) look(5) to(6) it(7) and(8) that(9) wide(10) stance(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) Accord(2) ,(3) Camry(4) ,(5) Passat(6) look(7) more(8) like(9) friendly(10) vehicles(11) that(12) do(13) not(14) attract(15) much(16) attention(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) personally(2) love(3) the(4) look(5) of(6) the(7) rear(8) of(9) the(10) car(11) ,(12) I(13) like(14) the(15) smoked(16) taillights(17) on(18) my(19) SE(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) side(2) of(3) the(4) car(5) has(6) a(7) nice(8) slant(9) to(10) it(11) ,(12) suggesting(13) a(14) sporty(15) look(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			The(1) windows(2) are(3) large(4) and(5) provide(6) great(7) vision(8) .(9) 
+			<opinion polarity="+" feature="visibility" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="15">
+			The(1) mirrors(2) are(3) small(4) enough(5) to(6) resist(7) wind(8) noise(9) ,(10) but(11) large(12) enough(13) to(14) get(15) a(16) good(17) view(18) around(19) you(20) .(21) 
+			<opinion polarity="+" feature="visibility" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="16">
+			I(1) drive(2) highway(3) everyday(4) ,(5) and(6) wind(7) noise(8) is(9) minimal(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			Interior(1) :(2) Well(3) thought(4) out(5) ,(6) buttons(7) are(8) easy(9) to(10) reach(11) and(12) extremely(13) easy(14) to(15) use(16) .(17) 
+			<opinion polarity="+" feature="controls" featWords="7" opWords="14,15,16"/>
+			<opinion polarity="+" feature="controls" featWords="7" opWords="9,10,11"/>
+			<opinion polarity="+" feature="interior" featWords="1" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="18">
+			Climate(1) control(2) is(3) simple(4) ,(5) clockwise(6) for(7) hotter(8) ,(9) counterclockwise(10) for(11) colder(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Most(1) things(2) only(3) require(4) an(5) initial(6) setting(7) than(8) it(9) does(10) rest(11) on(12) it(13) 's(14) own(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Steering(1) is(2) engine(3) speed(4) sensitive(5) ,(6) switch(7) the(8) headlights(9) to(10) auto(11) and(12) they(13) go(14) on(15) at(16) night(17) off(18) in(19) the(20) day(21) ,(22) and(23) turn(24) off(25) with(26) the(27) car(28) .(29) 
+		</sentence>
+		<sentence id="21">
+			Climate(1) maintains(2) its(3) own(4) temperature(5) and(6) sets(7) itself(8) to(9) best(10) setting(11) to(12) heat(13) or(14) cool(15) the(16) quickest(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			Cruise(1) control(2) stays(3) at(4) your(5) set(6) speed(7) .(8) 
+		</sentence>
+		<sentence id="23">
+			Front(1) seats(2) are(3) called(4) "(5) Non(6) fatigue(7) design(8) seats(9) "(10) which(11) work(12) well(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			As(1) with(2) most(3) Nissan(4) 's(5) very(6) easy(7) to(8) use(9) and(10) everything(11) works(12) as(13) advertised(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			Power(1) adjustments(2) are(3) great(4) on(5) the(6) seats(7) including(8) lumbar(9) support(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			Lots(1) of(2) leg(3) room(4) in(5) he(6) front(7) and(8) the(9) rear(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			Rear(1) is(2) very(3) surprising(4) .(5) 
+		</sentence>
+		<sentence id="28">
+			The(1) rear(2) seats(3) fold(4) flat(5) allowing(6) for(7) large(8) items(9) to(10) fit(11) through(12) the(13) trunk(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			Total(1) of(2) 4(3) logically(4) placed(5) cupholders(6) with(7) a(8) clever(9) piece(10) that(11) removes(12) from(13) the(14) front(15) to(16) allow(17) 1(18) liter(19) bottles(20) .(21) 2(22) power(23) outlets(24) 1(25) front(26) and(27) 1(28) in(29) the(30) rear(31) allow(32) access(33) from(34) any(35) part(36) of(37) the(38) car(39) .(40) 
+		</sentence>
+		<sentence id="30">
+			The(1) center(2) console(3) is(4) slightly(5) small(6) ,(7) though(8) well(9) thought(10) out(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			Lifts(1) up(2) for(3) storage(4) for(5) CDS(6) ,(7) has(8) a(9) compartment(10) on(11) top(12) for(13) a(14) cell(15) phone(16) with(17) clever(18) holes(19) in(20) the(21) side(22) to(23) allow(24) for(25) wires(26) for(27) chargers(28) ,(29) headsets(30) ,(31) etc.(32) Adjustable(33) elbow(34) rest(35) has(36) 2(37) settings(38) for(39) different(40) drivers(41) .(42) 
+		</sentence>
+		<sentence id="32">
+			Adjustable(1) head(2) rests(3) support(4) your(5) head(6) and(7) keep(8) you(9) at(10) a(11) good(12) level(13) for_good(14) visibility(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			Performance(1) :(2) I(3) do(4) not(5) have(6) the(7) 17(8) "(9) wheels(10) package(11) ,(12) but(13) the(14) car(15) takes(16) corners(17) very(18) well(19) .(20) You(21) will(22) be(23) surprised(24) on(25) the(26) grip(27) it(28) has(29) ,(30) especially(31) if(32) you(33) have(34) the(35) 17(36) "(37) package(38) .(39) 
+		</sentence>
+		<sentence id="34">
+			The(1) suspension(2) in(3) the(4) SE(5) is(6) sport(7) tuned(8) which(9) means(10) a(11) rougher(12) ride(13) and(14) better(15) handling(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			Surprisingly(1) ,(2) it(3) absorbs(4) bumps(5) very(6) well(7) and(8) rides(9) smooth(10) but(11) lets(12) you(13) "(14) feel(15) "(16) the(17) road(18) .(19) 
+			<opinion polarity="+" feature="ride quality" opWords="9,10"/>
+		</sentence>
+		<sentence id="36">
+			It(1) does(2) not(3) really(4) go(5) out(6) of(7) balance(8) with(9) bumps(10) around(11) corners(12) it(13) is(14) quite(15) confident(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			The(1) car(2) has(3) great(4) acceleration(5) with(6) the(7) standard(8) 222HP(9) 3.0(10) liter(11) V6(12) .(13) earned(14) 10(15) best(16) engines(17) for(18) YEARS(19) now(20) and(21) it(22) is(23) compared(24) to(25) any(26) kind(27) of(28) engine(29) ,(30) not(31) just(32) cars(33) .(34) 
+			<opinion polarity="+" feature="acceleration" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="38">
+			It(1) is(2) difficult(3) to(4) earn(5) that(6) award(7) ,(8) obviously(9) Nissan(10) has(11) been(12) working(13) hard(14) to(15) keep(16) this(17) engine(18) optimum(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			It(1) is(2) very(3) smooth(4) and(5) can(6) not(7) be(8) heard(9) at(10) highway(11) speeds(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="40">
+			The(1) exhaust(2) note(3) is(4) silenced(5) but(6) has(7) a(8) little(9) growl(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			Nissan(1) has(2) gotten(3) it(4) 0-60(5) ((6) manual(7) tranny(8) )(9) in(10) 6.7_seconds(11) .(12) 
+		</sentence>
+		<sentence id="42">
+			Average(1) drivers(2) will(3) get(4) in(5) the(6) low(7) 7(8) 's(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			That(1) is(2) quick(3) .(4) 
+		</sentence>
+		<sentence id="44">
+			Braking(1) is(2) 60-0(3) in_128(4) feet(5) .(6) 
+		</sentence>
+		<sentence id="45">
+			The(1) best(2) cars(3) stop(4) in(5) 100-110_feet(6) .(7) 
+		</sentence>
+		<sentence id="46">
+			You(1) do(2) the(3) math(4) .(5) 
+		</sentence>
+		<sentence id="47">
+			The(1) 4(2) disc(3) brakes(4) are(5) large(6) ,(7) and(8) I(9) tested(10) them(11) they(12) resist(13) fading(14) for(15) a(16) fair(17) amount(18) of(19) time(20) .(21) 
+		</sentence>
+		<sentence id="48">
+			You(1) have(2) to(3) be(4) doing(5) high(6) speeds(7) ((8) 70-80(9) )(10) and(11) keep(12) stomping(13) on(14) the(15) brakes(16) down(17) to(18) almost(19) stopped(20) to(21) get(22) them(23) to(24) fade(25) .(26) 
+		</sentence>
+		<sentence id="49">
+			Great(1) overall(2) car(3) ,(4) My(5) 2000(6) SE(7) has(8) 98,500_miles(9) and(10) still(11) drives(12) like(13) new(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="50">
+			I(1) 've(2) seen(3) older(4) maximas(5) have(6) over(7) 400,000_miles(8) on(9) them(10) .(11) 
+		</sentence>
+		<sentence id="51">
+			Take(1) care(2) of(3) it(4) and(5) it(6) will(7) take(8) care(9) of(10) you(11) !(12) 
+		</sentence>
+		<sentence id="52">
+			Give(1) great(2) thanks(3) to(4) Japan(5) to(6) being(7) so(8) dedicated(9) in(10) building(11) quality(12) cars(13) for(14) us(15) .(16) 
+		</sentence>
+		<sentence id="53">
+			Good(1) job(2) ,(3) japan(4) .(5) 
+		</sentence>
+		<sentence id="54">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 11000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) SE(16) ,(17) comfort(18) and(19) conv(20) .(21) package(22) ,(23) Manual(24) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="804" item="1999 Mercury Grand Marquis" rating="2">
+	<title>
+		<sentence id="1">
+			Squealing_Brakes(1) -(2) Updated(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Classic(1) good(2) looks(3) ,(4) roomy(5) interior(6) ,(7) comfortable(8) ride(9) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="interior" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Develops(1) problems(2) within(3) a(4) few(5) thousand(6) miles(7) ,(8) dealership(9) unable(10) /(11) unwilling(12) to(13) correct(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) Mercury_Grand_Marquis(4) new(5) in(6) March_1999(7) with(8) every(9) option(10) possible(11) on(12) a(13) Mercury(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) done(3) our(4) research(5) ,(6) comparing(7) it(8) to(9) the(10) Buick_Ultra(11) ,(12) Toyota_Avalon(13) and(14) Chrysler_Concorde(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			We(1) checked(2) with(3) our(4) insurance(5) agent(6) -(7) according_to(8) him(9) ,(10) it(11) was(12) cheaper(13) to(14) insure(15) a(16) Grand_Marquis(17) because(18) they(19) came(20) out(21) better(22) in(23) the(24) crash(25) tests(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			All(1) in_all(2) ,(3) it(4) was(5) -(6) and(7) IS(8) -(9) the(10) most(11) car(12) for(13) the(14) money(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			It(1) IS(2) a(3) very(4) comfortable(5) car(6) to(7) ride(8) in(9) -(10) the(11) seats(12) are(13) superior(14) and(15) it(16) is(17) very(18) roomy(19) ,(20) particularly(21) nice(22) for(23) long(24) trips(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="22" potency="21"/>
+			<opinion polarity="+" feature="room" opWords="19" potency="18"/>
+			<opinion polarity="+" feature="seat" featWords="12" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			BUT(1) -(2) after(3) 8,000_miles(4) it(5) developed(6) a(7) rattle(8) in(9) the(10) dashboard(11) and(12) the(13) brakes(14) started(15) squealing(16) ,(17) not(18) during(19) a(20) '(21) hard(22) '(23) stop(24) but(25) slow(26) ,(27) gradual(28) stops(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) during(3) a(4) long(5) trip(6) we(7) discovered(8) that(9) there(10) was(11) a(12) short(13) in(14) the(15) wiring(16) between(17) the(18) headlights(19) ,(20) windshield(21) wipers(22) and(23) the(24) radio(25) /(26) tape(27) /(28) CD(29) player(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			When(1) the(2) radio(3) ,(4) etc.(5) was(6) on(7) and(8) the(9) headlights(10) and(11) windshield(12) wipers(13) turned(14) on(15) ,(16) the(17) radio(18) would(19) go(20) off(21) until(22) the(23) lights(24) ,(25) etc.(26) ,(27) were(28) turned(29) off(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			We(1) went(2) back(3) to(4) the(5) dealership(6) upon(7) our(8) return(9) home(10) and(11) told(12) them(13) the(14) problems(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) short(2) was(3) corrected(4) ((5) after(6) a_second(7) return(8) to(9) the(10) dealership(11) )(12) but(13) they(14) '(15) could(16) not(17) find(18) '(19) the(20) rattle(21) and(22) said(23) the(24) brakes(25) squealed(26) because_of(27) the(28) area(29) where(30) we(31) live(32) ((33) the(34) coast(35) )(36) .(37) 
+			<opinion polarity="-" feature="brakes" featWords="25" opWords="26"/>
+		</sentence>
+		<sentence id="11">
+			Strangely(1) ,(2) no(3) other(4) cars(5) ((6) Buick(7) ,(8) Avalon(9) ,(10) etc.(11) )(12) have(13) this(14) problem(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Then(1) we(2) were(3) told(4) that(5) since(6) the(7) asbestos(8) had(9) been(10) removed(11) from(12) the(13) brake(14) system(15) ,(16) this(17) squealing(18) was(19) normal(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			According_to(1) them(2) ,(3) there(4) was(5) nothing(6) they(7) could(8) do(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Two(1) calls(2) to(3) Ford_Motor_Company(4) gave(5) no(6) satisfaction(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			The(1) first(2) call(3) had(4) a(5) representative(6) promising(7) to(8) refer(9) the(10) problem(11) to(12) the(13) technical(14) department(15) and(16) get(17) back(18) to(19) us(20) within(21) 48(22) hours(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			Never(1) heard(2) from(3) them(4) !(5) 
+		</sentence>
+		<sentence id="17">
+			On(1) the(2) second(3) call(4) the(5) representative(6) said(7) the(8) problem(9) would(10) be(11) referred(12) to(13) the(14) dealership(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			What(1) '(2) help(3) '(4) was(5) that(6) ?(7) 
+		</sentence>
+		<sentence id="19">
+			We(1) 'd(2) already(3) DONE(4) that(5) !(6) 
+		</sentence>
+		<sentence id="20">
+			And(1) we(2) never(3) DID(4) hear(5) from(6) the(7) dealership(8) regarding(9) our(10) complaint(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			End(1) result(2) -(3) we(4) STILL(5) had(6) squealing(7) brakes(8) .(9) 
+			<opinion polarity="-" feature="brakes" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="22">
+			A(1) call(2) to(3) a(4) different(5) dealership(6) was(7) a(8) little(9) more(10) productive(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			The(1) service(2) manager(3) there(4) told(5) us(6) to(7) make(8) several(9) sharp(10) stops(11) -(12) drive(13) at(14) 50(15) mph(16) and(17) slam(18) on(19) the(20) brakes(21) .(22) 
+		</sentence>
+		<sentence id="24">
+			He(1) said(2) this(3) would(4) NOT(5) correct(6) the(7) problem(8) ((9) there(10) IS(11) no(12) permanent(13) correction(14) available(15) )(16) but(17) WOULD(18) ease(19) it(20) temporarily(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			We(1) tried(2) it(3) and(4) it(5) DID(6) last(7) for(8) a(9) while(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			But(1) this(2) is(3) not(4) a(5) feasible(6) answer(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			We(1) finally(2) received(3) a(4) response(5) from(6) Ford_Customer_Service(7) -(8) a(9) form(10) letter(11) stating(12) that(13) '(14) every(15) consideration(16) had(17) been(18) given(19) to(20) the(21) matter(22) ...(23) and(24) they(25) were(26) unable(27) to(28) further(29) review(30) our(31) concern(32) '(33) .(34) 
+		</sentence>
+		<sentence id="28">
+			Ford_Assistance_Line(1) ?(2) 
+		</sentence>
+		<sentence id="29">
+			No(1) such(2) thing(3) !(4) 
+		</sentence>
+		<sentence id="30">
+			At(1) this(2) point(3) in(4) time(5) ,(6) I(7) doubt(8) very(9) much(10) if(11) we(12) would(13) ever(14) purchase(15) another(16) Ford(17) product(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			In(1) fact(2) ,(3) I(4) 'm(5) sure(6) we(7) would(8) NOT(9) nor(10) could(11) we(12) ever(13) recommend(14) it(15) to(16) anyone(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="15" featRef="car" opWords="14"/>
+		</sentence>
+		<sentence id="32">
+			Update(1) :(2) In(3) May(4) ,(5) after(6) owning(7) this(8) car(9) for(10) 14(11) months(12) and(13) with(14) the(15) dealership(16) and(17) /(18) or(19) Ford_Motor_Company(20) indifferent(21) to(22) our(23) problem(24) and(25) either(26) unable(27) or(28) unwilling(29) to(30) help(31) us(32) ,(33) we(34) got(35) rid(36) of(37) it(38) .(39) 
+		</sentence>
+	</text>
+</review>

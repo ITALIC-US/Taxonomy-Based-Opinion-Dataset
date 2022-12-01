@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="470" item="Hyatt Regency Houston Airport" rating="3">
+	<title>
+		<sentence id="1">
+			Adequate_Hotel(1) ,(2) Convenient(3) to(4) Bush_Airport(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) location(2) to(3) airport(4) ;(5) nice(6) variety(7) of(8) mature(9) trees(10) in(11) the(12) atrium(13) around(14) the(15) pool(16) .(17) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bland(1) 1980(2) 's(3) "(4) office(5) park(6) "(7) exterior(8) ;(9) inadequate(10) lighting(11) in(12) sleeping(13) room(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommended(1) for(2) business(3) traveler(4) needing(5) convenience(6) to(7) Bush_Intercontinental_Airport_Houston(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			General_Information_I(1) am(2) a(3) frequent(4) business(5) traveler(6) ,(7) and(8) I(9) stayed(10) at(11) this(12) Hyatt_Hotel(13) on(14) a(15) non-business(16) trip(17) for(18) two(19) nights(20) in(21) late(22) 2003(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Location_This(1) hotel(2) is(3) located(4) south(5) of(6) the(7) airport(8) ,(9) probably(10) about(11) ten(12) minutes(13) away(14) by(15) car(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) area(2) is(3) populated(4) mostly(5) with(6) other(7) hotels(8) ,(9) office(10) buildings(11) ,(12) and(13) a(14) few(15) other(16) industrial(17) looking(18) buildings(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) a(3) fast-food(4) restaurant(5) next(6) door(7) ((8) Taco_Bell(9) ,(10) I(11) think(12) )(13) ,(14) but(15) not(16) a_lot_of(17) other(18) restaurants(19) or(20) small(21) businesses(22) around(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			General_Hotel_Information_The(1) building(2) is(3) of(4) 1980(5) 's(6) vintage(7) ,(8) it(9) is(10) three(11) stories(12) tall(13) ,(14) and(15) it(16) is(17) arranged(18) around(19) an(20) enclosed(21) courtyard(22) with(23) a(24) variety(25) of(26) tall(27) trees(28) and(29) a(30) pool(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			The(1) building(2) looks(3) uninviting(4) from_outside(5) ,(6) but(7) I(8) found(9) it(10) to(11) be(12) comfortable(13) enough(14) on(15) the(16) inside(17) for(18) my(19) short(20) stay(21) .(22) 
+			<opinion polarity="-" feature="building" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Parking_There(1) is(2) ample(3) free(4) parking(5) in(6) the(7) lot(8) next(9) to(10) the(11) building(12) .(13) 
+			<opinion polarity="+" feature="parking" featWords="5" opWords="3"/>
+			<opinion polarity="+" feature="parking" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Staff_While_I(1) made(2) no(3) special(4) requests(5) of(6) the(7) staff(8) ,(9) I(10) did(11) have(12) several(13) encounters(14) with(15) them(16) ,(17) and(18) they(19) were(20) very(21) friendly(22) and(23) eager(24) to(25) assist(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			Sleeping_Room_I(1) occupied(2) a(3) non-smoking(4) room(5) with(6) a(7) queen-size(8) bed(9) on(10) the(11) second(12) floor(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) room(2) had(3) a(4) chest(5) of(6) drawers(7) ,(8) L-shaped(9) desk(10) with(11) an(12) upper(13) tier(14) ,(15) two(16) desk(17) chairs(18) ,(19) upholstered(20) chair(21) ,(22) two(23) telephones(24) with(25) two(26) phone(27) lines(28) ,(29) TV(30) ,(31) ironing(32) board(33) with(34) iron(35) ,(36) coffee(37) maker(38) ,(39) and(40) hair(41) dryer(42) .(43) 
+		</sentence>
+		<sentence id="11">
+			The(1) bed(2) was(3) comfortable(4) .(5) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) dark(4) ,(5) and(6) -(7) even(8) with(9) the(10) lamps(11) -(12) I(13) could(14) not(15) seem(16) to(17) brighten(18) it(19) enough(20) .(21) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) window(2) was(3) covered(4) with(5) a(6) venetian(7) blind(8) made(9) of(10) dark(11) wood(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Hanging(1) on(2) the(3) left(4) and(5) right(6) sides(7) of(8) the(9) window(10) were(11) drapery(12) panels(13) that(14) did(15) not(16) close(17) to(18) cover(19) the(20) window(21) ((22) which(23) the(24) venetian(25) blind(26) did(27) adequately(28) )(29) ,(30) but(31) which(32) also(33) would(34) not(35) open(36) wide(37) enough(38) to(39) clear(40) the(41) entire(42) window(43) for(44) more(45) light(46) .(47) 
+		</sentence>
+		<sentence id="15">
+			The(1) venetian(2) blind(3) could(4) be(5) drawn(6) open(7) ,(8) but(9) it(10) was(11) remarkably(12) heavy(13) to(14) lift(15) and(16) unwieldy(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Restaurants_There(1) are(2) two(3) restaurants(4) in(5) the(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			I(1) had(2) one(3) meal(4) in(5) each(6) ,(7) and(8) they(9) were(10) typical(11) hotel(12) fare(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			In(1) the(2) main(3) restaurant(4) ,(5) I(6) especially(7) enjoyed(8) the(9) vegetarian(10) chili(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			There(1) is(2) a(3) buffet(4) ,(5) but(6) I(7) was(8) not(9) around(10) when(11) it(12) was(13) in(14) service(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			The(1) staff(2) were(3) very(4) pleasant(5) and(6) provided(7) good(8) service(9) .(10) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="service" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="21">
+			Other_Hotel_Services_I(1) saw(2) a(3) business(4) center(5) just(6) off(7) the(8) lobby(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			It(1) seemed(2) to(3) be(4) outfitted(5) with(6) the(7) standard(8) copy(9) machine(10) and(11) desktop(12) computers(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			I(1) am(2) sure(3) that(4) the(5) prices(6) are(7) steep(8) as(9) per(10) the(11) norm(12) in(13) hotel(14) business(15) centers(16) .(17) 
+			<opinion polarity="-" feature="price" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="24">
+			There(1) is(2) a(3) fitness(4) room(5) ,(6) but(7) I(8) was(9) not(10) looking(11) for(12) it(13) ,(14) and(15) I(16) did(17) not(18) find(19) it(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			Conclusion_This(1) hotel(2) is(3) conveniently(4) located(5) to(6) Bush_Airport(7) and(8) will(9) serve(10) the(11) business(12) traveler(13) who(14) needs(15) to(16) crash(17) before(18) leaving(19) on(20) an(21) early(22) morning(23) flight(24) .(25) 
+			<opinion polarity="+" feature="place" opWords="4,5"/>
+		</sentence>
+		<sentence id="26">
+			There(1) are(2) no(3) special(4) features(5) to(6) speak(7) of(8) ,(9) but(10) convenience(11) makes(12) up(13) for(14) overall(15) blandness(16) .(17) 
+		</sentence>
+	</text>
+</review>

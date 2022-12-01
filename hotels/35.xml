@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="35" item="Fairfield Inn Virginia Beach" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) Last_Resort_for_Summer_Virginia_Beach_Lodging(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) to(2) Virginia_Beach(3) oceanfront(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) service(2) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) this(2) place(3) if(4) you(5) can(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) stay(3) here(4) unless(5) everything(6) else(7) is(8) sold(9) out(10) in(11) Virginia_Beach(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Updated(1) 11/5/2003(2) with(3) additional(4) content(5) and(6) headings(7) How(8) I_Ended_Up(9) at(10) this(11) Hotel_I(12) stayed(13) at(14) the(15) Virginia_Beach_Fairfield_Inn(16) during(17) my(18) first(19) trip(20) to(21) Virginia_Beach(22) ,(23) August(24) 10-11(25) ,(26) 2003(27) ,(28) and(29) was(30) less(31) than(32) pleased(33) with(34) the(35) experience(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			Frankly(1) ,(2) my(3) experience(4) with(5) this(6) hotel(7) ruined(8) the(9) whole(10) trip(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) main(2) reason(3) I(4) stayed(5) here(6) was(7) because(8) it(9) was(10) the(11) only(12) hotel(13) with(14) availability(15) within(16) a(17) reasonable(18) distance(19) of(20) the(21) beach(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			I(1) booked(2) the(3) "(4) E-Special_Rate(5) "(6) through(7) United(8) .(9) com(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Location(1) ,(2) Location(3) ,(4) Location_Fairfield_Inn_Virginia_Beach(5) 4760(6) Euclid_Road_Virginia_Beach(7) ,(8) VA(9) 23462(10) Tel(11) :(12) 757.499.1935(13) Fax(14) :(15) 757.499.1935(16) The_Fairfield_Inn(17) 's(18) proximity(19) to(20) Virginia_Beach(21) was(22) the(23) main(24) reason(25) I(26) chose(27) to(28) stay(29) there(30) --(31) a(32) 10_mile(33) drive(34) to(35) the(36) beachfront(37) on(38) Rt(39) .(40) 264(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			This(1) 3-level(2) ,(3) 134(4) room(5) motel(6) is(7) also(8) 10_miles(9) from(10) Norfolk(11) ,(12) home(13) of(14) Gen(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			MacArthur(1) .(2) 
+		</sentence>
+		<sentence id="8">
+			Norfolk_Airport(1) ((2) ORF(3) )(4) is(5) 6_miles(6) away(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Further(1) afield(2) ,(3) Colonial_Williamsburg(4) and(5) Bush_Gardens(6) are(7) 40_miles(8) away(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) Devil(2) is(3) in(4) the(5) Details_Check-in(6) :(7) 4:00(8) pm(9) Check-out(10) :(11) 12:00(12) pm(13) Cancellation_Policy(14) :(15) 6pm(16) local(17) time(18) day(19) of(20) arrival(21) to(22) avoid(23) billing(24) of(25) one(26) night(27) room(28) and(29) tax(30) ((31) policy(32) may(33) be(34) more(35) restrictive(36) during(37) special(38) events(39) )(40) .(41) 
+		</sentence>
+		<sentence id="11">
+			Guarantee_Policy(1) :(2) Major(3) credit(4) card(5) required(6) ((7) deposit(8) or(9) prepayment(10) may(11) be(12) required(13) during(14) special(15) events(16) )(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Basic(1) room(2) rates(3) exclude(4) 12.5(5) percent(6) tax(7) and(8) $(9) 1(10) per(11) room(12) per(13) night(14) occupancy(15) charge(16) ((17) which(18) did(19) not(20) apply(21) to(22) me(23) because(24) I(25) had(26) one(27) of(28) those(29) pre-paid(30) internet(31) rates(32) )(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			Other(1) policies(2) :(3) No(4) pets(5) ;(6) no(7) charge(8) for(9) children(10) under(11) age(12) 18(13) ;(14) free(15) outdoor(16) parking(17) ;(18) free(19) local(20) calls(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			Amenities(1) and(2) Facilities_Supposedly(3) ,(4) this(5) motel(6) was(7) renovated(8) in_2003(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			I(1) had(2) a(3) standard(4) king(5) non-smoking(6) room(7) ,(8) which(9) was(10) clean(11) ,(12) but(13) small(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="7" opWords="11"/>
+			<opinion polarity="-" feature="rooms" featWords="7" opWords="14"/>
+		</sentence>
+		<sentence id="16">
+			do(1) not(2) expect(3) luxury(4) at(5) this(6) place(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			Fairfield_Inn(1) ,(2) Marriott(3) 's(4) economy(5) chain(6) ,(7) is(8) really(9) more(10) of(11) a(12) motel(13) because(14) the(15) room(16) doors(17) open(18) to(19) the(20) outside(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			I(1) recall(2) the(3) decor(4) being(5) white(6) and(7) simple(8) .(9) 
+			<opinion polarity="+" feature="decoration" featWords="4" opWords="8"/>
+		</sentence>
+		<sentence id="19">
+			There(1) was(2) a(3) small(4) desk(5) not(6) suitable(7) for(8) any(9) kind(10) of(11) serious(12) work(13) ,(14) and(15) an(16) armchair(17) with(18) an(19) ottoman(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			The(1) bathroom(2) was(3) a_bit(4) cramped(5) .(6) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="21">
+			The(1) TV(2) featured(3) cable(4) with(5) pay(6) movies(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			There(1) was(2) an(3) outdoor(4) pool(5) ,(6) of(7) which(8) we(9) did(10) not(11) take(12) advantage(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			Where(1) to(2) Eat_This(3) motel(4) includes(5) a(6) complimentary(7) "(8) deluxe(9) "(10) continental(11) breakfast(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			It(1) 's(2) not(3) much(4) .(5) 
+		</sentence>
+		<sentence id="25">
+			Coffee(1) ,(2) juice(3) ,(4) bagels(5) ,(6) muffins(7) ,(8) toast(9) ,(10) waffles(11) ,(12) etc.(13) They(14) also(15) offer(16) 24-hour(17) coffee(18) and(19) tea(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			In(1) terms(2) of(3) nearby(4) dining(5) options(6) ,(7) there(8) 's(9) fastfood(10) ((11) McDonald(12) 's(13) ,(14) Wendy(15) 's(16) ,(17) Taco_Bell(18) )(19) and(20) a(21) mall(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			I(1) saw(2) California_Pizza_Kitchen(3) ,(4) P.F._Chang(5) s(6) ,(7) and(8) Silver_Diner(9) near(10) the(11) mall(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			There(1) are(2) more(3) interesting(4) ,(5) though(6) pricy(7) options(8) on(9) the(10) beachfront(11) .(12) 
+		</sentence>
+		<sentence id="29">
+			There(1) is(2) a(3) movie(4) theater(5) in(6) the(7) mall(8) which(9) we(10) took(11) advantage(12) of(13) due(14) to(15) the(16) rainy(17) weather(18) .(19) 
+		</sentence>
+		<sentence id="30">
+			The(1) Complaint_Department_We(2) had(3) a(4) third(5) person(6) with(7) us(8) and(9) requested(10) a(11) roll-away(12) bed(13) at(14) check(15) in(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			The(1) manager(2) promised(3) he(4) would(5) look(6) for(7) one(8) .(9) 
+		</sentence>
+		<sentence id="32">
+			Well(1) ,(2) when(3) we(4) got(5) back(6) to(7) the(8) hotel(9) after(10) a(11) long(12) day(13) at(14) the(15) beach(16) ,(17) there(18) was(19) no(20) bed(21) .(22) 
+		</sentence>
+		<sentence id="33">
+			After(1) arguing(2) with(3) the(4) front(5) desk(6) for(7) about(8) an(9) hour(10) ,(11) they(12) finally(13) produced(14) a(15) roll-away(16) bed(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			Apparently(1) ,(2) the(3) manager(4) ,(5) Clay(6) ,(7) failed(8) to(9) pass(10) along(11) our(12) request(13) to(14) the(15) other(16) staff(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			Moreover(1) ,(2) initially(3) the(4) front(5) desk(6) staff(7) just(8) offered(9) us(10) blankets(11) and(12) said(13) they(14) did(15) not(16) have(17) a(18) roll-away(19) bed(20) available(21) .(22) 
+		</sentence>
+		<sentence id="36">
+			Obviously(1) ,(2) they(3) did(4) have(5) one(6) since(7) they(8) finally(9) coughed(10) one(11) up(12) .(13) 
+		</sentence>
+		<sentence id="37">
+			Also(1) ,(2) the(3) staff(4) failed(5) to(6) apologize(7) or(8) take(9) any(10) responsibility(11) ((12) "(13) I(14) was(15) not(16) the(17) one(18) you(19) spoke(20) to(21) at(22) checkin(23) "(24) etc(25) )(26) .(27) 
+		</sentence>
+		<sentence id="38">
+			The(1) second(2) problem(3) we(4) had(5) was(6) noise(7) .(8) 
+		</sentence>
+		<sentence id="39">
+			My(1) wife(2) was(3) woken(4) up(5) several(6) times(7) by(8) noise(9) above(10) us(11) at(12) around(13) 3(14) or(15) 4(16) AM.(17) When(18) she(19) went(20) to(21) the(22) front(23) desk(24) to(25) complain(26) ,(27) they(28) said(29) they(30) would(31) check(32) it(33) out(34) .(35) 
+		</sentence>
+		<sentence id="40">
+			Well(1) ,(2) when(3) the(4) noise(5) continued(6) ,(7) the(8) guy(9) at(10) the(11) front(12) desk(13) said(14) he(15) went(16) up(17) to(18) the(19) floor(20) above(21) us(22) and(23) did(24) not(25) hear(26) anything(27) or(28) notice(29) anyone(30) outside(31) .(32) 
+		</sentence>
+		<sentence id="41">
+			He(1) also(2) rudely(3) pointed(4) out(5) that(6) no(7) other(8) guests(9) had(10) complained(11) about(12) the(13) noise(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			Finally(1) ,(2) my(3) wife(4) brought(5) him(6) up(7) to(8) the(9) room(10) to(11) let(12) him(13) hear(14) the(15) noise(16) for(17) himself(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			Even_though(1) she(2) told(3) him(4) to(5) be(6) quiet(7) because(8) people(9) were(10) sleeping(11) in(12) the(13) room(14) and(15) she(16) whispered(17) to(18) him(19) ,(20) he(21) spoke(22) loudly(23) and(24) woke(25) everyone(26) up(27) .(28) 
+		</sentence>
+		<sentence id="44">
+			Last_Word_I(1) would(2) only(3) recommend(4) staying(5) here(6) if(7) you(8) 're(9) visiting(10) Virginia_Beach(11) during(12) the(13) summer(14) months(15) and(16) can(17) not(18) find(19) anywhere(20) else(21) with(22) rooms(23) available(24) .(25) 
+		</sentence>
+		<sentence id="45">
+			Next(1) time(2) we(3) go(4) to(5) Virginia_Beach(6) we(7) are(8) going(9) to(10) plan(11) ahead(12) and(13) book(14) somewhere(15) on(16) the(17) beachfront(18) .(19) 
+		</sentence>
+		<sentence id="46">
+			Further(1) details(2) about(3) this(4) hotel(5) are(6) available(7) at(8) the(9) official(10) website(11) :(12) http://www.marriott.com/dpp/PropertyPage.asp?MarshaCode=ORFFI.(13) Check(14) out(15) my(16) other(17) hotel(18) reviews(19) :(20) Park_Hyatt_San_Francisco_Hyatt_Regency_Milwaukee(21) 
+		</sentence>
+	</text>
+</review>

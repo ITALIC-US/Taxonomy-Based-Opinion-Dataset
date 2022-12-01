@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="600" item="2000 Chevrolet Silverado" rating="1">
+	<title>
+		<sentence id="1">
+			BROKEN_FRAME_AT(1) 50,000(2) MILES(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			over(1) priced(2) junk(3) 
+			<opinion polarity="-" feature="price" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Junk(1) frame(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) this(2) truck(3) from(4) a(5) chevy(6) dealer(7) used(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Frame(1) has(2) 2(3) 5(4) "(5) cracks(6) in(7) the(8) rear(9) ,(10) on(11) left(12) and(13) right(14) .(15) These(16) new(17) frames(18) can(19) not(20) be(21) welded(22) ,(23) it(24) is(25) junk(26) .(27) Chevy(28) would(29) only(30) offer(31) $1000(32) off(33) a(34) new(35) truck(36) .(37) I(38) think(39) a(40) Dodge(41) would(42) be(43) a(44) better(45) choice(46) ,(47) they(48) have(49) 7/70(50) warranty(51) .(52) paul@lembree.com(53) Amount_Paid(54) ((55) US(56) $(57) )(58) :(59) 20000(60) Condition(61) :(62) UsedModel_Year(63) :(64) 2000(65) 
+		</sentence>
+	</text>
+</review>

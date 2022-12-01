@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="919" item="The Oriental Bangkok" rating="5">
+	<title>
+		<sentence id="1">
+			Luxurious(1) oasis(2) in(3) Bangkok(4) 's(5) chaos(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxurious(1) ,(2) beautiful(3) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			A(1) delicious(2) break(3) from(4) the(5) chaotic(6) ,(7) hot(8) ,(9) polluted(10) streets(11) of(12) Bangkok(13) ,(14) this(15) hotel(16) is(17) literally(18) in(19) the(20) heart(21) of(22) one(23) of(24) the(25) busiest(26) spots(27) in(28) the(29) city(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) step(3) off(4) the(5) sidewalks(6) of(7) Bangkok(8) and(9) walk(10) into(11) the(12) lobby(13) of(14) the(15) Mandarin_Oriental(16) ,(17) which(18) is(19) incredibly(20) luxurious(21) ,(22) cool(23) and(24) pleasant(25) ,(26) although(27) a_bit(28) formal(29) .(30) 
+			<opinion polarity="+" feature="lobby" featWords="13" opWords="29"/>
+			<opinion polarity="+" feature="lobby" featWords="13" opWords="25"/>
+			<opinion polarity="+" feature="lobby" featWords="13" opWords="23"/>
+			<opinion polarity="+" feature="lobby" featWords="13" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="3">
+			You(1) can(2) not(3) go(4) into(5) the(6) lobby(7) or(8) restaurants(9) in(10) shorts(11) after(12) 5:00_pm.(13) This(14) can(15) be(16) a(17) little(18) stifling(19) when(20) in(21) a(22) place(23) like(24) Bangkok(25) ,(26) but(27) it(28) 's(29) worth(30) humoring(31) them(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			After(1) checking(2) in(3) with(4) an(5) extremely(6) courteous(7) clerk(8) ,(9) your(10) "(11) personal(12) butler(13) "(14) will(15) then(16) escort(17) you(18) to(19) your(20) room(21) and(22) mine(23) was(24) horrified(25) that(26) I(27) wanted(28) to(29) carry(30) my(31) backpack(32) ,(33) so(34) I(35) obliged(36) and(37) let(38) the(39) bellman(40) do(41) his(42) duty(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			When(1) we(2) got(3) to(4) the(5) room(6) ,(7) the(8) butler(9) explained(10) all(11) the(12) services(13) and(14) the(15) features(16) of(17) the(18) hotel(19) and(20) then(21) departed(22) after(23) assuring(24) us(25) that(26) he(27) was(28) at(29) our(30) beck(31) and(32) call(33) ((34) we(35) never(36) called(37) him(38) )(39) .(40) 2(41) minutes(42) later(43) ,(44) another(45) of(46) the(47) hotel(48) waitstaff(49) knocked(50) on(51) the(52) door(53) with(54) 2(55) glasses(56) of(57) freshly(58) squeezed(59) orange(60) juice(61) and(62) some(63) tropical(64) fruit(65) .(66) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) incredibly(4) nice(5) ((6) especially(7) after(8) a(9) night(10) at(11) the(12) budget-rated(13) President_Hotel(14) )(15) and(16) was(17) completely(18) done(19) up(20) in(21) teak(22) ,(23) which(24) lent(25) an(26) incredible(27) feel(28) of(29) luxury(30) to(31) the(32) room(33) .(34) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			Our(1) room(2) looked(3) out(4) over(5) the(6) Chao_Phraya(7) river(8) which(9) wends(10) through(11) the(12) heart(13) of(14) Bangkok(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			There(1) were(2) all(3) sorts(4) of(5) small(6) craft(7) and(8) boats(9) ferrying(10) up(11) ,(12) down(13) and(14) across(15) the(16) river(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			After(1) dark(2) ,(3) the(4) water(5) traffic(6) did(7) not(8) seem(9) to(10) slow(11) much(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) has(3) an(4) amazing(5) heritage(6) -(7) it(8) 's(9) been(10) in(11) existence(12) for(13) 120(14) years(15) and(16) has(17) held(18) such(19) luminaries(20) as(21) Joseph_Conrad(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			In(1) fact(2) ,(3) there(4) 's(5) an(6) "(7) author(8) 's(9) suite(10) "(11) ,(12) which(13) we(14) did(15) not(16) see(17) ,(18) but(19) occasionally(20) houses(21) famous(22) authors(23) for(24) months(25) at(26) a(27) time(28) while(29) they(30) write(31) ((32) and(33) drop(34) insane(35) amounts(36) of(37) cash(38) to(39) do(40) it(41) )(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			Other(1) authors(2) who(3) have(4) spent(5) time(6) there(7) :(8) John_LeCarre(9) ,(10) James_Michener(11) ,(12) Noel_Coward(13) ((14) the(15) coward(16) suite(17) ?(18) hmmmm(19) )(20) ,(21) Graham_Greene(22) and(23) Somerset_Maugham(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			Its(1) history(2) goes(3) back(4) to(5) the(6) 1860s(7) when(8) the(9) original(10) hotel(11) which(12) is(13) no_longer(14) standing(15) was(16) established(17) by(18) two(19) Danish(20) sea(21) captains(22) soon(23) after(24) King_Mongkut(25) ((26) Rama_IV(27) )(28) reopened(29) Thailand(30) ((31) then(32) Siam(33) )(34) to(35) world(36) trade(37) .(38) 
+		</sentence>
+		<sentence id="14">
+			The(1) hotel(2) has(3) withstood(4) occupation(5) by(6) Japanese(7) and(8) American(9) troops(10) and(11) played(12) host(13) to(14) a(15) long(16) roster(17) of(18) Thai(19) and(20) international(21) dignitaries(22) and(23) celebrities(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			Jim_Thompson(1) ,(2) of(3) Thai(4) silk(5) trade(6) fame(7) ,(8) even(9) served(10) briefly(11) as(12) the(13) hotel(14) 's(15) proprietor(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			New(1) buildings(2) have(3) been(4) added(5) --(6) the(7) first(8) in_1876(9) ,(10) the(11) larger(12) and(13) more(14) modern(15) pair(16) in_1958(17) and(18) 1976(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Today(1) it(2) 's(3) more(4) modern(5) than(6) colonial(7) ,(8) though(9) it(10) retains(11) considerable(12) charm(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			Here(1) are(2) some(3) of(4) the(5) awards(6) the(7) hotel(8) has(9) won(10) :(11) "(12) BEST_OF(13) FIVE(14) STARS(15) "(16) -(17) Tatler_Travel_Guide(18) 1998(19) "(20) WORLD(21) '(22) S_BEST_AWARD(23) 1997(24) "(25) -(26) Travel_&_Leisure(27) "(28) TOP_HOTEL_WORLDWIDE(29) "(30) -(31) Institutional_Investor(32) "(33) BEST_BUSINESS_HOTEL_IN_THE_WORLD(34) "(35) -(36) Business_Traveller_Germany(37) "(38) BEST_INDIVIDUAL_HOTEL(39) "(40) -(41) 1996(42) Travel_Awards(43) /(44) PATA(45) "(46) SECOND_TOP(47) 25(48) FOREIGN_HOTELS(49) "(50) -(51) Conde(52) '(53) Nast_Traveler_'s_Readers(54) '(55) choice(56) "(57) FAVOURITE_OVERALL_HOTEL(58) "(59) -(60) Thailand_Traveller_Amenities(61) :(62) 24-hour(63) room(64) service(65) ,(66) concierge(67) ,(68) complimentary(69) welcome(70) fruit(71) basket(72) ,(73) limousine(74) service(75) ,(76) baby-sitting(77) ,(78) house(79) doctor(80) ,(81) laundry(82) service(83) ,(84) No-smoking(85) floors(86) ,(87) two(88) swimming(89) pools(90) ,(91) health(92) club(93) ,(94) tennis(95) and(96) squash(97) courts(98) ,(99) beauty(100) and(101) fitness(102) spa(103) ,(104) business(105) center(106) ,(107) cooking(108) school(109) ,(110) beauty(111) salon(112) and(113) barbershop(114) ,(115) shopping(116) arcade(117) ,(118) tour(119) boat(120) for(121) daily(122) excursions(123) to(124) Ayutthaya(125) and(126) the(127) Summer_Palace_Rates(128) :(129) $250(130) -(131) $2000(132) a(133) night(134) .(135) 
+		</sentence>
+		<sentence id="19">
+			Yikes(1) .(2) 
+		</sentence>
+		<sentence id="20">
+			Definitely(1) only(2) one(3) night(4) for(5) us(6) -(7) we(8) 're(9) happier(10) when(11) we(12) spend(13) less(14) ,(15) but(16) it(17) was(18) an(19) amazing(20) brief(21) interlude(22) of(23) luxury(24) ,(25) which(26) my(27) pregnant(28) wife(29) appreciated(30) greatly(31) .(32) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) can(3) ,(4) spend(5) a(6) night(7) or(8) two(9) here(10) ,(11) but(12) if(13) you(14) 're(15) on(16) a(17) budget(18) ,(19) do(20) not(21) linger(22) too(23) long(24) .(25) 
+		</sentence>
+	</text>
+</review>

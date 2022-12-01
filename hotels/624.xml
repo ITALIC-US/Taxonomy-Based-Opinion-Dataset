@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="624" item="The Wyndham Orlando Resort On Int'l Driv" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) Good_Review_for_a_Change(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			stunning(1) surroundings(2) ,(3) great(4) staff(5) ,(6) nice(7) pool(8) ,(9) quite(10) rooms(11) 
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) avoid(3) this(4) place(5) solely(6) due(7) to(8) the(9) old(10) reviews(11) .(12) 
+			<opinion polarity="+" feature="hotel" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Look(1) around(2) on(3) other(4) review(5) sites(6) and(7) you(8) will(9) see(10) this(11) resort(12) is(13) a(14) great(15) value(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) this(4) hotel(5) last(6) Summer(7) and(8) I(9) have(10) very(11) few(12) negatives(13) to(14) mention(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) were(3) incredibly(4) kind(5) and(6) helpful(7) at(8) all(9) times(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) location(2) is(3) fabulously(4) landscaped(5) and(6) decorated(7) .(8) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="place" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) to(3) admit(4) to(5) one(6) giant(7) dead(8) bug(9) in(10) my(11) room(12) ,(13) but(14) it(15) 's(16) Orlando(17) and(18) it(19) was(20) a(21) garden(22) level(23) room(24) for(25) goodness(26) sake(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) 're(3) picky(4) and(5) used(6) to(7) swank(8) 4-5(9) star(10) hotels(11) that(12) smell(13) like(14) caviar(15) ,(16) this(17) one(18) is(19) not(20) the(21) one(22) for(23) you(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) 're(3) like(4) me(5) ,(6) and(7) appreciate(8) more(9) the(10) out(11) of(12) doors(13) atmosphere(14) ,(15) head(16) on(17) down(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Cute(1) little(2) chameleons(3) litter(4) the(5) sidewalks(6) ,(7) peering(8) up(9) at(10) you(11) with(12) their(13) little(14) heads(15) cocked(16) as_if(17) to(18) say(19) "(20) Hey(21) ,(22) watch(23) out(24) !(25) "(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			Ducks(1) roam(2) freely(3) ,(4) turtles(5) swim(6) in(7) the(8) giant(9) chain(10) of(11) ponds(12) outside(13) your(14) room(15) ,(16) and(17) when(18) I(19) was(20) there(21) the(22) hibiscus(23) were(24) in(25) full(26) bloom(27) -(28) stunning(29) !(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) location(2) is(3) ideal(4) for(5) Disney(6) ,(7) about(8) 15(9) minutes(10) away(11) .(12) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) staff(2) is(3) responsive(4) -(5) my(6) TV(7) was(8) acting(9) up(10) and(11) security(12) was(13) there(14) within(15) 10(16) minutes(17) to(18) fix(19) it(20) .(21) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) beds(2) were(3) comfy(4) -(5) bathrooms(6) updated(7) and(8) clean(9) .(10) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bathroom" featWords="6" opWords="7"/>
+			<opinion polarity="+" feature="bathroom" featWords="6" opWords="9"/>
+		</sentence>
+		<sentence id="12">
+			I(1) think(2) maybe(3) this(4) hotel(5) has(6) done(7) a_lot_of(8) improving(9) since(10) the(11) last(12) reviews(13) were(14) made(15) ,(16) and(17) they(18) should(19) be(20) given(21) another(22) chance(23) 
+		</sentence>
+	</text>
+</review>

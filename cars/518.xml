@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="518" item="2003 Toyota Tacoma" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) as(2) good(3) as(4) the(5) price(6) suggests(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) handling(2) ,(3) adequate(4) power(5) and(6) tight(7) construction(8) 
+			<opinion polarity="+" feature="horsepower" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poorly(1) designed(2) interior(3) ,(4) terrible(5) seat(6) back(7) ,(8) poor(9) mileage(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) poor(2) choice(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Mechanical(1) quality(2) seems(3) good(4) ,(5) but(6) very(7) uncomfortable(8) ,(9) poor(10) mileage(11) and(12) substandard(13) interior(14) construction(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="8" potency="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) transmission(2) is(3) sure(4) and(5) the(6) engine(7) is(8) strong(9) .(10) 
+			<opinion polarity="+" feature="engine" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="transmission" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) mileage(3) is(4) poor(5) .(6) 
+			<opinion polarity="-" feature="gas" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) found(3) that(4) to(5) get(6) the(7) rated(8) highway(9) mileage(10) of(11) 25(12) mpg(13) you(14) must(15) drive(16) under(17) 68(18) mph(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Driving(1) 70(2) mph(3) will(4) drop(5) the(6) mileage(7) to(8) 23.5(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			City(1) driving(2) is(3) even(4) worse(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			I(1) get(2) 19.2(3) mpg(4) compared(5) to(6) the(7) sticker(8) rating(9) of(10) 22(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Perhaps(1) one(2) could(3) drive(4) very(5) smoothly(6) ,(7) ridiculously(8) slowly(9) ,(10) and(11) achieve(12) this(13) rating(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			My(1) biggest(2) complaint(3) concerns(4) the(5) seat-back(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			On(1) long(2) drives(3) it(4) is(5) torturous(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			It(1) feels(2) like(3) my(4) back(5) is(6) resting(7) against(8) a(9) basketball(10) located(11) 6_inches(12) below(13) my(14) shoulder(15) blades(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			I(1) can(2) not(3) make(4) contact(5) with(6) the(7) sides(8) of(9) the(10) seat(11) unless(12) I(13) push(14) back(15) hard(16) ,(17) using(18) the(19) steering(20) wheel(21) for(22) leverage(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			Smaller(1) complaints(2) concern(3) the(4) location(5) of(6) the(7) clock(8) ,(9) the(10) transmission(11) lever(12) and(13) the(14) console(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) console(2) is(3) so(4) short(5) and(6) so(7) far(8) back(9) that(10) one(11) can(12) not(13) access(14) it(15) while(16) driving(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			If(1) it(2) opened(3) from(4) the(5) side(6) this(7) problem(8) would(9) be(10) reduced(11) ,(12) but(13) it(14) opens(15) straight(16) back(17) ,(18) and(19) the(20) human(21) arm(22) can(23) not(24) work(25) that(26) way(27) ((28) I(29) have(30) the(31) 60-40(32) split(33) bench(34) seats(35) )(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			The(1) transmission(2) shifter(3) is(4) too(5) far(6) away(7) with(8) the(9) seat(10) positioned(11) for(12) a(13) tall(14) person(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			It(1) would(2) have(3) been(4) better(5) located(6) on(7) the(8) steering(9) column(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			I(1) did(2) not(3) know(4) I(5) had(6) a(7) clock(8) for(9) two(10) days(11) because(12) it(13) has(14) been(15) very(16) well(17) hidden(18) behind(19) the(20) steering(21) wheel(22) and(23) the(24) window(25) wiper(26) lever(27) .(28) 
+		</sentence>
+		<sentence id="18">
+			Now(1) for(2) the(3) plus(4) side(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			The(1) stereo(2) system(3) is(4) excellent(5) .(6) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="20">
+			The(1) paint(2) and(3) styling(4) are(5) beautiful(6) .(7) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="color" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="21">
+			The(1) suspension(2) is(3) as(4) good(5) as(6) it(7) gets(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			The(1) noise(2) level(3) is(4) better(5) than(6) that(7) in(8) many(9) luxury(10) cars(11) ;(12) that(13) is(14) ,(15) no(16) squeaks(17) ,(18) no(19) rattles(20) ,(21) and(22) no(23) wind(24) noise(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			Vision(1) is(2) excellent(3) ,(4) and(5) the(6) mirrors(7) are(8) perfectly(9) positioned(10) .(11) 
+			<opinion polarity="+" feature="mirrors" featWords="7" opWords="9,10"/>
+			<opinion polarity="+" feature="visibility" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="24">
+			The(1) truck(2) has(3) a(4) very(5) solid(6) feel(7) ,(8) and(9) I(10) suspect(11) if(12) I(13) buy(14) some(15) after(16) market(17) seats(18) it(19) will(20) be(21) very(22) comfortable(23) .(24) 
+			<opinion polarity="+" feature="seat" featWords="18" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="25">
+			However(1) ,(2) when(3) you(4) pay(5) a(6) premium(7) price(8) ,(9) which(10) you(11) will(12) ,(13) you(14) expect(15) a(16) decent(17) seat(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="26">
+			I(1) did(2) not(3) notice(4) this(5) problem(6) during(7) the(8) test(9) drive(10) because(11) I(12) don(13) t(14) really(15) lean(16) back(17) when(18) driving(19) in(20) the(21) city(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			I(1) would(2) return(3) this(4) vehicle(5) if(6) I(7) could(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			Update(1) ,(2) May(3) 24(4) :(5) After(6) 4500_miles(7) my(8) city(9) mileage(10) has(11) not(12) improved(13) ,(14) but(15) the(16) highway(17) mileage(18) is(19) dramatically(20) better(21) .(22) 
+		</sentence>
+		<sentence id="29">
+			The(1) reasons(2) -(3) I(4) changed(5) to(6) synthetic(7) oil(8) and(9) now(10) use(11) 89(12) octane(13) gasoline(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			The(1) extra(2) price(3) of(4) the(5) gasoline(6) is(7) more(8) than(9) recovered(10) by(11) getting(12) 26.5(13) mpg(14) at(15) 72(16) mph(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			But(1) the(2) seat(3) ,(4) the(5) instruments(6) of(7) torture(8) in(9) this(10) vehicle(11) ,(12) have(13) to(14) go(15) .(16) 
+		</sentence>
+		<sentence id="32">
+			I(1) have(2) ordered(3) aftermarket(4) replacements(5) ,(6) adding(7) almost(8) $1800(9) to(10) the(11) price(12) of(13) the(14) truck(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			I(1) could(2) have(3) gotten(4) some(5) good(6) ones(7) for(8) $900(9) ,(10) but(11) after(12) all(13) the(14) pain(15) I(16) 've(17) experienced(18) with(19) these(20) seats(21) I(22) decided(23) on(24) Recaro_Trend(25) seats(26) .(27) 
+		</sentence>
+		<sentence id="34">
+			If(1) you(2) want(3) to(4) buy(5) one(6) of(7) these(8) trucks(9) and(10) you(11) do(12) a_lot_of(13) highway(14) driving(15) ,(16) get(17) the(18) cheapest(19) seat(20) option(21) they(22) have(23) ,(24) rip(25) them(26) out(27) ,(28) and(29) put(30) in(31) decent(32) seats(33) .(34) 
+			<opinion polarity="+" feature="seat" featWords="33" opWords="32"/>
+		</sentence>
+		<sentence id="35">
+			Many(1) ,(2) many(3) dealers(4) I(5) spoke(6) with(7) told(8) me(9) that(10) the(11) Tacoma(12) gives(13) them(14) a(15) great(16) deal(17) of(18) sales(19) for(20) all(21) brands(22) of(23) after-market(24) seats(25) .(26) 
+		</sentence>
+		<sentence id="36">
+			One(1) other(2) thing(3) ;(4) never(5) put(6) any(7) pressure(8) on(9) the(10) cup(11) holder(12) attached(13) to(14) the(15) rear(16) of(17) the(18) shifter(19) housing(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			Mine(1) snapped(2) off(3) when(4) I(5) unfolded(6) the(7) arm(8) of(9) the(10) holder(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			On(1) the(2) upside(3) ,(4) the(5) dealer(6) told(7) me(8) this(9) happens(10) all(11) the(12) time(13) and(14) they(15) will(16) gladly(17) replace(18) it(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			The(1) ashtray(2) mysteriously(3) began(4) to(5) slide(6) out(7) on(8) its(9) own(10) ,(11) but(12) the(13) dealer(14) replaced(15) that(16) as_well(17) .(18) 
+		</sentence>
+		<sentence id="40">
+			Still(1) ,(2) you(3) begin(4) to(5) get(6) the(7) idea(8) that(9) Toyota(10) is(11) taking(12) the(13) "(14) cheap-down(15) "(16) route(17) on(18) interior(19) parts(20) ,(21) like(22) GM(23) and(24) Chrysler(25) did(26) years(27) ago(28) .(29) 
+		</sentence>
+		<sentence id="41">
+			Ironically(1) ,(2) the(3) GM(4) 's(5) seem(6) to(7) be(8) getting(9) better(10) while(11) Toyota(12) is(13) on(14) a(15) downhill(16) rocket(17) sled(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16700(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) 2003(14) Tacoma_Xtracab(15) ,(16) 4cyl(17) ,(18) Auto(19) 
+		</sentence>
+	</text>
+</review>

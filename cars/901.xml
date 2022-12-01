@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="901" item="2003 Honda Civic" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) impressed(2) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) and(2) fuel(3) mileage(4) are(5) the(6) same(7) as(8) the(9) regular(10) civic(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) fuel(2) economy(3) ,(4) over(5) priced(6) 
+			<opinion polarity="-" feature="price" opWords="5,6"/>
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Wait(1) until(2) the(3) technology(4) is(5) ready(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			You(1) will(2) be(3) over(4) paying(5) for(6) a(7) car(8) that(9) has(10) fewer(11) options(12) then(13) the(14) regular(15) civic(16) and(17) the(18) same(19) or(20) less(21) fuel(22) economy(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Although(1) the(2) car(3) cost(4) about(5) $4000(6) more(7) then(8) the(9) regular(10) civic(11) ,(12) the(13) poor(14) fuel(15) economy(16) really(17) detours(18) from(19) anything(20) positive(21) .(22) 
+			<opinion polarity="-" feature="gas" featWords="15,16" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) few(3) tanks(4) of(5) fuel(6) gave(7) me(8) 36-37(9) mpg(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Not(1) the(2) 47-52(3) on(4) the(5) EPA(6) sticker(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) has(3) the(4) CVT(5) transmission(6) ,(7) 6000_miles(8) and(9) is(10) currently(11) getting(12) at(13) best(14) 35(15) mpg(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) dealer(2) has(3) stated(4) that(5) unless(6) the(7) engine(8) light(9) is(10) on(11) ,(12) the(13) car(14) can(15) not(16) be(17) fixed(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			They(1) suggested(2) I(3) call(4) the(5) Honda(6) 1-800(7) number(8) whom(9) intern(10) stated(11) ,(12) take(13) it(14) to(15) the(16) dealer(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) old(2) run(3) around(4) .(5) 
+		</sentence>
+		<sentence id="8">
+			So(1) if(2) you(3) are(4) thinking(5) about(6) buying(7) one(8) ,(9) I(10) suggest(11) you(12) talk(13) to(14) some(15) other(16) owners(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Just(1) turned(2) the(3) car(4) over(5) to(6) the(7) dealer(8) yesterday(9) .(10) $83.00(11) for(12) the(13) 7500-mile(14) schedule(15) maintenance(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Oil(1) change(2) with(3) the(4) 0w-20(5) oil(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			YES(1) I_MEANT(2) 0w-20(3) .(4) 
+		</sentence>
+		<sentence id="12">
+			Try(1) to(2) buy(3) that(4) somewhere(5) besides(6) the(7) dealer(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			The(1) tires(2) balanced(3) and(4) brakes(5) checked(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) last(2) three(3) tanks(4) have(5) given(6) us(7) 32.5MPG(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			The(1) dealer(2) believes(3) it(4) is(5) from(6) the(7) MTBF(8) in(9) the(10) winter(11) fuel(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

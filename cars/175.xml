@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="175" item="1994 Mazda B-Series" rating="5">
+	<title>
+		<sentence id="1">
+			Not(1) bad(2) for(3) a(4) small(5) Truck(6) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Small(1) ,(2) Quick(3) ,(4) cheeper(5) to(6) own(7) .(8) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rougher(1) ride(2) ,(3) not(4) as(5) much(6) room(7) as(8) a(9) bigger(10) truck(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) truck(4) because(5) my(6) 1978(7) Ford(8) f150(9) was(10) getting(11) a(12) little(13) frayed(14) around(15) the(16) edges(17) ,(18) I(19) bought(20) the(21) Ford(22) f150(23) new(24) in(25) September_1977(26) and(27) it(28) was(29) a(30) great(31) truck(32) .(33) 
+			<opinion polarity="+" feature="truck" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="2">
+			So(1) I(2) was(3) needing(4) a(5) new(6) truck(7) but(8) ,(9) I(10) wanted(11) to(12) pay(13) cash(14) for(15) it(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) only(2) had(3) a(4) little(5) over(6) 8,000.00(7) in(8) the(9) bank(10) so(11) I(12) was(13) looking(14) for(15) a(16) smaller(17) truck(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) found(3) out(4) that(5) the(6) Mazda(7) was(8) made(9) in(10) a(11) Ford(12) truck(13) plant(14) in(15) NJ(16) ,(17) I(18) wanted(19) to(20) check(21) it(22) out(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			To(1) make(2) a(3) long(4) story(5) short(6) ,(7) I(8) found(9) a(10) plain(11) jane(12) ,(13) Red(14) one(15) with(16) no(17) extras(18) and(19) bought(20) it(21) ,(22) for(23) 8,000.00(24) cash(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) been(3) very(4) happy(5) with(6) this(7) truck(8) ((9) but(10) I(11) do(12) miss(13) my(14) bigger(15) one(16) )(17) .(18) 
+			<opinion polarity="+" feature="truck" featWords="8" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			This(1) truck(2) is(3) easy(4) to(5) drive(6) .(7) 
+			<opinion polarity="+" feature="truck" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Goes(1) a(2) long(3) way(4) on(5) a(6) tank(7) of(8) gas(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) a_lot(3) rougher(4) than(5) the(6) the(7) bigger(8) truck(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			But(1) I(2) think(3) more(4) fun(5) to(6) drive(7) ,(8) and(9) cheeper(10) too(11) .(12) p(13) /(14) s(15) This(16) truck(17) is(18) Fire(19) engine(20) Red(21) on(22) the(23) outside(24) and(25) Grey(26) on(27) the(28) inside(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) rear(3) wheel(4) antilock(5) brakes(6) .(7) 4(8) speed(9) w(10) /(11) overdrive(12) on(13) the(14) floor(15) .(16) 16(17) gal(18) .(19) gas(20) tank(21) ,(22) and(23) I(24) get(25) 400(26) to(27) 450_miles(28) before(29) gassing(30) up(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			It(1) has(2) gauges(3) for(4) engine(5) temperature(6) ,(7) oil(8) pressure(9) ,(10) fuel(11) ,(12) and(13) battery(14) .(15) 2.3(16) liter(17) engine(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			Uses(1) unleaded(2) gas(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			Variable(1) interval(2) wipers(3) .(4) locking(5) glove(6) box(7) .(8) no(9) ac(10) ,(11) no(12) radio(13) .(14) does(15) have(16) a(17) heater(18) tho(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			It(1) came(2) with(3) a_real(4) spare(5) tire(6) ,(7) jack(8) and(9) hood(10) release(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) its(3) a(4) pretty(5) good(6) truck(7) .(8) 
+			<opinion polarity="+" feature="truck" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="17">
+			Out(1) on(2) the(3) highway(4) at(5) highway(6) speeds(7) when(8) I(9) come(10) to(11) a_real(12) hill(13) ,(14) must(15) shift(16) down(17) into(18) 4th(19) gear(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			Well(1) thats(2) all(3) I(4) can(5) think(6) of(7) now(8) ,(9) but(10) will(11) update(12) if(13) I(14) do(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			Dan(1) .(2) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="568" item="2005 Suzuki Forenza" rating="1">
+	<title>
+		<sentence id="1">
+			Should(1) have(2) bought(3) a(4) Toyota(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Dashboard(1) appearance(2) ,(3) size(4) of(5) the(6) car(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			MPG(1) ,(2) sterio(3) system(4) ,(5) road(6) noise(7) ,(8) transmission(9) ,(10) pretty(11) much(12) everything(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) in(5) August_2005(6) ,(7) and(8) about(9) 80_%(10) of(11) the(12) miles(13) driven(14) on(15) the(16) car(17) are(18) highway(19) miles(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			My(1) transmission(2) has(3) gone(4) bad(5) ,(6) the(7) shocks(8) have(9) gone(10) bad(11) and(12) I(13) am(14) literally(15) averaging(16) 13-15(17) mpg(18) in(19) town(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) taken(3) it(4) into(5) the(6) shop(7) three_times(8) and(9) the(10) service(11) department(12) keeps(13) telling(14) me(15) they(16) can(17) not(18) "(19) duplicate(20) "(21) the(22) problem(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) driving(3) one(4) evening(5) and(6) the(7) car(8) thumped(9) ,(10) the(11) transmission(12) light(13) came(14) on(15) ,(16) bad(17) fumes(18) were(19) coming(20) out(21) of(22) the(23) car(24) ,(25) and(26) it(27) took(28) every(29) last(30) ounce(31) of(32) effort(33) to(34) push(35) the(36) accelerator(37) .(38) 
+		</sentence>
+		<sentence id="5">
+			I(1) will(2) never(3) buy(4) a(5) Suzuki(6) again(7) ,(8) and(9) I(10) do(11) not(12) recommend(13) them(14) .(15) 
+			<opinion polarity="-" feature="car" opWords="12,13"/>
+		</sentence>
+		<sentence id="6">
+			I(1) guess(2) that(3) is(4) what(5) I(6) get(7) for(8) buying(9) a(10) car(11) that(12) has(13) not(14) been(15) out(16) on(17) the(18) market(19) for(20) long(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			I(1) should(2) have(3) played(4) it(5) safe(6) and(7) bought(8) a(9) Toyota(10) or(11) Honda(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) want(3) something(4) reliable(5) ,(6) do(7) not(8) buy(9) a(10) Forenza(11) ((12) or(13) Aerio(14) ...(15) I(16) know(17) three(18) people(19) who(20) despise(21) their(22) Aerio(23) 's(24) and(25) those(26) have(27) gone(28) to(29) pot(30) as_well(31) .(32) )(33) Take(34) my(35) word(36) for(37) it(38) .(39) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) LX(16) 4(17) Door_Automatic(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="117" item="Sennheiser RS 45 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			No(1) good(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			reception(1) ,(2) hissing(3) ,(4) poor(5) construction(6) ,(7) sound(8) quality(9) ,(10) way(11) over(12) priced(13) ,(14) manual(15) 
+			<opinion polarity="-" feature="durability" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="price" opWords="12,13"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) never(3) owned(4) or(5) shopped(6) for(7) wireless(8) headphones(9) ,(10) but(11) with(12) a(13) new(14) baby(15) in(16) the(17) house(18) and(19) a(20) decent(21) home(22) theater(23) system(24) with(25) a(26) large(27) DVD(28) collection(29) ,(30) I(31) wanted(32) to(33) be(34) able(35) to(36) stay(37) up(38) late(39) and(40) watch(41) films(42) with(43) decent(44) sound(45) and(46) without(47) waking(48) the(49) family(50) .(51) 
+		</sentence>
+		<sentence id="2">
+			My(1) wife(2) picked(3) these(4) up(5) for(6) XMAS(7) based(8) on(9) a(10) high(11) recommendation(12) from(13) a(14) Good_Guys(15) salesman(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			If(1) this(2) is(3) "(4) one(5) of(6) the(7) best(8) "(9) at(10) this(11) price(12) range(13) ,(14) I(15) 'll(16) go(17) wired(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Background(1) hiss(2) is(3) unbearable(4) on(5) all(6) channels(7) even(8) with(9) only(10) 15_feet(11) of(12) unobstructed(13) distance(14) between(15) me(16) and(17) the(18) transmitter(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			I(1) also(2) tried(3) different(4) sources(5) ((6) walkman(7) and(8) stereo(9) )(10) and(11) it(12) was(13) a(14) constant(15) problem(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Construction(1) is(2) cheap(3) ,(4) reception(5) was(6) spotty(7) even(8) in(9) the(10) same(11) room(12) ,(13) and(14) the(15) manual(16) is(17) a(18) joke(19) .(20) 
+			<opinion polarity="-" feature="durability" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			Sound(1) ((2) when(3) you(4) hear(5) it(6) through(7) the(8) hiss(9) )(10) was(11) hollow(12) and(13) unimpressive(14) .(15) 
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="12"/>
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="14"/>
+		</sentence>
+	</text>
+</review>

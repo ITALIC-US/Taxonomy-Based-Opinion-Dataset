@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="255" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) engine(2) ,(3) comfort(4) ,(5) style(6) ,(7) features(8) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) little(2) pricey(3) ,(4) only(5) 3(6) year(7) warranty(8) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) great(4) car(5) ,(6) although(7) a(8) little(9) expensive(10) ,(11) I(12) would(13) recommend(14) picking(15) up(16) a(17) used(18) one(19) ,(20) as(21) mine(22) still(23) runs(24) like(25) new(26) after(27) 11(28) months(29) .(30) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+			<opinion polarity="-" feature="price" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) 2000(4) Nissan_Maxima(5) in(6) August_of_2000(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) a(3) good(4) time(5) to(6) buy(7) a(8) car(9) since(10) dealers(11) are(12) trying(13) to(14) clear(15) inventory(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) a(3) dark(4) green(5) with(6) light(7) beige(8) interior(9) GLE(10) ,(11) which(12) includes(13) leather(14) ,(15) fake(16) wood(17) trim(18) ,(19) sun(20) roof(21) ,(22) spoiler(23) ,(24) Bose(25) stereo(26) ,(27) and(28) 6+1(29) cd(30) system(31) ((32) I(33) think(34) this(35) was(36) not(37) an(38) option(39) )(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			I(1) like(2) the(3) interior(4) leg(5) room(6) of(7) the(8) car(9) ,(10) there(11) seems(12) to(13) be(14) lot(15) in(16) the(17) back(18) especially(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			For_short(1) trips(2) ,(3) you(4) could(5) consider(6) this(7) a(8) 5(9) person(10) car(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) in(3) the(4) center(5) of(6) the(7) back(8) seat(9) there(10) is(11) a(12) small(13) hump(14) which(15) would(16) probably(17) be(18) uncomfortable(19) for(20) long(21) trips(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			This(1) also(2) comes(3) with(4) power(5) everything(6) including(7) seats(8) and(9) heated(10) seats(11) too(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			This(1) was(2) a(3) big(4) step(5) up(6) for(7) me(8) in(9) cars(10) since(11) I(12) previously(13) owned(14) a(15) Chevy_Cavalier(16) ,(17) so(18) I(19) may(20) be(21) easily(22) impressed(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) another(3) new(4) purchase(5) I(6) made(7) for(8) my(9) wife(10) was(11) a(12) VW_Passat(13) and(14) I(15) like(16) the(17) Maxima(18) better(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) engine(2) is(3) quite(4) powerful(5) and(6) has(7) great(8) acceleration(9) .(10) 
+			<opinion polarity="+" feature="acceleration" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) downside(3) is(4) that(5) it(6) is(7) recommended(8) you(9) use(10) 91(11) octane(12) gas(13) to(14) get(15) the(16) full(17) performance(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			However(1) ,(2) at(3) the(4) gas(5) stations(6) I(7) go(8) to(9) there(10) is(11) only(12) 87(13) ,(14) 89(15) ,(16) or(17) 93(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			Opting(1) for(2) the(3) 93(4) is(5) quite(6) expensive(7) so(8) I(9) usually(10) get(11) 89(12) .(13) 
+			<opinion polarity="-" feature="price" opWords="7"/>
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) not(3) seen(4) a(5) difference(6) in(7) normal(8) driving(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			The(1) trunk(2) is(3) a(4) good(5) size(6) ,(7) so(8) no(9) comlpaints(10) there(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			This(1) model(2) also(3) includes(4) an(5) automatic(6) heating(7) /(8) cooling(9) system(10) that(11) will(12) adjust(13) the(14) fan(15) speed(16) and(17) temperature(18) accordingly(19) until(20) it(21) reaches(22) the(23) desired(24) internal(25) temperature(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			I(1) have(2) one(3) complaint(4) with(5) the(6) car(7) ,(8) which(9) is(10) really(11) small(12) and(13) just(14) annoying(15) ,(16) with(17) the(18) temperature(19) control(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			I(1) normally(2) like(3) to(4) re-circulate(5) the(6) air(7) instead_of(8) intaking(9) air(10) from(11) the(12) outside(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			That(1) way(2) air(3) is(4) usually(5) cooler(6) or(7) hotter(8) and(9) there(10) is(11) less(12) pollution(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			However(1) ,(2) everytime(3) you(4) turn(5) the(6) car(7) off(8) it(9) seems(10) to(11) default(12) back(13) to(14) the(15) intaking(16) external(17) air(18) when(19) you(20) have(21) the(22) AUTO(23) mode(24) selected(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			It(1) 's(2) just(3) annoying(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			The(1) sounds(2) system(3) is(4) pretty(5) good(6) though(7) not(8) super(9) phenomenal(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			I(1) thought(2) it(3) might(4) be(5) a(6) little(7) better(8) with(9) the(10) Bose(11) name(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			I(1) 've(2) had(3) the(4) car(5) for(6) about(7) 11(8) months(9) now(10) and(11) have(12) 11,000_miles(13) on(14) it(15) and(16) I(17) have(18) not(19) had(20) any(21) problems(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			I(1) have(2) not(3) needed(4) to(5) take(6) it(7) back(8) to(9) the(10) dealer(11) once(12) yet(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			This(1) is(2) kind(3) of(4) surprising(5) considering(6) all(7) power(8) features(9) included(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			I(1) would(2) highly(3) recommend(4) this(5) car(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="28">
+			Picking(1) one(2) up(3) used(4) that(5) had(6) low(7) mileage(8) would(9) be(10) a(11) good(12) idea(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			Especially(1) ,(2) since(3) mine(4) seems(5) to(6) be(7) running(8) like(9) new(10) after(11) almost(12) a(13) year(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GLE(16) 
+		</sentence>
+	</text>
+</review>

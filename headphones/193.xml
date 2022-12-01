@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="193" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Definitely(1) worth(2) considering(3) especially(4) for(5) air(6) travel(7) or(8) cube(9) office(10) environments(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) cancellation(2) Battery(3) life(4) Sound(5) quality(6) Very(7) comfortable(8) 
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) easy(2) to(3) access(4) volume(5) control(6) Cord(7) could(8) be(9) longer(10) 
+			<opinion polarity="-" feature="volume control" featWords="5,6" opWords="1,2,3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) require(3) excellent(4) sound(5) quality(6) and(7) noise(8) cancellation(9) the(10) Bose_QuietComfort(11) 2(12) headphones(13) is(14) a(15) clear(16) winner(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Had(1) the(2) earlier(3) version(4) ((5) before(6) the(7) QuietComfort(8) 2(9) )(10) and(11) had(12) some(13) problems(14) with(15) the(16) ear(17) pads(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Bought(1) these(2) headphones(3) and(4) so(5) far(6) been(7) very(8) impressed(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Sound(1) cancellation(2) is(3) excellent(4) Battery(5) life(6) is(7) excellent(8) Sound(9) quality(10) is(11) excellent(12) Very(13) comfortable(14) ,(15) even(16) for(17) long(18) periods(19) of(20) time(21) ((22) 10(23) hour(24) plans(25) ride(26) ,(27) wore(28) them(29) for(30) 8(31) hours(32) )(33) .(34) 
+			<opinion polarity="+" feature="battery life" featWords="5,6" opWords="8"/>
+			<opinion polarity="+" feature="sound quality" featWords="9,10" opWords="12"/>
+			<opinion polarity="+" feature="comfort" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="4">
+			Also(1) not(2) bad(3) for(4) sleeping(5) ,(6) since(7) they(8) re(9) much(10) slimmer(11) than(12) the(13) older(14) version(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) also(2) really(3) like(4) the(5) case(6) .(7) 
+			<opinion polarity="+" feature="case" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) can(2) fit(3) my(4) iPod(5) 80(6) as_well(7) as(8) a(9) splitter(10) with(11) no(12) problem(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) also(3) a(4) small(5) outside(6) pocket(7) that(8) I(9) find(10) very(11) useful(12) for(13) boarding(14) passes(15) and(16) immigration(17) cards(18) ((19) international(20) flights(21) )(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			Having(1) the(2) volume(3) control(4) hidden(5) at(6) the(7) end(8) of(9) the(10) cord(11) in(12) the(13) left(14) earphone(15) is(16) a(17) little(18) odd(19) to(20) me(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			It(1) forces(2) you(3) to(4) pull(5) it(6) out(7) ((8) can(9) t(10) hear(11) music(12) )(13) ,(14) then(15) flick(16) the(17) switch(18) and(19) insert(20) back(21) in(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) have(3) preferred(4) it(5) to(6) be(7) exposed(8) on(9) the(10) cord(11) closer(12) to(13) where(14) it(15) connects(16) to(17) the(18) device(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) I(3) find(4) the(5) cord(6) to(7) be(8) a(9) little(10) short(11) when(12) using(13) with(14) an(15) iPod(16) on(17) the(18) plane(19) .(20) 
+			<opinion polarity="-" feature="cord" featWords="6" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="12">
+			If(1) I(2) place(3) my(4) iPod(5) in(6) the(7) seat(8) next(9) to(10) me(11) or(12) the(13) seat(14) pocket(15) ,(16) I(17) end(18) up(19) catching(20) the(21) cord(22) and(23) either(24) tossing(25) the(26) player(27) or(28) disconnecting(29) the(30) cord(31) from(32) the(33) left(34) earphone(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) the(3) pros(4) far(5) outweigh(6) the(7) cons(8) and(9) I(10) would(11) definitely(12) recommend(13) the(14) Bose_QuietComfort(15) 2(16) headphones(17) 
+			<opinion polarity="+" feature="headphones" featWords="17" opWords="13"/>
+		</sentence>
+	</text>
+</review>

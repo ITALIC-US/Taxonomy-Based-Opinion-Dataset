@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="197" item="Advent AW-791 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Stay_Away(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Surround_Sound(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Good(1) choice(2) of(3) inputs(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) construction(2) .(3) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Guaranteed(1) to(2) physically(3) break(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Forget(1) these(2) as(3) they(4) are(5) junk(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) are(2) a(3) huge(4) waste(5) of(6) money(7) and(8) you(9) have(10) no(11) recourse(12) with(13) the(14) manufacturer(15) when(16) something(17) goes(18) wrong(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			They(1) look(2) and(3) feel(4) good(5) on(6) your(7) head(8) nut(9) the(10) cheap(11) plastic(12) breaks(13) with(14) ease(15) ,(16) almost(17) to(18) the(19) point(20) of(21) just(22) sitting(23) there(24) .(25) 
+			<opinion polarity="+" feature="appearance" opWords="2,5"/>
+			<opinion polarity="+" feature="comfort" opWords="4,5"/>
+		</sentence>
+		<sentence id="3">
+			The(1) company(2) is(3) bankrupt(4) but(5) will(6) not(7) admit(8) it(9) outright(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			They(1) just(2) state(3) that(4) there(5) is(6) no(7) customer(8) service(9) or(10) support(11) of(12) any(13) kind(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Stay(1) far(2) away(3) from(4) anything(5) AR(6) has(7) made(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Best_Buy(1) had(2) an(3) extended(4) warrantee(5) but(6) that(7) proves(8) to(9) be(10) worthless(11) as(12) they(13) can(14) not(15) replace(16) them(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Just(1) a(2) store(3) credit(4) will(5) be(6) issued(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			End(1) of(2) comments(3) .(4) 
+		</sentence>
+	</text>
+</review>

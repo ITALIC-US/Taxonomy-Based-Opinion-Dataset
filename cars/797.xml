@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="797" item="2002 Chevrolet Tahoe" rating="2">
+	<title>
+		<sentence id="1">
+			2002(1) Tahoe_Transmission_Replacement(2) `(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) ride(2) ,(3) room(4) for(5) 8(6) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) repairs(2) for(3) such(4) a(5) new(6) vehicle(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) purchased(2) our(3) 2002(4) 2Wheel(5) Drive_Tahoe(6) 2(7) years(8) ago(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) been(3) satisfied(4) until(5) yesterday(6) when(7) the(8) engine(9) made(10) a(11) loud(12) pop(13) while(14) we(15) were(16) driving(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) towed(3) to(4) the(5) Chevy_Dealership(6) and(7) we(8) were(9) told(10) that(11) the(12) transmission(13) needed(14) to(15) be(16) replaced(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			We(1) now(2) have(3) a(4) 2002(5) Tahoe(6) with(7) 43,000_miles(8) and(9) the(10) fear(11) that(12) something(13) else(14) may(15) go(16) wrong(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) just(3) out(4) of(5) our(6) warranty(7) and(8) 7,000_miles(9) ago(10) we(11) had(12) a(13) complete(14) tune(15) up(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) LT(16) ,(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

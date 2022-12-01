@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="21" item="1998 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) Great_American_Sports_Sedan(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Unbelievable(1) performance(2) ,(3) smooth(4) and(5) quiet(6) ride(7) ,(8) extremely(9) dependable(10) and(11) reliable(12) 
+			<opinion polarity="+" feature="reliability" opWords="12" potency="9"/>
+			<opinion polarity="+" feature="reliability" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="4"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Full(1) analog(2) instruments(3) ((4) volts(5) ,(6) oil(7) pressure(8) ,(9) boost(10) )(11) would(12) have(13) been(14) nice(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) give(2) this(3) vehicle(4) a(5) "(6) best(7) bet(8) "(9) recommendation(10) due(11) to(12) its(13) performance(14) ,(15) comfort(16) ,(17) and(18) dependability(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) love(2) this(3) car(4) !(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			My_GS(1) has(2) 121,800_miles(3) on(4) it(5) and(6) I(7) am(8) its(9) third(10) proud(11) owner(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			In_1998(1) ,(2) if(3) there(4) was(5) a(6) better(7) value(8) in(9) the(10) marketplace(11) than(12) the(13) $26,000(14) this(15) car(16) cost(17) ,(18) I(19) honestly(20) do(21) not(22) know(23) what(24) it(25) was(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) has(3) it(4) all(5) -(6) sport(7) performance(8) ,(9) luxurious(10) appointments(11) ,(12) great(13) looks(14) ,(15) and(16) outstanding(17) reliability(18) .(19) 
+			<opinion polarity="+" feature="reliability" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="design" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="performance" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			The(1) supercharged(2) 3800(3) V6(4) is(5) a(6) gem(7) of(8) a(9) powerplant(10) offering(11) gobs(12) of(13) torque(14) in_all(15) RPM(16) ranges(17) ,(18) and(19) it(20) 's(21) linked(22) to(23) a(24) heavy-duty(25) 4(26) speed(27) automatic(28) that(29) shifts(30) flawlessly(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			I(1) like(2) its(3) "(4) sleeper(5) "(6) quality(7) ,(8) too(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Except_for(1) the(2) different(3) colored(4) paint(5) on(6) the(7) lower(8) part(9) of(10) the(11) car(12) and(13) the(14) blacked-out(15) grille(16) ,(17) you(18) would(19) not(20) know(21) this(22) car(23) was(24) a(25) GS(26) and(27) could(28) give(29) a(30) Mustang_GT(31) a(32) run(33) for(34) its(35) money(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) blown(3) the(4) doors(5) off(6) of(7) BMWs(8) ,(9) Mustangs(10) ,(11) new(12) Chargers(13) ,(14) and(15) many(16) others(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			With(1) 280(2) lb(3) /(4) ft(5) of(6) torque(7) ,(8) there(9) is(10) not(11) much(12) on(13) the(14) road(15) this(16) car(17) will(18) not(19) walk(20) away(21) from(22) effortlessly(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			Inside(1) ,(2) the(3) comfort(4) is(5) unmatched(6) .(7) 
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			The(1) seats(2) are(3) plenty(4) supportive(5) and(6) as(7) comfortable(8) as(9) your(10) easy(11) chair(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) factory(2) audio(3) system(4) is(5) very(6) nice(7) ,(8) all(9) the(10) controls(11) are(12) laid(13) out(14) logically(15) ,(16) and(17) the(18) ride(19) in(20) this(21) car(22) is(23) downright(24) delightful(25) .(26) 
+			<opinion polarity="+" feature="ride quality" featWords="19" opWords="25" potency="24"/>
+			<opinion polarity="+" feature="controls" featWords="11" opWords="13,14,15"/>
+			<opinion polarity="+" feature="sound system" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="13">
+			Insurance(1) costs(2) are(3) reasonable(4) as(5) is(6) cost(7) of(8) ownership(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 2000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) GS(16) supercharged(17) 3.8L(18) ,(19) 4(20) sp(21) auto(22) 
+		</sentence>
+	</text>
+</review>

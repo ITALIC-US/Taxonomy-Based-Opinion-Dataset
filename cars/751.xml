@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="751" item="2001 Toyota Tacoma" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) Best_Small(2) 4wd(3) Truck(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) warranty(2) service(3) with(4) the(5) very(6) serious(7) problems(8) I(9) 'm(10) now(11) having(12) ...(13) 
+			<opinion polarity="+" feature="service" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Serious(1) manual(2) transmission(3) problems(4) ,(5) requiring(6) 2(7) major(8) rebuilds(9) ,(10) massive(11) engine(12) failure(13) problems(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Started(1) off(2) as(3) a(4) super(5) truck(6) but(7) serious(8) quality(9) problems(10) now(11) mean(12) it(13) spends(14) most(15) of(16) its(17) time(18) at(19) the(20) dealer(21) ...(22) A_real(23) Lemon(24) ?(25) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My_Tacoma_Standard_Cab(1) 4wd(2) is(3) now(4) over(5) 1yr(6) old(7) ,(8) having(9) replaced(10) a(11) '(12) 97(13) 4wd(14) Nissan_Hardbody(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			While(1) both(2) of(3) these(4) trucks(5) follow(6) the(7) same(8) design(9) concept(10) ,(11) the(12) Toyota(13) has(14) some(15) major(16) pluses(17) that(18) are(19) inevitable(20) ,(21) inasmuch_as(22) the(23) Nissan(24) was(25) at(26) the(27) end(28) of(29) its(30) design(31) lifecycle(32) ,(33) there(34) is(35) plenty_of(36) life(37) left(38) in(39) the(40) Toyota_Design(41) .(42) 
+		</sentence>
+		<sentence id="3">
+			The(1) standard(2) 2.7(3) liter(4) 4-cylinder(5) has(6) V8-like(7) power(8) ,(9) and(10) runs(11) at(12) low(13) revs(14) in(15) an(16) almost(17) Diesel(18) manner(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) not(3) much(4) need(5) to(6) go(7) over(8) 3500(9) rpm(10) in(11) the(12) lower(13) gears(14) ,(15) and(16) at(17) 3,000(18) in(19) 5th(20) you(21) 're(22) going(23) plenty(24) fast(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			While(1) I(2) was(3) enjoying(4) this(5) truck(6) last(7) year(8) ,(9) I(10) discovered(11) that(12) there(13) is(14) plenty_of(15) power(16) and(17) accelleration(18) left(19) even(20) at(21) 90mph(22) .(23) 
+			<opinion polarity="+" feature="truck" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			It(1) also(2) got(3) me(4) my(5) first(6) speeding(7) ticket(8) in(9) almost(10) 20(11) years(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Handling(1) on(2) twisty(3) paved(4) mountain(5) roads(6) is(7) excellent(8) .(9) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="8"/>
+		</sentence>
+		<sentence id="8">
+			Offroad(1) ,(2) the(3) torque(4) of(5) the(6) engine(7) means(8) that(9) many(10) obstacles(11) can(12) be(13) taken(14) in(15) 2wd(16) by(17) simply(18) coming(19) up(20) to(21) them(22) and(23) "(24) nudging(25) "(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			The(1) 16-inch(2) tires(3) and(4) the(5) tucked(6) in(7) drivetrain(8) give(9) you(10) plenty_of(11) clearance(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			The(1) automatic(2) hubs(3) mean(4) that(5) 4wd(6) can(7) be(8) easily(9) engaged(10) by(11) simply(12) pulling(13) the(14) engaging(15) lever(16) back(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) a(3) bench(4) seat(5) ,(6) small(7) cab(8) ,(9) my(10) experience(11) being(12) that(13) the(14) bench(15) seat(16) is(17) actually(18) very(19) comfortable(20) and(21) the(22) bench(23) seat(24) gives(25) me(26) space(27) for(28) all(29) of(30) my(31) photographic(32) equipment(33) .(34) 
+			<opinion polarity="+" feature="comfort" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="12">
+			The(1) cupholders(2) are(3) great(4) .(5) 
+			<opinion polarity="+" feature="cup holders" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			At(1) most(2) speeds(3) ,(4) interior(5) noise(6) is(7) very(8) acceptable(9) ,(10) and(11) at(12) speed(13) on(14) the(15) interstate(16) the(17) large(18) engine(19) is(20) barely(21) audible(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			Fuel(1) mileage(2) with(3) this(4) engine(5) is(6) excellent(7) .(8) 20mpg(9) is(10) almost(11) constant(12) ,(13) and(14) I(15) have(16) seen(17) 24mpg(18) at(19) one(20) time(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="7"/>
+		</sentence>
+		<sentence id="15">
+			Now(1) for(2) the(3) hohum(4) items(5) ...(6) The(7) transmission(8) shifts(9) great(10) ,(11) but(12) reverse(13) ,(14) unlike(15) that(16) on(17) the(18) Nissan(19) ,(20) is(21) NOT(22) synchronized(23) .(24) 
+			<opinion polarity="+" feature="transmission" featWords="8" opWords="9,10"/>
+		</sentence>
+		<sentence id="16">
+			Be(1) careful(2) when(3) engaging(4) this(5) gear(6) !(7) 
+		</sentence>
+		<sentence id="17">
+			And(1) those(2) awful(3) tires(4) .(5) 
+			<opinion polarity="-" feature="tire" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="18">
+			Somebody(1) must(2) have(3) slipped(4) somebody(5) else(6) at(7) Toyota(8) something(9) under(10) the(11) table(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			The(1) Dunlop(2) 's(3) traction(4) in(5) the(6) wet(7) and(8) muddy(9) is(10) ZERO(11) ,(12) thus(13) negating(14) many(15) of(16) the(17) advantages(18) of(19) 4wd(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			These(1) tires(2) are(3) even(4) poor(5) when(6) going(7) downhill(8) on(9) a(10) slightly(11) muddy(12) road(13) at(14) low(15) speed(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			They(1) are(2) marked(3) for(4) urgent(5) replacement(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			Also(1) ,(2) handling(3) in(4) the(5) rough(6) on(7) washboard(8) ripples(9) is(10) poor(11) .(12) 
+			<opinion polarity="-" feature="handling" featWords="3" opWords="11"/>
+		</sentence>
+		<sentence id="23">
+			Because_of(1) the(2) short(3) wheelbase(4) ,(5) and(6) especially(7) with(8) an(9) unloaded(10) bed(11) ,(12) the(13) Tacoma(14) can(15) develop(16) some(17) killer(18) rear(19) axle(20) hop(21) at(22) speeds(23) as(24) low(25) as(26) 10mph(27) .(28) 
+		</sentence>
+		<sentence id="24">
+			The(1) hop(2) can(3) become(4) a(5) self-amplifying(6) oscillation(7) that(8) can(9) only(10) be(11) stopped(12) by(13) bringing(14) the(15) vehicle(16) to(17) a(18) complete(19) stop(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			At(1) times(2) ,(3) this(4) oscillation(5) is(6) so(7) severe(8) that(9) the(10) frame(11) vibrates(12) and(13) even(14) the(15) front(16) wheels(17) start(18) joining(19) the(20) dance(21) .(22) 
+		</sentence>
+		<sentence id="26">
+			What(1) is(2) needed(3) here(4) is(5) some(6) kind(7) of(8) mass(9) damper(10) in(11) the(12) rear(13) suspension(14) .(15) 
+		</sentence>
+		<sentence id="27">
+			In(1) the(2) interior(3) I(4) have(5) no(6) major(7) complaints(8) ,(9) except_for(10) the(11) cupholder(12) directly(13) behind(14) the(15) shift(16) lever(17) ,(18) putting(19) 4th(20) somewhere(21) in(22) the(23) middle(24) of(25) your(26) slurpee(27) ,(28) thus(29) always(30) encouraging(31) you(32) to(33) buy(34) smaller(35) drinks(36) or(37) go(38) to(39) that(40) 5th(41) gear(42) .(43) 
+		</sentence>
+		<sentence id="28">
+			The(1) leather(2) sock(3) with(4) the(5) silly(6) plastic(7) tray(8) around(9) the(10) gear(11) shift(12) levers(13) is(14) a(15) dirt(16) magnet(17) deluxe(18) .(19) ((20) A(21) simple(22) rubber(23) boot(24) like(25) on(26) the(27) Nissan(28) would(29) have(30) been(31) much(32) better(33) )(34) .(35) 
+		</sentence>
+		<sentence id="29">
+			Also(1) ,(2) for(3) you(4) folks(5) that(6) like(7) to(8) change(9) your(10) own(11) oil(12) ,(13) Toyota(14) and(15) Nissan(16) must(17) have(18) a(19) "(20) secret(21) design(22) contest(23) "(24) going(25) for(26) the(27) worst(28) ,(29) most(30) inaccessible(31) ,(32) most(33) stupid(34) place(35) to(36) put(37) the(38) oil(39) filter(40) on(41) the(42) engine(43) .(44) 
+		</sentence>
+		<sentence id="30">
+			Getting(1) at(2) this(3) filter(4) takes(5) some(6) patience(7) .(8) 
+		</sentence>
+		<sentence id="31">
+			For(1) the(2) rest(3) just(4) a(5) great(6) vehicle(7) UPDATE(8) 28_April_2004(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="32">
+			While(1) the(2) glowing(3) review(4) above(5) still(6) applies(7) ,(8) some(9) unhappy(10) items(11) have(12) happened(13) as(14) follows(15) :(16) 2(17) HUGE(18) repairs(19) to(20) my(21) manual(22) transmission(23) ((24) How(25) can(26) an(27) unabused(28) transmission(29) fail(30) this(31) badly(32) ?(33) )(34) Virtually(35) everything(36) in(37) the(38) transmission(39) had(40) to(41) be(42) replaced(43) after(44) it(45) suddenly(46) refused(47) to(48) shift(49) out(50) of(51) neutral(52) ((53) metal(54) particles(55) found(56) )(57) .(58) 
+		</sentence>
+		<sentence id="33">
+			Now(1) it(2) is(3) at(4) the(5) dealer(6) again(7) ,(8) with(9) nasty(10) rod-knock(11) like(12) noises(13) coming(14) from(15) the(16) engine(17) ,(18) rendering(19) it(20) undrivable(21) .(22) 
+			<opinion polarity="-" feature="ride quality" opWords="21"/>
+		</sentence>
+		<sentence id="34">
+			Luckily(1) the(2) warranty(3) is(4) still(5) good(6) ,(7) but(8) these(9) problems(10) should(11) not(12) be(13) happening(14) with(15) a(16) Toyota(17) ...(18) Amount_Paid(19) ((20) US(21) $(22) )(23) :(24) 16,000(25) Condition(26) :(27) NewModel_Year(28) :(29) 2001Model(30) and(31) Options(32) :(33) A(34) /(35) C(36) 
+			<opinion polarity="+" feature="warranty" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+	</text>
+</review>

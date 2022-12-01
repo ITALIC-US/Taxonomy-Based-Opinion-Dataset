@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="683" item="2001 Toyota Corolla" rating="2">
+	<title>
+		<sentence id="1">
+			2001(1) LE(2) -(3) this(4) car(5) should(6) drive(7) much(8) better(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Resale(1) value(2) ,(3) reliability(4) ,(5) gas(6) mileage(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unsafe(1) handling(2) ,(3) a(4) chore(5) to(6) drive(7) ,(8) very(9) uncomfortable(10) seats(11) in(12) LE(13) ,(14) awful(15) styling(16) 
+			<opinion polarity="-" feature="design" featWords="16" opWords="15"/>
+			<opinion polarity="-" feature="seat" featWords="11" opWords="10"/>
+			<opinion polarity="-" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) driving(2) pleasure(3) ,(4) safety(5) ,(6) and(7) comfort(8) do(9) not(10) concern(11) you(12) then(13) this(14) is(15) an(16) excellent(17) car(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="2">
+			A(1) good(2) appliance(3) for(4) people(5) who(6) hate(7) driving(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) not(3) my(4) car(5) but(6) my(7) fianc�e(8) s.(9) We(10) are(11) a(12) few(13) months(14) away(15) from(16) getting(17) married(18) ,(19) and(20) we(21) have(22) decided(23) to(24) consolidate(25) cars(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) record(3) I(4) own(5) a(6) 2001(7) Ford_Focus(8) ZX3(9) with(10) no(11) options(12) ,(13) and(14) she(15) owns(16) the(17) 2001(18) Toyota_Corolla(19) that(20) is(21) completely(22) loaded(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			Since(1) my(2) fianc�e(3) does(4) not(5) drive(6) stick(7) ,(8) our(9) choices(10) are(11) keep(12) the(13) corolla(14) ,(15) or(16) get(17) a(18) different(19) car(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			For(1) financial(2) reasons(3) I(4) want(5) to(6) keep(7) the(8) Corolla(9) ,(10) but(11) she(12) can(13) not(14) wait(15) to(16) get(17) rid(18) of(19) it(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) she(3) just(4) wanted(5) a(6) new(7) car(8) ,(9) but(10) now(11) after(12) having(13) driven(14) the(15) Corolla(16) over(17) the(18) past(19) month(20) I(21) totally(22) agree(23) with(24) her(25) that(26) we(27) need(28) to(29) sell(30) this(31) car(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			Growing(1) up(2) we(3) had(4) a(5) 1986(6) Chevy_Nova(7) ((8) basically(9) a(10) Corolla(11) )(12) ,(13) which(14) I(15) though(16) was(17) a(18) decent(19) little(20) car(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="19"/>
+		</sentence>
+		<sentence id="7">
+			You(1) 'd(2) think(3) Corollas(4) would(5) have(6) advanced(7) ,(8) but(9) I(10) was(11) amazed(12) at(13) how(14) similar(15) if(16) felt(17) to(18) the(19) old(20) '(21) 86(22) Nova_I(23) have(24) never(25) liked(26) this(27) Corolla(28) ,(29) and(30) neither(31) has(32) my(33) future(34) wife(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			My(1) biggest(2) complaint(3) about(4) this(5) car(6) is(7) its(8) handling(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) handles(3) worse(4) than(5) the(6) full(7) size(8) Oldsmobile(9) station(10) wagon(11) I(12) learned(13) to(14) drive(15) on(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			We(1) took(2) the(3) car(4) on(5) a(6) trip(7) to(8) Lake_Tahoe(9) ,(10) and(11) were(12) unable(13) to(14) keep(15) up(16) with(17) the(18) SUVs(19) on(20) the(21) twisty(22) mountain(23) roads(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			Whenever(1) it(2) rains(3) the(4) car(5) feels(6) like(7) it(8) is(9) about(10) to(11) spin(12) out(13) of(14) control(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) rear(2) brakes(3) lock(4) up(5) very(6) easily(7) on(8) wet(9) roads(10) ,(11) and(12) make(13) us(14) both(15) very(16) nervous(17) about(18) driving(19) it(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) does(3) not(4) have(5) anti-lock(6) brakes(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			On(1) windy(2) Highways(3) it(4) is(5) difficult(6) to(7) control(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="15">
+			I(1) think(2) a_lot_of(3) the(4) handling(5) problems(6) are(7) related(8) to(9) the(10) tires(11) it(12) came(13) with(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Replacing(1) these(2) tires(3) would(4) probably(5) solve(6) some(7) of(8) the(9) handling(10) ills(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			The(1) only(2) thing(3) worse(4) than(5) driving(6) the(7) car(8) is(9) riding(10) in(11) it(12) as(13) a(14) passenger(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			For(1) some(2) reason(3) the(4) front(5) passenger(6) seat(7) makes(8) both(9) of(10) our(11) legs(12) go(13) numb(14) after(15) only(16) a_half(17) hour(18) of(19) driving(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			Added(1) to(2) that(3) is(4) the(5) feeling(6) of(7) impending(8) death(9) if(10) an(11) accident(12) should(13) occur(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			For(1) the(2) record(3) I(4) have(5) ridden(6) in(7) base(8) Corolla(9) of(10) the(11) same(12) year(13) and(14) the(15) seats(16) were(17) way(18) more(19) comfortable(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			By(1) comparison(2) my(3) Focus(4) is(5) way(6) better(7) to(8) drive(9) and(10) ride(11) in(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			Even_though(1) it(2) is(3) a(4) base(5) model(6) it(7) feels(8) plusher(9) than(10) the(11) loaded(12) Corolla(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			The(1) styling(2) of(3) both(4) the(5) interior(6) and(7) exterior(8) are(9) bland(10) cheap(11) looking(12) .(13) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="11,12"/>
+			<opinion polarity="-" feature="design" featWords="2" opWords="10,12"/>
+		</sentence>
+		<sentence id="24">
+			Neither(1) of(2) us(3) get(4) very(5) excited(6) about(7) the(8) car(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			OK(1) ,(2) now(3) something(4) good(5) to(6) say(7) .(8) 
+		</sentence>
+		<sentence id="26">
+			This(1) car(2) feels(3) cheap(4) ,(5) but(6) seems(7) well(8) constructed(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="8,9"/>
+			<opinion polarity="-" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			I(1) have(2) no_doubt(3) it(4) will(5) last(6) a(7) long(8) time(9) ,(10) and(11) provide(12) excellent(13) reliability(14) ,(15) as(16) it(17) has(18) for(19) us(20) .(21) 
+			<opinion polarity="+" feature="reliability" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="28">
+			The(1) fuel(2) mileage(3) is(4) also(5) quite(6) good(7) .(8) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="29">
+			It(1) is(2) noticeably(3) better(4) than(5) my(6) Focus(7) even_though(8) it(9) is(10) a(11) bigger(12) car(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			The(1) engine(2) seems(3) decent(4) but(5) not(6) great(7) .(8) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="6,7"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="31">
+			It(1) provides(2) decent(3) oomph(4) off(5) the(6) line(7) ,(8) but(9) dies(10) off(11) as(12) the(13) RPMs(14) increase(15) .(16) 
+		</sentence>
+		<sentence id="32">
+			Perhaps(1) the(2) best(3) thing(4) about(5) the(6) car(7) is(8) resale(9) value(10) and(11) desirability(12) among(13) the(14) general(15) population(16) .(17) 
+			<opinion polarity="+" feature="resale value" featWords="9,10" opWords="3"/>
+		</sentence>
+		<sentence id="33">
+			We(1) had(2) absolutely(3) no(4) trouble(5) getting(6) people(7) interested(8) in(9) buying(10) the(11) car(12) for(13) a(14) decent(15) rate(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			By(1) contrast(2) I(3) do(4) not(5) seem(6) to(7) be(8) able(9) to(10) give(11) my(12) Focus(13) away(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			Toyota(1) 's(2) reputation(3) for(4) build(5) a(6) reliable(7) car(8) has(9) certainly(10) helped(11) us(12) here(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="36">
+			Despite(1) all(2) this(3) we(4) are(5) still(6) getting(7) rid(8) of(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Why(1) live(2) with(3) a(4) car(5) that(6) we(7) hate(8) driving(9) ,(10) and(11) that(12) feels(13) unsafe(14) .(15) 
+			<opinion polarity="-" feature="safety" opWords="14"/>
+		</sentence>
+		<sentence id="38">
+			I(1) 'm(2) sure(3) it(4) will(5) provide(6) good(7) service(8) for(9) the(10) next(11) owner(12) .(13) 
+			<opinion polarity="+" feature="service" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LE(16) 
+		</sentence>
+	</text>
+</review>

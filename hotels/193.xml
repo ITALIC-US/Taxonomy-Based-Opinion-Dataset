@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="193" item="Hudson" rating="1">
+	<title>
+		<sentence id="1">
+			Better(1) off(2) staying(3) on(4) the(5) bottom(6) of(7) the(8) Hudson_River(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			That(1) you(2) will(3) never(4) want(5) to(6) return(7) !(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Staff(2) is(3) the(4) worst(5) of(6) any(7) hotel(8) !(9) 
+			<opinion polarity="-" feature="staff" featWords="2" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Words(1) can(2) not(3) adequately(4) describe(5) how(6) horrible(7) the(8) Hudson(9) "(10) experience(11) "(12) is(13) !(14) 
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) is(3) still(4) angry(5) from(6) being(7) rejected(8) from(9) a(10) gap(11) commercial(12) ((13) when(14) they(15) should(16) of(17) been(18) cast(19) as(20) a(21) corpse(22) on(23) CSI(24) )(25) and(26) are(27) more(28) interested(29) in(30) discussing(31) their(32) lovelife(33) while(34) crying(35) in(36) your(37) drink(38) ((39) thats(40) if(41) they(42) ever(43) arrive(44) )(45) ,(46) rather(47) than(48) assisting(49) the(50) clientele(51) .(52) 
+			<opinion polarity="-" feature="staff" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Recommend(1) this(2) to(3) NO(4) ONE(5) ,(6) even(7) people(8) you(9) can(10) not(11) stand(12) !(13) 
+		</sentence>
+		<sentence id="4">
+			Some(1) staff(2) members(3) have(4) such(5) bad(6) breathe(7) that(8) even(9) 3_feet(10) away(11) is(12) too(13) close(14) and(15) thats(16) not(17) to(18) mention(19) a(20) "(21) manager(22) "(23) that(24) wears(25) a(26) CBGB(27) shirt(28) that(29) must(30) have(31) been(32) used(33) to(34) clean(35) CBGB(36) 's(37) bathrooms(38) !(39) 
+		</sentence>
+		<sentence id="5">
+			Busboys(1) that(2) are(3) arrogant(4) and(5) rude(6) will(7) round(8) out(9) what(10) is(11) destined(12) to(13) be(14) a(15) horrible(16) time(17) !(18) 
+		</sentence>
+	</text>
+</review>

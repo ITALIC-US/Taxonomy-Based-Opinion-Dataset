@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="344" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) best(2) average(3) car(4) for(5) your(6) money(7) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) engine(2) ,(3) brake(4) ,(5) roominess(6) and(7) looks(8) ((9) too(10) common(11) by(12) now(13) )(14) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) build(2) quality(3) of(4) US(5) built(6) parts(7) ,(8) attitude(9) of(10) dealership(11) ((12) take(13) it(14) or(15) leave(16) it(17) )(18) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) driving(2) Toyota(3) cars(4) for(5) all(6) my(7) adult(8) life(9) ,(10) I(11) did(12) not(13) think(14) twice(15) when(16) I(17) saw(18) the(19) Accord(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) opted(2) for(3) the(4) top(5) of(6) the(7) line(8) model(9) V6(10) EX(11) and(12) ended(13) up(14) paying(15) sticker(16) price(17) as(18) it(19) had(20) just(21) come(22) out(23) and(24) the(25) dealers(26) were(27) still(28) maintaining(29) a(30) waiting(31) list(32) and(33) deposits(34) and(35) so_on(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			I(1) chose(2) the(3) Accord(4) when(5) I(6) almost(7) had(8) bought(9) the(10) Camry(11) V6(12) XLE(13) but(14) like(15) the(16) originality(17) of(18) the(19) new(20) Accord(21) which(22) seemed(23) superior(24) than(25) Camry(26) in(27) more(28) than(29) one(30) way(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			Now(1) after(2) 37,000_miles(3) and(4) quite(5) a(6) few(7) long(8) road(9) trips(10) as_well(11) as(12) unscheduled(13) trips(14) to(15) my(16) dealerships(17) ,(18) I(19) realize(20) that(21) if(22) someone(23) wants(24) to(25) spend(26) $27k(27) +(28) on(29) a(30) car(31) ,(32) they(33) should(34) go(35) for(36) some(37) other(38) brand(39) .(40) 
+		</sentence>
+		<sentence id="5">
+			At(1) the(2) time(3) the(4) Accord(5) was(6) bought(7) ,(8) the(9) new(10) TL(11) was(12) not(13) out(14) there(15) ,(16) but(17) now(18) ,(19) I(20) would(21) go(22) for(23) the(24) TL(25) if(26) I(27) had(28) to(29) do(30) it(31) all(32) over(33) again(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			My_Accord(1) has(2) a(3) powerful(4) smooth(5) V6(6) which(7) always(8) puts(9) grin(10) on(11) my(12) face(13) when(14) I(15) make(16) it(17) work(18) hard(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Brakes(1) are(2) excellent(3) and(4) it(5) is(6) fairly(7) quiet(8) ((9) not(10) comparing(11) it(12) with(13) my(14) ES300(15) )(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			The(1) stereo(2) could(3) be(4) much(5) better(6) and(7) to(8) my(9) greatest(10) surprise(11) ,(12) I(13) found(14) ((15) after(16) I(17) got(18) delivery(19) of(20) the(21) car(22) )(23) that(24) it(25) had(26) no(27) cassette(28) player(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			What(1) troubled(2) me(3) are(4) things(5) like(6) the(7) fuel(8) sending(9) unit(10) ,(11) power(12) seat(13) recliner(14) and(15) entire(16) instrument(17) cluster(18) ((19) most(20) probably(21) GM(22) built(23) )(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			These(1) items(2) have(3) been(4) replaced(5) several(6) times(7) and(8) with(9) the(10) involvement(11) of(12) American_Honda(13) ,(14) the(15) dealer(16) has(17) finally(18) fixed(19) it(20) ((21) but(22) by(23) this(24) time(25) ,(26) because_of(27) too(28) many(29) trips(30) to(31) the(32) dealership(33) ,(34) I(35) ended(36) switching(37) back(38) to(39) my(40) old(41) Toyota(42) ,(43) bought(44) an(45) ES300(46) )(47) .(48) 
+		</sentence>
+		<sentence id="11">
+			Still(1) have(2) the(3) Honda(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			Wife(1) normally(2) drives(3) it(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			While(1) the(2) car(3) seems(4) to(5) be(6) driving(7) fine(8) now(9) ,(10) The(11) love(12) is(13) gone(14) ....(15) 
+		</sentence>
+	</text>
+</review>

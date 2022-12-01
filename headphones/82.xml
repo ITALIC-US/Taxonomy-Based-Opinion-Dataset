@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="82" item="Sennheiser MXL 70 VC Sport Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Big_Ears_Required(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) great(2) ,(3) crisp(4) bass(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			High_Quality(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Waterproof(1) .(2) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) made(2) for(3) sports(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Very(1) hard(2) to(3) keep(4) in(5) ears(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) picked(2) these(3) up(4) ,(5) because(6) I(7) needed(8) something(9) that(10) are(11) not(12) in-ears(13) ,(14) and(15) that(16) I(17) can(18) jog(19) to(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Since(1) these(2) were(3) "(4) Sports(5) "(6) earphones(7) ,(8) and(9) they(10) had(11) a(12) neck(13) strap(14) ,(15) I(16) figured(17) these(18) would(19) be(20) a(21) great(22) match(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			These(1) ear(2) phones(3) are(4) huge(5) .(6) 
+			<opinion polarity="-" feature="size" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			I(1) usually(2) use(3) the(4) apple(5) ear(6) phones(7) ,(8) and(9) shure(10) in-ears(11) ,(12) but(13) the(14) Sennheisers(15) do(16) not(17) fit(18) properly(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			My(1) girlfriend(2) could(3) not(4) fit(5) them(6) too(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			They(1) fell(2) out(3) just(4) sitting(5) in(6) her(7) ear(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) tried(2) a(3) brief(4) jog(5) with(6) them(7) and(8) they(9) flew(10) right(11) out(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			After(1) putting(2) in(3) an(4) apple(5) earphone(6) cover(7) on(8) the(9) earphones(10) ,(11) I(12) found(13) that(14) they(15) do(16) stay(17) in(18) a(19) little(20) better(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			You(1) can(2) jog(3) for(4) a(5) few(6) minutes(7) before(8) they(9) come(10) out(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			They(1) sound(2) pretty(3) good(4) ,(5) you(6) can(7) really(8) the(9) a(10) nice(11) crisp(12) bass(13) .(14) 
+			<opinion polarity="+" feature="sound quality" opWords="2,4" potency="3"/>
+			<opinion polarity="+" feature="bass" featWords="13" opWords="11"/>
+			<opinion polarity="+" feature="bass" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="11">
+			Overall(1) ,(2) not(3) worth(4) the(5) $40-60(6) price(7) range(8) .(9) 
+		</sentence>
+	</text>
+</review>

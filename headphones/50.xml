@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="50" item="Sony MDR-NC11 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Bo(1) --(2) o-o-gus(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) idea(2) :(3) small(4) ,(5) compact(6) noise(7) canceling(8) headphones(9) .(10) 
+			<opinion polarity="+" feature="size" opWords="4"/>
+			<opinion polarity="+" feature="size" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Sony(1) name(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Come(1) with(2) neat(3) little(4) pouch(5) .(6) 
+			<opinion polarity="+" feature="case" featWords="5" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) design(2) ,(3) poor(4) fit(5) ,(6) noise(7) cancellation(8) does(9) not(10) really(11) work(12) .(13) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="comfort" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Avoid(1) these(2) .(3) 
+			<opinion polarity="-" feature="headphones" featWords="2" featRef="headphones" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Touted(1) as(2) noise(3) canceling(4) ,(5) they(6) do(7) no(8) better(9) than(10) any(11) well-sealing(12) earbud(13) ,(14) and(15) they(16) fit(17) poorly(18) for(19) most(20) people(21) to(22) boot(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			Sony(1) engineers(2) seem(3) to(4) have(5) missed(6) the(7) point(8) that(9) the(10) human(11) ear(12) canal(13) faces(14) rearward(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) way(2) these(3) turkeys(4) are(5) designed(6) ,(7) the(8) L(9) shaped(10) boom(11) gets(12) in(13) the(14) way(15) of(16) the(17) external(18) ear(19) making(20) them(21) fit(22) better(23) if(24) you(25) reverse(26) sides(27) ((28) wear(29) the(30) left(31) earbud(32) in(33) the(34) right(35) ear(36) and(37) vice_versa(38) )(39) .(40) 
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) bottom(3) line(4) is(5) that(6) their(7) noise(8) cancellation(9) just(10) does(11) not(12) work(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Turning(1) it(2) on(3) boosts(4) volume(5) a_bit(6) ,(7) but(8) does(9) not(10) diminish(11) external(12) noise(13) to(14) any(15) discernable(16) degree(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Pity(1) ,(2) one(3) usually(4) can(5) depend(6) on(7) Sony(8) .(9) 
+		</sentence>
+	</text>
+</review>

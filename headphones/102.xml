@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="102" item="Etymotic Research Binaura ER4B Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good_But_Construction_Faulty(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) isolation(2) ,(3) fair(4) bass(5) quality(6) .(7) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extremely(1) poor(2) construction(3) ,(4) prone(5) to(6) breaking(7) when(8) cleaning(9) .(10) 
+			<opinion polarity="-" feature="durability" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fair(1) quality(2) performance(3) but(4) very(5) bad(6) construction(7) ;(8) breaks(9) easily(10) .(11) 
+			<opinion polarity="+" feature="performance" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) given(3) the(4) ER(5) -(6) 6(7) as(8) a(9) gift(10) about(11) four(12) or(13) five(14) years(15) ago(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Great(1) gift(2) but(3) not(4) sure(5) I(6) 'd(7) pay(8) the(9) price(10) ,(11) if(12) I(13) was(14) buying(15) it(16) myself(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) great(3) for(4) excluding(5) airplane(6) noises(7) ((8) I(9) often(10) do(11) not(12) hear(13) the(14) PA(15) announcements(16) ,(17) even(18) with(19) sound(20) low(21) )(22) but(23) the(24) bass(25) ,(26) although(27) not(28) as(29) bad(30) as(31) some(32) reviews(33) ,(34) is(35) marginal(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			My(1) major(2) complaint(3) is(4) that(5) after(6) a(7) recent(8) trip(9) and(10) seeing(11) some(12) earwax(13) in(14) the(15) canal(16) I(17) decided(18) clean(19) the(20) ear(21) pieces(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Following(1) the(2) instructions(3) explicitly(4) ,(5) I(6) tried(7) to(8) pull(9) off(10) the(11) flexible(12) eartips(13) ;(14) they(15) would(16) not(17) budge(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			With(1) a(2) very(3) slight(4) twisting(5) motion(6) the(7) eartip(8) came(9) off(10) in(11) my(12) hand(13) but(14) with(15) parts(16) that(17) should(18) have(19) stayed(20) with(21) the(22) speakers(23) !(24) 
+		</sentence>
+		<sentence id="7">
+			Trying(1) the(2) second(3) earphone(4) produced(5) the(6) same(7) results(8) ,(9) even_though(10) I(11) was(12) much(13) more(14) cautious(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Apparently(1) ,(2) the(3) plastic(4) extending(5) from(6) the(7) speaker(8) and(9) holding(10) the(11) earpieces(12) had(13) hardened(14) with(15) age(16) ,(17) become(18) fragile(19) ,(20) and(21) easily(22) broke(23) off(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			A(1) close(2) inspection(3) reveals(4) a(5) very(6) thin(7) plastic(8) tube(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) tube(2) is(3) encased(4) in(5) metal(6) but(7) the(8) connection(9) to(10) the(11) plastic(12) body(13) of(14) the(15) speakers(16) themselves(17) is(18) very(19) very(20) thin(21) and(22) could(23) easily(24) break(25) ,(26) even(27) without(28) ageing(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			I(1) give(2) the(3) earphones(4) a(5) moderately(6) high(7) grade(8) for(9) performance(10) but(11) a(12) very(13) low(14) one(15) for(16) durability(17) .(18) 
+		</sentence>
+	</text>
+</review>

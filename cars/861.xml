@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="861" item="2000 Toyota Corolla" rating="2">
+	<title>
+		<sentence id="1">
+			Mixed_Bag_of_a_Car(1) -(2) 2000(3) Corolla_LE(4) w(5) /(6) 5(7) spd(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Relatively(1) quiet(2) ,(3) decent(4) fuel(5) economy(6) !(7) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ,(2) Terrible(3) back(4) support(5) ,(6) Lack(7) of(8) ((9) Leg(10) )(11) Room(12) ,(13) Reliability_Problems(14) ,(15) Dull(16) !(17) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			VERY_Expensive_for_a_Small(1) ,(2) Expensive_Econocar(3) with(4) limited(5) space(6) ,(7) sparse(8) equipment(9) and(10) weak(11) performance(12) !(13) !(14) 
+			<opinion polarity="-" feature="room" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Reliability(1) problems(2) are(3) rising(4) !(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) to(3) replace(4) my(5) 1994(6) Civic_DX_Coupe(7) when(8) it(9) was(10) hit(11) by(12) someone(13) ((14) their(15) fault(16) !(17) )(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Since(1) I(2) grew(3) up(4) in(5) a(6) "(7) Honda(8) family(9) ((10) esp.(11) Civics(12) between(13) 1984(14) -(15) 1994(16) )(17) "(18) ,(19) my(20) first(21) intention(22) was(23) to(24) get(25) a(26) new(27) Civic(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			I(1) grew(2) tired(3) of(4) Honda(5) ((6) Civics(7) )(8) and(9) wanted(10) something(11) new(12) and(13) different(14) so(15) I(16) decided(17) upon(18) Toyota(19) cars(20) because_of(21) their(22) similar(23) quality(24) and(25) features(26) to(27) Honda(28) cars(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			The(1) Camry(2) is(3) a(4) nice(5) car(6) but(7) is(8) TOO(9) expensive(10) and(11) the(12) styling(13) is(14) TOO(15) conservative(16) .(17) 
+			<opinion polarity="-" feature="design" featWords="13" opWords="15,16"/>
+			<opinion polarity="-" feature="price" opWords="9,10"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) wanted(2) to(3) keep(4) the(5) price(6) at(7) $15,000(8) or(9) less(10) so(11) instead_of(12) the(13) entry-level(14) ,(15) bare-bones(16) Camry(17) ((18) VE(19) )(20) ,(21) I(22) looked(23) at(24) the(25) Corolla(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) the(3) top-line(4) Corolla_LE(5) which(6) came(7) with(8) side(9) air(10) bags(11) ,(12) mudguards(13) and(14) a(15) heavy(16) duty(17) rear(18) defroster(19) with(20) cruise(21) control(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			I(1) managed(2) to(3) get(4) the(5) dealership(6) to(7) throw(8) in(9) the(10) floor(11) mats(12) for_free(13) !(14) 
+		</sentence>
+		<sentence id="8">
+			Be(1) wary(2) that(3) many(4) dealerships(5) are(6) ordering(7) cars(8) with(9) side(10) airbags(11) as(12) "(13) standard(14) equipment(15) "(16) that(17) cost(18) an(19) additional(20) $250(21) ,(22) at_least(23) in(24) the(25) NE(26) area(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			Save(1) the(2) money(3) to(4) upgrade(5) the(6) stereo(7) system(8) !(9) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) beware(3) of(4) dealers(5) !(6) 
+		</sentence>
+		<sentence id="11">
+			Some(1) are(2) quite(3) rude(4) and(5) unfriendly(6) as(7) they(8) know(9) people(10) buy(11) Toyotas(12) !(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) can(2) understand(3) why(4) the(5) Civic(6) and(7) Corolla(8) competes(9) fiercely(10) with(11) one(12) another(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) handles(3) relatively(4) well(5) and(6) the(7) finish(8) is(9) good(10) .(11) 
+			<opinion polarity="+" feature="finish" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) two(2) brands(3) are(4) very(5) comparable(6) though(7) each(8) have(9) their(10) own(11) characteristics(12) !(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) Corolla(2) is(3) "(4) refined(5) "(6) ,(7) Very_Conservative(8) but(9) dull(10) and(11) boring(12) whereas(13) the(14) Civic(15) is(16) Stylish(17) ,(18) Sporty(19) and(20) handles(21) better(22) !(23) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+			<opinion polarity="+" feature="design" opWords="17"/>
+			<opinion polarity="-" feature="car" opWords="12"/>
+			<opinion polarity="-" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			Ride(1) and(2) Handling(3) :(4) B_The(5) ride(6) is(7) smooth(8) ,(9) but(10) being(11) an(12) economy(13) car(14) ,(15) expect(16) to(17) feel(18) every(19) bump(20) and(21) road(22) irregularities(23) .(24) 
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			The(1) engine(2) is(3) relatively(4) peppy(5) ,(6) though(7) .(8) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			The(1) car(2) handles(3) relatively(4) well(5) but(6) leans(7) heavily(8) on(9) corners(10) even_though(11) it(12) has(13) both(14) front(15) and(16) rear(17) stabilizer(18) bars(19) !(20) 
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			One(1) factor(2) that(3) contributes(4) to(5) the(6) leaning(7) is(8) the(9) narrow(10) wheelbase(11) of(12) 97_inches(13) instead_of(14) 103_inches(15) found(16) in(17) most(18) other(19) compact(20) cars(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			The(1) short(2) wheelbase(3) contributes(4) to(5) less-than-perfect(6) stability(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Also(1) ,(2) the(3) car(4) is(5) very(6) narrow(7) !(8) !(9) 
+			<opinion polarity="-" feature="size" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="22">
+			The(1) brakes(2) are(3) soft(4) and(5) the(6) tire(7) grip(8) is(9) decent(10) though(11) slippery(12) at(13) times(14) .(15) 
+			<opinion polarity="-" feature="tire" featWords="7" opWords="12"/>
+			<opinion polarity="+" feature="tire" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="23">
+			Vibrations(1) are(2) felt(3) through(4) the(5) steering(6) wheel(7) when(8) traveling(9) at(10) high(11) speeds(12) !(13) 
+		</sentence>
+		<sentence id="24">
+			Steering(1) is(2) tight(3) despite(4) being(5) equipped(6) with(7) power-assisted(8) steering(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			The(1) car(2) is(3) light(4) so(5) be(6) careful(7) driving(8) at(9) highway(10) speeds(11) since(12) the(13) car(14) tends(15) to(16) be(17) "(18) pushed(19) "(20) by(21) the(22) crosswinds(23) and(24) steering(25) needs(26) to(27) be(28) corrected(29) due(30) to(31) the(32) crosswinds(33) .(34) 
+		</sentence>
+		<sentence id="26">
+			Transmission(1) :(2) B_The(3) transmission(4) and(5) clutch(6) is(7) relatively(8) smooth(9) ((10) too(11) smooth(12) since(13) there(14) usually(15) is(16) a(17) "(18) shift(19) point(20) "(21) in(22) clutches(23) when(24) one(25) would(26) shift(27) the(28) gears(29) but(30) I(31) still(32) can(33) not(34) feel(35) that(36) "(37) shift(38) point(39) "(40) .(41) Also(42) ,(43) the(44) "(45) shift(46) point(47) "(48) appears(49) to(50) be(51) applied(52) after(53) the(54) clutch(55) is(56) pushed(57) 3/4(58) of(59) the(60) way(61) in(62) vs(63) .(64) 1/2(65) way(66) found(67) in(68) most(69) Other(70) cars(71) !(72) )(73) .(74) 
+			<opinion polarity="+" feature="clutch" featWords="6" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="transmission" featWords="4" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="27">
+			I(1) tried(2) the(3) automatic(4) transmission(5) but(6) it(7) literally(8) has(9) a(10) "(11) disconcerting(12) 3_second(13) pause(14) "(15) between(16) shifts(17) as(18) it(19) "(20) searches(21) "(22) for(23) the(24) right(25) gear(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			Some(1) people(2) may(3) not(4) pay(5) attention(6) to(7) it(8) but(9) some(10) will(11) .(12) 
+		</sentence>
+		<sentence id="29">
+			One(1) should(2) try(3) both(4) transmissions(5) to(6) decide(7) which(8) suits(9) them(10) best(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			Though(1) the(2) manual(3) shifting(4) is(5) "(6) relatively(7) "(8) smooth(9) ,(10) it(11) is(12) VERY(13) ,(14) VERY_NOTCHY(15) !(16) !(17) 
+			<opinion polarity="+" feature="shifter" featWords="4" opWords="9" potency="7"/>
+		</sentence>
+		<sentence id="31">
+			Honda(1) has(2) the(3) BEST(4) manual(5) shifters(6) in(7) the(8) auto(9) industry(10) !(11) !(12) 
+		</sentence>
+		<sentence id="32">
+			Honda(1) 's(2) is(3) smooth(4) whereas(5) the(6) Toyota(7) 's(8) version(9) is(10) NOTCHY(11) as(12) Heck(13) !(14) !(15) ((16) Many(17) auto(18) magazine(19) reviews(20) note(21) this(22) in(23) their(24) reviews(25) !(26) )(27) NOTE(28) :(29) A(30) 5-spd(31) .(32) manual(33) transmission(34) is(35) Best(36) for(37) fuel(38) efficiency(39) whereas(40) an(41) automatic(42) transmission(43) is(44) best(45) only(46) for(47) convenience(48) Not(49) fuel(50) efficiency(51) !(52) 
+		</sentence>
+		<sentence id="33">
+			Never(1) buy(2) an(3) auto(4) transmission(5) for(6) fuel(7) economy(8) !(9) 
+		</sentence>
+		<sentence id="34">
+			Comfort(1) :(2) C(3) -(4) The(5) seats(6) are(7) too(8) narrow(9) ,(10) too(11) soft(12) and(13) NOT(14) supportive(15) ,(16) especially(17) the(18) lower(19) back(20) /(21) lumbar(22) area(23) .(24) 
+			<opinion polarity="-" feature="seat" featWords="6" opWords="14,15"/>
+			<opinion polarity="-" feature="seat" featWords="6" opWords="11,12"/>
+			<opinion polarity="+" feature="seat" featWords="6" opWords="8,9"/>
+		</sentence>
+		<sentence id="35">
+			I(1) 'm(2) 6_feet(3) tall(4) and(5) of(6) average(7) build(8) but(9) the(10) seats(11) are(12) too(13) flimsy(14) for(15) me(16) !(17) 
+			<opinion polarity="-" feature="seat" featWords="11" opWords="13,14"/>
+		</sentence>
+		<sentence id="36">
+			I(1) had(2) to(3) buy(4) an(5) inflatable(6) back(7) cushion(8) !(9) !(10) 
+		</sentence>
+		<sentence id="37">
+			They(1) are(2) terrible(3) !(4) 
+			<opinion polarity="-" feature="seat" opWords="3"/>
+		</sentence>
+		<sentence id="38">
+			NO(1) back(2) support(3) whatsoever(4) !(5) !(6) 
+		</sentence>
+		<sentence id="39">
+			Who(1) the(2) heck(3) likes(4) soft(5) seats(6) ?(7) 
+		</sentence>
+		<sentence id="40">
+			They(1) tend(2) to(3) thin(4) out(5) over(6) the(7) years(8) !(9) !(10) 
+		</sentence>
+		<sentence id="41">
+			Forget(1) the(2) back(3) seats(4) !(5) !(6) 
+		</sentence>
+		<sentence id="42">
+			It(1) 's(2) ONLY(3) for_Short(4) adults(5) or(6) children(7) NOT(8) average(9) or(10) tall(11) people(12) !(13) 
+		</sentence>
+		<sentence id="43">
+			Terrible(1) legroom(2) due(3) to(4) the(5) short(6) wheelbase(7) .(8) 
+		</sentence>
+		<sentence id="44">
+			The(1) forward-tilted(2) head(3) rests(4) stink(5) as(6) it(7) push(8) one(9) 's(10) head(11) forward(12) .(13) 
+		</sentence>
+		<sentence id="45">
+			It(1) would(2) be(3) better(4) if(5) the(6) headrests(7) were(8) forward(9) /(10) backward(11) adjustable(12) ((13) I(14) had(15) to(16) reverse(17) the(18) headrest(19) for(20) comfort(21) !(22) )(23) I(24) wish(25) the(26) seats(27) were(28) firm(29) especially(30) the(31) lumbar(32) area(33) .(34) 
+			<opinion polarity="+" feature="seat" featWords="27" opWords="29"/>
+		</sentence>
+		<sentence id="46">
+			Buy(1) a(2) back(3) cushion(4) or(5) risk(6) back(7) pain(8) ((9) Seriously(10) !(11) )(12) !(13) !(14) 
+		</sentence>
+		<sentence id="47">
+			Room(1) :(2) C_The(3) interior(4) is(5) not(6) roomy(7) !(8) 
+			<opinion polarity="-" feature="interior" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="48">
+			Due(1) to(2) the(3) short(4) wheelbase(5) and(6) narrowness(7) of(8) the(9) car(10) ,(11) the(12) wheel(13) wells(14) intrude(15) into(16) the(17) feet(18) area(19) especially(20) the(21) driver(22) 's(23) side(24) since(25) it(26) 's(27) beside(28) the(29) driver(30) 's(31) footrest(32) .(33) 
+		</sentence>
+		<sentence id="49">
+			Feet(1) room(2) is(3) tight(4) as(5) the(6) wheel(7) well(8) intrudes(9) ;(10) the(11) foot(12) rest(13) ,(14) the(15) foot(16) brake(17) ,(18) the(19) clutch(20) and(21) the(22) accelerator(23) is(24) Right_Next(25) to(26) each(27) other(28) .(29) 
+		</sentence>
+		<sentence id="50">
+			The(1) foot(2) brake(3) and(4) accelerator(5) is(6) even(7) closer(8) with(9) an(10) automatic(11) transmission(12) !(13) 
+		</sentence>
+		<sentence id="51">
+			This(1) is(2) also(3) noted(4) in(5) auto(6) magazine(7) and(8) online(9) auto(10) mag(11) reviews(12) !(13) 
+		</sentence>
+		<sentence id="52">
+			Elbow(1) room(2) is(3) VERY(4) tight(5) as(6) I(7) positioned(8) the(9) seat(10) further(11) from(12) the(13) steering(14) wheel(15) ((16) due(17) to(18) my(19) long(20) legs(21) )(22) and(23) my(24) elbow(25) hits(26) the(27) B-pillar(28) .(29) 
+		</sentence>
+		<sentence id="53">
+			There(1) is(2) a(3) small(4) plastic(5) "(6) lip(7) "(8) that(9) 's(10) between(11) the(12) arm(13) rest(14) and(15) B-pillar(16) which(17) is(18) Very_Annoying(19) since(20) I(21) bump(22) into(23) that(24) very(25) often(26) .(27) 
+		</sentence>
+		<sentence id="54">
+			The(1) door(2) 's(3) arm(4) rest(5) is(6) too(7) short(8) and(9) needs(10) to(11) be(12) extended(13) straight(14) back(15) to(16) the(17) B-pillar(18) ,(19) eliminating(20) that(21) plastic(22) "(23) lip(24) "(25) .(26) 
+		</sentence>
+		<sentence id="55">
+			Head(1) room(2) is(3) adequate(4) ((5) ~(6) 1-2_inches(7) to(8) spare(9) )(10) but(11) a(12) sunroof(13) would(14) reduce(15) it(16) greatly(17) .(18) 
+			<opinion polarity="+" feature="head room" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="56">
+			I(1) would(2) have(3) bought(4) the(5) sunroof(6) were(7) it(8) not(9) for(10) robbing(11) the(12) valuable(13) head(14) room(15) !(16) !(17) 
+		</sentence>
+		<sentence id="57">
+			The(1) interior(2) room(3) is(4) fine(5) for_short(6) people(7) less(8) than(9) 6(10) ft(11) !(12) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="58">
+			The(1) door(2) lock(3) is(4) sitting(5) on(6) the(7) window(8) sill(9) so(10) one(11) can(12) NOT(13) rest(14) their(15) elbows(16) on(17) the(18) window(19) sill(20) without(21) it(22) jamming(23) into(24) their(25) elbow(26) .(27) 
+		</sentence>
+		<sentence id="59">
+			Toyota(1) needs(2) to(3) recess(4) the(5) door(6) lock(7) into(8) the(9) window(10) sill(11) just(12) like(13) ones(14) found(15) in(16) the(17) Civic(18) or(19) build(20) it(21) into(22) the(23) interior(24) door(25) release(26) lever(27) as(28) found(29) in(30) other(31) automobiles(32) including(33) the(34) Toyota_Camry(35) !(36) 
+		</sentence>
+		<sentence id="60">
+			Noise(1) /(2) Harshness(3) /(4) Vibration(5) :(6) B_Noise(7) is(8) minimal(9) .(10) 
+		</sentence>
+		<sentence id="61">
+			People(1) can(2) can(3) actually(4) talk(5) and(6) hear(7) one(8) another(9) without(10) raising(11) their(12) voices(13) much(14) ((15) as(16) long(17) as(18) the(19) road(20) is(21) relatively(22) smooth(23) .(24) High(25) travel(26) Does(27) create(28) tire(29) noise(30) so(31) one(32) has(33) to(34) raise(35) one(36) 's(37) voice(38) to(39) talk(40) )(41) .(42) 
+		</sentence>
+		<sentence id="62">
+			Wind(1) noise(2) does(3) protrudes(4) into(5) the(6) cabin(7) !(8) !(9) 
+		</sentence>
+		<sentence id="63">
+			The(1) engine(2) is(3) relatively(4) quiet(5) except(6) during(7) acceleration(8) when(9) it(10) roars(11) and(12) during(13) idle(14) !(15) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="64">
+			Road(1) noise(2) is(3) present(4) especially(5) when(6) traveling(7) on(8) coarse(9) road(10) surfaces(11) .(12) 
+		</sentence>
+		<sentence id="65">
+			Style(1) :(2) C_The(3) exterior(4) styling(5) of(6) the(7) car(8) is(9) nice(10) but(11) dull(12) and(13) bland(14) .(15) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="14"/>
+			<opinion polarity="-" feature="car" featWords="8" opWords="12"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="66">
+			Very(1) conservative(2) !(3) !(4) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="67">
+			It(1) 's(2) not(3) stylish(4) when(5) compared(6) to(7) the(8) Civic(9) .(10) 
+			<opinion polarity="-" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="68">
+			It(1) does(2) NOT(3) look(4) like(5) a(6) small(7) Camry(8) or(9) Lexus(10) !(11) 
+		</sentence>
+		<sentence id="69">
+			People(1) should(2) STOP(3) comparying(4) the(5) Corolla(6) to(7) the(8) bigger(9) or(10) upscale(11) Toyota(12) /(13) Lexus(14) models(15) !(16) !(17) 
+		</sentence>
+		<sentence id="70">
+			Function(1) :(2) C_I(3) really(4) enjoy(5) the(6) 15_second(7) dome(8) light(9) delay(10) .(11) 
+		</sentence>
+		<sentence id="71">
+			The(1) automatic(2) dash(3) board(4) lights(5) turns(6) on(7) when(8) it(9) gets(10) dark(11) without(12) the(13) driver(14) having(15) to(16) turn(17) it(18) on(19) BUT(20) ...(21) Unfortunately(22) ,(23) Neither(24) the(25) dashboard(26) lights(27) Nor(28) the(29) daytime(30) running(31) lights(32) can(33) be(34) turned(35) OFF(36) once(37) it(38) Automatically(39) turns(40) on(41) !(42) 
+		</sentence>
+		<sentence id="72">
+			The(1) ONLY(2) way(3) of(4) doing(5) so(6) is(7) turning(8) off(9) the(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="73">
+			What(1) good(2) is(3) the(4) light(5) switch(6) ?(7) ?(8) ?(9) 
+		</sentence>
+		<sentence id="74">
+			Poor(1) design(2) !(3) !(4) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="75">
+			The(1) high-beam(2) signal(3) is(4) turned(5) on(6) by(7) flicking(8) the(9) left(10) beam(11) stalk(12) forward(13) instead_of(14) backwards(15) as(16) found(17) in(18) other(19) cars(20) .(21) 
+		</sentence>
+		<sentence id="76">
+			Also(1) ,(2) the(3) wipers(4) are(5) activated(6) by(7) pushing(8) the(9) right(10) wiper(11) stalk(12) down(13) instead_of(14) up(15) as(16) found(17) in(18) other(19) cars(20) .(21) 
+		</sentence>
+		<sentence id="77">
+			It(1) 's(2) Frustrating(3) that(4) Toyota(5) forces(6) you(7) to(8) relearn(9) things(10) just(11) to(12) use(13) their(14) stuff(15) !(16) 
+		</sentence>
+		<sentence id="78">
+			Why(1) can(2) not(3) they(4) just(5) follow(6) the(7) industry(8) standard(9) ?(10) !(11) 
+		</sentence>
+		<sentence id="79">
+			The(1) rear(2) window(3) defogger(4) button(5) should(6) be(7) located(8) on(9) the(10) top(11) left(12) side(13) where(14) the(15) hazard(16) lights(17) are(18) located(19) instead_of(20) the(21) top(22) right(23) side(24) since(25) it(26) will(27) be(28) used(29) most(30) often(31) !(32) !(33) 
+		</sentence>
+		<sentence id="80">
+			Features(1) :(2) C(3) -(4) For(5) the(6) top-line(7) LE(8) ,(9) it(10) LACKS_a_CD(11) player(12) ,(13) ABS(14) and(15) remote(16) entry(17) /(18) lock(19) system(20) and(21) seat(22) height(23) adjustment(24) which(25) usually(26) are(27) including(28) in(29) Many(30) top-line(31) model(32) trims(33) by(34) other(35) competitor(36) models(37) !(38) 
+		</sentence>
+		<sentence id="81">
+			The(1) cruise(2) control(3) feature(4) is(5) useless(6) ((7) as(8) I(9) will(10) never(11) use(12) it(13) and(14) do(15) not(16) know(17) of(18) anyone(19) that(20) does(21) )(22) !(23) 
+		</sentence>
+		<sentence id="82">
+			It(1) should(2) Always(3) be(4) considered(5) an(6) option(7) not(8) as(9) standard(10) equipment(11) !(12) 
+		</sentence>
+		<sentence id="83">
+			Toyota(1) should(2) include(3) the(4) CD(5) player(6) instead_of(7) the(8) cruise(9) control(10) since(11) the(12) price(13) is(14) literally(15) the(16) same(17) !(18) 
+		</sentence>
+		<sentence id="84">
+			The(1) seat(2) height(3) adjustment(4) would(5) be(6) a(7) nice(8) feature(9) especially(10) for(11) tall(12) people(13) !(14) !(15) !(16) 
+		</sentence>
+		<sentence id="85">
+			The(1) ergonomic(2) positioning(3) of(4) the(5) dashboard(6) needs(7) to(8) be(9) redesigned(10) .(11) 
+		</sentence>
+		<sentence id="86">
+			It(1) 's(2) too(3) close(4) to(5) the(6) shifter(7) especially(8) when(9) the(10) cupholder(11) is(12) used(13) ;(14) The(15) climate(16) control(17) levers(18) /(19) buttons(20) as_well(21) as(22) the(23) radio(24) buttons(25) are(26) blocked(27) when(28) a(29) tall(30) beverage(31) ((32) i(33) .(34) e(35) .(36) large(37) coffee(38) cup(39) or(40) 20(41) oz(42) .(43) soda(44) bottle(45) )(46) is(47) in(48) the(49) cupholder(50) !(51) 
+		</sentence>
+		<sentence id="87">
+			The(1) dashboard(2) needs(3) to(4) be(5) lifted(6) up(7) and(8) pushed(9) back(10) .(11) 
+		</sentence>
+		<sentence id="88">
+			The(1) rear(2) defroster(3) button(4) on(5) the(6) right(7) and(8) hazard(9) lights(10) button(11) on(12) the(13) left(14) should(15) be(16) switched(17) .(18) 
+		</sentence>
+		<sentence id="89">
+			A(1) person(2) uses(3) the(4) rear(5) defroster(6) button(7) more(8) than(9) the(10) hazard(11) lights(12) during(13) the(14) life(15) of(16) the(17) car(18) !(19) ((20) The(21) Honda_Civic(22) has(23) one(24) of(25) the(26) best(27) ergonomically-positioned(28) dashboards(29) in(30) the(31) auto(32) industry(33) !(34) Check(35) it(36) out(37) !(38) )(39) Fuel(40) economy(41) :(42) B_Fuel(43) economy(44) varies(45) !(46) 
+		</sentence>
+		<sentence id="90">
+			It(1) 's(2) best(3) to(4) use(5) 87(6) octane(7) ((8) regular(9) )(10) gasoline(11) instead_of(12) the(13) premium(14) -(15) or(16) super-grade(17) gasoline(18) .(19) 
+		</sentence>
+		<sentence id="91">
+			I(1) estimated(2) ~(3) 28(4) mpg(5) for(6) mixed(7) city(8) /(9) hwy(10) driving(11) with(12) a(13) manual(14) transmission(15) using(16) regular(17) gasoline(18) .(19) 
+		</sentence>
+		<sentence id="92">
+			Using(1) super-grade(2) gasoline(3) also(4) achieves(5) the(6) same(7) results(8) .(9) 
+		</sentence>
+		<sentence id="93">
+			Go(1) figure(2) !(3) 
+		</sentence>
+		<sentence id="94">
+			Highway(1) mileage(2) is(3) decent(4) at(5) ~(6) 34(7) mpg(8) .(9) 
+		</sentence>
+		<sentence id="95">
+			This(1) is(2) still(3) low(4) considering(5) that(6) Toyota(7) states(8) the(9) mileage(10) should(11) be(12) 31/38(13) city(14) /(15) hwy(16) !(17) !(18) 
+		</sentence>
+		<sentence id="96">
+			Performance(1) :(2) C_Engine(3) performance(4) is(5) decent(6) yet(7) dull(8) .(9) 
+			<opinion polarity="+" feature="performance" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="97">
+			The(1) engine(2) will(3) allow(4) you(5) to(6) pass(7) lanes(8) on(9) the(10) highway(11) at(12) high(13) speeds(14) and(15) cruise(16) roads(17) decently(18) but(19) do(20) NOT(21) expect(22) much(23) "(24) performance(25) "(26) speed(27) .(28) 
+		</sentence>
+		<sentence id="98">
+			It(1) 's(2) NOT(3) that(4) kind(5) of(6) an(7) engine(8) ((9) or(10) car(11) )(12) !(13) !(14) !(15) 
+		</sentence>
+		<sentence id="99">
+			There(1) is(2) some(3) time(4) needed(5) for(6) the(7) car(8) to(9) pick(10) up(11) speed(12) ,(13) so(14) again(15) ,(16) do(17) NOT(18) expect(19) performance(20) from(21) this(22) ECONOCAR(23) !(24) 
+		</sentence>
+		<sentence id="100">
+			One(1) has(2) to(3) "(4) floor(5) "(6) the(7) accelerator(8) on(9) the(10) lower(11) gears(12) before(13) the(14) VVTi(15) feature(16) kicks(17) in(18) !(19) 
+		</sentence>
+		<sentence id="101">
+			This(1) also(2) results(3) in(4) LOTS_of_Engine(5) noise(6) ,(7) obviously(8) !(9) !(10) 
+		</sentence>
+		<sentence id="102">
+			Overall_Grade(1) :(2) C(3) -(4) To(5) buy(6) a(7) car(8) for(9) it(10) 's(11) Fuel(12) efficiency(13) is(14) PATHETIC(15) !(16) 
+			<opinion polarity="-" feature="gas" featWords="12,13" opWords="15"/>
+		</sentence>
+		<sentence id="103">
+			Only(1) people(2) who(3) want(4) a(5) car(6) for(7) it(8) 's(9) fuel(10) efficiency(11) record(12) and(13) reliability(14) would(15) buy(16) this(17) car(18) !(19) !(20) 
+			<opinion polarity="+" feature="car" opWords="16"/>
+		</sentence>
+		<sentence id="104">
+			They(1) use(2) it(3) Mainly(4) as(5) Basic(6) transport(7) !(8) 
+		</sentence>
+		<sentence id="105">
+			Then(1) again(2) ,(3) Corollas(4) are(5) known(6) for(7) Basic_Transportation(8) which(9) is(10) why(11) people(12) buy(13) Corollas(14) !(15) !(16) 
+		</sentence>
+		<sentence id="106">
+			Think(1) of(2) features(3) before(4) deciding(5) ...(6) If(7) you(8) are(9) considering(10) the(11) midline(12) CE(13) and(14) want(15) to(16) add(17) the(18) power(19) package(20) and(21) A(22) /(23) C(24) ,(25) buy(26) the(27) LE(28) trim(29) instead(30) as(31) the(32) price(33) of(34) the(35) CE(36) with(37) power(38) package(39) and(40) A(41) /(42) C(43) will(44) be(45) similar(46) to(47) that(48) of(49) the(50) LE(51) trim(52) which(53) includes(54) the(55) power(56) package(57) and(58) A(59) /(60) C(61) ((62) as_well(63) as(64) other(65) equipment(66) )(67) as(68) "(69) standard(70) "(71) equipment(72) .(73) 
+		</sentence>
+		<sentence id="107">
+			The(1) lower-priced(2) midline(3) CE(4) trim(5) is(6) only(7) meant(8) for(9) people(10) who(11) do(12) not(13) mind(14) using(15) manual(16) door(17) locks(18) and(19) windows(20) and(21) w(22) /(23) o(24) A(25) /(26) C._Otherwise(27) ,(28) buy(29) the(30) LE(31) .(32) 
+		</sentence>
+		<sentence id="108">
+			It(1) 's(2) NOT(3) worth(4) buying(5) the(6) CE(7) with(8) the(9) power(10) options(11) and(12) A(13) /(14) C(15) since(16) the(17) CE(18) price(19) level(20) will(21) be(22) that(23) of(24) the(25) LE(26) 's(27) !(28) !(29) 
+		</sentence>
+		<sentence id="109">
+			AVOID(1) the(2) VE(3) ((4) value(5) edition(6) )(7) !(8) 
+		</sentence>
+		<sentence id="110">
+			It(1) 's(2) the(3) stripped-down(4) ,(5) bare-bones(6) model(7) with(8) nothing(9) in(10) it(11) .(12) 
+		</sentence>
+		<sentence id="111">
+			It(1) 's(2) Crap(3) !(4) !(5) 
+		</sentence>
+		<sentence id="112">
+			The(1) Only(2) reason(3) Toyota(4) makes(5) this(6) model(7) ((8) SERIOUSLY(9) !(10) )(11) is(12) for(13) Public(14) relations(15) purposes(16) by(17) telling(18) the(19) public(20) it(21) is(22) selling(23) a(24) version(25) of(26) the(27) car(28) at(29) a(30) Low(31) price(32) !(33) 
+			<opinion polarity="-" feature="price" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="113">
+			Afterthought(1) ...(2) I(3) 'm(4) somewhat(5) of(6) an(7) auto(8) enthusiast(9) so(10) I(11) pay(12) more(13) attention(14) to(15) details(16) of(17) a(18) car(19) than(20) the(21) average(22) driver(23) .(24) 
+		</sentence>
+		<sentence id="114">
+			I(1) like(2) the(3) Corolla_LE(4) and(5) it(6) is(7) a(8) "(9) decent(10) "(11) car(12) BUT(13) ...(14) I(15) wished(16) it(17) had(18) Room(19) ,(20) Firm_&_Supportive(21) ((22) LUMBAR(23) )(24) seats(25) and(26) Better(27) handling(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="115">
+			I(1) do(2) not(3) mind(4) the(5) elbow(6) room(7) as(8) much(9) as(10) the(11) intrusion(12) of(13) the(14) wheel(15) well(16) .(17) 
+		</sentence>
+		<sentence id="116">
+			It(1) takes(2) up(3) very(4) valuable(5) feet(6) room(7) .(8) 
+		</sentence>
+		<sentence id="117">
+			The(1) Short(2) wheelbase(3) of(4) ~(5) 97_inches(6) is(7) One(8) of(9) the(10) biggest(11) shortcomings(12) of(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="118">
+			It(1) 's(2) TOO_SHORT(3) !(4) 
+		</sentence>
+		<sentence id="119">
+			Only_the_VW_Golf(1) /(2) Jetta(3) has(4) a(5) 97(6) "(7) wheelbase(8) while(9) other(10) Small(11) cars(12) have(13) a(14) ~(15) 103(16) "(17) inch(18) ((19) i(20) .(21) e(22) .(23) Honda_Civic(24) or(25) Ford_Focus(26) )(27) .(28) 
+		</sentence>
+		<sentence id="120">
+			I(1) wished(2) I(3) could(4) move(5) the(6) front(7) seats(8) right(9) up(10) to(11) the(12) back(13) seats(14) for(15) leg(16) room(17) !(18) !(19) !(20) 
+		</sentence>
+		<sentence id="121">
+			The(1) car(2) 's(3) leaning(4) on(5) corners(6) is(7) very(8) annoying(9) !(10) !(11) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="122">
+			The(1) front(2) seats(3) provides(4) Absolutely_NO(5) back(6) support(7) !(8) !(9) 
+		</sentence>
+		<sentence id="123">
+			Had(1) to(2) buy(3) an(4) inflatable(5) back(6) cushion(7) for(8) support(9) !(10) 
+		</sentence>
+		<sentence id="124">
+			The(1) top-line(2) LE(3) is(4) VERY_Expensive(5) considering(6) its(7) Lack(8) of(9) room(10) ,(11) lack(12) of(13) stability(14) and(15) lack(16) of(17) amenities(18) such(19) as(20) a(21) CD(22) player(23) ,(24) ABS(25) ,(26) remote(27) entry(28) /(29) lock(30) system(31) and(32) seat(33) height(34) adjustment(35) but(36) you(37) are(38) paying(39) for(40) the(41) Toyota(42) name(43) ,(44) quality(45) and(46) reliability(47) ,(48) which(49) does(50) not(51) mean(52) much(53) nowadays(54) !(55) 
+		</sentence>
+		<sentence id="125">
+			Many(1) cars(2) today(3) can(4) last(5) a(6) long(7) time(8) with(9) hardl(10) any(11) problems(12) !(13) 
+		</sentence>
+		<sentence id="126">
+			The(1) car(2) is(3) fine(4) as(5) a(6) SMALL(7) family(8) car(9) ((10) for(11) Very_SHORT(12) people(13) )(14) but(15) for(16) driving(17) pleasure(18) ,(19) styling(20) ,(21) value(22) and(23) room(24) ,(25) consider(26) the(27) Honda_Civic(28) ,(29) Ford_Focus(30) ,(31) Mazda_Protege(32) or(33) VW_Golf(34) /(35) Jetta(36) /(37) Passat(38) !(39) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="127">
+			Have(1) some(2) Fun(3) while(4) driving(5) ;(6) just(7) NOT(8) with(9) a(10) Corolla(11) !(12) 
+		</sentence>
+		<sentence id="128">
+			The(1) Corolla(2) is(3) NOT(4) a(5) value(6) anymore(7) since(8) it(9) 's(10) VERY_Expensive(11) while(12) its(13) competitors(14) '(15) cars(16) offer(17) More(18) equipment(19) ,(20) More(21) room(22) AND_Better(23) handling(24) for(25) the(26) same(27) or(28) less(29) money(30) !(31) 
+		</sentence>
+		<sentence id="129">
+			Tall_Drivers_Beware(1) :(2) Test(3) drive(4) the(5) Corolla(6) and(7) decide(8) if(9) the(10) seats(11) and(12) room(13) will(14) fit(15) you(16) !(17) 
+		</sentence>
+		<sentence id="130">
+			People(1) with(2) Long(3) legs(4) should(5) Avoid(6) this(7) car(8) at(9) ALL_COSTS(10) !(11) !(12) 
+		</sentence>
+		<sentence id="131">
+			Best(1) qualities(2) of(3) the(4) Corolla(5) :(6) Quiet(7) engine(8) ,(9) reliability(10) ,(11) durability(12) !(13) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="132">
+			Decent(1) fuel(2) economy(3) !(4) ((5) Boring(6) but(7) those(8) are(9) the(10) main(11) reasons(12) people(13) buy(14) Corollas(15) !(16) Corollas(17) are(18) used(19) mainly(20) for(21) BASIC(22) transportation(23) by(24) many(25) people(26) )(27) !(28) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="133">
+			Worst(1) qualities(2) of(3) the(4) Corolla(5) :(6) OVERPRICED(7) !(8) 
+			<opinion polarity="-" feature="price" opWords="7"/>
+		</sentence>
+		<sentence id="134">
+			EXPENSIVE(1) !(2) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="135">
+			Lack(1) of(2) standard(3) equipment(4) and(5) Lack(6) of(7) room(8) /(9) seat(10) support(11) !(12) 
+		</sentence>
+		<sentence id="136">
+			So-so(1) handling(2) !(3) 
+			<opinion polarity="-" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="137">
+			Recommended(1) drivers(2) for(3) the(4) Corolla(5) ((6) Toyota(7) 's(8) target(9) audience(10) ,(11) literally(12) )(13) !(14) [(15) Toyota_IS_KNOWN(16) as(17) a(18) Very_Conservative(19) company(20) with(21) Conservative(22) thinking(23) /(24) ideas(25) !(26) !(27) ](28) :(29) Short(30) ,(31) Conservative(32) or(33) Older(34) drivers(35) ,(36) Peole(37) with(38) Young(39) families(40) .(41) 
+		</sentence>
+		<sentence id="138">
+			NOT(1) recommended(2) for(3) the(4) Corolla(5) :(6) TALL(7) ,(8) Stylish-Conscious(9) or(10) Younger(11) drivers(12) ,(13) Auto(14) enthusiasts(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="139">
+			I(1) 'm(2) a(3) college-educated(4) male(5) ,(6) early(7) 30(8) 's(9) and(10) am(11) 6(12) ft(13) .(14) tall(15) .(16) 
+		</sentence>
+		<sentence id="140">
+			I(1) am(2) DEFINITELY_NOT(3) within(4) Toyota(5) 's(6) target(7) audience(8) for(9) the(10) Corolla(11) .(12) 
+		</sentence>
+		<sentence id="141">
+			In(1) fact(2) ,(3) I(4) 'm(5) the(6) target(7) type(8) that(9) Toyota_WANTS(10) to(11) win(12) over(13) from(14) their(15) competitors(16) especially(17) Honda(18) !(19) 
+		</sentence>
+		<sentence id="142">
+			Toyota(1) will(2) have(3) to(4) do(5) a(6) much(7) better(8) job(9) to(10) convert(11) my(12) group(13) type(14) over(15) and(16) also(17) to(18) get(19) me(20) to(21) buy(22) another(23) Corolla(24) !(25) 
+		</sentence>
+		<sentence id="143">
+			Then(1) again(2) ,(3) read(4) the(5) various(6) auto(7) magazines(8) and(9) other(10) research(11) materials(12) on(13) Toyota(14) as(15) I(16) have(17) done(18) .(19) 
+		</sentence>
+		<sentence id="144">
+			Toyota(1) does(2) NOT(3) want(4) to(5) scare(6) away(7) their(8) "(9) core(10) "(11) conservative(12) ,(13) older(14) drivers(15) !(16) !(17) 
+		</sentence>
+		<sentence id="145">
+			Update(1) 5/6/01(2) :(3) After(4) 10,000_miles(5) ,(6) the(7) engine(8) has(9) become(10) quite(11) smooth(12) .(13) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="11"/>
+		</sentence>
+		<sentence id="146">
+			It(1) 's(2) relatively(3) quiet(4) even(5) on(6) the(7) highway(8) EXCEPT(9) during(10) acceleration(11) when(12) the(13) engine(14) roars(15) !(16) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="147">
+			The(1) handling(2) is(3) still(4) quirky(5) due(6) to(7) the(8) narrowness(9) and(10) to(11) the(12) shortness(13) of(14) the(15) car(16) .(17) 
+			<opinion polarity="-" feature="handling" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="148">
+			Update(1) 9/5/01(2) :(3) After(4) 14,500_miles(5) ,(6) the(7) engine(8) is(9) still(10) smooth(11) but(12) the(13) ride(14) is(15) "(16) soft(17) "(18) .(19) 
+			<opinion polarity="+" feature="ride quality" featWords="14" opWords="17"/>
+			<opinion polarity="+" feature="engine" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="149">
+			Highway(1) fuel(2) efficiency(3) is(4) quite(5) good(6) at(7) ~(8) 34(9) mpg(10) !(11) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="150">
+			City(1) driving(2) is(3) still(4) low(5) ~(6) 28mpg(7) !(8) 
+		</sentence>
+		<sentence id="151">
+			Crosswinds(1) pushed(2) the(3) car(4) on(5) the(6) highway(7) so(8) steering(9) corrections(10) were(11) needed(12) for(13) every(14) mile(15) of(16) the(17) trip(18) !(19) 
+		</sentence>
+		<sentence id="152">
+			Relatively(1) quiet(2) engine(3) but(4) road(5) noise(6) and(7) wind(8) noise(9) is(10) still(11) present(12) at(13) highway(14) speed(15) and(16) on(17) rough(18) roads(19) !(20) 
+			<opinion polarity="+" feature="engine" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="153">
+			Acceleration(1) increases(2) engine(3) noise(4) ,(5) though(6) !(7) 
+		</sentence>
+		<sentence id="154">
+			Side(1) molding(2) is(3) peeling(4) off(5) !(6) 
+		</sentence>
+		<sentence id="155">
+			Costs(1) $30(2) to(3) replace(4) one(5) molding(6) !(7) !(8) 
+		</sentence>
+		<sentence id="156">
+			What(1) a(2) rip-off(3) !(4) !(5) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="157">
+			Update(1) 11/12/02(2) :(3) After(4) 26,100_miles(5) ,(6) the(7) Entire(8) transmission(9) was(10) replaced(11) !(12) 
+		</sentence>
+		<sentence id="158">
+			Thank(1) goodness(2) the(3) car(4) had(5) was(6) still(7) under(8) warranty(9) !(10) 
+		</sentence>
+		<sentence id="159">
+			The(1) side(2) molding(3) was(4) also(5) replaced(6) !(7) 
+		</sentence>
+		<sentence id="160">
+			Now(1) ,(2) the(3) console(4) light(5) has(6) started(7) to(8) flicker(9) and(10) the(11) light(12) on(13) the(14) right(15) behind(16) the(17) fuel(18) gauge(19) went(20) out(21) !(22) 
+		</sentence>
+		<sentence id="161">
+			The(1) basic(2) bumper-to-bumper(3) warranty(4) ending(5) just(6) three(7) weeks(8) earlier(9) ((10) Toyota(11) did(12) NOT(13) send(14) me(15) any(16) notices(17) for(18) buying(19) an(20) extended(21) warranty(22) !(23) Honda_DID(24) when(25) I(26) had(27) my(28) old(29) Civic(30) )(31) !(32) !(33) 
+		</sentence>
+		<sentence id="162">
+			Fixing(1) the(2) damn(3) lights(4) cost(5) ~(6) $180(7) ((8) Lights(9) -(10) $4.00(11) ,(12) labor(13) -(14) $176(15) ?(16) !(17) !(18) )(19) by(20) Toyota(21) .(22) 
+		</sentence>
+		<sentence id="163">
+			It(1) would(2) have(3) cost(4) slightly(5) less(6) at(7) an(8) auto(9) body(10) shop(11) but(12) the(13) Toyota(14) dealership(15) is(16) only(17) a(18) walk(19) away(20) from(21) my(22) work(23) location(24) .(25) 
+		</sentence>
+		<sentence id="164">
+			Paying(1) for(2) the(3) convenience(4) !(5) !(6) 
+		</sentence>
+		<sentence id="165">
+			What(1) is(2) wrong(3) with(4) my(5) car(6) ?(7) ?(8) 
+		</sentence>
+		<sentence id="166">
+			Everything(1) is(2) falling(3) apart(4) !(5) 
+		</sentence>
+		<sentence id="167">
+			The(1) Toyota(2) "(3) reliability(4) "(5) sucks(6) !(7) 
+		</sentence>
+		<sentence id="168">
+			Am(1) I(2) stuck(3) with(4) a(5) lemon(6) ?(7) !(8) 
+		</sentence>
+		<sentence id="169">
+			NEVER(1) will(2) I(3) buy(4) or(5) recommend(6) Toyota(7) ((8) Corollas(9) )(10) to(11) anyone(12) !(13) 
+		</sentence>
+		<sentence id="170">
+			Keeping(1) the(2) Corolla(3) until(4) I(5) can(6) afford(7) a(8) Better(9) ,(10) Roomy(11) car(12) ((13) i(14) .(15) e(16) .(17) HONDA_Accord(18) or(19) VW_Passat(20) .(21) Tired(22) of(23) small(24) cars(25) !(26) Work(27) hard(28) for(29) my(30) money(31) ;(32) I_Deserve_a_Bigger(33) ,(34) Roomier(35) car(36) )(37) !(38) 
+			<opinion polarity="+" feature="room" opWords="11"/>
+		</sentence>
+		<sentence id="171">
+			Update(1) 12/31/02(2) :(3) Finally(4) !(5) 
+		</sentence>
+		<sentence id="172">
+			Got(1) rid(2) of(3) this(4) car(5) with(6) 27,252_miles(7) .(8) 
+		</sentence>
+		<sentence id="173">
+			Traded(1) this(2) in(3) for(4) a(5) roomy(6) 2003(7) VW_Passat_GLS(8) with(9) sunroof(10) !(11) 
+		</sentence>
+		<sentence id="174">
+			Now(1) ,(2) let(3) 's(4) have(5) some(6) fun(7) !(8) 
+		</sentence>
+		<sentence id="175">
+			BTW(1) ...(2) got(3) $7,000(4) for(5) the(6) trade-in(7) .(8) 
+		</sentence>
+		<sentence id="176">
+			Would(1) 've(2) gotten(3) $8,000(4) if(5) it(6) had(7) an(8) automatic(9) transmission(10) !(11) 
+		</sentence>
+		<sentence id="177">
+			Oh(1) ,(2) well(3) !(4) 
+		</sentence>
+	</text>
+</review>

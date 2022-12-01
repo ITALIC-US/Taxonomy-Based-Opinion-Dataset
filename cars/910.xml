@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="910" item="1999 Toyota RAV4" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) sad(3) that(4) people(5) buy(6) these(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			all(1) whell(2) drive(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			everything(1) but(2) all-wheel(3) drive(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) really(2) think(3) america(4) is(5) getting(6) bad(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) mean(2) ,(3) toyota(4) can(5) market(6) a(7) celica(8) with(9) big(10) tires(11) and(12) call(13) it(14) an(15) SUV(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) love(3) to(4) see(5) someone(6) take(7) a(8) RAV(9) -(10) 4(11) off(12) road(13) ,(14) or(15) even(16) over(17) a(18) curb(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			The(1) Nissan_Xterra(2) ,(3) Jeep_Cherokee(4) or(5) Jeep_Wrangler(6) would(7) be(8) a(9) far(10) better(11) choice(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) RAV(2) -(3) 4(4) does(5) one(6) thing(7) good(8) ,(9) look(10) like(11) a(12) cute(13) little(14) car(15) ((16) notice(17) I(18) did(19) not(20) say(21) truck(22) )(23) .(24) 
+			<opinion polarity="+" feature="design" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			But(1) ask(2) yourself(3) ,(4) why(5) spend(6) 20,000(7) and(8) get(9) so(10) little(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			You(1) could(2) get(3) a(4) fully(5) loaded(6) mercury(7) cougar(8) V6(9) ,(10) a(11) loaded(12) ford(13) contour(14) ,(15) a(16) nicely(17) equipped(18) Honda_Accord(19) ,(20) and(21) the(22) list(23) goes(24) on(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="17,18"/>
+		</sentence>
+		<sentence id="8">
+			The(1) RAV(2) 4(3) would(4) be(5) ok(6) if(7) it(8) cost(9) maybe(10) 14(11) or(12) 15_thousand(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) should(3) not(4) be(5) purchased(6) by(7) anyone(8) ,(9) especially(10) men(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) rather(3) drive(4) a(5) old(6) Chevy(7) citation(8) around(9) than(10) be(11) seen(12) driving(13) a(14) RAV(15) -(16) 4(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Sometimes(1) I(2) wonder(3) if(4) people(5) in(6) America(7) really(8) think(9) for(10) themselves(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			But(1) hey(2) ,(3) it(4) does(5) have(6) all-wheel(7) drive(8) and(9) it(10) 's(11) kinda(12) cute(13) ((14) although(15) unbelievably(16) slow(17) )(18) .(19) 
+			<opinion polarity="-" feature="speed" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="design" opWords="13"/>
+		</sentence>
+		<sentence id="13">
+			Do(1) yourself(2) and(3) your(4) self(5) respect(6) a(7) favor(8) and(9) buy(10) something(11) else(12) .(13) 
+		</sentence>
+	</text>
+</review>

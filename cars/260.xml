@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="260" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			This(1) car(2) is(3) the(4) bomb(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Best(1) !(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everythin(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 'm(2) not(3) a(4) big(5) fan(6) of(7) manual(8) transmissions(9) in(10) family(11) sedans(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			But(1) if(2) you(3) must(4) have(5) a(6) manual(7) gearbox(8) ,(9) the(10) Maxima(11) 's(12) is(13) one(14) of(15) the(16) best(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			Nissan(1) ,(2) in(3) its(4) belief(5) that(6) most(7) auto(8) reviewers(9) are(10) "(11) car(12) guys(13) "(14) who(15) eschew(16) automatic(17) transmissions(18) ,(19) furnished(20) only(21) a(22) manual(23) transmission(24) Maxima(25) for(26) me(27) to(28) test(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			Therefore(1) ,(2) I(3) can(4) not(5) tell(6) you(7) how(8) well(9) the(10) automatic(11) works(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			That(1) 's(2) unfortunate(3) ,(4) because(5) about(6) 95(7) percent(8) of(9) Maxima(10) buyers(11) will(12) choose(13) the(14) automatic(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Options(1) on(2) our(3) test(4) model(5) included(6) the(7) "(8) SE(9) comfort(10) and(11) convenience(12) package(13) which(14) added(15) a(16) sun(17) roof(18) ,(19) 17-inch(20) alloy(21) wheels(22) with(23) V-rated(24) tires(25) ,(26) the(27) eight-way(28) power(29) driver(30) 's(31) seat(32) ,(33) built-in(34) garage-door(35) opener(36) ,(37) variable(38) intermittent(39) wipers(40) and(41) a(42) trunk(43) cargo(44) net(45) ;(46) the(47) leather(48) package(49) which(50) also(51) brought(52) the(53) power(54) passenger(55) seat(56) and(57) automatic(58) climate(59) control(60) ;(61) and(62) the(63) Bose(64) audio(65) system(66) all(67) most(68) cost(69) ((70) $899(71) )(72) and(73) its(74) best(75) system(76) you(77) will(78) get(79) then(80) any(81) other(82) cars(83) .(84) 
+		</sentence>
+	</text>
+</review>

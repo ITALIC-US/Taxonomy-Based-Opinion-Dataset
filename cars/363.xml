@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="363" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Honda_Accord(1) :(2) A(3) Perfect_Combination(4) of(5) luxury(6) and(7) economy(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) drive(2) ,(3) good(4) price(5) ,(6) fuel(7) economy(8) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			stereo(1) system(2) ,(3) no(4) tape(5) deck(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Honda_Accord(2) ,(3) a(4) perfect(5) combination(6) of(7) luxury(8) and(9) economy(10) is(11) just(12) that(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Here(1) is(2) a(3) car(4) that(5) you(6) can(7) purchase(8) for(9) under(10) 20,000_dollars(11) and(12) feel(13) like(14) you(15) are(16) driving(17) a(18) luxury(19) model(20) sedan(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) look(3) is(4) sleek(5) and(6) drives(7) oh(8) so(9) smoothly(10) .(11) 
+			<opinion polarity="+" feature="ride quality" opWords="7,10" potency="9"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) great(3) pick(4) up(5) even(6) when(7) going(8) up(9) steep(10) hills(11) in(12) San_Francisco(13) ,(14) one(15) can(16) safely(17) pass(18) another(19) car(20) and(21) the(22) ride(23) is(24) very(25) smooth(26) and(27) quiet(28) .(29) 
+			<opinion polarity="+" feature="ride quality" featWords="23" opWords="28"/>
+			<opinion polarity="+" feature="ride quality" featWords="23" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) feel(3) very(4) comfortable(5) in(6) this(7) car(8) on(9) a(10) long(11) drive(12) .(13) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) plenty_of(3) room(4) in(5) the(6) front(7) seat(8) and(9) the(10) seats(11) are(12) comfortable(13) and(14) "(15) cushy(16) "(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="16"/>
+			<opinion polarity="+" feature="seat" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) good(3) back(4) support(5) as_well(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			The(1) back(2) seat(3) has(4) a_lot(5) more(6) leg(7) room(8) than(9) most(10) "(11) compact(12) "(13) cars(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) pleasantly(3) surprised(4) .(5) 
+		</sentence>
+		<sentence id="10">
+			Two(1) other(2) very(3) nice(4) features(5) are(6) the(7) roomy(8) glove(9) compartment(10) and(11) trunk(12) space(13) .(14) 
+			<opinion polarity="+" feature="trunk space" featWords="12,13" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			I(1) also(2) really(3) like(4) the(5) wood(6) finish(7) panel(8) dash(9) board(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			It(1) adds(2) a(3) "(4) luxury(5) "(6) touch(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			This(1) Honda(2) gets(3) really(4) good(5) gas(6) mileage(7) ;(8) about(9) 30_miles(10) to(11) the(12) gallon(13) .(14) 
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			Both(1) the(2) power(3) steering(4) and(5) brakes(6) work(7) well(8) on(9) this(10) model(11) .(12) 
+			<opinion polarity="+" feature="brakes" featWords="6" opWords="7,8"/>
+			<opinion polarity="+" feature="power steering" featWords="3,4" opWords="7,8"/>
+		</sentence>
+		<sentence id="15">
+			The(1) other(2) thing(3) I(4) really(5) like(6) about(7) Hondas(8) ...(9) and(10) this(11) Accord(12) is(13) no(14) exception(15) ,(16) is(17) that(18) beyond(19) the(20) suggested(21) "(22) tune-ups(23) "(24) no(25) additional(26) maintenance(27) is(28) required(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			Again(1) ,(2) making(3) this(4) car(5) very(6) "(7) affordable(8) "(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			I(1) would(2) like(3) to(4) see(5) a(6) better(7) stereo(8) system(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			The(1) sound(2) quality(3) is(4) sometimes(5) "(6) tinny(7) "(8) and(9) when(10) you(11) make(12) it(13) louder(14) all(15) you(16) hear(17) is(18) more(19) vibration(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			In_addition(1) ,(2) the(3) model(4) I(5) purchased(6) only(7) had(8) a(9) CD(10) available(11) and(12) I(13) have(14) many(15) tapes(16) I(17) would(18) like(19) to(20) be(21) able(22) to(23) listen(24) to(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			It(1) would(2) be(3) nice(4) if(5) Honda(6) would(7) make(8) this(9) model(10) with(11) a(12) tape(13) deck(14) feature(15) as_well(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			The(1) CD(2) player(3) feature(4) is(5) a(6) "(7) luxury(8) "(9) feature(10) not(11) usually(12) found(13) in(14) economy(15) cars(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			I(1) would(2) appreciate(3) your(4) posting(5) comments(6) on(7) the(8) review(9) and(10) providing(11) feedback(12) .(13) 
+		</sentence>
+	</text>
+</review>

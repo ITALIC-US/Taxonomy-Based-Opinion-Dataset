@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="71" item="2002 BMW Z3" rating="5">
+	<title>
+		<sentence id="1">
+			Best_Car_I(1) 've(2) Ever_Owned(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) ,(2) Sexy(3) ,(4) Purrs(5) ,(6) like(7) supple(8) nubuck(9) leather(10) ,(11) Driving(12) with(13) the(14) top(15) down(16) is(17) amazing(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Plastic_Rear_Window(1) folds(2) easy(3) ,(4) but(5) it(6) is(7) not(8) glass(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) lucky(4) enough(5) to(6) find(7) and(8) buy(9) this(10) car(11) you(12) too(13) will(14) know(15) what(16) driving(17) a_real(18) sports(19) car(20) is(21) all(22) about(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Good(1) luck(2) !(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) a(3) Senior_US_Army_Officer(4) serving(5) in(6) Germany(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) not(3) sure(4) if(5) the(6) time(7) was(8) right(9) to(10) buy(11) this(12) car(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			After(1) 9/11(2) I(3) decided(4) that(5) now(6) is(7) the(8) time(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) so(3) very(4) happy(5) that(6) I(7) did(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			A(1) dream(2) has(3) been(4) fulfilled(5) and(6) I(7) can(8) not(9) believe(10) that(11) it(12) is(13) really(14) true(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) very(4) ,(5) very(6) fast(7) .(8) 
+			<opinion polarity="+" feature="speed" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) driven(3) it(4) at(5) 150MPH(6) +(7) on(8) the(9) German(10) autobahn(11) ,(12) although(13) I(14) will(15) admit(16) that(17) I(18) was(19) just(20) testing(21) it(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			No(1) matter(2) what(3) the(4) supposed(5) limitations(6) ((7) i(8) .(9) e(10) .(11) publications(12) or(13) speed(14) governer(15) )(16) are(17) ,(18) this(19) car(20) has(21) driven(22) fully(23) maxed(24) out(25) on(26) my(27) speedometer(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			It(1) handled(2) very(3) well(4) and(5) very(6) stable(7) .(8) 
+			<opinion polarity="+" feature="stability" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="handling" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="10">
+			I(1) can(2) not(3) believe(4) it(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			As(1) a(2) child(3) I(4) always(5) wanted(6) a(7) 1967(8) Jaguar_XKE_Series(9) 1(10) Roadster(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Obviously(1) owning(2) a(3) new(4) one(5) now(6) will(7) never(8) happen(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) the(3) 2002(4) BMW(5) Z3(6) 3.0i(7) Titanium_Silver(8) with(9) Black_Soft(10) top(11) and(12) sport(13) package(14) and(15) available(16) options(17) has(18) fulfilled(19) my(20) dream(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) "(3) the(4) "(5) classic(6) roadster(7) ,(8) no(9) matter(10) what(11) ,(12) there(13) is(14) nothing(15) on(16) the(17) market(18) that(19) matches(20) this(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			I(1) love(2) the(3) way(4) it(5) purrs(6) when(7) you(8) start(9) up(10) the(11) engine(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			I(1) love(2) the(3) way(4) the(5) soft(6) top(7) stores(8) away(9) easily(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			I(1) love(2) the(3) quickness(4) of(5) the(6) clutch(7) and(8) manual(9) transmission(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			Most(1) of(2) all(3) though(4) ,(5) I(6) really(7) love(8) pulling(9) away(10) from(11) snotty(12) Germans(13) in(14) their(15) oversized(16) Mercedes(17) that(18) hate(19) looking(20) at(21) an(22) American(23) leaving(24) them(25) behind(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			Lastly(1) ,(2) what(3) finally(4) convinced(5) me(6) to(7) buy(8) this(9) car(10) now(11) is(12) that(13) BMW(14) has(15) screwed(16) up(17) their(18) 2003(19) model(20) line(21) and(22) is(23) replacing(24) the(25) Z3(26) with(27) the(28) new(29) Z4(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) have(3) not(4) seen(5) the(6) Z4(7) 's(8) spy(9) photos(10) ,(11) then(12) you(13) should(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) think(3) the(4) rounded(5) style(6) of(7) the(8) Audi_TT(9) is(10) what(11) you(12) like(13) ,(14) then(15) have(16) at(17) it(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			Otherwise(1) ,(2) 2002(3) will(4) be(5) the(6) defining(7) year(8) for(9) the(10) classic(11) sports(12) car(13) ,(14) the(15) BMW(16) Z3(17) ,(18) the(19) same(20) as(21) 1967(22) was(23) for(24) the(25) Jaguar_Series(26) 1(27) XKE_Roadster(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			There(1) are(2) no(3) more(4) 2002(5) BMW(6) Z3(7) 3.0i(8) 's(9) being(10) manufactured(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) want(3) a(4) classic(5) ,(6) then(7) you(8) need(9) to(10) find(11) one(12) that(13) is(14) not(15) sold(16) and(17) buy(18) it(19) before(20) it(21) is(22) too(23) late(24) .(25) 
+		</sentence>
+		<sentence id="25">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 38500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) 2002(16) BMW(17) Z3(18) 3.0i(19) Roadster(20) ,(21) Automatic_Soft(22) top(23) ,(24) Hardtop(25) ,(26) Sports(27) package(28) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="735" item="2002 Hyundai Santa Fe" rating="2">
+	<title>
+		<sentence id="1">
+			Noisy_Disappointments(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solid_SUV(1) ,(2) good(3) handling(4) ,(5) spacious(6) .(7) 
+			<opinion polarity="+" feature="room" opWords="6"/>
+			<opinion polarity="+" feature="handling" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nagging_Engine_Whistle(1) ,(2) V6(3) sluggish(4) ,(5) only(6) 172HP(7) ,(8) mediocre(9) sound(10) system(11) 
+			<opinion polarity="-" feature="sound system" featWords="10,11" opWords="9"/>
+			<opinion polarity="-" feature="engine" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Be(1) sure(2) to(3) fully(4) road(5) test(6) the(7) Santa_Fe(8) -(9) city(10) and(11) highway(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) would(2) get(3) a(4) big(5) thumbs(6) up(7) if(8) whistle(9) ,(10) sound(11) system(12) and(13) sluggish(14) HP(15) were(16) corrected(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) love(2) our(3) V6(4) fully(5) loaded(6) Santa_Fe(7) ,(8) but(9) it(10) does(11) have(12) a(13) big(14) problem(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			A(1) high(2) pitched(3) whistle(4) at(5) about(6) 60mph(7) which(8) gets(9) louder(10) at(11) highway(12) speeds(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			You(1) can(2) hear(3) it(4) over(5) radio(6) or(7) CD(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			It(1) gets(2) under(3) your(4) skin(5) like(6) nails(7) on(8) a(9) blackboard(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) unbearable(3) on(4) daily(5) 2-hour(6) highway(7) trips(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			We(1) do(2) not(3) want(4) to(5) drive(6) it(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			In(1) the(2) shop(3) four_times(4) so(5) far(6) -(7) service(8) is(9) trying(10) to(11) find(12) it(13) -(14) it(15) 's(16) not(17) wind(18) ,(19) not(20) HVAC(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			HAS(1) ANYONE_EXPERIENCED_SAME_WHISTLE(2) ?(3) 
+		</sentence>
+		<sentence id="9">
+			HELP(1) ,(2) hubby(3) and(4) I(5) argue(6) over(7) who(8) gets(9) stuck(10) driving(11) the(12) Santa_Fe(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			MORE(1) BAD_NEWS(2) .(3) 
+		</sentence>
+		<sentence id="11">
+			Hyundai(1) wrote(2) to(3) us(4) ...(5) Oops(6) ,(7) we(8) goofed(9) ,(10) it(11) does(12) NOT(13) have(14) 181HP(15) ,(16) only(17) 172HP(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			They(1) gave(2) us(3) extended(4) warranty(5) as(6) compensation(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			Guess(1) that(2) explains(3) the(4) sluggishness(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			How(1) do(2) you(3) explain(4) weak(5) radio(6) /(7) sound(8) system(9) ?(10) 
+			<opinion polarity="-" feature="sound system" featWords="8,9" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			Is(1) it(2) the(3) built-in(4) window(5) antenna(6) ?(7) 
+		</sentence>
+		<sentence id="16">
+			Also(1) get(2) build(3) up(4) of(5) moisture(6) inside(7) windshield(8) on(9) rainy(10) days(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Such(1) a(2) shame(3) -(4) good(5) SUV(6) ,(7) but(8) nagging(9) whistle(10) ,(11) weak(12) sound(13) system(14) and(15) sluggish(16) power(17) get(18) a(19) thumbs(20) down(21) .(22) 
+			<opinion polarity="-" feature="horsepower" featWords="17" opWords="16"/>
+			<opinion polarity="-" feature="sound system" featWords="13,14" opWords="12"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			As(1) is(2) ,(3) Not(4) worth(5) the(6) price(7) we(8) paid(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Model_Year(8) :(9) 2002Model(10) and(11) Options(12) :(13) Santa_Fe_LX(14) fully(15) loaded(16) 
+		</sentence>
+	</text>
+</review>

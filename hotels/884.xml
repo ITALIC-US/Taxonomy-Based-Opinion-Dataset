@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="884" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Hay_Adams_Pure_Luxury(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) service(2) ;(3) fantastic(4) location(5) ;(6) spectacular(7) view(8) of(9) the(10) White_House(11) from(12) certain(13) rooms(14) .(15) 
+			<opinion polarity="+" feature="view" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Room(1) size(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Highly(1) recommended(2) if(3) your(4) budget(5) permits(6) .(7) 
+			<opinion polarity="+" feature="hotel" opWords="2" potency="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) was(3) recently(4) invited(5) to(6) a(7) conference(8) in(9) Washington(10) ,(11) D.C._Her(12) company(13) was(14) paying(15) for(16) her(17) lodging(18) so(19) I(20) decided(21) to(22) take(23) advantage(24) and(25) tag(26) along(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) never(3) heard(4) of(5) the(6) hotel(7) before(8) ,(9) but(10) I(11) had(12) never(13) spent(14) much(15) time(16) in(17) D.C.(18) and(19) did(20) not(21) know(22) anything(23) about(24) the(25) hotels(26) in(27) the(28) area(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			I(1) briefly(2) visited(3) the(4) Hay_Adams(5) website(6) before(7) we(8) left(9) ,(10) but(11) it(12) did(13) not(14) do(15) much(16) for(17) me(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) thought(2) the(3) hotel(4) seemed(5) a(6) little(7) stuffy(8) and(9) the(10) rooms(11) looked(12) small(13) ,(14) dark(15) and(16) uncomfortable(17) .(18) 
+			<opinion polarity="-" feature="rooms" featWords="11" opWords="17"/>
+			<opinion polarity="-" feature="rooms" featWords="11" opWords="15"/>
+			<opinion polarity="-" feature="rooms" featWords="11" opWords="13"/>
+			<opinion polarity="-" feature="hotel" featWords="4" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) markets(3) itself(4) on(5) its(6) website(7) as(8) a(9) utique(10) hotel(11) ,(12) but(13) I(14) had(15) no(16) idea(17) what(18) this(19) really(20) meant(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Was(1) that(2) just(3) a(4) euphemism(5) for(6) second(7) rate(8) ?(9) 
+		</sentence>
+		<sentence id="7">
+			Was(1) the(2) Washington_Monument(3) really(4) visible(5) from(6) the(7) guest(8) rooms(9) ,(10) or(11) was(12) this(13) some(14) photographic(15) sleight(16) of(17) hand(18) ?(19) 
+		</sentence>
+		<sentence id="8">
+			I(1) did(2) not(3) notice(4) at(5) the(6) time(7) that(8) it(9) was(10) listed(11) as(12) one(13) of(14) the(15) Leading_Hotels_of_the_World(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			We(1) flew(2) into(3) D.C.(4) on(5) the(6) redeye(7) and(8) got(9) to(10) the(11) hotel(12) in(13) the(14) early(15) morning(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) is(3) located(4) on(5) Lafayette_Square(6) ,(7) which(8) is(9) the(10) small(11) park(12) right(13) in(14) front(15) of(16) the(17) White_House(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			We(1) were(2) tired(3) and(4) groggy(5) ,(6) but(7) --(8) as(9) soon(10) as(11) we(12) got(13) out(14) of(15) our(16) taxi(17) and(18) stepped(19) foot(20) on(21) the(22) semicircular(23) driveway(24) in(25) front(26) of(27) the(28) hotel(29) --(30) we(31) were(32) treated(33) like(34) royalty(35) .(36) 
+		</sentence>
+		<sentence id="12">
+			The(1) hotel(2) employees(3) whom(4) we(5) encountered(6) ((7) e(8) .(9) g(10) .(11) ,(12) the(13) front(14) desk(15) staff(16) ,(17) the(18) bell(19) hops(20) and(21) the(22) doormen(23) )(24) were(25) polite(26) ,(27) friendly(28) and(29) enthusiastic(30) .(31) 
+			<opinion polarity="+" feature="front desk" featWords="14,15" opWords="30"/>
+			<opinion polarity="+" feature="front desk" featWords="14,15" opWords="28"/>
+			<opinion polarity="+" feature="front desk" featWords="14,15" opWords="26"/>
+		</sentence>
+		<sentence id="13">
+			Upon(1) check-in(2) ,(3) the(4) front(5) desk(6) staff(7) informed(8) us(9) that(10) my(11) wife(12) s(13) company(14) had(15) upgraded(16) our(17) room(18) to(19) one(20) with(21) a(22) view(23) of(24) the(25) White_House(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			We(1) were(2) thrilled(3) .(4) 
+		</sentence>
+		<sentence id="15">
+			The(1) room(2) was(3) not(4) ready(5) yet(6) so(7) the(8) front(9) desk(10) staff(11) kindly(12) offered(13) us(14) another(15) room(16) if(17) we(18) wanted(19) to(20) check(21) in(22) right(23) away(24) .(25) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="16">
+			This(1) second(2) room(3) had(4) a(5) urch(6) view(7) ,(8) which(9) I(10) understood(11) to(12) mean(13) that(14) it(15) was(16) located(17) on(18) the(19) front(20) side(21) of(22) the(23) hotel(24) directly(25) opposite(26) St(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			John(1) s(2) Church(3) .(4) 
+		</sentence>
+		<sentence id="18">
+			We(1) declined(2) the(3) offer(4) and(5) decided(6) to(7) wait(8) for(9) the(10) upgraded(11) room(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			The(1) front(2) desk(3) staff(4) informed(5) us(6) that(7) our(8) room(9) would(10) be(11) ready(12) at(13) 12(14) p.m.(15) ((16) four(17) or(18) five(19) hours(20) away(21) )(22) so(23) my(24) wife(25) and(26) I(27) figured(28) we(29) would(30) spend(31) the(32) time(33) seeing(34) the(35) White_House(36) ,(37) getting(38) breakfast(39) somewhere(40) and(41) walking(42) around(43) the(44) area(45) .(46) 
+		</sentence>
+		<sentence id="20">
+			I(1) was(2) amazed(3) by(4) how(5) close(6) the(7) hotel(8) is(9) to(10) the(11) White_House(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			In(1) these(2) times(3) of(4) increased(5) domestic(6) security(7) ,(8) I(9) suspected(10) that(11) there(12) would(13) have(14) been(15) barricades(16) or(17) security(18) checkpoints(19) screening(20) pedestrian(21) traffic(22) around(23) 1600(24) Pennsylvania_Avenue(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			This(1) was(2) not(3) the(4) case(5) ,(6) and(7) we(8) walked(9) one(10) very(11) short(12) block(13) from(14) the(15) hotel(16) ,(17) through(18) Lafayette_Square(19) and(20) right(21) up(22) to(23) the(24) famous(25) black(26) iron(27) gates(28) encircling(29) the(30) White_House(31) .(32) 
+		</sentence>
+		<sentence id="23">
+			After(1) taking(2) numerous(3) photos(4) ,(5) my(6) wife(7) and(8) I(9) headed(10) off(11) to(12) find(13) breakfast(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			We(1) returned(2) to(3) the(4) hotel(5) after(6) a(7) few(8) hours(9) ,(10) but(11) we(12) still(13) had(14) a(15) few(16) more(17) hours(18) to(19) go(20) before(21) we(22) could(23) go(24) up(25) to(26) our(27) room(28) .(29) 
+		</sentence>
+		<sentence id="25">
+			I(1) was(2) getting(3) very(4) sleepy(5) and(6) cranky(7) so(8) my(9) wife(10) searched(11) for(12) a(13) quiet(14) place(15) to(16) rest(17) .(18) 
+			<opinion polarity="+" feature="place" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="26">
+			She(1) found(2) this(3) beautiful(4) meeting(5) room(6) located(7) on(8) the(9) first(10) floor(11) with(12) a(13) sofa(14) and(15) some(16) chairs(17) .(18) 
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			The(1) room(2) ((3) identified(4) in(5) the(6) website(7) as(8) the(9) John_Hay_Room(10) )(11) was(12) exquisite(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="13"/>
+		</sentence>
+		<sentence id="28">
+			The(1) walls(2) were(3) covered(4) in(5) rich(6) ,(7) dark(8) wood(9) ,(10) and(11) the(12) room(13) was(14) split(15) in(16) two(17) by(18) columns(19) .(20) 
+		</sentence>
+		<sentence id="29">
+			I(1) plopped(2) down(3) on(4) a(5) sofa(6) and(7) promptly(8) fell(9) asleep(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			I(1) was(2) a(3) little(4) embarrassed(5) when(6) I(7) woke(8) up(9) an(10) hour(11) or(12) so(13) later(14) and(15) saw(16) several(17) staff(18) members(19) setting(20) up(21) for(22) a(23) conference(24) .(25) 
+		</sentence>
+		<sentence id="31">
+			Through(1) sleepy(2) eyes(3) ,(4) I(5) watched(6) them(7) for(8) a(9) while(10) and(11) noticed(12) the(13) precision(14) they(15) seemed(16) to(17) employ(18) in(19) doing(20) tasks(21) as(22) simple(23) as(24) lining(25) up(26) chairs(27) .(28) 
+		</sentence>
+		<sentence id="32">
+			When(1) they(2) noticed(3) that(4) I(5) had(6) woken(7) up(8) ,(9) they(10) acted(11) like(12) I(13) had(14) done(15) nothing(16) wrong(17) and(18) bade(19) me(20) a(21) friendly(22) good(23) morning(24) ,(25) sir(26) .(27) 
+		</sentence>
+		<sentence id="33">
+			Shortly(1) thereafter(2) ,(3) we(4) were(5) told(6) that(7) our(8) room(9) was(10) ready(11) .(12) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="34">
+			I(1) still(2) remember(3) walking(4) into(5) our(6) room(7) that(8) first(9) time(10) because(11) it(12) nearly(13) blew(14) my(15) mind(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			As(1) my(2) wife(3) and(4) I(5) opened(6) the(7) door(8) ,(9) the(10) first(11) thing(12) we(13) saw(14) was(15) the(16) view(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			The(1) curtains(2) on(3) the(4) window(5) were(6) pulled(7) back(8) ,(9) the(10) sun(11) was(12) beaming(13) in(14) ,(15) and(16) we(17) were(18) looking(19) directly(20) at(21) the(22) front(23) of(24) the(25) White_House(26) .(27) 
+		</sentence>
+		<sentence id="37">
+			And(1) ,(2) sure(3) enough(4) ,(5) rising(6) from(7) behind(8) it(9) and(10) stretching(11) towards(12) the(13) sky(14) was(15) the(16) towering(17) Washington_Monument(18) .(19) 
+		</sentence>
+		<sentence id="38">
+			It(1) was(2) like(3) an(4) image(5) on(6) a(7) postcard(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			We(1) raced(2) over(3) to(4) the(5) window(6) ,(7) and(8) even_though(9) we(10) had(11) just(12) seen(13) the(14) White_House(15) up(16) close(17) a(18) few(19) hours(20) prior(21) we(22) marveled(23) at(24) the(25) view(26) for(27) several(28) minutes(29) .(30) 
+		</sentence>
+		<sentence id="40">
+			We(1) were(2) several(3) stories(4) up(5) ,(6) and(7) we(8) could(9) see(10) the(11) guards(12) walking(13) around(14) on(15) top(16) of(17) the(18) White_House(19) .(20) 
+		</sentence>
+		<sentence id="41">
+			That(1) night(2) ,(3) we(4) were(5) in(6) for(7) another(8) surprise(9) .(10) 
+		</sentence>
+		<sentence id="42">
+			The(1) White_House(2) takes(3) on(4) a(5) whole(6) different(7) look(8) when(9) it(10) is(11) illuminated(12) in(13) the(14) evening(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			The(1) room(2) was(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="44">
+			It(1) was(2) a(3) little(4) small(5) ,(6) but(7) the(8) furnishings(9) were(10) understated(11) and(12) tasteful(13) .(14) 
+			<opinion polarity="+" feature="furnishings" featWords="9" opWords="11"/>
+			<opinion polarity="+" feature="furnishings" featWords="9" opWords="13"/>
+		</sentence>
+		<sentence id="45">
+			The(1) bed(2) was(3) so(4) soft(5) and(6) plush(7) that(8) I(9) could(10) have(11) spent(12) the(13) entire(14) day(15) sleeping(16) in(17) it(18) .(19) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="bed" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="46">
+			The(1) bathroom(2) was(3) also(4) small(5) ,(6) but(7) warmly(8) lit(9) and(10) well(11) appointed(12) .(13) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="8,9"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="11,12"/>
+		</sentence>
+		<sentence id="47">
+			Later_on(1) ,(2) my(3) wife(4) and(5) I(6) were(7) leaving(8) the(9) hotel(10) and(11) stopped(12) by(13) the(14) front(15) desk(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			No(1) one(2) was(3) there(4) ,(5) but(6) a(7) moment(8) later(9) an(10) employee(11) whom(12) we(13) had(14) not(15) met(16) before(17) came(18) up(19) from(20) behind(21) us(22) and(23) addressed(24) my(25) wife(26) by(27) her(28) name(29) before(30) he(31) even(32) looked(33) at(34) the(35) computer(36) .(37) 
+		</sentence>
+		<sentence id="49">
+			I(1) still(2) have(3) not(4) figured(5) out(6) how(7) he(8) did(9) that(10) .(11) 
+		</sentence>
+		<sentence id="50">
+			Our(1) stay(2) was(3) brief(4) ((5) one(6) night(7) )(8) ,(9) and(10) I(11) know(12) that(13) it(14) was(15) expensive(16) .(17) 
+		</sentence>
+		<sentence id="51">
+			If(1) I(2) were(3) in(4) the(5) area(6) again(7) ,(8) I(9) would(10) love(11) to(12) stay(13) there(14) ((15) and(16) in(17) a(18) room(19) with(20) a(21) White_House(22) view(23) )(24) but(25) I(26) recognize(27) that(28) my(29) budget(30) may(31) not(32) allow(33) me(34) to(35) do(36) so(37) .(38) 
+		</sentence>
+		<sentence id="52">
+			Even(1) so(2) ,(3) our(4) experience(5) at(6) the(7) Hay_Adams(8) is(9) the(10) yardstick(11) by(12) which(13) all(14) of(15) our(16) future(17) hotel(18) stays(19) will(20) be(21) measured(22) .(23) 
+		</sentence>
+	</text>
+</review>

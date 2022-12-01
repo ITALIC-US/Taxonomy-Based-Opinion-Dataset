@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="502" item="Sony h.ear�?� MDR-J10 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great_for_Outdoor_Exercise(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lightweight(1) and(2) comfortable(3) for(4) in-ear(5) phones(6) ;(7) Allow(8) for(9) comfortable(10) use(11) of(12) headwear(13) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cord(1) could(2) be(3) shorter(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) earphones(4) ,(5) because(6) I(7) needed(8) something(9) that(10) allows(11) me(12) to(13) hear(14) on-coming(15) traffic(16) and(17) ferocious(18) dogs(19) during(20) walks(21) and(22) runs(23) near(24) my(25) home(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) money(3) ,(4) these(5) can(6) not(7) be(8) beat(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			They(1) stay(2) in(3) place(4) ,(5) though(6) it(7) takes(8) a(9) few(10) tries(11) to(12) figure(13) out(14) how(15) to(16) situate(17) them(18) for(19) placement(20) security(21) and(22) optimal(23) sound(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			These(1) phones(2) allow(3) you(4) to(5) wear(6) a(7) whatever(8) headgear(9) you(10) prefer(11) without(12) getting(13) in(14) the(15) way(16) and(17) are(18) easy(19) to(20) stow(21) in(22) small(23) places(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			They(1) come(2) in(3) a(4) rainbow(5) of(6) colors(7) ,(8) which(9) is(10) fun(11) and(12) perfectly(13) OK(14) for(15) headphones(16) that(17) cost(18) $10(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			I(1) find(2) the(3) sound(4) acceptable(5) for(6) the(7) purpose(8) of(9) headphones(10) to(11) use(12) during(13) exercise(14) ,(15) plane(16) trips(17) and(18) other(19) incidental(20) situations(21) .(22) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) cord(2) could(3) be(4) shorter(5) 
+		</sentence>
+	</text>
+</review>

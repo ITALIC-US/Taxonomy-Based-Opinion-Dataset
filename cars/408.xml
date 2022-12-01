@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="408" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			...(1) The(2) King_of_the_Purple_Panda_World(3) ...(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			...(1) Great(2) value(3) ,(4) Nice(5) finish(6) ,(7) Honda(8) quality(9) and(10) engineering(11) ...(12) 
+			<opinion polarity="+" feature="finish" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			...(1) Sedate_Styling(2) ,(3) Everyone(4) has(5) one(6) ,(7) a(8) few(9) other(10) details(11) inside(12) ...(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) does(3) not(4) stir(5) your(6) soul(7) ,(8) but(9) with(10) the(11) $(12) $(13) $(14) you(15) 'll(16) save(17) ,(18) you(19) can(20) buy(21) other(22) things(23) to(24) excite(25) your(26) life(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) my(2) car(3) was(4) recently(5) stolen(6) ((7) Acura(8) 1993(9) )(10) ,(11) I(12) decided(13) to(14) look(15) at(16) a(17) variety(18) of(19) cars(20) of(21) all(22) sizes(23) and(24) shapes(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Amongst(1) the(2) other(3) cars(4) I(5) looked(6) at(7) ((8) Jetta(9) ,(10) TL(11) ,(12) Passat(13) ,(14) BMW(15) ,(16) Audi(17) )(18) ,(19) the(20) Accord(21) was(22) on(23) the(24) list(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			Granted(1) it(2) 's(3) the(4) King_of_the_Purple_Panda_World(5) ,(6) but(7) I(8) did(9) not(10) have(11) much(12) choice(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			After(1) researching(2) it(3) further(4) ,(5) I(6) can(7) see(8) why(9) every(10) other(11) car(12) on(13) the(14) road(15) is(16) an(17) Accord(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Our(1) family(2) has(3) owned(4) 3(5) Acura(6) 's(7) over(8) the(9) last(10) 10(11) years(12) ((13) 90(14) Legend(15) ,(16) 93(17) Legend(18) ,(19) 2000(20) TL(21) )(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			We(1) have(2) been(3) continuosly(4) impressed(5) with(6) Honda(7) engineering(8) ,(9) high(10) fit(11) &(12) finish(13) quality(14) ,(15) and(16) incredible(17) value(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) EX-V(2) 6(3) Accord(4) seems(5) more(6) than(7) willing(8) to(9) continue(10) this(11) traditional(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Our(1) Acura(2) 's(3) has(4) great(5) engineering(6) ,(7) and(8) the(9) big(10) question(11) was(12) whether(13) the(14) Honda_Accord(15) would(16) match(17) my(18) previous(19) expectations(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			I(1) test(2) drove(3) the(4) Accord(5) ,(6) and(7) I(8) was(9) pleasantly(10) surprised(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			First(1) of(2) all(3) ,(4) the(5) engine(6) pumps(7) out(8) 200(9) hp(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) more(3) than(4) sufficient(5) given(6) the(7) weight(8) of(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			In(1) fact(2) ,(3) my(4) 93(5) Legend(6) had(7) 200(8) hp(9) and(10) was(11) much(12) heavier(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Needless(1) to(2) say(3) ,(4) acceleration(5) was(6) no(7) problem(8) in(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) also(2) expected(3) a(4) weak(5) suspension(6) and(7) so-so(8) handling(9) because(10) the(11) Accord(12) is(13) a(14) family(15) sedan(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			I(1) must(2) admit(3) that(4) it(5) does(6) not(7) do(8) much(9) to(10) stir(11) your(12) soul(13) ,(14) but(15) it(16) really(17) is(18) not(19) as(20) bland(21) and(22) boring(23) as(24) you(25) would(26) expect(27) .(28) 
+		</sentence>
+		<sentence id="16">
+			It(1) handles(2) well(3) and(4) there(5) is(6) limited(7) body(8) roll(9) .(10) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="17">
+			It(1) feels(2) relatively(3) light(4) and(5) nimble(6) given(7) its(8) size(9) on(10) curves(11) ,(12) but(13) maintains(14) a(15) solid(16) feel(17) on(18) the(19) highway(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="18">
+			The(1) steering(2) is(3) over-powered(4) and(5) I(6) felt(7) is(8) was(9) a_bit(10) too(11) light(12) .(13) 
+			<opinion polarity="-" feature="steering" featWords="2" opWords="11,12"/>
+		</sentence>
+		<sentence id="19">
+			I(1) tend(2) to(3) prefer(4) less(5) power-assist(6) so(7) I(8) have(9) better(10) control(11) of(12) the(13) car(14) ,(15) but(16) this(17) is(18) my(19) personal(20) preference(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			Others(1) would(2) probably(3) appreciate(4) this(5) aspect(6) .(7) 
+		</sentence>
+		<sentence id="21">
+			The(1) car(2) is(3) also(4) quite(5) roomy(6) and(7) will(8) easily(9) fit(10) 4(11) and(12) can(13) fit(14) 5(15) people(16) without(17) much(18) problem(19) .(20) 
+			<opinion polarity="+" feature="room" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="22">
+			The(1) trunk(2) size(3) is(4) great(5) as_well(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			The(1) front(2) seat(3) are(4) comfortable(5) ,(6) but(7) not(8) exceptional(9) .(10) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="8,9"/>
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="24">
+			The(1) rear(2) bench(3) looks(4) like(5) it(6) would(7) be(8) fine(9) for(10) a(11) ride(12) around(13) the(14) city(15) ,(16) but(17) it(18) does(19) not(20) seem(21) inviting(22) for(23) long(24) trips(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			Still(1) ,(2) everyone(3) has(4) ample(5) head(6) and(7) leg(8) room(9) in(10) the(11) front(12) and(13) back(14) .(15) 
+			<opinion polarity="+" feature="leg room" featWords="8,9" opWords="5"/>
+		</sentence>
+		<sentence id="26">
+			Being(1) used(2) to(3) the(4) Acura(5) 's(6) ,(7) I(8) was(9) expecting(10) a(11) big(12) downgrade(13) in(14) terms(15) of(16) the(17) fit(18) and(19) finish(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			However(1) ,(2) by(3) merely(4) opening(5) the(6) doors(7) ,(8) I(9) saw(10) I(11) was(12) completely(13) wrong(14) .(15) 
+		</sentence>
+		<sentence id="28">
+			This(1) car(2) ,(3) is(4) essentially(5) made(6) from(7) TL(8) parts(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			Many(1) of(2) the(3) modules(4) were(5) IDENTICAL(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			For_example(1) ,(2) the(3) home(4) transmitter(5) /(6) sunglass(7) cases(8) ,(9) the(10) windows(11) ,(12) steering(13) wheel(14) ,(15) etc(16) ...(17) is(18) right(19) out(20) of(21) the(22) TL(23) .(24) 
+		</sentence>
+		<sentence id="31">
+			These(1) parts(2) looks(3) good(4) on(5) the(6) TL(7) ,(8) and(9) getting(10) them(11) in(12) the(13) price(14) of(15) an(16) Accord(17) is(18) a(19) steal(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			The(1) buttons(2) seem(3) to(4) be(5) high(6) quality(7) and(8) are(9) incredibly(10) functional(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			If(1) these(2) parts(3) as(4) like(5) their(6) older(7) parts(8) ((9) they(10) look(11) the(12) same(13) )(14) ,(15) then(16) they(17) will(18) hold(19) up(20) without(21) breaking(22) for(23) many(24) years(25) .(26) 
+		</sentence>
+		<sentence id="34">
+			The(1) style(2) of(3) the(4) car(5) is(6) the(7) next(8) important(9) aspect(10) that(11) I(12) was(13) considering(14) ,(15) and(16) to(17) be(18) honest(19) ,(20) this(21) was(22) the(23) Accord(24) 's(25) biggest(26) downfall(27) .(28) 
+		</sentence>
+		<sentence id="35">
+			I(1) realize(2) that(3) styling(4) issues(5) are(6) highly(7) personable(8) ,(9) and(10) I(11) 'm(12) just(13) giving(14) my(15) opinions(16) about(17) this(18) topic(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			The(1) exterior(2) styling(3) is(4) just(5) as(6) you(7) would(8) expect(9) from(10) Honda(11) ...(12) very(13) conservative(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			While(1) I(2) think(3) that(4) it(5) looks(6) good(7) ,(8) it(9) 's(10) not(11) going(12) to(13) turn(14) any(15) heads(16) .(17) 
+			<opinion polarity="+" feature="design" opWords="6,7"/>
+		</sentence>
+		<sentence id="38">
+			This(1) car(2) has(3) ZERO(4) sex(5) appeal(6) .(7) 
+		</sentence>
+		<sentence id="39">
+			Inside(1) ,(2) the(3) Accord(4) was(5) slightly(6) less(7) pleasing(8) to(9) me(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			It(1) buttons(2) are(3) all(4) in(5) an(6) incredibly(7) functional(8) layout(9) .(10) 
+		</sentence>
+		<sentence id="41">
+			It(1) seems(2) that(3) the(4) Honda(5) designers(6) just(7) took(8) pages(9) out(10) of(11) their(12) old(13) cars(14) ,(15) and(16) pieced(17) then(18) together(19) here(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			I(1) 'm(2) not(3) saying(4) that(5) it(6) 's(7) bad(8) ,(9) just(10) it(11) does(12) not(13) make(14) you(15) feel(16) like(17) they(18) 've(19) done(20) much(21) to(22) change(23) .(24) 
+		</sentence>
+		<sentence id="43">
+			Still(1) ,(2) everything(3) is(4) within(5) easy(6) reach(7) ,(8) and(9) it(10) all(11) makes(12) sense(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) have(3) ever(4) driven(5) any(6) Honda(7) before(8) ,(9) you(10) will(11) automatically(12) know(13) where(14) each(15) control(16) should(17) be(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			My(1) biggest(2) complaint(3) is(4) that(5) the(6) center(7) dash(8) seems(9) to(10) jut(11) out(12) at(13) you(14) ,(15) and(16) then(17) recesses(18) back(19) .(20) 
+		</sentence>
+		<sentence id="46">
+			There(1) 's(2) an(3) uncovered(4) storage(5) area(6) in(7) front(8) of(9) the(10) center-mounted(11) gear(12) shifter(13) .(14) 
+		</sentence>
+		<sentence id="47">
+			I(1) do(2) not(3) like(4) this(5) layout(6) because(7) I(8) aesthtically(9) like(10) the(11) center(12) dash(13) to(14) flow(15) continuously(16) ...(17) not(18) be(19) broken(20) up(21) .(22) 
+		</sentence>
+		<sentence id="48">
+			Additionally(1) ,(2) the(3) "(4) storage(5) area(6) "(7) is(8) a(9) prime(10) place(11) to(12) get(13) dirt(14) accumulation(15) .(16) 
+		</sentence>
+		<sentence id="49">
+			Lastly(1) ,(2) it(3) 's(4) wasted(5) space(6) if(7) you(8) park(9) in(10) public(11) areas(12) and(13) do(14) not(15) want(16) your(17) personal(18) belonging(19) to(20) show(21) .(22) 
+		</sentence>
+		<sentence id="50">
+			Well(1) ,(2) the(3) last(4) part(5) of(6) the(7) equation(8) is(9) Value(10) ,(11) and(12) the(13) Accord(14) surpasses(15) expecations(16) .(17) 
+		</sentence>
+		<sentence id="51">
+			Honda(1) offers(2) no(3) options(4) ,(5) but(6) offers(7) many(8) different(9) "(10) trim(11) levels(12) "(13) .(14) 
+		</sentence>
+		<sentence id="52">
+			I(1) test(2) drove(3) and(4) was(5) looking(6) at(7) the(8) Accord_EX-V(9) 6(10) w(11) /(12) leather(13) .(14) 
+		</sentence>
+		<sentence id="53">
+			Basically(1) ,(2) this(3) is(4) their(5) top-of-the-line(6) model(7) .(8) 
+		</sentence>
+		<sentence id="54">
+			The(1) sticker(2) price(3) was(4) $23,200(5) .(6) 
+		</sentence>
+		<sentence id="55">
+			The(1) list(2) of(3) standard(4) features(5) included(6) just(7) about(8) everything(9) :(10) leather(11) seats(12) ,(13) power(14) seats(15) ,(16) in-dash(17) cassette(18) /(19) cd(20) CHANGER(21) ,(22) automatic(23) climate(24) control(25) ,(26) home-link(27) system(28) ,(29) traction(30) control(31) ...(32) etc.(33) Additionally(34) ,(35) the(36) engine(37) was(38) great(39) .(40) 
+			<opinion polarity="+" feature="engine" featWords="37" opWords="39"/>
+		</sentence>
+		<sentence id="56">
+			Knowing(1) this(2) car(3) was(4) such(5) a(6) good(7) value(8) made(9) the(10) decision(11) between(12) the(13) boring-yet-functional(14) Accord(15) vs(16) .(17) exciting-expensive(18) Import(19) so(20) difficult(21) .(22) 
+		</sentence>
+		<sentence id="57">
+			So(1) ,(2) did(3) Honda(4) build(5) the(6) perfect(7) car(8) ?(9) ?(10) ?(11) 
+		</sentence>
+		<sentence id="58">
+			Well(1) ,(2) actually(3) ,(4) I(5) did(6) have(7) some(8) complaints(9) .(10) 
+		</sentence>
+		<sentence id="59">
+			I(1) was(2) disappointed(3) with(4) the(5) styling(6) in(7) general(8) ,(9) and(10) particularly(11) ,(12) the(13) center(14) dash(15) .(16) 
+		</sentence>
+		<sentence id="60">
+			Additionally(1) ,(2) sitting(3) in(4) the(5) back(6) ,(7) there(8) was(9) considerable(10) road(11) noise(12) even(13) at(14) low(15) speeds(16) .(17) 
+		</sentence>
+		<sentence id="61">
+			This(1) is(2) one(3) quality(4) that(5) the(6) Acura(7) 's(8) never(9) had(10) .(11) 
+		</sentence>
+		<sentence id="62">
+			I(1) also(2) would(3) have(4) likes(5) a(6) Bose(7) /(8) premium(9) sound(10) system(11) .(12) 
+		</sentence>
+		<sentence id="63">
+			Other(1) options(2) that(3) you(4) may(5) or(6) may(7) not(8) miss(9) include(10) auto-dimming(11) mirror(12) ,(13) side-mirror(14) defroster(15) ,(16) and(17) memory(18) and(19) heated(20) seats(21) .(22) ((23) Most(24) of(25) these(26) are(27) on(28) the(29) TL(30) )(31) Also(32) ,(33) the(34) entire(35) rear(36) seat(37) folds(38) down(39) ...(40) not(41) in(42) sections(43) .(44) 
+		</sentence>
+		<sentence id="64">
+			Additionally(1) .(2) the(3) opening(4) to(5) the(6) trunk(7) is(8) rather(9) small(10) ((11) does(12) not(13) cover(14) the(15) entire(16) seat(17) )(18) ,(19) so(20) the(21) space(22) is(23) not(24) as(25) functional(26) as(27) you(28) might(29) think(30) .(31) 
+		</sentence>
+		<sentence id="65">
+			Given(1) all(2) the(3) pluses(4) and(5) minuses(6) ,(7) this(8) is(9) a(10) phenomenal(11) car(12) for(13) the(14) $(15) $(16) $(17) .(18) 
+		</sentence>
+		<sentence id="66">
+			I(1) do(2) not(3) think(4) that(5) there(6) 's(7) a(8) better(9) car(10) on(11) the(12) market(13) in(14) this(15) price(16) range(17) .(18) 
+		</sentence>
+		<sentence id="67">
+			The(1) only(2) comparable(3) cars(4) in(5) terms(6) of(7) size(8) /(9) price(10) are(11) the(12) Taurus(13) and(14) the(15) Maxima(16) .(17) 
+		</sentence>
+		<sentence id="68">
+			I(1) think(2) that(3) they(4) are(5) about(6) $3K(7) cheaper(8) and(9) more(10) expensive(11) ,(12) respectively(13) .(14) 
+		</sentence>
+		<sentence id="69">
+			Especially(1) if(2) you(3) can(4) deal(5) with(6) the(7) sedate(8) styling(9) ,(10) you(11) can(12) not(13) go(14) wrong(15) with(16) this(17) car(18) .(19) 
+		</sentence>
+		<sentence id="70">
+			As(1) a(2) sidenote(3) ,(4) we(5) ended(6) up(7) spending(8) the(9) extra(10) cash(11) for(12) another(13) TL(14) .(15) ((16) 4(17) Acura(18) 's(19) in(20) 10(21) years(22) )(23) For(24) me(25) ,(26) the(27) aggressive(28) styling(29) ,(30) extra(31) 25(32) hp(33) ,(34) and(35) few(36) other(37) goodies(38) made(39) more(40) sense(41) .(42) 
+		</sentence>
+		<sentence id="71">
+			Additionally(1) ,(2) we(3) ended(4) up(5) getting(6) a(7) great(8) deal(9) on(10) the(11) TL(12) .(13) 
+		</sentence>
+		<sentence id="72">
+			While(1) both(2) will(3) last(4) for(5) years(6) ,(7) I(8) will(9) definitely(10) be(11) happier(12) driving(13) the(14) TL(15) .(16) 
+		</sentence>
+		<sentence id="73">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,195(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX-V(16) 6(17) w(18) /(19) leather(20) 
+		</sentence>
+	</text>
+</review>

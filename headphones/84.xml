@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="84" item="Philips SHN-5500 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) !(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) and(2) soft(3) fit(4) on(5) ears(6) .(7) 
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) noise(2) canceling(3) .(4) only(5) signal(6) amplification(7) .(8) amateurish(9) .(10) toy(11) for(12) children(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) .(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Active(1) noise(2) cancellation(3) logic(4) is(5) worthless(6) .(7) 
+			<opinion polarity="-" feature="isolation" featWords="2,3" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) is(2) actually(3) true(4) that(5) noise(6) cancellation(7) can(8) be(9) done(10) either(11) with(12) simple(13) amplification(14) of(15) input(16) signal(17) which(18) more(19) or(20) less(21) the(22) case(23) here(24) and(25) the(26) other(27) way(28) ,(29) the(30) right(31) way(32) However(33) right(34) way(35) part(36) of(37) story(38) is(39) much(40) important(41) that(42) deals(43) with(44) active(45) ambient(46) noise(47) cancellation(48) logic(49) .(50) 
+		</sentence>
+		<sentence id="2">
+			Main(1) actors(2) :(3) microphone(4) +(5) DSP(6) ((7) or(8) any(9) other(10) logic(11) )(12) that(13) neutralizes(14) the(15) ambient(16) noise(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			That(1) logic(2) can(3) be(4) very(5) expensive(6) ((7) e(8) .(9) g(10) .(11) Bose(12) are(13) aprox(14) .(15) 250(16) $(17) )(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) not(3) say(4) for(5) the(6) headphones(7) that(8) are(9) best(10) buy(11) because(12) there(13) is(14) no(15) noise(16) cancellation(17) ,(18) although(19) I(20) noticed(21) some(22) hole(23) on(24) each(25) headphone(26) perhaps(27) for(28) microphone(29) which(30) could(31) be(32) inside(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			I(1) couldn(2) t(3) open(4) a(5) headphone(6) ((7) I(8) opened(9) only(10) a(11) box(12) which(13) contains(14) amplifier(15) ic(16) )(17) to(18) see(19) how(20) complex(21) the(22) logic(23) is(24) .(25) -(26) Well(27) ,(28) anyway(29) ,(30) it(31) does(32) not(33) work(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			So(1) who(2) cares(3) what(4) 's(5) inside(6) ?(7) 
+		</sentence>
+		<sentence id="7">
+			If(1) I(2) can(3) choose(4) again(5) ,(6) I(7) would(8) go(9) with(10) some(11) 150(12) $(13) headphones(14) and(15) would(16) invest(17) more(18) time(19) on(20) reading(21) on(22) this(23) subject(24) and(25) comparison(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) quite(3) some(4) helpful(5) reviews(6) on(7) Bose(8) and(9) Panasonic(10) noise(11) cancellation(12) headphones(13) on(14) Amazon(15) as_well(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Here(1) are(2) other(3) models(4) that(5) I(6) have(7) read(8) after(9) I(10) bought(11) this(12) model(13) and(14) got(15) disappointed(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			My(1) requirements(2) are(3) :(4) -(5) acceptable(6) price(7) ((8) apparently(9) price(10) must(11) be(12) above(13) 80(14) $(15) )(16) =(17) around(18) 100(19) $(20) -(21) must(22) have(23) nice(24) slim(25) design(26) ((27) maybe(28) foldable(29) )(30) to(31) ware(32) them(33) in(34) office(35) .(36) 
+		</sentence>
+		<sentence id="11">
+			Here(1) are(2) some(3) candidates(4) because_of(5) good(6) reviews(7) OR(8) price(9) OR(10) design(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			I(1) did(2) not(3) find(4) one(5) model(6) that(7) has(8) comprises(9) all(10) above(11) mentioned(12) ((13) although(14) JVC(15) HANC250(16) are(17) at_least(18) foldable(19) )(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			List(1) is(2) sorted(3) by(4) quality(5) as(6) I(7) concluded(8) from(9) numerous(10) reviews(11) I(12) read(13) ,(14) Bose(15) is(16) out(17) of(18) list(19) as(20) it(21) s(22) apparently(23) out(24) of(25) competition(26) :(27) -(28) Bose_QuietComfort(29) 3(30) ((31) or(32) 2(33) depends(34) how(35) rich(36) you(37) are(38) )(39) Acoustic_Noise_Cancelling(40) -(41) Audio-Technica_ATH-ANC(42) 7(43) QuietPoint_Active_Noise-Cancelling_Headphones(44) ((45) price(46) )(47) -(48) Panasonic(49) RP-HC500(50) Noise-Canceling_Headphones(51) ((52) price(53) +(54) somewhat(55) design(56) )(57) -(58) JVC(59) HANC250(60) Noise_Cancelling_Headphones(61) -(62) Sennheiser_PXC(63) 250(64) Active_Noise_Canceling(65) ((66) size(67) is(68) ok(69) ,(70) quality(71) is(72) too(73) low(74) )(75) -(76) Sony(77) Mdrnc22(78) Noise_Canceling_Headphone(79) ((80) I(81) own(82) these(83) ,(84) much(85) better(86) than(87) this(88) philips(89) )(90) .(91) 
+		</sentence>
+	</text>
+</review>

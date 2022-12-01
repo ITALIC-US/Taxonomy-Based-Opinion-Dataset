@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="944" item="2006 BMW 5 Series" rating="1">
+	<title>
+		<sentence id="1">
+			What(1) a(2) mess(3) ...(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			What(1) an(2) engine(3) ...(4) perfection(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			Great(1) drive(2) too(3) !(4) 
+			<opinion polarity="+" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) !(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) it(4) unless(5) you(6) HAVE_TO(7) have(8) it(9) .(10) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) just(3) mind-boggled(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) confuses(3) me(4) and(5) it(6) 's(7) frustrating(8) .(9) 
+			<opinion polarity="-" feature="car" featWords="6" featRef="car" opWords="8"/>
+			<opinion polarity="-" feature="car" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) only(2) hope(3) I(4) can(5) sum(6) this(7) up(8) in(9) very(10) little(11) writing(12) because(13) I(14) will(15) begin(16) to(17) blab(18) when(19) I(20) get(21) into(22) the(23) details(24) of(25) this(26) ...(27) Frankenstein(28) monster(29) ...(30) I(31) have(32) no(33) idea(34) how(35) to(36) put(37) my(38) love(39) /(40) hate(41) relationship(42) with(43) this(44) car(45) into(46) words(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) not(3) own(4) one(5) ,(6) even_if(7) I(8) had(9) the(10) money(11) I(12) would(13) not(14) bother(15) buying(16) one(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Not(1) to(2) say(3) it(4) is(5) not(6) a(7) good(8) car(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Just(1) reading(2) this(3) you(4) will(5) have(6) to(7) know(8) your(9) priorities(10) when(11) buying(12) a(13) car(14) for(15) this(16) much(17) money(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Style_I(1) have(2) to(3) start(4) with(5) style(6) because(7) it(8) just(9) bothers(10) me(11) and(12) the(13) words(14) are(15) pouring(16) out(17) of(18) my(19) mouth(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			First(1) sight(2) I(3) loved(4) the(5) look(6) of(7) this(8) car(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) new(3) ,(4) fresh(5) ,(6) unique(7) ...(8) and(9) 10(10) minutes(11) later(12) I(13) was(14) over(15) it(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			You(1) are(2) paying(3) $70,000(4) for(5) this(6) machine(7) and(8) it(9) looks(10) like(11) it(12) could(13) be(14) any(15) other(16) car(17) on(18) the(19) road(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Not(1) only(2) that(3) ,(4) it(5) 's(6) ugly(7) .(8) 
+			<opinion polarity="-" feature="design" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			The(1) front(2) looks(3) like(4) it(5) 's(6) crying(7) ...(8) probably(9) because(10) old(11) 5(12) serious(13) owners(14) are(15) bashing(16) it(17) so(18) much(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			I(1) do(2) not(3) blame(4) them(5) though(6) ...(7) the(8) new(9) designer(10) ruined(11) BMW(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			It(1) was(2) inevitable(3) that(4) BMW(5) was(6) going(7) to(8) try(9) something(10) new(11) ...(12) but(13) come(14) on(15) ...(16) know(17) your(18) audience(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) rather(3) have(4) a(5) Mazda(6) 6(7) than(8) this(9) car(10) .(11) $40,000(12) less(13) for(14) a(15) better(16) looking(17) car(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			The(1) interior(2) is(3) not(4) anything(5) special(6) either(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			No(1) old(2) person(3) will(4) drive(5) this(6) car(7) because(8) it(9) is(10) the(11) most(12) confusing(13) thing(14) I(15) 've(16) ever(17) seen(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="13"/>
+		</sentence>
+		<sentence id="18">
+			Ya(1) ,(2) it(3) is(4) pretty(5) and(6) classy(7) and(8) luxurious(9) but(10) it(11) is(12) so(13) technological(14) ...(15) not(16) in(17) a(18) good(19) way(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+			<opinion polarity="+" feature="design" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="5"/>
+		</sentence>
+		<sentence id="19">
+			Ergonomics(1) are(2) nice(3) and(4) the(5) sport(6) seats(7) are(8) very(9) sporty(10) ...(11) which(12) can(13) actually(14) ruin(15) the(16) drive(17) thanks(18) to(19) the(20) suspension(21) .(22) 
+			<opinion polarity="+" feature="seat" featWords="7" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="20">
+			All(1) in_all(2) ,(3) the(4) design(5) is(6) horrific(7) and(8) no(9) one(10) should(11) buy(12) this(13) car(14) on(15) looks(16) ...(17) Drive_The(18) other(19) side(20) of(21) the(22) car(23) which(24) is(25) the(26) love(27) side(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="12"/>
+			<opinion polarity="-" feature="design" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="21">
+			The(1) model(2) my(3) friend(4) somehow(5) allowed(6) me(7) to(8) drive(9) was(10) the(11) V8(12) 550i(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			And(1) what(2) an(3) engine(4) it(5) is(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			It(1) is(2) a(3) show(4) off(5) machine(6) with(7) 300(8) and(9) something(10) horsepower(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			It(1) does(2) guzzle(3) gas(4) but(5) when(6) you(7) 're(8) in(9) this(10) price(11) range(12) that(13) 's(14) not(15) a(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			It(1) was(2) the(3) automatic(4) transmission(5) which(6) was(7) nice(8) ,(9) but(10) boring(11) .(12) 
+			<opinion polarity="-" feature="transmission" featWords="5" opWords="11"/>
+			<opinion polarity="+" feature="transmission" featWords="5" opWords="8"/>
+		</sentence>
+		<sentence id="26">
+			I(1) wish(2) my(3) friend(4) was(5) not(6) so(7) old(8) manish(9) and(10) knew(11) how(12) to(13) have(14) fun(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			Then(1) he(2) would(3) have(4) gotten(5) the(6) beautifully(7) matched(8) 6spd(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			Providing(1) more(2) power(3) from(4) start(5) ,(6) in(7) 6th(8) gear(9) ,(10) than(11) 4(12) of(13) my(14) Honda_Accord(15) engines(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) suspension(2) is(3) firm(4) and(5) sporty(6) and(7) it(8) 's(9) like(10) driving(11) a(12) large(13) coupe(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			Practicality(1) of(2) four(3) doors(4) with(5) the(6) feeling(7) of(8) a(9) tiny(10) ,(11) low(12) coupe(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			Heavenly(1) ...(2) I(3) think(4) .(5) 
+		</sentence>
+		<sentence id="32">
+			Though(1) the(2) steering(3) is(4) spot(5) on(6) the(7) ride(8) is(9) quite(10) uncomfortable(11) .(12) 
+			<opinion polarity="-" feature="ride quality" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="33">
+			It(1) 's(2) the(3) sacrifice(4) you(5) make(6) for(7) sport(8) suspension(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			You(1) feel(2) every(3) bump(4) on(5) the(6) road(7) .(8) 
+		</sentence>
+		<sentence id="35">
+			EVERY(1) BUMP(2) .(3) 
+		</sentence>
+		<sentence id="36">
+			I(1) think(2) it(3) 's(4) worth(5) the(6) loss(7) of(8) comfort(9) for(10) the(11) performance(12) machine(13) capabilities(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			But(1) that(2) is(3) not(4) meeting(5) the(6) needs(7) of(8) the(9) 5(10) series(11) '(12) target(13) audience(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			In(1) fact(2) ,(3) nothing(4) but(5) the(6) engine(7) meets(8) their(9) needs(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			Kind(1) of(2) sad(3) ...(4) I(5) wonder(6) how(7) they(8) completely(9) lost(10) track(11) of(12) business(13) sense(14) when(15) spending(16) this(17) amount(18) of(19) money(20) producing(21) a(22) vehicle(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			Here(1) 's(2) where(3) the(4) car(5) goes(6) completely(7) down(8) the(9) toilet(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			I(1) would(2) not(3) be(4) writing(5) about(6) how(7) this(8) car(9) drives(10) if(11) I(12) did(13) not(14) spend(15) an(16) hour(17) reading(18) the(19) manual(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			The(1) iDrive(2) system(3) caused(4) me(5) to(6) take(7) three(8) hours(9) just(10) to(11) start(12) the(13) car(14) !(15) 
+		</sentence>
+		<sentence id="43">
+			I(1) am(2) fairly(3) technologically(4) handy(5) but(6) this(7) made(8) me(9) want(10) to(11) put(12) it(13) in(14) neutral(15) and(16) push(17) it(18) into(19) a(20) lake(21) .(22) 
+		</sentence>
+		<sentence id="44">
+			It(1) would(2) be(3) hard(4) though(5) without(6) power(7) steering(8) .(9) 
+		</sentence>
+		<sentence id="45">
+			The(1) iDrive(2) system(3) will(4) appear(5) again(6) for(7) me(8) to(9) tell(10) you(11) why(12) I(13) will(14) never(15) drive(16) a(17) BMW(18) with(19) it(20) .(21) 
+		</sentence>
+		<sentence id="46">
+			Safety_Of(1) course(2) this(3) has(4) everything(5) .(6) 
+		</sentence>
+		<sentence id="47">
+			Side(1) ,(2) front(3) ,(4) passenger(5) ,(6) curtain(7) airbags(8) as(9) expected(10) .(11) 
+		</sentence>
+		<sentence id="48">
+			Also(1) all(2) the(3) traction(4) control(5) gizmos(6) and(7) such(8) to(9) make(10) the(11) rear(12) wheel(13) drive(14) bearable(15) during(16) the(17) winter(18) season(19) .(20) 
+		</sentence>
+		<sentence id="49">
+			Although(1) ,(2) with(3) the(4) standard(5) sport(6) tires(7) you(8) will(9) need(10) winter(11) tires(12) no(13) matter(14) what(15) .(16) 
+		</sentence>
+		<sentence id="50">
+			That(1) is(2) a_lot_of(3) money(4) to(5) spend(6) if(7) you(8) choose(9) to(10) lease(11) this(12) car(13) ,(14) but(15) it(16) is(17) a(18) must(19) .(20) 
+		</sentence>
+		<sentence id="51">
+			It(1) has(2) the(3) ABS(4) and(5) all(6) those(7) lovely(8) technological(9) safety(10) providers(11) .(12) 
+		</sentence>
+		<sentence id="52">
+			I(1) can(2) not(3) go(4) into(5) much(6) more(7) detail(8) then(9) telling(10) you(11) that(12) this(13) car(14) is(15) as(16) safe(17) as(18) most(19) cars(20) get(21) .(22) 
+		</sentence>
+		<sentence id="53">
+			It(1) even(2) has(3) a(4) stiff(5) body(6) that(7) feels(8) quite(9) strong(10) .(11) 
+		</sentence>
+		<sentence id="54">
+			Where(1) you(2) lose(3) safety(4) is(5) the(6) stupid(7) iDrive(8) system(9) .(10) 
+		</sentence>
+		<sentence id="55">
+			They(1) make(2) you(3) promise(4) you(5) will(6) not(7) use(8) it(9) when(10) you(11) are(12) moving(13) ,(14) but(15) you(16) need(17) to(18) go(19) through(20) like(21) 2(22) different(23) menus(24) to(25) change(26) the(27) volume(28) .(29) 
+		</sentence>
+		<sentence id="56">
+			My(1) favourite(2) song(3) came(4) on(5) and(6) I(7) needed(8) to(9) ask(10) my(11) friend(12) to(13) turn(14) up(15) the(16) radio(17) .(18) 
+		</sentence>
+		<sentence id="57">
+			If(1) he(2) was(3) not(4) there(5) I(6) would(7) have(8) either(9) missed(10) my(11) favourite(12) song(13) or(14) crashed(15) his(16) new(17) BMW(18) ...(19) again(20) ,(21) why(22) did(23) he(24) let(25) me(26) drive(27) it(28) ?(29) 
+		</sentence>
+		<sentence id="58">
+			And(1) we(2) all(3) know(4) the(5) choice(6) I(7) would(8) have(9) made(10) .(11) 
+		</sentence>
+		<sentence id="59">
+			This(1) car(2) has(3) no(4) practicality(5) to(6) it(7) ...(8) So(9) it(10) 's(11) ugly(12) ,(13) generic(14) ,(15) and(16) confusing(17) ...(18) what(19) next(20) ?(21) 
+			<opinion polarity="-" feature="car" opWords="17"/>
+			<opinion polarity="-" feature="car" opWords="14"/>
+			<opinion polarity="-" feature="design" opWords="12"/>
+		</sentence>
+		<sentence id="60">
+			Reliability_Nope(1) ,(2) I(3) can(4) not(5) be(6) too(7) negative(8) here(9) .(10) 
+		</sentence>
+		<sentence id="61">
+			BMW(1) is(2) known(3) for(4) pretty(5) reliable(6) cars(7) ...(8) pretty(9) close(10) to(11) Japanese(12) engineering(13) ...(14) but(15) still(16) not(17) quite(18) as(19) good(20) .(21) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="62">
+			The(1) issue(2) is(3) when(4) there(5) is(6) a(7) repair(8) ,(9) it(10) will(11) cost(12) you(13) a(14) fortune(15) .(16) 
+		</sentence>
+		<sentence id="63">
+			And(1) despite(2) the(3) amount(4) of(5) money(6) you(7) payed(8) for(9) the(10) car(11) you(12) will(13) be(14) treated(15) no(16) better(17) than(18) how(19) a(20) Honda(21) dealer(22) would(23) if(24) you(25) bought(26) a(27) Civic(28) .(29) 
+		</sentence>
+		<sentence id="64">
+			Though(1) ,(2) Honda(3) dealers(4) I(5) have(6) dealt(7) with(8) are(9) generally(10) astoundingly(11) good(12) with(13) their(14) customers(15) .(16) 
+		</sentence>
+		<sentence id="65">
+			So(1) it(2) 's(3) not(4) a(5) great(6) comparison(7) but(8) it(9) 's(10) a(11) comparison(12) none(13) the(14) less(15) .(16) 
+		</sentence>
+		<sentence id="66">
+			But(1) ya(2) ,(3) pricey(4) repairs(5) are(6) something(7) to(8) watch(9) out(10) for(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+		<sentence id="67">
+			I(1) would(2) be(3) more(4) worried(5) about(6) the(7) iDrive(8) causing(9) you(10) to(11) crash(12) and(13) have(14) to(15) a(16) pay(17) a(18) fortune(19) fixing(20) the(21) body(22) damage(23) .(24) 
+		</sentence>
+		<sentence id="68">
+			Recommendation_Here(1) is(2) the(3) biggest(4) problem(5) for(6) me(7) .(8) 
+		</sentence>
+		<sentence id="69">
+			Generally(1) ,(2) noone(3) likes(4) people(5) who(6) own(7) BMWs(8) .(9) 
+		</sentence>
+		<sentence id="70">
+			BMW(1) owners(2) are(3) classified(4) as(5) heartless(6) business(7) owners(8) ,(9) lawyers(10) ,(11) and(12) accountants(13) .(14) 
+		</sentence>
+		<sentence id="71">
+			Sorry(1) ,(2) but(3) that(4) just(5) shows(6) how(7) much(8) a(9) car(10) impacts(11) people(12) 's(13) opinion(14) of(15) you(16) .(17) 
+		</sentence>
+		<sentence id="72">
+			BMWs(1) are(2) like(3) mowing(4) on(5) the(6) lawn(7) in(8) big(9) letters(10) ,(11) "(12) BUSINESS_IS_GOOD_AND_YOU_ALL_SUCK(13) "(14) .(15) 
+		</sentence>
+		<sentence id="73">
+			Nothing(1) wrong(2) with(3) that(4) ,(5) some(6) people(7) find(8) bragging(9) attractive(10) .(11) 
+		</sentence>
+		<sentence id="74">
+			It(1) depends(2) on(3) your(4) audience(5) .(6) 
+		</sentence>
+		<sentence id="75">
+			Honestly(1) ,(2) knowing(3) I(4) will(5) never(6) be(7) able(8) to(9) afford(10) this(11) car(12) ,(13) I(14) have(15) to(16) tell(17) you(18) that(19) cars(20) for(21) half(22) the(23) price(24) are(25) just(26) as(27) good(28) .(29) 
+		</sentence>
+		<sentence id="76">
+			I(1) would(2) buy(3) an(4) Acura_TL(5) before(6) I(7) bought(8) this(9) .(10) 
+		</sentence>
+		<sentence id="77">
+			But(1) I(2) generally(3) do(4) not(5) care(6) what(7) people(8) think(9) of(10) me(11) since(12) I(13) drive(14) a(15) 1997(16) Accord(17) with(18) Spongebob_Squarepants(19) seat(20) covers(21) .(22) 
+		</sentence>
+		<sentence id="78">
+			I(1) buy(2) cars(3) for(4) what(5) I(6) like(7) and(8) that(9) is(10) what(11) you(12) should(13) do(14) too(15) in(16) this(17) case(18) .(19) 
+		</sentence>
+		<sentence id="79">
+			Mercedes(1) is(2) crap(3) ,(4) and(5) we(6) do(7) not(8) get(9) many(10) luxury(11) italians(12) in(13) this(14) price(15) range(16) .(17) 
+		</sentence>
+		<sentence id="80">
+			To(1) be(2) honest(3) ,(4) I(5) would(6) not(7) bother(8) paying(9) $70-80,000(10) for(11) a(12) 4(13) door(14) sedan(15) .(16) 
+		</sentence>
+		<sentence id="81">
+			I(1) 'd(2) rather(3) buy(4) the(5) Audi(6) S4(7) cabriolet(8) .(9) 
+		</sentence>
+		<sentence id="82">
+			Same(1) price(2) ,(3) but(4) a(5) convertible(6) and(7) almost(8) as(9) powerful(10) engine(11) ((12) smaller(13) car(14) )(15) .(16) 
+		</sentence>
+		<sentence id="83">
+			Similar(1) engineering(2) and(3) a(4) much(5) more(6) attractive(7) car(8) .(9) 
+		</sentence>
+		<sentence id="84">
+			It(1) takes(2) the(3) boring(4) out(5) of(6) Audi(7) .(8) 
+		</sentence>
+		<sentence id="85">
+			So(1) I(2) do(3) not(4) know(5) how(6) to(7) spend(8) that(9) kind(10) of(11) money(12) but(13) I(14) can(15) tell(16) you(17) that(18) if(19) you(20) do(21) not(22) mind(23) a_lot_of(24) flaws(25) and(26) you(27) want(28) a(29) beastly(30) powerful(31) sedan(32) ,(33) this(34) is(35) a(36) good(37) choice(38) .(39) 
+			<opinion polarity="+" feature="horsepower" opWords="31" potency="30"/>
+		</sentence>
+		<sentence id="86">
+			Shop(1) around(2) though(3) ...(4) it(5) is(6) a_lot_of(7) money(8) .(9) 
+		</sentence>
+		<sentence id="87">
+			I(1) 'd(2) rather(3) get(4) 4(5) $20,000(6) cars(7) .(8) 
+		</sentence>
+		<sentence id="88">
+			The(1) choice(2) is(3) yours(4) .(5) 
+		</sentence>
+		<sentence id="89">
+			I(1) will(2) not(3) like(4) you(5) if(6) you(7) buy(8) this(9) car(10) ,(11) but(12) you(13) will(14) not(15) like(16) me(17) because(18) I(19) 'm(20) not(21) rich(22) and(23) can(24) not(25) compete(26) with(27) your(28) money(29) .(30) 
+		</sentence>
+		<sentence id="90">
+			It(1) 's(2) the(3) circle(4) of(5) life(6) .(7) 
+		</sentence>
+		<sentence id="91">
+			I(1) 'm(2) willing(3) to(4) live(5) with(6) it(7) .(8) 
+		</sentence>
+		<sentence id="92">
+			Some(1) people(2) are(3) willing(4) to(5) waste(6) their(7) money(8) on(9) a(10) car(11) like(12) this(13) .(14) 
+		</sentence>
+		<sentence id="93">
+			And(1) so(2) ,(3) from(4) my(5) perspective(6) ,(7) the(8) "(9) not(10) ever(11) able(12) to(13) spend(14) this(15) kind(16) of(17) money(18) "(19) perspective(20) ,(21) do(22) not(23) buy(24) this(25) car(26) !(27) 
+			<opinion polarity="-" feature="car" featWords="26" opWords="23,24"/>
+		</sentence>
+		<sentence id="94">
+			Update(1) :(2) Apparently(3) I(4) got(5) the(6) model(7) wrong(8) ,(9) oh(10) well(11) ,(12) listen(13) ,(14) I(15) 'm(16) obviously(17) not(18) an(19) expert(20) ...(21) I(22) 'm(23) some(24) idiot(25) sitting(26) at(27) my(28) computer(29) with(30) an(31) opinion(32) of(33) a(34) car(35) I(36) drove(37) ...(38) sitting(39) next(40) to(41) the(42) owner(43) of(44) course(45) ...(46) and(47) I(48) 'm(49) telling(50) you(51) ,(52) whether(53) I(54) 'm(55) right(56) or(57) wrong(58) ,(59) what(60) I(61) feel(62) comes(63) with(64) this(65) car(66) ...(67) and(68) I(69) sorry(70) ,(71) my(72) radio(73) story(74) was(75) wrong(76) ,(77) the(78) volume(79) story(80) was(81) a(82) different(83) car(84) ...(85) in(86) this(87) car(88) I(89) hated(90) the(91) song(92) on(93) the(94) radio(95) and(96) wanted(97) to(98) change(99) the(100) channel(101) but(102) I(103) could(104) not(105) ...(106) oops(107) ...(108) also(109) the(110) Audi(111) v8(112) is(113) 340hp(114) and(115) the(116) bimmer(117) is(118) 360hp(119) ...(120) oops(121) again(122) ,(123) it(124) happens(125) ...(126) sorry(127) for(128) the(129) error(130) ...(131) 
+		</sentence>
+	</text>
+</review>

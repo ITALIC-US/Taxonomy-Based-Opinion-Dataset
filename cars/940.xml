@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="940" item="2006 Lexus IS" rating="1">
+	<title>
+		<sentence id="1">
+			If(1) you(2) want(3) a(4) fun(5) car(6) to(7) drive(8) ,(9) DO_NOT(10) buy(11) this(12) car(13) !(14) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) pretty(2) car(3) .(4) 
+			<opinion polarity="+" feature="design" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			The(1) luxury(2) appointments(3) are(4) well(5) done(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) visibility(2) from(3) within(4) and(5) sport(6) shifter(7) is(8) disappointing(9) .(10) 
+			<opinion polarity="-" feature="shifter" featWords="7" opWords="9"/>
+			<opinion polarity="-" feature="visibility" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			2006(1) Lexus_IS(2) 250(3) AWD(4) 5(5) cylinder(6) automatic(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Very(1) stylish(2) .(3) 
+			<opinion polarity="+" feature="design" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			Nice(1) color(2) choices(3) .(4) 
+			<opinion polarity="+" feature="color" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) a(3) Red_Matador(4) model(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) build(3) for(4) a(5) short(6) person(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) 5(3) '(4) 8(5) "(6) and(7) my(8) head(9) is(10) almost(11) touching(12) the(13) roof(14) .(15) Extremely(16) bad(17) visibility(18) from(19) within(20) .(21) With(22) the(23) seat(24) back(25) so_that(26) I(27) fit(28) ,(29) the(30) front(31) column(32) is(33) blocks(34) your(35) a_lot_of(36) your(37) front(38) view(39) .(40) All(41) most(42) all(43) the(44) views(45) sideways(46) have(47) very(48) bad(49) blind(50) spots(51) .(52) This(53) car(54) is(55) very(56) difficult(57) to(58) drive(59) in(60) traffic(61) because(62) with(63) all(64) the(65) blind(66) spots(67) changing(68) lanes(69) is(70) a(71) guess(72) .(73) The(74) sport(75) shifter(76) was(77) a(78) huge(79) disappointment(80) .(81) I(82) have(83) driven(84) manual(85) transmissions(86) for(87) over(88) 30(89) years(90) .(91) The(92) sport(93) shifter(94) is(95) not(96) like(97) a(98) manual(99) transmission(100) .(101) It(102) is(103) like(104) going(105) through(106) the(107) gears(108) of(109) a(110) regular(111) automatic(112) transmission(113) .(114) Bottom(115) line(116) ,(117) if(118) you(119) want(120) a(121) car(122) that(123) is(124) fun(125) to(126) drive(127) ,(128) DO_NOT(129) buy(130) this(131) one(132) .(133) This(134) is(135) just(136) a(137) pretend(138) performance(139) auto(140) .(141) My(142) six(143) year(144) old(145) Honda_Accord(146) with(147) a(148) manual(149) transmission(150) is(151) more(152) fun(153) to(154) drive(155) .(156) After(157) five(158) days(159) I(160) 'm(161) trying(162) to(163) sell(164) the(165) IS(166) 250(167) because(168) it(169) is(170) such(171) a(172) disappointment(173) to(174) drive(175) .(176) 
+			<opinion polarity="+" feature="car" featWords="122" opWords="125"/>
+			<opinion polarity="-" feature="car" featWords="54" opWords="57"/>
+			<opinion polarity="-" feature="visibility" featWords="18" opWords="17"/>
+		</sentence>
+	</text>
+</review>

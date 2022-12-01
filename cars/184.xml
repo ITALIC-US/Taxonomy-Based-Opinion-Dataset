@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="184" item="2003 Mercury Grand Marquis" rating="5">
+	<title>
+		<sentence id="1">
+			38(1) yrs(2) old(3) ....(4) I(5) love(6) this(7) car(8) !(9) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) ride(2) ...(3) like(4) floating(5) on(6) air(7) !(8) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) know(2) of(3) none(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) ,(2) comfortable(3) ,(4) roomy(5) ,(6) smooth(7) riding(8) car(9) !(10) 
+			<opinion polarity="+" feature="ride quality" opWords="7,8"/>
+			<opinion polarity="+" feature="room" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) told(4) that(5) I(6) drive(7) a(8) Granny(9) car(10) ...(11) do(12) I(13) care(14) ?(15) 
+		</sentence>
+		<sentence id="2">
+			NO(1) !(2) 
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) a_second(3) time(4) buyer(5) of(6) a(7) Grand_Marquis(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			My(1) first(2) one(3) I(4) bought(5) used(6) ...(7) a(8) '(9) 95(10) model(11) I(12) purchased(13) in_1998(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) problems(3) I(4) had(5) with(6) that(7) one(8) was(9) the(10) electric(11) windows(12) ...(13) yet(14) I(15) have(16) decided(17) to(18) buy(19) another(20) car(21) of(22) the(23) same(24) make(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) name(2) tells(3) it(4) all(5) "(6) GRAND_MARQUIS(7) "(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) love(2) the(3) roominess(4) and(5) the(6) feel(7) of(8) this(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="2"/>
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) two(3) small(4) children(5) ((6) 3(7) &(8) 5(9) )(10) and(11) this(12) car(13) makes(14) me(15) feel(16) safe(17) driving(18) them(19) around(20) and(21) I(22) have(23) sooo(24) much(25) room(26) .(27) 
+			<opinion polarity="+" feature="safety" opWords="17"/>
+		</sentence>
+		<sentence id="9">
+			The(1) back(2) seat(3) comes(4) with(5) cup(6) holders(7) built(8) in(9) the(10) arm(11) rest(12) and(13) a(14) reading(15) light(16) overhead(17) for(18) each(19) back(20) seat(21) passenger(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			I(1) set(2) my(3) child(4) safety(5) locks(6) on(7) the(8) back(9) door(10) ,(11) strap(12) them(13) in(14) ,(15) and(16) away(17) we(18) go(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) love(2) the(3) climate(4) control(5) feature(6) ...(7) my(8) windows(9) stay(10) clear(11) all(12) the(13) time(14) !(15) 
+			<opinion polarity="+" feature="climate" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) nothing(3) negative(4) to(5) say(6) about(7) this(8) car(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) LS(16) ,(17) climate(18) control(19) ,(20) 6(21) disc(22) cd(23) in(24) trunk(25) 
+		</sentence>
+	</text>
+</review>

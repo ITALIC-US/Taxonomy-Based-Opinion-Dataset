@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="67" item="Sennheiser HD 280 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) cans(2) for(3) the(4) price(5) 
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) does(4) not(5) take(6) much(7) to(8) power(9) them(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Blocks(1) a_lot_of(2) sound(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Alright(1) bass(2) .(3) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) as(2) good(3) as(4) open(5) cans(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) cans(2) for(3) portability(4) ,(5) will(6) not(7) let(8) any(9) sound(10) out(11) or(12) in(13) so(14) great(15) for(16) privacy(17) .(18) 
+			<opinion polarity="+" feature="earcups" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) sound(2) quality(3) .(4) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) first(3) received(4) these(5) cans(6) I(7) put(8) them(9) on(10) ,(11) after(12) using(13) my(14) Sennheiser(15) 497s(16) and(17) I(18) was(19) disappointed(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			They(1) just(2) did(3) not(4) compare(5) to(6) the(7) 497s(8) but(9) I(10) kept(11) reading(12) about(13) having(14) to(15) break(16) them(17) in(18) for(19) at_least(20) 30(21) or(22) 40(23) hours(24) so(25) I(26) left(27) them(28) playing(29) for(30) about(31) 30(32) hours(33) and(34) now(35) they(36) sound(37) much(38) better(39) .(40) 
+		</sentence>
+		<sentence id="3">
+			They(1) do(2) lack(3) the(4) heavy(5) bass(6) but(7) they(8) sound(9) great(10) and(11) do(12) not(13) take(14) a_lot(15) to(16) power(17) them(18) .(19) 
+			<opinion polarity="+" feature="sound quality" opWords="9,10"/>
+		</sentence>
+		<sentence id="4">
+			Although(1) ,(2) if(3) I(4) did(5) not(6) care(7) about(8) keeping(9) the(10) sound(11) in(12) ,(13) I(14) would(15) choose(16) the(17) Sennheiser(18) 497s(19) over(20) these(21) any(22) day(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) quite(3) a_bit(4) cheaper(5) and(6) sound(7) great(8) .(9) 
+			<opinion polarity="+" feature="sound quality" opWords="7,8"/>
+		</sentence>
+		<sentence id="6">
+			I(1) mainly(2) purchased(3) these(4) cans(5) for(6) portability(7) and(8) to(9) use(10) with(11) my(12) notebook(13) computer(14) .(15) 
+		</sentence>
+	</text>
+</review>

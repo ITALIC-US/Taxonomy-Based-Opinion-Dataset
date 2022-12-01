@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="556" item="Sennheiser PXC 250 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) reduction(2) in(3) midrange(4) and(5) low-range(6) noise(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) sound(2) at(3) different(4) volume(5) levels(6) ,(7) great(8) NR(9) for(10) midrange(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			battery(1) pack(2) is(3) a_bit(4) heavy(5) ,(6) and(7) not(8) detachable(9) 
+			<opinion polarity="-" feature="battery" featWords="1" opWords="5" potency="4"/>
+			<opinion polarity="-" feature="battery" featWords="1" opWords="8,9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			For(1) low(2) volume(3) levels(4) ((5) which(6) is(7) where(8) I(9) want(10) to(11) use(12) them(13) )(14) ,(15) the(16) headphones(17) ((18) with(19) noise(20) reduction(21) engaged(22) )(23) have(24) very(25) nice(26) sound(27) .(28) 
+			<opinion polarity="+" feature="sound quality" featWords="27" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="2">
+			Turning(1) the(2) noise(3) suppression(4) off(5) and(6) on(7) is(8) amazing(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) have(3) said(4) that(5) my(6) office(7) was(8) quiet(9) as(10) a(11) tomb(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			It(1) turns(2) out(3) I(4) was(5) just(6) tuning(7) out(8) an(9) amazing(10) amount(11) of(12) machine(13) hum(14) and(15) similar(16) noise(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			With(1) the(2) suppression(3) on(4) ,(5) I(6) can(7) comfortably(8) hear(9) that(10) would(11) otherwise(12) be(13) lost(14) in(15) the(16) background(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Ignore(1) the(2) ads(3) that(4) talk(5) about(6) these(7) blocking(8) out(9) people(10) talking(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			They(1) reduce(2) that(3) sort(4) of(5) noise(6) as_well(7) as(8) most(9) headphones(10) ,(11) which(12) is(13) pretty(14) limited(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Where(1) they(2) shine(3) is(4) in(5) the(6) sort(7) of(8) rumble(9) and(10) roar(11) you(12) get(13) on(14) trains(15) ,(16) planes(17) ,(18) and(19) ((20) surprisingly(21) )(22) in(23) offices(24) .(25) 
+		</sentence>
+	</text>
+</review>

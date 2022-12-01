@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="25" item="1998 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			Fun(1) ,(2) dependable(3) and(4) very(5) safe(6) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+			<opinion polarity="+" feature="safety" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solidly(1) built(2) ,(3) low(4) maintenance(5) ,(6) attractive(7) and(8) handles(9) well(10) in_all(11) kinds(12) of(13) traffic(14) .(15) 
+			<opinion polarity="+" feature="handling" opWords="9,10"/>
+			<opinion polarity="+" feature="design" opWords="7"/>
+			<opinion polarity="+" feature="maintenance" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			did(1) not(2) buy(3) the(4) sunroof(5) ?(6) 
+		</sentence>
+		<sentence id="2">
+			Sorry(1) ,(2) but(3) hard(4) put(5) to(6) find(7) a(8) con(9) about(10) this(11) car(12) .(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) at(5) buying(6) this(7) as(8) a(9) used(10) car(11) for(12) yourself(13) or(14) a(15) family(16) member(17) ,(18) I(19) would(20) strongly(21) recommend(22) this(23) car(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="24" opWords="22" potency="21"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 'm(2) the(3) original(4) owner(5) of(6) my(7) '(8) 98(9) Regal_LS(10) with(11) Grand_Touring_Package(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			She(1) goes(2) by(3) the(4) name(5) of(6) '(7) Regina_the_Royal_Blue_Regal(8) '(9) and(10) she(11) 's(12) still(13) going(14) as(15) strong(16) as(17) the(18) day(19) I(20) bought(21) her(22) off(23) the(24) car(25) show(26) floor(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			I(1) love(2) this(3) car(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			We(1) 've(2) been(3) up(4) and(5) down(6) the(7) west(8) coast(9) repeatedly(10) ,(11) up(12) into(13) Canada(14) and(15) all(16) I(17) have(18) ever(19) had(20) to(21) do(22) is(23) routine(24) maintenance(25) ((26) aka(27) oil(28) change(29) )(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			I(1) never(2) hesitate(3) to(4) set(5) out(6) on(7) a(8) trip(9) with(10) her(11) because(12) after(13) 7(14) years(15) I(16) have(17) never(18) had(19) any(20) problems(21) with(22) this(23) car(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Regina(1) did(2) get(3) into(4) an(5) accident(6) two(7) years(8) ago(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) stopped(3) at(4) a(5) stop(6) light(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			One(1) car(2) to(3) my(4) left(5) ,(6) one(7) to(8) my(9) right(10) ,(11) one(12) in(13) front(14) of(15) me(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			A(1) big(2) old(3) Cadillac(4) was(5) trying(6) to(7) evade(8) the(9) police(10) and(11) plowed(12) into(13) the(14) back(15) of(16) my(17) Regal(18) at(19) approx(20) .(21) 70(22) mph(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) result(2) ?(3) 
+		</sentence>
+		<sentence id="11">
+			The(1) rear(2) bumper(3) split(4) in(5) half(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) trunk(2) lid(3) warped(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			The(1) trunk(2) compartment(3) mushed(4) in(5) about(6) 2(7) "(8) and(9) one(10) taillight(11) was(12) broken(13) .(14) That(15) 's(16) it(17) .(18) The(19) rest(20) of(21) the(22) car(23) was(24) just(25) fine(26) and(27) so(28) was(29) I._You(30) can(31) only(32) guess(33) how(34) it(35) felt(36) to(37) see(38) that(39) caddy(40) coming(41) and(42) know(43) that(44) there(45) was(46) nothing(47) I(48) could(49) do(50) to(51) get(52) out(53) of(54) the(55) way(56) .(57) After(58) going(59) through(60) that(61) and(62) such(63) minor(64) damage(65) ((66) when(67) you(68) consider(69) what(70) could(71) have(72) happened(73) )(74) I_LOVE_THIS_CAR(75) !(76) I(77) always(78) felt(79) safe(80) in(81) her(82) ,(83) but(84) this(85) incident(86) really(87) proved(88) to(89) my(90) just(91) how(92) well(93) built(94) this(95) car(96) was(97) .(98) My(99) only(100) disappointment(101) is(102) that(103) Buick(104) ,(105) for(106) some(107) unknown(108) reason(109) ,(110) discontinued(111) making(112) this(113) car(114) in_2005(115) .(116) I(117) had(118) such(119) a(120) strong(121) love(122) of(123) this(124) line(125) and(126) ,(127) when(128) Regina(129) 's(130) time(131) was(132) over(133) ,(134) had(135) planned(136) on(137) buying(138) another(139) Regal(140) .(141) This(142) is(143) such(144) a(145) great(146) car(147) ,(148) you(149) wonder(150) what(151) the(152) heck(153) Buick(154) was(155) thinking(156) .(157) Amount_Paid(158) ((159) US(160) $(161) )(162) :(163) 22500.00(164) Condition(165) :(166) NewModel_Year(167) :(168) 1998Model(169) and(170) Options(171) :(172) LS(173) w(174) /(175) Grand_Touring_Package(176) 
+			<opinion polarity="+" feature="car" featWords="96" opWords="93,94"/>
+			<opinion polarity="+" feature="car" featWords="147" opWords="146"/>
+		</sentence>
+	</text>
+</review>

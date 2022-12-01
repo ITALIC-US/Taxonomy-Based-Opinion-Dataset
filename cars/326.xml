@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="326" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Honda_Civic_EX(1) 2000(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) fuel(2) economy(3) ,(4) reliable(5) ,(6) low(7) cost(8) 
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			floor(1) mats(2) not(3) standard(4) ,(5) only(6) one(7) speed(8) for(9) intermittent(10) wipers(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) very(4) good(5) car(6) for(7) a(8) small(9) family(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			The(1) honda(2) civic(3) is(4) and(5) always(6) has(7) been(8) a(9) very(10) reliable(11) car(12) .(13) 
+			<opinion polarity="+" feature="reliability" opWords="11"/>
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) is(3) stylish(4) looking(5) and(6) can(7) be(8) customized(9) with(10) many(11) available(12) accessories(13) to(14) make(15) the(16) car(17) very(18) sporty(19) looking(20) .(21) 
+			<opinion polarity="+" feature="design" opWords="19,20"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) is(3) also(4) very(5) good(6) on(7) fuel(8) economy(9) ,(10) it(11) handles(12) well(13) ,(14) and(15) is(16) a(17) comfortable(18) car(19) to(20) drive(21) on(22) long(23) road(24) trips(25) .(26) 
+			<opinion polarity="+" feature="comfort" opWords="18"/>
+			<opinion polarity="+" feature="handling" opWords="12,13"/>
+			<opinion polarity="+" feature="gas" featWords="8,9" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) comes(3) with(4) power(5) door(6) locks(7) and(8) windows(9) and(10) also(11) has(12) a(13) power(14) moonroof(15) with(16) tilt(17) and(18) power(19) mirrors(20) which(21) are(22) all(23) standard(24) features(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			One(1) other(2) standard(3) feature(4) which(5) is(6) a(7) nice(8) feature(9) is(10) the(11) keyless(12) entry(13) system(14) which(15) can(16) include(17) a(18) security(19) system(20) at(21) an(22) additional(23) cost(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) audio(2) system(3) has(4) a(5) cd(6) player(7) with(8) 6(9) high(10) power(11) speakers(12) and(13) a(14) cd(15) changer(16) can(17) also(18) be(19) added(20) at(21) an(22) additional(23) cost(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			This(1) vehicle(2) also(3) comes(4) with(5) A(6) /(7) C(8) and(9) cruise(10) control(11) which(12) are(13) two(14) more(15) standard(16) features(17) included(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			So(1) as(2) you(3) can(4) see(5) you(6) get(7) allot(8) of(9) standard(10) features(11) for(12) one(13) small(14) price(15) which(16) the(17) sticker(18) price(19) on(20) my(21) car(22) with(23) a(24) five(25) speed(26) transmission(27) was(28) a(29) good(30) price(31) for(32) all(33) the(34) standard(35) equipment(36) .(37) 
+			<opinion polarity="+" feature="price" featWords="31" opWords="30"/>
+		</sentence>
+	</text>
+</review>

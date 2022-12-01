@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="308" item="JVC HAFX33P Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) quality(2) ;(3) low(4) price(5) 
+			<opinion polarity="+" feature="headphones" opWords="1,2"/>
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ;(2) good(3) fit(4) ;(5) isolates(6) outside(7) noise(8) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Audio(1) seems(2) "(3) muddy(4) "(5) at(6) times(7) ;(8) sound(9) is(10) not(11) much(12) better(13) than(14) standard(15) earbuds(16) 
+			<opinion polarity="-" feature="sound quality" featWords="1" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) replacement(2) for(3) standard(4) earplugs(5) but(6) will(7) not(8) beat(9) out(10) higher(11) priced(12) models(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Even_though(1) I(2) own(3) a(4) set(5) of(6) Shure(7) SE110(8) earhphones(9) ,(10) I(11) wanted(12) a(13) cheaper(14) set(15) for(16) taking(17) to(18) work(19) or(20) the(21) gym(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			Since(1) these(2) appeared(3) similar(4) to(5) my(6) Shure(7) set(8) ,(9) I(10) figured(11) these(12) would(13) be(14) a(15) good(16) choice(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) picked(2) them(3) up(4) for(5) around(6) $20(7) and(8) expected(9) adequate(10) sound(11) with(12) reasonably(13) good(14) comfort(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="comfort" featWords="15" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) them(3) to(4) fit(5) these(6) standards(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) foam(2) used(3) in(4) the(5) earplug-style(6) phones(7) is(8) slightly(9) hard(10) ,(11) making(12) it(13) difficult(14) to(15) squish(16) them(17) enough(18) to(19) place(20) them(21) inside(22) the(23) ear(24) canal(25) .(26) 
+			<opinion polarity="-" feature="earpads" featWords="2" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) the(3) benefit(4) of(5) using(6) this(7) style(8) means(9) that(10) the(11) sound(12) is(13) closer(14) to(15) your(16) eardrum(17) so(18) you(19) can(20) have(21) a(22) lower(23) listening(24) volume(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Additionally(1) ,(2) the(3) earplug-style(4) means(5) more(6) ambient(7) noise(8) is(9) blocked(10) out(11) vs(12) .(13) earbud-style(14) so(15) you(16) do(17) not(18) have(19) to(20) compensate(21) as(22) much(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) speakers(2) themselves(3) are(4) not(5) the(6) best(7) quality(8) .(9) 
+			<opinion polarity="-" feature="headphones" featWords="2" opWords="5,7"/>
+		</sentence>
+		<sentence id="9">
+			Obviously(1) $20(2) earphones(3) will(4) not(5) compare(6) to(7) $100(8) phones(9) but(10) this(11) model(12) sounded(13) a(14) little(15) muddy(16) .(17) 
+			<opinion polarity="-" feature="sound quality" opWords="13,16" potency="15"/>
+		</sentence>
+		<sentence id="10">
+			Sound(1) quality(2) seems(3) pretty(4) equivalent(5) to(6) the(7) standard(8) iPod(9) earbuds(10) ;(11) you(12) just(13) do(14) not(15) have(16) to(17) turn(18) up(19) the(20) volume(21) as(22) much(23) to(24) hear(25) your(26) music(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			Included(1) in(2) the(3) package(4) is(5) a_second(6) set(7) of(8) "(9) earplugs(10) "(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			I(1) did(2) not(3) notice(4) a(5) size(6) difference(7) so(8) I(9) suspect(10) they(11) are(12) simply(13) replacement(14) plugs(15) rather(16) than(17) for(18) people(19) with(20) small(21) ears(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			There(1) 's(2) not(3) much(4) else(5) to(6) say(7) about(8) these(9) except(10) that(11) my(12) cat(13) loves(14) to(15) chew(16) on(17) them(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			I(1) think(2) he(3) likes(4) the(5) squishiness(6) of(7) the(8) earplugs(9) ,(10) so(11) just(12) beware(13) of(14) your(15) pets(16) .(17) 
+		</sentence>
+	</text>
+</review>

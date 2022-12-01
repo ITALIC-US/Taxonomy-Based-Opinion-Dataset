@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="274" item="Amsterdam Court Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Small_Rooms(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) centrally(3) located(4) ,(5) free(6) continental(7) breakfast(8) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="place" opWords="3,4"/>
+			<opinion polarity="+" feature="food" featWords="8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) room(2) ,(3) 1(4) queen(5) bed(6) ((7) req(8) .(9) 2(10) double(11) beds(12) )(13) slow(14) elevator(15) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="elevator" featWords="15" opWords="14"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) see(2) this(3) hotel(4) suited(5) for(6) business(7) travels(8) who(9) don(10) t(11) mind(12) cramp(13) quarters(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			At(1) home(2) ,(3) I(4) booked(5) the(6) Amsterdam_Court(7) hotel(8) online(9) at(10) united(11) .(12) com(13) ,(14) it(15) was(16) one(17) of(18) the(19) cheaper(20) hotels(21) at(22) $100.00(23) a(24) night(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			I(1) requested(2) 2(3) double(4) beads(5) in(6) my(7) room(8) for(9) the(10) two(11) nights(12) stay(13) ,(14) and(15) completed(16) the(17) transaction(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Upon(1) checking(2) in(3) ,(4) I(5) got(6) the(7) news(8) that(9) my(10) reservation(11) would(12) be(13) the(14) opposite(15) ,(16) one(17) queen(18) bed(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Now(1) ,(2) it(3) is(4) hard(5) to(6) fit(7) a(8) family(9) of(10) four(11) onto(12) one(13) queen(14) bed(15) !(16) 
+		</sentence>
+		<sentence id="5">
+			Our(1) room(2) ((3) on(4) the(5) third(6) floor(7) )(8) was(9) very(10) small(11) and(12) cramp(13) room(14) .(15) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) offered(3) a(4) rollaway(5) bed(6) for(7) $25(8) a(9) night(10) ,(11) but(12) we(13) soon(14) learned(15) that(16) the(17) bed(18) could(19) not(20) fit(21) in(22) the(23) room(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			One(1) more(2) problem(3) was(4) the(5) elevator(6) ,(7) although(8) there(9) were(10) two(11) elevators(12) ,(13) and(14) we(15) ended(16) up(17) using(18) the(19) stars(20) because(21) the(22) elevators(23) were(24) to(25) slow(26) .(27) 
+			<opinion polarity="-" feature="elevator" featWords="23" opWords="26"/>
+		</sentence>
+		<sentence id="8">
+			The(1) hotels(2) staff(3) was(4) not(5) rude(6) nor(7) were(8) thay(9) brimming(10) with(11) happyness(12) ,(13) a(14) small(15) mark-up(16) there(17) .(18) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="5,6"/>
+		</sentence>
+		<sentence id="9">
+			In(1) the(2) hotel(3) was(4) an(5) espresso(6) and(7) coffee(8) machine(9) ready(10) to(11) serve(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			In(1) the(2) morning(3) there(4) was(5) a(6) complementary(7) continental(8) breakfast(9) ,(10) coffee(11) ,(12) orange(13) juice(14) and(15) bagels(16) ,(17) nothing(18) special(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			This(1) hotel(2) was(3) located(4) in(5) a(6) very(7) good(8) place(9) ,(10) across(11) the(12) street(13) from(14) the(15) Gershwen_Theater(16) .(17) 
+			<opinion polarity="+" feature="place" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) only(3) a(4) 15-minute(5) walk(6) to(7) Times_Square(8) and(9) Rockefeller(10) center(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			The(1) subway(2) station(3) is(4) right(5) next(6) door(7) to(8) the(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			I(1) recommend(2) this(3) hotel(4) if(5) you(6) are(7) traveling(8) alone(9) ,(10) the(11) rooms(12) is(13) not(14) large(15) enough(16) to(17) hold(18) more(19) than(20) one(21) person(22) .(23) 
+			<opinion polarity="-" feature="rooms" featWords="12" opWords="14,15,16"/>
+			<opinion polarity="+" feature="hotel" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="15">
+			I(1) do(2) not(3) recommend(4) this(5) hotel(6) if(7) you(8) are(9) looking(10) for(11) large(12) ,(13) spacious(14) ,(15) rooms(16) .(17) 
+			<opinion polarity="-" feature="hotel" featWords="6" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

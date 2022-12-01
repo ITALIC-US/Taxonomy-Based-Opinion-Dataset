@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="969" item="1999 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			Raving(1) Fan_Turned_Raving_Mad_After_Dealing_With_Subaru_Customer_Service(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) all-wheel(2) drive(3) ,(4) braking(5) ,(6) lots(7) of(8) head(9) room(10) and(11) handling(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) transmission(2) ,(3) lots(4) of(5) rattles(6) ,(7) cold(8) weather(9) start-up(10) ,(11) and(12) Subaru(13) 's(14) customer(15) service(16) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) do(3) not(4) care(5) about(6) getting(7) poor(8) service(9) from(10) Subaru(11) then(12) go(13) ahead(14) and(15) buy(16) this(17) vehicle(18) .(19) 
+			<opinion polarity="-" feature="service" featWords="9" opWords="8"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Ever(1) since(2) I(3) bought(4) my(5) first(6) new(7) car(8) ,(9) I(10) have(11) wanted(12) a(13) Subaru(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) frequently(2) travel(3) to(4) Northern_Michigan(5) and(6) needed(7) a(8) vehicle(9) that(10) would(11) handle(12) well(13) on(14) the(15) ice(16) and(17) snow(18) and(19) also(20) be(21) a(22) treat(23) to(24) drive(25) .(26) 
+			<opinion polarity="+" feature="handling" opWords="12,13"/>
+		</sentence>
+		<sentence id="3">
+			After(1) much(2) consideration(3) ,(4) I(5) decided(6) to(7) buy(8) a(9) Subaru_Forester(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) first(3) bought(4) it(5) I(6) was(7) very(8) happy(9) with(10) it(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="5">
+			It(1) had(2) its(3) ideosyncracies(4) like(5) every(6) car(7) ((8) the(9) poorly(10) placed(11) cup(12) holders(13) ,(14) the(15) shakes(16) and(17) rattles(18) on(19) the(20) highway(21) and(22) the(23) time(24) it(25) takes(26) to(27) start(28) up(29) in(30) the(31) cold(32) weather(33) )(34) but(35) all(36) in_all(37) I(38) was(39) in(40) love(41) with(42) the(43) car(44) .(45) 
+			<opinion polarity="+" feature="car" featWords="44" opWords="41"/>
+		</sentence>
+		<sentence id="6">
+			It(1) handled(2) beautifully(3) in(4) the(5) snow(6) ,(7) ice(8) ,(9) rain(10) -(11) it(12) did(13) not(14) matter(15) what(16) the(17) weather(18) was(19) like(20) ,(21) I(22) always(23) felt(24) safe(25) in(26) it(27) .(28) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+			<opinion polarity="+" feature="safety" opWords="25"/>
+		</sentence>
+		<sentence id="7">
+			Then(1) after(2) about(3) 59,000_miles(4) I(5) started(6) to(7) notice(8) that(9) the(10) transmission(11) was(12) slipping(13) more(14) than(15) usual(16) after(17) long(18) trips(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			It(1) always(2) slipped(3) a(4) little(5) when(6) changing(7) gears(8) but(9) never(10) this(11) bad(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) not(3) until(4) about(5) 61,000_miles(6) that(7) it(8) needed(9) to(10) be(11) checked(12) out(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) took(2) it(3) to(4) the(5) Subaru(6) dealership(7) where(8) I(9) bought(10) it(11) and(12) they(13) said(14) nothing(15) was(16) wrong(17) with(18) it(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			They(1) said(2) it(3) was(4) normal(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			I(1) took(2) it(3) home(4) and(5) finally(6) after(7) about(8) 62,000_miles(9) the(10) slipping(11) became(12) unbearable(13) and(14) I(15) took(16) it(17) to(18) the(19) dealership(20) again(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			This(1) time(2) they(3) said(4) something(5) was(6) wrong(7) with(8) it(9) and(10) it(11) would(12) need(13) a(14) new(15) transmission(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Of(1) course(2) I(3) thought(4) that(5) since(6) it(7) had(8) a(9) powertrain(10) warrantee(11) until(12) 60,000_miles(13) it(14) would(15) be(16) no(17) problem(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Wrong(1) !(2) 
+		</sentence>
+		<sentence id="16">
+			They(1) told(2) me(3) that(4) if(5) I(6) had(7) its(8) 30,000_mile(9) checkups(10) done(11) there(12) that(13) they(14) could(15) probably(16) help(17) me(18) out(19) but(20) since(21) I(22) had(23) them(24) done(25) somewhere(26) else(27) they(28) would(29) not(30) help(31) me(32) .(33) 
+		</sentence>
+		<sentence id="17">
+			I(1) told(2) them(3) that(4) I(5) had(6) the(7) receipts(8) for(9) the(10) 30,000_mile(11) check-ups(12) but(13) they(14) said(15) that(16) since(17) I(18) did(19) not(20) have(21) them(22) done(23) at(24) a(25) Subaru(26) authorized(27) dealership(28) the(29) warrantee(30) is(31) void(32) and(33) there(34) is(35) nothing(36) they(37) could(38) do(39) .(40) 
+		</sentence>
+		<sentence id="18">
+			I(1) was(2) livid(3) .(4) 
+		</sentence>
+		<sentence id="19">
+			I(1) only(2) took(3) the(4) car(5) somewhere(6) else(7) because(8) I(9) did(10) not(11) want(12) to(13) pay(14) the(15) $300-400(16) charge(17) for(18) routine(19) maintenance(20) when(21) I(22) could(23) get(24) the(25) same(26) thing(27) done(28) somewhere(29) else(30) for(31) $150(32) .(33) 
+		</sentence>
+		<sentence id="20">
+			I(1) asked(2) to(3) speak(4) with(5) the(6) service(7) manager(8) 's(9) manager(10) and(11) he(12) told(13) me(14) the(15) same(16) thing(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			Then_I(1) called(2) Subaru(3) and(4) they(5) told(6) me(7) the(8) same(9) thing(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			They(1) said(2) it(3) is(4) written(5) in(6) the(7) warrantee(8) part(9) of(10) the(11) owner(12) 's(13) manual(14) and(15) sure(16) enough(17) it(18) was(19) there(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			In(1) the(2) end(3) I(4) ended(5) up(6) trading(7) the(8) car(9) in(10) on(11) a(12) different(13) car(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			Before(1) all(2) the(3) trouble(4) started(5) I(6) raved(7) to(8) people(9) about(10) how(11) great(12) the(13) car(14) was(15) and(16) that(17) I(18) would(19) be(20) buying(21) Subaru(22) 's(23) for(24) the(25) rest(26) of(27) my(28) life(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="25">
+			Now_I(1) 'm(2) driving(3) something(4) else(5) and(6) just(7) raving(8) mad(9) at(10) Subaru(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) L_Model(16) 
+		</sentence>
+	</text>
+</review>

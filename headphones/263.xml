@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="263" item="Grado SR-60 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) mids(2) and(3) highs(4) ,(5) but(6) ...(7) 
+			<opinion polarity="+" feature="mids" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="highs" featWords="4" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Superb(1) highs(2) ,(3) mids(4) ,(5) low(6) coloration(7) 
+			<opinion polarity="+" feature="highs" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="mids" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bass(1) punch(2) near(3) impossible(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Of(1) all(2) the(3) glowing(4) reviews(5) of(6) the(7) SR-60(8) ,(9) I(10) can(11) agree(12) with(13) most(14) of(15) them(16) except(17) where(18) references(19) to(20) low(21) bass(22) response(23) is(24) touted(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Forget(1) about(2) a(3) realistic(4) bass(5) drum(6) through(7) these(8) things(9) ,(10) even(11) at(12) very(13) modest(14) levels(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) diaphragm(2) slaps(3) against(4) the(5) ((6) something(7) )(8) and(9) all(10) you(11) 'll(12) get(13) is(14) an(15) unpleasant(16) "(17) smack(18) "(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			While(1) I(2) still(3) own(4) mine(5) ,(6) for(7) rock(8) listening(9) and(10) studio(11) monitoring(12) I(13) 've(14) replaced(15) them(16) with(17) a(18) set(19) of(20) Sony_MDR-V(21) 6(22) 's(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			I(1) just(2) can(3) not(4) monitor(5) my(6) electronic(7) drums(8) through(9) the(10) Grados(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Wish_I(1) could(2) .(3) 
+		</sentence>
+		<sentence id="7">
+			The(1) Grad(2) 's(3) have(4) vanishing(5) low(6) coloration(7) and(8) superb(9) highs(10) .(11) 
+			<opinion polarity="+" feature="highs" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			Regarding(1) the(2) comfort(3) of(4) the(5) Grados(6) ,(7) I(8) have(9) found(10) them(11) to(12) be(13) extremely(14) comfortable(15) .(16) 
+			<opinion polarity="+" feature="comfort" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="9">
+			As(1) some(2) reviews(3) have(4) mentioned(5) ,(6) you(7) need(8) to(9) shape(10) the(11) headband(12) to(13) your(14) noggin(15) before(16) kicking(17) back(18) with(19) your(20) Absolut_Citron(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) it(3) bears(4) mentioning(5) that(6) the(7) Grad(8) 's(9) do(10) not(11) block(12) ambient(13) noise(14) ,(15) so(16) consider(17) this(18) if(19) it(20) 's(21) an(22) issue(23) .(24) 
+		</sentence>
+	</text>
+</review>

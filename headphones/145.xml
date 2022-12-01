@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="145" item="Panasonic RP-HJE50 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Feeble(1) bass(2) makes(3) these(4) earbuds(5) a(6) questionable(7) choice(8) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) fit(2) ,(3) good(4) high(5) and(6) mid(7) frequency(8) response(9) .(10) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="highs" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="mids" featWords="7" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) low(2) frequency(3) response(4) ,(5) throbbing(6) feedback(7) from(8) the(9) wire(10) into(11) the(12) eardrum(13) .(14) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Pass(1) on(2) these(3) unless(4) you(5) really(6) hate(7) the(8) bass(9) and(10) love(11) the(12) treble(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) had(3) these(4) earbuds(5) for(6) two(7) days(8) and(9) will(10) be(11) returning(12) them(13) based(14) on(15) the(16) following(17) observations(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			These(1) earbuds(2) offer(3) the(4) most(5) comfortable(6) a(7) secure(8) fit(9) ,(10) probably(11) thanks(12) to(13) the(14) rubber(15) fittings(16) which(17) provide(18) both(19) an(20) insulation(21) from(22) the(23) outside(24) noise(25) and(26) traction(27) with(28) the(29) skin(30) .(31) 
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) their(3) strongest(4) feature(5) ,(6) but(7) the(8) list(9) runs(10) out(11) quickly(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) headphones(2) produce(3) a(4) very(5) nice(6) crisp(7) high(8) frequency(9) response(10) ,(11) which(12) gave(13) me(14) an(15) idea(16) of(17) what(18) I(19) was(20) missing(21) with(22) the(23) standard(24) iPod(25) earbuds(26) .(27) 
+			<opinion polarity="+" feature="highs" featWords="8" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="highs" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) the(3) low(4) frequencies(5) are(6) a(7) joke(8) .(9) 
+			<opinion polarity="+" feature="bass" featWords="4,5" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			They(1) sound(2) tinny(3) and(4) feeble(5) ,(6) like(7) a(8) busted(9) speaker(10) on(11) an(12) old(13) radio(14) .(15) 
+			<opinion polarity="-" feature="sound quality" opWords="2,3"/>
+			<opinion polarity="-" feature="sound quality" opWords="2,5"/>
+		</sentence>
+		<sentence id="7">
+			Another(1) funny(2) feature(3) is(4) the(5) stethoscope-like(6) feedback(7) from(8) the(9) wire(10) into(11) the(12) earbud(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			I(1) wonder(2) if(3) it(4) is(5) due(6) to(7) the(8) same(9) rubber(10) fittings(11) that(12) make(13) them(14) fit(15) so(16) nicely(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			You(1) know(2) what(3) I(4) am(5) talking(6) about(7) :(8) you(9) tap(10) on(11) the(12) outside_of(13) the(14) earbud(15) and(16) you(17) get(18) the(19) deep(20) throbbing(21) sound(22) in(23) your(24) eardrum(25) ,(26) like(27) a(28) doctor(29) 's(30) stethoscope(31) makes(32) if(33) you(34) ever(35) tried(36) it(37) .(38) 
+		</sentence>
+		<sentence id="10">
+			While(1) you(2) probably(3) will(4) not(5) be(6) tapping(7) or(8) your(9) earbuds(10) directly(11) ,(12) you(13) get(14) the(15) same(16) sensation(17) simply(18) from(19) the(20) wire(21) banging(22) against(23) your(24) chest(25) ,(26) which(27) happens(28) a_lot(29) when(30) you(31) 're(32) walking(33) with(34) your(35) iPod(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			No(1) fun(2) .(3) 
+		</sentence>
+		<sentence id="12">
+			The(1) earphones(2) come(3) with(4) an(5) extension(6) wire(7) ,(8) which(9) they(10) really(11) need(12) ,(13) as(14) the(15) attached(16) wire(17) is(18) way(19) too(20) short(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) with(3) the(4) attachment(5) it(6) becomes(7) way(8) too(9) long(10) and(11) threatens(12) to(13) catch(14) on(15) your(16) knee(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) more(3) cons(4) than(5) pros(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			Will(1) not(2) work(3) for(4) me(5) .(6) 
+		</sentence>
+	</text>
+</review>

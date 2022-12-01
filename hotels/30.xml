@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="30" item="Bw Westport Park Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) Impressed(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Indoor_Pool(1) ,(2) Complimentary_Breakfast(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) would(2) not(3) stay(4) at(5) this(6) hotel(7) again(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) carpet(2) in(3) the(4) room(5) was(6) dirty(7) and(8) sticky(9) .(10) 
+			<opinion polarity="-" feature="carpets" featWords="2" opWords="7"/>
+			<opinion polarity="-" feature="carpets" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) bathroom(2) was(3) also(4) dirty(5) .(6) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			There(1) was(2) a(3) coffee(4) maker(5) in(6) the(7) room(8) ,(9) but(10) no(11) coffee(12) pot(13) to(14) brew(15) into(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			We(1) stayed(2) a(3) Thursday(4) and(5) Friday_night(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			The(1) Thursday_night(2) was(3) not(4) bad(5) ,(6) but(7) the(8) Friday_night(9) crowd(10) was(11) very(12) loud(13) ,(14) which(15) made(16) it(17) hard(18) to(19) get(20) any(21) sleep(22) .(23) 
+		</sentence>
+	</text>
+</review>

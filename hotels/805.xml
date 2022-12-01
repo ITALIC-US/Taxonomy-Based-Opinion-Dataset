@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="805" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Awesome_Place(1) to(2) Stay_for_Vacation(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			prompt(1) service(2) ,(3) best(4) location(5) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Clean(1) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) had(2) a(3) great(4) time(5) in(6) San_Diego(7) last(8) month(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			And(1) what(2) added(3) to(4) the(5) whole(6) experience(7) was(8) my(9) stay(10) at(11) the(12) California_Suites_Hotel(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			In(1) one(2) word(3) ,(4) I(5) would(6) say(7) that(8) the(9) hotel(10) was(11) amazing(12) .(13) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) a(3) foodie(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			So(1) I(2) loved(3) the(4) delicious(5) breakfast(6) the(7) hotel(8) provided(9) and(10) that(11) too(12) for_free(13) .(14) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="3"/>
+			<opinion polarity="+" feature="food" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) mouth-watering(2) buffet(3) had(4) everything(5) from(6) cereals(7) ,(8) fresh(9) fruits(10) ,(11) fruit(12) spreads(13) ,(14) Danish(15) ,(16) muffins(17) ,(18) bagels(19) ,(20) juices(21) ,(22) espresso(23) ,(24) bread(25) ,(26) cream(27) cheese(28) ,(29) and(30) most(31) importantly(32) my(33) favorite(34) hot(35) chocolate(36) .(37) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			Honestly(1) ,(2) I(3) ate(4) so(5) much(6) there(7) that(8) I(9) must(10) have(11) gained(12) some(13) extra(14) pounds(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Apart_from(1) food(2) ,(3) I(4) loved(5) swimming(6) in(7) the(8) large(9) pool(10) .(11) 
+			<opinion polarity="+" feature="swimming pool" featWords="10" opWords="5"/>
+			<opinion polarity="+" feature="swimming pool" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			Awesome(1) time(2) .(3) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) looking(3) forward(4) to(5) staying(6) here(7) again(8) .(9) 
+		</sentence>
+	</text>
+</review>

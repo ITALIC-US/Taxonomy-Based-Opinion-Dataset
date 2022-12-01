@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="140" item="Griffin Technology EarThumps Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Break(1) easily(2) ,(3) Save(4) your(5) money(6) for(7) better(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) fits(3) pretty(4) well(5) ,(6) blocks(7) a(8) good(9) amount(10) of(11) noise(12) .(13) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="3,5" potency="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			do(1) not(2) last(3) more(4) than(5) a(6) few(7) months(8) ,(9) poorly(10) made(11) .(12) 
+			<opinion polarity="-" feature="durability" opWords="10,11"/>
+		</sentence>
+		<sentence id="2">
+			Muffled(1) sound(2) in(3) ears(4) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) pair(4) in(5) white(6) from(7) buy(8) .(9) com(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			They(1) worked(2) great(3) for(4) about(5) 2(6) months(7) ,(8) block(9) out(10) a(11) good(12) amount(13) of(14) noise(15) ,(16) fit(17) well(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			But(1) after(2) two(3) months(4) the(5) cord(6) started(7) making(8) a(9) static(10) sound(11) when(12) it(13) was(14) moved(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			So(1) as(2) I(3) walked(4) or(5) touched(6) the(7) cord(8) I(9) would(10) hear(11) static(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) emailed(2) the(3) company(4) and(5) they(6) were(7) nice(8) enough(9) to(10) mail(11) replacements(12) after(13) I(14) sent(15) them(16) mine(17) back(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) now(3) another(4) two(5) months(6) later(7) and(8) the(9) same(10) promblem(11) is(12) happening(13) with(14) the(15) replacement(16) pair(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) am(2) not(3) rough(4) with(5) my(6) headphones(7) ,(8) I(9) wear(10) them(11) daily(12) but(13) not(14) rough(15) with(16) them(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			This(1) product(2) is(3) not(4) made(5) to(6) last(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) going(3) to(4) be(5) investing(6) in(7) a(8) more(9) expensive(10) pair(11) that(12) hopefully(13) with(14) last(15) longer(16) .(17) 
+		</sentence>
+	</text>
+</review>

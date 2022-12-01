@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="469" item="Sony MDR-7506 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Could(1) not(2) wear(3) for(4) longer(5) than(6) 1(7) hour(8) without(9) pain(10) on(11) ears(12) .(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) bass(2) response(3) and(4) overall(5) sound(6) quality(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="6,7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			could(1) not(2) wear(3) very(4) long(5) at(6) all(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) I(3) was(4) used(5) to(6) a(7) pair(8) of(9) Sennheiser(10) 280(11) Pro(12) headphones(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			They(1) started(2) to(3) break(4) down(5) a_bit(6) ,(7) cracking(8) on(9) the(10) plastic(11) areas(12) but(13) the(14) sound(15) and(16) comfort(17) was(18) great(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="15" opWords="19"/>
+			<opinion polarity="+" feature="comfort" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="3">
+			I(1) thought(2) that(3) by(4) all(5) the(6) great(7) reviews(8) these(9) would(10) be(11) a(12) great(13) replacement(14) and(15) boy(16) was(17) I(18) wrong(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			They(1) did(2) not(3) sit(4) over(5) my(6) ears(7) but(8) rather(9) 2-3cm(10) short(11) and(12) sat(13) just(14) on(15) the(16) outer(17) ear(18) causing(19) great(20) discomfort(21) on(22) my(23) ears(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			They(1) sounded(2) good(3) ,(4) nothing(5) spectacular(6) but(7) has(8) better(9) bass(10) response(11) than(12) the(13) 280(14) 's(15) I(16) still(17) own(18) .(19) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="6">
+			I(1) ended(2) up(3) selling(4) them(5) right(6) back(7) on(8) ebay(9) for(10) $65(11) for(12) shipping(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			They(1) also(2) did(3) not(4) block(5) out(6) nearly(7) as(8) much(9) ambient(10) noise(11) as(12) the(13) 280(14) pros(15) .(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="725" item="Omni Severin Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Omni_Severin(2) is(3) Looking_Good(4) in_2007(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) public(2) areas(3) ,(4) friendly(5) staff(6) ,(7) great(8) location(9) .(10) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="place" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Kind(1) of(2) expensive(3) ,(4) rooms(5) are(6) just(7) average(8) .(9) 
+			<opinion polarity="-" feature="price" opWords="3" potency="1"/>
+			<opinion polarity="-" feature="rooms" featWords="5" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) great(4) hotel(5) ,(6) provided(7) staying(8) here(9) will(10) not(11) eat(12) up(13) your(14) entire(15) shopping(16) budget(17) .(18) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) love(2) the(3) Omni(4) chain(5) of(6) hotels(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) most(3) part(4) ,(5) this(6) franchise(7) tends(8) to(9) provide(10) a(11) specific(12) standard(13) of(14) quality(15) and(16) reliability(17) without(18) sacrificing(19) character(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Indianapolis(1) s(2) Omni_Severin(3) is(4) no(5) exception(6) to(7) this(8) rule(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			This(1) historic(2) hotel(3) ,(4) originally(5) constructed(6) in_1913(7) ,(8) has(9) recently(10) been(11) renovated(12) and(13) looks(14) better(15) than(16) ever(17) .(18) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="5">
+			On(1) the(2) whole(3) ,(4) Mama_Chelledun(5) and(6) I(7) had(8) a(9) convenient(10) ,(11) luxurious(12) ,(13) and(14) generally(15) pleasant(16) stay(17) at(18) this(19) downtown(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Know(1) Before_You_Go_Mama_Chelledun(2) and(3) I(4) booked(5) our(6) room(7) at(8) the(9) Omni(10) at(11) a(12) rate(13) of(14) $200(15) per(16) night(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) typically(2) take(3) my(4) chances(5) with(6) Hotwire(7) and(8) pay(9) around(10) $50(11) for(12) a(13) night(14) in(15) Indy(16) ,(17) but(18) Mama_Chelledun(19) is(20) a_bit(21) more(22) particular(23) than(24) Mr_chelledun(25) or(26) myself(27) ,(28) so(29) the(30) Omni(31) it(32) was(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			Rates(1) at(2) this(3) hotel(4) tend(5) to(6) be(7) lower(8) on(9) weekends(10) ,(11) and(12) rooms(13) can(14) occasionally(15) be(16) found(17) on(18) websites(19) offering(20) deep(21) discounts(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			Before(1) you(2) head(3) to(4) the(5) Omni(6) ,(7) be(8) sure(9) to(10) join(11) the(12) hotel(13) s(14) frequent(15) visitor(16) club(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			We(1) did(2) this(3) and(4) ,(5) in(6) exchange(7) ,(8) received(9) a(10) free(11) morning(12) newspaper(13) and(14) our(15) choice(16) of(17) beverages(18) delivered(19) with(20) it(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			The(1) Omni(2) is(3) located(4) right(5) in(6) downtown(7) Indy(8) ,(9) adjacent(10) to(11) Circle_Center_Mall(12) and(13) the(14) city(15) s(16) massive(17) convention(18) center(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Valet(1) parking(2) at(3) the(4) hotel(5) costs(6) $16.00(7) for(8) 24(9) hours(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			Overnight(1) rates(2) at(3) nearby(4) garages(5) are(6) closer(7) to(8) $10(9) ,(10) but(11) if(12) you(13) re(14) new(15) to(16) the(17) area(18) particularly(19) ,(20) paying(21) the(22) extra(23) bucks(24) to(25) park(26) at(27) the(28) hotel(29) will(30) help(31) avoid(32) aggravation(33) .(34) 
+		</sentence>
+		<sentence id="14">
+			Rooms_Our(1) room(2) at(3) the(4) Omni(5) was(6) more(7) than(8) adequate(9) in(10) size(11) and(12) spotlessly(13) clean(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="15">
+			The(1) decor(2) can(3) best(4) be(5) described(6) as(7) hotel-elegant(8) ,(9) with(10) plush(11) neutral(12) bedding(13) loaded(14) with(15) piles(16) of(17) pillows(18) .(19) 
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="8"/>
+			<opinion polarity="+" feature="bedding" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="16">
+			We(1) had(2) a(3) desk(4) ,(5) a(6) chair(7) ,(8) and(9) ,(10) supposedly(11) ,(12) wireless(13) internet(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			I(1) didn(2) t(3) have(4) my(5) laptop(6) to(7) test(8) it(9) out(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			I(1) was(2) impressed(3) with(4) the(5) Omni(6) s(7) mini-bar(8) concept(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			Instead_of(1) a(2) cabinet(3) full(4) of(5) ho-hum(6) snacks(7) ,(8) there(9) was(10) an(11) inviting(12) basket(13) full(14) of(15) intriguing(16) goodies(17) ranging(18) from(19) a(20) small(21) rock(22) garden(23) to(24) locally(25) made(26) caramel(27) corn(28) to(29) luxurious(30) bath(31) and(32) body(33) products(34) .(35) 
+			<opinion polarity="-" feature="gardens" featWords="23" opWords="21"/>
+		</sentence>
+		<sentence id="20">
+			Prices(1) weren(2) t(3) even(4) terrible(5) ,(6) as(7) hotel(8) mini(9) bars(10) go(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			I(1) must(2) warn(3) that(4) one(5) will(6) hear(7) some(8) squeaks(9) and(10) clunks(11) from(12) within(13) the(14) Omni(15) s(16) walls(17) ,(18) probably(19) as(20) a(21) result(22) of(23) the(24) hotel(25) s(26) old(27) age(28) .(29) 
+		</sentence>
+		<sentence id="22">
+			Our(1) room(2) had(3) one(4) noisy(5) air-conditioning(6) unit(7) and(8) an(9) equally(10) loud(11) toilet(12) .(13) 
+			<opinion polarity="-" feature="air conditioning units" featWords="6,7" opWords="5"/>
+			<opinion polarity="-" feature="bathroom" featWords="12" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="23">
+			The(1) bathroom(2) was(3) attractively(4) decorated(5) but(6) ,(7) sadly(8) ,(9) a_bit(10) impractical(11) .(12) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="4,5"/>
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="11"/>
+		</sentence>
+		<sentence id="24">
+			Mama_Chelledun(1) and(2) I(3) found(4) ourselves(5) fighting(6) for(7) counter(8) space(9) throughout(10) our(11) stay(12) ,(13) and(14) neither(15) of(16) us(17) even(18) brought(19) many(20) toiletries(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			Presumably(1) the(2) room(3) s(4) setup(5) didn(6) t(7) allow(8) for(9) the(10) big(11) remodel(12) to(13) include(14) a(15) larger(16) sink(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			Shower(1) functionality(2) was(3) fine(4) .(5) 
+		</sentence>
+		<sentence id="27">
+			We(1) had(2) warm(3) water(4) at(5) all(6) times(7) of(8) the(9) day(10) and(11) plenty_of(12) pressure(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			The(1) free(2) toiletries(3) were(4) fine(5) to(6) meet(7) our(8) needs(9) ,(10) but(11) nothing(12) to(13) write(14) home(15) about(16) .(17) 
+			<opinion polarity="+" feature="toiletries" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="toiletries" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="29">
+			The(1) tiny(2) wall-mounted(3) hairdryer(4) didn(5) t(6) work(7) particularly(8) well(9) .(10) 
+		</sentence>
+		<sentence id="30">
+			Public_Areas_I(1) absolutely(2) love(3) the(4) Omni(5) s(6) public(7) areas(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			The(1) hotel(2) s(3) lobby(4) and(5) various(6) meeting(7) /(8) banquet(9) spaces(10) manage(11) to(12) look(13) tasteful(14) and(15) elegant(16) without(17) being(18) bland(19) .(20) 
+		</sentence>
+		<sentence id="32">
+			Think(1) beautiful(2) chandeliers(3) ,(4) ornate(5) carpets(6) ,(7) and(8) brightly(9) colored(10) flower(11) arrangements(12) .(13) 
+			<opinion polarity="+" feature="carpets" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="33">
+			We(1) saw(2) various(3) special(4) events(5) being(6) set(7) up(8) during(9) our(10) stay(11) and(12) ,(13) quiet(14) frankly(15) ,(16) wanted(17) to(18) crash(19) each(20) and(21) every(22) one(23) .(24) 
+		</sentence>
+		<sentence id="34">
+			I(1) hope(2) someone(3) I(4) know(5) gets(6) married(7) at(8) the(9) Omni(10) someday(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			The(1) hotel(2) also(3) has(4) a(5) whopping(6) seventeen(7) meeting(8) rooms(9) ,(10) although(11) they(12) must(13) be(14) tucked(15) away(16) somewhere(17) out(18) of(19) the(20) average(21) visitor(22) s(23) path(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			In(1) other(2) words(3) ,(4) the(5) Omni(6) is(7) a(8) convention(9) hotel(10) that(11) absolutely(12) does(13) not(14) feel(15) like(16) a(17) convention(18) hotel(19) ,(20) which(21) is(22) a(23) rare(24) thing(25) in(26) downtown(27) Indianapolis(28) .(29) 
+		</sentence>
+		<sentence id="37">
+			Lining(1) either(2) side(3) of(4) the(5) hotel(6) s(7) lobby(8) are(9) several(10) different(11) shops(12) and(13) restaurants(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			A(1) gift(2) shop(3) sells(4) typical(5) Indy(6) /(7) Colts(8) paraphernalia(9) .(10) 
+		</sentence>
+		<sentence id="39">
+			We(1) ate(2) breakfast(3) at(4) the(5) hotel(6) s(7) coffee(8) shop(9) ,(10) which(11) offers(12) fruit(13) and(14) pastries(15) at(16) reasonable(17) prices(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="40">
+			The(1) Omni(2) also(3) has(4) an(5) upscale(6) restaurant(7) called(8) Hot_Tuna(9) ,(10) a(11) martini(12) joint(13) called(14) Olives(15) ,(16) and(17) an(18) in-lobby(19) bar(20) .(21) 
+		</sentence>
+		<sentence id="41">
+			Other_Omni(1) amenities(2) include(3) a(4) small(5) workout(6) room(7) that(8) is(9) open(10) full-time(11) and(12) an(13) indoor(14) pool(15) .(16) 
+			<opinion polarity="-" feature="gym" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="42">
+			Service_I(1) was(2) pleased(3) with(4) the(5) Omni(6) s(7) staff(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			We(1) were(2) greeted(3) warmly(4) at(5) check-in(6) ,(7) and(8) the(9) employee(10) we(11) dealt(12) with(13) offered(14) us(15) late(16) check-in(17) when(18) we(19) explained(20) that(21) we(22) had(23) a(24) morning(25) event(26) and(27) would(28) be(29) cutting(30) it(31) close(32) to(33) return(34) by(35) noon(36) .(37) 
+		</sentence>
+		<sentence id="44">
+			The(1) next(2) day(3) ,(4) we(5) took(6) the(7) clerk(8) s(9) recommendation(10) for(11) lunch(12) ((13) the(14) Ram(15) )(16) and(17) had(18) a(19) totally(20) fabulous(21) meal(22) .(23) 
+			<opinion polarity="+" feature="food" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="45">
+			Valet(1) service(2) was(3) fast(4) and(5) friendly(6) both(7) on(8) the(9) way(10) in(11) and(12) out(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			The(1) hotel(2) was(3) more(4) than(5) gracious(6) about(7) holding(8) our(9) bags(10) for(11) a(12) couple(13) of(14) hours(15) post-checkout(16) .(17) 
+		</sentence>
+		<sentence id="47">
+			Overall(1) ,(2) the(3) Omni_Severin(4) seems(5) to(6) run(7) a(8) tight(9) ship(10) and(11) everything(12) went(13) very(14) smoothly(15) during(16) our(17) visit(18) .(19) 
+		</sentence>
+		<sentence id="48">
+			Neighborhood_The_Omni(1) has(2) an(3) absolutely(4) fabulous(5) location(6) .(7) 
+			<opinion polarity="+" feature="place" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="49">
+			It(1) connects(2) to(3) Circle_Center_Mall(4) via(5) a(6) very(7) short(8) walkway(9) .(10) 
+		</sentence>
+		<sentence id="50">
+			Additionally(1) ,(2) the(3) convention(4) center(5) and(6) RCA_Dome(7) can(8) be(9) reached(10) with(11) a(12) five(13) minute(14) walk(15) outside(16) or(17) a(18) ten(19) minute(20) walk(21) inside(22) .(23) 
+		</sentence>
+		<sentence id="51">
+			Monument_Circle(1) is(2) also(3) nearby(4) ,(5) and(6) the(7) zoo(8) and(9) botanical(10) gardens(11) are(12) just(13) a(14) short(15) drive(16) .(17) 
+		</sentence>
+		<sentence id="52">
+			Nearby(1) restaurants(2) include(3) Palomino(4) ,(5) the(6) Ram(7) ,(8) P.F._Chang(9) s(10) ,(11) and(12) various(13) fast(14) food(15) establishments(16) .(17) 
+		</sentence>
+		<sentence id="53">
+			Whether(1) you(2) re(3) heading(4) to(5) a(6) game(7) or(8) spending(9) the(10) weekend(11) shopping(12) ,(13) the(14) Omni(15) has(16) just(17) about(18) the(19) best(20) possible(21) location(22) in(23) downtown(24) Indy(25) .(26) 
+		</sentence>
+		<sentence id="54">
+			Overall_I(1) like(2) the(3) Omni_Severin(4) much(5) better(6) than(7) Indy(8) s(9) similarly(10) priced(11) Westin(12) or(13) Hyatt(14) ,(15) simply(16) because(17) it(18) has(19) more(20) character(21) .(22) 
+		</sentence>
+		<sentence id="55">
+			The(1) rooms(2) aren(3) t(4) necessarily(5) the(6) greatest(7) thanks(8) to(9) certain(10) old-fashioned(11) quirks(12) ,(13) but(14) the(15) overall(16) experience(17) is(18) polished(19) and(20) elegant(21) .(22) 
+		</sentence>
+		<sentence id="56">
+			For(1) a(2) special(3) experience(4) in(5) a(6) great(7) location(8) ,(9) look(10) no(11) further(12) than(13) the(14) Omni_Severin(15) on(16) your(17) next(18) trip(19) to(20) Indy(21) .(22) 
+			<opinion polarity="+" feature="place" featWords="8" opWords="7"/>
+		</sentence>
+	</text>
+</review>

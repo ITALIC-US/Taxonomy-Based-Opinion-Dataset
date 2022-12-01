@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="124" item="1998 Dodge Viper" rating="5">
+	<title>
+		<sentence id="1">
+			"(1) The(2) Paradigm(3) "(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Speed(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Why(1) the(2) Viper(3) ?(4) 
+		</sentence>
+		<sentence id="2">
+			Simply(1) because(2) it(3) is(4) almost(5) an(6) affront(7) to(8) the(9) entire(10) automotive(11) industry(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			While(1) the(2) rest(3) of(4) the(5) pack(6) was(7) loading(8) their(9) vehicles(10) with(11) automatic(12) everything(13) ,(14) the(15) Viper(16) has(17) stuck(18) with(19) manually-adjustable(20) almost(21) everything(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) almost(3) revolutionary(4) when(5) Dodge(6) replaced(7) the(8) plastic(9) side(10) curtains(11) with(12) power(13) windows(14) two(15) years(16) ago(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			In(1) fact(2) ,(3) with(4) 450(5) horsepower(6) at(7) 5,200(8) RPM(9) and(10) 490(11) ft-lb(12) .(13) of(14) torque(15) at(16) 3,700(17) RPM(18) there(19) is(20) enough(21) power(22) for(23) a(24) truck(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Literally(1) ,(2) as(3) the(4) standard(5) V10(6) engine(7) in(8) the(9) Viper(10) is(11) based(12) on(13) the(14) same(15) motor(16) used(17) in(18) Dodge(19) 's(20) most(21) heavy-duty(22) trucks(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			The(1) Viper(2) 's(3) mission(4) ,(5) though(6) ,(7) is(8) to(9) provide(10) amazing(11) performance(12) in(13) an(14) almost-race-car(15) package(16) .(17) .(18) 
+			<opinion polarity="+" feature="performance" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="8">
+			Getting(1) to(2) 60(3) takes(4) no(5) time(6) -(7) 4.9_seconds(8) as(9) tested(10) -(11) and(12) reckless(13) driving(14) ticket(15) speeds(16) are(17) available(18) in(19) second(20) gear(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) six-speed(4) manual(5) transmission(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) Viper(2) is(3) truly(4) a(5) first-rate(6) someday(7) car(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+	</text>
+</review>

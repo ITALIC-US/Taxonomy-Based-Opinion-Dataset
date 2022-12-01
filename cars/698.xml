@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="698" item="2003 Honda CR-V" rating="1">
+	<title>
+		<sentence id="1">
+			Very(1) disappointed(2) with(3) CRV(4) 
+			<opinion polarity="-" feature="car" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			compact(1) size(2) ,(3) easy(4) driving(5) and(6) comfortable(7) riding(8) 
+			<opinion polarity="+" feature="ride quality" opWords="4,5"/>
+			<opinion polarity="+" feature="size" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			gas(1) mileage(2) ,(3) noisy(4) braking(5) ,(6) bad(7) A(8) /(9) C(10) system(11) 
+			<opinion polarity="-" feature="brakes" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Within(1) 3(2) weeks(3) of(4) purchasing(5) the(6) CRV(7) ,(8) I(9) knew(10) I(11) made(12) a(13) wrong(14) choice(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			When(1) shifting(2) from(3) reserve(4) to(5) drive(6) ,(7) the(8) first(9) step(10) on(11) the(12) brake(13) would(14) always(15) make(16) a(17) "(18) clanking(19) "(20) sound(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			The(1) dealer(2) said(3) that(4) was(5) normal(6) ...(7) just(8) tight(9) calipers(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) next(2) year(3) ,(4) the(5) rubber(6) molding(7) around(8) my(9) windshield(10) became(11) brittle(12) and(13) broke(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) dealer(2) said(3) it(4) should(5) not(6) cause(7) any(8) problems(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Last(1) month(2) ,(3) the(4) fan(5) that(6) controls(7) the(8) A(9) /(10) C(11) ,(12) stopped(13) blowing(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) dealer(2) fixed(3) that(4) problem(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Now(1) ,(2) 3(3) weeks(4) later(5) ,(6) the(7) A(8) /(9) C(10) has(11) basically(12) "(13) exploded(14) "(15) and(16) metal(17) shavings(18) are(19) in(20) the(21) system(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			It(1) will(2) cost(3) $3,614(4) to(5) repair(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Ridiculous(1) !(2) 
+		</sentence>
+		<sentence id="11">
+			We(1) 've(2) never(3) had(4) anything(5) like(6) this(7) happen(8) to(9) our(10) 14(11) yr(12) old(13) Toyota_Camry(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) CRV(16) ,(17) AUTOMATIC(18) 
+		</sentence>
+	</text>
+</review>

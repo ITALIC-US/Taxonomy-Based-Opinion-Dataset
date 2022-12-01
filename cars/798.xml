@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="798" item="1998 Mitsubishi 3000GT" rating="2">
+	<title>
+		<sentence id="1">
+			Base(1) model(2) is(3) poor(4) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			looks(1) ,(2) interior(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			breaking(1) around(2) turns(3) ,(4) heavy(5) ,(6) interior(7) is(8) small(9) 
+			<opinion polarity="-" feature="interior" featWords="7" opWords="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) a(4) 1998(5) mitsubishi(6) 3000(7) GT(8) ((9) base(10) model(11) )(12) for(13) a(14) year(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) it(3) brand(4) new(5) with(6) all(7) options(8) including(9) leather(10) and(11) infinity(12) sound(13) system(14) at(15) a(16) great(17) price(18) ((19) with(20) the(21) 100K(22) extended(23) warranty(24) )(25) .(26) 
+			<opinion polarity="+" feature="price" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			Basically(1) this(2) car(3) should(4) have(5) never(6) been(7) made(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Who(1) puts(2) a(3) 160(4) HP(5) v6(6) in(7) a(8) 3350(9) lbs(10) car(11) ?(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) very(3) sluggish(4) and(5) slow(6) off(7) of(8) the(9) line(10) .(11) 
+			<opinion polarity="-" feature="speed" opWords="6"/>
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			Although(1) I(2) found(3) good(4) acceleration(5) ((6) compared(7) to(8) an(9) escort(10) )(11) in(12) 3rd(13) and(14) 4th(15) gears(16) .(17) 
+			<opinion polarity="+" feature="acceleration" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			At(1) first(2) suspension(3) and(4) handling(5) seemed(6) good(7) but(8) only(9) if(10) you(11) are(12) going(13) straight(14) .(15) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="7"/>
+			<opinion polarity="+" feature="suspension" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			It(1) takes(2) corners(3) at(4) higher(5) speeds(6) poorly(7) for(8) a(9) high(10) performance(11) sports(12) car(13) .(14) 
+			<opinion polarity="+" feature="performance" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) if(3) you(4) try(5) to(6) break(7) around(8) a(9) corner(10) ,(11) the(12) breaks(13) lock(14) up(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) had(3) this(4) happen(5) to(6) me(7) three_times(8) all(9) leading(10) to(11) accidents(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			By(1) the(2) way(3) Anti-lock(4) breaks(5) are(6) not(7) even(8) an(9) option(10) on(11) the(12) base(13) model(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			My(1) car(2) did(3) not(4) last(5) long(6) enough(7) for(8) me(9) to(10) test(11) its(12) engine(13) reliability(14) but(15) many(16) electrical(17) parts(18) had(19) to(20) be(21) replaced(22) within(23) the(24) first(25) year(26) .(27) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4,5,6"/>
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) thing(3) going(4) for(5) this(6) car(7) is(8) its(9) looks(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) I(3) would(4) not(5) even(6) consider(7) this(8) a(9) sports(10) car(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			It(1) has(2) a(3) Galant(4) engine(5) ,(6) and(7) lack(8) of(9) antilock(10) brakes(11) in(12) such(13) a(14) heavy(15) car(16) makes(17) it(18) extremely(19) unsafe(20) .(21) 
+			<opinion polarity="-" feature="safety" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="16">
+			It(1) fits(2) two(3) people(4) and(5) maybe(6) a(7) duffle(8) bag(9) in(10) the(11) trunk(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			do(1) not(2) even(3) try(4) to(5) fit(6) a(7) small(8) suitcase(9) in(10) the(11) trunk(12) or(13) a(14) passenger(15) in(16) back(17) seat(18) ((19) unless(20) they(21) are(22) Yoga(23) masters(24) they(25) will(26) not(27) fit(28) )(29) ;(30) even(31) small(32) children(33) complain(34) .(35) 
+		</sentence>
+		<sentence id="18">
+			I(1) learned(2) my(3) lesson(4) ,(5) if(6) you(7) want(8) a(9) 3000(10) GT(11) buy(12) the(13) VR4(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			Now_I(1) know(2) why(3) they(4) discontinued(5) this(6) model(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			It(1) was(2) one(3) of(4) the(5) most(6) unreliable(7) and(8) unsafe(9) cars(10) I(11) have(12) owned(13) .(14) 
+			<opinion polarity="-" feature="safety" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="7"/>
+		</sentence>
+	</text>
+</review>

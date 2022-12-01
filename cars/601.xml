@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="601" item="2000 Toyota Sienna" rating="2">
+	<title>
+		<sentence id="1">
+			Nuisance(1) after(2) nuisance(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			safe(1) ,(2) attractive(3) looking(4) ,(5) nice(6) ride(7) 
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) ,(2) many(3) nuisances(4) ,(5) service(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) the(5) Sienna(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			Based(1) on(2) our(3) experience(4) ,(5) the(6) car(7) is(8) nothing(9) but(10) aggravation(11) that(12) does(13) not(14) look(15) to(16) stop(17) but(18) will(19) ,(20) probably(21) ,(22) continue(23) beyond(24) the(25) 3yr/36K(26) warranty(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) August_2000(2) ,(3) we(4) were(5) considering(6) the(7) Honda_Odyssey(8) or(9) the(10) Toyota_Sienna(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Both(1) were(2) comparable(3) in(4) price(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Availability(1) was(2) the(3) issue--6-8(4) weeks(5) for(6) a(7) Toyota(8) versus(9) 4(10) months(11) for(12) the(13) Honda(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			We(1) went(2) with(3) the(4) Toyota_LE(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) took(3) a_bit(4) longer(5) than(6) expected(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Our(1) dealer(2) ,(3) however(4) ,(5) offered(6) us(7) every(8) car(9) that(10) came(11) onto(12) the(13) lot(14) prior(15) to(16) the(17) arrival(18) of(19) our(20) own(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) night(2) we(3) picked(4) it(5) up(6) ,(7) the(8) trim(9) piece(10) surrounding(11) the(12) ignition(13) fell(14) off(15) as(16) the(17) dealer(18) inserted(19) the(20) key(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) should(2) have(3) refused(4) the(5) car(6) on(7) the(8) spot(9) --(10) an(11) omen(12) --(13) but(14) we(15) were(16) desperate(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Service(1) glued(2) it(3) back(4) on(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			That(1) same(2) week(3) ,(4) as(5) I(6) was(7) driving(8) around(9) in(10) the(11) rain(12) ,(13) the(14) car(15) began(16) to(17) fog(18) up(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) attempted(2) to(3) put(4) the(5) defroster(6) on(7) ...(8) no(9) such(10) luck(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Toyota(1) told(2) me(3) to(4) bring(5) it(6) right(7) in(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) dangerous(3) to(4) drive(5) and(6) I(7) refused(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="14">
+			When(1) we(2) finally(3) brought(4) it(5) in(6) ((7) on(8) a(9) bright(10) ,(11) sunny(12) day(13) )(14) they(15) were(16) unable(17) to(18) replicate(19) the(20) problem(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			And(1) the(2) problem(3) has(4) persisted(5) to(6) this(7) day(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) two(2) 12(3) volt(4) adapters(5) --(6) in(7) the(8) dashboard(9) /(10) lighter(11) area(12) and(13) in(14) the(15) rear(16) --(17) do(18) not(19) work(20) and(21) never(22) have(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			Trim(1) pieces(2) have(3) fallen(4) off(5) throughout(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			A(1) piece(2) of(3) the(4) roof(5) rack(6) blew(7) off(8) on(9) I-95(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			The(1) defroster(2) continues(3) to(4) give(5) me(6) problems(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			While(1) this(2) is(3) all(4) covered(5) under(6) Toyota(7) 's(8) 3yr/36K_mile(9) warranty(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			This(1) is(2) not(3) the(4) car(5) I(6) expected(7) ,(8) given(9) Toyota(10) 's(11) reputation(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			We(1) have(2) had(3) the(4) car(5) serviced(6) only(7) at(8) Toyota(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			So(1) ,(2) I(3) feel(4) it(5) must(6) be(7) a(8) fault(9) with(10) the(11) car(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			Additionally(1) ,(2) we(3) have(4) neighbors(5) and(6) friends(7) with(8) Sienna(9) 's(10) who(11) are(12) quite(13) happy(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="25">
+			And(1) my(2) parents(3) have(4) been(5) pleased(6) with(7) their(8) Corolla(9) and(10) ,(11) most(12) recently(13) ,(14) their(15) Camry(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="26">
+			Which(1) leads(2) me(3) to(4) believe(5) it(6) is(7) our(8) particular(9) car(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			With(1) this(2) thought(3) in(4) mind(5) ,(6) I(7) contacted(8) Toyota_Corporation(9) customer(10) service(11) to(12) inquire(13) about(14) an(15) extended(16) warranty(17) to(18) cover(19) these(20) odd(21) problems(22) after(23) the(24) 3yr/36k(25) warranty(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			Toyota_Corporation(1) than(2) referred(3) me(4) back(5) to(6) our(7) local(8) service(9) department(10) who(11) refused(12) my(13) request(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			Instead(1) they(2) said(3) I(4) could(5) talk(6) to(7) the(8) finance(9) manager(10) to(11) purchase(12) an(13) extended(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			While(1) they(2) agree(3) ,(4) as(5) does(6) the(7) Corporation(8) ,(9) that(10) our(11) car(12) has(13) had(14) more(15) than(16) the(17) average(18) amount(19) of(20) problems(21) --(22) they(23) are(24) of(25) the(26) mindset(27) that(28) mechanical(29) products(30) have(31) problems(32) .(33) 
+		</sentence>
+		<sentence id="31">
+			It(1) is(2) to(3) be(4) expected(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			And(1) ,(2) while(3) I(4) agree(5) with(6) that(7) ,(8) I(9) would(10) like(11) to(12) have(13) LESS(14) problems(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			I(1) would(2) like(3) to(4) be(5) happy(6) like(7) our(8) neighbor(9) ,(10) like(11) our(12) friends(13) ,(14) like(15) my(16) family(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			Our(1) local(2) Toyota(3) has(4) refused(5) to(6) provide(7) us(8) with(9) this(10) courtesy(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			And(1) Toyota_Corporation(2) stands(3) behind(4) them(5) --(6) the(7) decision(8) is(9) final(10) ,(11) so(12) sayeth(13) the(14) Customer_Service_Supervisor(15) at(16) Toyota_Corporation(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			I(1) would(2) not(3) recommend(4) a(5) Toyota(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="37">
+			I(1) wish(2) we(3) had(4) waited(5) for(6) the(7) Odyssey(8) .(9) 
+		</sentence>
+		<sentence id="38">
+			I(1) am(2) very(3) disappointed(4) with(5) Toyota(6) 's(7) customer(8) service(9) attitude(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="39">
+			And(1) I(2) am(3) VERY(4) disappointed(5) with(6) our(7) car(8) .(9) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="40">
+			Thanks(1) for(2) listening(3) and(4) best(5) of(6) luck(7) to(8) you(9) in(10) your(11) minivan(12) search(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Toyota_Sienna_LE(16) 
+		</sentence>
+	</text>
+</review>

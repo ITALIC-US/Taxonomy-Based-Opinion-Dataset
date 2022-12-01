@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="405" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			Quality(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			inexpensive(1) ,(2) easy(3) to(4) maintain(5) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			lacks(1) power(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) silver(4) 1992(5) Saturn(6) SL1(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) brought(2) it(3) second(4) hand(5) and(6) I(7) can(8) declare(9) it(10) a(11) quality(12) vehicle(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) first(3) purchased(4) it(5) in_1997(6) ,(7) many(8) people(9) though(10) it(11) was(12) brand(13) new(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Even(1) today(2) ,(3) people(4) comment(5) on(6) its(7) shape(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			My(1) mechanic(2) told(3) me(4) it(5) was(6) in(7) great(8) shape(9) and(10) should(11) continue(12) to(13) work(14) for(15) 200,000(16) more(17) km(18) ((19) I(20) do(21) not(22) know(23) what(24) that(25) is(26) in(27) miles(28) -(29) Sorry(30) )(31) !(32) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) 190,000(3) km(4) on(5) the(6) car(7) now(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) did(2) however(3) had(4) to(5) get(6) the(7) alternator(8) fixed(9) twice(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) still(3) a(4) gem(5) on(6) gas(7) however(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			I(1) love(2) the(3) polymer(4) panels(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			No(1) rust(2) and(3) no(4) dents(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) a(3) few(4) scratches(5) that(6) were(7) quite(8) easy(9) to(10) buff(11) out(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) is(3) not(4) for(5) a(6) person(7) who(8) enjoys(9) speed(10) and(11) power(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) a(3) great(4) car(5) for(6) commutes(7) to(8) work(9) and(10) relaxing(11) road(12) trips(13) .(14) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</text>
+</review>

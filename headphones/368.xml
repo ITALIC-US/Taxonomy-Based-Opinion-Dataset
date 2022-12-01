@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="368" item="Sony MDR-V700DJ Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Sound(1) great(2) ,(3) built(4) cheap(5) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="2"/>
+			<opinion polarity="-" feature="durability" opWords="4,5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) great(2) ,(3) wonderful(4) sound(5) reproduction(6) ,(7) look(8) slick(9) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="2"/>
+			<opinion polarity="+" feature="sound quality" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="appearance" opWords="8,9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Temporary(1) headphones(2) ...(3) the(4) swivel(5) ear(6) joint(7) breaks(8) after(9) a(10) few(11) years(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) the(2) short(3) and(4) quick(5) version(6) ....(7) I(8) got(9) these(10) headphones(11) to(12) replace(13) my(14) MDR-7506(15) studio(16) monitors(17) ....(18) for(19) doing(20) turntable(21) mixing(22) and(23) wanted(24) a(25) more(26) dj(27) oriented(28) headphone(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			So(1) they(2) serve(3) me(4) wonderfully(5) for(6) about(7) 2(8) 1/2(9) years(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Eventually(1) the(2) plastic(3) swivel(4) joint(5) on(6) the(7) ear(8) cracks(9) and(10) the(11) speaker(12) falls(13) off(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			As(1) I(2) sit(3) here(4) and(5) write(6) this(7) ,(8) my(9) 700(10) 's(11) are(12) donned(13) by(14) high(15) performance(16) rubber(17) bands(18) and(19) jb(20) weld(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Like(1) I(2) said(3) ,(4) the(5) sound(6) of(7) the(8) headphones(9) is(10) absolutely(11) stellar(12) .(13) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) think(4) I(5) 've(6) heard(7) a(8) better(9) set(10) before(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			And(1) that(2) 's(3) whats(4) so(5) disappointing(6) .....(7) such(8) a(9) great(10) device(11) in(12) such(13) a(14) cheap(15) shell(16) .....(17) I(18) will(19) be(20) replacing(21) them(22) with(23) a(24) pair(25) of(26) MDR-7509(27) 's(28) ,(29) the(30) studio(31) monitor(32) model(33) .(34) 
+			<opinion polarity="+" feature="headphones" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			Same(1) exact(2) headphone(3) internals(4) ,(5) better(6) ,(7) more(8) comfortable(9) ,(10) and(11) MOST_IMPORTANTLY_NO_SWIVEL_EAR_THINGEY(12) .(13) 
+		</sentence>
+	</text>
+</review>

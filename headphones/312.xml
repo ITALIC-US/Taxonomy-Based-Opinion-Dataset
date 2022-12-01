@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="312" item="Maxell HP-NC1 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) bad(2) for(3) home(4) use(5) 
+			<opinion polarity="+" feature="headphones" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) for(2) what(3) you(4) get(5) ,(6) good(7) sound(8) quality(9) ,(10) very(11) long(12) battery(13) life(14) .(15) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="8,9" opWords="7"/>
+			<opinion polarity="+" feature="battery life" featWords="13,14" opWords="12" potency="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Adds(1) background(2) hiss(3) ,(4) poor(5) durability(6) .(7) 
+			<opinion polarity="-" feature="durability" featWords="6" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) used(2) these(3) noise(4) cancellation(5) headphones(6) on(7) my(8) PC(9) and(10) my(11) CD_Walkman(12) usually(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			These(1) headphones(2) do(3) neutralize(4) most(5) background(6) noise(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) it(3) adds(4) some(5) hiss(6) to(7) the(8) background(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) was(4) good(5) with(6) noise(7) cancellation(8) on(9) or(10) off(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) I(3) just(4) had(5) to(6) buy(7) replacement(8) headphones(9) because(10) the(11) wire(12) broke(13) .(14) 
+			<opinion polarity="-" feature="cord" featWords="12" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			I(1) did(2) not(3) abuse(4) these(5) ,(6) but(7) I(8) do(9) air(10) travel(11) ,(12) which(13) is(14) rough(15) on(16) any(17) carry-on(18) items(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) wire(2) noise(3) cancellation(4) switch(5) and(6) battery(7) compartment(8) are(9) in(10) the(11) middle(12) of(13) the(14) long(15) wire(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			In(1) short(2) range(3) use(4) ,(5) the(6) compartment(7) drags(8) on(9) the(10) floor(11) or(12) hangs(13) ,(14) pulling(15) on(16) the(17) wire(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Over(1) time(2) ,(3) the(4) wire(5) separated(6) from(7) the(8) compartment(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			So(1) ,(2) I(3) recommend(4) these(5) for(6) situations(7) where(8) they(9) can(10) be(11) treated(12) gently(13) -(14) not(15) for(16) frequent(17) flying(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Besides(1) ,(2) they(3) 're(4) pretty(5) big(6) for(7) headphones(8) .(9) 
+			<opinion polarity="-" feature="size" opWords="6" potency="5"/>
+		</sentence>
+	</text>
+</review>

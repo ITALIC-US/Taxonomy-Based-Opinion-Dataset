@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="323" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) car(2) .(3) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Extremely(1) powerful(2) little(3) engine(4) ,(5) great(6) suspension(7) .(8) 
+			<opinion polarity="+" feature="suspension" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="engine" featWords="4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Hard(1) as(2) nails(3) paint(4) job(5) and(6) dent(7) resistance(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poorly(1) designed(2) windows(3) and(4) locks(5) .(6) 
+			<opinion polarity="-" feature="window" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) Saturn(4) SL1(5) and(6) was(7) one(8) of(9) the(10) first(11) 500(12) buyers(13) at(14) the(15) dealership(16) that(17) I(18) bought(19) it(20) from(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) shopped(3) all(4) over(5) and(6) I(7) could(8) not(9) find(10) anything(11) within(12) the(13) $10-15,000(14) price(15) range(16) that(17) was(18) worth(19) anything(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) owned(2) it(3) for(4) seven(5) years(6) and(7) never(8) had(9) a_real(10) problem(11) with(12) it(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Driving_the_Saturn(1) was(2) good(3) ,(4) not(5) perfect(6) ,(7) but(8) superb(9) for(10) the(11) price(12) ((13) $14,700(14) )(15) that(16) I(17) paid(18) for(19) it(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) suspension(2) was(3) excellent(4) ,(5) but(6) the(7) engine(8) was(9) a_bit(10) noisy(11) .(12) 
+			<opinion polarity="-" feature="engine" featWords="8" opWords="11"/>
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) we(3) had(4) some(5) minor(6) difficulties(7) such(8) as(9) the(10) seat(11) belts(12) froze(13) up(14) and(15) the(16) locks(17) and(18) windows(19) had(20) certain(21) problems(22) ,(23) and(24) had(25) to(26) get(27) the(28) stereo(29) replaced(30) within(31) the(32) first(33) couple(34) of(35) months(36) ,(37) but(38) nothing(39) that(40) big(41) was(42) wrong(43) with(44) it(45) .(46) 
+		</sentence>
+		<sentence id="7">
+			I(1) live(2) in(3) Colorado(4) and(5) as(6) anyone(7) who(8) has(9) ever(10) been(11) here(12) for(13) any(14) extent(15) of(16) time(17) may(18) very(19) well(20) know(21) ,(22) some(23) of(24) the(25) mountain(26) roads(27) are(28) tough(29) to(30) get(31) over(32) .(33) 
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) drive(3) over(4) the(5) Vail_Summit(6) and(7) other(8) passes(9) that(10) slowed(11) most(12) cars(13) to(14) a(15) near(16) halt(17) ;(18) but(19) my(20) Saturn(21) passed(22) them(23) all(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Left(1) them(2) in(3) the(4) dust(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) greatly(3) recommend(4) the(5) Saturn_SL(6) 1(7) to(8) anyone(9) who(10) lives(11) in(12) this(13) sort(14) of(15) climate(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="11">
+			Also(1) ,(2) the(3) front(4) wheel(5) drive(6) brought(7) driving(8) in(9) the(10) snow(11) to(12) new(13) heights(14) as(15) it(16) is(17) almost(18) required(19) out(20) here(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			I(1) loved(2) that(3) car(4) ,(5) but(6) unfortunately(7) I(8) wrecked(9) it(10) on(11) the(12) side(13) of(14) the(15) road(16) as(17) I(18) was(19) driving(20) home(21) from(22) Las_Vegas(23) way(24) to(25) fast(26) I(27) suppose(28) ;(29) but(30) that(31) 's(32) another(33) story(34) :(35) -(36) )(37) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="395" item="Pioneer SE-DIR800C Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Good_Alternate(1) to(2) a(3) Home_Theater(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Build_Pioneer_Product(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			Recharger(1) and(2) batteries(3) are(4) included(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) !(2) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) start(3) of(4) by(5) saying(6) no(7) Dolby(8) or(9) surround(10) headphones(11) can(12) ever(13) compete(14) with(15) a(16) full(17) fledge(18) home(19) theater(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			That(1) being(2) said(3) the(4) Pioneer(5) SE-DIR800C(6) come(7) pretty(8) darn(9) close(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Sure(1) they(2) can(3) not(4) replicate(5) the(6) LFE_of_a_Subwoofer(7) but(8) the(9) sound(10) is(11) very(12) crisp(13) and(14) while(15) I(16) was(17) listening(18) and(19) watching(20) I(21) was(22) totally(23) immeresed(24) .(25) 
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="4">
+			The(1) headphones(2) are(3) nice(4) and(5) comfortable(6) .(7) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			The(1) base(2) unit(3) allows(4) another(5) wired(6) headphone(7) to(8) be(9) hooked(10) up(11) so(12) two(13) or(14) more(15) people(16) can(17) enjoy(18) it(19) as_well(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			That(1) being(2) said(3) along_with(4) the(5) legendary(6) Pioneer_Craftmanship_I(7) am(8) thinkign(9) I(10) will(11) enjoying(12) these(13) for(14) a(15) long(16) time(17) to(18) come(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Highest(1) recommendation(2) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="45" item="1997 Honda Odyssey" rating="4">
+	<title>
+		<sentence id="1">
+			doesnt(1) drive(2) like(3) a(4) van(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handles(1) great(2) 
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			?(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) vehicle(2) is(3) great(4) if(5) you(6) own(7) children(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) two(2) door(3) feature(4) helps(5) when(6) you(7) have(8) kids(9) climbing(10) in(11) and(12) out(13) of(14) the(15) vehicle(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) turning(2) ability(3) is(4) surprisingly(5) easy(6) and(7) not(8) like(9) I(10) had(11) expected(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			All(1) of(2) the(3) back(4) seats(5) can(6) be(7) slid(8) back_and_forth(9) or(10) can(11) be(12) taken(13) out(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) seats(2) are(3) on(4) wheels(5) so(6) after(7) you(8) disengage(9) their(10) locking(11) system(12) they(13) roll(14) out(15) easily(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) enough(3) seat(4) belts(5) to(6) fit(7) seven(8) people(9) but(10) the(11) leg(12) and(13) cargo(14) space(15) are(16) still(17) huge(18) .(19) 
+			<opinion polarity="+" feature="trunk space" featWords="14,15" opWords="18"/>
+			<opinion polarity="+" feature="leg room" featWords="12,15" opWords="18"/>
+		</sentence>
+		<sentence id="7">
+			The(1) seat(2) are(3) interchangeable(4) so(5) you(6) can(7) put(8) the(9) three(10) person(11) bench(12) seat(13) in(14) the(15) middle(16) of(17) the(18) van(19) and(20) have(21) a(22) huge(23) cargo(24) space(25) in(26) the(27) back(28) with(29) only(30) giving(31) up(32) two(33) seats(34) .(35) 
+			<opinion polarity="+" feature="trunk space" featWords="24,25" opWords="23"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			This(1) Van(2) is(3) a(4) must(5) have(6) for(7) all(8) families(9) with(10) two(11) or(12) more(13) kids(14) who(15) need(16) space(17) and(18) love(19) to(20) travel(21) by(22) road(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) trunk(2) on(3) this(4) van(5) is(6) great(7) ,(8) it(9) is(10) spacious(11) and(12) can(13) be(14) adjusten(15) easily(16) space(17) wise(18) by(19) sliding(20) the(21) seats(22) forward(23) .(24) 
+			<opinion polarity="+" feature="trunk" featWords="9" featRef="trunk" opWords="11"/>
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="7"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="32" item="1998 Lexus ES 300" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) Nice_Toyota(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) car(2) ,(3) because(4) it(5) 's(6) a(7) Lexus(8) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			too(1) much(2) like(3) the(4) Camry(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) this(3) is(4) a(5) nice(6) car(7) and(8) all(9) that(10) ,(11) but(12) why(13) not(14) just(15) get(16) a(17) toyota(18) camry(19) xle(20) v6(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) basically(3) the(4) same(5) thing(6) as(7) the(8) es300(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Thought(1) it(2) is(3) not(4) totally(5) like(6) the(7) Camry(8) ,(9) it(10) has(11) a(12) better(13) engine(14) and(15) a(16) smoother(17) ride(18) ,(19) but(20) that(21) is(22) the(23) main(24) difference(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			You(1) are(2) basically(3) paying(4) for(5) the(6) Lexus(7) name(8) ,(9) not(10) the(11) car(12) .(13) also(14) ,(15) the(16) shape(17) is(18) slightly(19) ugly(20) .(21) 
+			<opinion polarity="-" feature="design" featWords="17" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) reason(3) I(4) would(5) get(6) it(7) is(8) for(9) it(10) 's(11) ahah(12) !(13) factor(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) up(2) side(3) of(4) this(5) car(6) is(7) that(8) it(9) has(10) class(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			You(1) feel(2) its(3) nice(4) when(5) you(6) sit(7) in(8) it(9) ,(10) but(11) that(12) is(13) the(14) same(15) feeling(16) in(17) a(18) camry(19) .(20) 
+		</sentence>
+	</text>
+</review>

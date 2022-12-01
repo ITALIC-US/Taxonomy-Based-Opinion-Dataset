@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="169" item="1993 Buick LeSabre" rating="5">
+	<title>
+		<sentence id="1">
+			This(1) is(2) a(3) great(4) car(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Well(1) made(2) ,(3) easy(4) to(5) maintain(6) .(7) 
+			<opinion polarity="+" feature="maintenance" opWords="4,5,6"/>
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) low(2) to(3) the(4) ground(5) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			As(1) a(2) person(3) who(4) works(5) on(6) cars(7) ,(8) I(9) am(10) particular(11) about(12) which(13) ones(14) I(15) drive(16) or(17) own(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) seen(3) many(4) of(5) them(6) I(7) would(8) not(9) take(10) for_free(11) ,(12) much(13) less(14) pay(15) an(16) exorbitant(17) amount(18) of(19) money(20) for(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) the(3) 1993(4) Buick_LeSabre(5) is(6) a(7) vehicle(8) I(9) would(10) recommend(11) to(12) anyone(13) for(14) a(15) variety(16) of(17) reasons(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) the(3) use(4) of(5) this(6) car(7) for(8) long(9) road(10) trips(11) .(12) {(13) My(14) personal(15) vehicle(16) is(17) a(18) Pontiac(19) T-1000(20) is(21) rather(22) confining(23) for(24) a(25) long(26) trip(27) .(28) }(29) Additionally(30) ,(31) I(32) have(33) driven(34) it(35) day(36) to(37) day(38) while(39) mine(40) was(41) being(42) repaired(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a(3) well-made(4) vehicle(5) which(6) has(7) cost(8) us(9) very(10) little(11) to(12) maintain(13) over(14) the(15) years(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) recently(2) took(3) a(4) long(5) road(6) trip(7) to(8) Eastern_Pa(9) .(10) and(11) Delaware(12) ,(13) and(14) with(15) the(16) cruise(17) control(18) activated(19) ,(20) I(21) got(22) excellent(23) mileage(24) ,(25) which(26) is(27) especially(28) important(29) with(30) the(31) higher(32) gas(33) prices(34) this(35) year(36) .(37) 
+		</sentence>
+		<sentence id="7">
+			With(1) this(2) ,(3) it(4) is(5) an(6) extremely(7) comfortable(8) car(9) ,(10) with(11) seats(12) which(13) can(14) be(15) adjusted(16) to(17) suit(18) anyone(19) 's(20) tastes(21) .(22) 
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			It(1) has(2) an(3) easy(4) to(5) read(6) dash(7) panel(8) and(9) is(10) easy(11) to(12) handle(13) at(14) high(15) speed(16) on(17) turnpikes(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) found(3) that(4) I(5) 'm(6) not(7) as(8) exhausted(9) after(10) driving(11) for(12) four(13) hours(14) as(15) I(16) was(17) in(18) another(19) vehicle(20) I(21) owned(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) drawback(3) I(4) have(5) found(6) with(7) the(8) LeSabre(9) is(10) that(11) it(12) is(13) a(14) little(15) low(16) to(17) the(18) ground(19) and(20) thus(21) ,(22) one(23) has(24) to(25) be(26) careful(27) not(28) to(29) hit(30) large(31) potholes(32) or(33) go(34) over(35) curbs(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			While(1) this(2) is(3) not(4) something(5) which(6) occurs(7) often(8) ,(9) I(10) really(11) do(12) not(13) like(14) any(15) car(16) which(17) is(18) too(19) low(20) to(21) the(22) ground(23) .(24) 
+			<opinion polarity="-" feature="car" featWords="16" opWords="19,20"/>
+		</sentence>
+		<sentence id="12">
+			Otherwise(1) ,(2) this(3) is(4) a(5) great(6) car(7) to(8) drive(9) whether(10) for(11) long(12) trips(13) or(14) just(15) going(16) to(17) the(18) plaza(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

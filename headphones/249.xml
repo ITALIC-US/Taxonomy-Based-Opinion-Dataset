@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="249" item="Audiovox JF-25 Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) ,(4) Jensen(5) is(6) a(7) robber(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) styling(2) ,(3) comfortable(4) for(5) a(6) time(7) ,(8) nice(9) price(10) 
+			<opinion polarity="+" feature="appearance" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) service(2) ,(3) jensen(4) steals(5) your(6) headphones(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			DO(1) NOT_BUY(2) ,(3) not(4) worth(5) the(6) time(7) or(8) aggeravation(9) !(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			it(1) seemed(2) good(3) ,(4) till(5) the(6) magnet(7) broke(8) apart(9) ,(10) i(11) sent(12) it(13) back(14) to(15) jensen(16) to(17) get(18) fixed(19) ,(20) due(21) to(22) the(23) lifetime(24) waranty(25) ,(26) but(27) they(28) either(29) have(30) gone(31) bankrupt(32) ,(33) or(34) are(35) stealing(36) headphones(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) not(3) worth(4) the(5) time(6) or(7) the(8) money(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) brought(3) the(4) headphones(5) about(6) two(7) months(8) beforehand(9) ,(10) and(11) contacted(12) jensen(13) about(14) the(15) messed(16) up(17) magnet(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) been(3) satisified(4) with(5) the(6) product(7) ,(8) so(9) I(10) contacted(11) the(12) company(13) in_order_to(14) fix(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			They(1) told(2) me(3) it(4) would(5) take(6) about(7) 2-4(8) weeks(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			About(1) 4(2) months(3) later(4) ,(5) I(6) still(7) have(8) no(9) headphones(10) and(11) I(12) 'm(13) tired(14) of(15) waitin(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Buy(1) something(2) else(3) ,(4) others(5) have(6) the(7) same(8) problem(9) with(10) jensen(11) ,(12) and(13) the(14) quality(15) of(16) the(17) product(18) and(19) all(20) other(21) jensen(22) and(23) rocoton(24) products(25) lack(26) the(27) quality(28) that(29) buyers(30) would(31) need(32) .(33) 
+		</sentence>
+	</text>
+</review>

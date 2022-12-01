@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="868" item="2001 Mercedes-Benz S-Class" rating="1">
+	<title>
+		<sentence id="1">
+			At_Last(1) ,(2) A(3) Real_Mercedes_Sports_Car(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Retractable(1) hardtop(2) ,(3) lots(4) of(5) wood(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) a(3) Mercedes(4) !(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad_Transmission(1) ,(2) terrible(3) suspension(4) ,(5) over-powered(6) 
+			<opinion polarity="+" feature="horsepower" opWords="6"/>
+			<opinion polarity="-" feature="suspension" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) it(4) .(5) 
+			<opinion polarity="-" feature="car" featWords="4" featRef="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) buy(3) it(4) ,(5) do(6) not(7) drive(8) it(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) drive(3) it(4) ,(5) remember(6) ,(7) it(8) 's(9) not(10) a(11) sports(12) car(13) !(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Mercedes_Benz(1) has(2) long(3) trumpeted(4) its(5) reputation(6) for(7) innovative(8) automotive(9) engineering(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Its(1) latest(2) achievement(3) is(4) the(5) 2001(6) SLK320(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Beefing(1) up(2) the(3) SLK280(4) with(5) the(6) old(7) workhorse(8) 320(9) engine(10) has(11) produced(12) a(13) remarkable(14) automobile(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="4">
+			The(1) throaty(2) roar(3) as(4) the(5) engine(6) winds(7) up(8) in(9) each(10) gear(11) ((12) yes(13) ,(14) a(15) six(16) speed(17) manual(18) is(19) finally(20) available(21) )(22) will(23) bring(24) forth(25) a(26) wave(27) of(28) nostalgia(29) to(30) anyone(31) who(32) ever(33) drove(34) Jaguar(35) s(36) XKE(37) ((38) when(39) it(40) was(41) actually(42) running(43) ,(44) that(45) is(46) )(47) .(48) 
+		</sentence>
+		<sentence id="5">
+			Another(1) engineering(2) miracle(3) is(4) the(5) retractable(6) hard(7) top(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			I(1) actually(2) had(3) friends(4) put(5) the(6) top(7) up(8) and(9) down(10) while(11) I(12) stood(13) to(14) the(15) side(16) and(17) admired(18) this(19) epitome(20) of(21) German(22) engineering(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Not(1) since(2) the(3) 1957(4) Ford_Sunliner(5) has(6) a(7) retractable(8) hardtop(9) been(10) available(11) ((12) the(13) Lexus(14) 430(15) was(16) not(17) around(18) yet(19) )(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			One(1) would(2) think(3) that(4) with(5) all(6) of(7) these(8) innovations(9) ,(10) this(11) car(12) would(13) represent(14) an(15) outstanding(16) sports(17) car(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="18" opWords="16"/>
+		</sentence>
+		<sentence id="9">
+			Forget(1) it(2) !(3) 
+		</sentence>
+		<sentence id="10">
+			This(1) is(2) definitely(3) not(4) a(5) sports(6) car(7) !(8) 
+		</sentence>
+		<sentence id="11">
+			Anyone(1) attempting(2) to(3) put(4) this(5) car(6) through(7) heavy(8) cornering(9) will(10) soon(11) discover(12) this(13) fact(14) occasionally(15) too(16) late(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) put(2) over(3) 100,000_miles(4) on(5) a(6) Porsche(7) 911(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			I(1) spent(2) many(3) happy(4) hours(5) winding(6) through(7) hills(8) in(9) my(10) 911(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			To(1) paraphrase(2) Lloyd_Benson(3) ,(4) this(5) car(6) is(7) no(8) Porsche(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			What(1) these(2) Teutonic(3) morons(4) have(5) done(6) is(7) take(8) a(9) basically(10) unstable(11) frame(12) design(13) ,(14) overpower(15) it(16) with(17) engine(18) ,(19) add(20) a(21) computerized(22) ESP(23) suspension(24) ((25) which(26) has(27) a(28) nasty(29) habit(30) of(31) taking(32) control(33) of(34) the(35) car(36) at(37) crucial(38) moments(39) )(40) ,(41) coupled(42) it(43) to(44) the(45) worst(46) manual(47) transmission(48) man(49) has(50) ever(51) devised(52) and(53) unleashed(54) it(55) on(56) the(57) driving(58) public(59) .(60) 
+		</sentence>
+		<sentence id="16">
+			The(1) manual(2) transmission(3) is(4) so(5) loose(6) and(7) sloppy(8) that(9) it(10) reminded(11) me(12) of(13) an(14) old(15) International_Harvester(16) truck(17) I(18) drove(19) as(20) a(21) part(22) of(23) a(24) summer(25) job(26) while(27) in(28) college(29) .(30) 
+			<opinion polarity="-" feature="transmission" featWords="3" opWords="8"/>
+			<opinion polarity="-" feature="transmission" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="17">
+			Of(1) course(2) that(3) old(4) workhorse(5) never(6) popped(7) out(8) of(9) first(10) gear(11) while(12) sitting(13) at(14) a(15) stoplight(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) SLK(2) does(3) that(4) regularly(5) and(6) then(7) grinds(8) while(9) you(10) put(11) it(12) back(13) in(14) gear(15) so(16) passersby(17) think(18) you(19) ve(20) just(21) gotten(22) your(23) learner(24) s(25) permit(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			Also(1) the(2) throw(3) range(4) of(5) that(6) transmission(7) was(8) considerably(9) less(10) than(11) the(12) Mercedes(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) interior(2) of(3) the(4) car(5) is(6) attractive(7) .(8) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="21">
+			The(1) usual(2) Mercedes(3) overabundance(4) of(5) wood(6) ((7) are(8) there(9) any(10) trees(11) left(12) in(13) the(14) Black_Forest(15) ?(16) )(17) lines(18) the(19) dash(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			With(1) the(2) top(3) down(4) ,(5) even(6) the(7) appearance(8) of(9) a(10) cloud(11) in(12) the(13) sky(14) leads(15) one(16) to(17) quickly(18) put(19) the(20) top(21) up(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			Water(1) spots(2) on(3) wood(4) are(5) so(6) tacky(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			Given(1) the(2) retractable(3) top(4) ,(5) one(6) would(7) think(8) trunk(9) space(10) is(11) at(12) a(13) premium(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			Actually(1) ,(2) with(3) the(4) top(5) retracted(6) ,(7) if(8) one(9) arranges(10) things(11) carefully(12) ,(13) one(14) can(15) still(16) fit(17) a(18) toothbrush(19) and(20) a(21) comb(22) in(23) the(24) trunk(25) together(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			As(1) far(2) as(3) reliability(4) ,(5) mine(6) stopped(7) running(8) at(9) 110_miles(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			After(1) 5(2) days(3) in(4) the(5) shop(6) and(7) two(8) different(9) visits(10) ,(11) I(12) was(13) told(14) that(15) a(16) coil(17) was(18) bad(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			Once(1) they(2) got(3) the(4) part(5) ,(6) it(7) ran(8) again(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			If(1) you(2) want(3) a(4) car(5) that(6) looks(7) sporty(8) ,(9) has(10) a(11) retractable(12) hardtop(13) ,(14) costs(15) well(16) over(17) $50,000.00(18) ((19) with(20) the(21) optional(22) sport(23) package(24) including(25) AMG(26) fenders(27) ,(28) etc.(29) )(30) and(31) bears(32) the(33) ubiquitous(34) Mercedes(35) peace(36) sign(37) ,(38) rush(39) out(40) and(41) pick(42) up(43) the(44) SLK(45) .(46) 
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+		</sentence>
+		<sentence id="30">
+			But(1) for(2) God(3) s(4) sake(5) be(6) careful(7) .(8) 
+		</sentence>
+		<sentence id="31">
+			Don(1) t(2) ever(3) try(4) and(5) drive(6) this(7) monster(8) .(9) 
+		</sentence>
+		<sentence id="32">
+			Just(1) sit(2) at(3) the(4) curb(5) and(6) operate(7) the(8) top(9) .(10) 
+		</sentence>
+		<sentence id="33">
+			Get(1) out(2) on(3) a(4) road(5) and(6) push(7) this(8) puppy(9) and(10) well(11) ,(12) I(13) totaled(14) mine(15) after(16) only(17) three(18) months(19) in(20) a(21) head-on(22) .(23) 
+		</sentence>
+		<sentence id="34">
+			No(1) injuries(2) to(3) anyone(4) ((5) Mercedes(6) makes(7) a(8) very(9) crash-safe(10) car(11) they(12) have(13) to(14) )(15) .(16) 
+			<opinion polarity="+" feature="safety" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="35">
+			After(1) this(2) experience(3) ,(4) I(5) went(6) out(7) and(8) bought(9) the(10) 20001(11) Audi_TT_Quattro(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			Now(1) this(2) is(3) a(4) sports(5) car(6) .(7) 
+		</sentence>
+		<sentence id="37">
+			But(1) more(2) on(3) that(4) when(5) I(6) discuss(7) my(8) little(9) TT(10) in(11) a(12) future(13) review(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 52,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) 2001LK(16) 320(17) Conv(18) ,(19) six-speed(20) manual(21) transmission(22) 
+		</sentence>
+	</text>
+</review>

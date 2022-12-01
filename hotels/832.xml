@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="832" item="Halekulani" rating="4">
+	<title>
+		<sentence id="1">
+			This(1) is(2) the(3) life(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			European-style(1) hotel(2) with(3) incredible(4) food(5) and(6) service(7) 
+			<opinion polarity="+" feature="food" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Just(1) steps(2) from(3) the(4) hustle(5) and(6) bustle(7) of(8) Waikiki(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) lived(2) in(3) Honolulu(4) for(5) 3(6) years(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) came(2) to(3) discover(4) that(5) there(6) are(7) thousands(8) of(9) rooms(10) in(11) Waikiki(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Most(1) of(2) them(3) are(4) set(5) back(6) off(7) the(8) beach(9) either(10) across(11) busy(12) Kalakaua(13) avenue(14) ,(15) or(16) even(17) further(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) can(3) afford(4) it(5) ,(6) the(7) Halekulani(8) ,(9) the(10) Sheraton_Moana(11) ,(12) or(13) the(14) Hilton_Hawaiian_Village(15) are(16) the(17) places(18) to(19) stay(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) Halekulani(2) is(3) on(4) the(5) beach(6) ,(7) but(8) set(9) back(10) on(11) a(12) quiet(13) street(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) more(3) of(4) a(5) European-style(6) hotel(7) ,(8) with(9) a(10) couple(11) of(12) incredible(13) restaurants(14) ;(15) people(16) also(17) seem(18) to(19) stay(20) to(21) themselves(22) more(23) .(24) 
+			<opinion polarity="+" feature="food" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) a(3) relaxed(4) resort(5) ,(6) just(7) a(8) few(9) steps(10) of(11) the(12) beaten(13) path(14) .(15) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) elegant(3) ,(4) reserved(5) ,(6) and(7) relaxing(8) at(9) the(10) same(11) time(12) .(13) y(14) contrast(15) ,(16) the(17) Sheraton_Moana(18) is(19) old(20) Hawaii(21) at(22) it(23) 's(24) finest(25) --(26) one(27) of(28) the(29) two(30) oldest(31) ((32) but(33) elegant(34) )(35) hotels(36) on(37) the(38) beach(39) ,(40) with(41) a(42) cozy(43) veranda(44) that(45) faces(46) busy(47) Kalakau(48) avenue(49) .(50) 
+		</sentence>
+		<sentence id="9">
+			It(1) 's(2) a(3) more(4) "(5) visible(6) "(7) place(8) to(9) stay(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			The(1) Hilton_Hawaiian_Village(2) is(3) a(4) huge(5) complex(6) ,(7) with(8) everything(9) you(10) could(11) ever(12) want(13) on(14) site(15) ,(16) sort(17) of(18) a(19) Disney(20) theme(21) park(22) in(23) Hawaii(24) ;(25) I(26) 'd(27) recommend(28) it(29) for(30) families(31) .(32) 
+			<opinion polarity="+" feature="hotel" featWords="29" featRef="hotel" opWords="28"/>
+		</sentence>
+		<sentence id="11">
+			One(1) of(2) my(3) favorite(4) activities(5) when(6) I(7) lived(8) in(9) Hawaii(10) was(11) walking(12) down(13) to(14) the(15) Halekulani(16) for(17) drinks(18) on(19) the(20) lanai(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			The(1) scenery(2) is(3) beautiful(4) ,(5) it(6) 's(7) relaxing(8) ,(9) and(10) you(11) 're(12) out(13) of(14) the(15) sun(16) .(17) 
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			Even_if(1) you(2) can(3) not(4) afford(5) to(6) stay(7) here(8) ,(9) set(10) aside(11) a(12) few(13) bucks(14) for(15) a(16) drink(17) on(18) the(19) lanai(20) ,(21) especially(22) when(23) the(24) sun(25) is(26) setting(27) ((28) and(29) the(30) entertainment(31) is(32) on(33) )(34) ;(35) it(36) 's(37) an(38) experience(39) that(40) you(41) 'll(42) never(43) forget(44) !(45) 
+		</sentence>
+	</text>
+</review>

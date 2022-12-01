@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="727" item="2005 Ford Mustang" rating="1">
+	<title>
+		<sentence id="1">
+			2005(1) Mustang_Good_Looks(2) ,(3) Poor_Quality(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) looks(2) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) quality(2) ,(3) poor(4) customer(5) service(6) ,(7) it(8) pings(9) and(10) knocks(11) ,(12) feels(13) cheap(14) ,(15) expensive(16) .(17) 
+			<opinion polarity="-" feature="engine" opWords="11"/>
+			<opinion polarity="-" feature="engine" opWords="9"/>
+			<opinion polarity="-" feature="price" opWords="16"/>
+			<opinion polarity="-" feature="car" opWords="14"/>
+			<opinion polarity="-" feature="service" featWords="5,6" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) this(4) car(5) ,(6) looks(7) are(8) not(9) everything(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Others(1) make(2) appealing(3) cars(4) for(5) same(6) price(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Service_Dept.(1) is(2) a(3) joke(4) ,(5) instead_of(6) fixing(7) manufacture(8) 's(9) defects(10) ,(11) just(12) trying(13) to(14) avoid(15) costly(16) repairs(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) really(3) impressed(4) by(5) the(6) good(7) looks(8) of(9) the(10) 2005(11) Mustang_GT(12) ,(13) but(14) was(15) really(16) turned(17) off(18) by(19) discovering(20) the(21) lack(22) of(23) quality(24) soon(25) after(26) owning(27) one(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Map(1) lights(2) feel(3) cheap(4) ,(5) floor(6) board(7) panels(8) pop(9) off(10) ,(11) things(12) rattle(13) ,(14) engine(15) pings(16) and(17) knocks(18) ,(19) dealer(20) states(21) that(22) it(23) is(24) a(25) "(26) California(27) fuel(28) quality(29) problem(30) "(31) and(32) they(33) will(34) not(35) budge(36) on(37) helping(38) me(39) find(40) a(41) solution(42) .(43) 
+			<opinion polarity="-" feature="engine" featWords="15" opWords="18"/>
+			<opinion polarity="-" feature="engine" featWords="15" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			I(1) feel(2) ,(3) after(4) owning(5) Japanese(6) cars(7) ,(8) including(9) Infinity(10) I30T(11) ,(12) that(13) they(14) are(15) much(16) superior(17) than(18) a(19) Ford(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Too(1) bad(2) ,(3) because(4) I(5) really(6) wanted(7) to(8) support(9) a(10) historically(11) "(12) American(13) "(14) car(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) also(3) upset(4) at(5) the(6) way(7) Ford(8) handled(9) the(10) situation(11) ,(12) insisting(13) that(14) there(15) is(16) nothing(17) wrong(18) with(19) that(20) car(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) think(2) it(3) is(4) an(5) engineering(6) defect(7) ,(8) if(9) they(10) did(11) not(12) take(13) the(14) California(15) emissions(16) control(17) additive(18) ((19) s(20) )(21) in(22) the(23) equation(24) when(25) developing(26) this(27) car(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			A(1) lack(2) of(3) planning(4) I(5) guess(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			The(1) worst(2) part(3) about(4) it(5) is(6) that(7) after(8) the(9) dealer(10) tells(11) you(12) there(13) is(14) nothing(15) wrong(16) with(17) the(18) car(19) ,(20) and(21) you(22) try(23) taking(24) it(25) to(26) the(27) next(28) level(29) by(30) contacting(31) the(32) company(33) directly(34) ,(35) as(36) stated(37) in(38) the(39) manual(40) ,(41) Ford(42) tells(43) you(44) they(45) are(46) taking(47) the(48) side(49) of(50) the(51) dealership(52) .(53) 
+		</sentence>
+		<sentence id="9">
+			Where(1) are(2) the(3) consumer(4) protection(5) agencies(6) monitoring(7) this(8) abuse(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Next(1) time(2) I(3) will(4) by(5) Japanese(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 360000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) 2005(16) Ford_Mustang_GT_Roush(17) 
+		</sentence>
+	</text>
+</review>

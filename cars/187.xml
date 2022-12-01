@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="187" item="2001 Toyota Celica" rating="4">
+	<title>
+		<sentence id="1">
+			Speed_Demon(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			corners(1) well(2) ,(3) great(4) stock(5) speakers(6) with(7) surround(8) sound(9) 
+			<opinion polarity="+" feature="speakers" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cramped(1) back(2) seat(3) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Safe(1) ,(2) fast(3) car(4) with(5) a(6) sporty(7) style(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Fast(1) little(2) car(3) at(4) a(5) great(6) price(7) .(8) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) has(3) a(4) sleek(5) ,(6) sporty(7) look(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			A(1) newer(2) updated(3) image(4) for(5) a(6) Celica(7) ,(8) this(9) car(10) has(11) a_real(12) bubble(13) feel(14) inside(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) comes(3) equipped(4) with(5) stock(6) speakers(7) that(8) produce(9) unbelievable(10) surround(11) sound(12) .(13) 
+			<opinion polarity="+" feature="sound system" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			The(1) tweeters(2) are(3) crisp(4) and(5) clear(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			You(1) sit(2) low(3) in(4) bucket(5) seats(6) great(7) for(8) cruising(9) .(10) 
+			<opinion polarity="+" feature="seat" featWords="6" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			The(1) dash(2) is(3) open(4) and(5) roomy(6) .(7) 
+			<opinion polarity="+" feature="dash" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="dash" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) can(2) not(3) say(4) that(5) for(6) the(7) back(8) seat(9) though(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			do(1) not(2) expect(3) to(4) have(5) any(6) backseat(7) drivers(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			It(1) seats(2) two(3) comfortably(4) .(5) 
+			<opinion polarity="+" feature="seat" opWords="2,4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) hatchback(2) is(3) roomy(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			The(1) engine(2) runs(3) smooth(4) and(5) quiet(6) .(7) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) is(3) great(4) on(5) gas(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) brakes(2) are(3) quick(4) to(5) stop(6) ,(7) and(8) the(9) car(10) is(11) fast(12) to(13) accelerate(14) .(15) 
+			<opinion polarity="+" feature="speed" opWords="12"/>
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			Mine(1) came(2) equipped(3) with(4) passenger(5) air(6) bags(7) ,(8) alloy(9) wheels(10) ,(11) cd(12) ,(13) anti-lock(14) brakes(15) ,(16) and(17) rear(18) spoiler(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			I(1) do(2) not(3) know(4) all(5) the(6) technical(7) terms(8) for(9) cars(10) like(11) my(12) husband(13) does(14) ,(15) but(16) I(17) know(18) that(19) this(20) is(21) a(22) very(23) dependable(24) vehicle(25) .(26) 
+			<opinion polarity="+" feature="reliability" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="17">
+			Toyota(1) lives(2) up(3) to(4) its(5) name(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			And(1) it(2) makes(3) driving(4) more(5) of(6) a(7) fun(8) thing(9) than(10) a(11) chore(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) automatic(16) ,(17) GT(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="487" item="1999 Nissan Altima" rating="3">
+	<title>
+		<sentence id="1">
+			1999(1) Nissan_Altima_GXE(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Problem_Free(1) ,(2) handles(3) nicely(4) 
+			<opinion polarity="+" feature="handling" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			slow(1) acceleration(2) ,(3) Uncomfortable(4) ,(5) ugly(6) ,(7) noisy(8) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+			<opinion polarity="-" feature="design" opWords="6"/>
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+			<opinion polarity="-" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) with(5) about(6) 76,000_miles(7) on(8) it(9) ,(10) and(11) I(12) havent(13) had(14) a(15) problem(16) yet(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) been(3) slowly(4) upgrading(5) little(6) things(7) such(8) as(9) spark(10) plugs(11) ,(12) air(13) filter(14) ,(15) and(16) the(17) sterio(18) ,(19) but(20) by(21) no(22) means(23) were(24) any(25) originally(26) bad(27) or(28) faulty(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			I(1) hate(2) how(3) the(4) car(5) looks(6) ,(7) its(8) hiddeous(9) ,(10) and(11) the(12) acceleration(13) with(14) the(15) 4(16) cylinder(17) and(18) automatic(19) transmission(20) combination(21) is(22) pathetic(23) ,(24) passing(25) people(26) on(27) the(28) highway(29) with(30) my(31) friends(32) in(33) the(34) car(35) is(36) not(37) an(38) option(39) ,(40) this(41) car(42) just(43) cant(44) do(45) it(46) haha(47) .(48) 
+			<opinion polarity="-" feature="acceleration" featWords="13" opWords="23"/>
+		</sentence>
+		<sentence id="4">
+			I(1) will(2) admit(3) though(4) ,(5) it(6) handles(7) nicely(8) on(9) the(10) backroads(11) ,(12) I(13) put(14) wider(15) tires(16) on(17) it(18) for(19) that(20) purpose(21) ;(22) )(23) Otherwise(24) so(25) far(26) so(27) good(28) ,(29) a(30) solid(31) car(32) for(33) a(34) teenager(35) is(36) a(37) good(38) thing(39) ,(40) I(41) dont(42) liek(43) to(44) bring(45) stuff(46) into(47) the(48) shop(49) because(50) they(51) always(52) tell(53) me(54) more(55) is(56) wr(57) ong(58) than(59) what(60) i(61) wanted(62) to(63) know(64) ((65) or(66) could(67) ever(68) afford(69) )(70) .(71) 
+			<opinion polarity="+" feature="car" featWords="32" opWords="31"/>
+			<opinion polarity="+" feature="handling" opWords="7,8"/>
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 5900(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) GXE_Automatic(16) 
+		</sentence>
+	</text>
+</review>

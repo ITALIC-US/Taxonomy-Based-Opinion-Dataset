@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="939" item="1996 Plymouth Breeze" rating="1">
+	<title>
+		<sentence id="1">
+			NOT(1) SUCH_A_BREEZE(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) ,(3) good(4) MPG-while(5) it(6) ran(7) .(8) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) unreliable(2) .(3) 
+			<opinion polarity="-" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Slow(1) .(2) 
+			<opinion polarity="-" feature="speed" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Known(1) problem(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Please(1) do(2) your(3) homework(4) before(5) you(6) buy(7) this(8) kind(9) of(10) car(11) !(12) 
+		</sentence>
+		<sentence id="2">
+			Read(1) every(2) review(3) on(4) all(5) websites(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Learn(1) from(2) others(3) ,(4) just(5) stay(6) away(7) from(8) this(9) car(10) !(11) !(12) !(13) 
+			<opinion polarity="-" feature="car" opWords="6,7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			***(1) I(2) am(3) writing(4) this(5) review(6) not(7) on(8) the(9) comfort(10) ,(11) or(12) driveability(13) of(14) this(15) car(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			In(1) my(2) opinion(3) ,(4) if(5) a(6) car(7) is(8) not(9) reliable(10) ,(11) it(12) 's(13) not(14) worth(15) talking(16) about(17) that(18) aspect(19) of(20) the(21) car(22) ****(23) In(24) September_of_2001(25) ,(26) we(27) were(28) in(29) search(30) of(31) a(32) car(33) to(34) replace(35) my(36) partner(37) 's(38) Toyota_Paseo(39) .(40) 
+			<opinion polarity="-" feature="reliability" opWords="9,10"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Paseo(2) was(3) small(4) ,(5) had(6) no(7) cruise(8) ((9) we(10) moved(11) to(12) a(13) house(14) adding(15) a(16) 100_mile(17) a(18) day(19) commute(20) to(21) work(22) )(23) and(24) needed(25) to(26) go(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			So(1) ,(2) we(3) started(4) looking(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) looking(3) used(4) ,(5) wanted(6) something(7) reliable(8) ,(9) 4(10) door(11) ,(12) nicely(13) equipped(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="13,14"/>
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			My(1) partner(2) does(3) not(4) know(5) anything(6) about(7) cars(8) ,(9) except(10) what(11) he(12) likes(13) for(14) looks(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			So(1) we(2) drove(3) to(4) the(5) Twin_Cities(6) to(7) look(8) at(9) an(10) Altima(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			When(1) we(2) got(3) up(4) there(5) ,(6) it(7) was(8) sold(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			So(1) off(2) to(3) other(4) dealerships(5) we(6) went(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			At(1) Morrie_'s_Mazda(2) ,(3) we(4) found(5) a(6) pretty(7) "(8) fern(9) green(10) "(11) 1996(12) Plymouth_Breeze(13) ,(14) with(15) a(16) matching(17) green(18) interior(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			We(1) took(2) it(3) for(4) a(5) drive(6) ,(7) and(8) he(9) liked(10) it(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="10"/>
+		</sentence>
+		<sentence id="12">
+			It(1) had(2) just(3) over(4) 100,000_miles(5) ((6) forgive(7) me(8) if(9) the(10) details(11) are(12) sketchy-I(13) have(14) tried(15) to(16) block(17) this(18) car(19) from(20) memory(21) )(22) ,(23) PW(24) ,(25) PL(26) ,(27) CC(28) ,(29) Cass(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			We(1) paid(2) $4000(3) in(4) cash(5) ,(6) I(7) do(8) not(9) remember(10) what(11) the(12) asking(13) price(14) was(15) though(16) ,(17) maybe(18) $4800(19) ?(20) 
+		</sentence>
+		<sentence id="14">
+			From(1) purchase(2) time(3) ,(4) the(5) car(6) was(7) a(8) comfortable(9) car(10) for(11) trips(12) ,(13) good(14) mileage-a(15) tad(16) slow(17) ,(18) and(19) served(20) it(21) 's(22) purpose(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			Until(1) ...(2) February_of_2002(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			During(1) a(2) routine(3) oil(4) change(5) ,(6) the(7) nightmare(8) begins(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			We(1) are(2) informed(3) of(4) an(5) oil(6) leak(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			Take(1) it(2) to(3) the(4) local(5) Chrysler(6) dealer(7) .(8) 
+		</sentence>
+		<sentence id="19">
+			Find(1) out(2) about(3) the(4) head(5) gasket(6) problem(7) that(8) has(9) plagued(10) many(11) Neons(12) and(13) Breezes(14) that(15) Chrysler(16) is(17) aware(18) of(19) but(20) will(21) do(22) nothing(23) about(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			Fix(1) that(2) .(3) 
+		</sentence>
+		<sentence id="21">
+			Get(1) the(2) car(3) back(4) .(5) 
+		</sentence>
+		<sentence id="22">
+			More(1) oil(2) leaking(3) .(4) 
+		</sentence>
+		<sentence id="23">
+			Take(1) it(2) back(3) .(4) 
+		</sentence>
+		<sentence id="24">
+			The(1) dealer(2) ((3) Adamson(4) 's(5) ,(6) a(7) "(8) 5(9) star(10) "(11) dealer(12) in(13) Rochester_MN(14) )(15) "(16) forgot(17) "(18) to(19) check(20) another(21) gasket(22) when(23) the(24) fixed(25) the(26) first-while(27) they(28) had(29) the(30) engine(31) or(32) tranny(33) pulled-whatever(34) they(35) did(36) .(37) 
+		</sentence>
+		<sentence id="25">
+			Took(1) it(2) elsewhere(3) to(4) have(5) that(6) fixed(7) .(8) 
+		</sentence>
+		<sentence id="26">
+			About(1) this(2) time(3) ,(4) the(5) car(6) starts(7) using(8) a(9) WHOLE(10) bottle(11) of(12) power(13) steering(14) fluid(15) a(16) day(17) .(18) 3(19) mechanics(20) and(21) no(22) one(23) can(24) find(25) a(26) leak(27) .(28) 
+		</sentence>
+		<sentence id="27">
+			Finally(1) ,(2) we(3) get(4) that(5) fixed(6) .(7) 
+		</sentence>
+		<sentence id="28">
+			Then(1) ,(2) when(3) on(4) the(5) way(6) to(7) work(8) ,(9) the(10) car(11) just(12) cuts(13) out(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			Does(1) this(2) several(3) times(4) .(5) 
+		</sentence>
+		<sentence id="30">
+			In(1) ,(2) again(3) ,(4) to(5) the(6) shop(7) .(8) 
+		</sentence>
+		<sentence id="31">
+			Is(1) a(2) computer(3) sensor(4) this(5) time(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			Fixed(1) .(2) 
+		</sentence>
+		<sentence id="33">
+			Then(1) ,(2) in(3) late(4) May(5) ,(6) early(7) June(8) ,(9) the(10) check(11) engine(12) light(13) comes(14) on(15) .(16) 
+		</sentence>
+		<sentence id="34">
+			The(1) car(2) starts(3) hesitating(4) at(5) intersections(6) .(7) 
+		</sentence>
+		<sentence id="35">
+			You(1) never(2) knew(3) if(4) you(5) 'd(6) make(7) it(8) through(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			That(1) was(2) where(3) I(4) drew(5) the(6) line(7) .(8) 
+		</sentence>
+		<sentence id="37">
+			We(1) took(2) it(3) to(4) Rochester_Ford_Toyota(5) ,(6) the(7) appraisal(8) guy(9) could(10) barely(11) drive(12) it(13) ,(14) it(15) was(16) hesitating(17) so(18) bad(19) .(20) 
+		</sentence>
+		<sentence id="38">
+			They(1) gave(2) us(3) $1200(4) for(5) trade(6) on(7) a(8) 2001(9) Nissan_Sentra_SE(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			So(1) after(2) $2000(3) in(4) repair(5) ,(6) and(7) losing(8) $2800(9) in(10) resale(11) in(12) 9(13) months(14) ,(15) we(16) lost(17) almost(18) $5000(19) in(20) this(21) car(22) .(23) 
+		</sentence>
+		<sentence id="40">
+			Not(1) to(2) mention(3) all(4) of(5) the(6) time(7) it(8) spent(9) in(10) the(11) shop(12) ,(13) making(14) us(15) share(16) one(17) car(18) .(19) 
+		</sentence>
+		<sentence id="41">
+			So(1) ,(2) not(3) only(4) am(5) I(6) not(7) recommended(8) this(9) car(10) ,(11) I(12) no_longer(13) can(14) recommend(15) any(16) Chrysler(17) product(18) ,(19) for(20) their(21) lack(22) of(23) commitment(24) ,(25) and(26) inability(27) to(28) stand(29) behind(30) their(31) product(32) and(33) letting(34) the(35) consumer(36) suffer(37) .(38) 
+			<opinion polarity="-" feature="car" opWords="7,8"/>
+		</sentence>
+		<sentence id="42">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 4000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) Base(16) ,(17) PW(18) ,(19) PL(20) ,(21) CC(22) ,(23) Cass(24) 
+		</sentence>
+	</text>
+</review>

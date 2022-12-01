@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="217" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			NISSAN(1) '(2) S_MAXIMUM_POWER(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Provides(1) optimal(2) speed(3) at(4) a(5) low(6) cost(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) recommended(2) for(3) racing(4) or(5) car(6) shows(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) new(2) 2000(3) Maxima(4) combines(5) power(6) and(7) performance(8) in(9) a(10) snug(11) sedan(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Nissan(1) produced(2) its(3) best(4) sedan(5) with(6) the(7) release(8) of(9) the(10) Maxima(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			At(1) around(2) 30k(3) with(4) all(5) the(6) options(7) the(8) Maxima(9) provides(10) affordability(11) ,(12) performance(13) ,(14) luxury(15) ,(16) and(17) looks(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) Maxima(2) produces(3) 222(4) hp(5) and(6) 217(7) lb(8) of(9) torque(10) out(11) of(12) its(13) 3.0(14) liter(15) V(16) -(17) 8(18) front(19) wheel(20) drive(21) engine(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Going(1) 0-60(2) mph(3) in(4) an(5) awesome(6) 6.7_seconds(7) it(8) is(9) faster(10) than(11) most(12) of(13) its(14) rivals(15) ,(16) including(17) the(18) new(19) BMW(20) 323(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			The(1) Maxima(2) is(3) recommended(4) for(5) anyone(6) who(7) wants(8) a(9) performance(10) car(11) that(12) provides(13) luxury(14) without(15) paying(16) a(17) luxury(18) car(19) price(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) SE(2) package(3) in(4) the(5) one(6) of(7) the(8) best(9) packages(10) for(11) the(12) Maxima(13) .(14) 
+			<opinion polarity="+" feature="package" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			Although(1) ,(2) it(3) is(4) not(5) the(6) highest(7) package(8) ((9) the(10) GLE(11) is(12) the(13) highest(14) )(15) the(16) SE(17) provides(18) an(19) optional(20) five(21) speed(22) manual(23) transmission(24) and(25) wing(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			This(1) model(2) also(3) can(4) come(5) with(6) a(7) leather(8) package(9) that(10) provides(11) 45_square_feet(12) of(13) leather(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) also(3) take(4) the(5) optional(6) performance(7) package(8) you(9) can(10) get(11) 17(12) "(13) rims(14) .(15) The(16) Maxima(17) is(18) really(19) great(20) at(21) handling(22) and(23) you(24) can(25) take(26) all(27) the(28) corners(29) you(30) want(31) at(32) high(33) speeds(34) without(35) and(36) complaining(37) from(38) the(39) car(40) .(41) The(42) ride(43) is(44) quiet(45) and(46) the(47) tires(48) will(49) not(50) squeal(51) when(52) you(53) push(54) the(55) car(56) to(57) the(58) limits(59) .(60) I(61) would(62) not(63) recommend(64) this(65) car(66) for(67) those(68) who(69) want(70) a(71) true(72) sports(73) car(74) .(75) Although(76) the(77) Maxima(78) performs(79) great(80) ,(81) it(82) can(83) not(84) perform(85) like(86) other(87) sports(88) cars(89) because_of(90) its(91) size(92) .(93) The(94) looks(95) on(96) the(97) Maxima(98) are(99) also(100) not(101) up(102) to(103) show(104) car(105) requirements(106) either(107) .(108) The(109) design(110) provides(111) a(112) simple(113) look(114) and(115) does(116) not(117) have(118) a(119) sleek(120) design(121) that(122) threatens(123) others(124) on(125) the(126) road(127) .(128) 
+			<opinion polarity="-" feature="car" featWords="66" opWords="63,64"/>
+			<opinion polarity="+" feature="ride quality" featWords="43" opWords="45"/>
+		</sentence>
+	</text>
+</review>

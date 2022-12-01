@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="677" item="2003 Ford Excursion" rating="2">
+	<title>
+		<sentence id="1">
+			Just_Say_No(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Love(1) the(2) seating(3) capacity(4) and(5) the(6) fact(7) I(8) can(9) haul(10) plywood(11) in(12) my(13) SUV(14) .(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Brake(1) Rotors(2) are(3) a(4) constant(5) problem(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Great(1) seating(2) capacity(3) -(4) Extremely(5) poor(6) design(7) to(8) driver(9) usability(10) .(11) 
+			<opinion polarity="-" feature="design" featWords="7" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Can_NOT(1) easily(2) adjust(3) heaters(4) in(5) the(6) seat(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Constant(1) and(2) ON-GOING_Brake(3) problems(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			Front(1) brake(2) rotors(3) MUST(4) be(5) turned(6) every(7) 1500(8) to(9) 2000_miles(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Brakes(1) will(2) shake(3) you(4) off(5) the(6) road(7) ((8) Turning(9) rotors(10) is(11) about(12) $350(13) to(14) $400(15) a(16) whack(17) )(18) Every(19) other(20) Excursion(21) 2003(22) owner(23) I(24) have(25) met(26) has(27) had(28) this(29) problem(30) -(31) ask(32) someone(33) at(34) the(35) gas(36) station(37) next(38) time(39) you(40) see(41) them(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 40,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) Excursion(16) -(17) Eddie_Bauer_Edition(18) 
+		</sentence>
+	</text>
+</review>

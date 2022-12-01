@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="272" item="Sony MDR-EX51LPP Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Very_NICE(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lightweight(1) ,(2) Deep_Bass(3) ,(4) Clean(5) sound(6) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			the(1) behind(2) the(3) neck(4) cord(5) design(6) is(7) kind(8) of(9) distracting(10) sometimes(11) 
+			<opinion polarity="-" feature="design" featWords="6" opWords="10" potency="8,9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Get(1) these(2) if(3) you(4) enjoy(5) deep(6) bass(7) and(8) sound(9) isolating(10) but(11) dont(12) want(13) to(14) carry(15) those(16) big(17) headphones(18) with(19) cups(20) that(21) covers(22) your(23) whole(24) ear(25) .(26) 
+			<opinion polarity="+" feature="bass" featWords="7" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) because(5) my(6) friend(7) bought(8) the(9) MDR-71(10) which(11) was(12) like(13) the(14) same(15) thing(16) with(17) the(18) same(19) performance(20) except(21) the(22) 71(23) has(24) an(25) extension(26) cord(27) ,(28) and(29) i(30) do(31) not(32) want(33) that(34) so(35) i(36) got(37) the(38) 51(39) 's(40) .(41) 
+		</sentence>
+		<sentence id="2">
+			I(1) dont(2) regret(3) it(4) the(5) main(6) reason(7) i(8) bought(9) it(10) was(11) because_of(12) the(13) nice(14) deep(15) bass(16) it(17) puts(18) out(19) while(20) isolating(21) outside(22) noise(23) as(24) much(25) as(26) possible(27) with(28) the(29) soft(30) silicons(31) it(32) comes(33) with(34) .(35) 
+			<opinion polarity="+" feature="bass" featWords="16" opWords="14"/>
+			<opinion polarity="+" feature="bass" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="3">
+			It(1) came(2) with(3) a(4) pair(5) of(6) Small(7) ,(8) Medium(9) ,(10) and(11) Large(12) ones(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) currently(3) using(4) the(5) small(6) ones(7) because(8) the(9) medium(10) makes(11) my(12) ears(13) soar(14) and(15) the(16) large(17) one(18) i(19) didnt(20) even(21) try(22) it(23) on(24) haha(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Well(1) the(2) small(3) ones(4) fit(5) in(6) my(7) ears(8) quite(9) nicely(10) but(11) i(12) think(13) its(14) just(15) me(16) but(17) my(18) right(19) ear(20) it(21) doesnt(22) fit(23) as(24) good(25) as(26) my(27) left(28) ears(29) wit(30) the(31) small(32) ones(33) it(34) gives(35) me(36) a(37) weird(38) unbalanced(39) feeling(40) but(41) that(42) is(43) not(44) that(45) big(46) of(47) a(48) deal(49) .(50) 
+		</sentence>
+		<sentence id="6">
+			I(1) use(2) these(3) headphones(4) with(5) my(6) Creative_Zen_Micro(7) ((8) known(9) to(10) have(11) good(12) sound(13) quality(14) at(15) 98db(16) signal(17) to(18) noise(19) ratio(20) )(21) and(22) it(23) has(24) nice(25) deep(26) bass(27) just(28) like(29) the(30) ones(31) my(32) friend(33) has(34) .(35) 
+			<opinion polarity="+" feature="bass" featWords="27" opWords="25"/>
+			<opinion polarity="+" feature="bass" featWords="27" opWords="26"/>
+		</sentence>
+		<sentence id="7">
+			I(1) am(2) very(3) satisfy(4) with(5) these(6) headphones(7) they(8) are(9) light(10) weight(11) so(12) you(13) can(14) jog(15) and(16) stuff(17) with(18) it(19) .(20) 
+			<opinion polarity="+" feature="weight" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			HIGHLY(1) RECOMMENDED(2) !(3) 
+			<opinion polarity="+" feature="headphones" opWords="2" potency="1"/>
+		</sentence>
+	</text>
+</review>

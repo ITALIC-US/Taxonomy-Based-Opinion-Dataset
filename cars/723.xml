@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="723" item="2002 Mazda Protege" rating="2">
+	<title>
+		<sentence id="1">
+			Transmission_Beware(1) !(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) pick(2) up(3) ,(4) looks(5) ,(6) comfort(7) 
+			<opinion polarity="+" feature="comfort" featWords="7" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			unreliable(1) transmission(2) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Owners(1) beware(2) of(3) transmission(4) failures(5) after(6) 60,000_miles(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			My(1) transmission(2) broke(3) at(4) 61,000_miles(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Mazda(1) refused(2) to(3) help(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			Total(1) bill(2) for(3) new(4) transmission(5) came(6) to(7) $2,500(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) I(3) was(4) buying(5) a(6) reliable(7) Japanese(8) car(9) .(10) 
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			Huh(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			My_Protege(1) now(2) has(3) a(4) big(5) For_Sale(6) sign(7) on(8) it(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Mazda(1) no(2) more(3) !(4) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

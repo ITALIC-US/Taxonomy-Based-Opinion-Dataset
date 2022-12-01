@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="367" item="Sony MDR-V700DJ Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT_BUY_THESE_HEADPHONES(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Shiny(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Will_ABSOLUTELY(1) fall(2) apart(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Sony(1) will(2) not(3) take(4) responsibility(5) for(6) poor(7) quality(8) and(9) design(10) flaws(11) .(12) 
+			<opinion polarity="-" feature="headphones" opWords="7,8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			While(1) the(2) Sony(3) MDR-V700DJ(4) headphones(5) have(6) an(7) appealing(8) look(9) ((10) c'mon(11) ,(12) that(13) 's(14) why(15) you(16) want(17) them(18) ...(19) I(20) was(21) duped(22) as_well(23) !(24) )(25) there(26) is(27) an(28) inherent(29) flaw(30) in(31) the(32) quality(33) of(34) the(35) construction(36) .(37) 
+			<opinion polarity="+" feature="appearance" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			The(1) casings(2) around(3) the(4) '(5) swivel(6) cup(7) '(8) WILL(9) eventually(10) crack(11) rendering(12) the(13) headphones(14) useless(15) ((16) do(17) a(18) quick(19) online(20) search(21) and(22) you(23) will(24) see(25) how(26) many(27) consumers(28) have(29) complained(30) about(31) this(32) exact(33) problem(34) )(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) used(3) mine(4) for(5) home(6) listening(7) purposes(8) which(9) should(10) be(11) well(12) within(13) what(14) Sony(15) would(16) consider(17) normal(18) '(19) wear(20) and(21) tear(22) '(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Despite(1) the(2) fact(3) that(4) the(5) cheap(6) design(7) is(8) a(9) common(10) complaint(11) ,(12) Sony(13) will(14) charge(15) you(16) $78.65(17) to(18) exchange(19) your(20) useless(21) headphones(22) with(23) a(24) '(25) refurbished(26) '(27) pair(28) ...(29) this(30) on(31) top(32) of(33) the(34) original(35) $150(36) !(37) 
+			<opinion polarity="-" feature="design" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			I(1) sincerely(2) hope(3) this(4) review(5) will(6) save(7) other(8) consumers(9) from(10) throwing(11) their(12) money(13) down(14) the(15) drain(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Do(1) yourself(2) a(3) favor(4) and(5) invest(6) your(7) money(8) in(9) a(10) product(11) that(12) will(13) last(14) !(15) 
+		</sentence>
+	</text>
+</review>

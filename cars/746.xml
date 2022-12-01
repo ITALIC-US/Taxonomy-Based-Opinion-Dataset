@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="746" item="2002 Infiniti I35" rating="1">
+	<title>
+		<sentence id="1">
+			Buy(1) a(2) used(3) I-30(4) instead(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxury(1) features(2) ,(3) roomy(4) ,(5) powerful(6) 
+			<opinion polarity="+" feature="horsepower" opWords="6"/>
+			<opinion polarity="+" feature="room" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) driveability(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Terrible(1) close(2) space(3) maneuverability(4) ,(5) 44_foot(6) turning(7) circle(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Jerky(1) ,(2) rough(3) ride(4) .(5) 
+			<opinion polarity="-" feature="ride quality" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Made(1) the(2) terrible(3) mistake(4) of(5) trading(6) in(7) my(8) 96(9) I-30(10) for(11) an(12) 02(13) I35(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) 35(2) has(3) more(4) features(5) ,(6) more(7) HP(8) ,(9) BUT(10) rough(11) ride(12) ((13) without(14) fun-flat(15) tires(16) ,(17) wide(18) turning(19) circle(20) ,(21) and(22) torque(23) converter(24) blues(25) .(26) When(27) driving(28) over(29) 40(30) mph(31) hit(32) the(33) gas(34) or(35) let(36) off(37) and(38) there(39) 's(40) a(41) jerk(42) .(43) Dealer(44) says(45) "(46) They(47) all(48) do(49) that(50) .(51) "(52) My(53) 96(54) I-30(55) had(56) a(57) more(58) compliant(59) ride(60) ,(61) adeq(62) HP(63) ,(64) tight(65) turning(66) circle(67) ,(68) and(69) NO(70) torque(71) jerk(72) .(73) Got(74) rid(75) of(76) the(77) I-35(78) and(79) bought(80) a(81) BMW(82) 325(83) .(84) Well(85) worth(86) the(87) extra(88) $(89) $(90) .(91) Unless(92) the(93) price(94) is(95) prohibitive(96) ((97) 3-5(98) K(99) more(100) )(101) or(102) you(103) need(104) a(105) large(106) back(107) seat(108) for(109) people(110) hauling(111) ,(112) the(113) 325(114) and(115) probably(116) the(117) Passat(118) ,(119) Volvo(120) ,(121) or(122) small(123) Accura(124) would(125) be(126) perfect(127) .(128) 
+			<opinion polarity="-" feature="price" featWords="94" opWords="96"/>
+			<opinion polarity="+" feature="car" opWords="127"/>
+			<opinion polarity="-" feature="ride quality" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="3">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29,500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) auto(16) ,(17) sunroof(18) 
+		</sentence>
+	</text>
+</review>

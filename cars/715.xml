@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="715" item="2003 Subaru Forester" rating="2">
+	<title>
+		<sentence id="1">
+			Disappointing(1) ,(2) in(3) many(4) ways(5) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) forward(2) visibility(3) .(4) 
+			<opinion polarity="+" feature="visibility" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) seats(2) .(3) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Nice(1) sized(2) cargo(3) area(4) .(5) 
+			<opinion polarity="+" feature="trunk space" featWords="3,4" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rearward(1) visibility(2) ,(3) stereo(4) ,(5) gas(6) mileage(7) ,(8) passing(9) ability(10) ,(11) rear(12) legroom(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Wiggly(1) on(2) snow(3) .(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stick(1) with(2) Front_Wheel_Drive(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			More(1) predictable(2) handling(3) ,(4) better(5) fuel(6) economy(7) ,(8) less(9) things(10) to(11) go(12) wrong(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) a(4) 2003(5) Subaru_Forester_XS(6) since(7) October_2002(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Since(1) then(2) it(3) has(4) had(5) problems(6) with(7) the(8) ABS(9) ((10) three(11) trips(12) to(13) dealer(14) )(15) ,(16) No-Start(17) condition(18) ((19) two(20) trips(21) to(22) dealer(23) )(24) and(25) the(26) A(27) /(28) C(29) ((30) one(31) trip(32) to(33) dealer(34) )(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) also(3) intermittent(4) noise(5) from(6) the(7) front(8) end(9) ,(10) but(11) I(12) can(13) not(14) reproduce(15) it(16) for(17) the(18) dealer(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Hey(1) ,(2) &(3) %(4) %(5) happens(6) ,(7) but(8) what(9) is(10) really(11) disappointing(12) is(13) how(14) the(15) car(16) handles(17) off(18) pavement(19) .(20) 
+			<opinion polarity="-" feature="car" opWords="12"/>
+		</sentence>
+		<sentence id="5">
+			I(1) live(2) in(3) Northern_Canada(4) and(5) was(6) expecting(7) amazing(8) control(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			Not(1) with(2) the(3) stock(4) tires(5) -(6) the(7) first(8) week(9) of(10) snow(11) had(12) me(13) all(14) over(15) the(16) road(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) driven(3) RWD(4) and(5) FWD(6) cars(7) up(8) here(9) for(10) twenty(11) five(12) years(13) and(14) only(15) a(16) VW_Golf(17) with(18) fat(19) ,(20) slick(21) tires(22) was(23) harder(24) to(25) keep(26) on(27) the(28) road(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			I(1) put(2) on(3) four(4) Toyo(5) winter(6) tires(7) and(8) that(9) fixed(10) things(11) up(12) a(13) little(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) a(3) good(4) ,(5) but(6) not(7) expert(8) driver(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			What(1) happens(2) is(3) the(4) rear-end(5) wants(6) to(7) come(8) around(9) on(10) corners(11) and(12) when(13) slowing(14) down(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) whole(2) car(3) is(4) "(5) twitchy(6) "(7) on(8) snow(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			Maybe(1) I(2) liked(3) the(4) dead(5) ride(6) of(7) an(8) FWD(9) car(10) -(11) it(12) may(13) not(14) be(15) going(16) exactly(17) where(18) you(19) wanted(20) it(21) ,(22) but(23) at_least(24) you(25) knew(26) where(27) it(28) was(29) going(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			This(1) Subaru(2) seems(3) like(4) it(5) needs(6) a(7) rally(8) driver(9) to(10) maximize(11) speed(12) around(13) corners(14) by(15) hanging(16) the(17) tail(18) out(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			I(1) admit(2) that(3) 's(4) fun(5) ,(6) but(7) not(8) when(9) I(10) am(11) tired(12) and(13) on(14) a(15) busy(16) road(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			The(1) other(2) thing(3) that(4) is(5) disappointing(6) is(7) the(8) power(9) and(10) fuel(11) economy(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="16">
+			I(1) joke(2) that(3) this(4) car(5) has(6) all(7) the(8) power(9) of(10) a(11) Toyota_Corolla(12) and(13) the(14) gas(15) mileage(16) of(17) a(18) Dodge_Ram(19) truck(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			Even(1) on(2) highway(3) runs(4) I(5) am(6) challenged(7) to(8) get(9) less(10) than(11) 10(12) liters(13) per(14) 100_kilometers(15) ((16) sorry(17) non-metric(18) folks(19) )(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			This(1) is(2) about(3) 40_%(4) worse(5) than(6) the(7) claimed(8) mileage(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			Passing(1) requires(2) the(3) "(4) slingshot(5) "(6) technique(7) honed(8) in(9) my(10) 65(11) HP_Honda_Civic(12) -(13) certainly(14) not(15) what(16) I(17) would(18) expect(19) from(20) a(21) CDN$29,000(22) car(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			I(1) keep(2) waiting(3) for(4) it(5) to(6) get(7) better(8) ,(9) but(10) it(11) does(12) not(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22000(7) 
+		</sentence>
+	</text>
+</review>

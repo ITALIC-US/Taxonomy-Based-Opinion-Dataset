@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="506" item="1995 Toyota Corolla" rating="2">
+	<title>
+		<sentence id="1">
+			1995(1) Toyota_Corolla_DX(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) like(2) small(3) Camry(4) ,(5) nice(6) smooth(7) ride(8) 
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) buy(3) one(4) ,(5) make(6) sure(7) to(8) look(9) it(10) over(11) really(12) good(13) ,(14) especially(15) if(16) it(17) was(18) a(19) California_NUMMI(20) built(21) model(22) ,(23) or(24) get(25) a(26) Camry(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) review(2) covers(3) a(4) 1995(5) Toyota_Corolla_DX(6) that(7) was(8) owned(9) by(10) my(11) girlfriend(12) from(13) 1998(14) to(15) this(16) year(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			This(1) Corolla(2) is(3) an(4) exception(5) to(6) the(7) rule(8) that(9) all(10) Toyotas(11) are(12) without(13) fault(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) was(3) a(4) true(5) disappointment(6) to(7) both(8) me(9) and(10) my(11) girlfriend(12) ((13) who(14) owned(15) the(16) car(17) )(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) was(3) undependable(4) .(5) 
+			<opinion polarity="-" feature="reliability" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			It(1) started(2) most(3) of(4) the(5) time(6) but(7) never(8) really(9) ran(10) well(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) burned(3) about(4) 1.5(5) quarts(6) of(7) oil(8) in_1250(9) miles(10) ,(11) which(12) caused(13) the(14) car(15) to(16) fail(17) local(18) ((19) CT(20) )(21) emission(22) inspections(23) ((24) but(25) would(26) pass(27) after(28) 2(29) or(30) 3(31) retries(32) )(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			It(1) also(2) warped(3) the(4) front(5) rotors(6) 3_times(7) in(8) the(9) 4.5(10) years(11) it(12) was(13) owned(14) by(15) my(16) girlfriend(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) engine(2) also(3) leaked(4) oil(5) ,(6) and(7) the(8) radiator(9) had(10) to(11) be(12) replaced(13) because(14) it(15) deteriorated(16) nearly(17) causing(18) the(19) car(20) to(21) overheat(22) ,(23) and(24) it(25) needed(26) the(27) fan(28) motor(29) for(30) the(31) HVAC(32) system(33) need(34) replacement(35) as_well(36) .(37) 
+		</sentence>
+		<sentence id="9">
+			The(1) alternator(2) neeed(3) replacement(4) twice(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			The(1) only(2) thing(3) that(4) operated(5) correctly(6) was(7) the(8) automatic(9) transmission(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			This(1) car(2) was(3) maintained(4) at(5) the(6) Toyota(7) dealer(8) for(9) everything(10) ,(11) and(12) I(13) can(14) assure(15) you(16) that(17) the(18) problems(19) were(20) not(21) caused(22) by(23) my(24) gf(25) 's(26) driving(27) or(28) mine(29) ,(30) and(31) she(32) is(33) a(34) stickler(35) for(36) maintenance(37) so(38) thats(39) not(40) it(41) either(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) was(3) NUMMI(4) built(5) ((6) California(7) )(8) ,(9) so_that(10) was(11) probably(12) the(13) cause(14) of(15) some(16) these(17) problems(18) .(19) ((20) The(21) VIN(22) #(23) began(24) with(25) 1N(26) ,(27) which(28) means(29) Nummi(30) built(31) )(32) My(33) girlfriend(34) recently(35) ((36) NOV(37) 2002(38) )(39) bought(40) a(41) new(42) 2003(43) Camry_LE(44) which(45) so(46) far(47) is(48) turning(49) out(50) to(51) be(52) far(53) superior(54) to(55) the(56) Corolla(57) ((58) which(59) the(60) new(61) Camry(62) replaces(63) )(64) in(65) every(66) aspect(67) .(68) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) also(3) a(4) Japanese(5) built(6) model(7) ,(8) so(9) it(10) gets(11) bonus(12) points(13) there(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Look(1) for(2) a(3) review(4) soon(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $8,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) DX(16) w(17) /(18) Automatic(19) transmission(20) 
+		</sentence>
+	</text>
+</review>

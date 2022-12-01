@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="818" item="2005 Chevrolet Equinox" rating="2">
+	<title>
+		<sentence id="1">
+			Following(1) a(2) test(3) drive(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) exterior(2) appearance(3) .(4) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) color(2) choices(3) .(4) 
+			<opinion polarity="+" feature="color" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) feedback(2) from(3) electric(4) power(5) steering(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			NOISY(1) blower(2) fan(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Interior(1) finish(2) poor(3) .(4) 
+			<opinion polarity="-" feature="finish" featWords="2" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) thought(2) I(3) had(4) found(5) the(6) car(7) I(8) have(9) been(10) waiting(11) for(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			My(1) wife(2) and(3) I(4) test(5) drove(6) a(7) 2005(8) Equinox(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			First(1) the(2) electric(3) power(4) steering(5) was(6) OK(7) but(8) left(9) me(10) with(11) the(12) feeling(13) of(14) playing(15) a(16) video(17) game(18) with(19) a(20) joystick(21) ,(22) there(23) was(24) absolutely(25) no(26) feedback(27) .(28) 
+			<opinion polarity="+" feature="steering" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			Secondly(1) ,(2) the(3) road(4) noise(5) was(6) tremendous(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) fit(2) in(3) the(4) interior(5) was(6) not(7) what(8) I(9) would(10) have(11) expected(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			And(1) last(2) ,(3) for(4) anyone(5) that(6) needs(7) to(8) run(9) on(10) the(11) interior(12) fan(13) I(14) hope(15) you(16) have(17) ear(18) plugs(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			On(1) three(2) separate(3) cars(4) ,(5) the(6) fan(7) was(8) so(9) noisy(10) the(11) radio(12) was(13) not(14) able(15) to(16) be(17) heard(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			I(1) ended(2) up(3) looking(4) at(5) the(6) Trailblazer(7) ,(8) test(9) drove(10) it(11) ,(12) then(13) bought(14) it(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			A(1) little(2) more(3) expensive(4) but(5) a(6) much(7) better(8) car(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 26,600(7) Model(8) and(9) Options(10) :(11) LT_FWD(12) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="175" item="JVC HA-FX55 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Good(1) clarity(2) but(3) very(4) poor(5) bass(6) .(7) 
+			<opinion polarity="-" feature="bass" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			A(1) waste(2) of(3) money(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) clarity(2) ,(3) superb(4) high(5) frequency(6) response(7) .(8) 
+			<opinion polarity="+" feature="highs" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poor(2) bass(3) response(4) makes(5) these(6) unusable(7) .(8) 
+			<opinion polarity="-" feature="bass" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) ear(2) buds(3) are(4) quite(5) comfortable(6) .(7) 
+			<opinion polarity="+" feature="earbuds" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) like(2) the(3) long(4) cord(5) ,(6) and(7) they(8) appear(9) to(10) be(11) quite(12) durable(13) .(14) 
+			<opinion polarity="+" feature="cord" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="durability" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			With(1) the(2) right(3) size(4) ear(5) fittings(6) ,(7) they(8) do(9) not(10) block(11) out(12) outside(13) sound(14) ,(15) or(16) you(17) can(18) use(19) bigger(20) fittings(21) and(22) they(23) work(24) like(25) ear(26) plugs(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			The(1) high(2) frequency(3) sounds(4) are(5) superb(6) -(7) very(8) clear(9) ,(10) very(11) good(12) quality(13) .(14) 
+			<opinion polarity="+" feature="highs" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="highs" featWords="2" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="highs" featWords="2" opWords="12,13" potency="11"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bass(2) response(3) is(4) extremely(5) poor(6) ,(7) so(8) bad(9) these(10) are(11) not(12) really(13) usable(14) .(15) 
+			<opinion polarity="-" feature="bass" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 'm(2) going(3) to(4) throw(5) mine(6) in(7) the(8) trash(9) ,(10) I(11) am(12) so(13) disappointed(14) with(15) them(16) .(17) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="815" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) car(2) SUCKS(3) !(4) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Exterior(1) looks(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Peeling(1) dashboard(2) ,(3) radio(4) ,(5) mileage(6) ,(7) interior(8) staining(9) .(10) .(11) 
+			<opinion polarity="-" feature="interior" featWords="8" opWords="9"/>
+			<opinion polarity="-" feature="dash" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			I(1) could(2) go(3) on(4) and(5) on(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			STAY_AWAY_FROM_THIS_CAR(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			YOU(1) WILL_REGRET_IT(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) 2005(4) Equinox(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) 32k_miles(3) on(4) it(5) and(6) has(7) been(8) in(9) the(10) shop(11) more(12) than(13) I(14) have(15) driven(16) it(17) !(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) it(3) just(4) 4(5) months(6) when(7) the(8) nicely(9) spray(10) painted(11) dashboard(12) started(13) chipping(14) off(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) buttons(2) on(3) the(4) radio(5) wore(6) off(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) it(3) replaced(4) ,(5) only(6) to(7) have(8) it(9) happen(10) three_times(11) since(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) almost(2) see(3) no(4) point(5) in(6) having(7) it(8) replaced(9) anymore(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Next(1) ,(2) my(3) steering(4) wheel(5) /(6) ignition(7) area(8) has(9) smoke(10) coming(11) out(12) from(13) it(14) that(15) smells(16) like(17) burnt(18) plastic(19) ,(20) yet(21) the(22) dealership(23) says(24) they(25) can(26) not(27) find(28) anything(29) wrong(30) with(31) it(32) ,(33) and(34) they(35) can(36) not(37) replace(38) anything(39) under(40) warranty(41) if(42) no(43) issue(44) has(45) been(46) detected(47) .(48) 
+		</sentence>
+		<sentence id="8">
+			Then(1) ,(2) my(3) brake(4) rotors(5) warped(6) after(7) slamming(8) on(9) my(10) brakes(11) ONE(12) time(13) to(14) avoid(15) an(16) accident(17) ,(18) they(19) were(20) replaced(21) ,(22) only(23) tho(24) have(25) to(26) have(27) a(28) complete(29) brake(30) job(31) ,(32) AGAIN(33) ,(34) 6(35) months(36) later(37) .(38) 
+		</sentence>
+		<sentence id="9">
+			The(1) interior(2) seats(3) got(4) stained(5) with(6) soda(7) ,(8) hey(9) ,(10) i(11) have(12) kids(13) ,(14) so(15) I(16) went(17) to(18) have(19) them(20) professionally(21) cleaned(22) after(23) failing(24) in(25) my(26) own(27) attempts(28) ,(29) only(30) to(31) have(32) a(33) new(34) stain(35) from(36) the(37) cleaner(38) !(39) 
+		</sentence>
+		<sentence id="10">
+			Just(1) last(2) week(3) while(4) sitting(5) in(6) my(7) car(8) with(9) the(10) window(11) rolled(12) halfway(13) down(14) ,(15) discovered(16) I(17) can(18) roll(19) down(20) my(21) drivers(22) side(23) window(24) by(25) resting(26) my(27) elbow(28) on(29) it(30) in_addition(31) to(32) the(33) automatic(34) window(35) controls(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			The(1) ****(2) car(3) depreciates(4) at(5) the(6) most(7) incredible(8) rate(9) I(10) have(11) ever(12) seen(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) offered(3) 9500(4) for(5) my(6) car(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			I(1) 'm(2) waiting(3) for(4) someone(5) to(6) steal(7) it(8) ,(9) strip(10) it(11) ,(12) burn(13) it(14) .(15) .(16) something(17) so_that(18) I(19) can(20) get(21) another(22) car(23) worth(24) the(25) 22k(26) i(27) paid(28) for(29) this(30) one(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			After(1) owning(2) a(3) Saturn(4) SL2(5) prior(6) to(7) this(8) crap(9) car(10) ,(11) and(12) replacing(13) every(14) single(15) operating(16) part(17) of(18) the(19) Saturn(20) ,(21) with(22) 73k_miles(23) on(24) it(25) when(26) i(27) got(28) rid(29) of(30) it(31) ,(32) with(33) the(34) exception(35) of(36) the(37) engine(38) ,(39) The_Equinox(40) just(41) reminded(42) me(43) why(44) I(45) will(46) stick(47) to(48) Acura(49) /(50) Honda(51) or(52) Toyota(53) .(54) 
+		</sentence>
+		<sentence id="15">
+			You(1) could(2) not(3) pay(4) me(5) to(6) buy(7) American(8) after(9) this(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) LT(16) 
+		</sentence>
+	</text>
+</review>

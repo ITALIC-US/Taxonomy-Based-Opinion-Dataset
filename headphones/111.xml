@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="111" item="Koss Pro3AA Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Buy(1) a(2) more(3) durable(4) set(5) of(6) headphones(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) quality(3) ,(4) very(5) comfortable(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horribly(1) weak(2) hinges(3) that(4) WILL(5) break(6) repeatadly(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) headphones(2) themselves(3) sound(4) fantastic(5) ,(6) and(7) are(8) quite(9) comfortable(10) to(11) wear(12) .(13) 
+			<opinion polarity="+" feature="sound quality" opWords="4,5"/>
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) they(3) did(4) not(5) really(6) think(7) the(8) design(9) through(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) silver(2) earpieces(3) are(4) connected(5) to(6) the(7) black(8) slide-out(9) headband(10) with(11) these(12) ridiculously(13) weak(14) plastic(15) hinges(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) time(3) they(4) broke(5) ,(6) they(7) were(8) inside(9) the(10) original(11) box(12) ,(13) and(14) inside(15) a(16) suitecase(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) suitcase(2) was(3) standing(4) up(5) ,(6) and(7) fell(8) over(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			One(1) of(2) the(3) joints(4) broke(5) off(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) fortunate(3) that(4) the(5) guy(6) at(7) Circuit_City(8) was(9) nice(10) ,(11) because(12) he(13) told(14) me(15) that(16) normally(17) I(18) 'd(19) have(20) to(21) send(22) it(23) back(24) into(25) Koss(26) for(27) repairs(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			That(1) takes(2) a(3) good(4) few(5) weeks(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			The(1) hinges(2) broke(3) on(4) the(5) replacement(6) pair(7) too(8) ,(9) when(10) the(11) headphones(12) fell(13) an(14) entire(15) 6(16) "(17) -(18) I(19) was(20) leaning(21) in(22) over(23) a(24) piece(25) of(26) paper(27) ,(28) and(29) they(30) slid(31) off(32) .(33) Super-glued(34) them(35) back(36) together(37) ,(38) that(39) time(40) .(41) Yesterday(42) ,(43) while(44) putting(45) the(46) phones(47) back(48) into(49) their(50) box(51) ,(52) the(53) hinge(54) on(55) the(56) OTHER(57) side(58) broke(59) .(60) It(61) is(62) a(63) huge(64) shame(65) ,(66) because(67) they(68) really(69) do(70) sound(71) great(72) .(73) Unfortunately(74) ,(75) you(76) have(77) to(78) treat(79) them(80) like(81) eggshels(82) .(83) Look(84) around(85) for(86) something(87) that(88) sounds(89) as(90) good(91) and(92) that(93) will(94) not(95) break(96) on(97) you(98) within(99) a(100) few(101) days(102) of(103) use(104) .(105) 
+		</sentence>
+	</text>
+</review>

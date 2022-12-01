@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="391" item="Skull Candy Smokin Buds Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) enough(2) max(3) DB(4) output(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Look(1) cool(2) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) volume(2) output(3) certainly(4) doesnt(5) match(6) the(7) reviews(8) in(9) base(10) etc(11) either(12) 
+			<opinion polarity="-" feature="volume" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) to(4) replace(5) the(6) buds(7) that(8) came(9) with(10) my(11) creative(12) Zen(13) 4GB(14) MP3(15) video(16) player(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Well(1) it(2) took(3) buying(4) these(5) to(6) tell(7) me(8) how(9) good(10) the(11) Creative_Zens(12) stock(13) buds(14) are(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) Smokin(2) buds(3) appeared(4) to(5) be(6) smokin(7) but(8) with(9) no(10) flames(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) to(3) crank(4) the(5) volume(6) on(7) the(8) player(9) up(10) about(11) 5(12) bars(13) to(14) get(15) the(16) similar(17) volume(18) level(19) with(20) the(21) creative(22) buds(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			The(1) in-ear(2) type(3) sometimes(4) do(5) not(6) sit(7) right(8) and(9) actually(10) block(11) sound(12) ,(13) and(14) I(15) felt(16) I(17) could(18) never(19) position(20) them(21) properly(22) for(23) best(24) sound(25) in(26) the(27) ear(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			Skull_Candy(1) do(2) not(3) give(4) you(5) the(6) DB(7) max(8) output(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			The(1) wires(2) do(3) look(4) very(5) thin(6) and(7) flimsy(8) .(9) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="cord" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="8">
+			I_Paid(1) $40(2) @(3) The_Source_Canada(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			I_Returned(1) them(2) and(3) exchanged(4) for(5) Sennheiser(6) MX500s(7) these(8) are(9) 119(10) DB(11) max(12) .(13) and(14) produce(15) about(16) the(17) same(18) volume(19) levels(20) as(21) the(22) Zen_Stock(23) buds(24) but(25) seem(26) much(27) clearer(28) sound(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			Same(1) price(2) plus(3) the(4) case(5) on(6) the(7) Smokin(8) buds(9) is(10) dumb(11) .(12) 
+		</sentence>
+	</text>
+</review>

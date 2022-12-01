@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="904" item="2001 Subaru Forester" rating="1">
+	<title>
+		<sentence id="1">
+			Forester(1) is(2) a(3) death(4) trap(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Stalls(1) suddenly(2) /(3) dealer(4) can(5) not(6) fix(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) I(2) test(3) drove(4) the(5) car(6) in(7) February(8) the(9) check(10) engine(11) light(12) was(13) on(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) liked(2) the(3) car(4) but(5) did(6) not(7) want(8) it(9) because_of(10) this(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			The(1) salesman(2) kept(3) calling(4) and(5) calling(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			He(1) told(2) me(3) the(4) car(5) had(6) just(7) come(8) in(9) and(10) had(11) not(12) been(13) checked(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			He(1) promised(2) me(3) it(4) was(5) fixed(6) and(7) the(8) car(9) was(10) fine(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			After(1) 18(2) days(3) of(4) this(5) ,(6) I(7) gave(8) in(9) and(10) went(11) back(12) to(13) buy(14) the(15) car(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			On(1) February(2) 29(3) I(4) signed(5) the(6) papers(7) and(8) went(9) to(10) take(11) the(12) car(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Before(1) I(2) left(3) the(4) lot(5) the(6) engine(7) light(8) was(9) still(10) on(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) told(2) the(3) salesman(4) and(5) left(6) ,(7) not(8) taking(9) the(10) car(11) ,(12) it(13) sat(14) for(15) another(16) 18(17) days(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			At(1) this(2) time(3) I(4) did(5) not(6) want(7) the(8) car(9) ,(10) there(11) was(12) something(13) wrong(14) with(15) it(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Then(1) the(2) salesman(3) again(4) started(5) calling(6) and(7) calling(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			He(1) was(2) threatening(3) me(4) telling(5) me(6) it(7) was(8) too(9) late(10) it(11) was(12) mine(13) and(14) I(15) had(16) no(17) choice(18) but(19) to(20) take(21) it(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			He(1) also(2) promised(3) it(4) was(5) fixed(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			This(1) went(2) on(3) for(4) about(5) another(6) month(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			With(1) all(2) his(3) threatening(4) me(5) ,(6) how(7) it(8) was(9) my(10) car(11) and(12) they(13) would(14) sue(15) me(16) ,(17) I(18) would(19) have(20) to(21) pay(22) for(23) it(24) anyway(25) ,(26) my(27) credit(28) would(29) be(30) ruined(31) etc.(32) I(33) again(34) went(35) to(36) get(37) it(38) and(39) before(40) I(41) left(42) the(43) lot(44) the(45) engine(46) light(47) came(48) on(49) again(50) .(51) 
+		</sentence>
+		<sentence id="16">
+			We(1) took(2) it(3) to(4) the(5) service(6) dept.(7) they(8) checked(9) it(10) and(11) said(12) it(13) was(14) just(15) a(16) sensor(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			He(1) said(2) the(3) part(4) was(5) backordered(6) but(7) he(8) reset(9) it(10) and(11) it(12) was(13) OK(14) now(15) there(16) really(17) was(18) nothing(19) wrong(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			I(1) took(2) the(3) car(4) .(5) 
+		</sentence>
+		<sentence id="19">
+			Then(1) a(2) couple(3) of(4) days(5) later(6) the(7) light(8) came(9) on(10) again(11) and(12) I(13) took(14) it(15) back(16) and(17) left(18) it(19) there(20) for(21) a(22) couple(23) of(24) days(25) again(26) and(27) they(28) said(29) they(30) replaced(31) the(32) sensor(33) .(34) 
+		</sentence>
+		<sentence id="20">
+			Finally(1) they(2) called(3) and(4) said(5) it(6) was(7) fixed(8) ,(9) and(10) I(11) again(12) picked(13) up(14) the(15) car(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			A(1) couple(2) of(3) days(4) later(5) the(6) engine(7) light(8) came(9) on(10) again(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			I(1) took(2) it(3) back(4) it(5) was(6) there(7) again(8) for(9) a(10) couple(11) of(12) weeks(13) and(14) they(15) said(16) the(17) gas(18) cap(19) was(20) loose(21) and(22) reset(23) it(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			This(1) was(2) in(3) April(4) .(5) 
+		</sentence>
+		<sentence id="24">
+			Then_I(1) was(2) on(3) the(4) Parkway(5) at(6) the(7) speed(8) limit(9) of(10) 65(11) mph(12) the(13) engine(14) light(15) came(16) on(17) and(18) the(19) car(20) started(21) shaking(22) and(23) the(24) engine(25) stopped(26) .(27) 
+			<opinion polarity="-" feature="engine" featWords="25" opWords="26"/>
+			<opinion polarity="-" feature="car" featWords="20" opWords="22"/>
+		</sentence>
+		<sentence id="25">
+			When(1) the(2) engine(3) stopped(4) there(5) was(6) no(7) steering(8) or(9) brakes(10) ,(11) the(12) car(13) started(14) spinning(15) .(16) 
+			<opinion polarity="-" feature="car" featWords="13" opWords="15"/>
+			<opinion polarity="-" feature="engine" featWords="3" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			I(1) could(2) not(3) steer(4) the(5) car(6) and(7) it(8) spun(9) around(10) ,(11) it(12) was(13) severely(14) damaged(15) Almost(16) $(17) 8,000.00(18) ,(19) and(20) took(21) over(22) a(23) month(24) to(25) fix(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			The(1) body(2) shop(3) also(4) said(5) the(6) air(7) bag(8) had(9) malfunctioned(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			In(1) an(2) accident(3) that(4) severe(5) it(6) should(7) have(8) gone(9) off(10) ,(11) it(12) didn(13) t(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			The(1) body(2) shop(3) man(4) also(5) said(6) there(7) was(8) something(9) wrong(10) with(11) it(12) because(13) it(14) stalled(15) when(16) he(17) was(18) moving(19) it(20) in(21) the(22) shop(23) .(24) 
+		</sentence>
+		<sentence id="30">
+			Then_I(1) picked(2) the(3) car(4) up(5) from(6) the(7) body(8) shop(9) ,(10) on(11) August_1(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			After(1) a(2) couple(3) of(4) blocks(5) the(6) engine(7) shut(8) off(9) again(10) .(11) 
+		</sentence>
+		<sentence id="32">
+			I(1) got(2) out(3) of(4) the(5) car(6) had(7) it(8) towed(9) to(10) Kerbeck_Subaru(11) where(12) it(13) is(14) now(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			The(1) sales(2) man(3) now(4) says(5) he(6) is(7) waiting(8) for(9) some(10) guy(11) at(12) Subaru(13) to(14) get(15) back(16) to(17) him(18) .(19) 
+		</sentence>
+		<sentence id="34">
+			After(1) over(2) a(3) month(4) ,(5) I(6) canceled(7) the(8) insurance(9) ,(10) and(11) when(12) I(13) went(14) to(15) remove(16) my(17) personal(18) belongings(19) and(20) license(21) plates(22) the(23) car(24) was(25) still(26) all(27) apart(28) in(29) their(30) yard(31) .(32) 
+		</sentence>
+		<sentence id="35">
+			It(1) was(2) obvious(3) they(4) could(5) not(6) fix(7) it(8) .(9) 
+		</sentence>
+		<sentence id="36">
+			After(1) paying(2) the(3) $500.00(4) deductible(5) for(6) damage(7) caused(8) by(9) the(10) vehicle(11) malfunction(12) ,(13) then(14) having(15) to(16) pay(17) for(18) towing(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			I(1) have(2) decided(3) to(4) cut(5) my(6) losses(7) .(8) 
+		</sentence>
+		<sentence id="38">
+			I(1) stopped(2) making(3) payments(4) ,(5) and(6) informed(7) the(8) loan(9) company(10) as(11) to(12) the(13) location(14) and(15) condition(16) of(17) the(18) car(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			Now(1) the(2) loan(3) company(4) ((5) Subaru_Credit(6) )(7) ,(8) says(9) I(10) have(11) to(12) get(13) this(14) '(15) brand(16) new(17) '(18) car(19) running(20) so(21) they(22) can(23) reposes(24) it(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			After(1) this(2) many(3) trips(4) to(5) the(6) dealer(7) it(8) is(9) obvious(10) this(11) car(12) is(13) not(14) able(15) to(16) be(17) fixed(18) .(19) 
+		</sentence>
+		<sentence id="41">
+			The(1) first(2) accident(3) almost(4) killed(5) me(6) ,(7) I(8) am(9) afraid(10) for(11) my(12) life(13) to(14) get(15) in(16) this(17) car(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			My(1) credit(2) may(3) be(4) ruined(5) ,(6) but(7) at_least(8) I(9) am(10) alive(11) .(12) 
+		</sentence>
+		<sentence id="43">
+			This(1) brand(2) new(3) car(4) has(5) been(6) sitting(7) at(8) the(9) dealership(10) for(11) three(12) months(13) all(14) apart(15) ,(16) with(17) the(18) parts(19) piled(20) on(21) the(22) seat(23) .(24) 
+		</sentence>
+		<sentence id="44">
+			I(1) would(2) not(3) recommend(4) a(5) Subaru(6) to(7) anyone(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

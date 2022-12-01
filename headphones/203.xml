@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="203" item="RCA HP150 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) worth(2) $50(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) price(2) .(3) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) sound(2) ,(3) hissing(4) noise(5) ,(6) uncomfortable(7) .(8) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) get(3) these(4) as(5) a(6) gift(7) ,(8) get(9) the(10) receipt(11) so_that(12) you(13) can(14) return(15) them(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) quality(2) of(3) these(4) headphones(5) in(6) comparison(7) to(8) conventional(9) wired(10) headphones(11) is(12) really(13) bad(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) like(3) listening(4) to(5) an(6) 8(7) track(8) ((9) I(10) 'm(11) only(12) 30(13) ,(14) not(15) sure(16) why(17) I(18) know(19) what(20) they(21) sound(22) like(23) )(24) or(25) for(26) an(27) analogy(28) everyone(29) might(30) understand(31) ,(32) it(33) 's(34) like(35) listening(36) to(37) your(38) music(39) over(40) a(41) tape(42) player(43) .(44) 
+		</sentence>
+		<sentence id="3">
+			I(1) say(2) this(3) because(4) there(5) 's(6) a(7) constant(8) high-pitched(9) hissing(10) sound(11) in(12) the(13) background(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) is(3) not(4) as(5) crisp(6) as(7) when(8) I(9) use(10) my(11) regular(12) headphones(13) ,(14) it(15) 's(16) like(17) listening(18) to(19) the(20) music(21) with(22) the(23) treble(24) turned(25) off(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			Have(1) to(2) have(3) the(4) source(5) volume(6) at(7) the(8) radio(9) ,(10) etc.(11) ,(12) turned(13) all(14) the(15) way(16) up(17) ,(18) or(19) they(20) will(21) cut(22) off(23) and(24) on(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			After(1) wearing(2) these(3) things(4) for(5) a(6) couple(7) of(8) hours(9) they(10) really(11) kill(12) my(13) ears(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) pads(2) are(3) large(4) round(5) circles(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Instead_of(1) pushing(2) a(3) small(4) disc(5) against(6) the(7) outside_of(8) my(9) ear(10) ,(11) like(12) regular(13) headphones(14) ,(15) the(16) large(17) round(18) pad(19) around(20) the(21) oustide(22) of(23) the(24) RCAs(25) fits(26) so_that(27) it(28) mashes(29) just(30) the(31) bottom(32) and(33) the(34) top(35) of(36) my(37) ear(38) against(39) my(40) head(41) ,(42) instead_of(43) applying(44) even(45) pressure(46) on(47) my(48) entire(49) ear(50) ,(51) which(52) starts(53) to(54) hurt(55) after(56) a(57) while(58) .(59) 
+		</sentence>
+		<sentence id="9">
+			Better(1) yet(2) ,(3) they(4) should(5) make(6) the(7) cushion(8) big(9) enough(10) to(11) fit(12) around(13) your(14) entire(15) ear(16) ,(17) so(18) it(19) presses(20) against(21) your(22) head(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			When(1) moving(2) from(3) one(4) room(5) to(6) another(7) ,(8) there(9) 's(10) a_second(11) of(12) static(13) noise(14) combined(15) with(16) a(17) signal(18) reduction(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			would(1) not(2) recommend(3) these(4) to(5) anyone(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Hate(1) to(2) use(3) them(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			If(1) you(2) do(3) not(4) care(5) about(6) sound(7) quality(8) ,(9) and(10) comfort(11) ,(12) then(13) these(14) headphones(15) are(16) for(17) you(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			These(1) were(2) a(3) gift(4) ,(5) wish(6) I(7) would(8) have(9) taken(10) them(11) back(12) ,(13) but(14) I(15) threw(16) away(17) the(18) packaging(19) before(20) I(21) used(22) them(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			Live(1) and(2) learn(3) .(4) 
+		</sentence>
+	</text>
+</review>

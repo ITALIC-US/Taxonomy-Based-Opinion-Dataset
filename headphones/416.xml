@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="416" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Boy(1) ,(2) do(3) these(4) babies(5) rock(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) ,(2) comfort(3) ,(4) detachable(5) cord(6) ,(7) light(8) .(9) 
+			<opinion polarity="+" feature="cord" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="weight" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Plastic(1) may(2) break(3) if(4) you(5) run(6) it(7) over(8) with(9) your(10) car(11) :(12) )(13) .(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) fell(2) in(3) love(4) with(5) these(6) cans(7) at(8) first(9) sight(10) when(11) I(12) gave(13) them(14) a(15) shot(16) at(17) a(18) high-end(19) music(20) store(21) in(22) Europe(23) last(24) year(25) ,(26) and(27) finally(28) my(29) wife(30) showed(31) some(32) mercy(33) and(34) decided(35) to(36) buy(37) them(38) for(39) me(40) as(41) a(42) birthday(43) present(44) .(45) 
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) not(3) go(4) wrong(5) with(6) HD590(7) ,(8) just(9) do(10) not(11) think(12) twice(13) if(14) you(15) can(16) spend(17) a(18) couple(19) of(20) hundred(21) on(22) great(23) headphones(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			First(1) ,(2) they(3) are(4) extremely(5) comfortable(6) ,(7) just(8) cupping(9) your(10) ears(11) and(12) distributing(13) ((14) a(15) very(16) small(17) )(18) pressure(19) evenly(20) over(21) your(22) head(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			You(1) can(2) forget(3) that(4) you(5) 're(6) wearing(7) them(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) in(3) part(4) due(5) to(6) mostly(7) plastic(8) construction(9) ,(10) which(11) at(12) first_may(13) look(14) flimsy(15) ,(16) but(17) very(18) soon(19) you(20) realize(21) it(22) 's(23) engineered(24) very(25) thoughtfully(26) and(27) will(28) not(29) break(30) all(31) that(32) easily(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			And(1) the(2) sound(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			Just(1) one(2) word(3) :(4) real(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			A(1) few(2) times(3) I(4) had(5) to(6) turn(7) around(8) and(9) check(10) who(11) is(12) there(13) in(14) my(15) office(16) talking(17) so(18) funny(19) ,(20) just(21) to(22) realize(23) that(24) it(25) 's(26) the(27) voice(28) in(29) my(30) headphones(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			Bass(1) ,(2) highs(3) ,(4) mids(5) for(6) that(7) matter(8) ,(9) it(10) 's(11) precise(12) ,(13) you(14) are(15) simply(16) "(17) there(18) "(19) .(20) 
+			<opinion polarity="+" feature="bass" featWords="1" opWords="12"/>
+			<opinion polarity="+" feature="highs" featWords="3" opWords="12"/>
+			<opinion polarity="+" feature="mids" featWords="5" opWords="12"/>
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) hesitated(3) before(4) ,(5) just(6) forget(7) there(8) 're(9) other(10) cans(11) out(12) there(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) the(3) best(4) thing(5) for(6) the(7) money(8) .(9) 
+		</sentence>
+	</text>
+</review>

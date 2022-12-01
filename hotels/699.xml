@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="699" item="Quality Inn International" rating="4">
+	<title>
+		<sentence id="1">
+			Quality_Inn(1) at(2) International_Drive(3) in(4) Orlando(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) reserve(3) ,(4) great(5) rate(6) at(7) Expedia(8) .(9) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) hotel(2) room(3) I(4) prepaid(5) for(6) five(7) nights(8) ,(9) was(10) not(11) available(12) when(13) I(14) arrived(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) place(3) to(4) visit(5) ,(6) enjoy(7) it(8) !(9) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) took(3) a(4) much-needed(5) vacation(6) to(7) Orlando(8) with(9) my(10) family(11) and(12) prepaid(13) /(14) reserved(15) a(16) room(17) at(18) the(19) Quality_Inn(20) on(21) 9700(22) International_Drive(23) for(24) five(25) nights(26) from(27) April(28) 17(29) -(30) April_22_,_2003(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			I(1) never(2) had(3) to(4) opportunity(5) to(6) use(7) my(8) room(9) due(10) to(11) a(12) mixup(13) ((14) my(15) reservation(16) was(17) cancelled(18) )(19) ,(20) however(21) ,(22) the(23) hotel(24) agreed(25) to(26) provide(27) me(28) a(29) refund(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			The(1) mixup(2) occurred(3) on(4) April_17_,_2003(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			On(1) May_1_,_2003(2) ,(3) I(4) was(5) informed(6) that(7) I(8) would(9) receive(10) a(11) credit(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) definitely(3) try(4) their(5) hotel(6) again(7) ,(8) hopefully(9) the(10) mixup(11) will(12) not(13) occur(14) again(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Minutes(1) away(2) from(3) Seaworld(4) ,(5) about(6) a_half(7) hour(8) drive(9) from(10) Disney_World(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Traffic(1) on(2) International_Drive(3) leaves(4) much(5) to(6) be(7) desired(8) sometime(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			A(1) great(2) place(3) to(4) visit(5) ,(6) enjoy(7) it(8) !(9) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			Thanks_Quality_Inn(1) !(2) 
+		</sentence>
+	</text>
+</review>

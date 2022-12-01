@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="80" item="Paradise Inn Motel" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) far(2) cry(3) from(4) Paradise(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) cheap(3) .(4) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Seedy(1) ,(2) noisy(3) ,(4) and(5) downright(6) unpleasant(7) place(8) to(9) stay(10) .(11) 
+			<opinion polarity="-" feature="place" featWords="8" opWords="1"/>
+			<opinion polarity="-" feature="place" featWords="8" opWords="3"/>
+			<opinion polarity="-" feature="place" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) come(3) in(4) expecting(5) anything(6) other(7) than(8) a(9) place(10) to(11) lay(12) your(13) head(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			And(1) bring(2) earplugs(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) here(3) for(4) two(5) nights(6) ,(7) having(8) been(9) lured(10) by(11) what(12) seemed(13) like(14) a(15) good(16) price(17) and(18) an(19) upbeat(20) looking(21) photo(22) of(23) the(24) hotel(25) facade(26) on(27) its(28) Internet(29) site(30) .(31) 
+			<opinion polarity="+" feature="price" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			It(1) turned(2) out(3) to(4) be(5) one(6) of(7) the(8) worst(9) decisions(10) we(11) made(12) on(13) this(14) vacation(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Although(1) we(2) reserved(3) months(4) in(5) advance(6) ,(7) we(8) were(9) given(10) a(11) room(12) that(13) was(14) on(15) the(16) very(17) end(18) of(19) the(20) block(21) of(22) rooms(23) abutting(24) busy(25) Harding_Avenue(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			A(1) bus(2) stop(3) was(4) only(5) yards(6) away(7) ,(8) and(9) the(10) roar(11) of(12) traffic(13) and(14) **(15) hiss(16) "(17) **(18) of(19) the(20) bus(21) '(22) brakes(23) were(24) a(25) non-stop(26) annoyance(27) .(28) Plus(29) ,(30) the(31) room(32) was(33) seedy(34) looking(35) ,(36) clearly(37) in(38) need(39) of(40) rennovation(41) .(42) We(43) had(44) paid(45) for(46) a(47) room(48) with(49) a(50) kitchenette(51) ,(52) but(53) the(54) small(55) refrigerator(56) was(57) broken(58) .(59) Everything(60) ,(61) down(62) to(63) the(64) skimpy(65) ,(66) rough(67) bathtowels(68) was(69) second(70) rate(71) .(72) My(73) son(74) went(75) to(76) swim(77) in(78) the(79) pool(80) ,(81) but(82) came(83) back(84) reeking(85) of(86) chlorine(87) and(88) complaining(89) that(90) the(91) water(92) stank(93) .(94) The(95) clientele(96) of(97) the(98) motel(99) was(100) fairly(101) noisy(102) ,(103) too(104) ,(105) and(106) since(107) the(108) walls(109) were(110) not(111) very(112) well(113) soundproofed(114) ,(115) we(116) were(117) subjected(118) to(119) the(120) sound(121) of(122) upstairs(123) and(124) side(125) neighbors(126) watching(127) TV(128) or(129) talking(130) .(131) We(132) turned(133) on(134) our(135) own(136) TV(137) at(138) a(139) slightly(140) higher(141) volume(142) than(143) we(144) would(145) normally(146) just(147) to(148) tune(149) them(150) out(151) .(152) The(153) room(154) itself(155) was(156) not(157) particularly(158) spacious(159) or(160) comfortable(161) .(162) The(163) beds(164) were(165) not(166) the(167) worst(168) we(169) 've(170) slept(171) in(172) ,(173) but(174) they(175) were(176) fitted(177) out(178) with(179) your(180) standard(181) issue(182) "(183) cheap(184) motel(185) "(186) scratchy(187) sheets(188) and(189) bedspread(190) -(191) the(192) sort(193) that(194) manages(195) to(196) work(197) itself(198) to(199) the(200) floor(201) in(202) short(203) order(204) by(205) dint(206) of(207) being(208) made(209) of(210) slippery(211) polyester(212) .(213) Furthermore(214) ,(215) to(216) reach(217) the(218) air(219) conditioner(220) ,(221) which(222) was(223) set(224) up(225) in(226) a(227) corner(228) of(229) the(230) room(231) ,(232) I(233) had(234) to(235) stand(236) on(237) a(238) chair(239) .(240) Thus(241) ,(242) in(243) the(244) middle(245) of(246) the(247) night(248) when(249) I(250) awoke(251) and(252) found(253) the(254) room(255) too(256) chilly(257) ,(258) I(259) had(260) stumble(261) over(262) my(263) son(264) 's(265) bed(266) ,(267) move(268) a(269) chair(270) below(271) the(272) unit(273) ,(274) and(275) fumble(276) around(277) for(278) the(279) controls(280) in(281) the(282) dark(283) .(284) In_addition(285) ,(286) the(287) parking(288) lot(289) for(290) the(291) motel(292) is(293) not(294) large(295) enough(296) for(297) the(298) guests(299) '(300) cars(301) when(302) the(303) motel(304) is(305) fully(306) booked(307) .(308) We(309) had(310) planned(311) an(312) early(313) morning(314) snorkelling(315) trip(316) after(317) our(318) first(319) night(320) there(321) ,(322) and(323) it(324) was(325) only(326) luck(327) that(328) allowed(329) us(330) to(331) get(332) out(333) of(334) the(335) lot(336) at(337) all(338) -(339) cars(340) were(341) double(342) parked(343) in(344) front(345) of(346) other(347) cars(348) ,(349) effectively(350) blocking(351) most(352) people(353) in(354) .(355) Luckily(356) ,(357) we(358) were(359) able(360) by(361) patient(362) maneuvering(363) to(364) extract(365) our(366) car(367) from(368) the(369) lot(370) ,(371) but(372) it(373) was(374) a(375) close(376) shave(377) .(378) A(379) final(380) insult(381) came(382) with(383) the(384) '(385) free(386) continental(387) breakfast(388) '(389) -(390) white(391) bread(392) toast(393) and(394) instant(395) coffee(396) -(397) puh-leeese(398) !(399) It(400) was(401) was(402) on(403) a(404) par(405) with(406) the(407) rest(408) of(409) the(410) hotel(411) experience(412) ,(413) sort(414) of(415) a(416) minimal(417) "(418) get-by(419) "(420) sort(421) of(422) standard(423) .(424) We(425) deliberated(426) leaving(427) after(428) first(429) walking(430) in(431) the(432) room(433) ,(434) but(435) after(436) weighing(437) the(438) inconvenience(439) of(440) trying(441) to(442) find(443) another(444) place(445) with(446) the(447) unpleasantness(448) of(449) the(450) room(451) ,(452) we(453) elected(454) to(455) stay(456) ,(457) simply(458) because(459) all(460) we(461) needed(462) was(463) a(464) place(465) to(466) sleep(467) at(468) the(469) end(470) of(471) a(472) busy(473) day(474) sightseeing(475) or(476) snorkelling(477) .(478) If(479) we(480) 'd(481) been(482) planning(483) to(484) actually(485) spend(486) any(487) other(488) time(489) in(490) our(491) room(492) ,(493) we(494) would(495) have(496) probably(497) paid(498) the(499) penalty(500) for(501) cancelling(502) and(503) gone(504) in(505) search(506) of(507) another(508) place(509) to(510) stay(511) .(512) The(513) only(514) thing(515) that(516) can(517) be(518) said(519) in(520) favor(521) of(522) this(523) place(524) is(525) that(526) it(527) is(528) cheap(529) .(530) But(531) you(532) definitely(533) get(534) what(535) you(536) pay(537) for(538) -(539) or(540) even(541) less(542) than(543) you(544) pay(545) for(546) .(547) We(548) 'd(549) never(550) go(551) back(552) !(553) 
+			<opinion polarity="-" feature="towels" featWords="68" opWords="65"/>
+			<opinion polarity="-" feature="towels" featWords="68" opWords="67"/>
+			<opinion polarity="-" feature="walls" featWords="109" opWords="111,114"/>
+			<opinion polarity="-" feature="rooms" featWords="154" opWords="157,159"/>
+			<opinion polarity="-" feature="rooms" featWords="154" opWords="157,161"/>
+			<opinion polarity="-" feature="rooms" featWords="255" opWords="256,257"/>
+			<opinion polarity="-" feature="place" featWords="524" opWords="529"/>
+		</sentence>
+	</text>
+</review>

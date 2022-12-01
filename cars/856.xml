@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="856" item="1999 Saturn SL" rating="2">
+	<title>
+		<sentence id="1">
+			Great_Car_for_the_First(1) 40(2) or(3) 50,000(4) Miles(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Plastic(1) dent(2) free(3) doors(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Keeps(1) mechanics(2) very(3) happy(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Power(1) window(2) motors(3) ,(4) Intake(5) manifolds(6) ,(7) Garbage(8) pollution(9) control(10) system(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Mirrors(1) may(2) fall(3) off(4) 
+			<opinion polarity="-" feature="mirrors" featWords="1" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) folks(2) at(3) Saturn(4) have(5) done(6) a(7) great(8) job(9) at(10) building(11) obsolescence(12) into(13) these(14) cars(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			My(1) daughter(2) bought(3) her(4) SL1(5) new(6) in_1999(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Great(1) car(2) ,(3) at(4) first(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			But(1) stuff(2) starts(3) happening(4) at(5) about(6) 40,000_miles(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Like(1) two(2) of(3) the(4) window(5) motors(6) went(7) out(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Then(1) the(2) right(3) mirror(4) fell(5) off(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Now(1) she(2) is(3) having(4) to(5) replace(6) the(7) intake(8) manifold(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) too(3) warped(4) for(5) machining(6) ,(7) so(8) it(9) will(10) have(11) to(12) be(13) replaced(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			This(1) appears(2) to(3) be(4) a(5) common(6) problem(7) for(8) Saturn(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) EGR(3) valve(4) and(5) an(6) Oxygen(7) sensor(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			Car(1) is(2) at(3) 60,000_miles(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			Total(1) repairs(2) are(3) $1600.00(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			Makes(1) this(2) a(3) very(4) expensive(5) car(6) to(7) own(8) and(9) operate(10) .(11) 
+			<opinion polarity="-" feature="price" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			Dealership(1) in(2) Oregon(3) feels(4) a(5) little(6) slimy(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			Not(1) too(2) happy(3) to(4) see(5) you(6) after(7) the(8) sale(9) ,(10) typical(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			So(1) we(2) are(3) having(4) repairs(5) done(6) at(7) a(8) private(9) shop(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			These(1) are(2) great(3) cars(4) for(5) the(6) first(7) few(8) thousand(9) miles(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="18">
+			But(1) you(2) need(3) to(4) look(5) at(6) them(7) as(8) throw(9) aways(10) ,(11) especially(12) after(13) the(14) first(15) couple(16) of(17) years(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			Spend(1) a(2) little(3) extra(4) for(5) one(6) of(7) the(8) good(9) imports(10) and(11) it(12) will(13) be(14) less(15) expensive(16) in(17) the(18) long(19) run(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13500(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Saturn(16) SL1(17) 
+		</sentence>
+	</text>
+</review>

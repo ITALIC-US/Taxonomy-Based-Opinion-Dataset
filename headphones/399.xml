@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="399" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Reference_Quality_Headphones(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) ,(2) transparent(3) sound(4) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) hard(2) to(3) drive(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) HD-600(2) is(3) an(4) excellent(5) headphone(6) ,(7) providing(8) an(9) open(10) and(11) airy(12) response(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="frequency response" featWords="13" opWords="10"/>
+			<opinion polarity="-" feature="frequency response" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) totally(3) uncolored(4) to(5) the(6) point(7) of(8) being(9) "(10) clinical(11) .(12) "(13) They(14) bring(15) out(16) all(17) the(18) detail(19) in(20) the(21) music(22) without(23) coloring(24) it(25) in(26) any(27) way(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			They(1) sound(2) considerably(3) more(4) open(5) and(6) transparent(7) than(8) the(9) HD-580(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) bad(2) news(3) is(4) that(5) they(6) are(7) very(8) inefficient(9) and(10) loose(11) their(12) bass(13) response(14) when(15) driven(16) by(17) low(18) level(19) sources(20) .(21) 
+			<opinion polarity="-" feature="headphones" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) recommend(3) against(4) using(5) them(6) with(7) portable(8) players(9) or(10) notebook(11) computers(12) without(13) some(14) kind(15) of(16) external(17) amplifier(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Despite(1) recommendations(2) elsewhere(3) ,(4) they(5) do(6) not(7) sound(8) good(9) with(10) the(11) Headroom_Airhead(12) headphone(13) amplifier(14) .(15) 
+			<opinion polarity="-" feature="sound quality" opWords="7,8,9"/>
+		</sentence>
+		<sentence id="7">
+			They(1) need(2) much(3) higher(4) quality(5) input(6) than(7) the(8) Airhead(9) provides(10) .(11) ((12) My(13) $50(14) Koss(15) headphones(16) sound(17) better(18) than(19) the(20) HD-600(21) when(22) drive(23) by(24) the(25) Airhead(26) !(27) )(28) I(29) use(30) a(31) Rotel(32) pre-amp(33) which(34) can(35) drive(36) them(37) louder(38) than(39) one(40) can(41) tolerate(42) .(43) 
+		</sentence>
+		<sentence id="8">
+			As(1) such(2) ,(3) the(4) combination(5) sounds(6) just(7) great(8) .(9) 
+			<opinion polarity="+" feature="sound quality" opWords="6,7,8"/>
+		</sentence>
+		<sentence id="9">
+			Despite(1) their(2) size(3) and(4) heft(5) ,(6) these(7) headphones(8) are(9) very(10) comfortable(11) to(12) wear(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="10">
+			I(1) specially(2) recommend(3) them(4) if(5) you(6) wear(7) glasses(8) as(9) they(10) do(11) not(12) press(13) against(14) your(15) ears(16) ,(17) causing(18) discomfort(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			Now(1) ,(2) if(3) you(4) are(5) looking(6) for(7) a(8) warm(9) sound(10) ,(11) the(12) HD-600(13) is(14) not(15) for(16) you(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) find(2) the(3) Grado(4) ((5) e(6) .(7) g(8) .(9) model(10) 125(11) )(12) to(13) excel(14) much(15) better(16) in(17) this(18) respect(19) .(20) 
+		</sentence>
+	</text>
+</review>

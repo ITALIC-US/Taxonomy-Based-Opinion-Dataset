@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="45" item="Sennheiser RS 65 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Prepare(1) to(2) be(3) disappointed(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) range(2) is(3) about(4) it(5) .(6) 
+			<opinion polarity="+" feature="range" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mediocre(1) sound(2) ,(3) Static(4) if(5) moved(6) out(7) of(8) sight(9) ,(10) ear(11) cup(12) too(13) small(14) .(15) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="earcups" featWords="11,12" opWords="13,14"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) pair(4) of(5) these(6) headphones(7) for(8) use(9) in(10) my(11) home(12) theatre(13) for(14) late(15) night(16) movies(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			As(1) soon(2) as(3) I(4) put(5) them(6) on(7) ,(8) I(9) knew(10) I(11) had(12) made(13) a(14) mistake(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) earphones(2) were(3) not(4) very(5) comfortable(6) at(7) all(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			The(1) earcups(2) are(3) a(4) little(5) too(6) small(7) to(8) be(9) really(10) comfortable(11) .(12) 
+			<opinion polarity="-" feature="earcups" featWords="2" opWords="6,7" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			Second(1) ,(2) the(3) sound(4) was(5) only(6) okay(7) ,(8) not(9) what(10) I(11) would(12) have(13) expected(14) from(15) a(16) Sennheiser(17) product(18) .(19) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) a(3) pair(4) of(5) corded(6) Sennheiser(7) 580(8) 's(9) that(10) sound(11) so(12) much(13) better(14) than(15) these(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Maybe(1) this(2) is(3) an(4) inherent(5) flaw(6) in(7) cordless(8) headphones(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			In_addition(1) ,(2) the(3) SRS(4) surround(5) sound(6) circuit(7) only(8) seemed(9) to(10) add(11) some(12) reverb(13) to(14) the(15) audio(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			It(1) did(2) not(3) have(4) much(5) of(6) an(7) impact(8) to(9) the(10) sound(11) experience(12) at(13) all(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) range(2) and(3) mobility(4) of(5) the(6) headphones(7) are(8) fine(9) .(10) 
+			<opinion polarity="+" feature="range" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) able(3) to(4) fire(5) them(6) up(7) in(8) my(9) theatre(10) in(11) the(12) basement(13) ,(14) and(15) walk(16) up(17) two(18) flights(19) and(20) the(21) signal(22) reception(23) was(24) still(25) good(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) 're(3) looking(4) for(5) pure(6) mobility(7) and(8) range(9) ,(10) than(11) these(12) headphones(13) may(14) work(15) for(16) you(17) ,(18) if(19) you(20) want(21) any(22) sound(23) quality(24) with(25) it(26) ,(27) then(28) do(29) not(30) bother(31) with(32) these(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			Invest(1) in(2) a(3) good(4) CD(5) /(6) walkman(7) and(8) plug(9) some(10) good(11) headphones(12) into(13) it(14) instead(15) .(16) 
+		</sentence>
+	</text>
+</review>

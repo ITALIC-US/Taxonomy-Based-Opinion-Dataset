@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="821" item="2005 Chevrolet Equinox" rating="2">
+	<title>
+		<sentence id="1">
+			Transmission_Went_After(1) only(2) 40,000_miles(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) look(2) and(3) comfort(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) has(2) seemed(3) to(4) have(5) gone(6) bad(7) or(8) not(9) work(10) properly(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) like(2) the(3) look(4) and(5) feel(6) of(7) this(8) car(9) ,(10) but(11) when(12) it(13) comes(14) to(15) how(16) it(17) runs(18) ,(19) it(20) 's(21) very(22) different(23) .(24) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Ever(1) since(2) I(3) 've(4) had(5) it(6) ,(7) there(8) 's(9) been(10) a(11) grinding(12) noise(13) when(14) making(15) sharp(16) turns(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			The(1) engine(2) sometimes(3) acts(4) like(5) it(6) 's(7) not(8) switching(9) gears(10) when(11) it(12) should(13) be(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Sometimes(1) it(2) does(3) not(4) want(5) to(6) start(7) and(8) you(9) have(10) to(11) gas(12) it(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) become(3) a(4) normal(5) instance(6) since(7) the(8) start(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			And(1) ....(2) the(3) transmission(4) has(5) gone(6) bad(7) after(8) only(9) 40,000_miles(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Thank(1) God(2) we(3) opted(4) for(5) the(6) extended(7) warranty(8) !(9) 
+		</sentence>
+		<sentence id="8">
+			The(1) CD(2) player(3) also(4) went(5) bad(6) and(7) had(8) to(9) be(10) replaced(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) Equinox_LT(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="806" item="2002 Mazda Tribute" rating="1">
+	<title>
+		<sentence id="1">
+			Horror_Story(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Attractively(1) priced(2) ,(3) offered(4) compromise(5) between(6) comfort(7) ,(8) necessary(9) utilities(10) 
+			<opinion polarity="+" feature="price" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tribute(1) unreliable(2) ,(3) Mazda(4) horrible(5) to(6) deal(7) with(8) 
+			<opinion polarity="-" feature="reliability" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fantastic(1) car(2) ,(3) if(4) you(5) are(6) not(7) driving(8) it(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) Mazda_Tribute(4) from(5) Mazda_Gallery(6) in(7) Norwood(8) ,(9) MA._The(10) car(11) was(12) nice(13) ,(14) but(15) it(16) always(17) had(18) a(19) flashing(20) battery(21) light(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="2">
+			Check-up(1) did(2) not(3) find(4) anything(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Once(1) I(2) was(3) driving(4) back(5) home(6) and(7) the(8) car(9) simply(10) lost(11) all(12) power(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) not(3) able(4) to(5) break(6) or(7) turn(8) wheel(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) was(3) brought(4) to(5) be(6) fixed(7) for(8) exact(9) same(10) problem(11) three_times(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Apparently(1) they(2) had(3) bad(4) parts(5) ,(6) bad(7) code(8) and(9) gazillion(10) of(11) other(12) issues(13) with(14) it(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) people(2) at(3) service(4) said(5) that(6) they(7) 've(8) seen(9) others(10) with(11) the(12) same(13) problem(14) ,(15) this(16) leads(17) me(18) to(19) believe(20) that(21) issue(22) is(23) spread(24) wider(25) than(26) one(27) car(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

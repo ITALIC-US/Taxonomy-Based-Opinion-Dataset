@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="812" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			Quality(1) control(2) ?(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) stereo(2) ,(3) AWD(4) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			HORRIBLE_GAS_MILEAGE(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Beware(1) of(2) the(3) false(4) gas(5) mileage(6) claims(7) .(8) 
+			<opinion polarity="-" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Stay(1) away(2) form(3) this(4) vehicle(5) .(6) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="1,2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) have(2) owned(3) our(4) 2005(5) Equinox_LT_AWD(6) for(7) about(8) 6(9) months(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Some(1) aspects(2) of(3) this(4) vehicle(5) are(6) good(7) ,(8) some(9) are(10) very(11) bad(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			At(1) this(2) point(3) I(4) would(5) not(6) purchase(7) another(8) one(9) of(10) these(11) vehicles(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) interior(2) has(3) some(4) nice(5) creature(6) features(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) stereo(2) is(3) excellent(4) .(5) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Makes(1) some(2) custom(3) installed(4) stereos(5) look(6) and(7) sound(8) bleak(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Bass(1) is(2) great(3) ,(4) speakers(5) are(6) sharp(7) even(8) when(9) the(10) volume(11) is(12) really(13) cranked(14) .(15) 
+			<opinion polarity="+" feature="bass" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			All(1) aspects(2) of(3) the(4) sound(5) system(6) are(7) balanced(8) nicely(9) .(10) 
+			<opinion polarity="+" feature="sound system" featWords="5,6" opWords="8,9"/>
+		</sentence>
+		<sentence id="9">
+			A(1) 90(2) day(3) free(4) subscription(5) to(6) XM(7) comes(8) with(9) the(10) vehicle(11) ,(12) which(13) is(14) a(15) good(16) way(17) to(18) test(19) drive(20) satellite(21) radio(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) driver(2) 's(3) seat(4) has(5) electronic(6) controls(7) -(8) the(9) front(10) passenger(11) seat(12) does(13) not(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			Leg(1) room(2) is(3) excellent(4) in(5) the(6) front(7) and(8) rear(9) seats(10) ,(11) regardless_of(12) front(13) seat(14) position(15) .(16) 
+			<opinion polarity="+" feature="leg room" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			The(1) electric(2) window(3) controls(4) are(5) located(6) in(7) the(8) center(9) ,(10) rear(11) of(12) the(13) gear(14) shift(15) ,(16) which(17) is(18) mounted(19) in(20) a(21) forward(22) positioned(23) center(24) pedestal(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			For(1) Mercedes(2) drivers(3) this(4) is(5) not(6) weird(7) ,(8) but(9) for(10) everyone(11) else(12) this(13) will(14) take(15) some(16) getting(17) used(18) to(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			My(1) wife(2) complains(3) that(4) there(5) is(6) no(7) where(8) to(9) sit(10) her(11) purse(12) ,(13) other(14) than(15) in(16) the(17) front(18) passenger(19) seat(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Coming(1) from(2) a(3) mini-van(4) with(5) the(6) open(7) floor(8) between(9) the(10) front(11) seats(12) ,(13) she(14) has(15) a(16) point(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) space(3) between(4) the(5) seats(6) for(7) a(8) purse(9) ,(10) but(11) one(12) must(13) sacrifice(14) the(15) fold(16) down(17) armrest(18) to(19) utilize(20) it(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			The(1) back(2) seats(3) have(4) huge(5) leg(6) room(7) .(8) 
+			<opinion polarity="+" feature="leg room" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="18">
+			My(1) two(2) boys(3) that(4) are(5) 6(6) '(7) plus(8) are(9) always(10) comfortable(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			However(1) ,(2) if(3) you(4) wish(5) to(6) put(7) three(8) in(9) the(10) back(11) seat(12) ,(13) the(14) guy(15) in(16) the(17) middle(18) better(19) little(20) ,(21) and(22) /(23) or(24) real(25) skinny(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			The(1) back(2) seats(3) fold(4) down(5) flat(6) ,(7) which(8) is(9) nice(10) for(11) carrying(12) long(13) items(14) loaded(15) through(16) the(17) hatch(18) .(19) 
+		</sentence>
+		<sentence id="21">
+			The(1) rear(2) cargo(3) area(4) has(5) this(6) goofy(7) ledge(8) that(9) GM(10) touts(11) as(12) being(13) so(14) handy(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			This(1) allows(2) you(3) to(4) pile(5) stuff(6) like(7) boxes(8) or(9) groceries(10) in(11) the(12) far(13) back(14) ,(15) but(16) it(17) also(18) allows(19) you(20) to(21) block(22) your(23) rear(24) vision(25) as_well(26) .(27) 
+		</sentence>
+		<sentence id="23">
+			Seems(1) like(2) that(3) rack(4) is(5) always(6) in(7) the(8) way(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Sometimes(1) it(2) is(3) handy(4) I(5) must(6) admit(7) ,(8) but(9) for(10) the(11) most(12) part(13) ,(14) if(15) and(16) when(17) you(18) need(19) to(20) lay(21) down(22) the(23) back(24) seats(25) ,(26) it(27) 's(28) a(29) pain(30) .(31) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			It(1) is(2) removable(3) and(4) can(5) be(6) tucked(7) down(8) on(9) the(10) floor(11) ,(12) but(13) it(14) 's(15) just(16) one(17) more(18) thing(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			The(1) auto(2) has(3) a(4) V(5) -(6) 6(7) that(8) is(9) very(10) responsive(11) .(12) 
+			<opinion polarity="+" feature="response" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="27">
+			Acceleration(1) is(2) excellent(3) .(4) 
+			<opinion polarity="+" feature="acceleration" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="28">
+			We(1) drove(2) in(3) snow(4) this(5) winter(6) and(7) the(8) AWD(9) was(10) tremendous(11) .(12) 
+			<opinion polarity="+" feature="drive" opWords="11"/>
+		</sentence>
+		<sentence id="29">
+			I(1) saw(2) large(3) SUV(4) 's(5) struggling(6) while(7) we(8) accelerated(9) easily(10) and(11) zoomed(12) on(13) by(14) .(15) 
+			<opinion polarity="+" feature="acceleration" opWords="9,10"/>
+		</sentence>
+		<sentence id="30">
+			No(1) complaints(2) where(3) the(4) AWD(5) is(6) concerned(7) .(8) 
+		</sentence>
+		<sentence id="31">
+			Mechanically(1) this(2) car(3) has(4) been(5) a(6) nightmare(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			Right(1) now(2) the(3) cruise(4) control(5) does(6) not(7) work(8) .(9) 
+		</sentence>
+		<sentence id="33">
+			The(1) dash(2) rattles(3) .(4) 
+			<opinion polarity="-" feature="dash" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="34">
+			The(1) suspension(2) was(3) loose(4) in(5) the(6) front(7) and(8) was(9) tightened(10) .(11) 
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="35">
+			The(1) really(2) big(3) issue(4) that(5) has(6) not(7) been(8) resolved(9) during(10) the(11) last(12) 3(13) months(14) is(15) the(16) gas(17) mileage(18) .(19) 
+		</sentence>
+		<sentence id="36">
+			The(1) sticker(2) indicates(3) in(4) town(5) mileage(6) of(7) 19(8) to(9) 22(10) mpg(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Highway(1) is(2) 25mpg(3) .(4) 
+		</sentence>
+		<sentence id="38">
+			WE(1) ARE_GETTING(2) 12MPG(3) IN_TOWN(4) ,(5) AND(6) 15MPG(7) ON_THE_HIGHWAY(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			The(1) dealer(2) has(3) had(4) this(5) car(6) in(7) the(8) shop(9) a(10) total(11) of(12) about(13) 3(14) or(15) 4(16) weeks(17) since(18) we(19) 've(20) owned(21) the(22) car(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			GM(1) told(2) our(3) dealer(4) that(5) they(6) knew(7) they(8) had(9) some(10) vehicles(11) out(12) there(13) with(14) mileage(15) problems(16) ,(17) but(18) that(19) not(20) all(21) of(22) the(23) vehicles(24) had(25) the(26) problem(27) .(28) 
+		</sentence>
+		<sentence id="41">
+			They(1) do(2) not(3) know(4) how(5) to(6) correct(7) the(8) problem(9) either(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			HHHmmmm(1) .(2) 
+		</sentence>
+		<sentence id="43">
+			So(1) far(2) ,(3) all(4) that(5) has(6) been(7) done(8) was(9) add(10) air(11) to(12) the(13) tires(14) ,(15) and(16) continue(17) to(18) do(19) mileage(20) tests(21) .(22) ((23) My(24) fill-ups(25) and(26) mileage(27) reports(28) were(29) not(30) good(31) enough(32) .(33) )(34) GM(35) knows(36) there(37) 's(38) a(39) problem(40) with(41) this(42) engine(43) .(44) 
+			<opinion polarity="-" feature="gas" featWords="27" opWords="30,31,32"/>
+		</sentence>
+		<sentence id="44">
+			They(1) have(2) no(3) answers(4) .(5) 
+		</sentence>
+		<sentence id="45">
+			I(1) will(2) follow-up(3) as(4) this(5) problem(6) progresses(7) .(8) 
+		</sentence>
+		<sentence id="46">
+			At(1) one(2) point(3) ,(4) GM(5) indicated(6) that(7) the(8) gas(9) tank(10) was(11) prone(12) to(13) air(14) bubbles(15) ,(16) and(17) that(18) we(19) were(20) not(21) using(22) the(23) recommended(24) method(25) of(26) filling(27) the(28) tank(29) .(30) 
+		</sentence>
+		<sentence id="47">
+			AArrrgh(1) .(2) 
+		</sentence>
+		<sentence id="48">
+			The(1) visibility(2) for(3) the(4) driver(5) is(6) good(7) to(8) the(9) front(10) and(11) horrible(12) to(13) the(14) rear(15) .(16) 
+		</sentence>
+		<sentence id="49">
+			The(1) right(2) quarter(3) blind(4) spot(5) is(6) huge(7) and(8) aggravated(9) by(10) the(11) back(12) seat(13) headrests(14) that(15) block(16) the(17) tiny(18) diamond(19) shape(20) windows(21) in(22) the(23) rear(24) quarter(25) panels(26) .(27) 
+		</sentence>
+		<sentence id="50">
+			The(1) interior(2) of(3) this(4) car(5) is(6) good(7) .(8) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="51">
+			Mechanically(1) ,(2) this(3) car(4) has(5) been(6) a(7) huge(8) disappointment(9) .(10) 
+		</sentence>
+		<sentence id="52">
+			As(1) we(2) continue(3) with(4) our(5) gas(6) mileage(7) issue(8) ,(9) I(10) 'll(11) follow-up(12) ,(13) regardless_of(14) the(15) court(16) date(17) ,(18) outcome(19) ,(20) and(21) final(22) verdict(23) .(24) 
+		</sentence>
+		<sentence id="53">
+			With(1) gas(2) at(3) over(4) $2/gallon(5) ,(6) and(7) the(8) advertised(9) mileage(10) being(11) no(12) where(13) close(14) ,(15) I(16) 'd(17) stay(18) away(19) from(20) the(21) Chevy_Equinox(22) .(23) 
+		</sentence>
+		<sentence id="54">
+			UPDATE(1) -(2) For(3) some(4) reason(5) ,(6) our(7) dealer(8) was(9) unable(10) to(11) produce(12) copies(13) of(14) every(15) work(16) order(17) that(18) has(19) been(20) done(21) on(22) this(23) vehicle(24) .(25) 
+		</sentence>
+		<sentence id="55">
+			Whenever(1) we(2) would(3) go(4) to(5) pick(6) it(7) up(8) ,(9) they(10) would(11) smile(12) and(13) say(14) "(15) it(16) 's(17) warranty(18) "(19) and(20) no(21) paperwork(22) was(23) involved(24) .(25) 
+		</sentence>
+		<sentence id="56">
+			To(1) apply(2) a(3) lemon(4) law(5) qualifier(6) ,(7) one(8) must(9) of(10) course(11) have(12) all(13) documentation(14) .(15) 
+		</sentence>
+		<sentence id="57">
+			Funny(1) how(2) dealers(3) and(4) manufacturers(5) are(6) familiar(7) with(8) this(9) .(10) 
+		</sentence>
+		<sentence id="58">
+			As(1) consumers(2) ,(3) we(4) accept(5) their(6) word(7) and(8) smiles(9) ,(10) until(11) we(12) realize(13) that(14) these(15) companies(16) are(17) really(18) covering(19) their(20) own(21) rear(22) ends(23) .(24) 
+		</sentence>
+		<sentence id="59">
+			There(1) is(2) a(3) lesson(4) there(5) -(6) always(7) get(8) copies(9) of(10) work(11) orders(12) ,(13) no(14) matter(15) how(16) ridiculous(17) it(18) may(19) appear(20) .(21) 
+		</sentence>
+		<sentence id="60">
+			Long(1) story(2) short(3) -(4) another(5) dealer(6) offered(7) me(8) a(9) great(10) trade-in(11) value(12) ,(13) and(14) sold(15) me(16) a(17) Mercury_Mariner_Premier(18) .(19) 
+		</sentence>
+		<sentence id="61">
+			I(1) no_longer(2) own(3) an(4) Equinox(5) ,(6) after(7) owning(8) it(9) for(10) 6(11) months(12) .(13) 
+		</sentence>
+		<sentence id="62">
+			Traded(1) it(2) away(3) with(4) 6300(5) total(6) miles(7) .(8) 
+		</sentence>
+		<sentence id="63">
+			Too(1) many(2) mechanical(3) issues(4) ,(5) too(6) low(7) gas(8) mileage(9) ,(10) and(11) lack(12) of(13) dealer(14) and(15) GM(16) support(17) are(18) the(19) reasons(20) we(21) 've(22) moved(23) on(24) .(25) 
+		</sentence>
+		<sentence id="64">
+			Interestingly(1) enough(2) ,(3) our(4) car(5) insurance(6) will(7) go(8) down(9) $150/year(10) ((11) State_Farm(12) )(13) ,(14) on(15) our(16) new(17) Mercury_Mariner(18) .(19) 
+		</sentence>
+		<sentence id="65">
+			Will(1) review(2) Mariner(3) after(4) owning(5) it(6) for(7) a(8) few(9) months(10) ...(11) Amount_Paid(12) ((13) US(14) $(15) )(16) :(17) 26000(18) Condition(19) :(20) NewModel_Year(21) :(22) 2005Model(23) and(24) Options(25) :(26) LT_AWD(27) 
+		</sentence>
+	</text>
+</review>

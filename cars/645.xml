@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="645" item="2003 Toyota Matrix" rating="1">
+	<title>
+		<sentence id="1">
+			read(1) this(2) review(3) and(4) save(5) your(6) money(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) only(2) positive(3) thing(4) about(5) this(6) car(7) is(8) that(9) the(10) doors(11) lock(12) well(13) !(14) 
+			<opinion polarity="+" feature="door" featWords="11" opWords="12,13"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			terrible(1) gas(2) mileage(3) /(4) rattling(5) ((6) random(7) )(8) /(9) leaping(10) forward(11) at(12) stops(13) ((14) random(15) )(16) /(17) sticky(18) windows(19) 
+			<opinion polarity="-" feature="window" featWords="19" opWords="18"/>
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) Toyota_Matrix(5) 2003(6) XR(7) ((8) in(9) may_of_2003(10) )(11) because(12) I(13) wanted(14) a(15) reliable(16) car(17) with(18) good(19) gas(20) mileage(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="20,21" opWords="19"/>
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) I(3) have(4) not(5) had(6) anything(7) but(8) trouble(9) with(10) this(11) car(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			After(1) the(2) first(3) few(4) thousand(5) miles(6) it(7) started(8) rattling(9) so(10) loudly(11) that(12) I(13) would(14) get(15) headaches(16) coming(17) home(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) mileage(2) started(3) declining(4) steadily(5) from(6) 28(7) to(8) 22(9) ((10) it(11) is(12) supposed(13) to(14) get(15) 28-32_miles(16) per(17) gallon(18) based(19) on(20) their(21) ads(22) )(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) dangerous(3) problem(4) is(5) that(6) the(7) car(8) leaps(9) forward(10) ((11) randomly(12) )(13) when(14) I(15) stop(16) at(17) stop(18) lights(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			It(1) takes(2) the(3) breath(4) out(5) of(6) me(7) because(8) it(9) feels(10) like(11) someone(12) rear-ended(13) me(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) in(3) the(4) summer(5) time(6) the(7) windows(8) stick(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			I(1) took(2) it(3) to(4) the(5) dealer(6) ship(7) several(8) times(9) and(10) they(11) tell(12) me(13) everything(14) is(15) fine(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) even(2) taped(3) the(4) rattling(5) noise(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Today_I(1) took(2) it(3) to(4) the(5) dealership(6) ((7) toyota(8) 101(9) in(10) Redwood_City(11) ,(12) California(13) )(14) for(15) its(16) 25k(17) maintenance(18) and(19) they(20) gave(21) me(22) the(23) estimate(24) of(25) $330(26) to(27) just(28) run(29) the(30) diagnostics(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			I(1) can(2) not(3) wait(4) to(5) sell(6) this(7) car(8) and(9) get(10) myself(11) a(12) Honda(13) ((14) Honda(15) was(16) my(17) first(18) car(19) and(20) I(21) had(22) it(23) for(24) 9(25) wonderful(26) years(27) with(28) no(29) problem(30) )(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) 
+		</sentence>
+	</text>
+</review>

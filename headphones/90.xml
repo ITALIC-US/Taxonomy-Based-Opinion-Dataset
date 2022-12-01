@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="90" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Everything_I(1) expected(2) --(3) great(4) sound(5) ,(6) good(7) value(8) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) noise(2) attenuation(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			heavy(1) 
+			<opinion polarity="-" feature="weight" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) read(2) a_lot_of(3) reviews(4) of(5) these(6) headphones(7) before(8) I(9) bought(10) them(11) and(12) I(13) agree(14) with(15) most(16) of(17) them(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			These(1) headphones(2) are(3) a(4) great(5) value(6) and(7) have(8) good(9) sound(10) .(11) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) not(3) meant(4) for(5) jogging(6) and(7) they(8) 're(9) not(10) terribly(11) styling(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) comfortable(3) except(4) when(5) wearing(6) horn-rimmed(7) glasses(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bass(2) is(3) good(4) ((5) you(6) can(7) not(8) expect(9) speaker(10) quality(11) because(12) some(13) soundwaves(14) are(15) several(16) feet(17) long(18) ,(19) which(20) is(21) impossible(22) in(23) any(24) headphone(25) )(26) and(27) there(28) is(29) nothing(30) cheap(31) or(32) hollow(33) about(34) them(35) .(36) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Audiophiles(1) seem(2) to(3) think(4) these(5) are(6) good(7) intro(8) headphones(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) love(2) live(3) music(4) and(5) these(6) headphones(7) really(8) make(9) my(10) day(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			No(1) disappointment(2) .(3) 
+		</sentence>
+		<sentence id="9">
+			The(1) reason(2) that(3) I(4) bought(5) these(6) over(7) some(8) less(9) expensive(10) headphones(11) with(12) good(13) sound(14) quality(15) is(16) that(17) the(18) noise-attenuation(19) is(20) excellent(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) spend(3) more(4) money(5) on(6) noise-cancelling(7) headphones(8) and(9) sacrifice(10) sound(11) quality(12) .(13) 
+		</sentence>
+	</text>
+</review>

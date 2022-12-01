@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="648" item="2002 Honda CR-V" rating="1">
+	<title>
+		<sentence id="1">
+			Disappointed(1) in_2002(2) CR-V_Quality(3) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Performance(1) ;(2) Cargo(3) room(4) ;(5) One-piece(6) rear(7) door(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			AC_Performance(1) ;(2) Poor_Quality(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Can(1) not(2) recommend(3) the(4) CRV(5) due(6) to(7) ongoing(8) quality(9) issues(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Performance(1) and(2) drivability(3) is(4) great(5) ,(6) interior(7) design(8) is(9) reasonably(10) good(11) and(12) fuel(13) economy(14) is(15) reasonable(16) for(17) a(18) 4WD(19) model(20) .(21) 
+			<opinion polarity="+" feature="gas" featWords="13,14" opWords="16"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="performance" featWords="1" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) bright(4) red(5) 2002(6) CRV_EX(7) new(8) in(9) February_,_2002(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) s(2) a(3) good(4) looking(5) vehicle(6) and(7) I(8) was(9) most(10) impressed(11) by(12) the(13) improved(14) power(15) over(16) the(17) 2001(18) model(19) .(20) 
+			<opinion polarity="+" feature="horsepower" featWords="15" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4,5"/>
+		</sentence>
+		<sentence id="3">
+			Overall(1) ,(2) I(3) ve(4) been(5) very(6) please(7) with(8) drivability(9) and(10) performance(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) ve(2) been(3) very(4) disappointed(5) in(6) the(7) quality(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			Performance(1) :(2) The(3) new(4) more(5) powerful(6) engine(7) makes(8) a(9) big(10) difference(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) find(2) that(3) it(4) has(5) good(6) power(7) in(8) the(9) city(10) and(11) on(12) the(13) freeway(14) .(15) 
+			<opinion polarity="+" feature="horsepower" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			In(1) the(2) mountains(3) ,(4) performance(5) is(6) reasonable(7) .(8) 
+			<opinion polarity="+" feature="performance" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) transmission(2) shifts(3) smoothly(4) under(5) most(6) all(7) conditions(8) .(9) 
+			<opinion polarity="+" feature="transmission" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="9">
+			The(1) vehicle(2) handles(3) well(4) and(5) the(6) turning(7) radius(8) is(9) the(10) best(11) I(12) ve(13) ever(14) experienced(15) .(16) 
+			<opinion polarity="+" feature="turning radius" featWords="7,8" opWords="11"/>
+			<opinion polarity="+" feature="handling" opWords="3,4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) engine(2) is(3) smooth(4) ,(5) but(6) a_bit(7) noisy(8) .(9) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			Gas(1) mileage(2) in(3) town(4) started(5) at(6) around(7) 20(8) to(9) 21(10) ,(11) but(12) after(13) about(14) 10000_miles(15) it(16) now(17) is(18) consistently(19) at(20) 23(21) to(22) 24(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			Gas(1) mileage(2) on(3) the(4) freeway(5) is(6) not(7) a(8) whole(9) lot(10) better(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Features(1) :(2) The(3) features(4) I(5) like(6) best(7) are(8) the(9) one-piece(10) rear(11) door(12) ,(13) brake(14) lever(15) in(16) dash(17) ,(18) large(19) cargo(20) area(21) with(22) rear(23) seat(24) folded(25) down(26) and(27) the(28) deep(29) tint(30) rear(31) glass(32) ((33) not(34) available(35) in(36) the(37) older(38) CRV(39) model(40) ,(41) 2001(42) and(43) prior(44) )(45) .(46) 
+		</sentence>
+		<sentence id="14">
+			What(1) I(2) would(3) like(4) to(5) see(6) improved(7) is(8) front(9) seat(10) comfort(11) ((12) seats(13) not(14) deep(15) enough(16) for(17) tall(18) people(19) )(20) and(21) air(22) conditioning(23) performance(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			My_BIG(1) disappointment(2) in(3) the(4) vehicle(5) is(6) quality(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			I(1) have(2) owned(3) 3(4) Honda_Accords(5) ,(6) including(7) a(8) 1984(9) ,(10) 1994(11) and(12) 1998(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			My(1) son(2) still(3) drives(4) the(5) 1998(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			All(1) have(2) been(3) excellent(4) in(5) terms(6) of(7) quality(8) ,(9) with(10) minimal(11) defects(12) and(13) very(14) few(15) dealer(16) visits(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			Unfortunately(1) ,(2) the(3) CRV(4) is(5) not(6) conforming(7) to(8) this(9) great(10) record(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			I(1) ve(2) had(3) way(4) too(5) many(6) problems(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Here(1) s(2) the(3) rundown(4) :(5) Required(6) repairs(7) :(8) Loose(9) drivers(10) seat(11) ;(12) sun(13) visors(14) that(15) will(16) not(17) stay(18) in(19) position(20) ((21) fall(22) down(23) in(24) front(25) of(26) your(27) eyes(28) )(29) ;(30) poor(31) AC(32) performance(33) ,(34) AC(35) compressor(36) failure(37) ,(38) noisy(39) AC(40) compressor(41) on(42) replacement(43) compressor(44) ,(45) etc.(46) Then(47) ,(48) to(49) make(50) matters(51) worse(52) ,(53) many(54) of(55) these(56) items(57) did(58) not(59) get(60) fixed(61) on(62) the(63) first(64) dealer(65) visit(66) .(67) 
+			<opinion polarity="-" feature="ac" featWords="40" opWords="39"/>
+			<opinion polarity="-" feature="ac" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="22">
+			The(1) sun(2) visors(3) ,(4) for_example(5) ,(6) have(7) resulted(8) in(9) 3(10) trips(11) to(12) the(13) dealer(14) ,(15) were(16) replaced(17) once(18) ,(19) and(20) now(21) still(22) fall(23) down(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			It(1) s(2) back(3) in(4) the(5) shop(6) for(7) the(8) AC(9) again(10) now(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			There(1) are(2) many(3) other(4) things(5) that(6) have(7) disappointed(8) me(9) ,(10) but(11) that(12) are(13) either(14) not(15) worth(16) pursuing(17) or(18) that(19) plain(20) can(21) not(22) be(23) fixed(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="25">
+			These(1) include(2) flimsy(3) accessory(4) tray(5) between(6) seats(7) ;(8) zipper(9) stuck(10) on(11) spare(12) tire(13) cover(14) ;(15) cargo(16) cover(17) that(18) is(19) poorly(20) designed(21) ((22) blocks(23) access(24) to(25) cargo(26) area(27) )(28) ;(29) noisy(30) rear(31) brakes(32) .(33) 
+			<opinion polarity="-" feature="brakes" featWords="32" opWords="30"/>
+			<opinion polarity="-" feature="design" opWords="20,21"/>
+		</sentence>
+		<sentence id="26">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21(7) ,(8) 250(9) Condition(10) :(11) NewModel_Year(12) :(13) 2002Model(14) and(15) Options(16) :(17) EX(18) ,(19) no(20) options(21) 
+		</sentence>
+	</text>
+</review>

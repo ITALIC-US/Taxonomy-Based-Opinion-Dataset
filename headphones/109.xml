@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="109" item="Logitech (980435) Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			To(1) bad(2) to(3) be(4) used(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) .(3) 
+			<opinion polarity="+" feature="appearance" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Cheap(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) sound(2) quality(3) .(4) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) bought(3) these(4) headphones(5) to(6) use(7) while(8) running(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) fits(2) the(3) head(4) ok(5) ,(6) and(7) looks(8) fine(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="2,5"/>
+			<opinion polarity="+" feature="appearance" opWords="8,9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) cord(2) is(3) also(4) soft(5) and(6) cool(7) looking(8) .(9) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="cord" featWords="2" opWords="7,8"/>
+		</sentence>
+		<sentence id="4">
+			But(1) the(2) sound(3) quality(4) is(5) really(6) bad(7) .(8) 
+			<opinion polarity="-" feature="sound quality" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="5">
+			It(1) lacks(2) detail(3) and(4) has(5) almost(6) no(7) bass(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			I(1) will(2) not(3) use(4) these(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			I(1) will(2) try(3) to(4) find(5) something(6) better(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			In_the_meantime(1) I(2) will(3) use(4) my(5) Koss_Portapros(6) .(7) 
+		</sentence>
+	</text>
+</review>

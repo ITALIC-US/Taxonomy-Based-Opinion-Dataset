@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="146" item="2004 BMW 3 Series" rating="4">
+	<title>
+		<sentence id="1">
+			Better(1) going(2) older(3) or(4) newer(5) ,(6) or(7) buy(8) new(9) and(10) pick(11) up(12) at(13) the(14) factory(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			probably(1) still(2) the(3) best(4) in(5) its(6) time(7) ,(8) powerful(9) fun(10) drive(11) ,(12) good(13) compromize(14) 
+			<opinion polarity="+" feature="drive" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="drive" featWords="11" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) as(2) refined(3) as(4) its(5) immediate(6) predecessor(7) ,(8) funky(9) design(10) cues(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			worth(1) considering(2) ,(3) but(4) expand(5) your(6) search(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) leased(2) this(3) car(4) for(5) 3(6) years(7) from(8) 2004(9) to(10) 2007(11) ,(12) after(13) having(14) leased(15) a(16) 2001(17) e46(18) ((19) prior(20) to(21) the(22) smiley(23) faced(24) bangle(25) refresh(26) )(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Looks(1) aside(2) ,(3) this(4) car(5) had(6) every(7) reason(8) to(9) be(10) a(11) better(12) automobile(13) ,(14) especially(15) from(16) someone(17) used(18) to(19) one(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) an(3) absolutely(4) fantastic(5) experience(6) with(7) performance(8) center(9) delivery(10) ,(11) where(12) they(13) let(14) you(15) take(16) you(17) out(18) on(19) a(20) track(21) with(22) a(23) car(24) similar(25) to(26) your(27) own(28) new(29) one(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			While(1) I(2) did(3) cheap(4) out(5) a(6) little(7) and(8) get(9) a(10) smaller(11) engine(12) ,(13) to(14) use(15) the(16) money(17) to(18) get(19) an(20) auto(21) my(22) wife(23) could(24) drive(25) ((26) the(27) SMG(28) ,(29) not(30) the(31) stock(32) slushbox(33) )(34) ,(35) there(36) were(37) many(38) little(39) things(40) that(41) made(42) this(43) car(44) not(45) as(46) enjoyable(47) as(48) its(49) predecessor(50) .(51) 
+		</sentence>
+		<sentence id="5">
+			For(1) one(2) ,(3) the(4) build(5) quality(6) was(7) not(8) as(9) good(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) rattled(3) a(4) little(5) ,(6) and(7) the(8) door(9) closing(10) sound(11) was(12) more(13) like(14) a(15) big(16) american(17) beast(18) than(19) the(20) tight(21) fitting(22) 2001(23) I(24) had(25) enjoyed(26) .(27) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			I(1) believe(2) this(3) was(4) in(5) part(6) due(7) to(8) the(9) extra(10) door(11) safety(12) supports(13) they(14) added(15) ,(16) so(17) perhaps(18) it(19) was(20) not(21) a(22) build(23) quality(24) but(25) a(26) design(27) issue(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			In_addition(1) ,(2) the(3) door(4) remote(5) double(6) click(7) speed(8) would(9) require(10) multiple(11) attempts(12) to(13) open(14) the(15) other(16) doors(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) found(2) this(3) a(4) daily(5) frustration(6) dealing(7) with(8) the(9) car(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			I(1) also(2) opted(3) for(4) the(5) xenon(6) headlamps(7) ,(8) which(9) are(10) great(11) for(12) someone(13) like(14) me(15) who(16) can(17) not(18) see(19) very(20) well(21) at(22) night(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) bangle(2) design(3) totally(4) screwed(5) up(6) this(7) as(8) the(9) headlight(10) pattern(11) had(12) all(13) sorts(14) of(15) holes(16) in(17) it(18) due(19) to(20) the(21) funky(22) headlamp(23) design(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			BMW(1) to(2) me(3) should(4) be(5) about(6) driving(7) and(8) not(9) about(10) looking(11) cool(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Even_if(1) I(2) liked(3) the(4) design(5) updates(6) ,(7) which(8) I(9) did(10) not(11) ,(12) they(13) should(14) have(15) been(16) more(17) about(18) function(19) than(20) cues(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			If(1) I(2) had(3) to(4) buy(5) a(6) used(7) one(8) ,(9) I(10) would(11) definitely(12) look(13) for(14) one(15) prior(16) to(17) the(18) bangle(19) facelift(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) 325i(16) sport(17) smg(18) 
+		</sentence>
+	</text>
+</review>

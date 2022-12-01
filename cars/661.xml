@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="661" item="2001 BMW X5" rating="2">
+	<title>
+		<sentence id="1">
+			defects(1) equal(2) disappointment(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handles(1) well(2) in(3) bad(4) weather(5) ;(6) one(7) of(8) safest(9) cars(10) on(11) road(12) ;(13) fun(14) to(15) drive(16) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+			<opinion polarity="+" feature="safety" opWords="9"/>
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) many(2) defects(3) in(4) the(5) interior(6) of(7) the(8) vehicle(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'm(2) tired(3) of(4) owning(5) this(6) car(7) because_of(8) too(9) many(10) tiny(11) defects(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) wish(2) I(3) 'd(4) leased(5) it(6) ,(7) because(8) I(9) 'd(10) hand(11) the(12) keys(13) back(14) and(15) find(16) another(17) model(18) to(19) drive(20) .(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) my(3) 2001(4) X5(5) just(6) less(7) than(8) three(9) years(10) ago(11) ,(12) and(13) 22,000_miles(14) later(15) it(16) has(17) been(18) at(19) the(20) service(21) department(22) ELEVEN_times(23) for(24) annoying(25) defects(26) :(27) 1(28) )(29) a(30) passenger(31) outside(32) door(33) handle(34) was(35) jammed(36) ,(37) preventing(38) the(39) window(40) in(41) that(42) door(43) from(44) rolling(45) up(46) and(47) causing(48) the(49) door(50) to(51) be(52) stuck(53) shut(54) .(55) 2,3,4(56) )(57) the(58) stereo(59) was(60) replaced(61) three_times(62) due(63) to(64) faulty(65) operation(66) .(67) 5,6(68) )(69) the(70) telescope(71) steering(72) wheel(73) was(74) in(75) the(76) shop(77) twice(78) due(79) to(80) a(81) "(82) farting(83) "(84) noise(85) it(86) made(87) when(88) it(89) retracted(90) .(91) 7(92) )(93) the(94) telescope(95) steering(96) stopped(97) working(98) altogether(99) .(100) 8(101) )(102) an(103) airbag(104) light(105) illuminated(106) itself(107) on(108) the(109) dash(110) ,(111) indicating(112) the(113) passenger(114) airbag(115) was(116) not(117) working(118) ((119) it(120) was(121) working(122) fine(123) ,(124) by(125) the(126) way(127) --(128) the(129) light(130) just(131) came(132) on(133) for(134) no(135) reason(136) )(137) .(138) 9(139) )(140) the(141) interior(142) coloring(143) on(144) the(145) inside(146) driver(147) door(148) handle(149) peeled(150) off(151) .(152) 10(153) )(154) a(155) bolt(156) related(157) to(158) storing(159) the(160) spare(161) tire(162) snapped(163) off(164) .(165) 11(166) )(167) I(168) rolled(169) a(170) passenger(171) window(172) down(173) and(174) it(175) would(176) not(177) roll(178) back(179) up(180) .(181) 
+			<opinion polarity="+" feature="car" opWords="122,123"/>
+		</sentence>
+		<sentence id="2">
+			Also(1) ,(2) I(3) live(4) in(5) the(6) desert(7) and(8) the(9) air(10) conditioner(11) is(12) a(13) major(14) disappointment(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) takes(2) 20-25(3) minutes(4) for(5) it(6) to(7) reasonably(8) cool(9) the(10) car(11) on(12) a(13) day(14) that(15) 's(16) over(17) 80(18) degrees(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) never(3) gets(4) cold(5) ,(6) it(7) just(8) gets(9) bearable(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) love(3) the(4) way(5) the(6) X5(7) drives(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			It(1) feels(2) like(3) a(4) car(5) and(6) not(7) a(8) truck(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) a(3) 1(4) year-old(5) child(6) and(7) I(8) 'm(9) thrilled(10) to(11) have(12) her(13) in(14) a(15) car(16) that(17) 's(18) so(19) safe(20) and(21) handles(22) so(23) well(24) in(25) poor(26) weather(27) conditions(28) .(29) 
+			<opinion polarity="+" feature="safety" opWords="20"/>
+			<opinion polarity="+" feature="handling" opWords="22,24"/>
+		</sentence>
+		<sentence id="8">
+			But(1) I(2) 'm(3) terrified(4) to(5) keep(6) this(7) car(8) once(9) the(10) warranty(11) is(12) up(13) because_of(14) all(15) the(16) above-mentioned(17) problems(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			I(1) will(2) never(3) buy(4) a(5) first-year(6) car(7) model(8) ever(9) again(10) ,(11) and(12) I(13) question(14) whether(15) or(16) not(17) I(18) will(19) keep(20) my(21) X5(22) past(23) the(24) expiration(25) of(26) its(27) warranty(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) not(3) fully(4) trust(5) it(6) due(7) to(8) the(9) handfuls(10) of(11) annoying(12) problems(13) I(14) 've(15) had(16) in(17) such(18) little(19) time(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Boo(1) on(2) BMW(3) .(4) 
+		</sentence>
+		<sentence id="12">
+			If(1) anyone(2) reading(3) this(4) review(5) has(6) had(7) similar(8) problems(9) with(10) this(11) car(12) ,(13) please(14) comment(15) in(16) your(17) review(18) of(19) this(20) review(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 44,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

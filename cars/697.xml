@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="697" item="2003 Honda CR-V" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) 2003(2) Honda_CR-V(3) ,(4) not(5) what(6) you(7) think(8) !(9) 
+		</sentence>
+		<sentence id="2">
+			Bad_MPG(1) ,(2) etc(3) ,(4) read(5) on(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) motor(2) ,(3) dependability(4) ,(5) popular(6) style(7) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Always(1) in(2) 4x4(3) ,(4) bad(5) mpg(6) ,(7) no(8) OD(9) ,(10) wind(11) /(12) tire(13) noise(14) ,(15) ride(16) ,(17) weak(18) power(19) ,(20) wheels(21) rusting(22) 
+			<opinion polarity="-" feature="horsepower" featWords="19" opWords="18"/>
+			<opinion polarity="-" feature="gas" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="wheel" featWords="21" opWords="22"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Always(1) in(2) 4x4(3) ,(4) bad(5) mpg(6) ,(7) no(8) OD(9) ,(10) wind(11) /(12) tire(13) noise(14) ,(15) bad(16) ride(17) ,(18) weak(19) power(20) ,(21) wheels(22) rusting(23) ,(24) dealer(25) no(26) help(27) ,(28) warranty(29) is(30) the(31) worst(32) .(33) 
+			<opinion polarity="-" feature="gas" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="warranty" featWords="29" opWords="32"/>
+			<opinion polarity="-" feature="wheel" featWords="22" opWords="23"/>
+			<opinion polarity="-" feature="horsepower" featWords="20" opWords="19"/>
+			<opinion polarity="-" feature="ride quality" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			Never(1) again(2) !(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			From(1) an(2) owner(3) of(4) over(5) 25(6) cars(7) and(8) trucks(9) in(10) the(11) past(12) ,(13) and(14) someone(15) who(16) works(17) in(18) automotive(19) engineering(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) a(3) new(4) 2003(5) CR-V(6) ,(7) at(8) first(9) it(10) was(11) not(12) too(13) bad(14) ,(15) then(16) after(17) you(18) get(19) used(20) to(21) it(22) ,(23) well(24) you(25) do(26) not(27) really(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			You(1) start(2) to(3) notice(4) its(5) lack(6) of(7) power(8) ,(9) but(10) you(11) expect(12) that(13) in(14) a(15) 4(16) cylinder(17) to(18) make(19) up(20) for(21) gas(22) mileage(23) ,(24) wrong(25) !(26) 
+		</sentence>
+		<sentence id="4">
+			Here(1) are(2) the(3) 2(4) worst(5) things(6) about(7) ,(8) it(9) is(10) always(11) in(12) 4(13) wheel(14) drive(15) and(16) its(17) a(18) 4(19) cylinder(20) ,(21) therefore(22) you(23) get(24) bad(25) gas(26) mileage(27) and(28) it(29) has(30) to(31) rev(32) high(33) to(34) even(35) begin(36) to(37) get(38) going(39) ,(40) then(41) when(42) you(43) get(44) going(45) it(46) is(47) only(48) a(49) 3(50) speed(51) auto(52) ,(53) so(54) out(55) on(56) the(57) high(58) way(59) it(60) revs(61) a_bit(62) ,(63) wasting(64) even(65) more(66) gas(67) .(68) 
+			<opinion polarity="-" feature="gas" featWords="26,27" opWords="25"/>
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) think(3) I(4) 'm(5) kidding(6) find(7) the(8) review(9) written(10) by(11) "(12) Best(13) value(14) on(15) market(16) by(17) mrjyoung(18) ,(19) Mar(20) 14(21) '(22) 05(23) "(24) ,(25) this(26) person(27) said(28) they(29) were(30) getting(31) only(32) 20-22(33) mpg(34) in(35) mixed(36) driving(37) from(38) a(39) 4(40) cylinder(41) !(42) !(43) !(44) 20-22(45) is(46) what(47) almost(48) every(49) V(50) -(51) 8(52) truck(53) out(54) there(55) is(56) capable(57) of(58) and(59) I(60) 've(61) never(62) seen(63) a(64) V(65) -(66) 6(67) get(68) that(69) bad(70) of(71) gas(72) mileage(73) !(74) !(75) !(76) 
+		</sentence>
+		<sentence id="6">
+			This(1) person(2) also(3) agrees(4) that(5) is(6) has(7) road(8) noise(9) ,(10) is(11) not(12) at(13) all(14) an(15) off(16) road(17) vehicle(18) even_though(19) it(20) is(21) always(22) in(23) 4x4(24) ,(25) if(26) you(27) more(28) than(29) touch(30) any(31) of(32) the(33) interior(34) plastic(35) it(36) scratched(37) ,(38) and(39) is(40) so(41) weak(42) it(43) rolls(44) backwards(45) at(46) a(47) stop(48) on(49) a(50) little(51) grade(52) like(53) a(54) manual(55) trans(56) !(57) 
+		</sentence>
+		<sentence id="7">
+			What(1) were(2) they(3) thinking(4) when(5) they(6) put(7) a(8) 4(9) cylinder(10) in(11) something(12) that(13) is(14) good(15) sized(16) and(17) always(18) in(19) 4-wheel(20) drive(21) and(22) not(23) real(24) areo-dynamic(25) ?(26) !(27) 
+		</sentence>
+		<sentence id="8">
+			I(1) had(2) a(3) 2000(4) Chevy_Silverado(5) Z-71(6) extended(7) cab(8) 4x4(9) with(10) a(11) 5.3(12) V(13) -(14) 8(15) ,(16) 4-speed(17) auto(18) ,(19) I(20) kid(21) you(22) not(23) ,(24) the(25) CR-V(26) only(27) gets(28) a(29) few(30) miles(31) per(32) gallon(33) better(34) ,(35) the(36) Silverado(37) goes(38) into(39) 2(40) wheel(41) drive(42) and(43) runs(44) at(45) 1500(46) RPMs(47) down(48) the(49) highway(50) ,(51) the(52) CR-V(53) is(54) always(55) in(56) 4(57) wheel(58) and(59) runs(60) at(61) over(62) 2700(63) RPMs(64) ,(65) even_though(66) the(67) Silverado(68) has(69) twice(70) the(71) size(72) engine(73) it(74) runs(75) at(76) half(77) the(78) RPMs(79) so(80) do(81) the(82) math(83) 8(84) cylinders(85) at(86) 1500(87) RPMS(88) compared(89) to(90) 4(91) cylinders(92) at(93) 3000(94) RPMs(95) always(96) in(97) 4(98) wheel(99) ,(100) the(101) CR-v(102) just(103) barely(104) beat(105) it(106) ,(107) plus(108) you(109) can(110) pull(111) 7500(112) lbs(113) ,(114) compared(115) to(116) the(117) Honda(118) which(119) is(120) not(121) recommended(122) to(123) tow(124) at(125) all(126) and(127) if(128) you(129) do(130) ,(131) 1500(132) lbs(133) max(134) !(135) 
+		</sentence>
+		<sentence id="9">
+			The(1) CR-V(2) also(3) does(4) not(5) have(6) much(7) room(8) ,(9) I(10) does(11) have(12) some(13) head(14) room(15) ,(16) the(17) back(18) seats(19) will(20) not(21) even(22) come(23) out(24) !(25) 
+		</sentence>
+		<sentence id="10">
+			I(1) put(2) 3(3) chain(4) saw(5) in(6) the(7) back(8) and(9) they(10) barely(11) fit(12) with(13) back(14) seats(15) up(16) and(17) if(18) you(19) can(20) get(21) anything(22) in(23) it(24) ,(25) it(26) better(27) not(28) weight(29) much(30) !(31) 
+		</sentence>
+		<sentence id="11">
+			The(1) ride(2) is(3) very(4) hard(5) and(6) the(7) seats(8) do(9) not(10) give(11) at(12) all(13) when(14) you(15) do(16) hit(17) a(18) bump(19) and(20) are(21) stiff(22) .(23) 
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			Tire(1) noise(2) and(3) the(4) back(5) door(6) will(7) not(8) open(9) with(10) the(11) key(12) ,(13) it(14) just(15) pops(16) the(17) back(18) glass(19) open(20) which(21) if(22) you(23) do(24) not(25) notice(26) it(27) ,(28) could(29) blow(30) out(31) the(32) back(33) window(34) !(35) 
+		</sentence>
+		<sentence id="13">
+			The(1) other(2) thing(3) is(4) ,(5) it(6) maybe(7) just(8) my(9) scheisty(10) local(11) dealer(12) ,(13) they(14) do(15) not(16) seem(17) to(18) do(19) any(20) warranty(21) work(22) ,(23) the(24) rims(25) have(26) rust(27) spots(28) ,(29) even_though(30) it(31) is(32) garaged(33) 90_%(34) of(35) the(36) time(37) and(38) has(39) only(40) 19,000_miles(41) ,(42) my(43) dealer(44) lied(45) and(46) said(47) they(48) he(49) had(50) never(51) seen(52) 1(53) come(54) in(55) with(56) rusted(57) wheels(58) since(59) 1990(60) !(61) 
+		</sentence>
+		<sentence id="14">
+			Plus(1) the(2) window(3) rubbers(4) are(5) oxidized(6) ,(7) again(8) they(9) will(10) not(11) do(12) anything(13) ,(14) and(15) according_to(16) the(17) dealer(18) ,(19) most(20) are(21) made(22) in(23) Japan(24) ,(25) but(26) some(27) are(28) made(29) in(30) Britain(31) of(32) course(33) mine(34) was(35) ,(36) I(37) would(38) much(39) more(40) prefer(41) a(42) Japanese(43) 1(44) !(45) !(46) !(47) 
+		</sentence>
+		<sentence id="15">
+			OK(1) and(2) the(3) warranty(4) does(5) not(6) even(7) compare(8) to(9) the(10) others(11) ,(12) 3(13) yr(14) 36k(15) ,(16) I(17) think(18) even(19) Ford(20) and(21) GM(22) offer(23) better(24) warranties(25) ,(26) I(27) know(28) Dodge(29) does(30) !(31) 
+		</sentence>
+		<sentence id="16">
+			Since(1) it(2) is(3) 4x4(4) it(5) needs(6) many(7) different(8) service(9) visits(10) and(11) Honda(12) is(13) high(14) !(15) 
+		</sentence>
+		<sentence id="17">
+			OK(1) so(2) much(3) for(4) the(5) complaints(6) ,(7) Hondas(8) do(9) have(10) a(11) rep(12) for(13) running(14) forever(15) ((16) even_though(17) mine(18) was(19) not(20) made(21) in(22) Japan(23) )(24) ,(25) if(26) it(27) was(28) a(29) V(30) -(31) 6(32) and(33) you(34) could(35) take(36) it(37) out(38) of(39) 4(40) wheel(41) and(42) it(43) had(44) overdrive(45) ,(46) then(47) that(48) would(49) help(50) .(51) 
+		</sentence>
+		<sentence id="18">
+			Honda(1) used(2) to(3) make(4) an(5) accord(6) station(7) wagon(8) a(9) few(10) years(11) back(12) ,(13) you(14) could(15) likely(16) haul(17) the(18) same(19) amount(20) ,(21) have(22) a(23) much(24) better(25) ride(26) /(27) comfort(28) ,(29) much(30) better(31) mpg(32) ,(33) better(34) build(35) quality(36) ,(37) just(38) less(39) head(40) room(41) ,(42) no(43) 4x4(44) and(45) you(46) will(47) not(48) be(49) driving(50) exactly(51) what(52) everyone(53) else(54) is(55) !(56) !(57) !(58) !(59) 
+		</sentence>
+		<sentence id="19">
+			Unless(1) I(2) can(3) get(4) a(5) great(6) price(7) for(8) mine(9) on(10) resale(11) ,(12) I(13) will(14) never(15) buy(16) another(17) CR-V(18) !(19) !(20) !(21) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) toomuch(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) crv(16) lx(17) 
+		</sentence>
+	</text>
+</review>

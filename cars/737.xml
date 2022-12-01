@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="737" item="1999 BMW Z3" rating="1">
+	<title>
+		<sentence id="1">
+			Disappointment(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling_&_Acceleration(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noises(1) ?(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) bought(3) 99(4) M_Coupe(5) about(6) a(7) week(8) age(9) from(10) Southbay_BMW(11) in(12) California(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) really(2) loved(3) the(4) look(5) it(6) has(7) and(8) performance(9) that(10) I(11) heard(12) from(13) others(14) .(15) 
+			<opinion polarity="+" feature="performance" featWords="9" opWords="3" potency="2"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) I(3) am(4) not(5) sure(6) this(7) applies(8) to(9) my(10) car(11) only(12) or(13) not(14) ,(15) I(16) am(17) kind(18) of(19) disappointed(20) with(21) the(22) car(23) .(24) 
+			<opinion polarity="-" feature="car" featWords="23" opWords="20"/>
+		</sentence>
+		<sentence id="4">
+			I(1) used(2) to(3) have(4) 99(5) 328isa(6) which(7) has(8) European(9) look(10) instead_of(11) US(12) version(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Compare(1) to(2) that(3) ,(4) it(5) makes(6) some(7) funny(8) noises(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			One(1) from(2) underneath(3) the(4) car(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			It(1) sounds(2) like(3) some(4) metals(5) got(6) rusted(7) and(8) grinding(9) each(10) other(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) noticebly(3) big(4) sound(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			I(1) can(2) hear(3) it(4) when(5) I(6) drive(7) it(8) on(9) a(10) quiet(11) road(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Second(1) noise(2) is(3) coming(4) from(5) ,(6) I(7) guess(8) ,(9) engine(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			It(1) sounds(2) like(3) whistling(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			It(1) happens(2) after(3) I(4) take(5) off(6) my(7) foot(8) from(9) the(10) accelerator(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			It(1) becomes(2) pretty(3) big(4) after(5) I(6) drive(7) freeway(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			It(1) sounds(2) not(3) that(4) big(5) ,(6) but(7) kills(8) me(9) after(10) and(11) after(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			I(1) am(2) going(3) to(4) visit(5) the(6) service(7) center(8) ,(9) but(10) I(11) am(12) not(13) sure(14) how(15) they(16) are(17) going(18) to(19) handle(20) this(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			Anyway(1) ,(2) so(3) many(4) good(5) reviews(6) about(7) this(8) model(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			I(1) guess(2) I(3) purchased(4) problem(5) child(6) ?(7) ?(8) ?(9) ?(10) 
+		</sentence>
+	</text>
+</review>

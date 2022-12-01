@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="508" item="2001 Volkswagen Jetta TDI" rating="3">
+	<title>
+		<sentence id="1">
+			Get(1) a(2) warranty(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Drives(1) well(2) ;(3) lots(4) of(5) pep(6) ;(7) tough(8) car(9) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			beware(1) of(2) lots(3) of(4) electronic(5) "(6) stuff(7) "(8) it(9) 's(10) costly(11) ;(12) make(13) sure(14) engine(15) and(16) transmission(17) are(18) compatible(19) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			All(1) cars(2) have(3) problems(4) ;(5) despite(6) this(7) ,(8) we(9) 're(10) keeping(11) it(12) until(13) it(14) 's(15) no_longer(16) driveable(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) the(3) 2001(4) Jetta(5) and(6) have(7) had(8) a(9) few(10) expensive(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) has(3) a_lot_of(4) electronics(5) and(6) when(7) those(8) things(9) break(10) it(11) is(12) quite(13) costly(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			For_example(1) ,(2) two(3) electronic(4) sensors(5) in(6) the(7) engine(8) have(9) gone(10) out(11) -(12) ((13) one(14) is(15) the(16) mass(17) air(18) flow(19) sensor(20) that(21) I(22) 've(23) seen(24) many(25) people(26) have(27) a(28) problem(29) with(30) )(31) and(32) to(33) fix(34) the(35) sensors(36) ,(37) they(38) need(39) to(40) not(41) only(42) replace(43) them(44) ,(45) but(46) they(47) do(48) other(49) tests(50) which(51) the(52) customer(53) also(54) has(55) to(56) pay(57) for(58) .(59) 
+		</sentence>
+		<sentence id="4">
+			For_example(1) ,(2) they(3) needed(4) to(5) run(6) a(7) test(8) which(9) completely(10) cleaned(11) out(12) the(13) engine(14) of(15) carbon(16) particles(17) ((18) which(19) made(20) the(21) engine(22) dirty(23) when(24) the(25) sensors(26) went(27) out(28) )(29) .(30) 
+			<opinion polarity="-" feature="engine" featWords="22" opWords="23"/>
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) I(3) was(4) told(5) by(6) the(7) dealership(8) that(9) the(10) engine(11) in(12) the(13) 2.8L(14) was(15) too(16) powerful(17) for(18) the(19) transmission(20) and(21) that(22) they(23) 've(24) had(25) to(26) replace(27) many(28) transmissions(29) -(30) the(31) repairs(32) are(33) under(34) warranty(35) ,(36) but(37) it(38) had(39) to(40) be(41) replaced(42) when(43) the(44) car(45) was(46) under(47) 50,000_miles(48) .(49) 
+			<opinion polarity="-" feature="horsepower" opWords="16,17"/>
+		</sentence>
+		<sentence id="6">
+			So(1) ,(2) if(3) it(4) happened(5) once(6) ...(7) it(8) will(9) happen(10) again(11) because(12) they(13) put(14) the(15) same(16) kind(17) of(18) transmission(19) back(20) in(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Corporate_VW(1) did(2) send(3) a(4) letter(5) saying(6) that(7) some(8) people(9) could(10) get(11) a(12) refund(13) on(14) the(15) sensors(16) ,(17) however(18) not(19) the(20) tests(21) that(22) the(23) mechanics(24) have(25) to(26) run(27) after(28) the(29) sensors(30) break(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			Plus(1) ,(2) we(3) sent(4) in(5) the(6) information(7) on(8) the(9) refund(10) three(11) months(12) ago(13) and(14) have(15) not(16) heard(17) a(18) word(19) since(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) has(3) been(4) faithful(5) ,(6) but(7) the(8) people(9) building(10) and(11) designing(12) them(13) need(14) to(15) make(16) some(17) changes(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) 2.8L(16) automatic(17) 
+		</sentence>
+	</text>
+</review>

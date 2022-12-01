@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="700" item="2003 Honda CR-V" rating="2">
+	<title>
+		<sentence id="1">
+			Honda_C-RV(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Space(1) ,(2) price(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Brakes(1) ,(2) reliability(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) can(2) only(3) rate(4) this(5) vehicle(6) as(7) average(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) drive(2) between(3) 30(4) and(5) 35k_miles(6) per(7) year(8) and(9) always(10) have(11) new(12) vehicles(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) was(3) bought(4) from(5) new(6) in_2004(7) and(8) I(9) have(10) had(11) a(12) number(13) of(14) problems(15) from(16) the(17) passenger(18) seat(19) ,(20) suspension(21) ,(22) steering(23) ,(24) uneven(25) tyre(26) wear(27) and(28) most(29) frequently(30) rear(31) brakes(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			The(1) rear(2) brakes(3) have(4) been(5) a(6) persistent(7) problem(8) and(9) the(10) car(11) has(12) been(13) back(14) to(15) the(16) garage(17) numerous(18) times(19) with(20) only(21) short(22) term(23) fixes(24) applied(25) .(26) has(27) required(28) a(29) tow(30) truck(31) once(32) to(33) get(34) me(35) home(36) .(37) 
+		</sentence>
+		<sentence id="5">
+			Not(1) what(2) you(3) expect(4) from(5) a(6) modern(7) car(8) and(9) compares(10) very(11) poorly(12) against(13) my(14) other(15) car(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Controls(1) are(2) poorly(3) laid(4) out(5) although(6) the(7) car(8) handles(9) well(10) for(11) this(12) style(13) of(14) vehicle(15) .(16) 
+			<opinion polarity="+" feature="handling" opWords="9,10"/>
+			<opinion polarity="-" feature="controls" featWords="1" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="7">
+			Have(1) a(2) sister(3) -(4) in(5) law(6) -(7) who(8) not(9) knowing(10) my(11) views(12) -(13) bought(14) an(15) identical(16) model(17) but(18) returned(19) it(20) within(21) a(22) week(23) due(24) to(25) faults(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			Would(1) not(2) buy(3) a(4) Honda(5) again(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2004Model(12) and(13) Options(14) :(15) Honda_C-RV(16) 
+		</sentence>
+	</text>
+</review>

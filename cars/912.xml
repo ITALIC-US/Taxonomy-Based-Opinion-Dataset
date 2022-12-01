@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="912" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			Rather(1) strange(2) ,(3) really(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			gutsy(1) styling(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			fragile(1) and(2) expensive(3) to(4) fix(5) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) amending(3) this(4) opinion(5) to(6) answer(7) the(8) criticism(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Please(1) go(2) to(3) the(4) end(5) to(6) see(7) the(8) retort(9) ((10) rather(11) than(12) replying(13) individually(14) )(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) read(3) the(4) comments(5) ,(6) you(7) can(8) see(9) what(10) I(11) am(12) addressing(13) .(14) **************************(15) Ok(16) ,(17) the(18) decision(19) to(20) go(21) into(22) production(23) with(24) this(25) radically(26) retro(27) car(28) was(29) a(30) gutsy(31) one(32) for(33) VW(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) done(3) very(4) well(5) and(6) certain(7) people(8) really(9) like(10) it(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="5">
+			It(1) also(2) gets(3) merits(4) for(5) being(6) safe(7) in(8) a(9) collision(10) ,(11) something(12) the(13) original(14) Beetle(15) was(16) not(17) good(18) at(19) .(20) 
+			<opinion polarity="-" feature="car" opWords="17,18"/>
+			<opinion polarity="+" feature="safety" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) and(3) you(4) knew(5) this(6) was(7) coming(8) ,(9) this(10) is(11) an(12) old(13) car(14) under(15) the(16) skin(17) and(18) many(19) compromises(20) were(21) made(22) to(23) fit(24) the(25) new(26) body(27) shape(28) over(29) the(30) old(31) components(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			See(1) my(2) Jetta(3) review(4) for(5) a(6) more(7) detailed(8) "(9) expose(10) "(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Be(1) very(2) careful(3) about(4) running(5) into(6) things(7) like(8) debris(9) or(10) small(11) animals(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			A(1) huge(2) amount(3) of(4) damage(5) will(6) result(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			It(1) seems(2) that(3) the(4) air(5) conditioner(6) condensor(7) ((8) the(9) part(10) that(11) looks(12) like(13) a(14) radiator(15) )(16) will(17) be(18) broken(19) almost(20) every(21) time(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			To(1) take(2) the(3) part(4) out(5) ,(6) the(7) entire(8) front(9) end(10) must(11) be(12) removed(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Some(1) of(2) these(3) parts(4) are(5) a(6) sort(7) of(8) fiber(9) material(10) and(11) are(12) probably(13) broken(14) as_well(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Try(1) the(2) A(3) /(4) C(5) after(6) any(7) collision(8) ,(9) however(10) small(11) ,(12) especially(13) if(14) it(15) is(16) someone(17) elses(18) fault(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			If(1) it(2) does(3) not(4) work(5) ,(6) then(7) the(8) condensor(9) is(10) damaged(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) difficult(3) body(4) work(5) and(6) if(7) the(8) collision(9) was(10) even(11) moderate(12) just(13) know(14) that(15) there(16) is(17) a(18) huge(19) amount(20) of(21) damage(22) and(23) that(24) the(25) repairs(26) will(27) be(28) very(29) difficult(30) .(31) 
+		</sentence>
+		<sentence id="16">
+			Make(1) sure(2) you(3) go(4) to(5) the(6) best(7) body(8) shop(9) in(10) town(11) and(12) do(13) not(14) let(15) your(16) friendly(17) insurance(18) company(19) send(20) you(21) to(22) some(23) cheap(24) place(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			They(1) simply(2) will(3) not(4) be(5) able(6) to(7) fix(8) it(9) properly(10) .(11) ************(12) I(13) work(14) in(15) a(16) body(17) shop(18) that(19) has(20) repaired(21) many(22) New_Beatles(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			Those(1) doing(2) this(3) sort(4) of(5) work(6) get(7) a_real(8) anatomical(9) view(10) of(11) how(12) cars(13) are(14) made(15) and(16) can(17) appreciate(18) or(19) dislike(20) the(21) way(22) it(23) is(24) engineered(25) and(26) built(27) .(28) 
+		</sentence>
+		<sentence id="19">
+			We(1) see(2) beyond(3) facades(4) ,(5) cuteness(6) ,(7) focus(8) groups(9) ,(10) owner(11) enthusiasm(12) ,(13) etc.(14) The_Beatle(15) deserves(16) a(17) good(18) crash(19) rating(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			We(1) have(2) a(3) new(4) SL500(5) that(6) was(7) rear-ended(8) by(9) one(10) at(11) an(12) honest(13) 45(14) mph(15) with(16) no(17) braking(18) involved(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			The(1) SL(2) was(3) crushed(4) right(5) up(6) to(7) the(8) doors(9) !(10) 
+		</sentence>
+		<sentence id="22">
+			The(1) 87(2) year(3) old(4) woman(5) in(6) the(7) VW(8) survived(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			However(1) ,(2) in(3) everyday(4) ordinary(5) accidents(6) the(7) VW(8) is(9) very(10) fragile(11) and(12) very(13) expensive(14) to(15) repair(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="14" potency="13"/>
+			<opinion polarity="-" feature="car" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="24">
+			The(1) plastic(2) may(3) survive(4) the(5) odd(6) foul(7) ball(8) ((9) probably(10) soccer(11) balls(12) for(13) most(14) VW(15) owners(16) )(17) ,(18) but(19) nothing(20) more(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			Bigger(1) accidents(2) that(3) involve(4) structural(5) damage(6) are(7) very(8) expensive(9) ,(10) at_least(11) twice(12) that(13) of(14) Hondas(15) ,(16) Toyotas(17) ,(18) etc.(19) This(20) is(21) nothing(22) new(23) for(24) VW(25) ;(26) they(27) are(28) expensive(29) cars(30) to(31) fix(32) no(33) matter(34) what(35) the(36) model(37) .(38) 
+			<opinion polarity="-" feature="car" opWords="29"/>
+			<opinion polarity="-" feature="price" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="26">
+			Mechanics(1) work(2) on(3) unwrecked(4) cars(5) and(6) have(7) a(8) different(9) perspective(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			Oh(1) ,(2) and(3) check(4) out(5) the(6) rocker(7) panel(8) closely(9) and(10) decide(11) how(12) you(13) would(14) replace(15) that(16) commonly(17) damaged(18) part(19) !(20) 
+		</sentence>
+		<sentence id="28">
+			I(1) believe(2) that(3) the(4) New_Beatle(5) was(6) designed(7) as(8) a(9) concept(10) car(11) and(12) was(13) so(14) well(15) received(16) that(17) it(18) was(19) put(20) into(21) production(22) prematurely(23) .(24) 
+		</sentence>
+		<sentence id="29">
+			I(1) think(2) that(3) logic(4) and(5) real-world(6) construction(7) and(8) repair(9) considerations(10) were(11) put(12) aside(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			If(1) this(2) was(3) a(4) Ferarri(5) or(6) something(7) nobody(8) would(9) care(10) ,(11) but(12) a_lot_of(13) people(14) of(15) modest(16) means(17) are(18) going(19) to(20) be(21) in(22) for(23) a(24) rude(25) surprise(26) when(27) the(28) insurance(29) cos(30) figure(31) this(32) out(33) ((34) well(35) ,(36) they(37) might(38) not(39) ,(40) knowing(41) them(42) )(43) .(44) 
+		</sentence>
+		<sentence id="31">
+			As(1) to(2) the(3) inference(4) that(5) my(6) initial(7) review(8) was(9) influenced(10) by(11) pot(12) ,(13) I(14) respectfully(15) suggest(16) that(17) some(18) New_Beatle(19) fans(20) seem(21) to(22) be(23) in(24) a(25) state(26) of(27) unwarranted(28) EXSTACY(29) ((30) sp(31) ?(32) )(33) .(34) 
+		</sentence>
+		<sentence id="32">
+			Those(1) great(2) AIRY(3) tv(4) spots(5) ,(6) the(7) RAVE(8) reviews(9) and(10) all(11) ?(12) 
+		</sentence>
+		<sentence id="33">
+			Hmmm(1) ....(2) 
+		</sentence>
+	</text>
+</review>

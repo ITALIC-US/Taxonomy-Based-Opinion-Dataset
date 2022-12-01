@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="602" item="New Yorker Ramada" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) so(2) fast(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) amenities(3) and(4) services(5) for(6) the(7) price(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_bit(1) dingy(2) 
+			<opinion polarity="-" feature="hotel" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) perfectly(2) acceptable(3) hotel(4) for(5) a(6) great(7) rate(8) 
+			<opinion polarity="+" feature="hotel" featWords="4" opWords="3" potency="2"/>
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) need(2) to(3) jump(4) in(5) and(6) say(7) that(8) my(9) experience(10) at(11) The_New_Yorker(12) was(13) not(14) bad(15) at(16) all(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Yes(1) ,(2) it(3) was(4) almost(5) a(6) year(7) ago(8) that(9) I(10) stayed(11) there(12) ,(13) and(14) the(15) joint(16) may(17) well(18) have(19) gone(20) severely(21) downhill(22) since(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			But(1) based(2) on(3) my(4) one(5) visit(6) a(7) year(8) ago(9) ,(10) I(11) would(12) stay(13) at(14) The_New_Yorker(15) again(16) and(17) I(18) can(19) t(20) say(21) the(22) same(23) for(24) the(25) Howard_Johnson_Penn_Station(26) .(27) 
+			<opinion polarity="+" feature="hotel" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			Start(1) with(2) what(3) The_New_Yorker(4) does(5) right(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			First(1) and(2) foremost(3) ,(4) the(5) hotel(6) maintains(7) a(8) healthy(9) reverence(10) to(11) it(12) s(13) past(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) website(2) ,(3) www.newyorkerhotel.com(4) ,(5) is(6) a(7) great(8) resource(9) ,(10) and(11) of(12) particular(13) interest(14) to(15) me(16) was(17) the(18) history(19) of(20) the(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			Knowing(1) that(2) Benny_Goodman(3) and(4) the(5) Dorsey_Brothers(6) had(7) played(8) there(9) ,(10) and(11) that(12) DiMaggio(13) had(14) lived(15) there(16) made(17) me(18) want(19) to(20) stay(21) there(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			And(1) if(2) you(3) didn(4) t(5) know(6) better(7) ,(8) you(9) would(10) think(11) that(12) the(13) war(14) was(15) still(16) on(17) upon(18) entering(19) the(20) lobby(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Beautiful(1) chandeliers(2) and(3) ornate(4) ceilings(5) provide(6) visual(7) interest(8) ,(9) while(10) uniformed(11) bellhops(12) run(13) around(14) and(15) Basie(16) ,(17) Ellington(18) and(19) the(20) best(21) of(22) the(23) big-band(24) era(25) play(26) on(27) the(28) juke(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			The(1) staff(2) is(3) efficient(4) and(5) courteous(6) ,(7) and(8) with(9) a(10) lobby(11) packed(12) with(13) tourists(14) and(15) students(16) ,(17) that(18) s(19) tough(20) to(21) pull(22) off(23) ;(24) especially(25) on(26) a(27) night(28) sopping(29) with(30) New_York(31) humidity(32) like(33) the(34) one(35) I(36) visited(37) .(38) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			Stepping(1) into(2) the(3) lobby(4) of(5) The_New_Yorker(6) allows(7) one(8) to(9) visit(10) a(11) romanticized(12) fedora-and-furs(13) version(14) of(15) New_York(16) that(17) probably(18) never(19) existed(20) ,(21) and(22) that(23) s(24) not(25) a(26) bad(27) thing(28) in(29) my(30) book(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			I(1) ve(2) eaten(3) in(4) Applebee(5) s(6) and(7) stayed(8) at(9) Motel(10) 6(11) s(12) in(13) Minneapolis(14) ,(15) Cleveland(16) ,(17) Buffalo(18) ,(19) etc.(20) ,(21) and(22) not(23) been(24) able(25) to(26) tell(27) the(28) difference(29) .(30) 
+		</sentence>
+		<sentence id="13">
+			It(1) s(2) nice(3) to(4) stay(5) at(6) a(7) place(8) that(9) has(10) a(11) singular(12) character(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Of(1) course(2) ,(3) the(4) last(5) time(6) I(7) checked(8) we(9) were(10) in_the_2000(11) s(12) ,(13) and(14) hotels(15) must(16) adapt(17) to(18) the(19) times(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			The(1) New_Yorker(2) is(3) owned(4) by(5) Ramada(6) ,(7) and(8) offers(9) a(10) perfunctory(11) level(12) of(13) modern(14) amenities(15) :(16) data(17) port(18) in(19) every(20) room(21) ,(22) gym(23) ,(24) laundry(25) ,(26) espresso(27) bar(28) ,(29) and(30) much(31) more(32) in(33) the(34) higher(35) end(36) rooms(37) .(38) 
+		</sentence>
+		<sentence id="16">
+			And(1) really(2) ,(3) if(4) you(5) re(6) in(7) town(8) on(9) vaca(10) ,(11) do(12) you(13) even(14) need(15) the(16) gym(17) and(18) laundry(19) ?(20) 
+		</sentence>
+		<sentence id="17">
+			There(1) is(2) a(3) moderately(4) upscale(5) restaurant(6) in(7) the(8) lobby(9) ,(10) but(11) I(12) prefer(13) the(14) Tick_Tock_Caf�(15) .(16) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			Sure(1) ,(2) it(3) s(4) practically(5) a(6) Denny(7) s.(8) But(9) it(10) s(11) the(12) kind(13) of(14) joint(15) where(16) you(17) can(18) get(19) a(20) huge(21) rack(22) of(23) pancakes(24) for(25) $3.25(26) and(27) linger(28) over(29) the(30) paper(31) or(32) people(33) watch(34) ((35) my(36) preferred(37) activity(38) )(39) .(40) 
+		</sentence>
+		<sentence id="19">
+			Hey(1) ,(2) my(3) tastes(4) are(5) rather(6) proletariat(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			Sue(1) me(2) .(3) 
+		</sentence>
+		<sentence id="21">
+			For(1) my(2) needs(3) ,(4) The_New_Yorker(5) has(6) everything(7) for(8) a(9) vacation(10) resting(11) spot(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			Yes(1) ,(2) the(3) hallways(4) on(5) the(6) lower(7) end(8) floors(9) are(10) dingy(11) ,(12) and(13) this(14) bothers(15) me(16) .(17) 
+			<opinion polarity="-" feature="lobby" featWords="4" opWords="11"/>
+			<opinion polarity="-" feature="grounds" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="23">
+			Yes(1) the(2) rooms(3) are(4) on(5) the(6) small(7) side(8) .(9) 
+		</sentence>
+		<sentence id="24">
+			But(1) the(2) rooms(3) themselves(4) are(5) clean(6) ,(7) and(8) ,(9) unlike(10) other(11) hotels(12) I(13) ve(14) stayed(15) at(16) ((17) some(18) even(19) a(20) mere(21) block(22) away(23) )(24) ,(25) the(26) beds(27) are(28) quite(29) comfortable(30) and(31) the(32) pillows(33) are(34) entirely(35) acceptable(36) .(37) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="6"/>
+			<opinion polarity="+" feature="bed" featWords="27" opWords="30" potency="29"/>
+			<opinion polarity="+" feature="bedding" featWords="33" opWords="36" potency="35"/>
+		</sentence>
+		<sentence id="25">
+			Said(1) it(2) before(3) ,(4) say(5) it(6) again(7) :(8) if(9) you(10) re(11) going(12) to(13) New_York(14) specifically(15) to(16) stay(17) at(18) a(19) hotel(20) ,(21) you(22) better(23) be(24) getting(25) a(26) check(27) from(28) hotels(29) .(30) com(31) .(32) 
+		</sentence>
+		<sentence id="26">
+			The(1) New_Yorker(2) is(3) a(4) far(5) cry(6) from(7) The_Plaza(8) ,(9) but(10) I(11) wouldn(12) t(13) know(14) what(15) to(16) do(17) with(18) myself(19) in(20) The_Plaza(21) anyway(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			No(1) ,(2) I(3) ll(4) keep(5) the(6) change(7) ,(8) stay(9) at(10) The_New_Yorker(11) ,(12) and(13) actually(14) be(15) able(16) to(17) afford(18) to(19) do(20) stuff(21) .(22) 
+		</sentence>
+		<sentence id="28">
+			And(1) I(2) ll(3) get(4) a(5) good(6) night(7) s(8) sleep(9) in(10) the(11) process(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			Now(1) THAT(2) S(3) budget(4) traveling(5) .(6) 
+		</sentence>
+	</text>
+</review>

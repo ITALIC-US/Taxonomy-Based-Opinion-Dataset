@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="308" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) family(2) sedan(3) .(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Dependability(1) ,(2) ease(3) of(4) entry(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Performance(1) ,(2) parts(3) availability(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Saturn(4) SL1(5) from(6) a(7) local(8) car(9) dealer(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) 1992(4) model(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) very(3) pleased(4) with(5) the(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) well(3) built(4) and(5) solid(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) no(3) rattles(4) or(5) squeaks(6) and(7) it(8) is(9) very(10) quiet(11) ,(12) even(13) when(14) driving(15) on(16) the(17) Interstate(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="6">
+			I(1) really(2) like(3) the(4) side(5) panels(6) being(7) made(8) from(9) a(10) polymer(11) product(12) instead_of(13) steel(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			That(1) way(2) ,(3) there(4) is(5) almost(6) no(7) damage(8) from(9) shopping(10) carts(11) and(12) idiots(13) that(14) park(15) right(16) next(17) to(18) you(19) and(20) throw(21) their(22) doors(23) open(24) ((25) bang(26) !(27) )(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			I(1) am(2) a(3) big(4) guy(5) ((6) over(7) 6_feet(8) and(9) over(10) 200_pounds(11) )(12) and(13) I(14) still(15) can(16) fit(17) in(18) the(19) back(20) seat(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Granted(1) ,(2) it(3) is(4) not(5) roomy(6) ,(7) but(8) I(9) do(10) fit(11) .(12) 
+			<opinion polarity="-" feature="room" opWords="5,6"/>
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) had(3) almost(4) no(5) problems(6) with(7) the(8) car(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			However(1) ,(2) I(3) took(4) it(5) to(6) a(7) mechanic(8) to(9) replace(10) the(11) serpentine(12) belt(13) because(14) it(15) was(16) getting(17) worn(18) and(19) he(20) put(21) on(22) the(23) wrong(24) size(25) belt(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			This(1) resulted(2) in(3) damage(4) to(5) the(6) alternator(7) which(8) had(9) to(10) be(11) replaced(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) gas(2) mileage(3) is(4) ok(5) .(6) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) not(3) really(4) kept(5) track(6) ,(7) but(8) I(9) only(10) need(11) to(12) fill(13) up(14) about(15) every(16) other(17) week(18) ,(19) and(20) that(21) is(22) with(23) using(24) the(25) car(26) to(27) commute(28) daily(29) to(30) and(31) from(32) work(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			I(1) also(2) use(3) the(4) car(5) a_lot(6) on(7) weekends(8) because_of(9) the(10) 4(11) doors(12) ((13) my(14) other(15) car(16) is(17) a(18) Camaro(19) Z28(20) and(21) is(22) definitely(23) not(24) meant(25) for(26) more(27) than(28) 2(29) adults(30) )(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			The(1) only(2) things(3) of(4) a(5) negative(6) nature(7) are(8) the(9) performance(10) and(11) the(12) parts(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Because_of(1) the(2) small(3) engine(4) ,(5) there(6) is(7) not(8) much(9) in(10) the(11) way(12) of(13) acceleration(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			However(1) ,(2) there(3) is(4) a(5) button(6) on(7) the(8) automatic(9) transmission(10) for(11) normal(12) driving(13) and(14) performance(15) driving(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			The(1) button(2) just(3) allows(4) the(5) engine(6) to(7) rev(8) to(9) a(10) higher(11) RPM(12) before(13) shifting(14) to(15) the(16) next(17) gear(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			As(1) for(2) the(3) parts(4) ,(5) it(6) seems(7) that(8) the(9) only(10) place(11) that(12) you(13) can(14) get(15) most(16) Saturn(17) parts(18) are(19) from(20) the(21) dealer(22) and(23) everybody(24) knows(25) how(26) expensive(27) that(28) is(29) !(30) 
+			<opinion polarity="-" feature="price" opWords="27"/>
+		</sentence>
+	</text>
+</review>

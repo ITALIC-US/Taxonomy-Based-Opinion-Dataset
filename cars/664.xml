@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="664" item="2001 BMW X5" rating="2">
+	<title>
+		<sentence id="1">
+			BMW(1) wish(2) this(3) car(4) was(5) like(6) your(7) others(8) !(9) !(10) !(11) !(12) !(13) !(14) !(15) !(16) !(17) !(18) !(19) !(20) !(21) !(22) !(23) !(24) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) cool(2) options(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) good(2) on(3) the(4) handling(5) ,(6) brakes(7) 
+			<opinion polarity="-" feature="handling" featWords="5" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Notes(1) from(2) Laptop(3) computer(4) ,(5) while(6) test-driving(7) BMW(8) X5(9) All(10) notes(11) taken(12) during(13) test(14) and(15) scaled(16) according_to(17) class(18) that(19) car(20) is(21) located(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			In(1) this(2) case(3) "(4) luxury(5) "(6) -(7) Look(8) of(9) car(10) ,(11) best(12) in(13) class(14) ,(15) very(16) BMW(17) like(18) ((19) 10/10(20) )(21) -(22) Size(23) of(24) car(25) is(26) average(27) ,(28) can(29) fit(30) into(31) most(32) parking(33) spaces(34) ((35) 10/10(36) )(37) -(38) No(39) extra(40) tire(41) included(42) ((43) 0/5(44) )(45) -(46) Unlocked(47) door(48) with(49) remote(50) keyless(51) entry(52) ,(53) fairly(54) simple(55) interface(56) ((57) 10/10(58) )(59) -(60) Sat(61) down(62) in(63) driver(64) seat(65) ,(66) leather(67) ,(68) plush(69) ,(70) comfortable(71) ,(72) one(73) of(74) the(75) best(76) .(77) ((78) 9/10(79) )(80) -(81) Pushed(82) seat(83) back(84) all(85) the(86) way(87) ,(88) but(89) still(90) not(91) enough(92) leg(93) room(94) ((95) male(96) of(97) average-tall(98) height(99) 5(100) '(101) 11(102) "(103) )(104) .(105) ((106) 4/10(107) )(108) -(109) Inserted(110) key(111) into(112) ignition(113) ,(114) no(115) choke(116) time(117) ,(118) engine(119) loudly(120) audible(121) ((122) 3/10(123) )(124) -(125) Turned(126) on(127) radio(128) ,(129) reception(130) ((131) ease(132) of(133) tuning(134) )(135) not(136) bad(137) ,(138) quality(139) is(140) medium(141) not(142) best(143) for(144) luxury(145) car(146) .(147) ((148) 4/10(149) )(150) -(151) GPS(152) ,(153) in(154) great(155) condition(156) ,(157) easy(158) interface(159) ,(160) very(161) easy(162) to(163) use(164) .(165) ((166) 10/10(167) )(168) -(169) Pulled(170) out(171) onto(172) side(173) street(174) ,(175) pretty(176) hard(177) turn(178) ((179) 3/10(180) )(181) -(182) Had(183) to(184) make(185) quick(186) stop(187) at(188) traffic(189) light(190) ,(191) braked(192) well(193) ,(194) but(195) not(196) too(197) softly(198) ((199) 5/10(200) )(201) -(202) Opened(203) up(204) on(205) freeway(206) ,(207) GREAT(208) acceleration(209) ,(210) best(211) in(212) class(213) ((214) 10/10(215) )(216) -(217) Oddly(218) enough(219) ,(220) side(221) and(222) rear(223) view(224) mirrors(225) have(226) GREAT(227) reflection(228) ((229) 10/10(230) )(231) -(232) Idiot(233) pulled(234) out(235) in(236) front(237) ,(238) needed(239) to(240) make(241) a(242) sharp(243) brake(244) .(245) 
+			<opinion polarity="+" feature="acceleration" featWords="209" opWords="208"/>
+			<opinion polarity="+" feature="reception" featWords="130" opWords="136,137"/>
+			<opinion polarity="-" feature="engine" featWords="119" opWords="120,121"/>
+			<opinion polarity="+" feature="comfort" opWords="71"/>
+			<opinion polarity="+" feature="car" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			Breaks(1) held(2) well(3) ((4) 9/10(5) )(6) -(7) Took(8) sharp(9) turn(10) ,(11) purposely(12) ,(13) car(14) shook(15) ,(16) not(17) so(18) great(19) on(20) handling(21) ((22) 5/10(23) )(24) -(25) Returned(26) car(27) ,(28) car(29) thanked(30) me(31) and(32) waved(33) goodbye(34) electronically(35) ,(36) great(37) hospitality(38) ((39) 10/10(40) )(41) SCORE(42) -(43) 111/150(44) =(45) 74_%(46) AVERAGE_LUXURY(47) 2001(48) SUV_RATING(49) =(50) 95_%(51) LOWEST(52) 2001(53) LUXURY_SUV_RATING(54) =(55) 74_%(56) ((57) BMW(58) X5(59) )(60) HIGHEST(61) 2001(62) LUXURY_SUV_RATING(63) 98_%(64) ((65) Lexus_RX(66) 300(67) )(68) MrClean_'s_Suggestion(69) and(70) Conclusion(71) :(72) BMW(73) is(74) reknown(75) for(76) it(77) 's(78) cars(79) and(80) the(81) way(82) it(83) builds(84) them(85) ,(86) but(87) this(88) is(89) one(90) of(91) the(92) first(93) SUV(94) 's(95) and(96) they(97) will(98) learn(99) from(100) this(101) somewhat(102) bad(103) experience(104) ,(105) give(106) BMW(107) a(108) few(109) more(110) years(111) and(112) they(113) will(114) build(115) a(116) perfect(117) BMW_SUV(118) that(119) is(120) just(121) like(122) their(123) other(124) prized(125) cars(126) ,(127) works(128) of(129) art.(130) 
+			<opinion polarity="-" feature="handling" featWords="21" opWords="17,19"/>
+		</sentence>
+	</text>
+</review>

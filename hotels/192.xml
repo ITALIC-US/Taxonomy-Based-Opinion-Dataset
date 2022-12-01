@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="192" item="Hudson" rating="1">
+	<title>
+		<sentence id="1">
+			TRENDY_DOES_NOT_MEAN_QUALITY(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) decor(2) ,(3) Bar(4) /(5) Library_Room(6) /(7) Sky_Terrace(8) ,(9) btw(10) no(11) need(12) to(13) stay(14) at(15) hotel2visit(16) ...(17) 
+			<opinion polarity="+" feature="decoration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) service(2) ,(3) non-working(4) a(5) /(6) c(7) ,(8) ceiling(9) came(10) down(11) ,(12) shower(13) broke(14) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Stayed(1) at(2) the(3) Hudson(4) for(5) the(6) weekend(7) ...(8) abssolutely(9) never(10) again(11) ,(12) the(13) rooms(14) are(15) smaller(16) than(17) euro(18) size(19) rooms(20) visited(21) in(22) Paris(23) ,(24) horid(25) wireless(26) internet(27) access(28) ,(29) it(30) just(31) does(32) not(33) work(34) and(35) they(36) charge(37) for(38) minutes(39) !(40) !(41) !(42) 
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) are(3) poorly(4) laid(5) out(6) ,(7) poor(8) TV(9) 's(10) ,(11) expensive(12) only(13) given(14) the(15) poor(16) service(17) .(18) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4,5,6"/>
+			<opinion polarity="-" feature="price" opWords="12"/>
+			<opinion polarity="-" feature="service" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			Their(1) JR_Suites(2) are(3) nothing(4) to(5) write(6) home(7) about(8) ,(9) opt(10) for(11) a(12) "(13) W(14) "(15) hotel(16) over(17) the(18) Hudson(19) ,(20) any(21) of(22) them(23) are(24) better(25) and(26) you(27) get(28) the(29) Whatever(30) ,(31) Whenever(32) experience(33) ...(34) You(35) might(36) be(37) lucky(38) if(39) someone(40) picks(41) up(42) the(43) phone(44) at(45) the(46) front(47) desk(48) at(49) the(50) Hudson(51) ,(52) let(53) alone(54) them(55) calling(56) you(57) by(58) name(59) !(60) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) absolutely(3) must(4) have(5) the(6) Hudson(7) ,(8) visit(9) is(10) a(11) bar(12) patron(13) ,(14) you(15) do(16) not(17) need(18) to(19) be(20) a(21) guest(22) ....(23) 
+		</sentence>
+	</text>
+</review>

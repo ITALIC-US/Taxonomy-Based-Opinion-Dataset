@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="426" item="Technics RP-DJ1200 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Headphone(1) for(2) live(3) performance(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sounds(2) ,(3) nice(4) for(5) live(6) performance(7) by(8) DJ(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Heavy(1) ,(2) very(3) tight(4) and(5) not(6) comfortable(7) 
+			<opinion polarity="-" feature="weight" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="4" potency="3"/>
+			<opinion polarity="-" feature="comfort" opWords="6,7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) think(2) that(3) this(4) is(5) a(6) headphone(7) made(8) for(9) live(10) performance(11) and(12) not(13) for(14) studio(15) because(16) they(17) are(18) solid(19) ,(20) well(21) sounding(22) and(23) have(24) a(25) good(26) portability(27) .(28) 
+			<opinion polarity="+" feature="durability" opWords="19"/>
+			<opinion polarity="+" feature="sound quality" opWords="21,22"/>
+			<opinion polarity="+" feature="portability" featWords="27" opWords="26"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) review(2) will(3) be(4) base(5) on(6) 5(7) points(8) :(9) Sound(10) ,(11) Comfortability(12) ,(13) built-in(14) structure(15) ,(16) portability(17) and(18) look(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			SOUND_Well(1) ,(2) RPDJ1200(3) are(4) very(5) nice(6) for(7) the(8) quality(9) of(10) sound(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			Every(1) sound(2) is(3) clear(4) and(5) bass(6) sounds(7) very(8) good(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="7,9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			Well(1) ,(2) I(3) give(4) 5(5) for(6) the(7) quality(8) of(9) sound(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			COMFORTABILITY_Well(1) ,(2) this(3) is(4) the(5) big(6) mistake(7) on(8) these(9) headphones(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			They(1) are(2) too(3) tight(4) and(5) earpads(6) are(7) too(8) small(9) .(10) 
+			<opinion polarity="-" feature="comfort" opWords="3,4"/>
+			<opinion polarity="-" feature="earpads" featWords="6" opWords="8,9"/>
+		</sentence>
+		<sentence id="7">
+			The(1) sound(2) is(3) propulsed(4) directly(5) in(6) your(7) ears(8) and(9) it(10) can(11) be(12) dangerous(13) to(14) wear(15) it(16) more(17) than(18) one(19) hour(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			So(1) I(2) give(3) only(4) a(5) poor(6) 1(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			BUILT-IN_STRUCTURE_The(1) structure(2) of(3) these(4) headphones(5) is(6) very(7) solid(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) it(3) for(4) 2(5) years(6) and(7) they(8) look(9) like(10) new(11) one(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Each(1) earpad(2) can(3) rotate(4) and(5) can(6) be(7) locked(8) so(9) this(10) is(11) great(12) for(13) live(14) performance(15) .(16) 5(17) is(18) my(19) quote(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Portability_Portability(1) is(2) well(3) with(4) these(5) headset(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			You(1) have(2) a(3) carrying(4) pouch(5) and(6) the(7) headset(8) are(9) small(10) so(11) it(12) 's(13) very(14) practice(15) .(16) 4(17) LOOK_Look(18) is(19) cool(20) but(21) this(22) is(23) not(24) the(25) coolest(26) headphone(27) I(28) have(29) seen(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			I(1) think(2) that(3) you(4) can(5) have(6) headphone(7) more(8) style(9) than(10) this(11) .(12) 3(13) is(14) mine(15) .(16) 
+		</sentence>
+	</text>
+</review>

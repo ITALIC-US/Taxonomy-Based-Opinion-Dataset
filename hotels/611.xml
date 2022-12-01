@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="611" item="Boston Park Plaza Hotel & Towers" rating="3">
+	<title>
+		<sentence id="1">
+			There(1) are(2) better(3) choices(4) Boston(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) ,(2) prices(3) are(4) fairly(5) decent(6) by(7) Boston(8) standards(9) 
+			<opinion polarity="+" feature="price" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			rooms(1) are(2) nothing(3) special(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) pretty(4) average(5) hotel(6) .(7) 
+			<opinion polarity="-" feature="hotel" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			Check(1) out(2) some(3) of(4) the(5) other(6) options(7) first(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) won(2) a(3) free(4) night(5) a(6) the(7) Boston_Park_Plaza(8) hotel(9) not(10) too(11) long(12) ago(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Even_though(1) I(2) live(3) in(4) Boston(5) ,(6) I(7) figured(8) it(9) would(10) be(11) fun(12) to(13) stay(14) there(15) and(16) check(17) it(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Based(1) on(2) the(3) name(4) I(5) guess(6) I(7) anticipated(8) it(9) to(10) be(11) a(12) little(13) more(14) luxurious(15) than(16) it(17) turned(18) out(19) to(20) be(21) .(22) "(23) Park_Plaza(24) "(25) sounds(26) so(27) regal(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			Anyway(1) ,(2) the(3) lobby(4) is(5) gorgeous(6) with(7) high(8) ceilings(9) and(10) chandeliers(11) ((12) for(13) photo(14) and(15) info(16) see(17) http://www.bostonparkplaza.com)(18) which(19) was(20) deceiving(21) and(22) led(23) me(24) to(25) believe(26) our(27) room(28) would(29) be(30) equally(31) as(32) charming(33) .(34) Our(35) room(36) ,(37) however(38) ,(39) was(40) very(41) basic(42) and(43) quite(44) dark(45) ,(46) nothing(47) like(48) the(49) lobby(50) .(51) It(52) was(53) a(54) very(55) cookie(56) cutter(57) hotel(58) room(59) with(60) one(61) queen(62) sized(63) bed(64) and(65) a(66) small(67) ,(68) motel-basic(69) bathroom(70) .(71) It(72) had(73) no(74) charm(75) whatsoever(76) and(77) was(78) even(79) a(80) little(81) depressing(82) .(83) Our(84) view(85) was(86) the(87) side(88) of(89) the(90) building(91) next(92) door(93) .(94) There(95) was(96) nothing(97) actually(98) wrong(99) with(100) the(101) room(102) ,(103) there(104) was(105) just(106) nothing(107) special(108) about(109) it(110) .(111) I(112) have(113) heard(114) ,(115) however(116) ,(117) that(118) just(119) last(120) month(121) the(122) hotel(123) finished(124) some(125) huge(126) room(127) renovations(128) so(129) if(130) you(131) do(132) decide(133) to(134) book(135) here(136) be(137) sure(138) to(139) ask(140) for(141) a(142) renovated(143) room(144) .(145) There(146) is(147) a(148) horrible(149) bar(150) /(151) lounge(152) behind(153) the(154) lobby(155) with(156) a(157) pirate(158) ship(159) theme(160) .(161) This(162) makes(163) no(164) sense(165) at(166) all(167) to(168) me(169) at(170) all(171) .(172) The(173) lobby(174) has(175) this(176) huge(177) chandelier(178) ,(179) beautiful(180) carpets(181) etc.(182) and(183) then(184) you(185) go(186) to(187) get(188) a(189) drink(190) and(191) you(192) find(193) yourself(194) in(195) this(196) "(197) Regal_Beagle(198) "(199) type(200) lounge(201) .(202) When(203) we(204) went(205) there(206) was(207) a(208) very(209) drunk(210) ,(211) obnoxious(212) wedding(213) party(214) that(215) basically(216) took(217) over(218) the(219) place(220) .(221) Annoying(222) .(223) There(224) are(225) three(226) very(227) new(228) bars(229) next(230) to(231) the(232) hotel(233) ,(234) however(235) .(236) Two(237) are(238) Irish(239) ((240) McCormick(241) and(242) Schmick(243) 's(244) which(245) is(246) also(247) a(248) great(249) seafood(250) restaurant(251) and(252) M.J._O'Connor_'s_Irish_Pub(253) )(254) and(255) can(256) be(257) found(258) half(259) a(260) block(261) down(262) if(263) you(264) take(265) a(266) left(267) out(268) the(269) back(270) of(271) the(272) hotel(273) .(274) 
+			<opinion polarity="+" feature="lobby" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="36" opWords="42" potency="41"/>
+			<opinion polarity="-" feature="rooms" featWords="36" opWords="45" potency="44"/>
+			<opinion polarity="-" feature="bathroom" featWords="70" opWords="67"/>
+			<opinion polarity="+" feature="rooms" featWords="144" opWords="143"/>
+			<opinion polarity="-" feature="food" featWords="150" opWords="149"/>
+			<opinion polarity="+" feature="carpets" featWords="181" opWords="180"/>
+			<opinion polarity="+" feature="food" featWords="229" opWords="228"/>
+			<opinion polarity="+" feature="food" featWords="251" opWords="249"/>
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) is(3) to(4) the(5) right(6) of(7) the(8) hotel(9) s(10) main(11) entrance(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) called(3) Whiskey_Park(4) and(5) is(6) one(7) of(8) the(9) newest(10) ,(11) most(12) popular(13) bars(14) in(15) Boston(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) owned(3) by(4) Cindy_Crawford(5) 's(6) husband(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			The(1) line(2) is(3) usually(4) pretty(5) long(6) ,(7) but(8) it(9) is(10) worth(11) it(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) 's(3) location(4) is(5) fabulous(6) .(7) 
+			<opinion polarity="+" feature="place" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) right(3) on(4) the(5) corner(6) of(7) Arlington(8) and(9) Stuart_Street(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			You(1) are(2) a(3) 5(4) minute(5) walk(6) from(7) the(8) theater(9) district(10) on(11) one(12) side(13) and(14) Copley_Square(15) and(16) Newbury_Street(17) ((18) best(19) spots(20) for(21) shopping(22) in(23) Boston(24) )(25) on(26) the(27) other(28) side(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			The(1) Boston_Public_Gardens(2) is(3) two(4) blocks(5) away(6) and(7) is(8) great(9) for(10) picnics(11) ,(12) laying(13) in(14) the(15) sun(16) and(17) feeding(18) the(19) ducks(20) in(21) the(22) spring(23) and(24) summer(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) where(3) the(4) swan(5) boats(6) are(7) that(8) you(9) see(10) in_all(11) those(12) postcards(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) are(3) looking(4) for(5) a(6) moderately(7) priced(8) hotel(9) in(10) Boston_the_Park_Plaza(11) is(12) a(13) decent(14) option(15) for(16) you(17) .(18) 
+			<opinion polarity="+" feature="price" opWords="7,8"/>
+		</sentence>
+		<sentence id="15">
+			Don(1) t(2) expect(3) luxury(4) ,(5) though(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			It(1) is(2) not(3) the(4) type(5) of(6) hotel(7) where(8) the(9) room(10) is(11) so(12) nice(13) you(14) just(15) want(16) to(17) relax(18) and(19) lounge(20) around(21) and(22) call(23) room(24) service(25) .(26) 
+			<opinion polarity="+" feature="rooms" featWords="10" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) two(3) ballrooms(4) and(5) 36(6) conference(7) rooms(8) which(9) leads(10) me(11) to(12) believe(13) this(14) is(15) where(16) a_lot_of(17) their(18) business(19) comes(20) from(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			It(1) would(2) not(3) be(4) so(5) bad(6) to(7) be(8) booked(9) here(10) for(11) a(12) conference(13) if(14) the(15) company(16) was(17) paying(18) ,(19) I(20) guess(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) are(3) going(4) to(5) Boston(6) for(7) a(8) vacation(9) ,(10) consider(11) staying(12) somewhere(13) with(14) a(15) little(16) more(17) charm(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			Other(1) hotels(2) in(3) this(4) same(5) general(6) area(7) that(8) I(9) would(10) recommend(11) are(12) :(13) The(14) Newbury_Guest_House(15) ((16) fantastic(17) location(18) :(19) 261(20) Newbury_Street(21) 617.437-7666(22) )(23) The_Fairmont_Copley_Plaza(24) ((25) beautiful(26) !(27) http://www.fairmont.com/Hotels/Index_B.html).(28) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="11"/>
+		</sentence>
+	</text>
+</review>

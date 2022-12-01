@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="374" item="Sennheiser PX 200 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Solution(1) for(2) high(3) performance(4) headphones(5) that(6) can(7) run(8) well(9) on(10) a(11) modest(12) headphone(13) signal(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Plays(1) loud(2) with(3) sound(4) card(5) outputs(6) and(7) portable(8) music(9) players(10) due(11) to(12) extraordinary(13) high(14) efficiency(15) 
+			<opinion polarity="+" feature="volume" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			You(1) can(2) as(3) I(4) did(5) unnecessarily(6) pay(7) over(8) $20(9) extra(10) for(11) these(12) headphones(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Shop_Around(1) !(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Highly(1) recommended(2) for(3) excellent(4) sound(5) quality(6) ,(7) efficiency(8) ,(9) comfort(10) ,(11) sound(12) isolation(13) ,(14) and(15) for(16) being(17) well(18) built(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="durability" opWords="18,19"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) found(2) the(3) Sennheiser(4) PX-200(5) headphones(6) an(7) ideal(8) solution(9) to(10) a(11) difficult(12) problem(13) of(14) matching(15) a(16) high(17) performance(18) headphone(19) capable(20) of(21) high(22) volumes(23) with(24) good(25) noise(26) isolation(27) ,(28) to(29) a(30) low(31) signal(32) power(33) output(34) as(35) found(36) coming(37) from(38) most(39) portable(40) music(41) players(42) and(43) especially(44) in(45) my(46) case(47) from(48) the(49) headphone(50) output(51) on(52) my(53) sound(54) card(55) on(56) my(57) PC(58) .(59) 
+		</sentence>
+		<sentence id="2">
+			The(1) 115(2) dB(3) SPL(4) sound(5) sensitivity(6) of(7) this(8) headphone(9) is(10) extraordinarily(11) high(12) making(13) the(14) most(15) out(16) of(17) low(18) signal(19) inputs(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) full(3) size(4) Sennheisers(5) that(6) of(7) course(8) have(9) better(10) bass(11) at(12) lower(13) volumes(14) but(15) they(16) drive(17) me(18) nuts(19) because(20) they(21) can(22) not(23) be(24) played(25) loud(26) enough(27) for(28) me(29) without(30) severe(31) clipping(32) heard(33) on(34) the(35) bass(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			Also(1) they(2) were(3) hot(4) and(5) heavy(6) to(7) wear(8) .(9) 
+			<opinion polarity="-" feature="weight" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			Ear(1) bud(2) headphones(3) also(4) provide(5) high(6) quality(7) sound(8) and(9) even(10) better(11) sensitivity(12) for(13) very(14) high(15) volumes(16) but(17) they(18) keep(19) popping(20) out(21) of(22) my(23) ears(24) and(25) are(26) especially(27) uncomfortable(28) needless(29) to(30) mention(31) the(32) ear(33) wax(34) mess(35) .(36) 
+			<opinion polarity="+" feature="sound quality" featWords="8" opWords="6,7"/>
+		</sentence>
+		<sentence id="6">
+			Contrastingly(1) these(2) headphones(3) are(4) extremely(5) light(6) and(7) much(8) more(9) comfortable(10) to(11) wear(12) especially(13) for(14) extended(15) periods(16) of(17) time(18) .(19) 
+			<opinion polarity="+" feature="weight" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bass(2) from(3) this(4) unit(5) is(6) punchy(7) though(8) not(9) powerful(10) when(11) properly(12) placed(13) on(14) one(15) ears(16) .(17) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="7"/>
+			<opinion polarity="-" feature="bass" featWords="2" opWords="9,10"/>
+		</sentence>
+		<sentence id="8">
+			After(1) all(2) one(3) has(4) to(5) consider(6) the(7) size(8) of(9) the(10) drivers(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			If(1) the(2) drivers(3) were(4) larger(5) I(6) 'm(7) sure(8) the(9) headphones(10) would(11) not(12) play(13) as(14) loud(15) as(16) these(17) and(18) would(19) weigh(20) more(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			As(1) is(2) these(3) headphones(4) saved(5) me(6) from(7) buying(8) a(9) headphone(10) amplifier(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) PX-200(2) headphones(3) sound(4) darn(5) good(6) with(7) a(8) modest(9) bass(10) boost(11) on(12) my(13) CD(14) player(15) ,(16) or(17) through(18) tweaking(19) with(20) my(21) PC(22) sound(23) card(24) software(25) .(26) 
+			<opinion polarity="+" feature="sound quality" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="12">
+			Lastly(1) ,(2) the(3) closed(4) design(5) is(6) good(7) for(8) applications(9) where(10) the(11) headphone(12) is(13) being(14) used(15) around(16) other(17) people(18) for(19) quality(20) loud(21) sound(22) performance(23) without(24) complaints(25) about(26) leaking(27) sound(28) from(29) nearby(30) bystanders(31) .(32) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="7"/>
+		</sentence>
+	</text>
+</review>

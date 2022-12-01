@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="717" item="1993 Toyota Camry" rating="2">
+	<title>
+		<sentence id="1">
+			unfriendly(1) service(2) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Resale(1) value(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible_Support(1) and(2) High_Cost(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) once(3) a(4) true(5) blue(6) Toyota(7) owner(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Now_I(1) am(2) very(3) unhappy(4) with(5) the(6) company(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			My(1) brother(2) and(3) I(4) both(5) purchased(6) our(7) 93(8) Toyota(9) ,(10) Camries(11) new(12) at(13) the(14) same(15) time(16) ,(17) and(18) have(19) been(20) unhappy(21) ever(22) since(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) transmission(2) went(3) out(4) after(5) owning(6) my(7) camry(8) 2(9) 1/2(10) years(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) company(2) put(3) in(4) a(5) rebuilt(6) transmission(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) motor(2) in(3) the(4) automatic(5) window(6) of(7) my(8) brother(9) 's(10) camry(11) went(12) out(13) after(14) 1(15) 1/2(16) years(17) and(18) luckily(19) it(20) was(21) still(22) under(23) warranty(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) motor(2) in(3) my(4) window(5) went(6) out(7) after(8) 2(9) years(10) which(11) was(12) just(13) out(14) of(15) warranty(16) and(17) the(18) company(19) paid(20) for(21) the(22) part(23) but(24) refused(25) to(26) pay(27) for(28) the(29) labor(30) ,(31) though(32) my(33) brother(34) had(35) the(36) same(37) problem(38) and(39) it(40) appeared(41) to(42) be(43) a(44) manufacturer(45) 's(46) defect(47) .(48) 
+		</sentence>
+		<sentence id="8">
+			The(1) dealership(2) told(3) me(4) it(5) was(6) not(7) a(8) defect(9) ,(10) but(11) when(12) my(13) transmission(14) went(15) out(16) another(17) Toyota(18) dealership(19) said(20) the(21) window(22) was(23) a(24) defect(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Then(1) my(2) brother(3) 's(4) window(5) motor(6) went(7) out(8) again(9) ,(10) the(11) dealership(12) covered(13) the(14) price(15) ,(16) not(17) the(18) manufacturer(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) next(2) problem(3) my(4) brother(5) had(6) was(7) with(8) his(9) alignment(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			He(1) had(2) to(3) have(4) it(5) realigned(6) repeatedly(7) and(8) the(9) autoshop(10) said(11) they(12) have(13) had(14) problems(15) this(16) car(17) before(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) next(2) problem(3) was(4) with(5) my(6) car(7) the(8) transmission(9) started(10) to(11) act(12) up(13) again(14) 3(15) 1/2(16) years(17) later(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) dealership(2) said(3) it(4) was(5) going(6) out(7) and(8) would(9) cost(10) 2,500_dollars(11) but(12) because(13) we(14) could(15) not(16) produce(17) records(18) showing(19) the(20) transmission(21) service(22) they(23) would(24) not(25) cover(26) it(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			So(1) we(2) took(3) it(4) to(5) a(6) transmission(7) shop(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			They(1) said(2) the(3) diagnostics(4) showed(5) the(6) transmission(7) was(8) fine(9) and(10) they(11) serviced(12) the(13) transmission(14) and(15) put(16) in(17) an(18) additive(19) and(20) now(21) it(22) is(23) fine(24) .(25) 
+			<opinion polarity="+" feature="transmission" featWords="22" featRef="transmission" opWords="24"/>
+			<opinion polarity="+" feature="transmission" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="16">
+			All(1) this(2) to(3) say(4) neither(5) my(6) brother(7) nor(8) myself(9) will(10) purchase(11) a(12) Toyota(13) until(14) they(15) put(16) more(17) effort(18) into(19) supporting(20) their(21) product(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			I(1) owned(2) a(3) Toyota(4) before(5) this(6) ,(7) and(8) was(9) very(10) happy(11) with(12) the(13) quality(14) of(15) the(16) vehicle(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="18">
+			The(1) high(2) price(3) of(4) the(5) vehicle(6) makes(7) me(8) very(9) leary(10) of(11) taking(12) the(13) chance(14) again(15) .(16) 
+			<opinion polarity="-" feature="price" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) been(3) told(4) since(5) that(6) we(7) must(8) have(9) bought(10) during(11) a(12) bad(13) year(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			Just(1) not(2) ready(3) to(4) take(5) another(6) chance(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Beware(1) ,(2) especially(3) when(4) their(5) are(6) other(7) companies(8) that(9) do(10) support(11) their(12) product(13) .(14) 
+		</sentence>
+	</text>
+</review>

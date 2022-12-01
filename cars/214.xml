@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="214" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Surprisingly(1) fast(2) and(3) enjoyable(4) to(5) drive(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="speed" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) fast(2) engine(3) ,(4) comfortable(5) 
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="engine" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="engine" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_bit(1) pricey(2) ,(3) exterior(4) could(5) be(6) sportier(7) 
+			<opinion polarity="-" feature="price" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Although(1) most(2) the(3) cars(4) I(5) test(6) drove(7) during(8) the(9) previous(10) weeks(11) have(12) been(13) two(14) door(15) sports(16) coupes(17) such(18) as(19) the(20) Celica(21) and(22) Prelude(23) ,(24) I(25) decided(26) to(27) also(28) take(29) the(30) new(31) 2000(32) Nissan_Maxima(33) for(34) a(35) spin(36) while(37) I(38) was(39) at(40) the(41) Nissan(42) dealership(43) .(44) 
+		</sentence>
+		<sentence id="2">
+			Although(1) I(2) was(3) very(4) impressed(5) with(6) the(7) power(8) the(9) engine(10) provided(11) ,(12) overall(13) the(14) design(15) was(16) a_bit(17) on(18) the(19) family(20) end(21) for(22) me(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) though(2) ,(3) I(4) was(5) impressed(6) with(7) what(8) I(9) drove(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Engine_I(1) must(2) admit(3) that(4) I(5) loved(6) the(7) power(8) the(9) new(10) Maxima(11) provides(12) from(13) the(14) minute(15) I(16) began(17) driving(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) GXE(2) model(3) comes(4) with(5) a(6) 3.0(7) liter(8) DOHC_V(9) -(10) 6(11) engine(12) that(13) produces(14) 222(15) horses(16) while(17) driving(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			And(1) believe(2) me(3) ,(4) you(5) can(6) feel(7) the(8) difference(9) while(10) you(11) are(12) behind(13) the(14) wheel(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			From(1) the(2) moment(3) you(4) step(5) down(6) on(7) the(8) accelerator(9) ,(10) the(11) car(12) instantly(13) sends(14) you(15) forward(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			For(1) those(2) who(3) are(4) not(5) used(6) to(7) this(8) much(9) power(10) behind(11) such(12) a(13) small(14) car(15) ,(16) it(17) maybe(18) a(19) little(20) too(21) much(22) to(23) handle(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Not(1) to(2) worry(3) though(4) ,(5) the(6) Maxima(7) s(8) ride(9) is(10) smooth(11) despite(12) the(13) powerful(14) engine(15) .(16) 
+			<opinion polarity="+" feature="engine" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="10">
+			The(1) GXE(2) comes(3) with(4) both(5) the(6) automatic(7) and(8) standard(9) transmission(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			My(1) advice(2) is(3) to(4) choose(5) the(6) standard(7) transmission(8) to(9) fully(10) take(11) advantage(12) of(13) the(14) power(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Interior_My(1) first(2) thought(3) when(4) I(5) sat(6) down(7) in_the_2000(8) Nissan_Maxima(9) was(10) the(11) surprising(12) amount(13) of(14) room(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) front(2) seats(3) were(4) very(5) roomy(6) and(7) could(8) be(9) comfortable(10) even(11) on(12) long(13) trips(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="14">
+			The(1) backseats(2) where(3) also(4) roomy(5) and(6) would(7) not(8) become(9) uncomfortable(10) for(11) two(12) adults(13) during(14) a(15) long(16) trip(17) .(18) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			All(1) the(2) Maxima(3) s(4) gauges(5) are(6) easy(7) to(8) read(9) and(10) accessible(11) .(12) 
+			<opinion polarity="+" feature="gauges" featWords="5" opWords="11"/>
+			<opinion polarity="+" feature="gauges" featWords="5" opWords="7,8,9"/>
+		</sentence>
+		<sentence id="16">
+			The(1) air(2) conditioning(3) cools(4) the(5) car(6) very(7) fast(8) and(9) does(10) not(11) affect(12) the(13) car(14) s(15) power(16) too(17) much(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			When(1) I(2) looked(3) at(4) the(5) truck(6) of(7) the(8) Maxima_I(9) was(10) surprised(11) with(12) how(13) big(14) it(15) was(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			A(1) family(2) of(3) four(4) would(5) have(6) no(7) problem(8) with(9) luggage(10) for(11) a(12) weekend(13) vacation(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			The(1) stereo(2) system(3) is(4) decent(5) but(6) nothing(7) extraordinary(8) .(9) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="20">
+			The(1) car(2) comes(3) with(4) a(5) standard(6) six(7) speakers(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			Exterior_In(1) my(2) opinion(3) ,(4) the(5) exterior(6) of(7) the(8) new(9) Maxima(10) is(11) nothing(12) special(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			This(1) is(2) one(3) of(4) the(5) main(6) reasons(7) why(8) I(9) would(10) not(11) purchase(12) this(13) car(14) at(15) the(16) present(17) time(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			For(1) a(2) car(3) that(4) has(5) so(6) much(7) power(8) ,(9) the(10) outside(11) simply(12) does(13) not(14) look(15) sporty(16) enough(17) .(18) 
+			<opinion polarity="-" feature="car" opWords="14,16,17"/>
+		</sentence>
+		<sentence id="24">
+			I(1) am(2) aware(3) that(4) this(5) car(6) is(7) a(8) four(9) door(10) sedan(11) so(12) it(13) is(14) unfair(15) to(16) compare(17) the(18) looks(19) to(20) a(21) Celica(22) or(23) Eclipse(24) ,(25) but(26) at(27) the(28) same(29) time(30) Nissan(31) could(32) make(33) this(34) car(35) look(36) less(37) like(38) a(39) family(40) car(41) .(42) 
+		</sentence>
+		<sentence id="25">
+			Some(1) people(2) might(3) argue(4) that(5) Nissan(6) redesigned(7) the(8) 2000(9) model(10) to(11) look(12) less(13) like(14) a(15) family(16) car(17) and(18) have(19) more(20) of(21) a(22) sporty(23) feel(24) to(25) it(26) ,(27) but(28) in(29) my(30) mind(31) they(32) did(33) not(34) go(35) far(36) enough(37) .(38) 
+		</sentence>
+		<sentence id="26">
+			There(1) are(2) some(3) definite(4) positives(5) to(6) the(7) exterior(8) of(9) the(10) Maxima(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			The(1) car(2) comes(3) with(4) 15(5) alloy(6) wheels(7) that(8) definitely(9) add(10) to(11) the(12) sporty(13) ness(14) feel(15) .(16) 
+		</sentence>
+		<sentence id="28">
+			A(1) theft(2) deterrent(3) system(4) and(5) remote(6) keyless(7) entry(8) are(9) also(10) included(11) .(12) 
+		</sentence>
+		<sentence id="29">
+			Handling_For(1) the(2) most(3) part(4) ,(5) the(6) Maxima(7) s(8) handling(9) is(10) very(11) responsive(12) .(13) 
+			<opinion polarity="+" feature="handling" featWords="9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="30">
+			During(1) my(2) test(3) drive(4) I(5) took(6) the(7) car(8) on(9) some(10) winding(11) back(12) roads(13) it(14) performed(15) pretty(16) good(17) .(18) 
+			<opinion polarity="+" feature="performance" opWords="15,17" potency="16"/>
+		</sentence>
+		<sentence id="31">
+			Overall_I(1) would(2) describe(3) the(4) handling(5) as(6) above(7) average(8) although(9) it(10) could(11) be(12) better(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			There(1) were(2) a(3) couple(4) times(5) during(6) the(7) drive(8) were(9) the(10) a(11) slight(12) motion(13) on(14) the(15) steering(16) wheel(17) caused(18) the(19) car(20) to(21) veer(22) over(23) quite(24) extensively(25) .(26) 
+		</sentence>
+		<sentence id="33">
+			This(1) was(2) at(3) higher(4) speeds(5) and(6) is(7) not(8) a(9) major(10) problem(11) but(12) more(13) something(14) just(15) to(16) be(17) aware(18) of(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			Overall(1) the(2) car(3) s(4) ride(5) was(6) very(7) smooth(8) .(9) 
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="35">
+			Bumps(1) and(2) potholes(3) in(4) the(5) road(6) were(7) virtually(8) eliminated(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			Cabin(1) noise(2) was(3) at(4) a(5) minimum(6) and(7) all(8) speeds(9) and(10) conditions(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Safety_The_Maxima(1) comes(2) with(3) the(4) basic(5) safety(6) features(7) found(8) in(9) most(10) cars(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			Dual(1) front(2) airbags(3) and(4) an(5) ABS(6) braking(7) system(8) are(9) standard(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			Reliability_Nissans(1) and(2) especially(3) Maximas(4) have(5) been(6) known(7) to(8) be(9) reliable(10) in(11) the(12) past(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			The(1) 2000(2) was(3) redesigned(4) but(5) this(6) should(7) not(8) be(9) a(10) problem(11) in(12) the(13) future(14) .(15) 
+		</sentence>
+		<sentence id="41">
+			The(1) 2000(2) Nissan_Maxima(3) should(4) have(5) no(6) trouble(7) as(8) far(9) as(10) reliability(11) is(12) concerned(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			Price_The_Maxima(1) starts(2) at(3) around(4) $23,000(5) but(6) this(7) is(8) for(9) a(10) totally(11) stripped(12) down(13) model(14) .(15) 
+		</sentence>
+		<sentence id="43">
+			While(1) I(2) was(3) looking(4) at(5) Maxima(6) s(7) in(8) the(9) parking(10) lot(11) I(12) found(13) none(14) that(15) were(16) priced(17) this(18) low(19) .(20) 
+		</sentence>
+		<sentence id="44">
+			The(1) lowest(2) I(3) found(4) were(5) in_the_$25,000(6) range(7) .(8) 
+		</sentence>
+		<sentence id="45">
+			For(1) a(2) high(3) end(4) Maxima(5) with(6) various(7) features(8) expect(9) to(10) pay(11) almost(12) $30,000(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			Overall_I(1) liked(2) the(3) 2000(4) Nissan_Maxima(5) .(6) 
+		</sentence>
+		<sentence id="47">
+			I(1) loved(2) the(3) power(4) that(5) the(6) V6(7) engine(8) provided(9) .(10) 
+			<opinion polarity="+" feature="horsepower" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="48">
+			At(1) times(2) ,(3) it(4) seems(5) more(6) like(7) your(8) driving(9) a(10) sports(11) coupe(12) rather(13) then(14) a(15) four(16) door(17) sedan(18) .(19) 
+		</sentence>
+		<sentence id="49">
+			In(1) my(2) opinion(3) ,(4) the(5) exterior(6) of(7) the(8) car(9) could(10) have(11) been(12) better(13) designed(14) to(15) give(16) the(17) car(18) a(19) more(20) sporty(21) feel(22) .(23) 
+		</sentence>
+		<sentence id="50">
+			Overall(1) though(2) ,(3) the(4) Maxima(5) is(6) a(7) very(8) nice(9) drive(10) .(11) 
+			<opinion polarity="+" feature="drive" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+	</text>
+</review>

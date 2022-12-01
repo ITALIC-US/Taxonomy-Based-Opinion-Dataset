@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="966" item="1999 Volkswagen Passat" rating="1">
+	<title>
+		<sentence id="1">
+			Style(1) and(2) no(3) substance(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) a(3) sharp(4) looking(5) vehicle(6) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) is(2) in(3) the(4) shop(5) every(6) three(7) to(8) five(9) months(10) for(11) major(12) repairs(13) .(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Unfortunately(1) based(2) on(3) my(4) experience(5) ,(6) I(7) will(8) never(9) buy(10) a(11) VW(12) again(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) last(2) bout(3) of(4) repairs(5) cost(6) me(7) $1900.00(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) this(4) car(5) at(6) the(7) VW(8) dealer(9) every(10) three(11) to(12) five(13) months(14) with(15) major(16) repairs(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Between(1) 37,000_miles(2) and(3) 64,000_miles(4) I(5) have(6) had(7) nothing(8) but(9) major(10) problems(11) ;(12) to(13) date(14) I(15) 've(16) replaced(17) the(18) drive(19) shaft(20) ,(21) two(22) axles(23) ,(24) complete(25) suspension(26) system(27) ,(28) water(29) pump(30) ,(31) oxygen(32) sensor(33) ,(34) and(35) a(36) host(37) of(38) smaller(39) repairs(40) --(41) SHOULD(42) NOT_HAPPEN_ON_A_CAR_WITH_SO_FEW_MILES(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			Hopefully(1) others(2) will(3) have(4) better(5) luck(6) !(7) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16,900(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) V6(16) GLS(17) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="685" item="2001 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			Reliability(1) versus(2) Comfort(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) steering(2) response(3) for(4) a(5) small(6) car(7) ,(8) excellent(9) craftsmanship(10) 
+			<opinion polarity="+" feature="steering" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Comfort(2) score(3) for(4) all(5) passengers(6) is(7) 0(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) is(2) a(3) 2001(4) CE(5) model(6) and(7) I(8) am(9) quite(10) disappointed(11) by(12) the(13) car(14) .(15) 
+			<opinion polarity="-" feature="car" featWords="14" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) standard(3) 5(4) speed(5) gear(6) which(7) is(8) behaving(9) very(10) strange(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			On(1) a(2) 4th(3) gear(4) lacks(5) power(6) and(7) you(8) have(9) to(10) go(11) higher(12) on(13) 3(14) th(15) which(16) cause(17) the(18) engine(19) to(20) make(21) huge(22) noise(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) engine(2) is(3) very(4) noisy(5) at(6) higher(7) RPM(8) .(9) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			When(1) it(2) comes(3) to(4) comfort(5) the(6) mark(7) goes(8) to(9) the(10) bottom(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			After(1) a(2) long(3) driving(4) I(5) have(6) pain(7) in(8) the(9) arms(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) no(3) arm(4) rest(5) and(6) the(7) non(8) adjustable(9) steering(10) wheel(11) makes(12) the(13) driving(14) unpleasant(15) plus(16) the(17) driver(18) seat(19) is(20) too(21) far(22) so(23) for(24) shorter(25) people(26) is(27) hard(28) to(29) reach(30) the(31) pedals(32) .(33) 
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) good(3) thing(4) is(5) the(6) reliability(7) which(8) does(9) not(10) justify(11) the(12) high(13) resale(14) value(15) .(16) 
+			<opinion polarity="+" feature="reliability" featWords="7" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) CE(16) ,(17) 5(18) speed(19) standart(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="24" item="Grado SR80 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			I(1) was(2) unimpressed(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) reviews(2) !(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible_Build(1) quality(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) a(6) quality(7) product(8) go(9) elswhere(10) fast(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) really(3) think(4) the(5) sound(6) quality(7) outweighs(8) the(9) dreadful(10) build(11) quality(12) ,(13) then(14) buy(15) ,(16) and(17) enjoy(18) .(19) 
+			<opinion polarity="-" feature="durability" featWords="11" opWords="10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Bought(1) these(2) because_of(3) all(4) the(5) good(6) reviews(7) !(8) 
+		</sentence>
+		<sentence id="2">
+			Very(1) disappointed(2) when(3) they(4) arrived(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Withing(1) seconds(2) of(3) listening(4) I(5) noticed(6) a(7) tapping(8) whenever(9) I(10) moved(11) my(12) head(13) in(14) the(15) left(16) ear(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Moments(1) to(2) work(3) out(4) why(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Cord(1) is(2) fixed(3) on(4) entry(5) to(6) earpiece(7) on(8) right(9) ,(10) but(11) on(12) the(13) left(14) it(15) floats(16) on(17) entry(18) into(19) the(20) earpiece(21) and(22) hence(23) when(24) you(25) move(26) ,(27) knocks(28) against(29) the(30) plastic(31) ((32) very(33) plastic(34) )(35) housing(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			Shop(1) said(2) send(3) them(4) back(5) because(6) they(7) must(8) be(9) at(10) fault(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Sent(1) out(2) another(3) pair(4) ,(5) opened(6) box(7) ,(8) ((9) now(10) this(11) box(12) is(13) as(14) thin(15) as(16) a(17) pizza(18) box(19) so(20) goodness(21) knows(22) what(23) protection(24) they(25) get(26) from(27) knocks(28) in(29) transit(30) )(31) ,(32) lifted(33) them(34) out(35) and(36) one(37) of(38) the(39) earpieces(40) just(41) fell(42) off(43) .(44) 
+		</sentence>
+		<sentence id="8">
+			Again(1) moments(2) to(3) work(4) out(5) why(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			That(1) thin(2) ((3) very(4) thin(5) )(6) metal(7) pin(8) you(9) see(10) entering(11) the(12) ,(13) has(14) a(15) few(16) small(17) cuts(18) made(19) to(20) the(21) end(22) ((23) assume(24) for(25) grip(26) )(27) and(28) then(29) is(30) just(31) pushed(32) into(33) plastic(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			Again(1) however(2) cord(3) is(4) loose(5) and(6) shop(7) now(8) confirms(9) thats(10) how(11) they(12) all(13) are(14) .(15) 
+			<opinion polarity="-" feature="cord" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			did(1) not(2) waste(3) any(4) more(5) time(6) and(7) just(8) sent(9) them(10) back(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Couple(1) of(2) minutes(3) listening(4) were(5) ok(6) ,(7) but(8) no(9) fan(10) as(11) you(12) can(13) see(14) !(15) 
+		</sentence>
+		<sentence id="13">
+			Bought(1) another(2) pair(3) of(4) headphones(5) less(6) than(7) half(8) the(9) cost(10) ,(11) excellent(12) build(13) quality(14) and(15) sound(16) great(17) ((18) and(19) not(20) sennheisers(21) )(22) .(23) 
+			<opinion polarity="+" feature="durability" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="sound quality" opWords="16,17"/>
+		</sentence>
+		<sentence id="14">
+			Just(1) also(2) note(3) the(4) the(5) Grado_Earpads(6) feel(7) like(8) Russian(9) tank(10) rubber(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			Hope(1) we(2) all(3) have(4) not(5) gone(6) and(7) jumped(8) on(9) the(10) running(11) train(12) together(13) and(14) forgot(15) our(16) senses(17) ,(18) when(19) it(20) comes(21) to(22) objective(23) reviews(24) ....(25) 
+		</sentence>
+	</text>
+</review>

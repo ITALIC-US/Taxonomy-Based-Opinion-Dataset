@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="366" item="1998 Honda Accord" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) car(2) for(3) non-sporting(4) drivers(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Build(1) quality(2) ,(3) V(4) -(5) 6(6) ,(7) reliablilty(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Awful(1) seats(2) ,(3) confused(4) auto(5) transmission(6) 
+			<opinion polarity="-" feature="transmission" featWords="6" opWords="4"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Its(1) recommended(2) for(3) folks(4) that(5) do(6) not(7) have(8) a(9) bad(10) lower(11) back(12) and(13) do(14) not(15) drive(16) aggressively(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			1998(1) Accord_EX_V(2) -(3) 6(4) automatic(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			First(1) year(2) of(3) the(4) new(5) body(6) style(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) is(3) quite(4) well(5) made(6) ,(7) and(8) only(9) exhibits(10) a(11) rattle(12) from(13) the(14) sunroof(15) after(16) 55K_miles(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5,6" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			Typically(1) good(2) Honda(3) reliablilty(4) ,(5) its(6) only(7) needed(8) regular(9) services(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) VTEC_V(2) -(3) 6(4) is(5) strong(6) with(7) 200hp(8) ,(9) and(10) delivers(11) its(12) power(13) smoothly(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			None(1) of(2) the(3) 4(4) cylinder(5) "(6) step-up(7) "(8) feeling(9) from(10) the(11) VTEC(12) actuating(13) is(14) present(15) in(16) this(17) engine(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) transmission(2) however(3) ,(4) is(5) not(6) as(7) sorted(8) out(9) as(10) it(11) should(12) be(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) slow(3) to(4) kick(5) down(6) ,(7) and(8) baffingly(9) still(10) holds(11) the(12) downshifted(13) gear(14) if(15) you(16) let(17) off(18) the(19) throttle(20) suddenly(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			This(1) results(2) in(3) a(4) forward(5) lurching(6) motion(7) that(8) hardly(9) inspires(10) spirited(11) motoring(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Most(1) other(2) automatics(3) will(4) quickly(5) shift(6) up(7) a(8) gear(9) or(10) two(11) ,(12) giving(13) you(14) unimpeded(15) forward(16) motion(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) the(3) particular(4) feeling(5) of(6) being(7) rushed(8) into(9) production(10) before(11) all(12) the(13) details(14) were(15) ironed(16) out(17) .......(18) Ride(19) is(20) decent(21) ,(22) but(23) feels(24) a_bit(25) wooden(26) at(27) times(28) .(29) 
+			<opinion polarity="+" feature="ride quality" featWords="19" opWords="21"/>
+		</sentence>
+		<sentence id="12">
+			It(1) feels(2) stiff(3) without(4) feeling(5) sporting(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			Again(1) ,(2) was(3) this(4) car(5) rushed(6) into(7) production(8) without(9) proper(10) development(11) ?(12) 
+		</sentence>
+		<sentence id="14">
+			Steering(1) is(2) direct(3) and(4) accurate(5) .(6) 
+			<opinion polarity="+" feature="steering" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="steering" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="15">
+			Brakes(1) are(2) strong(3) and(4) do(5) not(6) fade(7) .(8) 
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			Mileage(1) is(2) low(3) 20(4) 's(5) city(6) ,(7) mid(8) to(9) high(10) 20(11) 's(12) highway(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) interior(2) is(3) high(4) quality(5) and(6) well(7) appointed(8) ,(9) with(10) good(11) materials(12) and(13) nice(14) detailing(15) .(16) 
+			<opinion polarity="+" feature="material" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7,8"/>
+		</sentence>
+		<sentence id="18">
+			The(1) seats(2) ,(3) however(4) ,(5) are(6) absolutely(7) horrific(8) for(9) anyone(10) with(11) lower(12) back(13) problems(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			The(1) lumbar(2) is(3) so(4) pronounced(5) even(6) in(7) its(8) most(9) recessed(10) setting(11) that(12) it(13) makes(14) it(15) all(16) but(17) impossible(18) to(19) be(20) comfortable(21) without(22) putting(23) a(24) cushion(25) down(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			The(1) seat(2) is(3) also(4) very(5) hard(6) .(7) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="21">
+			Trunk(1) size(2) is(3) good(4) ,(5) the(6) fold(7) down(8) rear(9) seat(10) is(11) a(12) nice(13) touch(14) ,(15) and(16) the(17) car(18) looks(19) good(20) .(21) 
+			<opinion polarity="+" feature="design" opWords="19,20"/>
+			<opinion polarity="+" feature="trunk" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			I(1) 'd(2) be(3) curious(4) to(5) drive(6) subsequent(7) model(8) years(9) of(10) this(11) vehicle(12) ,(13) to(14) see(15) if(16) the(17) various(18) shortcomings(19) of(20) this(21) initial(22) model(23) year(24) EX(25) have(26) been(27) sorted(28) out(29) .(30) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) Not(7) Sure_Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) EX(16) ,(17) V(18) -(19) 6(20) ,(21) Automatic(22) 
+		</sentence>
+	</text>
+</review>

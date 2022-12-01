@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="933" item="1999 Daewoo Leganza" rating="1">
+	<title>
+		<sentence id="1">
+			Daewoo(1) ...(2) Just(3) do(4) not(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Was(1) good(2) for(3) the(4) first(5) year(6) or(7) so(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) engines(2) ,(3) EXPENSIVE(4) parts(5) .(6) 
+			<opinion polarity="-" feature="price" opWords="4"/>
+			<opinion polarity="-" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Worth(1) about(2) nothing(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) can(2) I(3) say(4) about(5) this(6) car(7) other(8) than(9) it(10) stinks(11) like(12) dead(13) fish(14) ?(15) ?(16) 
+		</sentence>
+		<sentence id="2">
+			First(1) of(2) all(3) ,(4) Daewoo(5) went(6) bankrupt(7) and(8) therefore(9) all(10) service(11) plans(12) were(13) garbage(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) NOTHING(4) but(5) problems(6) with(7) this(8) car(9) since(10) I(11) bought(12) it(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) brake(2) light(3) switch(4) has(5) been(6) replaced(7) three_times(8) in(9) 3(10) years(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Not(1) really(2) even(3) sure(4) what(5) that(6) is(7) ,(8) but(9) I(10) know(11) when(12) it(13) is(14) broken(15) ,(16) you(17) can(18) not(19) move(20) the(21) car(22) out(23) of(24) park(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) engine(2) puked(3) up(4) at(5) 60,430_miles(6) leaving(7) me(8) stuck(9) in(10) South_Carolina(11) with(12) a(13) nonworking(14) car(15) .(16) .(17) ((18) on(19) the(20) way(21) TO_Connecticut(22) )(23) Now(24) at(25) 70,000_miles(26) I(27) am(28) being(29) told(30) my(31) transmission(32) is(33) going(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			I(1) still(2) have(3) two(4) years(5) left(6) to(7) pay(8) on(9) this(10) car(11) and(12) still(13) owe(14) approximately(15) 6,000(16) and(17) it(18) is(19) only(20) WORTH(21) about(22) 3,000(23) because_of(24) Daewoo(25) going(26) bankrupt(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			Parts(1) are(2) HARD(3) to(4) come(5) by(6) for(7) the(8) same(9) reason(10) ,(11) therefore(12) they(13) cost(14) an(15) arm(16) and(17) a(18) leg(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			I(1) just(2) replaced(3) the(4) muffler(5) and(6) it(7) was(8) 339_dollars(9) for(10) it(11) !(12) 
+		</sentence>
+		<sentence id="10">
+			Way(1) higher(2) than(3) my(4) old(5) Dodge(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Needless(1) to(2) say(3) I(4) wish(5) I(6) had(7) stayed(8) FAR(9) away(10) from(11) Daewoo(12) and(13) now(14) I(15) am(16) stuck(17) with(18) it(19) because(20) it(21) is(22) worth(23) so(24) little(25) .(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) SX(16) 
+		</sentence>
+	</text>
+</review>

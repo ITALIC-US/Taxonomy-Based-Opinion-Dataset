@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="709" item="1999 Toyota Camry Solara" rating="1">
+	<title>
+		<sentence id="1">
+			Will(1) not(2) last(3) as(4) long(5) as(6) the(7) television(8) says(9) it(10) will(11) !(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) ,(2) Motor(3) ,(4) Paint(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) a(4) nice(5) luxury(6) /(7) sport(8) coupe(9) go(10) for(11) a(12) Ford_T-bird(13) /(14) Mercury_Cougar(15) ,(16) or(17) a(18) 1995-2000(19) Chrysler(20) coupe(21) ((22) 4(23) cylinder(24) )(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) car(2) belongs(3) to(4) my(5) sister(6) in-law(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			She(1) leased(2) this(3) car(4) when(5) it(6) was(7) brand(8) new(9) and(10) she(11) has(12) been(13) unimpressed(14) .(15) 
+			<opinion polarity="-" feature="car" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			First(1) ,(2) one(3) month(4) after(5) she(6) got(7) it(8) she(9) was(10) visiting(11) my(12) family(13) and(14) before(15) she(16) left(17) the(18) car(19) needed(20) to(21) be(22) washed(23) in(24) a(25) hurry(26) because(27) she(28) was(29) going(30) to(31) meet(32) some(33) friends(34) ,(35) so(36) naturally(37) ,(38) I(39) help(40) her(41) wash(42) it(43) at(44) a(45) car(46) wash(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			We(1) washed(2) it(3) ourselves(4) to(5) make(6) sure(7) it(8) was(9) almost(10) spotless(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			While(1) we(2) were(3) washing(4) it(5) the(6) paint(7) was(8) pealing(9) off(10) !(11) 
+		</sentence>
+		<sentence id="6">
+			ON(1) A(2) BRAND_NEW_CAR(3) !(4) !(5) !(6) 
+		</sentence>
+		<sentence id="7">
+			My(1) sister(2) in-law(3) was(4) not(5) very(6) happy(7) about(8) that(9) at(10) all(11) !(12) 
+			<opinion polarity="-" feature="car" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			Then(1) a(2) few(3) months(4) later(5) I(6) was(7) going(8) somewhere(9) with(10) her(11) in(12) her(13) car(14) and(15) the(16) transmission(17) was(18) kicking(19) very(20) hard(21) each(22) time(23) it(24) shifted(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			I(1) later(2) read(3) that(4) these(5) car(6) 's(7) transmissions(8) were(9) known(10) to(11) do(12) that(13) if(14) the(15) driver(16) was(17) driving(18) it(19) hard(20) or(21) if(22) it(23) was(24) cold(25) ,(26) but(27) she(28) was(29) not(30) driving(31) it(32) hard(33) at(34) all(35) and(36) she(37) had(38) driven(39) an(40) hour(41) in(42) the(43) afternoon(44) .(45) 
+		</sentence>
+		<sentence id="10">
+			Then(1) a(2) month(3) or(4) two(5) ago(6) she(7) told(8) me(9) that(10) black(11) smoke(12) was(13) coming(14) out(15) of(16) the(17) exhaust(18) pipe(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) looked(2) this(3) up(4) and(5) it(6) appears(7) the(8) 3.0(9) 24valve(10) V6(11) is(12) known(13) to(14) have(15) motor(16) failures(17) at(18) low(19) miles(20) and(21) this(22) was(23) one(24) of(25) the(26) signs(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			WHAT(1) !(2) !(3) !(4) !(5) !(6) 
+		</sentence>
+		<sentence id="13">
+			And(1) Toyota(2) always(3) brags(4) that(5) this(6) car(7) will(8) last(9) up(10) to(11) 300,000_miles(12) with(13) minimal(14) problems(15) ?(16) !(17) 
+		</sentence>
+		<sentence id="14">
+			I(1) know(2) that(3) this(4) was(5) the(6) car(7) 's(8) fault(9) because(10) she(11) always(12) brought(13) it(14) to(15) the(16) dealer(17) for(18) regular(19) oil(20) changes(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			The(1) lease(2) is(3) almost(4) up(5) with(6) 60,000_miles(7) and(8) she(9) is(10) not(11) buying(12) another(13) Toyota(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Now(1) she(2) is(3) going(4) to(5) buy(6) a(7) good(8) American(9) car(10) and(11) not(12) another(13) Japanese(14) car(15) that(16) are(17) not(18) as(19) good(20) as(21) what(22) people(23) think(24) with(25) this(26) dumb(27) idea(28) of(29) the(30) car(31) lasting(32) 300,000_miles(33) every(34) time(35) ((36) more(37) like(38) 60,000_miles(39) every(40) time(41) )(42) !(43) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29,000(7) Model_Year(8) :(9) 1999Model(10) and(11) Options(12) :(13) SLE(14) ,(15) V6(16) ,(17) loaded(18) 
+		</sentence>
+	</text>
+</review>

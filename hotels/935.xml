@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="935" item="Ritz Carlton Cleveland" rating="5">
+	<title>
+		<sentence id="1">
+			Fit_for_a_King(1) and(2) A(3) Queen(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excleent_Location(1) and(2) service(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) kitchenette(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			You(1) have(2) a(3) wonderful(4) view(5) of(6) downtown(7) from(8) any(9) floor(10) .(11) 
+			<opinion polarity="+" feature="view" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) there(3) is(4) wonderful(5) .(6) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) kind(3) and(4) helpful(5) .(6) 
+			<opinion polarity="+" feature="staff" featWords="1" featRef="staff" opWords="3"/>
+			<opinion polarity="+" feature="staff" featWords="1" featRef="staff" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) rooms(2) are(3) luxurious(4) spacy(5) clean(6) and(7) ahve(8) a(9) nice(10) romantic(11) ora(12) about(13) them(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) food(2) service(3) from(4) the(5) hotel(6) is(7) great(8) and(9) it(10) 's(11) location(12) is(13) wonderful(14) because(15) you(16) are(17) within(18) walking(19) distance(20) of(21) many(22) attractions(23) and(24) fine(25) restaraunts(26) .(27) 
+			<opinion polarity="+" feature="place" featWords="12" opWords="14"/>
+			<opinion polarity="+" feature="food" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			You(1) are(2) also(3) no(4) more(5) that(6) a(7) 10(8) minute(9) cab(10) rideto(11) many(12) of(13) Clevelands(14) wonderful(15) musems(16) including(17) the(18) Great_Lakes_Science(19) center(20) and(21) the(22) Rock(23) and(24) Roll(25) hall(26) of(27) fame(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			The(1) Ritz(2) has(3) a(4) beautiful(5) swimming(6) pool(7) and(8) spa(9) area(10) to(11) relax(12) in(13) .(14) 
+			<opinion polarity="+" feature="spa" featWords="9" opWords="5"/>
+			<opinion polarity="+" feature="swimming pool" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) best(2) thing(3) I(4) think(5) is(6) that(7) is(8) attached(9) to(10) Tower_City(11) ,(12) a(13) large(14) shopping(15) center(16) with(17) relaly(18) nice(19) stores(20) like(21) the(22) Nature_Company(23) ,(24) Liz_Claiborne(25) ,(26) Bananna_Republic(27) ,(28) The_Warner_Brothers_Store(29) and(30) many(31) toher(32) great(33) little(34) shops(35) .(36) 
+		</sentence>
+	</text>
+</review>

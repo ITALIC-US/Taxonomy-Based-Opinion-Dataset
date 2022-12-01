@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="589" item="2002 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			NICE_ROLL_BUT_LOTS_OF_RATTLE(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) engine(2) and(3) transmission(4) ,(5) Pretty(6) quick(7) ,(8) Very(9) accessible(10) for(11) the(12) soccer(13) Mom(14) and(15) Dad(16) .(17) 
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="speed" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="transmission" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) major(2) quality(3) issues(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Maybe(1) this(2) one(3) was(4) built(5) on(6) a(7) bad(8) day(9) because(10) I(11) believe(12) that(13) this(14) could(15) be(16) the(17) best(18) mini(19) van(20) ever(21) if(22) it(23) were(24) not(25) for(26) some(27) problems(28) in(29) craftsmanship(30) .(31) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Maybe(1) my(2) wife(3) and(4) I(5) took(6) this(7) Honda(8) down(9) to(10) many(11) poor(12) quality(13) roads(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) live(2) in(3) Michigan(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			But(1) after(2) the(3) first(4) year(5) of(6) a(7) two(8) year(9) lease(10) ((11) 2002-2004(12) )(13) the(14) van(15) had(16) a_lot_of(17) rattles(18) coming(19) from(20) its(21) dash(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			Also(1) the(2) two(3) automatic(4) sliding(5) side(6) doors(7) acted(8) up(9) quite(10) a_bit(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) engine(2) was(3) superb(4) ,(5) mechanically(6) sound(7) and(8) at(9) 230hp(10) pretty(11) quick(12) .(13) 
+			<opinion polarity="+" feature="speed" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Easy(1) lay-out(2) on(3) the(4) dash(5) with(6) a(7) great(8) climate(9) control(10) system(11) ,(12) good(13) seats(14) and(15) a(16) ok(17) sound(18) system(19) .(20) 
+			<opinion polarity="+" feature="sound system" featWords="18,19" opWords="17"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="climate" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			Accessibility(1) is(2) second(3) to(4) none(5) especially(6) with(7) two(8) kids(9) to(10) shlep(11) around(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) also(2) liked(3) the(4) easy(5) access(6) when(7) making(8) trips(9) to(10) the(11) Home_Depot(12) ((13) the(14) seats(15) all(16) fold(17) down(18) or(19) can(20) be(21) removed(22) )(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) wife(2) liked(3) it(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			And(1) for(2) a(3) mini-van(4) I(5) felt(6) alright(7) riding(8) around(9) in(10) it(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Maybe(1) we(2) got(3) some(4) what(5) of(6) a(7) lemon(8) ,(9) because(10) for(11) a(12) Honda(13) we(14) had(15) to(16) bring(17) it(18) into(19) the(20) shop(21) quite(22) a_bit(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			Because_of(1) the(2) doors(3) the(4) thing(5) was(6) constantly(7) being(8) brought(9) in(10) for(11) repairs(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			This(1) may(2) be(3) a(4) problem(5) with(6) the(7) '(8) 02(9) 's(10) because_of(11) the(12) new(13) technology(14) implemented(15) into(16) them(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Be(1) careful(2) when(3) buying(4) this(5) van(6) used(7) and(8) without(9) warranty(10) ,(11) repairs(12) could(13) be(14) very(15) costly(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="16"/>
+		</sentence>
+		<sentence id="15">
+			Hey(1) !(2) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) 're(3) bored(4) check(5) out(6) my(7) blog(8) at(9) thpunishrr(10) .(11) blogspot(12) .(13) com(14) Amount_Paid(15) ((16) US(17) $(18) )(19) :(20) 26,000(21) Condition(22) :(23) NewModel_Year(24) :(25) 2002(26) 
+		</sentence>
+	</text>
+</review>

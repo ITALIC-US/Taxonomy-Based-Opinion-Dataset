@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="728" item="1997 Subaru Legacy" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) nice(2) car(3) in(4) an(5) Electrical_Jungle(6) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) handling(2) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			electric(1) nightmare(2) !(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Subaru_Legacy_Outback(2) ,(3) nice(4) car(5) it(6) was(7) at(8) first(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) in_1996(4) ,(5) it(6) was(7) new(8) and(9) a(10) 1997(11) model(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) was(3) a(4) thrill(5) to(6) drive(7) ,(8) handling(9) curves(10) like(11) a(12) pro(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) often(2) felt(3) as_if(4) I(5) was(6) in(7) an(8) indy(9) car(10) the(11) way(12) it(13) stuck(14) to(15) the(16) road(17) so(18) tight(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) all(2) wheel(3) drive(4) was(5) excellent(6) ,(7) and(8) will(9) spoil(10) you(11) right(12) away(13) .(14) 
+			<opinion polarity="+" feature="drive" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) creature(2) comforts(3) were(4) nice(5) ,(6) buttons(7) and(8) other(9) things(10) were(11) always(12) at(13) close(14) reach(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) seat(2) was(3) thin(4) as(5) most(6) Japanese(7) seats(8) tend(9) to(10) be(11) and(12) did(13) cause(14) some(15) vibrations(16) .(17) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Engine(1) noise(2) was(3) on(4) the(5) high(6) side(7) ,(8) but(9) the(10) engine(11) was(12) fine(13) ,(14) excellent(15) ,(16) bravo(17) !(18) 
+			<opinion polarity="+" feature="engine" featWords="11" opWords="15"/>
+			<opinion polarity="+" feature="engine" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="9">
+			The(1) engine(2) was(3) well(4) balanced(5) and(6) had(7) plenty_of(8) power(9) .(10) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="10">
+			The(1) radio(2) was(3) a(4) piece(5) of(6) junk(7) ,(8) as(9) was(10) the(11) rest(12) of(13) the(14) electrical(15) system(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Electric(1) windows(2) stopped(3) operating(4) ,(5) the(6) CD(7) stopped(8) operating(9) ,(10) the(11) radio(12) would(13) work(14) when(15) it(16) wanted(17) to(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			When(1) we(2) bought(3) the(4) car(5) there(6) were(7) two(8) dealerships(9) in(10) town(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			The(1) one(2) dealership(3) we(4) purchased(5) the(6) car(7) at(8) stopped(9) handling(10) Subaru(11) and(12) told(13) us(14) we(15) would(16) have(17) to(18) go(19) accross(20) town(21) to(22) another(23) dealership(24) ((25) its(26) on(27) Covington_Pike(28) ,(29) only(30) dealership(31) there(32) with(33) subaru(34) )(35) to(36) have(37) the(38) vehicle(39) serviced(40) .(41) 
+		</sentence>
+		<sentence id="14">
+			We(1) had(2) the(3) oil(4) changed(5) there(6) and(7) tried(8) to(9) get(10) them(11) to(12) repair(13) the(14) electric(15) window(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			We(1) got(2) the(3) run(4) around(5) from(6) them(7) ,(8) they(9) would'nt(10) honor(11) our(12) Subaru(13) warranty(14) ,(15) they(16) acted(17) like(18) jerks(19) !(20) 
+		</sentence>
+		<sentence id="16">
+			Would(1) I(2) buy(3) another(4) Subaru(5) ?(6) 
+		</sentence>
+		<sentence id="17">
+			Probally(1) not(2) ,(3) its(4) not(5) worth(6) the(7) electrical(8) night(9) mare(10) to(11) drive(12) it(13) !(14) 
+		</sentence>
+		<sentence id="18">
+			Or(1) crummy(2) dealerships(3) either(4) .(5) 
+		</sentence>
+	</text>
+</review>

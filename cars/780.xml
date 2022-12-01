@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="780" item="1998 Honda Prelude" rating="1">
+	<title>
+		<sentence id="1">
+			Automatic_Transmission(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) brand(4) spanking(5) new(6) 1998(7) Honda_Prelude(8) 2(9) years(10) and(11) 39,000_miles(12) ago(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) had(3) few(4) complaints(5) with(6) the(7) car(8) -(9) the(10) performance(11) is(12) fine(13) ,(14) nothing(15) spectacular(16) ,(17) but(18) nice(19) .(20) 
+			<opinion polarity="+" feature="performance" featWords="11" opWords="19"/>
+			<opinion polarity="+" feature="performance" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) a(3) few(4) things(5) I(6) 've(7) noticed(8) :(9) first(10) -(11) the(12) sunroof(13) makes(14) noise(15) when(16) open(17) and(18) road(19) is(20) bumpy(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Second(1) -(2) checking(3) your(4) blind(5) spots(6) is(7) impossible(8) thanks(9) to(10) some(11) design(12) errors(13) -(14) try(15) looking(16) for(17) a(18) car(19) on(20) the(21) driver(22) 's(23) left(24) hand(25) side(26) on(27) a(28) test(29) drive(30) ,(31) and(32) you(33) 'll(34) like(35) how(36) it(37) disappears(38) from(39) view(40) for(41) long(42) periods(43) of(44) time(45) .(46) 
+		</sentence>
+		<sentence id="5">
+			Up(1) to(2) the(3) past(4) week(5) ,(6) the(7) car(8) has(9) been(10) mechanically(11) fine(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			Now(1) ,(2) at(3) 39,000_miles(4) the(5) automatic(6) transmission(7) is(8) completely(9) destroyed(10) -(11) I(12) noticed(13) it(14) shifting(15) rough(16) into(17) first(18) gear(19) when(20) totally(21) cold(22) ,(23) and(24) only(25) the(26) first(27) few(28) starts(29) from(30) a(31) complete(32) stop(33) ,(34) and(35) within(36) a(37) week(38) ((39) 10_miles(40) per(41) day(42) driving(43) )(44) had(45) it(46) at(47) the(48) dealer(49) .(50) 
+			<opinion polarity="-" feature="transmission" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="7">
+			They(1) wanted(2) to(3) flush(4) the(5) trans(6) out(7) a(8) few(9) times(10) and(11) see(12) if(13) that(14) fixed(15) the(16) problem(17) ,(18) and(19) then(20) called(21) me(22) to(23) say(24) that(25) the(26) car(27) no_longer(28) has(29) reverse(30) ,(31) and(32) is(33) no_longer(34) driveable(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			The(1) best(2) part(3) of(4) this(5) -(6) no(7) extended(8) warranty(9) on(10) my(11) behalf(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			Stupid(1) me(2) ,(3) I(4) just(5) assumed(6) this(7) Honda(8) would(9) last(10) ,(11) boy(12) was(13) I(14) mistaken(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Here(1) I(2) am(3) two(4) years(5) later(6) with(7) a(8) $5200(9) transmission(10) repair(11) bill(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Boy_I(1) wish(2) I(3) had(4) that(5) extended(6) warranty(7) now(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			Buyer(1) beware(2) !(3) !(4) !(5) 
+		</sentence>
+	</text>
+</review>

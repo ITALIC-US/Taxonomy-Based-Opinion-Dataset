@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="187" item="RCA  HPNC050 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Great(1) price(2) ...(3) but(4) that(5) 's(6) all(7) that(8) 's(9) great(10) !(11) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Foldable(1) ,(2) airplane(3) adapter(4) and(5) carrying(6) bag(7) :(8) At(9) an(10) affordable(11) price(12) 
+			<opinion polarity="+" feature="portability" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) little(2) '(3) noise(4) canceling(5) '(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Some(1) noises(2) are(3) actually(4) pronounced(5) with(6) them(7) on(8) !(9) 
+		</sentence>
+		<sentence id="3">
+			Mediocre(1) sound(2) quality(3) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) really(2) had(3) high(4) hopes(5) for(6) buying(7) the(8) RCA(9) noise(10) canceling(11) headphones(12) ,(13) as(14) they(15) were(16) on(17) sale(18) for(19) $19.99(20) ,(21) however(22) the(23) noise(24) canceling(25) ability(26) is(27) hardly(28) effective(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			They(1) will(2) will(3) reduce(4) noise(5) from(6) very(7) low(8) sources(9) of(10) noise(11) ,(12) but(13) will(14) not(15) remove(16) background(17) noise(18) from(19) a(20) radio(21) ,(22) people(23) talking(24) or(25) other(26) sounds(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			They(1) will(2) reduce(3) the(4) sound(5) of(6) a(7) Refrigerator(8) ,(9) or(10) the(11) sound(12) of(13) an(14) air(15) conditioner(16) in(17) a(18) vehicle(19) and(20) a(21) little(22) bit(23) of(24) road(25) noise(26) ,(27) but(28) that(29) 's(30) about(31) it(32) !(33) 
+		</sentence>
+		<sentence id="4">
+			I(1) suppose(2) they(3) may(4) be(5) effective(6) at(7) reducing(8) the(9) sound(10) in(11) the(12) range(13) of(14) 300(15) to(16) 450hz(17) as(18) they(19) state(20) on(21) the(22) box(23) ,(24) and(25) this(26) may(27) be(28) the(29) predominate(30) frequency(31) on(32) an(33) airplane(34) ,(35) but(36) I(37) did(38) not(39) buy(40) them(41) to(42) just(43) reduce(44) noise(45) on(46) an(47) airplane(48) trip(49) .(50) 
+		</sentence>
+		<sentence id="5">
+			The(1) music(2) quality(3) is(4) just(5) acceptable(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) unit(2) reduces(3) the(4) output(5) from(6) your(7) music(8) device(9) in(10) both(11) volume(12) level(13) and(14) bass(15) level(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			You(1) are(2) better(3) off(4) leaving(5) the(6) device(7) in(8) the(9) '(10) off(11) '(12) position(13) because(14) the(15) sound(16) quality(17) is(18) better(19) with(20) it(21) off(22) and(23) the(24) offensive(25) sounds(26) that(27) you(28) are(29) hoping(30) the(31) headphones(32) will(33) remove(34) do(35) not(36) go(37) away(38) anyhow(39) .(40) 
+		</sentence>
+	</text>
+</review>

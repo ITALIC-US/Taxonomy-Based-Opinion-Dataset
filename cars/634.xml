@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="634" item="2002 Subaru Impreza" rating="1">
+	<title>
+		<sentence id="1">
+			Arrrrggghhh(1) !(2) !(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) salesmen(2) ,(3) Nice(4) seats(5) ,(6) decent(7) stereo(8) system(9) 
+			<opinion polarity="+" feature="sound system" featWords="8,9" opWords="7"/>
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) drivetrain(2) ,(3) Even(4) worse(5) service(6) 
+			<opinion polarity="-" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy_a_Toyota(1) or(2) Honda(3) instead(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) own(2) a(3) 2002(4) Subaru_WRX(5) and(6) I(7) loved(8) the(9) car(10) ...(11) When(12) it(13) was(14) not(15) in(16) the(17) shop(18) for(19) warranty(20) work(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) now(3) owned(4) this(5) vehicle(6) since(7) Febuary(8) of(9) last(10) year(11) ((12) 2003(13) )(14) with(15) 9300_miles(16) on(17) it(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) only(2) drove(3) the(4) vehicle(5) from(6) Febuary(7) until(8) August(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) seven(3) months(4) I(5) owned(6) the(7) vehicle(8) I(9) put(10) almost(11) 12000_miles(12) on(13) it(14) ((15) Lots(16) of(17) highway(18) miles(19) )(20) went(21) through(22) 3(23) transmissions(24) ,(25) 2(26) driveshafts(27) ,(28) 1(29) clutch(30) ,(31) the(32) entire(33) rear(34) suspension(35) ,(36) and(37) lots(38) of(39) trips(40) back(41) to(42) the(43) dealership(44) for(45) in-proper(46) installation(47) of(48) all(49) the(50) before(51) mentioned(52) components(53) .(54) 
+		</sentence>
+		<sentence id="5">
+			The(1) vehicle(2) has(3) been(4) sitting(5) at(6) the(7) local(8) dealership(9) for(10) the(11) last(12) 11(13) months(14) now(15) because_of(16) the(17) last(18) transmission(19) failure(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Subaru(1) has(2) denied(3) me(4) warranty(5) coverage(6) for(7) two(8) completely(9) different(10) and(11) changing(12) stories(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) first(2) story(3) I(4) received(5) from(6) Subaru(7) was(8) that(9) I(10) had(11) put(12) the(13) wrong(14) transmission(15) fluid(16) into(17) the(18) vehicle(19) .(20) ((21) At(22) this(23) point(24) I(25) contacted(26) a(27) lawyer(28) and(29) told(30) the(31) dealership(32) this(33) .(34) )(35) I(36) have(37) never(38) had(39) anyone(40) work(41) on(42) the(43) vehicle(44) other(45) than(46) Subaru(47) ...(48) When(49) I(50) kindly(51) informed(52) them(53) of(54) this(55) they(56) then(57) turned(58) around(59) and(60) told(61) me(62) they(63) would(64) have(65) to(66) now(67) have(68) an(69) inspection(70) performed(71) on(72) the(73) vehicle(74) and(75) to(76) turn(77) in(78) my(79) rental(80) car(81) .(82) 
+		</sentence>
+		<sentence id="8">
+			A(1) month(2) goes(3) by(4) ((5) without(6) transportation(7) )(8) before(9) I(10) hear(11) from(12) them(13) again(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			Upon(1) their(2) "(3) inspection(4) "(5) they(6) said(7) that(8) I(9) had(10) been(11) racing(12) the(13) car(14) and(15) I(16) owed(17) them(18) $2600(19) for(20) a(21) new(22) transmission(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) never(3) "(4) raced(5) "(6) the(7) car(8) and(9) it(10) remains(11) in(12) it(13) 's(14) stock(15) condition(16) just(17) like(18) it(19) was(20) when(21) I(22) bought(23) it(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			In(1) summation(2) I(3) will(4) never(5) buy(6) another(7) vehicle(8) from(9) Subaru_Of_America(10) who(11) denies(12) warranty(13) coverage(14) and(15) employs(16) inept(17) mechanics(18) who(19) can(20) not(21) put(22) a(23) vehicle(24) back(25) together(26) properly(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			I(1) would(2) advise(3) anyone(4) looking(5) to(6) purchase(7) a(8) Subaru(9) to(10) think(11) about(12) a(13) Toyota(14) or(15) Honda(16) instead(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) 2002(16) Subaru_WRX_W(17) /(18) all(19) options(20) factory(21) installed(22) 
+		</sentence>
+	</text>
+</review>

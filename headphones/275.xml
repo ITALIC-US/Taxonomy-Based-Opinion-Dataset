@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="275" item="Sony MDR-EX51LPP Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Bright_Sound(1) ,(2) Lower_Bass(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Bright(1) sound(2) with(3) emphasis(4) on(5) midrange(6) /(7) high-end(8) ,(9) precise(10) detail(11) ,(12) comfortable(13) rubber(14) earbud(15) inserts(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" opWords="10,11"/>
+			<opinion polarity="+" feature="earbuds" featWords="15" opWords="13"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lower(1) efficiency(2) than(3) others(4) ,(5) lacking(6) case(7) ,(8) need(9) to(10) boost(11) base(12) manually(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) these(2) if(3) you(4) like(5) a(6) bright(7) ,(8) full(9) detail(10) sound(11) ,(12) have(13) a(14) good(15) bit(16) of(17) power(18) in(19) your(20) music(21) source(22) ,(23) and(24) can(25) boost(26) the(27) bass(28) to(29) your(30) liking(31) .(32) 
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="9,10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) bought(3) these(4) in-ear(5) headphones(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) find(2) them(3) comfortable(4) since(5) you(6) can(7) choose(8) one(9) of(10) three(11) rubber(12) inserts(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) cord(2) is(3) long(4) enough(5) ,(6) and(7) one(8) side(9) is(10) longer(11) than(12) the(13) other(14) so(15) you(16) can(17) have(18) the(19) main(20) part(21) of(22) the(23) cord(24) dangle(25) toward(26) the(27) place(28) where(29) you(30) keep(31) your(32) music(33) player(34) .(35) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="4">
+			Compared(1) with(2) my(3) standard(4) iPod(5) headphones(6) they(7) are(8) very(9) bright(10) with(11) an(12) emphasis(13) on(14) the(15) high(16) end(17) .(18) 
+			<opinion polarity="+" feature="sound quality" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="5">
+			By(1) comparison(2) ,(3) the(4) iPod(5) phones(6) are(7) more(8) concentrated(9) on(10) midrange(11) and(12) bass(13) but(14) not(15) as(16) precise(17) with(18) a_bit(19) more(20) muddy(21) sound(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			Overall(1) the(2) sound(3) provides(4) a(5) nice(6) balance(7) and(8) I(9) m(10) hearing(11) cymbals(12) for(13) the(14) first(15) time(16) in(17) a(18) long(19) time(20) .(21) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="6,7"/>
+		</sentence>
+		<sentence id="7">
+			I(1) like(2) a_bit(3) more(4) on(5) the(6) bass(7) end(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			In(1) my(2) experience(3) it(4) is(5) tough(6) to(7) have(8) it(9) all(10) unless(11) you(12) get(13) large(14) around(15) the(16) ear(17) studio(18) earphones(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) not(3) as(4) efficient(5) ,(6) requiring(7) higher(8) volume(9) levels(10) to(11) get(12) the(13) same(14) sound(15) level(16) .(17) 
+			<opinion polarity="-" feature="headphones" featWords="1" featRef="headphones" opWords="3,5"/>
+		</sentence>
+		<sentence id="10">
+			In(1) fact(2) ,(3) I(4) have(5) to(6) crank(7) it(8) all(9) the(10) way(11) up(12) on(13) the(14) iPod(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			All(1) in_all(2) ,(3) they(4) provide(5) a(6) more(7) complete(8) listening(9) experience(10) ,(11) especially(12) if(13) I(14) use(15) the(16) bass(17) boost(18) equalizer(19) setting(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Being(1) able(2) to(3) hear(4) the(5) whole(6) range(7) with(8) over(9) 50(10) year(11) old(12) ears(13) is(14) definitely(15) fun(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			For(1) $42(2) I(3) would(4) have(5) liked(6) Sony(7) to(8) include(9) the(10) excellent(11) little(12) windup(13) case(14) they(15) have(16) for(17) their(18) cheaper(19) headphones(20) .(21) 
+		</sentence>
+	</text>
+</review>

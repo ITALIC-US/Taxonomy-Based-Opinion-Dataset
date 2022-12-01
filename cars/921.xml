@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="921" item="2002 Volkswagen Jetta TDI" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) Over(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Warranty(1) -(2) iffy(3) Stereo(4) ((5) when(6) it(7) works(8) )(9) Handles(10) quite(11) well(12) -(13) nice(14) pickup(15) 
+			<opinion polarity="+" feature="handling" opWords="10,12" potency="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rattling(1) Repairs_Denial(2) of(3) warranty(4) repairs(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			would(1) not(2) buy(3) or(4) lease(5) a(6) Jetta(7) again(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Just(1) too(2) many(3) problems(4) for(5) me(6) to(7) want(8) to(9) try(10) it(11) again(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) many(2) long(3) ,(4) wonderful(5) years(6) with(7) my(8) 1991(9) Honda_Accord_EX(10) ,(11) I(12) had(13) to(14) finally(15) break(16) down(17) and(18) get(19) a(20) new(21) car(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			The(1) transmission(2) finally(3) went(4) kaput(5) .(6) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) started(2) out(3) looking(4) at(5) Honda(6) 's(7) ,(8) Toyota(9) 's(10) ,(11) Mitsubishi(12) 's(13) and(14) the(15) like(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) just(2) did(3) not(4) find(5) anything(6) that(7) felt(8) right(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			After(1) being(2) disappointed(3) with(4) most(5) brands(6) ,(7) I(8) decided(9) to(10) check(11) out(12) Volkswagens(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			Mom(1) ,(2) at(3) the(4) time(5) ,(6) had(7) a(8) 2002(9) Passat(10) wagon(11) that(12) she(13) was(14) pleased(15) with(16) and(17) wanted(18) me(19) to(20) join(21) the(22) VW(23) fray(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="15"/>
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) ,(3) of(4) course(5) ,(6) end(7) of(8) model(9) year(10) for(11) the(12) 2002(13) 's(14) and(15) finding(16) what(17) I(18) wanted(19) was(20) going(21) to(22) be(23) an(24) issue(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			I(1) went(2) on(3) the(4) VW(5) website(6) and(7) requested(8) information(9) for(10) a(11) silver(12) Jetta(13) with(14) grey(15) leather(16) interior(17) .(18) 
+			<opinion polarity="+" feature="interior" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="9">
+			One(1) dealer(2) of(3) eight(4) replied(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			They(1) are(2) located(3) about(4) 35_miles(5) away(6) ,(7) but(8) hey(9) ,(10) they(11) replied(12) and(13) were(14) actually(15) calling(16) me(17) for(18) my(19) business(20) !(21) 
+		</sentence>
+		<sentence id="11">
+			They(1) tracked(2) down(3) the(4) car(5) I(6) wanted(7) and(8) made(9) arrangements(10) for(11) the(12) dealer(13) trade(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			For(1) the(2) first(3) two(4) weeks(5) ,(6) I(7) was(8) pleased(9) with(10) the(11) car(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			However(1) I(2) have(3) been(4) dogged(5) by(6) problems(7) since(8) then(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Be(1) it(2) rattling(3) doors(4) and(5) windows(6) or(7) bad(8) bushings(9) ,(10) I(11) 've(12) had(13) it(14) all(15) .(16) 
+			<opinion polarity="-" feature="door" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="15">
+			It(1) stranded(2) me(3) in(4) the(5) middle(6) of(7) downtown(8) Chicago(9) with(10) a(11) bad(12) coolant(13) sensor(14) which(15) turned(16) out(17) to(18) be(19) part(20) of(21) the(22) computer(23) as_well(24) as(25) the(26) entire(27) coolant(28) pump(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			When(1) the(2) weather(3) turns(4) cooler(5) my(6) windows(7) and(8) doors(9) rattle(10) like(11) crazy(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			I(1) also(2) had(3) bad(4) bushings(5) in(6) the(7) front(8) passenger(9) side(10) suspension(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			Every(1) local(2) dealer(3) told(4) me(5) the(6) constant(7) squeaking(8) and(9) groaning(10) after(11) going(12) over(13) every(14) seam(15) in(16) the(17) road(18) was(19) my(20) imagination(21) -(22) until(23) my(24) selling(25) dealer(26) finally(27) resolved(28) the(29) problem(30) ((31) believe(32) it(33) or(34) not(35) ,(36) it(37) took(38) six(39) local(40) visits(41) to(42) finally(43) get(44) it(45) resolved(46) .(47) )(48) I(49) 've(50) also(51) had(52) transmission(53) issues(54) since(55) the(56) onset(57) -(58) it(59) slips(60) ,(61) rams(62) into(63) 2nd(64) gear(65) when(66) accelerating(67) ,(68) you(69) name(70) it(71) .(72) 
+		</sentence>
+		<sentence id="19">
+			Oh(1) ,(2) and(3) I(4) can(5) not(6) forget(7) that(8) the(9) Monsoon(10) stereo(11) has(12) been(13) replaced(14) twice(15) due(16) to(17) mechanical(18) failure(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			My(1) other(2) gripe(3) with(4) the(5) car(6) is(7) mileage(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			Specifications(1) state(2) 24(3) -(4) 27(5) in(6) the(7) city(8) ,(9) 29(10) to(11) 31(12) on(13) the(14) highway(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			I(1) 've(2) never(3) obtained(4) 24(5) in(6) the(7) city(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			And(1) 31(2) ?(3) 
+		</sentence>
+		<sentence id="24">
+			NEVER(1) !(2) 
+		</sentence>
+		<sentence id="25">
+			I(1) average(2) 19(3) -(4) 22(5) in(6) the(7) city(8) ,(9) max(10) 24(11) on(12) the(13) highway(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			I(1) 've(2) tried(3) every(4) version(5) of(6) gas(7) ((8) VW(9) recommends(10) mid-grade(11) )(12) and(13) it(14) 's(15) never(16) made(17) any(18) difference(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			Even(1) my(2) salesperson(3) has(4) said(5) I(6) may(7) have(8) just(9) gotten(10) a(11) bad(12) car(13) .(14) 
+			<opinion polarity="-" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="28">
+			Even(1) my(2) autophile(3) ex-boyfriend(4) has(5) told(6) me(7) a(8) neighbor(9) of(10) his(11) has(12) had(13) constant(14) problems(15) with(16) a(17) Jetta_GLI(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			Perhaps(1) it(2) was(3) just(4) a(5) bad(6) year(7) .(8) 
+		</sentence>
+		<sentence id="30">
+			Or(1) my(2) car(3) was(4) made(5) on(6) a(7) late(8) friday_afternoon(9) and(10) everyone(11) just(12) wanted(13) to(14) go(15) home(16) and(17) did(18) not(19) pay(20) too(21) much(22) attention(23) to(24) assembly(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			The(1) good(2) part(3) of(4) the(5) car(6) is(7) it(8) 's(9) improved(10) warranty(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			I(1) 've(2) used(3) it(4) quite(5) a_bit(6) .(7) 
+		</sentence>
+		<sentence id="33">
+			I(1) leased(2) this(3) car(4) for(5) four(6) ((7) LONG(8) )(9) years(10) and(11) it(12) 's(13) covered(14) for(15) every(16) part(17) of(18) that(19) four(20) years(21) .(22) 
+		</sentence>
+		<sentence id="34">
+			I(1) would(2) have(3) never(4) leased(5) for(6) as(7) long(8) if(9) it(10) did(11) not(12) have(13) that(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			My(1) car(2) has(3) a(4) few(5) upgrades(6) -(7) the(8) Monsoon(9) stereo(10) ,(11) sunroof(12) ,(13) 15(14) "(15) tires(16) ,(17) automatic(18) transmission(19) and(20) heated(21) seats(22) .(23) The(24) car(25) was(26) made(27) in(28) Mexico(29) .(30) The(31) stats(32) on(33) my(34) car(35) are(36) :(37) Engines_&_Power_GLS(38) 2.0(39) Standard_Engine(40) 2.0L(41) 115(42) hp(43) I4(44) Horsepower(45) 115(46) @(47) 5200(48) RPM_Torque(49) ((50) lb-ft(51) )(52) 122(53) @(54) 2600(55) RPM_Transmissions(56) 4-Speed(57) Automatic_Overdrive_Opt(58) .(59) 5-Speed(60) Manual_Overdrive_Std(61) .(62) Fuel_Economy_City(63) ((64) mpg(65) )(66) 23(67) -(68) 24(69) Highway(70) ((71) mpg(72) )(73) 29(74) -(75) 31(76) Comfort_&_Convenience_Sunroof_Opt(77) .(78) Air_Conditioning_Std(79) .(80) Power_Windows_Std(81) .(82) Power_Door_Locks_Std(83) .(84) Leather_Seats_Yes_Power_Seats_N(85) /(86) A(87) Max(88) .(89) Seating(90) 5(91) Entertainment_Cassette_Player_Std(92) .(93) 
+		</sentence>
+		<sentence id="36">
+			CD_Player_Std(1) .(2) 
+		</sentence>
+		<sentence id="37">
+			Nav(1) .(2) 
+		</sentence>
+		<sentence id="38">
+			System_N(1) /(2) A(3) Safety_Airbags(4) -(5) Driver_Passenger_Side_ABS_Brakes_Std(6) .(7) 
+		</sentence>
+		<sentence id="39">
+			Traction_Control_N(1) /(2) A(3) Stability_Control_N(4) /(5) A(6) Final_Assembly_Location_Mexico(7) ----------------------------------(8) UPDATE(9) ...(10) In(11) an(12) update(13) to(14) this(15) review(16) ,(17) things(18) are(19) not(20) improving(21) .(22) 
+		</sentence>
+		<sentence id="40">
+			I(1) 've(2) since(3) had(4) some(5) additional(6) problems(7) and(8) the(9) dealership(10) tried(11) to(12) charge(13) me(14) for(15) warranty(16) work(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			It(1) was(2) only(3) after(4) making(5) a(6) scene(7) in(8) front(9) of(10) others(11) that(12) the(13) repair(14) was(15) handled(16) properly(17) and(18) not(19) charged(20) .(21) 
+		</sentence>
+		<sentence id="42">
+			The(1) repair(2) with(3) this(4) specific(5) incident(6) involved(7) the(8) '(9) ignition(10) switch(11) '(12) ((13) this(14) is(15) what(16) the(17) service(18) manager(19) told(20) me(21) )(22) coming(23) UNBOLTED(24) from(25) it(26) 's(27) engine(28) mount(29) .(30) 
+		</sentence>
+		<sentence id="43">
+			I(1) do(2) not(3) even(4) know(5) where(6) this(7) is(8) located(9) on(10) the(11) engine(12) nor(13) would(14) I(15) care(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			I(1) was(2) told(3) this(4) was(5) an(6) "(7) adjustment(8) "(9) issue(10) and(11) was(12) only(13) covered(14) during(15) the(16) first(17) 12(18) months(19) of(20) the(21) warranty(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			How(1) could(2) an(3) ignition(4) which(5) is(6) bolted(7) somewhere(8) be(9) an(10) adjustable(11) item(12) ?(13) 
+		</sentence>
+		<sentence id="46">
+			I(1) 've(2) also(3) had(4) the(5) brake(6) switch(7) go(8) bad(9) .(10) 
+		</sentence>
+		<sentence id="47">
+			I(1) was(2) in(3) the(4) middle(5) of(6) an(7) automatic(8) car(9) wash(10) when(11) I(12) could(13) not(14) shift(15) out(16) of(17) neutral(18) to(19) exit(20) the(21) carwash(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			I(1) had(2) to(3) get(4) out(5) and(6) push(7) my(8) car(9) to(10) get(11) it(12) out(13) of(14) the(15) way(16) of(17) oncoming(18) traffic(19) behind(20) me(21) in(22) the(23) wash(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			In_order_to(1) shift(2) an(3) automatic(4) transmission(5) on(6) a(7) Jetta(8) ,(9) you(10) have(11) to(12) push(13) on(14) the(15) brake(16) .(17) 
+		</sentence>
+		<sentence id="50">
+			The(1) switch(2) which(3) allows(4) the(5) shift(6) was(7) jammed(8) .(9) 
+		</sentence>
+		<sentence id="51">
+			I(1) had(2) to(3) have(4) the(5) car(6) towed(7) for(8) service(9) .(10) 
+		</sentence>
+		<sentence id="52">
+			This(1) service(2) was(3) performed(4) at(5) a(6) dealer(7) about(8) 2_miles(9) from(10) my(11) work(12) and(13) was(14) considered(15) under(16) warranty(17) .(18) 
+		</sentence>
+		<sentence id="53">
+			The(1) transmission(2) continues(3) to(4) slip(5) and(6) jar(7) between(8) first(9) and(10) second(11) gear(12) -(13) the(14) dealership(15) says(16) it(17) 's(18) all(19) in(20) my(21) head(22) ,(23) however(24) all(25) the(26) websites(27) indicate(28) this(29) is(30) an(31) ongoing(32) problem(33) .(34) 
+		</sentence>
+		<sentence id="54">
+			The(1) paint(2) ((3) I(4) have(5) a(6) silver(7) Jetta(8) )(9) is(10) also(11) an(12) issue(13) .(14) 
+		</sentence>
+		<sentence id="55">
+			If(1) you(2) look(3) at(4) it(5) it(6) chips(7) off(8) .(9) 
+		</sentence>
+		<sentence id="56">
+			I(1) had(2) a(3) small(4) dent(5) handled(6) at(7) a(8) local(9) body(10) shop(11) who(12) also(13) agreed(14) the(15) silver(16) paint(17) in_particular(18) is(19) not(20) adhereing(21) properly(22) on(23) the(24) car(25) body(26) and(27) it(28) will(29) chip(30) ,(31) crack(32) and(33) fade(34) .(35) 
+		</sentence>
+		<sentence id="57">
+			I(1) 've(2) done(3) quite(4) a_bit(5) of(6) investigation(7) on(8) 2002(9) Jettas(10) and(11) have(12) found(13) that(14) overall(15) ,(16) they(17) are(18) NOT(19) recommended(20) .(21) 
+			<opinion polarity="-" feature="car" opWords="19,20"/>
+		</sentence>
+		<sentence id="58">
+			Consumer_Reports(1) directly(2) states(3) to(4) avoid(5) this(6) year(7) as(8) a(9) used(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="59">
+			I(1) found(2) on(3) carsurvey(4) .(5) org(6) as_well(7) as(8) many(9) car(10) enthusiast(11) websites(12) that(13) overall(14) ,(15) this(16) car(17) has(18) not(19) been(20) a(21) pleasant(22) experience(23) for(24) owners(25) .(26) 
+		</sentence>
+		<sentence id="60">
+			One(1) more(2) year(3) ,(4) and(5) this(6) lease(7) is(8) through(9) .(10) 
+		</sentence>
+		<sentence id="61">
+			I(1) wish(2) it(3) had(4) been(5) a(6) better(7) experience(8) as(9) I(10) was(11) ready(12) to(13) lease(14) a(15) Bug(16) convertible(17) ,(18) but(19) unfortunately(20) ,(21) I(22) will(23) never(24) own(25) a(26) VW(27) product(28) again(29) .(30) -------------------(31) Update(32) 8/8/2005(33) Well(34) ,(35) the(36) Monsoon(37) radio(38) has(39) now(40) died(41) for(42) the(43) third(44) time(45) .(46) 
+		</sentence>
+		<sentence id="62">
+			It(1) goes(2) into(3) service(4) tomorrow(5) for(6) yet(7) another(8) replacement(9) .(10) 
+		</sentence>
+		<sentence id="63">
+			I(1) 've(2) also(3) noted(4) that(5) the(6) door(7) trim(8) on(9) the(10) rear(11) drivers(12) door(13) is(14) loose(15) .(16) 
+		</sentence>
+		<sentence id="64">
+			I(1) 'd(2) love(3) to(4) say(5) it(6) was(7) from(8) use(9) ,(10) but(11) I(12) never(13) use(14) the(15) backseat(16) of(17) my(18) car(19) !(20) 
+		</sentence>
+		<sentence id="65">
+			Just(1) more(2) disappointments(3) ,(4) really(5) .(6) 
+		</sentence>
+		<sentence id="66">
+			It(1) 's(2) unfortunate(3) ,(4) but(5) you(6) will(7) not(8) see(9) me(10) repeat(11) a(12) VW(13) purchase(14) again(15) .(16) --------------------(17) Update(18) 2/13/2006(19) I(20) do(21) not(22) think(23) I(24) 've(25) had(26) a(27) happier(28) day(29) -(30) the(31) Jetta(32) is(33) GONE(34) .(35) 
+		</sentence>
+		<sentence id="67">
+			I(1) traded(2) it(3) in(4) five(5) months(6) early(7) for(8) a(9) new(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="68">
+			During(1) the(2) last(3) six(4) months(5) ,(6) I(7) 've(8) been(9) subjected(10) to(11) stalling(12) ,(13) the(14) radio(15) went(16) out(17) for(18) the(19) fourth(20) time(21) ,(22) a(23) warped(24) rear(25) passenger(26) door(27) and(28) a(29) glove(30) compartment(31) that(32) decided(33) to(34) just(35) not(36) close(37) anymore(38) .(39) 
+		</sentence>
+		<sentence id="69">
+			I(1) have(2) not(3) looked(4) back(5) and(6) was(7) never(8) as(9) happy(10) as(11) when(12) I(13) handed(14) those(15) keys(16) over(17) .(18) 
+		</sentence>
+		<sentence id="70">
+			Never(1) again(2) .(3) 
+		</sentence>
+		<sentence id="71">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Jetta_GLS(16) 2.0(17) 
+		</sentence>
+	</text>
+</review>

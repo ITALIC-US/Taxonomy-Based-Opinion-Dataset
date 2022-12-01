@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="872" item="2001 Mercedes-Benz S-Class" rating="2">
+	<title>
+		<sentence id="1">
+			Maybe(1) the(2) 2003(3) model(4) show(5) some(6) improvement(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) a(3) Mercedes(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Make(1) you(2) feel(3) a(4) little(5) richer(6) driving(7) it(8) around(9) town(10) .(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) Germany(2) built(3) ?(4) 
+		</sentence>
+		<sentence id="2">
+			You(1) pay(2) for(3) what(4) you(5) get(6) ?(7) !(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Hope(1) you(2) are(3) not(4) a(5) owner(6) of(7) the(8) 2001(9) M-class(10) !(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Actually(1) ,(2) the(3) M-class(4) is(5) my(6) parents(7) car(8) ,(9) who(10) also(11) owns(12) a(13) S320(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) myself(2) drive(3) a(4) Nissan(5) x-terra(6) and(7) am(8) pretty(9) happy(10) for(11) what(12) I(13) paid(14) for(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="3">
+			Since(1) Mercedes(2) is(3) known(4) for(5) its(6) well(7) build(8) vehicles(9) ,(10) my(11) parents(12) who(13) usually(14) are(15) fond(16) with(17) Japanese(18) made(19) car(20) went(21) and(22) traded(23) in(24) our(25) Toyota(26) 4runner(27) with(28) a(29) Mercedes(30) .(31) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7,8"/>
+		</sentence>
+		<sentence id="4">
+			At(1) the(2) beginning(3) we(4) were(5) all(6) happy(7) with(8) it(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" featRef="car" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			It(1) looks(2) good(3) ,(4) drive(5) smooth(6) and(7) how(8) can(9) anyone(10) not(11) love(12) the(13) smell(14) of(15) new(16) leather(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) running(3) great(4) and(5) my(6) father(7) even(8) convinced(9) my(10) sister(11) to(12) buy(13) one(14) for(15) herself(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Then(1) it(2) all(3) happened(4) ,(5) one(6) disappointment(7) after(8) another(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			First(1) it(2) was(3) only(4) the(5) luxury(6) part(7) ,(8) the(9) navigation(10) system(11) keeps(12) getting(13) us(14) lost(15) and(16) it(17) always(18) tries(19) to(20) lead(21) us(22) onto(23) the(24) closest(25) highway(26) first(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			Then(1) after(2) a(3) long(4) road(5) trip(6) up(7) to(8) Canada(9) ,(10) we(11) discover(12) how(13) uncomfortable(14) the(15) seats(16) were(17) .(18) 
+			<opinion polarity="-" feature="seat" featWords="16" opWords="14"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) very(3) comfortable(4) if(5) you(6) are(7) only(8) going(9) somewhere(10) within(11) two(12) hours(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="11">
+			Then(1) all(2) the(3) important(4) equipments(5) followed(6) ,(7) the(8) driver(9) side(10) window(11) will(12) not(13) go(14) up(15) ,(16) the(17) side(18) mirror(19) with(20) fold-in(21) by(22) itself(23) ,(24) the(25) emergency(26) break(27) handle(28) came(29) off(30) ,(31) and(32) just(33) yesterday(34) smoke(35) was(36) coming(37) out(38) from(39) the(40) engine(41) .(42) 
+		</sentence>
+		<sentence id="12">
+			Both(1) my(2) parents(3) and(4) sister(5) paid(6) so(7) much(8) for(9) that(10) car(11) and(12) what(13) a(14) disappointment(15) it(16) was(17) to(18) find(19) all(20) this(21) defects(22) on(23) a(24) Mercedes(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			I(1) just(2) hope(3) that(4) there(5) are(6) some(7) improvement(8) on(9) the(10) newer(11) model(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) retail(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

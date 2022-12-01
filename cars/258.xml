@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="258" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			an(1) ideal(2) car(3) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			i(1) have(2) two(3) maximas(4) .(5) one(6) is(7) a(8) 94(9) and(10) the(11) other(12) maxima(13) is(14) a(15) 00(16) .(17) the(18) 94(19) has(20) never(21) had(22) a(23) problem(24) ;(25) i(26) have(27) never(28) had(29) to(30) take(31) it(32) to(33) the(34) shop(35) .(36) it(37) 's(38) reliability(39) has(40) nothing(41) to(42) do(43) with(44) being(45) driven(46) on(47) few(48) occasions(49) because(50) it(51) has(52) 60000(53) mi(54) .(55) on(56) it(57) .(58) i(59) am(60) even(61) thinking(62) of(63) getting(64) my(65) second(66) son(67) one(68) also(69) .(70) the(71) nissan(72) maxime(73) is(74) the(75) safest(76) and(77) the(78) most(79) reliable(80) car(81) i(82) know(83) of(84) that(85) is(86) on(87) the(88) market(89) .(90) no(91) car(92) can(93) compair(94) to(95) the(96) nissan(97) mixima(98) for(99) the(100) price(101) .(102) if(103) you(104) even(105) are(106) considering(107) getting(108) one(109) take(110) it(111) for(112) a(113) test(114) drive(115) and(116) you(117) will(118) fall(119) in(120) love(121) with(122) it(123) .(124) 
+			<opinion polarity="+" feature="reliability" opWords="80"/>
+			<opinion polarity="+" feature="safety" opWords="76"/>
+		</sentence>
+	</text>
+</review>

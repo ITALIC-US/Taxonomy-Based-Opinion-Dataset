@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="540" item="2002 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			do(1) not(2) believe(3) the(4) hype(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) and(2) smooth(3) engine(4) .(5) 
+			<opinion polarity="+" feature="engine" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Magic(1) seat(2) .(3) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Navigation(1) system(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable_Seats(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Harsh(1) ride(2) .(3) 
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Radio(1) reception(2) and(3) quality(4) of(5) sound(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			Lots(1) of(2) weird(3) noises(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) got(2) caught(3) up(4) in_all(5) the(6) tremendous(7) media(8) hype(9) about(10) the(11) vehicle(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			This(1) may(2) have(3) contributed(4) to(5) my(6) high(7) expections(8) that(9) the(10) vehicle(11) was(12) unable(13) to(14) meet(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Previously(1) we(2) owned(3) a(4) 1997(5) Grand_Caravan_ES(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) a(3) great(4) family(5) vehicle(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) had(2) all(3) the(4) bells(5) and(6) whistles(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			The(1) comfort(2) and(3) ride(4) were(5) exceptional(6) .(7) 
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			At(1) 70,000_miles(2) ,(3) the(4) notorious(5) Chysler(6) problems(7) surfaced(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			The(1) last(2) straw(3) was(4) when(5) the(6) transmission(7) disentagrated(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) excited(3) about(4) the(5) 2002(6) Honda_Odyssey(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			We(1) own(2) a(3) 97(4) Civic(5) and(6) it(7) has(8) been(9) a(10) faithful(11) work(12) horse(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			We(1) have(2) owned(3) a(4) Odyssey_EX-L(5) with(6) Navigation(7) for(8) one(9) year(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			We(1) have(2) driven(3) it(4) from(5) Los_Angeles(6) to(7) Arizona(8) ,(9) Nevada(10) ,(11) Oakland(12) and(13) Sacramento(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			It(1) currently(2) has(3) 18,000_miles(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			The(1) power(2) train(3) is(4) excellent(5) .(6) 
+			<opinion polarity="+" feature="drive" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) engine(2) is(3) smooth(4) and(5) powerful(6) .(7) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) transmission(2) ,(3) although(4) not(5) nearly(6) as(7) seamless(8) has(9) my(10) previous(11) caravan(12) ,(13) shifts(14) nicely(15) .(16) 
+			<opinion polarity="+" feature="transmission" featWords="2" opWords="14,15"/>
+		</sentence>
+		<sentence id="15">
+			The(1) Magic_Seat(2) is(3) so(4) conveinient(5) it(6) has(7) me(8) contemplating(9) selling(10) my(11) little(12) pickup(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			Now(1) that(2) we(3) have(4) experienced(5) a(6) vehicle(7) with(8) navigation(9) ,(10) it(11) will(12) forever(13) be(14) a(15) must(16) in(17) my(18) family(19) vehicle(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) three(3) adult(4) drivers(5) in(6) my(7) family(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) unaminous(3) that(4) the(5) Odyssey(6) is(7) not(8) a(9) comfortable(10) van(11) .(12) 
+			<opinion polarity="-" feature="comfort" opWords="8,10"/>
+		</sentence>
+		<sentence id="19">
+			The(1) seats(2) are(3) to(4) firm(5) and(6) the(7) ride(8) can(9) be(10) very(11) harsh(12) on(13) anything(14) but(15) the(16) smoothest(17) L.A.(18) freeway(19) .(20) 
+			<opinion polarity="-" feature="ride quality" featWords="8" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="20">
+			Driving(1) to(2) Arizona(3) was(4) pretty(5) exhausting(6) for(7) me(8) ,(9) the(10) driver(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			It(1) was(2) weird(3) to(4) have(5) no(6) place(7) to(8) comfortably(9) place(10) your(11) left(12) arm(13) while(14) driving(15) with(16) both(17) hands(18) on(19) the(20) steering(21) wheel(22) .(23) 
+		</sentence>
+		<sentence id="22">
+			In(1) this(2) vehicle(3) ,(4) you(5) must(6) have(7) both(8) hands(9) on(10) the(11) wheel(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			Driving(1) across(2) the(3) desert(4) was(5) an(6) adventure(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			A(1) three(2) mph(3) cross(4) wind(5) caused(6) the(7) steering(8) wheel(9) to(10) violently(11) turn(12) either(13) left(14) or(15) right(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			Also(1) above(2) 60(3) mph(4) the(5) cross(6) wind(7) caused(8) the(9) vehicle(10) to(11) make(12) a(13) horrible(14) howling(15) sound(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			I(1) have(2) tried(3) to(4) get(5) the(6) noise(7) rectified(8) but(9) ,(10) the(11) dealer(12) can(13) not(14) duplicate(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			The(1) stereo(2) system(3) is(4) simply(5) poor(6) .(7) 
+			<opinion polarity="-" feature="sound system" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="28">
+			We(1) paid(2) $30,000(3) for(4) a(5) vehicle(6) that(7) I(8) can(9) not(10) get(11) A.M.(12) reception(13) except(14) on(15) the(16) clearest(17) of(18) days(19) .(20) 
+		</sentence>
+		<sentence id="29">
+			The(1) dealer(2) agreed(3) and(4) replaced(5) the(6) radio(7) .(8) 
+		</sentence>
+		<sentence id="30">
+			The(1) reception(2) problem(3) is(4) still(5) very(6) poor(7) .(8) 
+			<opinion polarity="-" feature="reception" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="31">
+			The(1) dealer(2) believes(3) that(4) all(5) the(6) stereos(7) with(8) navigation(9) have(10) the(11) same(12) problem(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			Honda(1) should(2) be(3) embarrassed(4) regarding(5) the(6) sound(7) quality(8) of(9) the(10) stereo(11) system(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			I(1) have(2) a(3) family(4) of(5) six(6) .(7) 
+		</sentence>
+		<sentence id="34">
+			I(1) was(2) suprised(3) that(4) once(5) we(6) loaded(7) our(8) belongings(9) in(10) the(11) odyssey(12) for(13) our(14) trip(15) ,(16) the(17) rear(18) suspension(19) was(20) noticably(21) sagging(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			Going(1) over(2) dips(3) ,(4) it(5) caused(6) the(7) rear(8) suspension(9) to(10) bounce(11) alot(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			Some(1) minor(2) annoyance(3) was(4) the(5) cupholders(6) do(7) not(8) securly(9) "(10) hold(11) "(12) many(13) different(14) size(15) water(16) bottles(17) or(18) cups(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			There(1) is(2) alot(3) left(4) /(5) right(6) movement(7) in(8) the(9) brake(10) pedal(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			You(1) can(2) also(3) here(4) the(5) gasoling(6) swooshing(7) around(8) in(9) the(10) gas(11) tank(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			These(1) annoyances(2) have(3) been(4) deemed(5) normal(6) by(7) Honda(8) dealer(9) .(10) 
+		</sentence>
+		<sentence id="40">
+			I(1) have(2) no(3) answer(4) why(5) any(6) auto(7) maker(8) would(9) place(10) the(11) electrical(12) adaptor(13) at_the_bottom(14) of(15) the(16) dash(17) board(18) .(19) 
+		</sentence>
+		<sentence id="41">
+			It(1) may(2) sound(3) like(4) I(5) am(6) ripping(7) the(8) Odyssey(9) ,(10) I(11) am(12) not(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			It(1) is(2) a(3) good(4) vehicle(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="43">
+			If(1) I(2) had(3) not(4) driven(5) the(6) Chrysler(7) minivan(8) the(9) above(10) observations(11) probaly(12) would(13) not(14) have(15) been(16) so(17) apparant(18) .(19) 
+		</sentence>
+		<sentence id="44">
+			My(1) wife(2) was(3) really(4) dumbfounded(5) by(6) the(7) features(8) that(9) were(10) missing(11) from(12) the(13) Odyssey(14) .(15) 
+		</sentence>
+		<sentence id="45">
+			We(1) took(2) for(3) granted(4) that(5) the(6) features(7) in(8) our(9) Grand_Caravan(10) would(11) be(12) in(13) the(14) Odyssey(15) .(16) 
+		</sentence>
+		<sentence id="46">
+			I(1) hope(2) that(3) the(4) one(5) Honda(6) feature(7) will(8) become(9) apparant(10) that(11) was(12) ultimately(13) lacking(14) in(15) my(16) Caravan(17) ,(18) reliability(19) .(20) 
+		</sentence>
+		<sentence id="47">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 30,500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) EX-L_W(16) /(17) NAVIGATION(18) ,(19) LEATHER_STEERING_WHEEL_COVER(20) ,(21) AFTER_MARKET_DVD(22) 
+		</sentence>
+	</text>
+</review>

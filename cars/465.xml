@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="465" item="2001 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			Ho-Hum_Honda(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Engine(1) ,(2) excellent(3) internal(4) design(5) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) waits(2) to(3) purchase(4) ,(5) plain(6) styling(7) ,(8) noisy(9) at(10) highway(11) speeds(12) ,(13) poor(14) seats(15) in(16) LX(17) model(18) 
+			<opinion polarity="-" feature="car" opWords="9"/>
+			<opinion polarity="-" feature="seat" featWords="15" opWords="14"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) easy(3) to(4) be(5) wowed(6) by(7) the(8) utility(9) of(10) the(11) design(12) and(13) the(14) word(15) on(16) the(17) street(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			But(1) it(2) has(3) some(4) serious(5) deficiencies(6) too(7) !(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) hearing(2) all(3) of(4) the(5) great(6) comments(7) about(8) the(9) Odyssey(10) ,(11) I(12) went(13) to(14) my(15) dealers(16) to(17) give(18) it(19) a(20) thorough(21) going(22) over(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			While(1) I(2) found(3) a_lot_of(4) positives(5) ,(6) I(7) came(8) away(9) much(10) less(11) impressed(12) than(13) I(14) expected(15) to(16) be(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			On(1) the(2) positive(3) side(4) ,(5) I(6) loved(7) the(8) internal(9) design(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="10" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			This(1) was(2) put(3) together(4) with(5) the(6) needs(7) of(8) the(9) customer(10) in(11) mind(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) space(2) and(3) flexibility(4) was(5) wonderful(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			The(1) engine(2) is(3) also(4) first(5) rate(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Plenty_of(1) power(2) ,(3) smooth(4) ,(5) and(6) provides(7) good(8) acceleration(9) at(10) highway(11) speeds(12) .(13) 
+			<opinion polarity="+" feature="acceleration" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Although(1) it(2) was(3) a(4) wee(5) bit(6) sluggish(7) at(8) low(9) speed(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			Handling(1) is(2) also(3) very(4) good(5) ,(6) much(7) better(8) than(9) many(10) of(11) the(12) expensive(13) ,(14) sportier-looking(15) SUVs(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="13"/>
+			<opinion polarity="+" feature="handling" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			The(1) safety(2) crash(3) test(4) reports(5) are(6) also(7) excellent(8) .(9) 
+			<opinion polarity="+" feature="safety" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			And(1) the(2) resale(3) value(4) is(5) phenomenal(6) ,(7) I(8) 've(9) seen(10) 2(11) year(12) Odysseys(13) selling(14) for(15) over(16) 90_%(17) of(18) their(19) original(20) price(21) .(22) 
+			<opinion polarity="+" feature="resale value" featWords="3,4" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			No(1) domestic(2) minivan(3) even(4) comes(5) close(6) on(7) this(8) score(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Styling(1) is(2) always(3) in(4) the(5) eye(6) of(7) the(8) beholder(9) ,(10) but(11) I(12) find(13) the(14) Odyssey(15) to(16) be(17) very(18) plain(19) in(20) appearance(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			I(1) 've(2) heard(3) it(4) described(5) as(6) a(7) refridgerator(8) on(9) wheels(10) but(11) I(12) would(13) not(14) go(15) that(16) far(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) hard(3) to(4) make(5) a(6) minivan(7) look(8) good(9) ,(10) but(11) even(12) in(13) this(14) drab(15) category(16) ,(17) the(18) Odyssey(19) is(20) in(21) the(22) middle(23) of(24) the(25) pack(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			The(1) down(2) side(3) of(4) the(5) slate(6) was(7) longer(8) than(9) I(10) had(11) anticipated(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			My(1) #(2) 1(3) complaint(4) is(5) the(6) noise(7) at(8) interstate(9) speeds(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			A(1) droning(2) kinda(3) noise(4) comes(5) from(6) the(7) rear(8) and(9) is(10) quite(11) audible(12) at(13) 65-75mph(14) .(15) ((16) Should(17) note(18) that(19) the(20) Odyssey(21) is(22) quiet(23) at(24) lower(25) speeds(26) .(27) )(28) I(29) have(30) an(31) ear(32) condition(33) that(34) is(35) aggravated(36) by(37) certain(38) types(39) of(40) noise(41) and(42) after(43) just(44) a(45) few(46) minutes(47) in(48) the(49) Odyssey(50) ,(51) my(52) ears(53) were(54) giving(55) me(56) fits(57) .(58) 
+			<opinion polarity="+" feature="car" opWords="23"/>
+		</sentence>
+		<sentence id="19">
+			Later_I(1) spent(2) some(3) time(4) researching(5) owner(6) 's(7) opinions(8) on(9) several(10) of(11) the(12) car(13) review(14) sites(15) and(16) found(17) that(18) a_lot_of(19) people(20) were(21) complaining(22) about(23) the(24) noise(25) .(26) #(27) 2(28) is(29) the(30) poor(31) seats(32) in(33) the(34) LX(35) model(36) .(37) 
+			<opinion polarity="-" feature="seat" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="20">
+			My(1) wife(2) is(3) only(4) 5(5) '(6) 2(7) "(8) and(9) the(10) view(11) through(12) the(13) front(14) windsheld(15) was(16) obstructed(17) even(18) at(19) the(20) highest(21) seat(22) setting(23) .(24) Also(25) ,(26) after(27) about(28) 15(29) minutes(30) I(31) was(32) already(33) experiencing(34) some(35) lower-back(36) twinges(37) -(38) scary(39) to(40) imagine(41) how(42) bad(43) it(44) would(45) be(46) on(47) a(48) long(49) trip(50) .(51) The(52) EX(53) seats(54) were(55) much(56) better(57) ,(58) but(59) having(60) to(61) pay(62) an(63) extra(64) $3000(65) to(66) get(67) reasonable(68) good(69) seats(70) is(71) a_bit(72) much(73) .(74) A(75) lesser(76) irritant(77) was(78) :(79) Access(80) to(81) the(82) spare(83) tire(84) is(85) cumbersome(86) .(87) Another(88) key(89) factor(90) to(91) consider(92) is(93) that(94) while(95) many(96) people(97) are(98) under(99) the(100) impression(101) that(102) the(103) new(104) Odyssey(105) has(106) a(107) stellar(108) reliability(109) record(110) ,(111) this(112) actually(113) is(114) not(115) true(116) .(117) The(118) Odyssey(119) is(120) based(121) on(122) the(123) Accord(124) platform(125) and(126) the(127) Accord(128) 's(129) record(130) is(131) superb(132) .(133) And(134) the(135) older(136) Odyssey(137) ,(138) the(139) smaller(140) one(141) that(142) was(143) also(144) sold(145) by(146) Isuzu(147) ,(148) had(149) the(150) best(151) reliability(152) record(153) of(154) any(155) minivan(156) ever(157) built(158) .(159) However(160) the(161) new(162) ,(163) larger(164) Odyssey(165) has(166) already(167) been(168) downgraded(169) on(170) its(171) 1999(172) models(173) by(174) Consumer_Reports(175) and(176) Motor_Trend(177) to(178) only(179) "(180) average(181) "(182) .(183) They(184) have(185) found(186) increasing(187) problems(188) on(189) the(190) 2(191) year(192) old(193) Odysseys(194) .(195) And(196) there(197) are(198) already(199) reports(200) suggesting(201) the(202) same(203) may(204) be(205) true(206) for(207) the(208) 2000(209) model(210) .(211) So(212) when(213) it(214) came(215) time(216) to(217) make(218) a(219) buy(220) decision(221) ,(222) after(223) beginning(224) with(225) the(226) almost(227) sure(228) impression(229) that(230) I(231) would(232) purchase(233) an(234) Odyssey(235) ,(236) it(237) did(238) not(239) even(240) make(241) my(242) final(243) cut(244) of(245) my(246) top(247) 3(248) choices(249) .(250) As(251) one(252) of(253) my(254) primary(255) criteria(256) was(257) long-trip(258) comfort(259) ,(260) the(261) thought(262) of(263) driving(264) hundreds(265) of(266) miles(267) in(268) an(269) uncomfortable(270) seat(271) with(272) high(273) levels(274) of(275) road(276) noise(277) struck(278) horror(279) in(280) my(281) mind(282) .(283) I(284) still(285) consider(286) the(287) Odyssey(288) to(289) be(290) a(291) superior(292) product(293) in(294) some(295) ways(296) .(297) And(298) I(299) understand(300) they(301) have(302) recently(303) improved(304) the(305) seats(306) in(307) the(308) LX(309) models(310) .(311) One(312) last(313) note(314) ,(315) I(316) 've(317) read(318) other(319) reviews(320) that(321) suggested(322) the(323) long(324) waits(325) to(326) obtain(327) the(328) Odyssey(329) is(330) a(331) sign(332) of(333) their(334) superiority(335) .(336) This(337) claim(338) is(339) dubious(340) .(341) Honda(342) makes(343) less(344) than(345) 20_%(346) as(347) many(348) Odysseys(349) as(350) Chrysler(351) makes(352) their(353) various(354) versions(355) of(356) their(357) minivan(358) .(359) Thus(360) it(361) is(362) not(363) at(364) all(365) surprising(366) to(367) find(368) Chrysler(369) vans(370) in(371) stock(372) and(373) at(374) discounted(375) prices(376) at(377) dealerships(378) while(379) you(380) have(381) to(382) wait(383) for(384) a(385) Honda(386) .(387) It(388) would(389) be(390) interesting(391) to(392) see(393) what(394) would(395) happen(396) to(397) Honda(398) pricing(399) if(400) they(401) made(402) 5_times(403) as(404) many(405) vans(406) .(407) Amount_Paid(408) ((409) US(410) $(411) )(412) :(413) 23,600(414) Model_Year(415) :(416) 2001Model(417) and(418) Options(419) :(420) LX(421) ,(422) standard(423) options(424) 
+			<opinion polarity="-" feature="seat" featWords="271" opWords="270"/>
+			<opinion polarity="+" feature="reliability" featWords="152" opWords="151"/>
+			<opinion polarity="-" feature="tire" featWords="84" opWords="86"/>
+			<opinion polarity="+" feature="seat" featWords="70" opWords="69"/>
+			<opinion polarity="+" feature="seat" featWords="70" opWords="68"/>
+		</sentence>
+	</text>
+</review>

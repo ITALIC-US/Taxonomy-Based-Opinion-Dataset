@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="526" item="2002 Nissan Pathfinder" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) impressed(2) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfort(1) on(2) trips(3) is(4) good(5) .(6) 
+			<opinion polarity="+" feature="comfort" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Plenty_of(1) space(2) for(3) a(4) one(5) or(6) two(7) child(8) family(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cab(1) noise(2) .(3) 4(4) wheel(5) drive(6) should(7) not(8) be(9) used(10) anywhere(11) other(12) than(13) ON_the_Road(14) .(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Cab(1) noise(2) is(3) loud(4) even(5) when(6) traveling(7) low(8) speeds(9) in(10) town(11) ,(12) and(13) only(14) increases(15) with(16) speed(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			When(1) on(2) the(3) highways(4) ,(5) you(6) better(7) keep(8) both(9) hands(10) on(11) the(12) wheel(13) at(14) all(15) times(16) ,(17) because(18) even(19) the(20) slightest(21) breeze(22) will(23) have(24) you(25) moving(26) side(27) to(28) side(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			The(1) V6(2) Pulling(3) power(4) not(5) what(6) was(7) promised(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Dogs(1) out(2) when(3) pulling(4) a(5) 17ft(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			Bass(1) boat(2) .(3) 
+		</sentence>
+		<sentence id="6">
+			Where(1) is(2) the(3) Power_&_Torque(4) promised(5) ?(6) !(7) ?(8) !(9) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

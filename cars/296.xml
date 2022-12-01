@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="296" item="2000 Nissan Maxima" rating="2">
+	<title>
+		<sentence id="1">
+			Service_Lacking(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) ,(2) engine(3) pinging(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Find(1) a(2) car(3) that(4) the(5) manufacturer(6) and(7) dealer(8) will(9) stand(10) behind(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Thought_I(1) had(2) made(3) a(4) wise(5) decision(6) ,(7) switching(8) to(9) Nissan(10) after(11) owning(12) two(13) Hondas(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Maybe(1) Honda(2) is(3) a(4) tough(5) act(6) to(7) follow(8) ,(9) but(10) Nissan(11) has(12) a(13) LONG(14) way(15) to(16) go(17) with(18) customer(19) service(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) a(3) 2000(4) Maxima_GXE(5) with(6) 8K_miles(7) ((8) second(9) owner(10) )(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) noticed(2) pinging(3) almost(4) immediately(5) ,(6) but(7) dismissed(8) it(9) ,(10) wondering(11) how(12) a(13) ((14) practically(15) )(16) new(17) car(18) could(19) experience(20) engine(21) knock(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			I(1) told(2) the(3) service(4) adviser(5) about(6) it(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			He(1) asked(2) what(3) kind(4) of(5) gas(6) I(7) was(8) using(9) and(10) told(11) me(12) to(13) use(14) middle(15) grade(16) ((17) not(18) super(19) )(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			When(1) the(2) car(3) was(4) towed(5) in(6) when(7) the(8) egr(9) valve(10) plug(11) fell(12) off(13) ,(14) I(15) asked(16) about(17) the(18) engine(19) knock(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			They(1) were(2) unable(3) to(4) diagnose(5) the(6) problem(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			He(1) asked(2) what(3) kind(4) of(5) gas(6) I(7) was(8) using(9) ,(10) to(11) which(12) I(13) replied(14) middle(15) grade(16) ,(17) like(18) you(19) said(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			He(1) told(2) me(3) I(4) had(5) to(6) use(7) [(8) Chevron(9) with(10) ](11) Techron(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			So(1) I(2) started(3) using(4) Chevron(5) supreme(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) knocking(2) persisted(3) .(4) 
+		</sentence>
+		<sentence id="13">
+			On(1) the(2) next(3) occasion(4) ,(5) ((6) 3(7) )(8) coils(9) and(10) ((11) 3(12) )(13) coil(14) ignitions(15) were(16) replaced(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			The(1) problem(2) persisted(3) .(4) 
+		</sentence>
+		<sentence id="15">
+			On(1) the(2) next(3) occasion(4) ,(5) I(6) 'm(7) told(8) it(9) 's(10) the(11) ECU(12) ;(13) it(14) 'll(15) take(16) a(17) week(18) to(19) come(20) in(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			So(1) I(2) 'm(3) currently(4) waiting(5) for(6) the(7) ECU(8) to(9) come(10) in(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			It(1) 's(2) been(3) frustrating(4) all(5) the(6) way(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			The(1) corporate(2) office(3) is(4) not(5) very(6) helpful(7) either(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			Makes(1) you(2) want(3) to(4) get(5) a(6) car(7) on(8) the(9) internet(10) to(11) get(12) the(13) best(14) price(15) and(16) bypass(17) the(18) dealer(19) whenever(20) you(21) can(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			My(1) next(2) car(3) will(4) be(5) an(6) Acura(7) ((8) Honda(9) has(10) excellent(11) customer(12) service(13) ,(14) if_not(15) you(16) can(17) count(18) on(19) the(20) corporate(21) office(22) )(23) or(24) any(25) other(26) car(27) with(28) good(29) customer(30) service(31) .(32) 
+			<opinion polarity="+" feature="service" featWords="12,13" opWords="11"/>
+			<opinion polarity="+" feature="service" featWords="30,31" opWords="29"/>
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18800(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GXE_Automatic(16) 
+		</sentence>
+	</text>
+</review>

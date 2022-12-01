@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="934" item="2003 Volkswagen GTI" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) Waste_Your_Time(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Buy_a_Japanese_Car(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) quick(2) ,(3) reasonably(4) priced(5) ,(6) nice(7) interior(8) materials(9) ,(10) Almost(11) 30mpg(12) ((13) if(14) you(15) drive(16) like(17) a(18) granny(19) )(20) 
+			<opinion polarity="+" feature="material" featWords="9" opWords="7"/>
+			<opinion polarity="+" feature="price" opWords="4,5"/>
+			<opinion polarity="+" feature="speed" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Excessive(1) rattles(2) and(3) leaks(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Dealer(1) wont(2) acknowledge(3) problems(4) ,(5) they(6) refuse(7) to(8) fix(9) just(10) about(11) everything(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) a(3) lifetime(4) German(5) car(6) nut(7) and(8) I(9) purchased(10) a(11) new(12) '(13) 03(14) 24V(15) VR6(16) GTI(17) about(18) 15(19) months(20) ago(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Starting(1) from(2) day_one(3) :(4) Car(5) shakes(6) at(7) idle(8) ,(9) door(10) speaker(11) not(12) plugged(13) in(14) ,(15) connector(16) on(17) throttle(18) body(19) disconnected(20) ,(21) seat(22) rails(23) and(24) doors(25) rattled(26) like(27) crazy(28) .(29) 
+			<opinion polarity="-" feature="door" featWords="25" opWords="26"/>
+		</sentence>
+		<sentence id="3">
+			After(1) multiple(2) dealer(3) visits(4) and(5) several(6) "(7) no(8) defects(9) noted(10) "(11) responses(12) ,(13) I(14) flipped(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Took(1) car(2) to(3) the(4) house(5) ,(6) stripped(7) entire(8) interior(9) out(10) ((11) i(12) 'm(13) an(14) aircraft(15) mechanic(16) )(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Re-pinned(1) rattling(2) seat(3) rails(4) ,(5) tightened(6) about(7) 35(8) loose(9) fasteners(10) on(11) speakers(12) ,(13) window(14) regulators(15) ,(16) center(17) console(18) ,(19) back(20) seats(21) ,(22) etc.(23) It(24) stayed(25) tight(26) for(27) a(28) little(29) while(30) and(31) I(32) have(33) since(34) moved(35) on(36) to(37) exterior(38) rattles(39) and(40) squeaks(41) .(42) 
+			<opinion polarity="-" feature="exterior" featWords="38" opWords="41"/>
+			<opinion polarity="-" feature="exterior" featWords="38" opWords="39"/>
+		</sentence>
+		<sentence id="6">
+			Sunroof(1) now(2) leaks(3) and(4) is(5) leaving(6) water(7) stains(8) on(9) headliner(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Drivetrain(1) makes(2) groaning(3) sounds(4) ,(5) front(6) suspension(7) pops(8) when(9) turning(10) ,(11) parts(12) under(13) dash(14) are(15) starting(16) to(17) rattle(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			I(1) am(2) afraid(3) to(4) own(5) this(6) car(7) after(8) the(9) warranty(10) expires(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Vehicle(1) will(2) get(3) traded(4) on(5) new(6) Japanese(7) car(8) this(9) week(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			I(1) apologize(2) to(3) the(4) person(5) that(6) buys(7) this(8) car(9) used(10) off(11) the(12) lot(13) !(14) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21800(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) 24V(16) VR6(17) 
+		</sentence>
+	</text>
+</review>

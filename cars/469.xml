@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="469" item="2001 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) it(4) for(5) its(6) #(7) 1(8) rank(9) by(10) Consumer_Reports(11) 
+			<opinion polarity="-" feature="car" featWords="4" featRef="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) exterior(2) design(3) .(4) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Lots(1) of(2) space(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Good(1) features(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rough(1) worksmanship(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			High(1) price(2) 
+			<opinion polarity="-" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) just(3) buy(4) it(5) for(6) its(7) high(8) ranking(9) 
+			<opinion polarity="-" feature="car" featWords="5" featRef="car" opWords="2,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In_2001(1) ,(2) the(3) consumer(4) reports(5) ranked(6) it(7) the(8) number(9) one(10) in(11) its(12) class(13) ,(14) but(15) please(16) read(17) this(18) review(19) before(20) buying(21) one(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			WHY(1) I_LIKED_THE_MINIVAN_The(2) new(3) Odyssey(4) is(5) the(6) largest(7) Honda(8) ever(9) made(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) ride(2) is(3) very(4) good(5) ,(6) smooth(7) V6(8) .(9) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) currently(3) the(4) longest(5) ,(6) widest(7) and(8) tallest(9) minivan(10) in(11) its(12) class(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) got(3) some(4) nice(5) feature(6) for(7) 2001(8) such(9) as(10) :(11) traction(12) control(13) is(14) now(15) standard(16) on(17) the(18) LX(19) ,(20) as_well(21) as(22) the(23) EX(24) ,(25) for(26) added(27) stability(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			And(1) the(2) EX(3) adds(4) a(5) security(6) system(7) for(8) its(9) keyless(10) entry(11) feature(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			From(1) everything(2) I(3) saw(4) on(5) the(6) internet(7) ,(8) I(9) was(10) ready(11) to(12) buy(13) the(14) van(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			But(1) it(2) fell(3) short(4) of(5) my(6) expectation(7) when(8) I(9) visited(10) the(11) dealership(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			WHY(1) I_DO_NOT_RECOMMEND_The(2) exterior(3) and(4) interior(5) worksmanships(6) on(7) the(8) vehicle(9) are(10) not(11) as(12) neat(13) and(14) well(15) crafted(16) when(17) compared(18) to(19) Toyota(20) ,(21) which(22) was(23) my(24) second(25) choice(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) front(2) styling(3) is(4) plain(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Front(1) passenger(2) feels(3) close(4) to(5) dashboard(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Seat(1) support(2) is(3) not(4) good(5) .(6) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="4,5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) gear(2) selector(3) is(4) awkward(5) .(6) 
+			<opinion polarity="-" feature="shifter" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) got(3) soft(4) brake(5) pedal(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			Even(1) with(2) these(3) defects(4) ,(5) I(6) still(7) decided(8) to(9) buy(10) this(11) van(12) due(13) to(14) its(15) high(16) ranking(17) by(18) consumer(19) reports(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			So(1) I(2) started(3) talking(4) to(5) the(6) dealer(7) about(8) price(9) ,(10) because(11) there(12) was(13) only(14) a(15) handful(16) of(17) minivans(18) on(19) the(20) lot(21) ,(22) the(23) dealer(24) was(25) not(26) very(27) interested(28) in(29) negotiating(30) ,(31) plus(32) the(33) dealer(34) 's(35) price(36) adds(37) about(38) $1500(39) markup(40) on(41) top(42) of(43) MSRP(44) .(45) 
+		</sentence>
+		<sentence id="17">
+			That(1) is(2) when(3) I(4) decided(5) to(6) look(7) at(8) some(9) of(10) the(11) other(12) minivans(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			It(1) was(2) not(3) worth(4) it(5) to(6) pay(7) such(8) high(9) price(10) for(11) a(12) name(13) .(14) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="19">
+			WHAT(1) I_BOUGHT_INSTEAD_So_I(2) visited(3) the(4) Toyota(5) dealership(6) next(7) to(8) the(9) Honda(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			The(1) Sienna(2) is(3) ranked(4) #(5) 2(6) by(7) Consumer_Reports(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			I(1) loved(2) its(3) design(4) ,(5) both(6) exterior(7) and(8) interior(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="9" opWords="2"/>
+			<opinion polarity="+" feature="exterior" featWords="7" opWords="2"/>
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="22">
+			I(1) picked(2) a(3) loaded(4) XLE(5) model(6) and(7) started(8) talking(9) to(10) the(11) dealer(12) about(13) price(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			The(1) dealership(2) had(3) about(4) 30-40(5) minivans(6) ,(7) so(8) he(9) was(10) more(11) than(12) willing(13) to(14) negotiate(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			I(1) got(2) the(3) van(4) for(5) $25900(6) ,(7) about(8) the(9) same(10) price(11) for(12) a(13) base(14) model(15) Odyssey(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			CHECK_OUT_MY_OPINION_ON(1) 2001(2) TOYOTA_SIENNA(3) 
+		</sentence>
+	</text>
+</review>

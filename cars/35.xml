@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="35" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			MORE(1) POWER(2) !(3) !(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pulling(1) ability(2) and(3) comfort(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Passenger(1) seat(2) design(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well_I(1) finally(2) got(3) my(4) Cadillac(5) of(6) trucks(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			This(1) baby(2) not(3) only(4) looks(5) good(6) ,(7) but(8) it(9) rides(10) like(11) a(12) dream(13) ,(14) pulls(15) like(16) a(17) semi(18) and(19) is(20) more(21) comfortable(22) than(23) a(24) luxury(25) car(26) .(27) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="3">
+			We(1) have(2) a(3) 27(4) '(5) boat(6) that(7) weighs(8) over(9) 7,000_pounds(10) and(11) our(12) new(13) GMC(14) yanks(15) it(16) out(17) of(18) the(19) water(20) without(21) even(22) a(23) hesitation(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) compared(2) it(3) to(4) the(5) new(6) Excursion(7) and(8) I(9) think(10) that(11) my(12) GMC(13) sounds(14) and(15) feels(16) more(17) solid(18) and(19) the(20) internal(21) components(22) of(23) the(24) GMC(25) are(26) just(27) made(28) better(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) leather(3) interior(4) in(5) mine(6) and(7) the(8) quality(9) is(10) outstanding(11) .(12) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			One(1) thing(2) I(3) dont(4) really(5) like(6) is(7) the(8) design(9) of(10) the(11) passenger(12) seat(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) curves(2) out(3) alittle(4) too(5) much(6) in(7) the(8) small(9) of(10) my(11) back(12) .(13) 
+		</sentence>
+	</text>
+</review>

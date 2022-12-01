@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="290" item="2000 Nissan Maxima" rating="3">
+	<title>
+		<sentence id="1">
+			2000(1) Maxima_GLE(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Heated(1) seats(2) are(3) a(4) plus(5) -(6) beautiful(7) style(8) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Heat(1) is(2) not(3) that(4) great(5) -(6) leather(7) seats(8) are(9) dirty(10) already(11) .(12) 
+			<opinion polarity="-" feature="seat" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="seat" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="heat" featWords="1" opWords="3,5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) had(2) the(3) Honda_Accord(4) before(5) this(6) &(7) they(8) are(9) very(10) close(11) in(12) driving(13) &(14) looks(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) close(4) race(5) b(6) /(7) n(8) the(9) two(10) cars(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) recommend(3) them(4) both(5) .(6) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) body(2) of(3) the(4) car(5) is(6) elegant(7) looking(8) and(9) the(10) wood(11) grain(12) interior(13) on(14) the(15) inside(16) makes(17) the(18) car(19) look(20) classy(21) .(22) 
+			<opinion polarity="+" feature="design" opWords="20,21"/>
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) the(3) pearl(4) white(5) exterior(6) with(7) blond(8) leather(9) interior(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) just(2) recently(3) discovered(4) that(5) the(6) seats(7) are(8) turning(9) blackish(10) -(11) even(12) on(13) parts(14) where(15) no(16) one(17) is(18) actually(19) sitting(20) -(21) which(22) is(23) strange(24) to(25) me(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			My(1) car(2) is(3) only(4) 5(5) months(6) old(7) and(8) well(9) taken(10) care(11) of(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) drive(2) is(3) great(4) -(5) comfortable(6) handling(7) and(8) the(9) heated(10) seats(11) are(12) a(13) nice(14) added(15) benefit(16) .(17) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) never(2) thought(3) I(4) would(5) use(6) them(7) but(8) when(9) you(10) get(11) into(12) the(13) car(14) and(15) it(16) is(17) cold(18) out(19) -(20) the(21) leather(22) is(23) very(24) very(25) cold(26) to(27) sit(28) on(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			So(1) I(2) just(3) turn(4) on(5) the(6) heated(7) seats(8) and(9) they(10) heat(11) up(12) very(13) quickly(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) do(2) not(3) find(4) that(5) the(6) overall(7) heating(8) system(9) is(10) that(11) great(12) but(13) it(14) is(15) sufficient(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) not(3) used(4) the(5) air(6) conditioner(7) yet(8) so(9) I(10) am(11) not(12) sure(13) how(14) well(15) that(16) works(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) cup(2) holders(3) in(4) the(5) back(6) are(7) a(8) nice(9) touch(10) also(11) and(12) the(13) glove(14) compartment(15) is(16) very(17) roomy(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			The(1) trunk(2) has(3) a_lot_of(4) room(5) and(6) a(7) net(8) so_that(9) when(10) you(11) go(12) shopping(13) everything(14) basically(15) stays(16) in(17) place(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,700(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GLE(16) 
+		</sentence>
+	</text>
+</review>

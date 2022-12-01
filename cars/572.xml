@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="572" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) mainstream(2) american(3) car(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Value(1) ,(2) Size(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			All(1) the(2) reasons(3) I(4) stay(5) away(6) from(7) GM(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) it(2) were(3) my(4) money(5) ,(6) and(7) it(8) had(9) to(10) be(11) domestic(12) ,(13) I(14) 'd(15) consider(16) the(17) Grand_Prix(18) in(19) this(20) price(21) range(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			AVIS(1) =(2) GM(3) =(4) dull(5) and(6) boring(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="7"/>
+			<opinion polarity="-" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			At_least(1) ,(2) that(3) was(4) what(5) I(6) thought(7) when(8) I(9) received(10) the(11) keys(12) to(13) the(14) Impala(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			My(1) opinion(2) of(3) GM(4) cars(5) would(6) be(7) altered(8) somewhat(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			Test_Period_I(1) rented(2) the(3) Impala(4) for(5) 3(6) weeks(7) in(8) late(9) '(10) 00(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Drove(1) it(2) to(3) work(4) in(5) hot(6) weather(7) ,(8) cold(9) weather(10) ,(11) rain(12) ,(13) wind(14) ,(15) fog(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) fortunate(3) ?(4) to(5) have(6) rented(7) two(8) separate(9) cars(10) in(11) the(12) same(13) trim(14) ,(15) in(16) different(17) conditions(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Outside(1) -(2) In(3) Green(4) or(5) White(6) ,(7) the(8) Impala(9) has(10) an(11) aggressive(12) look(13) for(14) a(15) family(16) sedan(17) .(18) 
+			<opinion polarity="+" feature="design" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="8">
+			The(1) sloping(2) front(3) nose(4) and(5) flat(6) trunk(7) lid(8) give(9) the(10) car(11) a(12) sporty(13) impression(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="9">
+			Inside(1) -(2) Why(3) does(4) chevrolet(5) make(6) a(7) car(8) that(9) tries(10) to(11) appeal(12) to(13) the(14) young(15) and(16) restless(17) on(18) the(19) outside(20) ,(21) then(22) give(23) it(24) an(25) interior(26) that(27) is(28) so(29) sedate(30) it(31) would(32) seem(33) more(34) appropriate(35) in(36) a(37) buick(38) ?(39) 
+		</sentence>
+		<sentence id="10">
+			The(1) fake(2) wood(3) trim(4) on(5) the(6) dash(7) ,(8) bench(9) seats(10) ,(11) column(12) shifter(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			The(1) large(2) speedo(3) is(4) flanked(5) by(6) smaller(7) fuel(8) gauge(9) and(10) warning(11) lights(12) .(13) ((14) I(15) think(16) in(17) the(18) 3.8L(19) the(20) fuel(21) gauge(22) sits(23) with(24) the(25) lights(26) and(27) a(28) tach(29) sits(30) in(31) its(32) place(33) .(34) )(35) The(36) large(37) fuel(38) gauge(39) is(40) in(41) 16th(42) increments(43) ,(44) which(45) came(46) in(47) handy(48) when(49) trying(50) to(51) return(52) the(53) car(54) as(55) empty(56) as(57) possible(58) .(59) 
+			<opinion polarity="+" feature="gauges" featWords="39" opWords="48"/>
+		</sentence>
+		<sentence id="12">
+			The(1) fabric(2) seats(3) became(4) hot(5) and(6) uncomfortable(7) on(8) long(9) trips(10) .(11) 
+			<opinion polarity="-" feature="seat" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) the(3) bench(4) seat(5) offers(6) little(7) side(8) support(9) ,(10) and(11) its(12) height(13) cuts(14) headroom(15) significantly(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Engine(1) -(2) The(3) 3.4L(4) is(5) listed(6) at(7) 180hp(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			It(1) feels(2) nice(3) and(4) strong(5) in(6) the(7) low(8) and(9) mid(10) range(11) ,(12) but(13) there(14) 's(15) very(16) little(17) reward(18) for(19) wringing(20) the(21) engine(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="16">
+			The(1) engine(2) bay(3) looked(4) roomy(5) and(6) clean(7) ,(8) making(9) access(10) easy(11) for(12) home(13) mechanics(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			Both(1) cars(2) started(3) easily(4) ,(5) even(6) in(7) freezing(8) weather(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Driving(1) -(2) Around(3) town(4) and(5) in(6) parking(7) lots(8) ,(9) the(10) car(11) handles(12) like(13) a(14) smaller(15) car(16) thanks(17) to(18) its(19) low-end(20) power(21) and(22) good(23) power(24) steering(25) .(26) 
+			<opinion polarity="+" feature="steering" featWords="25" opWords="23"/>
+		</sentence>
+		<sentence id="19">
+			Hitting(1) the(2) highway(3) ,(4) the(5) car(6) seems(7) to(8) hit(9) a(10) flat(11) spot(12) in(13) its(14) power(15) band(16) at(17) about(18) 50(19) mph(20) then(21) downshifts(22) and(23) accelerates(24) if(25) you(26) stay(27) on(28) the(29) gas(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			If(1) it(2) had(3) better(4) seats(5) ,(6) it(7) would(8) be(9) comfortable(10) on(11) the(12) highway(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="10"/>
+		</sentence>
+		<sentence id="21">
+			There(1) is(2) little(3) engine(4) or(5) wind(6) noise(7) at(8) 80mph(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			Trying(1) to(2) push(3) this(4) car(5) through(6) a(7) tight(8) twisty(9) road(10) is(11) a(12) chore(13) ,(14) and(15) there(16) is(17) noticeable(18) torque(19) steer(20) to(21) fight(22) under(23) throttle(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			The(1) brakes(2) are(3) adequate(4) but(5) not(6) particularly(7) powerful(8) -(9) falls(10) in(11) line(12) with(13) the(14) rest(15) of(16) the(17) car(18) .(19) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="6,8" potency="7"/>
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="24">
+			The(1) fleet(2) equipment(3) tires(4) offered(5) adequate(6) grip(7) in(8) wet(9) or(10) dry(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			The(1) car(2) seemed(3) adequate(4) in(5) night(6) driving(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			The(1) lights(2) were(3) not(4) noticeably(5) bright(6) nor(7) dim(8) .(9) 
+		</sentence>
+		<sentence id="27">
+			Amenities(1) -(2) Both(3) cars(4) had(5) an(6) in(7) dash(8) CD(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			The(1) AC(2) works(3) well(4) in(5) hot(6) or(7) cold(8) weather(9) .(10) 
+			<opinion polarity="+" feature="ac" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="29">
+			The(1) interior(2) light(3) was(4) difficult(5) to(6) find(7) ((8) it(9) is(10) located(11) in(12) the(13) rearview(14) mirror(15) )(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			The(1) trunk(2) is(3) large(4) ,(5) and(6) the(7) large(8) opening(9) made(10) it(11) easy(12) to(13) load(14) /(15) unload(16) .(17) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="31">
+			Quality(1) -(2) The(3) two(4) cars(5) had(6) 8.5k(7) and(8) 21k_miles(9) ,(10) respectively(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			The(1) latter(2) car(3) had(4) squeaky(5) brakes(6) ,(7) and(8) seemed(9) to(10) be(11) slower(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			The(1) fit(2) and(3) finish(4) is(5) about(6) what(7) you(8) might(9) expect(10) for(11) a(12) car(13) in(14) this(15) price(16) range(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			In(1) the(2) second(3) car(4) ,(5) the(6) spare(7) tire(8) was(9) apparently(10) used(11) by(12) a(13) previous(14) renter(15) ,(16) and(17) the(18) trim(19) did(20) not(21) set(22) back(23) properly(24) .(25) 
+		</sentence>
+		<sentence id="35">
+			Overall(1) -(2) This(3) car(4) does(5) not(6) do(7) anything(8) particularly(9) well(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			Nor(1) does(2) it(3) have(4) any(5) glaring(6) deficiency(7) .(8) 
+		</sentence>
+		<sentence id="37">
+			I(1) 'm(2) sure(3) that(4) there(5) are(6) many(7) people(8) out(9) there(10) that(11) will(12) be(13) pleased(14) with(15) a(16) car(17) like(18) this(19) .(20) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+		</sentence>
+		<sentence id="38">
+			I(1) 'd(2) be(3) curious(4) to(5) see(6) how(7) it(8) might(9) drive(10) after(11) a(12) few(13) years(14) -(15) but(16) not(17) enough(18) to(19) buy(20) one(21) .(22) 
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 375(7) wkly(8) .(9) 
+		</sentence>
+		<sentence id="40">
+			Condition(1) :(2) NewModel_Year(3) :(4) 2000(5) 
+		</sentence>
+	</text>
+</review>

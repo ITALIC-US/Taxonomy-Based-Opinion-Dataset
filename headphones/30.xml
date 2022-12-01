@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="30" item="Coby CV-130 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) headphones(2) clear(3) sound(4) &(5) bass(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) clear(2) music(3) ,(4) bass(5) ,(6) cheap(7) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hard(1) plastic(2) ear(3) cups(4) hurt(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) some(3) great(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			I(1) didn(2) t(3) expect(4) much(5) from(6) a(7) $(8) 7(9) headphone(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			It(1) produced(2) clear(3) music(4) with(5) some(6) great(7) bass(8) response(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			I(1) listen(2) to(3) everything(4) from(5) 80s(6) ,(7) rock(8) ,(9) techno(10) ,(11) dance(12) to(13) hip-hop(14) and(15) each(16) one(17) sounded(18) good(19) to(20) the(21) last(22) note(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) like(3) some(4) bass(5) in(6) your(7) music(8) these(9) headphones(10) are(11) perfect(12) .(13) 
+			<opinion polarity="+" feature="headphones" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) bad(3) thing(4) about(5) it(6) is(7) the(8) ear(9) cups(10) which(11) are(12) hard(13) plastic(14) and(15) are(16) only(17) covered(18) by(19) a(20) thin(21) layer(22) cloth(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			My(1) ears(2) started(3) to(4) hurt(5) after(6) 2(7) hours(8) of(9) listening(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			I(1) wish(2) they(3) used(4) leather(5) or(6) something(7) softer(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			But(1) non-the(2) less(3) a(4) great(5) buy(6) .(7) 
+			<opinion polarity="+" feature="headphones" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

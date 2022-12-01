@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="164" item="Oasis Cancun - All Inclusive" rating="2">
+	<title>
+		<sentence id="1">
+			nice(1) beach(2) ,(3) but(4) only(5) mediocre(6) hotel(7) 
+			<opinion polarity="+" feature="beach" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="hotel" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) beach(2) and(3) pool(4) 
+			<opinion polarity="+" feature="beach" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="swimming pool" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			mediocre(1) service(2) ,(3) overpriced(4) ,(5) strange(6) atmosphere(7) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			OK(1) if(2) you(3) 're(4) on(5) a(6) budget(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Stick(1) to(2) the(3) pool(4) and(5) beach(6) and(7) you(8) 'll(9) have(10) fun(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Oasis_Cancun(2) sits(3) on(4) a(5) very(6) nice(7) stretch(8) of(9) the(10) Cancun(11) hotel(12) strip(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) a(3) nice(4) beach(5) ,(6) and(7) if(8) you(9) are(10) just(11) going(12) to(13) hang(14) out(15) at(16) the(17) beach(18) ,(19) this(20) hotel(21) will(22) satisfy(23) you(24) .(25) 
+			<opinion polarity="+" feature="beach" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			My(1) wife(2) and(3) I(4) were(5) only(6) there(7) for(8) a(9) few(10) days(11) ,(12) and(13) it(14) was(15) generally(16) pleasant(17) and(18) relaxing(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Now(1) having(2) said(3) that(4) ....(5) The_Oasis_Cancun(6) is(7) a(8) bizarre(9) segregated(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) the(3) Oasis_Cancun(4) and(5) then(6) there(7) is(8) the(9) "(10) Grand_Oasis(11) "(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Ostensibly(1) these(2) feel(3) like(4) the(5) same(6) hotel(7) located(8) on(9) the(10) same(11) property(12) ,(13) but(14) the(15) guests(16) are(17) treated(18) very(19) differently(20) ,(21) since(22) the(23) Grand_Oasis(24) guests(25) presumably(26) pay(27) more(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			We(1) were(2) lowly(3) Oasis_Cancun(4) ((5) OC(6) )(7) guests(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			As(1) a(2) regular(3) OC(4) guest(5) you(6) get(7) a(8) blue(9) towel(10) instead_of(11) a(12) yellow(13) towel(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) only(3) have(4) a(5) blue(6) towel(7) ,(8) then(9) you(10) do(11) not(12) get(13) access(14) to(15) the(16) health(17) spa(18) ,(19) including(20) jacuzzi(21) ,(22) or(23) the(24) nice(25) pads(26) to(27) put(28) on(29) the(30) lounge(31) chairs(32) by(33) the(34) pool(35) .(36) 
+		</sentence>
+		<sentence id="10">
+			We(1) had(2) to(3) sit(4) on(5) those(6) bare(7) wood(8) loungers(9) feeling(10) silly(11) ,(12) while(13) the(14) yellow-towel(15) elite(16) had(17) nice(18) pads(19) under(20) their(21) tushes(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			How(1) crazy(2) is(3) that(4) ?(5) ?(6) ?(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) also(4) odd(5) ,(6) with(7) tacky(8) and(9) inadequate(10) florescent(11) lighting(12) -(13) nice(14) balcony(15) though(16) .(17) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) restaurants(2) were(3) mediocre(4) -(5) at(6) best(7) .(8) 
+			<opinion polarity="-" feature="food" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			We(1) only(2) went(3) to(4) one(5) ,(6) then(7) ate(8) out(9) the(10) rest(11) of(12) the(13) time(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			All(1) in_all(2) ,(3) Oasis_Cancun(4) seems(5) to(6) be(7) falling(8) into(9) the(10) aging(11) Cancun(12) hotel(13) syndrome(14) :(15) increasing(16) prices(17) for(18) decreasing(19) service(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			do(1) not(2) expect(3) a(4) lavish(5) resort(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) stick(3) to(4) the(5) pool(6) and(7) beach(8) ,(9) you(10) will(11) have(12) a(13) good(14) time(15) .(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="381" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) handling(2) car(3) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			fun(1) ,(2) fast(3) ,(4) great(5) handling(6) 
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hard(1) to(2) get(3) in(4) and(5) out(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			On(1) Sunday(2) ,(3) I(4) volunteered(5) at(6) a(7) local(8) SCCA_Novice(9) school(10) for(11) autocross(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			One(1) of(2) my(3) friends(4) attended(5) with(6) his(7) 98(8) M_Roadster(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			After(1) the(2) event(3) ,(4) I(5) was(6) given(7) the(8) chance(9) to(10) drive(11) the(12) car(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Even(1) on(2) the(3) first(4) run(5) ,(6) not(7) being(8) used(9) to(10) the(11) handling(12) ,(13) the(14) car(15) allowed(16) me(17) to(18) turn(19) in(20) one(21) of(22) the(23) fastest(24) times(25) for(26) road(27) tire(28) 'd(29) vehicles(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) feels(3) balanced(4) at(5) all(6) times(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Plenty_of(1) feedback(2) as(3) to(4) when(5) you(6) will(7) start(8) losing(9) traction(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			If(1) the(2) tail(3) comes(4) around(5) ,(6) a(7) simple(8) application(9) of(10) power(11) keeps(12) the(13) tail(14) from(15) coming(16) around(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) accelerate(3) ,(4) the(5) car(6) goes(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			When(1) you(2) brake(3) ,(4) the(5) car(6) stops(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			I(1) own(2) and(3) autocross(4) a(5) Boxster(6) and(7) this(8) M_Roadster(9) has(10) much(11) more(12) oomph(13) in(14) second(15) when(16) pulling(17) out(18) of(19) corners(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			The(1) bucket(2) seats(3) are(4) more(5) aggressive(6) than(7) the(8) Boxsters(9) ,(10) so(11) you(12) are(13) held(14) in(15) place(16) better(17) without(18) a(19) racing(20) harness(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			I(1) 'm(2) not(3) fat(4) and(5) still(6) found(7) it(8) difficult(9) to(10) get(11) in(12) and(13) out(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			You(1) have(2) to(3) turn(4) sideways(5) to(6) slide(7) in(8) and(9) out(10) ((11) with(12) the(13) seat(14) forwards(15) for(16) autocrossing(17) )(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Unfortunately(1) ,(2) my(3) Boxster(4) was(5) still(6) on(7) snow(8) tires(9) ,(10) so(11) I(12) was(13) unable(14) to(15) compare(16) times(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			The(1) M_Roadster(2) is(3) very(4) exciting(5) to(6) drive(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="16">
+			My(1) hands(2) were(3) shaking(4) after(5) the(6) drive(7) from(8) the(9) adrenalin(10) rush(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Definitely(1) worth(2) considering(3) if(4) you(5) like(6) convertibles(7) that(8) can(9) get(10) up(11) and(12) go(13) .(14) 
+		</sentence>
+	</text>
+</review>

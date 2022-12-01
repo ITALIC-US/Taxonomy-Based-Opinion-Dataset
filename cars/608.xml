@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="608" item="2000 Toyota Sienna" rating="1">
+	<title>
+		<sentence id="1">
+			Oil_Sludge(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			Thanks_Toyota(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ran(1) fine(2) until(3) the(4) sludge(5) .(6) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sludge(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) a(4) Sienna(5) from(6) 1998(7) to(8) 2002(9) because_of(10) Sludge(11) problem(12) !(13) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Toyota(1) claims(2) they(3) will(4) fix(5) it(6) ,(7) but(8) they(9) lie(10) !(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) van(4) when(5) it(6) was(7) 2(8) years(9) old(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) great(3) until(4) about(5) 8(6) months(7) ago(8) when(9) excessive(10) smoke(11) started(12) pouring(13) out(14) the(15) back(16) and(17) using(18) a(19) quart(20) of(21) oil(22) a(23) week(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) it(3) checked(4) by(5) my(6) regular(7) mechanic(8) who(9) had(10) worked(11) on(12) it(13) for(14) routine(15) work(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			When(1) hearing(2) the(3) description(4) ,(5) he(6) thought(7) it(8) was(9) the(10) rings(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			After(1) looking(2) in(3) ,(4) he(5) got(6) a(7) full(8) cup(9) of(10) sludge(11) out(12) and(13) told(14) me(15) there(16) was(17) plenty(18) more(19) !(20) 
+		</sentence>
+		<sentence id="6">
+			He(1) gave(2) me(3) an(4) article(5) from(6) the(7) USA_Today(8) that(9) told(10) me(11) an(12) exact(13) description(14) of(15) what(16) was(17) going(18) on(19) with(20) my(21) van(22) and(23) called(24) it(25) "(26) Oil_Gel_Problem(27) "(28) apparently(29) this(30) is(31) Toyota(32) 's(33) name(34) for(35) sludge(36) .(37) 
+		</sentence>
+		<sentence id="7">
+			I(1) called(2) the(3) 800(4) #(5) for(6) Toyota(7) and(8) they(9) opened(10) a(11) case(12) and(13) told(14) me(15) to(16) go(17) to(18) the(19) nearest(20) dealer(21) and(22) get(23) a(24) diagnosis(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			Diehl_Toyota(1) service(2) center(3) in(4) York(5) ,(6) PA(7) ,(8) told(9) me(10) that(11) the(12) engine(13) was(14) completely(15) clean(16) and(17) there(18) was(19) no(20) sign(21) of(22) sludge(23) at(24) all(25) !(26) !(27) 
+			<opinion polarity="+" feature="engine" featWords="13" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="9">
+			Imagine(1) my(2) confusion(3) .(4) 
+		</sentence>
+		<sentence id="10">
+			They(1) told(2) me(3) a(4) valve(5) was(6) stuck(7) open(8) and(9) it(10) would(11) be(12) a(13) couple(14) hundred(15) to(16) fix(17) it(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			When(1) I(2) went(3) to(4) pick(5) up(6) the(7) van(8) ,(9) they(10) had(11) put(12) it(13) through(14) a(15) car(16) wash(17) and(18) all(19) down(20) the(21) front(22) bumper(23) were(24) drops(25) of(26) oily(27) sludge(28) like(29) stuff(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			They(1) obviously(2) cleaned(3) the(4) motor(5) and(6) then(7) took(8) pictures(9) and(10) said(11) there(12) was(13) no(14) problem(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			I(1) had(2) the(3) valve(4) thing(5) checked(6) out(7) and(8) of(9) course(10) it(11) is(12) not(13) stuck(14) open(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			My(1) mechanic(2) told(3) me(4) if(5) it(6) was(7) stuck(8) open(9) the(10) check(11) engine(12) light(13) would(14) be(15) on(16) and(17) it(18) 's(19) not(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Toyota(1) could(2) not(3) tell(4) me(5) why(6) it(7) was(8) not(9) on(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			I(1) called(2) corporate(3) and(4) told(5) them(6) the(7) story(8) and(9) all(10) they(11) did(12) was(13) kick(14) it(15) back(16) to(17) the(18) dealership(19) who(20) stuck(21) to(22) their(23) story(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			The(1) vehicle(2) is(3) not(4) even(5) paid(6) off(7) yet(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			Needless(1) to(2) say(3) ,(4) I(5) will(6) never(7) purchase(8) another(9) Toyota(10) !(11) 
+		</sentence>
+		<sentence id="19">
+			Beware(1) of(2) Siennas(3) from(4) 1998(5) to(6) 2002(7) ,(8) all(9) years(10) with(11) this(12) problem(13) !(14) 
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) CE_Automatic(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="459" item="1999 Lexus RX 300" rating="2">
+	<title>
+		<sentence id="1">
+			HUGE(1) disapointment(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lexus(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cramped(1) interior(2) ,(3) poor(4) handling(5) ,(6) uncomfortable(7) seats(8) 
+			<opinion polarity="-" feature="seat" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="handling" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) used(2) to(3) think(4) this(5) car(6) was(7) an(8) awesome(9) luxury(10) SUV(11) -(12) safe(13) ,(14) good(15) looking(16) ,(17) comfortable(18) -(19) then(20) I(21) rode(22) in(23) one(24) .(25) 
+			<opinion polarity="+" feature="safety" opWords="13"/>
+			<opinion polarity="+" feature="comfort" opWords="18"/>
+			<opinion polarity="+" feature="design" opWords="15,16"/>
+			<opinion polarity="+" feature="car" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			My(1) coworkers(2) and(3) I(4) were(5) going(6) to(7) lunch(8) one(9) day(10) ,(11) and(12) I(13) was(14) excited(15) because(16) I(17) finally(18) got(19) to(20) ride(21) in(22) one(23) of(24) these(25) cars(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) looked(3) at(4) them(5) on(6) the(7) road(8) and(9) always(10) thought(11) they(12) were(13) classy(14) SUVs(15) ,(16) and(17) probably(18) worth(19) the(20) money(21) .(22) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+		</sentence>
+		<sentence id="4">
+			We(1) all(2) got(3) in(4) and(5) I(6) sat(7) in(8) the(9) front(10) seat(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) immediately(3) shocked(4) by(5) how(6) SMALL(7) the(8) interior(9) was(10) !(11) !(12) !(13) 
+			<opinion polarity="-" feature="interior" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			The(1) seats(2) felt(3) uncomfortable(4) ,(5) and(6) they(7) were(8) all(9) cramped(10) together(11) .(12) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="10"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) handled(3) poorly(4) ,(5) and(6) I(7) felt(8) slightly(9) nauseated(10) ((11) I(12) do(13) not(14) get(15) car(16) sick(17) )(18) .(19) 
+			<opinion polarity="-" feature="handling" opWords="3,4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) sat(2) in(3) the(4) back(5) on(6) the(7) way(8) back(9) to(10) work(11) and(12) experienced(13) more(14) of(15) the(16) same(17) feelings(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Needless(1) to(2) say(3) ,(4) it(5) was(6) a(7) HUGE(8) disappointment(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			It(1) did(2) not(3) feel(4) like(5) a(6) Lexus(7) at(8) all(9) ,(10) but(11) rather(12) more(13) like(14) a(15) station(16) wagon(17) .(18) 
+		</sentence>
+	</text>
+</review>

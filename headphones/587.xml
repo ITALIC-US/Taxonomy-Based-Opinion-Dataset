@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="587" item="Sony MDR-XD200 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) too(2) bad(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) with(2) good(3) sound(4) for(5) the(6) price(7) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bulky(1) &(2) feels(3) cheap(4) 
+			<opinion polarity="-" feature="portability" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) to(4) replace(5) some(6) older(7) Kenwood(8) KPM-610(9) headphones(10) ,(11) which(12) would(13) hurt(14) my(15) ears(16) after(17) extended(18) listening(19) sessions(20) ,(21) since(22) they(23) sat(24) on(25) my(26) ears(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) found(2) these(3) Sony(4) 's(5) at(6) Target(7) and(8) figured(9) that(10) I(11) 'd(12) try(13) them(14) out(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			While(1) not(2) the(3) Sennheisers_I(4) was(5) originally(6) looking(7) at(8) ,(9) they(10) were(11) decently(12) priced(13) ((14) $40(15) )(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) find(2) them(3) to(4) be(5) much(6) more(7) comfortable(8) than(9) my(10) Kenwoods(11) and(12) a(13) pair(14) of(15) in-ear(16) phones(17) I(18) had(19) purchased(20) a(21) couple(22) of(23) days(24) earlier(25) ((26) esp(27) due(28) to(29) an(30) ear(31) piercing(32) )(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) also(3) looking(4) for(5) something(6) that(7) would(8) block(9) out(10) outside(11) noises(12) ,(13) which(14) these(15) do(16) to(17) an(18) ok(19) degree(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			They(1) do(2) not(3) block(4) out(5) sound(6) like(7) the(8) in-ears(9) do(10) ,(11) but(12) much(13) more(14) than(15) the(16) open-air(17) headphones(18) I(19) was(20) replacing(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) switch(2) which(3) controls(4) the(5) "(6) sound(7) mode(8) ,(9) "(10) one(11) of(12) each(13) can(14) makes(15) the(16) difference(17) in(18) the(19) bass(20) response(21) and(22) seems(23) to(24) push(25) the(26) soundstage(27) forward(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			The(1) difference(2) is(3) subtle(4) but(5) still(6) noticeable(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			The(1) feature(2) is(3) cool(4) at(5) first(6) ,(7) but(8) I(9) may(10) tire(11) of(12) using(13) the(14) switch(15) often(16) ,(17) which(18) seems(19) cheaply(20) made(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			I(1) do(2) find(3) myself(4) wanting(5) for(6) a(7) volume(8) control(9) on(10) the(11) cable(12) ,(13) though(14) .(15) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="520" item="Sony MDR-V600 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) but(2) still(3) wondering(4) where(5) the(6) bucks(7) went(8) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			clear(1) sound(2) ,(3) fold(4) up(5) nicely(6) ,(7) comfortable(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) boomy(3) ,(4) and(5) ears(6) get(7) hot(8) ,(9) price(10) 
+			<opinion polarity="-" feature="sound quality" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) product(4) to(5) use(6) with(7) my(8) computer(9) as(10) I(11) 'm(12) a(13) mp3(14) user(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) been(3) using(4) a(5) 10(6) year(7) old(8) MDR-V202(9) and(10) the(11) ear(12) pads(13) have(14) been(15) falling(16) apart(17) since(18) day_one(19) otherwise(20) I(21) am(22) still(23) very(24) happy(25) with(26) them(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) why(3) I(4) decided(5) to(6) upgrade(7) to(8) V600(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) fit(2) if(3) this(4) V600(5) headset(6) is(7) nice(8) ,(9) however(10) I(11) find(12) that(13) my(14) ears(15) get(16) a(17) little(18) hot(19) after(20) wearing(21) it(22) for(23) hours(24) on(25) end(26) .(27) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			My(1) other(2) dislike(3) is(4) the(5) boomy(6) nature(7) of(8) the(9) sound(10) output(11) .(12) 
+			<opinion polarity="-" feature="sound quality" featWords="10" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			I(1) now(2) use(3) the(4) V600(5) phones(6) for(7) stereo(8) listening(9) on(10) my(11) home(12) audio(13) system(14) and(15) still(16) using(17) the(18) MDR-V202(19) on(20) the(21) PC(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			I(1) guess(2) what(3) I(4) 'm(5) still(6) wondering(7) is(8) where(9) did(10) the(11) 70(12) bucks(13) go(14) ((15) The(16) difference(17) between(18) the(19) 600(20) and(21) a(22) comparable(23) unit(24) to(25) my(26) 202(27) )(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			So(1) ,(2) I(3) like(4) the(5) headset(6) ,(7) but(8) do(9) not(10) neccesarily(11) think(12) I(13) needed(14) to(15) upgrade(16) as(17) far(18) as(19) I(20) did(21) .(22) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="4"/>
+		</sentence>
+	</text>
+</review>

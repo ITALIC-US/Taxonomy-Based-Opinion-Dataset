@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="297" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Nice_Ride(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quick(1) ,(2) agile(3) ,(4) roomy(5) ,(6) luxurious(7) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="room" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) ugly(3) ,(4) expensive(5) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+			<opinion polarity="-" feature="design" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) car(2) :(3) quick(4) ,(5) agile(6) ,(7) roomy(8) ,(9) comfy(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="10"/>
+			<opinion polarity="+" feature="room" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="speed" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) rented(2) this(3) number(4) in(5) an(6) emergency(7) situation(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) usually(2) am(3) a(4) cheapskate(5) when(6) it(7) comes(8) to(9) renting(10) cars(11) ((12) see(13) my(14) other(15) car(16) reviews(17) )(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			But(1) I(2) needed(3) a(4) car(5) and(6) this(7) was(8) all(9) they(10) had(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) thoroughly(3) impressed(4) with(5) this(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) quick(3) ,(4) nimble(5) ,(6) and(7) handles(8) great(9) .(10) 
+			<opinion polarity="+" feature="handling" opWords="8,9"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			I(1) like(2) the(3) touchy(4) brakes(5) and(6) the(7) acceleration(8) that(9) it(10) provides(11) at(12) any(13) time(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			This(1) feels(2) like(3) a(4) small(5) car(6) in(7) its(8) agility(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			It(1) feels(2) more(3) quick(4) than(5) powerful(6) ,(7) which(8) is(9) a(10) good(11) thing(12) in(13) my(14) book(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) plenty_of(3) legroom(4) ,(5) often(6) a(7) problem(8) for(9) me(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			The(1) accessories(2) and(3) electronics(4) were(5) all(6) well(7) positioned(8) and(9) accessible(10) ((11) although(12) I(13) did(14) spend(15) quite(16) a(17) while(18) feeling(19) stupid(20) at(21) the(22) gas(23) station(24) trying(25) to(26) find(27) the(28) gas(29) tank(30) release(31) which(32) was(33) hidden(34) in(35) the(36) arm(37) rest(38) )(39) .(40) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) thing(3) missing(4) was(5) leather(6) and(7) a(8) moonroof(9) ((10) I(11) 'm(12) a(13) moonroof(14) snob(15) )(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) sears(2) were(3) a(4) little(5) too(6) soft(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			I(1) did(2) not(3) think(4) I(5) 'd(6) like(7) this(8) car(9) so(10) much(11) ,(12) but(13) I(14) was(15) thoroughly(16) surprised(17) and(18) would(19) consider(20) it(21) when(22) buying(23) a(24) car(25) this(26) size(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 50/day(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Not(16) sure(17) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="564" item="1995 Oldsmobile Achieva" rating="1">
+	<title>
+		<sentence id="1">
+			car(1) does(2) not(3) last(4) after(5) 120K_miles(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) A(2) /(3) C(4) ,(5) drives(6) nicely(7) 
+			<opinion polarity="+" feature="ride quality" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Quad(1) 4(2) Engine(3) makes(4) repairs(5) expensive(6) ,(7) seats(8) are(9) uncomfortable(10) 
+			<opinion polarity="-" feature="seat" featWords="8" opWords="10"/>
+			<opinion polarity="-" feature="price" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) get(4) an(5) Achieva(6) with(7) the(8) Quad(9) 4(10) engine(11) ,(12) it(13) is(14) a(15) nightmare(16) when(17) getting(18) repairs(19) anywhere(20) near(21) the(22) engine(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) 2(5) years(6) ago(7) for(8) $3000(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) cheap(3) because(4) it(5) came(6) with(7) 120,000_miles(8) on(9) it(10) .(11) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			The(1) guy(2) I(3) bought(4) it(5) from(6) did(7) a_lot_of(8) business(9) out(10) of(11) town(12) ,(13) so(14) he(15) was(16) always(17) on(18) the(19) road(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) told(2) myself(3) ,(4) "(5) at_least(6) they(7) 're(8) highway(9) miles(10) ...(11) "(12) It(13) now(14) has(15) about(16) 150,000_miles(17) it(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) had(3) some(4) very(5) expensive(6) problems(7) with(8) the(9) car(10) recently(11) .(12) 1(13) )(14) A(15) metal(16) tube(17) going(18) from(19) the(20) water(21) pump(22) to(23) the(24) engine(25) cost(26) me(27) $600(28) ,(29) because(30) I(31) have(32) the(33) Quad4(34) engine(35) ,(36) which(37) is(38) apparently(39) a(40) PAIN(41) to(42) work(43) around(44) .(45) 
+		</sentence>
+		<sentence id="6">
+			The(1) mechanic(2) had(3) to(4) take(5) all(6) sorts(7) of(8) things(9) apart(10) in_order_to(11) replace(12) the(13) little(14) tube(15) .(16) 2(17) )(18) My(19) heater(20) core(21) died(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			This(1) repair(2) was(3) also(4) going(5) to(6) be(7) in(8) the(9) neighborhood(10) of(11) $600(12) ,(13) mostly(14) for(15) labor(16) costs(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Luckily(1) ,(2) it(3) does(4) not(5) get(6) too(7) cold(8) where(9) I(10) live(11) ,(12) so(13) I(14) had(15) the(16) mechanic(17) block(18) the(19) heater(20) instead(21) .(22) 3(23) )(24) The(25) radiator(26) fan(27) motor(28) died(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) third(2) time(3) in(4) as(5) many(6) months(7) that(8) I(9) witnessed(10) a(11) pool(12) of(13) antifreeze(14) on(15) the(16) ground(17) under(18) my(19) car(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			Grumble(1) ,(2) grumble(3) ...(4) I(5) 'm(6) sure(7) these(8) repairs(9) would(10) have(11) been(12) cheaper(13) if(14) I(15) had(16) gone(17) to(18) a(19) different(20) mechanic(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			And(1) these(2) things(3) are(4) probably(5) to(6) be(7) expected(8) from(9) a(10) car(11) with(12) 150K_miles(13) on(14) it(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			BUT(1) ,(2) there(3) are(4) so(5) many(6) other(7) aspects(8) of(9) the(10) car(11) that(12) I(13) dislike(14) ,(15) for_instance(16) :(17) As(18) others(19) have(20) mentioned(21) ,(22) the(23) front(24) seating(25) angle(26) is(27) TERRIBLE(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			Maybe(1) it(2) is(3) exacerbated(4) because(5) I(6) am(7) tall(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			After(1) a(2) 3-hour(3) road(4) trip(5) ,(6) my(7) back(8) ,(9) neck(10) ,(11) and(12) legs(13) hurt(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Also(1) ,(2) the(3) automatic(4) lock(5) controls(6) stopped(7) working(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			It(1) is(2) very(3) irritating(4) ,(5) because(6) when(7) you(8) put(9) the(10) car(11) in(12) drive(13) ,(14) all(15) four(16) doors(17) lock(18) ,(19) and(20) when(21) you(22) turn(23) the(24) car(25) off(26) ,(27) all(28) four(29) doors(30) un-lock(31) .(32) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="17">
+			Thus(1) ,(2) I(3) am(4) left(5) to(6) manually(7) lock(8) all(9) 4(10) doors(11) every(12) time(13) I(14) get(15) out(16) of(17) the(18) car(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			A(1) major(2) source(3) of(4) irritation(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			Another(1) thing(2) :(3) Since(4) I(5) have(6) had(7) the(8) car(9) ,(10) the(11) "(12) check(13) engine(14) "(15) light(16) has(17) come(18) on(19) three_times(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Each(1) time(2) has(3) been(4) the(5) same(6) problem(7) :(8) the(9) throttle(10) position(11) sensor(12) ((13) TPS(14) )(15) ,(16) which(17) tells(18) the(19) car(20) how(21) much(22) gas(23) to(24) use(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			I(1) do(2) not(3) know(4) if(5) this(6) recurring(7) problem(8) is(9) a(10) characteristic(11) of(12) all(13) the(14) models(15) or(16) just(17) mine(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			What(1) else(2) ?(3) 
+		</sentence>
+		<sentence id="23">
+			The(1) car(2) is(3) NOT(4) my(5) style(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			I(1) bought(2) it(3) because(4) it(5) was(6) affordable(7) and(8) I(9) needed(10) a(11) car(12) fast(13) .(14) 
+			<opinion polarity="+" feature="price" opWords="7"/>
+		</sentence>
+		<sentence id="25">
+			Other(1) people(2) seem(3) to(4) like(5) how(6) it(7) looks(8) ,(9) though(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			It(1) just(2) depends(3) on(4) your(5) taste(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			So(1) ,(2) all(3) this(4) adds(5) up(6) to(7) one(8) unhappy(9) driver(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			If(1) I(2) was(3) not(4) already(5) in(6) so(7) much(8) debt(9) ,(10) I(11) would(12) be(13) selling(14) this(15) baby(16) and(17) buying(18) a(19) newer(20) ,(21) better(22) car(23) in(24) a(25) heartbeat(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) S(16) 
+		</sentence>
+	</text>
+</review>

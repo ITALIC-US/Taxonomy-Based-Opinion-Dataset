@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="47" item="1997 Honda Odyssey" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) satisfied(2) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Car-like(1) size(2) and(3) handling(4) ,(5) easy(6) to(7) park(8) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) transmission(2) ((3) auto(4) )(5) ,(6) Inferior(7) wheels(8) ,(9) poor(10) gas(11) mileage(12) 
+			<opinion polarity="-" feature="gas" featWords="11,12" opWords="10"/>
+			<opinion polarity="-" feature="wheel" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) hope(2) they(3) ironed(4) out(5) all(6) the(7) kinks(8) on(9) the(10) newer(11) models(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) our(3) 1997(4) Ody(5) brand(6) new(7) from(8) a(9) local(10) Manila(11) dealer(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			They(1) only(2) sold(3) over(4) 500(5) units(6) here(7) in(8) the(9) Philippines(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) troubles(2) started(3) after(4) 3(5) years(6) of(7) daily(8) use(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) auto(2) transmission(3) broke(4) down(5) during(6) a(7) long(8) trip(9) .(10) 
+			<opinion polarity="-" feature="transmission" featWords="3" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Honda(1) would(2) no_longer(3) honor(4) the(5) warranty(6) because(7) it(8) was(9) after(10) the(11) standard(12) 3yr/100th(13) km(14) warranty(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			We(1) shouldered(2) the(3) entire(4) cost(5) of(6) the(7) repair(8) and(9) parts(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Then(1) we(2) learned(3) of(4) the(5) recall(6) in(7) the(8) states(9) for(10) the(11) 1st(12) gen(13) odys(14) because_of(15) a(16) design(17) fault(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			The(1) trans(2) fluid(3) filter(4) system(5) ((6) or(7) lack(8) thereof(9) )(10) of(11) the(12) ody(13) was(14) faulty(15) to(16) begin(17) with(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			The(1) fluid(2) has(3) to(4) be(5) replaced(6) often(7) ((8) at(9) shorter(10) intervals(11) )(12) and(13) since(14) we(15) are(16) in(17) the(18) Philippines(19) ,(20) we(21) were(22) not(23) covered(24) by(25) the(26) recall(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			Some(1) fortunate(2) owners(3) were(4) able(5) to(6) get(7) the(8) improved(9) trans(10) replacements(11) but(12) we(13) were(14) not(15) as(16) lucky(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) why(3) we(4) are(5) planning(6) on(7) getting(8) a(9) Toyota_Previa_VVTi(10) for(11) our(12) next(13) van(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			We(1) have(2) had(3) problems(4) also(5) with(6) the(7) stock(8) aluminum(9) wheels(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			Two(1) of(2) them(3) warped(4) and(5) could(6) not(7) be(8) balanced(9) so(10) we(11) replaced(12) them(13) with(14) aftermarket(15) Rota(16) wheels(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			I(1) understand(2) also(3) from(4) other(5) 96(6) to(7) 03(8) ody(9) owners(10) that(11) the(12) engine(13) of(14) the(15) 1st(16) and(17) 2nd(18) gens(19) had(20) problems(21) with(22) the(23) balance(24) shaft(25) seals(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			The(1) ody(2) seems(3) to(4) be(5) a(6) gas(7) guzzler(8) too(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			It(1) only(2) runs(3) 7(4) kms(5) to(6) a(7) liter(8) of(9) unleaded(10) gasoline(11) at(12) best(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Boy_Diez_Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 1997Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

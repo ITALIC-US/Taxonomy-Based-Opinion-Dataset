@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="496" item="2000 Lincoln Navigator" rating="3">
+	<title>
+		<sentence id="1">
+			Waiting(1) for(2) perks(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			made(1) by(2) FMC(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			too(1) flashy(2) 
+			<opinion polarity="-" feature="design" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) honestly(2) do(3) not(4) see(5) why(6) anyone(7) would(8) by(9) such(10) a(11) flashy(12) unrealistic(13) car(14) that(15) does(16) not(17) offer(18) any(19) of(20) the(21) normal(22) or(23) free(24) perks(25) as(26) slightly(27) not(28) as(29) nice(30) or(31) flashy(32) sport(33) utility(34) vehicles(35) .(36) 
+			<opinion polarity="-" feature="design" opWords="32"/>
+			<opinion polarity="-" feature="car" featWords="14" opWords="13"/>
+			<opinion polarity="-" feature="design" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) seen(3) many(4) of(5) these(6) cars(7) at(8) various(9) auto(10) shops(11) and(12) dealerships(13) being(14) repaired(15) ,(16) and(17) I(18) have(19) seen(20) many(21) more(22) being(23) towed(24) from(25) the(26) side(27) shoulder(28) of(29) the(30) road(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			I(1) must(2) give(3) the(4) Navigator(5) props(6) in(7) the(8) area(9) of(10) luxury(11) which(12) is(13) no(14) surprise(15) considering(16) Lincoln(17) makes(18) probably(19) the(20) most(21) luxurious(22) cars(23) on(24) the(25) market(26) right(27) now(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="4">
+			The(1) other(2) thing(3) I(4) like(5) about(6) the(7) car(8) is(9) that(10) it(11) is(12) mostly(13) made(14) by(15) Ford_Motor_Corporation(16) engineers(17) and(18) designers(19) ,(20) that(21) is(22) a(23) major(24) plus(25) in(26) my(27) department(28) because(29) i(30) especially(31) love(32) Ford(33) vehicles(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			Well(1) ,(2) I(3) would(4) suggest(5) this(6) car(7) to(8) anyone(9) who(10) can(11) afford(12) it(13) but(14) ...(15) they(16) do(17) seem(18) to(19) get(20) quite(21) tiresome(22) .(23) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="95" item="Hotel Shelley - South Beach" rating="1">
+	<title>
+		<sentence id="1">
+			Frigging_Awful(1) /(2) Pants(3) /(4) Lame(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			not(1) too(2) far(3) from(4) the(5) Big_Pink_Cafe(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			see(1) above(2) .(3) not(4) enough(5) room(6) here(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			worst(1) hotel(2) in(3) the(4) world(5) this(6) is(7) .(8) well(9) i(10) have(11) not(12) been(13) to(14) kabul(15) or(16) pyongyang(17) recently(18) ,(19) but(20) this(21) is(22) certainly(23) the(24) worst(25) hotel(26) in(27) this(28) great(29) country(30) .(31) for(32) our(33) $140(34) ,(35) we(36) got(37) ,(38) 1(39) .(40) a(41) courtesy(42) bus(43) from(44) the(45) hotel(46) ............(47) which(48) never(49) materialized(50) .(51) we(52) had(53) to(54) get(55) a(56) taxi(57) in(58) the(59) end(60) .(61) 2(62) .(63) safes(64) in(65) the(66) room(67) .(68) or(69) at_least(70) they(71) were(72) there(73) until(74) "(75) they(76) were(77) removed(78) a(79) month(80) ago(81) "(82) according_to(83) the(84) concierge(85) .(86) we(87) never(88) found(89) out(90) why(91) .(92) 3(93) .(94) wake-up(95) calls(96) ...........(97) which(98) never(99) actually(100) materialized(101) either(102) .(103) at_least(104) it(105) was(106) sunny(107) and(108) that(109) woke(110) us(111) up(112) in(113) the(114) end(115) .(116) but(117) we(118) were(119) late(120) for(121) trips(122) to(123) the(124) everglades(125) and(126) downtown(127) thanks(128) to(129) the(130) shelley(131) .(132) 4(133) .(134) a(135) terrible(136) buffet(137) breakfast(138) .(139) "(140) eat(141) as(142) much(143) as(144) you(145) like(146) "(147) ,(148) but(149) you(150) will(151) not(152) like(153) much(154) .(155) go(156) to(157) the(158) Big_Pink_Cafe(159) ((160) also(161) on(162) Collins_Ave(163) .(164) )(165) instead(166) ,(167) great(168) all-day(169) breakfasts(170) .(171) try(172) the(173) waffles(174) or(175) 5-egg(176) omlettes(177) .(178) yum(179) yum(180) .(181) and(182) good(183) service(184) as_well(185) ,(186) could(187) teach(188) the(189) shelley(190) a_lot(191) .(192) miami(193) was(194) great(195) but(196) i(197) would(198) rather(199) stay(200) in(201) Dade_County(202) prison(203) next(204) time(205) .(206) it(207) would(208) certainly(209) be(210) a_lot(211) cheaper(212) and(213) at_least(214) they(215) would(216) wake(217) you(218) up(219) on(220) time(221) .(222) 
+			<opinion polarity="-" feature="hotel" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="hotel" featWords="26" opWords="25"/>
+			<opinion polarity="-" feature="food" featWords="137" opWords="136"/>
+		</sentence>
+	</text>
+</review>

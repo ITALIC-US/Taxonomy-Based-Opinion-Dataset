@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="265" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Sports_Car(1) for(2) 4(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) looking(2) ,(3) Great(4) handling(5) ,(6) fun(7) to(8) drive(9) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Suspension(1) might(2) be(3) too(4) hard(5) for(6) family(7) car(8) ,(9) SE(10) is(11) a(12) little(13) bit(14) more(15) pricey(16) than(17) competition(18) 
+			<opinion polarity="-" feature="suspension" featWords="1" opWords="4,5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) family(2) has(3) owned(4) a(5) 2000(6) Maxima_SE(7) for(8) a(9) little(10) over(11) a(12) month(13) now(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) extremely(4) fun(5) to(6) drive(7) ,(8) and(9) transmits(10) everything(11) its(12) four(13) wheels(14) are(15) doing(16) ,(17) even(18) in(19) snow(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Maxima(2) has(3) extremely(4) good(5) acceleration(6) ,(7) and(8) handles(9) like(10) some(11) sports(12) cars(13) .(14) 
+			<opinion polarity="+" feature="acceleration" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Driving(1) this(2) car(3) makes(4) you(5) feel(6) in(7) charge(8) of(9) the(10) road(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			You(1) point(2) the(3) car(4) and(5) it(6) goes(7) their(8) without(9) question(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Driving(1) in(2) the(3) snow(4) was(5) really(6) amazing(7) ,(8) the(9) few(10) times(11) the(12) car(13) did(14) slide(15) around(16) ,(17) controlling(18) the(19) slide(20) was(21) easy(22) as(23) pie(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Also(1) the(2) styling(3) is(4) out(5) of(6) this(7) world(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Nissan(1) took(2) a(3) major(4) chance(5) making(6) the(7) Maxima(8) look(9) different(10) than(11) all(12) the(13) other(14) family(15) sedans(16) and(17) it(18) paid(19) off(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) is(3) obvious(4) from(5) any(6) angle(7) ,(8) and(9) is(10) definitely(11) a(12) head(13) turner(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) leather(2) interior(3) also(4) looks(5) great(6) ,(7) and(8) the(9) front(10) seats(11) are(12) extremely(13) comfortable(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="10,11" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="interior" featWords="3" opWords="5,6"/>
+			<opinion polarity="+" feature="interior" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="11">
+			And(1) to(2) top(3) it(4) off(5) the(6) Bose(7) sound(8) system(9) is(10) top(11) notch(12) ,(13) but(14) does(15) lack(16) the(17) subwoofer(18) of(19) the(20) I30(21) .(22) 
+			<opinion polarity="+" feature="sound system" featWords="8,9" opWords="11,12"/>
+		</sentence>
+		<sentence id="12">
+			The(1) bad(2) side(3) of(4) the(5) car(6) is(7) that(8) the(9) suspension(10) may(11) be(12) too(13) stiff(14) for(15) a(16) family(17) car(18) ,(19) as(20) almost(21) all(22) bumps(23) can(24) be(25) felt(26) by(27) passengers(28) .(29) 
+			<opinion polarity="-" feature="suspension" featWords="10" opWords="13,14"/>
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) the(3) backseat(4) can(5) fit(6) four(7) people(8) ,(9) but(10) anyone(11) too(12) big(13) should(14) not(15) sit(16) in(17) back(18) for(19) too(20) long(21) ,(22) because(23) it(24) is(25) slightly(26) cramped(27) .(28) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="27" potency="26"/>
+		</sentence>
+		<sentence id="14">
+			The(1) 2000(2) Nissan_Maxima_SE(3) is(4) an(5) excellent(6) sports(7) sedan(8) ,(9) and(10) leaves(11) all(12) competition(13) back(14) in(15) the(16) dust(17) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+	</text>
+</review>

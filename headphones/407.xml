@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="407" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) music(2) lover(3) 's(4) dream(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Utterly(1) faithful(2) reproduction(3) ;(4) beautiful(5) beyond(6) my(7) expectations(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) for(2) budget(3) hunters(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) love(3) music(4) ,(5) especially(6) classical(7) and(8) jazz(9) ,(10) the(11) HD(12) 600(13) is(14) the(15) ultimate(16) choice(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) owned(3) many(4) ultra(5) high(6) end(7) headphones(8) ,(9) but(10) the(11) HD(12) 600(13) 's(14) are(15) in(16) a(17) class(18) of(19) their(20) own(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) incredibly(3) musical(4) with(5) an(6) uncanny(7) sense(8) of(9) depth(10) and(11) utter(12) accuracy(13) ...(14) very(15) smooth(16) throughout(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="headphones" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) also(3) blissfully(4) comfortable(5) and(6) can(7) be(8) worn(9) for(10) hours(11) upon(12) end(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			They(1) 're(2) so(3) good(4) ,(5) that(6) my(7) B_&_W(8) speakers(9) have(10) become(11) the(12) most(13) neglected(14) components(15) in(16) my(17) system(18) .(19) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			I(1) can(2) not(3) say(4) enough(5) about(6) the(7) HD(8) 600(9) other(10) than(11) to(12) strongly(13) recommend(14) that(15) prospective(16) buyers(17) audition(18) them(19) before(20) shelling(21) out(22) $(23) $(24) $(25) $(26) for(27) any(28) other(29) high-end(30) headphone(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) owned(3) Stax(4) ,(5) Grado(6) and(7) Koss_ESP(8) -(9) 9(10) 's(11) ,(12) and(13) the(14) HD(15) 600(16) beats(17) them(18) all(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			I(1) love(2) '(3) em(4) to(5) pieces(6) :(7) -(8) )(9) 
+		</sentence>
+	</text>
+</review>

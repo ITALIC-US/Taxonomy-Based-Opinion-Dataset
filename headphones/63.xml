@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="63" item="Targus Active Noise Cancelation Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Do(1) NOT_BUY(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) is(2) good(3) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			quality(1) stinks(2) ,(3) do(4) not(5) buy(6) 
+			<opinion polarity="-" feature="headphones" opWords="5,6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) would(2) strongly(3) recommend(4) against(5) buying(6) these(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) was(3) pretty(4) good(5) ((6) had(7) done(8) a(9) side-by-side(10) comparison(11) against(12) the(13) Bose(14) product(15) )(16) but(17) the(18) quality(19) is(20) horrible(21) .(22) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) a(3) pair(4) for(5) 10(6) months(7) when(8) the(9) wire(10) broke(11) internally(12) and(13) led(14) to(15) sound(16) out(17) of(18) only(19) one(20) channel(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			As(1) it(2) was(3) less(4) than(5) one(6) year(7) Targus(8) did(9) replace(10) under(11) warranty(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) the(3) same(4) problem(5) with(6) the(7) second(8) pair(9) in(10) less(11) than(12) 3(13) months(14) of(15) use(16) ,(17) and(18) when(19) I(20) finally(21) had(22) a(23) chance(24) to(25) follow(26) up(27) with(28) Targus(29) ((30) a(31) couple(32) of(33) months(34) later(35) )(36) they(37) refused(38) to(39) do(40) anything(41) about(42) it(43) .(44) 
+		</sentence>
+		<sentence id="6">
+			This(1) is(2) an(3) obvious(4) design(5) issue(6) !(7) 
+		</sentence>
+		<sentence id="7">
+			Keep(1) in(2) mind(3) that(4) I(5) only(6) used(7) them(8) while(9) flying(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			They(1) were(2) gently(3) handled(4) and(5) only(6) stored(7) in(8) the(9) case(10) provided(11) by(12) Targus(13) and(14) the(15) cord(16) was(17) never(18) tightly(19) wound(20) or(21) kinked(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			Stay(1) away(2) from(3) this(4) product(5) .(6) 
+		</sentence>
+	</text>
+</review>

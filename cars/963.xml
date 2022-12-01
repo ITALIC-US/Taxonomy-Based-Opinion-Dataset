@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="963" item="1999 Volkswagen Passat" rating="1">
+	<title>
+		<sentence id="1">
+			1999(1) Volkswagen_Passat(2) V6(3) w(4) /(5) Tiptronic(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Hot(1) interior(2) lights(3) ,(4) loud(5) stock(6) system(7) ,(8) great(9) braking(10) and(11) handling(12) capabilities(13) ,(14) nice(15) ,(16) smooth(17) ride(18) .(19) 
+			<opinion polarity="+" feature="ride quality" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="car" opWords="15"/>
+			<opinion polarity="+" feature="brakes" featWords="10" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Only(1) a(2) slight(3) delay(4) when(5) shifting(6) gears(7) in(8) tiptronic(9) ,(10) only(11) because(12) theres(13) no(14) clutch(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) '(2) 99(3) Vw_Passat(4) is(5) an(6) incredible(7) car(8) ,(9) equipped(10) with(11) a(12) 30(13) V(14) ,(15) 190(16) Horse_Engine(17) ,(18) and(19) tiptronic(20) ,(21) this(22) car(23) can(24) certainly(25) move(26) at(27) high(28) speeds(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			The(1) most(2) distinct(3) features(4) have(5) to(6) be(7) the(8) remarkable(9) handling(10) and(11) braking(12) capabilities(13) .(14) 
+			<opinion polarity="+" feature="brakes" featWords="12" opWords="9"/>
+			<opinion polarity="+" feature="handling" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			As(1) a(2) new(3) driver(4) ,(5) I(6) found(7) the(8) passat(9) to(10) be(11) a(12) very(13) easy(14) car(15) to(16) drive(17) and(18) a(19) easy(20) car(21) to(22) learn(23) how(24) to(25) drive(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="4">
+			I(1) recieved(2) my(3) '(4) 99(5) Passat(6) as(7) a(8) gift(9) from(10) a(11) relative(12) in(13) some(14) pretty(15) meager(16) shape(17) ,(18) which(19) included(20) a(21) flat(22) front(23) left(24) tire(25) and(26) bent(27) rim(28) ,(29) 101,000_miles(30) ,(31) very(32) poor(33) brakes(34) ,(35) and(36) a(37) deserperately(38) needed(39) washing(40) .(41) 
+			<opinion polarity="-" feature="brakes" featWords="34" opWords="33" potency="32"/>
+		</sentence>
+		<sentence id="5">
+			Upon(1) legitimately(2) getting(3) the(4) car(5) ,(6) I(7) took(8) the(9) car(10) over(11) to(12) firestone(13) and(14) put(15) a(16) nice(17) set(18) of(19) $650(20) disc(21) brakes(22) on(23) it(24) and(25) the(26) effect(27) was(28) obvious(29) ,(30) not(31) only(32) was(33) the(34) handling(35) remarkable(36) and(37) the(38) braking(39) effect(40) incredible(41) ,(42) the(43) amount(44) of(45) brake(46) dust(47) no_longer(48) showed(49) up(50) on(51) the(52) rims(53) .(54) 
+			<opinion polarity="+" feature="brakes" featWords="39" opWords="41"/>
+			<opinion polarity="+" feature="handling" featWords="35" opWords="36"/>
+		</sentence>
+		<sentence id="6">
+			The(1) stock(2) interior(3) lighting(4) in(5) the(6) passat(7) is(8) certainly(9) appealing(10) ,(11) the(12) Germans(13) really(14) did(15) a(16) nice(17) job(18) with(19) the(20) dark(21) blue(22) gauges(23) and(24) red(25) gauges(26) ,(27) making(28) the(29) car(30) an(31) eye-catcher(32) at(33) stop(34) lights(35) .(36) 
+			<opinion polarity="+" feature="lights" featWords="4" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="7">
+			The(1) wood(2) grain(3) on(4) the(5) stereo(6) and(7) door(8) handles(9) is(10) also(11) a(12) nice(13) touch(14) of(15) luxury(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) stock(2) monsoon(3) system(4) is(5) also(6) a(7) great(8) feature(9) ,(10) for(11) with(12) a(13) little(14) less(15) than(16) 6(17) "(18) speakers(19) in_all(20) four(21) doors(22) ,(23) in_addition(24) to(25) 2(26) "(27) speakers(28) in(29) the(30) door(31) handles(32) ,(33) the(34) system(35) is(36) bangin(37) for(38) a(39) stock(40) car(41) .(42) 
+		</sentence>
+		<sentence id="9">
+			I(1) recently(2) added(3) two(4) 10(5) "(6) rockford(7) fosgate(8) subwoofers(9) and(10) a(11) 1200-watt(12) amp(13) for(14) the(15) trunk(16) ,(17) which(18) was(19) a(20) perfect(21) choice(22) for(23) one(24) who(25) likes(26) to(27) listen(28) to(29) loud(30) music(31) ,(32) regardless_of(33) the(34) genre(35) .(36) I(37) would(38) highly(39) recommend(40) Rockford_Fosgate(41) subwoofers(42) due(43) to(44) the(45) fact(46) that(47) they(48) are(49) not(50) too(51) overpowering(52) for(53) the(54) stock(55) system(56) ,(57) especially(58) with(59) its(60) own(61) dynamic(62) bass(63) adjuster(64) i(65) got(66) installed(67) in(68) the(69) cigarette(70) lighter(71) .(72) After(73) washing(74) every(75) week(76) and(77) adding(78) 5(79) coates(80) of(81) mcguires(82) wax(83) ,(84) the(85) silver(86) metallac(87) paint(88) was(89) sweet(90) ,(91) in_addition(92) to(93) a(94) pin-strip(95) running(96) across(97) the(98) exterior(99) body(100) .(101) The(102) tiptronic(103) transmission(104) is(105) among(106) the(107) best(108) features(109) .(110) In(111) first(112) gear(113) ,(114) you(115) could(116) clearly(117) feel(118) the(119) power-band(120) kick(121) in(122) by(123) 3000(124) rpms(125) and(126) the(127) car(128) just(129) takes(130) off(131) from(132) there(133) .(134) You(135) can(136) clearly(137) push(138) the(139) passat(140) to(141) hit(142) highly(143) dangerous(144) speeds(145) ,(146) by(147) 3rd(148) gear(149) in(150) tip(151) you(152) can(153) easily(154) hit(155) 80(156) and(157) from(158) there(159) its(160) fair(161) game(162) .(163) I(164) have(165) owned(166) my(167) passat(168) for(169) five(170) months(171) now(172) and(173) treat(174) it(175) with(176) tender(177) loving(178) care(179) ,(180) for(181) with(182) 104,000_miles(183) ,(184) the(185) car(186) is(187) in(188) excellent(189) condition(190) and(191) not(192) only(193) looks(194) ,(195) but(196) runs(197) like(198) a(199) brand(200) new(201) car(202) .(203) I(204) feel(205) the(206) car(207) was(208) engineered(209) to(210) truly(211) last(212) for(213) over(214) 200,000_miles(215) ,(216) even_if(217) you(218) clearly(219) beat(220) on(221) the(222) car(223) ,(224) volkswagens(225) are(226) made(227) to(228) last(229) .(230) I(231) would(232) highly(233) recommend(234) the(235) '(236) 99(237) passat(238) or(239) any(240) volkswagen(241) the(242) perfect(243) used(244) car(245) for(246) a(247) teenager(248) or(249) anyone(250) to(251) have(252) fun(253) driving(254) .(255) 
+			<opinion polarity="+" feature="car" featWords="245" opWords="243"/>
+			<opinion polarity="+" feature="car" opWords="40"/>
+		</sentence>
+	</text>
+</review>

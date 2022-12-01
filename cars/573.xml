@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="573" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			Love(1) it(2) ?(3) 
+		</sentence>
+		<sentence id="2">
+			Hate_It(1) ?(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Price(1) ,(2) Runs(3) nicely(4) ,(5) Lots(6) of(7) room(8) 
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Had(1) lots(2) of(3) problems(4) when(5) first(6) bought(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) car(2) for(3) the(4) money(5) ,(6) Great(7) for(8) long(9) travel(10) ,(11) I(12) would(13) recommend(14) this(15) car(16) to(17) someone(18) who(19) wants(20) a(21) nice(22) car(23) for(24) less(25) money(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="23" opWords="22"/>
+			<opinion polarity="+" feature="car" featWords="16" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) first(3) got(4) this(5) car(6) it(7) was(8) a(9) wedding(10) gift(11) from(12) my(13) husband(14) and(15) it(16) was(17) a(18) shock(19) to(20) me(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Of(1) course(2) I(3) was(4) in(5) love(6) with(7) this(8) car(9) when(10) he(11) first(12) brough(13) it(14) home(15) to(16) me(17) because(18) it(19) was(20) my(21) first(22) new(23) car(24) ,(25) I(26) was(27) driving(28) a(29) 1996(30) Nissan_Maxima(31) which(32) I(33) loved(34) and(35) had(36) 140K(37) +(38) miles(39) on(40) it(41) and(42) still(43) ran(44) like(45) it(46) was(47) brand(48) new(49) .(50) 
+		</sentence>
+		<sentence id="3">
+			But(1) once(2) I(3) got(4) the(5) Impalla_Ls(6) and(7) started(8) driving(9) it(10) the(11) first(12) month(13) it(14) was(15) great(16) then(17) I(18) started(19) having(20) trouble(21) with(22) it(23) .....(24) Started(25) out(26) with(27) small(28) things(29) and(30) started(31) getting(32) larger(33) ....(34) Listed(35) are(36) dates(37) and(38) reasons(39) that(40) I(41) had(42) this(43) car(44) in(45) the(46) shop(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			Please(1) note(2) I(3) got(4) this(5) car(6) in(7) August_of_1999(8) :(9) August_1999(10) :(11) Drivers(12) side(13) electric(14) window(15) switch(16) went(17) out(18) October_1999(19) :(20) Had(21) a(22) new(23) paint(24) job(25) on(26) hood(27) ,(28) top(29) and(30) trunk(31) of(32) car(33) due(34) to(35) paint(36) chipping(37) off(38) down(39) to(40) the(41) metal(42) and(43) had(44) new(45) drivers(46) side(47) mirror(48) put(49) in(50) because(51) it(52) could(53) not(54) hold(55) up(56) to(57) the(58) cold(59) weather(60) and(61) cracked(62) to(63) pieces(64) .(65) 
+		</sentence>
+		<sentence id="5">
+			November_1999(1) :(2) Sear(3) warmer(4) shorted(5) outand(6) caused(7) motor(8) to(9) go(10) out(11) and(12) new(13) seat(14) had(15) to(16) be(17) put(18) in(19) because(20) you(21) can(22) not(23) replace(24) just(25) the(26) motor(27) on(28) the(29) seat(30) warmer(31) you(32) have(33) to(34) put(35) in(36) a(37) new(38) seat(39) March_2000(40) :(41) Seat(42) warmer(43) went(44) out(45) again(46) ,(47) this(48) time(49) they(50) just(51) had(52) to(53) replace(54) a(55) wire(56) .(57) 
+		</sentence>
+		<sentence id="6">
+			Ciggerette(1) lighter(2) stoped(3) working(4) ,(5) console(6) would(7) not(8) shut(9) and(10) plastic(11) part(12) under(13) shifter(14) broke(15) in(16) half(17) when(18) putting(19) car(20) in(21) gear(22) and(23) the(24) gear(25) assembly(26) for(27) the(28) power(29) steering(30) went(31) out(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			May_2000(1) :(2) Engine(3) light(4) stays(5) on(6) ,(7) had(8) no(9) power(10) what(11) so(12) ever(13) ,(14) Cradle(15) bolts(16) came(17) loose(18) ,(19) June_2000(20) :(21) Power_Steering_Rack(22) once(23) again(24) came(25) loose(26) NOw(27) let(28) me(29) elaborate(30) on(31) some(32) of(33) the(34) problems(35) and(36) explain(37) them(38) a(39) little(40) furter(41) .(42) 
+		</sentence>
+		<sentence id="8">
+			In(1) October_of_1999(2) I(3) had(4) to(5) have(6) the(7) cars(8) hood(9) ,(10) top(11) and(12) trunk(13) re-painted(14) because(15) for(16) some(17) reason(18) the(19) paint(20) starting(21) just(22) chipping(23) off(24) when(25) you(26) washed(27) it(28) or(29) just(30) rubbed(31) it(32) and(33) it(34) was(35) down(36) to(37) the(38) metal(39) on(40) the(41) car(42) ,(43) we(44) took(45) it(46) into(47) the(48) dealer(49) and(50) of(51) course(52) they(53) did(54) not(55) want(56) to(57) paint(58) it(59) and(60) said(61) that(62) we(63) got(64) something(65) on(66) it(67) ,(68) but(69) my(70) husband(71) being(72) the(73) type(74) of(75) person(76) he(77) is(78) that(79) does(80) not(81) like(82) to(83) be(84) accused(85) of(86) something(87) that(88) he(89) did(90) not(91) do(92) ,(93) fought(94) with(95) them(96) about(97) it(98) and(99) finally(100) the(101) man(102) said(103) bring(104) it(105) back(106) on(107) this(108) day(109) and(110) the(111) reginal(112) manager(113) will(114) be(115) here(116) to(117) make(118) a(119) decision(120) about(121) the(122) car(123) ,(124) so(125) we(126) went(127) up(128) there(129) on(130) that(131) day(132) and(133) the(134) man(135) never(136) showed(137) up(138) so(139) they(140) had(141) to(142) paint(143) our(144) car(145) .(146) 
+		</sentence>
+		<sentence id="9">
+			They(1) told(2) us(3) it(4) would(5) be(6) about(7) 5(8) days(9) ,(10) and(11) gave(12) us(13) a(14) rent(15) car(16) well(17) 5(18) days(19) turned(20) into(21) one(22) month(23) .....(24) and(25) then(26) when(27) I(28) got(29) the(30) car(31) back(32) whoever(33) buffed(34) it(35) out(36) scratched(37) the(38) sides(39) of(40) the(41) doors(42) all(43) up(44) from(45) the(46) buttons(47) on(48) there(49) jeans(50) .(51) 
+		</sentence>
+		<sentence id="10">
+			So(1) I(2) had(3) to(4) once(5) again(6) take(7) it(8) back(9) and(10) have(11) more(12) work(13) done(14) on(15) it(16) to(17) get(18) those(19) out(20) .....(21) They(22) never(23) would(24) tell(25) us(26) why(27) the(28) paint(29) did(30) that(31) .....(32) So(33) we(34) got(35) no(36) explanation(37) for(38) that(39) .(40) 
+		</sentence>
+		<sentence id="11">
+			As(1) far(2) as(3) the(4) seat(5) warmers(6) going(7) out(8) like(9) they(10) have(11) and(12) being(13) repaired(14) as(15) many(16) times(17) as(18) you(19) can(20) see(21) above(22) still(23) to(24) this(25) day(26) do(27) not(28) work(29) ,(30) we(31) just(32) got(33) fed(34) up(35) with(36) them(37) not(38) being(39) able(40) to(41) solve(42) a(43) simple(44) problem(45) like(46) a(47) seat(48) warmer(49) shorting(50) out(51) and(52) gave(53) up(54) .(55) 
+		</sentence>
+		<sentence id="12">
+			....(1) The(2) driver(3) side(4) works(5) but(6) the(7) passenger(8) seat(9) does(10) not(11) work(12) .(13) 
+			<opinion polarity="-" feature="seat" featWords="9" opWords="11,12"/>
+		</sentence>
+		<sentence id="13">
+			The(1) lighter(2) would(3) shoot(4) sparks(5) out(6) when(7) tryed(8) to(9) use(10) ,(11) they(12) said(13) that(14) it(15) had(16) a(17) short(18) in(19) it(20) and(21) replaced(22) it(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) plate(2) that(3) is(4) under(5) the(6) gear(7) shift(8) cracked(9) in(10) half(11) when(12) I(13) put(14) the(15) car(16) in(17) gear(18) ,(19) why(20) I(21) do(22) not(23) knwo(24) they(25) never(26) would(27) tell(28) me(29) ,(30) all(31) they(32) said(33) is(34) it(35) got(36) hung(37) on(38) something(39) underneath(40) and(41) cracked(42) it(43) ....(44) They(45) never(46) want(47) to(48) tell(49) you(50) WHY(51) something(52) happened(53) to(54) your(55) car(56) when(57) they(58) know(59) why(60) .(61) 
+		</sentence>
+		<sentence id="15">
+			Then_I(1) started(2) having(3) problems(4) with(5) the(6) car(7) front(8) end(9) popping(10) when(11) the(12) brake(13) was(14) applied(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Well_I(1) only(2) wrote(3) down(4) two_times(5) above(6) that(7) I(8) took(9) it(10) to(11) the(12) shop(13) but(14) I(15) took(16) it(17) more(18) than(19) that(20) I(21) just(22) did(23) not(24) have(25) the(26) reciepts(27) to(28) actually(29) see(30) when(31) I(32) took(33) it(34) in(35) .(36) 
+		</sentence>
+		<sentence id="17">
+			Anyways(1) ,(2) we(3) took(4) it(5) to(6) several(7) places(8) and(9) they(10) all(11) said(12) it(13) was(14) different(15) things(16) so(17) naturally(18) each(19) time(20) we(21) took(22) it(23) to(24) a(25) new(26) dealer(27) they(28) NEVER(29) fixed(30) it(31) .....(32) Finally(33) we(34) took(35) our(36) chances(37) and(38) took(39) it(40) back(41) to(42) once(43) last(44) dealer(45) in(46) Richardson_Texas(47) that(48) has(49) outstanding(50) ratings(51) for(52) fixing(53) cars(54) ,(55) and(56) to(57) our(58) amazement(59) they(60) fixed(61) it(62) and(63) even(64) drove(65) it(66) around(67) for(68) 15(69) mintues(70) to(71) make(72) sure(73) it(74) was(75) fixed(76) bfore(77) they(78) called(79) us(80) to(81) come(82) get(83) it(84) ,(85) and(86) mind(87) you(88) this(89) was(90) the(91) manager(92) that(93) did(94) this(95) to(96) ensure(97) we(98) would(99) not(100) have(101) the(102) problem(103) with(104) them(105) not(106) fixing(107) it(108) as(109) we(110) did(111) with(112) everyone(113) else(114) .....(115) And(116) last(117) but(118) not(119) least(120) I(121) will(122) describe(123) things(124) that(125) I(126) dont(127) like(128) about(129) this(130) car(131) and(132) things(133) that(134) I(135) do(136) like(137) .(138) 
+		</sentence>
+		<sentence id="18">
+			First_I(1) dont(2) like(3) this(4) car(5) because(6) it(7) rides(8) rough(9) most(10) of(11) the(12) time(13) but(14) it(15) does(16) have(17) good(18) days(19) ,(20) and(21) the(22) least(23) little(24) bit(25) of(26) wind(27) catches(28) underneath(29) and(30) will(31) whip(32) you(33) right(34) off(35) the(36) road(37) if(38) you(39) are(40) not(41) careful(42) .(43) 
+		</sentence>
+		<sentence id="19">
+			The(1) original(2) tires(3) that(4) came(5) on(6) the(7) car(8) really(9) were(10) terrible(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="11" potency="9"/>
+		</sentence>
+		<sentence id="20">
+			But(1) I(2) love(3) this(4) car(5) because(6) its(7) roomy(8) ,(9) sleak(10) ,(11) had(12) a(13) great(14) radio(15) ,(16) the(17) air(18) works(19) great(20) and(21) heater(22) as_well(23) .(24) 
+			<opinion polarity="+" feature="radio" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="room" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="21">
+			The(1) seats(2) feel(3) great(4) when(5) driving(6) and(7) sitting(8) they(9) seem(10) to(11) make(12) you(13) feel(14) like(15) can(16) just(17) slide(18) right(19) in(20) with(21) no(22) problems(23) and(24) drive(25) hundreds(26) of(27) miles(28) without(29) being(30) uncomfortable(31) .(32) 
+			<opinion polarity="-" feature="car" opWords="31"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			I(1) like(2) the(3) fact(4) that(5) the(6) seats(7) come(8) down(9) in(10) the(11) back(12) so_that(13) you(14) have(15) access(16) to(17) your(18) trunk(19) because(20) this(21) car(22) has(23) a(24) HUGE(25) trunk(26) and(27) its(28) very(29) deep(30) and(31) when(32) something(33) falls(34) to(35) the(36) back(37) you(38) can(39) not(40) reach(41) it(42) fron(43) the(44) outside_of(45) the(46) car(47) you(48) have(49) to(50) pull(51) down(52) the(53) seats(54) to(55) get(56) to(57) it(58) .(59) 
+			<opinion polarity="+" feature="trunk" featWords="26" opWords="30" potency="29"/>
+			<opinion polarity="+" feature="trunk" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="23">
+			All(1) the(2) mirrors(3) seem(4) to(5) be(6) put(7) in(8) the(9) right(10) places(11) and(12) hights(13) for(14) shorter(15) people(16) like(17) me(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			The(1) fact(2) that(3) the(4) seats(5) can(6) adjust(7) to(8) hight(9) not(10) just(11) up(12) and(13) back(14) is(15) great(16) .........(17) Now(18) that(19) all(20) the(21) problems(22) have(23) been(24) fixed(25) in(26) this(27) car(28) its(29) great(30) !(31) 
+			<opinion polarity="+" feature="car" featWords="28" opWords="30"/>
+		</sentence>
+		<sentence id="25">
+			I(1) have(2) not(3) had(4) any(5) problems(6) out(7) of(8) it(9) since(10) the(11) last(12) car(13) dealer(14) fixed(15) it(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			I(1) also(2) got(3) my(4) car(5) when(6) they(7) first(8) came(9) out(10) ,(11) so(12) I(13) expected(14) there(15) to(16) be(17) problems(18) with(19) it(20) being(21) FRESH(22) on(23) the(24) market(25) ......(26) Amount_Paid(27) ((28) US(29) $(30) )(31) :(32) 21000(33) Condition(34) :(35) NewModel_Year(36) :(37) 2000Model(38) and(39) Options(40) :(41) LS(42) -(43) Automatic(44) 
+		</sentence>
+	</text>
+</review>

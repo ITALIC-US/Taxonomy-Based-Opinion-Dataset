@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="877" item="1999 Mazda Protege" rating="2">
+	<title>
+		<sentence id="1">
+			For(1) the(2) Price(3) it(4) 's(5) Worth_It(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low_Price(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weak_Engine(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) my(2) friend(3) first(4) purchased(5) this(6) car(7) ,(8) it(9) 's(10) main(11) drawing(12) point(13) was(14) the(15) price(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			At(1) around(2) 12-13(3) thousand(4) it(5) is(6) a(7) decent(8) car(9) for(10) a(11) low(12) price(13) .(14) 
+			<opinion polarity="-" feature="price" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			After(1) driving(2) the(3) car(4) for(5) a(6) little(7) bit(8) I(9) began(10) to(11) realize(12) why(13) the(14) price(15) was(16) that(17) low(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			For(1) one(2) thing(3) when(4) driving(5) I(6) had(7) this(8) feeling(9) that(10) if(11) I(12) hit(13) anything(14) it(15) would(16) rip(17) the(18) car(19) to(20) shreads(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Also(1) the(2) engine(3) just(4) did(5) not(6) feel(7) like(8) it(9) had(10) enough(11) power(12) to(13) get(14) the(15) car(16) up(17) large(18) hills(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Outside(1) the(2) car(3) is(4) really(5) nice(6) looking(7) and(8) the(9) interior(10) is(11) also(12) nice(13) .(14) 
+			<opinion polarity="+" feature="interior" featWords="10" opWords="13"/>
+			<opinion polarity="+" feature="design" opWords="6,7" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) are(3) a(4) person(5) with(6) a(7) limited(8) income(9) this(10) is(11) a(12) car(13) to(14) definately(15) consider(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Otherwise(1) if(2) you(3) 're(4) looking(5) for(6) safety(7) ,(8) keep(9) looking(10) .(11) 
+		</sentence>
+	</text>
+</review>

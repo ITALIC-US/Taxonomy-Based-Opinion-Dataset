@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="622" item="Anabella Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Very_Pleasant_Experience(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) exceptional(3) staff(4) ,(5) pool(6) ,(7) hot(8) tub(9) ,(10) business(11) center(12) ,(13) restaurant(14) ,(15) adults(16) only(17) pool(18) ,(19) clean(20) ,(21) quiet(22) 
+			<opinion polarity="+" feature="staff" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="20"/>
+			<opinion polarity="+" feature="hotel" opWords="22"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Kids(1) '(2) bedroom(3) is(4) small(5) 
+			<opinion polarity="-" feature="bedroom" featWords="3" opWords="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) exceptional(2) buy(3) --(4) conveniently(5) located(6) ,(7) clean(8) ,(9) great(10) service(11) 
+			<opinion polarity="+" feature="place" opWords="5,6"/>
+			<opinion polarity="+" feature="hotel" opWords="8"/>
+			<opinion polarity="+" feature="service" featWords="11" opWords="10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) a(2) first(3) time(4) traveler(5) to(6) Disneyland(7) ,(8) I(9) wanted(10) to(11) be(12) in(13) a(14) non-Disney(15) ,(16) affordable(17) hotel(18) ,(19) close(20) to(21) the(22) parks(23) .(24) 
+			<opinion polarity="+" feature="hotel" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="2">
+			The(1) location(2) and(3) price(4) of(5) the(6) Anabella(7) attracted(8) me(9) to(10) this(11) hotel(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Unlike(1) many(2) other(3) reviewers(4) ,(5) my(6) grandson(7) and(8) I(9) had(10) a(11) wonderful(12) experience(13) with(14) the(15) Anabella(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			First(1) ,(2) let(3) me(4) say(5) that(6) the(7) staff(8) was(9) exceptionally(10) helpful(11) .(12) 
+			<opinion polarity="+" feature="staff" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="5">
+			We(1) arrived(2) 5(3) hours(4) early(5) for(6) our(7) room(8) and(9) were(10) immediately(11) taken(12) there(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) driver(2) explained(3) the(4) amenities(5) of(6) the(7) property(8) as(9) we(10) traveled(11) to(12) our(13) "(14) suite(15) .(16) "(17) The(18) accommodations(19) were(20) very(21) clean(22) ,(23) if(24) a(25) little(26) dark(27) inside(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			My(1) grandson(2) 's(3) bedroom(4) was(5) very(6) small(7) but(8) he(9) liked(10) having(11) his(12) own(13) TV(14) and(15) did(16) not(17) mind(18) the(19) small(20) quarters(21) .(22) 
+			<opinion polarity="-" feature="bedroom" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			We(1) traveled(2) by(3) shuttle(4) from(5) Burbank(6) airport(7) to(8) the(9) Anabella(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			The(1) shuttle(2) is(3) available(4) to(5) other(6) airports(7) ,(8) as_well(9) ,(10) and(11) sure(12) beats(13) driving(14) on(15) the(16) freeways(17) in(18) a(19) rental(20) car(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			Since(1) the(2) Anabella(3) is(4) conveniently(5) located(6) ,(7) we(8) did(9) not(10) miss(11) having(12) a(13) car(14) .(15) 
+			<opinion polarity="+" feature="place" opWords="5,6"/>
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) an(3) ART(4) ((5) Anaheim_Resort_Transport(6) )(7) bus(8) that(9) stops(10) right(11) in(12) front(13) of(14) the(15) hotel(16) to(17) take(18) you(19) to(20) the(21) main(22) entrance(23) of(24) Disneyland(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			It(1) 's(2) $(3) 3(4) per(5) day(6) for(7) an(8) adult(9) with(10) unlimited(11) rides(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Kids(1) 9(2) and(3) under(4) are(5) free(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Other(1) city(2) buses(3) stop(4) there(5) ,(6) too(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			The(1) hotel(2) restaurant(3) was(4) very(5) nice(6) .(7) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="16">
+			The(1) wait(2) staff(3) was(4) efficient(5) and(6) the(7) food(8) was(9) quite(10) good(11) .(12) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="food" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) other(3) restaurants(4) within(5) a(6) short(7) walk(8) so(9) you(10) can(11) enjoy(12) a(13) variety(14) of(15) places(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) amenities(2) of(3) the(4) hotel(5) were(6) quite(7) adequate(8) :(9) concierge(10) service(11) ,(12) a(13) business(14) center(15) ,(16) gift(17) shop(18) ,(19) heated(20) main(21) pool(22) ,(23) hot(24) tub(25) ,(26) exercise(27) facility(28) ((29) small(30) but(31) adequate(32) )(33) ,(34) private(35) pool(36) for(37) adults(38) only(39) ,(40) well(41) landscaped(42) grounds(43) .(44) 
+			<opinion polarity="+" feature="amenities" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="swimming pool" featWords="22" opWords="20"/>
+			<opinion polarity="-" feature="gym" featWords="27,28" opWords="30"/>
+			<opinion polarity="+" feature="gym" featWords="27,28" opWords="32"/>
+			<opinion polarity="+" feature="grounds" featWords="43" opWords="41,42"/>
+		</sentence>
+		<sentence id="19">
+			EVERYONE(1) who(2) works(3) at(4) the(5) hotel(6) WORKED(7) ((8) and(9) asked(10) )(11) to(12) make(13) our(14) visit(15) comfortable(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			For(1) the(2) price(3) ,(4) I(5) doubt(6) I(7) would(8) find(9) as(10) well-equipped(11) a(12) hotel(13) anywhere(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			Add(1) in(2) the(3) exceptional(4) service(5) and(6) you(7) 'll(8) find(9) me(10) returning(11) here(12) on(13) another(14) trip(15) to(16) Anaheim(17) .(18) 
+			<opinion polarity="+" feature="service" featWords="5" opWords="4"/>
+		</sentence>
+	</text>
+</review>

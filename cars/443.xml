@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="443" item="1996 Toyota Camry" rating="2">
+	<title>
+		<sentence id="1">
+			Some(1) Problems(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Drives(1) well(2) ,(3) looks(4) good(5) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			weak(1) frame(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) parents(2) bought(3) me(4) a(5) '(6) 96(7) 2(8) door(9) Camry_LE(10) in(11) August(12) for(13) about(14) $13,000(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) only(2) had(3) 19,000_miles(4) on(5) it(6) and(7) was(8) in(9) really(10) good(11) condition(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Recently(1) ,(2) though(3) I(4) have(5) had(6) some(7) major(8) problems(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) rear(2) ended(3) another(4) vehicle(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			She(1) was(2) dead(3) stopped(4) and(5) I(6) hit(7) her(8) going(9) no(10) more(11) than(12) 3_miles_per_hour(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) the(3) front(4) end(5) of(6) the(7) car(8) was(9) destroyed(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Not(1) only(2) was(3) the(4) hood(5) crushed(6) up(7) ,(8) the(9) grill(10) caved(11) in(12) ,(13) the(14) fenders(15) cracked(16) ,(17) and(18) the(19) lights(20) hanging(21) out(22) ,(23) but(24) there(25) was(26) damage(27) to(28) the(29) engine(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			That(1) was(2) fixed(3) right(4) after(5) it(6) happened(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Then(1) ,(2) two(3) months(4) ago(5) ,(6) I(7) had(8) an(9) oil(10) change(11) and(12) the(13) people(14) did(15) not(16) put(17) the(18) correct(19) filter(20) on(21) or(22) replace(23) the(24) antifreeze(25) that(26) they(27) drained(28) out(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			I(1) drove(2) my(3) car(4) for(5) three(6) weeks(7) and(8) the(9) entire(10) top(11) of(12) the(13) engine(14) ,(15) a(16) cylinder(17) ,(18) and(19) the(20) cooling(21) system(22) had(23) to(24) be(25) replaced(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) extremely(3) hard(4) for(5) the(6) mechanics(7) to(8) figure(9) out(10) the(11) problem(12) and(13) it(14) took(15) them(16) a(17) long(18) time(19) to(20) do(21) so(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			The(1) engine(2) work(3) was(4) done(5) at(6) a(7) Toyota(8) dealership(9) .(10) 
+		</sentence>
+	</text>
+</review>

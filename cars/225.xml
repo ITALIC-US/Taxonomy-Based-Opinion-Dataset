@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="225" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			...(1) Great(2) car(3) ,(4) "(5) different(6) "(7) styling(8) ...(9) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			...(1) Great(2) engineering(3) ...(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			...(1) Questionable(2) styling(3) ...(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			...(1) The(2) Maxima(3) is(4) a(5) great(6) car(7) that(8) drives(9) great(10) ,(11) is(12) unbelievably(13) quick(14) ,(15) and(16) a(17) great(18) overall(19) value(20) .(21) 
+			<opinion polarity="+" feature="speed" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="ride quality" opWords="9,10"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			So(1) ,(2) is(3) this(4) car(5) the(6) undisputed(7) king(8) of(9) the(10) road(11) ?(12) 
+		</sentence>
+		<sentence id="3">
+			Not(1) quite(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			Rather(1) questionable(2) styling(3) that(4) can(5) best(6) be(7) described(8) as(9) "(10) different(11) "(12) makes(13) this(14) a(15) car(16) that(17) you(18) will(19) either(20) love(21) or(22) hate(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			The(1) exterior(2) styling(3) is(4) hmm(5) ...(6) different(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) front(2) looks(3) great(4) ,(5) it(6) 's(7) aggressive(8) ,(9) well-proportions(10) and(11) clean(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) back(2) is(3) particularly(4) odd-shaped(5) and(6) resembles(7) a(8) Dodge_Neon(9) on(10) steroids(11) .(12) 
+			<opinion polarity="-" feature="design" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) not(3) mistake(4) a(5) Maxima(6) for(7) any(8) other(9) car(10) ,(11) and(12) depending(13) to(14) whom(15) you(16) talk(17) ,(18) this(19) can(20) either(21) be(22) a(23) good(24) thing(25) or(26) a(27) bad(28) thing(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			I(1) personally(2) do(3) not(4) care(5) for(6) it(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			The(1) theme(2) of(3) "(4) different(5) "(6) extends(7) to(8) the(9) interior(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			While(1) most(2) car(3) makers(4) on(5) going(6) for(7) soft(8) lines(9) and(10) smooth(11) transition(12) between(13) panels(14) ,(15) Nissan(16) went(17) for(18) strong(19) hard(20) lines(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			Additionally(1) ,(2) the(3) radio(4) sits(5) up(6) high(7) and(8) the(9) temperature(10) controls(11) are(12) situated(13) lower(14) .(15) ((16) Nissan(17) says(18) that(19) this(20) is(21) more(22) ergonomically(23) correct(24) b(25) /(26) c(27) you(28) change(29) the(30) radio(31) more(32) than(33) the(34) climate(35) control(36) .(37) The(38) car(39) we(40) sat(41) in(42) has(43) a(44) brushed(45) aluminum(46) look(47) about(48) it(49) ,(50) but(51) it(52) was(53) too(54) excessive(55) .(56) Again(57) ,(58) some(59) people(60) make(61) like(62) this(63) layout(64) ,(65) but(66) I(67) feel(68) that(69) it(70) has(71) a(72) very(73) sharp(74) ,(75) odd(76) feel(77) ,(78) as_if(79) Nissan(80) is(81) trying(82) too(83) hard(84) to(85) be(86) ,(87) well(88) ,(89) different(90) .(91) Instead_of(92) feeling(93) like(94) I(95) was(96) in(97) a(98) snug(99) cockpit(100) ,(101) I(102) felt(103) that(104) everything(105) was(106) jutting(107) around(108) in(109) a(110) cold(111) ,(112) austere(113) ,(114) all-gray(115) environment(116) that(117) was(118) simply(119) not(120) welcoming(121) .(122) In(123) terms(124) of(125) driving(126) ,(127) this(128) car(129) is(130) great(131) .(132) Maxima(133) has(134) always(135) had(136) a(137) reputation(138) for(139) being(140) a(141) 4-door(142) sports(143) car(144) ,(145) which(146) I(147) feel(148) that(149) most(150) drivers(151) will(152) agree(153) with(154) .(155) The(156) engine(157) has(158) ample(159) 200(160) +(161) horsepower(162) that(163) propels(164) this(165) relatively(166) light(167) car(168) w(169) /(170) no(171) problem(172) .(173) This(174) car(175) will(176) accelerate(177) faster(178) than(179) BMW(180) 's(181) ,(182) Acuras(183) ,(184) and(185) Benz(186) 's(187) ,(188) let(189) alone(190) the(191) Accords(192) and(193) Camry(194) 's(195) .(196) without(197) any(198) problems(199) .(200) Where(201) this(202) car(203) falls(204) behind(205) those(206) makes(207) is(208) in(209) the(210) handling(211) .(212) Although(213) the(214) handling(215) is(216) good(217) ,(218) it(219) 's(220) not(221) quite(222) as(223) tight(224) as(225) Honda(226) engineering(227) and(228) does(229) not(230) communicate(231) as(232) much(233) information(234) as(235) the(236) German(237) sedans(238) .(239) Under(240) normal(241) driving(242) conditions(243) ,(244) you(245) 'll(246) be(247) fine(248) ,(249) but(250) pushed(251) too(252) it(253) 's(254) limits(255) ,(256) the(257) car(258) 's(259) weaknesses(260) begin(261) to(262) show(263) .(264) It(265) 's(266) front-wheel(267) drive(268) ,(269) so(270) you(271) can(272) get(273) by(274) fine(275) in(276) the(277) winter(278) w(279) /(280) this(281) car(282) .(283) Although(284) it(285) has(286) alot(287) of(288) power(289) ,(290) it(291) gets(292) great(293) gas(294) mileage(295) .(296) Look(297) for(298) above(299) 30(300) MPG(301) on(302) the(303) highway(304) and(305) mid-20(306) 's(307) with(308) normal(309) driving(310) .(311) In(312) terms(313) of(314) value(315) ,(316) the(317) Maxima(318) is(319) a(320) great(321) car(322) .(323) With(324) incentives(325) and(326) proper(327) timing(328) ,(329) you(330) can(331) get(332) a(333) great(334) deal(335) .(336) We(337) almost(338) got(339) a(340) fully(341) loaded(342) top(343) of(344) the(345) line(346) model(347) for(348) $26K(349) ,(350) because(351) the(352) new(353) models(354) were(355) due(356) out(357) in(358) a(359) little(360) bit(361) .(362) With(363) the(364) top(365) of(366) the(367) line(368) package(369) ,(370) you(371) get(372) leather(373) ,(374) sunroof(375) ,(376) CD(377) player(378) ,(379) and(380) everything(381) else(382) .(383) You(384) get(385) great(386) amounts(387) of(388) trunks(389) space(390) and(391) plenty_of(392) space(393) to(394) sit(395) 4(396) and(397) even(398) 5(399) passengers(400) .(401) Although(402) it(403) lacks(404) the(405) refinement(406) of(407) better-name(408) cars(409) ((410) i(411) .(412) e(413) .(414) the(415) leather(416) is(417) not(418) the(419) best(420) ,(421) the(422) rear(423) seats(424) are(425) not(426) as(427) comfortable(428) as(429) an(430) Acura(431) ,(432) etc(433) ...(434) )(435) the(436) cars(437) that(438) have(439) better(440) quality(441) amenities(442) are(443) much(444) more(445) expensive(446) .(447) 
+			<opinion polarity="+" feature="car" featWords="322" opWords="321"/>
+			<opinion polarity="+" feature="gas" featWords="294,295" opWords="293"/>
+			<opinion polarity="+" feature="handling" featWords="215" opWords="217"/>
+			<opinion polarity="+" feature="horsepower" featWords="162" opWords="159"/>
+			<opinion polarity="+" feature="car" featWords="129" opWords="131"/>
+		</sentence>
+		<sentence id="13">
+			Well(1) ,(2) the(3) Maxima(4) is(5) a(6) great(7) car(8) that(9) has(10) incredible(11) engineering(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="14">
+			However(1) ,(2) the(3) styling(4) makes(5) it(6) very(7) different(8) ,(9) and(10) most(11) people(12) will(13) either(14) love(15) or(16) hate(17) it(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			At(1) the(2) price(3) ,(4) you(5) will(6) not(7) find(8) a(9) better(10) blend(11) of(12) size(13) ,(14) power(15) ,(16) and(17) amenities(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) if(3) you(4) can(5) afford(6) to(7) pay(8) a(9) little(10) more(11) ,(12) I(13) 'd(14) look(15) to(16) the(17) Infiniti(18) I30(19) or(20) Acura_TL(21) as(22) they(23) both(24) offer(25) good(26) value(27) and(28) a(29) little(30) more(31) refinement(32) .(33) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) can(3) get(4) over(5) the(6) eccentricities(7) of(8) this(9) car(10) ,(11) then(12) you(13) 'll(14) find(15) the(16) Maxima(17) to(18) be(19) a(20) great(21) value(22) .(23) 
+		</sentence>
+	</text>
+</review>

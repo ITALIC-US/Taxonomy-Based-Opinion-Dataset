@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="144" item="Cyber Acoustics ACM-800 Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Decent(1) noise(2) canceling(3) ,(4) terrible(5) sound(6) quality(7) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+			<opinion polarity="-" feature="sound quality" featWords="6,7" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) noise(2) canceling(3) ,(4) comfortable(5) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) sound(2) quality(3) ,(4) especially(5) in(6) the(7) lower(8) frequencies(9) .(10) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Cyber_Acoustics(2) ACM-800(3) headphones(4) look(5) promising(6) .(7) 
+			<opinion polarity="+" feature="appearance" opWords="5,6"/>
+		</sentence>
+		<sentence id="2">
+			As(1) soon(2) as(3) you(4) use(5) them(6) ,(7) though(8) ,(9) you(10) will(11) be(12) headed(13) right(14) back(15) to(16) the(17) store(18) you(19) got(20) them(21) from(22) to(23) return(24) them(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) that(3) the(4) headphones(5) produce(6) is(7) muddy(8) and(9) distorted(10) .(11) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="8"/>
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="4">
+			Only(1) by(2) turning(3) the(4) bass(5) all(6) the(7) way(8) down(9) on(10) my(11) MP3(12) player(13) was(14) I(15) able(16) to(17) get(18) decent(19) sound(20) quality(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			While(1) it(2) might(3) be(4) OK(5) for(6) my(7) MP3(8) player(9) ,(10) the(11) issue(12) is(13) that(14) not(15) every(16) device(17) has(18) an(19) equalizer(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			For(1) devices(2) without(3) an(4) equalizer(5) ,(6) the(7) sound(8) quality(9) is(10) absolutely(11) horrid(12) .(13) 
+			<opinion polarity="-" feature="sound quality" featWords="8,9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="7">
+			On(1) the(2) positive(3) side(4) ,(5) the(6) noise(7) canceling(8) works(9) fairly(10) well(11) for(12) a(13) $40(14) pair(15) of(16) headphones(17) .(18) 
+			<opinion polarity="+" feature="isolation" featWords="7,8" opWords="9,11" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) while(3) they(4) are(5) big(6) ,(7) the(8) headphones(9) fit(10) comfortably(11) on(12) your(13) ear(14) .(15) 
+			<opinion polarity="-" feature="size" opWords="6"/>
+			<opinion polarity="+" feature="comfort" opWords="10,11"/>
+		</sentence>
+		<sentence id="9">
+			Because_of(1) the(2) poor(3) sound(4) quality(5) ,(6) I(7) can(8) not(9) recommend(10) these(11) headphones(12) to(13) anyone(14) .(15) 
+			<opinion polarity="-" feature="sound quality" featWords="4,5" opWords="3"/>
+			<opinion polarity="-" feature="headphones" opWords="9,10"/>
+		</sentence>
+	</text>
+</review>

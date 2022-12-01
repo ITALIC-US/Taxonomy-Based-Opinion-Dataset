@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="701" item="1995 BMW 3 Series" rating="3">
+	<title>
+		<sentence id="1">
+			1995(1) BMW(2) 325i(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) handling(2) ,(3) good(4) acceleration(5) 
+			<opinion polarity="+" feature="acceleration" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			leatherette(1) ((2) vinyl(3) )(4) interior(5) ,(6) very(7) expensive(8) to(9) fix(10) ,(11) ho(12) hum(13) stereo(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) buy(2) something(3) sporty(4) and(5) Japanese(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) rode(2) in(3) this(4) car(5) ,(6) liked(7) the(8) appearance(9) ,(10) liked(11) the(12) ride(13) ,(14) and(15) thought(16) the(17) gadgets(18) were(19) cool(20) ,(21) so(22) ,(23) I(24) bought(25) it(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="26" featRef="car" opWords="25"/>
+			<opinion polarity="+" feature="ride quality" featWords="13" opWords="11"/>
+			<opinion polarity="+" feature="design" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) had(3) it(4) just(5) one(6) month(7) now(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			So(1) far(2) the(3) repairs(4) are(5) as(6) follows(7) Water_Pump(8) ---(9) ((10) remanufactured(11) )(12) ---(13) $450installed(14) Brakesx4(15) ----(16) ((17) Cant(18) turn(19) BMW(20) rotors(21) )(22) ----(23) $850dealer(24) Ignition(25) switch----------------------$550(26) ---(27) and(28) the(29) dash(30) is(31) starting(32) to(33) buckle(34) slightly-am(35) not(36) going(37) to(38) replace(39) it(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			All(1) in_all(2) ,(3) the(4) car(5) is(6) very(7) nice(8) to(9) drive(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="5">
+			When(1) it(2) works(3) ,(4) it(5) is(6) very(7) smooth(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="6">
+			The(1) AC(2) cools(3) great(4) ,(5) but(6) the(7) set(8) it(9) and(10) forget(11) it(12) temp(13) .(14) settings(15) are(16) ridiculous(17) --(18) they(19) do(20) not(21) even(22) remotely(23) function(24) correctly(25) .(26) 
+			<opinion polarity="+" feature="ac" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) bought(2) this(3) thing(4) from(5) a(6) friend(7) in(8) Florida(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			I(1) live(2) in(3) Arizona(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			He(1) cautioned(2) me(3) that(4) the(5) car(6) can(7) be(8) expensive(9) to(10) fix(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			He(1) had(2) the(3) car(4) serviced(5) at(6) the(7) BMW(8) dealership(9) in(10) Naples(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			They(1) never(2) did(3) much(4) of(5) the(6) Service(7) updates(8) ((9) recalls(10) )(11) that(12) were(13) supposed(14) to(15) be(16) done(17) ...(18) poor(19) job(20) for(21) a(22) service(23) oriented(24) brand(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			The(1) first(2) day(3) that(4) I(5) got(6) it(7) to(8) Phoenix(9) the(10) waterpump(11) went(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			That(1) introduced(2) me(3) to(4) the(5) Phoenix(6) dealer(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Chapman_BMW(1) ((2) in(3) phoenix(4) )(5) notified(6) me(7) that(8) the(9) car(10) needed(11) the(12) updates(13) and(14) did(15) them(16) at(17) no(18) charge(19) to(20) me(21) as_well(22) as(23) give(24) me(25) a(26) loaner(27) .(28) 
+		</sentence>
+		<sentence id="15">
+			Really(1) great(2) people(3) over(4) there-highly(5) recommended(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="16">
+			I(1) have(2) a(3) love(4) /(5) hate(6) relationship(7) with(8) this(9) car(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			My(1) previous(2) vehicle(3) was(4) a(5) Toyota(6) pickup(7) 4x4(8) ,(9) that(10) I(11) had(12) for(13) 6(14) years(15) ,(16) and(17) already(18) the(19) BMW(20) has(21) cost(22) me(23) much(24) more(25) in(26) 1(27) month(28) of(29) maintenence(30) than(31) my(32) Toyota(33) did(34) in(35) 72x(36) that(37) long(38) .(39) 
+		</sentence>
+		<sentence id="18">
+			That(1) ticks(2) me(3) off(4) .(5) 
+		</sentence>
+		<sentence id="19">
+			I(1) always(2) got(3) the(4) impression(5) that(6) BMW(7) was(8) top(9) of(10) the(11) line(12) ,(13) but(14) ,(15) BMW(16) uses(17) its(18) fair(19) share(20) of(21) cheap(22) parts(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			I(1) notice(2) lots(3) of(4) plastic(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			The(1) fake(2) leather(3) seats(4) are(5) a(6) good(7) example(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			They(1) are(2) listed(3) in(4) the(5) owners(6) manual(7) as(8) "(9) leather(10) *(11) "(12) which(13) they(14) are(15) not(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			The(1) flip(2) side(3) of(4) this(5) is(6) that(7) the(8) thing(9) accelerates(10) well(11) ,(12) and(13) handles(14) very(15) well(16) .(17) 
+			<opinion polarity="+" feature="handling" opWords="14,16" potency="15"/>
+			<opinion polarity="+" feature="acceleration" opWords="10,11"/>
+		</sentence>
+		<sentence id="24">
+			I(1) like(2) the(3) on(4) board(5) computer(6) as_well(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			With(1) what(2) I(3) know(4) now(5) ,(6) I(7) would(8) be(9) very(10) hesitant(11) to(12) ever(13) buy(14) a(15) BMW(16) again(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			The(1) fit(2) and(3) finish(4) of(5) OTHER(6) cars(7) is(8) as(9) good(10) or(11) better(12) for(13) thousands(14) less(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			The(1) reliability(2) certainly(3) is(4) questionable(5) .(6) 
+			<opinion polarity="-" feature="reliability" featWords="2" opWords="5" potency="3"/>
+		</sentence>
+		<sentence id="28">
+			Even(1) the(2) 2002(3) loaner(4) I(5) had(6) ,(7) the(8) sunroof(9) jammed(10) on(11) me(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			You(1) dont(2) see(3) that(4) kind(5) of(6) stuff(7) out(8) of(9) a(10) Toyota(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			My(1) friend(2) that(3) I(4) bought(5) this(6) car(7) from(8) had(9) also(10) put(11) a(12) transmission(13) in(14) it(15) .(16) 
+		</sentence>
+		<sentence id="31">
+			It(1) kinda(2) reminds(3) me(4) of(5) an(6) MG._You(7) love(8) to(9) drive(10) it(11) ,(12) but(13) ,(14) you(15) know(16) it(17) is(18) gonna(19) break(20) really(21) ,(22) really(23) soon(24) .(25) 
+		</sentence>
+		<sentence id="32">
+			Except(1) the(2) parts(3) for(4) this(5) car(6) are(7) REALLY(8) expensive(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+		</sentence>
+		<sentence id="33">
+			You(1) just(2) hope(3) you(4) make(5) it(6) to(7) your(8) destination(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			As(1) for(2) my(3) friend(4) ----(5) he(6) tried(7) to(8) give(9) me(10) fair(11) warning(12) and(13) had(14) the(15) car(16) inspected(17) at(18) the(19) Naples(20) ,(21) FLA_BMW(22) dealership(23) .(24) 
+		</sentence>
+		<sentence id="35">
+			They(1) gave(2) it(3) a(4) passing(5) review(6) .(7) 
+		</sentence>
+		<sentence id="36">
+			I(1) dont(2) even(3) think(4) they(5) looked(6) at(7) it(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			Chapman(1) told(2) me(3) my(4) brakes(5) were(6) almost(7) gone(8) when(9) I(10) got(11) to(12) Phoenix(13) .(14) 
+		</sentence>
+		<sentence id="38">
+			That(1) was(2) on(3) their(4) no(5) charge(6) look(7) over(8) of(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="39">
+			Peter_A._Fredricks_Peoria(1) ,(2) AZ_Amount_Paid(3) ((4) US(5) $(6) )(7) :(8) 10000(9) Condition(10) :(11) UsedModel_Year(12) :(13) 1995(14) 
+		</sentence>
+	</text>
+</review>

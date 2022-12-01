@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="24" item="1999 GMC Suburban" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) king(2) of(3) the(4) road(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) saftey(2) factor(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) gas(2) mileage(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) convinced(3) on(4) buying(5) the(6) gmc(7) suburban(8) because_of(9) its(10) power(11) and(12) ability(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			What(1) i(2) like(3) about(4) the(5) suburban(6) is(7) it(8) emence(9) power(10) and(11) size(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			One(1) of(2) the(3) things(4) i(5) noticed(6) is(7) the(8) GMC(9) suburban(10) really(11) is(12) not(13) what(14) you(15) would(16) call(17) the(18) typical(19) economy(20) car(21) ,(22) The_GMC(23) suburban(24) gets(25) about(26) 12_miles(27) to(28) the(29) gallon(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) suburban(2) handles(3) really(4) well(5) ,(6) and(7) it(8) gives(9) you(10) the(11) comfort(12) of(13) safety(14) .(15) i(16) would(17) recomend(18) this(19) SUV(20) to(21) large(22) families(23) or(24) any(25) one(26) with(27) the(28) need(29) to(30) tow(31) large(32) trailers(33) or(34) boats(35) .(36) 
+			<opinion polarity="+" feature="car" featWords="20" opWords="18"/>
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) do(3) not(4) have(5) a(6) large(7) family(8) or(9) the(10) need(11) to(12) tow(13) I(14) would(15) recomend(16) the(17) GMC(18) jimmy(19) or(20) the(21) Chevorlet(22) S-10(23) Blazer(24) .(25) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="314" item="V-Moda Bass Frequence Bling Bling Black Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) in(2) some(3) ways(4) ,(5) bad(6) in(7) others(8) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="headphones" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) sound(2) ,(3) comfortable(4) earbuds(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="earbuds" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flimsy(1) cord(2) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) $25(2) they(3) are(4) great(5) ;(6) they(7) are(8) a(9) good(10) entry(11) level(12) pair(13) of(14) decent(15) headphones(16) then(17) when(18) the(19) cord(20) breaks(21) you(22) can(23) upgrade(24) .(25) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="5"/>
+			<opinion polarity="+" feature="headphones" featWords="16" opWords="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			They(1) have(2) a(3) decent(4) sound(5) ;(6) until(7) I(8) got(9) the(10) fit(11) tight(12) they(13) sounded(14) just(15) like(16) my(17) original(18) sansa(19) headphones(20) but(21) the(22) silicon(23) earbuds(24) really(25) seal(26) tight(27) and(28) then(29) the(30) bass(31) comes(32) thru(33) .(34) 
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) midrange(2) and(3) treble(4) is(5) just(6) fine(7) too(8) .(9) 
+			<opinion polarity="+" feature="mids" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="highs" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) what(2) were(3) they(4) thinking(5) with(6) that(7) cord(8) ?(9) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) absolutely(3) the(4) flimsiest(5) things(6) I(7) 've(8) ever(9) seen(10) ,(11) worse(12) than(13) a(14) cheapo(15) dollar(16) store(17) pair(18) 's(19) cord(20) .(21) 
+			<opinion polarity="-" feature="headphones" featWords="1" featRef="headphones" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			Oh(1) well(2) ,(3) maybe(4) they(5) are(6) stronger(7) somehow(8) than(9) they(10) look(11) because(12) if_not(13) my(14) cord(15) is(16) probably(17) going(18) to(19) short(20) out(21) eventually(22) right(23) where(24) the(25) plug(26) meets(27) the(28) cord(29) but(30) I(31) 'm(32) looking(33) forward(34) to(35) enjoying(36) them(37) until(38) that(39) happens(40) .(41) 
+		</sentence>
+		<sentence id="6">
+			They(1) really(2) cancel(3) out(4) the(5) outside(6) noise(7) which(8) is(9) either(10) good(11) or(12) bad(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Someone(1) came(2) by(3) while(4) I(5) was(6) checking(7) them(8) out(9) today(10) and(11) if(12) I(13) had(14) not(15) seen(16) my(17) dog(18) going(19) crazy(20) at(21) the(22) door(23) I(24) would(25) not(26) have(27) known(28) anyone(29) was(30) there(31) and(32) I(33) was(34) sitting(35) about(36) six_feet(37) away(38) ,(39) so(40) they(41) do(42) cut(43) out(44) noise(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) I(2) will(3) not(4) hear(5) cars(6) and(7) will(8) have(9) to(10) be(11) extra(12) careful(13) riding(14) my(15) bike(16) etc.(17) I(18) tried(19) the(20) in(21) the(22) ear(23) type(24) before(25) :(26) jvc(27) brand(28) from(29) walmart(30) and(31) they(32) were(33) uncomfortable(34) in(35) the(36) ear(37) and(38) did(39) not(40) sound(41) even(42) as(43) good(44) as(45) my(46) sansa(47) headphones(48) and(49) they(50) were(51) $25(52) which(53) is(54) exactly(55) what(56) I(57) paid(58) for(59) these(60) including(61) shipping(62) from(63) amazon(64) and(65) received(66) them(67) within(68) a(69) week(70) so(71) overall(72) I(73) like(74) them(75) but(76) that(77) cord(78) is(79) a(80) bummer(81) .(82) 
+		</sentence>
+	</text>
+</review>

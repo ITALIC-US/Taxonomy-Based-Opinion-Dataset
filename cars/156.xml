@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="156" item="1994 Ford F250" rating="5">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) Built_Ford_Tough(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) strong(3) ,(4) looks(5) good(6) ,(7) and(8) sits(9) high(10) so(11) you(12) can(13) see(14) over(15) SUV(16) 's(17) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Little(1) bit(2) of(3) rust(4) after(5) 11(6) years(7) ,(8) vinyl(9) seats(10) starting(11) to(12) tear(13) .(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My_Ford(1) truck(2) has(3) almost(4) 250_thousand_miles(5) on(6) it(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) carried(3) loads(4) of(5) gravel(6) ,(7) stone(8) ,(9) mulch(10) and(11) dirt(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) most(2) work(3) I(4) 've(5) done(6) is(7) brakes(8) and(9) an(10) exhaust(11) system(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) the(3) 4.9-liter(4) engine(5) and(6) it(7) provides(8) all(9) the(10) torque(11) and(12) power(13) a(14) truck(15) could(16) use(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			It(1) still(2) gets(3) 17_miles(4) per(5) gallon(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) some(3) rust(4) developing(5) on(6) the(7) rear(8) fenders(9) but(10) the(11) rest(12) of(13) the(14) truck(15) is(16) rust(17) free(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			This(1) truck(2) has(3) been(4) in(5) the(6) Mid-Atlantic_States(7) since(8) the(9) beginning(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Seat(1) started(2) to(3) tear(4) about(5) 2(6) years(7) ago(8) so(9) now(10) it(11) sport(12) a(13) seat(14) cover(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			Braking(1) is(2) very(3) good(4) and(5) no(6) problems(7) with(8) the(9) transmission(10) .(11) 
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="10">
+			All(1) recommended(2) work(3) has(4) been(5) completed(6) on(7) the(8) truck(9) in(10) the(11) time(12) provided(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			I(1) would(2) have(3) paid(4) more(5) for(6) a(7) truck(8) this(9) good(10) .(11) 
+			<opinion polarity="+" feature="truck" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 14,500(7) Condition(8) :(9) NewModel_Year(10) :(11) 1994(12) 
+		</sentence>
+	</text>
+</review>

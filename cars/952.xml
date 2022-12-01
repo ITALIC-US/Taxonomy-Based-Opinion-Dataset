@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="952" item="2006 KIA Spectra" rating="1">
+	<title>
+		<sentence id="1">
+			Do(1) NOT(2) buy(3) the(4) Kia_Spectra(5) 5(6) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) gas(2) milage(3) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			everything(1) else(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) car(4) new(5) about(6) 2(7) years(8) ago(9) and(10) I(11) am(12) trading(13) it(14) in(15) tomorrow(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I_HATE(1) this(2) car(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			It(1) sounds(2) terrible(3) already(4) ,(5) loud(6) engine(7) ,(8) not(9) enough(10) room(11) for(12) anyone(13) in(14) the(15) back(16) ,(17) and(18) the(19) warenty(20) LOOKS(21) good(22) on(23) paper(24) ,(25) but(26) what(27) does(28) it(29) REALLY(30) cover(31) ?(32) ?(33) ?(34) ?(35) 
+			<opinion polarity="+" feature="engine" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			We(1) live(2) about(3) an(4) hour(5) away(6) from(7) a(8) kia(9) service(10) garage(11) and(12) NO(13) ONE(14) can(15) service(16) a(17) kia(18) except(19) a(20) Kia(21) dealer(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Even(1) tires(2) were(3) about(4) 3_times(5) as(6) much(7) and(8) I(9) had(10) to(11) wait(12) two(13) weeks(14) for(15) them(16) to(17) order(18) them(19) in(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			I(1) will(2) never(3) never(4) never(5) purchase(6) another(7) kia(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 170000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2006Model(12) and(13) Options(14) :(15) Kia_Spectra(16) 5(17) 
+		</sentence>
+	</text>
+</review>

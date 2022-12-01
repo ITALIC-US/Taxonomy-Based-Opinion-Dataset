@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="201" item="Sennheiser EH-2270 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			sound(1) good(2) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) good(2) -(3) lots(4) of(5) base(6) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cord(1) is(2) a(3) piece(4) of(5) junk(6) 
+			<opinion polarity="-" feature="cord" featWords="1" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) needed(2) some(3) good(4) headphones(5) so(6) I(7) bought(8) these(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			They(1) sound(2) good(3) -(4) get(5) lots(6) of(7) base(8) .(9) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="3">
+			The(1) only(2) problem(3) I(4) had(5) with(6) them(7) is(8) the(9) cord(10) shorted(11) out(12) in(13) about(14) a(15) week(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			So(1) I(2) got(3) some(4) some(5) good(6) speaker(7) wire(8) and(9) a(10) soldering(11) gun(12) and(13) made(14) my(15) own(16) that(17) is(18) much(19) better(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) headphones(2) are(3) very(4) comfortable(5) on(6) the(7) head(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			If(1) it(2) was(3) not(4) for(5) the(6) bad(7) cord(8) problems(9) I(10) would(11) give(12) it(13) two(14) thumbs(15) up(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			With(1) the(2) flimsy(3) cord(4) I(5) give(6) thumbs(7) down(8) .(9) 
+			<opinion polarity="-" feature="cord" featWords="4" opWords="3"/>
+		</sentence>
+	</text>
+</review>

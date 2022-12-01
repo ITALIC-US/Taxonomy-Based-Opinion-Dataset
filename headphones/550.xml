@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="550" item="Sennheiser PXC 250 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) what(2) I(3) expected(4) ((5) sad(6) face(7) )(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) style(2) ,(3) good(4) headphones(5) in(6) general(7) .(8) 
+			<opinion polarity="+" feature="appearance" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			"(1) white(2) noise(3) "(4) while(5) on(6) noise(7) reduction(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Too(1) delicate(2) .(3) 
+			<opinion polarity="-" feature="durability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			pass(1) .(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) tried(3) these(4) headphones(5) today(6) for(7) about(8) 2(9) hours(10) ,(11) and(12) although(13) I(14) read(15) the(16) reviews(17) on(18) the(19) newegg(20) .(21) com(22) site(23) where(24) they(25) were(26) given(27) a(28) 5/5(29) as_well(30) as(31) a(32) friend(33) of(34) mine(35) recommending(36) them(37) ...(38) I(39) 'll(40) like(41) to(42) say(43) that(44) I(45) was(46) very(47) disapointed(48) .(49) 
+		</sentence>
+		<sentence id="2">
+			The(1) headphones(2) themselves(3) carry(4) very(5) nice(6) high(7) and(8) mid(9) and(10) have(11) a(12) nice(13) compact(14) and(15) stylish(16) look(17) .(18) 
+			<opinion polarity="+" feature="highs" featWords="7" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="mids" featWords="9" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="appearance" featWords="17" opWords="13"/>
+			<opinion polarity="+" feature="appearance" featWords="17" opWords="14"/>
+			<opinion polarity="+" feature="appearance" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			The(1) down(2) sides(3) ...(4) :(5) I(6) bought(7) them(8) for(9) the(10) noise(11) reduction(12) feature(13) and(14) that(15) main(16) feature(17) is(18) quite(19) terrible(20) imo(21) .(22) 
+			<opinion polarity="-" feature="isolation" featWords="11,12" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="4">
+			When(1) you(2) turn(3) it(4) on(5) ,(6) you(7) do(8) get(9) a(10) noticeable(11) reduction(12) in(13) the(14) low(15) frequencies(16) from(17) the(18) outside(19) environment(20) ,(21) but(22) along_with(23) that(24) you(25) get(26) a(27) constant(28) "(29) white(30) noise(31) "(32) effect(33) which(34) gets(35) really(36) really(37) annoying(38) and(39) that(40) IS(41) a(42) huge(43) flaw(44) I(45) find(46) .(47) 
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) down(3) side(4) is(5) the(6) need(7) for(8) 2(9) AAA(10) batteries(11) instead_of(12) 1(13) as(14) used(15) by(16) most(17) of(18) the(19) competition(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) batteries(3) go(4) into(5) a(6) separate(7) device(8) along(9) the(10) wire(11) ,(12) not(13) in(14) the(15) headphones(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) design(2) might(3) be(4) light(5) and(6) portable(7) ,(8) but(9) from(10) experience(11) ,(12) I(13) would(14) destroy(15) them(16) in(17) 6(18) months(19) ,(20) especially(21) since(22) the(23) ear(24) pieces(25) are(26) attached(27) to(28) the(29) frame(30) by(31) a(32) little(33) knob(34) ,(35) giving(36) them(37) great(38) rotation(39) but(40) also(41) making(42) them(43) extremely(44) delicate(45) .(46) 
+			<opinion polarity="+" feature="weight" opWords="5"/>
+			<opinion polarity="+" feature="portability" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			As(1) headphones(2) ,(3) without(4) the(5) main(6) noise(7) reduction(8) feature(9) ,(10) they(11) are(12) very(13) nice(14) .(15) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="9">
+			That(1) said(2) ,(3) that(4) main(5) noise(6) reduction(7) feature(8) seemed(9) very(10) flawed(11) imo(12) .(13) 
+			<opinion polarity="+" feature="isolation" featWords="6,7" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="10">
+			So(1) all(2) in_all(3) ,(4) do(5) not(6) think(7) of(8) buying(9) this(10) thing(11) ,(12) even_if(13) you(14) get(15) a(16) good(17) deal(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Get(1) another(2) model(3) without(4) the(5) noise(6) reduction(7) since(8) the(9) sound(10) quality(11) is(12) exceptional(13) on(14) SENNHEISERS(15) .(16) 
+		</sentence>
+	</text>
+</review>

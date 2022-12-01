@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="209" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			Funky(1) car(2) ,(3) but(4) better(5) choices(6) out(7) there(8) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Futuristic(1) styling(2) ,(3) causes(4) head-turns(5) by(6) on-lookers(7) ,(8) tight(9) engineering(10) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slightly(1) underpowered(2) ,(3) jittery(4) ride(5) ,(6) low(7) driver(8) 's(9) seat(10) 
+			<opinion polarity="-" feature="seat" featWords="10" opWords="7"/>
+			<opinion polarity="-" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="horsepower" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Celica(2) just(3) got(4) passed(5) by(6) Acura(7) and(8) VW(9) in(10) the(11) small(12) car(13) sport(14) category(15) ,(16) on(17) power(18) alone(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			But(1) this(2) car(3) remains(4) a(5) stylish(6) choice(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) the(3) 2001(4) Celica_GT(5) in(6) June_,_2001(7) ,(8) after(9) driving(10) a(11) '(12) 98(13) Corolla(14) and(15) ,(16) previously(17) ,(18) a(19) '(20) 91(21) Corolla(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			As(1) expected(2) ,(3) the(4) Toyota(5) engineering(6) is(7) flawless(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) is(3) tightly(4) designed(5) and(6) nothing(7) rattles(8) .(9) 
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) cornering(2) is(3) very(4) flat(5) for(6) a(7) car(8) of(9) this(10) price(11) and(12) is(13) probably(14) the(15) Celica(16) 's(17) biggest(18) claim(19) to(20) fame(21) ,(22) after(23) its(24) cutting-edge(25) styling(26) .(27) 
+			<opinion polarity="+" feature="design" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="5">
+			The(1) 140-hp(2) engine(3) ,(4) with(5) an(6) automatic(7) transmission(8) ,(9) is(10) peppy(11) ,(12) although(13) nothing(14) dramatic(15) .(16) 
+			<opinion polarity="+" feature="engine" featWords="3" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) capable(3) of(4) very(5) fast(6) speed(7) once(8) on(9) the(10) highway(11) where(12) 80mph(13) feels(14) very(15) controlled(16) .(17) 
+			<opinion polarity="+" feature="speed" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) off(3) the(4) dime(5) ,(6) the(7) power(8) is(9) somewhat(10) sluggish(11) unless(12) you(13) like(14) stomping(15) on(16) gas(17) pedals(18) ,(19) which(20) I(21) do(22) not(23) .(24) 
+			<opinion polarity="-" feature="horsepower" featWords="8" opWords="11"/>
+		</sentence>
+		<sentence id="8">
+			The(1) 5-speed(2) manual(3) would(4) give(5) a_lot(6) more(7) pep(8) in(9) the(10) low(11) gears(12) ,(13) but(14) driving(15) a(16) stick(17) calls(18) for(19) compromises(20) in(21) comfort(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			The(1) brakes(2) ,(3) although(4) not(5) ABS(6) ,(7) seem(8) more(9) than(10) adequate(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			The(1) gas(2) mileage(3) is(4) averaging(5) around(6) 32(7) ,(8) which(9) is(10) very(11) good(12) for(13) a(14) car(15) that(16) masquerades(17) as(18) a(19) sports(20) car(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="11">
+			The(1) GT-S(2) ,(3) which(4) comes(5) with(6) 180-hp(7) and(8) a(9) 6-speed(10) manual(11) ,(12) would(13) be(14) a(15) better(16) option(17) since(18) this(19) car(20) 's(21) competition(22) ,(23) such(24) as(25) the(26) new(27) Acura(28) replacement(29) for(30) the(31) Integra(32) ,(33) is(34) much(35) higher(36) powered(37) for(38) about(39) the(40) same(41) cash(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			You(1) also(2) get(3) considerably(4) more(5) power(6) in(7) the(8) newest(9) 2002(10) VW_Golf(11) and(12) Jetta(13) for(14) the(15) same(16) money(17) ,(18) so(19) perhaps(20) Toyota(21) should(22) consider(23) upping(24) the(25) engine(26) in(27) the(28) Celica(29) a_bit(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			But(1) the(2) body(3) of(4) the(5) Celica(6) remains(7) a(8) beauty(9) to(10) look(11) at(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			And(1) it(2) sits(3) very(4) aggressively(5) with(6) its(7) rear(8) end(9) slightly(10) raised(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			I(1) opted(2) out(3) of(4) the(5) ridiculous(6) looking(7) '(8) spoiler(9) '(10) which(11) is(12) an(13) affectation(14) that(15) should(16) be(17) banned(18) from(19) all(20) street(21) cars(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			I(1) also(2) rejected(3) a(4) moonroof(5) ,(6) perhaps(7) a(8) mistake(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			The(1) dealer(2) threw(3) in(4) a(5) Pioneer(6) 6-CD(7) changer(8) ,(9) but(10) it(11) works(12) on(13) FM(14) modulation(15) and(16) is(17) less(18) than(19) CD-quality(20) sound(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			Fortunately(1) ,(2) the(3) in-dash(4) CD(5) player(6) is(7) superb(8) and(9) the(10) 6-speaker(11) system(12) is(13) impressive(14) in(15) power(16) and(17) sound(18) quality(19) .(20) 
+		</sentence>
+		<sentence id="19">
+			I(1) opted(2) for(3) split-spoke(4) alloy(5) wheels(6) on(7) 16-inch(8) rims(9) which(10) look(11) very(12) sporty(13) ,(14) although(15) ,(16) in(17) retrospect(18) ,(19) 17-inch(20) rims(21) would(22) look(23) even(24) better(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			You(1) can(2) not(3) go(4) wrong(5) with(6) a(7) Toyota(8) ,(9) and(10) the(11) Celica(12) is(13) no(14) exception(15) ,(16) whether(17) you(18) are(19) a(20) 47-year-old(21) going(22) on(23) 25(24) like(25) me(26) ,(27) or(28) a_real(29) Gen-Xer(30) who(31) wants(32) a(33) very(34) cool(35) ride(36) .(37) 
+			<opinion polarity="+" feature="ride quality" featWords="36" opWords="35"/>
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Celica_GT(16) ,(17) auto(18) 
+		</sentence>
+	</text>
+</review>

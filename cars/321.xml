@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="321" item="2000 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) be(3) fooled(4) -(5) this(6) is(7) no(8) sports(9) car(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas(1) mileage(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) 's(2) ssslllooowww(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) the(2) past(3) few(4) years(5) ,(6) we(7) 've(8) seen(9) a(10) shift(11) of(12) young(13) people(14) ((15) who(16) are(17) stuck(18) driving(19) their(20) Mom_'s_Honda(21) )(22) attempting(23) to(24) modify(25) their(26) economy(27) style(28) cars(29) into(30) formula(31) one(32) race(33) cars(34) .(35) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) find(3) yourself(4) interested(5) in(6) a(7) Civic(8) for(9) that(10) reason(11) then(12) PLEASE(13) do(14) not(15) buy(16) it(17) !(18) 
+			<opinion polarity="-" feature="car" featWords="17" featRef="car" opWords="15,16"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Civic(2) is(3) a(4) well(5) minded(6) gas(7) miser(8) that(9) will(10) get(11) from(12) point(13) A(14) to(15) point(16) B(17) but(18) NOT(19) in(20) the(21) quickest(22) time(23) possible(24) !(25) 
+		</sentence>
+		<sentence id="4">
+			Buy_This_Car_If(1) :(2) -(3) You(4) are(5) happy(6) going(7) slow(8) -(9) You(10) like(11) getting(12) great(13) gas(14) mileage(15) -(16) You(17) want(18) people(19) to(20) think(21) you(22) are(23) frugal(24) -(25) You(26) value(27) your(28) hard(29) earned(30) money(31) and(32) just(33) want(34) a(35) car(36) that(37) will(38) transport(39) you(40) ,(41) not(42) necessarily(43) in(44) style(45) -(46) You(47) like(48) getting(49) a(50) good(51) value(52) for(53) your(54) dollar(55) and(56) do(57) not(58) absolutely(59) have(60) to(61) have(62) luxury(63) when(64) you(65) drive(66) do(67) not(68) Buy_This_Car_If(69) :(70) -(71) You(72) like(73) to(74) drive(75) fast(76) -(77) You(78) like(79) people(80) to(81) see(82) you(83) drive(84) by(85) and(86) look(87) twice(88) -(89) You(90) do(91) not(92) care(93) about(94) good(95) gas(96) mileage(97) -(98) You(99) are(100) planning(101) to(102) make(103) this(104) car(105) go(106) really(107) fast(108) -(109) You(110) want(111) to(112) be(113) cool(114) and(115) make(116) lawn(117) mower(118) type(119) noise(120) emanate(121) from(122) your(123) engine(124) In(125) summary(126) ,(127) the(128) Civic(129) is(130) an(131) ok(132) car(133) for(134) what(135) it(136) was(137) designed(138) for(139) but(140) it(141) is(142) not(143) and(144) NEVER(145) will(146) be(147) a(148) fast(149) sports(150) car(151) .(152) 
+			<opinion polarity="+" feature="speed" opWords="149"/>
+			<opinion polarity="+" feature="gas" featWords="96,97" opWords="95"/>
+			<opinion polarity="+" feature="gas" featWords="14,15" opWords="13"/>
+		</sentence>
+	</text>
+</review>

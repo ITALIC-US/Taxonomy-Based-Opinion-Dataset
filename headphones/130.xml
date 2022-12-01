@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="130" item="Koss UR15C Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Wow(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) bass(2) and(3) treble(4) ,(5) comfort(6) ,(7) long(8) cord(9) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="highs" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="cord" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) earbuds(2) 
+			<opinion polarity="-" feature="earbuds" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) get(2) these(3) headphones(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) have(2) to(3) be(4) some(5) of(6) the(7) best(8) headphones(9) I(10) 've(11) ever(12) used(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) Ciara(3) 's(4) "(5) Goodies(6) "(7) and(8) I(9) have(10) to(11) say(12) ,(13) the(14) bass(15) is(16) extreme(17) .(18) 
+			<opinion polarity="+" feature="bass" featWords="15" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			Maybe(1) 5x(2) the(3) bass(4) and(5) 3x(6) the(7) treble(8) of(9) other(10) headphones(11) that(12) are(13) similar(14) ((15) like(16) the(17) Sony(18) MDR-V150(19) or(20) the(21) dissapointing(22) Coby_CV(23) models(24) )(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Pros(1) :(2) -(3) Extreme(4) bass(5) .(6) -(7) Extreme(8) treble(9) .(10) -(11) Very(12) comfortable(13) .(14) -(15) Almost(16) no(17) pressure(18) of(19) headphones(20) .(21) 
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="highs" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="comfort" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="5">
+			Sometimes(1) it(2) does(3) not(4) even(5) feel(6) like(7) you(8) 're(9) wearing(10) them(11) .(12) -(13) Long(14) cord(15) ,(16) which(17) is(18) great(19) for(20) computers(21) and(22) far(23) away(24) plug-ins(25) .(26) 
+			<opinion polarity="+" feature="cord" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="6">
+			Cons(1) :(2) -(3) Hard(4) to(5) tell(6) the(7) difference(8) between(9) left(10) and(11) right(12) of(13) the(14) headphones(15) .(16) -(17) ((18) not(19) really(20) a(21) con(22) but(23) ...(24) )(25) Long(26) cord(27) is(28) sometimes(29) a(30) pain(31) for(32) portable(33) usage(34) ,(35) but(36) just(37) do(38) not(39) unwrap(40) the(41) cord(42) much(43) and(44) you(45) 're(46) just(47) fine(48) .(49) 
+		</sentence>
+		<sentence id="7">
+			Great(1) headphones(2) ,(3) and(4) one(5) of(6) the(7) cons(8) is(9) not(10) even(11) a(12) con(13) at(14) all(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="8">
+			Earbuds(1) ((2) not(3) effective(4) of(5) the(6) 5(7) stars(8) )(9) Pros(10) :(11) -(12) Very(13) portable(14) .(15) 
+			<opinion polarity="+" feature="portability" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="9">
+			Cons(1) :(2) -(3) Watered-down(4) sound(5) /(6) Bad_Quality(7) .(8) -(9) Hard(10) to(11) fit(12) in_case(13) .(14) -(15) I(16) can(17) not(18) even(19) use(20) them(21) .(22) 
+			<opinion polarity="-" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			You(1) have(2) to(3) shove(4) them(5) all(6) the(7) way(8) in(9) your(10) ear(11) ,(12) and(13) I(14) have(15) a(16) cut(17) in(18) my(19) left(20) ear(21) ,(22) which(23) means(24) the(25) Koss_Earbuds(26) are(27) extremly(28) uncomfortable(29) .(30) -(31) They(32) do(33) not(34) feel(35) too(36) duarable(37) to(38) me(39) .(40) 
+			<opinion polarity="-" feature="comfort" opWords="29" potency="28"/>
+			<opinion polarity="-" feature="durability" opWords="34,36,37"/>
+		</sentence>
+		<sentence id="11">
+			Overall(1) :(2) great(3) headphones(4) ,(5) bad(6) earbuds(7) Recommendations(8) :(9) Get(10) these(11) headphones(12) and(13) a(14) CD(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="earbuds" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="headphones" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="12">
+			Go(1) have(2) fun(3) for(4) once(5) !(6) 
+		</sentence>
+	</text>
+</review>

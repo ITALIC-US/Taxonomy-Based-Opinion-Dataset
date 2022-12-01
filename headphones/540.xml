@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="540" item="Shure SE210 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Shure(1) SE210(2) Headphones(3) -(4) Nice(5) but(6) the(7) chord(8) is(9) a(10) pain(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) highs(2) ,(3) mids(4) and(5) lows(6) .(7) 
+			<opinion polarity="+" feature="highs" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="mids" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Noise(1) reduction(2) is(3) great(4) .(5) 
+			<opinion polarity="+" feature="isolation" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			do(1) not(2) have(3) to(4) crank(5) the(6) music(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Chord(1) is(2) clumsy(3) .(4) 
+			<opinion polarity="-" feature="cord" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Forget(1) trying(2) to(3) sleep(4) on(5) your(6) side(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) try(4) before(5) you(6) buy(7) ,(8) do(9) it(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			By(1) all(2) means(3) ,(4) consider(5) the(6) SE210(7) 's(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			((1) Note(2) :(3) Review(4) updated(5) 4/16/07(6) which(7) reflects(8) some(9) "(10) second(11) thoughts(12) "(13) on(14) the(15) bass(16) response(17) of(18) these(19) earphones(20) after(21) additional(22) time(23) was(24) spent(25) with(26) the(27) product(28) .(29) )(30) I(31) bought(32) a(33) pair(34) of(35) these(36) a(37) couple(38) of(39) weeks(40) ago(41) while(42) traveling(43) .(44) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) always(3) heard(4) great(5) things(6) about(7) Shure(8) and(9) decided(10) to(11) go(12) with(13) the(14) SE210(15) 's(16) with(17) the(18) price(19) point(20) and(21) the(22) noise-reduction(23) characteristics(24) being(25) key(26) factors(27) for(28) me(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			After(1) putting(2) away(3) the(4) chainsaw(5) required(6) to(7) get(8) the(9) package(10) open(11) ,(12) I(13) found(14) a(15) nice(16) selection(17) of(18) ear(19) pieces(20) to(21) put(22) on(23) the(24) earphones(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			In_all(1) ,(2) there(3) were(4) 7(5) pairs(6) in_addition(7) to(8) the(9) ones(10) on(11) the(12) phones(13) already(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			It(1) also(2) comes(3) with(4) a(5) cleaning(6) stick(7) to(8) keep(9) the(10) phones(11) free(12) of(13) any(14) accumulated(15) wax(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			There(1) 's(2) also(3) a(4) nice(5) zippered(6) hard(7) case(8) to(9) stow(10) your(11) SE210(12) 's(13) in(14) when(15) not(16) in(17) use(18) .(19) 
+			<opinion polarity="+" feature="case" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="case" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			The(1) earphones(2) have(3) about(4) an(5) 18(6) "(7) chord(8) plus(9) a(10) 3(11) '(12) extension(13) chord(14) so(15) you(16) 've(17) got(18) plenty(19) to(20) play(21) with(22) .(23) The(24) main(25) sticking(26) point(27) ,(28) for(29) me(30) ,(31) is(32) the(33) chord(34) is(35) pretty(36) heavy(37) and(38) you(39) do(40) not(41) have(42) the(43) extended(44) length(45) on(46) one(47) of(48) the(49) phones(50) to(51) hang(52) around(53) your(54) neck(55) when(56) you(57) take(58) them(59) out(60) .(61) I(62) resorted(63) to(64) using(65) an(66) old(67) cellphone(68) wire(69) clip(70) to(71) keep(72) them(73) on(74) my(75) shirt(76) but(77) I(78) miss(79) the(80) old(81) feel(82) of(83) them(84) around(85) my(86) neck(87) and(88) saying(89) out(90) of(91) the(92) way(93) .(94) Since(95) the(96) chord(97) is(98) so(99) heavy(100) and(101) stiff(102) ,(103) it(104) seems(105) to(106) be(107) in(108) the(109) way(110) all(111) the(112) time(113) .(114) This(115) poses(116) a(117) problem(118) for(119) me(120) as(121) I(122) move(123) through(124) an(125) airport(126) lugging(127) my(128) bags(129) .(130) As(131) for(132) the(133) sound(134) I(135) 'm(136) no(137) audio(138) expert(139) so(140) take(141) this(142) with(143) a(144) grain(145) of(146) salt(147) .(148) For(149) the(150) amount(151) of(152) time(153) I(154) 've(155) had(156) them(157) ,(158) I(159) 've(160) found(161) the(162) highs(163) and(164) mids(165) to(166) be(167) pretty(168) darn(169) good(170) .(171) Originally(172) ,(173) I(174) felt(175) the(176) lows(177) were(178) OK(179) but(180) tended(181) to(182) bottom(183) out(184) a(185) little(186) bit(187) around(188) the(189) super(190) lows(191) of(192) some(193) of(194) today(195) 's(196) music(197) .(198) What(199) I(200) should(201) have(202) done(203) is(204) a(205) little(206) more(207) investigative(208) work(209) before(210) publishing(211) this(212) review(213) .(214) I(215) say(216) this(217) because(218) after(219) hooking(220) up(221) the(222) SE210(223) 's(224) to(225) my(226) home(227) computer(228) vs(229) .(230) my(231) mp3(232) player(233) ((234) the(235) one(236) that(237) I(238) had(239) based(240) the(241) original(242) review(243) on(244) )(245) I(246) found(247) the(248) lows(249) I(250) had(251) expected(252) .(253) Boy(254) did(255) I(256) ever(257) .(258) Because(259) I(260) found(261) a(262) difference(263) as(264) soon(265) as(266) I(267) switched(268) sources(269) ,(270) I(271) decided(272) to(273) find(274) as(275) much(276) music(277) in(278) my(279) collection(280) that(281) would(282) tax(283) the(284) earphones(285) .(286) The(287) one(288) piece(289) I(290) found(291) that(292) really(293) made(294) me(295) sit(296) up(297) was(298) Pink_Floyd(299) 's(300) "(301) Welcome(302) to(303) the(304) Machine(305) "(306) as(307) it(308) really(309) took(310) my(311) head(312) into(313) the(314) lows(315) .(316) I(317) came(318) away(319) really(320) impressed(321) after(322) I(323) could(324) "(325) feel(326) "(327) the(328) bass(329) in(330) my(331) head(332) .(333) Across(334) the(335) board(336) ,(337) the(338) music(339) I(340) tested(341) with(342) ((343) e(344) .(345) g(346) .(347) Linkin_Park(348) ,(349) TLC(350) ,(351) Lenny_Kravitz(352) ,(353) Enigma(354) ,(355) Steely_Dan(356) ,(357) Diana_Krall(358) ,(359) etc.(360) )(361) showed(362) what(363) I(364) was(365) missing(366) when(367) playing(368) these(369) straight(370) off(371) my(372) mp3(373) player(374) instead_of(375) through(376) my(377) Creative_Labs(378) card(379) on(380) my(381) PC(382) .(383) Moving(384) on(385) to(386) the(387) noise-reduction(388) characteristics(389) ...(390) very(391) nice(392) .(393) Even(394) with(395) the(396) music(397) off(398) ((399) a(400) must(401) during(402) take-offs(403) and(404) landings(405) ;(406) -(407) )(408) )(409) the(410) SE210(411) 's(412) did(413) well(414) .(415) With(416) the(417) music(418) on(419) ,(420) I(421) did(422) not(423) have(424) to(425) blast(426) the(427) music(428) to(429) drown(430) out(431) the(432) din(433) of(434) the(435) airplane(436) engines(437) ,(438) the(439) screaming(440) kids(441) a(442) few(443) rows(444) away(445) or(446) the(447) chatty(448) passengers(449) immediately(450) around(451) me(452) .(453) I(454) found(455) an(456) issue(457) when(458) trying(459) to(460) rest(461) my(462) head(463) against(464) a(465) pillow(466) because(467) these(468) earphones(469) stick(470) straight(471) out(472) of(473) my(474) ear(475) .(476) When(477) you(478) try(479) to(480) put(481) your(482) head(483) down(484) or(485) some(486) other(487) strange(488) configuration(489) as(490) only(491) air(492) travelers(493) know(494) to(495) be(496) a(497) challenge(498) ,(499) the(500) earphones(501) press(502) into(503) your(504) ear(505) canal(506) and(507) it(508) just(509) is(510) not(511) do-able(512) .(513) Since(514) this(515) is(516) my(517) first(518) pair(519) of(520) higher(521) priced(522) earphones(523) ,(524) I(525) 'm(526) not(527) sure(528) how(529) these(530) compare(531) to(532) the(533) bigger(534) brothers(535) in(536) the(537) Shure(538) family(539) or(540) other(541) comparable(542) lines(543) .(544) See(545) if(546) you(547) can(548) try(549) some(550) of(551) the(552) different(553) models(554) .(555) Just(556) do(557) not(558) make(559) the(560) same(561) mistake(562) I(563) did(564) ...(565) make(566) sure(567) you(568) 've(569) got(570) good(571) source(572) equipment(573) on(574) which(575) to(576) base(577) your(578) evaluation(579) .(580) Price(581) paid(582) -(583) $149.00(584) plus(585) tax(586) .(587) 
+			<opinion polarity="+" feature="highs" featWords="163" opWords="170" potency="168,169"/>
+			<opinion polarity="+" feature="mids" featWords="165" opWords="170" potency="168,169"/>
+			<opinion polarity="+" feature="bass" featWords="177" opWords="179"/>
+		</sentence>
+	</text>
+</review>

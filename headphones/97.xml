@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="97" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Just(1) too(2) good(3) !(4) 
+			<opinion polarity="+" feature="headphones" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) at(2) high(3) and(4) low(5) frequencies(6) ,(7) good(8) bass(9) ,(10) treble(11) ,(12) noise(13) cancellation(14) 
+			<opinion polarity="+" feature="highs" featWords="3,6" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5,6" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nothing(1) that(2) I(3) can(4) think(5) of(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Sennheiser(1) HD-280(2) Pro(3) is(4) an(5) awesome(6) headphone(7) .(8) 
+			<opinion polarity="+" feature="headphones" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			I(1) researched(2) quite(3) a_lot(4) ((5) even(6) listened(7) to(8) many(9) headphones(10) )(11) before(12) buying(13) this(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			The(1) HD-280(2) headphone(3) is(4) much(5) better(6) than(7) its(8) sony(9) ,(10) panasonic(11) equivalents(12) ((13) even(14) some(15) of(16) the(17) costlier(18) models(19) )(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Sony(1) has(2) too(3) much(4) bass(5) and(6) the(7) sounds(8) starts(9) to(10) deteriorate(11) in(12) upper(13) frequencies(14) .(15) 
+			<opinion polarity="-" feature="bass" featWords="5" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			Panasonic(1) has(2) very(3) weak(4) bass(5) .(6) 
+			<opinion polarity="-" feature="bass" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			Comparing(1) this(2) with(3) those(4) systems(5) ,(6) I(7) would(8) say(9) it(10) is(11) very(12) stable(13) ,(14) and(15) consistent(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			With(1) hiphop(2) ,(3) rap(4) ,(5) jazz(6) ,(7) it(8) sounds(9) perfect(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Wont(1) blow(2) your(3) ears(4) !(5) 
+		</sentence>
+		<sentence id="9">
+			I(1) especially(2) LOVE(3) the(4) fine(5) distinction(6) in(7) sounds(8) at(9) all(10) frequencies(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) hear(3) ALL(4) instruments(5) used(6) in(7) the(8) music(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			Drums(1) ,(2) etc(3) are(4) very(5) distinct(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			When(1) you(2) go(3) up(4) in(5) the(6) frequencies(7) ,(8) it(9) is(10) very(11) smooth(12) unlike(13) Sony(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) perfectly(3) hear(4) the(5) finer(6) parts(7) of(8) classical(9) music(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Plus(1) ,(2) the(3) noise(4) cancellation(5) feature(6) is(7) awesome(8) .(9) 
+			<opinion polarity="+" feature="isolation" featWords="4,5" opWords="8"/>
+		</sentence>
+		<sentence id="15">
+			I(1) no(2) more(3) hear(4) babies(5) crying(6) around(7) me(8) in(9) planes(10) ,(11) annoying(12) teenage(13) girls(14) shouting(15) in(16) coffee(17) houses(18) .(19) .(20) :(21) )(22) I(23) just(24) love(25) my(26) HD-280(27) Pro(28) headphone(29) .(30) 
+		</sentence>
+	</text>
+</review>

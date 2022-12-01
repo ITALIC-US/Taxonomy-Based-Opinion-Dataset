@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="623" item="1999 Honda Civic" rating="3">
+	<title>
+		<sentence id="1">
+			1999(1) Civic_SI(2) with(3) NOS(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) economy(2) car(3) ,(4) good(5) on(6) gas(7) ,(8) cheap(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="9"/>
+			<opinion polarity="+" feature="gas" featWords="7" opWords="5"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hurts(1) when(2) pushed(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) for(2) it(3) !(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) the(3) pleasure(4) of(5) owning(6) a(7) 99(8) Civic_SI(9) for(10) about(11) a(12) year(13) -(14) more(15) on(16) time(17) frame(18) later(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) a(3) great(4) little(5) car(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) the(3) first(4) Honda_I(5) purchased(6) ,(7) and(8) I(9) must(10) say(11) ,(12) I(13) was(14) very(15) impressed(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="4">
+			It(1) cost(2) me(3) about(4) 18,000(5) +(6) +(7) +(8) Canadian(9) back(10) in(11) 98(12) when(13) I(14) baught(15) it(16) new(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			For(1) the(2) money(3) it(4) was(5) a(6) great(7) deal(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Performance(1) /(2) Handling_The(3) performance(4) on(5) it(6) was(7) not(8) too(9) bad(10) for(11) a(12) small(13) 4(14) cylinder(15) car(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Afterall(1) ,(2) it(3) only(4) pushes(5) 121(6) horses(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			The(1) suspension(2) was(3) decent(4) .(5) 
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			But(1) not(2) enough(3) .(4) 
+		</sentence>
+		<sentence id="10">
+			I(1) made(2) some(3) modifications(4) to(5) the(6) car(7) ...(8) see(9) below(10) ,(11) which(12) turned(13) out(14) good(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Interior(1) /(2) Comfort_The(3) interior(4) is(5) pretty(6) simple(7) .(8) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="12">
+			Not(1) a(2) bad(3) CD(4) system(5) and(6) set(7) of(8) speakers(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			No(1) air(2) in(3) mine(4) -(5) that(6) sucked(7) !(8) 
+		</sentence>
+		<sentence id="14">
+			Modifications_I(1) threw(2) a(3) set(4) of(5) 17(6) "(7) rims(8) on(9) it(10) and(11) low(12) profile(13) yoko(14) .(15) This(16) made(17) the(18) car(19) look(20) silly(21) ,(22) so(23) I(24) had(25) to(26) drop(27) it(28) 3(29) "(30) ,(31) which(32) definately(33) helped(34) the(35) suspension(36) stick(37) to(38) those(39) tight(40) corners(41) !(42) 
+		</sentence>
+		<sentence id="15">
+			I(1) added(2) Strut(3) bars(4) ,(5) and(6) stabilizers(7) ,(8) and(9) now(10) it(11) was(12) handling(13) sweet(14) !(15) 
+			<opinion polarity="+" feature="handling" featWords="13" opWords="14"/>
+		</sentence>
+		<sentence id="16">
+			Next(1) came(2) the(3) fun(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			I(1) ripped(2) out(3) the(4) exhaust(5) from(6) the(7) CAT(8) back(9) and(10) threw(11) in(12) a(13) mandrel(14) bent(15) system(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Next(1) came(2) the(3) intake(4) -(5) cold(6) air(7) from(8) AEM(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			All(1) in_all(2) I(3) added(4) maybe(5) 5-10(6) horses(7) -(8) still(9) not(10) enough(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			I(1) ended(2) up(3) purchasing(4) a(5) new(6) ZEX(7) kit(8) for(9) a(10) great(11) price(12) and(13) decided(14) to(15) put(16) it(17) to(18) use(19) on(20) the(21) Civic(22) .(23) 
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="21">
+			Wow(1) ,(2) you(3) want(4) to(5) feel(6) speed(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			A(1) 75(2) shot(3) of(4) NOS(5) put(6) this(7) basically(8) stock(9) car(10) into(11) the(12) low(13) 14s(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			Not(1) too(2) bad(3) .(4) 
+		</sentence>
+		<sentence id="24">
+			However(1) ,(2) the(3) Civic(4) has(5) a(6) very(7) weak(8) bottom(9) end(10) on(11) the(12) motor(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			After(1) two(2) fills(3) of(4) the(5) NOS(6) bottle(7) I(8) heard(9) some(10) pretty(11) scary(12) noises(13) coming(14) from(15) this(16) car(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			Had(1) my(2) mechanic(3) look(4) into(5) it(6) ,(7) and(8) he(9) advised(10) I(11) replace(12) the(13) engine(14) soon(15) !(16) 
+		</sentence>
+		<sentence id="27">
+			Needless(1) to(2) say(3) -(4) I(5) sold(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			I(1) do(2) not(3) recommend(4) going(5) with(6) any(7) engine(8) modifications(9) unless(10) to(11) replace(12) the(13) bottom(14) end(15) of(16) this(17) car(18) !(19) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="29">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12000.00(7) Model(8) and(9) Options(10) :(11) SI(12) 
+		</sentence>
+	</text>
+</review>

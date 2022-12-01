@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="680" item="1995 Suzuki Esteem" rating="3">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) a(3) love(4) /(5) hate(6) thing(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordabilty(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Plastic(1) components(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Suzuki_Esteem(2) is(3) an(4) interesting(5) little(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) college(3) student(4) or(5) those(6) buying(7) their(8) first(9) new(10) vehicle(11) ,(12) it(13) can(14) not(15) be(16) beat(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			The(1) price(2) alone(3) was(4) incentive(5) for(6) me(7) to(8) make(9) the(10) purchase(11) ,(12) and(13) overall(14) I(15) 'm(16) happy(17) with(18) the(19) little(20) scooter(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			After(1) about(2) four(3) years(4) with(5) it(6) ,(7) I(8) 've(9) had(10) no(11) problems(12) whatsoever(13) ,(14) mechanically(15) speaking(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Although(1) the(2) little(3) four(4) banger(5) engine(6) leaves(7) one(8) feeling(9) a(10) need(11) for(12) some(13) power(14) ,(15) once(16) it(17) gets(18) going(19) it(20) cruises(21) around(22) quite(23) well(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) prefer(3) a(4) stick(5) shift(6) ,(7) which(8) makes(9) the(10) drive(11) a(12) little(13) more(14) eventful(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			In(1) short(2) :(3) The(4) pros(5) are(6) price(7) ,(8) low(9) repair(10) ,(11) and(12) a_real(13) fun(14) little(15) car(16) ,(17) ((18) which(19) by(20) the(21) way(22) ,(23) is(24) larger(25) inside(26) than(27) what(28) the(29) outside(30) view(31) suggests(32) )(33) .(34) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="14"/>
+		</sentence>
+		<sentence id="8">
+			The(1) lows(2) are(3) little(4) power(5) ,(6) and(7) cheap(8) interior(9) components(10) ((11) cup(12) holder(13) ,(14) ashtray(15) ,(16) console(17) )(18) which(19) break(20) apart(21) easily(22) .(23) 
+			<opinion polarity="-" feature="interior" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			But(1) for(2) the(3) price(4) it(5) can(6) not(7) be(8) beat(9) .(10) 
+			<opinion polarity="+" feature="price" featWords="4" opWords="6,7,8,9"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="854" item="1999 Saturn SL" rating="2">
+	<title>
+		<sentence id="1">
+			Happy(1) until(2) this(3) week(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) size(3) ,(4) safety(5) doors(6) ,(7) economical(8) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wet(1) road(2) handling(3) ,(4) seats(5) ,(6) defroster(7) not(8) the(9) best(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) loved(2) Saturns(3) so(4) much(5) that(6) we(7) have(8) 3(9) in(10) the(11) family(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) 2(3) 1999(4) SL1(5) 's(6) and(7) 1(8) 1998(9) SL2(10) ,(11) so(12) I(13) think(14) we(15) are(16) pretty(17) good(18) judges(19) of(20) this(21) vehicle(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			We(1) 've(2) owned(3) the(4) vehicles(5) for(6) 3(7) years(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) loved(2) everything(3) about(4) them(5) until(6) we(7) ran(8) across(9) the(10) first(11) lightly(12) wet(13) road(14) ,(15) touched(16) the(17) brakes(18) a(19) little(20) too(21) hard(22) and(23) went(24) skidding(25) across(26) the(27) road(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			All(1) 3(2) different(3) drivers(4) experienced(5) this(6) on(7) 3(8) different(9) roads(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			This(1) week(2) when(3) my(4) daughter(5) was(6) rear-ended(7) pretty(8) hard(9) while(10) stopped(11) ,(12) the(13) back(14) of(15) the(16) driver(17) 's(18) seat(19) collapsed(20) leaving(21) her(22) no(23) support(24) and(25) a(26) terrible(27) case(28) of(29) whiplash(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			Her(1) car(2) was(3) spinning(4) from(5) the(6) force(7) it(8) was(9) hit(10) ((11) which(12) is(13) no(14) fault(15) of(16) the(17) car(18) )(19) but(20) because(21) the(22) seat(23) collapsed(24) she(25) had(26) to(27) pull(28) herself(29) back(30) up(31) to(32) try(33) and(34) gain(35) control(36) of(37) the(38) vehicle(39) .(40) 
+		</sentence>
+		<sentence id="8">
+			After(1) the(2) car(3) was(4) towed(5) we(6) tried(7) to(8) take(9) the(10) seat(11) covers(12) off(13) but(14) could(15) not(16) get(17) the(18) seat(19) up(20) to(21) take(22) them(23) off(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			The(1) 2(2) other(3) Saturns(4) will(5) be(6) for(7) sale(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $5,600.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) SL1(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="798" item="California Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) California_Suites_Hotel(2) in(3) San_Diego(4) offers(5) reasonable(6) rates(7) in(8) a(9) convenient(10) location(11) .(12) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="place" featWords="11" opWords="10"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) location(2) ,(3) reasonable(4) rates(5) ((6) use(7) Internet(8) )(9) ,(10) clean(11) ,(12) fridge(13) /(14) hairdryer(15) ,(16) complimentary(17) breakfast(18) .(19) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="hotel" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) property(2) ,(3) some(4) residents(5) rent(6) ,(7) paint(8) peeling(9) in(10) bathroom(11) ,(12) older(13) bathtub(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) this(2) hotel(3) is(4) a(5) good(6) find(7) ,(8) you(9) can(10) sleep(11) well(12) and(13) be(14) on(15) your(16) way(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Good(1) for(2) economy(3) travel(4) and(5) close(6) to(7) major(8) attractions(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) California_Suites_Hotel(2) in(3) San_Diego(4) offers(5) reasonable(6) rates(7) in(8) a(9) convenient(10) location(11) .(12) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="place" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) is(3) located(4) at(5) 5415(6) Clairemont_Mesa_Blvd(7) ,(8) across(9) the(10) street(11) from(12) a(13) Days_Inn(14) and(15) the(16) 805(17) freeway(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) a(3) fridge(4) in(5) the(6) room(7) and(8) 99(9) Ranch(10) supermarket(11) is(12) just(13) down(14) the(15) road(16) ,(17) so(18) you(19) can(20) stock(21) up(22) on(23) inexpensive(24) items(25) if(26) you(27) are(28) looking(29) to(30) save(31) some(32) money(33) while(34) traveling(35) .(36) 
+		</sentence>
+		<sentence id="4">
+			The(1) Hotel(2) has(3) a(4) heated(5) pool(6) and(7) jacuzzi(8) ;(9) guests(10) were(11) frequenting(12) the(13) pool(14) in(15) December(16) ,(17) so(18) unless(19) they(20) were(21) members(22) of(23) the(24) Polar_Bear(25) swimming(26) club(27) the(28) water(29) seemed(30) reasonably(31) warm(32) .(33) 
+			<opinion polarity="+" feature="swimming pool" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) front(2) desk(3) staff(4) were(5) very(6) friendly(7) and(8) parking(9) ,(10) which(11) is(12) free(13) ((14) unlike(15) at(16) many(17) Los_Angeles(18) hotels(19) )(20) is(21) not(22) a(23) problem(24) .(25) 
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="parking" featWords="9" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) security(3) guards(4) that(5) walk(6) around(7) the(8) lot(9) until(10) the(11) wee(12) hours(13) of(14) the(15) morning(16) to(17) ensure(18) the(19) safety(20) of(21) guests(22) and(23) their(24) property(25) ,(26) which(27) is(28) very(29) reassuring(30) considering(31) that(32) the(33) neighborhood(34) itself(35) is(36) not(37) dangerous(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			For_instance(1) ,(2) my(3) friend(4) and(5) I(6) left(7) the(8) hotel(9) at(10) 10(11) pm(12) at(13) night(14) and(15) when(16) we(17) got(18) back(19) at(20) 3(21) am(22) hotel(23) security(24) guards(25) were(26) still(27) walking(28) around(29) the(30) area(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) a(3) good(4) hotel(5) to(6) stay(7) at(8) if(9) you(10) are(11) looking(12) for(13) a(14) convenient(15) economy(16) hotel(17) and(18) will(19) be(20) visiting(21) many(22) areas(23) of(24) San_Diego(25) other(26) than(27) the(28) downtown(29) areas(30) alone(31) .(32) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="hotel" featWords="17" opWords="15"/>
+		</sentence>
+		<sentence id="9">
+			Close(1) to(2) La_Jolla(3) ((4) seven-minute(5) drive(6) )(7) and(8) downtown(9) ((10) ten-minute(11) drive(12) )(13) .(14) 
+		</sentence>
+	</text>
+</review>

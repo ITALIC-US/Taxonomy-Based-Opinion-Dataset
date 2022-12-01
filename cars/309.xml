@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="309" item="2000 Honda Civic" rating="3">
+	<title>
+		<sentence id="1">
+			Can(1) not(2) Drive(3) it(4) Slow(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) ,(2) Looks_Good(3) ,(4) Handling(5) ,(6) Revvvvs_Galore(7) ,(8) Virtually_Race_Ready(9) 
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Harsh_Ride(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Civic_Si(2) is(3) not(4) for(5) everyone(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) not(3) supposed(4) to(5) be(6) for(7) everyone(8) ((9) Accord(10) is(11) for(12) everyone(13) )(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) are(3) the(4) kind(5) of(6) person(7) who(8) views(9) a(10) new(11) car(12) as(13) a(14) blank(15) canvas(16) ,(17) and(18) not(19) a(20) finished(21) work(22) -(23) the(24) Civic_Si(25) may(26) be(27) for(28) you(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			Honda(1) has(2) looked(3) at(4) how(5) many(6) people(7) alter(8) their(9) cars(10) by(11) lowering(12) them(13) and(14) adding(15) such(16) things(17) as(18) big(19) ,(20) loud(21) exhaust(22) ,(23) and(24) decided(25) to(26) sell(27) a(28) factory(29) version(30) of(31) those(32) altered(33) cars(34) .(35) 
+			<opinion polarity="-" feature="exhaust" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="5">
+			Basically(1) Honda(2) has(3) taken(4) a(5) regular(6) Civic_Coupe(7) ,(8) and(9) made(10) all(11) the(12) modifications(13) for(14) you(15) ((16) should(17) you(18) like(19) that(20) sort(21) of(22) thing(23) )(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) Civic_Si(2) is(3) a(4) good(5) looking(6) car(7) .(8) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="7">
+			The(1) electric(2) blue(3) paint(4) makes(5) it(6) stand(7) out(8) ((9) less(10) interesting(11) colors(12) are(13) available(14) )(15) in(16) a(17) world(18) full(19) of(20) black(21) and(22) white(23) Accords(24) and(25) Camry(26) 's(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			The(1) Si(2) adds(3) a(4) deeper(5) air(6) dam(7) in(8) the(9) front(10) ,(11) skirting(12) all(13) the(14) way(15) around(16) ,(17) a(18) little(19) larger(20) exhaust(21) ,(22) and(23) really(24) cool(25) looking(26) 15_inch(27) alloy(28) wheels(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			Inside(1) the(2) Si(3) the(4) interior(5) is(6) somewhat(7) sparse(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Seats(1) are(2) firm(3) but(4) supportive(5) ,(6) knobs(7) to(8) the(9) left(10) let(11) you(12) adjust(13) the(14) seat(15) bottom(16) several(17) different(18) ways(19) .(20) 
+			<opinion polarity="+" feature="seat" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) seatbelts(2) are(3) rather(4) difficult(5) to(6) reach(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			The(1) 5-speed(2) shifter(3) falls(4) to(5) hand(6) nicely(7) ,(8) and(9) the(10) leather(11) wrapped(12) steering(13) wheel(14) has(15) a(16) nice(17) quality(18) feel(19) to(20) it(21) as_well(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Dash(1) mounted(2) sunroof(3) switch(4) is(5) a(6) neat(7) alternative(8) to(9) the(10) usual(11) roof(12) mounted(13) switch(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			The(1) stereo(2) sounds(3) weak(4) and(5) flat(6) ,(7) there(8) is(9) a(10) CD(11) player(12) ,(13) but(14) a(15) tape(16) player(17) is(18) an(19) option(20) .(21) 
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="15">
+			Several(1) friends(2) of(3) mine(4) have(5) upgraded(6) to(7) an(8) after-market(9) stereo(10) ,(11) but(12) use(13) the(14) stock(15) speakers(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			The(1) speakers(2) sound(3) great(4) ,(5) apparently(6) it(7) 's(8) just(9) the(10) stereo(11) that(12) needs(13) help(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			Gauges(1) are(2) big(3) ,(4) clear(5) and(6) easy(7) to(8) read(9) .(10) 
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="7,8,9"/>
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="18">
+			The(1) first(2) thing(3) you(4) might(5) notice(6) is(7) the(8) tachometer(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			This(1) car(2) has(3) an(4) 8000(5) rpm(6) redline(7) ,(8) in(9) fact(10) maximum(11) horsepower(12) comes(13) on(14) past(15) 7000(16) rpm(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Incredible(1) .(2) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="21">
+			This(1) car(2) is(3) really(4) about(5) the(6) engine(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			The(1) interior(2) and(3) stereo(4) hardly(5) matter(6) when(7) you(8) consider(9) the(10) twin-cam(11) ,(12) VTEC(13) ,(14) 160(15) hp(16) engine(17) that(18) lives(19) under(20) the(21) bright(22) blue(23) hood(24) of(25) this(26) Civic(27) .(28) 
+		</sentence>
+		<sentence id="23">
+			Needless(1) to(2) say(3) the(4) engine(5) likes(6) to(7) rev(8) ,(9) it(10) is(11) difficult(12) to(13) drive(14) slowly(15) in(16) this(17) car(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			Thank(1) goodness(2) for(3) manual(4) transmissions(5) ,(6) shifting(7) your(8) own(9) gears(10) in(11) this(12) car(13) is(14) a(15) blast(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			Leave(1) the(2) car(3) in(4) 3rd(5) until(6) the(7) redline(8) quickly(9) approaches(10) ,(11) drop(12) it(13) into(14) 4th(15) ,(16) press(17) the(18) gas(19) pedal(20) ((21) HARD(22) !(23) )(24) and(25) feel(26) the(27) car(28) surge(29) forward(30) like(31) there(32) 's(33) a(34) jet(35) strapped(36) to(37) it(38) .(39) 
+		</sentence>
+		<sentence id="26">
+			You(1) can(2) not(3) help(4) but(5) smile(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			All(1) this(2) performance(3) is(4) not(5) limited(6) to(7) straight(8) lines(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			Handling(1) is(2) excellent(3) .(4) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="29">
+			Virtually(1) flat(2) cornering(3) is(4) thanks(5) ,(6) in(7) part(8) ,(9) to(10) the(11) lower(12) stance(13) and(14) stiffer(15) suspension(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			The(1) Si(2) feels(3) twitchy(4) ,(5) but(6) not(7) in(8) a(9) bad(10) way(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			It(1) feels(2) like(3) a(4) tiny(5) race(6) car(7) -(8) it(9) is(10) that(11) stiff(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			Wheels(1) and(2) tires(3) are(4) big(5) enough(6) to(7) handle(8) the(9) cornering(10) abilities(11) without(12) squealing(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			Brakes(1) are(2) good(3) .(4) 
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="34">
+			Drive(1) this(2) car(3) and(4) you(5) will(6) win(7) the(8) Commuter(9) /(10) Freeway_Gran_Prix(11) ,(12) and(13) you(14) 'll(15) probably(16) win(17) everyday(18) .(19) 
+		</sentence>
+		<sentence id="35">
+			Overall_the_Civic_Si(1) does(2) just(3) what(4) it(5) is(6) suppose(7) to(8) do(9) .(10) 
+		</sentence>
+		<sentence id="36">
+			It(1) goes(2) fast(3) ,(4) corners(5) flat(6) ,(7) looks(8) cool(9) ,(10) makes(11) you(12) smile(13) .(14) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+		<sentence id="37">
+			What(1) more(2) could(3) you(4) ask(5) of(6) a(7) small(8) coupe(9) for(10) around(11) $17K(12) ?(13) 
+		</sentence>
+		<sentence id="38">
+			On(1) the(2) down(3) side(4) :(5) This(6) is(7) not(8) a(9) family(10) car(11) -(12) the(13) ride(14) is(15) harsh(16) ,(17) the(18) engine(19) is(20) noisy(21) ,(22) and(23) there(24) are(25) not(26) many(27) comfort(28) features(29) inside(30) .(31) 
+			<opinion polarity="-" feature="engine" featWords="19" opWords="21"/>
+			<opinion polarity="-" feature="ride quality" featWords="14" opWords="16"/>
+		</sentence>
+		<sentence id="39">
+			In(1) many(2) ways(3) the(4) Civic_Si(5) is(6) the(7) exact(8) opposite(9) of(10) the(11) Civic_EX(12) sedan(13) ...(14) but(15) it(16) 's(17) sure(18) hard(19) to(20) pass(21) up(22) 160(23) hp(24) .(25) 
+		</sentence>
+	</text>
+</review>

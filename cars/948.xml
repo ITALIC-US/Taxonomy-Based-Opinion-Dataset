@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="948" item="2003 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			2003(1) Honda_Accord_LX_Nightmare(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Still(1) looks(2) great(3) on(4) the(5) outside(6) &(7) roomy(8) on(9) inside(10) 
+			<opinion polarity="+" feature="room" opWords="8"/>
+			<opinion polarity="-" feature="design" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Total(1) loss(2) as(3) an(4) investment(5) or(6) dependable(7) affordable(8) transportation(9) .(10) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Would(1) not(2) recommend(3) model(4) or(5) Honda(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			Huge(1) oil(2) consumption(3) problem(4) at(5) 57,000_miles(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Inadequate(1) servicing(2) recommendations(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Now(1) they(2) are(3) sticking(4) me(5) with(6) needed(7) $6,000(8) engine(9) short(10) block(11) replacement(12) !(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) loved(2) this(3) car(4) ,(5) how(6) it(7) looked(8) ,(9) how(10) it(11) handled(12) ,(13) its(14) get(15) up(16) and(17) go(18) -(19) great(20) for(21) a(22) 4(23) cylinder(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Some(1) brake(2) problems(3) were(4) covered(5) by(6) warranty(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) started(3) using(4) excessive(5) oil(6) around(7) 57,000_miles(8) &(9) I(10) had(11) to(12) have(13) the(14) oil(15) changed(16) while(17) on(18) vacation(19) as(20) it(21) got(22) so(23) low(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) returned(3) home(4) I(5) had(6) the(7) dealership(8) check(9) it(10) out(11) along_with(12) the(13) 60,000_mile(14) service(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			They(1) could(2) not(3) find(4) anything(5) and(6) the(7) oil(8) kept(9) disappearing(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Finally(1) after(2) over(3) 4(4) months(5) &(6) almost(7) 65,000_miles(8) and(9) continued(10) oil(11) consumption(12) Honda(13) authorized(14) diagnosing(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			They(1) found(2) vertical(3) scratches(4) in(5) the(6) cylinder(7) wall(8) of(9) #(10) 3(11) cylinder(12) &(13) oil(14) washings(15) around(16) the(17) #(18) 3(19) piston(20) dome(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			First_Honda(1) said(2) problem(3) was(4) due(5) to(6) "(7) Normal(8) wear(9) &(10) tear(11) "(12) ,(13) so(14) no(15) "(16) Goodwill_Warranty(17) "(18) consideration(19) &(20) now(21) they(22) say(23) it(24) is(25) due(26) to(27) a(28) "(29) Foreign(30) body(31) getting(32) in(33) it(34) "(35) -(36) which(37) my(38) understanding(39) is(40) Carbon(41) ,(42) due(43) to(44) not(45) having(46) the(47) oil(48) changed(49) enough(50) according_to(51) my(52) former(53) Honda(54) authorized(55) mechanic(56) .(57) 
+		</sentence>
+		<sentence id="9">
+			I(1) used(2) to(3) have(4) oil(5) changed(6) every(7) 3,000_miles(8) but(9) when(10) I(11) started(12) taking(13) it(14) to(15) the(16) dealership(17) they(18) had(19) me(20) change(21) that(22) to(23) 5,000_miles(24) per(25) Honda(26) 's(27) guidelines(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			Solution(1) to(2) problem(3) :(4) $6,000(5) engine(6) short(7) block(8) replacement(9) !(10) !(11) 
+		</sentence>
+		<sentence id="11">
+			All(1) out(2) of(3) my(4) pocket(5) of(6) course(7) !(8) 
+		</sentence>
+		<sentence id="12">
+			Dealership(1) says(2) they(3) are(4) behind(5) me(6) but(7) they(8) seem(9) to(10) be(11) changing(12) their(13) tune(14) and(15) sticking(16) with(17) big(18) brother(19) Honda_America(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			Honda(1) cares(2) more(3) about(4) their(5) sales(6) figures(7) &(8) promises(9) than(10) their(11) product(12) or(13) customers(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			The(1) last(2) time(3) I(4) got(5) treated(6) this(7) badly(8) was(9) with(10) a(11) Chevrolet_Vega(12) &(13) I(14) 've(15) never(16) bought(17) a(18) Chevrolet(19) since(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15,975.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) LX(16) ,(17) 4(18) Cylinder(19) ,(20) 4(21) DR(22) ,(23) Automatic(24) ,(25) 
+		</sentence>
+	</text>
+</review>

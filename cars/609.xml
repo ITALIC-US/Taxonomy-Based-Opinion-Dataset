@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="609" item="2000 Toyota Sienna" rating="2">
+	<title>
+		<sentence id="1">
+			2000(1) Toyota_Sienna_XL(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) .(2) 
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Decent(1) sound(2) system(3) .(4) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Wide(1) doors(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Soft(1) handling(2) .(3) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Poor(1) brakes(2) .(3) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Seats(1) will(2) not(3) fold(4) flat(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Our(1) Sienna(2) has(3) been(4) a(5) tremendous(6) dissapointment(7) !(8) 
+		</sentence>
+		<sentence id="2">
+			Its(1) brakes(2) are(3) obviously(4) too(5) small(6) and(7) are(8) poorly(9) engineered(10) ,(11) to(12) boot(13) .(14) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="9,10"/>
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="3">
+			Our(1) rear(2) left(3) wheel(4) brakes(5) make(6) a(7) pulsing(8) noise(9) every(10) time(11) we(12) stop(13) ,(14) and(15) despite(16) repeated(17) examinations(18) ,(19) the(20) problem(21) keeps(22) coming(23) back(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			Now(1) we(2) are(3) facing(4) another(5) mistery(6) ,(7) as(8) the(9) engine(10) keeps(11) running(12) low(13) on(14) oil(15) constantly(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			We(1) 've(2) checked(3) for(4) oil(5) leakage(6) and(7) have(8) found(9) none(10) and(11) even(12) mechanics(13) have(14) no(15) clue(16) as(17) to(18) what(19) could(20) be(21) causing(22) it(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			We(1) are(2) seriously(3) considering(4) trading(5) it(6) in(7) for(8) an(9) Odissey(10) or(11) even(12) the(13) new(14) Chrysler(15) minivan(16) ,(17) as(18) we(19) 've(20) pretty(21) much(22) had(23) enough(24) with(25) the(26) headaches(27) and(28) those(29) unwieldy(30) third(31) row(32) seats(33) and(34) are(35) impossible(36) heavy(37) to(38) cart(39) away(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

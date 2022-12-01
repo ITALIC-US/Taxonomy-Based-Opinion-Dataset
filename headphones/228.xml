@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="228" item="Sony MDR-101LP Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Headphones(1) which(2) cost(3) low(4) and(5) endure(6) much(7) .(8) 
+			<opinion polarity="+" feature="price" opWords="4"/>
+			<opinion polarity="+" feature="durability" opWords="6,7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) Cheap(2) -(3) Durable(4) 
+			<opinion polarity="+" feature="price" opWords="2"/>
+			<opinion polarity="+" feature="durability" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) Weak(2) pillows(3) 
+			<opinion polarity="-" feature="earpads" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) pair(2) of(3) these(4) everlasting(5) headphones(6) were(7) bought(8) about(9) 5-6(10) years(11) ago(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) much(3) time(4) for(5) headphones(6) and(7) guess(8) what(9) ,(10) they(11) are(12) in(13) good(14) shape(15) even(16) now(17) when(18) i(19) connect(20) them(21) to(22) my(23) computer(24) to(25) play(26) games(27) like(28) Counter-Strike(29) or(30) even(31) not(32) to(33) wake(34) my(35) parents(36) :(37) )(38) Sound_It(39) is(40) not(41) high(42) quality(43) headphones(44) that(45) cost(46) 250(47) $(48) but(49) they(50) fulfill(51) their(52) given(53) role(54) .(55) 
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) not(3) any(4) screeches(5) or(6) slaps(7) and(8) forget(9) about(10) them(11) even(12) after(13) 4(14) or(15) 5(16) years(17) of(18) using(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			One(1) can(2) wish(3) they(4) would(5) be(6) better(7) pillows(8) for(9) isolating(10) sounds(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			When(1) U(2) turn(3) the(4) volume(5) high(6) ,(7) the(8) sound(9) gets(10) flat(11) slightly(12) ,(13) however(14) ,(15) they(16) are(17) noise(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Appearance_There(1) is(2) nothing(3) to(4) fascinate(5) about(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) only(3) say(4) a(5) bad(6) word(7) about(8) pillows(9) which(10) can(11) be(12) damage(13) during(14) exploitation(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Oh(1) I(2) have(3) almost(4) forgot(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			As(1) this(2) is(3) the(4) main(5) disadvantage(6) of(7) headphones(8) for(9) mp3(10) players(11) ,(12) these(13) pair(14) too(15) have(16) a(17) short(18) link(19) cable(20) -(21) just(22) 1m(23) .(24) 
+			<opinion polarity="-" feature="cord" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="10">
+			Cost_In(1) a(2) nutshell(3) ,(4) good(5) side(6) :(7) )(8) 
+		</sentence>
+	</text>
+</review>

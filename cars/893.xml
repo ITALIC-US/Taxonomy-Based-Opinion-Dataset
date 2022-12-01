@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="893" item="1999 Toyota Tacoma" rating="1">
+	<title>
+		<sentence id="1">
+			MINE_IS_A_LEMON(1) !(2) !(3) !(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			MAJOR_LEMON(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) message(2) refers(3) to(4) 1999(5) Toyota_Tacoma(6) 4X4(7) Xtracab_Limited(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) this(3) truck(4) because(5) I(6) was(7) willing(8) to(9) pay(10) extra(11) for(12) a(13) well(14) built(15) vehicle(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="14,15"/>
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) pretty(3) pricey(4) for(5) a(6) truck(7) this(8) size(9) ,(10) but(11) what(12) do(13) you(14) expect(15) from(16) Toyota(17) .(18) 
+			<opinion polarity="-" feature="price" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			One(1) week(2) after(3) my(4) purchase(5) ,(6) I(7) began(8) to(9) have(10) problems(11) with(12) steering(13) wheel(14) "(15) shimmey(16) "(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			After(1) six(2) or(3) seven(4) attempts(5) ,(6) the(7) dealer(8) could(9) not(10) fix(11) it(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) the(3) truck(4) in(5) the(6) winter(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			When(1) summer(2) came(3) around(4) ,(5) I(6) noticed(7) that(8) the(9) AC(10) did(11) not(12) have(13) much(14) effect(15) cooling(16) the(17) truck(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			At(1) best(2) ,(3) it(4) can(5) get(6) the(7) temperature(8) down(9) to(10) 80(11) in(12) the(13) cab(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			The(1) dealer(2) tried(3) to(4) deny(5) the(6) problem(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			After(1) a_lot_of(2) talking(3) ,(4) they(5) finally(6) admitted(7) that(8) it(9) might(10) have(11) a(12) problem(13) with(14) AC(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			They(1) have(2) tried(3) several(4) remedies(5) ,(6) but(7) none(8) have(9) really(10) fixed(11) the(12) problem(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Additionally(1) ,(2) the(3) dashboard(4) rattles(5) now(6) because(7) they(8) have(9) done(10) so(11) much(12) work(13) behind(14) it(15) .(16) 
+			<opinion polarity="-" feature="dash" featWords="4" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			The(1) drive(2) train(3) on(4) the(5) vehicle(6) had(7) slack(8) in(9) it(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) a(3) 4X4(4) and(5) I(6) have(7) never(8) gotten(9) to(10) take(11) it(12) off(13) road(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			The(1) dealer(2) has(3) fixed(4) the(5) slack(6) in(7) the(8) drive(9) train(10) ,(11) but(12) broke(13) the(14) rear(15) differential(16) in(17) the(18) process(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			The(1) rear(2) differential(3) had(4) to(5) be(6) completely(7) replaced(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			This(1) is(2) at(3) around(4) 10000_miles(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			The(1) drive(2) train(3) seems(4) OK(5) at(6) 14k_miles(7) ,(8) but(9) I(10) am(11) not(12) very(13) comfortable(14) with(15) having(16) multiple(17) drive(18) train(19) repairs(20) within(21) the(22) first(23) year(24) of(25) ownership(26) .(27) 
+			<opinion polarity="+" feature="drive" featWords="2,3" opWords="5"/>
+			<opinion polarity="-" feature="comfort" opWords="12,14" potency="13"/>
+		</sentence>
+		<sentence id="19">
+			I(1) contacted(2) the(3) company(4) about(5) the(6) problems(7) ,(8) and(9) it(10) turns(11) out(12) that(13) I(14) have(15) to(16) pursue(17) them(18) in(19) court(20) in_order_to(21) get(22) anything(23) done(24) about(25) it(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			I(1) am(2) an(3) engineer(4) and(5) I(6) really(7) do(8) not(9) have(10) time(11) for(12) court(13) ,(14) but(15) I(16) have(17) to(18) go(19) unless(20) I(21) am(22) willing(23) to(24) accept(25) this(26) vehicle(27) for(28) my(29) $26k(30) .(31) 
+		</sentence>
+		<sentence id="21">
+			I(1) would(2) be(3) careful(4) about(5) buying(6) from(7) Toyota(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			I(1) do(2) not(3) think(4) that(5) Toyotas(6) are(7) worth(8) the(9) extra(10) money(11) that(12) you(13) have(14) to(15) pay(16) for(17) them(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			My(1) recommendation(2) ,(3) buy(4) from(5) a(6) less(7) expensive(8) Japanese(9) manufacturer(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			You(1) do(2) not(3) get(4) anything(5) extra(6) for(7) the(8) high(9) price(10) of(11) Toyotas(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			Especially(1) not(2) from(3) the(4) service(5) department(6) .(7) 
+		</sentence>
+	</text>
+</review>

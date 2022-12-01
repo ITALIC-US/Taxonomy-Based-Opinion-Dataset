@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="271" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			2000(1) Nissan_Maxima_GLE(2) is(3) a(4) great(5) car(6) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful(1) engine(2) ,(3) easy(4) to(5) read(6) ,(7) well-laid(8) out(9) controls(10) ,(11) roomy(12) for(13) tall(14) people(15) 
+			<opinion polarity="+" feature="room" opWords="12"/>
+			<opinion polarity="+" feature="controls" featWords="10" opWords="8,9"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			More(1) expensive(2) to(3) insure(4) and(5) operate(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) is(3) an(4) excellent(5) value(6) for(7) the(8) money(9) ,(10) powerful(11) ,(12) luxurious(13) feel(14) ,(15) well(16) designed(17) and(18) very(19) fun(20) to(21) drive(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="20" potency="19"/>
+			<opinion polarity="+" feature="design" opWords="16,17"/>
+			<opinion polarity="+" feature="horsepower" opWords="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Bought(1) this(2) car(3) used(4) in(5) March_2003(6) ,(7) and(8) it(9) has(10) totally(11) lived(12) up(13) to(14) my(15) expectations(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) never(3) owned(4) a(5) V6(6) before(7) ,(8) but(9) after(10) being(11) run(12) off(13) the(14) road(15) in(16) my(17) Honda(18) trying(19) to(20) merge(21) onto(22) the(23) freeway(24) and(25) getting(26) stuck(27) behind(28) one(29) too(30) many(31) slow(32) moving(33) vehicles(34) without(35) being(36) able(37) to(38) get(39) around(40) them(41) I(42) had(43) had(44) enough(45) .(46) 
+		</sentence>
+		<sentence id="3">
+			I(1) checked(2) out(3) the(4) Camry(5) and(6) Avalon(7) -(8) they(9) felt(10) like(11) economy(12) cars(13) even_though(14) I(15) test(16) drove(17) the(18) top(19) of(20) the(21) line(22) models(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Got(1) into(2) the(3) Maxima(4) and(5) turned(6) the(7) ignition(8) ,(9) it(10) roared(11) to(12) life(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) fit(2) and(3) finish(4) says(5) luxury(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) and(3) I(4) are(5) both(6) tall(7) -(8) this(9) is(10) the(11) roomiest(12) car(13) in(14) its(15) class(16) ((17) lots(18) of(19) trunk(20) space(21) too(22) )(23) .(24) 
+			<opinion polarity="+" feature="room" opWords="12"/>
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) accelerates(3) masterfully(4) .(5) 
+			<opinion polarity="+" feature="acceleration" opWords="3,4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) drive(2) with(3) more(4) confidence(5) knowing(6) I(7) can(8) call(9) on(10) it(11) when(12) needed(13) ((14) mostly(15) I(16) go(17) along(18) pretty(19) mellow(20) at(21) the(22) speed(23) limit(24) )(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			It(1) handles(2) nicely(3) although(4) my(5) Subaru_Forester(6) with(7) all-wheel(8) drive(9) grips(10) the(11) road(12) better(13) ,(14) but(15) I(16) do(17) not(18) plan(19) to(20) take(21) the(22) Maxima(23) to(24) the(25) mountains(26) so(27) it(28) 's(29) not(30) a(31) big(32) deal(33) .(34) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="10">
+			Since(1) others(2) have(3) done(4) a(5) good(6) job(7) describing(8) the(9) car(10) ,(11) I(12) will(13) add(14) some(15) comments(16) about(17) some(18) thoughtful(19) touches(20) that(21) I(22) really(23) like(24) :(25) the(26) controls(27) are(28) really(29) well(30) placed(31) and(32) labeled(33) .(34) 
+			<opinion polarity="+" feature="controls" featWords="27" opWords="30,33"/>
+			<opinion polarity="+" feature="controls" featWords="27" opWords="30,31"/>
+		</sentence>
+		<sentence id="11">
+			With(1) my(2) failing(3) baby(4) boomer(5) eyes(6) I(7) can(8) see(9) where(10) everything(11) is(12) ((13) the(14) Avalon(15) had(16) a_ton(17) of(18) tiny(19) confusing(20) buttons(21) )(22) .(23) 
+			<opinion polarity="-" feature="controls" featWords="21" opWords="20"/>
+			<opinion polarity="-" feature="controls" featWords="21" opWords="19"/>
+		</sentence>
+		<sentence id="12">
+			The(1) temperature(2) control(3) is(4) great(5) -(6) turn(7) the(8) knob(9) up(10) and(11) down(12) for(13) the(14) temperature(15) and(16) the(17) car(18) automatically(19) regulates(20) it(21) wherever(22) you(23) set(24) it(25) and(26) does(27) a(28) great(29) job(30) ((31) one(32) less(33) thing(34) to(35) fiddle(36) with(37) )(38) .(39) 
+		</sentence>
+		<sentence id="13">
+			Set(1) the(2) lights(3) on(4) automatic(5) and(6) the(7) sensor(8) turns(9) them(10) on(11) at(12) night(13) ,(14) in(15) tunnels(16) and(17) garages(18) ((19) another(20) thing(21) you(22) do(23) not(24) have(25) to(26) think(27) about(28) )(29) .(30) 
+		</sentence>
+		<sentence id="14">
+			As(1) you(2) go(3) back_and_forth(4) from(5) radio(6) to(7) tape(8) to(9) CD(10) it(11) starts(12) up(13) where(14) you(15) left(16) off(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			Heated(1) seats(2) are(3) a(4) treat(5) -(6) great(7) in(8) winter(9) and(10) I(11) used(12) them(13) recently(14) when(15) I(16) was(17) having(18) some(19) back(20) pain(21) ((22) who(23) needs(24) a(25) heating(26) pad(27) ,(28) just(29) go(30) for(31) a(32) drive(33) )(34) .(35) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="16">
+			My(1) car(2) came(3) with(4) the(5) Homelink(6) system(7) so(8) I(9) was(10) able(11) to(12) set(13) a(14) button(15) on(16) the(17) visor(18) to(19) open(20) my(21) garage(22) door(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			I(1) love(2) the(3) one(4) touch(5) open(6) and(7) close(8) option(9) on(10) the(11) driver(12) side(13) window(14) and(15) sunroof(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) remote(2) has(3) a(4) button(5) to(6) open(7) the(8) trunk(9) and(10) a(11) panic(12) button(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			There(1) is(2) a(3) compartment(4) for(5) your(6) eyeglasses(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			The(1) cupholders(2) are(3) great(4) -(5) I(6) can(7) reach(8) the(9) ones(10) in(11) back(12) too(13) if(14) needed(15) .(16) 
+			<opinion polarity="+" feature="cup holders" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="21">
+			Radio(1) reception(2) is(3) excellent(4) and(5) no(6) antenna(7) ,(8) plus(9) the(10) stereo(11) sounds(12) great(13) ((14) my(15) husband(16) was(17) jealous(18) so(19) he(20) went(21) and(22) got(23) a(24) whole(25) new(26) system(27) for(28) the(29) Subaru(30) )(31) .(32) 
+			<opinion polarity="+" feature="sound system" featWords="11" opWords="12,13"/>
+			<opinion polarity="+" feature="reception" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			All(1) in_all(2) ,(3) a(4) very(5) thoughtfully(6) designed(7) car(8) -(9) the(10) Japanese(11) really(12) do(13) their(14) research(15) .(16) 
+			<opinion polarity="+" feature="design" opWords="6,7"/>
+		</sentence>
+		<sentence id="23">
+			The(1) only(2) negative(3) is(4) that(5) it(6) is(7) more(8) expensive(9) to(10) insure(11) ((12) but(13) not(14) outrageous(15) )(16) and(17) with(18) gas(19) prices(20) being(21) where(22) they(23) 've(24) been(25) ,(26) a_bit(27) painful(28) to(29) fill(30) up(31) .(32) 
+		</sentence>
+		<sentence id="24">
+			Since(1) I(2) drive(3) 60_miles(4) a(5) day(6) it(7) adds(8) up(9) -(10) but(11) it(12) 's(13) worth(14) it(15) !(16) 
+		</sentence>
+		<sentence id="25">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GLE(16) 
+		</sentence>
+	</text>
+</review>

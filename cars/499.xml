@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="499" item="2000 Mercedes-Benz SLK" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Baby_SL_For_Half_The_Price(2) ,(3) But_The(4) SLK230(5) Is_No_Sports_Car(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Vario(1) roof(2) ,(3) solid-as-a-tank(4) engineering(5) ,(6) roomy(7) interior(8) for(9) a(10) roadster(11) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) /(2) exhaust(3) sound(4) ,(5) touring-biased(6) handling(7) ,(8) needs(9) V6(10) engine(11) ,(12) unacceptable(13) storage(14) space(15) with(16) top(17) down(18) ,(19) fake(20) carbon(21) fiber(22) trim(23) ,(24) firm(25) and(26) flat(27) seats(28) 
+			<opinion polarity="-" feature="trunk space" featWords="14,15" opWords="13"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) the(2) context(3) of(4) Mercedes(5) '(6) production(7) model(8) lineup(9) ,(10) the(11) SLK230(12) can(13) certainly(14) qualify(15) to(16) be(17) the(18) lightest(19) and(20) sportiest(21) car(22) it(23) offers(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="2">
+			But(1) in(2) the(3) context(4) of(5) its(6) competitors(7) ,(8) the(9) BMW(10) Z3(11) and(12) Porsche_Boxster(13) ,(14) the(15) SLK(16) is(17) hampered(18) by(19) a(20) number(21) of(22) compromises(23) to(24) be(25) considered(26) a(27) sports(28) car(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			Think_of_the_SLK(1) as(2) a(3) baby(4) SL(5) --(6) which(7) is(8) no(9) shame(10) in(11) itself(12) --(13) both(14) roadsters(15) are(16) solid(17) as(18) a(19) tank(20) and(21) can(22) be(23) driven(24) at(25) high(26) speeds(27) for(28) long(29) hours(30) in(31) complete(32) comfort(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			The(1) Mercedes(2) SLK230(3) was(4) introduced(5) in_the_1998(6) model(7) year(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			Designed(1) under(2) the(3) direction(4) of(5) Bruno_Sacco(6) and(7) first(8) presented(9) as(10) a(11) prototype(12) at(13) the(14) 1994(15) Turin_Motor_Show(16) ,(17) the(18) SLK(19) 's(20) styling(21) was(22) influenced(23) by(24) Mercedes(25) '(26) own(27) 1955(28) 190SL(29) and(30) 1957(31) 300SL(32) roadsters(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			The(1) SLK(2) designation(3) is(4) an(5) acronym(6) for(7) Sportlich_Leicht_Kompakt(8) ,(9) or(10) Sporty_Light_Short(11) in(12) english(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			In(1) spirit(2) ,(3) today(4) 's(5) SLK(6) resembles(7) a(8) modern(9) version(10) of(11) the(12) 1955(13) 190SL(14) ,(15) sharing(16) the(17) same(18) personality(19) traits(20) including(21) a(22) 4-cylinder(23) engine(24) type(25) ((26) the(27) 190SL(28) 's(29) was(30) not(31) supercharged(32) ,(33) however(34) )(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			The(1) SLK(2) 's(3) most(4) distinctive(5) feature(6) is(7) its(8) Vario(9) roof(10) :(11) a(12) collapsible(13) steel(14) roof(15) which(16) converts(17) the(18) roadster(19) into(20) a(21) rigid(22) coupe(23) and(24) vice_versa(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			A(1) red(2) button(3) on(4) the(5) center(6) console(7) activates(8) the(9) entirely(10) automatic(11) process(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Pulling(1) the(2) button(3) backward(4) lowers(5) the(6) roof(7) ,(8) while(9) pushing(10) the(11) button(12) forward(13) raises(14) the(15) roof(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			A(1) hydraulic(2) pump(3) in(4) the(5) trunk(6) is(7) linked(8) to(9) two(10) hydraulic(11) cylinders(12) to(13) operate(14) the(15) roof(16) ,(17) two(18) more(19) to(20) move(21) the(22) trunk(23) lid(24) ,(25) and(26) a(27) fifth(28) cylinder(29) controls(30) the(31) automatic(32) locking(33) /(34) unlocking(35) of(36) the(37) roof(38) at(39) the(40) windshield(41) frame(42) header(43) .(44) 
+		</sentence>
+		<sentence id="12">
+			The(1) entire(2) process(3) from(4) start-to-finish(5) takes(6) just(7) 25_seconds(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			The(1) downside(2) to(3) this(4) technical(5) marvel(6) is(7) two-fold(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			The(1) Vario(2) roof(3) adds(4) a(5) significant(6) weight(7) penalty(8) ,(9) contributing(10) to(11) the(12) SLK(13) 's(14) final(15) curb(16) weight(17) of(18) 3,036(19) lbs(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			By(1) comparison(2) ,(3) the(4) BMW(5) Z3(6) 2.8(7) weighs(8) 2,910(9) lbs(10) and(11) the(12) Porsche_Boxster(13) weighs(14) 2,756(15) lbs(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			Secondly(1) ,(2) the(3) packaging(4) of(5) the(6) Vario(7) roof(8) ,(9) when(10) lowered(11) ,(12) reduces(13) the(14) trunk(15) 's(16) storage(17) capacity(18) from(19) 12.3(20) cubic(21) ft(22) .(23) to(24) just(25) 5(26) cubic(27) ft(28) .(29) 
+		</sentence>
+		<sentence id="17">
+			Compared(1) with(2) the(3) Z3(4) 's(5) 6.2(6) cubic(7) ft(8) capacity(9) ,(10) and(11) the(12) Boxster(13) 's(14) dual(15) trunk(16) combined(17) capacity(18) of(19) 11.2(20) cubic(21) ft(22) .(23) ,(24) the(25) SLK(26) is(27) the(28) least(29) practical(30) of(31) the(32) three(33) German(34) roadsters(35) for(36) shopping(37) and(38) traveling(39) .(40) 
+		</sentence>
+		<sentence id="18">
+			The(1) SLK230(2) 's(3) 2.3-liter(4) DOHC(5) inline(6) -(7) 4(8) supercharged(9) engine(10) produces(11) 185(12) hp(13) at(14) 5300(15) rpm(16) and(17) 200(18) lb-ft(19) of(20) torque(21) at(22) 2500(23) rpm(24) .(25) 
+			<opinion polarity="+" feature="engine" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="19">
+			Maximum(1) boost(2) from(3) the(4) intercooled(5) Eaton(6) supercharger(7) is(8) 7(9) psi(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			While(1) these(2) numbers(3) are(4) competitive(5) ,(6) the(7) sound(8) of(9) the(10) engine(11) and(12) exhaust(13) are(14) not(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			The(1) cheap(2) sounding(3) noises(4) are(5) out(6) of(7) character(8) for(9) a(10) $40,000(11) vehicle(12) ,(13) especially(14) when(15) you(16) consider(17) a(18) $20,000(19) Mazda_Miata(20) with(21) its(22) stock(23) exhaust(24) sounds(25) more(26) impressive(27) than(28) the(29) SLK(30) 's(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			You(1) would(2) think(3) a(4) simple(5) change(6) in(7) exhaust(8) system(9) would(10) cure(11) the(12) problem(13) ,(14) but(15) someone(16) already(17) has(18) gone(19) that(20) route(21) and(22) reports(23) an(24) aftermarket(25) sport(26) exhaust(27) merely(28) exasperates(29) the(30) pitiful(31) noise(32) .(33) 
+		</sentence>
+		<sentence id="23">
+			Until(1) Mercedes(2) attends(3) to(4) this(5) issue(6) ,(7) the(8) most(9) common(10) solution(11) is(12) just(13) to(14) turn(15) up(16) the(17) volume(18) on(19) the(20) Bose(21) stereo(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			Another(1) perplexing(2) statistic(3) is(4) the(5) SLK230(6) 's(7) 0-to-60(8) mph(9) time(10) of(11) 7.2_seconds(12) ...(13) with(14) 5-speed(15) automatic(16) or(17) 5-speed(18) manual(19) transmission(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			Going(1) against(2) logic(3) that(4) manual(5) transmissions(6) almost(7) always(8) return(9) quicker(10) acceleration(11) times(12) ,(13) the(14) SLK(15) 's(16) balky(17) shift(18) linkage(19) is(20) to(21) blame(22) ,(23) as_well(24) as(25) the(26) higher(27) gear(28) ratios(29) which(30) require(31) a(32) shift(33) into(34) 3rd(35) gear(36) to(37) achieve(38) 60(39) mph(40) ((41) 2nd(42) gear(43) maximum(44) is(45) 58(46) mph(47) )(48) .(49) 
+		</sentence>
+		<sentence id="26">
+			What(1) the(2) manual(3) can(4) offer(5) is(6) more(7) driver(8) control(9) ,(10) but(11) with(12) the(13) compromises(14) already(15) going(16) against(17) it(18) ,(19) the(20) SLK(21) seems(22) more(23) proper(24) with(25) an(26) automatic(27) .(28) 
+		</sentence>
+		<sentence id="27">
+			ASR(1) traction(2) control(3) is(4) standard(5) and(6) defeatable(7) via(8) a(9) center(10) console(11) switch(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			Both(1) doors(2) are(3) equipped(4) with(5) side-impact(6) airbags(7) ,(8) and(9) the(10) seat(11) belts(12) have(13) impact(14) pretensioners(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			The(1) interior(2) 's(3) serious(4) charcoal-colored(5) trim(6) and(7) upholstery(8) is(9) a(10) disappointing(11) contrast(12) to(13) the(14) classy(15) theme(16) of(17) the(18) rest(19) of(20) the(21) car(22) ((23) colored(24) inserts(25) are(26) available(27) in(28) salsa(29) ((30) red(31) )(32) ,(33) oyster(34) ((35) grey(36) )(37) and(38) navy(39) blue(40) ,(41) but(42) much(43) of(44) the(45) rest(46) of(47) the(48) trim(49) is(50) still(51) in(52) standard(53) charcoal(54) )(55) .(56) 
+		</sentence>
+		<sentence id="30">
+			An(1) all-Java-colored(2) leather(3) and(4) trim(5) color(6) scheme(7) would(8) certainly(9) warm-up(10) the(11) interior(12) mood(13) ,(14) but(15) to-date(16) it(17) is(18) not(19) available(20) .(21) 
+		</sentence>
+		<sentence id="31">
+			The(1) seat(2) bottoms(3) in(4) the(5) SLK(6) seem(7) overly(8) firm(9) and(10) flat(11) ,(12) and(13) both(14) seats(15) have(16) all-manual(17) adjustments(18) ,(19) a(20) disappointment(21) considering(22) Mercedes(23) '(24) wonderfully-intuitive(25) power(26) seat(27) adjustment(28) controls(29) found(30) on(31) every(32) other(33) model(34) in(35) the(36) lineup(37) .(38) 
+		</sentence>
+		<sentence id="32">
+			Another(1) out-of-place(2) material(3) is(4) the(5) faux(6) carbon(7) fiber(8) inserts(9) that(10) adorn(11) the(12) center(13) console(14) ,(15) interior(16) door(17) latch(18) panels(19) ,(20) and(21) the(22) headlight(23) control(24) knob(25) panel(26) .(27) 
+		</sentence>
+		<sentence id="33">
+			If(1) Mercedes(2) wants(3) to(4) appeal(5) to(6) younger(7) buyers(8) ,(9) they(10) should(11) continue(12) to(13) offer(14) lower-priced(15) high-performance(16) vehicles(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			Mercedes(1) should(2) also(3) know(4) that(5) family(6) sedans(7) and(8) sporty(9) coupes(10) from(11) Honda(12) ,(13) Toyota(14) ,(15) Nissan(16) ,(17) Mazda(18) ,(19) and(20) Volkswagen(21) ((22) which(23) define(24) that(25) younger(26) buyer(27) segment(28) )(29) are(30) usually(31) outfitted(32) with(33) wood(34) trim(35) ((36) fake(37) in(38) Hondas(39) but(40) real(41) in(42) VWs(43) )(44) or(45) chrome(46) trim(47) or(48) aluminum(49) trim(50) ...(51) not(52) fake(53) carbon(54) fiber(55) trim(56) .(57) 
+		</sentence>
+		<sentence id="35">
+			Most(1) Mercedes(2) buyers(3) expect(4) the(5) traditional(6) leather(7) and(8) wood(9) combination(10) in(11) their(12) cars(13) anyway(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			A(1) Mercedes(2) with(3) faux(4) anything(5) is(6) ruining(7) their(8) reputation(9) ,(10) not(11) expanding(12) their(13) customer(14) base(15) .(16) 
+		</sentence>
+		<sentence id="37">
+			The(1) option(2) list(3) is(4) surprisingly(5) short(6) for(7) a(8) German(9) car(10) :(11) automatic(12) transmission(13) ,(14) heated(15) seats(16) ,(17) CD(18) changer(19) ,(20) cellphone(21) ,(22) metallic(23) paint(24) ,(25) and(26) a(27) Sport_Package(28) .(29) 
+			<opinion polarity="+" feature="seat" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="38">
+			The(1) Sport_Package(2) consists(3) of(4) AMG(5) 5-spoke(6) 17-inch(7) wheels(8) ((9) standard(10) wheels(11) are(12) 7-spoke(13) 16-inch(14) )(15) with(16) 225/45-17(17) tires(18) up_front(19) ,(20) and(21) 245/40-17(22) tires(23) on(24) the(25) rear(26) wheels(27) .(28) 
+		</sentence>
+		<sentence id="39">
+			In_addition(1) ,(2) the(3) package(4) adds(5) more(6) aggressive(7) body-colored(8) AMG(9) front(10) and(11) rear(12) bumper(13) spoilers(14) and(15) side(16) skirts(17) .(18) 
+		</sentence>
+		<sentence id="40">
+			The(1) front(2) bumper(3) spoiler(4) incorporates(5) round(6) projector-beam(7) fog(8) lights(9) which(10) look(11) better(12) than(13) the(14) standard(15) rectangular(16) units(17) ,(18) but(19) the(20) tradeoff(21) is(22) the(23) tacked-on(24) look(25) of(26) the(27) bumper(28) spoiler(29) itself(30) .(31) 
+		</sentence>
+		<sentence id="41">
+			The(1) AMG(2) wheels(3) ,(4) though(5) ,(6) look(7) great(8) and(9) add(10) some(11) extra(12) grip(13) to(14) the(15) SLK(16) 's(17) handling(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+		</sentence>
+		<sentence id="42">
+			A(1) handy(2) electronic(3) service(4) indicator(5) ,(6) Flexible_Service_System(7) ((8) FSS(9) )(10) ,(11) measures(12) actual(13) driving(14) conditions(15) and(16) habits(17) and(18) activates(19) an(20) indicator(21) light(22) ((23) a(24) wrench(25) icon(26) )(27) in(28) the(29) instrument(30) panel(31) when(32) the(33) vehicle(34) needs(35) service(36) .(37) 
+		</sentence>
+		<sentence id="43">
+			Drive(1) mostly(2) on(3) the(4) highway(5) ,(6) and(7) service(8) intervals(9) will(10) be(11) lengthened(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			The(1) contrary(2) is(3) true(4) for(5) city(6) stop-and-go(7) driving(8) .(9) 
+		</sentence>
+		<sentence id="45">
+			Like(1) BMW(2) ,(3) Mercedes(4) also(5) offers(6) a(7) free-of-charge(8) regularly(9) scheduled(10) maintenance(11) program(12) for(13) 4(14) years/50,000_miles(15) ((16) BMW(17) 's(18) covers(19) 3(20) years/36,000_miles(21) )(22) .(23) 
+		</sentence>
+		<sentence id="46">
+			The(1) same(2) terms(3) apply(4) to(5) the(6) SLK(7) 's(8) limited(9) warranty(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Very(1) little(2) is(3) officially(4) known(5) about(6) the(7) AMG(8) version(9) of(10) the(11) SLK(12) ,(13) other(14) than(15) it(16) is(17) expected(18) to(19) surface(20) soon(21) ((22) 2001(23) model(24) year(25) is(26) my(27) guess(28) )(29) .(30) 
+		</sentence>
+		<sentence id="48">
+			Hopefully(1) ,(2) it(3) will(4) bring(5) about(6) a(7) change(8) of(9) character(10) like(11) that(12) of(13) a(14) E320(15) to(16) E55(17) ,(18) or(19) C230(20) to(21) C43(22) .(23) 
+		</sentence>
+		<sentence id="49">
+			The(1) latest(2) rumor(3) surrounding(4) its(5) engine(6) specification(7) is(8) that(9) it(10) will(11) be(12) a(13) supercharged(14) version(15) of(16) the(17) company(18) 's(19) 3.2-liter(20) V6(21) engine(22) .(23) 
+		</sentence>
+		<sentence id="50">
+			Until(1) the(2) AMG_SLK(3) debuts(4) ,(5) I(6) can(7) not(8) recommend(9) the(10) SLK230(11) over(12) a(13) BMW(14) Z3(15) 2.8(16) or(17) Porsche_Boxster(18) ((19) or(20) even(21) a(22) Honda(23) S2000(24) or(25) Mazda_Miata(26) )(27) for(28) a(29) thrilling(30) modern(31) sports(32) car(33) experience(34) .(35) 
+			<opinion polarity="-" feature="car" opWords="8,9"/>
+		</sentence>
+		<sentence id="51">
+			And(1) even(2) when(3) it(4) does(5) debut(6) ,(7) like(8) all(9) other(10) AMG-modified_Mercedes(11) production(12) cars(13) ,(14) the(15) AMG_SLK(16) will(17) be(18) a(19) hot-rodded(20) version(21) of(22) the(23) touring-biased(24) chassis(25) .(26) 
+		</sentence>
+		<sentence id="52">
+			But(1) the(2) current(3) SLK(4) is(5) a(6) fine(7) touring(8) car(9) in(10) the(11) tradition(12) of(13) its(14) grander(15) bigger(16) sibling(17) ,(18) the(19) Mercedes_SL(20) ,(21) with(22) the(23) added(24) cachet(25) of(26) its(27) roadster(28) /(29) coupe(30) transforming(31) Vario(32) roof(33) .(34) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="53">
+			Whereas(1) the(2) larger(3) SL(4) unquestionably(5) succeeds(6) in(7) the(8) luxury(9) GT(10) convertible(11) segment(12) ,(13) the(14) SLK(15) faces(16) much(17) more(18) sporting(19) company(20) .(21) 
+		</sentence>
+		<sentence id="54">
+			Mercedes-Benz(1) is(2) capable(3) of(4) producing(5) fine(6) sports(7) cars(8) --(9) the(10) 1955(11) 300SLR(12) ,(13) the(14) recent(15) CLK-GTR(16) and(17) current(18) McLaren-Mercedes(19) F1(20) cars(21) come(22) to(23) mind(24) --(25) now(26) they(27) just(28) need(29) to(30) package(31) that(32) know-how(33) into(34) the(35) SLK(36) .(37) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="979" item="JW Marriott Las Vegas Resort" rating="4">
+	<title>
+		<sentence id="1">
+			Solid(1) hotel(2) ,(3) distant(4) location(5) .(6) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Room(1) ,(2) Pool(3) ,(4) Service(5) ,(6) Gym(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Far(1) from(2) strip(3) ,(4) upgrade(5) the(6) shuttle(7) service(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Came(1) for(2) a(3) wedding(4) ,(5) stayed(6) in(7) a(8) suite(9) with(10) a(11) Jacuzzi-very(12) nice(13) room(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Beautiful(1) lobby(2) and(3) pool(4) ,(5) grounds(6) were(7) lovely(8) .(9) 
+			<opinion polarity="+" feature="grounds" featWords="6" opWords="8"/>
+			<opinion polarity="+" feature="swimming pool" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Room(1) service(2) was(3) tasty(4) ,(5) good(6) steak(7) .(8) 
+			<opinion polarity="+" feature="room service" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Long(1) drive(2) to(3) the(4) strip(5) ,(6) shuttle(7) shut(8) down(9) early(10) and(11) it(12) is(13) almost(14) necessary(15) to(16) have(17) a(18) car(19) .(20) 
+		</sentence>
+	</text>
+</review>

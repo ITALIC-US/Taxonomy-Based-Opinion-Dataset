@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="881" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Location(1) ,(2) location(3) ,(4) location(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			And(1) then(2) some(3) .(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxurious(1) ,(2) elegant(3) and(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Wonderful(1) location(2) in(3) D.C.(4) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) .(2) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			But(1) worth(2) it(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Hay-Adams(2) is(3) elegant(4) ,(5) luxurious(6) and(7) buzzing(8) with(9) D.C.(10) life(11) .(12) 
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+			<opinion polarity="+" feature="hotel" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Pleasure(1) or(2) business(3) travelers(4) will(5) appreciate(6) it(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) family(2) and(3) I(4) took(5) a(6) nine-day(7) trip(8) to(9) Washington(10) ,(11) D.C.(12) to(13) see(14) our(15) nation(16) 's(17) capital(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Since(1) we(2) were(3) going(4) to(5) be(6) there(7) for(8) a_bit(9) of(10) time(11) ,(12) nice(13) accommodations(14) were(15) paramount(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			But(1) D.C.(2) is(3) an(4) expensive(5) town(6) ,(7) so(8) I(9) had(10) to(11) find(12) a(13) hotel(14) in(15) a(16) nice(17) area(18) ,(19) conveniently(20) located(21) ,(22) who(23) had(24) nice(25) price(26) packages(27) .(28) 
+			<opinion polarity="+" feature="place" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="place" opWords="20,21"/>
+			<opinion polarity="+" feature="price" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) it(3) all(4) in(5) the(6) Hay-Adams(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) situated(4) on(5) some(6) prime(7) real(8) estate(9) adjacent(10) to(11) Lafayette_Park(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Every(1) one(2) of(3) the(4) 145(5) rooms(6) has(7) a(8) great(9) view(10) ,(11) some(12) of(13) the(14) White_House(15) ,(16) the(17) park(18) ,(19) or(20) the(21) historic(22) St(23) .(24) 
+			<opinion polarity="+" feature="view" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			John_'s_Church(1) .(2) 
+		</sentence>
+		<sentence id="8">
+			We(1) had(2) a(3) church-view(4) room(5) on(6) the(7) 4th(8) floor(9) ,(10) and(11) were(12) thrilled(13) with(14) the(15) view(16) ,(17) which(18) included(19) a(20) portion(21) of(22) the(23) White_House(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Location(1) is(2) key(3) in(4) destination(5) spots(6) and(7) the(8) Hay-Adams(9) has(10) location(11) in(12) abundance(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) within(3) walking(4) distance(5) of(6) the(7) White_House(8) ,(9) the(10) Mall(11) ,(12) the(13) Washington_Monument(14) and(15) the(16) Smithsonian(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			A(1) Metro(2) station(3) is(4) just(5) about(6) a(7) block(8) and(9) a_half(10) away(11) ,(12) and(13) there(14) are(15) plenty_of(16) taxis(17) at(18) the(19) ready(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Popular(1) restaurants(2) and(3) bars(4) are(5) also(6) just(7) a(8) short(9) walk(10) from(11) the(12) hotel(13) .(14) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="food" featWords="4" opWords="1"/>
+		</sentence>
+		<sentence id="13">
+			The(1) lobby(2) of(3) the(4) hotel(5) ,(6) which(7) is(8) none(9) too(10) large(11) ,(12) oozes(13) elegance(14) with(15) dark(16) woods(17) ,(18) creamy(19) walls(20) and(21) large(22) floral(23) arrangements(24) .(25) 
+			<opinion polarity="+" feature="walls" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="14">
+			The(1) front(2) desk(3) and(4) concierge(5) staff(6) are(7) first(8) rate(9) ;(10) friendly(11) ,(12) efficient(13) and(14) professional(15) .(16) 
+			<opinion polarity="+" feature="staff" featWords="6" opWords="15"/>
+			<opinion polarity="+" feature="staff" featWords="6" opWords="13"/>
+			<opinion polarity="+" feature="staff" featWords="6" opWords="11"/>
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="15"/>
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="13"/>
+			<opinion polarity="+" feature="front desk" featWords="2,3" opWords="11"/>
+		</sentence>
+		<sentence id="15">
+			The(1) concierge(2) fixed(3) up(4) our(5) family(6) with(7) a(8) private(9) car(10) and(11) driver(12) to(13) do(14) a(15) day(16) trip(17) of(18) Washington(19) ,(20) D.C._This(21) was(22) by(23) far(24) the(25) best(26) investment(27) we(28) made(29) with(30) the(31) wonderfully(32) intelligent(33) and(34) informative(35) driver(36) ((37) who(38) hailed(39) from(40) Afghanistan(41) but(42) knew(43) more(44) than(45) I(46) ever(47) did(48) about(49) D.C.(50) facts(51) and(52) history(53) )(54) and(55) the(56) comfortable(57) car(58) .(59) 
+		</sentence>
+		<sentence id="16">
+			I(1) never(2) knew(3) you(4) could(5) have(6) a(7) personalized(8) tour(9) of(10) the(11) sights(12) ,(13) and(14) the(15) Hay-Adams(16) concierge(17) set(18) us(19) up(20) perfectly(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			The(1) tour(2) was(3) the(4) absolute(5) highlight(6) of(7) the(8) trip(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Of(1) the(2) 145(3) rooms(4) ,(5) there(6) are(7) 20(8) suites(9) ,(10) ranging(11) in(12) size(13) from(14) over(15) 500_square_feet(16) to(17) more(18) than(19) 1000_square_feet(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			We(1) stayed(2) in(3) a(4) Church_View(5) room(6) ,(7) smaller(8) than(9) a(10) suite(11) ,(12) but(13) incredibly(14) comfortable(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			The(1) regular(2) rooms(3) of(4) the(5) hotel(6) are(7) large(8) ,(9) but(10) not(11) overly(12) so(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="21">
+			They(1) are(2) cozy(3) and(4) luxurious(5) at(6) the(7) same(8) time(9) .(10) 
+			<opinion polarity="+" feature="rooms" opWords="5"/>
+			<opinion polarity="+" feature="rooms" opWords="3"/>
+		</sentence>
+		<sentence id="22">
+			The(1) creamy(2) color(3) theme(4) continues(5) in(6) the(7) rooms(8) ,(9) with(10) dark(11) wood(12) accents(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			The(1) carpet(2) is(3) short(4) but(5) plush(6) ,(7) the(8) Frette(9) sheets(10) are(11) of(12) high(13) thread(14) count(15) ,(16) warm(17) goose-down(18) comforters(19) are(20) on(21) each(22) bed(23) ,(24) pillows(25) are(26) goose-down(27) and(28) fluffy(29) ,(30) and(31) bed-side(32) towels(33) and(34) slippers(35) are(36) provided(37) for(38) each(39) guest(40) ,(41) as(42) are(43) soft(44) bath(45) robes(46) .(47) 
+		</sentence>
+		<sentence id="24">
+			The(1) closet(2) space(3) is(4) ample(5) ,(6) as(7) is(8) the(9) drawer(10) space(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			Turn(1) down(2) service(3) is(4) available(5) each(6) night(7) .(8) 
+		</sentence>
+		<sentence id="26">
+			The(1) bathrooms(2) are(3) large(4) and(5) comfortable(6) with(7) gleaming(8) fixtures(9) ,(10) a(11) deep(12) bathtub(13) ,(14) and(15) pleasant(16) lighting(17) .(18) 
+			<opinion polarity="+" feature="tub" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			The(1) entire(2) bath(3) ,(4) as_well(5) as(6) the(7) room(8) ,(9) has(10) the(11) wonderful(12) air(13) of(14) being(15) an(16) historic(17) place(18) ,(19) but(20) not(21) old(22) .(23) 
+			<opinion polarity="+" feature="place" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="28">
+			Everything(1) is(2) up(3) to(4) date(5) ,(6) but(7) the(8) age(9) ,(10) history(11) and(12) elegance(13) of(14) the(15) place(16) has(17) not(18) been(19) sacrificed(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			Each(1) room(2) comes(3) equipped(4) with(5) an(6) iron(7) and(8) ironing(9) board(10) ,(11) hair(12) dryer(13) ,(14) CD(15) player(16) ,(17) alarm(18) clock(19) ,(20) and(21) umbrella(22) ((23) which(24) came(25) in(26) very(27) handy(28) on(29) our(30) trip(31) )(32) .(33) 
+		</sentence>
+		<sentence id="30">
+			Also(1) in(2) each(3) room(4) are(5) three(6) 2-line(7) telephones(8) ,(9) Internet(10) connection(11) ,(12) honor(13) bar(14) and(15) safe(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			Complimentary(1) morning(2) papers(3) and(4) shoe(5) shines(6) are(7) part(8) of(9) the(10) package(11) as_well(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			Dining(1) in(2) the(3) Hay-Adams(4) is(5) a(6) special(7) experience(8) .(9) 
+		</sentence>
+		<sentence id="33">
+			The(1) elegant(2) Lafayette_Room(3) is(4) for(5) more(6) formal(7) service(8) and(9) serves(10) breakfast(11) ,(12) lunch(13) ,(14) dinner(15) ,(16) and(17) Sunday(18) brunch(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			Washington(1) "(2) power(3) breakfasts(4) "(5) take(6) place(7) frequently(8) at(9) the(10) Lafayette_Room(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			The(1) view(2) of(3) the(4) White_House(5) and(6) Lafayette_Park(7) are(8) gorgeous(9) outside_of(10) the(11) floor-to-ceiling(12) windows(13) .(14) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="36">
+			The(1) restaurant(2) is(3) full(4) of(5) light(6) ,(7) wonderful(8) floral(9) arrangements(10) ,(11) sparkling(12) china(13) and(14) crystal(15) ,(16) and(17) pleasing(18) decor(19) .(20) 
+			<opinion polarity="+" feature="decoration" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="37">
+			It(1) is(2) a(3) comfortable(4) cocoon(5) to(6) curl(7) up(8) in(9) and(10) enjoy(11) a(12) delicious(13) meal(14) .(15) 
+			<opinion polarity="+" feature="food" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="38">
+			My(1) favorite(2) meal(3) was(4) breakfast(5) ,(6) with(7) fresh-squeezed(8) orange(9) juice(10) ,(11) fresh(12) fruits(13) ,(14) homemade(15) cereals(16) ,(17) and(18) the(19) breakfast(20) standards(21) of(22) bacon(23) ,(24) eggs(25) ,(26) etc.(27) The_Off_The_Record_Bar(28) is(29) downstairs(30) in(31) the(32) hotel(33) .(34) 
+		</sentence>
+		<sentence id="39">
+			It(1) is(2) dimly(3) lit(4) with(5) dark(6) woods(7) and(8) colors(9) .(10) 
+		</sentence>
+		<sentence id="40">
+			We(1) visited(2) there(3) twice(4) ;(5) once(6) the(7) service(8) was(9) just(10) "(11) ok(12) "(13) and(14) the(15) other(16) time(17) it(18) was(19) wonderful(20) .(21) 
+			<opinion polarity="-" feature="service" featWords="8" opWords="10,12"/>
+			<opinion polarity="+" feature="service" featWords="8" opWords="20"/>
+		</sentence>
+		<sentence id="41">
+			The(1) walls(2) are(3) filled(4) with(5) caricatures(6) of(7) famous(8) politicians(9) ,(10) pundits(11) and(12) other(13) people(14) who(15) have(16) been(17) guests(18) or(19) visited(20) the(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="42">
+			Sitting(1) in(2) the(3) bar(4) ,(5) you(6) expect(7) someone(8) famous(9) to(10) walk(11) in(12) ,(13) the(14) ambience(15) is(16) that(17) intense(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			Incidentally(1) ,(2) David_Frost(3) did(4) in(5) fact(6) come(7) in(8) the(9) bar(10) while(11) we(12) were(13) there(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			The(1) food(2) is(3) more(4) bar(5) fare(6) ...(7) sandwiches(8) ,(9) salads(10) ,(11) etc.(12) ,(13) and(14) the(15) wine(16) menu(17) is(18) great(19) .(20) 
+		</sentence>
+		<sentence id="45">
+			The(1) Hay-Adams(2) was(3) built(4) in_the_1920(5) 's(6) as(7) a(8) residential(9) hotel(10) ,(11) so(12) the(13) retro-fit(14) strangeness(15) of(16) some(17) older(18) hotels(19) is(20) not(21) visible(22) here(23) .(24) 
+		</sentence>
+		<sentence id="46">
+			The(1) entire(2) hotel(3) feels(4) very(5) solid(6) ,(7) and(8) is(9) quiet(10) in(11) the(12) way(13) well-built(14) older(15) buildings(16) are(17) .(18) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="10"/>
+		</sentence>
+		<sentence id="47">
+			John_Hay(1) ,(2) a(3) former(4) secretary(5) of(6) state(7) ,(8) and(9) Henry_Adams(10) ,(11) a(12) descendant(13) of(14) presidents(15) ,(16) lived(17) at(18) the(19) site(20) prior(21) to(22) the(23) construction(24) of(25) the(26) hotel(27) ,(28) and(29) there(30) names(31) blend(32) to(33) form(34) the(35) name(36) of(37) Hay-Adams(38) .(39) 
+		</sentence>
+		<sentence id="48">
+			I(1) always(2) wanted(3) to(4) stay(5) at(6) the(7) Hay-Adams(8) and(9) I(10) took(11) this(12) opportunity(13) to(14) call(15) them(16) direct(17) to(18) inquire(19) about(20) price(21) .(22) 
+		</sentence>
+		<sentence id="49">
+			They(1) were(2) able(3) to(4) set(5) me(6) up(7) with(8) a(9) nice(10) package(11) price(12) that(13) ,(14) while(15) not(16) inexpensive(17) ,(18) was(19) certainly(20) not(21) out(22) of(23) range(24) with(25) this(26) type(27) of(28) luxury(29) hotel(30) .(31) 
+			<opinion polarity="+" feature="hotel" featWords="30" opWords="29"/>
+			<opinion polarity="-" feature="price" opWords="16,17"/>
+			<opinion polarity="+" feature="price" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="50">
+			Everyone(1) ,(2) from(3) the(4) reservations(5) clerk(6) to(7) the(8) front(9) staff(10) to(11) housekeeping(12) was(13) helpful(14) and(15) service-oriented(16) .(17) 
+			<opinion polarity="+" feature="room service" featWords="12" opWords="16"/>
+			<opinion polarity="+" feature="room service" featWords="12" opWords="14"/>
+			<opinion polarity="+" feature="staff" featWords="10" opWords="14"/>
+			<opinion polarity="+" feature="staff" featWords="10" opWords="16"/>
+		</sentence>
+		<sentence id="51">
+			If(1) you(2) want(3) to(4) experience(5) luxury(6) combined(7) with(8) history(9) and(10) sleep(11) in(12) the(13) shadows(14) of(15) the(16) White_House(17) ,(18) the(19) Hay-Adams(20) is(21) the(22) perfect(23) destination(24) for(25) you(26) .(27) 
+		</sentence>
+		<sentence id="52">
+			I(1) would(2) most(3) definitely(4) love(5) to(6) return(7) to(8) this(9) wonderful(10) hotel(11) .(12) 
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="7"/>
+			<opinion polarity="+" feature="hotel" featWords="11" opWords="10"/>
+		</sentence>
+	</text>
+</review>

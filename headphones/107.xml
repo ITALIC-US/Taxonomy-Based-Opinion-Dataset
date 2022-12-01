@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="107" item="Etymotic Research Binaura ER4B Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Ambient(1) noise(2) reduction(3) is(4) great(5) ,(6) but(7) bass(8) is(9) non-existent(10) ...(11) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="5"/>
+			<opinion polarity="-" feature="bass" featWords="8" opWords="10"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reduces(1) outside(2) noise(3) very(4) well(5) ;(6) clean(7) ,(8) crisp(9) high-end(10) sound(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="7"/>
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bass(1) and(2) low-end(3) frequencies(4) are(5) non-existent(6) with(7) these(8) headphones(9) .(10) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) originally(2) purchased(3) the(4) ER(5) -(6) 6(7) Isolator_Headphones(8) so_that(9) I(10) would(11) not(12) have(13) to(14) have(15) my(16) iPod(17) volume(18) cranked(19) up(20) as(21) high(22) as(23) it(24) would(25) go(26) when(27) working(28) out(29) in(30) noisy(31) settings(32) such(33) as(34) in(35) the(36) gym(37) ((38) or(39) especially(40) )(41) on(42) a(43) plane(44) flight(45) .(46) 
+		</sentence>
+		<sentence id="2">
+			While(1) these(2) headphones(3) do(4) a(5) very(6) good(7) job(8) of(9) ambient(10) noise(11) abatement(12) ((13) Note(14) :(15) These(16) are(17) NOT(18) active(19) noise(20) canceling(21) headphones(22) ,(23) only(24) ambient(25) noise(26) reducing(27) due(28) to(29) them(30) sealing(31) off(32) the(33) ear(34) canal(35) )(36) ,(37) the(38) sound(39) spectrum(40) produced(41) from(42) them(43) is(44) severely(45) lacking(46) on(47) the(48) lower(49) end(50) .(51) 
+		</sentence>
+		<sentence id="3">
+			do(1) not(2) get(3) me(4) wrong(5) ,(6) the(7) sound(8) *(9) quality(10) *(11) is(12) superb(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="8,10" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			But(1) literally(2) ,(3) on(4) some(5) songs(6) you(7) can(8) not(9) even(10) hear(11) some(12) of(13) the(14) bass(15) and(16) lower-range(17) sounds(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			That(1) 's(2) a(3) major(4) disappointment(5) ,(6) in(7) my(8) opinion(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) want(4) my(5) U2(6) sounding(7) like(8) they(9) 're(10) on(11) AM(12) radio(13) ,(14) no(15) matter(16) how(17) much(18) outside(19) noise(20) is(21) prevented(22) from(23) reaching(24) my(25) ears(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'd(2) suggest(3) skipping(4) these(5) headphones(6) and(7) going(8) with(9) something(10) that(11) does(12) active(13) noise(14) cancellation(15) and(16) produces(17) good(18) sound(19) throughout(20) the(21) audible(22) sound(23) spectrum(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Otherwise(1) ,(2) if(3) you(4) 're(5) not(6) *(7) too(8) *(9) particular(10) about(11) bass(12) and(13) just(14) want(15) a(16) pretty(17) decent(18) noise(19) abatement(20) set(21) of(22) headphones(23) for(24) the(25) plane(26) ,(27) metro(28) ,(29) gym(30) or(31) whatever(32) ,(33) then(34) try(35) the(36) Etymotic(37) ER6(38) Isolator_Headphones(39) .(40) 
+		</sentence>
+	</text>
+</review>

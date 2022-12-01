@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="614" item="2003 Honda Pilot" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) "(2) family(3) adventure(4) viechele(5) "(6) compliments(7) of(8) Honda(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) Saftey(2) record(3) is(4) very(5) good(6) for(7) this(8) SUV(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Seats(1) not(2) confortable(3) ,(4) Steering(5) is(6) not(7) the(8) best(9) .(10) 
+			<opinion polarity="-" feature="steering" featWords="5" opWords="7,9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) a(4) skiier(5) steer(6) away(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) a(4) "(5) family(6) adventure(7) vehicle(8) "(9) and(10) do(11) not(12) care(13) getting(14) not(15) much(16) for(17) alot(18) then(19) get(20) it(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) first(3) saw(4) this(5) vehicle(6) under(7) SUV(8) ,(9) At(10) epinions(11) .(12) com(13) I(14) laughed(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) is(3) far(4) from(5) a(6) suv(7) ,(8) Honda(9) does(10) not(11) really(12) even(13) consider(14) it(15) a(16) SUV(17) they(18) titled(19) it(20) "(21) A(22) family(23) adventure(24) vehicle(25) "(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			First(1) of(2) all(3) Although(4) this(5) vechicle(6) is(7) a(8) descent(9) car(10) It(11) should(12) not(13) be(14) considered(15) a(16) SUV(17) compared(18) to(19) the(20) newest(21) SUV(22) 's(23) from(24) others(25) such(26) as(27) GMC(28) ,(29) Chevrolet(30) ,(31) BMW(32) ,(33) and(34) even(35) Porsches(36) new(37) Chyenne(38) is(39) more(40) of(41) a(42) SUV(43) that(44) this(45) Honda(46) .(47) 
+		</sentence>
+		<sentence id="4">
+			But(1) for(2) normal(3) winter(4) weather(5) and(6) any(7) weather(8) this(9) car(10) will(11) do(12) the(13) trick(14) but(15) this(16) is(17) no(18) car(19) to(20) take(21) off-roading(22) With(23) that(24) said(25) lets(26) get(27) started(28) ,(29) the(30) pros(31) of(32) this(33) car(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			When(1) I(2) first(3) looked(4) at(5) the(6) car(7) I(8) thought(9) it(10) was(11) neat(12) looking(13) it(14) reminded(15) me(16) of(17) the(18) Mercedes_ML(19) class(20) of(21) SUV(22) 's(23) even_though(24) I(25) read(26) reviews(27) from(28) epinons(29) .(30) com(31) and(32) across(33) teh(34) net(35) that(36) most(37) thought(38) the(39) exterior(40) of(41) the(42) vehicle(43) was(44) "(45) blah(46) "(47) or(48) did(49) not(50) have(51) any(52) character(53) I(54) really(55) like(56) the(57) exterior(58) .(59) 
+		</sentence>
+		<sentence id="6">
+			But(1) its(2) all(3) in(4) opinon(5) ,(6) with(7) Honda(8) 's(9) saftey(10) record(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			They(1) might(2) of(3) sacrificed(4) some(5) looks(6) for(7) better(8) strucutre(9) of(10) the(11) car(12) either(13) way(14) its(15) your(16) choice(17) on(18) what(19) you(20) think(21) about(22) the(23) extrioer(24) of(25) the(26) car(27) I(28) liked(29) it(30) .(31) 
+			<opinion polarity="+" feature="car" featWords="30" featRef="car" opWords="29"/>
+		</sentence>
+		<sentence id="8">
+			From(1) there(2) it(3) is(4) the(5) interoior(6) we(7) will(8) start(9) with(10) the(11) engine(12) at(13) 240(14) hp(15) and(16) a(17) V6(18) it(19) is(20) powerful(21) enough(22) to(23) handel(24) most(25) terrain(26) .(27) 
+			<opinion polarity="+" feature="horsepower" opWords="21,22"/>
+		</sentence>
+		<sentence id="9">
+			Also(1) with(2) hondas(3) innovative(4) AWD(5) system(6) it(7) makes(8) the(9) guts(10) of(11) the(12) car(13) so(14) much(15) nicer(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Now(1) for(2) the(3) interior(4) ,(5) the(6) car(7) inside(8) is(9) nice(10) with(11) 3(12) rows(13) of(14) seat(15) that(16) can(17) easily(18) be(19) folded(20) down(21) and(22) also(23) the(24) wideness(25) of(26) teh(27) car(28) and(29) according_to(30) other(31) reviews(32) it(33) is(34) wider(35) than(36) most(37) other(38) SUV(39) 's(40) even(41) the(42) Chevrolet_Trailblazer(43) so(44) for(45) you(46) big(47) and(48) tall(49) there(50) should(51) not(52) be(53) a(54) problem(55) as(56) for(57) the(58) consol(59) in(60) the(61) car(62) it(63) is(64) also(65) very(66) nice(67) lots(68) of(69) storage(70) for(71) all(72) those(73) "(74) family(75) adventures(76) "(77) .(78) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			Now(1) for(2) the(3) cons(4) ,(5) there(6) werent(7) many(8) maybe(9) one(10) or(11) two(12) that(13) I(14) can(15) think(16) of(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			But(1) these(2) were(3) BIG(4) problems(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			The(1) first(2) one(3) would(4) have(5) to(6) be(7) the(8) steering(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			The(1) steering(2) as(3) far(4) as(5) SUVs(6) go(7) is(8) not(9) good(10) it(11) feels(12) like(13) a(14) 18(15) wheeler(16) the(17) steering(18) power(19) really(20) lags(21) .(22) 
+			<opinion polarity="-" feature="steering" featWords="2" opWords="9,10"/>
+			<opinion polarity="-" feature="steering" featWords="18" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="15">
+			Also(1) the(2) suspension(3) in(4) this(5) adventure(6) vehicle(7) is(8) not(9) quite(10) figured(11) out(12) it(13) is(14) not(15) as(16) smooth(17) as(18) a(19) ride(20) as(21) it(22) could(23) be(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			The(1) steering(2) and(3) suspension(4) deffiently(5) does(6) not(7) match(8) up(9) to(10) the(11) the(12) interior(13) and(14) the(15) powerful(16) 240(17) hp(18) V6(19) engine(20) .(21) 
+			<opinion polarity="+" feature="engine" featWords="20" opWords="16"/>
+		</sentence>
+		<sentence id="17">
+			Overall(1) ,(2) for(3) 33k(4) that(5) is(6) fully(7) loaded(8) with(9) the(10) superior(11) audio(12) ,(13) dvd(14) ,(15) and(16) gps(17) ,(18) and(19) leather(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			I(1) think(2) I(3) could(4) find(5) better(6) but(7) if(8) you(9) are(10) looking(11) for(12) that(13) "(14) family(15) adventure(16) vehicle(17) "(18) this(19) is(20) the(21) ride(22) for(23) you(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 32800(7) Model_Year(8) :(9) 2002Model(10) and(11) Options(12) :(13) LX(14) ,(15) automatic(16) ,(17) leather(18) etc(19) ((20) the(21) works(22) )(23) 
+		</sentence>
+	</text>
+</review>

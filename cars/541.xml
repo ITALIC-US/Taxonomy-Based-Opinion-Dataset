@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="541" item="1998 Acura CL" rating="2">
+	<title>
+		<sentence id="1">
+			What(1) 's(2) wrong(3) with(4) the(5) Automatic_CL(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) .(3) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) gas(2) mileage(3) .(4) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) ,(2) transmission(3) ,(4) transmission(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 've(2) never(3) hated(4) an(5) inanimate(6) object(7) so(8) much(9) in(10) my(11) life(12) !(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) stated(2) earlier(3) ,(4) transmission(5) ,(6) transmission(7) ,(8) transmission(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Hard(1) shifting(2) ,(3) late(4) /(5) early(6) shifting(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) will(3) give(4) you(5) whiplash(6) when(7) it(8) shifts(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) know(2) 4(3) people(4) with(5) this(6) car(7) ((8) including(9) myself(10) )(11) and(12) 3(13) of(14) them(15) are(16) getting(17) rid(18) of(19) it(20) simply(21) because_of(22) the(23) transmission(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) driven(3) luxury(4) cars(5) before(6) and(7) even(8) not-so(9) luxury(10) cars(11) and(12) they(13) all(14) shift(15) smooth(16) as(17) silk(18) .(19) 
+			<opinion polarity="+" feature="shifter" opWords="15,16"/>
+		</sentence>
+		<sentence id="6">
+			Not(1) our(2) buddy(3) the(4) CL._Take(5) it(6) to(7) an(8) Acura(9) dealership(10) and(11) tell(12) them(13) that(14) it(15) 's(16) shifting(17) rough(18) and(19) they(20) say(21) "(22) well(23) some(24) of(25) those(26) trannies(27) had(28) some(29) problems(30) ,(31) we(32) can(33) change(34) the(35) fluid(36) for(37) you(38) "(39) .(40) 
+		</sentence>
+		<sentence id="7">
+			Which(1) does(2) not(3) help(4) at(5) all(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Check(1) out(2) www.acura-cl.com(3) for(4) hundreds(5) of(6) owners(7) opinions(8) including(9) a(10) whole(11) section(12) devoted(13) to(14) the(15) transmission(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Other(1) that(2) that(3) ,(4) hey(5) it(6) 's(7) a(8) great(9) car(10) !(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 12,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) 2.2(16) Prem(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Automatic(1) 
+		</sentence>
+	</text>
+</review>

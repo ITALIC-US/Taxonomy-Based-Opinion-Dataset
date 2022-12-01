@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="93" item="1995 Chevrolet Corvette" rating="5">
+	<title>
+		<sentence id="1">
+			Take(1) that(2) C6(3) away(4) give(5) back(6) my(7) C4(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliable(1) ,(2) fast(3) ,(4) fast(5) ,(6) did(7) I(8) say(9) fast(10) ,(11) top(12) notch(13) handling(14) 
+			<opinion polarity="+" feature="handling" featWords="14" opWords="12,13"/>
+			<opinion polarity="+" feature="speed" opWords="10"/>
+			<opinion polarity="+" feature="speed" opWords="5"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) crashed(2) mine(3) ,(4) I(5) miss(6) her(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) owning(2) 1776(3) Stingray(4) ,(5) two(6) Toyota_Supras(7) 1983(8) and(9) a(10) 1993(11) it(12) did(13) not(14) take(15) long(16) to(17) realize(18) that(19) the(20) C4(21) was(22) the(23) car(24) I(25) was(26) looking(27) for(28) all(29) this(30) years(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			After(1) owning(2) it(3) for(4) about(5) two(6) years(7) I(8) got(9) into(10) an(11) accident(12) where(13) I(14) lost(15) my(16) dream(17) beauty(18) ,(19) since(20) then(21) I(22) surf(23) the(24) internet(25) looking(26) for(27) the(28) same(29) look(30) my(31) C4(32) use(33) to(34) have(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			I(1) got(2) into(3) an(4) accident(5) in_2000(6) ,(7) I(8) impacted(9) a(10) Toyota_Land_Cruiser(11) head(12) to(13) head(14) in(15) a(16) curvy(17) road(18) in(19) Germany(20) ,(21) I(22) bet(23) anybody(24) is(25) thinking(26) "(27) G(28) "(29) I(30) bet(31) was(32) ugly(33) ,(34) well(35) yes(36) it(37) was(38) but(39) for(40) my(41) and(42) your(43) surprise(44) I(45) came(46) out(47) of(48) the(49) car(50) with(51) only(52) some(53) scratches(54) on(55) my(56) face(57) from(58) the(59) air(60) bag(61) impact(62) ,(63) my(64) car(65) was(66) totaled(67) and(68) so(69) was(70) the(71) Land_Crusier(72) .(73) 
+		</sentence>
+		<sentence id="4">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) Full(16) options(17) ,(18) removable(19) top(20) 
+		</sentence>
+	</text>
+</review>

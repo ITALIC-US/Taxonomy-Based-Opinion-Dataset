@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="388" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			My_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			BMW(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			?(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) own(2) the(3) 2.3(4) roadster(5) ,(6) All(7) you(8) have(9) to(10) do(11) is(12) look(13) at(14) my(15) car(16) and(17) you(18) will(19) fall(20) in(21) love(22) with(23) the(24) way(25) it(26) looks(27) ,(28) but(29) if(30) that(31) does(32) not(33) do(34) it(35) for(36) you(37) test(38) drive(39) the(40) car(41) and(42) you(43) will(44) be(45) in(46) ahhh(47) .(48) 
+		</sentence>
+		<sentence id="2">
+			The(1) handling(2) of(3) the(4) car(5) is(6) so(7) nice(8) ,(9) it(10) brakes(11) very(12) well(13) and(14) the(15) turning(16) is(17) incredible(18) .(19) 
+			<opinion polarity="+" feature="turning radius" featWords="16" opWords="18"/>
+			<opinion polarity="+" feature="brakes" opWords="11,13" potency="12"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="3">
+			I(1) paid(2) about(3) 38,000(4) for(5) the(6) car(7) and(8) it(9) was(10) well(11) worth(12) it(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Driving(1) down(2) the(3) road(4) in(5) this(6) beauty(7) is(8) a(9) nice(10) feeling(11) too(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			It(1) feels(2) like(3) people(4) stare(5) and(6) respect(7) you(8) for(9) driving(10) a(11) BMW(12) ,(13) it(14) makes(15) you(16) feel(17) like(18) you(19) are(20) speacial(21) to(22) the(23) people(24) you(25) do(26) not(27) even(28) know(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			The(1) interior(2) of(3) the(4) car(5) is(6) nice(7) ,(8) if(9) you(10) are(11) not(12) used(13) to(14) the(15) interior(16) of(17) a(18) normal(19) BMW(20) and(21) are(22) used(23) to(24) the(25) interior(26) of(27) a(28) normal(29) convertable(30) you(31) will(32) be(33) in(34) for(35) a(36) surprise(37) .(38) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) is(3) a(4) luxury(5) sportscar(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Take(1) the(2) top(3) off(4) and(5) you(6) are(7) in(8) a(9) dreamland(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			So(1) go(2) to(3) your(4) local(5) BMW(6) dealer(7) and(8) take(9) a(10) look(11) at(12) this(13) car(14) ,(15) you(16) will(17) be(18) amazed(19) .(20) 
+		</sentence>
+	</text>
+</review>

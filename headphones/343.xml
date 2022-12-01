@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="343" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			pretty(1) good(2) but(3) pretty(4) expensive(5) 
+			<opinion polarity="+" feature="headphones" opWords="2" potency="1"/>
+			<opinion polarity="-" feature="price" opWords="5" potency="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) noise(2) cancellation(3) ,(4) good(5) bass(6) sound(7) ,(8) fairly(9) comfortable(10) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) ,(2) not(3) as(4) comfortable(5) as(6) hoped(7) ,(8) must(9) be(10) switched(11) on(12) for(13) music(14) listening(15) ,(16) mid-range(17) poor(18) 
+			<opinion polarity="-" feature="mids" featWords="17" opWords="18"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			great(1) noise(2) reduction(3) ,(4) not(5) as(6) comfortable(7) as(8) hoped(9) .(10) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) the(2) best(3) value(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) pair(4) of(5) Sharper_Image(6) headphones(7) ((8) 50(9) $(10) )(11) and(12) finally(13) tried(14) out(15) the(16) Bose_QCII(17) -(18) Compared(19) them(20) on(21) 1(22) .(23) comfort(24) 2(25) .(26) sound(27) &(28) noise(29) cancellation(30) The_QCII(31) fit(32) around(33) the(34) ears(35) ((36) not(37) on(38) top(39) of(40) the(41) ears(42) like(43) SI(44) -(45) which(46) tend(47) to(48) make(49) my(50) ears(51) sore(52) )(53) .(54) 
+		</sentence>
+		<sentence id="2">
+			However(1) the(2) pressure(3) of(4) the(5) QCII(6) is(7) 4x(8) greater(9) than(10) the(11) SI(12) so(13) after(14) a(15) 7(16) hour(17) flight(18) end(19) up(20) being(21) only(22) a_bit(23) more(24) comfortable(25) than(26) the(27) SI(28) ((29) though(30) not(31) less(32) comfortable(33) )(34) ,(35) which(36) was(37) disappointing(38) 2(39) .(40) turning(41) on(42) noise(43) cancellation(44) for(45) the(46) QCII(47) provides(48) about(49) the(50) same(51) degree(52) of(53) noise(54) reduction(55) as(56) the(57) SI(58) mechanism(59) ((60) the(61) SI(62) advertise(63) 15dB(64) noise(65) reduction(66) ;(67) Bose(68) avoid(69) quoting(70) a(71) spec(72) .(73) The(74) SI(75) introduces(76) a(77) discernable(78) hiss(79) when(80) turned(81) on(82) )(83) .(84) 
+		</sentence>
+		<sentence id="3">
+			But(1) the(2) QCII(3) are(4) far(5) superior(6) than(7) the(8) SI(9) because(10) the(11) headphones(12) themselves(13) surround(14) and(15) isolate(16) the(17) ears(18) -(19) this(20) eliminates(21) most(22) of(23) the(24) noise(25) by(26) itself(27) even(28) without(29) turning(30) on(31) the(32) noise(33) cancellation(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			At(1) the(2) same(3) time(4) it(5) 's(6) very(7) hard(8) to(9) hear(10) anyone(11) talking(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Plane(1) engine(2) noise(3) is(4) down(5) over(6) 90_%(7) while(8) the(9) SI(10) only(11) reduces(12) engine(13) noise(14) 70_%(15) ,(16) although(17) that(18) 's(19) almost(20) enough(21) for(22) me(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Annoyingly(1) ,(2) the(3) QCII(4) only(5) work(6) with(7) an(8) audio(9) source(10) when(11) turned(12) on(13) ((14) the(15) SI(16) enable(17) listening(18) to(19) music(20) when(21) noise(22) cancellation(23) is(24) off(25) )(26) ,(27) which(28) means(29) the(30) battery(31) will(32) run(33) down(34) just(35) for(36) music(37) listening(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			The(1) sound(2) on(3) the(4) QCII(5) is(6) very(7) strong(8) in(9) treble(10) but(11) weak(12) in(13) mid-range(14) so(15) has(16) a(17) tinny(18) quality(19) -(20) surprising(21) in(22) such(23) a(24) high-end(25) product(26) .(27) 
+			<opinion polarity="+" feature="highs" featWords="10" opWords="8" potency="7"/>
+			<opinion polarity="-" feature="mids" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="8">
+			Conclusion(1) -(2) a(3) great(4) product(5) but(6) the(7) price(8) ((9) 328(10) $(11) including(12) tax(13) )(14) is(15) substantially(16) out(17) of(18) line(19) for(20) its(21) value(22) compared(23) to(24) the(25) SI(26) headphones(27) ((28) 53(29) $(30) )(31) ;(32) maybe(33) 120(34) $(35) or(36) so(37) would(38) be(39) in(40) line(41) .(42) 
+			<opinion polarity="+" feature="headphones" opWords="4"/>
+			<opinion polarity="-" feature="price" featWords="8" opWords="17,18,19" potency="16"/>
+		</sentence>
+		<sentence id="9">
+			It(1) would(2) have(3) been(4) better(5) if(6) the(7) QCII(8) were(9) more(10) comfortable(11) even(12) with(13) less(14) effective(15) noise(16) reduction(17) 
+		</sentence>
+	</text>
+</review>

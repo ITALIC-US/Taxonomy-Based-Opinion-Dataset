@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="390" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) car(2) worth(3) every(4) penny(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Takes(1) a(2) lickin(3) '(4) and(5) keeps(6) on(7) tickin(8) '(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nada(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) ,(3) you(4) could(5) not(6) possibly(7) find(8) a(9) better(10) deal(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) had(3) my(4) 1992(5) Saturn_SL(6) for(7) almost(8) two(9) years(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) if(3) from(4) a(5) friend(6) of(7) mine(8) who(9) never(10) had(11) any(12) problems(13) with(14) it(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			At(1) first(2) I(3) was(4) worried(5) about(6) buying(7) a(8) car(9) so(10) old(11) but(12) now(13) I(14) know(15) that(16) it(17) is(18) one(19) of(20) the(21) best(22) money-spending(23) decisions(24) I(25) have(26) ever(27) made(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			Considering(1) the(2) age(3) and(4) mileage(5) of(6) my(7) car(8) ((9) 15489(10) )(11) I(12) have(13) gotten(14) more(15) than(16) my(17) money(18) 's(19) worth(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) had(3) very(4) minor(5) problems(6) with(7) my(8) Saturn(9) and(10) not(11) many(12) of(13) them(14) either(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			My_Saturn_SL(1) drives(2) well(3) in(4) very(5) many(6) different(7) conditions(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) honestly(3) say(4) that(5) the(6) Saturn(7) brand(8) is(9) highly(10) esteemed(11) by(12) me(13) and(14) my(15) other(16) friends(17) that(18) have(19) them(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			I(1) recommend(2) that(3) anyone(4) in(5) the(6) market(7) for(8) a(9) new(10) car(11) take(12) a(13) Saturn(14) for(15) a(16) test(17) drive(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			I(1) can(2) almost(3) positively(4) reccomend(5) that(6) you(7) will(8) love(9) it(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" featRef="car" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 1000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) Saturn_SL(16) ,(17) standard(18) ,(19) automatic(20) windows(21) ,(22) automatic(23) locks(24) 
+		</sentence>
+	</text>
+</review>

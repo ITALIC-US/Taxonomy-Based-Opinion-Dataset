@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="630" item="2002 Subaru Impreza" rating="3">
+	<title>
+		<sentence id="1">
+			Do(1) I(2) still(3) love(4) it(5) after(6) 15K_miles(7) ?(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Acceleration(1) ,(2) sports(3) car(4) handling(5) in(6) an(7) AWD(8) ,(9) great(10) seats(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) convenience(2) ,(3) alignment(4) &(5) brake(6) problems(7) ,(8) break-away(9) mirrors(10) break(11) ,(12) weak(13) wipers(14) .(15) 
+			<opinion polarity="-" feature="wipers" featWords="14" opWords="13"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) to(2) drive(3) ,(4) but(5) not(6) sure(7) its(8) built(9) for(10) long(11) term(12) ownership(13) like(14) a(15) Toyota(16) .(17) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Thw_WRX(1) seduced(2) me(3) to(4) end(5) my(6) love(7) affair(8) with(9) Toyotas(10) after(11) 20(12) years(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) live(2) in(3) the(4) mountains(5) ,(6) needed(7) AWD(8) ,(9) and(10) wanted(11) to(12) simplify(13) from(14) having(15) BOTH(16) a(17) regular(18) 4(19) seat(20) daily(21) driver(22) AND(23) a(24) 2(25) seat(26) fun(27) machine(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="27"/>
+		</sentence>
+		<sentence id="3">
+			The(1) answer(2) was(3) a(4) WRX(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			Other(1) reviewers(2) have(3) written(4) plenty(5) about(6) how(7) fun(8) this(9) thing(10) is(11) to(12) drive(13) ,(14) and(15) I(16) agree(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			Its(1) a(2) kick(3) ,(4) especially(5) on(6) curvy(7) mountain(8) backroads(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			With(1) a(2) lower(3) seating(4) position(5) ,(6) I(7) 'd(8) never(9) lust(10) for(11) another(12) 2(13) seat(14) ,(15) rag(16) top(17) pocket(18) rocket(19) again(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			But(1) after(2) 15,000_miles(3) ,(4) I(5) do(6) have(7) some(8) concerns(9) about(10) build(11) quality(12) and(13) Subaru(14) 's(15) commitment(16) to(17) customer(18) satisfaction(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			More(1) problems(2) have(3) cropped(4) up(5) in(6) my(7) first(8) 15,000_miles(9) than(10) in(11) 4(12) Toyotas(13) over(14) two(15) decades(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) alignment(2) went(3) out(4) of(5) whack(6) ,(7) requiring(8) the(9) front(10) brakes(11) and(12) the(13) two(14) worn(15) front(16) tires(17) to(18) be(19) replaced(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) waiting(3) for(4) Subaru(5) 's(6) decision(7) on(8) whether(9) the(10) tires(11) will(12) be(13) covered(14) under(15) the(16) warranty(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Subaru(1) ,(2) it(3) seems(4) ,(5) has(6) a(7) cumbersome(8) warranty(9) pre-approval(10) process(11) that(12) makes(13) your(14) HMO(15) seem(16) responsive(17) .(18) 
+			<opinion polarity="-" feature="warranty" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="response" opWords="17"/>
+		</sentence>
+		<sentence id="12">
+			The(1) "(2) break-away(3) "(4) mirror(5) on(6) the(7) passenger(8) side(9) ,(10) well(11) ,(12) broke(13) away(14) -(15) not(16) sure(17) how(18) -(19) but(20) then(21) did(22) not(23) flip(24) back(25) .(26) 
+			<opinion polarity="-" feature="mirrors" featWords="5" opWords="13"/>
+		</sentence>
+		<sentence id="13">
+			Subaru(1) agrees(2) its(3) a(4) design(5) flaw(6) ,(7) and(8) has(9) redesigned(10) the(11) mirror(12) ((13) and(14) will(15) replace(16) this(17) one(18) under(19) warranty(20) .(21) )(22) But(23) when(24) I(25) asked(26) if(27) the(28) driver(29) 's(30) side(31) mirror(32) could(33) also(34) be(35) replaced(36) with(37) the(38) new(39) ,(40) redesigned(41) one(42) ,(43) I(44) was(45) told(46) "(47) Not(48) until(49) it(50) breaks(51) .(52) "(53) I(54) felt(55) like(56) going(57) out(58) to(59) the(60) car(61) and(62) hitting(63) it(64) to(65) make(66) it(67) pop(68) ,(69) so(70) they(71) 'd(72) replace(73) it(74) .(75) 
+		</sentence>
+		<sentence id="14">
+			If(1) it(2) breaks(3) away(4) after(5) my(6) warranty(7) is(8) up(9) ,(10) hey(11) ,(12) its(13) my(14) $200(15) repair(16) !(17) 
+		</sentence>
+		<sentence id="15">
+			Their(1) approach(2) seems(3) pretty(4) cheap(5) to(6) me(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			The(1) 4(2) speed(3) manual(4) shift(5) is(6) not(7) real(8) smooth(9) ((10) and(11) ,(12) hey(13) ,(14) I(15) 've(16) owned(17) a_LOT_of(18) manual(19) shift(20) vehicles(21) )(22) .(23) 
+			<opinion polarity="-" feature="shifter" featWords="5" opWords="7,9"/>
+		</sentence>
+		<sentence id="17">
+			It(1) periodically(2) will(3) not(4) go(5) into(6) reverse(7) without(8) putting(9) into(10) first(11) and(12) going(13) forward(14) a_bit(15) first(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Even(1) my(2) Ford_Ranger(3) truck(4) does(5) not(6) have(7) that(8) problem(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			Subaru(1) says(2) that(3) 's(4) just(5) the(6) way(7) it(8) is(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			But(1) in(2) a(3) sports-tuned(4) car(5) ,(6) the(7) shift(8) mechanism(9) should(10) get(11) a(12) little(13) more(14) attention(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			The(1) interior(2) is(3) a(4) disappointment(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			I(1) do(2) not(3) mind(4) the(5) cheap(6) plastic(7) ((8) I(9) knew(10) I(11) was(12) not(13) buying(14) a(15) $40K(16) German(17) luxury(18) car(19) )(20) ,(21) but(22) it(23) could(24) use(25) more(26) than(27) one(28) cup(29) holder(30) !(31) 
+		</sentence>
+		<sentence id="23">
+			The(1) seats(2) are(3) waaay(4) comfortable(5) ,(6) but(7) the(8) upholstery(9) is(10) impossible(11) to(12) keep(13) clean(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="24">
+			Lint(1) rollers(2) are(3) the(4) only(5) thing(6) that(7) will(8) get(9) up(10) dog(11) hair(12) ,(13) and(14) the(15) blue(16) mesh(17) does(18) not(19) clean(20) easily(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			There(1) are(2) a(3) few(4) other(5) niggling(6) problems(7) ,(8) like(9) wiper(10) blades(11) that(12) did(13) not(14) last(15) past(16) 13K_miles(17) ,(18) but(19) I(20) will(21) not(22) go(23) into(24) detail(25) here(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			Overall(1) ,(2) though(3) ,(4) it(5) does(6) not(7) seem(8) like(9) Subaru(10) is(11) very(12) concerned(13) about(14) making(15) me(16) a(17) happy(18) ,(19) contented(20) owner(21) ---(22) who(23) will(24) buy(25) again(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			The(1) company(2) seems(3) more(4) interested(5) in(6) selling(7) me(8) an(9) extended(10) warranty(11) and(12) accessories(13) ((14) I(15) 've(16) received(17) about(18) a_half(19) dozen(20) mailings(21) about(22) that(23) )(24) than(25) in(26) finding(27) out(28) how(29) I(30) like(31) my(32) car(33) ((34) they(35) 've(36) never(37) sent(38) me(39) a(40) survey(41) questionairre(42) .(43) )(44) Both_Toyota(45) ((46) who(47) built(48) my(49) last(50) 4(51) cars(52) )(53) and(54) Ford(55) ((56) who(57) built(58) my(59) last(60) 2(61) trucks(62) )(63) regularly(64) questioned(65) me(66) about(67) my(68) experience(69) .(70) 
+		</sentence>
+		<sentence id="28">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24000.00(7) Model(8) and(9) Options(10) :(11) WRX(12) 
+		</sentence>
+	</text>
+</review>

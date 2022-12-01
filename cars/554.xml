@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="554" item="1997 Toyota Celica" rating="2">
+	<title>
+		<sentence id="1">
+			Get(1) an(2) Audi(3) ,(4) Get_a_Volvo(5) ...(6) just(7) no(8) Toyota(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) moves(2) ....(3) sometimes(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			are(1) not(2) the(3) Audi_TT(4) 's(5) cute(6) ?(7) 
+			<opinion polarity="+" feature="design" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Ok(1) .(2) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Where(1) shall(2) I(3) begin(4) in(5) my(6) quest(7) to(8) object(9) to(10) the(11) creation(12) of(13) this(14) vehicle(15) ?(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) turned(2) 16(3) ,(4) and(5) was(6) surprised(7) by(8) a(9) brand(10) new(11) rat(12) trap(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			My(1) father(2) broke(3) down(4) and(5) bought(6) me(7) ,(8) his(9) son(10) ,(11) a(12) car(13) he(14) claimed(15) would(16) later(17) be(18) perfect(19) for(20) a(21) "(22) little(23) girl(24) 's(25) first(26) car(27) .(28) "(29) Oh(30) ,(31) the(32) irony(33) in(34) that(35) !(36) 
+		</sentence>
+		<sentence id="5">
+			Anyhow(1) ,(2) back(3) to(4) the(5) car(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) a(3) new(4) ((5) at(6) the(7) time(8) )(9) 1997(10) Celica_Convertible_Limited_Edition(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			I(1) now(2) know(3) why(4) it(5) was(6) limited(7) !(8) 
+		</sentence>
+		<sentence id="8">
+			It(1) stunk(2) .(3) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			I(1) had(2) to(3) have(4) the(5) entire(6) roof(7) replaced(8) two_times(9) ,(10) and(11) it(12) needed(13) a(14) third(15) when(16) I(17) sold(18) it(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			Now(1) ,(2) tell(3) me(4) that(5) is(6) not(7) a(8) lemon(9) ...(10) or(11) a(12) pile(13) of(14) scrap-in-training(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			That(1) is(2) the(3) tip(4) of(5) the(6) iceberg(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			I(1) am(2) glad(3) I(4) bought(5) the(6) extended(7) warranty(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			In(1) two(2) years(3) ,(4) the(5) car(6) required(7) about(8) $8,000(9) in(10) repairs(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) am(2) picky(3) ,(4) but(5) it(6) was(7) garbage(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			I(1) drove(2) it(3) again(4) a(5) month(6) or(7) so(8) ago(9) ,(10) as(11) it(12) has(13) proven(14) impossible(15) to(16) sell(17) ,(18) and(19) wow(20) !(21) 
+		</sentence>
+		<sentence id="16">
+			I(1) think(2) my(3) go-cart(4) when(5) I(6) was(7) 8(8) was(9) bigger(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			So(1) ,(2) to(3) anyone(4) looking(5) at(6) a(7) car(8) ...(9) I(10) have(11) one(12) for(13) sale(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			And(1) boy(2) do(3) I(4) have(5) a(6) deal(7) for(8) you(9) !(10) 
+		</sentence>
+		<sentence id="19">
+			Haha(1) .(2) 
+		</sentence>
+		<sentence id="20">
+			Stay(1) away(2) ,(3) please(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+	</text>
+</review>

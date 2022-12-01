@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="301" item="Sennheiser MX 500 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Sounds(1) just(2) like(3) my(4) iPod(5) buds(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nicer(1) shape(2) than(3) the(4) iPod(5) buds(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Case(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Built(1) in(2) volume(3) control(4) .(5) 
+			<opinion polarity="+" feature="volume control" featWords="3,4" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) them(3) to(4) compare(5) to(6) my(7) standard(8) iPod(9) ear(10) buds(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) really(2) could(3) not(4) tell(5) the(6) difference(7) in(8) the(9) sound(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) do(2) like(3) the(4) shape(5) better(6) though(7) ,(8) and(9) they(10) come(11) in(12) a(13) nice(14) case(15) .(16) 
+			<opinion polarity="+" feature="case" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="4">
+			They(1) also(2) have(3) a(4) volume(5) control(6) built(7) into(8) the(9) wire(10) ,(11) that(12) could(13) come(14) in(15) handy(16) I(17) guess(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Since(1) they(2) sound(3) just(4) like(5) the(6) iPod(7) buds(8) ,(9) I(10) guess(11) I(12) do(13) not(14) really(15) need(16) them(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) 'll(2) keep(3) them(4) as(5) backup(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			The(1) trick(2) of(3) course(4) is(5) to(6) add(7) Slic_Sound(8) for(9) about(10) $10(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			With(1) Slic_Sound(2) ,(3) they(4) sound(5) great(6) ,(7) but(8) of(9) course(10) the(11) standard(12) iPod(13) buds(14) do(15) also(16) .(17) 
+			<opinion polarity="+" feature="sound quality" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

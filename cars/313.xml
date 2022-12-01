@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="313" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			I(1) love(2) my(3) Saturn(4) ...(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very_Reliable_Car(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			Low(1) maintenance(2) 
+			<opinion polarity="+" feature="maintenance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) all(2) dealers(3) are(4) trustworthy(5) ,(6) as(7) Saturn(8) wants(9) you(10) to(11) believe(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) 1992(4) Saturn(5) replace(6) a(7) car(8) that(9) was(10) falling(11) apart(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Both(1) my(2) parents(3) have(4) Saturns(5) and(6) I(7) had(8) friends(9) who(10) had(11) Saturns(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) sort(3) of(4) like(5) their(6) commercials(7) ...(8) everyone(9) I(10) knew(11) had(12) one(13) !(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) thrilled(3) because(4) the(5) car(6) was(7) wonderful(8) !(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			In(1) the(2) last(3) 8(4) years(5) ,(6) the(7) car(8) has(9) helped(10) me(11) move(12) a(13) dozen(14) times(15) and(16) still(17) remained(18) the(19) most(20) reliable(21) car(22) I(23) 've(24) got(25) ,(26) although(27) my(28) husband(29) argues(30) his(31) truck(32) is(33) better(34) ((35) yeah(36) ,(37) sure(38) )(39) .(40) 
+			<opinion polarity="+" feature="reliability" opWords="21"/>
+		</sentence>
+		<sentence id="6">
+			The(1) car(2) was(3) with(4) me(5) through(6) college(7) when(8) my(9) money(10) went(11) towards(12) '(13) other(14) activities(15) '(16) instead_of(17) maintenance(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) never(3) broken(4) down(5) on(6) me(7) ,(8) although(9) it(10) does(11) seem(12) to(13) run(14) out(15) of(16) oil(17) every(18) 6-8(19) weeks(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Several(1) times(2) I(3) 've(4) had(5) the(6) oil(7) gasket(8) replaced(9) ,(10) but(11) it(12) has(13) not(14) helped(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) is(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) not(3) the(4) kind(5) of(6) person(7) who(8) digs(9) leather(10) or(11) fancy(12) things(13) in(14) a(15) car(16) ,(17) though(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			My(1) requirements(2) of(3) a(4) car(5) :(6) Does(7) it(8) run(9) reliably(10) ?(11) ((12) yes(13) )(14) Can_I(15) sit(16) in(17) it(18) for(19) long(20) roadtrips(21) ?(22) ((23) yes(24) )(25) Does(26) it(27) have(28) music(29) ?(30) ((31) yes(32) )(33) I(34) used(35) to(36) drive(37) from(38) Virginia_Beach(39) to(40) Washington_DC(41) ((42) about(43) 250_miles(44) )(45) every(46) week(47) for(48) a(49) year(50) .(51) 
+		</sentence>
+		<sentence id="12">
+			And(1) I(2) made(3) a_lot_of(4) roadtrips(5) to(6) upstate(7) New_York(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Now(1) that(2) I(3) 've(4) got(5) two(6) children(7) ,(8) the(9) space(10) seems(11) a(12) little(13) smaller(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			The(1) trunk(2) is(3) full(4) with(5) the(6) double(7) stroller(8) and(9) a(10) couple(11) of(12) bags(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) back(2) seat(3) does(4) give(5) us(6) enough(7) room(8) for(9) both(10) car(11) seats(12) without(13) having(14) the(15) kids(16) close(17) enough(18) to(19) touch(20) each(21) other(22) ((23) big(24) bonus(25) !(26) )(27) .(28) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) not(3) a_lot_of(4) room(5) for(6) their(7) legs(8) in(9) the(10) back(11) seats(12) ,(13) though(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			If(1) we(2) have(3) one(4) more(5) child(6) ,(7) we(8) 'll(9) have(10) to(11) upgrade(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			When(1) I(2) 've(3) had(4) repairs(5) or(6) work(7) done(8) on(9) it(10) ,(11) I(12) 've(13) always(14) taken(15) it(16) to(17) a(18) Saturn(19) dealer(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			I(1) lived(2) in(3) Virginia_Beach(4) and(5) was(6) very(7) happy(8) with(9) the(10) service(11) I(12) got(13) from(14) them(15) .(16) 
+			<opinion polarity="+" feature="service" featWords="11" opWords="8"/>
+		</sentence>
+		<sentence id="20">
+			I(1) fell(2) asleep(3) at(4) the(5) wheel(6) one(7) night(8) on(9) my(10) way(11) home(12) and(13) had(14) to(15) have(16) a(17) front(18) wheel(19) replaced(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			I(1) was(2) concerned(3) about(4) the(5) way(6) it(7) felt(8) when(9) I(10) got(11) it(12) back(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			A(1) service(2) person(3) drove(4) around(5) with(6) me(7) for(8) 15(9) minutes(10) talking(11) about(12) why(13) it(14) might(15) feel(16) funny(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			He(1) reran(2) a(3) test(4) and(5) showed(6) me(7) the(8) results(9) ;(10) the(11) car(12) was(13) fine(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="14"/>
+		</sentence>
+		<sentence id="24">
+			I(1) will(2) say(3) you(4) can(5) not(6) trust(7) all(8) Saturn(9) dealers(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			We(1) moved(2) to(3) Maryland(4) and(5) took(6) the(7) car(8) to(9) a(10) dealer(11) to(12) get(13) the(14) state(15) inspection(16) done(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			The(1) car(2) had(3) *(4) just(5) *(6) passed(7) Virginia(8) state(9) inspection(10) ,(11) so(12) I(13) did(14) not(15) expect(16) anything(17) needed(18) to(19) be(20) done(21) .(22) 
+		</sentence>
+		<sentence id="27">
+			They(1) called(2) with(3) almost(4) $3K(5) in(6) repairs(7) !(8) !(9) 
+		</sentence>
+		<sentence id="28">
+			Then(1) told(2) me(3) they(4) had(5) not(6) taken(7) it(8) to(9) another(10) place(11) to(12) get(13) the(14) inspection(15) ,(16) but(17) that(18) 's(19) what(20) they(21) estimated(22) needed(23) to(24) be(25) done(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			I(1) said(2) I(3) could(4) not(5) afford(6) that(7) and(8) only(9) wanted(10) repaired(11) what(12) was(13) necessary(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			The(1) state(2) inspection(3) came(4) back(5) with(6) about(7) $2K(8) in(9) repairs(10) !(11) 
+		</sentence>
+		<sentence id="31">
+			Two(1) tires(2) needed(3) to(4) be(5) replaced(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			When(1) I(2) had(3) tires(4) replaced(5) in(6) Virginia_Beach(7) ,(8) I(9) always(10) got(11) the(12) same(13) tires(14) as(15) were(16) on(17) new(18) cars(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			The(1) Silver_Spring(2) dealer(3) gave(4) me(5) what(6) looked(7) like(8) used(9) tires(10) ;(11) I(12) had(13) paid(14) almost(15) $90/each(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			I(1) asked(2) about(3) them(4) and(5) was(6) given(7) a(8) you-don't-know-anything-about-tires(9) .(10) -(11) these-are-fine(12) story(13) .(14) 
+		</sentence>
+		<sentence id="35">
+			Two(1) days(2) later(3) one(4) of(5) the(6) tires(7) popped(8) .(9) 
+			<opinion polarity="-" feature="tire" featWords="7" opWords="8"/>
+		</sentence>
+		<sentence id="36">
+			I(1) took(2) the(3) car(4) to(5) a(6) nearby(7) Merchant(8) 's(9) and(10) had(11) both(12) tires(13) replaced(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			I(1) swore(2) off(3) Saturn(4) forever(5) .(6) 
+		</sentence>
+		<sentence id="38">
+			I(1) still(2) loved(3) my(4) car(5) ,(6) though(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="39">
+			My(1) experience(2) with(3) that(4) Saturn(5) dealer(6) led(7) me(8) to(9) buy(10) a(11) Honda(12) for(13) my(14) husband(15) last(16) year(17) .(18) 
+		</sentence>
+		<sentence id="40">
+			We(1) would(2) not(3) have(4) ever(5) gone(6) back(7) to(8) Saturn(9) ,(10) but(11) the(12) driver(13) and(14) passenger(15) window(16) both(17) stopped(18) working(19) and(20) Merchant(21) 's(22) could(23) not(24) fix(25) it(26) .(27) 
+		</sentence>
+		<sentence id="41">
+			I(1) 'm(2) living(3) in(4) Virginia(5) again(6) ,(7) so(8) I(9) took(10) the(11) car(12) to(13) the(14) Alexandria(15) ,(16) VA_Saturn(17) dealer(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			I(1) 've(2) had(3) just(4) a(5) few(6) occasions(7) to(8) go(9) there(10) ((11) to(12) fix(13) the(14) windows(15) and(16) to(17) get(18) the(19) car(20) fixed(21) after(22) the(23) car(24) had(25) been(26) driven(27) into(28) a(29) couple(30) of(31) times(32) )(33) ,(34) but(35) I(36) feel(37) like(38) I(39) 've(40) found(41) a(42) dealership(43) with(44) the(45) same(46) belief(47) in(48) quality(49) and(50) customer(51) service(52) as(53) I(54) had(55) in(56) Virginia_Beach(57) .(58) 
+		</sentence>
+		<sentence id="43">
+			But(1) my(2) automatic(3) trust(4) of(5) Saturn(6) dealerships(7) is(8) gone(9) .(10) 
+		</sentence>
+		<sentence id="44">
+			My(1) car(2) is(3) getting(4) on(5) in(6) years(7) .(8) 
+		</sentence>
+		<sentence id="45">
+			I(1) still(2) remember(3) all(4) the(5) times(6) it(7) was(8) on(9) E.(10) .(11) .(12) but(13) did(14) not(15) leave(16) me(17) stranded(18) on(19) a(20) roadside(21) .(22) 
+		</sentence>
+		<sentence id="46">
+			I(1) remember(2) the(3) cold(4) mornings(5) when(6) I(7) was(8) hoping(9) it(10) 'd(11) not(12) turn(13) over(14) ,(15) so(16) I(17) could(18) go(19) back(20) to(21) my(22) warm(23) bed(24) .(25) 
+		</sentence>
+		<sentence id="47">
+			And(1) ((2) this(3) is(4) the(5) *(6) only(7) *(8) time(9) I(10) 'll(11) confess(12) this(13) )(14) I(15) can(16) not(17) count(18) the(19) number(20) of(21) times(22) I(23) 've(24) told(25) someone(26) the(27) car(28) started(29) rattling(30) a(31) little(32) and(33) they(34) point(35) out(36) that(37) I(38) 'm(39) out(40) of(41) oil(42) ...(43) When(44) was(45) the(46) last(47) time(48) I(49) had(50) it(51) changed(52) ?(53) 
+		</sentence>
+		<sentence id="48">
+			Ummm(1) ...(2) I(3) 'm(4) sure(5) it(6) was(7) recently(8) !(9) 
+		</sentence>
+		<sentence id="49">
+			So(1) now(2) that(3) the(4) overhead(5) lights(6) are(7) broken(8) and(9) the(10) shoulder(11) seatbelts(12) do(13) not(14) roll(15) back_and_forth(16) and(17) the(18) tape(19) player(20) does(21) not(22) like(23) to(24) play(25) all(26) my(27) tapes(28) ,(29) my(30) husband(31) is(32) telling(33) me(34) to(35) get(36) a(37) new(38) car(39) .(40) 
+		</sentence>
+		<sentence id="50">
+			But(1) I(2) can(3) not(4) get(5) rid(6) of(7) my(8) Saturn(9) .(10) 
+		</sentence>
+		<sentence id="51">
+			As(1) a(2) college(3) kid(4) ,(5) I(6) abused(7) it(8) and(9) now(10) in(11) it(12) 's(13) golden(14) years(15) it(16) 's(17) still(18) running(19) fine(20) .(21) 
+		</sentence>
+		<sentence id="52">
+			My(1) car(2) gets(3) me(4) from(5) here(6) to(7) there(8) without(9) guzzling(10) gas(11) and(12) that(13) 's(14) what(15) 's(16) important(17) to(18) me(19) .(20) 
+		</sentence>
+	</text>
+</review>

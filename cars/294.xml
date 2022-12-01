@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="294" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			95(1) maxima(2) is(3) it(4) really(5) a(6) lux(7) .(8) car(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) interior(2) ,(3) nice(4) looks(5) ,(6) reliable(7) ,(8) spacious(9) 
+			<opinion polarity="+" feature="room" opWords="9"/>
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			needs(1) more(2) horse(3) power(4) ,(5) and(6) torque(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) find(2) the(3) maxima(4) to(5) be(6) a(7) very(8) fun(9) ,(10) economical(11) ,(12) and(13) sporty(14) family(15) sedan(16) .(17) 
+			<opinion polarity="+" feature="design" opWords="14"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			The(1) 95(2) maxima(3) has(4) 195(5) hp(6) .(7) which(8) is(9) plenty(10) for(11) this(12) Japanese(13) sedan(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) bose(4) stereo(5) system(6) that(7) packs(8) a(9) wallop(10) when(11) you(12) want(13) it(14) to(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			In_addition(1) to(2) its(3) stereo(4) system(5) it(6) also(7) has(8) an(9) easy(10) to(11) operate(12) climate(13) control(14) system(15) ,(16) radio(17) ,(18) and(19) controls(20) ,(21) with(22) an(23) ergonomic(24) design(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) ample(3) trunk(4) space(5) and(6) looks(7) to(8) die(9) for(10) .(11) 
+			<opinion polarity="+" feature="trunk space" featWords="4,5" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			It(1) comes(2) in(3) three(4) different(5) models(6) the(7) LE(8) ,(9) XE(10) ,(11) and(12) ,(13) SE(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Although(1) interior(2) options(3) range(4) from(5) leather(6) seats(7) to(8) sunroofs(9) they(10) all(11) have(12) the(13) same(14) 195(15) hp(16) .(17) engine(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			Overall_I(1) find(2) this(3) car(4) to(5) be(6) a(7) dependable(8) family(9) car(10) with(11) with(12) many(13) luxurious(14) options(15) .(16) 
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+		</sentence>
+	</text>
+</review>

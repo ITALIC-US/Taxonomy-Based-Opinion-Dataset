@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="625" item="1999 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			LEMON_LIKE_NO_OTHER(1) !(2) !(3) !(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			when(1) it(2) WAS(3) working(4) it(5) drove(6) pretty(7) well(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="6,8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			fell(1) apart(2) after(3) 93,000_miles(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			probably(1) a(2) good(3) car(4) if(5) you(6) have(7) some(8) sort(9) of(10) warranty(11) on(12) it(13) or(14) buy(15) it(16) with(17) low(18) mileage(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="gas" featWords="19" opWords="18"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) looking(3) to(4) buy(5) my(6) first(7) car(8) and(9) I(10) was(11) 17(12) and(13) highly(14) impatient(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) knew(2) that(3) civics(4) had(5) a(6) reputation(7) of(8) lasting(9) a(10) long(11) time(12) and(13) being(14) good(15) on(16) gas(17) .(18) 
+			<opinion polarity="+" feature="gas" featWords="17" opWords="15"/>
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) looked(3) in(4) the(5) newspaper(6) and(7) called(8) around(9) to(10) some(11) of(12) the(13) ads(14) for(15) used(16) Honda(17) civics(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) a(3) 1999(4) Honda(5) civic(6) with(7) 93,000_miles(8) on(9) it(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) body(2) and(3) cabin(4) ,(5) along_with(6) under(7) the(8) hood(9) looked(10) clean(11) and(12) well(13) maintained(14) .(15) 
+			<opinion polarity="+" feature="maintenance" opWords="13,14"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) no(3) experience(4) with(5) cars(6) so(7) I(8) took(9) my(10) chances(11) that(12) the(13) previous(14) owner(15) was(16) honest(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) bought(2) the(3) car(4) for(5) 6,500_dollars(6) because(7) that(8) was(9) all(10) I(11) had(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) had(2) no(3) skills(4) at(5) negotiating(6) the(7) price(8) or(9) even(10) knowing(11) what(12) a(13) good(14) price(15) was(16) .(17) 
+			<opinion polarity="+" feature="price" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="9">
+			The(1) car(2) drove(3) well(4) for(5) about(6) a(7) month(8) .(9) 
+			<opinion polarity="+" feature="ride quality" opWords="3,4"/>
+		</sentence>
+		<sentence id="10">
+			Then(1) the(2) alternator(3) belt(4) broke(5) and(6) the(7) car(8) stalled(9) on(10) a(11) major(12) intersection(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			It(1) also(2) went(3) into(4) shift(5) lock(6) and(7) there(8) was(9) absolutely(10) no(11) power(12) because(13) the(14) battery(15) was(16) totally(17) drained(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			I(1) took(2) it(3) to(4) firestone(5) and(6) they(7) replaced(8) the(9) belt(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			The(1) next(2) day(3) it(4) burnt(5) off(6) again(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			This(1) happened(2) two(3) more(4) times(5) until(6) the(7) people(8) at(9) Firestone(10) told(11) me(12) I(13) needed(14) an(15) all(16) new(17) alternator(18) because(19) mine(20) was(21) messed(22) up(23) but(24) they(25) couldn(26) t(27) tell(28) me(29) why(30) or(31) how(32) it(33) got(34) that(35) way(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			So(1) 700_dollars(2) later(3) I(4) have(5) a(6) fully(7) functional(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="16">
+			Four(1) months(2) later(3) the(4) muffler(5) starts(6) making(7) a(8) loud(9) noise(10) ;(11) 300_dollars(12) later(13) I(14) have(15) a(16) fully(17) functional(18) car(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="17">
+			Two(1) months(2) after(3) this(4) the(5) Odometer_FREEZES(6) at(7) 99,999_miles(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			The(1) next(2) month(3) the(4) car(5) starts(6) to(7) kick(8) and(9) buck(10) while(11) I(12) accelerate(13) ,(14) the(15) guys(16) at(17) Pep_Boys(18) tell(19) me(20) that(21) the(22) transmission(23) is(24) about(25) to(26) completely(27) go(28) .(29) 
+		</sentence>
+		<sentence id="19">
+			The(1) job(2) was(3) going(4) to(5) cost(6) 1800_dollars(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			I(1) gave(2) up(3) with(4) this(5) car(6) and(7) ended(8) up(9) buying(10) my(11) next(12) car(13) from(14) a(15) DEALER(16) ,(17) with(18) a(19) WARRANTY(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LX(16) 4-door(17) sedan(18) 
+		</sentence>
+	</text>
+</review>

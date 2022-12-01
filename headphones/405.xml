@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="405" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Where(1) Great_Sound_Meets_Unmatched_Comfort(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Superb_Sound(1) and(2) Great_Comfort(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_bit(1) expensive(2) but(3) you(4) get(5) what(6) you(7) pay(8) for(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Very(1) simply(2) ,(3) the(4) best(5) headphones(6) that(7) I(8) have(9) ever(10) owned(11) .(12) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) to(3) let(4) you(5) know(6) that(7) I(8) 'm(9) coming(10) from(11) a(12) PC(13) user(14) level(15) and(16) that(17) normally(18) I(19) never(20) use(21) headphones(22) with(23) my(24) setup(25) ,(26) choosing(27) only(28) to(29) go(30) with(31) creative(32) 's(33) speaker(34) rigs(35) to(36) match(37) my(38) Audigy(39) sound(40) card(41) .(42) 
+		</sentence>
+		<sentence id="2">
+			After(1) listening(2) to(3) the(4) sound(5) quality(6) produced(7) from(8) the(9) 590(10) ,(11) my(12) speaker(13) solution(14) is(15) now(16) collecting(17) dust(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) want(3) to(4) save(5) your(6) money(7) and(8) go(9) on(10) pretending(11) that(12) your(13) speaker(14) setup(15) rules(16) ,(17) do(18) not(19) sample(20) these(21) headphones(22) because(23) in(24) my(25) humble(26) opinion(27) ,(28) everything(29) else(30) pales(31) next(32) to(33) it(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) is(3) so(4) good(5) that(6) you(7) will(8) know(9) when(10) something(11) was(12) recorded(13) badly(14) or(15) poorly(16) produced(17) .(18) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) so(3) good(4) that(5) when(6) you(7) listen(8) to(9) your(10) music(11) ,(12) or(13) play(14) your(15) favourite(16) games(17) ,(18) you(19) will(20) feel(21) utterly(22) and(23) completely(24) surrounded(25) /(26) immersed(27) in(28) it(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			From(1) a(2) layman(3) perspective(4) ,(5) never(6) have(7) I(8) heard(9) so(10) much(11) clarity(12) combined(13) with(14) nice(15) ,(16) tight(17) bass(18) .(19) 
+			<opinion polarity="+" feature="bass" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="7">
+			And(1) it(2) 's(3) been(4) designed(5) so(6) well(7) that(8) it(9) fits(10) like(11) a(12) glove(13) and(14) feels(15) so(16) comfortable(17) that(18) after(19) awhile(20) you(21) forget(22) that(23) it(24) 's(25) there(26) .(27) 
+			<opinion polarity="+" feature="design" opWords="5,7" potency="6"/>
+			<opinion polarity="+" feature="comfort" opWords="15,17" potency="16"/>
+		</sentence>
+		<sentence id="8">
+			For(1) my(2) neighbours(3) the(4) 590(5) is(6) also(7) their(8) greatest(9) gift(10) ,(11) because(12) now(13) they(14) no_longer(15) need(16) to(17) put(18) up(19) with(20) the(21) loud(22) noise(23) from(24) next(25) door(26) ,(27) and(28) I(29) get(30) to(31) enjoy(32) my(33) needs(34) to(35) the(36) utmost(37) .(38) 
+		</sentence>
+		<sentence id="9">
+			Never(1) ,(2) Never(3) will(4) I(5) be(6) looking(7) at(8) another(9) headphone(10) brand(11) or(12) speaker(13) solution(14) again(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Having(1) said(2) that(3) ,(4) would(5) anyone(6) care(7) to(8) buy(9) my(10) speaker(11) solution(12) ?(13) :(14) )(15) 
+		</sentence>
+	</text>
+</review>

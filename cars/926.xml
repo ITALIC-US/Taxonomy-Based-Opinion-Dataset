@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="926" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			I_Got_a_Lemon(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everyone(1) likes(2) and(3) is(4) amused(5) by(6) the(7) style(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Must(1) use(2) unskilled(3) labor(4) and(5) cheap(6) parts(7) because(8) everything(9) falls(10) apart(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Would(1) Not_Recommend(2) !(3) !(4) !(5) !(6) !(7) !(8) !(9) !(10) !(11) !(12) !(13) !(14) !(15) !(16) !(17) !(18) !(19) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) quality(2) and(3) craftmanship(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Explained(1) in(2) letter(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hello(1) ,(2) my(3) name(4) is(5) Roxann(6) and(7) I(8) purchased(9) a(10) 2000(11) Beetle(12) 2(13) years(14) ago(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) took(2) really(3) good(4) care(5) of(6) my(7) car(8) just(9) as(10) I(11) have(12) with(13) all(14) of(15) my(16) vehicles(17) before(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Then(1) one(2) day(3) my(4) car(5) would(6) not(7) start(8) the(9) so(10) I(11) had(12) to(13) get(14) it(15) towed(16) and(17) repaired(18) which(19) was(20) a(21) major(22) repair(23) ,(24) so(25) they(26) say(27) ,(28) and(29) they(30) fixed(31) a(32) window(33) part(34) that(35) was(36) on(37) recall(38) at(39) the(40) same(41) time(42) .(43) 
+		</sentence>
+		<sentence id="4">
+			Of(1) course(2) the(3) major(4) repair(5) was(6) not(7) covered(8) by(9) the(10) warranty(11) so(12) it(13) cost(14) me(15) over(16) $700(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Then(1) the(2) next(3) thing(4) I(5) know(6) the(7) emblem(8) on(9) my(10) hub(11) caps(12) started(13) falling(14) off(15) ,(16) one(17) by(18) one(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Then(1) the(2) emblem(3) on(4) the(5) gearshift(6) fell(7) off(8) ,(9) and(10) then(11) ,(12) the(13) roof(14) started(15) falling(16) down(17) and(18) sagging(19) ((20) the(21) head-liner(22) )(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Think(1) that(2) 's(3) enough(4) ?(5) 
+		</sentence>
+		<sentence id="8">
+			Well(1) now(2) the(3) leather(4) is(5) starting(6) to(7) separating(8) from(9) both(10) of(11) the(12) door(13) panels(14) and(15) is(16) sagging(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			And(1) lets(2) not(3) forget(4) about(5) all(6) of(7) the(8) rubber(9) that(10) is(11) peeling(12) off(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) scared(3) to(4) even(5) look(6) at(7) the(8) car(9) at(10) what(11) I(12) might(13) find(14) next(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			But(1) wait(2) there(3) 's(4) more(5) ;(6) even_though(7) I(8) bought(9) and(10) used(11) expensive(12) soap(13) and(14) wax(15) ((16) the(17) same(18) that(19) I(20) use(21) for(22) my(23) Harley(24) )(25) the(26) paint(27) started(28) fading(29) and(30) stains(31) stared(32) showing(33) up(34) from(35) under(36) the(37) color(38) ,(39) -(40) in(41) the(42) color(43) and(44) then(45) the(46) clear(47) coat(48) started(49) bubbling(50) and(51) chipping(52) away(53) .(54) 
+		</sentence>
+		<sentence id="12">
+			I(1) now(2) give(3) up(4) and(5) hate(6) my(7) car(8) ,(9) "(10) The(11) Lime_Green_LEMON(12) "(13) and(14) as(15) soon(16) as(17) I(18) can(19) afford(20) to(21) get(22) out(23) from(24) under(25) the(26) endless(27) trouble(28) of(29) a(30) this(31) burden(32) of(33) a(34) vehicle(35) I(36) will(37) !(38) !(39) !(40) !(41) !(42) !(43) 
+			<opinion polarity="-" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) NEVER(3) get(4) another(5) Volkswagen(6) nor(7) would(8) I(9) ever(10) recommend(11) one(12) to(13) anyone(14) considering(15) one(16) !(17) !(18) !(19) 
+		</sentence>
+		<sentence id="14">
+			And(1) God(2) bless(3) those(4) that(5) get(6) one(7) because(8) they(9) will(10) need(11) it(12) !(13) !(14) !(15) !(16) !(17) !(18) 
+		</sentence>
+		<sentence id="15">
+			Thanks(1) for(2) listening(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17,9(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) beetle(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="20" item="Grado SR80 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Another(1) fine(2) GRADO(3) product(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fairly(1) inexpensive(2) ,(3) excellant(4) performance(5) ,(6) from(7) a(8) strong(9) company(10) 
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="performance" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Could(1) be(2) cheaper(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) to(4) go(5) with(6) my(7) new(8) SONY_DISCMAN(9) ((10) see(11) my(12) other(13) reviews(14) )(15) and(16) ,(17) to(18) be(19) honest(20) with(21) you(22) ,(23) ONE(24) of(25) the(26) two(27) items(28) is(29) going(30) back(31) -(32) and(33) it(34) 's(35) not(36) the(37) headphones(38) !(39) 
+		</sentence>
+		<sentence id="2">
+			GRADO(1) has(2) always(3) made(4) great(5) audio(6) /(7) video(8) equipment(9) ,(10) I(11) have(12) many(13) of(14) their(15) products(16) from(17) the(18) late(19) 70s(20) and(21) early(22) 80s(23) if(24) I(25) 'm(26) not(27) mistaken(28) ,(29) such(30) as(31) turntable(32) cartridges(33) and(34) recievers(35) /(36) speakers(37) .(38) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) these(3) headphones(4) mostly(5) for(6) the(7) name(8) associated(9) with(10) them(11) ,(12) but(13) also(14) because_of(15) the(16) price(17) -(18) headphones(19) of(20) comparable(21) quality(22) by(23) other(24) names(25) were(26) MUCH(27) more(28) than(29) these(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			They(1) offer(2) crystal-clear(3) sound(4) when(5) tested(6) on(7) my(8) regular(9) stereo(10) ,(11) my(12) car(13) stereo(14) and(15) my(16) cassette(17) walkman(18) ,(19) showing(20) that(21) it(22) 's(23) not(24) just(25) a(26) high(27) quality(28) a(29) /(30) v(31) device(32) but(33) the(34) headphones(35) performing(36) .(37) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			In(1) passages(2) of(3) heavy(4) bass(5) they(6) do(7) not(8) crackle(9) as(10) is(11) my(12) experience(13) in(14) the(15) past(16) ,(17) and(18) at(19) high(20) frequencies(21) they(22) do(23) not(24) break(25) up(26) or(27) give(28) the(29) vocals(30) a(31) "(32) frog-in-your-throat(33) "(34) sound(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			Plus(1) they(2) 're(3) lightweight(4) and(5) seem(6) very(7) durable(8) .(9) 
+			<opinion polarity="+" feature="weight" opWords="4"/>
+			<opinion polarity="+" feature="durability" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="7">
+			All-in-all(1) ,(2) I(3) recomend(4) them(5) 100_%(6) !(7) 
+		</sentence>
+	</text>
+</review>

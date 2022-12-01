@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="183" item="Sony MDR-G73LP Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) for(2) the(3) active(4) person(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very_Lightweight(1) ,(2) good(3) sound(4) ,(5) look(6) cool(7) too(8) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="appearance" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gets(1) tangled(2) easy(3) 
+			<opinion polarity="-" feature="headphones" opWords="1,2" potency="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) active(4) and(5) want(6) a(7) light(8) great(9) sounding(10) headphones(11) then(12) the(13) Sony(14) MDR-G73LP(15) is(16) the(17) way(18) to(19) go(20) ,(21) do(22) not(23) waste(24) your(25) money(26) on(27) those(28) earbuds(29) go(30) for(31) these(32) .(33) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) do(3) not(4) just(5) sound(6) great(7) but(8) they(9) feel(10) great(11) too(12) .(13) 
+			<opinion polarity="+" feature="sound quality" opWords="6,7"/>
+			<opinion polarity="+" feature="comfort" opWords="10,11"/>
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) the(3) old(4) Sony(5) street(6) style(7) headphones(8) and(9) they(10) seemed(11) to(12) hurt(13) my(14) ears(15) after(16) wearing(17) them(18) for(19) any(20) extended(21) period(22) of(23) time(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			These(1) feel(2) great(3) .(4) 
+			<opinion polarity="+" feature="comfort" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) run(2) and(3) really(4) wanted(5) to(6) get(7) the(8) earbud(9) type(10) headphones(11) but(12) they(13) all(14) sound(15) like(16) crap(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			These(1) are(2) just(3) as(4) light(5) and(6) do(7) not(8) make(9) my(10) ears(11) too(12) hot(13) ,(14) and(15) they(16) sound(17) so(18) much(19) better(20) than(21) any(22) bud(23) .(24) when(25) I(26) was(27) trying(28) to(29) get(30) them(31) on(32) the(33) first(34) time(35) it(36) took(37) a(38) while(39) to(40) figure(41) out(42) how(43) they(44) go(45) on(46) my(47) head(48) .(49) 
+		</sentence>
+		<sentence id="6">
+			Once(1) I(2) figured(3) it(4) out(5) they(6) felt(7) so(8) good(9) I(10) almost(11) forget(12) I(13) have(14) them(15) on(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) also(3) nice(4) and(5) snug(6) and(7) will(8) not(9) be(10) falling(11) off(12) anytime(13) soon(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			On(1) the(2) sound(3) quality(4) ,(5) they(6) sound(7) just(8) as(9) good(10) as(11) my(12) old(13) street(14) styles(15) that(16) Sony(17) came(18) out(19) with(20) a(21) couple(22) years(23) ago(24) ,(25) I(26) think(27) they(28) sound(29) clearer(30) in(31) some(32) cases(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) alittle(3) more(4) treble(5) but(6) not(7) too(8) much(9) in(10) my(11) opinion(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) want(3) some(4) cool(5) new(6) headphones(7) these(8) are(9) definitely(10) different(11) and(12) ,(13) in(14) my(15) opinion(16) ,(17) the(18) way(19) to(20) go(21) .(22) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="500" item="2000 Mercedes-Benz SLK" rating="3">
+	<title>
+		<sentence id="1">
+			My_SLK_Experiences(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			With(1) exception(2) of(3) transmission(4) ,(5) generally(6) meets(7) expectations(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Became(1) obsolete(2) almost(3) over(4) night(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Since(1) Jbratek(2) never(3) even(4) drove(5) the(6) SLK(7) 230(8) ,(9) he(10) could(11) not(12) possibly(13) comment(14) with(15) authority(16) on(17) the(18) car(19) 's(20) transmission(21) ,(22) acceleration(23) and(24) handling(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Thus(1) ,(2) the(3) only(4) explanation(5) for(6) his(7) opinions(8) being(9) so(10) accurate(11) is(12) that(13) he(14) plagiarized(15) published(16) remarks(17) made(18) by(19) experts(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			The(1) 2000(2) SLK(3) which(4) I(5) purchased(6) in(7) October_1999(8) was(9) the(10) first(11) sports(12) car(13) or(14) quasi(15) sports(16) car(17) I(18) have(19) ever(20) owned(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			The(1) closest(2) I(3) previously(4) came(5) to(6) the(7) real(8) thing(9) was(10) a(11) 1990(12) Honda_Prelude_SI(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Based(1) on(2) memory(3) ,(4) the(5) SLK(6) handles(7) better(8) than(9) the(10) Prelude(11) did(12) when(13) new(14) ,(15) but(16) not(17) by(18) much(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) consensus(2) is(3) that(4) the(5) SLK(6) is(7) markedly(8) slower(9) than(10) and(11) does(12) not(13) handle(14) as_well(15) as(16) competing(17) vehicles(18) such(19) as(20) the(21) Boxter(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			That(1) is(2) of(3) little(4) importance(5) to(6) me(7) ,(8) though(9) ,(10) for(11) I(12) have(13) no(14) place(15) to(16) go(17) where(18) the(19) car(20) 's(21) performance(22) can(23) truly(24) be(25) tested(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			The(1) SLK(2) 's(3) five(4) speed(5) transmission(6) is(7) a(8) joke(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Even(1) the(2) one(3) in(4) my(5) Prelude(6) ,(7) a(8) relatively(9) inexpensive(10) automobile(11) ,(12) was(13) much(14) superior(15) .(16) 
+			<opinion polarity="+" feature="price" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="10">
+			It(1) does(2) not(3) shift(4) smoothly(5) ,(6) and(7) the(8) reverse(9) gear(10) is(11) difficult(12) to(13) engage(14) .(15) 
+			<opinion polarity="-" feature="shifter" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) main(2) reason(3) I(4) purchased(5) the(6) car(7) was(8) because_of(9) Mercedes(10) '(11) reputed(12) reliability(13) ,(14) and(15) after(16) 11,000(17) plus(18) miles(19) ,(20) I(21) have(22) no(23) real(24) reason(25) to(26) complain(27) on(28) that(29) score(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			However(1) ,(2) dashboard(3) warning(4) lights(5) have(6) come(7) on(8) at_least(9) twice(10) without(11) any(12) reason(13) to(14) do(15) so(16) ,(17) and(18) that(19) ,(20) of(21) course(22) ,(23) necessitated(24) trips(25) to(26) the(27) dealer(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			In_addition(1) ,(2) the(3) air(4) conditioner(5) malfunctioned(6) once(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Jbratek(1) is(2) correct(3) in(4) that(5) if(6) the(7) top(8) in(9) down(10) ,(11) the(12) trunk(13) offers(14) little(15) space(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			That(1) problem(2) can(3) be(4) obviated(5) whenever(6) the(7) need(8) arises(9) ,(10) though(11) ,(12) simply(13) by(14) pressing(15) a(16) button(17) and(18) putting(19) the(20) top(21) up(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			When(1) up(2) ,(3) the(4) trunk(5) is(6) very(7) large(8) by(9) sport(10) car(11) standards(12) .(13) 
+			<opinion polarity="+" feature="trunk" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="17">
+			Also(1) ,(2) as(3) Jbratek(4) pointed(5) out(6) ,(7) the(8) interior(9) is(10) surprisingly(11) roomy(12) ,(13) and(14) due(15) to(16) the(17) retractable(18) metal(19) top(20) ,(21) being(22) able(23) to(24) turn(25) an(26) open(27) air(28) vehicle(29) into(30) a(31) coupe(32) in(33) a(34) matter(35) of(36) seconds(37) is(38) a_real(39) asset(40) .(41) 
+			<opinion polarity="+" feature="interior" featWords="9" opWords="12"/>
+		</sentence>
+		<sentence id="18">
+			The(1) 2000(2) model(3) debuted(4) in(5) September_1999(6) ,(7) and(8) it(9) is(10) already(11) obsolete(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="12"/>
+		</sentence>
+		<sentence id="19">
+			The(1) 2001(2) 's(3) hit(4) the(5) dealer(6) showrooms(7) in(8) June_2000(9) if_not(10) earlier(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			Not(1) only(2) has(3) the(4) five(5) speed(6) been(7) replaced(8) by(9) a(10) transmission(11) with(12) six(13) gears(14) ,(15) but(16) there(17) is(18) now(19) a(20) choice(21) of(22) two(23) engines(24) ,(25) the(26) six(27) cylinder(28) found(29) in(30) the(31) 320E(32) sedans(33) as_well(34) as(35) the(36) supercharged(37) four(38) .(39) 
+		</sentence>
+		<sentence id="21">
+			Adding(1) insult(2) to(3) injury(4) ((5) mine(6) )(7) is(8) the(9) fact(10) that(11) the(12) MSRP(13) price(14) has(15) been(16) reduced(17) approximately(18) $2,000.00(19) 
+		</sentence>
+	</text>
+</review>

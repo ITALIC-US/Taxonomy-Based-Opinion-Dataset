@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="29" item="1998 Lexus ES 300" rating="5">
+	<title>
+		<sentence id="1">
+			You(1) can(2) not(3) go(4) wrong(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) quality(2) ,(3) comfort(4) ,(5) handling(6) and(7) performance(8) 
+			<opinion polarity="+" feature="performance" featWords="8" opWords="1"/>
+			<opinion polarity="+" feature="handling" featWords="6" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) cramped(3) in(4) the(5) rear(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) compared(2) the(3) ES300(4) to(5) a(6) number(7) of(8) similar(9) cars(10) and(11) found(12) that(13) there(14) is(15) not(16) much(17) that(18) truly(19) compares(20) with(21) it(22) in(23) its(24) class(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			In(1) the(2) nearly(3) three(4) years(5) that(6) I(7) have(8) had(9) it(10) ,(11) it(12) has(13) needed(14) no(15) maintenance(16) other(17) than(18) scheduled(19) service(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			This(1) impresses(2) me(3) as(4) I(5) have(6) owned(7) a(8) number(9) of(10) domestic(11) and(12) foreign(13) vehicles(14) in(15) this(16) class(17) over(18) the(19) past(20) 15(21) years(22) and(23) most(24) demonstrated(25) an(26) annoying(27) array(28) of(29) unacceptable(30) flaws(31) and(32) quality(33) lapses(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) two(3) highly-rated(4) manufacturers(5) ((6) who(7) shall(8) remain(9) nameless(10) )(11) whose(12) products(13) I(14) would(15) not(16) touch(17) again(18) under(19) any(20) circumstances(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Although(1) I(2) only(3) have(4) 23,000_miles(5) on(6) the(7) clock(8) the(9) car(10) still(11) performs(12) as_well(13) as(14) it(15) did(16) the(17) day(18) I(19) picked(20) up(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			It(1) has(2) plenty_of(3) power(4) ,(5) tight(6) handling(7) ,(8) luxurious(9) appointments(10) and(11) a(12) straightforward(13) ergonomic(14) design(15) .(16) 
+			<opinion polarity="+" feature="design" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="design" featWords="15" opWords="13"/>
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) not(3) want(4) to(5) sit(6) in(7) the(8) back(9) behind(10) someone(11) with(12) the(13) front(14) seat(15) all(16) the(17) way(18) back(19) but(20) then(21) ,(22) I(23) do(24) not(25) drive(26) from(27) back(28) there(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			All(1) in_all(2) ,(3) this(4) is(5) the(6) best(7) car(8) that(9) I(10) have(11) ever(12) owned(13) and(14) there(15) is(16) no(17) way(18) that(19) I(20) will(21) not(22) replace(23) it(24) with(25) a(26) new(27) Lexus(28) when(29) the(30) lease(31) expires(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+	</text>
+</review>

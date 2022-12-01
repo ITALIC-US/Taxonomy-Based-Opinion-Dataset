@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="565" item="Bose TriPort Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) my(2) $150(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) ,(2) looks(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) quality(2) build(3) ,(4) PRICE(5) 
+			<opinion polarity="-" feature="durability" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) look(3) for(4) others(5) that(6) are(7) better(8) build(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			For(1) $150(2) there(3) are(4) far(5) more(6) and(7) better(8) build(9) headphone(10) to(11) chose(12) from(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) triport(4) headphone(5) in(6) the(7) morning(8) and(9) was(10) already(11) broken(12) in(13) the(14) afternoon(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Bought(1) it(2) because(3) it(4) sounded(5) good(6) in(7) the(8) store(9) and(10) good(11) looking(12) design(13) .(14) 
+			<opinion polarity="+" feature="sound quality" opWords="5,6"/>
+			<opinion polarity="+" feature="design" featWords="13" opWords="11,12"/>
+		</sentence>
+		<sentence id="3">
+			HOWEVER(1) ...(2) Took(3) the(4) headphone(5) home(6) ,(7) cut(8) opened(9) the(10) cheap(11) plastic(12) and(13) immediately(14) notice(15) that(16) the(17) workmanship(18) was(19) not(20) quality(21) build(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			The(1) foam(2) used(3) as(4) compare(5) to(6) the(7) other(8) within(9) the(10) same(11) price(12) range(13) is(14) disappointing(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) edges(2) on(3) both(4) side(5) of(6) the(7) blue(8) ear(9) piece(10) was(11) sharp(12) and(13) rough(14) to(15) the(16) touch(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Used(1) it(2) for(3) two(4) hours(5) or(6) so(7) in(8) the(9) office(10) and(11) the(12) cloth(13) that(14) was(15) used(16) to(17) cover(18) and(19) protect(20) the(21) coil(22) started(23) to(24) peel(25) off(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			The(1) only(2) good(3) thing(4) is(5) the(6) sound(7) quality(8) and(9) you(10) can(11) hear(12) the(13) detail(14) that(15) the(16) other(17) cheaper(18) headphone(19) can(20) not(21) reproduce(22) .(23) 
+			<opinion polarity="+" feature="sound quality" featWords="7,8" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) I(3) would(4) expect(5) a(6) better(7) overall(8) quality(9) package(10) than(11) just(12) the(13) sound(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			What(1) good(2) is(3) it(4) if(5) it(6) the(7) sound(8) is(9) good(10) but(11) the(12) head(13) piece(14) is(15) broken(16) ?(17) !(18) 
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) look(3) for(4) others(5) that(6) are(7) build(8) in(9) Japan(10) as(11) compare(12) to(13) this(14) one(15) that(16) is(17) "(18) designed(19) "(20) in(21) the(22) State(23) but(24) "(25) build(26) "(27) in(28) China(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			For(1) $150(2) there(3) are(4) far(5) more(6) and(7) better(8) build(9) headphone(10) to(11) chose(12) from(13) .(14) 
+		</sentence>
+	</text>
+</review>

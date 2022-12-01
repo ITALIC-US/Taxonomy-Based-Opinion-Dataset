@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="751" item="Dana Inn and Marina" rating="3">
+	<title>
+		<sentence id="1">
+			This(1) is(2) a(3) room(4) for(5) 4(6) ?(7) 
+		</sentence>
+		<sentence id="2">
+			Dana_Inn_&_Marina(1) ,(2) San_Diego(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) free(3) shuttle(4) from(5) train(6) /(7) airport(8) station(9) to(10) hotel(11) to(12) Sea_World(13) ,(14) customer(15) service(16) .(17) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) ,(2) no(3) tub(4) in(5) bathroom(6) ,(7) hole(8) in(9) mattress(10) ,(11) stained(12) carpet(13) .(14) 
+			<opinion polarity="-" feature="carpets" featWords="13" opWords="12"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) could(2) recommend(3) staying(4) at(5) this(6) hotel(7) if(8) you(9) have(10) no(11) more(12) than(13) two(14) in(15) your(16) group(17) and(18) if(19) everyone(20) takes(21) only(22) showers(23) !(24) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) very(3) surprised(4) to(5) see(6) that(7) no(8) reviews(9) have(10) been(11) done(12) of(13) this(14) full(15) service(16) ,(17) waterfront(18) hotel(19) right(20) across(21) the(22) street(23) from(24) Sea_World(25) in(26) San_Diego(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Why(1) this(2) hotel(3) ?(4) 
+		</sentence>
+		<sentence id="3">
+			My(1) family(2) and(3) I(4) were(5) planning(6) a(7) small(8) weekend(9) vacation(10) ,(11) by(12) train(13) ,(14) to(15) see(16) Sea_World(17) ,(18) and(19) we(20) would(21) need(22) a(23) place(24) to(25) stay(26) overnight(27) X2(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			At(1) the(2) Sea_World(3) web(4) site(5) ,(6) there(7) is(8) a(9) link(10) for(11) accommodations(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			When(1) clicking(2) on(3) that(4) link(5) ,(6) a(7) few(8) hundred(9) ((10) exaggerated(11) )(12) different(13) hotels(14) are(15) listed(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Among(1) them(2) was(3) the(4) Dana_Inn_&_Marina(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			It(1) caught(2) my(3) attention(4) ,(5) because(6) it(7) was(8) located(9) right(10) next(11) to(12) Sea_World(13) ((14) I(15) want(16) easy(17) access(18) because_of(19) my(20) little(21) ones(22) )(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			I(1) clicked(2) on(3) the(4) Dana_Inn(5) web(6) site(7) to(8) get(9) more(10) information(11) about(12) the(13) rooms(14) ,(15) amenities(16) ,(17) and(18) cost(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			I(1) liked(2) what(3) I(4) saw(5) ,(6) so(7) I(8) went(9) ahead(10) and(11) called(12) the(13) hotel(14) directly(15) to(16) book(17) a(18) reservation(19) for(20) two(21) nights(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) male(2) employee(3) was(4) very(5) business-like(6) and(7) professional(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			He(1) told(2) me(3) that(4) they(5) have(6) a(7) shuttle(8) service(9) from(10) the(11) train(12) station(13) to(14) the(15) hotel(16) ((17) free(18) !(19) )(20) ,(21) and(22) also(23) a(24) shuttle(25) service(26) from(27) the(28) hotel(29) to(30) Sea_World(31) ((32) again(33) ,(34) free(35) !(36) )(37) .(38) 
+		</sentence>
+		<sentence id="12">
+			When(1) you(2) re(3) traveling(4) with(5) little(6) ones(7) that(8) are(9) going(10) to(11) be(12) doing(13) a_lot_of(14) walking(15) at(16) Sea_World(17) ,(18) a(19) shuttle(20) service(21) anywhere(22) is(23) good(24) !(25) 
+		</sentence>
+		<sentence id="13">
+			Anyway(1) ,(2) the(3) employee(4) gave(5) me(6) the(7) price(8) of(9) the(10) room(11) at(12) $159(13) a(14) night(15) for(16) the(17) poolview(18) room(19) ((20) this(21) is(22) a(23) room(24) on(25) the(26) second(27) or(28) third(29) floor(30) that(31) has(32) a(33) view(34) of(35) the(36) pool(37) area(38) )(39) ,(40) not(41) to(42) be(43) confused(44) with(45) the(46) poolside(47) room(48) .(49) 
+		</sentence>
+		<sentence id="14">
+			The(1) poolside(2) room(3) is(4) on(5) the(6) first(7) floor(8) and(9) has(10) sliding(11) glass(12) doors(13) that(14) lead(15) directly(16) out(17) to(18) the(19) pool(20) and(21) costs(22) $169(23) a(24) night(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			I(1) booked(2) the(3) less(4) expensive(5) poolview(6) room(7) for(8) two(9) nights(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			Can_I(1) get(2) a(3) deal(4) ?(5) 
+		</sentence>
+		<sentence id="17">
+			Better(1) believe(2) it(3) !(4) 
+		</sentence>
+		<sentence id="18">
+			After(1) I(2) got(3) off(4) the(5) phone(6) ,(7) comfortable(8) with(9) the(10) fact(11) I(12) got(13) us(14) a(15) nice(16) hotel(17) ,(18) I(19) went(20) back(21) to(22) the(23) Sea_World(24) web(25) site(26) to(27) plan(28) our(29) day(30) .(31) 
+			<opinion polarity="+" feature="hotel" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="19">
+			I(1) stumbled(2) on(3) information(4) about(5) Legoland(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			I(1) had(2) heard(3) very(4) little(5) of(6) this(7) place(8) ,(9) and(10) clicked(11) on(12) the(13) link(14) to(15) find(16) out(17) more(18) about(19) it(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			On(1) Legoland(2) s(3) web(4) site(5) ,(6) there(7) is(8) also(9) a(10) link(11) for(12) where(13) to(14) stay(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			Out(1) of(2) curiousity(3) ,(4) I(5) clicked(6) on(7) the(8) link(9) to(10) see(11) if(12) Dana_Inn(13) was(14) listed(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			This(1) is(2) where(3) it(4) gets(5) interesting(6) !(7) !(8) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) have(3) a(4) Master_Card(5) ,(6) they(7) are(8) offering(9) a(10) MC(11) special(12) if(13) you(14) book(15) online(16) ((17) this(18) special(19) is(20) running(21) from(22) April_1(23) ,(24) 04(25) to(26) June_30th(27) ,(28) 04(29) )(30) .(31) 
+		</sentence>
+		<sentence id="25">
+			You(1) get(2) the(3) Poolside(4) room(5) ((6) the(7) upgraded(8) room(9) on(10) the(11) first(12) floor(13) with(14) the(15) sliding(16) glass(17) doors(18) )(19) ,(20) plus(21) you(22) get(23) a(24) full(25) sit-down(26) breakfast(27) at(28) their(29) restaurant(30) for(31) the(32) four(33) of(34) us(35) ,(36) all(37) for(38) $139(39) a(40) night(41) .(42) 
+		</sentence>
+		<sentence id="26">
+			The(1) price(2) depends(3) on(4) the(5) date(6) that(7) you(8) choose(9) ,(10) yet(11) the(12) price(13) could(14) be(15) as(16) low(17) as(18) $105(19) a(20) night(21) depending(22) on(23) when(24) you(25) go(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			This(1) price(2) is(3) only(4) good(5) from(6) the(7) link(8) from(9) Legoland(10) !(11) 
+		</sentence>
+		<sentence id="28">
+			It(1) is(2) not(3) good(4) from(5) the(6) Sea_World(7) link(8) ,(9) nor(10) if(11) you(12) call(13) the(14) hotel(15) for(16) a(17) price(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			The(1) hotel(2) said(3) they(4) didn(5) t(6) even(7) know(8) about(9) this(10) deal(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			I(1) know(2) ,(3) because(4) I(5) called(6) the(7) hotel(8) back(9) to(10) speak(11) with(12) the(13) reservations(14) manager(15) and(16) informed(17) her(18) of(19) what(20) I(21) found(22) on(23) the(24) internet(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			Would(1) she(2) match(3) this(4) price(5) ?(6) 
+		</sentence>
+		<sentence id="32">
+			She(1) checked(2) it(3) on(4) the(5) internet(6) herself(7) ,(8) and(9) agreed(10) to(11) match(12) the(13) price(14) with(15) the(16) free(17) breakfast(18) ,(19) this(20) way(21) I(22) would(23) not(24) have(25) to(26) cancel(27) my(28) current(29) reservation(30) and(31) book(32) them(33) online(34) .(35) 
+			<opinion polarity="+" feature="food" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="33">
+			I(1) got(2) an(3) upgraded(4) room(5) with(6) breakfast(7) for(8) less(9) money(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			I(1) figured(2) ,(3) including(4) the(5) free(6) breakfast(7) ,(8) I(9) just(10) saved(11) myself(12) about(13) $40(14) a(15) night(16) .(17) 
+			<opinion polarity="+" feature="food" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="35">
+			I(1) received(2) a(3) snail-mail(4) confirmation(5) from(6) Dana_Inn(7) a(8) few(9) days(10) later(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			What(1) does(2) this(3) hotel(4) have(5) ?(6) 
+		</sentence>
+		<sentence id="37">
+			The(1) question(2) should(3) be(4) what(5) DOESN_T(6) this(7) hotel(8) have(9) ((10) well(11) ,(12) more(13) on(14) that(15) later(16) )(17) .(18) 
+		</sentence>
+		<sentence id="38">
+			First(1) of(2) all(3) ,(4) the(5) shuttle(6) picked(7) us(8) up(9) promptly(10) at(11) the(12) train(13) station(14) and(15) took(16) us(17) to(18) the(19) hotel(20) .(21) 
+		</sentence>
+		<sentence id="39">
+			We(1) arrived(2) at(3) 9:15(4) AM(5) ,(6) and(7) check(8) in(9) isn(10) t(11) until(12) 4:00(13) ((14) check(15) out(16) is(17) at(18) noon(19) )(20) .(21) 
+		</sentence>
+		<sentence id="40">
+			They(1) held(2) our(3) luggage(4) for(5) us(6) ,(7) and(8) shuttled(9) us(10) directly(11) to(12) Sea_World(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			When(1) we(2) got(3) back(4) from(5) Sea_World(6) around(7) 6:30(8) PM(9) ,(10) check(11) in(12) was(13) very(14) easy(15) .(16) 
+		</sentence>
+		<sentence id="42">
+			The(1) lobby(2) was(3) very(4) comfortable(5) ,(6) it(7) had(8) several(9) chairs(10) and(11) it(12) was(13) very(14) open(15) and(16) airy(17) .(18) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="15"/>
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="17"/>
+		</sentence>
+		<sentence id="43">
+			The(1) rooms(2) are(3) outdoor(4) corridors(5) ,(6) so(7) if(8) you(9) drive(10) to(11) the(12) hotel(13) ,(14) parking(15) is(16) abundant(17) and(18) free(19) ,(20) and(21) you(22) can(23) park(24) right(25) outside(26) your(27) hotel(28) room(29) door(30) .(31) 
+		</sentence>
+		<sentence id="44">
+			I(1) have(2) already(3) mentioned(4) breakfast(5) ,(6) so(7) you(8) know(9) that(10) there(11) is(12) a(13) restaurant(14) ,(15) and(16) this(17) restaurant(18) serves(19) excellent(20) food(21) .(22) 
+			<opinion polarity="+" feature="food" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="45">
+			The(1) best(2) thing(3) is(4) that(5) they(6) offer(7) ROOM_SERVICE(8) ((9) I(10) put(11) this(12) in(13) caps(14) because(15) this(16) little(17) detail(18) is(19) important(20) to(21) me(22) .(23) No(24) having(25) to(26) run(27) out(28) to(29) get(30) some(31) food(32) for(33) my(34) little(35) ones(36) in(37) my(38) bathrobe(39) )(40) .(41) 
+		</sentence>
+		<sentence id="46">
+			When(1) I(2) did(3) order(4) room(5) service(6) that(7) first(8) night(9) ,(10) I(11) was(12) told(13) that(14) the(15) food(16) I(17) ordered(18) would(19) take(20) about(21) 30(22) minutes(23) ,(24) but(25) it(26) ended(27) up(28) taking(29) over(30) an(31) hour(32) before(33) it(34) got(35) delivered(36) .(37) 
+		</sentence>
+		<sentence id="47">
+			Dana_Inn(1) also(2) offers(3) a(4) rental(5) car(6) service(7) through(8) Enterprise(9) ,(10) which(11) we(12) needed(13) to(14) use(15) .(16) 
+		</sentence>
+		<sentence id="48">
+			Since(1) we(2) took(3) the(4) train(5) ,(6) we(7) had(8) no(9) car(10) to(11) drive(12) the(13) 35_miles(14) to(15) Legoland(16) on(17) Saturday(18) .(19) 
+		</sentence>
+		<sentence id="49">
+			After(1) the(2) hotel(3) arranged(4) it(5) for(6) me(7) ,(8) I(9) was(10) picked(11) up(12) by(13) Enterprise(14) to(15) go(16) to(17) their(18) office(19) to(20) rent(21) the(22) car(23) in(24) the(25) morning(26) ,(27) and(28) I(29) was(30) able(31) to(32) return(33) the(34) car(35) to(36) the(37) hotel(38) ((39) not(40) the(41) rental(42) office(43) )(44) around(45) 6:00(46) that(47) night(48) .(49) 
+		</sentence>
+		<sentence id="50">
+			No(1) hassles(2) .(3) 
+		</sentence>
+		<sentence id="51">
+			The(1) car(2) cost(3) $28(4) for(5) that(6) time(7) .(8) 
+		</sentence>
+		<sentence id="52">
+			We(1) didn(2) t(3) use(4) this(5) feature(6) ,(7) but(8) Dana_Inn(9) even(10) has(11) their(12) own(13) marina(14) !(15) 
+		</sentence>
+		<sentence id="53">
+			There(1) is(2) a(3) water(4) sport(5) rental(6) desk(7) ,(8) so(9) you(10) can(11) rent(12) out(13) :(14) kayaks(15) ,(16) wave(17) runners(18) ,(19) motor(20) boats(21) ,(22) sail(23) boats(24) ,(25) paddle(26) boats(27) and(28) bicycles(29) ,(30) at(31) different(32) prices(33) .(34) 
+		</sentence>
+		<sentence id="54">
+			We(1) didn(2) t(3) have(4) enough(5) time(6) to(7) do(8) any(9) of(10) the(11) water(12) sports(13) ,(14) so(15) I(16) can(17) not(18) comment(19) on(20) the(21) service(22) or(23) experience(24) .(25) 
+		</sentence>
+		<sentence id="55">
+			Dana_Inn(1) has(2) a(3) beautiful(4) pool(5) and(6) spa(7) ,(8) with(9) a(10) pool(11) bar(12) ((13) not(14) always(15) open(16) )(17) .(18) 
+			<opinion polarity="+" feature="swimming pool" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="spa" featWords="7" opWords="4"/>
+		</sentence>
+		<sentence id="56">
+			The(1) pool(2) is(3) open(4) from(5) 8am(6) 11(7) PM(8) ,(9) it(10) goes(11) from(12) 3_feet(13) to(14) 5_feet(15) ,(16) and(17) there(18) is(19) no(20) lifeguard(21) on(22) duty(23) .(24) 
+		</sentence>
+		<sentence id="57">
+			There(1) are(2) other(3) activities(4) ,(5) too(6) .(7) 
+		</sentence>
+		<sentence id="58">
+			My(1) kids(2) loved(3) trying(4) to(5) play(6) ping-pong(7) ,(8) foosball(9) ,(10) and(11) shuffleboard(12) .(13) 
+		</sentence>
+		<sentence id="59">
+			OK(1) ,(2) but(3) what(4) about(5) the(6) room(7) ?(8) 
+		</sentence>
+		<sentence id="60">
+			Upon(1) entering(2) with(3) our(4) card(5) key(6) ,(7) the(8) first(9) thing(10) I(11) noticed(12) about(13) the(14) room(15) was(16) the(17) heavily(18) stained(19) carpet(20) .(21) 
+			<opinion polarity="-" feature="carpets" featWords="20" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="61">
+			To(1) the(2) right(3) ,(4) there(5) was(6) a(7) small(8) sink(9) with(10) mirror(11) above(12) it(13) and(14) the(15) idge(16) below(17) it(18) and(19) to(20) the(21) left(22) was(23) a(24) small(25) bathroom(26) .(27) 
+			<opinion polarity="-" feature="bathroom" featWords="26" opWords="25"/>
+		</sentence>
+		<sentence id="62">
+			Stepping(1) more(2) into(3) the(4) room(5) ,(6) it(7) seemed(8) smaller(9) than(10) your(11) standard(12) sized(13) room(14) ,(15) but(16) I(17) liked(18) the(19) sliding(20) glass(21) doors(22) that(23) lead(24) out(25) to(26) the(27) pool(28) .(29) 
+			<opinion polarity="+" feature="rooms" featWords="14" opWords="12,13"/>
+		</sentence>
+		<sentence id="63">
+			Instead_of(1) drapes(2) ,(3) there(4) were(5) sliding(6) door(7) plantation(8) shutters(9) .(10) 
+		</sentence>
+		<sentence id="64">
+			These(1) were(2) very(3) neat(4) !(5) 
+		</sentence>
+		<sentence id="65">
+			There(1) were(2) no(3) windows(4) .(5) 
+		</sentence>
+		<sentence id="66">
+			As(1) we(2) were(3) on(4) the(5) end(6) unit(7) ,(8) I(9) was(10) concerned(11) ,(12) because(13) we(14) were(15) next(16) to(17) the(18) laundry(19) facility(20) /(21) vending(22) machines(23) /(24) ice(25) machines(26) area(27) .(28) 
+		</sentence>
+		<sentence id="67">
+			I(1) thought(2) this(3) would(4) be(5) a(6) noisy(7) problem(8) ,(9) but(10) it(11) was(12) fine(13) .(14) 
+		</sentence>
+		<sentence id="68">
+			The(1) deco(2) in(3) the(4) room(5) was(6) pleasant(7) ,(8) they(9) had(10) a(11) few(12) paintings(13) on(14) the(15) walls(16) and(17) the(18) room(19) had(20) crown(21) molding(22) on(23) the(24) ceiling(25) .(26) 
+		</sentence>
+		<sentence id="69">
+			There(1) was(2) a(3) small(4) rectangular(5) dining(6) table(7) with(8) one(9) side(10) pushed(11) up(12) against(13) the(14) wall(15) so(16) you(17) could(18) only(19) use(20) three(21) sides(22) ,(23) but(24) there(25) were(26) only(27) 2(28) chairs(29) ((30) in(31) a(32) room(33) designed(34) for(35) 4(36) people(37) )(38) .(39) 
+		</sentence>
+		<sentence id="70">
+			There(1) was(2) a(3) coffee(4) maker(5) ,(6) refrigerator(7) ,(8) air(9) conditioner(10) ,(11) and(12) under(13) the(14) bed(15) was(16) an(17) ironing(18) board(19) .(20) 
+		</sentence>
+		<sentence id="71">
+			A(1) hair(2) dryer(3) was(4) layed(5) next(6) to(7) the(8) idge(9) that(10) was(11) under(12) the(13) sink(14) .(15) 
+		</sentence>
+		<sentence id="72">
+			Since(1) there(2) were(3) 4(4) of(5) us(6) ,(7) we(8) got(9) the(10) room(11) with(12) two(13) queen(14) beds(15) .(16) 
+		</sentence>
+		<sentence id="73">
+			My(1) mattress(2) came(3) with(4) something(5) extra(6) a(7) 3(8) X(9) 5(10) hole(11) in(12) it(13) .(14) 
+		</sentence>
+		<sentence id="74">
+			My(1) kids(2) kept(3) trying(4) to(5) put(6) their(7) fingers(8) in(9) the(10) hole(11) ,(12) and(13) I(14) had(15) to(16) keep(17) telling(18) them(19) to(20) stop(21) it(22) .(23) 
+		</sentence>
+		<sentence id="75">
+			There(1) was(2) an(3) armoire(4) that(5) had(6) the(7) TV(8) inside(9) ,(10) with(11) three(12) small(13) dresser(14) drawers(15) for(16) clothes(17) below(18) the(19) TV(20) ;(21) and(22) the(23) rest(24) is(25) the(26) usual(27) ,(28) a(29) side(30) table(31) in(32) between(33) the(34) beds(35) with(36) a(37) lamp(38) ,(39) alarm(40) clock(41) ,(42) and(43) telephone(44) on(45) it(46) .(47) 
+		</sentence>
+		<sentence id="76">
+			There(1) is(2) no(3) counter(4) space(5) ,(6) and(7) you(8) can(9) only(10) store(11) one(12) suitcase(13) on(14) one(15) of(16) those(17) little(18) fold(19) out(20) luggage(21) racks(22) that(23) is(24) behind(25) the(26) door(27) .(28) 
+		</sentence>
+		<sentence id="77">
+			THERE(1) WAS_NO_CLOSET(2) !(3) 
+		</sentence>
+		<sentence id="78">
+			Again(1) ,(2) behind(3) the(4) door(5) there(6) was(7) a(8) small(9) rung(10) with(11) attached(12) hangers(13) ,(14) and(15) you(16) hang(17) your(18) clothes(19) above(20) your(21) suitcase(22) out(23) in(24) the(25) open(26) .(27) 
+		</sentence>
+		<sentence id="79">
+			The(1) Bathroom_Unfortunately(2) ,(3) this(4) needs(5) it(6) s(7) own(8) category(9) .(10) 
+		</sentence>
+		<sentence id="80">
+			The(1) only(2) nice(3) thing(4) I(5) can(6) say(7) is(8) that(9) it(10) had(11) a(12) good(13) tiled(14) floor(15) .(16) 
+		</sentence>
+		<sentence id="81">
+			There(1) was(2) no(3) sink(4) or(5) mirror(6) in(7) the(8) bathroom(9) .(10) 
+		</sentence>
+		<sentence id="82">
+			If(1) you(2) needed(3) to(4) use(5) the(6) toilet(7) ,(8) you(9) would(10) need(11) to(12) back(13) into(14) the(15) bathroom(16) ,(17) it(18) was(19) so(20) small(21) ((22) slightly(23) exaggerated(24) )(25) .(26) 
+			<opinion polarity="-" feature="bathroom" featWords="16" opWords="21" potency="20"/>
+		</sentence>
+		<sentence id="83">
+			THERE(1) WAS_NO_TUB(2) !(3) 
+		</sentence>
+		<sentence id="84">
+			Only(1) a(2) slightly(3) oversized(4) telephone(5) booth(6) for(7) a(8) shower(9) stall(10) ,(11) and(12) then(13) barely(14) enough(15) room(16) to(17) open(18) the(19) shower(20) door(21) ((22) not(23) exaggerated(24) )(25) .(26) 
+		</sentence>
+		<sentence id="85">
+			Now(1) ,(2) with(3) 2(4) small(5) kids(6) ,(7) I(8) need(9) a(10) tub(11) .(12) 
+		</sentence>
+		<sentence id="86">
+			My(1) three(2) year(3) old(4) does(5) not(6) take(7) showers(8) .(9) 
+		</sentence>
+		<sentence id="87">
+			I(1) spoke(2) with(3) the(4) front(5) desk(6) ,(7) but(8) was(9) told(10) that(11) all(12) the(13) rooms(14) were(15) sold(16) out(17) ,(18) we(19) have(20) to(21) stay(22) in(23) that(24) room(25) .(26) 
+		</sentence>
+		<sentence id="88">
+			OK(1) ,(2) so(3) we(4) have(5) to(6) make(7) due(8) ((9) OK(10) ,(11) kids(12) ,(13) time(14) for(15) a(16) swim(17) !(18) )(19) .(20) 
+		</sentence>
+		<sentence id="89">
+			Thank(1) goodness(2) we(3) were(4) only(5) going(6) to(7) be(8) there(9) for(10) 2(11) nights(12) .(13) 
+		</sentence>
+		<sentence id="90">
+			Again(1) ,(2) this(3) room(4) is(5) suppose(6) to(7) be(8) designed(9) for(10) 4(11) people(12) ,(13) but(14) there(15) are(16) only(17) two(18) 15(19) towel(20) rungs(21) for(22) our(23) 6(24) wet(25) towels(26) and(27) 4(28) wet(29) bathing(30) suits(31) .(32) 
+		</sentence>
+		<sentence id="91">
+			The(1) rungs(2) were(3) so(4) short(5) ,(6) that(7) you(8) couldn(9) t(10) lay(11) your(12) towel(13) flat(14) to(15) try(16) to(17) dry(18) it(19) ,(20) it(21) would(22) be(23) bunched(24) up(25) at(26) the(27) sides(28) .(29) 
+		</sentence>
+		<sentence id="92">
+			Again(1) ,(2) there(3) is(4) no(5) counter(6) space(7) AT_ALL(8) in(9) the(10) bathroom(11) .(12) 
+		</sentence>
+		<sentence id="93">
+			I(1) had(2) to(3) put(4) my(5) clean(6) clothes(7) I(8) wanted(9) to(10) change(11) into(12) on(13) top(14) of(15) the(16) toilet(17) .(18) 
+		</sentence>
+		<sentence id="94">
+			But(1) ,(2) hey(3) ,(4) they(5) did(6) offer(7) one(8) bottle(9) of(10) complimentary(11) shampoo(12) /(13) conditioner(14) combo(15) and(16) some(17) soap(18) .(19) 
+		</sentence>
+		<sentence id="95">
+			Customer_Service_This(1) hotel(2) had(3) the(4) best(5) customer(6) service(7) I(8) have(9) ever(10) encountered(11) .(12) 
+			<opinion polarity="+" feature="service" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="96">
+			Everyone(1) was(2) pleasant(3) and(4) answered(5) questions(6) politely(7) and(8) professionally(9) .(10) 
+		</sentence>
+		<sentence id="97">
+			Who(1) ever(2) trained(3) these(4) employees(5) needs(6) a(7) medal(8) ,(9) they(10) did(11) a(12) fantastic(13) job(14) .(15) 
+		</sentence>
+		<sentence id="98">
+			What(1) Dana_Inn(2) has(3) to(4) say(5) about(6) itself(7) :(8) The(9) Dana_Inn_&_Marina(10) offers(11) a(12) resort(13) atmosphere(14) along(15) the(16) shores(17) of(18) Mission_Bay(19) .(20) 
+		</sentence>
+		<sentence id="99">
+			This(1) waterfront(2) location(3) is(4) convenient(5) to(6) all(7) of(8) San_Diego(9) 's(10) attractions(11) and(12) activities(13) .(14) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="100">
+			We(1) are(2) a(3) local(4) family(5) owned(6) and(7) operated(8) hotel(9) ,(10) a(11) member(12) of(13) the(14) San_Diego_Convention_&_Visitors_Bureau(15) since(16) 1969(17) and(18) an(19) AAA_Approved_Accommodation(20) .(21) 
+		</sentence>
+		<sentence id="101">
+			The(1) Dana_Inn_&_Marina(2) is(3) committed(4) to(5) providing(6) outstanding(7) service(8) to(9) each(10) and(11) every(12) guest(13) and(14) we(15) look(16) forward(17) to(18) your(19) visit(20) .(21) 
+		</sentence>
+		<sentence id="102">
+			To(1) find(2) out(3) more(4) about(5) this(6) hotel(7) ,(8) you(9) can(10) go(11) to(12) www.danainn.com(13) or(14) call(15) ((16) 800(17) )(18) Dana_Inn(19) .(20) 
+		</sentence>
+		<sentence id="103">
+			Would(1) I(2) recommend(3) this(4) hotel(5) ?(6) 
+		</sentence>
+		<sentence id="104">
+			I(1) have(2) been(3) bouncing(4) between(5) rating(6) this(7) hotel(8) with(9) two(10) stars(11) or(12) three(13) stars(14) .(15) 
+		</sentence>
+		<sentence id="105">
+			The(1) stained(2) carpet(3) ,(4) hole(5) in(6) mattress(7) ,(8) no(9) counter(10) space(11) in(12) room(13) ,(14) extremely(15) tiny(16) bathroom(17) with(18) no(19) tub(20) or(21) counter(22) space(23) ,(24) no(25) closet(26) really(27) should(28) make(29) this(30) a(31) two(32) star(33) rating(34) for(35) this(36) hotel(37) .(38) 
+			<opinion polarity="-" feature="carpets" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="106">
+			But(1) ,(2) the(3) location(4) ,(5) customer(6) service(7) ,(8) convenient(9) pool(10) access(11) from(12) our(13) room(14) ,(15) great(16) restaurant(17) ,(18) free(19) shuttle(20) service(21) and(22) the(23) fantastic(24) time(25) we(26) had(27) at(28) Sea_World(29) has(30) softened(31) me(32) .(33) 
+			<opinion polarity="+" feature="food" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="107">
+			Therefore(1) ,(2) I(3) am(4) giving(5) it(6) 3(7) stars(8) .(9) 
+		</sentence>
+		<sentence id="108">
+			Would(1) I(2) stay(3) here(4) again(5) ?(6) 
+		</sentence>
+		<sentence id="109">
+			Probably(1) not(2) .(3) 
+		</sentence>
+		<sentence id="110">
+			This(1) room(2) is(3) not(4) for(5) four(6) people(7) ,(8) especially(9) at(10) the(11) non-deal(12) asking(13) price(14) of(15) $169(16) .(17) 
+		</sentence>
+		<sentence id="111">
+			There(1) is(2) not(3) enough(4) floor(5) space(6) ,(7) eating(8) space(9) ,(10) dressers(11) for(12) your(13) clothes(14) space(15) ,(16) I(17) guess(18) just(19) not(20) enough(21) space(22) for(23) a(24) family(25) of(26) four(27) ((28) and(29) 4(30) adults(31) would(32) be(33) even(34) worse(35) )(36) .(37) 
+		</sentence>
+		<sentence id="112">
+			Some(1) would(2) think(3) ,(4) "(5) well(6) ,(7) I(8) will(9) not(10) be(11) spending(12) much(13) time(14) in(15) my(16) room(17) .(18) "(19) Well(20) ,(21) with(22) Sea_World(23) closing(24) at(25) 6:00(26) PM(27) ,(28) and(29) Legoland(30) closing(31) at(32) 5:00(33) PM(34) ,(35) we(36) did(37) spend(38) time(39) from(40) the(41) early(42) evenings(43) till(44) morning(45) in(46) this(47) room(48) ,(49) and(50) it(51) did(52) get(53) crowded(54) .(55) 
+		</sentence>
+		<sentence id="113">
+			Also(1) ,(2) I(3) just(4) feel(5) the(6) price(7) is(8) too(9) high(10) for(11) this(12) kind(13) of(14) room(15) .(16) 
+			<opinion polarity="-" feature="price" featWords="7" opWords="9,10"/>
+		</sentence>
+		<sentence id="114">
+			Another(1) hotel(2) ,(3) the(4) Ramada(5) ,(6) is(7) also(8) close(9) to(10) Sea_World(11) at(12) $65(13) a(14) night(15) ,(16) but(17) you(18) have(19) to(20) pay(21) for(22) a(23) taxi(24) to(25) get(26) you(27) to(28) the(29) hotel(30) from(31) the(32) train(33) station(34) /(35) airport(36) if(37) you(38) didn(39) t(40) drive(41) or(42) rent(43) a(44) car(45) as(46) they(47) have(48) no(49) shuttle(50) service(51) .(52) 
+		</sentence>
+		<sentence id="115">
+			Sherri(1) ((2) cubmomma(3) )(4) 2004(5) 
+		</sentence>
+	</text>
+</review>

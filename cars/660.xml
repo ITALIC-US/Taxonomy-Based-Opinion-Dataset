@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="660" item="1998 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) a(2) long(3) lasting(4) investment(5) 
+			<opinion polarity="-" feature="reliability" opWords="1,3,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) ride(2) on(3) highway(4) .(5) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Decent(1) gas(2) mileage(3) .(4) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Engine(1) parts(2) are(3) popular(4) with(5) thieves(6) due(7) to(8) VTEC(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Dying(1) before(2) 100,000_miles(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Not(1) reliable(2) .(3) 
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) a(2) toyota(3) instead(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Before(1) I(2) got(3) my(4) Honda(5) ,(6) I(7) had(8) a(9) Toyota(10) that(11) spoiled(12) me(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) the(3) Toyota(4) for(5) 10(6) years(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			It(1) only(2) stranded(3) me(4) a(5) few(6) times(7) during(8) those(9) 10(10) years(11) ((12) due(13) to(14) battery(15) and(16) alternator(17) problems(18) )(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) 5(3) years(4) old(5) when(6) I(7) bought(8) it(9) ,(10) so(11) it(12) lasted(13) a(14) good(15) 15(16) years(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			I(1) bought(2) my(3) Honda(4) in_2000(5) ,(6) when(7) it(8) was(9) only(10) 2(11) years(12) old(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) first(2) few(3) years(4) were(5) okay(6) ((7) except_for(8) the(9) time(10) that(11) a(12) group(13) of(14) thieves(15) went(16) through(17) the(18) city(19) stealing(20) fuel(21) rods(22) from(23) Honda_VTEC(24) engines(25) and(26) cutting(27) everything(28) around(29) the(30) fuel(31) rod(32) to(33) get(34) it(35) out(36) )(37) .(38) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) have(3) a(4) car(5) with(6) a(7) VTEC(8) engine(9) ,(10) have(11) a(12) low(13) deductible(14) on(15) your(16) insurance(17) so(18) you(19) can(20) handle(21) theft(22) of(23) your(24) car(25) or(26) its(27) parts(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			When(1) I(2) went(3) shopping(4) for(5) the(6) Honda(7) ,(8) I(9) saw(10) one(11) ((12) that(13) I(14) did(15) not(16) buy(17) )(18) that(19) had(20) scratches(21) on(22) the(23) inside(24) of(25) the(26) driver(27) 's(28) door(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			I(1) thought(2) the(3) prior(4) owners(5) were(6) just(7) rough(8) with(9) it(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			After(1) the(2) thieves(3) smashed(4) my(5) window(6) so(7) they(8) could(9) pop(10) the(11) hood(12) ,(13) the(14) glass(15) left(16) the(17) same(18) type(19) of(20) scratches(21) on(22) the(23) inside(24) of(25) my(26) door(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			So(1) ,(2) I(3) guess(4) this(5) happens(6) quite(7) frequently(8) with(9) Civics(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) 're(3) buying(4) one(5) ,(6) beware(7) of(8) these(9) marks(10) -(11) it(12) might(13) mean(14) that(15) a(16) thief(17) has(18) stolen(19) some(20) of(21) the(22) parts(23) ((24) which(25) can(26) be(27) replaced(28) -(29) but(30) are(31) not(32) always(33) replaced(34) with(35) the(36) best(37) new(38) parts(39) -(40) it(41) might(42) be(43) full(44) of(45) remanufactured(46) engine(47) parts(48) )(49) .(50) 
+		</sentence>
+		<sentence id="13">
+			I(1) thought(2) Hondas(3) had(4) a(5) reputation(6) for(7) being(8) reliable(9) .(10) 
+			<opinion polarity="+" feature="reliability" opWords="9"/>
+		</sentence>
+		<sentence id="14">
+			But(1) I(2) have(3) not(4) found(5) that(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) have(3) this(4) car(5) ,(6) be(7) prepared(8) to(9) be(10) stranded(11) at_least(12) once(13) a(14) year(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			The(1) car(2) is(3) now(4) about(5) 7(6) years(7) old(8) and(9) needs(10) a(11) new(12) ECM(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			It(1) is(2) dead(3) unless(4) I(5) want(6) to(7) pay(8) $1000(9) for(10) a(11) new(12) ECM(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			I(1) can(2) understand(3) the(4) regular(5) maintenance(6) costs(7) of(8) timing(9) belts(10) ,(11) new(12) brakes(13) ,(14) maybe(15) a(16) new(17) radiator(18) eventually(19) -(20) but(21) I(22) do(23) not(24) expect(25) to(26) pay(27) for(28) a(29) new(30) ECM(31) when(32) I(33) have(34) a(35) car(36) less(37) than(38) 7(39) years(40) old(41) with(42) less(43) than(44) 100,000_miles(45) .(46) 
+		</sentence>
+		<sentence id="19">
+			I(1) 'm(2) switching(3) back(4) to(5) Toyota(6) where(7) the(8) cars(9) last(10) well(11) over(12) 100,000_miles(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			I(1) will(2) not(3) be(4) trying(5) out(6) any(7) more(8) Hondas(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) EX_Automatic(16) 
+		</sentence>
+	</text>
+</review>

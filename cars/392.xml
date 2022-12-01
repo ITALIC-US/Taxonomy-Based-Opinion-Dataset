@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="392" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			zippy(1) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sleek(1) ,(2) holds(3) the(4) road(5) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			man(1) magnet(2) ((3) which(4) can(5) be(6) positive(7) ,(8) depending(9) )(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) driven(3) the(4) whole(5) family(6) of(7) Beemers(8) and(9) I(10) have(11) to(12) say(13) ,(14) the(15) Z3(16) is(17) a(18) bundle(19) of(20) fun(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			The(1) others(2) feel(3) like(4) tanks(5) ((6) tanks(7) that(8) purr(9) )(10) ,(11) but(12) the(13) Z3(14) carries(15) like(16) a(17) cloud(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Even(1) on(2) slick(3) roads(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			I(1) feel(2) as(3) though(4) I(5) 'm(6) rooted(7) like(8) a(9) train(10) on(11) tracks(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			And(1) the(2) looks(3) you(4) get(5) from(6) passersby(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Zongs(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			On(1) that(2) note(3) ,(4) though(5) ,(6) it(7) 's(8) a(9) better(10) car(11) for(12) girls(13) or(14) gay(15) men(16) then(17) hetero(18) men(19) ,(20) because(21) guys(22) are(23) the(24) ones(25) who(26) stare(27) at(28) the(29) car(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			You(1) might(2) think(3) this(4) a(5) silly(6) detail(7) ,(8) but(9) let(10) me(11) tell(12) you(13) ,(14) it(15) 's(16) something(17) I(18) think(19) about(20) every(21) time(22) I(23) climb(24) in(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Other(1) features(2) I(3) just(4) love(5) :(6) Those(7) seat(8) heaters(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Roll(1) that(2) top(3) down(4) on(5) the(6) coldest(7) day(8) of(9) the(10) year(11) and(12) you(13) will(14) not(15) even(16) know(17) it(18) if(19) you(20) 've(21) got(22) the(23) heat(24) pumping(25) at(26) high(27) and(28) your(29) seat(30) burner(31) fired(32) up(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			And(1) those(2) compartments(3) up_front(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			There(1) are(2) all(3) sorts(4) of(5) nooks(6) and(7) crannies(8) to(9) store(10) cd(11) 's(12) ,(13) hats(14) ,(15) pens(16) ,(17) kleenex(18) .(19) 
+		</sentence>
+	</text>
+</review>

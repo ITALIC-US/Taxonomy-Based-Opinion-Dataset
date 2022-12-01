@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="896" item="1999 Toyota Tacoma" rating="2">
+	<title>
+		<sentence id="1">
+			For(1) Looks(2) and(3) Nothing_Else(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) nice(2) .(3) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) much(2) power(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) you(2) want(3) a(4) truck(5) for(6) would(7) have(8) a_lot(9) to(10) do(11) in(12) deciding(13) whether(14) or(15) not(16) to(17) buy(18) the(19) '(20) 99(21) Tacoma(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) read(3) the(4) facts(5) on(6) it(7) plus(8) the(9) facts(10) I(11) know(12) about(13) my(14) fathers(15) Tacoma(16) it(17) is(18) primarily(19) for(20) show(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) want(3) a(4) truck(5) for(6) handling(7) off(8) road(9) and(10) possibly(11) towing(12) a(13) rather(14) large(15) qauntity(16) look(17) elsewhere(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) biggest(2) engine(3) that(4) I(5) know(6) of(7) that(8) they(9) will(10) put(11) in(12) a(13) Tacoma(14) is(15) a(16) 6(17) cylinder(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Its(1) max(2) towing(3) capacity(4) with(5) a(6) 6(7) is(8) 5,000(9) lbs(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			All(1) of(2) the(3) other(4) engines(5) are(6) 4(7) cylinders(8) with(9) max(10) towing(11) of(12) 3,500(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			But(1) all(2) that(3) I(4) am(5) say(6) here(7) is(8) that(9) it(10) is(11) not(12) your(13) best(14) choice(15) for(16) off(17) road(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Though(1) the(2) later(3) model(4) 4x4(5) Tacoma(6) seem(7) to(8) have(9) been(10) built(11) better(12) and(13) I(14) have(15) seen(16) them(17) do(18) more(19) stuff(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) want(3) a_real(4) nice(5) looking(6) truck(7) ,(8) look(9) here(10) cause(11) basically(12) that(13) 's(14) all(15) that(16) it(17) is(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

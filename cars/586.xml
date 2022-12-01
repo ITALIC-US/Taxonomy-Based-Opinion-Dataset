@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="586" item="2000 Chevrolet Silverado" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) quite(2) like(3) a(4) rock(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Power(1) ,(2) Great_Interior(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) quality(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) advertising(2) for(3) Chevrolet(4) truck(5) says(6) "(7) Like(8) A(9) Rock(10) "(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Well(1) ,(2) the(3) Chevrolet_Silverado(4) is(5) definitely(6) a(7) tough(8) truck(9) when(10) it(11) comes(12) to(13) looks(14) and(15) power(16) ,(17) but(18) the(19) quality(20) is(21) still(22) typical(23) GM(24) territory(25) .(26) 
+			<opinion polarity="+" feature="truck" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			The(1) looks(2) could(3) be(4) well(5) described(6) as(7) "(8) Blue_Collar(9) "(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) a(3) simple(4) evolution(5) of(6) the(7) old(8) Chevy(9) trucks(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) no(3) way(4) this(5) design(6) is(7) going(8) to(9) be(10) mistaken(11) for(12) a(13) Ford(14) or(15) Dodge(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) most(3) definitely(4) designed(5) to(6) bring(7) the(8) "(9) tough(10) guy(11) "(12) out(13) of(14) you(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) completely(2) new(3) interior(4) is(5) definitely(6) an(7) improvement(8) over(9) the(10) last(11) years(12) model(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Everything(1) is(2) easy(3) to(4) reach(5) and(6) very(7) well(8) marked(9) .(10) 
+			<opinion polarity="+" feature="amenities" opWords="8,9" potency="7"/>
+			<opinion polarity="+" feature="amenities" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) instrumentation(2) is(3) complete(4) and(5) it(6) would(7) be(8) hard(9) to(10) find(11) any(12) fault(13) with(14) the(15) HVAC(16) system(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Once(1) on(2) the(3) road(4) ,(5) there(6) is(7) more(8) than(9) enough(10) power(11) with(12) the(13) V8(14) engines(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			In(1) fact(2) ,(3) if(4) you(5) drive(6) a(7) 2(8) wheel(9) drive(10) version(11) with(12) the(13) standard(14) tires(15) and(16) wheels(17) ,(18) there(19) is(20) way(21) too(22) much(23) power(24) without(25) a(26) bed(27) load(28) of(29) stuff(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			You(1) will(2) send(3) the(4) tires(5) to(6) the(7) scrap(8) heap(9) before(10) you(11) can(12) say(13) "(14) I(15) should(16) have(17) bought(18) a(19) four(20) wheel(21) drive(22) !(23) "(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			While(1) initial(2) quality(3) seemed(4) very(5) good(6) ,(7) after(8) only(9) 4(10) months(11) of(12) use(13) ,(14) my(15) Silverado(16) started(17) to(18) squeak(19) from(20) the(21) interior(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			I(1) had(2) never(3) abused(4) it(5) or(6) taken(7) it(8) off(9) road(10) so(11) I(12) was(13) a(14) little(15) surprised(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			Some(1) of(2) my(3) friends(4) who(5) rode(6) in(7) the(8) truck(9) definitely(10) noticed(11) the(12) squeaks(13) ((14) they(15) drive(16) BMW(17) 's(18) and(19) are(20) finicky(21) about(22) quality(23) control(24) )(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			For(1) a(2) tough(3) truck(4) ,(5) the(6) noises(7) were(8) sure(9) a(10) disappointment(11) .(12) 
+			<opinion polarity="+" feature="truck" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="17">
+			The(1) HVAC(2) also(3) decided(4) to(5) join(6) in(7) the(8) frustration(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Though(1) it(2) only(3) happened(4) twice(5) .(6) the(7) fan(8) refused(9) to(10) blow(11) any(12) air(13) after(14) the(15) truck(16) was(17) started(18) one(19) evening(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			After(1) turning(2) off(3) the(4) engine(5) and(6) restarting(7) ,(8) the(9) fan(10) was(11) all(12) right(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			Almost(1) like(2) a(3) PC(4) to(5) have(6) to(7) restart(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			Was(1) this(2) the(3) "(4) Windows(5) "(6) edition(7) of(8) the(9) truck(10) ?(11) 
+		</sentence>
+		<sentence id="22">
+			One(1) of(2) the(3) low(4) points(5) of(6) driving(7) a(8) pick(9) up(10) with(11) a(12) V8(13) is(14) gas(15) mileage(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			This(1) one(2) is(3) no(4) exception(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			I(1) averaged(2) about(3) 12-15(4) mpg(5) at(6) the(7) best(8) of(9) times(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			Who(1) should(2) buy(3) this(4) truck(5) .(6) 
+		</sentence>
+		<sentence id="26">
+			It(1) 's(2) for(3) anyone(4) looking(5) for(6) a(7) roomy(8) and(9) powerful(10) workhorse(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			If(1) you(2) 're(3) an(4) Urban_Cowboy(5) ,(6) the(7) size(8) and(9) mileage(10) should(11) convice(12) you(13) to(14) look(15) at(16) a(17) smaller(18) truck(19) .(20) 
+		</sentence>
+	</text>
+</review>

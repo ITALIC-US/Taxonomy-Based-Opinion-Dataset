@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="280" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Maxima_SE(1) :(2) Great_Car(3) ,(4) Bummer_Tires(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Snappy(1) performer(2) ;(3) great(4) looks(5) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bummer(1) tires(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) 2000(2) Maxima_SE(3) is(4) a(5) great(6) car(7) -(8) the(9) BOSE(10) sound(11) system(12) makes(13) long(14) drives(15) bearable(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			The(1) console(2) is(3) well(4) arranged(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			The(1) fit(2) and(3) finish(4) of(5) the(6) car(7) seem(8) excellent(9) .(10) 
+			<opinion polarity="+" feature="finish" featWords="4" opWords="9"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			Front(1) seat(2) comfy(3) but(4) snug(5) /(6) close(7) .(8) 
+			<opinion polarity="+" feature="seat" featWords="1,2" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) trunk(2) appointments(3) seem(4) a(5) little(6) cheezy(7) for(8) a(9) $25k(10) car(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Changing(1) a(2) tire(3) is(4) fairly(5) easy(6) once(7) you(8) figure(9) out(10) how(11) to(12) use(13) the(14) jack-handle(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			If(1) the(2) SE(3) you(4) are(5) looking(6) at(7) has(8) the(9) Bridgestone_Potenza(10) RE92(11) 17(12) "(13) tires(14) you(15) need(16) to(17) ask(18) some(19) SERIOUS(20) questions(21) .(22) It(23) is(24) June(25) 10(26) ,(27) and(28) since(29) May_8th(30) I(31) 've(32) been(33) riding(34) on(35) the(36) donut(37) !(38) I(39) damaged(40) the(41) tire(42) when(43) I(44) hit(45) an(46) object(47) that(48) looked(49) like(50) a(51) clump(52) of(53) dirt(54) and(55) turned(56) out(57) to(58) be(59) a(60) piece(61) of(62) cast-iron(63) .(64) Nobody(65) ,(66) not(67) even(68) Bridgestone(69) can(70) get(71) a(72) replacement(73) for(74) this(75) tire(76) .(77) It(78) can(79) cost(80) anywhere(81) from(82) $205(83) to(84) $230(85) .(86) AT_LEAST(87) buy(88) a(89) road-hazzard(90) warranty(91) from(92) Firestone(93) -(94) Nissan(95) says(96) :(97) "(98) ai(99) not(100) my(101) problem(102) -(103) see(104) your(105) warranty(106) book(107) "(108) .(109) 
+		</sentence>
+	</text>
+</review>

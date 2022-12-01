@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="84" item="Sleep Inn Northwest" rating="1">
+	<title>
+		<sentence id="1">
+			Worst_Hotel_I(1) have(2) ever(3) been(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			No(1) pros(2) ,(3) only(4) cons(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			If(1) you(2) do(3) not(4) want(5) to(6) spoil(7) your(8) stay(9) ,(10) then(11) do(12) not(13) stay(14) here(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Simply(1) do(2) not(3) stay(4) here(5) .(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) worst(4) hotel(5) I(6) have(7) ever(8) been(9) in(10) my(11) life(12) .(13) 
+			<opinion polarity="-" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			We(1) checked(2) in(3) in(4) the(5) hotel(6) at(7) 10:00(8) p(9) .(10) m(11) in(12) the(13) night(14) very(15) tired(16) hoping(17) that(18) we(19) will(20) have(21) a(22) pleasant(23) stay(24) at(25) the(26) hotel(27) and(28) have(29) a(30) good(31) rest(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) went(3) into(4) our(5) room(6) we(7) were(8) surprised(9) to(10) see(11) that(12) the(13) mattress(14) and(15) bed(16) sheet(17) was(18) wet(19) !(20) !(21) 
+		</sentence>
+		<sentence id="4">
+			Probably(1) they(2) do(3) not(4) change(5) the(6) mattress(7) after(8) a(9) customer(10) checks(11) out(12) !(13) !(14) !(15) 
+		</sentence>
+		<sentence id="5">
+			We(1) informed(2) the(3) same(4) to(5) the(6) front(7) desk(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			The(1) person(2) at(3) the(4) front(5) desk(6) was(7) very(8) unfriendly(9) !(10) !(11) 
+			<opinion polarity="-" feature="front desk" featWords="5,6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			He(1) challenged(2) that(3) it(4) is(5) not(6) possible(7) as_if(8) we(9) were(10) lying(11) but(12) provided(13) another(14) room(15) reluctantly(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Another(1) surprise(2) !(3) !(4) 
+		</sentence>
+		<sentence id="9">
+			The(1) door(2) of(3) the(4) restroom(5) of(6) that(7) room(8) was(9) broken(10) and(11) will(12) not(13) close(14) completely(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			When(1) we(2) informed(3) about(4) the(5) same(6) to(7) the(8) front(9) desk(10) again(11) he(12) said(13) rudely(14) in(15) Urdu(16) "(17) Ab_Main_Kuch(18) nahin(19) Kar(20) sakta(21) itni(22) raat(23) ko(24) .(25) Mere(26) paas(27) aur(28) koi(29) kamra(30) nahin(31) hai(32) .(33) "(34) Means(35) :(36) I(37) can(38) not(39) do(40) anything(41) at(42) this(43) hour(44) .(45) 
+		</sentence>
+		<sentence id="11">
+			I(1) only(2) have(3) these(4) rooms(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			He(1) then(2) left(3) from(4) the(5) his(6) desk(7) leaving(8) us(9) surprised(10) and(11) astonished(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			He(1) was(2) thinking(3) as_if(4) we(5) are(6) trying(7) to(8) fool(9) him(10) and(11) will(12) not(13) hear(14) customer(15) 's(16) concern(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			It(1) was(2) 12:00(3) clock(4) in(5) the(6) midnight(7) and(8) we(9) were(10) tired(11) like(12) anything(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			At(1) that(2) time(3) we(4) had(5) no(6) option(7) but(8) to(9) live(10) in(11) the(12) second(13) room(14) since(15) the(16) first(17) room(18) was(19) very(20) Unhygienic(21) with(22) the(23) wet(24) mattress(25) !(26) !(27) !(28) !(29) !(30) 
+		</sentence>
+		<sentence id="16">
+			Next(1) morning(2) we(3) could(4) see(5) spiders(6) in(7) the(8) room(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Next(1) morning(2) we(3) met(4) with(5) the(6) Hotel(7) 's(8) owner(9) and(10) he(11) said(12) that(13) he(14) is(15) aware(16) of(17) what(18) happened(19) at(20) night(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			And(1) he(2) said(3) that(4) he(5) rented(6) the(7) same(8) room(9) ((10) with(11) the(12) wet(13) mattress(14) )(15) to(16) another(17) customer(18) like(19) that(20) only(21) and(22) he(23) did'nt(24) complain(25) !(26) !(27) !(28) 
+		</sentence>
+		<sentence id="19">
+			We(1) were(2) surprised(3) as(4) how(5) unfriendly(6) and(7) non(8) customer(9) focus(10) these(11) guys(12) are(13) that(14) even_if(15) a(16) customer(17) has(18) complained(19) about(20) something(21) they(22) did'nt(23) bother(24) to(25) look(26) at(27) it(28) and(29) fix(30) it(31) ,(32) rather(33) they(34) rented(35) the(36) room(37) to(38) another(39) innocent(40) customer(41) .(42) 
+		</sentence>
+		<sentence id="20">
+			I(1) mean(2) that(3) even_though(4) they(5) are(6) in(7) hospitality(8) business(9) ,(10) they(11) do(12) not(13) know(14) what(15) actually(16) that(17) means(18) .(19) 
+		</sentence>
+		<sentence id="21">
+			I(1) hope(2) this(3) review(4) will(5) be(6) helpful(7) to(8) others(9) so_that(10) they(11) are(12) aware(13) of(14) this(15) before(16) wasting(17) their(18) time(19) and(20) have(21) bad(22) experience(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			BEWARE(1) OF_STAYING_IN_THIS_HOTEL(2) !(3) !(4) !(5) 
+		</sentence>
+	</text>
+</review>

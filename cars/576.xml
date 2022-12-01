@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="576" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) "(2) Real(3) "(4) Impala(5) is(6) dead(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) design(2) .(3) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Roomy(1) front(2) seat(3) area(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Front(1) drive(2) ,(3) anemic(4) engine(5) ,(6) no(7) back(8) seat(9) room(10) 
+			<opinion polarity="-" feature="engine" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			To(1) the(2) movers(3) and(4) shakers(5) at(6) Chevrolet(7) ...(8) What(9) were(10) you(11) thinking(12) when(13) you(14) named(15) this(16) bulbous(17) version(18) of(19) the(20) Lumina(21) ,(22) "(23) Impala(24) "(25) ?(26) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) not(3) an(4) Impala(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			An(1) Impala_IS_a_BIG(2) car(3) ,(4) with(5) the(6) drive(7) wheels(8) in(9) the(10) rear(11) where(12) they(13) belong(14) and(15) an(16) engine(17) situated(18) in(19) a(20) for(21) /(22) aft(23) configuration(24) ,(25) like(26) it(27) should(28) be(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			The(1) new(2) "(3) Impala(4) ?(5) "(6) is(7) at(8) best(9) a(10) re-skinned(11) Lumina(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			At(1) worst(2) ,(3) it(4) is(5) another(6) attempt(7) to(8) move(9) real(10) drivers(11) into(12) front(13) drive(14) econo-boxes(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Did(1) you(2) think(3) the(4) people(5) who(6) really(7) understand(8) the(9) benefits(10) of(11) rear(12) drive(13) would(14) be(15) fooled(16) into(17) thinking(18) this(19) new(20) Impala(21) would(22) fill(23) all(24) their(25) needs(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			NOT(1) !(2) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) is(3) small(4) by(5) comparison(6) to(7) the(8) old(9) Impala(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) highly(3) anemic(4) ,(5) ((6) an(7) iddy(8) biddy(9) ,(10) asthmatic(11) ,(12) wheezing(13) little(14) 3.8(15) liter(16) 6(17) banger(18) versus(19) the(20) previous(21) model(22) 's(23) mighty(24) 5.7(25) liter(26) V8(27) )(28) .(29) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="10">
+			Oh(1) yeah(2) ,(3) I(4) will(5) not(6) notice(7) the(8) difference(9) in(10) power(11) !(12) 
+		</sentence>
+		<sentence id="11">
+			Right(1) !(2) 
+		</sentence>
+		<sentence id="12">
+			As(1) for(2) room(3) ,(4) the(5) new(6) Impala(7) is(8) nowhere(9) near(10) as(11) roomy(12) as(13) the(14) old(15) Impala(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) perhaps(3) seat(4) two(5) adults(6) comfortably(7) in(8) the(9) front(10) and(11) three(12) children(13) in(14) the(15) back(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			As(1) for(2) adults(3) in(4) the(5) back(6) ,(7) forget(8) it(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			When(1) the(2) front(3) seats(4) are(5) pushed(6) back(7) all(8) the(9) way(10) ,(11) rear(12) leg(13) room(14) quickly(15) vanishes(16) as(17) it(18) does(19) with(20) all(21) cars(22) in(23) this(24) class(25) ,(26) ((27) Ford(28) :(29) Taurus_&_Sable(30) ,(31) Chrysler(32) :(33) Intrepid(34) ,(35) Concorde(36) and(37) whatever(38) else(39) GM(40) has(41) in(42) this(43) class(44) .(45) )(46) Once(47) again(48) ,(49) the(50) General(51) has(52) taken(53) a(54) name(55) from(56) the(57) past(58) and(59) resurrected(60) it(61) onto(62) a(63) front(64) drive(65) platform(66) and(67) done(68) the(69) name(70) and(71) heritage(72) an(73) unforgivable(74) injustice(75) .(76) 
+		</sentence>
+		<sentence id="16">
+			This(1) car(2) should(3) have(4) been(5) named(6) ,(7) "(8) the(9) new(10) ,(11) redesigned(12) 1999(13) Lumina(14) "(15) or(16) at_least(17) some(18) other(19) marketing(20) firm(21) generated(22) name(23) with(24) no(25) meaning(26) ie(27) .(28) :(29) Camry(30) ,(31) Ultima(32) ,(33) Sentra(34) ,(35) etc(36) ....(37) The(38) aura(39) of(40) the(41) once(42) mighty(43) and(44) powerful(45) Impala(46) has(47) been(48) tarnished(49) .(50) 
+			<opinion polarity="+" feature="horsepower" opWords="45"/>
+			<opinion polarity="+" feature="horsepower" opWords="43"/>
+		</sentence>
+		<sentence id="17">
+			When(1) are(2) they(3) going(4) to(5) learn(6) ?(7) 
+		</sentence>
+		<sentence id="18">
+			I(1) have(2) rented(3) the(4) new(5) Impala(6) a(7) number(8) of(9) times(10) and(11) I(12) truly(13) miss(14) the(15) kick(16) in(17) the(18) pants(19) acceleration(20) of(21) the(22) old(23) Impala(24) as_well(25) as(26) the(27) roominess(28) and(29) the(30) stability(31) of(32) rear(33) drive(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			Funny(1) ,(2) I(3) never(4) had(5) to(6) deal(7) with(8) torque(9) steer(10) with(11) the(12) old(13) Impala(14) .(15) ((16) I(17) say(18) again(19) ,(20) front(21) drive(22) ,(23) for(24) those(25) of(26) us(27) who(28) grew(29) up(30) with(31) rear(32) drive(33) ,(34) is(35) not(36) better(37) under(38) any(39) conditions(40) than(41) rear(42) drive(43) .(44) The(45) drive-ability(46) lies(47) in_the_hands_of(48) the(49) driver(50) ,(51) not(52) the(53) car(54) .(55) )(56) I(57) will(58) admit(59) ,(60) I(61) like(62) the(63) design(64) ((65) love(66) the(67) tail-light(68) assembly(69) )(70) .(71) 
+			<opinion polarity="+" feature="design" featWords="64" opWords="62"/>
+		</sentence>
+		<sentence id="20">
+			The(1) interior(2) for(3) the(4) driver(5) and(6) front(7) seat(8) passenger(9) is(10) roomy(11) .(12) ((13) Why(14) does(15) the(16) steering(17) wheel(18) have(19) to(20) be(21) so(22) darn(23) big(24) ?(25) After(26) all(27) ,(28) it(29) has(30) power(31) steering(32) does(33) not(34) it(35) ?(36) )(37) It(38) is(39) a(40) far(41) ,(42) far(43) better(44) car(45) than(46) any(47) other(48) ((49) US(50) )(51) manufacturer(52) has(53) to(54) offer(55) in(56) this(57) class(58) .(59) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="11"/>
+		</sentence>
+		<sentence id="21">
+			It(1) is(2) too(3) bad(4) it(5) is(6) front(7) drive(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			This(1) car(2) would(3) have(4) made(5) a(6) fun(7) car(8) to(9) drive(10) had(11) it(12) remained(13) rear(14) drive(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="23">
+			The(1) REAL_IMPALA(2) is(3) dead(4) !(5) 
+		</sentence>
+		<sentence id="24">
+			Long(1) live(2) the(3) Lumina(4) with(5) its(6) new(7) set(8) of(9) clothes(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			I(1) do(2) not(3) necessarily(4) hate(5) it(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="6" featRef="car" opWords="3,5"/>
+		</sentence>
+		<sentence id="26">
+			But(1) I(2) do(3) not(4) love(5) it(6) either(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="6" featRef="car" opWords="4,5"/>
+		</sentence>
+		<sentence id="27">
+			With(1) a(2) different(3) name(4) ,(5) it(6) 'll(7) do(8) in(9) a(10) pinch(11) !(12) ((13) Note(14) to(15) GM(16) :(17) When(18) it(19) is(20) time(21) to(22) retire(23) a(24) name(25) ,(26) please(27) retire(28) it(29) permanently(30) .(31) Let(32) it(33) die(34) with(35) grace(36) and(37) dignity(38) .(39) I(40) shudder(41) at(42) the(43) thought(44) of(45) a(46) Corvette(47) ,(48) Camaro(49) or(50) Firebird(51) with(52) a(53) sideways(54) 6(55) cylinder(56) and(57) front(58) wheel(59) drive(60) !(61) !(62) !(63) !(64) did(65) not(66) you(67) learn(68) with(69) the(70) reintroduction(71) of(72) the(73) Pontiac_LeMans(74) and(75) Chevy_Nova(76) !(77) !(78) ?(79) ?(80) )(81) 
+		</sentence>
+	</text>
+</review>

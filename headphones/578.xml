@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="578" item="Bose TriPort Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) Worth(2) a(3) penny(4) over(5) $30(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Average(1) headphones(2) at(3) best(4) 
+			<opinion polarity="-" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Limited(1) volume(2) .(3) 
+			<opinion polarity="-" feature="volume" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Average(1) base(2) .(3) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Upper(1) range(2) sound(3) clarity(4) is(5) weak(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			No(1) pure(2) solo(3) quality(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Very(1) disappointing(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			The(1) Bose_Triports(2) did(3) not(4) have(5) the(6) volume(7) ,(8) base(9) ,(10) or(11) upper(12) range(13) that(14) my(15) old(16) Koss(17) $19(18) headphones(19) have(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) really(2) do(3) not(4) understand(5) all(6) the(7) hype(8) &(9) positive(10) reviews(11) ?(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) not(3) recommend(4) the(5) Triport(6) to(7) anyone(8) .(9) 
+			<opinion polarity="-" feature="headphones" featWords="6" featRef="headphones" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) not(3) high-end(4) headphones(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			I(1) listen(2) to(3) jazz(4) and(5) the(6) trumpet(7) solo(8) sounded(9) like(10) a(11) distant(12) tweetie(13) bird(14) .(15) 
+		</sentence>
+	</text>
+</review>

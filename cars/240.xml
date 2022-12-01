@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="240" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			More(1) Car_for_Less_Money(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) power(3) ,(4) very(5) reliable(6) ,(7) bargain(8) compared(9) to(10) competition(11) .(12) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			There(1) 's(2) nothing(3) wrong(4) with(5) this(6) ride(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Nissan_Maxima(2) is(3) simply(4) the(5) best(6) value(7) for(8) midsize(9) cars(10) under(11) $30,000(12) today(13) ,(14) and(15) it(16) beats(17) out(18) quite(19) a(20) few(21) much(22) more(23) expensive(24) ones(25) as_well(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			For(1) as(2) low(3) as(4) $22,000(5) it(6) has(7) more(8) power(9) ((10) 222(11) bhp(12) )(13) than(14) some(15) luxury(16) cars(17) ,(18) and(19) is(20) widely(21) available(22) with(23) a(24) stickshift(25) ,(26) rare(27) on(28) Camrys(29) and(30) Accords(31) today(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			It(1) comes(2) with(3) a(4) long(5) list(6) of(7) standard(8) features(9) ,(10) and(11) the(12) knowledge(13) that(14) it(15) will(16) stay(17) on(18) the(19) road(20) trouble-free(21) for(22) a(23) long(24) time(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			It(1) also(2) has(3) lots(4) of(5) sporting(6) appeal(7) ,(8) especially(9) for(10) someone(11) who(12) needs(13) to(14) haul(15) stuff(16) ((17) or(18) kids(19) )(20) around(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) plenty_of(3) storage(4) space(5) as_well(6) ,(7) with(8) a(9) trunk(10) that(11) will(12) swallow(13) several(14) golf(15) bags(16) and(17) a(18) rear(19) seat(20) pass(21) through(22) for(23) skis(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) Maxima(2) appeals(3) to(4) anyone(5) looking(6) for(7) a(8) solidly(9) built(10) car(11) that(12) has(13) a_lot_of(14) nice(15) touches(16) at(17) a(18) price(19) that(20) does(21) not(22) hurt(23) to(24) much(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="9,10"/>
+		</sentence>
+	</text>
+</review>

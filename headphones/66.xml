@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="66" item="Philips HN050 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Disappointed(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nothing(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Painful(1) noise(2) when(3) switching(4) soundbox(5) to(6) ON(7) /(8) OFF(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Uncomfortable(1) and(2) unadjustable(3) .(4) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Mediocre(1) noise-canceling(2) .(3) 
+			<opinion polarity="-" feature="isolation" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) a(6) new(7) pair(8) of(9) COMFORTABLE(10) headphones(11) ,(12) do(13) not(14) get(15) these(16) !(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) cord(2) is(3) too(4) short(5) ,(6) the(7) soundbox(8) is(9) kind(10) of(11) annoying(12) .(13) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="3">
+			Also(1) :(2) they(3) are(4) terribly(5) uncomfortable(6) .(7) 
+			<opinion polarity="-" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) a(3) medium(4) sized(5) head(6) ,(7) I(8) would(9) say(10) ,(11) and(12) they(13) hurt(14) !(15) 
+		</sentence>
+		<sentence id="5">
+			After(1) wearing(2) them(3) for(4) 10(5) minutes(6) ,(7) they(8) start(9) to(10) hurt(11) very(12) badly(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) noise(2) canceling(3) is(4) okay(5) .(6) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			It(1) kind(2) of(3) smooths(4) out(5) the(6) noise(7) ,(8) but(9) you(10) can(11) still(12) hear(13) it(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			There(1) 's(2) not(3) apparent(4) way(5) to(6) adjust(7) them(8) to(9) the(10) size(11) of(12) your(13) head(14) ,(15) either(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Save(1) yourself(2) the(3) $50(4) bucks(5) and(6) go(7) for(8) something(9) more(10) worth(11) your(12) money(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) truly(3) disappointed(4) -(5) _(6) -(7) 
+		</sentence>
+	</text>
+</review>

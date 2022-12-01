@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="535" item="2000 Jaguar XK" rating="3">
+	<title>
+		<sentence id="1">
+			This(1) car(2) is(3) overrated(4) !(5) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Has(1) both(2) Luxury(3) and(4) is(5) Sporty(6) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Isnt(1) the(2) same(3) as(4) the(5) other(6) Jaguars(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) reason(2) I(3) think(4) I(5) bought(6) this(7) car(8) was(9) for(10) its(11) name(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) owned(3) jags(4) in(5) the(6) past(7) and(8) have(9) really(10) liked(11) them(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) went(3) to(4) the(5) dealership(6) thinking(7) that(8) this(9) jag(10) was(11) going(12) to(13) be(14) like(15) all(16) the(17) other(18) ones(19) I(20) have(21) owned(22) in(23) the(24) past(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			I(1) made(2) a(3) decision(4) to(5) buy(6) this(7) car(8) almost(9) right(10) when(11) I(12) arrived(13) at(14) the(15) dealership(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) think(2) all(3) jags(4) arent(5) the(6) best(7) looking(8) cars(9) ((10) in(11) fact(12) I(13) think(14) they(15) look(16) kind(17) of(18) funny(19) )(20) ,(21) but(22) I(23) have(24) bought(25) for(26) their(27) combined(28) luxury(29) and(30) sportyness(31) .(32) 
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) people(2) best(3) fit(4) to(5) drive(6) this(7) car(8) I(9) believe(10) are(11) probably(12) an(13) older(14) couple(15) with(16) no(17) kids(18) at(19) home(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			I(1) definitly(2) do(3) not(4) recommend(5) thsi(6) car(7) for(8) people(9) who(10) have(11) teenage(12) drivers(13) in(14) the(15) house(16) .(17) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="4,5"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="163" item="Koss R-10 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Koss_R(1) 10(2) Headphones(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) very(4) balanced(5) between(6) lows(7) and(8) highs(9) ,(10) detailed(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) when(2) just(3) sitting(4) down(5) .(6) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flimsy(1) ,(2) not(3) durable(4) .(5) 
+			<opinion polarity="-" feature="durability" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Cord(1) loose(2) into(3) drivers(4) .(5) can(6) become(7) uncomfortable(8) after(9) lengthy(10) wearing(11) period(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) close(5) on(6) two(7) years(8) ago(9) now(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) originally(2) purchased(3) them(4) to(5) use(6) while(7) practicing(8) on(9) my(10) piano(11) ((12) which(13) has(14) headphone(15) jacks(16) )(17) to(18) stop(19) people(20) getting(21) angry(22) at(23) me(24) late(25) at(26) night(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) at(3) the(4) time(5) ,(6) they(7) were(8) the(9) only(10) good(11) quality(12) pair(13) of(14) headphones(15) i(16) had(17) ,(18) so(19) i(20) started(21) wearing(22) them(23) quite(24) a_bit(25) for(26) regular(27) music(28) listening(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			Among(1) other(2) things(3) ,(4) i(5) often(6) also(7) wore(8) them(9) to(10) bed(11) to(12) drift(13) off(14) to(15) sleep(16) with(17) some(18) music(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Due(1) to(2) the(3) framework(4) and(5) obvious(6) lack(7) of(8) durability(9) this(10) would(11) turn(12) out(13) to(14) be(15) a(16) bad(17) idea(18) ,(19) but(20) i(21) was(22) only(23) 12(24) at(25) the(26) time(27) ,(28) so(29) who(30) could(31) blame(32) me(33) ?(34) ?(35) 
+		</sentence>
+		<sentence id="6">
+			Anyway(1) ,(2) bottom(3) line(4) is(5) ,(6) i(7) was(8) really(9) pleased(10) with(11) the(12) sound(13) quality(14) and(15) comfort(16) of(17) these(18) phones(19) when(20) just(21) sitting(22) around(23) and(24) listening(25) ,(26) but(27) the(28) range(29) of(30) use(31) these(32) things(33) have(34) is(35) very(36) limited(37) and(38) ,(39) with(40) my(41) rather(42) rugged(43) lifestyle(44) ,(45) i(46) did(47) end(48) up(49) breaking(50) the(51) flimsy(52) frame(53) in(54) several(55) places(56) !(57) ((58) now(59) sent(60) away(61) for(62) warranty(63) repair(64) )(65) .(66) 
+		</sentence>
+	</text>
+</review>

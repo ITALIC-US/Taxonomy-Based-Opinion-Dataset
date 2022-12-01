@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="466" item="2001 Honda Odyssey" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) the(2) Honda_of_Yesteryear(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Acceleration(1) ,(2) Handling(3) ,(4) Ride(5) and(6) Road_Feel(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) ,(2) Build_Quality(3) ,(4) Reliablity(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) recomend(4) the(5) Honda(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) a(4) good(5) van(6) ,(7) spend(8) a(9) little(10) less(11) and(12) buy(13) the(14) Chrsyler(15) variant(16) and(17) even(18) with(19) repairs(20) ,(21) you(22) 'll(23) come(24) out(25) ahead(26) 
+			<opinion polarity="+" feature="van" featWords="6" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) do(2) you(3) think(4) of(5) when(6) you(7) think(8) of(9) a(10) Honda(11) ?(12) 
+		</sentence>
+		<sentence id="2">
+			A(1) nice(2) ,(3) well(4) equipped(5) ,(6) long(7) lasting(8) ,(9) cheap(10) to(11) mantian(12) vehicle(13) ?(14) 
+			<opinion polarity="+" feature="reliability" opWords="7,8"/>
+			<opinion polarity="+" feature="car" opWords="4,5"/>
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			Well(1) this(2) is(3) not(4) that(5) kind(6) of(7) Honda(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) one(3) that(4) will(5) require(6) more(7) mantince(8) ,(9) repairs(10) and(11) attention(12) ,(13) and(14) it(15) would(16) make(17) Joan_Rivers(18) look(19) cheap(20) to(21) maintain(22) .(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			We(1) bought(2) our(3) van(4) used(5) in_2004(6) with(7) 70K_miles(8) from(9) a(10) Honda_Dealer(11) in(12) SC(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) prior(2) owner(3) had(4) used(5) it(6) for(7) highway(8) commuting(9) daily(10) and(11) was(12) a(13) realtor(14) like(15) my(16) self(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			It(1) had(2) excellent(3) mantince(4) records(5) and(6) was(7) in(8) like(9) new(10) shape(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) also(3) a(4) super(5) deal(6) at(7) $16,995(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) a(3) 1993(4) Ford_Aerostar(5) with(6) 245K_miles(7) and(8) it(9) was(10) time(11) to(12) say(13) goodbye(14) ...(15) The(16) one(17) thing(18) i(19) do(20) like(21) about(22) this(23) van(24) is(25) that(26) it(27) has(28) good(29) pep(30) and(31) handles(32) and(33) drives(34) much(35) more(36) car(37) like(38) than(39) our(40) Aerostar(41) ever(42) did(43) ((44) even(45) more(46) than(47) the(48) other(49) vans(50) out(51) there(52) )(53) .(54) 
+		</sentence>
+		<sentence id="10">
+			But(1) that(2) still(3) doesnt(4) account(5) for(6) the(7) fact(8) it(9) sucks(10) gas(11) worse(12) than(13) our(14) aerostar(15) did(16) ((17) 15(18) vs(19) 17(20) city(21) and(22) 24(23) vs(24) 27(25) hwy(26) )(27) and(28) too(29) boot(30) it(31) uses(32) premium(33) gas(34) .(35) 
+		</sentence>
+		<sentence id="11">
+			The(1) brakes(2) work(3) quite(4) well(5) ,(6) but(7) the(8) pads(9) do(10) not(11) seem(12) to(13) last(14) long(15) and(16) the(17) traction(18) control(19) doesnt(20) work(21) very(22) well(23) .(24) 
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			Over(1) all(2) I(3) 'd(4) give(5) it(6) a(7) 3_out_of_5(8) stars(9) ,(10) and(11) in_order_to(12) be(13) my(14) ideal(15) ,(16) it(17) needs(18) stronger(19) break(20) pads(21) ,(22) better(23) gas(24) mileage(25) and(26) not(27) use(28) premium(29) gas(30) and(31) have(32) a(33) smoother(34) transmisson(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			The(1) interior(2) is(3) a(4) whole(5) nother(6) can(7) of(8) worms(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			The(1) seats(2) are(3) flat(4) ,(5) hard(6) and(7) have(8) little(9) support(10) .(11) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="15">
+			My(1) outside(2) lawn(3) furniture(4) feels(5) better(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			The(1) stereo(2) flat(3) out(4) sucks(5) and(6) if(7) you(8) like(9) to(10) jam(11) out(12) to(13) music(14) with(15) your(16) family(17) ((18) we(19) do(20) )(21) ,(22) you(23) will(24) hear(25) a(26) very(27) tinny(28) sound(29) .(30) 
+			<opinion polarity="-" feature="sound system" featWords="29" opWords="28" potency="27"/>
+		</sentence>
+		<sentence id="17">
+			We(1) upgraded(2) the(3) speakers(4) to(5) Pioneers(6) and(7) that(8) worked(9) quite(10) a_bit(11) ,(12) but(13) it(14) was(15) very(16) costly(17) @(18) $700(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			There(1) is(2) little(3) flexablity(4) with(5) the(6) rear(7) seating(8) arrangement(9) and(10) the(11) thrid(12) row(13) seat(14) is(15) worse(16) than(17) a(18) concreate(19) wall(20) and(21) you(22) must(23) contort(24) into(25) some(26) funky(27) positions(28) to(29) fit(30) .(31) 
+		</sentence>
+		<sentence id="19">
+			The(1) rear(2) heat(3) and(4) a(5) /(6) c(7) never(8) qorked(9) right(10) in(11) our(12) van(13) .(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			The(1) a(2) /(3) c(4) always(5) leaked(6) onto(7) people(8) from(9) the(10) vents(11) and(12) the(13) heat(14) either(15) blew(16) extremly(17) hot(18) air(19) or(20) extremly(21) cold(22) air(23) .(24) 
+		</sentence>
+		<sentence id="21">
+			Never(1) could(2) get(3) it(4) right(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			The(1) center(2) storage(3) table(4) is(5) a(6) big(7) pain(8) and(9) the(10) cups(11) never(12) stay(13) in(14) the(15) cupholder(16) inserts(17) ...(18) We(19) finally(20) gave(21) up(22) and(23) started(24) using(25) a(26) diffrent(27) homaid(28) consoule(29) .(30) 
+		</sentence>
+		<sentence id="23">
+			The(1) automatic(2) climate(3) control(4) system(5) is(6) not(7) intuitve(8) and(9) doesnt(10) hold(11) temps(12) very(13) well(14) ,(15) would(16) much(17) rather(18) have(19) a(20) manual(21) system(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			The(1) power(2) doors(3) are(4) very(5) slow(6) ,(7) and(8) are(9) very(10) hard(11) to(12) use(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			Plus(1) they(2) seem(3) to(4) want(5) to(6) close(7) on(8) you(9) and(10) have(11) a(12) mind(13) of(14) there(15) own(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			On(1) top(2) of(3) all(4) of(5) this(6) the(7) interior(8) is(9) falling(10) apart(11) after(12) 7(13) years(14) and(15) 130K_miles(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Much(1) like(2) a(3) Dodge(4) or(5) Chevy(6) would(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			I(1) give(2) the(3) interior(4) a(5) 1_out_of_5(6) stars(7) ,(8) needing(9) a(10) much(11) better(12) stero(13) ,(14) better(15) hvac(16) system(17) ,(18) better(19) seating(20) and(21) better(22) interior(23) quality(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			Now(1) for(2) the(3) ugly(4) .(5) 
+		</sentence>
+		<sentence id="30">
+			This(1) van(2) has(3) eaten(4) alot(5) of(6) parts(7) in(8) its(9) 40(10) month/60K(11) stay(12) with(13) us(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			When(1) we(2) bought(3) it(4) the(5) transmisson(6) had(7) been(8) replaced(9) @(10) 50K(11) by(12) the(13) prior(14) owner(15) ,(16) so(17) we(18) figured(19) that(20) gremlin(21) was(22) behind(23) us(24) .(25) .(26) 
+		</sentence>
+		<sentence id="32">
+			NOT(1) .(2) .(3) 
+		</sentence>
+		<sentence id="33">
+			Two(1) weeks(2) before(3) the(4) extd(5) warranty(6) ended(7) ((8) 100K(9) )(10) it(11) started(12) slipping(13) ...(14) We(15) took(16) it(17) in(18) to(19) Honda(20) in(21) florida(22) and(23) they(24) changed(25) the(26) fluid(27) and(28) pronounced(29) it(30) all(31) better(32) .(33) .(34) 
+		</sentence>
+		<sentence id="34">
+			Once(1) we(2) got(3) home(4) to(5) NC(6) ,(7) it(8) lost(9) Drive(10) completly(11) .(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			Check(1) engine(2) grumbling(3) and(4) telling(5) me(6) i(7) needed(8) to(9) pay(10) to(11) fix(12) it(13) ,(14) they(15) reluctantly(16) got(17) the(18) warranty(19) to(20) pay(21) the(22) $4500(23) tab(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			Two(1) weeks(2) later(3) ,(4) the(5) Cat(6) .(7) 
+		</sentence>
+		<sentence id="37">
+			Converter(1) whent(2) out(3) .(4) 
+		</sentence>
+		<sentence id="38">
+			Another(1) $1000(2) .(3) 
+		</sentence>
+		<sentence id="39">
+			We(1) also(2) had(3) to(4) replace(5) on(6) sliding(7) door(8) latch(9) ,(10) an(11) a(12) /(13) c(14) condensor(15) ,(16) the(17) alternator(18) ,(19) an(20) 02(21) sensor(22) ,(23) an(24) egr(25) valve(26) ,(27) the(28) timing(29) belt(30) ((31) mantince(32) )(33) ,(34) front(35) axles(36) and(37) struts(38) ,(39) and(40) 3(41) sets(42) of(43) brakes(44) for(45) a(46) total(47) of(48) $5,000(49) .(50) 
+		</sentence>
+		<sentence id="40">
+			Plus(1) there(2) where(3) a(4) few(5) other(6) little(7) tid(8) bits(9) in(10) there(11) .(12) 
+		</sentence>
+		<sentence id="41">
+			I(1) give(2) the(3) mantince(4) and(5) repairs(6) a(7) Zero(8) out(9) of(10) 5(11) Stars(12) .(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			Honda(1) ,(2) you(3) can(4) do(5) much(6) better(7) than(8) this(9) .(10) .(11) 
+		</sentence>
+		<sentence id="43">
+			I(1) have(2) a(3) ford(4) that(5) has(6) 200K(7) and(8) had(9) fewer(10) issues(11) .(12) 
+		</sentence>
+		<sentence id="44">
+			As(1) of(2) the(3) writing(4) of(5) this(6) ,(7) we(8) just(9) traded(10) this(11) van(12) for(13) a(14) 2003(15) Chrysler_Town(16) and(17) Country_Limited(18) with(19) 40K(20) .(21) 
+		</sentence>
+		<sentence id="45">
+			I(1) got(2) an(3) extended(4) warranty(5) to(6) 120K(7) on(8) that(9) van(10) and(11) i(12) feel(13) it(14) will(15) be(16) a(17) better(18) long(19) term(20) bet(21) .(22) 
+		</sentence>
+		<sentence id="46">
+			They(1) gave(2) us(3) 7K(4) for(5) our(6) honda(7) and(8) we(9) paid(10) $5K(11) for(12) the(13) diffrence(14) .(15) 
+		</sentence>
+		<sentence id="47">
+			This(1) will(2) be(3) our(4) last(5) Honda_Amount_Paid(6) ((7) US(8) $(9) )(10) :(11) 15995(12) Condition(13) :(14) UsedModel_Year(15) :(16) 2001Model(17) and(18) Options(19) :(20) EX(21) ,(22) Power_Options(23) 
+		</sentence>
+	</text>
+</review>

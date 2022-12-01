@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="471" item="Howard Johnson Inn - Chicago" rating="2">
+	<title>
+		<sentence id="1">
+			If(1) you(2) 're(3) young(4) and(5) brave(6) go(7) for(8) it(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) ,(3) free(4) parking(5) ,(6) relatively(7) safe(8) neighborhood(9) .(10) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="parking" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ramshackle(1) building(2) with(3) decor(4) to(5) match(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) budget(2) ,(3) young(4) ,(5) or(6) non-Felix(7) Unger(8) travelers(9) who(10) need(11) a(12) cheap(13) place(14) to(15) crash(16) in(17) a(18) decent(19) North_River_North(20) neighborhood(21) .(22) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) found(2) this(3) unique(4) property(5) after(6) winning(7) a(8) 2star(9) bid(10) on(11) Priceline(12) during(13) a(14) busy(15) convention(16) weekend(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) plus(2) to(3) this(4) hotel(5) are(6) :(7) price(8) ,(9) location(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) are(3) feint(4) of(5) heart(6) ,(7) wedded(8) to(9) the(10) concept(11) of(12) thread(13) counts(14) in_the_100(15) 's(16) or(17) even(18) double(19) digits(20) ,(21) unaware(22) of(23) how(24) to(25) walk(26) aggressively(27) and(28) confidently(29) on(30) city(31) streets(32) at(33) night(34) ;(35) do(36) not(37) stay(38) here(39) .(40) 
+			<opinion polarity="-" feature="hotel" opWords="37,38"/>
+		</sentence>
+		<sentence id="4">
+			Overall(1) ,(2) a(3) strange(4) hotel(5) ,(6) in(7) that(8) it(9) seemed(10) misplaced(11) among(12) the(13) highrises(14) nearby(15) .(16) 
+			<opinion polarity="-" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Just(1) north(2) of(3) the(4) River_North(5) area(6) ,(7) this(8) HoJO(9) ((10) really(11) a(12) motel(13) )(14) is(15) a(16) small(17) two(18) floor(19) throw(20) back(21) complete(22) with(23) low(24) security(25) ,(26) helpful(27) if(28) disinterested(29) staff(30) ,(31) and(32) probably(33) unheard(34) of(35) downtown(36) FREE_PARKING(37) .(38) 
+			<opinion polarity="+" feature="staff" featWords="30" opWords="27"/>
+			<opinion polarity="-" feature="staff" featWords="30" opWords="29"/>
+		</sentence>
+		<sentence id="6">
+			But(1) ,(2) it(3) is(4) a(5) very(6) worn(7) location(8) ,(9) more(10) suited(11) for(12) college(13) drunken(14) crashes(15) than(16) musuem(17) browsing(18) or(19) heaven(20) forbid(21) ,(22) family(23) friendly(24) folks(25) .(26) 
+			<opinion polarity="-" feature="place" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="7">
+			But(1) ,(2) it(3) is(4) very(5) very(6) close(7) -(8) IE(9) if(10) you(11) 're(12) not(13) against(14) walking(15) 10-15(16) minutes(17) ,(18) to(19) the(20) center(21) of(22) Michigan_Avenue(23) ,(24) and(25) many(26) of(27) the(28) big(29) attractions(30) -(31) including(32) Rick_Bayliss(33) '(34) joint(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) hard(3) to(4) know(5) how(6) to(7) appropriately(8) describe(9) this(10) one(11) -(12) now(13) that(14) the(15) Blackstone(16) and(17) other(18) former(19) safe(20) ,(21) cheap(22) alternatives(23) are(24) going(25) high-end(26) -(27) it(28) 's(29) harder(30) and(31) harder(32) to(33) find(34) less(35) than(36) $100(37) hotels(38) in(39) the(40) city(41) .(42) 
+		</sentence>
+		<sentence id="9">
+			But(1) ,(2) if(3) you(4) are(5) against(6) seeing(7) the(8) hair(9) of(10) former(11) room(12) occupants(13) ,(14) or(15) the(16) sight(17) of(18) peeling(19) paint(20) /(21) walpaper(22) ,(23) and(24) the(25) caress(26) of(27) worn(28) matted(29) carpeting(30) on(31) your(32) bare(33) feet(34) -(35) do(36) not(37) attempt(38) it(39) !(40) 
+			<opinion polarity="-" feature="carpets" featWords="30" opWords="28"/>
+		</sentence>
+	</text>
+</review>

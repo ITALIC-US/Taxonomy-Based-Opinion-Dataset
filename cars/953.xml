@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="953" item="1999 Dodge Caravan" rating="1">
+	<title>
+		<sentence id="1">
+			High(1) on(2) Features(3) ,(4) Low(5) on(6) Quality(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Handling(1) ,(2) Lots_of_Storage_Space(3) ,(4) Nice_Styling(5) ,(6) Good_Ergonomics(7) ,(8) Low_Price(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable_Middle(1) and(2) Rear_Seats(3) ,(4) Cheap_Interior(5) /(6) Exterior_Components(7) ,(8) Wimpy_Engine(9) ,(10) Non-Existent_Reliability(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) minivan(2) is(3) maxi(4) in(5) problems(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Overrated(1) and(2) poorly(3) designed(4) ,(5) Chrysler(6) gets(7) a(8) D(9) for(10) effort(11) and(12) an(13) F(14) for(15) execution(16) .(17) 
+			<opinion polarity="-" feature="design" opWords="3,4"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) the(2) spring(3) of(4) 1999(5) ,(6) a(7) relative(8) of(9) mine(10) purchased(11) a(12) new(13) 1999(14) Dodge_Caravan(15) 15th(16) Anniversary_Edition(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) platinum(3) in(4) color(5) and(6) was(7) fully(8) loaded(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) Dodge_Caravan(2) has(3) been(4) one(5) of(6) the(7) best(8) selling(9) vehicles(10) in(11) North_America(12) for(13) the(14) past(15) 6(16) years(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) feel(2) this(3) is(4) because_of(5) its(6) smart(7) ,(8) family(9) oriented(10) features(11) ,(12) carlike(13) handling(14) ,(15) and(16) styling(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Not(1) because_of(2) its(3) reliability(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			The(1) small(2) 3.0(3) liter(4) 6(5) cylinder(6) engine(7) is(8) extremely(9) under-powered(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			At(1) highway(2) speeds(3) ,(4) the(5) engine(6) makes(7) enough(8) racket(9) to(10) start(11) your(12) own(13) garage(14) band(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) suspension(2) absorbs(3) most(4) bumps(5) and(6) ruts(7) with(8) ease(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Handling(1) is(2) carlike(3) ,(4) and(5) squeezing(6) into(7) that(8) little(9) parking(10) space(11) at(12) the(13) mall(14) should(15) not(16) be(17) any(18) trouble(19) for(20) the(21) Caravan(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			The(1) headlights(2) give(3) inadequate(4) illumination(5) ,(6) and(7) you(8) find(9) yourself(10) squinting(11) to(12) see(13) what(14) is(15) on(16) the(17) road(18) in(19) front(20) of(21) you(22) ((23) not(24) particularly(25) safe(26) )(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			The(1) 4-speed(2) automatic(3) transmission(4) upshifts(5) roughly(6) at(7) high(8) speeds(9) ,(10) but(11) is(12) rather(13) smooth(14) during(15) normal(16) speeds(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Outside(1) ,(2) the(3) lines(4) are(5) graceful(6) and(7) sleek(8) .(9) 
+			<opinion polarity="+" feature="design" opWords="8"/>
+			<opinion polarity="+" feature="design" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) one(3) of(4) the(5) more(6) attractive(7) minivans(8) on(9) the(10) market(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			However(1) ,(2) trim(3) components(4) are(5) cheap(6) looking(7) and(8) poorly(9) fitted(10) .(11) 
+			<opinion polarity="-" feature="design" opWords="6,7"/>
+		</sentence>
+		<sentence id="15">
+			Inside(1) the(2) Caravan(3) ,(4) one(5) word(6) comes(7) to(8) mind(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			CHEAP(1) .(2) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="17">
+			The(1) dashboard(2) components(3) are(4) made(5) of(6) ...(7) you(8) guessed(9) it(10) ...(11) low(12) quality(13) ,(14) cost-cutting(15) Chrysler(16) plastic(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			All(1) buttons(2) and(3) levers(4) on(5) the(6) dashboard(7) can(8) break(9) very(10) easily(11) .(12) 
+			<opinion polarity="-" feature="controls" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="19">
+			But(1) ,(2) the(3) dashboard(4) is(5) well(6) laid(7) out(8) and(9) you(10) do(11) not(12) have(13) to(14) take(15) your(16) eyes(17) off(18) the(19) road(20) to(21) fiddle(22) with(23) the(24) buttons(25) on(26) the(27) high(28) quality(29) stereo(30) or(31) the(32) heater(33) .(34) 
+			<opinion polarity="+" feature="dash" featWords="4" opWords="6,7,8"/>
+		</sentence>
+		<sentence id="20">
+			The(1) air(2) conditioning(3) cools(4) the(5) Caravan(6) down(7) in(8) a(9) very(10) short(11) time(12) ,(13) thanks(14) to(15) the(16) privacy(17) /(18) tinted(19) windows(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			You(1) could(2) hide(3) a(4) lifetime(5) supply(6) of(7) drinks(8) in(9) this(10) van(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) cupholder(3) heaven(4) .(5) 
+		</sentence>
+		<sentence id="23">
+			Want(1) to(2) hide(3) all(4) your(5) earthly(6) possessions(7) ?(8) 
+		</sentence>
+		<sentence id="24">
+			Not(1) a(2) problem(3) .(4) 
+		</sentence>
+		<sentence id="25">
+			Shove(1) '(2) em(3) in(4) the(5) Caravan(6) .(7) 
+		</sentence>
+		<sentence id="26">
+			It(1) has(2) all(3) kinds(4) of(5) large(6) storage(7) bins(8) to(9) hold(10) everything(11) from(12) glasses(13) to(14) plane(15) tickets(16) to(17) clothes(18) .(19) 
+		</sentence>
+		<sentence id="27">
+			The(1) front(2) seats(3) are(4) comfy(5) .(6) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="28">
+			The(1) rear(2) and(3) middle(4) benches(5) ,(6) however(7) ,(8) are(9) too(10) hard(11) and(12) stiff(13) ,(14) and(15) are(16) very(17) uncomfortable(18) on(19) trips(20) lasting(21) more(22) than(23) half(24) an(25) hour(26) .(27) 
+			<opinion polarity="-" feature="comfort" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="29">
+			Legroom(1) is(2) below(3) par(4) .(5) 
+		</sentence>
+		<sentence id="30">
+			The(1) rear(2) storage(3) compartment(4) is(5) spacious(6) ,(7) however(8) ,(9) and(10) even(11) includes(12) some(13) clips(14) for(15) your(16) grocery(17) bags(18) ,(19) a(20) thoughtful(21) touch(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			And(1) now(2) the(3) bad(4) news(5) :(6) According_to(7) Consumer_Reports(8) ,(9) the(10) Caravan(11) has(12) had(13) way(14) below(15) average(16) reliability(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			It(1) has(2) also(3) racked(4) up(5) a(6) number(7) of(8) terrifying(9) safety-related(10) complaints(11) ,(12) such(13) as(14) seatbelts(15) that(16) may(17) strangle(18) children(19) ,(20) airbags(21) deploying(22) at(23) vehicle(24) start-up(25) ,(26) and(27) even(28) stalling(29) when(30) within(31) radar(32) of(33) airports(34) and(35) military(36) bases(37) .(38) 
+		</sentence>
+		<sentence id="33">
+			Radiator(1) and(2) air(3) conditioning(4) lines(5) freeze(6) or(7) crack(8) in(9) cold(10) weather(11) ,(12) and(13) motor(14) mounts(15) have(16) been(17) known(18) to(19) fail(20) around(21) the(22) 25000_mile(23) mark(24) .(25) 
+		</sentence>
+		<sentence id="34">
+			Failures(1) of(2) the(3) starter(4) motor(5) ,(6) brake(7) pads(8) ,(9) and(10) fuel(11) injector(12) are(13) all(14) legion(15) .(16) 4-cylinder(17) engines(18) have(19) a(20) history(21) of(22) head(23) gasket(24) failure(25) ,(26) whereas(27) the(28) V(29) -(30) 6(31) 's(32) have(33) taken(34) more(35) of(36) a(37) shine(38) towards(39) oil(40) leaks(41) .(42) 
+		</sentence>
+		<sentence id="35">
+			The(1) 3.3(2) liter(3) V(4) -(5) 6(6) 's(7) head(8) gasket(9) rarely(10) lasts(11) more(12) than(13) 40,000_miles(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			The(1) transmission(2) in(3) my(4) relative(5) 's(6) van(7) cooked(8) itself(9) at(10) the(11) 40,000_mile(12) mark(13) ,(14) and(15) all(16) kinds(17) of(18) nagging(19) electrical(20) problems(21) are(22) present(23) ,(24) like(25) headlights(26) blinking(27) on(28) and(29) off(30) ,(31) windows(32) malfunctioning(33) ,(34) and(35) engine(36) surging(37) .(38) 
+		</sentence>
+		<sentence id="37">
+			The(1) Caravan(2) seems(3) to(4) need(5) the(6) services(7) of(8) an(9) exorcist(10) rather(11) than(12) a(13) mechanic(14) .(15) 
+		</sentence>
+		<sentence id="38">
+			If(1) this(2) is(3) not(4) enough(5) to(6) keep(7) you(8) away(9) from(10) Caravan(11) ,(12) then(13) I(14) do(15) not(16) know(17) what(18) is(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			Step(1) away(2) from(3) this(4) van(5) at(6) all(7) costs(8) ,(9) and(10) look(11) at(12) the(13) more(14) sophisticated(15) competition(16) .(17) 
+		</sentence>
+	</text>
+</review>

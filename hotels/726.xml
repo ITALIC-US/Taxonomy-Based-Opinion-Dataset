@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="726" item="Omni Severin Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Nice(1) but(2) not(3) four(4) star(5) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) plenty_of(3) hot(4) water(5) ,(6) mostly(7) friendly(8) staff(9) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Howard_Johnson(1) experience(2) at(3) Waldorf(4) prices(5) ,(6) very(7) loud(8) plumbing(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) okay(3) ,(4) but(5) a(6) couple(7) bad(8) things(9) spoiled(10) the(11) whole(12) experience(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) can(3) get(4) it(5) cheap(6) ,(7) go(8) for(9) it(10) ,(11) if_not(12) ,(13) save(14) your(15) money(16) and(17) go(18) elsewhere(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) this(4) hotel(5) during(6) a(7) large(8) convention(9) my(10) husband(11) was(12) attending(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) will(2) say(3) the(4) place(5) was(6) clean(7) .(8) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) only(2) dirty(3) thing(4) I(5) found(6) were(7) the(8) coffee(9) cups(10) ,(11) which(12) looked(13) like(14) they(15) had(16) not(17) been(18) washed(19) ,(20) just(21) put(22) back(23) in(24) the(25) cabinet(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			The(1) room(2) was(3) decent(4) sized(5) ,(6) with(7) double(8) double(9) beds(10) ,(11) an(12) oversized(13) chair(14) and(15) PLENTY_of(16) lamps(17) .(18) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) a(3) fabulous(4) view(5) of(6) the(7) Pan_Am(8) plaza(9) ,(10) with(11) the(12) fountain(13) and(14) open(15) space(16) .(17) 
+			<opinion polarity="+" feature="view" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) mostly(3) pleasant(4) ,(5) but(6) not(7) at(8) all(9) the(10) quality(11) I(12) have(13) found(14) in(15) other(16) four(17) star(18) hotels(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) shower(2) leaked(3) ,(4) the(5) wallpaper(6) was(7) peeling(8) in(9) the(10) bathroom(11) ,(12) there(13) was(14) NO(15) air(16) circulation(17) .(18) 
+			<opinion polarity="-" feature="walls" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) ,(2) no(3) one(4) with(5) housekeeping(6) seemed(7) to(8) speak(9) English(10) even(11) well(12) enough(13) to(14) understand(15) that(16) we(17) were(18) leaving(19) ,(20) they(21) could(22) come(23) in(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Everything(1) said(2) to(3) see(4) the(5) concierge(6) ,(7) but(8) we(9) could(10) not(11) find(12) one(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			There(1) was(2) no(3) concierge(4) desk(5) like(6) there(7) are(8) in(9) many(10) places(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			I(1) could(2) not(3) even(4) find(5) someone(6) to(7) tell(8) me(9) if(10) there(11) was(12) a(13) drugstore(14) nearby(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) one(3) Secret_Service-looking(4) guy(5) stand(6) at(7) one(8) side(9) of(10) the(11) lobby(12) ,(13) around(14) the(15) bar(16) ,(17) who(18) yelled(19) at(20) me(21) when(22) I(23) tried(24) to(25) take(26) a(27) cart(28) to(29) get(30) our(31) luggage(32) from(33) our(34) room(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			He(1) may(2) have(3) been(4) the(5) concierge(6) because(7) he(8) started(9) spouting(10) "(11) management(12) policies(13) "(14) at(15) me(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Other(1) than(2) that(3) ,(4) the(5) lobby(6) staff(7) was(8) useless(9) .(10) 
+			<opinion polarity="-" feature="staff" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			At(1) checkout(2) ,(3) the(4) employee(5) was(6) so(7) busy(8) gossiping(9) with(10) the(11) flight(12) attendants(13) who(14) were(15) checking(16) in(17) that(18) I(19) could(20) not(21) even(22) drop(23) off(24) my(25) express(26) checkout(27) ...(28) 
+		</sentence>
+	</text>
+</review>

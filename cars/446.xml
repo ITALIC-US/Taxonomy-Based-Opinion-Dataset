@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="446" item="1996 Toyota Camry" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) one(4) of(5) these(6) !(7) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) gas(2) mileage(3) ,(4) fairly(5) reliable(6) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			overall(1) cheap(2) feeling(3) to(4) car(5) ,(6) Bad(7) handling(8) ,(9) suspension(10) ,(11) interior(12) ,(13) exterior(14) styling(15) ,(16) seats(17) ,(18) feels(19) unsafe(20) 
+			<opinion polarity="-" feature="safety" opWords="20"/>
+			<opinion polarity="-" feature="handling" featWords="8" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) has(3) the(4) cheapest(5) parts(6) of(7) any(8) vehicle(9) I(10) have(11) ever(12) owned(13) and(14) feels(15) very(16) unsafe(17) to(18) drive(19) .(20) 
+			<opinion polarity="-" feature="safety" opWords="17"/>
+		</sentence>
+		<sentence id="2">
+			It(1) also(2) has(3) a(4) mushy(5) suspension(6) and(7) poor(8) steering(9) .(10) 
+			<opinion polarity="-" feature="steering" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="suspension" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			You(1) should(2) never(3) attempt(4) to(5) drive(6) it(7) in(8) snow(9) or(10) ice(11) ...(12) maybe(13) not(14) heavy(15) rain(16) either(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) not(3) recommend(4) buying(5) one(6) of(7) these(8) unless(9) you(10) live(11) in(12) an(13) area(14) where(15) it(16) never(17) snows(18) and(19) you(20) do(21) not(22) usually(23) drive(24) more(25) than(26) about(27) 35mph...or(28) if(29) you(30) just(31) need(32) a(33) car(34) for(35) the(36) summer(37) before(38) buying(39) a_real(40) car(41) .(42) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996(12) 
+		</sentence>
+	</text>
+</review>

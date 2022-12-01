@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="264" item="Rosario Resort And Spa" rating="4">
+	<title>
+		<sentence id="1">
+			Rosario(1) -(2) the(3) real(4) scoop(5) -(6) Decent(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) and(2) setting(3) ,(4) Resort_History(5) ,(6) available(7) views(8) ,(9) staff(10) ,(11) spa(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			limited(1) shopping(2) ,(3) poor(4) island(5) golf(6) course(7) ,(8) winding(9) roads(10) &(11) hills(12) ,(13) limited(14) signage(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Charming(1) ,(2) historic(3) ,(4) quaint(5) with(6) beautiful(7) views(8) .(9) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="view" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			The(1) spa(2) is(3) average(4) as(5) are(6) the(7) rooms(8) .(9) 
+			<opinion polarity="-" feature="spa" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Just(1) be(2) sure(3) you(4) go(5) in(6) with(7) realistic(8) expectations(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			Pricey(1) but(2) nice(3) .(4) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Ok(1) ,(2) I(3) researched(4) the(5) Rosario_Resort(6) on(7) Orcas_Island(8) before(9) arriving(10) with(11) my(12) wife(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) also(2) contacted(3) the(4) manager(5) before(6) expressing(7) my(8) concerns(9) due(10) to(11) very(12) poor(13) reviews(14) and(15) sought(16) clarification(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Our(1) visit(2) was(3) on(4) Oct(5) 1st(6) &(7) 2nd(8) ,(9) during(10) the(11) week(12) so(13) no(14) crowds(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) obviously(3) better(4) prepared(5) for(6) what(7) to(8) expect(9) than(10) the(11) other(12) guests(13) who(14) gave(15) very(16) poor(17) reviews(18) of(19) the(20) resort(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Here(1) 's(2) my(3) review(4) and(5) clarifications(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) we(3) used(4) our(5) "(6) entertainment(7) card(8) "(9) and(10) received(11) 50_%(12) off(13) ,(14) so(15) a(16) better(17) value(18) for(19) us(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Rosario(1) is(2) located(3) in(4) a(5) charming(6) cove(7) on(8) Orcas_Island(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			A(1) very(2) winding(3) road(4) takes(5) you(6) along(7) the(8) island(9) and(10) eventually(11) DOWN(12) to(13) the(14) cove(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			I(1) describe(2) the(3) actual(4) "(5) Rosario_Resort(6) "(7) as(8) being(9) made(10) up(11) of(12) three(13) areas(14) :(15) 1(16) )(17) The_Historic_Mansion(18) itself(19) which(20) is(21) where(22) the(23) restaurants(24) ,(25) lounge(26) ,(27) Spa(28) ,(29) fitness(30) room(31) and(32) gift(33) shop(34) are(35) located(36) .(37) 2(38) )(39) The(40) resort(41) grounds(42) which(43) include(44) trimmed(45) grounds(46) ,(47) walkways(48) ,(49) outside(50) deck(51) ,(52) two(53) outdoor(54) pools(55) ,(56) outdoor(57) shuffle(58) board(59) ,(60) a(61) small(62) marina(63) and(64) a(65) long(66) ,(67) "(68) figure(69) 8(70) "(71) reflection(72) pond(73) .(74) 3(75) )(76) Finally(77) ,(78) the(79) resort(80) accomodations(81) .(82) 
+		</sentence>
+		<sentence id="10">
+			The(1) accomodations(2) are(3) condo(4) buildings(5) separate(6) from(7) the(8) historic(9) mansion(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			There(1) are(2) about(3) 9(4) separate(5) buildings(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			About(1) 3(2) buildings(3) along(4) side(5) of(6) the(7) Mansion(8) ,(9) the(10) 6(11) more(12) steadily(13) moving(14) up(15) the(16) hillside(17) and(18) away(19) from(20) the(21) actual(22) Mansion(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Views(1) from(2) the(3) rooms(4) will(5) vary(6) depending(7) on(8) which(9) building(10) you(11) are(12) in(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Of(1) the(2) 6(3) "(4) Hillside(5) buildings(6) "(7) I(8) 'd(9) say(10) ,(11) the(12) higher(13) up(14) the(15) hill(16) ,(17) the(18) less(19) obscurred(20) the(21) view(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			The(1) Mansionside(2) buildings(3) are(4) probably(5) very(6) nice(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			We(1) stayed(2) in(3) building(4) 1900(5) ,(6) at(7) the(8) top(9) and(10) had(11) a(12) terrific(13) view(14) ,(15) totally(16) unobstructed(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) :(3) Grade(4) =(5) B(6) -(7) .(8) due(9) to(10) the(11) "(12) cons(13) "(14) listed(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			As(1) I(2) understand(3) ,(4) these(5) condos(6) were(7) built(8) in_the_1970(9) 's(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			Seems(1) right(2) .(3) 
+		</sentence>
+		<sentence id="20">
+			They(1) are(2) condo(3) style(4) with(5) exterior(6) entrances(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Each(1) building(2) has(3) upper(4) and(5) lower(6) rooms(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			Our(1) room(2) was(3) spacious(4) and(5) cozy(6) .(7) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="23">
+			The(1) bathroom(2) was(3) huge(4) with(5) a(6) large(7) jet(8) tub(9) and(10) large(11) separate(12) shower(13) .(14) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="tub" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="24">
+			A(1) large(2) ,(3) two-sink(4) vanity(5) and(6) mirror(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			Very(1) nice(2) .(3) 
+		</sentence>
+		<sentence id="26">
+			The(1) decor(2) is(3) dated(4) but(5) not(6) offensive(7) .(8) 
+			<opinion polarity="-" feature="decoration" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			Housekeeping(1) did(2) forget(3) to(4) stock(5) us(6) with(7) bath(8) towels(9) which(10) I(11) notice(12) right(13) away(14) ,(15) called(16) ,(17) and(18) was(19) provided(20) with(21) promptly(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			Room(1) cons(2) :(3) No(4) air(5) conditioning(6) or(7) built(8) in(9) fan(10) as(11) common(12) with(13) hotels(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			It(1) was(2) hot(3) in(4) there(5) at(6) first(7) .(8) 
+		</sentence>
+		<sentence id="30">
+			They(1) provide(2) an(3) table(4) top(5) oscillating(6) fan(7) in(8) the(9) closet(10) and(11) you(12) have(13) windows(14) and(15) that(16) 's(17) it(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			A(1) definite(2) negative(3) in(4) warm(5) weather(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			Also(1) ,(2) no(3) refrigerator(4) or(5) courtesy(6) bar(7) .(8) 
+		</sentence>
+		<sentence id="33">
+			Definite(1) negative(2) .(3) 
+		</sentence>
+		<sentence id="34">
+			The(1) grounds(2) :(3) Grade(4) =(5) A._Around(6) the(7) mansion(8) are(9) very(10) nice(11) and(12) well(13) kept(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			Around(1) the(2) condos(3) ,(4) they(5) are(6) fine(7) ,(8) kept(9) in(10) a(11) natural(12) setting(13) ,(14) no(15) surprises(16) ,(17) no(18) frills(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			The(1) Mansion(2) :(3) Grade(4) =(5) A(6) +(7) .(8) 
+		</sentence>
+		<sentence id="37">
+			Historic(1) and(2) very(3) ,(4) very(5) cool(6) .(7) 
+		</sentence>
+		<sentence id="38">
+			Lots(1) of(2) large(3) ,(4) old(5) ,(6) original(7) photos(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			All(1) areas(2) I(3) saw(4) were(5) clean(6) and(7) tasteful(8) .(9) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="place" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="40">
+			I(1) really(2) liked(3) the(4) lounge(5) ,(6) very(7) charming(8) .(9) 
+		</sentence>
+		<sentence id="41">
+			The(1) main(2) dining(3) room(4) was(5) large(6) with(7) nice(8) views(9) but(10) we(11) did(12) not(13) eat(14) there(15) .(16) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="view" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="42">
+			The(1) "(2) Compass(3) "(4) room(5) is(6) the(7) formal(8) dining(9) room(10) for(11) adults(12) with(13) a(14) great(15) view(16) .(17) 
+			<opinion polarity="+" feature="view" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="43">
+			The(1) food(2) was(3) fine(4) and(5) met(6) expectations(7) for(8) average(9) $25/plate(10) menu(11) selections(12) .(13) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="44">
+			I(1) 'd(2) elect(3) to(4) eat(5) in(6) town(7) next(8) time(9) and(10) keep(11) to(12) the(13) lounge(14) at(15) the(16) mansion(17) with(18) an(19) appetizer(20) .(21) 
+		</sentence>
+		<sentence id="45">
+			Staff(1) :(2) Grade(3) =(4) A._The(5) staff(6) at(7) each(8) of(9) our(10) encounters(11) was(12) very(13) pleasant(14) and(15) appropriate(16) .(17) 
+		</sentence>
+		<sentence id="46">
+			No(1) complaints(2) .(3) 
+		</sentence>
+		<sentence id="47">
+			The(1) Spa(2) :(3) Grade(4) =(5) C._The(6) spa(7) was(8) OK(9) .(10) 
+		</sentence>
+		<sentence id="48">
+			Nothing(1) special(2) really(3) .(4) 
+		</sentence>
+		<sentence id="49">
+			We(1) 've(2) sampled(3) several(4) different(5) spa(6) 's(7) and(8) services(9) so(10) we(11) 're(12) able(13) to(14) compare(15) .(16) 
+		</sentence>
+		<sentence id="50">
+			We(1) both(2) had(3) full(4) hour(5) massages(6) .(7) 
+		</sentence>
+		<sentence id="51">
+			Mine(1) was(2) great(3) ,(4) hers(5) good(6) .(7) 
+		</sentence>
+		<sentence id="52">
+			Rooms(1) were(2) not(3) as(4) comfy(5) as(6) others(7) .(8) 
+		</sentence>
+		<sentence id="53">
+			Waiting(1) area(2) is(3) in(4) the(5) open(6) as(7) opposed(8) to(9) private(10) .(11) 
+		</sentence>
+		<sentence id="54">
+			No(1) lockers(2) /(3) robes(4) offered(5) ,(6) no(7) water(8) /(9) tea(10) /(11) wine(12) offered(13) ,(14) no(15) magazines(16) to(17) read(18) .(19) 
+		</sentence>
+		<sentence id="55">
+			Staff(1) was(2) pleasant(3) and(4) appropriate(5) .(6) 
+			<opinion polarity="+" feature="staff" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="staff" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="56">
+			The(1) Island(2) :(3) East_Sound(4) is(5) really(6) THE(7) town(8) there(9) .(10) 
+		</sentence>
+		<sentence id="57">
+			It(1) has(2) many(3) cute(4) shops(5) ,(6) cafes(7) and(8) restaraunts(9) and(10) makes(11) a(12) pleasant(13) afternoon(14) of(15) shopping(16) .(17) 
+		</sentence>
+		<sentence id="58">
+			Moran_State(1) park(2) looks(3) awesome(4) as(5) we(6) drove(7) through(8) but(9) we(10) did(11) not(12) stop(13) .(14) 
+		</sentence>
+		<sentence id="59">
+			We(1) 're(2) not(3) hikers(4) or(5) bikers(6) but(7) I(8) 'm(9) sure(10) they(11) love(12) it(13) there(14) .(15) 
+		</sentence>
+		<sentence id="60">
+			Orcas_Island_Golf_Country_Club(1) :(2) Grade(3) =(4) D._It(5) is(6) a(7) 9(8) hole(9) course(10) .(11) 
+		</sentence>
+		<sentence id="61">
+			Each(1) hole(2) has(3) two(4) separate(5) Tee(6) locations(7) to(8) offer(9) an(10) 18(11) hole(12) round(13) .(14) 
+		</sentence>
+		<sentence id="62">
+			Basically(1) ,(2) it(3) 's(4) "(5) pasture(6) golf(7) "(8) .(9) 
+		</sentence>
+		<sentence id="63">
+			A(1) hilly(2) course(3) with(4) some(5) water(6) ,(7) no(8) real(9) sand(10) .(11) 
+		</sentence>
+		<sentence id="64">
+			Front(1) nine(2) =(3) 3006(4) yds(5) ,(6) "(7) back(8) "(9) nine(10) =(11) 2797(12) yds(13) .(14) 
+		</sentence>
+		<sentence id="65">
+			Greens(1) are(2) fair(3) ,(4) tees(5) are(6) fair(7) ,(8) fairway(9) is(10) fair(11) /(12) poor(13) .(14) 
+		</sentence>
+		<sentence id="66">
+			Also(1) ,(2) I(3) believe(4) I(5) was(6) intentionally(7) overcharged(8) since(9) I(10) was(11) a(12) "(13) tourist(14) "(15) and(16) they(17) wanted(18) to(19) make(20) a(21) buck(22) .(23) 
+		</sentence>
+		<sentence id="67">
+			Charged(1) me(2) $22(3) for(4) 9(5) holes(6) during(7) the(8) week(9) !(10) !(11) 
+		</sentence>
+		<sentence id="68">
+			Prior(1) to(2) coming(3) I(4) was(5) told(6) by(7) the(8) concierge(9) it(10) was(11) $22(12) for(13) 18(14) holes(15) .(16) 
+		</sentence>
+		<sentence id="69">
+			I(1) was(2) told(3) "(4) $22(5) "(6) and(7) I(8) specifically(9) asked(10) "(11) for(12) 9(13) holes(14) ?(15) "(16) and(17) was(18) told(19) "(20) yes(21) "(22) .(23) 
+		</sentence>
+		<sentence id="70">
+			Nice(1) lady(2) ,(3) but(4) I(5) think(6) she(7) was(8) ripping(9) me(10) off(11) .(12) 
+		</sentence>
+		<sentence id="71">
+			Anyway(1) ,(2) it(3) really(4) is(5) a(6) pasture(7) setting(8) ,(9) but(10) it(11) 's(12) the(13) only(14) golf(15) there(16) .(17) 
+		</sentence>
+		<sentence id="72">
+			There(1) you(2) have(3) it(4) .(5) 
+		</sentence>
+		<sentence id="73">
+			Again(1) ,(2) after(3) first(4) reading(5) the(6) other(7) ,(8) poor(9) reviews(10) ,(11) I(12) emailed(13) the(14) manager(15) for(16) clarification(17) on(18) the(19) resort(20) so(21) my(22) expectations(23) going(24) in(25) were(26) reasonable(27) .(28) 
+		</sentence>
+		<sentence id="74">
+			Without(1) knowing(2) the(3) layout(4) of(5) the(6) resort(7) and(8) especially(9) the(10) rooms(11) /(12) buildings(13) ,(14) I(15) too(16) might(17) have(18) been(19) disappointed(20) being(21) put(22) into(23) a(24) 1970(25) 's(26) condo(27) ,(28) thinking(29) I(30) was(31) staying(32) in(33) some(34) grand(35) old(36) mansion(37) .(38) 
+		</sentence>
+		<sentence id="75">
+			For(1) us(2) ,(3) it(4) was(5) a(6) very(7) nice(8) stay(9) .(10) 
+		</sentence>
+		<sentence id="76">
+			We(1) 'd(2) consider(3) returning(4) .(5) 
+		</sentence>
+		<sentence id="77">
+			I(1) was(2) told(3) by(4) the(5) staff(6) that(7) starting(8) in(9) Nov_,_2002(10) ,(11) they(12) are(13) closing(14) for(15) some(16) 5(17) mos(18) .(19) for(20) renovations(21) .(22) 
+		</sentence>
+		<sentence id="78">
+			No(1) specifics(2) but(3) I(4) think(5) one(6) staffer(7) told(8) me(9) including(10) the(11) rooms(12) .(13) 
+		</sentence>
+		<sentence id="79">
+			That(1) might(2) be(3) worth(4) a(5) re-visit(6) .(7) 
+		</sentence>
+		<sentence id="80">
+			Cheers(1) !(2) 
+		</sentence>
+	</text>
+</review>

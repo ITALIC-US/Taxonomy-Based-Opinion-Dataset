@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="384" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			Z3--The(1) Mouse(2) that(3) Roared(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Zippy(1) ,(2) with(3) fantastic(4) handling(5) and(6) a(7) great(8) look(9) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tiny(1) compared(2) to(3) all(4) the(5) SUVs(6) and(7) trucks(8) out(9) there(10) !(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) BMW(2) Z3(3) is(4) one(5) of(6) the(7) best(8) small(9) convertibles(10) you(11) can(12) buy(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			While(1) the(2) standard(3) model(4) with(5) a(6) 2.0_Liter(7) engine(8) is(9) a_bit(10) underpowered(11) ,(12) the(13) new(14) 2.8(15) can(16) push(17) you(18) comfortably(19) into(20) your(21) seat(22) when(23) that(24) little(25) kick(26) is(27) required(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			The(1) M_Roadster(2) is(3) pure(4) joy(5) to(6) drive(7) ,(8) having(9) the(10) great(11) handling(12) ,(13) safety(14) ,(15) and(16) reliability(17) of(18) fine(19) BMW(20) engineering(21) ,(22) plus(23) the(24) muscle(25) and(26) racing(27) parts(28) of(29) the(30) M(31) company(32) .(33) 
+			<opinion polarity="+" feature="handling" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) is(3) easy(4) to(5) drive(6) ,(7) but(8) you(9) still(10) know(11) you(12) 're(13) driving(14) --(15) the(16) handling(17) and(18) suspension(19) are(20) smooth(21) ,(22) and(23) tight(24) enough(25) that(26) you(27) can(28) still(29) feel(30) the(31) road(32) ((33) which(34) is(35) one(36) of(37) the(38) great(39) attributes(40) of(41) BMW(42) sports(43) cars(44) )(45) .(46) 
+			<opinion polarity="+" feature="suspension" featWords="19" opWords="21"/>
+			<opinion polarity="+" feature="handling" featWords="17" opWords="21"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			While(1) I(2) do(3) not(4) suggest(5) that(6) you(7) try(8) it(9) ,(10) the(11) Z3(12) will(13) very(14) happily(15) double(16) the(17) recommended(18) speed(19) limit(20) on(21) turns(22) with(23) little(24) squeal(25) and(26) absolutely(27) no(28) sway(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			Compared(1) to(2) the(3) >(4) $60,000(5) MSRP(6) of(7) a(8) comparable(9) Porsche_Carrera(10) ,(11) the(12) ballpark(13) $40,000(14) price(15) tag(16) of(17) a(18) Z3(19) is(20) put(21) into(22) perspective(23) a_bit(24) ,(25) and(26) is(27) certainly(28) no(29) cause(30) for(31) complaint(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			Perhaps(1) its(2) only(3) negative(4) attribute(5) is(6) its(7) very(8) small(9) size(10) and(11) low(12) weight(13) ,(14) which(15) can(16) be(17) a_bit(18) intimidating(19) on(20) a(21) busy(22) freeway(23) ,(24) but(25) makes(26) it(27) that(28) much(29) easier(30) to(31) maneuver(32) through(33) traffic(34) .(35) 
+			<opinion polarity="+" feature="weight" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="8">
+			The(1) Z3(2) is(3) at(4) home(5) on(6) an(7) empty(8) winding(9) mountain(10) road(11) ,(12) where(13) its(14) strengths(15) dominate(16) .(17) 
+		</sentence>
+	</text>
+</review>

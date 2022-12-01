@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="652" item="2002 Honda CR-V" rating="2">
+	<title>
+		<sentence id="1">
+			faulty(1) a(2) /(3) c(4) compressor(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			i(1) like(2) the(3) color(4) 
+			<opinion polarity="+" feature="color" featWords="4" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Faulty(1) A(2) /(3) C(4) and(5) horrible(6) ride(7) 
+			<opinion polarity="-" feature="ride quality" featWords="7" opWords="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) '(4) 02(5) CRV(6) which(7) I(8) purchased(9) new(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) a(2) /(3) c(4) compressor(5) completley(6) DIED(7) at(8) 50K_miles(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) been(3) in(4) a(5) battle(6) with(7) Honda(8) for(9) them(10) to(11) reimburse(12) me(13) for(14) the(15) cost(16) of(17) replacement(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) been(3) a(4) Honda(5) owner(6) for(7) 13(8) years(9) ,(10) but(11) I(12) will(13) NEVER(14) purchase(15) another(16) Honda(17) again(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			I(1) found(2) the(3) customer(4) service(5) people(6) to(7) be(8) condescending(9) and(10) very(11) skeptical(12) of(13) anything(14) I(15) told(16) them(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) ex(16) ,(17) auto(18) 
+		</sentence>
+	</text>
+</review>

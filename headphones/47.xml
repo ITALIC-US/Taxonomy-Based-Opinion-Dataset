@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="47" item="Sony MDR-NC11 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Poor_Product_Quality(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) design(2) ,(3) good(4) battery(5) life(6) ,(7) decent(8) sound(9) isolation(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="battery life" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="isolation" featWords="9,10" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) quality(2) ,(3) short(4) warranty(5) period(6) ,(7) poor(8) noise(9) cancellation(10) and(11) with(12) hissing(13) operation(14) noise(15) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="warranty" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="isolation" featWords="9,10" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) believe(2) there(3) are(4) better(5) quality(6) headphones(7) with(8) the(9) price(10) of(11) MDR-NC11A(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Before(1) I(2) purchase(3) this(4) headphone(5) ,(6) I(7) have(8) done(9) some(10) research(11) online(12) on(13) this(14) model(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) saw(2) many(3) complains(4) about(5) its(6) "(7) hissing(8) "(9) sound(10) when(11) using(12) the(13) noise(14) cancellation(15) function(16) ,(17) and(18) one(19) of(20) the(21) earbud(22) stop(23) working(24) after(25) a(26) while(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			At(1) beginning(2) I(3) thought(4) it(5) must(6) be(7) some(8) very(9) small(10) hissing(11) sound(12) that(13) average(14) users(15) can(16) barely(17) notices(18) and(19) if(20) I(21) take(22) extra(23) care(24) ,(25) the(26) earbud(27) will(28) just(29) be(30) fine(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			Unfortunately(1) ,(2) after(3) I(4) bought(5) it(6) for(7) about(8) 6(9) months(10) ((11) 3/13(12) ~(13) 9/14(14) )(15) ,(16) its(17) right(18) earbud(19) stopped(20) working(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			As(1) for(2) the(3) hissing(4) sound(5) ,(6) it(7) is(8) very(9) obvious(10) ,(11) and(12) for(13) most(14) of(15) time(16) ,(17) I(18) have(19) the(20) noise(21) cancellation(22) function(23) turned(24) off(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) hissing(2) noise(3) can(4) be(5) minimized(6) if(7) you(8) turned(9) up(10) your(11) music(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) during(3) the(4) silence(5) between(6) music(7) tracks(8) ,(9) you(10) still(11) hear(12) the(13) operating(14) hissing(15) sound(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			When(1) there(2) are(3) low(4) frequency(5) noises(6) present(7) ,(8) the(9) noise(10) cancellation(11) function(12) is(13) not(14) making(15) much(16) of(17) difference(18) ,(19) so(20) I(21) hear(22) both(23) the(24) hissing(25) sound(26) and(27) the(28) noise(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			After(1) I(2) found(3) out(4) my(5) headphone(6) stop(7) working(8) ,(9) it(10) is(11) already(12) 6(13) months(14) ,(15) which(16) is(17) passed(18) 90(19) days(20) of(21) warranty(22) period(23) .(24) ((25) Not(26) at_least(27) a(28) year(29) )(30) Sony(31) offers(32) an(33) exchange(34) program(35) that(36) you(37) pay(38) about(39) half(40) of(41) it(42) original(43) price(44) ,(45) in(46) exchange(47) for(48) a(49) refurbish(50) one(51) .(52) 
+		</sentence>
+		<sentence id="10">
+			However(1) ,(2) the(3) headphone(4) isolates(5) the(6) noise(7) well(8) and(9) a(10) good(11) design(12) .(13) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			The(1) battery(2) life(3) is(4) very(5) good(6) ,(7) too(8) .(9) 
+			<opinion polarity="+" feature="battery life" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="12">
+			The(1) sound(2) quality(3) is(4) average(5) .(6) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			Hope(1) this(2) review(3) is(4) helpful(5) after(6) reading(7) all(8) this(9) .(10) 
+		</sentence>
+	</text>
+</review>

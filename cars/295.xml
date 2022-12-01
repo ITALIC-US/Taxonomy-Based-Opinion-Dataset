@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="295" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Is(1) the(2) 2000(3) Nissan_Maxima(4) really(5) worth(6) it(7) ?(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very_Powerful_Engine(1) ,(2) 222HP(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Horrible(1) breaking(2) system(3) during(4) bad(5) weather(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) accord(2) and(3) Camry(4) are(5) very(6) good(7) but(8) their(9) engines(10) can(11) not(12) match(13) that(14) of(15) the(16) Maxima(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) smoother(3) and(4) faster(5) compared(6) to(7) comparable(8) engines(9) in(10) the(11) Camry(12) and(13) Accord(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) a(3) car(4) that(5) just(6) begs(7) to(8) be(9) driven(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) only(2) thing(3) you(4) have(5) to(6) work(7) on(8) is(9) the(10) fuel(11) injector(12) ,(13) it(14) s(15) been(16) known(17) to(18) go(19) out(20) and(21) it(22) cost(23) around(24) 60_dollars(25) for(26) the(27) part(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) a(3) nice(4) car(5) but(6) the(7) 2001(8) model(9) is(10) much(11) better(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) interior(2) is(3) very(4) roomy(5) and(6) comfortable(7) .(8) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			I(1) feel(2) it(3) 's(4) the(5) perfect(6) family(7) car(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			The(1) gas(2) mileage(3) is(4) great(5) also(6) .(7) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) want(3) a(4) family(5) sports(6) car(7) ,(8) then(9) the(10) Maxima(11) are(12) for(13) you(14) .(15) 
+		</sentence>
+	</text>
+</review>

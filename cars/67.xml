@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="67" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) will(2) not(3) drive(4) any(5) other(6) car(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ride(1) ,(2) Space(3) ,(4) Handling(5) off(6) road(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) child(2) lock(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) vehicle(4) because(5) after(6) test(7) driving(8) minivans(9) ,(10) full(11) size(12) vans(13) and(14) other(15) SUV(16) 's(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Suburban(1) was(2) the(3) only(4) one(5) with(6) ample(7) passenger(8) room(9) plus(10) room(11) for(12) a(13) double(14) stroller(15) and(16) groceries(17) and(18) all(19) the(20) pool(21) and(22) sand(23) box(24) toys(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			Never(1) a(2) problem(3) to(4) carry(5) all(6) the(7) hockey(8) equipment(9) for(10) my(11) 14(12) year(13) old(14) son(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			In_addition(1) to(2) its(3) ample(4) space(5) ,(6) the(7) ride(8) is(9) sweet(10) ,(11) no(12) noise(13) or(14) rattling(15) and(16) handles(17) like(18) a(19) luxury(20) car(21) .(22) 
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			Prior(1) to(2) buying(3) my(4) Suburban(5) ,(6) I(7) was(8) concerned(9) about(10) driving(11) a(12) truck(13) that(14) big(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			No(1) problem(2) ,(3) even(4) at(5) 5,3(6) "(7) I(8) do(9) not(10) have(11) any(12) problems(13) with(14) handling(15) it(16) .(17) I(18) love(19) my(20) car(21) and(22) would(23) not(24) own(25) any(26) other(27) car(28) .(29) If(30) you(31) are(32) in(33) a(34) market(35) for(36) a(37) wonderful(38) and(39) roomy(40) and(41) powerful(42) vehicle(43) ,(44) Suburan(45) is(46) for(47) you(48) .(49) YOU(50) WILL_NOT_BE_DISAPPOINTED(51) .(52) 
+			<opinion polarity="+" feature="horsepower" opWords="42"/>
+			<opinion polarity="+" feature="room" opWords="40"/>
+			<opinion polarity="+" feature="car" featWords="43" opWords="38"/>
+			<opinion polarity="+" feature="car" featWords="21" opWords="19"/>
+		</sentence>
+	</text>
+</review>

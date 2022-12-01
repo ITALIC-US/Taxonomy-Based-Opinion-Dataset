@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="830" item="2005 Chevrolet Uplander" rating="2">
+	<title>
+		<sentence id="1">
+			Another(1) Bad_Choice(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) .(2) 
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			The(1) DVD(2) is(3) good(4) for(5) long(6) trips(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) power(2) sliding(3) doors(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Electrical(1) problems(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			No(1) center(2) console(3) ,(4) only(5) tray(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Items(1) dropped(2) in(3) back(4) roll(5) under(6) drivers(7) feet(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) the(4) 2005(5) Uplander(6) for(7) a(8) year(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Seems(1) like(2) I(3) have(4) the(5) electrical(6) problem(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) radio(2) has(3) been(4) replaced(5) because(6) it(7) intermittently(8) stopped(9) working(10) or(11) switched(12) to(13) radio(14) while(15) playing(16) a(17) CD(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) parked(2) on(3) a(4) small(5) decline(6) with(7) 1/8(8) of(9) a(10) tank(11) ((12) 5.5(13) gals(14) )(15) of(16) gas(17) and(18) could(19) not(20) get(21) it(22) started(23) until(24) it(25) was(26) pushed(27) to(28) level(29) ground(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			On(1) the(2) way(3) home(4) ,(5) the(6) car(7) door(8) locks(9) clicked(10) on(11) and(12) off(13) several(14) times(15) and(16) the(17) left(18) turn(19) signal(20) died(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) also(3) had(4) to(5) have(6) the(7) front(8) stabilizer(9) shaft(10) replaced(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) 2005(16) Uplander_LT(17) 
+		</sentence>
+	</text>
+</review>

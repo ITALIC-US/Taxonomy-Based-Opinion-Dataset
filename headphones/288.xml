@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="288" item="Sony Fontopia� MDR-EX81LP/B Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Sound(1) good(2) but(3) not(4) good(5) for(6) gym(7) ,(8) replace(9) yearly(10) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) good(2) ,(3) keep(4) noise(5) out(6) ,(7) over-the-ear(8) design(9) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) ((2) $50(3) retail(4) )(5) ,(6) die(7) after(8) 6(9) months(10) ,(11) 32(12) ohms(13) impedance(14) ,(15) 90(16) day(17) warranty(18) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) these(4) if(5) you(6) dont(7) plan(8) on(9) sweating(10) while(11) wearing(12) them(13) .(14) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) 're(3) looking(4) for(5) gym(6) headphones(7) look(8) elsewhere(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) for(5) one(6) purpose(7) only(8) :(9) to(10) use(11) while(12) exercising(13) with(14) my(15) iPod(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) did(2) a_lot_of(3) research(4) before(5) purchasing(6) them(7) ,(8) searching(9) google(10) for(11) reviews(12) on(13) various(14) headphones(15) for(16) sound(17) quality(18) ,(19) prices(20) ,(21) resistance(22) to(23) sweat(24) ,(25) comfort(26) ,(27) etc(28) ,(29) because(30) my(31) other(32) headphones(33) ,(34) Sony(35) 's(36) MDR-A35G(37) S2(38) Sports_Headphones(39) ,(40) had(41) died(42) twice(43) on(44) me(45) in(46) the(47) past(48) and(49) I(50) assumed(51) the(52) reason(53) was(54) because_of(55) sweat(56) ruining(57) the(58) speaker(59) driver(60) .(61) 
+		</sentence>
+		<sentence id="3">
+			Now_I(1) know(2) what(3) you(4) 're(5) thinking(6) ,(7) sports(8) headphones(9) should(10) be(11) sweat(12) resistant(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) agree(2) ,(3) but(4) apparently(5) Sony(6) does(7) not(8) since(9) their(10) "(11) sports(12) headphones(13) "(14) seemed(15) to(16) last(17) about(18) 3-5(19) months(20) on(21) my(22) head(23) before(24) one(25) of(26) the(27) speakers(28) would(29) die(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) tired(3) of(4) purchasing(5) $20(6) headphones(7) every(8) few(9) months(10) so(11) I(12) purchased(13) these(14) headphones(15) instead(16) ,(17) the(18) MDR-EX81LP(19) 's(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			First(1) ,(2) I(3) 'll(4) start(5) with(6) the(7) good(8) :(9) --(10) They(11) sound(12) good(13) for(14) their(15) size(16) and(17) they(18) keep(19) noise(20) out(21) ,(22) which(23) is(24) good(25) as(26) long(27) as(28) you(29) dont(30) need(31) to(32) hear(33) outside(34) noises(35) .(36) --(37) Other(38) people(39) can(40) not(41) hear(42) what(43) you(44) 're(45) listening(46) to(47) while(48) you(49) 're(50) wearing(51) these(52) like(53) they(54) can(55) with(56) open-eared(57) designs(58) .(59) --(60) Over-the-ear(61) is(62) nice(63) because(64) you(65) dont(66) have(67) a(68) band(69) going(70) over(71) your(72) head(73) .(74) --(75) they(76) fit(77) quite(78) snug(79) and(80) dont(81) fall(82) out(83) easily(84) .(85) 
+			<opinion polarity="+" feature="sound quality" opWords="12,13"/>
+			<opinion polarity="+" feature="comfort" opWords="77,79" potency="78"/>
+		</sentence>
+		<sentence id="7">
+			Now(1) the(2) bad(3) :(4) --(5) They(6) dont(7) get(8) as(9) loud(10) as(11) the(12) Sony(13) 's(14) MDR-A35G(15) headphones(16) that(17) I(18) was(19) using(20) before(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) 'm(2) guessing(3) that(4) 's(5) because(6) those(7) were(8) 108db(9) sensitivity(10) and(11) 16(12) ohm(13) and(14) these(15) are(16) only(17) 100db(18) and(19) 32(20) ohms(21) ,(22) but(23) the(24) lack(25) of(26) loudness(27) is(28) not(29) necessarily(30) a(31) bad(32) thing(33) because(34) these(35) keep(36) other(37) noises(38) out(39) better(40) so(41) I(42) can(43) hear(44) everything(45) fine(46) .(47) --(48) They(49) can(50) not(51) handle(52) sweat(53) .(54) 
+		</sentence>
+		<sentence id="9">
+			I(1) used(2) them(3) ~(4) 1(5) hour(6) daily(7) for(8) six(9) months(10) before(11) they(12) died(13) .(14) --(15) I(16) do(17) not(18) like(19) the(20) design(21) where(22) a(23) long(24) cord(25) goes(26) to(27) one(28) side(29) then(30) draps(31) over(32) to(33) the(34) next(35) .(36) 
+		</sentence>
+		<sentence id="10">
+			I(1) like(2) the(3) Y(4) cords(5) they(6) use(7) to(8) have(9) .(10) --(11) At(12) $50(13) retail(14) I(15) 'd(16) expect(17) them(18) to(19) last(20) a(21) little(22) longer(23) and(24) have(25) a(26) little(27) better(28) than(29) a(30) 90-day(31) limited(32) warranty(33) from(34) Sony(35) .(36) 
+			<opinion polarity="+" feature="cord" featWords="5" opWords="2"/>
+		</sentence>
+		<sentence id="11">
+			I(1) found(2) several(3) other(4) Sony(5) and(6) Koss(7) over-the-ear(8) designs(9) for(10) less(11) than(12) $20(13) with(14) higher(15) sensitivity(16) and(17) lower(18) impedance(19) ((20) 16(21) vs(22) 32(23) )(24) .(25) 
+		</sentence>
+	</text>
+</review>

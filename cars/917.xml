@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="917" item="2002 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			Great(1) until(2) crashed(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Side(1) airbags(2) ,(3) good(4) hwy(5) gas(6) mileage(7) ,(8) decent(9) audio(10) system(11) ,(12) the(13) original(14) engine(15) was(16) very(17) quiet(18) 
+			<opinion polarity="+" feature="engine" featWords="15" opWords="18" potency="17"/>
+			<opinion polarity="+" feature="sound system" featWords="10,11" opWords="9"/>
+			<opinion polarity="+" feature="gas" featWords="6,7" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) worth(2) repairing(3) ,(4) horrible(5) city(6) mileage(7) ,(8) VERY(9) bumpy(10) ride(11) 
+			<opinion polarity="-" feature="ride quality" featWords="11" opWords="10" potency="9"/>
+			<opinion polarity="-" feature="gas" featWords="7" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) a(3) silver(4) Civic_LX(5) 4(6) door(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			My_Civic(1) was(2) wonderful(3) and(4) reliable(5) until(6) I(7) hit(8) a(9) dog(10) 2(11) years(12) ago(13) .(14) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Since(1) then(2) I(3) have(4) been(5) through(6) 3(7) radiators(8) ,(9) two(10) engines(11) and(12) two(13) transmissions(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			At(1) first(2) I(3) thought(4) it(5) was(6) faulty(7) repair(8) but(9) I(10) realized(11) it(12) was(13) otherwise(14) when(15) it(16) was(17) checked(18) by(19) the(20) dealer(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) not(3) completely(4) sure(5) what(6) is(7) going(8) on(9) with(10) it(11) now(12) but(13) the(14) transmission(15) casing(16) has(17) been(18) cracked(19) and(20) fixed(21) many(22) times(23) and(24) my(25) car(26) keeps(27) making(28) a(29) cricket(30) like(31) noise(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			Honda(1) may(2) be(3) a(4) reliable(5) maker(6) but(7) MY(8) car(9) completely(10) blows(11) now(12) !(13) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) LX(16) ,(17) 4(18) doors(19) ,(20) automatic(21) ,(22) side(23) air(24) bags(25) ,(26) mudguards(27) 
+		</sentence>
+	</text>
+</review>

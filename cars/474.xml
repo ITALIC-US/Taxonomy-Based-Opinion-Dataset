@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="474" item="2001 Hyundai Tiburon" rating="3">
+	<title>
+		<sentence id="1">
+			do(1) not(2) expect(3) the(4) best(5) 
+			<opinion polarity="-" feature="car" opWords="2,5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) affordable(2) 
+			<opinion polarity="+" feature="price" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			You(1) get(2) what(3) you(4) pay(5) for(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) have(3) a(4) higher(5) budget(6) ,(7) go(8) with(9) something(10) else(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			If(1) this(2) is(3) all(4) you(5) can(6) afford(7) ,(8) it(9) 's(10) really(11) not(12) a(13) bad(14) car(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="12,14"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) 2001(4) Tiburon(5) almost(6) 2(7) months(8) ago(9) now(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) less(3) than(4) 2000_miles(5) on(6) it(7) and(8) already(9) I(10) have(11) a(12) slight(13) case(14) of(15) buyers(16) remorse(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Yesterday_I(1) had(2) to(3) take(4) it(5) in(6) to(7) the(8) repair(9) shop(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Not(1) a(2) very(3) good(4) first(5) impression(6) for(7) a(8) first(9) time(10) brand(11) new(12) car(13) buyer(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) not(3) going(4) to(5) go(6) completely(7) bad(8) on(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) must(2) say(3) that(4) it(5) 's(6) overall(7) not(8) a(9) bad(10) little(11) car(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="8,10"/>
+		</sentence>
+		<sentence id="7">
+			But(1) had(2) I(3) known(4) what(5) I(6) know(7) now(8) ,(9) I(10) would(11) have(12) spent(13) the(14) extra(15) $8000(16) for(17) a(18) new(19) Celica(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			My(1) old(2) car(3) was(4) a(5) 92(6) Nissan(7) that(8) was(9) falling(10) apart(11) and(12) had(13) T-tops(14) ,(15) which(16) made(17) it(18) very(19) noisy(20) going(21) down(22) the(23) road(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			One(1) of(2) the(3) things(4) I(5) was(6) so(7) looking(8) forward(9) to(10) with(11) a(12) new(13) car(14) purchase(15) was(16) to(17) have(18) something(19) that(20) purred(21) as(22) I(23) drove(24) down(25) the(26) highway(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			My(1) new(2) Tiburon(3) has(4) more(5) squeeks(6) and(7) rattles(8) than(9) my(10) old(11) car(12) did(13) .(14) ((15) That(16) was(17) what(18) it(19) was(20) in(21) the(22) shop(23) for(24) -(25) nothing(26) major(27) )(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			Every(1) time(2) I(3) hit(4) a(5) bump(6) ,(7) it(8) sounded(9) like(10) I(11) had(12) crickets(13) in(14) my(15) car(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			And(1) when(2) I(3) accelerated(4) or(5) decelerated(6) ,(7) there(8) was(9) a(10) rubbing(11) /(12) grinding(13) noise(14) coming(15) from(16) the(17) engine(18) that(19) was(20) quite(21) loud(22) ,(23) you(24) could(25) even(26) hear(27) it(28) over(29) the(30) stereo(31) .(32) 
+			<opinion polarity="-" feature="engine" featWords="18" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="13">
+			Plus(1) ,(2) the(3) brakes(4) have(5) a(6) very(7) high(8) pitched(9) squeel(10) ,(11) which(12) both(13) the(14) salesman(15) and(16) the(17) service(18) repair(19) man(20) insists(21) is(22) normal(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			My(1) 92(2) Nissan(3) did(4) not(5) squeel(6) that(7) much(8) even(9) when(10) the(11) brakes(12) were(13) ready(14) to(15) be(16) changed(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			Also(1) ,(2) do(3) not(4) expect(5) your(6) CD(7) player(8) to(9) work(10) until(11) it(12) has(13) about(14) 10(15) minutes(16) to(17) warm(18) up(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			As(1) for(2) the(3) styling(4) ,(5) I(6) think(7) it(8) looks(9) very(10) sharp(11) and(12) unique(13) .(14) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="9,13"/>
+			<opinion polarity="+" feature="design" featWords="4" opWords="9,11" potency="10"/>
+		</sentence>
+		<sentence id="17">
+			I(1) get(2) many(3) compliments(4) on(5) it(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			I(1) like(2) the(3) curves(4) of(5) the(6) body(7) ,(8) the(9) round(10) headlights(11) ,(12) and(13) the(14) little(15) spoiler(16) that(17) 's(18) molded(19) with(20) the(21) shape(22) of(23) the(24) body(25) and(26) has(27) a(28) very(29) thin(30) tail(31) light(32) in(33) it(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			The(1) inside(2) is(3) a(4) little(5) "(6) plastic(7) "(8) looking(9) ,(10) but(11) it(12) 's(13) not(14) bad(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="14,15"/>
+		</sentence>
+		<sentence id="20">
+			People(1) say(2) it(3) looks(4) like(5) a(6) space(7) ship(8) the(9) way(10) all(11) the(12) controls(13) are(14) designed(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			I(1) personally(2) would(3) not(4) go(5) that(6) far(7) ,(8) but(9) it(10) is(11) also(12) unique(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			The(1) inside(2) is(3) very(4) small(5) ,(6) but(7) I(8) 'm(9) a(10) small(11) person(12) and(13) I(14) find(15) it(16) very(17) comfortable(18) .(19) 
+			<opinion polarity="+" feature="comfort" opWords="18"/>
+			<opinion polarity="-" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="23">
+			I(1) opted(2) for(3) the(4) leather(5) interior(6) .(7) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="24">
+			I(1) 'm(2) not(3) a(4) fan(5) of(6) leather(7) interior(8) ,(9) but(10) the(11) only(12) other(13) alternative(14) is(15) the(16) tackiest(17) looking(18) tiger(19) striped(20) cloth(21) design(22) I(23) 've(24) ever(25) seen(26) .(27) 
+			<opinion polarity="-" feature="design" opWords="17,18"/>
+			<opinion polarity="+" feature="interior" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="25">
+			Reminds(1) me(2) of(3) the(4) 80(5) 's(6) punk(7) era(8) .(9) 
+		</sentence>
+		<sentence id="26">
+			I(1) also(2) have(3) the(4) power(5) sunroof(6) ,(7) which(8) I(9) have(10) not(11) had(12) the(13) opportunity(14) to(15) use(16) yet(17) ,(18) being(19) that(20) I(21) 'm(22) in(23) Wisconsin(24) and(25) have(26) only(27) had(28) it(29) since(30) January(31) .(32) 
+		</sentence>
+		<sentence id="27">
+			But(1) I(2) am(3) a(4) little(5) disappointed(6) that(7) it(8) is(9) opaque(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="28">
+			I(1) 'd(2) love(3) it(4) if(5) I(6) could(7) have(8) the(9) sun(10) coming(11) through(12) on(13) a(14) cold(15) winter(16) day(17) to(18) help(19) ease(20) the(21) winter-time(22) blues(23) .(24) 
+		</sentence>
+		<sentence id="29">
+			Oh(1) ,(2) and(3) one(4) more(5) thing(6) ...(7) this(8) car(9) has(10) absolutely(11) NO(12) "(13) get-up-and-go(14) "(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			If(1) it(2) 's(3) racing(4) you(5) have(6) in(7) mind(8) ,(9) keep(10) looking(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			It(1) looks(2) fast(3) ,(4) but(5) looks(6) are(7) very(8) deceiving(9) .(10) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+		<sentence id="32">
+			Over-all(1) ,(2) I(3) do(4) not(5) completely(6) regret(7) my(8) purchase(9) .(10) 
+		</sentence>
+		<sentence id="33">
+			Only(1) because(2) it(3) 's(4) what(5) my(6) budget(7) allowed(8) .(9) 
+		</sentence>
+		<sentence id="34">
+			Where(1) else(2) can(3) you(4) get(5) a(6) brand(7) new(8) car(9) with(10) leather(11) ,(12) CD(13) ,(14) power(15) sunroof(16) ,(17) and(18) many(19) other(20) options(21) for(22) 16K(23) .(24) 
+		</sentence>
+		<sentence id="35">
+			And(1) the(2) warranty(3) can(4) not(5) be(6) beat(7) ,(8) and(9) it(10) 's(11) cute(12) to(13) top(14) it(15) off(16) .(17) 
+		</sentence>
+		<sentence id="36">
+			If(1) I(2) had(3) a(4) higher(5) budget(6) ,(7) I(8) definately(9) would(10) have(11) opted(12) for(13) the(14) new(15) Toyota_Celica(16) though(17) .(18) 
+		</sentence>
+		<sentence id="37">
+			Just(1) beware(2) ,(3) you(4) get(5) what(6) you(7) pay(8) for(9) in(10) this(11) car(12) .(13) 
+		</sentence>
+		<sentence id="38">
+			If(1) you(2) have(3) a(4) higher(5) budget(6) ,(7) I(8) 'd(9) pass(10) on(11) this(12) one(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16,050(7) .(8) 
+		</sentence>
+		<sentence id="40">
+			Condition(1) :(2) NewModel_Year(3) :(4) 2001Model(5) and(6) Options(7) :(8) Auto(9) ,(10) CD(11) ,(12) Leather(13) ,(14) Power_Sunroof(15) 
+		</sentence>
+	</text>
+</review>

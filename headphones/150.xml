@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="150" item="Panasonic RP-HG20 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) bad(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Sound(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Painful(1) fit(2) 
+			<opinion polarity="-" feature="comfort" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Decent(1) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Its(1) not(2) evident(3) from(4) that(5) picture(6) but(7) the(8) earphones(9) have(10) a(11) hard(12) plastic(13) ear(14) hook(15) piece(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) ear(2) pieces(3) are(4) shaped(5) to(6) fit(7) either(8) the(9) Behind(10) the(11) head(12) style(13) or(14) traditional(15) style(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) too(3) heavy(4) ,(5) and(6) the(7) ear(8) hook(9) too(10) inflexible(11) to(12) be(13) comfortable(14) wearing(15) as(16) behind(17) the(18) head(19) style(20) for(21) extended(22) periods(23) of(24) time(25) .(26) 
+			<opinion polarity="-" feature="weight" opWords="3,4"/>
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) wear(3) primarily(4) over(5) the(6) head(7) then(8) you(9) 'll(10) need(11) to(12) rip(13) off(14) the(15) little(16) ear(17) hooks(18) to(19) get(20) a(21) decent(22) fit(23) to(24) your(25) ear(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			Audio(1) quality(2) is(3) a(4) good(5) point(6) about(7) these(8) however(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Low(1) frequencies(2) are(3) represented(4) nicely(5) for(6) a(7) low(8) cost(9) headphone(10) set(11) .(12) 
+			<opinion polarity="+" feature="bass" featWords="1,2" opWords="4,5"/>
+		</sentence>
+	</text>
+</review>

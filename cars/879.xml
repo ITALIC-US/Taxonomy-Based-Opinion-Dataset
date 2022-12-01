@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="879" item="1999 Mazda Protege" rating="1">
+	<title>
+		<sentence id="1">
+			The(1) lemon(2) of(3) my(4) Mazda(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Appearance(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) bought(3) a(4) new(5) Mazda(6) 99(7) Protege(8) this(9) summer(10) ,(11) and(12) at(13) two_thousand_miles(14) ,(15) I(16) experienced(17) high-pitched(18) noises(19) coming(20) from(21) the(22) engine(23) ...(24) the(25) dealership(26) called(27) corporate(28) and(29) they(30) told(31) them(32) to(33) put(34) a(35) new(36) transmission(37) in(38) my(39) car(40) .(41) 
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) the(3) transmission(4) replacement(5) did(6) not(7) fix(8) anything(9) !(10) 
+		</sentence>
+		<sentence id="3">
+			Also(1) ,(2) my(3) fan(4) which(5) comes(6) on(7) for(8) heat(9) or(10) air(11) ,(12) makes(13) loud(14) noises(15) like(16) it(17) is(18) scraping(19) something(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) the(3) passenger(4) side(5) window(6) has(7) a(8) leak(9) in(10) it(11) and(12) when(13) someone(14) sits(15) there(16) ,(17) it(18) sounds(19) like(20) a(21) bee(22) is(23) in(24) his(25) or(26) her(27) ear(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) recommend(4) this(5) car(6) to(7) anyone(8) !(9) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) dealership(2) said(3) if(4) we(5) want(6) a(7) new(8) car(9) as(10) a(11) replacement(12) ,(13) we(14) would(15) have(16) to(17) pay(18) the(19) difference(20) which(21) would(22) be(23) around(24) two_thousand_dollars(25) ,(26) but(27) why(28) do(29) I(30) have(31) to(32) pay(33) for(34) Mazda(35) 's(36) mistake(37) .(38) 
+		</sentence>
+		<sentence id="7">
+			Now(1) ,(2) I(3) am(4) stuck(5) with(6) a(7) car(8) that(9) was(10) supposed(11) to(12) be(13) a(14) safe(15) car(16) for(17) college(18) ,(19) but(20) now(21) I(22) am(23) scared(24) to(25) drive(26) it(27) because(28) the(29) gears(30) jerk(31) hard(32) at(33) certain(34) times(35) and(36) when(37) that(38) happens(39) ,(40) I(41) feel(42) like(43) I(44) have(45) been(46) hit(47) from(48) behind(49) .(50) 
+			<opinion polarity="+" feature="safety" opWords="15"/>
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) good(3) thing(4) about(5) this(6) car(7) is(8) that(9) it(10) looks(11) pretty(12) .(13) 
+			<opinion polarity="+" feature="design" opWords="12"/>
+		</sentence>
+	</text>
+</review>

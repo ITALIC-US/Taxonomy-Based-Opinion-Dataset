@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="547" item="2002 Honda Odyssey" rating="2">
+	<title>
+		<sentence id="1">
+			No(1) Better_Than_Avg_Minivan(2) -(3) Forget(4) The_Reviews(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) van(2) -(3) for(4) first(5) app(6) .(7) 2(8) yrs(9) of(10) ownership(11) .(12) 
+			<opinion polarity="+" feature="van" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Powerful(1) ,(2) drives(3) nicely(4) .(5) 
+			<opinion polarity="+" feature="ride quality" opWords="3,4"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliablity(1) degrades(2) rapidly(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Doors(1) unreliable(2) ,(3) costly(4) to(5) fix(6) ,(7) dangerous(8) .(9) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+			<opinion polarity="-" feature="door" featWords="1" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			Trannies(1) problematic(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Reviews(1) misleading(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Reliability(1) after(2) 2yrs(3) or(4) so(5) degrades(6) quickly(7) costs(8) mount(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Once(1) you(2) hit(3) 100,000km(4) ((5) 60,000_miles(6) )(7) ,(8) look(9) out(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Have(1) owned(2) Honda(3) 's(4) on(5) and(6) off(7) for(8) years(9) with(10) no(11) issues(12) -(13) until(14) this(15) piece(16) of(17) junk(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Like(1) most(2) people(3) ,(4) I(5) was(6) leery(7) of(8) minivans(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Lost(1) of(2) horror(3) stories(4) about(5) trannies(6) going(7) south(8) ,(9) etc.(10) Did(11) all(12) the(13) right(14) research(15) ,(16) read(17) the(18) reviews(19) ,(20) checked(21) the(22) lemon(23) guides(24) ,(25) etc.(26) You(27) name(28) it(29) ,(30) we(31) read(32) it(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			Odyssey(1) always(2) got(3) glowing(4) praise(5) -(6) for(7) a(8) minivan(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Ok(1) ,(2) so(3) bought(4) a(5) 2002(6) Odyssey_EX._No(7) hitch(8) ,(9) as(10) always(11) believed(12) towing(13) anything(14) meaningful(15) with(16) a(17) minivan(18) ,(19) regardless_of(20) whose(21) ,(22) would(23) be(24) a(25) bad(26) idea(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			These(1) are(2) glorified(3) compact(4) cars(5) with(6) larger(7) bodies(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			Price(1) was(2) roughly(3) C$40,000(4) off(5) the(6) lot(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			Three(1) years(2) and(3) 120,000km(4) ((5) 74,000_miles(6) )(7) later(8) and(9) here(10) is(11) what(12) we(13) have(14) seen(15) :(16) During(17) warranty(18) period(19) ((20) 3yrs/60,000km(21) )(22) 1(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			Metal(1) frame(2) of(3) driver(4) 's(5) seat(6) corroded(7) all(8) to(9) hell(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			I(1) mean(2) paint(3) flaking(4) off(5) .(6) 
+			<opinion polarity="-" feature="color" featWords="3" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			Looked(1) like(2) a(3) boat(4) anchor(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			Honda(1) ,(2) after(3) some(4) internal(5) debate(6) ,(7) replaces(8) seat(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Just(1) after(2) waranty(3) ends(4) :(5) 1(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Drivers(1) side(2) electric(3) door(4) refuses(5) to(6) shut(7) and(8) latch(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			Apparently(1) the(2) door(3) mechanism(4) uses(5) nylon(6) wheels(7) that(8) glide(9) in(10) the(11) tracks(12) on(13) the(14) side(15) of(16) the(17) van(18) and(19) under(20) the(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			Dirt(1) gets(2) in(3) there(4) and(5) grinds(6) the(7) wheel(8) ((9) s(10) )(11) slightly(12) out(13) of(14) round(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			The(1) result(2) is(3) that(4) when(5) door(6) goes(7) to(8) latch(9) ,(10) it(11) 's(12) JUST(13) out(14) of(15) alingment(16) ,(17) the(18) safety(19) system(20) assumes(21) something(22) is(23) in(24) the(25) way(26) and(27) it(28) re-opens(29) the(30) door(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			Cost(1) to(2) us(3) to(4) replace(5) the(6) entire(7) door(8) mech(9) for(10) one(11) $1.00(12) glorified(13) rollar(14) skate(15) wheel(16) ?(17) 
+		</sentence>
+		<sentence id="19">
+			C$2000(1) .(2) 2(3) .(4) 
+		</sentence>
+		<sentence id="20">
+			Second(1) driver(2) 's(3) seat(4) re-corrodes(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			Same(1) spot(2) ,(3) same(4) flaking(5) paint(6) and(7) corrsion(8) .(9) 
+			<opinion polarity="-" feature="color" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="22">
+			No(1) idea(2) how(3) it(4) happens(5) and(6) why(7) only(8) driver(9) 's(10) side(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			do(1) not(2) live(3) near(4) coast(5) -(6) just(7) average(8) commuting(9) from(10) the(11) burb(12) 's(13) ,(14) car(15) cleaned(16) regularily(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Honda(1) refuses(2) to(3) replace(4) .(5) 
+		</sentence>
+		<sentence id="25">
+			Period(1) .(2) 3(3) .(4) 
+		</sentence>
+		<sentence id="26">
+			Corrosion(1) inside(2) rear(3) hatch(4) door(5) .(6) 4(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			Passenger(1) side(2) door(3) opens(4) by(5) self(6) on(7) highway(8) at(9) 100km/h(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			Stop(1) and(2) try(3) and(4) close(5) but(6) refuses(7) to(8) close(9) and(10) latch(11) .(12) 
+		</sentence>
+		<sentence id="29">
+			Faulty(1) latch(2) .(3) 
+		</sentence>
+		<sentence id="30">
+			Doors(1) latch(2) electrically(3) and(4) when(5) the(6) electric(7) mech(8) goes(9) south(10) ,(11) there(12) is(13) NO_WAY(14) to(15) latch(16) door(17) shut(18) by_hand(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			Dealer_COULD(1) do(2) it(3) ,(4) but(5) refused(6) to(7) do(8) so(9) because_of(10) liability(11) issues(12) in_case(13) of(14) accident(15) .(16) 
+		</sentence>
+		<sentence id="32">
+			Cost(1) to(2) us(3) C$600(4) .(5) 5(6) .(7) 
+		</sentence>
+		<sentence id="33">
+			Can(1) hear(2) gas(3) sloshing(4) around(5) everythime(6) van(7) comes(8) to(9) stop(10) ,(11) etc.(12) 6(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			The(1) driver(2) 's(3) sliding(4) door(5) that(6) was(7) fixed(8) is(9) now(10) starting(11) to(12) make(13) ominous(14) rattling(15) noises(16) .(17) 7(18) .(19) 
+		</sentence>
+		<sentence id="35">
+			Tranny(1) over-heat(2) warning(3) light(4) ((5) flashing(6) "(7) D(8) "(9) )(10) comes(11) on(12) in(13) mid-March(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			Dealer(1) replaces(2) ,(3) can(4) not(5) remember(6) cost(7) -(8) faulty(9) sensor(10) .(11) 
+		</sentence>
+		<sentence id="37">
+			Drained(1) fluid(2) looks(3) fine(4) ,(5) etc.(6) Honda(7) dealer(8) Gives(9) tranny(10) a(11) glowing(12) bill(13) of(14) health(15) ;(16) but(17) quietly(18) '(19) warns(20) '(21) us(22) that(23) has(24) seem(25) some(26) go(27) and(28) that(29) new(30) tranny(31) to(32) replace(33) will(34) be(35) north(36) of(37) C$5000(38) -(39) payable(40) by(41) us(42) .(43) 8(44) .(45) 5,000km(46) after(47) warning(48) sensor(49) replaced(50) ,(51) tranny(52) starts(53) to(54) act(55) funny(56) .(57) 
+		</sentence>
+		<sentence id="38">
+			Shifting(1) when(2) it(3) never(4) used(5) to(6) ,(7) need(8) to(9) step(10) on(11) gas(12) to(13) engage(14) into(15) passing(16) gear(17) when(18) never(19) used(20) to(21) .(22) 
+		</sentence>
+		<sentence id="39">
+			Clunky(1) going(2) in(3) and(4) out(5) of(6) drive(7) .(8) 
+			<opinion polarity="-" feature="drive" featWords="7" opWords="1"/>
+		</sentence>
+		<sentence id="40">
+			To(1) a(2) driver(3) new(4) to(5) the(6) Odyssey(7) it(8) might(9) seem(10) normal(11) ,(12) but(13) having(14) driven(15) it(16) from(17) new(18) ,(19) it(20) 's(21) not(22) .(23) 9(24) .(25) 
+		</sentence>
+		<sentence id="41">
+			Van(1) no_longer(2) seems(3) to(4) be(5) able(6) to(7) keep(8) a(9) wheel(10) balance(11) for(12) long(13) -(14) Everytime(15) it(16) 's(17) done(18) ((19) two(20) different(21) dealers(22) )(23) ,(24) we(25) start(26) to(27) get(28) steering(29) wheel(30) shudder(31) with(32) a(33) 1,000(34) km(35) or(36) so(37) .(38) 
+		</sentence>
+		<sentence id="42">
+			We(1) just(2) had(3) our(4) 3yr(5) old(6) C$40,000(7) Honda(8) appraised(9) -(10) C$16-17,000(11) due(12) to(13) our(14) '(15) ...(16) high(17) mileage(18) ....(19) "(20) .(21) So(22) ,(23) less(24) than(25) 1/2(26) value(27) after(28) only(29) three(30) years(31) for(32) "(33) the(34) world(35) 's(36) best(37) minivan(38) "(39) .(40) No(41) towing(42) ,(43) always(44) serviced(45) at(46) dealer(47) at(48) required(49) intervals(50) .(51) Family(52) of(53) two(54) people(55) and(56) two(57) dogs(58) with(59) just(60) one(61) adult(62) 60_%(63) of(64) the(65) time(66) commuting(67) to(68) work(69) .(70) Almost(71) all(72) highway(73) miles(74) .(75) Bloody(76) thing(77) was(78) babied(79) relative(80) to(81) the(82) average(83) family(84) car(85) .(86) In(87) short(88) ,(89) the(90) reviews(91) make(92) this(93) van(94) sound(95) wonderful(96) and(97) for(98) the(99) first(100) two(101) years(102) or(103) so(104) ,(105) it(106) is(107) .(108) Powerful(109) ,(110) handles(111) like(112) a(113) car(114) ,(115) etc.(116) However(117) ,(118) the(119) durability(120) of(121) the(122) van(123) is(124) pathetic(125) .(126) I(127) shudder(128) to(129) think(130) what(131) could(132) /(133) would(134) have(135) taken(136) place(137) had(138) we(139) a(140) couple(141) of(142) kids(143) to(144) cart(145) around(146) and(147) /(148) or(149) a(150) small(151) trailer(152) to(153) tow(154) .(155) Is(156) it(157) the(158) worst(159) van(160) ?(161) No(162) .(163) Is(164) it(165) as(166) good(167) as(168) a(169) reviewer(170) ,(171) who(172) lives(173) with(174) it(175) for(176) hrs(177) ,(178) maybe(179) days(180) ,(181) says(182) it(183) is(184) ?(185) No(186) .(187) We(188) are(189) now(190) trading(191) the(192) van(193) on(194) a(195) non-Honda(196) product(197) .(198) Our(199) intent(200) was(201) to(202) buy(203) the(204) best(205) and(206) run(207) it(208) until(209) it(210) blew(211) ,(212) but(213) we(214) now(215) longer(216) trust(217) it(218) for(219) long(220) trips(221) of(222) any(223) sort(224) .(225) Our(226) expectation(227) is(228) that(229) within(230) a(231) yr(232) or(233) so(234) ,(235) we(236) will(237) be(238) looking(239) at(240) a(241) new(242) tranny(243) and(244) at_least(245) another(246) sliding(247) door(248) replacement(249) as_well(250) as(251) some(252) bodywork(253) .(254) My(255) advice(256) re(257) vans(258) :(259) 1(260) .(261) Look(262) at(263) vans(264) with(265) a(266) truck-style(267) chassis(268) and(269) tranny(270) .(271) Yeah(272) ,(273) they(274) drive(275) more(276) like(277) a(278) truck(279) ,(280) but(281) they(282) have(283) the(284) durbility(285) of(286) one(287) as_well(288) .(289) 2(290) .(291) The(292) Odyssey(293) is(294) no(295) more(296) or(297) less(298) durable(299) or(300) reliable(301) than(302) any(303) other(304) current(305) car-chassis-based(306) van(307) .(308) 3(309) .(310) Drive(311) them(312) all(313) and(314) pay(315) little(316) attention(317) to(318) reviews(319) .(320) Pick(321) the(322) one(323) you(324) like(325) .(326) Try(327) a(328) lease(329) with(330) period(331) =(332) warranty(333) period(334) .(335) 4.STAY(336) AWAY(337) from(338) ANY(339) form(340) of(341) electric(342) door(343) .(344) If(345) you(346) MUST(347) have(348) them(349) ,(350) ensure(351) they(352) can(353) be(354) closed(355) and(356) latched(357) by_hand(358) should(359) something(360) go(361) wrong(362) .(363) 5(364) .(365) Do(366) NOT(367) use(368) a(369) minivan(370) as(371) a(372) high(373) mile(374) commuter(375) .(376) The(377) trannies(378) just(379) do(380) not(381) like(382) "(383) high(384) "(385) mile(386) usage(387) .(388) We(389) did(390) all(391) we(392) could(393) to(394) protect(395) ourselves(396) and(397) lost(398) regardless(399) .(400) The(401) result(402) is(403) that(404) we(405) will(406) no_longer(407) by(408) ANY_Honda(409) product(410) -(411) they(412) had(413) the(414) opp(415) .(416) to(417) stand(418) behind(419) their(420) product(421) and(422) refused(423) .(424) Amount_Paid(425) ((426) US(427) $(428) )(429) :(430) 35,000(431) Condition(432) :(433) NewModel_Year(434) :(435) 2002Model(436) and(437) Options(438) :(439) EX(440) ,(441) leather(442) ,(443) AC(444) ,(445) etc.(446) 
+			<opinion polarity="-" feature="van" featWords="160" opWords="159"/>
+			<opinion polarity="+" feature="horsepower" opWords="109"/>
+			<opinion polarity="-" feature="gas" featWords="18" opWords="17"/>
+		</sentence>
+	</text>
+</review>

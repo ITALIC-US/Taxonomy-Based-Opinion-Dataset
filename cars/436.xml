@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="436" item="1996 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			If(1) you(2) want(3) to(4) get(5) from(6) A(7) to(8) B.(9) .(10) .(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			safe(1) ,(2) pretty(3) reliable(4) ,(5) easy(6) for(7) learning(8) to(9) drive(10) in(11) 
+			<opinion polarity="+" feature="reliability" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			wind(1) noise(2) ,(3) hard(4) seats(5) ,(6) kind(7) of(8) cramped(9) back(10) ,(11) boring(12) as(13) hell(14) 
+			<opinion polarity="-" feature="car" opWords="12"/>
+			<opinion polarity="-" feature="seat" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			OK(1) ,(2) so(3) I(4) 'll(5) admit(6) that(7) the(8) Camry(9) is(10) good(11) car(12) ,(13) of(14) high(15) quality(16) ,(17) but(18) it(19) 's(20) no(21) fun(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			My(1) father(2) owns(3) a(4) 1996(5) Camry(6) with(7) 4-cylinder(8) ((9) yes(10) ,(11) I(12) have(13) driven(14) it(15) )(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) power(3) is(4) pathetic(5) .(6) 
+			<opinion polarity="-" feature="horsepower" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) engine(2) sounds(3) like(4) it(5) 's(6) going(7) to(8) die(9) when(10) he(11) accelerates(12) onto(13) the(14) highway(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Not(1) to(2) mention(3) that(4) the(5) new(6) Camry(7) with(8) a(9) 4-cyl(10) .(11) takes(12) as(13) long(14) as(15) a(16) Grand_Caravan(17) to(18) get(19) to(20) 60(21) !(22) 
+		</sentence>
+		<sentence id="6">
+			These(1) cars(2) are(3) safe(4) though(5) .(6) 
+			<opinion polarity="+" feature="safety" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			My(1) father(2) was(3) side-swiped(4) by(5) a(6) semi(7) when(8) the(9) car(10) was(11) only(12) a(13) year(14) old(15) ,(16) but(17) he(18) got(19) out(20) without(21) a(22) scratch(23) ((24) the(25) car(26) was(27) not(28) so(29) lucky(30) .(31) )(32) Other(33) than(34) spending(35) a(36) LONG(37) time(38) in(39) a(40) shop(41) after(42) that(43) ,(44) we(45) got(46) it(47) back(48) ;(49) unfortunately(50) it(51) has(52) had(53) annoying(54) wind-noise(55) since(56) that(57) .(58) 
+		</sentence>
+		<sentence id="8">
+			Other(1) than(2) lack(3) of(4) power(5) ,(6) the(7) only(8) complaints(9) are(10) that(11) the(12) steering(13) hisses(14) ,(15) and(16) the(17) rear(18) windows(19) tend(20) to(21) not(22) open(23) when(24) they(25) 've(26) been(27) closed(28) for(29) a(30) while(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			Unfortunately(1) ,(2) we(3) 've(4) had(5) the(6) car(7) for(8) almost(9) 4(10) years(11) ,(12) and(13) it(14) already(15) has(16) 100,000(17) +(18) on(19) it(20) ,(21) so(22) it(23) 's(24) not(25) going(26) to(27) have(28) much(29) resale(30) value(31) .(32) 
+		</sentence>
+		<sentence id="10">
+			Oh(1) yeah(2) ,(3) and(4) one(5) last(6) thing(7) that(8) I(9) forgot(10) :(11) The(12) seats(13) on(14) the(15) generation(16) of(17) Camry(18) we(19) have(20) are(21) HORRIBLE(22) ((23) they(24) 're(25) better(26) now(27) ,(28) I(29) sat(30) in(31) one(32) for(33) a(34) little(35) while(36) in(37) a(38) dealer(39) )(40) .(41) 
+			<opinion polarity="-" feature="seat" featWords="13" opWords="22"/>
+		</sentence>
+		<sentence id="11">
+			My(1) dad(2) 's(3) has(4) cloth(5) seats(6) ,(7) and(8) they(9) are(10) not(11) at(12) all(13) fun(14) to(15) sit(16) in(17) for(18) very(19) long(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Once(1) while(2) driving(3) home(4) from(5) Maine(6) in(7) the(8) front(9) seat(10) of(11) a(12) Camry(13) ,(14) my(15) back(16) was(17) killing(18) me(19) when(20) I(21) got(22) home(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) my(3) grandmother(4) 's(5) Camry(6) ((7) also(8) a(9) 96(10) )(11) has(12) leather(13) ,(14) and(15) they(16) are(17) the(18) hardest(19) seats(20) I(21) 've(22) ever(23) sat(24) on(25) in(26) my(27) entire(28) life(29) !(30) 
+			<opinion polarity="-" feature="seat" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="14">
+			The(1) Camry(2) 's(3) a(4) good(5) car(6) if(7) you(8) want(9) to(10) get(11) from(12) point(13) A(14) to(15) point(16) B(17) ,(18) but(19) for(20) someone(21) who(22) is(23) in(24) the(25) market(26) for(27) an(28) old(29) big(30) block(31) Mustang(32) ,(33) I(34) hope(35) his(36) next(37) car(38) has(39) a(40) V(41) -(42) 8(43) as(44) an(45) option(46) !(47) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			I(1) only(2) give(3) the(4) car(5) a(6) 3(7) due(8) to(9) it(10) 's(11) safety(12) and(13) good(14) reliability(15) 
+			<opinion polarity="+" feature="reliability" featWords="15" opWords="14"/>
+		</sentence>
+	</text>
+</review>

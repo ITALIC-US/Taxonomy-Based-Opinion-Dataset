@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="151" item="Stanton DJ Pro 50S Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Disappointingly(1) thin-sounding(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Stylish(1) .(2) 
+			<opinion polarity="+" feature="appearance" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) just(2) do(3) not(4) sound(5) very(6) good(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) replacing(3) some(4) KOSS(5) headphones(6) in(7) the(8) same(9) price(10) range(11) --(12) around(13) $30(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) time(3) I(4) used(5) them(6) ,(7) I(8) was(9) listening(10) to(11) AM(12) radio(13) and(14) they(15) sounded(16) fine(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			But(1) upstairs(2) in(3) my(4) office(5) ,(6) I(7) almost(8) can(9) not(10) believe(11) how(12) flat(13) and(14) thin(15) they(16) sound(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) thing(3) I(4) did(5) was(6) open(7) my(8) equalizer(9) to(10) find(11) a(12) better(13) setting(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			But(1) it(2) 's(3) not(4) the(5) equalizer(6) ,(7) it(8) 's(9) the(10) '(11) phones(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			They(1) just(2) lack(3) that(4) crisp(5) ,(6) bright(7) ,(8) rich(9) presence(10) that(11) I(12) was(13) hoping(14) for(15) .(16) 
+		</sentence>
+	</text>
+</review>

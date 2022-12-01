@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="702" item="2001 Volkswagen Jetta TDI" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) Be_Fooled(3) .(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Color(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Fun(1) to(2) drive(3) -(4) on(5) the(6) rare(7) occasion(8) that(9) it(10) actually(11) runs(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Customer(1) service(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) quality(2) vehicle(3) .(4) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="1,2"/>
+		</sentence>
+		<sentence id="3">
+			Waste(1) of(2) money(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) Jetta_GLX(4) new(5) in_2001(6) and(7) have(8) I(9) regretted(10) it(11) ever(12) since(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) has(3) been(4) in(5) the(6) shop(7) more(8) than(9) it(10) 's(11) been(12) driven(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			And(1) customer(2) service(3) -(4) what(5) customer(6) service(7) ?(8) 
+		</sentence>
+		<sentence id="4">
+			VW(1) is(2) very(3) nice(4) -(5) until(6) you(7) start(8) having(9) problems(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			And(1) once(2) the(3) problems(4) begin(5) -(6) they(7) do(8) not(9) stop(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) be(3) fooled(4) by(5) the(6) hype(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) a_lot_of(3) unhappy(4) VW(5) owners(6) out(7) there(8) ((9) amazingly(10) ,(11) we(12) all(13) have(14) the(15) same(16) problems(17) )(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Do(1) some(2) research(3) before(4) you(5) get(6) sucked(7) into(8) the(9) VW(10) scam(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GLX(16) 
+		</sentence>
+	</text>
+</review>

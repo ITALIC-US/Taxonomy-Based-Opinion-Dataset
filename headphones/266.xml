@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="266" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Bose(1) QC2(2) for(3) office(4) noise(5) fatigue(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) fit(2) ;(3) interest(4) free(5) financing(6) ;(7) return(8) policy(9) ;(10) replaceable(11) cord(12) ;(13) able(14) to(15) listen(16) at(17) lower(18) volumes(19) .(20) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="cord" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) pricey(3) .(4) 
+			<opinion polarity="-" feature="price" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) went(2) from(3) working(4) alone(5) in(6) my(7) own(8) home(9) office(10) to(11) a(12) distractingly(13) loud(14) office(15) shared(16) by(17) 15(18) people(19) and(20) noisy(21) office(22) equipment(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) the(3) Bose(4) QC2(5) headphones(6) hoping(7) to(8) reduce(9) the(10) chronic(11) noise(12) fatigue(13) I(14) was(15) experiencing(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			While(1) certain(2) voices(3) ,(4) and(5) other(6) higher(7) pitched(8) noises(9) still(10) come(11) through(12) ,(13) I(14) found(15) that(16) the(17) QC2(18) headphones(19) have(20) nice(21) isolation(22) particularly(23) when(24) used(25) with(26) environmental(27) nature(28) CD(29) 's(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) not(3) really(4) sure(5) they(6) were(7) helping(8) until(9) I(10) took(11) them(12) off(13) and(14) noticed(15) how(16) loud(17) my(18) surroundings(19) really(20) were(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			With(1) the(2) noise(3) cancellation(4) feature(5) I(6) am(7) able(8) to(9) listen(10) to(11) CD(12) 's(13) at(14) a(15) much(16) lower(17) volume(18) ,(19) thus(20) preserving(21) my(22) hearing(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			At(1) $299(2) ,(3) if(4) the(5) cord(6) is(7) damaged(8) it(9) can(10) be(11) replaced(12) without(13) suffering(14) a(15) total(16) loss(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Interest(1) free(2) financing(3) and(4) return(5) policy(6) made(7) me(8) a(9) buyer(10) .(11) 
+		</sentence>
+	</text>
+</review>

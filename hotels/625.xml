@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="625" item="The Wyndham Orlando Resort On Int'l Driv" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Price(1) ,(2) Wyndham_Orlando(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) Location(3) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Amenities(1) ,(2) ok(3) appearance(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommend(1) it(2) ,(3) but(4) definately(5) not(6) Wyndham_Quality(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Got(1) a(2) good(3) deal(4) at(5) the(6) Wyndham_Orlando_Resort(7) ,(8) $75/night(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) rated(3) as(4) a(5) 4(6) star(7) resort(8) ,(9) but(10) I(11) beg(12) to(13) differ(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) more(3) like(4) a(5) 3(6) Star_Hotel(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			The(1) place(2) was(3) clean(4) ,(5) but(6) it(7) certainly(8) did(9) not(10) have(11) a(12) resort(13) like(14) feeling(15) in(16) your(17) room(18) .(19) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Located(1) at(2) the(3) intersection(4) of(5) International_Drive(6) and(7) Sand_Lake(8) road(9) ,(10) makes(11) it(12) a(13) good(14) location(15) to(16) get(17) around(18) .(19) 
+			<opinion polarity="+" feature="place" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) recommend(3) it(4) ,(5) it(6) 's(7) worth(8) the(9) money(10) .(11) 
+			<opinion polarity="+" feature="hotel" featWords="4" featRef="hotel" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			But(1) if(2) you(3) are(4) a(5) regular(6) to(7) Wyndham(8) hotels(9) ,(10) you(11) will(12) notice(13) a(14) difference(15) right(16) away(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			But(1) compared(2) to(3) other(4) hotels(5) around(6) orlando(7) for(8) the(9) same(10) price(11) ,(12) definatly(13) wyndham(14) is(15) the(16) way(17) to(18) go(19) .(20) 
+		</sentence>
+	</text>
+</review>

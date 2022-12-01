@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="285" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			Another(1) 2001(2) silver(3) Celica(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Dang(1) !(2) this(3) car(4) is(5) light(6) and(7) fast(8) and(9) super(10) good(11) with(12) turns(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="speed" opWords="8"/>
+			<opinion polarity="+" feature="weight" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) bad(2) its(3) really(4) small(5) in(6) the(7) back(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Celicas(1) speed(2) and(3) power(4) is(5) underestimated(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			A(1) great(2) car(3) if(4) you(5) are(6) into(7) racing(8) and(9) dont(10) want(11) another(12) played(13) out(14) civic(15) or(16) integra(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			All(1) in_all(2) this(3) is(4) a(5) TITE(6) car(7) !(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) got(2) my(3) car(4) for(5) 160(6) $(7) a(8) month(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) runs(2) really(3) good(4) no(5) problems(6) with(7) the(8) motor(9) or(10) anything(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) when(3) it(4) rains(5) or(6) when(7) there(8) is(9) a(10) big(11) dip(12) or(13) an(14) uneven(15) road(16) ,(17) the(18) car(19) can(20) not(21) handle(22) it(23) the(24) steering(25) wheel(26) is(27) hard(28) to(29) control(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) gear(2) box(3) is(4) really(5) small(6) and(7) at(8) first(9) i(10) kept(11) putting(12) it(13) in(14) 3rd(15) instead_of(16) first(17) because(18) the(19) box(20) is(21) so(22) small(23) .(24) 
+			<opinion polarity="-" feature="gearbox" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			Its(1) not(2) really(3) comfortable(4) in(5) the(6) back(7) ,(8) i(9) consider(10) more(11) of(12) a(13) 2(14) person(15) car(16) .(17) 
+			<opinion polarity="-" feature="comfort" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			Its(1) REALLY(2) light(3) and(4) fast(5) though(6) .(7) 
+			<opinion polarity="+" feature="speed" opWords="5"/>
+			<opinion polarity="+" feature="weight" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			It(1) only(2) comes(3) with(4) 140(5) HP(6) but(7) i(8) have(9) raced(10) and(11) smoked(12) many(13) cars(14) ,(15) even(16) when(17) it(18) was(19) stock(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			The(1) gas(2) is(3) really(4) really(5) sufficent(6) .(7) 25(8) bucks(9) will(10) fill(11) up(12) my(13) tank(14) for(15) the(16) week(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Definitely(1) not(2) a(3) family(4) car(5) more(6) of(7) a(8) toy(9) car(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			Not(1) many(2) complaints(3) from(4) me(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16(7) ,(8) 000(9) Condition(10) :(11) UsedModel_Year(12) :(13) 2001Model(14) and(15) Options(16) :(17) 2001(18) SiLveR_CeLiCA(19) unFOrtunetLy(20) GT(21) 
+		</sentence>
+	</text>
+</review>

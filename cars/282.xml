@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="282" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) deal(2) for(3) the(4) money(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sporty(1) engine(2) ,(3) spacious(4) interior(5) ,(6) contemporary(7) design(8) ,(9) excellent(10) sound(11) system(12) ,(13) functional(14) center(15) console(16) ,(17) great(18) handling(19) .(20) 
+			<opinion polarity="+" feature="handling" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="sound system" featWords="11,12" opWords="10"/>
+			<opinion polarity="+" feature="interior" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			BAD(1) fuel(2) economy(3) ((4) but(5) it(6) is(7) a(8) V6(9) ,(10) so(11) ...(12) )(13) ,(14) plastic(15) interior(16) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Sporty(1) ?(2) 
+		</sentence>
+		<sentence id="2">
+			Yes(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Roomy(1) ?(2) 
+		</sentence>
+		<sentence id="4">
+			Yes(1) .(2) 0-60(3) under(4) 8(5) sec.(6) ?(7) 
+		</sentence>
+		<sentence id="5">
+			Definitely(1) .(2) 
+		</sentence>
+		<sentence id="6">
+			Value(1) ?(2) 
+		</sentence>
+		<sentence id="7">
+			Oh(1) yes(2) ,(3) you(4) bet(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Here(1) 's(2) the(3) deal(4) ,(5) think(6) of(7) the(8) cars(9) in(10) the(11) same(12) class(13) as(14) the(15) Maxima(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			What(1) do(2) we(3) have(4) ?(5) 
+		</sentence>
+		<sentence id="3">
+			Toyota_Camry(1) ,(2) Honda_Accord(3) ,(4) Ford_Taurus(5) /(6) Sable(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			None(1) of(2) these(3) cars(4) comes(5) close(6) in(7) terms(8) of(9) the(10) price(11) /(12) performance(13) ,(14) price(15) /(16) value(17) ratio(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) my(3) 2000(4) GXE(5) with(6) 16_inch(7) alloys(8) ,(9) premium(10) sound(11) ((12) w(13) /(14) CD(15) )(16) ,(17) power(18) drivers(19) seat(20) ,(21) and(22) a(23) security(24) system(25) for(26) a(27) little(28) under(29) $21,000(30) !(31) 
+			<opinion polarity="+" feature="sound system" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			Like(1) the(2) Taurus(3) /(4) Sable(5) and(6) Camry(7) ,(8) this(9) car(10) can(11) be(12) considered(13) a(14) family(15) sedan(16) ,(17) but(18) boy(19) ,(20) it(21) burns(22) both(23) these(24) cars(25) in(26) terms(27) of(28) performance(29) with(30) it(31) 's(32) 220(33) horses(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) a(3) "(4) sporty(5) "(6) alternative(7) to(8) the(9) Ford(10) or(11) the(12) Toyota(13) with(14) a_lot(15) more(16) style(17) and(18) character(19) ((20) an(21) argument(22) can(23) be(24) made(25) for(26) the(27) new(28) Taurus(29) ,(30) it(31) looks(32) very(33) sharp(34) )(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			Compared(1) to(2) the(3) Honda(4) ,(5) it(6) 's(7) a(8) pretty(9) even(10) match(11) in(12) terms(13) of(14) value(15) and(16) performance(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) the(3) Accord(4) is(5) ...(6) well(7) ,(8) "(9) cookie-cutter(10) "(11) when(12) compared(13) to(14) the(15) Maxima(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) inside(2) of(3) the(4) car(5) is(6) spacious(7) to(8) say(9) the(10) least(11) .(12) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="11">
+			The(1) view(2) from(3) the(4) front(5) passenger(6) side(7) of(8) the(9) car(10) is(11) spectacular(12) .(13) 
+			<opinion polarity="+" feature="visibility" featWords="2" opWords="12"/>
+		</sentence>
+		<sentence id="12">
+			The(1) rear(2) seats(3) also(4) provide(5) ample(6) space(7) for(8) 2(9) or(10) 3(11) adults(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) real(3) problem(4) with(5) the(6) Maxima(7) is(8) the(9) fuel(10) economy(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) think(2) I(3) 'm(4) getting(5) about(6) 16_miles(7) /(8) gallon(9) !(10) 
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) a(3) big(4) difference(5) from(6) my(7) previous(8) car(9) ,(10) a(11) 98(12) Sentra(13) which(14) gave(15) me(16) a(17) consistent(18) 30mpg(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			All(1) in_all(2) ,(3) this(4) car(5) is(6) for(7) the(8) family(9) man(10) who(11) still(12) wants(13) to(14) have(15) a(16) little(17) fun(18) after(19) he(20) drops(21) the(22) kids(23) off(24) at(25) school(26) or(27) soccer(28) practice(29) .(30) 
+		</sentence>
+		<sentence id="17">
+			Also(1) great(2) for(3) college(4) grads(5) looking(6) to(7) start(8) a(9) family(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="18">
+			Actually(1) ,(2) it(3) 's(4) an(5) awesome(6) car(7) no(8) matter(9) how(10) you(11) look(12) at(13) it(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="19">
+			Great(1) performance(2) ,(3) distinctive(4) style(5) ,(6) and(7) lots(8) of(9) room(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="20">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GXE_Automatic(16) with(17) Premium_Package(18) 
+		</sentence>
+	</text>
+</review>

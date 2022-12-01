@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="887" item="2002 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) Lemon(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Look(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) made(2) a(3) promise(4) to(5) ourselves(6) that(7) we(8) will(9) never(10) buy(11) another(12) Honda(13) product(14) ,(15) or(16) an(17) American(18) car(19) for(20) that(21) matter(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) this(3) car(4) because_of(5) all(6) the(7) good(8) thing(9) people(10) said(11) about(12) Honda(13) ,(14) second(15) worst(16) product(17) we(18) ever(19) bought(20) ((21) the(22) worst(23) is(24) a(25) refurbish(26) cordless(27) phone(28) I(29) got(30) off(31) the(32) net(33) )(34) .(35) 
+		</sentence>
+		<sentence id="2">
+			Quality(1) :(2) In(3) the(4) shop(5) 4_times(6) ((7) check(8) engine(9) light(10) )(11) before(12) it(13) reach(14) 750_miles(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) closed(2) the(3) trunk(4) two(5) time(6) and(7) twice(8) stuffs(9) fell(10) out(11) of(12) it(13) ,(14) one(15) time(16) is(17) a(18) wire(19) harness(20) ((21) dealer(22) still(23) do(24) not(25) know(26) where(27) it(28) goes(29) )(30) the(31) other(32) time(33) is(34) the(35) reflector(36) plate(37) behind(38) the(39) brakelight(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			Ride(1) :(2) It(3) ride(4) just(5) like(6) a(7) go(8) cart(9) ((10) rough(11) )(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Fit(1) and(2) Finish(3) :(4) Paint(5) leave(6) much(7) to(8) be(9) desire(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Buttons(1) and(2) handles(3) are(4) below(5) average(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Gaps(1) between(2) fittings(3) are(4) wide(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Hard(1) plastic(2) on(3) dashboard(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			Performance(1) :(2) Gas(3) mileage(4) is(5) the(6) same(7) as(8) our(9) 2000(10) Rodeo(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Comparing(1) the(2) two(3) ,(4) the(5) Honda_I(6) think(7) is(8) about(9) 125(10) HP(11) ((12) Honda(13) 200(14) HP(15) ,(16) Rodeo(17) 205(18) HP(19) w(20) /(21) big(22) tires(23) and(24) heavier(25) body(26) )(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			Stereo(1) is(2) above(3) average(4) .(5) 
+			<opinion polarity="+" feature="sound system" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="12">
+			Overall(1) :(2) $23,000(3) for(4) a(5) V6(6) with(7) all(8) the(9) bells(10) and(11) whistles(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			We(1) were(2) not(3) expecting(4) too(5) much(6) ,(7) but(8) did(9) not(10) even(11) up(12) to(13) our(14) low(15) expectation(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) not(3) a(4) safe(5) car(6) .(7) 
+			<opinion polarity="-" feature="safety" opWords="3,5"/>
+		</sentence>
+		<sentence id="15">
+			My(1) significant(2) other(3) refuse(4) to(5) drive(6) it(7) after(8) 1(9) month(10) ,(11) and(12) she(13) the(14) one(15) pressing(16) for(17) an(18) Accord(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) now(3) mine(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) EX-V(16) 6(17) 
+		</sentence>
+	</text>
+</review>

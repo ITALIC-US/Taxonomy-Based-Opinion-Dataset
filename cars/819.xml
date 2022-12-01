@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="819" item="2005 Chevrolet Equinox" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) NIGHTMARE_OF_A_SUV(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) and(2) classy(3) looking(4) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+			<opinion polarity="+" feature="design" opWords="1,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) mileage(2) ,(3) starting(4) problems(5) and(6) always(7) in(8) the(9) shop(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) think(2) the(3) nicest(4) thing(5) on(6) the(7) Chevy_Equinox(8) is(9) the(10) looks(11) on(12) the(13) outside(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Its(1) a(2) sharp(3) looking(4) vehicle(5) .(6) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) owned(3) my(4) Equinox(5) for(6) 8(7) months(8) and(9) its(10) been(11) a(12) nightmare(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) get(2) 12(3) MPG(4) ,(5) thats(6) not(7) what(8) the(9) sticker(10) says(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) had(3) it(4) in(5) the(6) shop(7) about(8) 5_times(9) for(10) all(11) different(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			They(1) already(2) had(3) to(4) replace(5) some(6) parts(7) on(8) the(9) coolant(10) system(11) ,(12) I(13) have(14) problems(15) with(16) it(17) starting(18) ,(19) the(20) door(21) alarm(22) will(23) not(24) stop(25) dinging(26) ,(27) the(28) windshield(29) had(30) a(31) leak(32) in(33) it(34) ,(35) it(36) just(37) goes(38) on(39) and(40) on(41) .(42) 
+		</sentence>
+		<sentence id="7">
+			Bottom(1) line(2) is(3) the(4) gas(5) mileage(6) !(7) !(8) !(9) 12mpg(10) is(11) a(12) big(13) difference(14) compared(15) to(16) the(17) sticker(18) of(19) between(20) 19(21) to(22) 22(23) city(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) contacted(3) GM(4) and(5) really(6) got(7) nowhere(8) with(9) that(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			So(1) now(2) I(3) have(4) the(5) Attorney_General(6) involved(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			I(1) hope(2) this(3) gets(4) me(5) somewhere(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Overall_I(1) would(2) never(3) recommend(4) anyone(5) to(6) buy(7) this(8) vehicle(9) unless(10) they(11) do(12) not(13) mind(14) spending(15) a_lot_of(16) time(17) at(18) the(19) gas(20) pump(21) or(22) bringing(23) the(24) Equinox(25) to(26) the(27) shop(28) all(29) the(30) time(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) 2005(16) Chevy_Equinox_LS(17) 
+		</sentence>
+	</text>
+</review>

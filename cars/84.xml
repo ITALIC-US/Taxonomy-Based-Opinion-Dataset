@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="84" item="2003 Volvo S40" rating="5">
+	<title>
+		<sentence id="1">
+			Little-known(1) alternative(2) to(3) the(4) Accord(5) /(6) Camry(7) /(8) Maxima(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Peppy(1) and(2) safe(3) ,(4) it(5) sips(6) ,(7) not(8) guzzles(9) 
+			<opinion polarity="+" feature="safety" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bit(1) crowded(2) for(3) anyone(4) over(5) 6_feet(6) tall(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) will(2) not(3) regret(4) it(5) --(6) take(7) a(8) lengthy(9) test(10) drive(11) in(12) various(13) city(14) /(15) country(16) areas(17) and(18) see(19) what(20) I(21) mean(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) saucy(2) little(3) 4(4) cylinder(5) ((6) 1.9(7) liter(8) )(9) is(10) turbocharged(11) ,(12) producing(13) unexpected(14) power(15) and(16) mileage(17) ((18) so(19) far(20) )(21) in(22) excess(23) of(24) 28(25) mpg(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			With(1) front(2) wheel(3) drive(4) ,(5) there(6) 's(7) just(8) a_bit(9) of(10) that(11) out-of-control(12) feeling(13) if(14) you(15) accelerate(16) during(17) a(18) turn(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Rack(1) &(2) pinion(3) ,(4) the(5) renowned(6) steel(7) cage(8) design(9) ,(10) dash(11) air(12) bags(13) and(14) side(15) curtain(16) bags(17) keep(18) up(19) the(20) Volvo(21) reputation(22) for(23) safety(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			Nearly(1) as(2) large(3) as(4) it(5) 's(6) nearest(7) sister(8) vehicle(9) the(10) S60(11) ,(12) it(13) has(14) fold-down(15) rear(16) and(17) passenger(18) seats(19) that(20) pass(21) through(22) to(23) the(24) adequate(25) trunk(26) for(27) ski(28) trips(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) seating(2) is(3) phenomenally(4) comfortable(5) ,(6) with(7) adjustable(8) lumbar(9) positions(10) .(11) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			All(1) this(2) for(3) under(4) $24K(5) --(6) wow(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			I(1) could(2) not(3) be(4) happier(5) with(6) it(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,890(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) 1.9(16) L(17) turbo(18) 4(19) speed(20) automatic(21) 
+		</sentence>
+	</text>
+</review>

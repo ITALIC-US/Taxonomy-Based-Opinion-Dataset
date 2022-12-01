@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="100" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Outstanding(1) set(2) of(3) cans(4) !(5) 
+			<opinion polarity="+" feature="earcups" featWords="4" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) bass(2) ,(3) mids(4) ,(5) and(6) highs(7) .(8) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="mids" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="highs" featWords="7" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Long(1) coil(2) cord(3) .(4) 
+			<opinion polarity="+" feature="cord" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Tough(1) construction(2) .(3) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Comfy(1) .(2) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) yet(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Wish(1) the(2) base(3) hit(4) a(5) little(6) lower(7) bass(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) got(3) my(4) 280(5) pro(6) cans(7) today(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) blasted(2) them(3) in(4) with(5) some(6) reggae(7) ,(8) rock(9) ,(10) and(11) rap(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			They(1) stood(2) up(3) to(4) the(5) test(6) .(7) 
+		</sentence>
+	</text>
+</review>

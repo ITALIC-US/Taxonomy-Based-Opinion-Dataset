@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="339" item="Holiday Inn MANHATTAN-DOWNTOWN/SOHO" rating="1">
+	<title>
+		<sentence id="1">
+			Good(1) night(2) sleep(3) over(4) a(5) subway(6) ?(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			1/2(1) block(2) from(3) subway(4) entrance(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) rooms(2) .(3) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Good(1) room(2) service(3) .(4) 
+			<opinion polarity="+" feature="room service" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Chinatown(1) stores(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			1/2(1) block(2) from(3) subway(4) entrance(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) you(2) do(3) not(4) mind(5) being(6) awakened(7) throughout(8) the(9) night(10) because(11) the(12) hotel(13) is(14) above(15) the(16) subway(17) ,(18) they(19) this(20) is(21) a(22) nice(23) hotel(24) .(25) 
+			<opinion polarity="+" feature="hotel" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="2">
+			But(1) considering(2) I(3) was(4) on(5) the(6) eighth(7) floor(8) and(9) awoken(10) a(11) minimum(12) of(13) 5_times(14) a(15) night(16) by(17) either(18) the(19) noise(20) or(21) the(22) vibration(23) ,(24) I(25) would(26) not(27) recommend(28) this(29) hotel(30) .(31) 
+			<opinion polarity="-" feature="hotel" featWords="30" opWords="27,28"/>
+		</sentence>
+		<sentence id="3">
+			While(1) the(2) price(3) was(4) not(5) bad(6) considering(7) it(8) was(9) in(10) lower(11) Manhattan(12) ,(13) the(14) room(15) was(16) pretty(17) nice(18) and(19) room(20) service(21) not(22) bad(23) ,(24) there(25) still(26) is(27) that(28) pesky(29) subway(30) .(31) 
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="18" potency="17"/>
+			<opinion polarity="+" feature="service" featWords="21" opWords="22,23"/>
+		</sentence>
+		<sentence id="4">
+			A_lot_of(1) cool(2) Chinatown(3) stores(4) ;(5) especial(6) Kam_Man(7) which(8) has(9) lots(10) of(11) different(12) dishes(13) and(14) such(15) downstairs(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Near(1) Starbucks(2) ,(3) though(4) ,(5) where(6) are(7) not(8) you(9) near(10) Starbucks(11) in(12) Lower_Manhattan(13) ?(14) 
+		</sentence>
+		<sentence id="6">
+			Feel(1) the(2) vibrations(3) and(4) hear(5) the(6) subway(7) trains(8) as(9) they(10) pass(11) underneath(12) .(13) 
+		</sentence>
+	</text>
+</review>

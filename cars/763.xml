@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="763" item="2000 Chrysler Town & Country" rating="1">
+	<title>
+		<sentence id="1">
+			What(1) a(2) Lemon(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Dead(1) at(2) 67k_miles(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) engine(2) problems(3) ,(4) dead(5) engine(6) at(7) only(8) 67k_miles(9) !(10) 
+			<opinion polarity="-" feature="engine" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) never(3) buy(4) another(5) Chrysler(6) vehicle(7) again(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) quality(2) of(3) this(4) vehicle(5) was(6) not(7) even(8) remotely(9) competitive(10) with(11) what(12) other(13) car(14) manufacturers(15) offer(16) .(17) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="7,10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Dead(1) at(2) 67k_miles(3) !(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Holy(1) cow(2) have(3) I(4) had(5) problems(6) with(7) this(8) vehicle(9) !(10) 
+		</sentence>
+		<sentence id="3">
+			Just(1) got(2) an(3) estimate(4) for(5) $6,300(6) for(7) the(8) dealer(9) to(10) replace(11) the(12) the(13) engine(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) rods(2) are(3) bent(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			I(1) asked(2) the(3) dealer(4) how(5) that(6) could(7) happen(8) ,(9) and(10) he(11) said(12) it(13) must(14) have(15) overheated(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) never(3) seen(4) the(5) temperature(6) gauge(7) over(8) the(9) mid-point(10) ,(11) and(12) was(13) always(14) well(15) within(16) the(17) safe(18) range(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			This(1) vehicle(2) has(3) been(4) dealer(5) kept(6) since(7) new(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) had(3) stuck(4) power(5) windows(6) ,(7) electrical(8) problems(9) ,(10) a(11) few(12) engine(13) repairs(14) over(15) $500(16) ,(17) brake(18) problems(19) -(20) more(21) than(22) I(23) can(24) remember(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			I(1) 'm(2) at(3) a(4) loss(5) how(6) this(7) thing(8) turned(9) out(10) to(11) be(12) such(13) an(14) expensive(15) lemon(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="15"/>
+		</sentence>
+		<sentence id="10">
+			I(1) spoke(2) to(3) Chrysler(4) about(5) it(6) ,(7) and(8) they(9) said(10) I(11) was(12) on(13) my(14) own(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Well(1) ,(2) it(3) 's(4) too(5) much(6) to(7) expect(8) for(9) them(10) to(11) assist(12) with(13) a(14) vehicle(15) outside_of(16) warranty(17) -(18) even_though(19) 67k(20) would(21) be(22) considered(23) new(24) if(25) it(26) were(27) a(28) Japanese(29) car(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			There(1) must(2) have(3) been(4) a(5) reason(6) why(7) they(8) repealed(9) the(10) 7(11) year/70,000_mile(12) drivetrain(13) warranty(14) program(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) fact(2) that(3) they(4) offer(5) only(6) 3(7) year/36,000_miles(8) speaks(9) loud(10) and(11) clear(12) about(13) what(14) you(15) should(16) expect(17) from(18) a(19) Chrysler(20) vehicle(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			I(1) 've(2) made(3) my(4) last(5) mistake(6) with(7) this(8) brand(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			I(1) will(2) never(3) buy(4) another(5) Chrysler(6) product(7) again(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 31,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) LXi(16) ,(17) all(18) whel(19) drive(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="336" item="Coby (CVH42CIR) Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) the(2) brightest(3) but(4) definitely(5) the(6) cheapest(7) 
+			<opinion polarity="-" feature="headphones" opWords="1,3"/>
+			<opinion polarity="+" feature="price" opWords="7" potency="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Plently(1) of(2) bass(3) ,(4) are(5) very(6) comfortable(7) ,(8) and(9) cost(10) $(11) 5(12) !(13) 
+			<opinion polarity="+" feature="bass" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="7" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mids(1) and(2) highs(3) are(4) not(5) too(6) good(7) .(8) 
+			<opinion polarity="-" feature="mids" featWords="1" opWords="5,6,7"/>
+			<opinion polarity="-" feature="highs" featWords="3" opWords="5,6,7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) got(2) these(3) with(4) my(5) MP3-CD(6) player(7) by(8) Coby(9) ((10) which(11) was(12) awful(13) )(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			These(1) headphones(2) are(3) okay(4) .(5) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) had(3) better(4) and(5) worse(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			The(1) bass(2) is(3) very(4) good(5) ,(6) but(7) the(8) mids(9) and(10) highs(11) are(12) pretty(13) cheap(14) .(15) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="-" feature="mids" featWords="9" opWords="14" potency="13"/>
+			<opinion polarity="-" feature="highs" featWords="11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="5">
+			These(1) are(2) best(3) for(4) a(5) computer(6) ,(7) TV(8) ,(9) or(10) something(11) with(12) an(13) equalizer(14) to(15) balance(16) the(17) mids(18) and(19) treble(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) have(3) an(4) iPod(5) you(6) 'll(7) want(8) these(9) on(10) treble(11) booster(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Otherwise(1) they(2) are(3) very(4) comfortable(5) and(6) last(7) longer(8) than(9) I(10) thought(11) they(12) would(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+	</text>
+</review>

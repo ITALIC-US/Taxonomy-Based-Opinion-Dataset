@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="777" item="2001 Volkswagen Jetta TDI" rating="1">
+	<title>
+		<sentence id="1">
+			Never(1) Buy_a_Volkswagen(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Car(1) is(2) cute(3) and(4) feels(5) like(6) it(7) would(8) perform(9) well(10) in(11) a(12) serious(13) crash(14) .(15) 
+			<opinion polarity="+" feature="performance" opWords="9,10"/>
+			<opinion polarity="+" feature="car" featWords="1" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) car(2) is(3) a(4) service(5) &(6) maintenance(7) NIGHTMARE(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Since(1) purchasing(2) my(3) Jetta(4) brand(5) new(6) in_2001(7) ,(8) my(9) car(10) has(11) been(12) in(13) the(14) shop(15) at_least(16) four_times(17) per(18) year(19) ,(20) and(21) each(22) visit(23) included(24) unscheduled(25) as_well(26) as(27) scheduled(28) maintenance(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			My(1) transmission(2) was(3) first(4) replaced(5) at(6) 4200_miles(7) and(8) now(9) needs(10) to(11) be(12) replaced(13) again(14) ,(15) my(16) brakes(17) have(18) locked(19) up(20) on(21) the(22) freeway(23) ,(24) different(25) sensors(26) have(27) malfunctioned(28) several(29) times(30) ((31) seemingly(32) minor(33) problems(34) ,(35) but(36) they(37) rendered(38) the(39) car(40) inoperable(41) ,(42) forcing(43) me(44) to(45) tow(46) it(47) in(48) !(49) !(50) !(51) )(52) ,(53) and(54) the(55) build(56) quality(57) of(58) the(59) car(60) is(61) poor(62) ,(63) as(64) many(65) interior(66) as_well(67) as(68) mechanical(69) pieces(70) have(71) broken(72) apart(73) or(74) failed(75) on(76) me(77) in(78) the(79) past(80) three(81) years(82) .(83) 
+			<opinion polarity="-" feature="car" featWords="60" opWords="62"/>
+		</sentence>
+		<sentence id="3">
+			In_addition(1) ,(2) the(3) $1500(4) extended(5) warranty(6) that(7) was(8) sold(9) to(10) me(11) with(12) the(13) car(14) is(15) no_longer(16) accepted(17) at(18) any(19) Volkswagen(20) dealer(21) other(22) than(23) the(24) one(25) I(26) purchased(27) it(28) at(29) ,(30) making(31) maintenance(32) a(33) laborious(34) and(35) expensive(36) process(37) .(38) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) not(3) wish(4) this(5) car(6) on(7) my(8) worst(9) enemy(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GLS(16) 2.0(17) 
+		</sentence>
+	</text>
+</review>

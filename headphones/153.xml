@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="153" item="AKG K 66 Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) sound(2) but(3) ...(4) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clear(1) sound(2) with(3) punchy(4) bass(5) and(6) pleasing(7) highs(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="highs" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) comfortable(2) for(3) extended(4) periods(5) of(6) time(7) .(8) 
+			<opinion polarity="-" feature="comfort" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) a(4) pair(5) of(6) these(7) for(8) years(9) now(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) no(3) audiophile(4) ,(5) but(6) I(7) 'm(8) rather(9) demanding(10) when(11) it(12) comes(13) to(14) my(15) headphones(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			These(1) offer(2) good(3) sound(4) .(5) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			They(1) 're(2) clear(3) and(4) punchy(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			Very(1) good(2) for(3) the(4) price(5) .(6) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) expect(3) high(4) end(5) sound(6) from(7) a(8) $40(9) pair(10) of(11) headphones(12) ,(13) though(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			However(1) they(2) do(3) their(4) job(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="8">
+			My(1) problem(2) with(3) them(4) is(5) comfort(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			The(1) rubbery(2) ear(3) pads(4) are(5) soft(6) ,(7) but(8) they(9) also(10) get(11) very(12) hot(13) after(14) a(15) while(16) .(17) 
+			<opinion polarity="+" feature="earpads" featWords="3,4" opWords="6"/>
+			<opinion polarity="-" feature="headphones" featWords="9" featRef="headphones" opWords="11,13" potency="12"/>
+		</sentence>
+		<sentence id="10">
+			Also(1) there(2) 's(3) no(4) way(5) to(6) adjust(7) how(8) hard(9) they(10) push(11) against(12) your(13) ears(14) ,(15) so(16) they(17) 're(18) not(19) very(20) comfortable(21) for(22) extended(23) periods(24) of(25) time(26) .(27) 
+			<opinion polarity="-" feature="comfort" opWords="19,21" potency="22"/>
+		</sentence>
+	</text>
+</review>

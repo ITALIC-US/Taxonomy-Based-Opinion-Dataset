@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="460" item="2001 Hyundai Tiburon" rating="4">
+	<title>
+		<sentence id="1">
+			Buying(1) a(2) used(3) Tiburon(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) great(3) style(4) ,(5) lots(6) of(7) features(8) ,(9) nice(10) handling(11) 
+			<opinion polarity="+" feature="handling" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="design" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Be(1) prepared(2) to(3) pay(4) for(5) a(6) major(7) service(8) ,(9) paint(10) job(11) ,(12) vibration(13) ,(14) poor(15) visibility(16) 
+			<opinion polarity="-" feature="visibility" featWords="16" opWords="15"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Knowing(1) all(2) the(3) cons(4) I(5) would(6) still(7) buy(8) this(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			For(1) this(2) price(3) ,(4) if(5) you(6) want(7) something(8) reliable(9) but(10) ugly(11) get(12) an(13) old(14) Camry(15) instead(16) .(17) 
+			<opinion polarity="-" feature="design" opWords="11"/>
+			<opinion polarity="+" feature="reliability" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) recently(2) needed(3) to(4) buy(5) a(6) replacement(7) for(8) our(9) written(10) off(11) Saturn(12) and(13) we(14) only(15) have(16) a(17) budget(18) around(19) $7000-$8000(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) 've(2) just(3) moved(4) to(5) the(6) US(7) so(8) we(9) are(10) not(11) too(12) keen(13) on(14) car(15) financing(16) ((17) lack(18) of(19) credit(20) history(21) hence(22) big(23) interests(24) )(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			We(1) both(2) like(3) cars(4) with(5) a(6) sporty(7) outlook(8) but(9) not(10) necessarily(11) plan(12) to(13) race(14) around(15) the(16) road(17) ((18) just(19) to(20) get(21) us(22) from(23) A(24) to(25) B(26) )(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			With(1) this(2) budget(3) and(4) our(5) taste(6) we(7) 've(8) narrowed(9) down(10) to(11) three(12) choices(13) :(14) Tiburon(15) ,(16) Eclipse(17) and(18) Mustang(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			We(1) could(2) not(3) afford(4) the(5) Mustang(6) and(7) the(8) eclipse(9) at(10) the(11) end(12) and(13) I(14) am(15) not(16) too(17) keen(18) on(19) the(20) look(21) of(22) the(23) Mustang(24) and(25) I(26) was(27) not(28) impressed(29) with(30) the(31) interior(32) of(33) the(34) eclipse(35) that(36) I(37) saw(38) ((39) sorry(40) folks(41) who(42) like(43) the(44) performance(45) of(46) these(47) cars(48) )(49) .(50) 
+		</sentence>
+		<sentence id="6">
+			I(1) read(2) that(3) the(4) 2001(5) model(6) Eclipse(7) has(8) lots(9) of(10) recalls(11) and(12) issues(13) and(14) we(15) also(16) like(17) Tiburon(18) for(19) its(20) fuel(21) consumption(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			The(1) Tiburon(2) that(3) we(4) bought(5) has(6) a(7) sunroof(8) ,(9) leather(10) bucket(11) chairs(12) ,(13) ABS(14) brakes(15) ,(16) manual(17) ,(18) 2.0L(19) ,(20) power(21) windows(22) ,(23) cruise(24) control(25) ,(26) etc(27) ,(28) bought(29) total(30) including(31) tax(32) for(33) $8428(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) fax(3) shows(4) 2(5) owners(6) ((7) personal(8) use(9) )(10) with(11) no(12) bad(13) history(14) on(15) the(16) car(17) ((18) I(19) do(20) not(21) know(22) how(23) much(24) you(25) can(26) rely(27) on(28) carfax(29) though(30) )(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			My(1) husband(2) just(3) instantly(4) fell(5) in(6) love(7) with(8) it(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			We(1) took(2) it(3) home(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			Before(1) purchasing(2) ,(3) I(4) 've(5) spent(6) hours(7) on(8) the(9) Internet(10) researching(11) people(12) 's(13) experience(14) on(15) the(16) Tiburon(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Most(1) reviews(2) are(3) on(4) newly(5) purchased(6) ones(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			Although(1) ,(2) I(3) find(4) many(5) of(6) the(7) comments(8) apply(9) to(10) our(11) Tiburon(12) as(13) described(14) here(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) first(2) impression(3) sitting(4) in(5) the(6) car(7) for(8) me(9) was(10) that(11) it(12) felt(13) low(14) and(15) cramped(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="16"/>
+		</sentence>
+		<sentence id="15">
+			I(1) am(2) used(3) to(4) my(5) big(6) Sonata(7) and(8) not(9) so(10) used(11) to(12) drive(13) manual(14) again(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) driving(3) it(4) ,(5) we(6) are(7) happy(8) with(9) the(10) handling(11) of(12) the(13) road(14) and(15) acceleration(16) .(17) 
+			<opinion polarity="+" feature="acceleration" featWords="16" opWords="8"/>
+			<opinion polarity="+" feature="handling" featWords="11" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			We(1) tried(2) the(3) 2003(4) model(5) ,(6) I(7) felt(8) it(9) was(10) too(11) fast(12) for(13) my(14) conservative(15) driving(16) .(17) 
+			<opinion polarity="-" feature="speed" opWords="11,12"/>
+		</sentence>
+		<sentence id="18">
+			This(1) tibby(2) has(3) no(4) trouble(5) with(6) hills(7) ((8) like(9) our(10) Saturn(11) used(12) to(13) )(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			The(1) suspension(2) of(3) the(4) Tiburon(5) feels(6) rough(7) and(8) we(9) could(10) certainly(11) feel(12) all(13) the(14) bumps(15) on(16) the(17) road(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			The(1) turning(2) angle(3) is(4) a(5) not(6) so(7) great(8) .(9) 
+			<opinion polarity="-" feature="turning radius" featWords="2,3" opWords="6,8" potency="7"/>
+		</sentence>
+		<sentence id="21">
+			I(1) am(2) not(3) an(4) excellent(5) parker(6) ,(7) so(8) I(9) miss(10) my(11) Sonata(12) for(13) this(14) reason(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			Our(1) car(2) sometimes(3) vibrates(4) around(5) higher(6) gears(7) and(8) occasionally(9) it(10) needs(11) extra(12) attention(13) to(14) move(15) in(16) lower(17) gears(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			The(1) paint(2) work(3) is(4) not(5) the(6) best(7) ,(8) some(9) areas(10) look(11) thin(12) and(13) the(14) front(15) bumper(16) slightly(17) discolored(18) differently(19) than(20) the(21) body(22) ((23) being(24) plastic(25) )(26) .(27) 
+			<opinion polarity="-" feature="color" featWords="2,3" opWords="5,7"/>
+		</sentence>
+		<sentence id="24">
+			Our(1) car(2) is(3) white(4) .(5) 
+		</sentence>
+		<sentence id="25">
+			I(1) read(2) that(3) the(4) metallic(5) ones(6) are(7) better(8) .(9) 
+		</sentence>
+		<sentence id="26">
+			Sometimes(1) ,(2) the(3) hatch(4) needs(5) a(6) firm(7) push(8) to(9) close(10) the(11) trunk(12) ,(13) which(14) reminds(15) us(16) of(17) our(18) old(19) Sonata(20) 2001(21) which(22) we(23) like(24) too(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			I(1) like(2) the(3) sound(4) system(5) ,(6) nice(7) and(8) loud(9) ,(10) although(11) one(12) of(13) the(14) button(15) of(16) the(17) CD(18) player(19) does(20) not(21) work(22) .(23) 
+			<opinion polarity="+" feature="sound system" featWords="4,5" opWords="9"/>
+			<opinion polarity="+" feature="sound system" featWords="4,5" opWords="7"/>
+		</sentence>
+		<sentence id="28">
+			The(1) light(2) beam(3) is(4) nice(5) and(6) bright(7) ((8) one(9) of(10) the(11) fog(12) light(13) and(14) marker(15) light(16) bulbs(17) needed(18) replacing(19) )(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			One(1) thing(2) with(3) this(4) car(5) is(6) visibility(7) ,(8) it(9) 's(10) really(11) hard(12) to(13) see(14) over(15) the(16) shoulder(17) to(18) check(19) the(20) blind(21) spot(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			I(1) love(2) the(3) leather(4) bucket(5) chairs(6) and(7) the(8) sunroof(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			Feel(1) such(2) a(3) luxury(4) for(5) a(6) car(7) this(8) price(9) ((10) never(11) own(12) a(13) car(14) with(15) these(16) features(17) before(18) )(19) .(20) 
+		</sentence>
+		<sentence id="32">
+			Being(1) second(2) hand(3) ,(4) there(5) are(6) lots(7) of(8) scratches(9) which(10) I(11) am(12) planning(13) to(14) fix(15) today(16) with(17) some(18) touch(19) up(20) paints(21) .(22) 
+		</sentence>
+		<sentence id="33">
+			The(1) passenger(2) door(3) feels(4) less(5) solid(6) from(7) the(8) sound(9) when(10) we(11) close(12) it(13) compared(14) to(15) the(16) driver(17) side(18) but(19) using(20) a(21) magnet(22) all(23) panels(24) seem(25) metal(26) ((27) no(28) patching(29) from(30) accidents(31) )(32) .(33) 
+		</sentence>
+		<sentence id="34">
+			We(1) also(2) checked(3) the(4) suspension(5) by(6) testing(7) how(8) the(9) car(10) bounced(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			There(1) are(2) some(3) websites(4) that(5) describes(6) all(7) these(8) kind(9) of(10) tests(11) ,(12) but(13) most(14) of(15) all(16) we(17) paid(18) attention(19) on(20) how(21) much(22) power(23) the(24) car(25) has(26) and(27) how(28) it(29) responded(30) at(31) different(32) gear(33) ((34) our(35) old(36) Sonata(37) had(38) an(39) issue(40) of(41) less(42) power(43) at(44) high(45) gear(46) and(47) after(48) we(49) bought(50) it(51) we(52) had(53) to(54) get(55) it(56) fixed(57) )(58) .(59) 
+		</sentence>
+		<sentence id="36">
+			For(1) this(2) reason(3) we(4) chose(5) a(6) manual(7) transmission(8) ((9) our(10) Sonata(11) is(12) automatic(13) )(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			We(1) bought(2) the(3) car(4) from(5) a(6) small(7) dealer(8) .(9) 
+		</sentence>
+		<sentence id="38">
+			We(1) took(2) into(3) account(4) some(5) extra(6) cost(7) that(8) may(9) be(10) required(11) after(12) the(13) purchase(14) for(15) future(16) repairs(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			Our(1) Tiburon(2) has(3) more(4) than(5) 65K(6) on(7) it(8) so(9) if(10) we(11) were(12) to(13) take(14) this(15) to(16) a(17) Hyundai(18) dealer(19) ,(20) they(21) quoted(22) us(23) around(24) $800(25) for(26) a(27) major(28) service(29) .(30) 
+		</sentence>
+		<sentence id="40">
+			We(1) might(2) check(3) other(4) certified(5) mechanics(6) .(7) 
+		</sentence>
+		<sentence id="41">
+			We(1) are(2) very(3) happy(4) with(5) our(6) old(7) Sonata(8) .(9) 
+		</sentence>
+		<sentence id="42">
+			The(1) two(2) years(3) we(4) had(5) it(6) ((7) bought(8) second(9) hand(10) 2001(11) model(12) )(13) ,(14) it(15) never(16) had(17) any(18) problems(19) apart_from(20) the(21) initial(22) repair(23) at(24) the(25) dealer(26) .(27) 
+		</sentence>
+		<sentence id="43">
+			Resale(1) value(2) ?(3) 
+		</sentence>
+		<sentence id="44">
+			Well(1) since(2) we(3) are(4) not(5) buying(6) new(7) with(8) this(9) initial(10) low(11) price(12) ,(13) we(14) are(15) not(16) so(17) concern(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="45">
+			Hopefully(1) this(2) Tibby(3) has(4) been(5) driven(6) enough(7) that(8) it(9) 's(10) not(11) a(12) lemon(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			Time(1) will(2) tell(3) .(4) 
+		</sentence>
+		<sentence id="47">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7428(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Manual(16) 
+		</sentence>
+	</text>
+</review>

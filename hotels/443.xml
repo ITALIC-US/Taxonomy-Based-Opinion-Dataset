@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="443" item="Radisson Cincinnati Riverfront" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) view(2) ,(3) average(4) food(5) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="food" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Retro(1) revolving-restaurant(2) concept(3) ,(4) excellent(5) panoramic(6) views(7) of(8) Kentucky(9) and(10) Ohio(11) 
+			<opinion polarity="+" feature="view" featWords="7" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) better(2) than(3) average(4) quality(5) food(6) ,(7) food(8) not(9) hot(10) ,(11) menu(12) selections(13) not(14) particularly(15) '(16) unique(17) '(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Would(1) easily(2) get(3) an(4) '(5) above(6) average(7) '(8) if(9) the(10) food(11) quality(12) was(13) improved(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Restaurant(1) has(2) a_lot_of(3) potential(4) and(5) is(6) a(7) unique(8) concept(9) ,(10) but(11) food(12) was(13) only(14) average(15) --(16) at(17) best(18) .(19) 
+			<opinion polarity="-" feature="food" featWords="12" opWords="15" potency="14"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) mixed-reviews(3) about(4) the(5) Radisson_Riverview_Restaurant(6) ,(7) but(8) wanting(9) to(10) go(11) ever(12) since(13) I(14) drove(15) by(16) the(17) place(18) months(19) ago(20) ,(21) I(22) recently(23) dined(24) there(25) on(26) the(27) evening(28) of(29) 2/14(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			Service(1) on(2) Valentine_'s_Day(3) evening(4) around(5) 8:30(6) pm(7) was(8) '(9) fair(10) .(11) '(12) Upon(13) taking(14) the(15) elevator(16) to(17) the(18) restaurant(19) on(20) the(21) 18th(22) floor(23) ,(24) the(25) hostess(26) was(27) non-existant(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			After(1) waiting(2) a(3) few(4) minutes(5) ,(6) one(7) appeared(8) ,(9) but(10) seemed(11) less-than-excited(12) to(13) be(14) there(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) then(3) taken(4) to(5) a(6) table(7) without(8) being(9) asked(10) for(11) our(12) name(13) ((14) despite(15) having(16) made(17) reservations(18) )(19) and(20) were(21) surprised(22) to(23) see(24) that(25) the(26) restaurant(27) was(28) relatively(29) deserted(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			The(1) Radisson_Riverview_Restaurant(2) is(3) a(4) revolving(5) restaurant(6) ,(7) which(8) takes(9) a(10) little(11) getting(12) used-to(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Although(1) the(2) speed(3) is(4) slow(5) ((6) approximately(7) 1(8) revolution(9) per(10) hour(11) )(12) ,(13) staring(14) at(15) the(16) window(17) panes(18) made(19) me(20) somewhat(21) dizzy(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			After(1) taking(2) a(3) few(4) minutes(5) getting(6) used(7) to(8) it(9) ,(10) however(11) ,(12) it(13) became(14) totally(15) comfortable(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Our(1) waiter(2) arrived(3) soon(4) after(5) we(6) were(7) seated(8) to(9) take(10) drink(11) orders(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			He(1) was(2) generally(3) pleasant(4) and(5) professional(6) ,(7) but(8) again(9) ,(10) no(11) one(12) seemed(13) overly-enthusiastic(14) ,(15) let(16) alone(17) --(18) enthusiastic(19) about(20) being(21) there(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			I(1) ordered(2) an(3) iced(4) tea(5) ,(6) my(7) companion(8) ordered(9) a(10) vodka(11) martini(12) .(13) ((14) and(15) was(16) asked(17) if(18) she(19) wanted(20) it(21) over(22) ice(23) or(24) straight-up(25) )(26) The(27) menu(28) had(29) a(30) fair(31) selection(32) of(33) appetizers(34) ,(35) seafood(36) ,(37) and(38) steak(39) items(40) .(41) 
+		</sentence>
+		<sentence id="11">
+			We(1) passed(2) on(3) the(4) appetizers(5) so(6) we(7) 'd(8) have(9) room(10) for(11) dessert(12) ,(13) but(14) were(15) pleased(16) to(17) see(18) that(19) a(20) bowl(21) of(22) bread(23) was(24) brought(25) to(26) the(27) table(28) to(29) snack(30) on(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			I(1) ordered(2) a(3) salmon(4) dish(5) with(6) a(7) baked(8) potato(9) ,(10) and(11) seasonal(12) mixed(13) vegetables(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			My(1) companion(2) ordered(3) the(4) prime(5) rib(6) with(7) garlic(8) mashed(9) potatoes(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			While(1) I(2) did(3) not(4) mind(5) waiting(6) ((7) because(8) the(9) view(10) out(11) of(12) the(13) windows(14) was(15) awesome(16) )(17) ,(18) it(19) took(20) somewhere(21) between(22) 40-45(23) minutes(24) for(25) our(26) food(27) to(28) arrive(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			My(1) dinner(2) selection(3) looked(4) very(5) nice(6) but(7) was(8) not(9) any(10) hotter(11) than(12) '(13) warm(14) .(15) '(16) The(17) '(18) seasonal(19) mixed(20) vegetables(21) '(22) were(23) cool(24) and(25) tasted(26) like(27) nothing(28) more(29) than(30) frozen(31) '(32) seasonal(33) '(34) vegetables(35) from(36) a(37) large(38) food(39) service(40) distributor(41) like(42) Sysco(43) .(44) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="16">
+			One(1) thing(2) I(3) found(4) odd(5) was(6) that(7) the(8) baked(9) potato(10) was(11) not(12) cut(13) open(14) --(15) it(16) was(17) just(18) sitting(19) on(20) the(21) plate(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			The(1) salmon(2) was(3) excellent(4) --(5) but(6) in(7) a(8) somewhat-tasteless(9) white(10) sauce(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			The(1) baked(2) potato(3) tasted(4) like(5) it(6) had(7) been(8) made(9) very(10) early(11) in(12) the(13) day(14) or(15) possibly(16) even(17) the(18) day(19) before(20) --(21) and(22) reheated(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			My(1) companion(2) did(3) not(4) have(5) much(6) more(7) luck(8) either(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			She(1) commented(2) that(3) her(4) meat(5) was(6) '(7) gristly(8) '(9) and(10) that(11) it(12) tasted(13) like(14) something(15) she(16) made(17) at(18) home(19) ((20) or(21) could(22) make(23) better(24) )(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			For(1) what(2) it(3) 's(4) worth(5) --(6) the(7) garlic(8) mashed(9) potatoes(10) were(11) '(12) excellent(13) ,(14) '(15) however(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			Actually(1) --(2) between(3) the(4) time(5) we(6) ordered(7) and(8) the(9) time(10) we(11) were(12) served(13) ,(14) there(15) was(16) a(17) gentleman(18) from(19) a(20) couple(21) across(22) from(23) us(24) who(25) complained(26) to(27) the(28) waiter(29) that(30) his(31) food(32) was(33) cold(34) --(35) so(36) ,(37) the(38) '(39) cold(40) food(41) '(42) problem(43) was(44) not(45) an(46) isolated(47) incident(48) .(49) 
+		</sentence>
+		<sentence id="23">
+			In(1) the(2) restaurant(3) 's(4) defense(5) ,(6) our(7) waiter(8) regularly(9) checked-on(10) us(11) and(12) provided(13) refills(14) to(15) our(16) water(17) glasses(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			The(1) view(2) of(3) Cincinnati(4) and(5) of(6) Northern_Kentucky(7) was(8) breathtaking(9) --(10) and(11) the(12) whole(13) concept(14) of(15) eating(16) in(17) a(18) revolving(19) restaurant(20) was(21) fascinating(22) .(23) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="9"/>
+		</sentence>
+		<sentence id="25">
+			We(1) saw(2) a_lot_of(3) buildings(4) we(5) could(6) recognize(7) or(8) had(9) seen(10) before(11) --(12) and(13) quite(14) a(15) few(16) that(17) we(18) 'd(19) never(20) seen(21) too(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			The(1) view(2) stretched(3) across(4) downtown(5) Cincinnati(6) and(7) the(8) Ohio_River(9) --(10) in(11) a(12) clockwise(13) direction(14) ,(15) until(16) heading(17) south(18) and(19) providing(20) an(21) interesting(22) birds-eye(23) view(24) of(25) Kentucky(26) ((27) it(28) was(29) nighttime(30) ,(31) but(32) I(33) 'm(34) assuming(35) we(36) could(37) see(38) at_least(39) as(40) far(41) as(42) Florence(43) and(44) Hebron(45) )(46) .(47) 
+			<opinion polarity="+" feature="view" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="27">
+			The(1) view(2) then(3) swept(4) over(5) I71/75(6) ,(7) back(8) over(9) the(10) Ohio_River(11) ,(12) and(13) back(14) into(15) downtown(16) Cincinnati(17) again(18) .(19) 
+		</sentence>
+		<sentence id="28">
+			We(1) then(2) ordered(3) dessert(4) ,(5) which(6) were(7) basically(8) slim(9) pieces(10) of(11) obvious(12) frozen(13) /(14) foodservice(15) cakes(16) ,(17) but(18) were(19) delicious(20) and(21) just(22) the(23) right(24) size(25) ,(26) nonetheless(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			Our(1) total(2) time(3) there(4) was(5) about(6) 2(7) hours(8) ,(9) which(10) provided(11) a(12) little(13) over(14) 2(15) complete(16) rotations(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			I(1) was(2) very(3) happy(4) that(5) the(6) dinner(7) _(8) did(9) _(10) take(11) that(12) long(13) for(14) that(15) very(16) reason(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			Our(1) total(2) bill(3) for(4) an(5) iced(6) tea(7) ,(8) martini(9) ,(10) 2(11) dinners(12) ,(13) and(14) 2(15) desserts(16) was(17) approximately(18) $59(19) .(20) 
+		</sentence>
+		<sentence id="32">
+			All-in-all(1) ,(2) I(3) 'll(4) have(5) to(6) agree(7) with(8) most(9) reviews(10) that(11) I(12) 've(13) read(14) about(15) the(16) Radisson_Riverview(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			While(1) the(2) restaurant(3) may(4) have(5) been(6) award-winning(7) in(8) its(9) hey(10) day(11) ,(12) it(13) is(14) at(15) best(16) --(17) an(18) average(19) hotel(20) restaurant(21) .(22) 
+		</sentence>
+		<sentence id="34">
+			What(1) it(2) has(3) going(4) for(5) it(6) ,(7) however(8) ,(9) is(10) the(11) fact(12) that(13) it(14) 's(15) a(16) REVOLVING_RESTAURANT(17) ((18) seriously(19) ,(20) how(21) cool(22) is(23) that(24) ?(25) )(26) --(27) and(28) provides(29) awesome(30) views(31) of(32) Ohio(33) and(34) Kentucky(35) from(36) 18(37) stores(38) above(39) the(40) ground(41) .(42) 
+			<opinion polarity="+" feature="view" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="35">
+			If(1) Radisson(2) put(3) a(4) little(5) more(6) care(7) and(8) effort(9) into(10) the(11) food(12) quality(13) and(14) staff(15) --(16) the(17) Radisson_Riverview(18) could(19) be(20) quite(21) the(22) '(23) place(24) to(25) be(26) .(27) '(28) Unfortunately(29) ,(30) the(31) food(32) does(33) not(34) live(35) up(36) to(37) the(38) expectation(39) when(40) dining(41) here(42) .(43) 
+		</sentence>
+		<sentence id="36">
+			The(1) concept(2) and(3) view(4) helped(5) to(6) shrug-off(7) some(8) of(9) the(10) restaurant(11) 's(12) shortcomings(13) ,(14) however(15) .(16) 
+		</sentence>
+	</text>
+</review>

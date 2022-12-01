@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="117" item="1997 Pontiac Trans Sport" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) try(2) GM(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			plenty_of(1) power(2) ,(3) styling(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			awkward(1) seating(2) position(3) ,(4) fiber(5) glass(6) body(7) ,(8) sensible(9) suspension(10) 
+			<opinion polarity="+" feature="suspension" featWords="10" opWords="9"/>
+			<opinion polarity="-" feature="seating position" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Looking(1) for(2) St(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Patricks(1) ride(2) ,(3) Montana(4) has(5) it(6) LOL(7) just(8) kiding(9) Pontiac_Tans(10) port(11) finaly(12) showed(13) big(14) signs(15) of(16) improvements(17) and(18) everyone(19) can(20) enjoy(21) it(22) at(23) a(24) great(25) price(26) .(27) 
+			<opinion polarity="+" feature="price" featWords="26" opWords="25"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			On(1) my(2) hunt(3) for(4) a(5) new(6) van(7) ,(8) as(9) i(10) searched(11) trough(12) the(13) AUTO_MART(14) magazine(15) ,(16) i(17) spoted(18) a(19) nice(20) looking(21) caravan(22) which(23) turned(24) out(25) to(26) be(27) nasty(28) .(29) 
+			<opinion polarity="+" feature="design" opWords="20,21"/>
+		</sentence>
+		<sentence id="2">
+			Later(1) ,(2) i(3) took(4) a(5) look(6) at(7) a(8) green(9) Pontiac(10) ,(11) yep(12) it(13) the(14) new(15) nice(16) looking(17) Tans_Port_Montana(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="16,17"/>
+		</sentence>
+		<sentence id="3">
+			This(1) Montana(2) exterior(3) color(4) was(5) dark(6) green(7) on(8) dark(9) gray(10) two(11) tone(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) interior(2) was(3) the(4) worst(5) part(6) ,(7) while(8) i(9) am(10) inspecting(11) something(12) like(13) gray(14) color(15) ,(16) i(17) get(18) green(19) still(20) it(21) does(22) not(23) really(24) matter(25) ,(26) the(27) dashboard(28) which(29) seems(30) complex(31) but(32) with(33) the(34) light(35) gray(36) buttons(37) ,(38) it(39) does(40) not(41) match(42) the(43) rest(44) .(45) 
+		</sentence>
+		<sentence id="5">
+			Else(1) then(2) colors(3) ,(4) the(5) exterior(6) dimensions(7) are(8) somewhere(9) between(10) 119_inch(11) to(12) 120(13) wheelbase(14) ((15) extended(16) wheelbase(17) )(18) which(19) is(20) a(21) little(22) shorter(23) then(24) my(25) 1996(26) Windstar(27) ,(28) the(29) interior(30) has(31) approximatly(32) the(33) same(34) width(35) but(36) a(37) slightly(38) longer(39) because_of(40) the(41) of(42) the(43) short(44) nosed(45) long(46) cabined(47) platform(48) .(49) 
+		</sentence>
+		<sentence id="6">
+			The(1) trunk(2) space(3) is(4) almost(5) equal(6) when(7) the(8) Windstar(9) 3rd(10) row(11) seat(12) is(13) moved(14) 3_inches(15) forward(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) interior(2) seems(3) to(4) be(5) well(6) made(7) but(8) i(9) am(10) sure(11) the(12) passengers(13) are(14) gonna(15) have(16) a(17) hard(18) time(19) finding(20) a(21) good(22) seating(23) position(24) because_of(25) the(26) extremily(27) low(28) and(29) hard(30) seating(31) surfaces(32) .(33) 
+			<opinion polarity="+" feature="seating position" featWords="23,24" opWords="22"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="6,7"/>
+		</sentence>
+		<sentence id="8">
+			On(1) the(2) road(3) ,(4) this(5) van(6) has(7) the(8) smoothest(9) ride(10) even(11) more(12) improved(13) then(14) the(15) windstar(16) ,(17) the(18) suspension(19) is(20) a(21) too(22) sensible(23) on(24) little(25) potholes(26) ((27) just(28) like(29) every(30) other(31) GM(32) vehicle(33) .(34) This(35) thing(36) can(37) cruise(38) at(39) 80(40) mph(41) ((42) 140_km_/_h(43) )(44) no(45) problem(46) but(47) conversation(48) can(49) be(50) undesirable(51) .(52) 
+			<opinion polarity="-" feature="suspension" featWords="19" opWords="22,23"/>
+			<opinion polarity="+" feature="ride quality" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			Goods(1) :(2) -(3) versatile(4) seats(5) ((6) easy(7) access(8) ,(9) reclining(10) ,(11) folding(12) ...(13) )(14) -(15) large(16) cabin(17) -(18) long(19) wheelbase(20) =(21) good(22) stability(23) +(24) improved(25) ride(26) Bads(27) :(28) -(29) 7(30) passenger(31) comfort(32) -(33) awkward(34) 3(35) and(36) 2nd(37) row(38) seating(39) -(40) poor(41) quality(42) build(43) -(44) colors(45) exemple(46) :(47) green(48) interior(49) Amount_Paid(50) ((51) US(52) $(53) )(54) :(55) Test(56) drive(57) Model_Year(58) :(59) 1997Model(60) and(61) Options(62) :(63) Green(64) everywhere(65) 
+			<opinion polarity="+" feature="stability" featWords="23" opWords="22"/>
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+		</sentence>
+	</text>
+</review>

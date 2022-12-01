@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="404" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Honda_Accord(1) --(2) A(3) Dependable_Brand(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Dependable(1) for(2) years(3) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) comfort(2) factors(3) need(4) to(5) be(6) re-designed(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) excellent(6) durability(7) ,(8) roominess(9) and(10) safety(11) with(12) classic(13) styling(14) ,(15) this(16) car(17) is(18) for(19) you(20) .(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) my(2) husband(3) 's(4) 1985(5) Oldsmobile(6) sputtered(7) and(8) died(9) ,(10) we(11) were(12) faced(13) with(14) the(15) decision(16) of(17) buying(18) another(19) car(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Narrowing(1) down(2) our(3) choices(4) to(5) the(6) Ford_Taurus(7) or(8) the(9) Honda_Accord(10) was(11) easy(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Our(1) research(2) showed(3) better(4) safety(5) ratings(6) and(7) durability(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			What(1) cinched(2) our(3) choice(4) was(5) talking(6) to(7) several(8) Honda(9) owners(10) ,(11) all(12) who(13) are(14) still(15) driving(16) their(17) cars(18) over(19) 200,000_miles(20) later(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Many(1) of(2) them(3) reported(4) very(5) few(6) repairs(7) ,(8) all(9) of(10) them(11) minor(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Impressed(1) ,(2) we(3) began(4) our(5) search(6) for(7) the(8) Honda_Accord(9) at(10) some(11) local(12) dealers(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			We(1) originally(2) started(3) out(4) looking(5) for(6) the(7) 4-cylinder(8) ,(9) 150(10) horsepower(11) Accord(12) ,(13) figuring(14) we(15) could(16) get(17) the(18) loaded(19) EX(20) model(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			After(1) all(2) ,(3) who(4) cares(5) how(6) fast(7) a(8) car(9) can(10) go(11) as(12) long(13) as(14) it(15) goes(16) ,(17) right(18) ?(19) 
+		</sentence>
+		<sentence id="9">
+			is(1) not(2) the(3) whole(4) point(5) to(6) get(7) from(8) A(9) to(10) B(11) in(12) comfort(13) ?(14) 
+		</sentence>
+		<sentence id="10">
+			As(1) we(2) soon(3) found(4) out(5) ,(6) the(7) 4-cylinder(8) engine(9) did(10) not(11) impress(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			We(1) were(2) frustrated(3) with(4) the(5) average(6) amount(7) of(8) acceleration(9) and(10) the(11) car(12) did(13) not(14) feel(15) zippy(16) to(17) us(18) .(19) 
+			<opinion polarity="-" feature="car" featWords="12" opWords="14,16"/>
+		</sentence>
+		<sentence id="12">
+			Acceleration(1) was(2) noisy(3) compared(4) to(5) the(6) V(7) -(8) 6(9) ,(10) 200(11) horsepower(12) engine(13) .(14) 
+			<opinion polarity="-" feature="acceleration" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			Since(1) my(2) husband(3) and(4) I(5) are(6) deaf(7) --(8) it(9) was(10) an(11) interesting(12) comparison(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			If(1) it(2) sounds(3) noisy(4) to(5) us(6) ,(7) I(8) can(9) not(10) imagine(11) how(12) it(13) sounds(14) to(15) people(16) who(17) can(18) hear(19) .(20) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			Once(1) we(2) decided(3) to(4) spend(5) the(6) money(7) on(8) the(9) performance(10) instead_of(11) comfort(12) ,(13) we(14) stuck(15) with(16) the(17) V(18) -(19) 6(20) LX(21) model(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			The(1) classier(2) EX(3) offered(4) a(5) sunroof(6) and(7) six(8) CD(9) changer(10) which(11) we(12) could(13) certainly(14) live(15) without(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) a_bit(3) disheartening(4) to(5) give(6) up(7) the(8) remote(9) keyless(10) entry(11) by(12) settling(13) for(14) the(15) LX(16) model(17) ,(18) but(19) Honda(20) offers(21) this(22) as(23) an(24) add(25) on(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			We(1) figured(2) if(3) we(4) ever(5) hit(6) the(7) lottery(8) ,(9) we(10) can(11) simply(12) have(13) this(14) added(15) on(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			Wait(1) a_second(2) ,(3) if(4) we(5) ever(6) hit(7) the(8) lottery(9) ,(10) we(11) 'll(12) be(13) riding(14) around(15) in(16) a(17) limo(18) instead(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			We(1) hit(2) five(3) different(4) Honda(5) dealers(6) in(7) an(8) attempt(9) to(10) get(11) the(12) best(13) deal(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			One(1) thing(2) we(3) learned(4) quickly(5) --(6) foreign(7) car(8) dealers(9) have(10) little(11) room(12) to(13) work(14) with(15) "(16) deals(17) .(18) "(19) As(20) someone(21) who(22) was(23) able(24) to(25) get(26) $10,000(27) knocked(28) off(29) our(30) conversion(31) van(32) ,(33) I(34) found(35) this(36) process(37) frustrating(38) .(39) 
+		</sentence>
+		<sentence id="22">
+			After(1) quite(2) a_bit(3) of(4) haggling(5) ,(6) we(7) finally(8) were(9) able(10) to(11) obtain(12) our(13) V(14) -(15) 6(16) LX(17) for(18) $21,700(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			After(1) several(2) months(3) of(4) ownership(5) ,(6) there(7) are(8) pros(9) and(10) cons(11) to(12) this(13) car(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			The(1) car(2) feels(3) solid(4) and(5) hugs(6) the(7) ground(8) well(9) on(10) turns(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="25">
+			Acceleration(1) is(2) indeed(3) zippy(4) ,(5) but(6) there(7) 's(8) also(9) a_bit(10) of(11) a(12) "(13) chug(14) "(15) in(16) the(17) acceleration(18) ,(19) almost(20) as_if(21) the(22) car(23) is(24) waiting(25) for(26) a(27) burst(28) of(29) fuel(30) to(31) be(32) able(33) to(34) move(35) ahead(36) .(37) 
+			<opinion polarity="+" feature="acceleration" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			The(1) ride(2) is(3) not(4) entirely(5) a(6) smooth(7) one(8) ,(9) it(10) is(11) especially(12) annoying(13) on(14) rough(15) roads(16) where(17) it(18) seems(19) that(20) every(21) bump(22) is(23) felt(24) in(25) the(26) seat(27) .(28) 
+			<opinion polarity="-" feature="ride quality" featWords="10" featRef="ride quality" opWords="13"/>
+		</sentence>
+		<sentence id="27">
+			Speaking(1) of(2) seats(3) ,(4) there(5) is(6) a(7) good(8) reason(9) why(10) lumbar(11) support(12) is(13) included(14) in(15) the(16) EX(17) model(18) ,(19) to(20) get(21) you(22) to(23) spend(24) more(25) money(26) for(27) comfort(28) .(29) 
+		</sentence>
+		<sentence id="28">
+			The(1) seats(2) are(3) quite(4) unimpressive(5) in(6) terms(7) of(8) comfort(9) and(10) support(11) --(12) after(13) several(14) months(15) of(16) driving(17) the(18) missing(19) comfort(20) is(21) noticeable(22) .(23) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="29">
+			I(1) strongly(2) urge(3) buyers(4) to(5) consider(6) the(7) lumbar(8) support(9) when(10) buying(11) this(12) car(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			You(1) 'll(2) be(3) driving(4) it(5) for(6) years(7) and(8) years(9) ,(10) so(11) comfort(12) is(13) a(14) key(15) that(16) 's(17) missing(18) from(19) the(20) LX(21) models(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			Placement(1) of(2) accessories(3) is(4) good(5) and(6) the(7) knobs(8) and(9) handles(10) feel(11) solid(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			There(1) is(2) a(3) big(4) ,(5) big(6) beef(7) with(8) the(9) placement(10) of(11) the(12) middle(13) storage(14) console(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			It(1) had(2) to(3) be(4) designed(5) by(6) an(7) absent(8) minded(9) ,(10) 6(11) ft(12) guy(13) with(14) long(15) arms(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			First(1) of(2) all(3) ,(4) it(5) is(6) designed(7) in(8) two(9) layers(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			Open(1) the(2) top(3) console(4) and(5) you(6) 'll(7) find(8) a(9) storage(10) area(11) for(12) coins(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			This(1) is(2) bad(3) for(4) two(5) reasons(6) ,(7) one(8) ,(9) you(10) have(11) to(12) be(13) a(14) contortionist(15) to(16) reach(17) the(18) coins(19) and(20) do(21) it(22) all(23) by(24) feel(25) since(26) trying(27) to(28) steal(29) a(30) glance(31) at(32) the(33) coins(34) will(35) certainly(36) veer(37) you(38) off(39) the(40) road(41) .(42) 
+		</sentence>
+		<sentence id="37">
+			Two(1) ,(2) if(3) you(4) want(5) to(6) access(7) the(8) second(9) layer(10) of(11) storage(12) you(13) have(14) to(15) pull(16) back(17) the(18) first(19) layer(20) and(21) some(22) of(23) the(24) coins(25) can(26) come(27) flying(28) out(29) .(30) 
+		</sentence>
+		<sentence id="38">
+			That(1) 's(2) not(3) all(4) .(5) 
+		</sentence>
+		<sentence id="39">
+			The(1) reason(2) I(3) think(4) it(5) was(6) designed(7) by(8) someone(9) with(10) long(11) arms(12) is(13) because(14) when(15) I(16) have(17) my(18) seat(19) pulled(20) up(21) ,(22) I(23) can(24) only(25) place(26) the(27) back(28) 1/3(29) of(30) my(31) elbow(32) on(33) the(34) cushioned(35) top(36) .(37) 
+		</sentence>
+		<sentence id="40">
+			This(1) makes(2) for(3) a(4) very(5) uncomfortable(6) drive(7) ,(8) because(9) I(10) 'm(11) used(12) to(13) being(14) able(15) to(16) have(17) arm(18) rests(19) in(20) our(21) other(22) cars(23) .(24) 
+			<opinion polarity="-" feature="drive" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="41">
+			Twenty(1) lashings(2) with(3) a(4) wet(5) noodle(6) to(7) whoever(8) designed(9) this(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			You(1) 're(2) probably(3) wondering(4) ,(5) where(6) 's(7) the(8) pros(9) in(10) this(11) ?(12) 
+		</sentence>
+		<sentence id="43">
+			Safety(1) is(2) a(3) big(4) concern(5) and(6) for(7) a(8) mid-sized(9) car(10) ,(11) we(12) wanted(13) as(14) much(15) packed(16) in(17) as(18) possible(19) .(20) 
+		</sentence>
+		<sentence id="44">
+			The(1) Accord(2) is(3) equipped(4) with(5) two(6) front(7) airbags(8) that(9) can(10) deploy(11) in(12) accordance(13) to(14) the(15) severity(16) of(17) the(18) crash(19) and(20) whether(21) or(22) not(23) the(24) person(25) is(26) wearing(27) a(28) seatbelt(29) .(30) 
+		</sentence>
+		<sentence id="45">
+			Also(1) included(2) with(3) the(4) V(5) -(6) 6(7) are(8) side(9) airbags(10) ,(11) which(12) will(13) not(14) deploy(15) if(16) a(17) passenger(18) is(19) sleeping(20) with(21) the(22) seat(23) reclined(24) .(25) 
+		</sentence>
+		<sentence id="46">
+			ABS(1) brakes(2) are(3) standard(4) for(5) this(6) model(7) and(8) traction(9) control(10) steering(11) comes(12) in(13) handy(14) with(15) bad(16) weather(17) .(18) 
+		</sentence>
+		<sentence id="47">
+			The(1) 2001(2) Honda_Accord(3) has(4) the(5) highest(6) ranking(7) for(8) rollovers(9) --(10) it(11) is(12) the(13) least(14) likely(15) of(16) the(17) cars(18) rated(19) to(20) roll(21) over(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			Bottom(1) line(2) --(3) I(4) can(5) live(6) with(7) the(8) flaws(9) ,(10) but(11) in(12) hindsight(13) ,(14) I(15) would(16) have(17) gone(18) for(19) the(20) EX(21) model(22) with(23) its(24) extra(25) comfort(26) features(27) .(28) 
+		</sentence>
+		<sentence id="49">
+			We(1) bought(2) this(3) car(4) with(5) the(6) intention(7) of(8) driving(9) it(10) for(11) many(12) years(13) and(14) I(15) look(16) forward(17) to(18) getting(19) my(20) money(21) 's(22) worth(23) out(24) of(25) this(26) dependable(27) car(28) .(29) 
+			<opinion polarity="+" feature="reliability" opWords="27"/>
+		</sentence>
+		<sentence id="50">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21,700(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

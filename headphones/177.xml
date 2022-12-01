@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="177" item="Sony MDR-CD580 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Sony_MDR(1) CD580(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very_Loud(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Great(1) frequency(2) range(3) ,(4) 10(5) -(6) 25(7) khz.(8) Very(9) light(10) and(11) confortable(12) 
+			<opinion polarity="+" feature="frequency response" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="comfort" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) personal(2) ,(3) they(4) '(5) leak(6) '(7) too(8) much(9) sound(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			They(1) take(2) up(3) too(4) much(5) space(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) the(2) best(3) ,(4) nor(5) the(6) worst(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Only(1) get(2) them(3) if(4) your(5) on(6) your(7) own(8) or(9) need(10) them(11) for(12) work(13) ,(14) for_example(15) sound(16) studio(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) chose(2) these(3) headphones(4) because(5) i(6) wanted(7) a(8) pair(9) which(10) would(11) allow(12) me(13) to(14) listen(15) to(16) my(17) music(18) without(19) disturbing(20) others(21) arround(22) me(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			However(1) i(2) can(3) not(4) do(5) this(6) on(7) this(8) pair(9) as(10) they(11) just(12) '(13) leak(14) '(15) the(16) sound(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) good(3) in(4) the(5) sence(6) that(7) they(8) provide(9) true(10) sound(11) and(12) one(13) can(14) really(15) be(16) envolved(17) with(18) the(19) sound(20) .(21) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			However(1) i(2) think(3) one(4) would(5) have(6) to(7) be(8) alone(9) to(10) take(11) full(12) advantage(13) of(14) this(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) also(3) expensive(4) ,(5) $65(6) ((7) 41(8) )(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) think(2) these(3) headphones(4) are(5) great(6) if(7) you(8) are(9) going(10) to(11) use(12) them(13) alone(14) ,(15) in(16) a(17) studio(18) or(19) your(20) house(21) but(22) if(23) you(24) want(25) to(26) use(27) them(28) in(29) a(30) quiet(31) place(32) such(33) as(34) a(35) library(36) or(37) on(38) the(39) move(40) then(41) these(42) are(43) not(44) the(45) ones(46) ,(47) especially(48) considering(49) the(50) price(51) tag(52) .(53) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="6"/>
+		</sentence>
+	</text>
+</review>

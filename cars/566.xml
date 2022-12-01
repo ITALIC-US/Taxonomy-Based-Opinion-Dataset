@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="566" item="2005 Infiniti FX" rating="3">
+	<title>
+		<sentence id="1">
+			My(1) new(2) car(3) search(4) :(5) Infiniti(6) FX35(7) RWD(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Exterior(1) styling(2) ,(3) smooth(4) engine(5) ,(6) handling(7) 
+			<opinion polarity="+" feature="engine" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rough(1) ride(2) ,(3) lack(4) of(5) interior(6) refinement(7) ,(8) pricey(9) options(10) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) guess(2) if(3) you(4) must(5) have(6) an(7) SUV-sized(8) vehicle(9) then(10) this(11) is(12) one(13) way(14) to(15) get(16) sport-sedan(17) type(18) handling(19) at(20) a(21) decent(22) price(23) .(24) 
+			<opinion polarity="+" feature="price" featWords="23" opWords="22"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My_Search(1) :(2) Before(3) I(4) get(5) to(6) the(7) actual(8) review(9) ,(10) I(11) just(12) want(13) to(14) give(15) some(16) context(17) as(18) to(19) what(20) kind(21) of(22) car(23) I(24) am(25) looking(26) for(27) in(28) terms(29) of(30) needs(31) and(32) preferences(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) you(3) 'll(4) have(5) a(6) better(7) basis(8) for(9) how(10) my(11) opinion(12) may(13) or(14) may(15) not(16) fit(17) with(18) your(19) own(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			With(1) my(2) lease(3) on(4) my(5) Saab(6) 9-3(7) up(8) in(9) a(10) few(11) months(12) ,(13) I(14) am(15) finally(16) getting(17) out(18) to(19) test(20) drive(21) the(22) myriad(23) of(24) cars(25) that(26) are(27) on(28) my(29) list(30) as(31) possible(32) replacements(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) I(3) purchase(4) ((5) or(6) lease(7) )(8) will(9) be(10) my(11) primary(12) means(13) of(14) getting(15) back_and_forth(16) to(17) work(18) in(19) L.A.(20) traffic(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) need(4) to(5) carry(6) many(7) other(8) people(9) in(10) the(11) car(12) ,(13) so(14) I(15) just(16) need(17) it(18) to(19) be(20) comfortable(21) up_front(22) and(23) enough(24) space(25) in(26) back(27) to(28) hold(29) one(30) ((31) or(32) both(33) )(34) of(35) my(36) kid(37) 's(38) car(39) seats(40) in(41) a(42) pinch(43) .(44) 
+			<opinion polarity="+" feature="comfort" opWords="21"/>
+		</sentence>
+		<sentence id="6">
+			This(1) will(2) not(3) be(4) our(5) main(6) family(7) car(8) -(9) that(10) 's(11) what(12) we(13) bought(14) our(15) Honda_Odyssey(16) for(17) ,(18) after(19) all(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'd(2) like(3) a(4) car(5) with(6) decent(7) performance(8) ;(9) although(10) I(11) will(12) not(13) be(14) racing(15) it(16) anytime(17) soon(18) and(19) I(20) do(21) live(22) in(23) southern(24) CA(25) ,(26) so(27) fuel(28) economy(29) is(30) somewhat(31) important(32) .(33) 
+			<opinion polarity="+" feature="performance" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			As(1) far(2) as(3) handling(4) goes(5) ,(6) I(7) 'm(8) not(9) the(10) kind(11) of(12) driver(13) who(14) is(15) looking(16) for(17) a(18) car(19) that(20) feels(21) "(22) toss-able(23) "(24) or(25) allows(26) me(27) to(28) induce(29) oversteer(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			I(1) think(2) the(3) best(4) word(5) to(6) describe(7) the(8) handling(9) characteristics(10) I(11) 'm(12) looking(13) for(14) would(15) be(16) "(17) confidence(18) "(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			I(1) want(2) a(3) car(4) that(5) feels(6) like(7) it(8) can(9) handle(10) anything(11) I(12) can(13) throw(14) at(15) it(16) and(17) still(18) stay(19) below(20) its(21) limits(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			And(1) I(2) 'm(3) getting(4) old(5) enough(6) that(7) I(8) 'm(9) also(10) willing(11) to(12) give(13) up(14) some(15) handling(16) capability(17) for(18) a(19) little(20) smoother(21) ride(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			As(1) far(2) as(3) interior(4) goes(5) ,(6) I(7) 'd(8) like(9) an(10) upscale(11) interior(12) with(13) comfortable(14) seats(15) with(16) good(17) support(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="interior" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="13">
+			I(1) 'd(2) also(3) like(4) some(5) advanced(6) technology(7) available(8) such(9) as(10) Bluetooth(11) and(12) MP3/iPod(13) integration(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			A(1) navigation(2) system(3) is(4) not(5) necessary(6) ,(7) nor(8) is(9) a(10) super(11) upscale(12) 15(13) speaker(14) sound(15) package(16) .(17) 
+			<opinion polarity="+" feature="package" featWords="16" opWords="12"/>
+		</sentence>
+		<sentence id="15">
+			And(1) ,(2) as(3) I(4) said(5) before(6) ,(7) I(8) do(9) not(10) need(11) a(12) large(13) amount(14) or(15) rear(16) seat(17) space(18) or(19) a(20) voluminous(21) trunk(22) .(23) 
+			<opinion polarity="+" feature="trunk" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="16">
+			The(1) cars(2) that(3) I(4) 've(5) selected(6) to(7) test(8) drive(9) for(10) my(11) search(12) can(13) be(14) divided(15) into(16) three(17) groupings(18) :(19) Compact(20) sport(21) sedans(22) including(23) the(24) Acura_TL(25) ,(26) Audi(27) A4(28) 3.2(29) ,(30) BMW(31) 330i(32) ,(33) Infiniti(34) G35(35) ,(36) Lexus(37) IS350(38) ,(39) Mercedes(40) C350(41) ,(42) and(43) the(44) Volvo(45) S60(46) R._Mid-sized(47) sport(48) sedans(49) such(50) as(51) the(52) Audi(53) A6(54) 3.2(55) ,(56) Infiniti(57) M35(58) ,(59) and(60) Lexus(61) GS300(62) .(63) 
+			<opinion polarity="+" feature="car" opWords="20"/>
+		</sentence>
+		<sentence id="17">
+			And(1) a(2) few(3) other(4) odds(5) and(6) ends(7) such(8) as(9) the(10) Mazda_RX(11) -(12) 8(13) and(14) the(15) Subaru_Legacy_GT(16) ((17) both(18) mostly(19) due(20) to(21) stellar(22) reviews(23) on(24) this(25) site(26) )(27) as_well(28) as(29) the(30) Infiniti(31) FX35(32) ((33) which(34) I(35) think(36) is(37) one(38) of(39) the(40) best(41) looking(42) vehicles(43) on(44) the(45) road(46) )(47) .(48) 
+			<opinion polarity="+" feature="design" opWords="41,42"/>
+		</sentence>
+		<sentence id="18">
+			As(1) you(2) can(3) see(4) ,(5) I(6) plan(7) on(8) enjoying(9) this(10) go-round(11) of(12) car(13) shopping(14) .(15) ----------------------------------------------------(16) For(17) 2006(18) ,(19) Infiniti(20) has(21) made(22) several(23) exterior(24) and(25) interior(26) styling(27) tweaks(28) to(29) the(30) FX(31) model(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) seen(3) some(4) photos(5) on(6) the(7) web(8) ((9) although(10) not(11) on(12) the(13) Infiniti(14) site(15) yet(16) )(17) of(18) the(19) changes(20) and(21) they(22) seem(23) to(24) correct(25) several(26) of(27) the(28) interior(29) styling(30) issues(31) that(32) I(33) have(34) without(35) messing(36) up(37) the(38) exterior(39) looks(40) that(41) I(42) like(43) so(44) much(45) .(46) 
+		</sentence>
+		<sentence id="20">
+			They(1) ve(2) also(3) made(4) more(5) of(6) the(7) features(8) that(9) were(10) options(11) before(12) into(13) standard(14) features(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			Unfortunately(1) ,(2) a(3) 2006(4) model(5) was(6) not(7) yet(8) available(9) when(10) I(11) did(12) my(13) test(14) drive(15) so(16) I(17) can(18) t(19) comment(20) first(21) hand(22) on(23) these(24) improvements(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			However(1) ,(2) the(3) drivetrain(4) for(5) the(6) FX35(7) has(8) remained(9) unchanged(10) ,(11) as(12) does(13) the(14) suspension(15) ,(16) so(17) I(18) don(19) t(20) think(21) me(22) performance(23) and(24) handling(25) evaluation(26) would(27) be(28) any(29) different(30) on(31) the(32) 2006(33) .(34) 
+		</sentence>
+		<sentence id="23">
+			Update(1) ((2) 12/23/05(3) )(4) :(5) I(6) found(7) a(8) site(9) that(10) lists(11) a(12) comprehensive(13) set(14) of(15) changes(16) for(17) the(18) FX(19) in_2006(20) .(21) 
+		</sentence>
+		<sentence id="24">
+			Among(1) them(2) is(3) a(4) tweak(5) to(6) the(7) suspension(8) and(9) shock(10) absorbers(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			So(1) the(2) ride(3) quality(4) for(5) 2006(6) might(7) be(8) improved(9) as_well(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			Here(1) 's(2) the(3) comprehensive(4) list(5) :(6) Enhancements(7) to(8) the(9) 2006(10) FX45/FX35(11) include(12) :(13) -(14) Premium_Package(15) contents(16) are(17) now(18) standard(19) on(20) FX45(21) -(22) Standard_RearView_Monitor(23) -(24) Standard_Bluetooth_Hands-Free_Phone(25) system(26) on(27) FX45(28) models(29) -(30) Standard(31) leather(32) seating(33) surfaces(34) ,(35) 10-way(36) power(37) driver(38) s(39) seat(40) with(41) adjustable(42) power(43) lumbar(44) support(45) and(46) driver(47) memory(48) ,(49) 8-way(50) power(51) passenger(52) s(53) seat(54) ((55) FX35(56) )(57) -(58) Standard(59) power(60) tilt(61) /(62) telescope(63) steering(64) wheel(65) ((66) FX35(67) )(68) -(69) Standard(70) 300-watt(71) ,(72) 11-speaker(73) Bose(74) audio(75) sound(76) system(77) with(78) 6-disc(79) CD(80) autochanger(81) ,(82) MP3-CD(83) playback(84) and(85) steering(86) wheel(87) audio(88) controls(89) -(90) Heated(91) outside(92) mirrors(93) ((94) FX35(95) )(96) -(97) New(98) center(99) console(100) design(101) -(102) New_Electroluminescent(103) gauges(104) -(105) Added_Wheat(106) interior(107) color(108) -(109) New(110) aluminum(111) and(112) wood(113) trim(114) finish(115) ((116) FX45(117) )(118) -(119) New(120) front(121) grille(122) and(123) front(124) bumper(125) design(126) -(127) New(128) 18-inch(129) ((130) FX35(131) )(132) and(133) 20-inch(134) ((135) FX45(136) )(137) wheel(138) designs(139) -(140) Revised(141) suspension(142) tuning(143) with(144) new(145) shock(146) absorbers(147) -(148) Three(149) new(150) exterior(151) colors(152) Liquid_Platinum(153) ,(154) Serengeti_Sand(155) and(156) Orange(157) -(158) Advanced_Air_Bag_System(159) ((160) AABS(161) )(162) -(163) Available(164) satellite(165) radio(166) with(167) choice(168) of(169) XM(170) or(171) Sirius(172) -(173) New_Run-Flat_Tire_Package(174) -(175) Hands-Free_Package(176) with(177) Intelligent_Key(178) available(179) on(180) FX35(181) models(182) ((183) standard(184) on(185) FX45(186) )(187) Trim_Levels(188) :(189) The(190) Infiniti_FX(191) is(192) available(193) with(194) two(195) engines(196) :(197) a(198) 3.5L(199) V6(200) ((201) FX35(202) )(203) and(204) a(205) 4.5L(206) V8(207) ((208) FX45(209) )(210) ,(211) both(212) with(213) all-wheel(214) drive(215) .(216) 
+		</sentence>
+		<sentence id="27">
+			The(1) FX35(2) comes(3) standard(4) with(5) 18(6) "(7) wheels(8) ,(9) but(10) if(11) you(12) opt(13) for(14) the(15) sport(16) package(17) you(18) get(19) 20(20) "(21) wheels(22) along_with(23) an(24) upgraded(25) suspension(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			The(1) FX45(2) comes(3) standard(4) with(5) the(6) sport(7) package(8) .(9) 
+		</sentence>
+		<sentence id="29">
+			In_addition(1) ,(2) the(3) FX35(4) can(5) be(6) outfitted(7) in(8) a(9) rear-wheel(10) drive(11) configuration(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			This(1) review(2) covers(3) the(4) RWD(5) FX35(6) without(7) the(8) sport(9) suspension(10) .(11) 
+		</sentence>
+		<sentence id="31">
+			Exterior(1) :(2) The(3) exterior(4) design(5) of(6) the(7) Infiniti_FX(8) is(9) one(10) of(11) those(12) designs(13) that(14) most(15) people(16) either(17) hate(18) or(19) love(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			I(1) happen(2) to(3) fall(4) into(5) the(6) latter(7) category(8) .(9) 
+		</sentence>
+		<sentence id="33">
+			I(1) have(2) liked(3) the(4) looks(5) of(6) the(7) FX(8) ever(9) since(10) seeing(11) the(12) initial(13) concept(14) and(15) it(16) continues(17) to(18) be(19) one(20) of(21) my(22) favorite(23) looking(24) vehicles(25) on(26) the(27) road(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="25" opWords="23"/>
+		</sentence>
+		<sentence id="34">
+			I(1) like(2) the(3) curved(4) ,(5) muscular(6) lines(7) of(8) the(9) FX(10) the(11) first(12) time(13) I(14) saw(15) a(16) picture(17) of(18) the(19) concept(20) I(21) thought(22) it(23) looked(24) like(25) an(26) Audi_TT(27) ((28) which(29) I(30) owned(31) at(32) the(33) time(34) )(35) on(36) steroids(37) .(38) 
+		</sentence>
+		<sentence id="35">
+			And(1) the(2) FX(3) is(4) on(5) the(6) small(7) side(8) for(9) an(10) SUV(11) -(12) it(13) s(14) only(15) 65(16) tall(17) ((18) shorter(19) by(20) several(21) inches(22) than(23) even(24) a(25) Porsche_Cayenne(26) )(27) and(28) 189(29) long(30) ((31) less(32) than(33) an(34) Infiniti_M(35) s(36) length(37) )(38) .(39) 
+		</sentence>
+		<sentence id="36">
+			I(1) m(2) not(3) the(4) kind(5) of(6) person(7) who(8) really(9) wants(10) to(11) drive(12) an(13) SUV(14) ,(15) but(16) the(17) FX(18) s(19) exterior(20) looks(21) ((22) along_with(23) numerous(24) reviews(25) claiming(26) that(27) the(28) FX(29) handles(30) almost(31) as_well(32) as(33) a(34) sedan(35) )(36) convinced(37) me(38) to(39) at_least(40) give(41) it(42) a(43) try(44) .(45) 
+		</sentence>
+		<sentence id="37">
+			Interior(1) :(2) Inside(3) ,(4) I(5) would(6) label(7) the(8) FX(9) as(10) more(11) G35(12) than(13) M35(14) ,(15) in(16) terms(17) of(18) interior(19) styling(20) .(21) 
+		</sentence>
+		<sentence id="38">
+			So(1) I(2) would(3) rate(4) the(5) FX(6) well(7) behind(8) its(9) competition(10) in(11) this(12) regard(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			A(1) Cayenne(2) has(3) much(4) nicer(5) design(6) and(7) materials(8) ,(9) as(10) does(11) a(12) VW_Touareg(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			I(1) won(2) t(3) spend(4) too(5) much(6) time(7) beating(8) up(9) the(10) FX(11) in(12) this(13) area(14) since(15) it(16) looks(17) like(18) they(19) took(20) some(21) big(22) steps(23) forward(24) for(25) 2006(26) and(27) put(28) the(29) FX(30) s(31) interior(32) closer(33) to(34) the(35) level(36) of(37) the(38) M35/45(39) .(40) 
+		</sentence>
+		<sentence id="41">
+			But(1) ,(2) suffice(3) it(4) to(5) say(6) ,(7) I(8) was(9) as(10) disappointed(11) with(12) the(13) FX(14) s(15) interior(16) design(17) as(18) I(19) was(20) with(21) the(22) G35(23) s.(24) However(25) ,(26) I(27) did(28) find(29) the(30) comfort(31) of(32) the(33) FX(34) s(35) seats(36) to(37) be(38) better(39) than(40) those(41) in_the_G35(42) .(43) 
+		</sentence>
+		<sentence id="42">
+			They(1) just(2) seemed(3) to(4) offer(5) a_bit(6) more(7) lateral(8) support(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			As(1) in(2) other(3) Infiniti(4) s(5) ,(6) I(7) found(8) the(9) steering(10) wheel(11) a(12) little(13) too(14) thin(15) for(16) my(17) taste(18) .(19) 
+		</sentence>
+		<sentence id="44">
+			The(1) driving(2) position(3) is(4) good(5) ,(6) but(7) you(8) get(9) much(10) more(11) of(12) a(13) feel(14) of(15) mass(16) out(17) in(18) front(19) of(20) you(21) than(22) in(23) a(24) G35(25) or(26) M35(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			Which(1) makes(2) sense(3) the(4) FX(5) is(6) about(7) 500(8) and(9) 300(10) lbs(11) heavier(12) ,(13) respectively(14) ,(15) than(16) each(17) of(18) those(19) cars(20) .(21) 
+		</sentence>
+		<sentence id="46">
+			I(1) found(2) rear(3) visibility(4) ok(5) ,(6) but(7) the(8) large(9) C(10) pillars(11) do(12) hamper(13) your(14) view(15) somewhat(16) .(17) 
+			<opinion polarity="+" feature="visibility" featWords="4" opWords="5"/>
+		</sentence>
+		<sentence id="47">
+			Upfront(1) storage(2) is(3) good(4) ,(5) except(6) I(7) found(8) the(9) interior(10) materials(11) on(12) these(13) compartments(14) to(15) be(16) exceptionally(17) cheap(18) think(19) felt-covered(20) plastic(21) that(22) covers(23) the(24) inside(25) of(26) a(27) cheap(28) pen(29) box(30) and(31) you(32) wouldn(33) t(34) be(35) too(36) far(37) off(38) .(39) 
+		</sentence>
+		<sentence id="48">
+			Rear(1) seat(2) room(3) is(4) good(5) as(6) expected(7) .(8) 
+			<opinion polarity="+" feature="room" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="49">
+			As(1) in_the_G35(2) ,(3) the(4) rear(5) seats(6) recline(7) but(8) they(9) re(10) rather(11) close(12) to(13) the(14) floor(15) and(16) don(17) t(18) offer(19) great(20) thigh(21) support(22) .(23) 
+		</sentence>
+		<sentence id="50">
+			At(1) over(2) 27_cubic_feet(3) ,(4) cargo(5) capacity(6) is(7) just(8) average(9) for(10) this(11) kind(12) of(13) vehicle(14) .(15) 
+		</sentence>
+		<sentence id="51">
+			With(1) the(2) rear(3) seats(4) folded(5) ,(6) cargo(7) capacity(8) jumps(9) to(10) about(11) 65_cubic_feet(12) .(13) 
+		</sentence>
+		<sentence id="52">
+			Performance(1) /(2) Handling(3) :(4) At(5) over(6) 4100(7) lbs(8) ,(9) the(10) FX35(11) isn(12) t(13) moved(14) by(15) Infiniti(16) s(17) 3.5L(18) V6(19) quite(20) as_well(21) as(22) the(23) G35(24) or(25) M35(26) .(27) 
+		</sentence>
+		<sentence id="53">
+			As(1) in(2) those(3) cars(4) ,(5) it(6) puts(7) out(8) 280(9) horsepower(10) and(11) 270(12) lb-ft(13) of(14) torque(15) and(16) is(17) paired(18) with(19) a(20) 5-speed(21) automatic(22) .(23) 
+		</sentence>
+		<sentence id="54">
+			I(1) liked(2) this(3) engine(4) /(5) transmission(6) combo(7) in_the_G35(8) and(9) M35(10) and(11) they(12) still(13) work(14) well(15) together(16) in_the_FX35(17) ,(18) just(19) not(20) with(21) quite(22) as(23) much(24) gusto(25) .(26) 
+		</sentence>
+		<sentence id="55">
+			They(1) still(2) move(3) the(4) FX(5) to(6) sixty(7) in(8) a_tad(9) over(10) 7_seconds(11) ,(12) though(13) .(14) 
+		</sentence>
+		<sentence id="56">
+			Not(1) bad(2) for(3) a(4) V6(5) SUV(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="57">
+			If(1) you(2) want(3) sport(4) sedan(5) acceleration(6) ,(7) you(8) ll(9) need(10) to(11) pony(12) up(13) for(14) the(15) V8(16) ,(17) though(18) .(19) 
+		</sentence>
+		<sentence id="58">
+			As(1) I(2) stated(3) earlier(4) ,(5) the(6) FX(7) felt(8) like(9) you(10) have(11) a_lot_of(12) mass(13) out(14) in(15) front(16) of(17) you(18) while(19) driving(20) .(21) 
+		</sentence>
+		<sentence id="59">
+			The(1) stats(2) show(3) a(4) 55/45(5) weight(6) distribution(7) front(8) to(9) back(10) ,(11) so(12) this(13) may(14) be(15) more(16) of(17) a(18) visual(19) perception(20) rather(21) than(22) anything(23) else(24) .(25) 
+		</sentence>
+		<sentence id="60">
+			The(1) FX(2) does(3) handle(4) extremely(5) capably(6) ,(7) with(8) good(9) turn-in(10) and(11) minimal(12) lean(13) .(14) 
+		</sentence>
+		<sentence id="61">
+			However(1) ,(2) you(3) pay(4) for(5) this(6) level(7) of(8) handling(9) with(10) a(11) very(12) firm(13) ,(14) choppy(15) ride(16) .(17) 
+		</sentence>
+		<sentence id="62">
+			And(1) this(2) was(3) on(4) the(5) base(6) suspension(7) I(8) shudder(9) to(10) guess(11) what(12) the(13) sport(14) suspension(15) must(16) feel(17) like(18) .(19) 
+		</sentence>
+		<sentence id="63">
+			I(1) found(2) braking(3) to(4) be(5) generally(6) good(7) as(8) was(9) the(10) noise(11) levels(12) in(13) the(14) cabin(15) .(16) 
+			<opinion polarity="+" feature="brakes" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="64">
+			Fuel_Economy(1) :(2) The(3) FX35(4) is(5) rated(6) at(7) an(8) EPA(9) estimated(10) 17(11) mpg(12) city(13) and(14) 23(15) mpg(16) highway(17) ,(18) which(19) is(20) not(21) bad(22) at(23) all(24) for(25) this(26) class(27) of(28) vehicle(29) .(30) 
+			<opinion polarity="+" feature="car" opWords="21,22"/>
+		</sentence>
+		<sentence id="65">
+			Reliability(1) :(2) Reliability(3) ratings(4) on(5) the(6) Infiniti(7) FX35(8) have(9) been(10) outstanding(11) .(12) 
+			<opinion polarity="+" feature="reliability" featWords="3" opWords="11"/>
+		</sentence>
+		<sentence id="66">
+			It(1) is(2) rated(3) as(4) one(5) of(6) the(7) most(8) reliable(9) vehicles(10) in(11) its(12) class(13) .(14) 
+			<opinion polarity="+" feature="reliability" opWords="9"/>
+		</sentence>
+		<sentence id="67">
+			Safety(1) :(2) The(3) FX35(4) receives(5) high(6) marks(7) in(8) terms(9) of(10) IIHS(11) front(12) crash(13) test(14) rating(15) .(16) 
+		</sentence>
+		<sentence id="68">
+			No(1) side(2) and(3) rear(4) crash(5) test(6) ratings(7) are(8) available(9) .(10) 
+		</sentence>
+		<sentence id="69">
+			However(1) ,(2) most(3) of(4) the(5) Infiniti(6) line-up(7) fared(8) very(9) poorly(10) in(11) the(12) IIHS(13) rear(14) impact(15) tests(16) .(17) 
+		</sentence>
+		<sentence id="70">
+			No(1) NHTSA(2) results(3) are(4) available(5) .(6) 
+		</sentence>
+		<sentence id="71">
+			Summary(1) :(2) Overall_I(3) found(4) the(5) FX(6) to(7) be(8) a_bit(9) of(10) a(11) disappointment(12) .(13) 
+		</sentence>
+		<sentence id="72">
+			However(1) ,(2) it(3) looks(4) like(5) Infiniti(6) has(7) already(8) fixed(9) most(10) of(11) the(12) issues(13) I(14) have(15) ,(16) at_least(17) with(18) the(19) interior(20) .(21) 
+		</sentence>
+		<sentence id="73">
+			Although(1) the(2) suspension(3) tweaks(4) for(5) 2006(6) might(7) improve(8) the(9) ride(10) quality(11) somewhat(12) ,(13) I(14) don(15) t(16) think(17) there(18) is(19) a(20) way(21) to(22) make(23) the(24) FX(25) ride(26) great(27) and(28) still(29) keep(30) its(31) level(32) of(33) handling(34) at_least(35) anything(36) short(37) of(38) getting(39) a(40) hold(41) of(42) whatever(43) pixie(44) dust(45) BMW(46) uses(47) on(48) its(49) suspensions(50) to(51) combine(52) good(53) handling(54) and(55) smooth(56) ride(57) .(58) 
+			<opinion polarity="+" feature="ride quality" featWords="57" opWords="56"/>
+			<opinion polarity="+" feature="handling" featWords="54" opWords="53"/>
+		</sentence>
+		<sentence id="74">
+			I(1) guess(2) if(3) you(4) must(5) have(6) an(7) SUV-sized(8) vehicle(9) then(10) this(11) is(12) one(13) way(14) to(15) get(16) sport-sedan(17) type(18) handling(19) at(20) a(21) decent(22) price(23) -(24) but(25) I(26) 'd(27) wait(28) for(29) the(30) 2006(31) model(32) .(33) 
+			<opinion polarity="+" feature="price" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="75">
+			Since(1) I(2) don(3) t(4) need(5) that(6) big(7) of(8) vehicle(9) ,(10) I(11) think(12) I(13) ll(14) skip(15) .(16) 
+		</sentence>
+	</text>
+</review>

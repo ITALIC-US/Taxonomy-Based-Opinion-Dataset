@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="233" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) joy(2) to(3) own(4) ,(5) a(6) joy(7) to(8) drive(9) 
+			<opinion polarity="+" feature="car" opWords="7,8,9"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) reliable(2) ,(3) excellent(4) ride(5) ,(6) great(7) looks(8) ,(9) convenient(10) servicing(11) 
+			<opinion polarity="+" feature="service" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="reliability" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Leather(1) seats(2) may(3) not(4) take(5) well(6) to(7) age(8) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) 's(2) simply(3) nothing(4) I(5) can(6) complain(7) about(8) with(9) this(10) car(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Sporty(1) ,(2) luxurious(3) ,(4) reliable(5) and(6) practical(7) .(8) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) a(3) combination(4) of(5) the(6) four(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Not(1) a(2) compromise(3) between(4) them(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			For(1) the(2) last(3) few(4) years(5) I(6) 've(7) had(8) a(9) decent(10) amount(11) of(12) feedback(13) from(14) Maxima(15) owning(16) friends(17) ,(18) and(19) it(20) 's(21) been(22) nothing(23) but(24) positive(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) driven(3) them(4) ,(5) and(6) loved(7) the(8) ride(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			My(1) girlfriend(2) had(3) wanted(4) one(5) as_well(6) ,(7) so(8) when(9) it(10) was(11) time(12) for(13) us(14) to(15) buy(16) a(17) couple(18) new(19) ((20) semi-new(21) )(22) cars(23) for(24) the(25) both(26) of(27) us(28) to(29) share(30) ,(31) the(32) Maxima(33) was(34) a(35) must-have(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			And(1) it(2) 's(3) been(4) nothing(5) but(6) a(7) joy(8) to(9) own(10) since(11) day_one(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			True(1) to(2) my(3) past(4) experiences(5) ,(6) the(7) ride(8) and(9) build(10) of(11) the(12) car(13) is(14) superb(15) .(16) 
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			No(1) point(2) in(3) mentioning(4) the(5) looks(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			IMO(1) it(2) 's(3) one(4) of(5) the(6) nicest(7) looking(8) cars(9) on(10) the(11) road(12) ,(13) and(14) got(15) the(16) smoky(17) metalic(18) gray(19) color(20) ,(21) you(22) know(23) the(24) rest(25) .(26) 
+			<opinion polarity="+" feature="design" opWords="7,8"/>
+		</sentence>
+		<sentence id="8">
+			We(1) bought(2) the(3) SE(4) model(5) ,(6) used(7) with(8) very(9) low(10) mileage(11) .(12) 
+			<opinion polarity="-" feature="gas" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			It(1) 's(2) got(3) very(4) nice(5) power(6) for(7) its(8) class(9) .(10) 
+			<opinion polarity="+" feature="horsepower" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Surprising(1) acceleration(2) ,(3) good(4) breaking(5) ,(6) and(7) superb(8) turning(9) with(10) little(11) to(12) no(13) body(14) roll(15) around(16) corners(17) .(18) 
+			<opinion polarity="+" feature="turning radius" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			Gas(1) mileage(2) is(3) good(4) considering(5) its(6) power(7) .(8) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			Very(1) low(2) engine(3) noise(4) ,(5) all(6) but(7) inaudible(8) at(9) an(10) idle(11) or(12) low(13) RPM(14) 's(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Wind(1) noise(2) is(3) low(4) .(5) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) no(3) reason(4) to(5) doubt(6) this(7) car(8) 's(9) reliability(10) ;(11) my(12) current(13) experience(14) and(15) track(16) record(17) of(18) the(19) Maxima(20) make(21) me(22) feel(23) like(24) the(25) only(26) things(27) we(28) 'll(29) have(30) to(31) put(32) into(33) this(34) car(35) are(36) oil(37) ,(38) air(39) filters(40) ,(41) and(42) gas(43) .(44) 
+		</sentence>
+		<sentence id="15">
+			For(1) a(2) very(3) long(4) time(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Our(1) other(2) car(3) ((4) a(5) Pontiac_Grand_Am_GT(6) )(7) has(8) already(9) needed(10) servicing(11) on(12) two(13) occasions(14) ,(15) and(16) the(17) two(18) were(19) purchased(20) the(21) same(22) time(23) ,(24) with(25) the(26) Grand_Am(27) being(28) the(29) far(30) lower(31) mileage(32) car(33) of(34) the(35) two(36) ((37) less(38) than(39) half(40) )(41) The(42) interior(43) 's(44) more(45) fun(46) .(47) 
+		</sentence>
+		<sentence id="17">
+			There(1) 's(2) a(3) sense(4) of(5) vastness(6) in(7) the(8) mid-sized(9) car(10) ,(11) thanks(12) to(13) the(14) slope(15) of(16) the(17) dashboard(18) and(19) width(20) of(21) the(22) car(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			The(1) Bose(2) sound(3) system(4) 's(5) very(6) nice(7) .(8) 
+			<opinion polarity="+" feature="sound system" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="19">
+			Not(1) mind-blowing(2) ,(3) but(4) a(5) step(6) up(7) from(8) standard(9) fare(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="20">
+			The(1) cassette(2) and(3) CD(4) combo(5) 's(6) very(7) useful(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			The(1) heated(2) seats(3) may(4) very(5) well(6) be(7) my(8) girlfriend(9) 's(10) single(11) favorite(12) feature(13) ,(14) and(15) they(16) do(17) the(18) job(19) well(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="22">
+			The(1) AC(2) is(3) not(4) the(5) strongest(6) ,(7) but(8) it(9) 'll(10) drop(11) your(12) car(13) to(14) an(15) acceptable(16) 65(17) degrees(18) ,(19) and(20) keep(21) it(22) there(23) without(24) freezing(25) you(26) out(27) or(28) forcing(29) you(30) to(31) change(32) settings(33) to(34) maintain(35) a(36) comfort(37) level(38) .(39) 
+			<opinion polarity="-" feature="ac" featWords="2" opWords="4,6"/>
+		</sentence>
+		<sentence id="23">
+			The(1) seats(2) are(3) firm(4) yet(5) comfortable(6) .(7) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="24">
+			Add(1) the(2) sunroof(3) and(4) you(5) 've(6) got(7) a(8) car(9) that(10) 's(11) simply(12) fun(13) to(14) be(15) in(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			As(1) for(2) simple(3) owner(4) servicing(5) ,(6) things(7) could(8) not(9) be(10) more(11) convenient(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			Looking(1) under(2) the(3) hood(4) immediately(5) gave(6) me(7) yet(8) another(9) reason(10) to(11) consider(12) this(13) a(14) car(15) done(16) right(17) on(18) all(19) fronts(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			Translucency(1) allows(2) for(3) easy(4) gauging(5) of(6) common(7) fluids(8) ,(9) and(10) everything(11) 's(12) just(13) plain(14) neat(15) and(16) orderly(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			The(1) only(2) negative(3) thing(4) I(5) 've(6) witnessed(7) regarding(8) this(9) car(10) are(11) *(12) potentially(13) *(14) the(15) seats(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) leather(2) feels(3) to(4) be(5) aging(6) a_bit(7) ,(8) we(9) 'll(10) have(11) to(12) look(13) into(14) some(15) means(16) of(17) treating(18) it(19) without(20) staining(21) ourselves(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			I(1) will(2) not(3) jump(4) the(5) gun(6) and(7) declare(8) the(9) seats(10) a(11) problem(12) ,(13) just(14) yet(15) .(16) 
+		</sentence>
+		<sentence id="31">
+			They(1) 're(2) just(3) apparently(4) harder(5) and(6) dryer(7) than(8) day_one(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			Not(1) unpleasant(2) or(3) old(4) looking(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			Best(1) car(2) I(3) 've(4) had(5) the(6) pleasure(7) of(8) owning(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="34">
+			It(1) 's(2) a(3) fun(4) car(5) to(6) drive(7) for(8) a(9) single(10) person(11) ,(12) a(13) great(14) family(15) car(16) and(17) a(18) superb(19) blend(20) of(21) luxury(22) ,(23) sportiness(24) and(25) practicality(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="35">
+			I(1) 'd(2) love(3) to(4) see(5) more(6) American(7) cars(8) with(9) this(10) worksmanship(11) and(12) efficiency(13) .(14) 
+		</sentence>
+		<sentence id="36">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) SE(16) ,(17) Automatic(18) transmission(19) ,(20) loaded(21) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="306" item="JVC HAFX33P Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Marshmallows(1) may(2) be(3) more(4) comfortable(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Comfort(1) ,(2) Cable(3) microphonics(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) absolutely(3) need(4) an(5) in(6) ear(7) headphone(8) ,(9) and(10) can(11) not(12) afford(13) to(14) get(15) something(16) more(17) expensive(18) ,(19) these(20) will(21) hold(22) you(23) over(24) temporarily(25) if(26) you(27) can(28) get(29) past(30) the(31) comfort(32) issues(33) .(34) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) my(2) search(3) for(4) portable(5) headphones(6) ,(7) I(8) ended(9) up(10) with(11) these(12) and(13) the(14) KSC-75(15) headphones(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Portable(1) rig(2) for(3) testing(4) :(5) Nano(6) 1st(7) gen(8) Go-Vibe(9) 5(10) Headphone_Amp(11) ((12) no_longer(13) in(14) production(15) )(16) Custom(17) doc(18) to(19) line(20) out(21) Comfort(22) :(23) I(24) may(25) not(26) be(27) a(28) fair(29) judge(30) on(31) the(32) comfort(33) with(34) these(35) ;(36) as(37) they(38) are(39) the(40) first(41) IEM(42) s(43) ((44) in(45) ear(46) monitors(47) )(48) that(49) I(50) 've(51) ever(52) tried(53) .(54) 
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) first(3) put(4) the(5) marshmallows(6) in(7) ,(8) I(9) noticed(10) that(11) my(12) ears(13) were(14) not(15) exactly(16) happy(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Since(1) then(2) I(3) have(4) not(5) been(6) able(7) to(8) wear(9) them(10) for(11) more(12) then(13) 20(14) minutes(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Since(1) these(2) where(3) going(4) to(5) be(6) portable(7) headphones(8) ,(9) I(10) went(11) for(12) a(13) walk(14) ,(15) and(16) every(17) step(18) I(19) took(20) transfered(21) to(22) the(23) headphones(24) with(25) a(26) load(27) thud(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			Sound(1) :(2) On(3) my(4) first(5) listen(6) the(7) bass(8) seemed(9) to(10) over(11) power(12) the(13) mids(14) and(15) highs(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) decided(2) to(3) burn(4) them(5) in(6) with(7) Pink_Noise(8) ,(9) which(10) helped(11) tame(12) the(13) bass(14) some(15) ,(16) but(17) it(18) was(19) still(20) over(21) powering(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			The(1) mids(2) seemed(3) veiled(4) and(5) the(6) highs(7) where(8) decent(9) .(10) 
+			<opinion polarity="-" feature="mids" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="highs" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			The(1) cord(2) on(3) these(4) headphones(5) really(6) leaves(7) allot(8) to(9) be(10) desired(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			The(1) cord(2) has(3) very(4) bad(5) microphonics(6) ,(7) meaning(8) with(9) every(10) move(11) the(12) sound(13) is(14) transfered(15) up(16) the(17) cord(18) to(19) your(20) ear(21) .(22) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="5,6" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			Final_Thoughts(1) :(2) For(3) $20(4) ,(5) there(6) pretty(7) attractive(8) ,(9) and(10) do(11) not(12) sound(13) terrible(14) ,(15) but(16) I(17) would(18) recommend(19) the(20) Koss(21) KSC-75(22) over(23) these(24) .(25) 
+			<opinion polarity="+" feature="appearance" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="sound quality" opWords="12,13,14"/>
+		</sentence>
+		<sentence id="12">
+			The(1) Koss(2) can(3) usually(4) be(5) found(6) cheaper(7) and(8) sound(9) allot(10) better(11) .(12) 
+		</sentence>
+	</text>
+</review>

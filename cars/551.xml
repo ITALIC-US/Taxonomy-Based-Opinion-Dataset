@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="551" item="1995 Mitsubishi Mirage" rating="3">
+	<title>
+		<sentence id="1">
+			For(1) the(2) money(3) ,(4) a(5) good(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low(1) cost(2) ,(3) descent(4) power(5) for(6) size(7) .(8) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) resale(2) value(3) 
+			<opinion polarity="-" feature="resale value" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Though(1) I(2) have(3) completely(4) converted(5) to(6) being(7) a(8) Nissan(9) owner(10) ,(11) I(12) owned(13) four(14) Mirages(15) in(16) the(17) past(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Okay(1) that(2) is(3) not(4) completely(5) honest(6) ,(7) actually(8) I(9) have(10) owned(11) three(12) mirages(13) and(14) a(15) Eagle_Summit(16) ((17) which(18) is(19) the(20) same(21) car(22) just(23) different(24) name(25) )(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) been(3) my(4) experience(5) that(6) while(7) they(8) are(9) not(10) the(11) best(12) compact(13) car(14) there(15) is(16) ,(17) for(18) the(19) money(20) they(21) are(22) reliable(23) and(24) okay(25) to(26) look(27) at(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="25"/>
+			<opinion polarity="+" feature="reliability" opWords="23"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			My(1) last(2) Mirage(3) was(4) a(5) 1995(6) model(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) traded(2) it(3) in(4) last(5) summer(6) for(7) my(8) 99(9) Nissan_Maxima(10) ((11) a(12) good(13) trade(14) if(15) I(16) might(17) say(18) )(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			My(1) last(2) Mirage(3) had(4) a(5) few(6) issues(7) ,(8) we(9) just(10) were(11) in(12) need(13) of(14) a(15) large(16) car(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			As(1) for(2) the(3) power(4) ,(5) it(6) did(7) not(8) have(9) the(10) peep(11) that(12) our(13) Sentra(14) has(15) ,(16) but(17) it(18) would(19) hold(20) it(21) 's(22) own(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			One(1) of(2) our(3) biggest(4) complaints(5) is(6) that(7) the(8) Mirage(9) is(10) not(11) a(12) distance(13) car(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			In(1) other(2) words(3) ,(4) you(5) do(6) not(7) want(8) to(9) drive(10) around(11) for(12) any(13) length(14) of(15) time(16) in(17) the(18) Mirage(19) over(20) a(21) couple(22) hours(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) seats(2) are(3) not(4) designed(5) as_well(6) as(7) one(8) would(9) hope(10) for(11) longer(12) trips(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			There(1) were(2) many(3) occassions(4) when(5) my(6) wife(7) and(8) I(9) went(10) on(11) ten(12) hour(13) trips(14) in(15) the(16) Mirage(17) ,(18) and(19) it(20) would(21) just(22) about(23) kill(24) us(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Comfort(1) is(2) certainly(3) an(4) issue(5) in(6) this(7) model(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Mirages(1) maintain(2) their(3) value(4) on(5) the(6) same(7) level(8) as(9) a(10) domestic(11) car(12) of(13) the(14) same(15) size(16) and(17) inital(18) cost(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			Would(1) I(2) own(3) one(4) again(5) ?(6) 
+		</sentence>
+		<sentence id="15">
+			Possibly(1) but(2) I(3) am(4) pretty(5) much(6) a(7) Nissan(8) man(9) now(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			If(1) I(2) had(3) a(4) child(5) would(6) I(7) let(8) them(9) learn(10) to(11) drive(12) in(13) it(14) ?(15) 
+		</sentence>
+		<sentence id="17">
+			Yes(1) I(2) think(3) that(4) the(5) Maxima(6) is(7) a(8) fairly(9) safe(10) car(11) .(12) 
+			<opinion polarity="+" feature="safety" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="18">
+			I(1) had(2) a(3) fender(4) bender(5) in(6) a(7) Wal-Mart(8) parking(9) lot(10) one(11) time(12) and(13) my(14) car(15) only(16) got(17) a(18) scratch(19) while(20) the(21) other(22) car(23) ((24) a(25) Protege(26) )(27) did(28) not(29) fair(30) nearly(31) as_well(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			This(1) car(2) is(3) great(4) for(5) a(6) college(7) student(8) or(9) young(10) driver(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="20">
+			Enough(1) power(2) to(3) go(4) places(5) ,(6) but(7) not(8) enough(9) to(10) get(11) them(12) in(13) trouble(14) .(15) 
+		</sentence>
+	</text>
+</review>

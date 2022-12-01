@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="909" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			The(1) size(2) of(3) a(4) bug(5) too(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			drives(1) decent(2) 
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) new(2) 2000(3) volkswagon(4) beetle(5) is(6) way(7) to(8) small(9) for(10) the(11) average(12) person(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) much(3) smaller(4) than(5) your(6) average(7) compact(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) no(3) room(4) in(5) the(6) front(7) or(8) back(9) ,(10) the(11) stereo(12) system(13) is(14) not(15) the(16) greatest(17) I(18) have(19) ever(20) heard(21) ,(22) and(23) it(24) has(25) no(26) mpower(27) .(28) 
+			<opinion polarity="-" feature="sound system" featWords="12,13" opWords="15,17"/>
+		</sentence>
+		<sentence id="4">
+			Most(1) people(2) say(3) they(4) get(5) it(6) because(7) they(8) think(9) it(10) looks(11) cool(12) ((13) its(14) the(15) latest(16) trend(17) )(18) but(19) personally(20) ,(21) I(22) think(23) the(24) design(25) is(26) not(27) that(28) great(29) .(30) 
+			<opinion polarity="+" feature="design" opWords="11,12"/>
+			<opinion polarity="-" feature="design" featWords="25" opWords="27,29"/>
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) this(3) car(4) is(5) higher(6) priced(7) than(8) other(9) compact(10) cars(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) good(3) things(4) that(5) I(6) can(7) say(8) about(9) this(10) car(11) is(12) that(13) its(14) drives(15) pretty(16) well(17) and(18) is(19) fairly(20) reliable(21) .(22) 
+			<opinion polarity="+" feature="reliability" opWords="21" potency="20"/>
+			<opinion polarity="+" feature="ride quality" opWords="15,17" potency="16"/>
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) only(3) recommend(4) this(5) car(6) to(7) really(8) small(9) people(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			Please(1) check(2) out(3) my(4) other(5) opinions(6) .(7) bbeck01(8) 
+		</sentence>
+	</text>
+</review>

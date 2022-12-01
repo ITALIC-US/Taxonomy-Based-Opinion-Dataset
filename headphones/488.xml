@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="488" item="Sennheiser PX 100 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Headphones(1) ...(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) quality(2) ,(3) Comfort(4) ,(5) Construction_&_Price(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			There(1) are(2) none(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) reviews(3) in(4) Epinions(5) and(6) a(7) few(8) other(9) sites(10) I(11) decided(12) to(13) go(14) an(15) buy(16) a(17) pair(18) of(19) PX(20) 100(21) phones(22) for(23) my(24) iPod(25) mini(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			In(1) a(2) word(3) -(4) WOW(5) !(6) 
+		</sentence>
+		<sentence id="3">
+			They(1) sound(2) great(3) .(4) 
+			<opinion polarity="+" feature="sound quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) purchased(2) my(3) first(4) pair(5) of(6) Sennheiser(7) headphones(8) over(9) 20(10) years(11) ago(12) and(13) know(14) that(15) they(16) make(17) quality(18) products(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) PX(2) 100(3) will(4) hold(5) their(6) own(7) with(8) any(9) of(10) the(11) so(12) called(13) studio(14) phones(15) out(16) there(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) quality(3) ,(4) comfort(5) and(6) price(7) will(8) make(9) the(10) PX(11) 100(12) the(13) standard(14) for(15) portable(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			They(1) come(2) in(3) white(4) to(5) match(6) the(7) Apple(8) iPod(9) line(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Included(1) is(2) a(3) neat(4) hard(5) plastic(6) carry(7) case(8) .(9) 
+			<opinion polarity="+" feature="case" featWords="8" opWords="4"/>
+			<opinion polarity="+" feature="case" featWords="8" opWords="5,6"/>
+		</sentence>
+		<sentence id="9">
+			Look(1) just(2) go(3) buy(4) a(5) pair(6) ,(7) I(8) assure(9) you(10) that(11) you(12) will(13) not(14) regret(15) it(16) .(17) 
+		</sentence>
+	</text>
+</review>

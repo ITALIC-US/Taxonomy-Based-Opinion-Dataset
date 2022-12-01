@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="673" item="1998 Honda CR-V" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) gas(2) mileage(3) ....(4) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) gas(2) mileage(3) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) arm(2) rest(3) ...(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) vehicle(4) as(5) a(6) lease(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			The(1) lease(2) on(3) my(4) car(5) was(6) about(7) to(8) expire(9) ,(10) and(11) I(12) needed(13) a(14) replacement(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Being(1) in(2) real(3) estate(4) ,(5) I(6) needed(7) something(8) that(9) could(10) carry(11) an(12) extra(13) 4(14) people(15) ,(16) get(17) around(18) in(19) rough(20) terrain(21) ,(22) and(23) get(24) good(25) gas(26) mileage(27) .(28) 
+			<opinion polarity="+" feature="gas" featWords="26,27" opWords="25"/>
+		</sentence>
+		<sentence id="4">
+			The(1) Honda_CRV(2) was(3) the(4) answer(5) !(6) 
+		</sentence>
+		<sentence id="5">
+			For(1) the(2) time(3) that(4) I(5) had(6) this(7) vehicle(8) ,(9) it(10) served(11) me(12) pretty(13) well(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) thing(3) that(4) bothered(5) me(6) was(7) the(8) lack(9) of(10) a(11) passenger(12) side(13) left(14) arm(15) rest(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) back(2) had(3) them(4) ,(5) but(6) the(7) from(8) did(9) not(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			I(1) thought(2) that(3) was(4) pretty(5) stupid(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			This(1) is(2) a(3) good(4) vehicle(5) for(6) just(7) about(8) anyone(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			If(1) it(2) only(3) had(4) an(5) arm(6) rest(7) ....(8) 
+		</sentence>
+	</text>
+</review>

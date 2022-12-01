@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="211" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Nissan_Maxima(1) --(2) what(3) a(4) car(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) ,(2) good(3) gas(4) mileage(5) ,(6) good(7) leg(8) room(9) ,(10) low(11) dashboard(12) gives(13) total(14) view(15) of(16) the(17) road(18) 
+			<opinion polarity="+" feature="leg room" featWords="8,9" opWords="7"/>
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			seats(1) are(2) a(3) little(4) thin(5) ,(6) and(7) the(8) car(9) is(10) quite(11) average(12) in(13) appearance(14) 
+			<opinion polarity="-" feature="seat" featWords="1" opWords="5" potency="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) got(3) back(4) from(5) another(6) business(7) trip(8) where(9) Avis(10) rented(11) me(12) a(13) Nissan_Maxima_LX(14) this(15) time(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			This(1) 2000(2) model(3) had(4) 780_miles(5) on(6) it(7) and(8) was(9) in(10) fantastic(11) shape(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) drove(2) it(3) a(4) total(5) of(6) 60_miles(7) ,(8) so(9) my(10) epinion(11) is(12) just(13) about(14) comfort(15) ,(16) pick(17) up(18) ,(19) looks(20) and(21) handling(22) --(23) not(24) about(25) reliability(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			The(1) good(2) :(3) --(4) Wonderful(5) pick(6) up(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			It(1) had(2) more(3) power(4) than(5) I(6) anticipated(7) ,(8) making(9) for(10) a(11) jerky(12) ride(13) at(14) first(15) .(16) 
+			<opinion polarity="-" feature="ride quality" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 'd(2) rather(3) a(4) jerky(5) powerful(6) ride(7) instead_of(8) a(9) smooth(10) weak(11) one(12) .(13) 
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="ride quality" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			It(1) only(2) took(3) me(4) a(5) few(6) seconds(7) to(8) adapt(9) to(10) this(11) power(12) .(13) --(14) The(15) dashboard(16) is(17) well-suited(18) for_short(19) drivers(20) .(21) 
+			<opinion polarity="+" feature="dash" featWords="16" opWords="18"/>
+		</sentence>
+		<sentence id="8">
+			Though(1) I(2) 'm(3) not(4) short(5) ,(6) I(7) can(8) appreciate(9) this(10) feature(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) dashboard(2) does(3) not(4) come(5) above(6) the(7) top(8) of(9) the(10) steering(11) wheel(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			It(1) slopes(2) up(3) gradually(4) at(5) modern(6) angles(7) .(8) --(9) The(10) middle(11) console(12) is(13) well-designed(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) one(3) of(4) those(5) that(6) lifts(7) up(8) to(9) reveal(10) storage(11) space(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			The(1) bottom(2) level(3) is(4) deep(5) and(6) wide(7) --(8) plenty_of(9) room(10) for(11) CDs(12) ,(13) tapes(14) ,(15) maps(16) ,(17) etc.(18) Then(19) there(20) is(21) a(22) middle(23) level(24) that(25) is(26) lifted(27) separately(28) so_that(29) you(30) can(31) store(32) flat(33) items(34) there(35) without(36) having(37) them(38) fall(39) out(40) when(41) you(42) lift(43) the(44) center(45) to(46) get(47) to(48) the(49) bottom(50) .(51) 
+		</sentence>
+		<sentence id="13">
+			And(1) to(2) top(3) it(4) all(5) off(6) ,(7) the(8) very(9) top(10) of(11) the(12) console(13) raises(14) and(15) lowers(16) to(17) accommodate(18) elbow(19) levels(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			Really(1) a(2) neat(3) piece(4) of(5) engineering(6) .(7) --(8) The(9) seats(10) are(11) very(12) roomy(13) .(14) 
+			<opinion polarity="+" feature="seat" featWords="10" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="15">
+			The(1) driver(2) 's(3) seat(4) goes(5) back(6) very(7) far(8) for(9) long(10) legs(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) not(3) very(4) wide(5) though(6) .(7) --(8) The(9) gauges(10) are(11) very(12) pleasant(13) to(14) look(15) at(16) .(17) 
+			<opinion polarity="-" feature="size" opWords="3,5"/>
+			<opinion polarity="+" feature="gauges" featWords="10" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="17">
+			Nothing(1) fancy(2) to(3) distract(4) from(5) the(6) road(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			Classy(1) .(2) --(3) Good(4) gas(5) mileage(6) .(7) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="19">
+			On(1) the(2) highway(3) ,(4) I(5) got(6) in(7) the(8) high(9) 20s(10) per(11) gallon(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			The(1) bad(2) --(3) The(4) body(5) is(6) very(7) average(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			It(1) looks(2) like(3) every(4) other(5) mid-sized(6) car(7) on(8) the(9) market(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			Very(1) egg-like(2) .(3) --(4) Like(5) I(6) said(7) above(8) ,(9) the(10) driver(11) 's(12) seat(13) is(14) a(15) little(16) skinny(17) .(18) 
+			<opinion polarity="-" feature="seat" featWords="13" opWords="17"/>
+		</sentence>
+		<sentence id="23">
+			Not(1) much(2) room(3) to(4) spread(5) your(6) knees(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			The(1) automatic(2) shifter(3) and(4) emergency(5) brake(6) seem(7) to(8) invade(9) the(10) driver(11) 's(12) space(13) .(14) --------------------------------(15) Overall(16) ,(17) I(18) was(19) very(20) impressed(21) with(22) this(23) car(24) .(25) 
+		</sentence>
+		<sentence id="25">
+			If(1) I(2) 'm(3) ever(4) in(5) the(6) market(7) for(8) a(9) mid-sized(10) car(11) ,(12) this(13) will(14) be(15) on(16) the(17) top(18) of(19) my(20) list(21) .(22) 
+		</sentence>
+	</text>
+</review>

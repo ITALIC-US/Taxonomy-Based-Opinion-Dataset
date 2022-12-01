@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="273" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Over(1) the(2) years(3) ,(4) it(5) has(6) only(7) gotten(8) better(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) sense(2) of(3) balance(4) and(5) light(6) on(7) its(8) feet(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Original(1) tires(2) mask(3) the(4) cars(5) true(6) abilities(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'm(2) so(3) glad(4) I(5) bought(6) this(7) car(8) !(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) want(2) to(3) keep(4) it(5) forever(6) !(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) the(3) SE(4) model(5) brand(6) new(7) with(8) an(9) automatic(10) transmission(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Our(1) salesperson(2) sold(3) me(4) by(5) telling(6) me(7) how(8) the(9) engine(10) and(11) suspension(12) are(13) the(14) same(15) as(16) the(17) 300ZX(18) ((19) I(20) had(21) a(22) beaten(23) up(24) Z(25) for(26) years(27) )(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) itself(3) sold(4) me(5) by(6) driving(7) easily(8) with(9) a(10) great(11) sense(12) of(13) balance(14) and(15) power(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			It(1) drives(2) as(3) light(4) and(5) easy(6) to(7) maneuver(8) as(9) a(10) much(11) smaller(12) vehicle(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Over(1) time(2) ,(3) I(4) 've(5) come(6) to(7) appreciate(8) this(9) car(10) more(11) and(12) more(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			I(1) just(2) bought(3) tires(4) for(5) my(6) 3(7) year(8) old(9) Maxima(10) and(11) I(12) 've(13) found(14) that(15) the(16) handling(17) is(18) fantastic(19) !(20) 
+			<opinion polarity="+" feature="handling" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="7">
+			I(1) always(2) thought(3) my(4) 300Z(5) was(6) ecstacy(7) on(8) the(9) road(10) -(11) but(12) I(13) now(14) look(15) at(16) those(17) days(18) as(19) the(20) dark(21) ages(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			My_Maxima(1) is(2) so(3) much(4) better(5) !(6) 
+		</sentence>
+		<sentence id="9">
+			It(1) has(2) a(3) greater(4) sense(5) of(6) space(7) and(8) airflow(9) in(10) the(11) cabin(12) ;(13) excellent(14) ergonomics(15) to(16) assist(17) me(18) with(19) defensive(20) driving(21) ;(22) greater(23) field(24) of(25) vision(26) ;(27) seats(28) that(29) give(30) proper(31) back(32) support(33) to(34) my(35) old(36) back(37) injury(38) ;(39) enhanced(40) safety(41) via(42) antilock(43) brakes(44) and(45) airbags(46) ,(47) and(48) it(49) even(50) seems(51) to(52) have(53) less(54) inertia(55) than(56) my(57) sports(58) car(59) did(60) .(61) 
+			<opinion polarity="+" feature="comfort" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="10">
+			I(1) seem(2) to(3) remember(4) that(5) my(6) Z(7) always(8) felt(9) like(10) it(11) was(12) a(13) little(14) too(15) heavy(16) ....(17) Let(18) 's(19) not(20) forget(21) that(22) it(23) also(24) has(25) 4(26) doors(27) ,(28) is(29) exceedingly(30) roomy(31) in(32) the(33) back(34) seat(35) ,(36) and(37) is(38) safer(39) in(40) a(41) crash(42) .(43) 
+			<opinion polarity="+" feature="room" opWords="31"/>
+		</sentence>
+		<sentence id="11">
+			It(1) also(2) does(3) not(4) scrape(5) speedbumps(6) like(7) the(8) Z(9) did(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Essentially(1) ,(2) this(3) car(4) is(5) the(6) perfect(7) family(8) car(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="13">
+			It(1) drives(2) fast(3) for(4) Dad(5) ,(6) is(7) easy(8) to(9) drive(10) and(11) park(12) for(13) Mom(14) ,(15) and(16) has(17) enough(18) back(19) seat(20) space(21) to(22) fit(23) our(24) very(25) large(26) baby(27) boy(28) and(29) his(30) baby(31) seat(32) ((33) we(34) had(35) to(36) buy(37) the(38) largest(39) seat(40) we(41) could(42) )(43) .(44) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) a(3) very(4) sturdy(5) and(6) reliable(7) car(8) that(9) we(10) feel(11) is(12) worth(13) every(14) penny(15) we(16) spend(17) in(18) maintainance(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			We(1) expect(2) this(3) car(4) to(5) last(6) well(7) over(8) 10(9) years(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) SE_Automatic(16) 
+		</sentence>
+	</text>
+</review>

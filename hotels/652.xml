@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="652" item="Best Western Lake Buena Vista Resort Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Hotel(1) ,(2) Great_Value(3) as(4) of(5) 10/2004(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			listed(1) below(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Really(1) could(2) not(3) find(4) any(5) cons(6) considering(7) the(8) price(9) we(10) paid(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) stayed(2) at(3) Best_Western_Lake_Buena_Vista_Resort_Hotel(4) in(5) LBV(6) and(7) I(8) must(9) say(10) ,(11) it(12) was(13) a(14) great(15) experience(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) noticed(2) the(3) negative(4) reviews(5) written(6) before(7) here(8) ,(9) and(10) wonder(11) if(12) they(13) would(14) have(15) the(16) same(17) experience(18) now(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Booked(1) through(2) Priceline(3) ,(4) these(5) rooms(6) were(7) clean(8) ,(9) in(10) excellent(11) shape(12) ,(13) no(14) mold(15) ,(16) great(17) service(18) .(19) 
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="8"/>
+			<opinion polarity="+" feature="service" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) in(3) the(4) lobby(5) and(6) at(7) the(8) Pizza_Hut(9) express(10) were(11) wonderful(12) .(13) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="12"/>
+		</sentence>
+		<sentence id="5">
+			Great(1) value(2) ,(3) great(4) location(5) ,(6) with(7) Disney(8) shuttle(9) service(10) ,(11) great(12) hotel(13) .(14) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="hotel" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			For(1) those(2) of(3) who(4) do(5) not(6) know(7) ,(8) this(9) location(10) was(11) the(12) former(13) Travelodge_Lake_Buena_Vista(14) ,(15) and(16) it(17) is(18) an(19) older(20) building(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			But(1) I(2) think(3) they(4) have(5) solved(6) all(7) of(8) their(9) transition(10) pains(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) want(3) to(4) avoid(5) a(6) mold(7) ridden(8) ,(9) badly(10) serviced(11) hotel(12) ,(13) and(14) pay(15) 4(16) star(17) prices(18) for(19) a(20) one(21) star(22) hotel(23) ,(24) stay(25) at(26) the(27) Wyndham_Interntional_Drive(28) ;(29) absolutely(30) terrible(31) .(32) 
+			<opinion polarity="-" feature="service" opWords="10,11"/>
+		</sentence>
+	</text>
+</review>

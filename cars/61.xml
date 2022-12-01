@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="61" item="2001 Ford Crown Victoria" rating="5">
+	<title>
+		<sentence id="1">
+			2001(1) Crown_Vic(2) ,(3) IS(4) the(5) pick(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Dependable(1) and(2) safe(3) .(4) 
+			<opinion polarity="+" feature="safety" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Extensive(1) warranty(2) coverage(3) available(4) .(5) 
+			<opinion polarity="+" feature="warranty" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) have(2) found(3) NOTHING(4) unsatisfactory(5) with(6) this(7) particular(8) vehicle(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) bottom(2) line(3) is(4) simply(5) this(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Public(1) service(2) agencies(3) use(4) this(5) model(6) quite(7) extensively(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			They(1) do(2) not(3) squander(4) their(5) ...(6) or(7) our(8) money(9) for(10) that(11) matter(12) ...(13) on(14) duds(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) find(3) some(4) of(5) General_Motors(6) '(7) "(8) land(9) yachts(10) "(11) appealing(12) but(13) do(14) not(15) want(16) to(17) part(18) with(19) the(20) change(21) for(22) them(23) and(24) you(25) 're(26) considering(27) a(28) "(29) luxury(30) vehicle(31) "(32) ...(33) you(34) are(35) near(36) the(37) end(38) of(39) your(40) search(41) if(42) you(43) 're(44) thinking(45) Crown_Victoria(46) .(47) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) an(3) LX(4) in_1995(5) and(6) wondered(7) then(8) what(9) more(10) could(11) they(12) add(13) in(14) the(15) way(16) of(17) options(18) !(19) 
+		</sentence>
+		<sentence id="3">
+			The(1) 95(2) I(3) drove(4) had(5) 15(6) "(7) wheels(8) but(9) the(10) 98(11) I(12) went(13) for(14) has(15) the(16) 16(17) "(18) equipped(19) and(20) I(21) could(22) definitely(23) notice(24) a(25) difference(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			The(1) Crown_Victoria_WILL(2) seat(3) 6(4) grown(5) adults(6) comfortably(7) but(8) I(9) think(10) somebody(11) must(12) have(13) had(14) the(15) idea(16) of(17) 2(18) sets(19) of(20) couples(21) taking(22) an(23) interstate(24) drive(25) in(26) mind(27) when(28) this(29) car(30) was(31) developed(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			I(1) honestly(2) have(3) not(4) looked(5) into(6) towing(7) capabilities(8) of(9) this(10) car(11) but(12) feel(13) certain(14) even(15) the(16) basic(17) engine(18) could(19) handle(20) whatever(21) is(22) latched(23) to(24) it(25) .(26) 
+			<opinion polarity="-" feature="engine" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="6">
+			Besides(1) the(2) fact(3) that(4) this(5) model(6) has(7) a(8) distinctive(9) ,(10) classy(11) look(12) to(13) it(14) ,(15) this(16) car(17) seems(18) to(19) have(20) a(21) well-engineered(22) background(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="22"/>
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="7">
+			Law(1) enforcement(2) agencies(3) have(4) been(5) using(6) Crown_Victoria(7) for(8) what(9) appears(10) to(11) me(12) as(13) a(14) record(15) number(16) of(17) years(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			If(1) that(2) were(3) my(4) main(5) comparison(6) ,(7) then(8) let(9) it(10) be(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) do(2) not(3) know(4) if(5) the(6) "(7) Interceptor(8) "(9) model(10) is(11) available(12) for(13) the(14) public(15) but(16) I_WISH(17) it(18) were(19) !(20) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) satisfied(3) with(4) what(5) general(6) production(7) is(8) offering(9) and(10) would(11) like(12) to(13) see(14) an(15) unbiased(16) comparison(17) with(18) some(19) of(20) Mercedes_Benz(21) 's(22) offerings(23) ...(24) really(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			I(1) personally(2) think(3) the(4) Crown_Victoria(5) could(6) win(7) over(8) MB(9) enthusiasts(10) hands(11) down(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) have(3) the(4) time(5) ,(6) test(7) drive(8) one(9) and(10) do(11) not(12) be(13) hesitant(14) to(15) pin(16) the(17) accelerator(18) ,(19) ((20) safely(21) )(22) to(23) the(24) floor(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) is(3) BIG(4) but(5) it(6) has(7) power(8) to(9) spare(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			It(1) does(2) NOT(3) have(4) an(5) "(6) all(7) over(8) the(9) road(10) "(11) feel(12) to(13) it(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			It(1) 's(2) a(3) good(4) ,(5) safe(6) ,(7) solidly(8) built(9) machine(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="8,9"/>
+			<opinion polarity="+" feature="safety" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			Pssst(1) ,(2) when(3) I(4) was(5) young(6) and(7) dumb(8) ,(9) I(10) did(11) not(12) even(13) like(14) Ford(15) ,(16) but(17) that(18) was(19) a(20) carry-over(21) from(22) a(23) "(24) Ford(25) ,(26) breakfast(27) of(28) Chevys(29) "(30) T-shirt(31) .(32) 
+		</sentence>
+		<sentence id="17">
+			This(1) has(2) been(3) my(4) opinion(5) ...(6) thanks(7) for(8) reading(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

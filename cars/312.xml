@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="312" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Civic(2) sensation(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			economy(1) ,(2) comfort(3) ,(4) reliability(5) ,(6) safety(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			power(1) ,(2) performance(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) will(2) not(3) go(4) through(5) the(6) history(7) of(8) the(9) Civic(10) ,(11) or(12) its(13) place(14) in(15) modern(16) driving(17) with(18) you(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			We(1) have(2) all(3) seen(4) the(5) popularity(6) of(7) the(8) Civic(9) grow(10) with(11) each(12) passing(13) year(14) ,(15) as(16) shown(17) by(18) looking(19) out(20) your(21) car(22) 's(23) windshield(24) and(25) seeing(26) so(27) many(28) of(29) them(30) on(31) the(32) road(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			The(1) 2000(2) Civic(3) is(4) as(5) durable(6) as(7) any(8) other(9) year(10) I(11) have(12) yet(13) had(14) the(15) pleasure(16) of(17) driving(18) ,(19) with(20) smooth(21) handling(22) and(23) ride(24) .(25) 
+			<opinion polarity="+" feature="ride quality" featWords="24" opWords="21"/>
+			<opinion polarity="+" feature="handling" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="4">
+			In(1) one(2) review(3) ,(4) I(5) noticed(6) mention(7) of(8) tire(9) squeal(10) in(11) turns(12) ,(13) and(14) have(15) to(16) say(17) that(18) I(19) have(20) not(21) noticed(22) it(23) myself(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			My(1) girlfriend(2) 's(3) Civic(4) handles(5) beautifully(6) in(7) the(8) corners(9) and(10) sharp(11) turns(12) in(13) our(14) area(15) ,(16) and(17) has(18) yet(19) to(20) produce(21) tire(22) squeal(23) .(24) 
+			<opinion polarity="+" feature="handling" opWords="5,6"/>
+		</sentence>
+		<sentence id="6">
+			This(1) may(2) be(3) a(4) problem(5) indicative(6) to(7) the(8) type(9) of(10) road(11) surface(12) in(13) your(14) area(15) ,(16) and(17) not(18) a(19) design(20) flaw(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) stopping(2) power(3) of(4) the(5) Civic(6) is(7) in(8) some(9) question(10) ,(11) and(12) is(13) variant(14) upon(15) weather(16) ,(17) which(18) in(19) South_Florida(20) ,(21) is(22) nasty(23) in(24) the(25) rain(26) .(27) ((28) Then(29) again(30) ,(31) in(32) the(33) rain(34) ,(35) what(36) does(37) stop(38) well(39) ?(40) )(41) For(42) speed(43) and(44) performance(45) ,(46) the(47) Civic(48) ,(49) even(50) the(51) sportier(52) models(53) ,(54) is(55) an(56) economy(57) car(58) ,(59) not(60) a(61) sports(62) car(63) .(64) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) are(3) looking(4) for(5) true(6) speed(7) ,(8) get(9) the(10) V6(11) equipped(12) Accord(13) ,(14) or(15) better(16) yet(17) ,(18) the(19) Prelude(20) ,(21) depending(22) on(23) you(24) passenger(25) and(26) cargo(27) needs(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			Honda(1) does(2) wonders(3) with(4) a(5) 1.5L(6) 4(7) cylinder(8) ,(9) but(10) there(11) is(12) only(13) so(14) much(15) so(16) small(17) and(18) engine(19) can(20) do(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			If(1) your(2) need(3) is(4) for(5) speed(6) ,(7) you(8) 're(9) looking(10) in(11) the(12) wrong(13) place(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) want(3) reliability(4) ,(5) comfort(6) ,(7) economy(8) and(9) safety(10) ,(11) at(12) a(13) reasonable(14) price(15) ,(16) then(17) the(18) Civic(19) was(20) made(21) for(22) you(23) ...(24) 
+			<opinion polarity="+" feature="price" featWords="15" opWords="14"/>
+		</sentence>
+	</text>
+</review>

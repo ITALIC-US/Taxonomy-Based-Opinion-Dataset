@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="379" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			What(1) more(2) can(3) you(4) say(5) the(6) name(7) Saturn(8) says(9) it(10) all(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Durable_Car(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) be(2) tad(3) expensive(4) 
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) love(2) my(3) Saturn_I(4) got(5) this(6) car(7) used(8) 3(9) years(10) ago(11) after(12) my(13) other(14) car(15) caught(16) on(17) fire(18) ,(19) And(20) was(21) totally(22) destroyed(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) is(3) a(4) 1992(5) ,(6) It(7) is(8) excellent(9) on(10) gas(11) ,(12) I(13) have(14) not(15) had(16) that(17) many(18) problems(19) with(20) it(21) ,(22) except(23) from(24) wear(25) and(26) tear(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) a(3) accident(4) with(5) this(6) car(7) when(8) a(9) individual(10) started(11) backing(12) up(13) on(14) a(15) main(16) road(17) ,(18) and(19) hit(20) me(21) in(22) the(23) front(24) of(25) my(26) car(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			It(1) did(2) not(3) damage(4) the(5) frame(6) since(7) it(8) is(9) metal(10) ,(11) and(12) did(13) not(14) do(15) too(16) much(17) damage(18) to(19) the(20) bumper(21) panel(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			I(1) love(2) the(3) fiberglass(4) on(5) it(6) ,(7) It(8) is(9) very(10) durable(11) and(12) economical(13) ,(14) as_well(15) .(16) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+			<opinion polarity="+" feature="reliability" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) not(3) trade(4) my(5) car(6) for(7) anything(8) ,(9) It(10) has(11) even(12) lasted(13) through(14) two(15) hurricanes(16) as_well(17) ,(18) and(19) it(20) even(21) survived(22) from(23) going(24) through(25) water(26) up(27) to(28) the(29) middle(30) of(31) the(32) car(33) .(34) and(35) the(36) engine(37) did(38) not(39) quite(40) .(41) 
+		</sentence>
+	</text>
+</review>

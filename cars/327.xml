@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="327" item="2000 Honda Civic" rating="3">
+	<title>
+		<sentence id="1">
+			2000(1) Civic_EX_Couple(2) -(3) No(4) Power(5) !(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everything_a_Civic(1) has(2) to(3) offer(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack_of_Power(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) purchased(3) a(4) brand(5) new(6) 2000(7) Civic_EX_Couple(8) 5-Speed(9) in(10) CA(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Now(1) ,(2) I(3) 'm(4) not(5) really(6) sure(7) why(8) ,(9) but(10) the(11) car(12) really(13) lacks(14) acceleration(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) takes(2) 5_seconds(3) to(4) go(5) from(6) 0-30(7) mph(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) recently(2) discovered(3) that(4) the(5) vehicle(6) is(7) classified(8) as(9) a_LEV(10) ((11) Low_Emission_Vehicle(12) )(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Does(1) anyone(2) out(3) there(4) experience(5) the(6) same(7) acceleration(8) problem(9) ?(10) 
+		</sentence>
+		<sentence id="6">
+			I(1) suspect(2) the(3) vehicle(4) produces(5) significantly(6) less(7) power(8) because_of(9) the(10) tough(11) CA(12) emission(13) laws(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Any(1) thoughts(2) ?(3) 
+		</sentence>
+		<sentence id="8">
+			It(1) really(2) hurts(3) to(4) see(5) other(6) Civics(7) flying(8) down(9) the(10) street(11) when(12) mine(13) struggles(14) to(15) keep(16) up(17) w(18) /(19) traffic(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			Other(1) than(2) the(3) acceleration(4) problem(5) ,(6) the(7) car(8) is(9) top(10) notch(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="10,11"/>
+		</sentence>
+	</text>
+</review>

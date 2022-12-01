@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="530" item="2001 Volkswagen Jetta TDI" rating="1">
+	<title>
+		<sentence id="1">
+			Jetta(1) not(2) well(3) built(4) 
+			<opinion polarity="-" feature="car" opWords="2,3,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas(1) mileage(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Fun(1) to(2) drive(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dependability(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Comfort(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Expensive(1) oil(2) filter(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Ride(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) is(3) a(4) poor(5) value(6) for(7) the(8) money(9) and(10) should(11) be(12) avoided(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) would(2) not(3) wish(4) the(5) problems(6) I(7) have(8) experienced(9) with(10) this(11) car(12) on(13) anyone(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Now(1) at(2) 30,000_miles(3) my(4) 2001(5) Jetta_TDI(6) has(7) been(8) back(9) to(10) the(11) dealer(12) seven_times(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) had(3) engine(4) problems(5) ((6) loss(7) of(8) power(9) -(10) turbo(11) issues(12) )(13) along_with(14) an(15) oil(16) leak(17) that(18) left(19) four(20) quarts(21) of(22) oil(23) on(24) my(25) garage(26) floor(27) in(28) one(29) evening(30) ((31) a(32) $15(33) seal(34) that(35) took(36) three(37) trips(38) to(39) be(40) repaired(41) correctly(42) )(43) .(44) 
+		</sentence>
+		<sentence id="3">
+			This(1) car(2) has(3) two(4) annoying(5) rattles(6) -(7) one(8) in(9) the(10) head-liner(11) and(12) one(13) on(14) the(15) passenger(16) side(17) door(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) workmanship(2) is(3) not(4) acceptable(5) on(6) either(7) the(8) interior(9) or(10) mechanical(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) not(3) recommend(4) this(5) car(6) to(7) anyone(8) -(9) and(10) I(11) am(12) just(13) being(14) honest(15) because(16) I(17) am(18) in(19) the(20) process(21) of(22) selling(23) this(24) car(25) and(26) hope(27) to(28) get(29) the(30) best(31) resale(32) value(33) possible(34) .(35) 
+			<opinion polarity="+" feature="resale value" featWords="32,33" opWords="31"/>
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) fun(4) to(5) drive(6) and(7) is(8) a(9) good(10) commuter(11) car(12) for(13) the(14) daily(15) driver(16) but(17) is(18) not(19) typical(20) of(21) the(22) usually(23) competent(24) German(25) engineering(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="24"/>
+			<opinion polarity="+" feature="car" featWords="12" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) rear-ended(3) by(4) an(5) SUV(6) and(7) this(8) car(9) did(10) hold(11) up(12) well(13) in(14) the(15) accident(16) but(17) was(18) very(19) costly(20) to(21) repair(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) owned(3) close(4) to(5) ten(6) different(7) VW(8) 's(9) and(10) this(11) car(12) has(13) been(14) my(15) only(16) disappointment(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) talked(3) to(4) other(5) 2001(6) Jetta(7) owners(8) who(9) have(10) had(11) similar(12) issues(13) with(14) the(15) turbo(16) and(17) interior(18) rattles(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			Not(1) what(2) you(3) pay(4) $20,000(5) for(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) also(3) nowhere(4) to(5) place(6) the(7) gas(8) cap(9) while(10) fueling(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			NOTE(1) :(2) With(3) the(4) purchase(5) of(6) this(7) car(8) from(9) a(10) dealer(11) comes(12) 3(13) free(14) oil(15) changes(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			At(1) 15,000_miles(2) I(3) was(4) supposed(5) to(6) get(7) a(8) free(9) oil(10) change(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) took(2) the(3) car(4) to(5) the(6) dealer(7) with(8) 15,600_miles(9) and(10) they(11) refused(12) to(13) change(14) the(15) oil(16) because(17) I(18) was(19) 600_miles(20) over(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			The(1) dealer(2) blamed(3) the(4) manufacturer(5) but(6) when(7) I(8) contacted(9) the(10) manufacturer(11) they(12) blamed(13) the(14) dealer(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Buyer(1) beware(2) -(3) poor(4) support(5) from(6) my(7) experience(8) with(9) the(10) dealer(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) TDI(16) 
+		</sentence>
+	</text>
+</review>

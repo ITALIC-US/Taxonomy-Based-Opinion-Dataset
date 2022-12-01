@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="136" item="1997 Cadillac Eldorado" rating="4">
+	<title>
+		<sentence id="1">
+			Cadillac(1) should(2) stand(3) behind(4) it(5) 's(6) products(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			fast(1) ,(2) responsive(3) ,(4) and(5) safe(6) 
+			<opinion polarity="+" feature="safety" opWords="6"/>
+			<opinion polarity="+" feature="response" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Minor(1) problems(2) add(3) up(4) quick(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) was(3) leased(4) new(5) in(6) 97(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) our(3) second(4) one(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) has(3) always(4) been(5) great(6) with(7) little(8) or(9) no(10) problems(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			Up(1) until(2) lately(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			It(1) seems(2) like(3) as(4) soon(5) as(6) the(7) warrenty(8) expired(9) so(10) did(11) the(12) car(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Lately(1) there(2) have(3) been(4) alot(5) of(6) minor(7) problems(8) like(9) ,(10) a(11) short(12) in(13) the(14) fog(15) light(16) wire(17) ,(18) the(19) back(20) pannels(21) coming(22) unglued(23) ,(24) bareings(25) in(26) the(27) backseat(28) motor(29) going(30) ,(31) but(32) other(33) than(34) that(35) it(36) has(37) been(38) a(39) great(40) car(41) .(42) 
+			<opinion polarity="+" feature="car" featWords="41" opWords="40"/>
+		</sentence>
+		<sentence id="7">
+			For(1) the(2) daily(3) business(4) person(5) or(6) A(7) person(8) with(9) no(10) kids(11) this(12) is(13) definetly(14) the(15) ideal(16) car(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			However(1) i(2) would(3) not(4) recommend(5) this(6) car(7) to(8) people(9) who(10) intend(11) to(12) put(13) alot(14) of(15) wear(16) and(17) tare(18) on(19) there(20) vehicals(21) .(22) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="4,5"/>
+		</sentence>
+	</text>
+</review>

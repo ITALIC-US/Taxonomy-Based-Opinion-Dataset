@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="440" item="1996 Toyota Camry" rating="4">
+	<title>
+		<sentence id="1">
+			Built(1) like(2) a(3) truck(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			big(1) ,(2) roomy(3) ,(4) able(5) to(6) transport(7) well(8) .(9) 
+			<opinion polarity="+" feature="room" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) .(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) looks(2) like(3) a(4) mid(5) size(6) sedan(7) but(8) really(9) I(10) feel(11) that(12) it(13) is(14) a(15) truck(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Okay(1) ,(2) perhaps(3) that(4) is(5) a_bit(6) exaggerated(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) my(4) camery(5) for(6) about(7) four(8) years(9) now(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) bring(2) it(3) in(4) for(5) the(6) usual(7) oil(8) change(9) and(10) services(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			No(1) problem(2) at(3) all(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) at(3) the(4) end(5) of(6) college(7) at(8) the(9) time(10) ,(11) so(12) I(13) ended(14) spending(15) a_ton(16) of(17) time(18) lugging(19) stuff(20) back_and_forth(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Believe(1) it(2) or(3) not(4) ,(5) I(6) even(7) transported(8) a(9) bike(10) in(11) the(12) truck(13) with(14) the(15) back(16) seats(17) down(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Furthermore(1) ,(2) I(3) moved(4) to(5) cali(6) .(7) with(8) this(9) car(10) and(11) drove(12) 1800_miles(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			It(1) drives(2) smoothly(3) ,(4) at(5) times(6) ,(7) I(8) do(9) not(10) even(11) realize(12) I(13) am(14) driving(15) at(16) 80_miles(17) an(18) hour(19) .(20) 
+			<opinion polarity="+" feature="ride quality" opWords="2,3"/>
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) a(3) XLE(4) V6(5) so(6) it(7) has(8) about(9) 190(10) hps(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Great(1) for(2) families(3) and(4) working(5) individuals(6) who(7) do(8) not(9) have(10) the(11) time(12) to(13) fuss(14) with(15) the(16) car(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			One(1) thing(2) is(3) that(4) it(5) seems(6) like(7) a(8) "(9) mom(10) "(11) car(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			I(1) do(2) not(3) have(4) kids(5) but(6) I(7) wish(8) I(9) had(10) a(11) sportier(12) car(13) -(14) like(15) a(16) BMW(17) 328(18) ci(19) .(20) =(21) )(22) Well(23) ,(24) eventually(25) I(26) suppose(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			But(1) if(2) you(3) want(4) a(5) good(6) car(7) ,(8) reliable(9) ,(10) a(11) "(12) working(13) car(14) "(15) that(16) you(17) can(18) keep(19) for(20) years(21) .(22) 
+			<opinion polarity="+" feature="reliability" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) the(3) one(4) you(5) should(6) consider(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			It(1) comes(2) in(3) a(4) less(5) extravegent(6) version(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			Where(1) there(2) is(3) a(4) 4(5) cylinder(6) instead(7) and(8) cloth(9) seats(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) just(3) as(4) good(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) test(3) driving(4) this(5) ,(6) the(7) Maxima(8) ,(9) and(10) the(11) RAV(12) 4(13) ,(14) and(15) the(16) honda(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Besides(1) ,(2) overall(3) if(4) you(5) do(6) decide(7) to(8) sell(9) this(10) ,(11) you(12) get(13) a(14) good(15) return(16) rate(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			I(1) guess(2) it(3) depreciates(4) pretty(5) well(6) compared(7) to(8) most(9) cars(10) .(11) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="206" item="RCA HP150 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Great(1) value(2) for(3) wireless(4) headphones(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Battery(1) life(2) ,(3) range(4) ,(5) price(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Headphones(1) died(2) after(3) 14(4) months(5) ,(6) can(7) get(8) uncomfortable(9) after(10) a(11) while(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) for(5) those(6) times(7) when(8) my(9) wife(10) wants(11) to(12) sleep(13) and(14) I(15) want(16) to(17) stay(18) up(19) and(20) watch(21) the(22) game(23) ,(24) or(25) for(26) those(27) times(28) when(29) I(30) have(31) work(32) to(33) do(34) on(35) the(36) computer(37) and(38) I(39) want(40) to(41) hear(42) the(43) TV(44) that(45) 's(46) in(47) another(48) room(49) .(50) 
+		</sentence>
+		<sentence id="2">
+			These(1) headphones(2) work(3) great(4) for(5) these(6) uses(7) .(8) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) battery(2) life(3) really(4) surprised(5) me(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) used(3) them(4) off(5) and(6) on(7) for(8) a(9) week(10) or(11) so(12) without(13) returning(14) them(15) to(16) the(17) base(18) ,(19) and(20) they(21) have(22) not(23) died(24) on(25) me(26) yet(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			The(1) range(2) is(3) sufficient(4) to(5) allow(6) me(7) to(8) roam(9) anywhere(10) in(11) the(12) house(13) without(14) noticeable(15) interference(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			They(1) can(2) get(3) uncomfortable(4) after(5) a(6) couple(7) of(8) hours(9) ,(10) but(11) what(12) headphones(13) do(14) not(15) ?(16) 
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) definitely(3) recommend(4) this(5) product(6) for(7) those(8) looking(9) for(10) wireless(11) headphones(12) on(13) a(14) budget(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			UPDATE(1) MAY_2005(2) -(3) These(4) headphones(5) have(6) died(7) on(8) me(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			I(1) 've(2) tried(3) new(4) plugs(5) and(6) new(7) batteries(8) but(9) the(10) problem(11) must(12) be(13) internal(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) disappointed(3) in(4) the(5) durability(6) of(7) these(8) -(9) lasting(10) just(11) over(12) a(13) year(14) .(15) 
+			<opinion polarity="-" feature="durability" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			Now(1) that(2) I(3) know(4) how(5) convenient(6) wireless(7) headphones(8) are(9) ,(10) I(11) will(12) be(13) buying(14) a(15) higher(16) end(17) pair(18) .(19) 
+		</sentence>
+	</text>
+</review>

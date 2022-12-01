@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="447" item="Miracle Springs Resort And Spa" rating="3">
+	<title>
+		<sentence id="1">
+			Miracle_Springs(1) :(2) Try_the_Tap_Water(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spa(1) water(2) is(3) pleasant(4) and(5) refreshing(6) .(7) 
+			<opinion polarity="+" feature="spa" featWords="1" opWords="4"/>
+			<opinion polarity="+" feature="spa" featWords="1" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) is(2) spotty(3) .(4) 
+			<opinion polarity="-" feature="service" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) is(3) a(4) decent(5) option(6) if(7) you(8) want(9) a(10) soak(11) in(12) their(13) spas(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Seems(1) to(2) be(3) popular(4) among(5) the(6) senior(7) crowd(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			On(1) my(2) last(3) drive(4) from(5) LA(6) to(7) Phoenix(8) ,(9) I(10) thought(11) it(12) was(13) about(14) time(15) I(16) stopped(17) on(18) the(19) way(20) and(21) checked(22) out(23) what(24) 's(25) in(26) between(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			I(1) considered(2) spending(3) the(4) night(5) in(6) Palm_Springs(7) ,(8) but(9) after(10) sitting(11) in(12) my(13) car(14) for(15) three(16) hours(17) just(18) getting(19) out(20) of(21) the(22) LA(23) freeway(24) system(25) ,(26) the(27) warm(28) waters(29) of(30) Desert_Hot_Springs(31) sounded(32) inviting(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			So(1) instead_of(2) turning(3) south(4) off(5) I-10(6) to(7) Palm_Springs(8) ,(9) I(10) drove(11) north(12) a(13) few(14) miles(15) to(16) the(17) Miracle_Springs_Resort(18) and(19) Spa(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			For(1) some(2) reason(3) ,(4) I(5) was(6) half-expecting(7) the(8) hotel(9) to(10) be(11) surrounded(12) by(13) bubbling(14) hot(15) springs(16) in(17) the(18) desert(19) sand(20) ,(21) but(22) instead(23) the(24) complex(25) encloses(26) eight(27) spas(28) and(29) a(30) pool(31) fed(32) by(33) hot(34) and(35) cold(36) underground(37) aquifers(38) ,(39) respectively(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) itself(3) is(4) next(5) to(6) a(7) residential(8) area(9) and(10) close(11) to(12) the(13) small(14) downtown(15) area(16) but(17) it(18) 's(19) pretty(20) much(21) flatland(22) here(23) ,(24) so(25) the(26) view(27) is(28) fairly(29) unrestricted(30) .(31) 
+			<opinion polarity="+" feature="view" featWords="27" opWords="30" potency="29"/>
+		</sentence>
+		<sentence id="6">
+			After(1) a(2) lengthy(3) check-in(4) wait(5) ((6) the(7) desk(8) staff(9) seems(10) a_tad(11) disorganized(12) -(13) there(14) was(15) much(16) discussion(17) amongst(18) them(19) about(20) which(21) rooms(22) were(23) available(24) )(25) ,(26) I(27) declined(28) to(29) sign(30) up(31) for(32) the(33) spa(34) treatments(35) ((36) yes(37) ,(38) mud(39) facials(40) are(41) for(42) men(43) ,(44) too(45) )(46) ,(47) which(48) run(49) $70(50) on(51) up(52) ,(53) and(54) trudged(55) off(56) to(57) my(58) spacious(59) king-bed(60) room(61) ,(62) which(63) turned(64) out(65) to(66) be(67) quite(68) spacious(69) ,(70) featuring(71) a(72) sofa(73) ,(74) balcony(75) with(76) mountain(77) view(78) ,(79) mid-sized(80) refrigerator(81) and(82) large(83) TV(84) ((85) at_least(86) 27(87) "(88) )(89) with(90) cable(91) .(92) 
+			<opinion polarity="-" feature="front desk" featWords="8" opWords="12"/>
+			<opinion polarity="+" feature="rooms" featWords="61" opWords="59"/>
+			<opinion polarity="+" feature="rooms" featWords="61" opWords="69" potency="68"/>
+		</sentence>
+		<sentence id="7">
+			The(1) pool(2) and(3) spas(4) were(5) too(6) populated(7) for(8) my(9) taste(10) in(11) the(12) afternoon(13) ,(14) with(15) a(16) largely(17) senior(18) crowd(19) ((20) apparently(21) drawn(22) by(23) the(24) reputedly(25) curative(26) nature(27) of(28) the(29) spring(30) water(31) )(32) ,(33) but(34) the(35) crowed(36) seems(37) to(38) thin(39) out(40) in(41) the(42) evening(43) .(44) 
+			<opinion polarity="-" feature="swimming pool" featWords="2" opWords="6,7"/>
+			<opinion polarity="+" feature="spa" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="8">
+			Armed(1) with(2) towels(3) they(4) gave(5) me(6) at(7) the(8) desk(9) and(10) some(11) trunks(12) I(13) bought(14) at(15) the(16) very-small(17) gift(18) shop(19) ,(20) I(21) tried(22) out(23) one(24) of(25) the(26) spas(27) around(28) 8pm(29) -(30) families(31) with(32) kids(33) seem(34) to(35) come(36) out(37) at(38) that(39) time(40) but(41) I(42) found(43) a(44) spa(45) to(46) myself(47) .(48) 
+		</sentence>
+		<sentence id="9">
+			The(1) waters(2) are(3) actually(4) cooled(5) a_bit(6) before(7) arriving(8) in(9) the(10) spas(11) and(12) I(13) would(14) have(15) preferred(16) a(17) little(18) more(19) heat(20) ,(21) but(22) still(23) ,(24) it(25) was(26) quite(27) relaxing(28) to(29) lay(30) back(31) in(32) the(33) water(34) and(35) look(36) at(37) that(38) starry(39) desert(40) sky(41) .(42) 
+		</sentence>
+		<sentence id="10">
+			After(1) soaking(2) in(3) a(4) near-trance(5) ,(6) I(7) eschewed(8) dining(9) in(10) the(11) Joshua_Tree(12) restaurant(13) ((14) Joshua_Tree_National_Park(15) is(16) nearby(17) )(18) ,(19) and(20) opted(21) for(22) room(23) service(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			I(1) ordered(2) a(3) Miracle_Burger(4) ,(5) their(6) homemade(7) cheesecake(8) ,(9) and(10) after(11) a(12) game(13) of(14) guess-what-beer-we-have(15) ,(16) a(17) Heineken(18) .(19) ((20) It(21) 's(22) Miller(23) and(24) Bud(25) country(26) out(27) there(28) )(29) They(30) did(31) warn(32) me(33) that(34) they(35) were(36) busy(37) and(38) the(39) meal(40) would(41) take(42) 30(43) minutes(44) to(45) prepare(46) ,(47) and(48) they(49) were(50) right(51) .(52) 
+		</sentence>
+		<sentence id="12">
+			And(1) the(2) server(3) omitted(4) to(5) leave(6) utensils(7) with(8) the(9) meal(10) ,(11) but(12) was(13) otherwise(14) courteous(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) burger(2) was(3) decent(4) ((5) hardly(6) a(7) miracle(8) )(9) and(10) the(11) cheesecake(12) was(13) pretty(14) good(15) ,(16) even(17) as(18) finger(19) food(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			I(1) was(2) advised(3) by(4) the(5) gift(6) shop(7) cashier(8) to(9) try(10) the(11) town(12) 's(13) famous(14) tap(15) water(16) ,(17) since(18) it(19) also(20) comes(21) from(22) below(23) ,(24) and(25) I(26) have(27) to(28) say(29) ,(30) it(31) 's(32) not(33) bad(34) ,(35) but(36) probably(37) deserves(38) more(39) comment(40) than(41) my(42) unsophisticated(43) water-tasting(44) skills(45) can(46) discern(47) .(48) 
+		</sentence>
+		<sentence id="15">
+			I(1) was(2) tempted(3) to(4) try(5) breakfast(6) in(7) the(8) restaurant(9) the(10) next(11) morning(12) ((13) I(14) was(15) intrigued(16) by(17) the(18) stuffed(19) French(20) toast(21) )(22) ,(23) but(24) it(25) was(26) just(27) as_well(28) ,(29) since(30) checking(31) out(32) was(33) a(34) mirror(35) image(36) of(37) my(38) check-in(39) routine(40) .(41) 
+		</sentence>
+		<sentence id="16">
+			A(1) long(2) wait(3) -(4) although(5) the(6) line(7) was(8) short(9) ,(10) the(11) desk(12) attendants(13) appeared(14) to(15) be(16) short-handed(17) and(18) tied(19) up(20) with(21) answering(22) phones(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			They(1) were(2) quite(3) friendly(4) while(5) discharging(6) me(7) but(8) turned(9) to(10) quibbling(11) with(12) each(13) other(14) as(15) I(16) exited(17) the(18) lobby(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			Maybe(1) they(2) needed(3) to(4) take(5) a(6) dip(7) .(8) 
+		</sentence>
+	</text>
+</review>

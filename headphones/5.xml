@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="5" item="Koss UR40 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) light(2) weigh(3) headphones(4) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="weight" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			light(1) weight(2) ,(3) comfortability(4) ,(5) dynamic(6) range(7) and(8) trebble(9) 
+			<opinion polarity="+" feature="weight" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			short(1) thin(2) cord(3) ,(4) lacks(5) the(6) bass(7) of(8) other(9) headphones(10) of(11) this(12) catagory(13) .(14) 
+			<opinion polarity="-" feature="cord" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="cord" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) really(4) lightweight(5) and(6) have(7) a(8) really(9) good(10) dynamic(11) range(12) .(13) 
+			<opinion polarity="+" feature="weight" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="frequency response" featWords="11,12" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="2">
+			You(1) will(2) not(3) miss(4) any(5) trebble(6) tone(7) with(8) these(9) headphones(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) bass(2) is(3) a_bit(4) weak(5) but(6) the(7) UR-40(8) 's(9) make(10) up(11) for(12) this(13) with(14) comfort(15) and(16) low(17) noise(18) inside(19) or(20) out(21) of(22) the(23) earcups(24) .(25) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) only(2) thing(3) that(4) I(5) would(6) change(7) about(8) these(9) headphones(10) is(11) the(12) cord(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a_bit(3) short(4) and(5) I(6) would(7) prefer(8) to(9) have(10) it(11) come(12) out(13) of(14) one(15) side(16) instead_of(17) both(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) cord(2) is(3) also(4) a_bit(5) thin(6) .(7) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) plastic(2) is(3) not(4) the(5) strongest(6) ,(7) but(8) the(9) headphones(10) do(11) not(12) feel(13) like(14) they(15) will(16) break(17) too(18) easily(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			Overall(1) these(2) are(3) still(4) a(5) must(6) have(7) for(8) music(9) listeners(10) .(11) 
+		</sentence>
+	</text>
+</review>

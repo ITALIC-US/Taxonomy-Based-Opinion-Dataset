@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="331" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Entry-level(1) car(2) for(3) the(4) sport(5) compact(6) enthusiast(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sporty(1) ,(2) reliable(3) ,(4) good(5) handling(6) .(7) 
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			sluggish(1) low(2) end(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recommend(3) this(4) car(5) to(6) younger(7) sport(8) compact(9) car(10) enthusiasts(11) for(12) it(13) 's(14) reliability(15) and(16) aftermarket-friendliness(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) first(4) car(5) that(6) I(7) bought(8) with(9) my(10) own(11) money(12) out(13) of(14) college(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) really(2) do(3) not(4) have(5) much(6) too(7) complain(8) about(9) my(10) decision(11) either(12) .(13) 160(14) horses(15) with(16) a(17) 1.6(18) liter(19) ((20) stock(21) )(22) is(23) not(24) too(25) shabby(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) been(3) a(4) trouble-free(5) 3(6) years(7) and(8) 60,000(9) plus(10) miles(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) still(2) own(3) this(4) car(5) and(6) have(7) had(8) no(9) major(10) problems(11) with(12) it(13) whatsoever(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) extremely(3) aftermarket-friendly(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			In(1) the(2) years(3) following(4) the(5) release(6) of(7) the(8) 1999-2000(9) Si(10) models(11) ,(12) there(13) have(14) been(15) a(16) barrage(17) of(18) high(19) horsepower(20) sport(21) compacts(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			But(1) I(2) believe(3) the(4) 99-00(5) Si(6) model(7) has(8) just(9) the(10) right(11) combination(12) of(13) efficiency(14) and(15) power(16) which(17) sets(18) it(19) apart_from(20) the(21) rest(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			I(1) average(2) 28-30_miles(3) per(4) gallon(5) and(6) in(7) time(8) of(9) inflated(10) gas(11) prices(12) ,(13) that(14) 's(15) a(16) huge(17) relief(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16000.00(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) Si(14) 
+		</sentence>
+	</text>
+</review>

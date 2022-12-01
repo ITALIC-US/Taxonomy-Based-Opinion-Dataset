@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="932" item="2002 Suzuki XL-7" rating="1">
+	<title>
+		<sentence id="1">
+			did(1) we(2) get(3) a(4) dud(5) ?(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Heated(1) seats(2) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) room(2) ,(3) not(4) reliable(5) ,(6) gas(7) mileage(8) poor(9) ,(10) bad(11) brand(12) 
+			<opinion polarity="-" feature="gas" featWords="7,8" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="4,5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			At(1) first(2) ,(3) me(4) and(5) my(6) family(7) were(8) very(9) happy(10) with(11) our(12) XL7(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			We(1) got(2) it(3) in(4) late(5) 2002(6) and(7) needed(8) a(9) family(10) vehicle(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			What(1) happened(2) ?(3) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) to(3) take(4) it(5) to(6) be(7) serviced(8) about(9) 7_times(10) for(11) various(12) things(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) rear(2) differential(3) kept(4) having(5) to(6) be(7) replaced(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			There(1) was(2) also(3) a(4) hideous(5) noise(6) coming(7) from(8) somewhere(9) in(10) the(11) dash(12) that(13) we(14) video(15) taped(16) BUT(17) of(18) course(19) ,(20) it(21) was(22) never(23) heard(24) when(25) we(26) took(27) it(28) in(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) a(3) loud(4) whistle(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			Really(1) horrible(2) sound(3) .(4) 
+		</sentence>
+		<sentence id="9">
+			We(1) just(2) had(3) so(4) many(5) problems(6) with(7) it(8) ,(9) we(10) finally(11) sold(12) it(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Thank(1) goodness(2) !(3) !(4) !(5) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Limited(16) XL7(17) 
+		</sentence>
+	</text>
+</review>

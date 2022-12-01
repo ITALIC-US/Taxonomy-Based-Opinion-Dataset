@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="103" item="2002 Audi S8" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) '(2) practical(3) '(4) sports(5) car(6) in(7) the(8) guise(9) of(10) a(11) '(12) prim(13) and(14) proper(15) '(16) vehicle(17) '(18) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) true(2) sports(3) car(4) masquerading(5) as(6) a(7) '(8) prim(9) and(10) proper(11) '(12) 4(13) door(14) vehicle(15) .(16) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fairly(1) small(2) rear(3) seats(4) .(5) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Build(1) quality(2) levels(3) not(4) up(5) to(6) the(7) Japanese(8) standard(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) what(2) I(3) wanted(4) to(5) spend(6) ((7) $40K(8) )(9) ,(10) this(11) was(12) the(13) best(14) bang(15) for(16) my(17) buck(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In_all(1) the(2) cars(3) I(4) 've(5) driven(6) and(7) owned(8) ,(9) nothing(10) can(11) quite(12) compare(13) to(14) the(15) sound(16) of(17) two(18) turbos(19) spooling(20) up(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Even(1) after(2) owning(3) this(4) car(5) for(6) 4(7) months(8) now(9) ,(10) I(11) still(12) get(13) a(14) smile(15) on(16) my(17) face(18) every(19) time(20) I(21) take(22) my(23) car(24) out(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			My(1) reasoning(2) for(3) purchasing(4) this(5) car(6) :(7) I(8) wanted(9) an(10) pure(11) ,(12) unabashed(13) sports(14) car(15) but(16) required(17) a(18) four(19) door(20) vehicle(21) for(22) work(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) cars(2) I(3) considered(4) before(5) settling(6) on(7) the(8) S4(9) were(10) the(11) Audi(12) A4(13) 3.0(14) ,(15) the(16) BMW(17) 330(18) ,(19) and(20) the(21) Mercedes(22) C320(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Aside(1) from(2) the(3) A4(4) ((5) which(6) I(7) disregarded(8) due(9) to(10) it(11) 's(12) boaty(13) handling(14) characteristics(15) )(16) ,(17) both(18) the(19) BMW(20) 330(21) and(22) MB(23) C320(24) were(25) several(26) thousand(27) more(28) expensive(29) once(30) optioned(31) up(32) to(33) the(34) levels(35) the(36) S4(37) came(38) with(39) .(40) 
+		</sentence>
+		<sentence id="6">
+			Given(1) the(2) tunability(3) of(4) the(5) engine(6) ((7) the(8) two(9) turbos(10) )(11) ,(12) the(13) level(14) of(15) trim(16) the(17) S4(18) came(19) with(20) ,(21) and(22) the(23) fact(24) that(25) a(26) friend(27) was(28) able(29) to(30) get(31) me(32) this(33) car(34) for(35) a(36) hair(37) under(38) 40K(39) ,(40) purchasing(41) this(42) car(43) was(44) a(45) no-brainer(46) .(47) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'm(2) probably(3) not(4) part(5) of(6) the(7) traditional(8) S4(9) buyers(10) demographic(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			I(1) 'm(2) 23(3) ,(4) single(5) ,(6) and(7) have(8) no(9) need(10) for(11) a(12) wagon(13) or(14) larger(15) vehicle(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) 've(2) always(3) owned(4) Hondas_My(5) main(6) considerations(7) were(8) ((9) in(10) the(11) following(12) order(13) of(14) importance(15) )(16) :(17) -(18) how(19) this(20) car(21) handles(22) -(23) how(24) this(25) car(26) accelerates(27) -(28) the(29) comfort(30) level(31) of(32) this(33) car(34) Handling(35) :(36) the(37) handling(38) on(39) this(40) car(41) is(42) sharp(43) and(44) the(45) turn(46) in(47) is(48) excellent(49) .(50) 
+			<opinion polarity="+" feature="handling" featWords="38" opWords="43"/>
+		</sentence>
+		<sentence id="10">
+			Quite(1) simply(2) ,(3) this(4) car(5) out-drives(6) me(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			I(1) push(2) my(3) car(4) to(5) perhaps(6) 30_%(7) of(8) its(9) capabilities(10) but(11) the(12) only(13) thing(14) to(15) note(16) about(17) its(18) performance(19) is(20) that(21) this(22) car(23) carries(24) a(25) 300LB(26) weight(27) penalty(28) compared(29) to(30) other(31) 3series-class(32) cars(33) due(34) to(35) AWD(36) .(37) 
+		</sentence>
+		<sentence id="12">
+			The(1) Quattro(2) system(3) is(4) a(5) masterpiece(6) of(7) engineering(8) in(9) and(10) of(11) itself(12) ((13) the(14) lines(15) you(16) can(17) take(18) in(19) a(20) corner(21) with(22) Quattro(23) still(24) shock(25) me(26) )(27) but(28) you(29) should(30) be(31) aware(32) that(33) there(34) is(35) a(36) weight(37) penalty(38) for(39) this(40) .(41) 
+		</sentence>
+		<sentence id="13">
+			Acceleration(1) :(2) there(3) is(4) nothing(5) quite(6) like(7) the(8) sound(9) of(10) two(11) turbos(12) spinning(13) up(14) as(15) you(16) get(17) planted(18) in(19) your(20) seat(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			My(1) top(2) gear(3) ((4) 6th(5) )(6) acceleration(7) feels(8) like(9) what(10) my(11) previous(12) car(13) ((14) 97(15) Honda_Accord(16) )(17) would(18) do(19) flat(20) out(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			With(1) 250HP(2) ,(3) 255(4) ft(5) .(6) /(7) lb(8) of(9) torque(10) ,(11) and(12) a(13) 7000(14) RPM(15) redline(16) ,(17) there(18) 's(19) no(20) shortage(21) of(22) power(23) in(24) any(25) gear(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			It(1) feels(2) like(3) a(4) 5.5(5) sec(6) 0-60MPH(7) car(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			Comfort_Levels(1) :(2) For(3) 40K(4) ,(5) my(6) car(7) came(8) with(9) everything(10) I(11) could(12) want(13) except_for(14) a(15) CD-changer(16) and(17) Sat-Nav(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			The(1) CD-changer(2) can(3) easily(4) be(5) remedied(6) by(7) buying(8) an(9) OEM(10) changer(11) for(12) $250(13) from(14) clairparts(15) .(16) com(17) but(18) recently(19) I(20) 've(21) toyed(22) with(23) incorporating(24) an(25) MP3(26) player(27) in(28) its(29) place(30) ((31) I(32) 've(33) found(34) a(35) $60(36) CD-changer(37) plug(38) to(39) RCA(40) jack(41) adapter(42) )(43) .(44) 
+		</sentence>
+		<sentence id="19">
+			Yes(1) ,(2) the(3) Subaru_WRX(4) will(5) go(6) toe-to-toe(7) with(8) my(9) car(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			However(1) ,(2) the(3) Subaru(4) lacks(5) the(6) level(7) of(8) refinement(9) this(10) car(11) offers(12) ((13) 6(14) levels(15) of(16) heated(17) seats(18) ,(19) 10(20) speakers(21) ,(22) a(23) package(24) that(25) is(26) not(27) horrendous(28) looking(29) )(30) .(31) 
+			<opinion polarity="+" feature="design" opWords="27,28,29"/>
+			<opinion polarity="+" feature="seat" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="21">
+			Other(1) concerns(2) /(3) issues(4) :(5) Build(6) quality(7) :(8) Put(9) simply(10) ,(11) for(12) $40K(13) I(14) thought(15) this(16) car(17) would(18) be(19) put(20) together(21) better(22) than(23) it(24) is(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			Having(1) been(2) used(3) to(4) Japanese(5) cars(6) ,(7) I(8) did(9) not(10) expect(11) the(12) little(13) things(14) to(15) break(16) down(17) in(18) a(19) car(20) built(21) in_July-02(22) and(23) purchased(24) in_mid-Oct-02(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			For_example(1) ,(2) the(3) armrest(4) lid(5) was(6) loose(7) and(8) the(9) entire(10) assembly(11) kept(12) slipping(13) down(14) abruptly(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			All(1) this(2) was(3) fixed(4) promptly(5) by(6) the(7) dealership(8) but(9) this(10) never(11) happened(12) with(13) the(14) 4(15) Honda_Accords(16) my(17) family(18) has(19) owned(20) and(21) the(22) Lexus(23) IS300(24) my(25) girlfriend(26) at(27) the(28) time(29) owned(30) .(31) 
+		</sentence>
+		<sentence id="25">
+			Granted(1) ,(2) one(3) could(4) argue(5) that(6) the(7) S4(8) is(9) a(10) much(11) more(12) complicated(13) car(14) with(15) a(16) much(17) higher(18) level(19) of(20) expectation(21) place(22) on(23) it(24) .(25) 
+		</sentence>
+		<sentence id="26">
+			As(1) for(2) wind(3) noise(4) ,(5) I(6) was(7) surprised(8) at(9) how(10) loud(11) this(12) car(13) was(14) compared(15) to(16) the(17) Lexus(18) .(19) 
+			<opinion polarity="-" feature="car" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="27">
+			But(1) then(2) again(3) ,(4) that(5) 's(6) a(7) Lexus(8) and(9) that(10) 's(11) one(12) of(13) the(14) things(15) they(16) strive(17) for(18) .(19) 
+		</sentence>
+		<sentence id="28">
+			Modifications(1) :(2) with(3) a(4) simple(5) computer(6) ((7) ECU(8) )(9) software(10) upgrade(11) ,(12) you(13) can(14) take(15) your(16) 250HP/255ft-lb(17) of(18) torque(19) car(20) to(21) 305-320HP(22) and(23) 350(24) ft-lb(25) of(26) torque(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			All(1) you(2) are(3) doing(4) is(5) increasing(6) the(7) amount(8) of(9) boost(10) pressure(11) your(12) turbos(13) produce(14) ((15) from(16) 6-8psi(17) to(18) 14psi(19) )(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			By(1) all(2) extents(3) ,(4) it(5) looks(6) like(7) this(8) modification(9) is(10) quite(11) foolproof(12) as(13) thousands(14) of(15) S4(16) owners(17) have(18) already(19) made(20) this(21) modification(22) and(23) some(24) dealership(25) in(26) Europe(27) apparently(28) will(29) sell(30) the(31) cars(32) with(33) these(34) modifications(35) already(36) made(37) .(38) 
+		</sentence>
+		<sentence id="31">
+			However(1) ,(2) Audi_of_America(3) does(4) not(5) like(6) this(7) at(8) all(9) --(10) to(11) the(12) extent(13) that(14) you(15) risk(16) voiding(17) your(18) warranty(19) if(20) you(21) even(22) *(23) look(24) *(25) at(26) your(27) ECU(28) wrong(29) .(30) 
+		</sentence>
+		<sentence id="32">
+			From(1) what(2) I(3) 've(4) read(5) ,(6) apparently(7) the(8) manufacturer(9) has(10) to(11) prove(12) that(13) any(14) modification(15) you(16) made(17) was(18) the(19) direct(20) cause(21) of(22) the(23) damage(24) incurred(25) ((26) after(27) all(28) ,(29) it(30) _(31) is(32) _(33) your(34) car(35) )(36) .(37) 
+		</sentence>
+		<sentence id="33">
+			However(1) ,(2) if(3) Audi_of_America(4) refuses(5) to(6) pay(7) the(8) dealership(9) for(10) the(11) warranty(12) work(13) ,(14) the(15) dealership(16) is(17) not(18) going(19) to(20) take(21) the(22) risk(23) that(24) they(25) are(26) not(27) gonna(28) get(29) paid(30) and(31) the(32) balls(33) then(34) in(35) your(36) court(37) to(38) get(39) AoA(40) to(41) pay(42) up(43) .(44) 
+		</sentence>
+		<sentence id="34">
+			For(1) a(2) $40K(3) car(4) ,(5) I(6) 'm(7) personally(8) not(9) willing(10) to(11) risk(12) anything(13) for(14) the(15) life(16) of(17) my(18) warranty(19) .(20) 
+		</sentence>
+		<sentence id="35">
+			Until(1) I(2) can(3) write(4) a(5) check(6) for(7) $8K(8) to(9) cover(10) an(11) engine(12) rebuild(13) and(14) turbo(15) swap(16) ,(17) my(18) car(19) will(20) remain(21) bone(22) stock(23) for(24) the(25) next(26) 50K(27) mi(28) .(29) 
+		</sentence>
+		<sentence id="36">
+			My(1) experience(2) with(3) other(4) manufacturers(5) ((6) Honda(7) ,(8) Nissan(9) ,(10) etc.(11) )(12) seems(13) to(14) be(15) that(16) they(17) are(18) much(19) more(20) '(21) friendly(22) '(23) to(24) the(25) enthusiast(26) to(27) modifies(28) their(29) car(30) than(31) AoA(32) .(33) 
+		</sentence>
+		<sentence id="37">
+			There(1) are(2) ways(3) to(4) '(5) hide(6) '(7) your(8) modifications(9) ((10) swap(11) the(12) entire(13) computer(14) before(15) servicing(16) )(17) but(18) again(19) ,(20) I(21) 'm(22) not(23) willing(24) to(25) risk(26) it(27) on(28) a(29) $40K(30) car(31) .(32) 
+		</sentence>
+		<sentence id="38">
+			All(1) my(2) complaints(3) aside(4) ,(5) this(6) car(7) handles(8) like(9) no(10) other(11) I(12) 've(13) driven(14) ((15) BMW(16) E36(17) chassis(18) M3(19) ,(20) BMW(21) 330(22) ,(23) etc.(24) )(25) The_AWD(26) system(27) is(28) one(29) of(30) the(31) best(32) in(33) the(34) world(35) and(36) it(37) shows(38) .(39) 
+		</sentence>
+		<sentence id="39">
+			It(1) still(2) brings(3) a(4) grin(5) on(6) my(7) face(8) everytime(9) I(10) get(11) in(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			If(1) you(2) want(3) the(4) best(5) value(6) for(7) a(8) pure(9) sports(10) car(11) ,(12) perhaps(13) you(14) should(15) look(16) at(17) a(18) Subaru_WRX(19) .(20) 
+		</sentence>
+		<sentence id="41">
+			If(1) you(2) want(3) the(4) best(5) value(6) of(7) a(8) luxury(9) car(10) with(11) a_bit(12) of(13) '(14) pep(15) '(16) ,(17) perhaps(18) you(19) should(20) look(21) at(22) the(23) TL_Type-S(24) or(25) the(26) Lexus(27) ES300(28) .(29) 
+		</sentence>
+		<sentence id="42">
+			However(1) ,(2) if(3) you(4) want(5) a(6) unique(7) combination(8) of(9) both(10) ,(11) there(12) really(13) is(14) no(15) other(16) choice(17) to(18) be(19) made(20) .(21) 
+		</sentence>
+		<sentence id="43">
+			PS._This(1) car(2) is(3) exactly(4) the(5) same(6) as(7) the(8) 2001(9) S4(10) .(11) 
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) are(3) looking(4) at(5) used(6) S4s(7) ,(8) do(9) your(10) best(11) to(12) see(13) if(14) the(15) ECU(16) has(17) been(18) tampered(19) with(20) .(21) 
+		</sentence>
+		<sentence id="45">
+			In(1) my(2) opinion(3) ,(4) if(5) anyone(6) is(7) going(8) to(9) risk(10) voiding(11) my(12) warranty(13) ,(14) it(15) better(16) be(17) me(18) :(19) )(20) PSS(21) .(22) 
+		</sentence>
+		<sentence id="46">
+			I(1) purchased(2) the(3) sport(4) package(5) with(6) the(7) dual-colored(8) Alcantara(9) suede(10) inserts(11) in(12) the(13) seats(14) ,(15) the(16) aluminum(17) interior(18) trim(19) ,(20) and(21) the(22) aluminum(23) mirrors(24) .(25) 
+		</sentence>
+		<sentence id="47">
+			While(1) this(2) package(3) suits(4) my(5) personality(6) ((7) I(8) do(9) not(10) think(11) I(12) 'm(13) old(14) enough(15) to(16) have(17) that(18) much(19) burled(20) wood(21) on(22) my(23) dash(24) )(25) ,(26) you(27) really(28) do(29) need(30) to(31) take(32) care(33) of(34) your(35) suede(36) seats(37) .(38) 
+		</sentence>
+		<sentence id="48">
+			I(1) could(2) not(3) imagine(4) owning(5) this(6) kind(7) of(8) interior(9) if(10) I(11) had(12) kids(13) or(14) pets(15) that(16) would(17) need(18) to(19) ride(20) around(21) in(22) it(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			Perhaps(1) you(2) might(3) not(4) care(5) about(6) discoloring(7) the(8) suede(9) ((10) which(11) can(12) only(13) be(14) cleaned(15) with(16) a(17) mild(18) soap-and-water(19) solution(20) )(21) but(22) I(23) do(24) not(25) let(26) anyone(27) ,(28) including(29) my(30) girlfriend(31) ,(32) eat(33) in(34) my(35) car(36) .(37) 
+		</sentence>
+		<sentence id="50">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 39700(7) Model(8) and(9) Options(10) :(11) S4(12) :(13) 6spd(14) ,(15) cold(16) weather(17) pkg(18) ,(19) sport(20) pkg(21) ((22) alum(23) mirrors(24) and(25) 2tone(26) seats(27) )(28) 
+		</sentence>
+	</text>
+</review>

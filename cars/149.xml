@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="149" item="2004 BMW 3 Series" rating="4">
+	<title>
+		<sentence id="1">
+			Excellent_Sports_Sedan(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Driving(1) "(2) feel(3) "(4) ,(5) ergonomics(6) ,(7) service(8) at(9) dealership(10) ,(11) stiff(12) ride(13) ((14) if(15) that(16) is(17) what(18) you(19) are(20) after(21) )(22) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Stiff(1) ride(2) ((3) if(4) that(5) is(6) not(7) what(8) you(9) are(10) after(11) )(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) recently(5) purchased(6) a(7) 2004(8) Certified_Pre-owned_BMW(9) 325i(10) with(11) a(12) sports(13) and(14) premium(15) package(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) an(3) excellent(4) sports(5) sedan(6) that(7) ((8) with(9) a(10) manual(11) and(12) sports(13) package(14) )(15) rewards(16) the(17) driving(18) enthusiast(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) are(3) not(4) a(5) purist(6) ,(7) and(8) want(9) to(10) "(11) relax(12) "(13) while(14) driving(15) -(16) go(17) for(18) the(19) automatic(20) sans(21) sports(22) package(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) want(3) to(4) "(5) cruise(6) "(7) do(8) not(9) buy(10) a(11) BMW(12) -(13) go(14) Mercedes(15) ,(16) Volvo(17) ,(18) or(19) Japanese(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) more(3) suitable(4) cars(5) for(6) people(7) who(8) are(9) out(10) to(11) "(12) beat(13) the(14) Jones(15) with(16) vanity(17) .(18) "(19) When(20) you(21) roll(22) over(23) a(24) dime(25) with(26) this(27) thing(28) -(29) you(30) can(31) tell(32) what(33) year(34) it(35) is(36) ,(37) and(38) the(39) vehicle(40) dynamics(41) are(42) nothing(43) less(44) than(45) superb(46) .(47) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) for(4) people(5) who(6) want(7) a(8) sports(9) car(10) experience(11) but(12) need(13) four(14) doors(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Interior(1) craftsmanship(2) is(3) impressive(4) ,(5) service(6) at(7) the(8) dealership(9) is(10) top-notch(11) ,(12) and(13) as(14) stated(15) -(16) the(17) driving(18) experience(19) is(20) as(21) good(22) as(23) it(24) gets(25) in(26) a(27) sedan(28) !(29) 
+			<opinion polarity="+" feature="service" featWords="6" opWords="11"/>
+		</sentence>
+	</text>
+</review>

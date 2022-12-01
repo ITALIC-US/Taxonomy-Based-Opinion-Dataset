@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="174" item="1993 Ford Bronco" rating="4">
+	<title>
+		<sentence id="1">
+			Ford_Bronco(1) 1993(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) car(2) ,(3) looks(4) great(5) ,(6) powerful(7) ,(8) comfortable(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="horsepower" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) gas(2) mileage(3) ,(4) less(5) than(6) average(7) handling(8) .(9) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Known(1) for(2) having(3) transmission(4) problems(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) it(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			You(1) just(2) have(3) to(4) stay(5) on(6) top(7) of(8) maintenance(9) ,(10) or(11) it(12) could(13) cost(14) you(15) down(16) the(17) road(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) just(3) gotten(4) a(5) 1993(6) Ford_Bronco(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) very(3) happy(4) with(5) it(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) very(3) powerful(4) ,(5) reliable(6) ,(7) and(8) comfortable(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+			<opinion polarity="+" feature="horsepower" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			But(1) ,(2) the(3) gas(4) mileage(5) is(6) very(7) poor(8) ((9) as(10) is(11) the(12) case(13) with(14) most(15) SUVs(16) )(17) .(18) 
+			<opinion polarity="-" feature="gas" featWords="4,5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="5">
+			Also(1) ,(2) the(3) handling(4) is(5) questionable(6) ((7) again(8) ,(9) as(10) is(11) the(12) case(13) with(14) most(15) top(16) heavy(17) SUVs(18) )(19) .(20) 
+			<opinion polarity="-" feature="handling" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			These(1) trucks(2) are(3) also(4) known(5) for(6) having(7) transmission(8) problems(9) ,(10) so(11) you(12) must(13) stay(14) on(15) top(16) of(17) maintenance(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) anyone(7) ,(8) except(9) 16/17(10) year(11) olds(12) ,(13) b(14) /(15) c(16) it(17) is(18) not(19) the(20) easiest(21) car(22) to(23) drive(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			On_the_other_hand(1) ,(2) if(3) you(4) get(5) into(6) an(7) accident(8) w(9) /(10) this(11) truck(12) ,(13) you(14) will(15) win(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 6000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) XLT(16) ,(17) auto(18) ,(19) power(20) windows(21) /(22) locks(23) ,(24) am(25) /(26) fm(27) ,(28) cassette(29) ,(30) privacy(31) galss(32) .(33) 
+		</sentence>
+	</text>
+</review>

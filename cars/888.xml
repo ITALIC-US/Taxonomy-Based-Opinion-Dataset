@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="888" item="2002 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			Buyer_Beware(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) ride(2) ,(3) handles(4) great(5) ,(6) smooth(7) quiet(8) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="handling" opWords="4,5"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Weak_Transmissions_MPG_Ok(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Search_the_Internet_for_Honda_Transmission_Problems(1) and(2) you(3) will(4) be(5) surprised(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Mine(1) is(2) getting(3) the(4) third(5) tranny(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) first(2) transmission(3) leaked(4) at(5) 24K(6) and(7) they(8) replaced(9) it(10) under(11) warrantee(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) then(2) changed(3) the(4) fluid(5) in(6) the(7) 2nd(8) tranny(9) at(10) 60K(11) with(12) Honda(13) fluid(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) noticed(2) some(3) gray(4) matter(5) on(6) the(7) plug(8) and(9) moved(10) on(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Changed(1) again(2) Honda(3) fluid(4) at(5) 75K(6) and(7) still(8) some(9) gray(10) matter(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Steel(1) parts(2) were(3) shaving(4) off(5) of(6) the(7) bearings(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Then(1) with(2) 85K(3) on(4) the(5) transmission(6) it(7) leaked(8) and(9) the(10) bearings(11) failed(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) is(3) driven(4) at(5) 75(6) mph(7) all(8) day(9) and(10) has(11) 109K(12) on(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Never(1) abused(2) and(3) taken(4) care(5) of(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			I(1) even(2) have(3) a(4) tranny(5) cooler(6) to(7) keep(8) the(9) fluid(10) cool(11) and(12) it(13) still(14) failed(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Honda(1) has(2) replaced(3) the(4) transmission(5) free(6) of(7) charge(8) and(9) stood(10) behind(11) the(12) car(13) 100_%(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			I(1) 'm(2) impressed(3) and(4) will(5) buy(6) again(7) just(8) not(9) a(10) 99-02(11) Accord(12) in(13) Automatic_Amount_Paid(14) ((15) US(16) $(17) )(18) :(19) 24500(20) Condition(21) :(22) NewModel_Year(23) :(24) 2002Model(25) and(26) Options(27) :(28) EX(29) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="360" item="Sony MDR-V700DJ Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) buy(3) this(4) 
+			<opinion polarity="-" feature="headphones" featWords="4" featRef="headphones" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) is(2) good(3) ,(4) look(5) is(6) sharp(7) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="appearance" featWords="5" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			HOT(1) earpieces(2) after(3) 1(4) hour(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) something(2) else(3) unless(4) you(5) only(6) care(7) for(8) looks(9) and(10) wish(11) to(12) sacrifice(13) comfort(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Sony(1) is(2) unusually(3) good(4) at(5) designing(6) products(7) for(8) end-users(9) ,(10) except(11) in(12) this(13) case(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) surprised(3) at(4) how(5) nice(6) this(7) headphone(8) folds(9) up(10) ,(11) and(12) how(13) it(14) comes(15) with(16) a(17) stylish(18) carrying(19) bag(20) ,(21) and(22) gold-tip(23) plug(24) ((25) with(26) supplied(27) 1/4(28) "(29) converter(30) )(31) .(32) 
+			<opinion polarity="+" feature="case" featWords="20" opWords="18"/>
+			<opinion polarity="+" feature="jack" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="3">
+			HOWEVER(1) :(2) I(3) 'm(4) returning(5) mine(6) to(7) Best_Buy(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			They(1) were(2) the(3) best(4) headphones(5) they(6) had(7) to(8) offer(9) ,(10) but(11) they(12) are(13) terribly(14) uncomfortable(15) within(16) 45(17) mins(18) .(19) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="comfort" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="5">
+			The(1) ear(2) pieces(3) /(4) foam(5) make(6) your(7) outer(8) lobe(9) and(10) ear(11) lobe(12) much(13) too(14) hot(15) ,(16) due(17) to(18) the(19) tight(20) band(21) pinning(22) the(23) lobe(24) to(25) your(26) head(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) expect(4) that(5) I(6) have(7) a(8) strangely(9) shaped(10) head(11) ,(12) and(13) see(14) others(15) in(16) this(17) forum(18) complaining(19) about(20) the(21) comfort(22) under(23) extended(24) usage(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) my(3) commute(4) is(5) approximately(6) 1(7) hour(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			This(1) can(2) not(3) be(4) considered(5) long(6) usage(7) to(8) anyone(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			I(1) look(2) for(3) a(4) headphone(5) I(6) can(7) wear(8) all(9) day(10) long(11) while(12) working(13) on(14) a(15) computer(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			This(1) product(2) ,(3) unfortunately(4) ,(5) does(6) not(7) meet(8) that(9) mark(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) 'll(2) probably(3) buy(4) a(5) Bose(6) replacement(7) .(8) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="229" item="Sony MDR-101LP Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Cheap_Headphones(1) made(2) by(3) Sony(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Style(1) ,(2) Comfortability(3) ,(4) and(5) Price(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound_Reproduction_Quality(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Now(1) ,(2) do(3) not(4) expect(5) something(6) like(7) a(8) $(9) 5(10) pair(11) of(12) headphone(13) will(14) give(15) you(16) Senn(17) 's(18) quality(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			This(1) MDR-101LP(2) has(3) unequalized(4) EQ(5) ,(6) probably(7) because_of(8) the(9) ferrite(10) magnet(11) it(12) comes(13) from(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			These(1) lower(2) and(3) cheaper(4) headphones(5) can(6) not(7) compare(8) to(9) some(10) ,(11) a(12) little(13) more(14) higher(15) up(16) in(17) rank(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) ,(4) these(5) headphones(6) have(7) too(8) much(9) boost(10) in(11) the(12) 4-16KHz(13) range(14) ,(15) while(16) the(17) bass(18) ,(19) which(20) is(21) around(22) 31-250_Hz(23) come(24) out(25) unheard(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			The(1) product(2) claims(3) to(4) go(5) down(6) to(7) about(8) 18_Hz(9) -(10) 20(11) KHz(12) ,(13) but(14) I(15) think(16) it(17) cuts(18) at(19) about(20) 70_Hz(21) ,(22) which(23) is(24) why(25) it(26) is(27) murky(28) and(29) overboosted(30) mid-bass(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			Probably(1) a(2) better(3) pair(4) would(5) be(6) the(7) Aiwa(8) series(9) ,(10) also(11) made(12) by(13) Sony(14) ,(15) but(16) it(17) is(18) much(19) better(20) ,(21) so(22) look(23) over(24) them(25) ...(26) they(27) are(28) around(29) the(30) same(31) price(32) range(33) and(34) provided(35) much(36) cleaner(37) and(38) deeper(39) bass(40) quality(41) than(42) this(43) Sony(44) unit(45) .(46) 
+		</sentence>
+		<sentence id="7">
+			I(1) 'd(2) recommend(3) them(4) for(5) headphones(6) .(7) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+		</sentence>
+	</text>
+</review>

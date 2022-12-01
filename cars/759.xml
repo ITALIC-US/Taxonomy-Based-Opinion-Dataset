@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="759" item="2001 Toyota Tundra" rating="3">
+	<title>
+		<sentence id="1">
+			Toyota_Refuses_Service(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			V8(1) has(2) good(3) power(4) 
+			<opinion polarity="+" feature="horsepower" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Squeaks(1) way(2) too(3) much(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) the(2) truck(3) has(4) been(5) great(6) .(7) 
+			<opinion polarity="+" feature="truck" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			The(1) service(2) needs(3) work(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My_Tundra(1) will(2) not(3) stop(4) squeaking(5) and(6) popping(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) been(3) to(4) the(5) dealer(6) 4_times(7) and(8) all(9) they(10) will(11) do(12) is(13) lube(14) the(15) leaf(16) springs(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Finally(1) on(2) the(3) 4th(4) visit(5) they(6) tell(7) me(8) they(9) are(10) not(11) going(12) to(13) fix(14) the(15) problem(16) because(17) Toyota(18) will(19) not(20) reimburse(21) them(22) for(23) repairs(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) 1st(2) Tech(3) that(4) came(5) out(6) told(7) me(8) that(9) its(10) a(11) common(12) problem(13) and(14) that(15) I(16) need(17) new(18) leaf(19) springs(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			The(1) Service_Mgr(2) .(3) then(4) came(5) out(6) and(7) said(8) that(9) Toyota(10) is(11) aware(12) of(13) the(14) problem(15) but(16) will(17) not(18) do(19) anything(20) about(21) it(22) because(23) not(24) enough(25) people(26) have(27) complained(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			Their(1) fix(2) for(3) this(4) problem(5) is(6) to(7) bring(8) it(9) in(10) and(11) let(12) them(13) lube(14) the(15) springs(16) every(17) time(18) the(19) squeaking(20) exists(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			As(1) soon(2) as(3) I(4) drive(5) off(6) of(7) the(8) lot(9) it(10) starts(11) again(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) 4(16) Dr(17) SR5(18) V8(19) Extended_Cab_SB(20) 
+		</sentence>
+	</text>
+</review>

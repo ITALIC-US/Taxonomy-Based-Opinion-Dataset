@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="420" item="Koss KSC75 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) headphones(2) but(3) very(4) bright(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) if(3) you(4) like(5) a(6) crisp(7) sound(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Affordability(1) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Briteness_They(1) tangle(2) easily(3) Cumbersome(4) to(5) put(6) on(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) heard(2) about(3) these(4) headphones(5) and(6) read(7) the(8) many(9) good(10) reviews(11) on(12) them(13) ,(14) so(15) I(16) had(17) to(18) get(19) a(20) pair(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) very(3) impressed(4) with(5) them(6) at(7) first(8) ,(9) but(10) after(11) about(12) thirty(13) minutes(14) ,(15) my(16) ears(17) were(18) hurting(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) sound(2) is(3) so(4) crisp(5) and(6) brite(7) they(8) hurt(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			I(1) admit(2) that(3) I(4) have(5) sensitive(6) hearing(7) in(8) the(9) high(10) register(11) ,(12) but(13) I(14) have(15) never(16) felt(17) discomfort(18) like(19) that(20) from(21) headphones(22) before(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			The(1) other(2) thing(3) I(4) noticed(5) about(6) these(7) is(8) the(9) volume(10) is(11) lower(12) than(13) with(14) others(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Not(1) a(2) huge(3) problem(4) but(5) obvious(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) very(3) comfortable(4) .(5) 
+			<opinion polarity="+" feature="sound quality" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			I(1) hardly(2) knew(3) I(4) had(5) them(6) on(7) except_for(8) the(9) briteness(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			I(1) like(2) the(3) volume(4) control(5) .(6) 
+			<opinion polarity="+" feature="volume control" featWords="4,5" opWords="2"/>
+		</sentence>
+		<sentence id="10">
+			A(1) very(2) nice(3) feature(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			They(1) get(2) tangled(3) very(4) easily(5) which(6) is(7) annoying(8) and(9) they(10) can(11) be(12) cumbersome(13) to(14) put(15) on(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Many(1) people(2) obviously(3) like(4) these(5) and(6) I(7) understand(8) why(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			I(1) just(2) can(3) not(4) use(5) them(6) ,(7) because_of(8) the(9) strong(10) treble(11) .(12) 
+		</sentence>
+	</text>
+</review>

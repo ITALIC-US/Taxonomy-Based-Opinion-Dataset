@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="582" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			First(1) year(2) model(3) or(4) Lemon(5) ?(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling(1) ,(2) comfort(3) ,(4) price(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Air_Conditioning(1) ,(2) suspension(3) ,(4) reliability(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) ,(2) this(3) car(4) has(5) promise(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) not(3) seen(4) many(5) bad(6) reviews(7) for(8) this(9) vehicle(10) ,(11) so(12) maybe(13) my(14) problems(15) stand(16) alone(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Overall(1) it(2) is(3) a(4) comfortable(5) ,(6) stylish(7) ,(8) and(9) safe(10) vehicle(11) .(12) 
+			<opinion polarity="+" feature="safety" opWords="10"/>
+			<opinion polarity="+" feature="design" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) start(3) off(4) by(5) saying(6) I(7) have(8) always(9) wanted(10) an(11) Impala(12) due(13) to(14) it(15) 's(16) great(17) looks(18) and(19) improved(20) engine(21) .(22) 
+			<opinion polarity="+" feature="design" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="2">
+			GM(1) has(2) a(3) good(4) reputation(5) built(6) on(7) reliability(8) of(9) their(10) vehicles(11) ,(12) so(13) when(14) I(15) bought(16) this(17) new(18) vehicle(19) I(20) expected(21) many(22) trouble(23) free(24) years(25) ahead(26) of(27) me(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			Maybe(1) I(2) am(3) wrong(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) this(3) vehicle(4) in(5) August_of_2000(6) for(7) my(8) wife(9) and(10) for(11) future(12) family(13) use(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			It(1) had(2) around(3) 580_miles(4) on(5) it(6) because(7) it(8) was(9) a(10) dealer(11) model(12) ((13) this(14) may(15) be(16) the(17) source(18) of(19) my(20) problems(21) )(22) and(23) they(24) were(25) trying(26) to(27) sell(28) off(29) the(30) end-of-the-year(31) models(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			I(1) thought(2) I(3) had(4) got(5) the(6) car(7) of(8) my(9) dreams(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) steering(2) was(3) great(4) ,(5) the(6) ride(7) was(8) comfortable(9) ,(10) it(11) had(12) lots(13) of(14) power(15) ,(16) and(17) it(18) turned(19) heads(20) when(21) I(22) drove(23) by(24) .(25) 
+			<opinion polarity="+" feature="ride quality" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="steering" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) initial(3) complaint(4) I(5) had(6) was(7) that(8) the(9) air(10) conditioning(11) vents(12) are(13) not(14) very(15) good(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Your(1) mid(2) section(3) gets(4) nice(5) and(6) cool(7) ,(8) while(9) your(10) head(11) feels(12) as_if(13) it(14) is(15) on(16) fire(17) from(18) all(19) of(20) the(21) heat(22) in(23) the(24) car(25) rising(26) to(27) the(28) ceiling(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			You(1) literally(2) have(3) to(4) point(5) the(6) vents(7) into(8) your(9) face(10) just(11) to(12) keep(13) your(14) head(15) cool(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Then(1) the(2) real(3) problems(4) started(5) at(6) about(7) 10,000_miles(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) noticed(2) that(3) the(4) tires(5) were(6) wearing(7) uneven(8) ,(9) so(10) I(11) had(12) an(13) alignment(14) done(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Both(1) the(2) front(3) and(4) rear(5) were(6) out(7) of(8) alignment(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			At(1) about(2) 14,000_miles(3) I(4) had(5) the(6) car(7) inspected(8) and(9) the(10) tires(11) were(12) found(13) to(14) be(15) completely(16) bald(17) and(18) needed(19) replaced(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			I(1) thought(2) this(3) was(4) very(5) poor(6) wear(7) for(8) a(9) set(10) of(11) Goodyear_Eagle(12) 's(13) ,(14) so(15) I(16) asked(17) the(18) dealer(19) to(20) warranty(21) the(22) tires(23) but(24) they(25) would(26) not(27) do(28) it(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			I(1) was(2) told(3) Goodyear(4) would(5) have(6) to(7) warranty(8) the(9) tires(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			I(1) called(2) them(3) and(4) they(5) said(6) the(7) tires(8) supplied(9) on(10) new(11) vehicles(12) do(13) not(14) come(15) with(16) a(17) warranty(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			So(1) ,(2) I(3) had(4) to(5) buy(6) new(7) ones(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			I(1) bought(2) a(3) good(4) set(5) of(6) Michelin_Pilot(7) H4(8) 's(9) ((10) spent(11) over(12) $600(13) for(14) them(15) )(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			Also(1) ,(2) I(3) had(4) to(5) have(6) another(7) alignment(8) done(9) since(10) it(11) was(12) out(13) of(14) whack(15) again(16) !(17) 
+		</sentence>
+		<sentence id="21">
+			At(1) about(2) 24,000_miles(3) I(4) found(5) these(6) new(7) tires(8) to(9) be(10) wearing(11) uneven(12) and(13) had(14) it(15) looked(16) at(17) again(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			The(1) right(2) front(3) tie(4) rod(5) end(6) was(7) bad(8) and(9) needed(10) replaced(11) ((12) warranty(13) work(14) )(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			The(1) alignment(2) needed(3) adjusted(4) again(5) ,(6) and(7) the(8) front(9) brakes(10) needed(11) replaced(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			At(1) 32,000_miles(2) these(3) new(4) Michelin(5) 's(6) ((7) 50,000(8) mi(9) .(10) warranty(11) )(12) were(13) completely(14) bald(15) and(16) had(17) the(18) radial(19) belts(20) protruding(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			Guess(1) what(2) ,(3) it(4) was(5) severely(6) out(7) of(8) alignment(9) again(10) !(11) 
+		</sentence>
+		<sentence id="26">
+			Plus(1) ,(2) the(3) front(4) and(5) rear(6) rotors(7) need(8) replaced(9) as_well(10) as(11) the(12) back(13) brake(14) pads(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			So(1) ,(2) I(3) bought(4) new(5) tires(6) again(7) ((8) got(9) them(10) pro-rated(11) )(12) ,(13) had(14) it(15) aligned(16) and(17) had(18) the(19) brakes(20) replaced(21) .(22) 
+		</sentence>
+		<sentence id="28">
+			This(1) cost(2) over(3) $1,000(4) .(5) 
+		</sentence>
+		<sentence id="29">
+			Intermingled(1) between(2) all(3) of(4) the(5) tire(6) /(7) alignment(8) /(9) brake(10) problems(11) were(12) other(13) issues(14) concerning(15) the(16) electrical(17) system(18) and(19) fuel(20) system(21) .(22) 
+		</sentence>
+		<sentence id="30">
+			I(1) have(2) a(3) clicking(4) noise(5) in(6) the(7) steering(8) that(9) no(10) one(11) can(12) solve(13) ,(14) a(15) Security(16) light(17) that(18) keeps(19) popping(20) up(21) with(22) no(23) alarm(24) sounding(25) ,(26) the(27) Low_Coolant(28) light(29) keeps(30) popping(31) up(32) while(33) the(34) engine(35) operates(36) at(37) it(38) 's(39) normal(40) temperature(41) and(42) the(43) reservoir(44) is(45) full(46) ,(47) and(48) I(49) sometimes(50) have(51) a(52) problem(53) getting(54) the(55) car(56) to(57) accelerate(58) .(59) 
+		</sentence>
+		<sentence id="31">
+			I(1) put(2) the(3) car(4) in(5) gear(6) ,(7) hit(8) the(9) gas(10) ,(11) and(12) .....(13) nothing(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			It(1) just(2) sits(3) there(4) idling(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			Oh(1) yeah(2) ,(3) I(4) have(5) also(6) been(7) getting(8) only(9) 15_miles(10) per(11) gallon(12) when(13) it(14) should(15) be(16) getting(17) close(18) to(19) 20(20) .(21) 
+		</sentence>
+		<sentence id="34">
+			Are(1) these(2) problems(3) due(4) to(5) it(6) being(7) a(8) first(9) model(10) year(11) car(12) ,(13) the(14) fact(15) that(16) it(17) was(18) a(19) dealer(20) model(21) and(22) possibly(23) mistreated(24) ,(25) unable(26) to(27) properly(28) handle(29) these(30) Pennsylvania(31) roads(32) ,(33) or(34) just(35) a(36) lemon(37) ?(38) 
+		</sentence>
+		<sentence id="35">
+			I(1) do(2) not(3) know(4) .(5) 
+		</sentence>
+		<sentence id="36">
+			All(1) I(2) do(3) know(4) is(5) that(6) I(7) have(8) spent(9) almost(10) $2,000(11) in(12) repairs(13) ((14) besides(15) the(16) monthly(17) payments(18) and(19) normal(20) maintenance(21) fees(22) )(23) for(24) a(25) vehicle(26) that(27) is(28) less(29) than(30) 3(31) years(32) old(33) and(34) has(35) only(36) 32,000_miles(37) on(38) it(39) .(40) 
+		</sentence>
+		<sentence id="37">
+			This(1) is(2) not(3) good(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="38">
+			Actually(1) ,(2) I(3) still(4) like(5) this(6) car(7) and(8) would(9) recommend(10) it(11) to(12) friends(13) hoping(14) that(15) they(16) do(17) not(18) have(19) the(20) same(21) bad(22) luck(23) I(24) am(25) having(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="39">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) LS(16) model(17) with(18) automatic(19) 
+		</sentence>
+	</text>
+</review>

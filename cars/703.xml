@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="703" item="1995 BMW 3 Series" rating="2">
+	<title>
+		<sentence id="1">
+			Nice(1) but(2) not(3) worth(4) it(5) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) driving(2) ((3) when(4) it(5) runs(6) right(7) )(8) ,(9) smooth(10) ,(11) stable(12) ,(13) lots(14) of(15) luxury(16) features(17) 
+			<opinion polarity="+" feature="stability" opWords="12"/>
+			<opinion polarity="+" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="car" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) to(2) maintain(3) ,(4) can(5) get(6) beaten(7) off(8) the(9) line(10) by(11) most(12) Honda_Civics(13) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) high(2) milage(3) BMW(4) 's(5) and(6) get(7) an(8) extended(9) warrenty(10) 
+			<opinion polarity="-" feature="gas" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Nice(1) car(2) when(3) I(4) first(5) bought(6) it(7) ((8) used(9) with(10) approx(11) 75k_miles(12) )(13) but(14) since(15) then(16) has(17) been(18) a(19) complete(20) burden(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			So(1) far(2) I(3) have(4) had(5) a(6) number(7) of(8) major(9) repairs(10) in(11) the(12) last(13) 2(14) years(15) costing(16) well(17) over(18) $2k(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Most(1) of(2) the(3) cooling(4) system(5) ((6) water(7) pump(8) ,(9) thermostat(10) ,(11) radiator(12) for(13) about(14) $1.2k(15) total(16) )(17) went(18) out(19) around(20) the(21) 90k_mile(22) mark(23) ,(24) starter(25) at(26) a(27) little(28) over(29) 100k(30) ((31) $600(32) for(33) that(34) )(35) and(36) various(37) interior(38) cabin(39) problems(40) ,(41) various(42) electrical(43) and(44) sensor(45) issues(46) +(47) $(48) $(49) $(50) .(51) 
+		</sentence>
+		<sentence id="4">
+			On(1) top(2) of(3) this(4) ,(5) the(6) car(7) has(8) developed(9) an(10) almost(11) ever-present(12) pre-ignition(13) ping(14) that(15) was(16) unable(17) to(18) be(19) diagnosed(20) by(21) the(22) mechanics(23) at(24) the(25) dealership(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) option(3) was(4) to(5) replace(6) the(7) computer(8) chip(9) for(10) $400(11) and(12) that(13) MIGHT(14) fix(15) a(16) known(17) timing(18) issue(19) they(20) have(21) had(22) with(23) this(24) year(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Nice(1) car(2) to(3) look(4) at(5) ,(6) just(7) do(8) not(9) actually(10) drive(11) it(12) like(13) the(14) "(15) ultimate(16) machine(17) "(18) it(19) 's(20) supposed(21) to(22) be(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $15,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) 325is(16) Automatic(17) 
+		</sentence>
+	</text>
+</review>

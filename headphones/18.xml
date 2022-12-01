@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="18" item="Sony MDR-XD100 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Sownie(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) quality(3) for(4) what(5) they(6) cost(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Feels(1) and(2) looks(3) cheap(4) .(5) 
+			<opinion polarity="-" feature="comfort" opWords="1,4"/>
+			<opinion polarity="-" feature="appearance" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Sound(1) is(2) decent(3) .(4) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Its(1) loud(2) enough(3) and(4) clear(5) enough(6) for(7) most(8) people(9) .(10) 
+			<opinion polarity="+" feature="volume" opWords="2" potency="3"/>
+			<opinion polarity="+" feature="sound quality" opWords="5" potency="6"/>
+		</sentence>
+		<sentence id="3">
+			They(1) do(2) get(3) the(4) job(5) done(6) and(7) the(8) sound(9) is(10) clear(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="9" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			Construction(1) is(2) cheap(3) ,(4) they(5) seem(6) strong(7) enough(8) for(9) headphones(10) .(11) 
+			<opinion polarity="-" feature="durability" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			As(1) long(2) as(3) they(4) stay(5) on(6) your(7) head(8) as(9) they(10) should(11) and(12) are(13) not(14) being(15) thrown(16) around(17) they(18) will(19) last(20) you(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			The(1) cord(2) connections(3) seem(4) to(5) be(6) strong(7) which(8) at_least(9) in(10) my(11) case(12) is(13) the(14) leading(15) cause(16) of(17) cheap(18) headphones(19) malfunctioning(20) .(21) 
+			<opinion polarity="+" feature="jack" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			As(1) long(2) as(3) you(4) take(5) care(6) of(7) them(8) ,(9) everything(10) should(11) be(12) fine(13) .(14) 
+		</sentence>
+	</text>
+</review>

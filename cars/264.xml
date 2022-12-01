@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="264" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			sleek(1) ,(2) good(3) handeling(4) automobile(5) .(6) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) looking(2) sport(3) car(4) and(5) powerful(6) .(7) 
+			<opinion polarity="+" feature="horsepower" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Toyota_Celica_GT(2) 2001(3) is(4) a(5) very(6) nice(7) and(8) fun(9) automobile(10) to(11) drive(12) and(13) anyone(14) considering(15) to(16) purchase(17) a(18) sport(19) car(20) should(21) give(22) this(23) one(24) a(25) look(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="car" featWords="10" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) fine(2) looking(3) automobile(4) is(5) aimed(6) at(7) the(8) younger(9) generation(10) .(11) 
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) definitely(3) a(4) beautiful(5) and(6) fast(7) car(8) .(9) 
+			<opinion polarity="+" feature="speed" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			The(1) sad(2) thing(3) is(4) that(5) many(6) youngsters(7) can(8) afford(9) these(10) powerful(11) machines(12) and(13) they(14) will(15) want(16) to(17) test(18) its(19) limit(20) .(21) 
+			<opinion polarity="+" feature="horsepower" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			Accidents(1) are(2) for(3) most(4) part(5) a(6) combination(7) of(8) alcohol(9) ,(10) speed(11) and(12) inexperience(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			I(1) bought(2) the(3) Toyota_Celica(4) in(5) May_2001(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			At(1) the(2) time(3) ,(4) I(5) managed(6) to(7) get(8) an(9) amazing(10) 3.7_%(11) financing(12) rate(13) and(14) $1400(15) cdn(16) off(17) the(18) invoice(19) price(20) of(21) the(22) car(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			What(1) attracted(2) me(3) to(4) this(5) model(6) is(7) the(8) same(9) thing(10) that(11) has(12) me(13) smiling(14) when(15) I(16) drive(17) it(18) today(19) -(20) cutting(21) edge(22) styling(23) .(24) 
+			<opinion polarity="+" feature="design" featWords="23" opWords="21,22"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) been(3) impressed(4) w(5) /(6) the(7) new(8) Celica(9) since(10) day_one(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) first(2) time(3) I(4) saw(5) it(6) on(7) the(8) road(9) I(10) told(11) myself(12) I(13) would(14) have(15) to(16) find(17) out(18) what(19) that(20) car(21) was(22) !(23) 
+		</sentence>
+		<sentence id="10">
+			So(1) since(2) the(3) 2000(4) model(5) I(6) 've(7) wanted(8) one(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) had(3) more(4) than(5) one(6) passerby(7) comment(8) on(9) what(10) a(11) nice(12) car(13) it(14) is(15) which(16) is(17) actually(18) quite(19) a(20) positive(21) comment(22) considering(23) the(24) price(25) range(26) of(27) the(28) car(29) ((30) affordable(31) )(32) .(33) 
+			<opinion polarity="+" feature="price" featWords="25" opWords="31"/>
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17950(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) comes(16) in(17) meny(18) differnt(19) colors(20) and(21) sizes(22) of(23) the(24) engine(25) .(26) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="251" item="Sennheiser RS 140-EU - RF Wireless High SPL Closed-Back Design Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Very(1) disappointed(2) .(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) attractive(3) design(4) ,(5) long(6) battery(7) life(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="battery life" featWords="7,8" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) wireless(2) reception(3) ,(4) background(5) hiss(6) ,(7) expensive(8) .(9) 
+			<opinion polarity="-" feature="range" featWords="2,3" opWords="1"/>
+			<opinion polarity="-" feature="price" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) these(5) headphones(6) .(7) 
+			<opinion polarity="-" feature="headphones" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) wireless(2) performance(3) is(4) unacceptable(5) ,(6) especially(7) at(8) this(9) price(10) point(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) because(4) they(5) were(6) the(7) top(8) of(9) the(10) line(11) wireless(12) headphones(13) from(14) Sennheiser(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) very(3) disappointed(4) in(5) them(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			First(1) of(2) all(3) the(4) wireless(5) reception(6) is(7) very(8) poor(9) .(10) 
+			<opinion polarity="-" feature="range" featWords="5,6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			Simply(1) turning(2) my(3) head(4) in(5) relation(6) to(7) the(8) transmitter(9) would(10) cause(11) crackles(12) ,(13) pops(14) and(15) buzzes(16) through(17) the(18) headphones(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Secondly(1) there(2) is(3) a(4) constant(5) background(6) hiss(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) very(3) distracting(4) and(5) if(6) you(7) are(8) listening(9) to(10) the(11) headphones(12) at(13) a(14) decent(15) level(16) you(17) will(18) get(19) annoyed(20) by(21) it(22) during(23) quieter(24) parts(25) of(26) songs(27) or(28) movies(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			If(1) this(2) is(3) the(4) pinnacle(5) of(6) wireless(7) technology(8) it(9) has(10) a(11) long(12) way(13) to(14) come(15) before(16) it(17) is(18) usable(19) in(20) my(21) opinion(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			Finally(1) ,(2) the(3) transmitter(4) is(5) very(6) sensitive(7) to(8) input(9) volume(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			If(1) it(2) 's(3) too(4) low(5) your(6) music(7) gets(8) over(9) powered(10) by(11) the(12) background(13) hiss(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) try(3) to(4) turn(5) it(6) up(7) to(8) compensate(9) the(10) transmitter(11) fights(12) it(13) and(14) distorts(15) the(16) sound(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			So(1) it(2) 's(3) a(4) lose-lose(5) situation(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			While(1) bulky(2) ,(3) the(4) headphones(5) are(6) very(7) comfortable(8) and(9) do(10) block(11) out(12) a_lot_of(13) background(14) noise(15) ((16) mostly(17) due(18) to(19) the(20) hiss(21) though(22) )(23) ,(24) and(25) if(26) it(27) worked(28) good(29) the(30) wireless(31) would(32) be(33) nice(34) .(35) 
+			<opinion polarity="-" feature="comfort" opWords="2"/>
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="13">
+			However(1) I(2) would(3) definitely(4) recommend(5) that(6) you(7) look(8) elsewhere(9) or(10) reconsider(11) if(12) wireless(13) is(14) important(15) enough(16) for(17) you(18) to(19) live(20) with(21) these(22) shortcomings(23) .(24) 
+		</sentence>
+	</text>
+</review>

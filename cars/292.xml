@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="292" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Am(1) I(2) driving(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) looking(2) ,(3) fast(4) ,(5) safe(6) 
+			<opinion polarity="+" feature="safety" opWords="6"/>
+			<opinion polarity="+" feature="speed" opWords="4"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			pricey(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) last(2) car(3) I(4) purchased(5) was(6) a(7) Nissan_Maxima(8) '(9) 89(10) and(11) that(12) was(13) one(14) of(15) the(16) wisest(17) decisions(18) I(19) 've(20) made(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Nissan(1) has(2) not(3) lost(4) its(5) touch(6) ,(7) I(8) noticed(9) ,(10) when(11) I(12) bought(13) the(14) new(15) Maxima(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Its(1) wonderful(2) ,(3) I(4) feel(5) like(6) I(7) 'm(8) at(9) home(10) when(11) I(12) drive(13) it(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			Comfy(1) ,(2) sleek(3) ,(4) and(5) safe(6) --(7) I(8) could(9) not(10) have(11) made(12) a(13) better(14) decision(15) .(16) 
+			<opinion polarity="+" feature="safety" opWords="6"/>
+			<opinion polarity="+" feature="design" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) nothing(3) negative(4) to(5) say(6) as(7) of(8) yet(9) and(10) I(11) hope(12) I(13) never(14) will(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			In_addition(1) the(2) performance(3) is(4) amazing(5) ,(6) it(7) feels(8) like(9) a(10) race(11) car(12) .(13) 
+			<opinion polarity="+" feature="performance" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			Unfortunately(1) it(2) does(3) not(4) corner(5) very(6) well(7) ,(8) but(9) I(10) make(11) up(12) for(13) that(14) with(15) my(16) driving(17) :(18) -(19) )(20) I(21) hope(22) Nissan(23) keeps(24) coming(25) out(26) with(27) cars(28) like(29) this(30) !(31) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="160" item="1999 Buick Regal" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) dependable(2) car(3) 
+			<opinion polarity="+" feature="reliability" opWords="2"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			smooth(1) ride(2) ,(3) interior(4) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			loud(1) engine(2) ,(3) slow(4) to(5) heat(6) up(7) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) now(3) owned(4) my(5) 1999(6) Buick_Regal(7) for(8) 5(9) years(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) this(3) car(4) from(5) a(6) distant(7) family(8) member(9) because(10) I(11) wanted(12) a(13) car(14) that(15) could(16) handle(17) a_lot_of(18) miles(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) ride(2) is(3) very(4) smooth(5) and(6) the(7) gas(8) mileage(9) is(10) fairly(11) good(12) .(13) 
+			<opinion polarity="+" feature="gas" featWords="8,9" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			With(1) minimal(2) maintenance(3) it(4) has(5) continued(6) to(7) run(8) like(9) new(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) interior(2) is(3) of(4) a(5) beautiful(6) leather(7) and(8) the(9) stereo(10) is(11) fantastic(12) .(13) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 5000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LS(16) ,(17) Automatic(18) ,(19) 
+		</sentence>
+	</text>
+</review>

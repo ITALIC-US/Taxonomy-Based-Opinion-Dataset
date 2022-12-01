@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="244" item="Sennheiser HD 570 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great_Headphones(1) ...(2) but(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Sound(1) ,(2) lightweight(3) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			open(1) air(2) design(3) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Sennheiser_HD(2) 570(3) are(4) probably(5) the(6) best(7) head(8) phones(9) I(10) have(11) owned(12) .(13) 
+			<opinion polarity="+" feature="headphones" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			They(1) have(2) great(3) high(4) and(5) lows(6) .(7) 
+			<opinion polarity="+" feature="highs" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) find(2) that(3) my(4) sound(5) card(6) is(7) enough(8) for(9) these(10) head(11) phones(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) so(3) light(4) weight(5) and(6) comfortable(7) that(8) you(9) can(10) easily(11) forget(12) that(13) you(14) have(15) them(16) on(17) .(18) 
+			<opinion polarity="+" feature="weight" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="7"/>
+		</sentence>
+		<sentence id="5">
+			Now(1) the(2) "(3) but(4) "(5) part(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) these(3) head(4) phones(5) to(6) use(7) at(8) work(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) thought(2) that(3) maybe(4) the(5) open(6) air(7) design(8) would(9) be(10) ok(11) ,(12) but(13) it(14) was(15) not(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Having(1) my(2) volume(3) on(4) what(5) I(6) would(7) consider(8) normal(9) people(10) could(11) hear(12) my(13) music(14) from(15) 6_feet(16) away(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) only(3) buy(4) these(5) head(6) phones(7) if(8) you(9) are(10) going(11) to(12) use(13) them(14) at(15) home(16) ,(17) or(18) do(19) not(20) mind(21) letting(22) everyone(23) around(24) you(25) hear(26) your(27) music(28) .(29) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="513" item="2000 Pontiac Bonneville" rating="2">
+	<title>
+		<sentence id="1">
+			Disappointment(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needs(1) work(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) because(5) i(6) had(7) a(8) 88(9) Bonneville(10) that(11) gave(12) me(13) no(14) trouble(15) ,(16) Now(17) with(18) this(19) 95(20) Bonneville_i(21) have(22) been(23) having(24) problems(25) left(26) and(27) right(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) has(3) a_lot_of(4) good(5) things(6) about(7) it(8) like(9) great(10) body(11) shape(12) and(13) very(14) roomy(15) in(16) side(17) a(18) nice(19) looking(20) dash(21) everything(22) were(23) you(24) can(25) reach(26) .(27) i(28) belive(29) it(30) is(31) a(32) good(33) family(34) car(35) but(36) at(37) the(38) same(39) time(40) a_lot_of(41) thing(42) are(43) going(44) wrong(45) with(46) it(47) ,(48) using(49) oil(50) about(51) 1qt(52) 1/2(53) every(54) two(55) weeks(56) ,(57) ((58) the(59) dealer(60) say(61) 's(62) that(63) 's(64) o(65) .(66) k(67) .(68) it(69) with(70) in(71) spec(72) ,(73) any(74) car(75) that(76) uses(77) that(78) much(79) oil(80) i(81) think(82) there(83) something(84) wrong(85) there(86) .(87) )(88) a(89) noise(90) in(91) the(92) front(93) end(94) some(95) were(96) .(97) 
+			<opinion polarity="+" feature="car" featWords="35" opWords="33"/>
+			<opinion polarity="+" feature="room" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="3">
+			Maybe(1) i(2) just(3) got(4) a(5) lemon(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) think(2) i(3) will(4) be(5) looking(6) else(7) were(8) next(9) time(10) 
+		</sentence>
+	</text>
+</review>

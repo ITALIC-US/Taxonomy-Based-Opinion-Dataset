@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="581" item="Hotel San Remo" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) liked(2) it(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Personable(1) staff(2) ,(3) affordable(4) rooms(5) ,(6) great(7) location(8) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="place" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) the(2) greatest(3) restaurant(4) 
+			<opinion polarity="-" feature="food" featWords="4" opWords="1,3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			No(1) ,(2) the(3) San_Remo(4) is(5) not(6) on(7) the(8) strip(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			No(1) ,(2) the(3) San_Remo(4) does(5) not(6) have(7) a(8) theme(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			No(1) ,(2) the(3) San_Remo(4) is(5) not(6) mind(7) boggling(8) huge(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			What(1) it(2) is(3) then(4) ?(5) 
+		</sentence>
+		<sentence id="5">
+			A(1) great(2) place(3) to(4) stay(5) ,(6) that(7) 's(8) what(9) !(10) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="6">
+			I(1) went(2) to(3) LV(4) for(5) the(6) first(7) time(8) in(9) April(10) '(11) 00(12) and(13) am(14) planning(15) to(16) go(17) again(18) in(19) '(20) 01(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) trip(2) was(3) set(4) up(5) by(6) a(7) travel(8) agent(9) through(10) a(11) friend(12) of(13) mine(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) wanted(2) to(3) stay(4) at(5) the(6) MGM(7) but(8) they(9) were(10) sold(11) out(12) and(13) I(14) was(15) initially(16) disappointed(17) that(18) I(19) would(20) be(21) staying(22) in(23) a(24) hotel(25) that(26) I(27) had(28) never(29) heard(30) of(31) and(32) that(33) it(34) was(35) not(36) on(37) the(38) strip(39) .(40) 
+		</sentence>
+		<sentence id="9">
+			But(1) my(2) disappointment(3) vanished(4) when(5) I(6) arrived(7) at(8) the(9) San_Remo(10) and(11) saw(12) that(13) the(14) hotel(15) was(16) across(17) the(18) street(19) from(20) the(21) MGM(22) and(23) just(24) a(25) very(26) short(27) walk(28) away(29) from(30) the(31) "(32) Four(33) Corners(34) "(35) ((36) NYNY(37) ,(38) Tropicana(39) ,(40) MGM(41) and(42) Excalibur(43) )(44) .(45) 
+		</sentence>
+		<sentence id="10">
+			The(1) staff(2) at(3) check(4) in(5) was(6) very(7) friendly(8) and(9) helpful(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			Since(1) it(2) is(3) not(4) that(5) big(6) of(7) a(8) hotel(9) ,(10) the(11) service(12) was(13) more(14) personal(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Even_though(1) I(2) stayed(3) for(4) just(5) 4(6) days(7) ,(8) many(9) of(10) the(11) employees(12) ((13) and(14) bartenders(15) !(16) )(17) of(18) the(19) hotel(20) would(21) say(22) hello(23) and(24) call(25) me(26) and(27) my(28) friend(29) by(30) name(31) .(32) 
+		</sentence>
+		<sentence id="13">
+			I(1) seriously(2) doubt(3) that(4) would(5) have(6) happened(7) at(8) one(9) of(10) the(11) HUGE(12) hotels(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) San_Remo(2) is(3) not(4) very(5) flashy(6) ,(7) but(8) I(9) got(10) all(11) the(12) flash(13) I(14) could(15) handle(16) when(17) I(18) went(19) to(20) check(21) out(22) the(23) other(24) casinos(25) on(26) the(27) strip(28) .(29) 
+			<opinion polarity="-" feature="hotel" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			I(1) only(2) ate(3) in(4) the(5) coffee(6) shop(7) at(8) the(9) San_Remo(10) a(11) couple(12) of(13) times(14) and(15) the(16) food(17) was(18) okay(19) .(20) 
+			<opinion polarity="+" feature="food" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) 're(3) the(4) type(5) of(6) person(7) who(8) goes(9) on(10) vacation(11) and(12) expects(13) splendor(14) and(15) grandeur(16) at(17) all(18) times(19) in(20) their(21) hotel(22) ,(23) then(24) do(25) not(26) stay(27) at(28) the(29) San_Remo(30) .(31) 
+			<opinion polarity="-" feature="hotel" opWords="26,27"/>
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) 're(3) a(4) regular(5) person(6) ,(7) who(8) has(9) more(10) modest(11) needs(12) and(13) does(14) not(15) want(16) to(17) fight(18) with(19) insanely(20) huge(21) crowds(22) in(23) the(24) hotel(25) lobby(26) ,(27) stay(28) at(29) the(30) San_Remo(31) .(32) 
+			<opinion polarity="+" feature="hotel" opWords="28"/>
+		</sentence>
+		<sentence id="18">
+			You(1) will(2) not(3) regret(4) it(5) .(6) 
+		</sentence>
+	</text>
+</review>

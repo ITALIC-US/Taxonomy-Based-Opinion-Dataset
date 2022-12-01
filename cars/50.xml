@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="50" item="2003 Mercury Marauder" rating="5">
+	<title>
+		<sentence id="1">
+			Muscle_Car_Chic(1) ,(2) but(3) With_Big-Car_Drawbacks(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			quick(1) acceleration(2) ,(3) handles(4) better(5) than(6) stock(7) ,(8) muscle(9) car(10) image(11) 
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) as(2) fast(3) as(4) it(5) looks(6) ,(7) too(8) big(9) ,(10) too(11) heavy(12) ,(13) comes(14) only(15) in(16) black(17) 
+			<opinion polarity="+" feature="weight" opWords="11,12"/>
+			<opinion polarity="+" feature="size" opWords="8,9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) like(2) to(3) think(4) of(5) the(6) new(7) Marauder(8) as(9) a(10) "(11) family-oriented(12) Mustang(13) "(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) all-new(2) Mercury_Marauder(3) ,(4) based(5) on(6) Ford_'s_Crown_Victoria(7) /(8) Mercury_'s_Grand_Marquis(9) ,(10) has(11) its(12) own(13) look(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			It(1) comes(2) only(3) in(4) black(5) and(6) has(7) a(8) blacked(9) out(10) grill(11) ,(12) with(13) "(14) smoked(15) "(16) headlamps(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			EXTERIOR(1) :(2) The(3) new(4) Mercury_Marauder(5) does(6) not(7) set(8) any(9) styling(10) statements(11) ,(12) in(13) my(14) opinion(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) 18-inch(2) high-polish(3) chrome(4) wheels(5) ,(6) look(7) great(8) !(9) 
+			<opinion polarity="+" feature="wheel" opWords="7,8"/>
+		</sentence>
+		<sentence id="5">
+			The(1) fact(2) that(3) it(4) only(5) comes(6) with(7) black(8) ,(9) high-gloss(10) paint(11) ensures(12) exclusivity(13) ,(14) but(15) I(16) would(17) like(18) to(19) see(20) a(21) wider(22) color(23) palette(24) available(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) "(2) smoked(3) "(4) headlights(5) and(6) black(7) grill(8) add(9) an(10) aggressive(11) ,(12) sporty(13) look(14) ,(15) but(16) to(17) me(18) ,(19) it(20) is(21) still(22) looks(23) too(24) much(25) like(26) a(27) Mercury_Grand_Marquis(28) .(29) 
+			<opinion polarity="+" feature="design" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="7">
+			INTERIOR(1) :(2) The(3) Marauder(4) is(5) noticeably(6) louder(7) than(8) the(9) "(10) standard(11) "(12) Grand_Marquis(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			The(1) exhaust(2) rumble(3) from(4) the(5) V8(6) is(7) muted(8) ((9) as(10) compared(11) to(12) a(13) Mustang(14) )(15) ,(16) but(17) is(18) far(19) from(20) quiet(21) .(22) 
+			<opinion polarity="+" feature="exhaust" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			Ford(1) intentionally(2) made(3) it(4) sound(5) like(6) a(7) muscle(8) car(9) with(10) two(11) 3-inch(12) exhaust(13) pipes(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) Marauder(2) 's(3) gauges(4) are(5) very(6) stylish(7) and(8) even(9) have(10) extra(11) gauges(12) .(13) 
+			<opinion polarity="+" feature="gauges" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			Unlike(1) the(2) Grand_Marquis(3) ,(4) the(5) Marauder(6) has(7) a(8) floor(9) shifter(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Leather(1) upholstery(2) is(3) standard(4) in(5) the(6) Marauder(7) ,(8) and(9) front(10) seats(11) are(12) very(13) comfortable(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) like(3) to(4) have(5) more(6) lateral(7) support(8) in(9) hard(10) cornering(11) ,(12) though(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) rear(2) seats(3) are(4) spacious(5) even(6) for(7) 3(8) adults(9) across(10) ,(11) but(12) the(13) cushion(14) feels(15) a(16) little(17) too(18) soft(19) for(20) me(21) .(22) 
+			<opinion polarity="+" feature="cushion" featWords="14" opWords="18,19"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			There(1) are(2) tons(3) of(4) standard(5) features(6) including(7) automatic(8) climate(9) control(10) ,(11) power(12) windows(13) and(14) door(15) locks(16) ,(17) a(18) 100-watt(19) AM(20) /(21) FM(22) stereo(23) with(24) cassette(25) and(26) CD(27) player(28) ,(29) cruise(30) control(31) ,(32) adjustable(33) accelerator(34) and(35) brake(36) pedals(37) ,(38) and(39) remote(40) keyless(41) entry(42) .(43) 
+		</sentence>
+		<sentence id="16">
+			ENGINE(1) :(2) The(3) Marauder(4) is(5) powered(6) by(7) a(8) 4.6-liter(9) DOHC(10) V8(11) engine(12) that(13) produces(14) 302(15) horsepower(16) at(17) 5,750(18) rpm(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Torque(1) is(2) rated(3) at(4) 318(5) lb(6) .(7) /(8) ft(9) .(10) of(11) torque(12) at(13) 4,250(14) rpm(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			Those(1) numbers(2) are(3) very(4) impressive(5) ,(6) but(7) considering(8) the(9) fact(10) the(11) Marauder(12) weighs(13) 4,165_pounds(14) ((15) 208_pounds(16) over(17) a(18) base(19) Grand_Marquis(20) )(21) ,(22) it(23) does(24) not(25) feel(26) as(27) fast(28) as(29) the(30) numbers(31) suggest(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			The(1) transmission(2) is(3) an(4) electronically-controlled(5) 4-speed(6) automatic(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			It(1) shifts(2) pretty(3) smoothly(4) and(5) rarely(6) hesitates(7) to(8) downshift(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			I(1) averaged(2) 13.9(3) mpg(4) on(5) the(6) recommended(7) premium(8) fuel(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			HANDLING(1) :(2) With(3) larger(4) ,(5) stickier(6) tires(7) ,(8) the(9) Marauder(10) handles(11) pretty(12) well(13) for(14) such(15) a(16) large(17) car(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			Body(1) lean(2) ,(3) however(4) ,(5) is(6) improved(7) only(8) slightly(9) due(10) to(11) the(12) added(13) weight(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			Nose(1) dive(2) is(3) still(4) noticeable(5) but(6) not(7) alarming(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			I(1) would(2) like(3) to(4) see(5) stiffer(6) springs(7) for(8) less(9) lean(10) and(11) dive(12) ,(13) though(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			RIDE(1) :(2) The(3) Marauder(4) firm(5) suspension(6) feels(7) jittery(8) to(9) me(10) over(11) sharp(12) bumps(13) .(14) 
+			<opinion polarity="+" feature="suspension" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="27">
+			Otherwise(1) ,(2) I(3) did(4) not(5) notice(6) any(7) annoying(8) "(9) float(10) "(11) ,(12) and(13) smaller(14) bumps(15) are(16) easily(17) absorbed(18) .(19) 
+		</sentence>
+		<sentence id="28">
+			RELIABILITY(1) :(2) The(3) Marauder(4) has(5) had(6) no(7) sign(8) of(9) any(10) problems(11) or(12) glitches(13) so(14) far(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			VALUE(1) :(2) The(3) new(4) Marauder(5) is(6) a(7) perfect(8) example(9) of(10) what(11) happens(12) when(13) you(14) combine(15) big-car(16) luxury(17) ,(18) with(19) muscle(20) car(21) power(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			If(1) you(2) want(3) an(4) American(5) car(6) that(7) is(8) spacious(9) ,(10) powerful(11) ,(12) and(13) luxurious(14) ,(15) the(16) all-new(17) 2003(18) Mercury_Marauder(19) is(20) the(21) right(22) car(23) for(24) you(25) !(26) 
+			<opinion polarity="+" feature="car" featWords="23" opWords="22"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="9"/>
+		</sentence>
+		<sentence id="31">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34995(7) Condition(8) :(9) NewModel(10) and(11) Options(12) :(13) Marauder(14) w(15) /(16) CD(17) changer(18) 
+		</sentence>
+	</text>
+</review>

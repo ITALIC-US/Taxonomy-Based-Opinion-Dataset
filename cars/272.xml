@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="272" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Is(1) the(2) 2000(3) Maxima(4) the(5) best(6) Maxima(7) powertrain(8) yet(9) ?(10) 
+			<opinion polarity="+" feature="drive" featWords="8" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) price(2) ,(3) lots(4) of(5) power(6) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) style(2) and(3) the(4) steering(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Nissan_Maxima_SE(2) has(3) long(4) been(5) one(6) of(7) my(8) favorite(9) ,(10) reasonably(11) priced(12) sedans(13) .(14) 
+			<opinion polarity="+" feature="price" opWords="11,12"/>
+		</sentence>
+		<sentence id="2">
+			This(1) sedan(2) continues(3) in(4) that(5) tradition(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) mainly(3) because_of(4) its(5) smooth(6) 222-hp(7) V6(8) and(9) available(10) five-speed(11) manual(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			And(1) it(2) is(3) a(4) fact(5) that(6) it(7) 's(8) the(9) best(10) Maxima(11) powertrain(12) yet(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) Maxima(2) also(3) provides(4) more(5) interior(6) room(7) ,(8) especially(9) in(10) the(11) backseats(12) ,(13) than(14) the(15) Accord(16) and(17) Camry(18) for(19) not(20) much(21) more(22) money(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) lowest(2) base(3) price(4) is(5) around(6) $21,049(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			The(1) styling(2) may(3) be(4) a_bit(5) um(6) ...(7) ugly(8) ...(9) and(10) the(11) steering(12) does(13) not(14) seem(15) to(16) have(17) found(18) the(19) feel(20) of(21) the(22) previous(23) Maxima_SE(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			But(1) still(2) ,(3) the(4) Maxima(5) has(6) found(7) a(8) place(9) in(10) my(11) heart(12) .(13) 
+		</sentence>
+	</text>
+</review>

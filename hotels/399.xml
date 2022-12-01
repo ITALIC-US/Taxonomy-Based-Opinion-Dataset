@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="399" item="Ambassador Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			What(1) time(2) is(3) it(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful_Building(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) windows(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) location(2) ,(3) nice(4) place(5) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) returned(2) from(3) a(4) few(5) days(6) in(7) New_Orleans(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) not(3) my(4) first(5) trip(6) to(7) the(8) city(9) ,(10) it(11) was(12) actually(13) the(14) fourth(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			But(1) there(2) were(3) a(4) few(5) firsts(6) about(7) this(8) trip(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			This(1) was(2) the(3) first(4) time(5) back(6) since(7) hurricane(8) Katrina(9) ,(10) and(11) the(12) first(13) time(14) I(15) 'd(16) be(17) in(18) town(19) for(20) Mardi_Gras(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Since(1) I(2) 'd(3) been(4) to(5) New_Orleans(6) a(7) few(8) times(9) ,(10) I(11) was(12) not(13) too(14) concerned(15) with(16) where(17) to(18) stay(19) ,(20) because(21) I(22) know(23) the(24) city(25) pretty(26) well(27) ,(28) and(29) would(30) have(31) a(32) hard(33) time(34) getting(35) lost(36) there(37) .(38) 
+		</sentence>
+		<sentence id="6">
+			There(1) were(2) however(3) some(4) challenges(5) to(6) visiting(7) the(8) city(9) during(10) Mardi_Gras(11) ((12) even_though(13) we(14) were(15) only(16) there(17) for(18) 3(19) days(20) prior(21) to(22) the(23) weekend(24) that(25) lead(26) up(27) to(28) Fat(29) Tuesday(30) )(31) Pretty(32) well(33) every(34) hotel(35) in(36) the(37) city(38) was(39) charging(40) full(41) rates(42) .(43) 
+		</sentence>
+		<sentence id="7">
+			When(1) we(2) started(3) looking(4) at(5) rooms(6) ,(7) most(8) were(9) $200.00(10) a(11) night(12) to(13) start(14) ,(15) and(16) these(17) were(18) the(19) cheap(20) places(21) !(22) 
+			<opinion polarity="+" feature="price" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			So(1) I(2) decided(3) since(4) location(5) was(6) not(7) a(8) huge(9) concern(10) ,(11) I(12) 'd(13) try(14) Hotwire(15) ((16) an(17) online(18) booking(19) service(20) that(21) displays(22) available(23) hotel(24) rates(25) ,(26) but(27) not(28) names(29) until(30) you(31) have(32) paid(33) for(34) your(35) stay(36) )(37) for(38) a(39) discounted(40) hotel(41) room(42) .(43) 
+		</sentence>
+		<sentence id="9">
+			I(1) found(2) a(3) great(4) rate(5) on(6) Hotwire(7) ,(8) $109.00(9) a(10) night(11) in(12) downtown(13) New_Orleans(14) .(15) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Since(1) the(2) price(3) was(4) good(5) ,(6) I(7) jumped(8) on(9) it(10) and(11) booked(12) ((13) normally(14) I(15) 'm(16) a(17) little(18) more(19) apprehensive(20) when(21) booking(22) through(23) Hotwire(24) ,(25) as(26) their(27) neighbourhoods(28) are(29) sometimes(30) not(31) clearly(32) defined(33) )(34) .(35) 
+			<opinion polarity="+" feature="price" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			Once(1) I(2) paid(3) through(4) Hotwire(5) ,(6) it(7) was(8) revealed(9) that(10) the(11) hotel(12) was(13) the(14) Ambassador(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) first(2) thing(3) I(4) did(5) was(6) check(7) their(8) website(9) http://www.ambassadorneworleans.com/(10) The(11) page(12) had(13) this(14) to(15) say(16) about(17) the(18) hotel(19) "(20) Welcome(21) to(22) the(23) Gateway(24) to(25) the(26) Arts_District_of_New_Orleans(27) !(28) The(29) Ambassador_Hotel(30) is(31) the(32) fun(33) place(34) to(35) be(36) !(37) We(38) 're(39) located(40) four(41) blocks(42) from(43) the(44) world(45) famous(46) French_Quarter(47) and(48) just(49) three(50) blocks(51) to(52) the(53) Morial_Convention_Center(54) .(55) We(56) 're(57) seconds(58) from(59) the(60) new(61) Odgen_Museum_of_Southern_Art(62) ,(63) the(64) D-Day_Museum(65) and(66) Louisiana_Children_'s_Museum(67) .(68) Three(69) 19th-century(70) warehouses(71) were(72) renovated(73) to(74) create(75) this(76) beautiful(77) property(78) -(79) a(80) blend(81) of(82) the(83) old(84) and(85) the(86) new(87) ,(88) convenience(89) &(90) comfort(91) .(92) The(93) new(94) owners(95) of(96) the(97) hotel(98) are(99) 100_%(100) committed(101) to(102) ensuring(103) you(104) have(105) a(106) wonderful(107) stay(108) in(109) New_Orleans(110) !(111) "(112) Once(113) I(114) checked(115) the(116) map(117) on(118) their(119) site(120) to(121) see(122) where(123) they(124) were(125) in(126) the(127) city(128) ,(129) I(130) saw(131) that(132) they(133) were(134) about(135) 2(136) blocks(137) behind(138) the(139) Doubletree_Hotel(140) ((141) where(142) I(143) had(144) stayed(145) 2(146) of(147) the(148) last(149) 3_times(150) I(151) 'd(152) been(153) in(154) the(155) city(156) )(157) So(158) the(159) location(160) was(161) perfect(162) ,(163) it(164) was(165) right(166) within(167) walking(168) distance(169) of(170) everything(171) .(172) 
+			<opinion polarity="+" feature="place" featWords="160" opWords="162"/>
+		</sentence>
+		<sentence id="13">
+			The(1) attraction(2) that(3) was(4) the(5) closest(6) ,(7) was(8) one(9) of(10) my(11) favourite(12) restaurants(13) in(14) the(15) city(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Mothers(1) is(2) a(3) sort(4) of(5) a(6) local(7) legend(8) ,(9) serving(10) incredible(11) po(12) boy(13) sandwiches(14) and(15) a(16) whole(17) menu(18) full(19) of(20) great(21) home(22) style(23) food(24) .(25) 
+			<opinion polarity="+" feature="food" featWords="24" opWords="21"/>
+		</sentence>
+		<sentence id="15">
+			Anyone(1) who(2) has(3) ever(4) been(5) to(6) Mothers(7) can(8) relate(9) to(10) the(11) huge(12) line(13) ups(14) that(15) seem(16) to(17) always(18) snake(19) out(20) the(21) door(22) of(23) this(24) place(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) staying(3) less(4) than(5) a(6) block(7) away(8) offered(9) a(10) great(11) chance(12) to(13) get(14) in(15) there(16) during(17) the(18) slower(19) times(20) ((21) we(22) actually(23) made(24) it(25) in(26) twice(27) during(28) our(29) 3(30) days(31) in(32) town(33) ,(34) and(35) both(36) times(37) had(38) absolutely(39) no(40) line(41) up(42) .(43) Enough(44) about(45) eating(46) though(47) ,(48) this(49) is(50) a(51) review(52) of(53) the(54) hotel(55) .(56) We(57) arrived(58) at(59) about(60) 2:00_p.m.(61) from(62) the(63) airport(64) ,(65) and(66) my(67) room(68) was(69) ready(70) at(71) the(72) time(73) of(74) check(75) in(76) .(77) I(78) had(79) called(80) ahead(81) and(82) asked(83) that(84) the(85) reservation(86) be(87) changed(88) from(89) non(90) smoking(91) to(92) a(93) smoking(94) room(95) ((96) Hotwire(97) reserves(98) everything(99) as(100) non(101) smoking(102) )(103) so(104) I(105) was(106) happy(107) they(108) were(109) able(110) to(111) accommodate(112) me(113) at(114) one(115) of(116) the(117) busiest(118) times(119) of(120) the(121) year(122) .(123) 
+		</sentence>
+		<sentence id="17">
+			At(1) check(2) in(3) ,(4) you(5) are(6) informed(7) of(8) the(9) communications(10) fee(11) ,(12) I(13) suppose(14) it(15) 's(16) similar(17) to(18) a(19) resort(20) fee(21) ((22) I(23) 'd(24) had(25) to(26) pay(27) that(28) in(29) Florida(30) previously(31) )(32) that(33) was(34) mandatory(35) ,(36) but(37) included(38) unlimited(39) long(40) distance(41) calling(42) and(43) internet(44) service(45) in(46) your(47) room(48) for(49) $7.95(50) a(51) day(52) .(53) 
+		</sentence>
+		<sentence id="18">
+			This(1) fee(2) is(3) not(4) mentioned(5) anywhere(6) I(7) could(8) find(9) on(10) their(11) website(12) ,(13) but(14) it(15) was(16) not(17) a(18) surprise(19) ,(20) as(21) I(22) had(23) read(24) about(25) it(26) in(27) several(28) reviews(29) of(30) the(31) hotel(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			So(1) I(2) 'd(3) like(4) to(5) see(6) them(7) be(8) a(9) little(10) more(11) open(12) about(13) this(14) fee(15) ,(16) as(17) it(18) is(19) mandatory(20) ,(21) but(22) I(23) thought(24) it(25) was(26) a(27) reasonable(28) fee(29) ,(30) so(31) paid(32) it(33) anyway(34) .(35) 
+		</sentence>
+		<sentence id="20">
+			We(1) were(2) issued(3) our(4) keys(5) ,(6) we(7) were(8) staying(9) on(10) the(11) top(12) ((13) third(14) )(15) floor(16) ,(17) so(18) we(19) headed(20) toward(21) a(22) sign(23) that(24) pointed(25) out(26) elevators(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			We(1) ended(2) up(3) in(4) the(5) wrong(6) end(7) of(8) the(9) hotel(10) ,(11) and(12) had(13) to(14) return(15) to(16) the(17) lobby(18) to(19) take(20) a(21) different(22) elevator(23) ,(24) as(25) since(26) the(27) hotel(28) was(29) constructed(30) out(31) of(32) 3(33) warehouses(34) ,(35) some(36) parts(37) of(38) the(39) building(40) are(41) not(42) connected(43) to(44) other(45) parts(46) .(47) 
+		</sentence>
+		<sentence id="22">
+			We(1) finally(2) made(3) it(4) to(5) the(6) right(7) section(8) of(9) the(10) third(11) floor(12) ,(13) and(14) followed(15) what(16) seemed(17) to(18) be(19) a(20) maze(21) ((22) although(23) there(24) were(25) many(26) signs(27) with(28) clearly(29) marked(30) directions(31) )(32) to(33) our(34) room(35) .(36) 
+		</sentence>
+		<sentence id="23">
+			After(1) getting(2) to(3) the(4) room(5) the(6) first(7) time(8) ,(9) we(10) never(11) had(12) a(13) problem(14) finding(15) the(16) room(17) again(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			The(1) first(2) thing(3) that(4) struck(5) me(6) about(7) the(8) room(9) was(10) the(11) darkness(12) ,(13) and(14) the(15) reason(16) for(17) it(18) ,(19) there(20) were(21) no(22) windows(23) .(24) 
+		</sentence>
+		<sentence id="25">
+			Other(1) than(2) the(3) large(4) window(5) in(6) the(7) door(8) that(9) faced(10) the(11) hallway(12) leading(13) to(14) the(15) room(16) the(17) room(18) was(19) completely(20) windowless(21) .(22) 
+		</sentence>
+		<sentence id="26">
+			Again(1) ,(2) realizing(3) that(4) the(5) hotel(6) used(7) to(8) be(9) a(10) warehouse(11) guess(12) I(13) can(14) understand(15) why(16) there(17) are(18) no(19) windows(20) in(21) such(22) a(23) structure(24) .(25) 
+		</sentence>
+		<sentence id="27">
+			The(1) lack(2) of(3) a(4) window(5) was(6) pretty(7) well(8) the(9) only(10) thing(11) that(12) I(13) did(14) not(15) like(16) about(17) the(18) room(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			Once(1) the(2) lights(3) were(4) on(5) ,(6) the(7) room(8) was(9) very(10) well(11) lit(12) ,(13) and(14) revealed(15) the(16) highest(17) ceilings(18) I(19) 've(20) ever(21) seen(22) in(23) a(24) hotel(25) .(26) 
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="11,12" potency="10"/>
+		</sentence>
+		<sentence id="29">
+			As_well(1) ,(2) there(3) was(4) a(5) large(6) ceiling(7) fan(8) hanging(9) from(10) the(11) centre(12) of(13) the(14) room(15) ((16) my(17) girlfriend(18) loved(19) that(20) it(21) kept(22) the(23) smoke(24) from(25) my(26) cigarettes(27) from(28) hanging(29) around(30) ,(31) as(32) she(33) is(34) a(35) non(36) smoker(37) )(38) .(39) 
+		</sentence>
+		<sentence id="30">
+			Our(1) room(2) had(3) 2(4) large(5) double(6) beds(7) ,(8) both(9) with(10) crisp(11) white(12) sheets(13) that(14) seemed(15) quite(16) new(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			Between(1) the(2) beds(3) was(4) a(5) night(6) stand(7) with(8) a(9) fancy(10) clock(11) radio(12) ((13) we(14) never(15) used(16) the(17) alarm(18) ,(19) but(20) having(21) the(22) time(23) displayed(24) all(25) the(26) time(27) was(28) helpful(29) ,(30) being(31) that(32) you(33) could(34) not(35) tell(36) the(37) time(38) from(39) the(40) daylight(41) ,(42) or(43) lack(44) of(45) from_outside(46) )(47) .(48) 
+		</sentence>
+		<sentence id="32">
+			Directly(1) across(2) from(3) the(4) beds(5) was(6) a(7) large(8) armour(9) that(10) opened(11) to(12) reveal(13) a(14) large(15) television(16) .(17) 
+			<opinion polarity="+" feature="tv" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="33">
+			As(1) part(2) on(3) the(4) communications(5) fee(6) ,(7) you(8) could(9) access(10) the(11) internet(12) via(13) the(14) television(15) ((16) however(17) you(18) were(19) limited(20) to(21) news(22) sites(23) ,(24) and(25) had(26) to(27) pay(28) a(29) fee(30) to(31) access(32) any(33) mail(34) sites(35) such(36) as(37) hotmail(38) )(39) Beside(40) the(41) armour(42) was(43) a(44) large(45) desk(46) and(47) chair(48) .(49) 
+			<opinion polarity="+" feature="chairs" featWords="48" opWords="45"/>
+		</sentence>
+		<sentence id="34">
+			As(1) we(2) were(3) there(4) for(5) Mardi_Gras(6) ,(7) the(8) desk(9) gave(10) me(11) a(12) great(13) place(14) to(15) put(16) the(17) Mardi_Gras(18) beads(19) I(20) had(21) gathered(22) at(23) the(24) parades(25) I(26) attended(27) each(28) day(29) .(30) 
+			<opinion polarity="+" feature="place" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="35">
+			I(1) ended(2) up(3) with(4) hundreds(5) of(6) strands(7) of(8) beads(9) ,(10) and(11) the(12) desk(13) was(14) large(15) enough(16) to(17) hold(18) them(19) all(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			Also(1) on(2) the(3) desk(4) was(5) the(6) rooms(7) telephone(8) .(9) ((10) I(11) used(12) it(13) as(14) often(15) as(16) I(17) could(18) ,(19) to(20) justify(21) my(22) communications(23) fee(24) )(25) At(26) the(27) back(28) of(29) the(30) room(31) was(32) a(33) large(34) bathroom(35) ,(36) inside(37) the(38) bathroom(39) was(40) a(41) large(42) closet(43) ,(44) inside(45) the(46) closet(47) was(48) a(49) safe(50) ((51) that(52) we(53) never(54) used(55) )(56) The(57) bathroom(58) sink(59) area(60) was(61) large(62) ,(63) and(64) had(65) displayed(66) some(67) basic(68) soaps(69) and(70) shampoos(71) ((72) nothing(73) fancy(74) )(75) .(76) 
+			<opinion polarity="+" feature="bathroom" featWords="35" opWords="34"/>
+			<opinion polarity="+" feature="place" featWords="60" opWords="62"/>
+		</sentence>
+		<sentence id="37">
+			I(1) enjoyed(2) the(3) shower(4) ,(5) as(6) it(7) was(8) large(9) ,(10) however(11) I(12) did(13) notice(14) quite(15) a(16) lack(17) of(18) water(19) pressure(20) .(21) 
+		</sentence>
+		<sentence id="38">
+			In_all(1) ,(2) the(3) room(4) was(5) well(6) worth(7) what(8) I(9) had(10) paid(11) for(12) it(13) ,(14) especially(15) since(16) it(17) was(18) during(19) Mardi_Gras(20) season(21) .(22) 
+		</sentence>
+		<sentence id="39">
+			The(1) hotel(2) had(3) a(4) bar(5) /(6) cafe(7) on(8) the(9) main(10) floor(11) that(12) we(13) never(14) had(15) a(16) chance(17) to(18) visit(19) ,(20) but(21) it(22) seemed(23) like(24) a(25) popular(26) place(27) .(28) 
+		</sentence>
+		<sentence id="40">
+			On(1) the(2) Friday_evening(3) ((4) our(5) last(6) night(7) at(8) the(9) hotel(10) )(11) a(12) wristband(13) policy(14) had(15) been(16) implemented(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			In_order_to(1) get(2) into(3) the(4) hotel(5) ,(6) every(7) guest(8) had(9) to(10) go(11) back(12) to(13) the(14) check(15) in(16) desk(17) ,(18) and(19) show(20) their(21) identification(22) .(23) 
+		</sentence>
+		<sentence id="42">
+			I(1) suppose(2) it(3) was(4) good(5) to(6) bump(7) up(8) security(9) since(10) several(11) of(12) the(13) Mardi_Gras(14) parades(15) went(16) right(17) past(18) the(19) front(20) doors(21) ,(22) but(23) I(24) found(25) it(26) silly(27) that(28) I(29) needed(30) to(31) prove(32) who(33) I(34) was(35) when(36) I(37) was(38) holding(39) a(40) room(41) key(42) .(43) 
+		</sentence>
+		<sentence id="43">
+			At(1) the(2) least(3) ,(4) some(5) notice(6) as(7) we(8) were(9) leaving(10) earlier(11) in(12) the(13) day(14) that(15) this(16) would(17) be(18) required(19) would(20) have(21) been(22) courteous(23) .(24) 
+		</sentence>
+		<sentence id="44">
+			Other(1) than(2) that(3) ,(4) the(5) staff(6) were(7) all(8) quite(9) nice(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="45">
+			The(1) bellhop(2) actually(3) ran(4) 2(5) blocks(6) from(7) the(8) hotel(9) to(10) try(11) and(12) find(13) us(14) a(15) cab(16) !(17) 
+		</sentence>
+		<sentence id="46">
+			I(1) 'd(2) be(3) happy(4) to(5) stay(6) at(7) the(8) Ambassador(9) again(10) ,(11) and(12) I(13) 'll(14) certainly(15) check(16) the(17) rate(18) the(19) next(20) time(21) I(22) head(23) to(24) New_Orleans(25) .(26) 
+		</sentence>
+		<sentence id="47">
+			Thank(1) you(2) for(3) reading(4) .(5) 
+		</sentence>
+	</text>
+</review>

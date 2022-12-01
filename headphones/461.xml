@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="461" item="Sennheiser PXC 300 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Faulty(1) ,(2) and(3) Sennheiser(4) will(5) not(6) replace(7) them(8) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Faulty(1) .(2) 
+			<opinion polarity="-" feature="headphones" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Poor(1) service(2) .(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			If(1) they(2) worked(3) properly(4) they(5) would(6) be(7) great(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			But(1) after(2) a(3) month(4) they(5) started(6) emitting(7) a(8) very(9) loud(10) buzzing(11) noise(12) when(13) in(14) noise-cancelling(15) mode(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			This(1) noise(2) is(3) almost(4) deafening(5) ,(6) so(7) it(8) means(9) I(10) can(11) not(12) use(13) the(14) noise-cancelling(15) feature(16) at(17) all(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) returned(2) them(3) to(4) the(5) supplier(6) ,(7) who(8) took(9) 3(10) months(11) to(12) decide(13) there(14) was(15) nothing(16) wrong(17) with(18) them(19) and(20) sent(21) them(22) back(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Or(1) so(2) they(3) say(4) ,(5) since(6) I(7) have(8) not(9) received(10) them(11) yet(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) will(2) never(3) buy(4) Sennheiser(5) again(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Recent(1) update(2) :(3) After(4) writing(5) a(6) strongly(7) worded(8) letter(9) to(10) the(11) retailer(12) ,(13) my(14) Sennheiser(15) earphones(16) have(17) been(18) replaced(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			They(1) are(2) so(3) far(4) functioning(5) normally(6) ,(7) but(8) we(9) 'll(10) have(11) to(12) wait(13) and(14) see(15) if(16) they(17) go(18) the(19) distance(20) .(21) 
+		</sentence>
+	</text>
+</review>

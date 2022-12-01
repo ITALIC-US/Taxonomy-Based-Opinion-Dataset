@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="333" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Small(1) but(2) Fun(3) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Standard_Options(1) ,(2) price(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Size(1) ,(2) seats(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) purchased(3) a(4) Honda_Civic_EX._I(5) think(6) this(7) is(8) a(9) great(10) car(11) at(12) a(13) great(14) price(15) .(16) 
+			<opinion polarity="+" feature="price" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			It(1) includes(2) many(3) features(4) including(5) air(6) conditioning(7) ,(8) moon(9) roof(10) ,(11) cd(12) player(13) ,(14) and(15) much(16) much(17) more(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			My_Honda_Civic(1) also(2) gets(3) excellent(4) gas(5) mileage(6) which(7) is(8) great(9) when(10) gas(11) prices(12) are(13) high(14) !(15) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			I(1) love(2) almost(3) everything(4) about(5) this(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="2"/>
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) problems(3) I(4) have(5) with(6) my(7) car(8) is(9) the(10) interior(11) is(12) small(13) ,(14) the(15) seats(16) are(17) slightly(18) uncomfortable(19) ,(20) and(21) the(22) drivers(23) seat(24) does(25) not(26) accommodate(27) taller(28) people(29) .(30) 
+			<opinion polarity="-" feature="seat" featWords="16" opWords="19" potency="18"/>
+			<opinion polarity="-" feature="interior" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="6">
+			I(1) highly(2) recommend(3) this(4) car(5) to(6) anyone(7) who(8) is(9) looking(10) for(11) a(12) great(13) car(14) at(15) a(16) great(17) low(18) price(19) .(20) 
+			<opinion polarity="+" feature="price" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="price" featWords="19" opWords="17"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</text>
+</review>

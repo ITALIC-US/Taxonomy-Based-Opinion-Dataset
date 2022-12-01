@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="152" item="Audio-Technica ATH-M2X Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) for(2) the(3) price(4) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Long(1) cord(2) ,(3) comfortable(4) ,(5) 1/4(6) "(7) adapter(8) included(9) .(10) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) quality(2) is(3) OK(4) for(5) the(6) price(7) but(8) not(9) spectacular(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) sound(2) quality(3) is(4) OK(5) ,(6) given(7) the(8) price(9) of(10) these(11) headphones(12) .(13) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) paid(2) roughly(3) $17(4) online(5) for(6) them(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) I(3) recommend(4) spending(5) more(6) money(7) for(8) better(9) headphones(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			At(1) normal(2) volume(3) levels(4) these(5) headphones(6) sound(7) quite(8) good(9) .(10) 
+			<opinion polarity="+" feature="sound quality" opWords="7,9" potency="8"/>
+		</sentence>
+		<sentence id="5">
+			At(1) higher(2) volume(3) levels(4) I(5) heard(6) some(7) distortion(8) ,(9) especially(10) when(11) playing(12) songs(13) with(14) deep(15) bass(16) ((17) with(18) the(19) bass(20) boosted(21) on(22) my(23) equalizer(24) )(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Of(1) course(2) ,(3) most(4) headphones(5) will(6) distort(7) the(8) sound(9) if(10) the(11) volume(12) is(13) turned(14) up(15) too(16) high(17) ,(18) but(19) in(20) my(21) opinion(22) a(23) great(24) pair(25) of(26) headphones(27) should(28) have(29) been(30) able(31) to(32) handle(33) the(34) volume(35) level(36) that(37) I(38) was(39) using(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			As(1) a(2) point(3) of(4) reference(5) I(6) compared(7) these(8) headphones(9) to(10) an(11) old(12) cheap(13) pair(14) of(15) Panasonic(16) headphones(17) that(18) I(19) 've(20) owned(21) for(22) ~(23) 15(24) years(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			I(1) found(2) that(3) the(4) Panasonic(5) headphones(6) could(7) reproduce(8) sound(9) at(10) higher(11) volume(12) levels(13) before(14) noticeably(15) distorting(16) .(17) 
+		</sentence>
+	</text>
+</review>

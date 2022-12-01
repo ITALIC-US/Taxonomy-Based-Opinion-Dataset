@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="237" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			My_Marriage_Is_Intact(1) or(2) The_Car(3) That(4) Won_My_Husband(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Responsive(1) and(2) handles(3) well(4) ,(5) powerful(6) ,(7) looks(8) great(9) ,(10) best(11) for(12) the(13) money(14) ,(15) RELIABLE(16) !(17) 
+			<opinion polarity="+" feature="reliability" opWords="16"/>
+			<opinion polarity="+" feature="design" opWords="8,9"/>
+			<opinion polarity="+" feature="horsepower" opWords="6"/>
+			<opinion polarity="+" feature="handling" opWords="3,4"/>
+			<opinion polarity="+" feature="response" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			fragile(1) paint(2) ,(3) chips(4) easily(5) ,(6) pricey(7) tire(8) replacement(9) ,(10) has(11) to(12) use(13) premium(14) gasoline(15) ,(16) only(17) average(18) warranty(19) 
+			<opinion polarity="-" feature="color" opWords="4,5"/>
+			<opinion polarity="-" feature="color" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) stylish(4) ,(5) high(6) performance(7) vehicle(8) with(9) a(10) family(11) sedan(12) price(13) tag(14) .(15) 
+			<opinion polarity="+" feature="performance" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) a(3) few(4) drawbacks(5) but(6) overall(7) it(8) is(9) a(10) wonderful(11) car(12) !(13) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) July_,_2000(2) we(3) decided(4) to(5) buy(6) a(7) new(8) car(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Our(1) price(2) range(3) was(4) 35,000(5) or(6) under(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			My(1) husband(2) wanted(3) an(4) SUV(5) and(6) I(7) wanted(8) a(9) sedan(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			He(1) likes(2) European(3) ,(4) I(5) liked(6) American(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Believe(1) me(2) ,(3) this(4) was(5) divorce(6) material(7) !(8) 
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) never(3) bought(4) a(5) car(6) new(7) .....(8) somehow(9) whenever(10) we(11) thought(12) we(13) might(14) be(15) able(16) to(17) some(18) crisis(19) came(20) up(21) ....(22) a(23) child(24) could(25) not(26) get(27) financing(28) for(29) a(30) semester(31) ,(32) the(33) chiminey(34) fell(35) apart(36) ,(37) the(38) roof(39) leaked(40) ...(41) whatever(42) ...(43) there(44) was(45) always(46) something(47) emergent(48) that(49) had(50) to(51) be(52) prioritized(53) ......(54) but(55) in(56) July_of_2000(57) ,(58) we(59) were(60) feeling(61) pretty(62) confident(63) ......(64) So(65) ,(66) we(67) decided(68) to(69) look(70) at(71) Japanese(72) cars(73) ...(74) I(75) was(76) ready(77) to(78) hit(79) the(80) dealerships(81) ....(82) my(83) husband(84) was(85) ready(86) to(87) hit(88) Epinions(89) and(90) Consumer_Reports(91) .....(92) In(93) August_,_2000(94) ,(95) we(96) embarked(97) on(98) a(99) journey(100) down(101) "(102) Auto_Row(103) "(104) .(105) 1st(106) we(107) went(108) to(109) Toyota(110) .(111) 
+		</sentence>
+		<sentence id="7">
+			We(1) test(2) drove(3) the(4) 4Runner(5) ,(6) Avalon(7) ,(8) and(9) Camry(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			I(1) liked(2) the(3) Camry_SE(4) ,(5) he(6) liked(7) the(8) 4Runner(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			Next(1) we(2) stopped(3) at(4) Honda(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			He(1) liked(2) the(3) CRV(4) ((5) he(6) said(7) the(8) Passport(9) was(10) just(11) an(12) over-priced(13) Isuzu(14) )(15) ,(16) I(17) liked(18) the(19) Accord_SE(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Things(1) were(2) not(3) going(4) well(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			By(1) the(2) time(3) we(4) got(5) to(6) Nissan(7) we(8) were(9) arriving(10) in(11) seperate(12) vehicles(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			First(1) we(2) went(3) for(4) a(5) looonnnnnng(6) drive(7) in(8) the(9) Pathfinder(10) ,(11) I(12) sat(13) in(14) silence(15) ,(16) not(17) making(18) one(19) single(20) comment(21) about(22) how(23) I(24) felt(25) like(26) I(27) was(28) riding(29) in(30) a(31) jeep(32) over(33) the(34) outback(35) .(36) 
+		</sentence>
+		<sentence id="14">
+			I(1) even(2) sat(3) in(4) the(5) back(6) seat(7) so_that(8) he(9) would(10) not(11) be(12) able(13) to(14) "(15) read(16) "(17) my(18) body(19) language(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			Afterall(1) ,(2) my(3) marriage(4) was(5) on(6) pretty(7) shaky(8) ground(9) ,(10) at(11) this(12) point(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			I(1) stilll(2) was(3) not(4) willing(5) to(6) totally(7) aquiesce(8) ,(9) but(10) I(11) was(12) close(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) during(3) this(4) intermittable(5) test(6) drive(7) that(8) I(9) started(10) to(11) figure(12) out(13) how(14) much(15) leverage(16) I(17) would(18) have(19) ,(20) for(21) what(22) ,(23) and(24) for(25) how(26) long(27) if(28) I(29) gave(30) in(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			This(1) was(2) a(3) biggy(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+		<sentence id="19">
+			If(1) I(2) could(3) not(4) have(5) the(6) car(7) of(8) my(9) choice(10) ,(11) I(12) was(13) going(14) to(15) get(16) it(17) 's(18) weight(19) in(20) gold(21) later_on(22) !(23) 
+		</sentence>
+		<sentence id="20">
+			As(1) we(2) approached(3) the(4) dealership(5) ,(6) and(7) my(8) knuckles(9) were(10) starting(11) to(12) regain(13) some(14) normal(15) coloring(16) ,(17) the(18) salesman(19) asked(20) if(21) we(22) would(23) like(24) to(25) take(26) a(27) ride(28) in(29) the(30) Maxima(31) ,(32) "(33) just(34) for(35) the(36) heck(37) of(38) it(39) !(40) "(41) .(42) 
+		</sentence>
+		<sentence id="21">
+			Having(1) decided(2) to(3) give(4) in(5) ,(6) I(7) did(8) not(9) reply(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			My(1) husband(2) ,(3) sensing(4) victory(5) ,(6) suddenly(7) became(8) very(9) magnanimous(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			He(1) even(2) sounded(3) ethusiastic(4) as(5) he(6) said(7) ,(8) "(9) Why(10) Not(11) ?(12) !(13) "(14) Little(15) did(16) he(17) know(18) the(19) price(20) he(21) was(22) really(23) going(24) to(25) pay(26) for(27) that(28) da(29) **(30) ed(31) truck(32) !(33) ,(34) I(35) thought(36) ,(37) snarling(38) silently(39) ,(40) smiling(41) outwardly(42) .(43) 
+		</sentence>
+		<sentence id="24">
+			As(1) we(2) approached(3) the(4) line(5) of(6) Maximas(7) ,(8) one(9) in(10) a(11) deep(12) ,(13) rich(14) mahogany(15) color(16) caught(17) my(18) eye(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			It(1) was(2) so(3) pretty(4) in(5) the(6) sunlight(7) !(8) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="26">
+			As(1) it(2) happened(3) ,(4) it(5) was(6) the(7) same(8) one(9) my(10) husband(11) stopped(12) at(13) !(14) 
+		</sentence>
+		<sentence id="27">
+			He(1) walked(2) around(3) and(4) around(5) it(6) ,(7) looking(8) at(9) the(10) wheels(11) ,(12) body(13) ,(14) and(15) sticker(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			This(1) was(2) the(3) sports(4) one(5) so(6) it(7) had(8) the(9) spoiler(10) and(11) mag(12) wheels(13) with(14) 17_inch(15) tires(16) so(17) it(18) was(19) a(20) really(21) impressive(22) looking(23) vehicle(24) .(25) 
+			<opinion polarity="+" feature="design" opWords="22,23" potency="21"/>
+		</sentence>
+		<sentence id="29">
+			Not(1) that(2) I(3) wanted(4) to(5) be(6) hopful(7) ,(8) but(9) I(10) did(11) see(12) my(13) husband(14) 's(15) face(16) relax(17) a_bit(18) ,(19) and(20) I(21) would(22) swear(23) there(24) was(25) even(26) the(27) hint(28) of(29) a(30) smile(31) as(32) he(33) looked(34) inside(35) at(36) all(37) the(38) leather(39) and(40) at(41) the(42) wheels(43) ....(44) Off(45) the(46) lot(47) we(48) went(49) ,(50) me(51) ensconsed(52) in(53) the(54) VERY(55) comfortable(56) back(57) seat(58) .(59) 
+			<opinion polarity="+" feature="seat" featWords="57,58" opWords="56"/>
+		</sentence>
+		<sentence id="30">
+			Fred(1) at(2) the(3) wheel(4) ,(5) the(6) now(7) on(8) my(9) hitlist(10) salesman(11) next(12) to(13) him(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			After(1) fiddleing(2) with(3) the(4) buttons(5) for(6) a(7) minute(8) Fred(9) turned(10) on(11) the(12) radio(13) and(14) I(15) was(16) suddenly(17) surrounded(18) by(19) jazz(20) from(21) a(22) great(23) Bose(24) system(25) ,(26) that(27) ,(28) as(29) it(30) turned(31) out(32) ,(33) is(34) standard(35) in(36) the(37) SE(38) .(39) 
+		</sentence>
+		<sentence id="32">
+			We(1) got(2) on(3) Rt(4) .(5) 80(6) and(7) drove(8) for(9) several(10) minutes(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			I(1) was(2) feeling(3) really(4) good(5) about(6) this(7) little(8) car(9) !(10) 
+		</sentence>
+		<sentence id="34">
+			I(1) started(2) looking(3) out(4) the(5) windows(6) and(7) realized(8) that(9) the(10) trees(11) were(12) really(13) whipping(14) by(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			Now(1) me(2) ,(3) I(4) 've(5) been(6) known(7) to(8) have(9) a(10) little(11) '(12) lead(13) in(14) the(15) foot(16) '(17) ,(18) but(19) Fred(20) ?(21) 
+		</sentence>
+		<sentence id="36">
+			Not(1) Fred(2) !(3) 70(4) is(5) about(6) his(7) top(8) speed(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			Those(1) trees(2) were(3) doing(4) more(5) than(6) 70(7) or(8) there(9) was(10) something(11) hallucinagenic(12) in(13) the(14) air(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			I(1) unobtrusively(2) looked(3) over(4) Fred(5) 's(6) shoulder(7) at(8) the(9) speedometer(10) and(11) we(12) were(13) cruising(14) at(15) 85(16) !(17) 
+		</sentence>
+		<sentence id="39">
+			I(1) had(2) not(3) even(4) felt(5) the(6) acceleration(7) !(8) 
+		</sentence>
+		<sentence id="40">
+			And(1) Fred(2) was(3) smiling(4) !(5) 
+		</sentence>
+		<sentence id="41">
+			One(1) of(2) those(3) soft(4) little(5) smiles(6) people(7) get(8) when(9) they(10) are(11) secretly(12) pleased(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			I(1) 'm(2) sure(3) those(4) little(5) smiles(6) are(7) unconsious(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			Fred(1) would(2) have(3) no(4) more(5) let(6) me(7) in(8) on(9) his(10) little(11) secret(12) than(13) the(14) man(15) in(16) the(17) moon(18) !(19) 
+		</sentence>
+		<sentence id="44">
+			This(1) was(2) war(3) ,(4) after(5) all(6) .(7) 
+		</sentence>
+		<sentence id="45">
+			I(1) heard(2) the(3) smarmy(4) ,(5) traitorous(6) salesman(7) say(8) it(9) was(10) about(11) time(12) to(13) head(14) back(15) ......(16) I(17) saw(18) Fred(19) ignore(20) him(21) ....(22) Oops(23) ...(24) there(25) goes(26) another(27) ...(28) exit(29) !(30) .....(31) Now(32) we(33) 're(34) not(35) kids(36) ,(37) Fred(38) and(39) I._Heck(40) ,(41) Fred(42) had(43) recently(44) gotten(45) an(46) invitation(47) to(48) join(49) the(50) AARP(51) !(52) 
+		</sentence>
+		<sentence id="46">
+			However(1) ,(2) it(3) took(4) two(5) more(6) requests(7) from(8) the(9) salesman(10) before(11) Fred(12) tuned(13) in(14) enough(15) to(16) exit(17) and(18) head(19) back(20) to(21) the(22) dealership(23) !(24) 
+		</sentence>
+		<sentence id="47">
+			When(1) we(2) all(3) got(4) out(5) of(6) the(7) car(8) ,(9) Fred(10) made(11) another(12) trip(13) around(14) it(15) and(16) headed(17) straight(18) back(19) towards(20) the(21) showroom(22) offices(23) .(24) 
+		</sentence>
+		<sentence id="48">
+			I(1) told(2) "(3) Mr._Smarmy(4) "(5) to(6) call(7) me(8) in(9) when(10) I(11) needed(12) to(13) sign(14) .(15) 
+		</sentence>
+		<sentence id="49">
+			I(1) was(2) feeling(3) just(4) a_tad(5) irritable(6) ...(7) just(8) a_tad(9) my(10) backside(11) ....(12) Oh(13) well(14) .....(15) The(16) price(17) of(18) that(19) truck(20) was(21) going(22) up(23) expoentially(24) with(25) my(26) anger(27) until(28) I(29) had(30) my(31) own(32) little(33) secret(34) smile(35) to(36) sport(37) !(38) 
+		</sentence>
+		<sentence id="50">
+			The(1) papers(2) signed(3) ,(4) me(5) in(6) a(7) blind(8) snit(9) ,(10) literally(11) ,(12) Fred(13) and(14) I(15) started(16) to(17) walk(18) over(19) to(20) a(21) neighboring(22) McDonalds(23) to(24) wait(25) .(26) 
+		</sentence>
+		<sentence id="51">
+			I(1) had(2) not(3) even(4) looked(5) at(6) what(7) I(8) was(9) signing(10) .(11) 
+		</sentence>
+		<sentence id="52">
+			Mr._Smarmy(1) had(2) ,(3) oh(4) so(5) solicitously(6) ,(7) put(8) little(9) red(10) X(11) 's(12) everywhere(13) my(14) signature(15) was(16) needed(17) so(18) all(19) I(20) had(21) to(22) do(23) was(24) zero(25) in(26) on(27) the(28) little(29) red(30) spots(31) .(32) 
+		</sentence>
+		<sentence id="53">
+			Each(1) one(2) had(3) ,(4) by(5) the(6) way(7) ,(8) been(9) a(10) red(11) flag(12) signaling(13) me(14) to(15) up(16) the(17) ante(18) on(19) just(20) how(21) much(22) leverage(23) I(24) was(25) going(26) to(27) excercise(28) !(29) 
+		</sentence>
+		<sentence id="54">
+			About(1) a_half(2) hour(3) and(4) much(5) tension(6) later(7) ,(8) we(9) saw(10) "(11) Mr._Smarmy_Sleazebag(12) "(13) himself(14) waving(15) for(16) us(17) to(18) come(19) on(20) back(21) over(22) to(23) the(24) dealership(25) .(26) 
+		</sentence>
+		<sentence id="55">
+			When(1) we(2) got(3) to(4) him(5) he(6) handed(7) Fred(8) a(9) large(10) manilla(11) envelope(12) and(13) keys(14) .(15) 
+		</sentence>
+		<sentence id="56">
+			He(1) started(2) walking(3) towards(4) the(5) lot(6) but(7) it(8) was(9) not(10) until(11) we(12) had(13) walked(14) about(15) ten_yards(16) ,(17) or(18) so(19) ,(20) that(21) I(22) realized(23) we(24) were(25) headed(26) towards(27) the(28) Maximas(29) and(30) not(31) the(32) Pathfinders(33) !(34) !(35) !(36) !(37) !(38) !(39) 
+		</sentence>
+		<sentence id="57">
+			We(1) stopped(2) at(3) the(4) pretty(5) mahogany(6) one(7) and(8) Fred(9) ,(10) with(11) an(12) evil(13) twinkle(14) in(15) his(16) eye(17) ,(18) handed(19) me(20) the(21) key(22) !(23) !(24) !(25) !(26) !(27) !(28) !(29) 
+		</sentence>
+		<sentence id="58">
+			Fast(1) forward(2) a(3) year(4) ,(5) and(6) 16,000_miles(7) ........(8) Oh(9) how(10) I(11) love(12) this(13) car(14) !(15) !(16) !(17) !(18) !(19) !(20) !(21) !(22) !(23) ....(24) and(25) so(26) does(27) Fred(28) !(29) !(30) !(31) !(32) !(33) !(34) ......(35) He(36) said(37) it(38) was(39) the(40) great(41) response(42) ,(43) and(44) tight(45) suspension(46) that(47) made(48) him(49) change(50) his(51) mind(52) .......(53) his(54) only(55) apprehension(56) had(57) been(58) that(59) the(60) 2000(61) was(62) the(63) first(64) year(65) for(66) a(67) new(68) ,(69) upgraded(70) engine(71) design(72) but(73) Nissan(74) ,(75) and(76) particularly(77) Maximas(78) ,(79) had(80) a(81) long(82) excellent(83) reliability(84) reputation(85) so(86) he(87) was(88) willing(89) to(90) take(91) a(92) chance(93) .(94) 
+			<opinion polarity="+" feature="response" featWords="42" opWords="41"/>
+		</sentence>
+		<sentence id="59">
+			I(1) do(2) not(3) know(4) about(5) the(6) older(7) versions(8) ,(9) but(10) this(11) one(12) has(13) plenty_of(14) power(15) !(16) !(17) 
+		</sentence>
+		<sentence id="60">
+			The(1) ride(2) is(3) not(4) as(5) smooth(6) as(7) the(8) other(9) cars(10) we(11) tested(12) .(13) 
+		</sentence>
+		<sentence id="61">
+			It(1) has(2) a(3) stiffer(4) ,(5) slightly(6) more(7) rigid(8) suspension(9) ,(10) typical(11) of(12) high(13) performance(14) sports(15) cars(16) .(17) 
+		</sentence>
+		<sentence id="62">
+			This(1) allows(2) it(3) to(4) have(5) the(6) great(7) handling(8) around(9) corners(10) and(11) on(12) steeply(13) banked(14) curves(15) .(16) 
+			<opinion polarity="+" feature="handling" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="63">
+			It(1) has(2) gotten(3) excellent(4) milage(5) on(6) highway(7) trips(8) ,(9) slightly(10) better(11) than(12) the(13) 28mpg(14) that(15) was(16) estimated(17) .(18) 
+			<opinion polarity="+" feature="gas" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="64">
+			The(1) Nissan(2) dealership(3) has(4) held(5) to(6) it(7) 's(8) high(9) reputation(10) for(11) speedy(12) ,(13) reliable(14) service(15) when(16) we(17) have(18) taken(19) it(20) for(21) scheduled(22) maintenance(23) .(24) 
+		</sentence>
+		<sentence id="65">
+			We(1) have(2) had(3) absolutly(4) no(5) mechanical(6) problems(7) .(8) 
+		</sentence>
+		<sentence id="66">
+			The(1) only(2) significant(3) ,(4) "(5) significant(6) "(7) being(8) subjective(9) ,(10) problem(11) we(12) have(13) encountered(14) is(15) that(16) the(17) paint(18) chips(19) very(20) ,(21) very(22) easily(23) .(24) 
+			<opinion polarity="-" feature="color" featWords="18" opWords="19,23"/>
+		</sentence>
+		<sentence id="67">
+			Not(1) big(2) monster(3) chips(4) .(5) 
+		</sentence>
+		<sentence id="68">
+			Lots(1) of(2) little(3) "(4) dings(5) "(6) .(7) 
+		</sentence>
+		<sentence id="69">
+			Especially(1) on(2) the(3) hood(4) where(5) small(6) pebbles(7) fly(8) up(9) and(10) hit(11) it(12) and(13) at(14) the(15) key(16) entry(17) from(18) the(19) key(20) .(21) 
+		</sentence>
+		<sentence id="70">
+			It(1) may(2) be(3) just(4) this(5) particular(6) color(7) .(8) 
+		</sentence>
+		<sentence id="71">
+			Another(1) draw(2) back(3) is(4) that(5) when(6) we(7) have(8) to(9) replace(10) the(11) tires(12) it(13) will(14) cost(15) about(16) a_thousand_dollars(17) .(18) 
+		</sentence>
+		<sentence id="72">
+			This(1) model(2) came(3) with(4) 17(5) "(6) ,(7) high(8) performance(9) ,(10) wide(11) tires(12) .(13) And(14) ,(15) this(16) vehicle(17) must(18) use(19) premium(20) gasoline(21) .(22) Given(23) what(24) has(25) happened(26) in(27) that(28) market(29) ,(30) it(31) has(32) made(33) the(34) estimated(35) fuel(36) efficiency(37) a(38) joke(39) !(40) Last(41) winter(42) I(43) found(44) myself(45) irritated(46) at(47) how(48) long(49) the(50) rear(51) window(52) took(53) to(54) defrost(55) but(56) that(57) may(58) have(59) been(60) my(61) impatience(62) as(63) opposed(64) to(65) it(66) really(67) having(68) been(69) a(70) long(71) time(72) !(73) Allthough(74) not(75) a(76) problem(77) ,(78) it(79) comes(80) with(81) only(82) an(83) average(84) warranty(85) .(86) ((87) 30,000(88) drive(89) train(90) )(91) We(92) had(93) to(94) purchase(95) seperately(96) an(97) extended(98) warranty(99) .(100) ((101) 100,000(102) or(103) six(104) years(105) )(106) ,(107) and(108) this(109) was(110) a_bit(111) pricey(112) .(113) We(114) paid(115) approx(116) .(117) 1,800.00(118) for(119) this(120) .(121) Overall(122) ,(123) we(124) could(125) not(126) be(127) happier(128) with(129) this(130) car(131) .(132) It(133) is(134) not(135) for(136) the(137) feint(138) of(139) heart(140) .(141) It(142) accelerates(143) so(144) easily(145) that(146) you(147) do(148) not(149) realize(150) how(151) fast(152) you(153) are(154) traveling(155) unless(156) you(157) keep(158) a(159) close(160) eye(161) on(162) the(163) speedometer(164) .(165) The(166) stereo(167) is(168) wonderful(169) .(170) IThe(171) car(172) looks(173) great(174) !(175) The(176) trunk(177) is(178) roomy(179) enough(180) for(181) lots(182) of(183) groceries(184) ,(185) dog(186) stuff(187) ,(188) etc.(189) It(190) came(191) with(192) one(193) of(194) those(195) cargo(196) nets(197) and(198) the(199) back(200) of(201) the(202) trunk(203) has(204) an(205) opening(206) into(207) the(208) body(209) of(210) the(211) car(212) if(213) you(214) have(215) something(216) extra(217) long(218) to(219) carry(220) .(221) The(222) leather(223) seats(224) have(225) held(226) up(227) well(228) .(229) There(230) are(231) lots(232) of(233) little(234) storage(235) places(236) in(237) both(238) the(239) front(240) and(241) back(242) .(243) The(244) dashboard(245) is(246) laid(247) out(248) well(249) ,(250) with(251) everything(252) easily(253) visable(254) and(255) reachable(256) for(257) the(258) driver(259) .(260) The(261) instrument(262) panel(263) is(264) easy(265) to(266) read(267) and(268) the(269) night(270) colors(271) are(272) easy(273) on(274) the(275) eyes(276) .(277) It(278) has(279) a(280) lumbar(281) adjustment(282) for(283) the(284) driver(285) 's(286) seat(287) that(288) is(289) nice(290) .(291) The(292) front(293) seats(294) have(295) warmers(296) that(297) came(298) in(299) handy(300) this(301) past(302) winter(303) .(304) The(305) side(306) mirrors(307) are(308) heated(309) as_well(310) as(311) the(312) rear(313) window(314) .(315) It(316) has(317) a(318) great(319) sunroof(320) that(321) opens(322) and(323) closes(324) with(325) one(326) touch(327) .(328) The(329) electric(330) windows(331) continue(332) to(333) close(334) even(335) after(336) you(337) turn(338) off(339) the(340) ignition(341) so(342) you(343) do(344) not(345) have(346) to(347) sit(348) there(349) holding(350) the(351) button(352) first(353) .(354) It(355) is(356) our(357) plan(358) to(359) keep(360) this(361) car(362) another(363) five(364) years(365) and(366) as(367) it(368) stands(369) now(370) there(371) does(372) not(373) seem(374) to(375) be(376) any(377) reason(378) why(379) that(380) will(381) not(382) happen(383) .(384) I(385) hope(386) this(387) has(388) been(389) helpful(390) ,(391) and(392) as(393) always(394) ,(395) you(396) are(397) welcome(398) to(399) e-mail(400) me(401) with(402) any(403) questions(404) you(405) may(406) have(407) .(408) Thanks(409) so(410) much(411) for(412) taking(413) your(414) time(415) to(416) read(417) this(418) !(419) Amount_Paid(420) ((421) US(422) $(423) )(424) :(425) 32,000.00(426) Condition(427) :(428) NewModel_Year(429) :(430) 2000Model(431) and(432) Options(433) :(434) SE_Automatic(435) w(436) /(437) alluminum(438) alloy(439) wheels(440) 
+			<opinion polarity="+" feature="seat" featWords="287" opWords="290"/>
+			<opinion polarity="+" feature="dash" featWords="245" opWords="247,248,249"/>
+			<opinion polarity="+" feature="seat" featWords="224" opWords="223"/>
+			<opinion polarity="+" feature="trunk" featWords="177" opWords="179,180"/>
+			<opinion polarity="+" feature="design" opWords="173,174"/>
+			<opinion polarity="+" feature="sound system" featWords="167" opWords="169"/>
+			<opinion polarity="+" feature="acceleration" opWords="143,145"/>
+			<opinion polarity="-" feature="price" opWords="112"/>
+		</sentence>
+	</text>
+</review>

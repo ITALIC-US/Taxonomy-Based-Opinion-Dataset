@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="656" item="1998 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			What(1) happened(2) to(3) my(4) trunk(5) ?(6) !(7) ?(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Car_Looks_Great(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Car(2) keeps(3) falling(4) apart(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			"(1) WHAT(2) HAPPENED_TO_MY_TRUNK(3) ?(4) !(5) ?(6) !(7) ?(8) !(9) "(10) That(11) 's(12) what(13) I(14) was(15) yelling(16) the(17) other(18) day(19) when(20) my(21) trunk(22) would(23) not(24) close(25) on(26) my(27) 1998(28) Honda_Civic_DX(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) a(3) surprise(4) to(5) me(6) ,(7) along_with(8) the(9) driver(10) 's(11) side(12) window(13) getting(14) stuck(15) and(16) not(17) rolling(18) back(19) up(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			As(1) with(2) any(3) car(4) ,(5) there(6) are(7) bound(8) to(9) be(10) problems(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			For(1) this(2) case(3) ,(4) I(5) was(6) surprised(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Honda(1) has(2) always(3) been(4) a(5) symbol(6) of(7) economic(8) value(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			My(1) previous(2) Honda(3) ,(4) an(5) '(6) 84(7) hatchback(8) ,(9) had(10) little(11) to(12) no(13) problems(14) and(15) lasted(16) well(17) over(18) the(19) 100,000_mile(20) mark(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Now(1) ,(2) I(3) 'm(4) concerned(5) with(6) the(7) fact(8) that(9) my(10) car(11) may(12) not(13) make(14) it(15) back(16) to(17) school(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) shakes(3) and(4) rattles(5) ,(6) The(7) gas(8) mileage(9) is(10) very(11) unstable(12) ,(13) and(14) things(15) keep(16) breaking(17) on(18) the(19) car(20) .(21) 
+			<opinion polarity="-" feature="gas" featWords="8,9" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="9">
+			The(1) dealership(2) was(3) no(4) better(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Even_though(1) my(2) car(3) was(4) under(5) warranty(6) ,(7) it(8) was(9) still(10) going(11) to(12) cost(13) me(14) extra(15) to(16) fix(17) my(18) trunk(19) and(20) window(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			To(1) make(2) it(3) worse(4) ,(5) the(6) guys(7) in(8) the(9) automotive(10) department(11) decided(12) I(13) needed(14) new(15) spark(16) plugs(17) and(18) replaced(19) them(20) with(21) plugs(22) covered(23) in(24) carbon(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			When(1) I(2) got(3) my(4) car(5) back(6) ,(7) my(8) car(9) started(10) jumping(11) like(12) a(13) hoopty(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			When(1) the(2) automotive(3) guys(4) told(5) me(6) it(7) was(8) the(9) spark(10) plugs(11) ,(12) I(13) kind(14) of(15) noticed(16) that(17) the(18) plugs(19) were(20) a(21) different(22) brand(23) than(24) what(25) I(26) usually(27) use(28) ...(29) Needless(30) to(31) say(32) ,(33) the(34) car(35) looks(36) great(37) ,(38) but(39) with(40) these(41) problems(42) popping(43) up(44) ,(45) and(46) with(47) the(48) service(49) ,(50) I(51) do(52) not(53) think(54) I(55) 'll(56) be(57) buying(58) a(59) new(60) Honda(61) anytime(62) soon(63) .(64) 
+			<opinion polarity="+" feature="design" opWords="36,37"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="356" item="Sony MDR-V700DJ Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Watch_Out_DJ(1) 's(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sharp(1) crisp(2) sound(3) 
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) leaves(2) a(3) small(4) bit(5) to(6) be(7) desired(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Wassup(1) all(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Here(1) we(2) go(3) for(4) another(5) review(6) by(7) DJ_FreStyl(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			As(1) a(2) club(3) DJ(4) ,(5) headphones(6) are(7) quite(8) important(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) Sony(2) MDRV700DJ(3) prove(4) to(5) be(6) an(7) excellent(8) headphone(9) for(10) the(11) criticizing(12) ear(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			The(1) 5000(2) miliWatts(3) of(4) power(5) in(6) these(7) things(8) really(9) hit(10) and(11) are(12) so(13) crisp(14) and(15) sharp(16) you(17) would(18) never(19) know(20) you(21) 're(22) wearing(23) them(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Comfort(1) level(2) is(3) given(4) an(5) A(6) +(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			The(1) price(2) is(3) a(4) little(5) steep(6) but(7) in(8) my(9) opinion(10) ,(11) and(12) thats(13) what(14) this(15) is(16) ,(17) its(18) a(19) good(20) deal(21) .(22) 
+			<opinion polarity="-" feature="price" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="8">
+			These(1) headphones(2) are(3) the(4) perfect(5) solution(6) for(7) any(8) DJ(9) ,(10) whether(11) it(12) be(13) club(14) or(15) mobile(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) fact(2) that(3) they(4) are(5) so(6) aesthetic(7) as_well(8) ...(9) what(10) a(11) cool(12) silver(13) color(14) !(15) 
+			<opinion polarity="+" feature="appearance" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			Gold(1) connectors(2) ensure(3) that(4) long(5) lasting(6) critical(7) signal(8) as_well(9) .(10) 
+			<opinion polarity="+" feature="jack" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="11">
+			Excellent(1) for(2) cueing(3) as_well(4) ,(5) they(6) are(7) able(8) to(9) swivel(10) a(11) full(12) 180(13) degrees(14) .(15) 
+		</sentence>
+	</text>
+</review>

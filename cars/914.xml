@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="914" item="2000 Volkswagen Beetle" rating="2">
+	<title>
+		<sentence id="1">
+			I(1) disagree(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			MUST(1) READ(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Flower_Holder(1) is(2) cool(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) ,(2) Ride(3) ,(4) Handling(5) ,(6) Power(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) disagree(2) with(3) my(4) peers(5) about(6) how(7) good(8) this(9) new(10) Beetle(11) really(12) is(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) drove(2) this(3) car(4) three_times(5) ,(6) for(7) a(8) good(9) amount(10) of(11) time(12) hoping(13) to(14) convince(15) myself(16) that(17) it(18) was(19) the(20) right(21) car(22) for(23) my(24) 22(25) year(26) old(27) girlfriend(28) to(29) buy(30) having(31) just(32) received(33) her(34) first(35) big(36) paycheck(37) from(38) her(39) first(40) REAL_JOB(41) out(42) of(43) college(44) .(45) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) a(3) cute(4) car(5) ,(6) yes(7) --(8) but(9) it(10) is(11) WAY_TOO_EXPENSIVE(12) !(13) 
+			<opinion polarity="+" feature="design" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) poor(3) visibility(4) ,(5) goofy(6) controls(7) and(8) is(9) UNPREDICTABLE(10) to(11) drive(12) .(13) 
+			<opinion polarity="-" feature="ride quality" opWords="10"/>
+			<opinion polarity="-" feature="controls" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="visibility" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			The(1) normally(2) aspirited(3) version(4) is(5) lame(6) ,(7) boring(8) ,(9) and(10) well(11) ...(12) very(13) "(14) old(15) "(16) VW_BUG-like(17) .(18) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			We(1) bought(2) and(3) LOVE_the_Golf_GTI(4) ((5) See(6) my(7) review(8) )(9) instead(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) car(2) feels(3) like(4) a(5) car(6) ,(7) is(8) "(9) EASY(10) "(11) to(12) drive(13) and(14) handles(15) way(16) better(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			do(1) not(2) get(3) me(4) wrong(5) ,(6) I(7) hear(8) that(9) the(10) Beetle(11) is(12) a(13) safe(14) and(15) reliable(16) car(17) .(18) 
+			<opinion polarity="+" feature="reliability" opWords="16"/>
+			<opinion polarity="+" feature="safety" opWords="14"/>
+		</sentence>
+		<sentence id="9">
+			I(1) just(2) felt(3) that(4) for(5) all(6) the(7) hype(8) ,(9) it(10) could(11) drive(12) more(13) like(14) the(15) fine(16) engineered(17) sedans(18) that(19) VW(20) is(21) capable(22) of(23) making(24) and(25) demonstrate(26) in_all(27) of(28) their(29) other(30) models(31) this(32) year(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			PRICE(1) :(2) You(3) have(4) to(5) be(6) kidding(7) me(8) to(9) think(10) that(11) it(12) is(13) worth(14) 25(15) grand(16) for(17) a(18) loaded(19) up(20) beetle(21) when(22) you(23) can(24) pick(25) up(26) an(27) AUDI(28) a4(29) for(30) that(31) price(32) !(33) 
+		</sentence>
+		<sentence id="11">
+			Also(1) consider(2) any(3) used(4) BMW(5) as(6) a(7) much(8) better(9) value(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			I(1) will(2) admit(3) the(4) the(5) flower(6) holder(7) ,(8) dashboard(9) ,(10) aluminum(11) treatment(12) on(13) the(14) door(15) handles(16) ,(17) and(18) shift(19) knob(20) are(21) cool(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			If(1) you(2) are(3) all(4) about(5) looks(6) and(7) are(8) into(9) nostalgia(10) -(11) your(12) all(13) over(14) this(15) car(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Otherwise(1) ,(2) explore(3) your(4) options(5) .(6) 
+		</sentence>
+	</text>
+</review>

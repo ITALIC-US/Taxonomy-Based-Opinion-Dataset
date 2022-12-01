@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="781" item="1998 Toyota Avalon" rating="2">
+	<title>
+		<sentence id="1">
+			Oh(1) ,(2) What(3) a(4) Feeling(5) ...(6) of(7) Sea_Sickness(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Size(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) design(2) ,(3) reliability(4) ,(5) quality(6) ,(7) suspension(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Cars(1) that(2) brake(3) and(4) handle(5) poorly(6) are(7) no(8) fun(9) and(10) ,(11) worse(12) ,(13) they(14) 're(15) unsafe(16) .(17) 
+			<opinion polarity="-" feature="safety" opWords="16"/>
+			<opinion polarity="-" feature="handling" opWords="5,6"/>
+			<opinion polarity="-" feature="brakes" opWords="3,6"/>
+		</sentence>
+		<sentence id="2">
+			Add(1) 3(2) parts(3) unreliability(4) and(5) you(6) have(7) a(8) Japanese_Buick(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			No(1) thanks(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) previous-generation(2) Toyota_Avalon(3) is(4) essentially(5) a(6) Japanese_Buick(7) ,(8) a(9) big(10) ,(11) floaty(12) car(13) that(14) offers(15) space(16) aplenty(17) and(18) not(19) much(20) else(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Toyota(1) is(2) rightly(3) acknowledged(4) to(5) be(6) the(7) world(8) 's(9) automotive(10) quality(11) leader(12) ,(13) and(14) has(15) been(16) for(17) years(18) ,(19) if_not(20) decades(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			To(1) me(2) ,(3) quality(4) defines(5) an(6) automobile(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Quality(1) determines(2) how(3) well(4) a(5) vehicle(6) will(7) retain(8) its(9) value(10) ,(11) how(12) much(13) you(14) 'll(15) spend(16) over(17) your(18) term(19) of(20) ownership(21) on(22) maintenance(23) and(24) repairs(25) ,(26) how(27) many(28) headaches(29) you(30) 'll(31) encounter(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) for(3) that(4) reason(5) that(6) I(7) 've(8) only(9) rarely(10) strayed(11) beyond(12) the(13) Honda(14) and(15) Toyota(16) plantation(17) ((18) in_1999(19) I(20) made(21) a(22) disastrous(23) and(24) inexplicable(25) decision(26) to(27) get(28) a(29) Saab(30) 9-3(31) ,(32) which(33) is(34) to(35) Toyota(36) as(37) Aeroflot(38) is(39) to(40) Delta_Airlines(41) or(42) ,(43) for(44) you(45) baseball(46) fans(47) ,(48) what(49) the(50) Chicago_Cubs(51) are(52) to(53) the(54) New_York_Yankees(55) )(56) .(57) 
+		</sentence>
+		<sentence id="6">
+			Surprisingly(1) ,(2) this(3) 1998(4) Toyota_Avalon_XL(5) has(6) proven(7) to(8) be(9) very(10) unreliable(11) ,(12) as(13) unreliable(14) as(15) ...(16) gulp(17) ...(18) a(19) Buick(20) .(21) 
+			<opinion polarity="-" feature="reliability" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="7">
+			The(1) suspension(2) clomps(3) and(4) shimmies(5) over(6) bumps(7) and(8) potholes(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) transmission(2) is(3) a(4) miserable(5) ,(6) clonking(7) thing(8) that(9) 's(10) way(11) too(12) slow(13) to(14) downshift(15) ,(16) hobbled(17) with(18) an(19) 80s-era(20) "(21) overdrive(22) "(23) button(24) that(25) should(26) have(27) been(28) put(29) to(30) pasture(31) decades(32) ago(33) .(34) 
+			<opinion polarity="-" feature="transmission" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			Sometimes(1) the(2) transmission(3) does(4) not(5) feel(6) like(7) shifting(8) at(9) all(10) ,(11) so(12) it(13) just(14) hums(15) along(16) at(17) 4000(18) RPM(19) for(20) 5(21) minutes(22) or(23) so(24) and(25) then(26) drops(27) into(28) overdrive(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			Subtle(1) taps(2) on(3) the(4) throttle(5) yield(6) surprising(7) results(8) ,(9) usually(10) a(11) sort(12) of(13) unpleasant(14) thumping(15) sound(16) the(17) source(18) of(19) which(20) is(21) still(22) a(23) mystery(24) to(25) me(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			The(1) best(2) part(3) of(4) this(5) car(6) is(7) the(8) motor(9) ,(10) a(11) strong(12) if_not(13) overwhelming(14) 200-hp(15) 3.0-liter(16) V6(17) that(18) 's(19) eager(20) to(21) pass(22) but(23) less(24) eager(25) to(26) start(27) --(28) it(29) often(30) stalls(31) after(32) it(33) 's(34) started(35) ,(36) though(37) this(38) is(39) almost(40) certainly(41) a(42) fuel(43) injection(44) problem(45) .(46) 
+		</sentence>
+		<sentence id="12">
+			Passing(1) ,(2) even(3) in(4) a(5) car(6) as(7) fat-arsed(8) as(9) this(10) one(11) ,(12) is(13) a(14) snap(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Fuel(1) economy(2) ,(3) in(4) the(5) mid-to-high(6) 20s(7) ,(8) is(9) also(10) good(11) .(12) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="11"/>
+		</sentence>
+		<sentence id="14">
+			The(1) brakes(2) are(3) awful(4) .(5) 
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) rotors(2) are(3) prone(4) to(5) warping(6) and(7) pedal(8) feel(9) is(10) numb(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Stopping(1) distances(2) are(3) on(4) the(5) long(6) side(7) of(8) average(9) ,(10) meaning(11) you(12) 're(13) more(14) like(15) to(16) be(17) involved(18) in(19) accidents(20) than(21) drivers(22) of(23) better-braking(24) cars(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			The(1) seats(2) are(3) flat(4) and(5) unsupportive(6) and(7) --(8) bonus(9) --(10) they(11) sort(12) of(13) shake(14) around(15) a(16) little(17) bit(18) ,(19) as_if(20) they(21) 're(22) not(23) all(24) the(25) way(26) screwed(27) in(28) ((29) probably(30) because(31) they(32) 're(33) not(34) )(35) .(36) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="6"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			The(1) radio(2) is(3) suffers(4) from(5) being(6) both(7) average(8) in(9) sound(10) quality(11) and(12) difficult(13) to(14) use(15) ,(16) with(17) little(18) rows(19) of(20) little(21) buttons(22) that(23) seem(24) all-too-appropriate(25) for(26) the(27) little(28) sounds(29) coming(30) out(31) of(32) the(33) little(34) speakers(35) .(36) 
+		</sentence>
+		<sentence id="19">
+			Interior(1) material(2) quality(3) is(4) about(5) average(6) --(7) below(8) that(9) of(10) a(11) Honda(12) ,(13) but(14) better(15) than(16) that(17) found(18) in(19) most(20) domestic(21) fare(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			I(1) mentioned(2) handling(3) .(4) 
+		</sentence>
+		<sentence id="21">
+			It(1) is(2) ,(3) alas(4) ,(5) very(6) bad(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="1" featRef="car" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="22">
+			The(1) car(2) leans(3) hard(4) in(5) corners(6) ,(7) the(8) nose(9) porposing(10) up(11) and(12) down(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			Frost(1) heaves(2) bounce(3) the(4) car(5) up(6) and(7) down(8) and(9) all(10) around(11) like(12) a(13) fat(14) girl(15) on(16) a(17) roller(18) coaster(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			It(1) may(2) not(3) surprise(4) you(5) that(6) I(7) basically(8) hate(9) this(10) car(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="11" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="25">
+			The(1) only(2) thing(3) to(4) like(5) about(6) it(7) is(8) roominess(9) ,(10) which(11) is(12) terrific(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			The(1) trunk(2) is(3) huge(4) ,(5) and(6) the(7) rear(8) seats(9) offer(10) plenty_of(11) elbow(12) and(13) knee(14) room(15) .(16) 
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			But(1) in(2) most(3) of(4) those(5) areas(6) that(7) ,(8) to(9) me(10) ,(11) define(12) what(13) a(14) car(15) should(16) do(17) ,(18) the(19) 1998(20) Avalon(21) fails(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			It(1) brakes(2) and(3) handles(4) poorly(5) and(6) does(7) not(8) stay(9) screwed(10) together(11) well(12) .(13) 
+			<opinion polarity="-" feature="handling" opWords="4,5"/>
+			<opinion polarity="-" feature="brakes" opWords="2,5"/>
+		</sentence>
+		<sentence id="29">
+			This(1) last(2) part(3) is(4) a(5) shock(6) ,(7) and(8) I(9) understand(10) that(11) all(12) Toyotas(13) --(14) Avalons(15) included(16) --(17) are(18) statistically(19) less(20) likely(21) to(22) fail(23) than(24) almost(25) anything(26) else(27) out(28) there(29) .(30) 
+		</sentence>
+		<sentence id="30">
+			But(1) even_if(2) this(3) Avalon(4) were(5) flawless(6) ,(7) I(8) still(9) would(10) not(11) recommend(12) it(13) .(14) 
+			<opinion polarity="-" feature="car" featWords="13" featRef="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="31">
+			Yes(1) ,(2) it(3) 's(4) the(5) biggest(6) Japanese(7) car(8) you(9) can(10) buy(11) for(12) the(13) money(14) ,(15) and(16) it(17) does(18) sport(19) a(20) nice(21) motor(22) .(23) 
+			<opinion polarity="+" feature="engine" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="32">
+			It(1) just(2) falls(3) too(4) short(5) of(6) the(7) mark(8) in(9) too(10) many(11) areas(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			No(1) more(2) for(3) me(4) ,(5) thanks(6) ;(7) I(8) 'm(9) sticking(10) with(11) Hondas(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18500(7) 
+		</sentence>
+	</text>
+</review>

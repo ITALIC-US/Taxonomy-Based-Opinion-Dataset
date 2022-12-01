@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="787" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			Pure_American_Class(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Simple(1) .(2) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Elegant(1) .(2) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Beautiful(1) .(2) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			You(1) 'll(2) probably(3) have(4) to(5) leave(6) at(7) some(8) point(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) American(2) beauty(3) catering(4) to(5) its(6) financial(7) and(8) business(9) minded(10) clientele(11) and(12) offering(13) a(14) luxurious(15) home(16) away(17) from(18) home(19) for(20) the(21) discriminating(22) tourist(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Ritz_Carlton_San_Francisco(2) embodies(3) a(4) distinctly(5) American(6) flavor(7) of(8) true(9) class(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			While(1) a(2) typical(3) European(4) luxury(5) hotel(6) might(7) be(8) built(9) inside(10) a(11) former(12) royal(13) palace(14) ,(15) the(16) RCSF(17) 's(18) uniquely(19) American(20) brand(21) of(22) luxury(23) springs(24) from(25) the(26) renovation(27) of(28) a(29) 1909(30) landmark(31) insurance(32) company(33) office(34) building(35) ,(36) reflecting(37) not(38) only(39) this(40) country(41) s(42) relatively(43) brief(44) history(45) but(46) that(47) quintessentially(48) American(49) style(50) of(51) pragmatism(52) and(53) devotion(54) to(55) business(56) .(57) 
+		</sentence>
+		<sentence id="3">
+			The(1) towering(2) ionic(3) columns(4) supporting(5) the(6) fa�ade(7) impart(8) an(9) air(10) of(11) authority(12) and(13) power(14) ,(15) conjuring(16) the(17) mystique(18) of(19) the(20) Federal_Reserve_Bank(21) and(22) the(23) austerity(24) of(25) J._Pierpont_Morgan(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			Inside(1) ,(2) the(3) d�cor(4) imbues(5) an(6) ambiance(7) of(8) refined(9) ,(10) American(11) elegance(12) with(13) heavy(14) stylistic(15) borrowings(16) from(17) such(18) American(19) designers(20) as(21) Ralph_Lauren(22) and(23) Martha_Stewart(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			As(1) an(2) expression(3) of(4) the(5) United_States(6) origins(7) as(8) an(9) English(10) colony(11) ,(12) the(13) style(14) here(15) is(16) strictly(17) federalist(18) and(19) classic(20) ,(21) eschewing(22) continental(23) baroque(24) excess(25) in(26) preference(27) for(28) practical(29) luxury(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) few(3) frilly(4) ,(5) lacy(6) things(7) and(8) no(9) cherubs(10) peeing(11) in(12) the(13) garden(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Ms._Stewart(1) s(2) mantra(3) applies(4) aptly(5) to(6) this(7) hotel(8) :(9) It(10) is(11) simple(12) ;(13) it(14) is(15) elegant(16) ;(17) it(18) is(19) beautiful(20) .(21) 
+			<opinion polarity="+" feature="hotel" opWords="12"/>
+			<opinion polarity="+" feature="hotel" opWords="16"/>
+			<opinion polarity="+" feature="hotel" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			Bring(1) Your_White_Glove_The_RCSF(2) staff(3) are(4) friendly(5) and(6) efficient(7) ,(8) but(9) above(10) all(11) ,(12) professional(13) .(14) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="staff" featWords="3" opWords="7"/>
+			<opinion polarity="+" feature="staff" featWords="3" opWords="13"/>
+		</sentence>
+		<sentence id="9">
+			Trained(1) to(2) the(3) point(4) that(5) they(6) probably(7) deserve(8) masters(9) degrees(10) ,(11) the(12) staff(13) ,(14) from(15) senior(16) Concierge(17) to(18) assistant(19) housekeeper(20) ,(21) stand(22) poised(23) to(24) answer(25) your(26) every(27) question(28) and(29) respond(30) quickly(31) to(32) every(33) reasonable(34) request(35) .(36) 
+		</sentence>
+		<sentence id="10">
+			The(1) people(2) working(3) at(4) RCSF(5) are(6) not(7) here(8) to(9) be(10) discovered(11) or(12) put(13) themselves(14) through(15) school(16) ,(17) but(18) are(19) professional(20) hoteliers(21) with(22) obvious(23) pride(24) in(25) their(26) work(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			The(1) concierge(2) team(3) will(4) assist(5) you(6) with(7) virtually(8) anything(9) you(10) might(11) need(12) from(13) restaurant(14) recommendations(15) and(16) bookings(17) to(18) rental(19) cars(20) to(21) package(22) handling(23) and(24) more(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Housekeeping(1) services(2) at(3) RCSF(4) are(5) impeccable(6) .(7) 
+			<opinion polarity="+" feature="room service" featWords="1" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			The(1) common(2) areas(3) ,(4) the(5) grounds(6) and(7) the(8) guest(9) rooms(10) are(11) kept(12) in(13) a(14) constant(15) state(16) of(17) fastidious(18) perfection(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			Evening(1) turndown(2) service(3) is(4) a(5) regular(6) and(7) welcome(8) event(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			I(1) never(2) knew(3) that(4) I(5) needed(6) to(7) hire(8) someone(9) to(10) pull(11) down(12) the(13) bedsheets(14) and(15) fluff(16) the(17) pillows(18) but(19) the(20) chocolate(21) squares(22) and(23) the(24) plates(25) of(26) fabulous(27) Ritz(28) cookies(29) won(30) me(31) over(32) ((33) more(34) later(35) about(36) these(37) ubiquitous(38) baked(39) marvels(40) that(41) are(42) as(43) much(44) a(45) staple(46) of(47) the(48) Ritz(49) diet(50) as(51) is(52) rice(53) in(54) most(55) Asian(56) cultures(57) )(58) .(59) 
+		</sentence>
+		<sentence id="16">
+			We(1) ve(2) Got_a_Deal_RCSF(3) means(4) serious(5) business(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			The(1) staff(2) have(3) geared(4) services(5) to(6) gratify(7) the(8) demands(9) of(10) the(11) most(12) impetuous(13) Fortune(14) 100(15) CEO(16) and(17) the(18) haughtiest(19) bulge-bracket(20) investment(21) banker(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			Echoing(1) the(2) building(3) s(4) history(5) as(6) a(7) headquarters(8) office(9) ,(10) the(11) Business_Center(12) hums(13) with(14) activity(15) ,(16) providing(17) a(18) full(19) complement(20) of(21) executive(22) services(23) to(24) the(25) hotel(26) s(27) demanding(28) clientele(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			Recent(1) upgrades(2) to(3) guest(4) rooms(5) such(6) as(7) multiple(8) phone(9) lines(10) and(11) high-speed(12) internet(13) ports(14) facilitate(15) connecting(16) to(17) the(18) office(19) from(20) your(21) private(22) in-room(23) workspace(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			Decidedly(1) upscale(2) meeting(3) and(4) conference(5) facilities(6) make(7) this(8) hotel(9) the(10) venue(11) of(12) choice(13) for(14) the(15) City(16) s(17) elite(18) financial(19) powerhouses(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			Home_Away(1) from(2) Home_The(3) guest(4) rooms(5) are(6) elegant(7) and(8) luxurious(9) but(10) not(11) over(12) the(13) top(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="9"/>
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="11,12,13,14"/>
+		</sentence>
+		<sentence id="22">
+			The(1) rooms(2) ,(3) furnished(4) in(5) traditional(6) American(7) style(8) by(9) Drexel_Heritage(10) ,(11) provide(12) peace(13) and(14) comfort(15) both(16) for(17) a(18) good(19) night(20) s(21) rest(22) and(23) for(24) catching(25) up(26) on(27) some(28) evening(29) homework(30) .(31) 
+		</sentence>
+		<sentence id="23">
+			Room(1) proportions(2) are(3) typically(4) generous(5) and(6) occasionally(7) overwhelming(8) .(9) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="24">
+			On(1) one(2) visit(3) ,(4) I(5) was(6) alarmed(7) to(8) discover(9) that(10) my(11) bathroom(12) had(13) no(14) shower(15) or(16) tub(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			After(1) a_bit(2) of(3) searching(4) around(5) ,(6) I(7) discovered(8) a(9) large(10) dressing(11) chamber(12) adjacent(13) to(14) the(15) bedroom(16) ,(17) beyond(18) which(19) lay(20) a(21) marble(22) bathroom(23) /(24) spa(25) that(26) ,(27) by(28) itself(29) ,(30) dwarfed(31) my(32) New_York(33) apartment(34) .(35) 
+		</sentence>
+		<sentence id="26">
+			Apparently(1) ,(2) the(3) first(4) bathroom(5) I(6) had(7) found(8) was(9) merely(10) a(11) powder(12) room(13) intended(14) for(15) any(16) unexpected(17) bladder(18) emergencies(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			The(1) bathrooms(2) are(3) fully(4) stocked(5) with(6) good(7) quality(8) provisions(9) ,(10) oversized(11) and(12) thirsty(13) towels(14) as_well(15) as(16) plush(17) cotton(18) terry(19) bathrobes(20) .(21) 
+		</sentence>
+		<sentence id="28">
+			The(1) bedding(2) ,(3) all(4) of(5) superb(6) quality(7) ,(8) has(9) been(10) thoughtfully(11) designed(12) such(13) that(14) everything(15) in(16) and(17) on(18) the(19) bed(20) is(21) encased(22) in(23) a(24) layer(25) of(26) crisp(27) white(28) cotton(29) linen(30) .(31) 
+		</sentence>
+		<sentence id="29">
+			There(1) is(2) no(3) snuggling(4) with(5) dirty(6) used(7) blankets(8) at(9) RCSF(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			Many(1) rooms(2) also(3) accommodate(4) a(5) separate(6) seating(7) area(8) for(9) watching(10) television(11) or(12) entertaining(13) guests(14) and(15) all(16) rooms(17) provide(18) a(19) comfortable(20) work(21) area(22) tailored(23) for(24) workaholic(25) financiers(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			A(1) special(2) note(3) on(4) the(5) accommodations(6) is(7) that(8) you(9) should(10) try(11) to(12) drop(13) in(14) around(15) Christmas(16) a(17) magical(18) time(19) at(20) RCSF(21) .(22) 
+		</sentence>
+		<sentence id="32">
+			By(1) a(2) stroke(3) of(4) pure(5) serendipity(6) ,(7) I(8) secured(9) a(10) room(11) with(12) a(13) window(14) to(15) the(16) giant(17) tree(18) adorning(19) the(20) hotel(21) s(22) front(23) colonnade(24) .(25) 
+		</sentence>
+		<sentence id="33">
+			That(1) was(2) one(3) visit(4) when(5) I(6) left(7) the(8) blinds(9) open(10) at(11) night(12) ,(13) affording(14) me(15) the(16) luxury(17) of(18) falling(19) asleep(20) under(21) the(22) lights(23) of(24) a(25) Christmas(26) tree(27) and(28) wondering(29) what(30) marvels(31) Santa(32) might(33) bring(34) the(35) next(36) day(37) .(38) 
+		</sentence>
+		<sentence id="34">
+			In(1) fact(2) ,(3) gifts(4) do(5) abound(6) for(7) returning(8) travelers(9) .(10) 
+		</sentence>
+		<sentence id="35">
+			Frequent(1) guests(2) to(3) the(4) hotel(5) will(6) often(7) arrive(8) in(9) their(10) room(11) to(12) find(13) a(14) personal(15) note(16) from(17) the(18) hotel(19) s(20) manager(21) along_with(22) a(23) complimentary(24) fruit(25) basket(26) ,(27) a(28) fine(29) bottle(30) of(31) California(32) wine(33) or(34) even(35) a(36) crystal(37) gift(38) box(39) ,(40) and(41) of(42) course(43) warm(44) ,(45) soft(46) ,(47) chewy(48) Ritz(49) cookies(50) .(51) 
+		</sentence>
+		<sentence id="36">
+			I(1) ll(2) Be(3) at(4) My_Club(5) A(6) complimentary(7) upgrade(8) to(9) the(10) Ritz_Carlton_Club(11) is(12) a(13) rare(14) and(15) prized(16) treat(17) for(18) even(19) the(20) most(21) frequent(22) guest(23) at(24) the(25) RCSF(26) .(27) 
+		</sentence>
+		<sentence id="37">
+			Don(1) t(2) bother(3) trying(4) to(5) talk(6) your(7) way(8) into(9) a(10) free(11) stay(12) at(13) the(14) Club(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			The(1) reception(2) staff(3) are(4) highly(5) intelligent(6) and(7) no(8) matter(9) how(10) cunning(11) you(12) think(13) your(14) arguments(15) may(16) be(17) ,(18) you(19) will(20) most(21) likely(22) end(23) up(24) on(25) the(26) receiving(27) end(28) of(29) a(30) friendly(31) but(32) firm(33) No(34) .(35) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="39">
+			Club(1) level(2) accommodations(3) are(4) strictly(5) invitation-only(6) ;(7) and(8) like(9) most(10) everything(11) in(12) our(13) upwardly(14) mobile(15) capitalist(16) system(17) ,(18) such(19) invitations(20) are(21) readily(22) available(23) for(24) a(25) price(26) .(27) 
+		</sentence>
+		<sentence id="40">
+			When(1) and(2) if(3) you(4) do(5) receive(6) that(7) coveted(8) free(9) upgrade(10) ,(11) first(12) smile(13) for(14) the(15) boss(16) must(17) like(18) you(19) and(20) then(21) prepare(22) to(23) raise(24) your(25) expectations(26) .(27) 
+		</sentence>
+		<sentence id="41">
+			The(1) real(2) treat(3) at(4) the(5) Club(6) is(7) not(8) the(9) more(10) generously(11) sized(12) and(13) appointed(14) rooms(15) nor(16) the(17) private(18) lounge(19) ,(20) reception(21) and(22) concierge(23) nor(24) the(25) complimentary(26) breakfast(27) buffet(28) bursting(29) with(30) mountains(31) of(32) delicious(33) fresh(34) pastries(35) and(36) aromatic(37) coffees(38) nor(39) even(40) the(41) feeling(42) of(43) exclusivity(44) that(45) can(46) warm(47) the(48) heart(49) of(50) even(51) the(52) oldest(53) money(54) in(55) town(56) .(57) 
+		</sentence>
+		<sentence id="42">
+			The(1) real(2) treat(3) is(4) the(5) evening(6) gathering(7) which(8) features(9) a(10) smorgasbord(11) of(12) such(13) tasty(14) temptations(15) you(16) ll(17) want(18) to(19) wrap(20) up(21) that(22) afternoon(23) meeting(24) early(25) just(26) to(27) get(28) back(29) to(30) the(31) Club(32) on(33) time(34) .(35) 
+		</sentence>
+		<sentence id="43">
+			The(1) complimentary(2) evening(3) service(4) goes(5) way(6) beyond(7) the(8) typical(9) cheese(10) cubes(11) and(12) buffalo(13) wings(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			Center-stage(1) features(2) an(3) array(4) of(5) caviars(6) and(7) crudit�s(8) carved(9) from(10) fresh(11) local(12) seafood(13) of(14) which(15) San_Francisco(16) seems(17) to(18) have(19) a(20) chronic(21) overabundance(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			A(1) wide(2) selection(3) of(4) fresh(5) ,(6) creamy(7) California(8) cheeses(9) provides(10) the(11) perfect(12) counterpoint(13) to(14) the(15) tangy(16) smoked(17) Pacific(18) salmon(19) .(20) 
+		</sentence>
+		<sentence id="46">
+			In(1) keeping(2) with(3) American(4) style(5) ,(6) there(7) is(8) nothing(9) too(10) exotic(11) or(12) experimental(13) here(14) ;(15) everything(16) is(17) fresh(18) ,(19) simple(20) and(21) pleasing(22) to(23) the(24) American(25) palate(26) .(27) 
+		</sentence>
+		<sentence id="47">
+			Of(1) course(2) ,(3) the(4) entire(5) time(6) that(7) you(8) re(9) reviewing(10) the(11) selection(12) of(13) fine(14) foods(15) you(16) ll(17) be(18) unable(19) to(20) resist(21) locking(22) one(23) eye(24) on(25) the(26) mounds(27) of(28) omni-present(29) Ritz(30) cookies(31) crying(32) out(33) your(34) name(35) .(36) 
+		</sentence>
+		<sentence id="48">
+			Thank(1) God(2) this(3) hotel(4) has(5) a(6) gym(7) .(8) 
+		</sentence>
+		<sentence id="49">
+			The(1) Cookie_Monster(2) s(3) Paradise_If(4) this(5) hotel(6) were(7) to(8) adopt(9) a(10) mascot(11) ,(12) I(13) wholeheartedly(14) nominate(15) Sesame_Street(16) s(17) Cookie_Monster(18) .(19) 
+		</sentence>
+		<sentence id="50">
+			Not(1) only(2) does(3) this(4) loveable(5) blue(6) furball(7) match(8) perfectly(9) the(10) hotel(11) chain(12) s(13) corporate(14) color(15) scheme(16) but(17) that(18) little(19) guy(20) would(21) never(22) leave(23) the(24) confines(25) of(26) this(27) building(28) because(29) he(30) would(31) never(32) ,(33) ever(34) run(35) out(36) of(37) cookies(38) .(39) 
+		</sentence>
+		<sentence id="51">
+			Baked(1) in(2) six-inch(3) circles(4) with(5) chewy(6) centers(7) and(8) an(9) al(10) dente(11) crunchy(12) crust(13) ,(14) these(15) irresistible(16) treats(17) come(18) in(19) three(20) flavors(21) :(22) dark(23) chocolate(24) chunk(25) ,(26) white(27) chocolate(28) macadamia(29) nut(30) and(31) maple(32) cinnamon(33) oatmeal(34) raisin(35) .(36) 
+		</sentence>
+		<sentence id="52">
+			Obviously(1) designed(2) to(3) put(4) you(5) at(6) ease(7) ,(8) Ritz(9) cookies(10) are(11) as(12) addictive(13) as(14) opium(15) and(16) seem(17) to(18) rain(19) down(20) on(21) guests(22) like(23) manna(24) from(25) heaven(26) .(27) 
+		</sentence>
+		<sentence id="53">
+			In(1) a(2) city(3) that(4) is(5) brutally(6) competitive(7) for(8) offering(9) up(10) epicurean(11) delights(12) ,(13) the(14) RCSF(15) holds(16) its(17) own(18) with(19) dignity(20) .(21) 
+		</sentence>
+		<sentence id="54">
+			Cuisine(1) at(2) the(3) RCSF(4) succeeds(5) by(6) sticking(7) primarily(8) to(9) classic(10) French(11) and(12) Mediterranean(13) foods(14) and(15) excelling(16) in(17) local(18) and(19) American(20) fare(21) .(22) 
+		</sentence>
+		<sentence id="55">
+			The(1) most(2) notable(3) exception(4) to(5) this(6) rule(7) of(8) thumb(9) is(10) swimmingly(11) fresh(12) sushi(13) and(14) sashimi(15) carved(16) up(17) each(18) evening(19) in(20) the(21) Lobby_Lounge(22) a(23) fitting(24) tribute(25) to(26) the(27) powerful(28) Asian(29) influence(30) in(31) California(32) and(33) a(34) charming(35) diversion(36) from(37) the(38) Lounge(39) s(40) more(41) typical(42) anglophile(43) selection(44) .(45) 
+		</sentence>
+		<sentence id="56">
+			Nevertheless(1) ,(2) this(3) is(4) generally(5) not(6) the(7) place(8) for(9) either(10) anorexic(11) California_Nouvelle(12) or(13) experimental(14) cross-fusion(15) cuisines(16) .(17) 
+		</sentence>
+		<sentence id="57">
+			In-room(1) breakfast(2) is(3) always(4) punctual(5) and(6) made-to-order(7) .(8) 
+		</sentence>
+		<sentence id="58">
+			The(1) kitchen(2) is(3) well(4) accustomed(5) to(6) handling(7) even(8) the(9) most(10) bizarre(11) dietary(12) restrictions(13) .(14) 
+		</sentence>
+		<sentence id="59">
+			The(1) main(2) restaurants(3) are(4) superb(5) and(6) are(7) destinations(8) in(9) and(10) of(11) themselves(12) ,(13) deserving(14) their(15) own(16) separate(17) reviews(18) ,(19) which(20) I(21) leave(22) to(23) others(24) .(25) 
+		</sentence>
+		<sentence id="60">
+			At(1) the(2) risk(3) of(4) epicurean(5) heresy(6) ,(7) I(8) must(9) extol(10) my(11) favorite(12) RCSF(13) dish(14) :(15) the(16) all-American(17) Ritz(18) cheeseburger(19) .(20) 
+		</sentence>
+		<sentence id="61">
+			Yes(1) ,(2) I(3) know(4) ,(5) not(6) exactly(7) haute(8) cuisine(9) but(10) these(11) sandwiches(12) are(13) outrageously(14) good(15) .(16) 
+		</sentence>
+		<sentence id="62">
+			A(1) plump(2) ,(3) juicy(4) angus(5) patty(6) caught(7) within(8) a(9) slightly(10) buttered(11) bun(12) with(13) just(14) enough(15) bronzing(16) to(17) add(18) crispness(19) around(20) the(21) rim(22) .(23) 
+		</sentence>
+		<sentence id="63">
+			Add(1) full-flavored(2) cheddar(3) cheese(4) ,(5) baby(6) lettuce(7) ,(8) red(9) tomato(10) and(11) this(12) burger(13) can(14) compete(15) with(16) the(17) best(18) of(19) its(20) siblings(21) at(22) the(23) 21(24) Club(25) or(26) the(27) Corner_Bistro(28) in(29) Manhattan(30) .(31) 
+		</sentence>
+		<sentence id="64">
+			Ritz(1) burgers(2) are(3) so(4) good(5) that(6) my(7) friends(8) who(9) live(10) in(11) SF(12) actually(13) begged(14) to(15) come(16) hang(17) out(18) in(19) my(20) hotel(21) room(22) and(23) order(24) burgers(25) rather(26) than(27) go(28) out(29) to(30) one(31) of(32) the(33) City(34) s(35) many(36) celebrated(37) restaurants(38) .(39) 
+		</sentence>
+		<sentence id="65">
+			When(1) you(2) order(3) room(4) service(5) ,(6) remember(7) to(8) ask(9) for(10) Faye(11) ,(12) she(13) will(14) take(15) care(16) of(17) you(18) and(19) have(20) you(21) convinced(22) that(23) Mom(24) must(25) be(26) down(27) in(28) the(29) kitchen(30) .(31) 
+		</sentence>
+		<sentence id="66">
+			City(1) by(2) the(3) Bay_RCSF(4) sits(5) confidently(6) just(7) below(8) the(9) peak(10) of(11) Nob_Hill(12) where(13) the(14) Mark_Hopkins(15) ,(16) the(17) Fairmont(18) and(19) Grace_Cathedral(20) vie(21) greedily(22) for(23) prized(24) real(25) estate(26) .(27) 
+		</sentence>
+		<sentence id="67">
+			While(1) some(2) travelers(3) may(4) prefer(5) to(6) be(7) right(8) in(9) the(10) thick(11) of(12) it(13) all(14) ,(15) those(16) who(17) prefer(18) a(19) little(20) distance(21) from(22) the(23) throbbing(24) masses(25) will(26) find(27) greater(28) privacy(29) and(30) tranquility(31) at(32) the(33) RCSF(34) .(35) 
+		</sentence>
+		<sentence id="68">
+			Street(1) noise(2) is(3) almost(4) minimal(5) with(6) only(7) an(8) occasional(9) ring(10) of(11) the(12) cable(13) cars(14) ,(15) a(16) distant(17) siren(18) or(19) two(20) and(21) the(22) melodious(23) moans(24) of(25) the(26) foghorns(27) from(28) off(29) the(30) bay(31) .(32) 
+		</sentence>
+		<sentence id="69">
+			The(1) Financial_District(2) ,(3) Union_Square(4) and(5) Chinatown(6) are(7) all(8) short(9) walks(10) or(11) cab(12) rides(13) from(14) the(15) front(16) door(17) ,(18) albeit(19) with(20) some(21) hill(22) involved(23) ((24) though(25) with(26) all(27) those(28) cookies(29) ,(30) I(31) considered(32) the(33) hill(34) to(35) be(36) a(37) plus(38) )(39) .(40) 
+		</sentence>
+		<sentence id="70">
+			Fisherman(1) s(2) Market(3) lies(4) just(5) to(6) the(7) north(8) and(9) ,(10) for(11) those(12) visiting(13) friends(14) and(15) relatives(16) ,(17) the(18) residential(19) areas(20) of(21) Pacific_Heights(22) and(23) the(24) Marina(25) are(26) readily(27) accessible(28) at(29) points(30) west(31) from(32) the(33) hotel(34) .(35) 
+		</sentence>
+		<sentence id="71">
+			Do(1) I_Have(2) to(3) Leave(4) ?(5) 
+		</sentence>
+		<sentence id="72">
+			You(1) could(2) easily(3) live(4) at(5) this(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="73">
+			I(1) ,(2) in(3) fact(4) ,(5) did(6) so(7) for(8) about(9) a(10) month(11) while(12) working(13) on(14) a(15) merger(16) transaction(17) .(18) 
+		</sentence>
+		<sentence id="74">
+			In(1) a(2) fit(3) of(4) insanity(5) ,(6) I(7) even(8) ran(9) the(10) numbers(11) in(12) my(13) head(14) to(15) compare(16) the(17) cost(18) of(19) living(20) here(21) versus(22) renting(23) an(24) apartment(25) to(26) abysmally(27) disappointing(28) results(29) .(30) 
+		</sentence>
+		<sentence id="75">
+			Ah(1) well(2) ,(3) all(4) good(5) things(6) eventually(7) come(8) to(9) an(10) end(11) and(12) New_York(13) was(14) calling(15) me(16) home(17) .(18) 
+		</sentence>
+	</text>
+</review>

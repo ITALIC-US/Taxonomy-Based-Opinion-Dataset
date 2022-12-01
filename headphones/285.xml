@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="285" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			For(1) the(2) frequent(3) business(4) traveler(5) only(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) noise(4) cancelling(5) ,(6) very(7) comfortable(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			PRICE(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			They(1) HAVE(2) to(3) be(4) on(5) to(6) hear(7) anything(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) waited(2) three(3) years(4) too(5) long(6) to(7) purchase(8) a(9) pair(10) of(11) the(12) Bose_Quiet_Comfort(13) 2(14) headphones(15) but(16) now(17) that(18) I(19) have(20) them(21) ,(22) everything(23) will(24) be(25) ok(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) to(3) travel(4) a_LOT(5) for(6) work(7) and(8) now(9) that(10) I(11) have(12) a(13) pair(14) of(15) these(16) ,(17) my(18) travel(19) days(20) do(21) not(22) seem(23) as(24) bad(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) long(2) flights(3) between(4) Vancouver(5) and(6) Chicago(7) *(8) 4(9) hours(10) )(11) used(12) to(13) be(14) a(15) killer(16) ,(17) but(18) now(19) it(20) 's(21) almost(22) enjoyable(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) "(2) ambient(3) noise(4) cancelling(5) "(6) is(7) great(8) and(9) I(10) say(11) that(12) because(13) it(14) does(15) not(16) take(17) out(18) true(19) noise(20) ((21) like(22) babies(23) crying(24) )(25) but(26) it(27) 's(28) great(29) for(30) that(31) annoying(32) hum(33) of(34) planes(35) and(36) fans(37) .(38) 
+			<opinion polarity="+" feature="isolation" featWords="4,5" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) the(3) third(4) pair(5) of(6) noise(7) cancelling(8) headphones(9) I(10) 've(11) had(12) ((13) Aiwa(14) were(15) first(16) ,(17) then(18) Philips(19) HN110(20) )(21) and(22) it(23) 's(24) not(25) that(26) they(27) wear(28) out(29) ,(30) but(31) your(32) ears(33) can(34) only(35) be(36) uncomfortable(37) for(38) so(39) long(40) before(41) you(42) have(43) to(44) move(45) onto(46) the(47) Bose(48) which(49) I(50) could(51) easily(52) sleep(53) in(54) or(55) wear(56) for(57) hours(58) in(59) comfort(60) .(61) 
+		</sentence>
+		<sentence id="6">
+			Summary(1) :(2) It(3) 's(4) debatable(5) if(6) they(7) 're(8) worth(9) the(10) $299(11) USD(12) price(13) tag(14) ,(15) but(16) they(17) are(18) great(19) to(20) travel(21) with(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) 're(3) main(4) use(5) will(6) be(7) at(8) home(9) ,(10) forget(11) it(12) and(13) look(14) at(15) other(16) less(17) expensive(18) pairs(19) that(20) have(21) a(22) wider(23) range(24) of(25) sound(26) .(27) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="302" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Beautiful(1) and(2) elegant(3) .(4) .(5) 
+			<opinion polarity="+" feature="design" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) powerful(2) and(3) light(4) -(5) awesome(6) exterior(7) 
+			<opinion polarity="+" feature="exterior" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="weight" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) a_bit(2) easy(3) to(4) rust(5) -(6) no(7) additional(8) gear(9) easily(10) available(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			MAxima(1) is(2) really(3) elegant(4) and(5) spacious(6) car(7) .(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Well(1) ,(2) I(3) think(4) Maxima(5) doesn(6) `(7) t(8) have(9) a(10) status(11) of(12) a(13) quality(14) vehicle(15) ,(16) but(17) it(18) gives(19) all(20) you(21) pay(22) ,(23) really(24) !(25) 
+		</sentence>
+		<sentence id="3">
+			Powerful(1) engine(2) and(3) light(4) weight(5) compared(6) to(7) its(8) dimensions(9) makes(10) Maxima(11) accelerate(12) pretty(13) fast(14) .(15) .(16) 
+			<opinion polarity="+" feature="acceleration" opWords="12,14"/>
+			<opinion polarity="+" feature="weight" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Regular(1) waxing(2) is(3) required(4) since(5) some(6) rust(7) may(8) appear(9) onto(10) door(11) panels(12) .(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			With(1) low-profile(2) tires(3) it(4) `(5) s(6) easy(7) to(8) handle(9) in(10) curves(11) also(12) at(13) higher(14) speeds(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Most(1) Maxima(2) owner(3) may(4) suffer(5) from(6) a(7) lack(8) of(9) additional(10) gear(11) ,(12) and(13) it(14) `(15) s(16) true(17) :(18) tuning(19) components(20) are(21) quite(22) a(23) few(24) for(25) Maxima(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16(7) 000(8) Condition(9) :(10) UsedModel_Year(11) :(12) 2000(13) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="491" item="Sony MDR-V150 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Useful(1) ...(2) But(3) Uncomfortable(4) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Highs(1) and(2) Mids(3) ,(4) Price(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Comfort(1) ,(2) Bass(3) and(4) Distortion(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			All(1) around(2) average(3) except(4) to(5) sound(6) ,(7) which(8) is(9) excellent(10) for(11) this(12) price(13) .(14) ((15) Except(16) Koss_KTX-Pro(17) )(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 'll(2) start(3) off(4) by(5) saying(6) that(7) these(8) headphones(9) are(10) not(11) of(12) the(13) best(14) quality(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) understandable(3) for(4) their(5) price(6) ((7) $20(8) )(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) will(3) compare(4) them(5) to(6) other(7) cheap(8) run-of-the-mill(9) headphones(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) is(4) the(5) sound(6) quality(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) find(2) it(3) adaquate(4) for(5) back-up(6) and(7) lower(8) quality(9) applications(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			These(1) are(2) very(3) useful(4) if(5) your(6) day(7) involves(8) playing(9) some(10) Unreal(11) and(12) you(13) do(14) not(15) wish(16) to(17) disturb(18) others(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Highs(1) are(2) very(3) bright(4) and(5) often(6) overpower(7) the(8) lows(9) ,(10) which(11) these(12) seem(13) to(14) lack(15) .(16) 
+			<opinion polarity="-" feature="highs" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			Mids(1) are(2) there(3) but(4) not(5) as(6) brilliant(7) as(8) the(9) highs(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			The(1) distortion(2) levels(3) are(4) high(5) enough(6) to(7) hear(8) ,(9) but(10) not(11) bad(12) enough(13) to(14) mar(15) these(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			They(1) are(2) comfortable(3) to(4) small(5) ears(6) and(7) seem(8) to(9) make(10) sores(11) after(12) about(13) an(14) hour(15) .(16) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			They(1) liked(2) to(3) squeeze(4) my(5) head(6) after(7) I(8) picked(9) these(10) up(11) but(12) that(13) problem(14) has(15) disapeared(16) with(17) time(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) construction(2) is(3) of(4) cheap(5) plastic(6) ,(7) which(8) is(9) accpetable(10) in(11) this(12) price(13) range(14) .(15) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) not(3) broken(4) mine(5) and(6) I(7) have(8) a(9) rep(10) for(11) breaking(12) my(13) stuff(14) often(15) ,(16) so(17) they(18) are(19) pretty(20) sturdy(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			Overall_I(1) am(2) pretty(3) satisfied(4) with(5) these(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			They(1) still(2) are(3) useable(4) ,(5) not(6) broken(7) ,(8) and(9) sound(10) like(11) crap(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Just(1) like(2) any(3) other(4) set(5) of(6) headphones(7) in(8) this(9) price(10) range(11) .(12) ((13) Exception(14) to(15) the(16) Koss_KTX-Pro(17) $20(18) ,(19) aka(20) .(21) Optimus(22) Pro-35(23) @(24) RadioShack(25) $40(26) )(27) 
+		</sentence>
+	</text>
+</review>

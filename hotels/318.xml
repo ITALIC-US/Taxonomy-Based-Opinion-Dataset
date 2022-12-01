@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="318" item="Barkston Gardens Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			What(1) a(2) dump(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			close(1) to(2) tube(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			moldy(1) ,(2) decrepit(3) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+			<opinion polarity="-" feature="hotel" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) a(2) dump(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) booked(3) there(4) for(5) four(6) days(7) at(8) the(9) end(10) of(11) Oct_,_2006(12) through(13) British_Air(14) .(15) the(16) rooms(17) were(18) reeking(19) of(20) mold(21) and(22) had(23) rotten(24) spots(25) in(26) the(27) floor(28) .(29) 
+			<opinion polarity="-" feature="rooms" featWords="17" opWords="19,20,21"/>
+		</sentence>
+		<sentence id="3">
+			The(1) whole(2) bathroom(3) and(4) especially(5) the(6) shower(7) was(8) mold(9) infested(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) desk(2) people(3) were(4) surly(5) and(6) made(7) no(8) effort(9) to(10) at_least(11) get(12) the(13) bathroom(14) cleaned(15) up(16) a_bit(17) and(18) would(19) not(20) provide(21) an(22) alternate(23) room(24) .(25) 
+			<opinion polarity="-" feature="front desk" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			A(1) third(2) world(3) hotel(4) at(5) first(6) world(7) prices(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) care(3) about(4) your(5) health(6) avoid(7) this(8) place(9) like(10) the(11) plague(12) or(13) catch(14) it(15) .(16) 
+			<opinion polarity="-" feature="place" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			Breakfast(1) was(2) disappointing(3) and(4) served(5) in(6) a(7) very(8) indifferent(9) manner(10) .(11) 
+			<opinion polarity="-" feature="food" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			What(1) a(2) dump(3) !(4) 
+		</sentence>
+	</text>
+</review>

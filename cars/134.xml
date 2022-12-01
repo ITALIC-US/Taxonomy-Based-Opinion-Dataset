@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="134" item="1997 Cadillac Eldorado" rating="4">
+	<title>
+		<sentence id="1">
+			Luxury(1) and(2) Power_To_Spare(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power-Surprising(1) good(2) gas(3) mileage(4) for(5) the(6) engine(7) size(8) -(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Suspension(1) system(2) could(3) be(4) a_bit(5) firmer(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) 1997(4) Eldorado_ETC(5) off(6) lease(7) in(8) January_1999(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) outstanding(2) feature(3) is(4) the(5) responsive(6) 300(7) hp(8) V(9) -(10) 8(11) coupled(12) with(13) a(14) very(15) tight(16) automatic(17) transmission(18) .(19) 
+			<opinion polarity="+" feature="transmission" featWords="18" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="3">
+			The(1) acceleration(2) is(3) far(4) above(5) average(6) and(7) the(8) automatic(9) traction(10) system(11) that(12) engages(13) in(14) tight(15) turns(16) is(17) a(18) pleasure(19) although(20) a_bit(21) scary(22) the(23) first(24) time(25) it(26) engages(27) .(28) 
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="5,6" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) reminds(3) one(4) of(5) a(6) transmission(7) grinding(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) luxury(2) package(3) is(4) what(5) you(6) should(7) expect(8) in(9) this(10) class(11) of(12) automobile(13) but(14) like(15) most(16) American(17) cars(18) I(19) have(20) owned(21) there(22) are(23) always(24) a(25) few(26) rattles(27) that(28) are(29) disappointing(30) at(31) this(32) cost(33) level(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) innumerable(3) extras(4) that(5) cover(6) nearly(7) all(8) comfort(9) luxuries(10) and(11) are(12) standard(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			However(1) consider(2) the(3) sun(4) roof(5) option(6) because(7) it(8) gives(9) one(10) a(11) sense(12) of(13) convertible(14) atmosphere(15) without(16) being(17) blown(18) about(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) back(2) seat(3) is(4) a_bit(5) tight(6) if(7) you(8) have(9) grown(10) children(11) .(12) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			Finally(1) the(2) gas(3) mileage(4) is(5) the(6) most(7) surprising(8) feature(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			About(1) town(2) I(3) average(4) 17-18(5) mpg(6) but(7) on(8) a(9) recent(10) six_thousand_mile(11) trip(12) through(13) the(14) western(15) United_States_I(16) averaged(17) 24-25(18) mpg(19) ,(20) and(21) this(22) with(23) an(24) explosive(25) 300(26) hp(27) engine(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			In(1) summary(2) this(3) is(4) a(5) very(6) good(7) car(8) for(9) a(10) couple(11) without(12) children(13) who(14) are(15) considering(16) travel(17) or(18) just(19) want(20) a(21) good(22) looking(23) luxury(24) coupe(25) with(26) plenty_of(27) go(28) .(29) 
+			<opinion polarity="+" feature="design" opWords="22,23"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+	</text>
+</review>

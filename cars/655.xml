@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="655" item="1998 Honda Civic" rating="3">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) okay(3) ,(4) but(5) ...(6) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) ,(2) well(3) made(4) ,(5) great(6) for(7) parking(8) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) power(2) ,(3) bad(4) gas(5) mileage(6) ,(7) leaky(8) hatchback(9) ((10) ?(11) )(12) 
+			<opinion polarity="-" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) probably(2) will(3) not(4) buy(5) a(6) Honda(7) again(8) since(9) the(10) gas(11) mileage(12) is(13) not(14) what(15) I(16) was(17) led(18) to(19) believe(20) it(21) would(22) be(23) .(24) 
+			<opinion polarity="-" feature="car" opWords="4,5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) 2-door(4) hatchback(5) used(6) in(7) the(8) spring(9) of(10) 99(11) with(12) 20K_miles(13) on(14) it(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) been(3) quite(4) reliable(5) for(6) my(7) daily(8) 90_mile(9) round(10) trip(11) commute(12) to(13) work(14) .(15) 
+			<opinion polarity="+" feature="reliability" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) put(3) over(4) 50K_miles(5) on(6) it(7) in(8) just(9) over(10) 2(11) years(12) without(13) any(14) major(15) problems(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			All(1) accessories(2) ,(3) etc.(4) ,(5) still(6) work(7) fine(8) .(9) 
+			<opinion polarity="+" feature="car" opWords="7,8"/>
+		</sentence>
+		<sentence id="5">
+			My(1) main(2) gripe(3) is(4) that(5) I(6) bought(7) a(8) little(9) Honda(10) ,(11) knowing(12) that(13) I(14) was(15) sacrificing(16) performance(17) ,(18) because(19) they(20) are(21) supposed(22) to(23) get(24) great(25) gas(26) mileage(27) .(28) 
+			<opinion polarity="+" feature="gas" featWords="26,27" opWords="25"/>
+		</sentence>
+		<sentence id="6">
+			I(1) knew(2) the(3) low(4) gas(5) prices(6) of(7) 1999(8) would(9) not(10) last(11) forever(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) dealer(2) told(3) me(4) to(5) expect(6) 40-45(7) mpg(8) on(9) the(10) highway(11) ,(12) and(13) my(14) commute(15) is(16) 95_%(17) highway(18) driving(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) reality(2) is(3) that(4) in(5) the(6) summer(7) I(8) get(9) 32-33mpg(10) and(11) the(12) winter(13) I(14) get(15) 27-29(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) no(3) idea(4) why(5) the(6) mileage(7) varies(8) over(9) the(10) seasons(11) ,(12) other(13) than(14) I(15) warm(16) up(17) the(18) car(19) for(20) several(21) minutes(22) on(23) cold(24) winter(25) days(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			I(1) can(2) not(3) imagine(4) that(5) idling(6) for(7) several(8) minute(9) would(10) reduce(11) gas(12) mileage(13) by(14) an(15) average(16) of(17) 15_%(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			My(1) girlfriend(2) 's(3) VW_Jetta(4) ,(5) which(6) is(7) a(8) bigger(9) car(10) with(11) more(12) power(13) gets(14) almost(15) as(16) good(17) gas(18) mileage(19) and(20) is(21) much(22) more(23) fun(24) to(25) drive(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="24"/>
+			<opinion polarity="+" feature="gas" featWords="18,19" opWords="17"/>
+		</sentence>
+		<sentence id="12">
+			In(1) fact(2) my(3) previous(4) car(5) ,(6) a(7) 12(8) year(9) old(10) VW_Quantum(11) station(12) wagon(13) ,(14) got(15) about(16) the(17) same(18) gas(19) mileage(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			Even(1) the(2) upper(3) range(4) of(5) 32-33(6) is(7) nowhere(8) near(9) the(10) supposed(11) 40-45mpg(12) range(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Other(1) problems(2) are(3) :(4) When(5) the(6) car(7) starts(8) getting(9) low(10) on(11) gas(12) ,(13) it(14) gets(15) very(16) hard(17) to(18) start(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) never(3) had(4) this(5) experience(6) with(7) any(8) other(9) car(10) I(11) have(12) owned(13) or(14) driven(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Once(1) I(2) had(3) to(4) call(5) a(6) tow(7) truck(8) to(9) get(10) a(11) jump(12) start(13) because(14) I(15) ran(16) down(17) the(18) battery(19) trying(20) to(21) start(22) it(23) ((24) and(25) no(26) ,(27) it(28) was(29) not(30) out(31) of(32) gas(33) )(34) .(35) 
+		</sentence>
+		<sentence id="17">
+			This(1) is(2) a(3) little(4) weird(5) :(6) The(7) spare(8) tire(9) well(10) fills(11) up(12) with(13) water(14) occasionally(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			I(1) still(2) have(3) not(4) determined(5) if(6) it(7) happens(8) when(9) driving(10) in(11) rain(12) or(13) just(14) sitting(15) in(16) rain(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			Strangely(1) ,(2) I(3) do(4) not(5) remember(6) to(7) check(8) my(9) spare(10) tire(11) well(12) for(13) water(14) content(15) on(16) regular(17) basis(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			This(1) car(2) has(3) absolutely(4) no(5) rust(6) and(7) all(8) door(9) gaskets(10) appear(11) to(12) be(13) fine(14) ,(15) so(16) the(17) cause(18) of(19) the(20) problem(21) is(22) a(23) little(24) obscure(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			This(1) one(2) is(3) even(4) more(5) bizarre(6) :(7) For(8) as(9) long(10) as(11) I(12) have(13) owned(14) this(15) car(16) ,(17) no(18) matter(19) what(20) the(21) weather(22) ((23) hot(24) and(25) sunny(26) ,(27) raining(28) ,(29) blizzard(30) or(31) anything(32) in(33) between(34) )(35) ,(36) no(37) matter(38) what(39) I(40) am(41) wearing(42) ((43) shorts(44) and(45) bare(46) feet(47) ,(48) heavy(49) boots(50) and(51) winter(52) gloves(53) )(54) ,(55) when(56) I(57) get(58) out(59) of(60) the(61) car(62) and(63) touch(64) the(65) door(66) to(67) close(68) it(69) ,(70) I(71) get(72) a(73) static(74) electricity(75) shock(76) .(77) 
+		</sentence>
+		<sentence id="22">
+			Not(1) a(2) big(3) deal(4) ,(5) but(6) quite(7) annoying(8) to(9) know(10) there(11) seems(12) to(13) be(14) no(15) way(16) of(17) avoiding(18) it(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			I(1) have(2) resorted(3) to(4) closing(5) the(6) door(7) with(8) my(9) foot(10) or(11) making(12) sure(13) I(14) am(15) holding(16) onto(17) the(18) door(19) before(20) I(21) actually(22) get(23) out(24) .(25) 
+		</sentence>
+		<sentence id="24">
+			Again(1) ,(2) I(3) have(4) never(5) experienced(6) anything(7) like(8) this(9) with(10) any(11) other(12) car(13) I(14) have(15) been(16) in(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			Though(1) the(2) craftsmanship(3) of(4) this(5) car(6) is(7) great(8) ,(9) the(10) basic(11) reason(12) I(13) bought(14) it(15) ((16) gas(17) mileage(18) )(19) has(20) turned(21) out(22) to(23) be(24) a(25) big(26) letdown(27) .(28) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="26">
+			I(1) might(2) as_well(3) have(4) bought(5) a(6) car(7) with(8) more(9) room(10) and(11) better(12) performance(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10900(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

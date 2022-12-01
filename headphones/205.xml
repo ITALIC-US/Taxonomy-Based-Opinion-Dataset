@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="205" item="Bose QuietComfort 2 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Disappointment(1) all(2) round(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fit(1) of(2) ear(3) pieces(4) excellent(5) ...(6) general(7) sound(8) quality(9) very(10) good(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="8,9" opWords="11" potency="10"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Do(1) not(2) eliminate(3) intermittent(4) sound(5) ,(6) thus(7) do(8) not(9) give(10) the(11) silence(12) claimed(13) in(14) literature(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			They(1) do(2) not(3) work(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			For(1) a(2) terrestrial(3) sound(4) reduction(5) system(6) it(7) 's(8) proved(9) more(10) successful(11) to(12) sue(13) the(14) government(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Expecting(1) something(2) exceptional(3) from(4) Bose(5) the(6) end(7) result(8) was(9) disappointment(10) and(11) the(12) headphones(13) were(14) returned(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Having(1) been(2) mostly(3) struck(4) with(5) the(6) advertising(7) being(8) related(9) to(10) aircraft(11) noise(12) and(13) the(14) promised(15) "(16) silence(17) "(18) offered(19) the(20) headphones(21) went(22) on(23) my(24) Christmas(25) wish(26) list(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			The(1) aircraft(2) noise(3) I(4) wanted(5) eliminated(6) was(7) that(8) early(9) morning(10) rush(11) we(12) now(13) have(14) had(15) for(16) the(17) last(18) few(19) years(20) living(21) under(22) the(23) extended(24) runway(25) for(26) London_'s_Heathrow(27) airport(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) just(3) unsuccessful(4) the(5) intermittent(6) barrelling(7) drone(8) defeated(9) the(10) system(11) 's(12) technology(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) cost(2) in(3) the(4) UK(5) at(6) 245_pounds(7) sterling(8) ((9) all(10) inc.(11) )(12) is(13) pretty(14) high(15) even(16) for(17) a(18) top(19) notch(20) set(21) of(22) earphones(23) ,(24) which(25) the(26) Bose(27) is(28) ,(29) and(30) other(31) brands(32) are(33) available(34) for(35) this(36) function(37) alone(38) .(39) 
+			<opinion polarity="-" feature="price" featWords="2" opWords="15" potency="14"/>
+		</sentence>
+	</text>
+</review>

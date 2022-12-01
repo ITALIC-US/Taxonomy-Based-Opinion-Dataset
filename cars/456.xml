@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="456" item="1999 Lexus RX 300" rating="2">
+	<title>
+		<sentence id="1">
+			Luxury_Vehicle(1) ?(2) ?(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Styling(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) ergonomics(2) ;(3) excessive(4) noise(5) ;(6) cheap(7) construction(8) .(9) 
+			<opinion polarity="-" feature="comfort" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) had(3) the(4) RX300(5) for(6) 18(7) months(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) there(3) are(4) still(5) another(6) 18(7) months(8) left(9) on(10) the(11) lease(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) a(3) fully(4) loaded(5) version(6) :(7) integrated(8) phone(9) ;(10) upgraded(11) stereo(12) ;(13) etc.(14) This(15) is(16) without(17) a(18) doubt(19) one(20) of(21) the(22) more(23) annoying(24) vehicles(25) I(26) have(27) owned(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) hear(3) it(4) described(5) as(6) a(7) "(8) luxury(9) vehicle(10) "(11) I(12) can(13) only(14) wonder(15) if(16) the(17) reviewer(18) has(19) ever(20) driven(21) a(22) car(23) that(24) really(25) lives(26) up(27) to(28) that(29) designation(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) attracted(3) by(4) the(5) styling(6) ,(7) with(8) I(9) still(10) believe(11) is(12) first(13) rate(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) let(3) 's(4) face(5) it(6) ,(7) this(8) is(9) a(10) four(11) wheel(12) drive(13) Camry(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			While(1) it(2) is(3) a(4) fine(5) utilitarian(6) auto(7) ((8) my(9) wife(10) is(11) on(12) her(13) second(14) one(15) and(16) loves(17) it(18) )(19) ,(20) it(21) is(22) by(23) no(24) stretch(25) in(26) the(27) luxury(28) ,(29) or(30) even(31) "(32) upscale(33) "(34) class(35) .(36) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			This(1) suv(2) has(3) any(4) number(5) of(6) serious(7) design(8) flaws(9) and(10) poor(11) ergonomics(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			That(1) there(2) was(3) a_lot_of(4) cost(5) cutting(6) is(7) obvious(8) after(9) a(10) brief(11) break(12) in(13) period(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) wind(2) and(3) road(4) noise(5) are(6) atrocious(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			Mysterious(1) squeaks(2) come(3) and(4) go(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			Brake(1) squeal(2) sets(3) in(4) after(5) only(6) a(7) few(8) months(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			As(1) an(2) example(3) of(4) the(5) cost(6) cutting(7) debacles(8) :(9) there(10) is(11) only(12) one(13) switch(14) for(15) the(16) heated(17) front(18) seats(19) .(20) 
+			<opinion polarity="+" feature="seat" featWords="18,19" opWords="17"/>
+		</sentence>
+		<sentence id="14">
+			Your(1) options(2) are(3) to(4) heat(5) either(6) the(7) driver(8) 's(9) seat(10) ,(11) or(12) both(13) the(14) driver(15) and(16) passenger(17) seats(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			What(1) happens(2) when(3) your(4) wife(5) is(6) the(7) passenger(8) and(9) chronically(10) cold(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Well(1) ,(2) either(3) you(4) are(5) a(6) gentleman(7) and(8) turn(9) on(10) her(11) seat(12) heater(13) while(14) you(15) roast(16) uncomfortably(17) ;(18) or(19) ,(20) you(21) suffer(22) the(23) consequences(24) of(25) being(26) ungentlemanly(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) at_least(3) a(4) dozen(5) other(6) instances(7) of(8) cheapness(9) and(10) poor(11) construction(12) that(13) spoil(14) what(15) the(16) exterior(17) promises(18) :(19) a(20) stylish(21) ,(22) sporty(23) ,(24) fun(25) suv(26) .(27) 
+			<opinion polarity="+" feature="car" opWords="23"/>
+			<opinion polarity="+" feature="design" opWords="21"/>
+			<opinion polarity="+" feature="car" featWords="26" opWords="25"/>
+		</sentence>
+	</text>
+</review>

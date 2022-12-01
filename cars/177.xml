@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="177" item="1994 Mazda B-Series" rating="5">
+	<title>
+		<sentence id="1">
+			1994(1) Mazda(2) B2300(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) mileage(2) ,(3) very(4) dependable(5) ,(6) low(7) price(8) 
+			<opinion polarity="+" feature="price" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="reliability" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) little(2) small(3) ,(4) lacks(5) power(6) on(7) highway(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			definantly(1) recommended(2) due(3) to(4) the(5) great(6) value(7) and(8) dependability(9) 
+			<opinion polarity="+" feature="reliability" featWords="9" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) silver(4) '(5) 94(6) B2300(7) in_1997(8) which(9) had(10) 25,000_miles(11) on(12) it(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Got(1) it(2) for(3) about(4) $7,400(5) and(6) have(7) loved(8) it(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="9" featRef="car" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) 5(4) speed(5) ,(6) bucket(7) seats(8) ,(9) 2.4(10) liter(11) engine(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) a(3) great(4) truck(5) for(6) a(7) high(8) school(9) kid(10) to(11) get(12) around(13) town(14) and(15) make(16) trips(17) in(18) .(19) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			I(1) never(2) have(3) had(4) to(5) do(6) anything(7) to(8) it(9) besides(10) change(11) the(12) oil(13) and(14) buy(15) new(16) tires(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) went(2) to(3) college(4) in(5) at(6) West_Point(7) and(8) left(9) it(10) sitting(11) in(12) the(13) drive(14) way(15) for(16) my(17) first(18) two(19) years(20) there(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			It(1) started(2) right(3) up(4) every(5) time(6) I(7) got(8) home(9) ,(10) which(11) was(12) about(13) once(14) or(15) twice(16) every(17) six(18) months(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			Last(1) spring(2) break(3) my(4) girlfriend(5) and(6) I(7) drove(8) it(9) up(10) from(11) Tennessee(12) to(13) New_York(14) in(15) a(16) round(17) about(18) fashion(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			We(1) put(2) 1,800_miles(3) on(4) it(5) in(6) about(7) two(8) and(9) a_half(10) days(11) and(12) it(13) never(14) gave(15) us(16) a(17) single(18) problem(19) ,(20) even(21) in(22) the(23) Appalacian_Mountains(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			My(1) truck(2) has(3) almost(4) 60,000_miles(5) on(6) it(7) now(8) is(9) still(10) running(11) strong(12) .(13) 
+			<opinion polarity="+" feature="truck" featWords="2" opWords="11,12" potency="10"/>
+		</sentence>
+		<sentence id="11">
+			The(1) few(2) negatives(3) I(4) have(5) seen(6) are(7) in(8) the(9) size(10) of(11) it(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) wish(2) I(3) had(4) gotten(5) the(6) king(7) cab(8) because(9) you(10) can(11) not(12) carry(13) anything(14) at(15) all(16) behind(17) the(18) bucket(19) seats(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			I(1) 'm(2) 6(3) '(4) tall(5) and(6) have(7) to(8) have(9) them(10) all(11) the(12) way(13) back(14) with(15) a(16) little(17) bit(18) of(19) recline(20) in(21) the(22) seat(23) to(24) get(25) comfortable(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Another(1) negative(2) is(3) the(4) small(5) engine(6) ,(7) I(8) must(9) downshift(10) to(11) fourth(12) anytime(13) I(14) hit(15) a(16) hill(17) or(18) want(19) to(20) gain(21) any(22) speed(23) at(24) all(25) on(26) the(27) highway(28) .(29) 
+			<opinion polarity="-" feature="engine" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			When(1) I(2) fist(3) got(4) the(5) truck(6) it(7) had(8) a(9) slight(10) rattle(11) up(12) underneith(13) that(14) I(15) noticed(16) at(17) slow(18) speeds(19) .(20) 
+			<opinion polarity="-" feature="speed" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="16">
+			It(1) ended(2) up(3) being(4) from(5) a(6) loose(7) muffler(8) guard(9) ,(10) which(11) a(12) fixed(13) real(14) quick(15) with(16) a(17) slight(18) tap(19) of(20) a(21) hammer(22) on(23) the(24) holding(25) bracket(26) to(27) mash(28) it(29) back(30) down(31) ,(32) have(33) not(34) had(35) that(36) problem(37) in(38) 3(39) years(40) now(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			I(1) recently(2) put(3) a(4) soft(5) bed(6) cover(7) on(8) it(9) for(10) about(11) $200(12) and(13) my(14) gas(15) mileage(16) went(17) from(18) 22(19) mpg(20) to(21) 24(22) on(23) the(24) highway(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			The(1) bed(2) cover(3) also(4) helps(5) it(6) ride(7) much(8) smoother(9) and(10) allows(11) me(12) to(13) carry(14) stuff(15) in(16) the(17) back(18) for(19) trips(20) ,(21) a(22) definant(23) great(24) investment(25) .(26) 
+		</sentence>
+		<sentence id="19">
+			The(1) air(2) conditioner(3) is(4) good(5) ,(6) and(7) it(8) has(9) the(10) best(11) heater(12) I(13) have(14) ever(15) seen(16) in(17) a(18) truck(19) .(20) 
+			<opinion polarity="+" feature="ac" featWords="2,3" opWords="5"/>
+			<opinion polarity="+" feature="heat" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="20">
+			The(1) Mazda(2) custom(3) wheels(4) are(5) also(6) nice(7) ,(8) which(9) came(10) on(11) the(12) truck(13) .(14) 
+			<opinion polarity="+" feature="wheel" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="21">
+			Since(1) the(2) truck(3) was(4) technically(5) made(6) by(7) Ford(8) it(9) has(10) striking(11) similarities(12) to(13) a(14) '(15) 94(16) Ford_Ranger(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			You(1) absolutely(2) can(3) not(4) tell(5) the(6) difference(7) in(8) the(9) two(10) trucks(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			My(1) dad(2) has(3) a(4) '(5) 93(6) explorer(7) and(8) our(9) interiors(10) are(11) exactly(12) the(13) same(14) ;(15) bucket(16) seats(17) ,(18) dash(19) ,(20) center(21) consol(22) ,(23) even(24) the(25) radio(26) is(27) made(28) by(29) Ford(30) .(31) 
+		</sentence>
+		<sentence id="24">
+			I(1) 've(2) even(3) seen(4) a(5) few(6) spots(7) up(8) under(9) it(10) where(11) they(12) did(13) not(14) even(15) change(16) the(17) name(18) and(19) it(20) says(21) "(22) Ford(23) "(24) still(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			Yet(1) a(2) '(3) 94(4) Ford(5) was(6) still(7) about(8) $1,500(9) to(10) $2,000(11) more(12) at(13) the(14) time(15) I(16) bought(17) it(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			I(1) could(2) not(3) be(4) happier(5) with(6) this(7) truck(8) and(9) do(10) not(11) forsee(12) trading(13) it(14) in(15) anytime(16) soon(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 7,400(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1994Model(12) and(13) Options(14) :(15) B2300(16) ,(17) with(18) a(19) few(20) extras(21) 
+		</sentence>
+	</text>
+</review>

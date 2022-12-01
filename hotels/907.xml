@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="907" item="Park Inn Anaheim" rating="5">
+	<title>
+		<sentence id="1">
+			Going(1) to(2) Disneyland(3) ?(4) 
+		</sentence>
+		<sentence id="2">
+			You(1) MUST(2) stay(3) here(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Proximity(1) to(2) Disneyland(3) ,(4) friendly(5) and(6) helpful(7) staff(8) .(9) 
+			<opinion polarity="+" feature="staff" featWords="8" opWords="5"/>
+			<opinion polarity="+" feature="staff" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Limited(1) continental(2) breakfast(3) .(4) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			With(1) its(2) proximity(3) to(4) Disneyland(5) ,(6) clean(7) ,(8) comfortable(9) rooms(10) ,(11) and(12) very(13) helpful(14) staff(15) ,(16) you(17) should(18) not(19) think(20) about(21) staying(22) anywhere(23) else(24) !(25) 
+			<opinion polarity="+" feature="staff" featWords="15" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="rooms" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="hotel" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Arriving(1) at(2) 10:00(3) PM(4) on(5) Friday_night(6) of(7) a(8) three-day(9) holiday(10) weekend(11) ,(12) my(13) husband(14) and(15) I(16) asked(17) if(18) we(19) could(20) get(21) a(22) room(23) for(24) the(25) night(26) for(27) friends(28) traveling(29) with(30) us(31) at(32) the(33) last(34) minute(35) .(36) 
+		</sentence>
+		<sentence id="2">
+			They(1) did(2) not(3) have(4) any(5) double(6) rooms(7) available(8) ,(9) but(10) agreed(11) to(12) upgrade(13) us(14) to(15) a(16) suite(17) and(18) charge(19) us(20) the(21) price(22) of(23) two(24) double(25) rooms(26) ((27) the(28) suite(29) is(30) a(31) great(32) idea(33) for(34) large(35) groups(36) .(37) Ours(38) had(39) 4(40) queen(41) beds(42) !(43) )(44) .(45) 
+		</sentence>
+		<sentence id="3">
+			Since(1) we(2) only(3) needed(4) the(5) suite(6) one(7) night(8) ,(9) they(10) moved(11) all(12) of(13) our(14) luggage(15) for(16) us(17) into(18) a(19) double(20) room(21) the(22) next(23) day(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			We(1) stayed(2) three(3) nights(4) and(5) liked(6) the(7) hotel(8) so(9) much(10) ,(11) we(12) added(13) an(14) extra(15) night(16) 's(17) stay(18) ,(19) and(20) again(21) ,(22) the(23) staff(24) was(25) more(26) than(27) accommodating(28) .(29) ((30) They(31) even(32) upgraded(33) us(34) to(35) a(36) king(37) room(38) with(39) a(40) spa(41) tub(42) for_free(43) !(44) )(45) Although(46) their(47) free(48) continental(49) breakfast(50) only(51) consisted(52) of(53) coffee(54) ,(55) juice(56) ,(57) and(58) muffins(59) ,(60) you(61) could(62) take(63) trays(64) of(65) food(66) back(67) to(68) your(69) room(70) ,(71) and(72) McDonald(73) 's(74) is(75) located(76) directly(77) next(78) door(79) .(80) 
+			<opinion polarity="+" feature="food" featWords="50" opWords="48"/>
+		</sentence>
+		<sentence id="5">
+			We(1) found(2) a(3) grocery(4) store(5) about(6) 2_miles(7) away(8) and(9) stocked(10) up(11) on(12) snacks(13) to(14) store(15) in(16) the(17) room(18) refrigerator(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) is(3) literally(4) a(5) five(6) minute(7) walk(8) from(9) the(10) front(11) gate(12) of(13) Disneyland(14) and(15) California_Adventure(16) --(17) a(18) bonus(19) if(20) you(21) are(22) traveling(23) with(24) children(25) or(26) want(27) to(28) leave(29) the(30) Park(31) for(32) a(33) break(34) /(35) nap(36) in(37) the(38) afternoon(39) .(40) 
+		</sentence>
+		<sentence id="7">
+			They(1) also(2) offer(3) free(4) parking(5) for(6) hotel(7) guests(8) .(9) ((10) The(11) hotel(12) website(13) offers(14) a(15) very(16) accurate(17) virtual(18) tour(19) of(20) all(21) of(22) their(23) rooms(24) .(25) )(26) The(27) price(28) could(29) not(30) be(31) beat(32) ,(33) and(34) we(35) will(36) definitely(37) stay(38) there(39) again(40) the(41) next(42) time(43) we(44) visit(45) Disneyland(46) !(47) 
+			<opinion polarity="+" feature="hotel" opWords="38" potency="37"/>
+		</sentence>
+	</text>
+</review>

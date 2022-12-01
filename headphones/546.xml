@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="546" item="Pioneer HDJ-1000 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Pioneer_HDJ(1) 1000(2) review(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clear(1) ,(2) loud(3) ,(4) good(5) bass(6) ,(7) High_DB(8) output(9) ,(10) comfortable(11) .(12) 
+			<opinion polarity="+" feature="sound quality" opWords="1"/>
+			<opinion polarity="+" feature="volume" opWords="3"/>
+			<opinion polarity="+" feature="bass" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) can(2) break(3) easily(4) if_not(5) handled(6) carefully(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) studio(2) phones(3) ,(4) good(5) for(6) mixing(7) ,(8) I(9) would(10) not(11) recommend(12) these(13) for(14) road(15) use(16) ,(17) as(18) they(19) are(20) not(21) very(22) durable(23) .(24) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="durability" opWords="21,23" potency="22"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) I(3) must(4) first(5) say(6) that(7) I(8) have(9) used(10) these(11) particular(12) models(13) for(14) several(15) years(16) ,(17) and(18) I(19) am(20) currently(21) on(22) my(23) fourth(24) pair(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Let(1) me(2) first(3) state(4) ,(5) that(6) these(7) are(8) some(9) of(10) the(11) best(12) headphones(13) i(14) have(15) ever(16) used(17) for(18) live(19) performance(20) ,(21) in(22) terms(23) of(24) their(25) clarity(26) ,(27) loudness(28) ,(29) comfort(30) ,(31) and(32) ease(33) of(34) use(35) .(36) 
+			<opinion polarity="+" feature="headphones" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) them(3) new(4) from(5) Guitar_Center(6) ,(7) and(8) i(9) did(10) get(11) an(12) extended(13) warranty(14) on(15) them(16) as(17) i(18) was(19) given(20) a(21) reduced(22) price(23) .(24) 
+			<opinion polarity="+" feature="warranty" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			The(1) warranty(2) turned(3) out(4) to(5) be(6) a(7) very(8) good(9) idea(10) ,(11) as(12) these(13) are(14) not(15) the(16) most(17) durable(18) headphone(19) i(20) have(21) owned(22) .(23) 
+			<opinion polarity="+" feature="warranty" featWords="2" opWords="9" potency="8"/>
+			<opinion polarity="-" feature="durability" opWords="15,18" potency="17"/>
+		</sentence>
+		<sentence id="5">
+			I(1) did(2) receive(3) a(4) replacement(5) from(6) Pioneer(7) twice(8) ,(9) once(10) during(11) the(12) original(13) warranty(14) period(15) ((16) during(17) which(18) time(19) one(20) side(21) of(22) the(23) headphones(24) began(25) cutting(26) out(27) ,(28) due(29) to(30) a(31) cable(32) malfunction(33) )(34) ,(35) and(36) one(37) time(38) as(39) an(40) artist(41) courtesy(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) the(3) plastic(4) joint(5) telescoping(6) joint(7) section(8) break(9) on(10) one(11) pair(12) ,(13) and(14) the(15) plastic(16) swivel(17) joint(18) break(19) on(20) two(21) pair(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			I(1) did(2) receive(3) one(4) exchange(5) from(6) Guitar_Center(7) as_well(8) ,(9) but(10) it(11) was(12) very(13) time(14) consuming(15) ,(16) as(17) i(18) had(19) to(20) send(21) them(22) back(23) and(24) wait(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			Again(1) ,(2) I(3) do(4) recommend(5) them(6) for(7) their(8) sound(9) ,(10) they(11) have(12) great(13) low(14) end(15) response(16) that(17) you(18) can(19) hear(20) well(21) ,(22) even(23) when(24) DJing(25) in(26) a(27) loud(28) environment(29) .(30) 
+			<opinion polarity="+" feature="bass" featWords="14,15" opWords="13"/>
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) an(3) even(4) frequency(5) response(6) ,(7) and(8) are(9) not(10) too(11) crisp(12) or(13) high(14) when(15) turned(16) loud(17) .(18) 
+			<opinion polarity="+" feature="frequency response" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			The(1) cup(2) is(3) a(4) good(5) size(6) ,(7) and(8) does(9) a(10) great(11) job(12) of(13) blocking(14) outside(15) noise(16) ,(17) and(18) the(19) swivel(20) works(21) great(22) .(23) 
+			<opinion polarity="+" feature="size" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="11">
+			But(1) obviously(2) ,(3) I(4) have(5) had(6) some(7) issues(8) with(9) the(10) build(11) quality(12) ,(13) and(14) if(15) I(16) would(17) not(18) have(19) been(20) able(21) to(22) have(23) them(24) replaced(25) several(26) times(27) at(28) no(29) cost(30) ,(31) i(32) don(33) not(34) believe(35) i(36) would(37) have(38) purchased(39) them(40) again(41) .(42) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) do(3) get(4) a(5) pair(6) ,(7) i(8) recommend(9) only(10) transporting(11) them(12) in(13) a(14) hard(15) record(16) case(17) ,(18) or(19) some(20) other(21) safe(22) environment(23) .(24) 
+		</sentence>
+	</text>
+</review>

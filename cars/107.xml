@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="107" item="1996 GMC Sonoma" rating="5">
+	<title>
+		<sentence id="1">
+			best(1) truck(2) ive(3) ever(4) owned(5) 
+			<opinion polarity="+" feature="truck" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			running(1) gear(2) is(3) excellant(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			paint(1) is(2) another(3) story(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			i(1) bought(2) a(3) 1996(4) gmc(5) sonoma(6) sls(7) extended(8) cab(9) 4wd(10) .(11) it(12) is(13) by(14) far(15) the(16) best(17) truck(18) i(19) 've(20) ever(21) owned(22) .(23) the(24) interior(25) is(26) well(27) placed(28) and(29) not(30) uncomfortable(31) .(32) visability(33) is(34) excellant(35) ,(36) road(37) noise(38) is(39) at(40) a(41) minumum(42) .(43) living(44) in(45) minnesota(46) ,(47) gives(48) this(49) truck(50) all(51) the(52) worst(53) in(54) the(55) winter(56) ,(57) but(58) ,(59) it(60) has(61) never(62) failed(63) me(64) yet(65) .(66) when(67) i(68) leave(69) to(70) go(71) to(72) work(73) ,(74) you(75) never(76) know(77) what(78) the(79) road(80) conditions(81) will(82) be(83) ,(84) but(85) with(86) the(87) 4wd(88) shift(89) on(90) the(91) fly(92) i(93) have(94) not(95) trouble(96) at(97) all(98) .(99) although(100) i(101) had(102) to(103) add(104) some(105) weight(106) to(107) the(108) box(109) for(110) better(111) traction(112) ,(113) i(114) have(115) no(116) troubles(117) at(118) all(119) .(120) it(121) starts(122) at(123) -40(124) degrees(125) with(126) one(127) spin(128) and(129) can(130) handle(131) the(132) roads(133) no(134) matter(135) what(136) shape(137) they(138) are(139) in(140) .(141) i(142) have(143) chocked(144) up(145) 85,000_miles(146) on(147) this(148) unit(149) ,(150) with(151) only(152) recommended(153) servicing(154) done(155) ,(156) although(157) i(158) had(159) to(160) replace(161) the(162) serpintene(163) belt(164) and(165) idler(166) that(167) has(168) been(169) the(170) most(171) repairs(172) i(173) have(174) had(175) to(176) make(177) .(178) i(179) am(180) not(181) fond(182) of(183) the(184) paint(185) job(186) though(187) ,(188) rock(189) chips(190) are(191) common(192) but(193) with(194) some(195) tlc(196) they(197) are(198) under(199) control(200) .(201) i(202) use(203) the(204) truck(205) as(206) a(207) truck(208) it(209) carries(210) sand(211) and(212) what(213) not(214) in(215) the(216) summer(217) and(218) handles(219) it(220) well(221) ,(222) considering(223) the(224) size(225) of(226) the(227) box(228) ,(229) but(230) ,(231) everything(232) in(233) moderation(234) .(235) my(236) belief(237) is(238) that(239) anyone(240) who(241) is(242) looking(243) for(244) a(245) dependable(246) small(247) truck(248) with(249) good(250) looks(251) should(252) look(253) no(254) further(255) than(256) the(257) gmc(258) sonoma(259) .(260) if(261) i(262) decide(263) to(264) replace(265) it(266) --(267) it(268) will(269) be(270) with(271) the(272) same(273) type(274) of(275) unit(276) .(277) when(278) it(279) is(280) shined(281) and(282) polished(283) it(284) still(285) turns(286) heads(287) ,(288) i(289) like(290) that(291) .(292) its(293) an(294) all(295) around(296) great(297) truck(298) .(299) 
+			<opinion polarity="+" feature="design" featWords="251" opWords="250"/>
+			<opinion polarity="+" feature="reliability" opWords="246"/>
+			<opinion polarity="+" feature="truck" featWords="298" opWords="297"/>
+			<opinion polarity="+" feature="comfort" opWords="30,31"/>
+			<opinion polarity="+" feature="interior" featWords="25" opWords="27,28"/>
+			<opinion polarity="+" feature="truck" featWords="18" opWords="17"/>
+		</sentence>
+	</text>
+</review>

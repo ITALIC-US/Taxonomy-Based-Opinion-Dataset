@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="329" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Sporty(1) and(2) affordable(3) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stylish(1) and(2) quick(3) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My_Honda_Civic(1) 2-door(2) EX(3) 2000(4) gives(5) me(6) a(7) sporty(8) feel(9) at(10) an(11) affordable(12) price(13) .(14) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			I(1) needed(2) a(3) new(4) car(5) ,(6) did(7) not(8) have(9) a_lot_of(10) money(11) and(12) fell(13) in(14) love(15) with(16) the(17) Civic(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			The(1) EX(2) has(3) all(4) the(5) features(6) ,(7) which(8) were(9) a(10) major(11) selling(12) point(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) sunroof(4) ,(5) power(6) everything(7) ,(8) cruise(9) control(10) and(11) cd(12) player(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) accelerates(3) better(4) than(5) I(6) thought(7) ((8) it(9) is(10) a(11) standard(12) )(13) and(14) stays(15) smooth(16) at(17) high(18) speeds(19) ((20) between(21) 80(22) mph(23) and(24) 100(25) mph(26) .(27) )(28) That(29) and(30) the(31) look(32) of(33) the(34) car(35) are(36) its(37) best(38) qualities(39) .(40) 
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) not(3) pay(4) much(5) over(6) 16K(7) for(8) the(9) Civic(10) ,(11) but(12) it(13) is(14) a(15) great(16) car(17) for(18) a(19) tight(20) budget(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="7">
+			I(1) expect(2) it(3) to(4) last(5) a(6) long(7) time(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			I(1) get(2) about(3) 33_miles(4) per(5) gallon(6) .(7) 
+		</sentence>
+	</text>
+</review>

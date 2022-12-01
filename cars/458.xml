@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="458" item="1999 Lexus RX 300" rating="3">
+	<title>
+		<sentence id="1">
+			Nice_Ride_But_MPG_Not_Great(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Solid(1) ,(2) comfortable(3) ride(4) ,(5) handles(6) well(7) .(8) 
+			<opinion polarity="+" feature="handling" opWords="6,7"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) "(2) pep(3) "(4) ,(5) MPG(6) and(7) trip(8) information(9) electronics(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			While(1) the(2) Lexus(3) RX-300(4) has(5) a(6) solid(7) ,(8) quiet(9) ride(10) ,(11) it(12) has(13) tradeoffs(14) you(15) need(16) to(17) consider(18) in(19) buying(20) one(21) .(22) 
+			<opinion polarity="+" feature="ride quality" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="10" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			First(1) ,(2) the(3) "(4) pep(5) "(6) is(7) ok(8) but(9) not(10) great(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			You(1) would(2) hope(3) that(4) a(5) SUV(6) that(7) is(8) designed(9) like(10) a(11) luxury(12) car(13) rather(14) than(15) a(16) truck(17) would(18) have(19) more(20) power(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="4">
+			It(1) does(2) not(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			Second(1) ,(2) the(3) MPG(4) is(5) similar(6) to(7) other(8) SUV(9) 's(10) ,(11) not(12) good(13) .(14) 
+			<opinion polarity="-" feature="gas" featWords="4" opWords="12,13"/>
+		</sentence>
+		<sentence id="6">
+			You(1) find(2) yourself(3) going(4) to(5) gas(6) stations(7) about(8) every(9) four(10) days(11) of(12) driving(13) what(14) seems(15) like(16) a(17) short(18) distance(19) to(20) and(21) from(22) work(23) -(24) 30_miles(25) a(26) day(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) Lexus(2) RX-300(3) has(4) a(5) solid(6) feel(7) to(8) it(9) and(10) it(11) handles(12) well(13) .(14) 
+			<opinion polarity="+" feature="handling" opWords="12,13"/>
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) I(3) hope(4) Lexus(5) greatly(6) improves(7) the(8) MPG(9) and(10) the(11) "(12) pep(13) "(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) also(3) add(4) that(5) the(6) electronics(7) in(8) the(9) Lexus(10) are(11) not(12) nearly(13) as(14) advanced(15) as(16) you(17) would(18) expect(19) for(20) its(21) purchase(22) price(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) not(3) tell(4) miles(5) left(6) to(7) go(8) based(9) on(10) the(11) gas(12) in(13) the(14) tank(15) as(16) an(17) example(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			My_BMW(1) has(2) this(3) and(4) many(5) other(6) trip(7) related(8) electronic(9) features(10) in(11) it(12) 's(13) display(14) and(15) it(16) is(17) a(18) 1994(19) car(20) !(21) 
+		</sentence>
+		<sentence id="12">
+			Come(1) on(2) Lexus(3) ,(4) the(5) electronics(6) should(7) be(8) first(9) rate(10) !(11) !(12) !(13) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="413" item="Red Roof Inn Chicago Downtown" rating="2">
+	<title>
+		<sentence id="1">
+			You(1) can(2) not(3) beat(4) the(5) location(6) for(7) the(8) price(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) and(2) Price(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) rooms(2) ,(3) a(4) front(5) desk(6) in(7) disarray(8) ,(9) small(10) lobby(11) ,(12) slow(13) elevators(14) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="lobby" featWords="11" opWords="10"/>
+			<opinion polarity="-" feature="elevator" featWords="14" opWords="13"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) tolerate(4) the(5) property(6) 's(7) shortcomings(8) ,(9) it(10) 's(11) a(12) value(13) for(14) the(15) location(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) a(6) hotel(7) in(8) Downtown_Chicago(9) that(10) offers(11) comfortable(12) ,(13) well-appointed(14) rooms(15) ,(16) an(17) attentive(18) staff(19) ,(20) and(21) management(22) that(23) bends(24) over(25) backwards(26) to(27) satisfy(28) its(29) guests(30) ,(31) The_Red_Roof_Inn(32) in(33) Downtown_Chicago(34) is(35) probably(36) not(37) a(38) great(39) choice(40) for(41) you(42) .(43) 
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="12"/>
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="staff" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) are(3) very(4) small(5) .(6) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) beds(2) are(3) not(4) particularly(5) comfortable(6) .(7) 
+			<opinion polarity="-" feature="bed" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="4">
+			The(1) decor(2) is(3) not(4) attractive(5) .(6) 
+			<opinion polarity="-" feature="decoration" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) elevators(2) are(3) tiny(4) ,(5) and(6) this(7) can(8) prevent(9) some(10) frustration(11) when(12) trying(13) to(14) get(15) out(16) in(17) the(18) morning(19) rush(20) .(21) 
+			<opinion polarity="-" feature="elevator" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			Though(1) the(2) times(3) I(4) have(5) stayed(6) at(7) The_Red_Roof(8) in(9) Chicago(10) ,(11) there(12) was(13) a(14) coffee(15) pot(16) in(17) the(18) very(19) small(20) lobby(21) during(22) the(23) morning(24) hours(25) ,(26) there(27) is(28) not(29) a(30) continental(31) breakfast(32) .(33) 
+			<opinion polarity="-" feature="lobby" featWords="21" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="7">
+			Every(1) time(2) I(3) have(4) stayed(5) at(6) this(7) property(8) ,(9) the(10) front(11) desk(12) has(13) been(14) in(15) disarray(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			On(1) several(2) occasions(3) ,(4) I(5) have(6) not(7) received(8) my(9) requested(10) wake-up(11) calls(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			All(1) of(2) this(3) being(4) said(5) ,(6) you(7) can(8) not(9) beat(10) the(11) price(12) for(13) the(14) location(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) Red_Roof(2) in(3) Downtown_Chicago(4) is(5) a(6) mere(7) half(8) a(9) block(10) from(11) Michigan_Avenue(12) ,(13) placing(14) you(15) amidst(16) a(17) multitude(18) of(19) shopping(20) and(21) dining(22) opportunities(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			Usually(1) under(2) $99(3) a(4) night(5) ,(6) you(7) 're(8) basically(9) getting(10) Downtown_Chicago_Rooms(11) for(12) half-price(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Because_of(1) this(2) ,(3) I(4) do(5) recommend(6) this(7) hotel(8) ,(9) especially(10) for(11) those(12) on(13) a(14) budget(15) .(16) 
+			<opinion polarity="+" feature="hotel" featWords="8" opWords="6"/>
+		</sentence>
+	</text>
+</review>

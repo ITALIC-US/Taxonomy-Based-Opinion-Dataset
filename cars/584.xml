@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="584" item="2002 Honda Odyssey" rating="2">
+	<title>
+		<sentence id="1">
+			Faulty_Power_Sliding_Doors(1) ,(2) Long_Term_Reliability_Questionable(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) performance(2) ,(3) very(4) roomy(5) ,(6) nice(7) style(8) for(9) a(10) Van(11) .(12) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="room" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="performance" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Power(1) sliding(2) doors(3) open(4) Automatically(5) ,(6) Over(7) priced(8) ,(9) Honda(10) not(11) very(12) responsive(13) .(14) 
+			<opinion polarity="-" feature="response" opWords="11,13" potency="12"/>
+			<opinion polarity="-" feature="price" opWords="7,8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) must(3) buy(4) a(5) Van(6) ,(7) tryout(8) the(9) competition(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) still(3) want(4) an(5) Odyssey(6) push(7) to(8) pay(9) below(10) MSRP(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			You(1) will(2) need(3) the(4) money(5) you(6) save(7) for(8) repairs(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) New(4) 2003(5) Honda_Odyssey_EX(6) about(7) a(8) month(9) ago(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			At(1) first(2) I(3) was(4) very(5) pleased(6) with(7) my(8) purchase(9) ,(10) I(11) thought(12) that(13) I(14) had(15) made(16) the(17) best(18) choice(19) of(20) Van(21) available(22) on(23) the(24) market(25) .(26) 
+			<opinion polarity="+" feature="car" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) paid(2) over(3) MSRP(4) ,(5) because(6) that(7) is(8) what(9) the(10) going(11) rate(12) is(13) supposed(14) to(15) be(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			Recently(1) I(2) have(3) started(4) noticing(5) some(6) problems(7) with(8) my(9) prized(10) purchase(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Two_times(1) after(2) parking(3) the(4) van(5) and(6) turning(7) off(8) the(9) engine(10) the(11) passenger(12) power(13) sliding(14) door(15) automatically(16) opened(17) ?(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) first(2) time(3) I(4) parked(5) the(6) van(7) turned(8) off(9) the(10) engine(11) and(12) unlocked(13) the(14) doors(15) ,(16) while(17) I(18) was(19) waiting(20) for(21) my(22) wife(23) to(24) unbuckle(25) our(26) baby(27) the(28) passenger(29) sliding(30) door(31) suddenly(32) opened(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			I(1) thought(2) that(3) maybe(4) I(5) had(6) accidentally(7) pushed(8) the(9) button(10) on(11) the(12) remote(13) ,(14) but(15) it(16) happened(17) a_second(18) time(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			The(1) second(2) time(3) I(4) had(5) already(6) gotten(7) out(8) of(9) the(10) van(11) and(12) when(13) I(14) walked(15) around(16) to(17) the(18) passenger(19) side(20) to(21) open(22) the(23) door(24) it(25) had(26) already(27) opened(28) ?(29) 
+		</sentence>
+		<sentence id="9">
+			One(1) day(2) when(3) I(4) was(5) washing(6) the(7) Van_I(8) notice(9) that(10) there(11) was(12) paint(13) over(14) spray(15) on(16) one(17) of(18) the(19) rear(20) windows(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			I(1) thought(2) it(3) might(4) have(5) come(6) from(7) some(8) place(9) I(10) had(11) parked(12) ,(13) but(14) when(15) I(16) removed(17) some(18) of(19) it(20) ,(21) the(22) color(23) matched(24) the(25) body(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			The(1) Van(2) only(3) had(4) 3_miles(5) on(6) it(7) when(8) I(9) purchased(10) it(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Either(1) Honda(2) is(3) hiding(4) something(5) or(6) the(7) dealer(8) is(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) EX(16) 
+		</sentence>
+	</text>
+</review>

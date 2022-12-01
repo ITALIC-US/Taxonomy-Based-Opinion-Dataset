@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="173" item="1993 Ford Bronco" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) Forgotten_of_the_SUV(2) '(3) S(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent_Ride(1) ,(2) Runs_Great(3) ,(4) Tight_Turning_Radius(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			40(1) bucks(2) fills(3) the(4) tank(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) purchased(3) my(4) 1993(5) Ford_Bronco_XLT(6) ,(7) and(8) I(9) love(10) it(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Bronco(2) is(3) my(4) first(5) vehicle(6) ,(7) and(8) I(9) had(10) to(11) have(12) it(13) the(14) day(15) I(16) saw(17) it(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) been(3) looking(4) around(5) for(6) about(7) a(8) year(9) and(10) a_half(11) ,(12) when(13) I(14) stumbled(15) across(16) this(17) one(18) on(19) a(20) popular(21) used(22) car(23) search(24) site(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) been(3) indecisive(4) of(5) what(6) I(7) wanted(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			I(1) drove(2) other(3) similar(4) SUVS(5) ,(6) like(7) the(8) Explorer(9) and(10) the(11) Blazer(12) ,(13) but(14) I(15) kept(16) coming(17) back(18) to(19) the(20) Bronco(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) been(3) told(4) the(5) Bronco(6) is(7) a(8) beast(9) of(10) a(11) vehicle(12) ,(13) but(14) it(15) roughly(16) the(17) size(18) of(19) a(20) Dodge_Grand_Caravan(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Once(1) you(2) drive(3) a(4) Bronco(5) ,(6) you(7) 'll(8) never(9) want(10) to(11) drive(12) anything(13) else(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) Bronco(2) handles(3) very(4) well(5) ,(6) and(7) has(8) a(9) tight(10) turning(11) radius(12) .(13) 
+			<opinion polarity="+" feature="turning radius" featWords="11,12" opWords="10"/>
+			<opinion polarity="+" feature="handling" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			Driving_the_Bronco(1) ,(2) makes(3) you(4) feel(5) like(6) your(7) "(8) king(9) of(10) the(11) road(12) "(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			When(1) I(2) bought(3) it(4) ,(5) it(6) had(7) 97,000_miles(8) ,(9) but(10) does(11) not(12) show(13) it(14) at(15) all(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			The(1) '(2) 93(3) bronco(4) is(5) the(6) second(7) year(8) of(9) the(10) new(11) body(12) style(13) ,(14) and(15) just(16) looks(17) cool(18) .(19) 
+			<opinion polarity="+" feature="design" opWords="17,18"/>
+		</sentence>
+		<sentence id="12">
+			My(1) particular(2) truck(3) has(4) an(5) upgraded(6) stereo(7) system(8) with(9) a(10) 10(11) disc(12) Kenwood_CD(13) changer(14) ,(15) and(16) leather(17) interior(18) .(19) 
+			<opinion polarity="+" feature="interior" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="13">
+			The(1) engine(2) is(3) the(4) 302_cubic_inch(5) V(6) -(7) 8(8) ,(9) which(10) gives(11) the(12) truck(13) excellent(14) pick(15) up(16) ,(17) and(18) power(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			The(1) truck(2) also(3) has(4) a(5) lighted(6) running(7) boards(8) ((9) after(10) market(11) )(12) ,(13) and(14) a(15) sun(16) visor(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) recommend(3) this(4) Bronco(5) to(6) people(7) who(8) are(9) looking(10) for(11) strong(12) dependable(13) SUV(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="car" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="16">
+			People_I(1) would(2) not(3) recommend(4) this(5) to(6) are(7) people(8) with(9) families(10) because(11) it(12) is(13) only(14) a(15) 2-door(16) vehicle(17) ,(18) but(19) if(20) the(21) rest(22) of(23) the(24) family(25) is(26) willing(27) to(28) climb(29) up(30) into(31) the(32) spacious(33) backseat(34) ,(35) then(36) it(37) 's(38) not(39) a(40) problem(41) .(42) 
+			<opinion polarity="+" feature="seat" featWords="34" opWords="33"/>
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="17">
+			Overall(1) ,(2) I(3) think(4) this(5) is(6) the(7) best(8) SUV(9) that(10) Ford(11) has(12) produced(13) ,(14) and(15) it(16) is(17) a(18) shame(19) that(20) it(21) is(22) not(23) being(24) produced(25) anymore(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="18">
+			When(1) I(2) bought(3) my(4) Bronco(5) ,(6) people(7) thought(8) it(9) was(10) a(11) new(12) SUV(13) ,(14) when(15) it(16) is(17) actually(18) 7(19) years(20) old(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			This(1) is(2) why(3) the(4) Bronco(5) is(6) the(7) "(8) forgotten(9) SUV(10) "(11) ,(12) and(13) thats(14) the(15) way(16) I(17) like(18) it(19) !(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="555" item="2002 Honda Odyssey" rating="3">
+	<title>
+		<sentence id="1">
+			does(1) not(2) Live(3) up(4) to(5) the(6) HYPE(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerful_Engine(1) ,(2) Roomy_Cabin(3) ,(4) Sharper_Styling(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bumpy_Ride(1) ,(2) Too_Expensive(3) ,(4) Poor_Fuel_Economy(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) recommend(4) it(5) because(6) if(7) you(8) like(9) foreign(10) ,(11) I(12) would(13) suggest(14) Toyota_Sienna(15) ,(16) if(17) you(18) like(19) to(20) save(21) money(22) ,(23) then(24) buy(25) a(26) domestic(27) model(28) .(29) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) high(3) hopes(4) for(5) the(6) minivan(7) that(8) last(9) year(10) earned(11) the(12) number(13) 1(14) ranking(15) by(16) Consumer_Reports(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			But(1) upon(2) visiting(3) several(4) dealerships(5) in(6) my(7) area(8) ,(9) I(10) find(11) that(12) the(13) vehicle(14) does(15) not(16) live(17) up(18) to(19) the(20) hype(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			What(1) 's(2) Good_The(3) 2002(4) Honda_Odyssey(5) is(6) available(7) in(8) three(9) trims(10) :(11) LX(12) ,(13) EX(14) ,(15) and(16) EX-L(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			All(1) Odyssey(2) comes(3) with(4) the(5) powerful(6) 240(7) horsepower(8) ,(9) 3.5(10) -(11) liter(12) V6(13) engine(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Torque(1) has(2) been(3) increased(4) to(5) provide(6) more(7) kick(8) off(9) the(10) line(11) and(12) during(13) mid-range(14) acceleration(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Helping(1) acceleration(2) is(3) the(4) new(5) 5-speed(6) automatic(7) transmission(8) ,(9) which(10) is(11) standard(12) on(13) all(14) trims(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Side(1) airbags(2) are(3) now(4) standard(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			What(1) 's(2) Bad(3) A(4) car-like(5) all-independent(6) suspension(7) ,(8) unusual(9) for(10) a(11) minivan(12) ,(13) has(14) been(15) returned(16) for(17) a(18) supposedly(19) better(20) ride(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) the(3) test(4) drive(5) sometimes(6) gets(7) jerky(8) on(9) wavy(10) pavement(11) or(12) bumpy(13) roads(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) powerful(2) engine(3) is(4) the(5) reason(6) behind(7) its(8) poor(9) fuel(10) economy(11) ,(12) on(13) top(14) of(15) that(16) ,(17) the(18) small(19) fuel(20) tank(21) really(22) limits(23) cruising(24) range(25) .(26) 
+			<opinion polarity="-" feature="gas tank" featWords="20,21" opWords="19"/>
+			<opinion polarity="-" feature="gas" featWords="10,11" opWords="9"/>
+			<opinion polarity="+" feature="engine" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="11">
+			The(1) shortened(2) steering-column-mounted(3) transmission(4) shift(5) lever(6) still(7) is(8) too(9) long(10) and(11) it(12) 's(13) easy(14) to(15) shift(16) into(17) the(18) wrong(19) gear(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			All(1) Odyssey(2) trims(3) have(4) dual(5) sliding(6) doors(7) that(8) are(9) powered(10) ,(11) except_for(12) the(13) base(14) LX(15) model(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) power(2) doors(3) move(4) too(5) slow(6) ,(7) and(8) attempting(9) to(10) control(11) them(12) with(13) buttons(14) is(15) hard(16) ,(17) even(18) the(19) sales(20) rep(21) had(22) trouble(23) with(24) it(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			The(1) spare(2) tire(3) is(4) hard(5) to(6) get(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			Finally(1) for(2) those(3) that(4) are(5) cost-conscious(6) ,(7) the(8) Odyssey(9) is(10) much(11) more(12) expensive(13) than(14) comparable(15) domestic(16) models(17) ,(18) and(19) the(20) limited(21) supply(22) of(23) the(24) vehicle(25) in(26) my(27) area(28) makes(29) bargaining(30) even(31) harder(32) .(33) 
+		</sentence>
+	</text>
+</review>

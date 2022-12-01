@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="48" item="1997 Honda Odyssey" rating="5">
+	<title>
+		<sentence id="1">
+			170,000(1) and(2) still(3) going(4) .......(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sets(1) 6(2) ,(3) excellent(4) gas(5) mileage(6) ,(7) no(8) service(9) repairs(10) ,(11) windows(12) open(13) on(14) rear(15) seat(16) doors(17) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) .(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) love(2) this(3) van(4) .(5) 
+			<opinion polarity="+" feature="van" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			The(1) size(2) is(3) perfect(4) ...(5) in(6) fact(7) the(8) new(9) Pacifica(10) looks(11) alot(12) like(13) this(14) smaller(15) sized(16) Honda_Odyssey(17) .(18) 
+			<opinion polarity="+" feature="size" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) a(3) 4cyl(4) .(5) so(6) I(7) get(8) great(9) gas(10) mileage(11) .(12) 
+			<opinion polarity="+" feature="gas" featWords="10,11" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			I(1) take(2) it(3) in(4) for(5) the(6) manufacturer(7) recommended(8) service(9) and(10) have(11) had(12) no(13) problems(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) put(2) the(3) first(4) set(5) of(6) brakes(7) on(8) it(9) at(10) 135,000_miles(11) .....(12) no(13) kidding(14) !(15) 
+		</sentence>
+		<sentence id="6">
+			First(1) &(2) original(3) owner(4) and(5) I(6) have(7) not(8) had(9) to(10) do(11) anything(12) w(13) /(14) the(15) exhaust(16) system(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) can(2) not(3) say(4) enough(5) good(6) things(7) about(8) this(9) model(10) year(11) van(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) can(7) ''(8) t(9) rem(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Condition(1) :(2) NewModel_Year(3) :(4) 1997Model(5) and(6) Options(7) :(8) EX(9) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="355" item="1998 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Reliable(1) and(2) fuel-efficient(3) 
+			<opinion polarity="+" feature="gas" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Bullet-proof(1) ,(2) great(3) fuel-economy(4) 
+			<opinion polarity="+" feature="gas" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sticky(1) gas(2) pedal(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) had(2) purchased(3) a(4) Honda_Accord(5) several(6) years(7) ago(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) a(3) 1986(4) model(5) ,(6) four(7) years(8) old(9) at(10) the(11) time(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			My(1) only(2) two(3) complaints(4) at(5) that(6) time(7) with(8) that(9) model(10) was(11) the(12) seats(13) were(14) uncomfortable(15) ,(16) and(17) the(18) air(19) conditioning(20) was(21) about(22) effective(23) as(24) someone(25) blowing(26) on(27) me(28) .(29) 
+			<opinion polarity="+" feature="ac" featWords="19,20" opWords="23"/>
+			<opinion polarity="-" feature="seat" featWords="13" opWords="15"/>
+		</sentence>
+		<sentence id="4">
+			Both(1) were(2) sore(3) points(4) living(5) in(6) Dallas(7) ,(8) Texas(9) with(10) a(11) 45(12) minute(13) commute(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			When(1) it(2) came(3) time(4) to(5) purchase(6) another(7) vehicle(8) ,(9) I(10) kept(11) those(12) grievances(13) in(14) mind(15) as(16) I(17) took(18) a(19) test(20) drive(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) very(3) pleased(4) to(5) discover(6) that(7) the(8) Honda(9) engineers(10) have(11) answered(12) my(13) complaints(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) seats(2) were(3) as(4) comfortable(5) as(6) one(7) can(8) expect(9) for(10) a(11) mid-priced(12) sedan(13) ,(14) but(15) the(16) air(17) conditioning(18) is(19) superb(20) .(21) 
+			<opinion polarity="+" feature="ac" featWords="17,18" opWords="20"/>
+		</sentence>
+		<sentence id="8">
+			Even(1) on(2) 100(3) degree(4) days(5) ,(6) I(7) rarely(8) run(9) the(10) air(11) at(12) full(13) blast(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			Mostly(1) I(2) alternate(3) between(4) the(5) lowest(6) setting(7) and(8) off(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) Accord(2) has(3) good(4) pickup(5) ,(6) although(7) when(8) backing(9) up(10) while(11) in(12) reverse(13) ,(14) I(15) notice(16) the(17) gas(18) pedal(19) sticks(20) a_bit(21) ,(22) which(23) causes(24) me(25) to(26) lurch(27) backwards(28) if(29) I(30) 'm(31) not(32) careful(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			I(1) run(2) between(3) 32(4) and(5) 35_miles(6) per(7) gallon(8) ,(9) which(10) is(11) a(12) help(13) during(14) these(15) times(16) of(17) rising(18) gas(19) prices(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			You(1) will(2) not(3) hear(4) complaints(5) about(6) the(7) price(8) of(9) gas(10) out(11) of(12) me(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			A(1) full(2) tank(3) costs(4) less(5) than(6) 15(7) bucks(8) and(9) lasts(10) me(11) over(12) a(13) week(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			I(1) bought(2) it(3) six(4) months(5) ago(6) and(7) it(8) was(9) two(10) years(11) old(12) at(13) the(14) time(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Since(1) then(2) I(3) have(4) not(5) put(6) one_dollar(7) into(8) maintenance(9) for(10) this(11) vehicle(12) except_for(13) oil(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			I(1) wish(2) I(3) could(4) say(5) the(6) same(7) for(8) my(9) wife(10) 's(11) Ford_Contour(12) .(13) 
+		</sentence>
+	</text>
+</review>

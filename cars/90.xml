@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="90" item="1995 Chevrolet Corvette" rating="5">
+	<title>
+		<sentence id="1">
+			95(1) Corvette_Convertible(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) acceleration(2) ,(3) good(4) brakes(5) ,(6) good(7) handling(8) 
+			<opinion polarity="+" feature="handling" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="brakes" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			stereo(1) is(2) not(3) the(4) best(5) ,(6) ride(7) can(8) be(9) ruff(10) over(11) bumpy(12) roads(13) 
+			<opinion polarity="-" feature="sound system" featWords="1" opWords="3,5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) a(2) very(3) nice(4) car(5) .(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			Good_Performance(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			Well(1) built(2) .(3) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) a(3) 2(4) seater(5) so(6) may(7) not(8) be(9) practical(10) for(11) everyone(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) a(5) few(6) months(7) ago(8) and(9) it(10) being(11) my(12) daily(13) driver(14) I(15) feel(16) I(17) have(18) enough(19) hours(20) in(21) it(22) to(23) write(24) a(25) review(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			I(1) always(2) wanted(3) a(4) corvette(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			With(1) the(2) new(3) C6(4) ((5) generation(6) 6(7) )(8) corvette(9) released(10) this(11) year(12) the(13) prices(14) in(15) the(16) corvette(17) market(18) couldn(19) t(20) be(21) better(22) for(23) buyers(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) saw(2) the(3) car(4) advertised(5) on(6) eBay(7) at(8) a(9) dealership(10) one(11) state(12) over(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			After(1) doing(2) a(3) car(4) fax(5) to(6) make(7) sure(8) everything(9) checked(10) out(11) ,(12) I(13) drove(14) the(15) four(16) hours(17) to(18) see(19) it(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Anyone(1) thinking(2) of(3) buying(4) a(5) Vette(6) ,(7) just(8) drive(9) it(10) !(11) 
+		</sentence>
+		<sentence id="7">
+			You(1) won(2) t(3) want(4) to(5) get(6) out(7) of(8) it(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) is(3) a(4) black(5) exterior(6) ,(7) black(8) convertible(9) top(10) ,(11) and(12) grey(13) interior(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			It(1) has(2) most(3) the(4) options(5) available(6) :(7) power(8) windows(9) ,(10) power(11) sport(12) seats(13) ,(14) auto(15) transmission(16) ,(17) Bose(18) gold(19) stereo(20) ,(21) climate(22) control(23) ,(24) abs(25) ,(26) traction(27) control(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			One(1) drive(2) is(3) all(4) it(5) took(6) for(7) me(8) to(9) say(10) "(11) I(12) ll(13) take(14) it(15) !(16) "(17) The(18) first(19) thing(20) I(21) noticed(22) was(23) its(24) a_bit(25) difficult(26) getting(27) in(28) and(29) out(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			This(1) car(2) isn(3) t(4) for(5) everyone(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			If(1) you(2) have(3) back(4) problems(5) ,(6) the(7) car(8) is(9) really(10) low(11) to(12) the(13) ground(14) and(15) the(16) door(17) sills(18) on(19) the(20) C4(21) are(22) very(23) tall(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			Once(1) you(2) re(3) in(4) ,(5) it(6) is(7) very(8) comfortable(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="14">
+			The(1) sports(2) seats(3) with(4) the(5) lumbar(6) support(7) are(8) very(9) comfortable(10) for(11) long(12) drives(13) .(14) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="15">
+			The(1) gauges(2) ,(3) dash(4) and(5) buttons(6) are(7) very(8) well(9) laid(10) out(11) .(12) 
+			<opinion polarity="+" feature="controls" featWords="6" opWords="9,10,11"/>
+			<opinion polarity="+" feature="dash" featWords="4" opWords="9,10,11"/>
+			<opinion polarity="+" feature="gauges" featWords="2" opWords="9,10,11"/>
+		</sentence>
+		<sentence id="16">
+			Everything(1) is(2) in(3) reach(4) ,(5) it(6) makes(7) it(8) kind(9) of(10) look(11) something(12) out(13) of(14) an(15) aircraft(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			I(1) can(2) t(3) comment(4) on(5) road(6) noise(7) because(8) the(9) previous(10) owner(11) installed(12) deafeningly(13) loud(14) sidepipes(15) which(16) allows(17) my(18) car(19) to(20) be(21) heard(22) several(23) miles(24) before(25) being(26) seen(27) .(28) 
+		</sentence>
+		<sentence id="18">
+			The(1) car(2) is(3) very(4) quick(5) .(6) 
+			<opinion polarity="+" feature="speed" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			It(1) does(2) 0mph(3) to(4) 60mph(5) in(6) less(7) than(8) 5_seconds(9) and(10) has(11) a(12) top(13) speed(14) of(15) 180mph(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			But(1) very(2) important(3) ,(4) it(5) can(6) stop(7) just(8) as_well(9) as(10) it(11) goes(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			The(1) brakes(2) are(3) amazing(4) on(5) this(6) car(7) .(8) 
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="22">
+			They(1) saved(2) me(3) a(4) few(5) times(6) from(7) those(8) old(9) people(10) changing(11) lanes(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			The(1) rock(2) hard(3) suspension(4) is(5) a(6) big(7) contributor(8) to(9) its(10) good(11) handling(12) but(13) makes(14) for(15) a(16) kidney(17) rattling(18) experience(19) on(20) roads(21) under(22) construction(23) .(24) 
+			<opinion polarity="+" feature="suspension" featWords="4" opWords="2,3"/>
+			<opinion polarity="+" feature="handling" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="24">
+			The(1) Bose_Gold(2) stereo(3) works(4) by(5) reflecting(6) sound(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			With(1) the(2) top(3) down(4) ,(5) the(6) bass(7) was(8) virtually(9) gone(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			With(1) the(2) top(3) up(4) it(5) sounded(6) good(7) but(8) no(9) where(10) near(11) my(12) really(13) high(14) standards(15) .(16) 
+			<opinion polarity="+" feature="sound system" opWords="6,7"/>
+		</sentence>
+		<sentence id="27">
+			After(1) a(2) week(3) I(4) ended(5) up(6) putting(7) in(8) a(9) $2000(10) system(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			I(1) haven(2) t(3) had(4) any(5) mechanically(6) problems(7) yet(8) .(9) 
+		</sentence>
+		<sentence id="29">
+			It(1) seems(2) to(3) be(4) very(5) reliable(6) .(7) 
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="30">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15,500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) convetible(16) ,(17) ps(18) ,(19) pw(20) ,(21) abs(22) ,(23) asr(24) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="420" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			You(1) can(2) not(3) go(4) wrong(5) with(6) Honda(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smooth(1) drivetrain(2) ,(3) good(4) ergonomics(5) ,(6) good(7) looks(8) ,(9) good(10) reliability(11) ,(12) good(13) resale(14) value(15) .(16) 
+			<opinion polarity="+" feature="resale value" featWords="14,15" opWords="13"/>
+			<opinion polarity="+" feature="reliability" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="comfort" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) underpowered(3) ,(4) not(5) considered(6) a(7) "(8) driver(9) 's(10) car(11) "(12) .(13) 
+			<opinion polarity="-" feature="horsepower" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) sleek(2) ,(3) efficient(4) coupe(5) that(6) is(7) easy(8) to(9) live(10) with(11) .(12) 
+			<opinion polarity="+" feature="design" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Does(1) everything(2) well(3) ,(4) is(5) dependable(6) ,(7) and(8) even(9) fun(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) because(5) Honda(6) was(7) able(8) to(9) finance(10) me(11) at(12) a(13) reasonable(14) rate(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) liked(2) the(3) looks(4) of(5) this(6) car(7) and(8) I(9) knew(10) the(11) resale(12) value(13) of(14) this(15) car(16) would(17) get(18) me(19) some(20) of(21) my(22) money(23) back(24) down(25) the(26) road(27) .(28) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			I(1) own(2) the(3) 4(4) cylinder(5) with(6) the(7) 5(8) speed(9) standard(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) adequate(3) power(4) ,(5) but(6) if(7) you(8) want(9) the(10) auto(11) ,(12) try(13) to(14) get(15) a(16) 6(17) cylinder(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Everything(1) about(2) the(3) car(4) is(5) smooth(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) steering(2) ,(3) the(4) clutch(5) ,(6) the(7) shifter(8) makes(9) the(10) car(11) a(12) breeze(13) to(14) drive(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			All(1) the(2) controls(3) are(4) exactly(5) where(6) you(7) need(8) them(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) also(3) plenty_of(4) room(5) for(6) 4(7) big(8) guys(9) and(10) maybe(11) someone(12) a_bit(13) smaller(14) for(15) number(16) 5(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) moonroof(2) only(3) slides(4) back(5) about(6) a_foot(7) ,(8) the(9) result(10) of(11) steeply(12) raked(13) windshield(14) and(15) rear(16) glass(17) ,(18) however(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			This(1) is(2) my(3) first(4) Honda(5) and(6) I(7) have(8) not(9) been(10) disappointed(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,900(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) EX(16) 4-cyl(17) standard(18) ,(19) all(20) options(21) 
+		</sentence>
+	</text>
+</review>

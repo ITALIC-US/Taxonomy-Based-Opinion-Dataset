@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="463" item="Sennheiser HD 25 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) good(2) monitor(3) headphone(4) !(5) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) isolation(2) comfort(3) and(4) sound(5) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			pricey(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) HD(2) 25(3) is(4) a(5) supraural(6) closed(7) headphone(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) offers(2) a(3) decent(4) amount(5) of(6) isolation(7) -(8) approximately(9) 15dB(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Comfort(1) is(2) good(3) with(4) a(5) headband(6) that(7) splits(8) to(9) accommodate(10) any(11) shaped(12) head(13) .(14) ((15) even(16) mine(17) !(18) !(19) !(20) )(21) A(22) single(23) sided(24) 5(25) ft(26) .(27) cord(28) is(29) very(30) convenient(31) for(32) monitoring(33) or(34) DJ(35) work(36) .(37) 
+			<opinion polarity="+" feature="comfort" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			The(1) left(2) ear(3) piece(4) rotates(5) off(6) the(7) ear(8) to(9) make(10) listening(11) to(12) what(13) is(14) going(15) on(16) outside_of(17) the(18) headphones(19) an(20) easy(21) thing(22) to(23) do(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) well(3) built(4) -(5) durable(6) and(7) sturdy(8) .(9) 
+			<opinion polarity="+" feature="durability" opWords="3,4"/>
+			<opinion polarity="+" feature="durability" opWords="6"/>
+			<opinion polarity="+" feature="durability" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) frequency(2) response(3) of(4) the(5) HD25(6) is(7) 16(8) -(9) 22kHz(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Impedance(1) is(2) 85(3) ohms(4) with(5) a(6) SPL(7) of(8) 120dB(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			They(1) are(2) easily(3) driven(4) by(5) portable(6) sources(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Not(1) as(2) accurate(3) as(4) some(5) of(6) the(7) top(8) of(9) the(10) line(11) such(12) as(13) the(14) 580(15) or(16) 600(17) it(18) is(19) none(20) the(21) less(22) musical(23) and(24) non(25) fatiguing(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			A(1) little(2) bit(3) on(4) the(5) bassy(6) side(7) with(8) good(9) mids(10) and(11) highs(12) that(13) are(14) a(15) little(16) recessed(17) .(18) 
+			<opinion polarity="+" feature="mids" featWords="10" opWords="9"/>
+			<opinion polarity="-" feature="highs" featWords="12" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="11">
+			Delivers(1) good(2) dynamics(3) -(4) would(5) be(6) good(7) with(8) rock(9) ,(10) dance(11) or(12) techno(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			They(1) would(2) also(3) make(4) a(5) good(6) but(7) expensive(8) portable(9) pair(10) of(11) phones(12) for(13) travel(14) .(15) 
+			<opinion polarity="+" feature="headphones" featWords="12" opWords="6"/>
+			<opinion polarity="-" feature="price" opWords="8"/>
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) not(3) consider(4) these(5) a(6) great(7) value(8) -(9) you(10) pay(11) for(12) what(13) you(14) get(15) but(16) my(17) overall(18) assessment(19) is(20) that(21) they(22) are(23) a(24) good(25) headphone(26) for(27) under(28) $200(29) .(30) 
+		</sentence>
+		<sentence id="14">
+			Recommended(1) to(2) those(3) who(4) would(5) use(6) them(7) as(8) monitors(9) or(10) DJing(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			Not(1) recommended(2) for(3) studio(4) mixing(5) -(6) not(7) neutral(8) enough(9) .(10) 
+		</sentence>
+	</text>
+</review>

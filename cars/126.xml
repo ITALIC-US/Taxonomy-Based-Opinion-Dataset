@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="126" item="1998 Dodge Viper" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) dodge(2) viper(3) :(4) Sheer(5) brillance(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) slick(2) stylish(3) look(4) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nothing(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) can(2) all(3) thank(4) Robert_A_Lutz_for_the_Viper(5) along_with(6) Carroll_Shelby(7) ,(8) Tom_Gale(9) ,(10) and(11) Fancois_Castaing(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) four(2) men(3) are(4) considered(5) to(6) be(7) the(8) "(9) Fourfathers(10) "(11) of(12) the(13) Viper(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Basically(1) what(2) Bob_Lutz(3) was(4) aiming(5) for(6) was(7) to(8) build(9) a(10) modern(11) Cobra(12) with(13) today(14) 's(15) technology(16) all(17) for(18) under(19) $100,000(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) prototype(3) labeled(4) VM01(5) was(6) finished(7) in(8) December_of_1989(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) VM01(2) was(3) powered(4) by(5) a(6) Chrysler(7) 360(8) V(9) -(10) 8(11) engine(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			This(1) prototype(2) resembles(3) the(4) modern(5) RT/10(6) but(7) is(8) missing(9) the(10) sports(11) bar(12) and(13) sidepipes(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) second(2) prototype(3) called(4) VM02(5) resembles(6) the(7) RT/10(8) more(9) but(10) has(11) different(12) wheels(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Built(1) in_1990(2) it(3) had(4) the(5) V-10(6) engine(7) which(8) was(9) rated(10) at(11) 380(12) HP(13) .(14) 
+		</sentence>
+	</text>
+</review>

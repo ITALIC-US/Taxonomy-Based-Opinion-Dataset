@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="133" item="1996 Acura TL Series" rating="4">
+	<title>
+		<sentence id="1">
+			over(1) all(2) above(3) average(4) 
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			safety(1) ,(2) price(3) ,(4) most(5) things(6) included(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			engine(1) size(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			One(1) of(2) my(3) family(4) member(5) purchased(6) this(7) car(8) ,(9) who(10) I(11) almost(12) got(13) mad(14) for(15) doing(16) it(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Now_I(1) have(2) luxury(3) to(4) drive(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) do(2) not(3) know(4) very(5) much(6) about(7) car(8) machinery(9) ;(10) but(11) this(12) car(13) fit(14) my(15) eye(16) nicely(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) like(2) what(3) it(4) looks(5) like(6) ;(7) I(8) think(9) it(10) looks(11) pretty(12) good(13) for(14) car(15) .(16) 
+			<opinion polarity="+" feature="design" opWords="11,13" potency="12"/>
+		</sentence>
+		<sentence id="5">
+			In(1) other(2) word(3) ,(4) body(5) design(6) is(7) very(8) cool(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="5,6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			TL(1) must(2) be(3) slightly(4) wider(5) than(6) other(7) car(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			According_to(1) some(2) car(3) commercial(4) ,(5) "(6) wider(7) is(8) better(9) .(10) "(11) I(12) have(13) this(14) leather(15) seat(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Comfort(1) rate(2) probably(3) similar(4) to(5) other(6) seats(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Mess(1) is(2) easier(3) to(4) clean(5) up(6) after(7) spill(8) of(9) soda(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			And(1) I(2) played(3) for(4) while(5) for(6) this(7) side(8) switch(9) seat(10) adjustment(11) ,(12) that(13) was(14) neat(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Now(1) do(2) not(3) they(4) put(5) in(6) the(7) satellite(8) navigation(9) system(10) ((11) GPS(12) )(13) ?(14) 
+		</sentence>
+		<sentence id="12">
+			That(1) sound(2) good(3) when(4) lost(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			Most(1) gadgets(2) are(3) standard(4) not(5) option(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) are(3) professional(4) car(5) driver(6) or(7) play(8) Sony_Playstation_Gran_Turismo(9) ,(10) then(11) you(12) will(13) know(14) this(15) fact(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			Front(1) engine(2) front(3) wheel(4) drive(5) is(6) more(7) stable(8) when(9) turning(10) curve(11) at(12) high(13) speed(14) ((15) pulling(16) from(17) front(18) rather(19) than(20) pushing(21) from(22) rear(23) )(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			This(1) car(2) is(3) that(4) front(5) engine(6) front(7) wheel(8) drive(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			And(1) ABS(2) ((3) anti-lock(4) brake(5) system(6) )(7) give(8) sure(9) stopping(10) power(11) than(12) skid(13) off(14) the(15) road(16) for(17) potential(18) accident(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			One(1) thing(2) this(3) car(4) could(5) improve(6) is(7) more(8) HP(9) ((10) horsepower(11) )(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			For(1) the(2) size(3) of(4) this(5) car(6) ,(7) I(8) would(9) expect(10) more(11) power(12) .(13) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="885" item="2000 Nissan Altima" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) must(2) apologize(3) to(4) anyone(5) who(6) bought(7) one(8) of(9) these(10) for(11) my(12) previous(13) opinion(14) !(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Rides(1) great(2) ,(3) Lots(4) of(5) power(6) for(7) a(8) small(9) engine(10) .(11) 
+			<opinion polarity="-" feature="engine" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			NOT(1) RELIABLE(2) !(3) 
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			HAS(1) 3(2) MAJOR_PROBLEMS_WITH_IT_WITHIN_THE_FIRST_YEAR(3) !(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			DO(1) NOT_BUY_THIS_CAR_UNLESS_YOU_LIKE_TOW_TRUCKS(2) !(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) must(2) first(3) apologize(4) to(5) anyone(6) who(7) bought(8) one(9) of(10) these(11) cars(12) after(13) reading(14) my(15) initial(16) review(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) first(3) 4(4) months(5) I(6) owned(7) this(8) car(9) it(10) was(11) wonderful(12) but(13) I(14) have(15) since(16) changed(17) my(18) opinion(19) and(20) here(21) 's(22) why(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			After(1) only(2) owning(3) it(4) for(5) 5(6) months(7) the(8) distributor(9) went(10) out(11) on(12) it(13) while(14) I(15) was(16) 7(17) months(18) pregnant(19) no(20) less(21) and(22) left(23) me(24) stranded(25) on(26) the(27) highway(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			Then(1) around(2) 8(3) months(4) while(5) I(6) was(7) out(8) of(9) town(10) with(11) my(12) newborn(13) visiting(14) family(15) ,(16) a(17) tumbler(18) in(19) the(20) ignition(21) was(22) defective(23) and(24) I(25) could(26) not(27) even(28) get(29) my(30) key(31) in(32) it(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			The(1) entire(2) ignition(3) had(4) to(5) be(6) replaced(7) and(8) I(9) was(10) stranded(11) once(12) again(13) ,(14) but(15) this(16) time(17) was(18) 6(19) hours(20) away(21) from(22) home(23) !(24) 
+		</sentence>
+		<sentence id="6">
+			THEN(1) ,(2) after(3) about(4) 11(5) months(6) ,(7) the(8) computer(9) /(10) electrical(11) system(12) went(13) out(14) and(15) left(16) me(17) stranded(18) AGAIN(19) forcing(20) me(21) to(22) walk(23) the(24) 1/2_mile(25) left(26) to(27) home(28) carrying(29) my(30) baby(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) less(3) than(4) 8,000_miles(5) on(6) this(7) car(8) and(9) as(10) far(11) as(12) I(13) am(14) concerned(15) it(16) is(17) a(18) piece(19) of(20) crap(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			When(1) it(2) works(3) ,(4) it(5) 's(6) great(7) but(8) for(9) a(10) car(11) that(12) is(13) less(14) than(15) a(16) year(17) old(18) and(19) has(20) already(21) had(22) to(23) have(24) 3(25) major(26) components(27) replaced(28) ,(29) I(30) am(31) not(32) at(33) all(34) happy(35) with(36) it(37) .(38) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) looking(3) into(4) the(5) lemon(6) law(7) as(8) the(9) dealership(10) I(11) am(12) leasing(13) it(14) from(15) has(16) been(17) no(18) help(19) at(20) all(21) and(22) has(23) shown(24) no(25) interest(26) in(27) resolving(28) the(29) problem(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			I(1) hope(2) no(3) one(4) bought(5) one(6) of(7) these(8) after(9) reading(10) my(11) initial(12) review(13) because(14) I(15) take(16) back(17) every(18) good(19) thing(20) I(21) have(22) ever(23) said(24) about(25) this(26) hunk(27) of(28) junk(29) .(30) ((31) Original_Review(32) )(33) This(34) is(35) the(36) first(37) "(38) family(39) "(40) car(41) my(42) husband(43) and(44) I(45) have(46) purchased(47) .(48) 
+		</sentence>
+		<sentence id="11">
+			We(1) were(2) going(3) to(4) buy(5) a(6) Nissan_Sentra(7) but(8) after(9) looking(10) at(11) both(12) we(13) decided(14) that(15) we(16) would(17) get(18) a_lot(19) more(20) car(21) for(22) not(23) much(24) more(25) money(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Among(1) the(2) many(3) features(4) available(5) we(6) opted(7) for(8) the(9) LXE(10) package(11) which(12) included(13) power(14) windows(15) ,(16) power(17) door-locks(18) ,(19) CD(20) /(21) cassette(22) player(23) stereo(24) system(25) with(26) 6(27) speakers(28) ,(29) security(30) system(31) ,(32) cruise(33) control(34) ,(35) rear(36) fold(37) down(38) seats(39) ,(40) chrome(41) hubcaps(42) ,(43) etc.(44) We(45) have(46) always(47) heard(48) that(49) Nissans(50) were(51) extremely(52) reliable(53) and(54) we(55) knew(56) we(57) would(58) be(59) making(60) a(61) great(62) investment(63) in(64) buying(65) one(66) .(67) 
+			<opinion polarity="+" feature="reliability" opWords="53" potency="52"/>
+		</sentence>
+		<sentence id="13">
+			The(1) Sentras(2) although(3) reasonable(4) ,(5) were(6) a(7) little(8) too(9) small(10) .(11) 
+			<opinion polarity="-" feature="size" opWords="9,10"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) Altima(2) is(3) in(4) between(5) a(6) Sentra_&_Maxima(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			It(1) gives(2) you(3) more(4) room(5) with(6) all(7) the(8) little(9) features(10) we(11) all(12) want(13) but(14) for(15) a_lot(16) less(17) than(18) a(19) Maxima(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			It(1) handles(2) so(3) well(4) and(5) what(6) impressed(7) the(8) most(9) was(10) the(11) power(12) it(13) had(14) for(15) a(16) 4(17) cylinder(18) engine(19) .(20) 
+			<opinion polarity="+" feature="handling" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="17">
+			The(1) salesman(2) explained(3) to(4) us(5) that(6) Nissan(7) has(8) changed(9) the(10) way(11) the(12) engines(13) are(14) designed(15) to(16) give(17) you(18) more(19) horsepower(20) even(21) with(22) a(23) smaller(24) engine(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			I(1) no_longer(2) feel(3) like(4) I(5) am(6) "(7) chugging(8) "(9) to(10) get(11) on(12) the(13) interstate(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			My_Altima(1) is(2) fast(3) and(4) handles(5) very(6) smoothly(7) .(8) 
+			<opinion polarity="+" feature="handling" opWords="5,7" potency="6"/>
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+		<sentence id="20">
+			It(1) even(2) handles(3) speed(4) bumps(5) and(6) railroad(7) tracks(8) like(9) they(10) 're(11) nothing(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			It(1) has(2) dual(3) airbags(4) and(5) a(6) very(7) nice(8) interior(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="22">
+			And(1) to(2) any(3) parents(4) who(5) might(6) be(7) interested(8) in(9) buying(10) one(11) ,(12) I(13) highly(14) recommend(15) it(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="16" featRef="car" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="23">
+			We(1) are(2) expecting(3) our(4) first(5) child(6) soon(7) and(8) we(9) were(10) impressed(11) with(12) the(13) built(14) in(15) child(16) seat(17) anchors(18) on(19) both(20) rear(21) seats(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			Also(1) ,(2) the(3) rear(4) seats(5) fold(6) down(7) which(8) will(9) come(10) in(11) very(12) handy(13) when(14) we(15) have(16) to(17) transport(18) the(19) baby(20) 's(21) stroller(22) ,(23) etc.(24) I(25) absolutely(26) love(27) my(28) Altima(29) and(30) recommend(31) it(32) to(33) anyone(34) .(35) 
+			<opinion polarity="+" feature="car" featWords="32" featRef="car" opWords="31"/>
+		</sentence>
+		<sentence id="25">
+			Make(1) sure(2) to(3) ask(4) your(5) dealer(6) about(7) incentives(8) because(9) when(10) we(11) bought(12) ours(13) ((14) 6/00(15) )(16) they(17) were(18) offering(19) some(20) nice(21) deals(22) from(23) Nissan(24) .(25) 
+		</sentence>
+	</text>
+</review>

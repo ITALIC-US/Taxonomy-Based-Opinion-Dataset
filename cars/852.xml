@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="852" item="1999 Saturn SL" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) Believe_the_Hype(3) ((4) on(5) Saturn_'s_Service(6) )(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Safe(1) ,(2) good(3) mileage(4) 
+			<opinion polarity="+" feature="gas" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) from(2) HELL(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Cramped(1) inside(2) ,(3) squeaky(4) brakes(5) 
+			<opinion polarity="-" feature="brakes" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) as(2) far(3) away(4) from(5) Saturn(6) as(7) you(8) possibly(9) can(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="1,4"/>
+		</sentence>
+		<sentence id="2">
+			Their(1) advertising(2) is(3) full(4) of(5) lies(6) ,(7) service(8) is(9) deplorable(10) and(11) the(12) cars(13) are(14) too(15) small(16) and(17) expensive(18) .(19) 
+			<opinion polarity="-" feature="price" opWords="18"/>
+			<opinion polarity="-" feature="size" opWords="15,16"/>
+			<opinion polarity="-" feature="service" featWords="8" opWords="10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hubby(1) and(2) I(3) both(4) needed(5) new(6) cars(7) so(8) we(9) shopped(10) around(11) ,(12) read(13) our(14) Consumer_Reports(15) ,(16) and(17) wound(18) up(19) at(20) our(21) local(22) Saturn_Dealer(23) ((24) Saturn_of_Rt(25) .(26) 33(27) ,(28) 3830(29) Easton_Nazareth_Hwy(30) ,(31) Easton(32) ,(33) PA(34) 18045(35) ((36) 610(37) )(38) 746-1800(39) just(40) as(41) an(42) FYI(43) )(44) .(45) 
+		</sentence>
+		<sentence id="2">
+			We(1) purchased(2) 2(3) ,(4) yes(5) 2(6) ,(7) brand(8) new(9) 1999(10) SL2(11) sedans(12) with(13) everything(14) ...(15) ABS(16) ,(17) which(18) forces(19) you(20) to(21) upgrade(22) the(23) wheels(24) ,(25) power(26) locks(27) and(28) windows(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) aware(3) of(4) the(5) no(6) haggle(7) pricing(8) ,(9) that(10) 's(11) actually(12) part(13) of(14) what(15) drew(16) us(17) to(18) Saturn(19) in(20) the(21) first(22) place(23) ,(24) but(25) since(26) we(27) bought(28) 2(29) cars(30) off(31) their(32) lot(33) ,(34) we(35) thought(36) they(37) might(38) give(39) us(40) a(41) little(42) break(43) .(44) 
+		</sentence>
+		<sentence id="4">
+			But(1) no(2) ,(3) no(4) break(5) given(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			Okay(1) ,(2) so(3) my(4) radio(5) speakers(6) were(7) fading(8) in(9) and(10) out(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) called(2) for(3) service(4) and(5) was(6) given(7) a(8) date(9) 1(10) 1/2(11) weeks(12) out(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			They(1) inspected(2) the(3) car(4) ,(5) and(6) said(7) it(8) was(9) fine(10) ,(11) they(12) didnt(13) fix(14) anything(15) ,(16) there(17) was(18) nothing(19) wrong(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="8" featRef="car" opWords="10"/>
+		</sentence>
+		<sentence id="8">
+			I(1) interpreted(2) this(3) as(4) "(5) you(6) are(7) wasting(8) our(9) time(10) lady(11) .(12) "(13) Of(14) course(15) ,(16) the(17) problem(18) continued(19) ,(20) so(21) I(22) made(23) another(24) appointment(25) ,(26) and(27) again(28) had(29) to(30) wait(31) a(32) week(33) or(34) so(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) told(3) again(4) that(5) there(6) was(7) no(8) problem(9) ,(10) they(11) didnt(12) hear(13) anything(14) wrong(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) had(2) to(3) FORCE(4) them(5) to(6) take(7) off(8) the(9) door(10) panel(11) ,(12) and(13) would(14) not(15) you(16) know(17) it(18) ,(19) my(20) speaker(21) wire(22) was(23) loosely(24) connected(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			Amazing(1) ,(2) right(3) ?(4) 
+		</sentence>
+		<sentence id="12">
+			No(1) apology(2) was(3) given(4) ,(5) but(6) at_least(7) I(8) was(9) not(10) charged(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Some(1) service(2) ,(3) huh(4) ?(5) 
+		</sentence>
+		<sentence id="14">
+			There(1) have(2) been(3) other(4) service(5) issues(6) with(7) both(8) of(9) our(10) vehicles(11) ,(12) and(13) though(14) I(15) will(16) not(17) list(18) them(19) ,(20) suffice(21) it(22) to(23) say(24) ,(25) the(26) experiences(27) have(28) been(29) similar(30) .(31) 
+		</sentence>
+		<sentence id="15">
+			The(1) service(2) we(3) have(4) received(5) at(6) our(7) dealership(8) has(9) been(10) substandard(11) for(12) any(13) company(14) ,(15) let(16) alone(17) when(18) compared(19) to(20) what(21) Saturn(22) would(23) have(24) us(25) believe(26) we(27) should(28) expect(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			We(1) can(2) never(3) get(4) an(5) appointment(6) in(7) the(8) same(9) week(10) that(11) we(12) call(13) ,(14) and(15) the(16) service(17) staff(18) is(19) surly(20) ,(21) to(22) say(23) the(24) least(25) .(26) 
+			<opinion polarity="-" feature="service" featWords="17" opWords="20"/>
+		</sentence>
+		<sentence id="17">
+			We(1) feel(2) like(3) we(4) are(5) bothering(6) them(7) when(8) we(9) call(10) ,(11) when(12) we(13) have(14) required(15) a(16) loaner(17) car(18) ,(19) it(20) is(21) usually(22) a(23) tremendous(24) hassle(25) ,(26) and(27) they(28) do(29) not(30) respond(31) to(32) phone(33) calls(34) in(35) a(36) prompt(37) manner(38) .(39) 
+		</sentence>
+		<sentence id="18">
+			We(1) filled(2) out(3) a(4) corporate(5) survey(6) and(7) included(8) several(9) pages(10) of(11) complaints(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Nobody(1) ever(2) called(3) us(4) to(5) follow(6) up(7) on(8) that(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			We(1) complained(2) to(3) the(4) dealership(5) itself(6) about(7) the(8) service(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			Did(1) anyone(2) ever(3) call(4) us(5) ?(6) 
+		</sentence>
+		<sentence id="22">
+			You(1) guessed(2) it(3) ,(4) NO(5) !(6) 
+		</sentence>
+		<sentence id="23">
+			So(1) maybe(2) they(3) do(4) not(5) care(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			Let(1) me(2) add(3) ,(4) too(5) ,(6) that(7) the(8) car(9) is(10) really(11) expensive(12) for(13) what(14) you(15) get(16) ,(17) and(18) it(19) is(20) teeny(21) weeny(22) ,(23) itsy(24) bitsy(25) inside(26) .(27) 
+			<opinion polarity="-" feature="price" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="25">
+			I(1) do(2) not(3) know(4) what(5) my(6) husband(7) and(8) I(9) were(10) thinking(11) when(12) we(13) bought(14) these(15) cars(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			Just(1) do(2) not(3) be(4) fooled(5) by(6) spiffy(7) ad(8) campaigns(9) that(10) show(11) them(12) helicoptering(13) the(14) old(15) lady(16) to(17) the(18) dealership(19) to(20) buy(21) a(22) Saturn(23) .(24) 
+		</sentence>
+		<sentence id="27">
+			The(1) dealer(2) will(3) be(4) unlikely(5) to(6) service(7) that(8) car(9) after(10) she(11) gets(12) it(13) home(14) !(15) 
+		</sentence>
+		<sentence id="28">
+			PEE_EEWWWW(1) are(2) our(3) thoughts(4) on(5) the(6) entire(7) Saturn_Corporation(8) !(9) 
+		</sentence>
+		<sentence id="29">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17500(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) SL2(16) 4(17) Door(18) ,(19) Auto(20) ,(21) ABS(22) ,(23) AC(24) ,(25) Power(26) everything(27) 
+		</sentence>
+	</text>
+</review>

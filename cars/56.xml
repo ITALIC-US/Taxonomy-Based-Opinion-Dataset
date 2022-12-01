@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="56" item="2003 Mercury Marauder" rating="5">
+	<title>
+		<sentence id="1">
+			Short(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handling(1) ,(2) Image(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Paint(1) job(2) leaves(3) something(4) to(5) be(6) desired(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Could(1) use(2) a(3) little(4) more(5) low(6) end(7) torque(8) .(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) 's(2) nothing(3) else(4) like(5) it(6) ((7) US(8) anyway(9) )(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) will(2) not(3) bore(4) you(5) with(6) a(7) long(8) review(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Most(1) of(2) what(3) I(4) would(5) say(6) has(7) already(8) been(9) said(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) love(2) this(3) car(4) .(5) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) fast(3) and(4) I(5) can(6) still(7) get(8) 5(9) adults(10) into(11) it(12) .(13) 
+			<opinion polarity="+" feature="speed" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) great(3) on(4) the(5) corners(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="6">
+			I(1) like(2) its(3) '(4) aggressive(5) but(6) still(7) a(8) sleeper(9) '(10) look(11) .(12) 
+			<opinion polarity="+" feature="design" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="design" featWords="11" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) the(3) only(4) car(5) I(6) ever(7) bought(8) on(9) impulse(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			My(1) wife(2) and(3) I(4) went(5) into(6) the(7) Mercury(8) dealer(9) looked(10) at(11) it(12) on(13) the(14) show(15) room(16) floor(17) and(18) asked(19) how(20) much(21) they(22) would(23) give(24) me(25) for(26) my(27) trade(28) in(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			That(1) 's(2) the(3) kind(4) of(5) emotion(6) this(7) car(8) can(9) invoke(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			My(1) wife(2) loves(3) the(4) car(5) ((6) but(7) she(8) 's(9) not(10) that(11) minivan(12) kind(13) of(14) lady(15) anyway(16) )(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			The(1) disadvantage(2) to(3) that(4) is(5) I(6) do(7) not(8) get(9) to(10) drive(11) it(12) as(13) often(14) as(15) I(16) would(17) like(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			However(1) for(2) those(3) of(4) you(5) out(6) there(7) that(8) might(9) buy(10) take(11) a(12) good(13) look(14) at(15) the(16) paint(17) work(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			Mine(1) is(2) thin(3) in(4) places(5) ((6) to(7) the(8) point(9) of(10) showing(11) primer(12) at(13) the(14) rear(15) door(16) lower(17) seam(18) )(19) and(20) seems(21) to(22) suffer(23) from(24) excessive(25) swirling(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) enough(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) multi(16) cd(17) ;(18) trunk(19) organizer(20) ((21) wow(22) )(23) 
+		</sentence>
+	</text>
+</review>

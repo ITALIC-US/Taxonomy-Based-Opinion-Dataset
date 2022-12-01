@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="489" item="2001 Hyundai Tiburon" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) car(2) is(3) easily(4) the(5) worst(6) car(7) Ive(8) ever(9) had(10) !(11) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) car(2) looks(3) pretty(4) nice(5) but(6) thats(7) about(8) all(9) that(10) it(11) has(12) going(13) for(14) it(15) .(16) 
+			<opinion polarity="+" feature="design" opWords="3,5" potency="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) car(2) Is(3) almost(4) constantly(5) in(6) need(7) of(8) service(9) for(10) some(11) reason(12) or(13) another(14) .(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) tiburon(4) about(5) 3(6) years(7) ago(8) now(9) and(10) have(11) not(12) had(13) more(14) than(15) probably(16) four(17) months(18) go(19) by(20) that(21) I(22) did(23) not(24) have(25) to(26) hae(27) it(28) repaired(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			Four(1) alternators(2) ,(3) two(4) coolant(5) temp(6) sensors(7) ,(8) a(9) comlpete(10) new(11) exhaust(12) system(13) ,(14) two(15) new(16) wheel(17) bearings(18) ,(19) three(20) new(21) struts(22) ,(23) one(24) new(25) gearbox(26) ,(27) and(28) one(29) new(30) radiator(31) later(32) Im(33) still(34) having(35) trouble(36) with(37) the(38) car(39) .(40) 
+		</sentence>
+		<sentence id="3">
+			Ive(1) had(2) 3(3) other(4) cars(5) before(6) this(7) one(8) ((9) 90(10) Toyota_Celica(11) ,93(12) Dodge_Daytona(13) and(14) a(15) 95(16) Ford_Taurus(17) )(18) all(19) used(20) and(21) and(22) ive(23) spent(24) more(25) on(26) repairs(27) for(28) the(29) Tiburon(30) than(31) any(32) repairs(33) for(34) all(35) three(36) of(37) the(38) other(39) cars(40) combined(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) has(3) never(4) been(5) able(6) to(7) pass(8) an(9) inspection(10) without(11) having(12) work(13) done(14) to(15) it(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) not(3) reccomend(4) any(5) hyundai(6) product(7) to(8) anyone(9) ever(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			I(1) tell(2) everyone(3) I(4) know(5) never(6) to(7) buy(8) one(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 8999.99(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

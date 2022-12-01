@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="393" item="Skull Candy Smokin Buds Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Had(1) a_lot_of(2) headphones(3) for(4) my(5) IPOD-these(6) are(7) the(8) best(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) without(3) having(4) to(5) adjust(6) the(7) ipod(8) EQ(9) .(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) that(2) I(3) can(4) see(5) .(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			As(1) I(2) have(3) said(4) these(5) are(6) the(7) best(8) I(9) have(10) found(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Tried_Apple(1) ,(2) Sony(3) ,(4) JVC(5) ,(6) and(7) Sennheiser(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			The(1) Skull_Candy_Smokin_Buds(2) beat(3) all(4) of(5) them(6) for(7) sound(8) quality(9) and(10) noise(11) cancelling(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) really(2) abuse(3) my(4) headphones(5) as(6) they(7) are(8) worn(9) constantly(10) in(11) a(12) gym(13) with(14) blaring(15) mind(16) numbing(17) music(18) ((19) dance(20) beats(21) )(22) and(23) instructors(24) who(25) yell(26) at(27) the(28) top(29) of(30) their(31) lungs(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) no(3) need(4) to(5) balance(6) the(7) EQ(8) on(9) the(10) ipod(11) with(12) these(13) headphones(14) as(15) they(16) give(17) non-rumbling(18) lows(19) and(20) crisp(21) clean(22) highs(23) .(24) 
+			<opinion polarity="+" feature="bass" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="highs" featWords="23" opWords="21"/>
+			<opinion polarity="+" feature="highs" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="6">
+			Altogether(1) best(2) phones(3) I(4) have(5) found(6) to(7) date(8) without(9) bankrupting(10) myself(11) .(12) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			Steve_T.(1) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="199" item="2001 Chrysler LHS" rating="5">
+	<title>
+		<sentence id="1">
+			Dependable(1) car(2) 
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reliability(1) ,(2) comfort(3) ,(4) Roominess(5) ,(6) trunk(7) size(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Stuffy(1) ,(2) Hard(3) to(4) clean(5) windshield(6) ,(7) Needs(8) bigger(9) brakes(10) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Best(1) car(2) for(3) the(4) price(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) I(2) buy(3) a(4) car(5) I(6) choose(7) the(8) make(9) and(10) model(11) using(12) this(13) method(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Buy(1) the(2) local(3) "(4) Want_Ad(5) "(6) Make(7) a(8) list(9) of(10) all(11) the(12) cars(13) that(14) -(15) Are(16) less(17) then(18) 10(19) years(20) old(21) -(22) Have(23) less(24) then(25) 100,000_miles(26) -(27) Have(28) not(29) had(30) major(31) body(32) redesign(33) within(34) 3(35) model(36) years(37) From(38) this(39) list(40) ,(41) find(42) a(43) vehicle(44) not(45) on(46) the(47) list(48) and(49) buy(50) it(51) .(52) 
+		</sentence>
+		<sentence id="3">
+			I(1) figure(2) there(3) is(4) a(5) reason(6) people(7) are(8) selling(9) these(10) cars(11) and(12) I(13) can(14) benefit(15) from(16) their(17) experience(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			My(1) friends(2) have(3) tried(4) to(5) convince(6) me(7) that(8) this(9) is(10) not(11) statistically(12) correct(13) but(14) they(15) are(16) buying(17) 3(18) cars(19) to(20) my(21) 2(22) so(23) you(24) be(25) the(26) judge(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			I(1) never(2) sell(3) /(4) junk(5) a(6) car(7) before(8) 200,000_miles(9) because(10) you(11) start(12) making(13) money(14) after(15) 100,000(16) provided(17) you(18) performed(19) regular(20) scheduled(21) maintenance(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			That(1) said(2) ,(3) I(4) bought(5) an(6) LHS(7) in_2001(8) and(9) has(10) provided(11) 85,000(12) of(13) trouble(14) free(15) service(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) live(2) in(3) the(4) northeast(5) and(6) the(7) traction(8) control(9) works(10) great(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			In(1) fact(2) ,(3) this(4) car(5) has(6) impressed(7) me(8) on(9) several(10) occasions(11) for(12) it(13) 's(14) size(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			On(1) other(2) cars(3) I(4) have(5) owned(6) ,(7) I(8) would(9) always(10) look(11) at(12) other(13) cars(14) with(15) desire(16) but(17) not(18) this(19) one(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			You(1) are(2) not(3) going(4) to(5) get(6) more(7) car(8) for(9) $30K(10) !(11) 
+		</sentence>
+		<sentence id="11">
+			In(1) fact(2) ,(3) when(4) it(5) is(6) time(7) to(8) buy(9) another(10) car(11) ((12) 5(13) years(14) )(15) ,(16) I(17) will(18) probably(19) get(20) another(21) LHS(22) ((23) now(24) Concorde_LXi(25) )(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Now(1) there(2) is(3) no(4) such(5) thing(6) as(7) a(8) perfect(9) car(10) ...(11) so(12) here(13) are(14) some(15) thing(16) I(17) would(18) improve(19) on(20) :(21) This(22) is(23) going(24) to(25) sound(26) a(27) little(28) crazy(29) but(30) the(31) car(32) is(33) stuffy(34) .(35) 
+			<opinion polarity="-" feature="car" featWords="32" opWords="34"/>
+		</sentence>
+		<sentence id="13">
+			The(1) air(2) circulation(3) is(4) poor(5) and(6) many(7) times(8) you(9) have(10) to(11) open(12) the(13) window(14) to(15) get(16) enough(17) air(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			The(1) crazy(2) part(3) is(4) that(5) you(6) know(7) you(8) are(9) getting(10) air(11) because(12) you(13) can(14) smell(15) the(16) air(17) coming(18) in(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			I(1) do(2) not(3) know(4) ,(5) this(6) is(7) just(8) what(9) I(10) have(11) found(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Whether(1) you(2) smoke(3) or(4) not(5) ,(6) your(7) windshield(8) needs(9) to(10) be(11) cleaned(12) on(13) occasion(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			It(1) is(2) really(3) difficult(4) to(5) get(6) the(7) bottom(8) half(9) of(10) the(11) windshield(12) clean(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			I(1) suggest(2) yardstick(3) and(4) Windex(5) wipes(6) ...(7) Thirdly(8) and(9) most(10) important(11) ;(12) the(13) brakes(14) on(15) this(16) car(17) are(18) great(19) .(20) 
+			<opinion polarity="+" feature="brakes" featWords="14" opWords="19"/>
+		</sentence>
+		<sentence id="19">
+			ABS(1) ,(2) stop(3) on(4) a(5) dime(6) ,(7) work(8) every(9) time(10) but(11) if(12) you(13) need(14) them(15) ,(16) you(17) pay(18) the(19) price(20) .(21) 1(22) or(23) 2(24) hard(25) stops(26) ((27) lock(28) the(29) tires(30) )(31) and(32) the(33) rotors(34) will(35) be(36) warped(37) .(38) 
+		</sentence>
+		<sentence id="20">
+			This(1) could(2) be(3) improved(4) if(5) they(6) used(7) bigger(8) rotors(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			As(1) a(2) result(3) ,(4) you(5) will(6) need(7) to(8) think(9) a(10) little(11) bit(12) more(13) about(14) stopping(15) a(16) car(17) of(18) this(19) size(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			Despite(1) these(2) 3(3) cons(4) ,(5) I(6) would(7) recommend(8) this(9) car(10) to(11) my(12) friends(13) and(14) family(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28,250(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) loaded(16) 
+		</sentence>
+	</text>
+</review>

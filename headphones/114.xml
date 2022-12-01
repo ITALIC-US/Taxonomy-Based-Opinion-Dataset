@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="114" item="Sennheiser RS 45 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Sennheiser_RS(1) 45(2) -(3) Not(4) That(5) Good(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reasonable(1) price(2) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) automatic(2) off(3) switch(4) ,(5) fails(6) to(7) charge(8) on(9) transmitter(10) ,(11) sounds(12) muffled(13) 
+			<opinion polarity="-" feature="sound quality" opWords="12,13"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) ,(2) I(3) was(4) not(5) impressed(6) in(7) any(8) category(9) :(10) Workmanship(11) -(12) Poor_Sound_Quality(13) -(14) Poor_Usability(15) -(16) Poor(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) headphones(4) expecting(5) quality(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			What(1) I(2) got(3) was(4) poor(5) sound(6) ,(7) bad(8) construction(9) ,(10) and(11) weak(12) usability(13) features(14) .(15) 
+			<opinion polarity="-" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="durability" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			My(1) attempt(2) to(3) use(4) these(5) headphones(6) at(7) the(8) office(9) has(10) ended(11) in(12) disaster(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) is(4) horrible(5) .(6) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			Various(1) head(2) positions(3) lead(4) to(5) buzzing(6) ,(7) cracks(8) ,(9) and(10) pops(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			They(1) also(2) lack(3) the(4) ability(5) to(6) shut(7) off(8) when(9) not(10) in(11) use(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Good(1) wireless(2) headphones(3) will(4) have(5) a(6) "(7) dead(8) man(9) 's(10) switch(11) "(12) to(13) save(14) battery(15) power(16) when(17) the(18) headphones(19) are(20) not(21) on(22) the(23) head(24) .(25) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) the(3) headphones(4) are(5) supposed(6) to(7) recharge(8) when(9) placed(10) on(11) the(12) transmitter(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			It(1) 's(2) a(3) nice(4) idea(5) ,(6) but(7) I(8) have(9) to(10) lean(11) a(12) book(13) against(14) them(15) to(16) get(17) them(18) to(19) make(20) proper(21) contact(22) with(23) the(24) charger(25) .(26) 
+		</sentence>
+	</text>
+</review>

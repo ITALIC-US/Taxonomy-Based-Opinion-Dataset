@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="758" item="2001 Toyota Tundra" rating="2">
+	<title>
+		<sentence id="1">
+			Dissappointed(1) in(2) my(3) Tundra(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) power(3) ,(4) drove(5) like(6) a(7) car(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) problem(2) ,(3) O2(4) sensor(5) problem(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) buy(3) a(4) used(5) one(6) ,(7) make(8) sure(9) you(10) can(11) get(12) the(13) extended(14) warranty(15) that(16) will(17) cover(18) the(19) transmission(20) .(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) just(2) 2(3) years(4) and(5) 69K_miles(6) ,(7) I(8) started(9) having(10) transmission(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) really(2) thought(3) I(4) 'd(5) own(6) this(7) truck(8) "(9) til(10) the(11) wheels(12) fell(13) off(14) "(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) made(2) the(3) mistake(4) of(5) not(6) getting(7) the(8) extended(9) warranty(10) to(11) cover(12) the(13) truck(14) until(15) 100K_miles(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			My(1) thought(2) process(3) was(4) ,(5) "(6) Well(7) ,(8) it(9) 's(10) a(11) Toyota(12) ,(13) it(14) will(15) run(16) forever(17) "(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Now_I(1) find(2) that(3) my(4) transmission(5) problem(6) was(7) not(8) as(9) uncommon(10) as(11) one(12) would(13) think(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Apparently(1) ,(2) Tundra(3) 's(4) sold(5) as(6) 2000(7) 's(8) and(9) early(10) 2001(11) 's(12) were(13) potential(14) candidates(15) for(16) these(17) transmission(18) issues(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			After(1) a_bit(2) of(3) Internet(4) research(5) ,(6) I(7) 've(8) found(9) I(10) 'm(11) not(12) alone(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			I(1) understand(2) that(3) anyone(4) can(5) get(6) a(7) "(8) lemon(9) "(10) on(11) occasion(12) ,(13) but(14) once(15) I(16) found(17) out(18) how(19) many(20) other(21) people(22) had(23) the(24) same(25) problem(26) ,(27) I(28) was(29) shocked(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) plan(3) on(4) doing(5) ANY(6) towing(7) with(8) the(9) Tundra(10) ,(11) keep(12) an(13) eye(14) on(15) the(16) tranny(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			I(1) towed(2) a(3) 330lb(4) aluminum(5) trailer(6) with(7) two(8) 500lb(9) ATV(10) 's(11) on(12) it(13) ((14) total(15) of(16) 1350lbs(17) )(18) which(19) should(20) be(21) nothing(22) for(23) the(24) powerful(25) V8(26) package(27) .(28) 
+			<opinion polarity="+" feature="horsepower" opWords="25"/>
+		</sentence>
+		<sentence id="11">
+			Even(1) with(2) regular(3) service(4) by(5) the(6) dealer(7) ,(8) I(9) still(10) had(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) can(2) only(3) imagine(4) what(5) some(6) of(7) these(8) trucks(9) are(10) put(11) through(12) by(13) people(14) who(15) do(16) not(17) really(18) take(19) care(20) of(21) thier(22) vehicles(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Other(1) than(2) the(3) transmission(4) ((5) as_if(6) a(7) $3500(8) repair(9) bill(10) is(11) a(12) minor(13) issue(14) )(15) the(16) only(17) other(18) problem(19) I(20) had(21) was(22) an(23) O2(24) sensor(25) which(26) apparently(27) is(28) another(29) known(30) problem(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			Just(1) remember(2) ,(3) buy(4) the(5) extended(6) warranty(7) ....(8) I(9) sure(10) wish(11) I(12) did(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			I(1) used(2) to(3) be(4) a(5) Dodge(6) man(7) ,(8) I(9) switched(10) to(11) Toyota(12) so(13) I(14) would(15) not(16) have(17) similar(18) problems(19) ,(20) I(21) should(22) have(23) just(24) bought(25) another(26) dodge(27) ,(28) at_least(29) there(30) is(31) a(32) better(33) dealer(34) network(35) to(36) get(37) problems(38) fixed(39) .(40) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28,300(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) SR(16) -(17) 5(18) V8(19) 
+		</sentence>
+	</text>
+</review>

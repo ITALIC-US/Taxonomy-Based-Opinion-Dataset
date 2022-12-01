@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="15" item="1998 Buick Regal" rating="4">
+	<title>
+		<sentence id="1">
+			Wind_Noise(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			almost(1) everything(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wind_Noise(1) and(2) sloppy(3) stearing(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) purchased(2) this(3) vehicle(4) because_of(5) price(6) ,(7) gas(8) mileage(9) and(10) room(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			We(1) love(2) almost(3) everything(4) about(5) this(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) the(3) finest(4) car(5) I(6) have(7) ever(8) owned(9) except_for(10) one(11) problem(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) car(2) is(3) great(4) to(5) drive(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Does(1) not(2) have(3) the(4) road(5) feeling(6) of(7) a(8) sports(9) car(10) ,(11) but(12) then(13) it(14) is(15) a(16) larger(17) car(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Anyone(1) who(2) buys(3) this(4) vehicle(5) would(6) be(7) happy(8) if(9) the(10) bugs(11) are(12) worked(13) out(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Brake(1) Master(2) cylinder(3) went(4) out(5) after(6) a(7) week(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Rear_Main(1) seal(2) went(3) out(4) twice(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			Delamination(1) of(2) the(3) dash(4) happen(5) once(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			This(1) are(2) things(3) that(4) I(5) can(6) accept(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			We(1) have(2) had(3) problems(4) with(5) wind(6) noise(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			do(1) not(2) buy(3) this(4) vehicle(5) if(6) you(7) live(8) in(9) temperatures(10) over(11) 89(12) degrees(13) with(14) winds(15) .(16) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="13">
+			We(1) are(2) not(3) able(4) to(5) drive(6) this(7) car(8) above(9) speeds(10) of(11) 60(12) MPH(13) with(14) high(15) winds(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			GM(1) will(2) not(3) admit(4) to(5) the(6) problem(7) even_though(8) we(9) know(10) of(11) Technical_Service_Bulletins(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			We(1) were(2) told(3) today(4) that(5) Park_Avenues(6) are(7) having(8) simular(9) problems(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			The(1) dealer(2) with(3) the(4) help(5) of(6) GM(7) made(8) two(9) attempts(10) to(11) fix(12) this(13) problem(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			In(1) each(2) case(3) the(4) fix(5) made(6) the(7) problem(8) worse(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			The(1) first(2) time(3) the(4) problem(5) was(6) notice(7) was(8) at(9) speeds(10) of(11) 70(12) MPH(13) at(14) 95(15) degrees(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			After(1) the(2) second(3) fix(4) ,(5) the(6) car(7) has(8) the(9) problem(10) as(11) 65(12) MPH(13) at(14) 89(15) degrees(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			We(1) have(2) had(3) this(4) problem(5) for(6) three(7) years(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			The(1) factory(2) rep(3) .(4) tried(5) to(6) blame(7) this(8) on(9) the(10) sun(11) roof(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			After(1) informing(2) him(3) that(4) his(5) car(6) was(7) driven(8) off(9) the(10) showroom(11) floor(12) he(13) was(14) eating(15) crow(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			We(1) would(2) like(3) to(4) know(5) if(6) anyone(7) else(8) has(9) had(10) simular(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			Jeff(1) jrf_clf@prodigy.net(2) 
+		</sentence>
+	</text>
+</review>

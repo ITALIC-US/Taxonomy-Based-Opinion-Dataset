@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="444" item="Shure E2C Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Amazing(1) !(2) !(3) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) quality(3) for(4) the(5) price(6) !(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			You(1) will(2) not(3) believe(4) these(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ummm(1) ...(2) The(3) phone(4) cord(5) thing(6) ,(7) but(8) that(9) 's(10) really(11) stretching(12) to(13) find(14) a(15) con(16) !(17) !(18) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) phones(2) are(3) phenomenal(4) !(5) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) fidelity(3) is(4) amazingly(5) good(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) not(3) sufficient(4) adjectives(5) to(6) describe(7) these(8) ,(9) especially(10) in(11) anything(12) portable(13) ,(14) AND(15) under(16) $100(17) .(18) ((19) Found(20) mine(21) on(22) ebay(23) for(24) around(25) $60(26) .(27) )(28) Like(29) any(30) in-ear(31) buds(32) ,(33) getting(34) the(35) fit(36) right(37) the(38) first(39) time(40) can(41) be(42) tricky(43) ,(44) but(45) once(46) you(47) 've(48) got(49) the(50) hang(51) of(52) it(53) ,(54) it(55) 's(56) easy(57) and(58) the(59) kit(60) comes(61) with(62) multiple(63) sizes(64) in(65) earpieces(66) .(67) 
+		</sentence>
+		<sentence id="4">
+			They(1) feel(2) substantial(3) and(4) durable(5) .(6) 
+			<opinion polarity="+" feature="durability" opWords="2,3"/>
+			<opinion polarity="+" feature="durability" opWords="2,5"/>
+		</sentence>
+		<sentence id="5">
+			These(1) replaced(2) my(3) iPod(4) branded(5) buds(6) which(7) Apple(8) has(9) had(10) to(11) replace(12) twice(13) in(14) 5(15) months(16) because_of(17) the(18) earpieces(19) dying(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) minor(3) quibble(4) is(5) that(6) the(7) phone(8) cords(9) are(10) designed(11) specifically(12) to(13) go(14) UP(15) ,(16) OVER(17) and(18) BEHIND(19) the(20) ear(21) rather(22) than(23) hang(24) straight(25) down(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) wear(3) glasses(4) ,(5) this(6) can(7) be(8) a_bit(9) of(10) a(11) nuisance(12) .(13) **(14) UPDATE(15) **(16) 2(17) years(18) later(19) and(20) these(21) are(22) still(23) going(24) strong(25) !(26) 
+		</sentence>
+		<sentence id="8">
+			Use(1) them(2) regularly(3) and(4) no(5) technical(6) problems(7) whatsoever(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			These(1) still(2) sound(3) fantastic(4) ,(5) thinking(6) about(7) picking(8) up(9) another(10) pair(11) to(12) keep(13) at(14) work(15) .(16) 
+			<opinion polarity="+" feature="sound quality" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

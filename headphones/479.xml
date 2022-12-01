@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="479" item="Koss PRO-4AAT Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Pound_for_Pound(1) -(2) Dollar_for_Dollar(3) .(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			The(1) Best(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sparkling(1) sound(2) ,(3) clear(4) and(5) realistic(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) as(2) comfortable(3) as(4) they(5) could(6) be(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			True_Dynamic_Range(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Clear(1) ,(2) well(3) defined(4) Bass(5) .(6) 
+			<opinion polarity="+" feature="bass" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="5" opWords="3,4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Upper(2) range(3) is(4) clear(5) and(6) Dynamic(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) are(3) well(4) capable(5) of(6) producing(7) far(8) more(9) sound(10) than(11) most(12) of(13) us(14) can(15) hear(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) best(2) you(3) can(4) get(5) for(6) under(7) $150.00(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			They(1) really(2) do(3) not(4) have(5) any(6) competition(7) in(8) the(9) mid-priced(10) group(11) .(12) 
+		</sentence>
+	</text>
+</review>

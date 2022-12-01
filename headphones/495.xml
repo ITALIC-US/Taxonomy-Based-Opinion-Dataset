@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="495" item="Sony MDR-V150 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Decent_Phones(1) with(2) some(3) cons(4) in(5) my(6) opinion(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) solid(4) construction(5) ,(6) reliable(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="durability" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="headphones" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fit(1) ,(2) noise(3) filtration(4) ,(5) deeper(6) bass(7) would(8) be(9) nice(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) using(4) these(5) head(6) phones(7) for(8) a(9) few(10) years(11) now(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Never(1) really(2) had(3) any(4) sound(5) issues(6) at(7) all(8) ,(9) the(10) construction(11) is(12) quite(13) sturdy(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) handled(3) it(4) very(5) rough(6) a(7) few(8) times(9) ,(10) but(11) it(12) stood(13) up(14) to(15) the(16) abuse(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) only(2) bad(3) thing(4) I(5) feel(6) is(7) that(8) after(9) putting(10) it(11) on(12) for(13) a(14) while(15) ,(16) my(17) ears(18) start(19) hurting(20) from(21) the(22) pressing(23) foam(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Slightly(1) bigger(2) pads(3) that(4) cover(5) the(6) entire(7) ear(8) around(9) it(10) would(11) have(12) been(13) a_lot(14) better(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			This(1) would(2) also(3) be(4) very(5) helpful(6) for(7) long(8) travel(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Sound(1) is(2) quite(3) decent(4) .(5) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			Because_of(1) the(2) fit(3) the(4) mechanical(5) noise(6) filtration(7) is(8) not(9) the(10) best(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Overall_I(1) have(2) been(3) quite(4) happy(5) with(6) them(7) .(8) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="169" item="Shure E500PTH Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			These(1) are(2) worth(3) every(4) penny(5) !(6) !(7) 
+		</sentence>
+		<sentence id="2">
+			Trust(1) me(2) I(3) 'm(4) a(5) Scientist(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Phenom(1) sound(2) ,(3) utterly(4) transparent(5) ,(6) quiet(7) ,(8) great(9) noise(10) reduction(11) in_all(12) situations(13) .(14) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="volume" opWords="7"/>
+			<opinion polarity="+" feature="isolation" featWords="10,11" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) are(2) pricey(3) ,(4) but(5) are(6) getting(7) quality(8) usually(9) reserved(10) for(11) high(12) end(13) monitor(14) earphones(15) .(16) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) truly(3) state(4) of(5) the(6) art.(7) Look(8) at(9) the(10) shure(11) .(12) com(13) and(14) read(15) all(16) the(17) awards(18) that(19) these(20) have(21) gathered(22) .(23) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4,5,6,7" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) triple(2) driver(3) design(4) includes(5) ,(6) 2(7) ,(8) yes(9) 2(10) woofers(11) and(12) a(13) tweeter(14) deliver(15) smooth(16) even(17) response(18) across(19) the(20) entire(21) frequency(22) spectrum(23) .(24) 
+			<opinion polarity="+" feature="frequency response" featWords="18" opWords="16"/>
+			<opinion polarity="+" feature="frequency response" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) rated(3) 18Hz(4) to(5) 19kHz(6) and(7) the(8) enclosed(9) ear(10) pieces(11) do(12) a(13) great(14) job(15) of(16) stopping(17) sound(18) .(19) 
+			<opinion polarity="+" feature="earbuds" featWords="10,11" opWords="12,13,14,15"/>
+		</sentence>
+		<sentence id="4">
+			The(1) yellow(2) foam(3) ones(4) have(5) a(6) noise(7) reduction(8) rating(9) of(10) about(11) 29dB(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Nothing(1) elso(2) comes(3) close(4) to(5) stopping(6) that(7) noise(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			And(1) it(2) does(3) it(4) with(5) no(6) additional(7) electronic(8) noise(9) added(10) in(11) like(12) noise(13) cancelling(14) headphones(15) introduce(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) friends(3) in(4) the(5) music(6) industry(7) and(8) both(9) are(10) musicians(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			One(1) has(2) already(3) gone(4) out(5) and(6) bought(7) these(8) to(9) monitor(10) his(11) music(12) with(13) as(14) felt(15) they(16) were(17) better(18) then(19) the(20) Sennheiser(21) headphones(22) he(23) was(24) using(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			So(1) ,(2) bottom(3) line(4) ,(5) clear(6) sound(7) ,(8) great(9) noise(10) stopping(11) ability(12) ,(13) small(14) to(15) carry(16) makes(17) these(18) really(19) the(20) ones(21) to(22) shoot(23) for(24) .(25) 
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="isolation" featWords="10,11" opWords="9"/>
+			<opinion polarity="+" feature="portability" opWords="14"/>
+		</sentence>
+		<sentence id="10">
+			Professional(1) grade(2) monitors(3) at(4) a(5) seme-affordable(6) price(7) .(8) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			Buy(1) them(2) as_soon_as_possible(3) so(4) you(5) can(6) enjoy(7) them(8) for(9) a(10) long(11) time(12) to(13) come(14) .(15) 
+		</sentence>
+	</text>
+</review>

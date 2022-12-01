@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="882" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			If(1) You_Can(2) not(3) Afford_the_Lincoln_Bedroom(4) ....(5) The_Hay-Adams(6) ,(7) Washington(8) ,(9) D.C.(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Historic(1) hotel(2) across(3) from(4) the(5) best(6) address(7) in(8) town(9) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) cost(2) can(3) be(4) prohibitive(5) if(6) you(7) do(8) not(9) get(10) a(11) discount(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			One(1) of(2) the(3) best(4) locations(5) in(6) town(7) ,(8) handsome(9) public(10) rooms(11) and(12) well(13) maintained(14) rooms(15) all(16) add(17) up(18) to(19) a(20) positive(21) experience(22) .(23) 
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			Service(1) can(2) not(3) be(4) faulted(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Hay-Adams(2) sits(3) on(4) some(5) of(6) the(7) best(8) real-estate(9) in(10) Washington(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Built(1) on(2) the(3) site(4) of(5) the(6) mansion(7) of(8) John_Hay(9) ,(10) it(11) is(12) directly(13) across(14) from(15) the(16) White_House(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Lobby_The(1) lobby(2) manages(3) that(4) delicate(5) balance(6) between(7) being(8) grand(9) and(10) imposing(11) ,(12) yet(13) warm(14) and(15) intimate(16) at(17) the(18) same(19) time(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Mellow(1) wood(2) paneling(3) ,(4) nice(5) Federal(6) pieces(7) here(8) and(9) there(10) and(11) an(12) elaborate(13) Gothic(14) plaster(15) ceiling(16) all(17) create(18) a(19) unique(20) lobby(21) .(22) 
+			<opinion polarity="+" feature="lobby" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="5">
+			Fortunately(1) ,(2) the(3) damage(4) done(5) to(6) the(7) lobby(8) in(9) the(10) early(11) 80(12) 's(13) has(14) been(15) erased(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			This(1) hotel(2) has(3) had(4) many(5) ,(6) many(7) owners(8) in(9) its(10) long(11) history(12) ,(13) and(14) quite(15) a(16) few(17) of(18) them(19) did(20) not(21) realize(22) the(23) gem(24) they(25) had(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Their(1) ugly(2) attempts(3) at(4) remodeling(5) have(6) been(7) swept(8) away(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) lobby(2) feels(3) like(4) a(5) private(6) club(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Dining(1) One(2) of(3) Washington(4) 's(5) most(6) notable(7) "(8) power(9) "(10) dining(11) spots(12) is(13) the(14) sunny(15) and(16) cheerful(17) Lafayette_Room(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Breakfast(1) here(2) is(3) a(4) tradition(5) among(6) the(7) movers(8) and(9) shakers(10) of(11) Washington(12) 's(13) power(14) elite(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) nothing(3) to(4) complain(5) about(6) on(7) the(8) menu(9) except(10) the(11) prices(12) ,(13) which(14) are(15) very(16) steep(17) indeed(18) .(19) 
+			<opinion polarity="-" feature="price" featWords="12" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="12">
+			I(1) can(2) not(3) report(4) first-hand(5) on(6) other(7) meals(8) here(9) ,(10) but(11) I(12) have(13) never(14) heard(15) complaints(16) from(17) anyone(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) "(2) Off(3) the(4) Record(5) "(6) bar(7) is(8) downstairs(9) ,(10) and(11) is(12) just(13) what(14) it(15) should(16) be-a(17) crowded(18) ,(19) smoky(20) ((21) but(22) handsome(23) )(24) ,(25) dark(26) room(27) crammed(28) full(29) of(30) politicians(31) and(32) their(33) parasites(34) .(35) 
+			<opinion polarity="-" feature="rooms" featWords="27" opWords="28"/>
+			<opinion polarity="-" feature="rooms" featWords="27" opWords="26"/>
+		</sentence>
+		<sentence id="14">
+			They(1) have(2) one(3) of(4) the(5) best(6) Scotch(7) lists(8) in(9) D.C.(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			Good(1) champagne(2) selection(3) too(4) ,(5) but(6) the(7) prices(8) for(9) the(10) good(11) bottles(12) will(13) not(14) have(15) you(16) celebrating(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Rooms(1) and(2) Suites_We(3) had(4) a(5) suite(6) without(7) a(8) view(9) ,(10) unless(11) you(12) enjoy(13) brick(14) walls(15) and(16) air(17) conditioning(18) ducts(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) partly(3) our(4) fault(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			We(1) were(2) offered(3) a(4) room(5) with(6) a(7) head-on(8) view(9) of(10) the(11) White_House(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Being(1) a(2) fool(3) for(4) extra(5) space(6) ,(7) I(8) opted(9) for(10) the(11) larger(12) ((13) junior(14) )(15) suite(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			The(1) furniture(2) was(3) fairly(4) standard-nice(5) reproduction(6) Georgian(7) pieces(8) appropriate(9) to(10) the(11) setting(12) .(13) 
+			<opinion polarity="+" feature="furnishings" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) do(3) not(4) like(5) chintz(6) ,(7) stay(8) elsewhere(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			If(1) Mario_Buatta(2) ((3) the(4) "(5) Prince_of_Chintz(6) "(7) )(8) had(9) nothing(10) to(11) do(12) with(13) the(14) design(15) here(16) ,(17) I(18) would(19) be(20) surprised(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			The(1) bath(2) was(3) Lilliputian(4) in(5) scale(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			I(1) know(2) that(3) this(4) is(5) an(6) older(7) building(8) ,(9) but(10) they(11) really(12) might(13) have(14) done(15) something(16) with(17) the(18) bathrooms(19) to(20) make(21) them(22) larger(23) .(24) 
+		</sentence>
+		<sentence id="25">
+			The(1) towels(2) and(3) other(4) amenities(5) are(6) of(7) superior(8) quality(9) ,(10) and(11) the(12) bath(13) was(14) immaculate(15) .(16) 
+			<opinion polarity="+" feature="tub" featWords="13" opWords="15"/>
+		</sentence>
+		<sentence id="26">
+			It(1) was(2) merely(3) very(4) old(5) .(6) 
+		</sentence>
+		<sentence id="27">
+			Usually(1) ,(2) I(3) am(4) very(5) tolerant(6) of(7) old(8) fixtures-especially(9) in(10) historic(11) buildings(12) .(13) 
+			<opinion polarity="+" feature="building" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="28">
+			However(1) ,(2) when(3) one(4) is(5) paying(6) "(7) rack(8) rate(9) "(10) ((11) we(12) were(13) not(14) )(15) ,(16) I(17) could(18) easily(19) see(20) purple(21) faces(22) at(23) the(24) Front_Desk(25) about(26) this(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			Standard(1) rooms(2) vary(3) in(4) size(5) considerably(6) .(7) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="30">
+			The(1) ones(2) facing(3) 16th(4) Street(5) and(6) Pennsylvania_Avenue(7) are(8) mostly(9) large(10) ,(11) while(12) those(13) in(14) the(15) back(16) are(17) usually(18) small(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			The(1) corner(2) suites(3) overlooking(4) St(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			John_'s_Church(1) and(2) the(3) White_House(4) are(5) the(6) most(7) coveted(8) .(9) 
+		</sentence>
+		<sentence id="33">
+			Room_Service_We(1) ordered(2) room(3) service(4) on(5) evening(6) after(7) tramping(8) all(9) over(10) the(11) White_House(12) and(13) the(14) Capitol(15) building(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			Going(1) downstairs(2) was(3) too(4) much(5) of(6) an(7) ordeal(8) .(9) 
+		</sentence>
+		<sentence id="35">
+			The(1) cart(2) arrived(3) at(4) exactly(5) thirty(6) minutes(7) on(8) the(9) dot(10) and(11) was(12) set(13) up(14) promptly(15) .(16) 
+		</sentence>
+		<sentence id="36">
+			No(1) nasty(2) little(3) plastic(4) trays(5) here(6) ,(7) or(8) those(9) ugly(10) steel(11) room(12) service(13) covers(14) with(15) the(16) hole(17) in(18) the(19) middle(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			The(1) soup(2) was(3) served(4) for(5) us(6) ,(7) and(8) the(9) dishes(10) for(11) the(12) next(13) course(14) were(15) placed(16) below(17) on(18) a(19) warming(20) tray(21) .(22) 
+		</sentence>
+		<sentence id="38">
+			Very(1) well(2) done(3) .(4) 
+		</sentence>
+		<sentence id="39">
+			The(1) food(2) was(3) also(4) quite(5) good(6) ,(7) coming(8) as(9) it(10) did(11) from(12) the(13) same(14) kitchen(15) as(16) the(17) Lafayette_Room(18) .(19) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="40">
+			Concierge_The(1) concierge(2) staff(3) is(4) very(5) professional(6) .(7) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="41">
+			Ask(1) them(2) almost(3) anything(4) and(5) they(6) will(7) have(8) an(9) answer(10) promptly(11) .(12) 
+		</sentence>
+		<sentence id="42">
+			They(1) also(2) volunteered(3) to(4) deliver(5) a(6) gift(7) to(8) a(9) friend(10) in(11) one(12) of(13) the(14) White_House(15) offices(16) for(17) us-excellent(18) service(19) .(20) 
+		</sentence>
+		<sentence id="43">
+			General_I(1) have(2) known(3) some(4) people(5) who(6) have(7) worked(8) here(9) ,(10) and(11) many(12) of(13) them(14) displayed(15) the(16) arrogance(17) one(18) sometimes(19) finds(20) in(21) expensive(22) hotels(23) .(24) 
+			<opinion polarity="-" feature="price" opWords="22"/>
+		</sentence>
+		<sentence id="44">
+			I(1) am(2) pleased(3) to(4) report(5) both(6) that(7) those(8) I(9) knew(10) who(11) were(12) this(13) way(14) no_longer(15) work(16) there(17) ,(18) and(19) that(20) my(21) own(22) experience(23) here(24) was(25) only(26) that(27) of(28) engaging(29) and(30) pleasant(31) staff(32) .(33) 
+			<opinion polarity="+" feature="staff" featWords="32" opWords="29"/>
+			<opinion polarity="+" feature="staff" featWords="32" opWords="31"/>
+		</sentence>
+	</text>
+</review>

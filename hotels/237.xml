@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="237" item="Royal Kona Resort" rating="2">
+	<title>
+		<sentence id="1">
+			Great(1) location(2) ,(3) but(4) an(5) older(6) resort(7) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) beautiful(4) ocean(5) views(6) ,(7) terrific(8) pool(9) area(10) .(11) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="view" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) hotel(2) in(3) need(4) of(5) remodeling(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Only(1) the(2) most(3) expensive(4) rooms(5) are(6) recommended(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) hotel(2) for(3) the(4) family(5) if(6) you(7) want(8) a(9) clean(10) bed(11) and(12) an(13) oceanview(14) at(15) an(16) affordable(17) price(18) .(19) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bed" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="price" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) recommended(2) if(3) you(4) spend(5) a_lot_of(6) time(7) in(8) your(9) room(10) !(11) 
+			<opinion polarity="-" feature="hotel" opWords="1,2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Royal_Kona_Resort(5) in(6) March_2003(7) ,(8) two(9) adults(10) and(11) two(12) children(13) ((14) 9(15) and(16) 11(17) )(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) Royal_Kona(2) was(3) one(4) of(5) a(6) few(7) resorts(8) in(9) our(10) mid(11) -(12) to(13) high-end(14) price(15) range(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			We(1) chose(2) it(3) because(4) we(5) could(6) afford(7) a(8) luxury(9) oceanview(10) room(11) there(12) ,(13) where(14) at(15) other(16) resorts(17) we(18) 'd(19) have(20) to(21) settle(22) for(23) less(24) .(25) 
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			Our(1) large(2) room(3) overlooked(4) the(5) ocean(6) with(7) a(8) beautiful(9) view(10) that(11) was(12) well(13) worth(14) the(15) price(16) itself(17) .(18) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="view" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			The(1) room(2) had(3) two(4) double(5) beds(6) ,(7) a(8) small(9) table(10) with(11) two(12) chairs(13) ,(14) an(15) older(16) sofa(17) ,(18) an(19) entertainment(20) center(21) with(22) matching(23) chest(24) of(25) drawers(26) ,(27) a(28) small(29) bathroom(30) ,(31) a(32) roomy(33) closet(34) ,(35) and(36) a(37) large(38) lanai(39) .(40) 
+			<opinion polarity="-" feature="bathroom" featWords="30" opWords="29"/>
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) location(3) was(4) terrific(5) ,(6) just(7) a(8) short(9) walk(10) to(11) shops(12) and(13) restaurants(14) in(15) Kailua_Kona(16) and(17) a(18) reasonable(19) distance(20) between(21) the(22) northern(23) mountains(24) and(25) the(26) southern(27) volcano(28) .(29) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			Parking(1) was(2) ample(3) ,(4) except(5) when(6) the(7) hotel(8) luau(9) was(10) in(11) progress(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) service(2) was(3) good(4) and(5) the(6) staff(7) friendly(8) .(9) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="staff" featWords="7" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			I(1) strongly(2) recommend(3) talking(4) to(5) the(6) staff(7) at(8) the(9) concierge(10) desk(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			They(1) recommended(2) several(3) great(4) family(5) activities(6) for(7) us(8) ,(9) including(10) snorkeling(11) in(12) the(13) bay(14) and(15) horseback(16) riding(17) on(18) the(19) north(20) end(21) of(22) the(23) island(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			They(1) made(2) all(3) the(4) arrangements(5) for(6) us(7) and(8) we(9) were(10) never(11) disappointed(12) with(13) their(14) suggestions(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			My(1) only(2) disappointment(3) was(4) with(5) the(6) quality(7) of(8) the(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			It(1) 's(2) very(3) hard(4) from(5) online(6) reviews(7) and(8) brochures(9) to(10) get(11) a(12) good(13) understanding(14) of(15) the(16) quality(17) of(18) any(19) hotel(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			I(1) had(2) read(3) several(4) reviews(5) ,(6) including(7) one(8) from(9) Fodor(10) 's(11) in_2003(12) that(13) I(14) thought(15) I(16) could(17) trust(18) ,(19) that(20) said(21) the(22) hotel(23) had(24) "(25) recently(26) "(27) been(28) updated(29) .(30) 
+			<opinion polarity="+" feature="hotel" featWords="23" opWords="29"/>
+		</sentence>
+		<sentence id="15">
+			If(1) that(2) 's(3) the(4) case(5) ,(6) I(7) never(8) saw(9) the(10) updates(11) and(12) we(13) were(14) there(15) for(16) five(17) nights(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			The(1) last(2) update(3) this(4) hotel(5) saw(6) was(7) sometime(8) in(9) the(10) 1980s(11) --(12) maybe(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) entire(2) hotel(3) is(4) older(5) ,(6) very(7) worn(8) ,(9) and(10) in(11) need(12) of(13) a(14) good(15) remodeling(16) job(17) .(18) 
+			<opinion polarity="-" feature="hotel" featWords="3" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="18">
+			The(1) carpeting(2) is(3) old(4) and(5) seafoam(6) in(7) color(8) .(9) 
+			<opinion polarity="-" feature="carpets" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) furniture(2) is(3) functional(4) ,(5) but(6) rather(7) banged-up(8) .(9) 
+			<opinion polarity="+" feature="furnishings" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="furnishings" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="20">
+			The(1) small(2) bathroom(3) smelled(4) of(5) cigarette(6) smoke(7) ,(8) had(9) a(10) seven_foot(11) ceiling(12) ((13) maybe(14) less(15) )(16) ,(17) peeling(18) wallpaper(19) ,(20) and(21) hints(22) of(23) mold(24) around(25) the(26) vent(27) and(28) fixtures(29) .(30) 
+			<opinion polarity="-" feature="bathroom" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="walls" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="21">
+			We(1) paid(2) about(3) $250(4) per(5) night(6) for(7) the(8) room(9) ,(10) but(11) it(12) was(13) obviously(14) just(15) for(16) the(17) view(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			As(1) another(2) reviewer(3) wrote(4) ,(5) there(6) is(7) a(8) coffemaker(9) in(10) the(11) room(12) ,(13) but(14) they(15) 'll(16) charge(17) you(18) several(19) dollars(20) per(21) pot(22) to(23) use(24) it(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			That(1) said(2) ,(3) the(4) place(5) was(6) not(7) much(8) worse(9) than(10) many(11) other(12) seaside(13) town(14) hotels(15) I(16) 've(17) been(18) to(19) in(20) Seattle(21) ,(22) New_York(23) or(24) Miami(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			They(1) all(2) seem(3) to(4) take(5) a_lot_of(6) wear(7) and(8) tear(9) from(10) the(11) constant(12) humidity(13) and(14) saltwater(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			This(1) one(2) was(3) fairly(4) clean(5) ,(6) but(7) I(8) really(9) was(10) hoping(11) for(12) more(13) considering(14) this(15) was(16) one(17) of(18) their(19) best(20) rooms(21) .(22) 
+		</sentence>
+		<sentence id="26">
+			In(1) the(2) Midwest(3) ,(4) this(5) was(6) the(7) type(8) of(9) room(10) you(11) 'd(12) expect(13) at(14) a(15) Super(16) 8(17) in(18) Chicago(19) or(20) an(21) average(22) room(23) in(24) the(25) Wisconsin_Dells(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			Not(1) bad(2) ,(3) but(4) are(5) they(6) worth(7) $200(8) per(9) night(10) because(11) they(12) overlook(13) the(14) ocean(15) ?(16) 
+		</sentence>
+		<sentence id="28">
+			This(1) was(2) my(3) first(4) trip(5) to(6) Hawaii(7) ,(8) so(9) yes(10) ,(11) it(12) was(13) worth(14) the(15) cost(16) just(17) for(18) the(19) view(20) and(21) a(22) clean(23) bed(24) to(25) sleep(26) in(27) at(28) night(29) .(30) 
+			<opinion polarity="+" feature="bed" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="29">
+			The(1) pool(2) area(3) was(4) very(5) nice(6) ,(7) clean(8) and(9) relaxing(10) .(11) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="place" featWords="3" opWords="8"/>
+			<opinion polarity="+" feature="place" featWords="3" opWords="10"/>
+		</sentence>
+		<sentence id="30">
+			The(1) kids(2) played(3) in(4) the(5) pool(6) while(7) we(8) sipped(9) drinks(10) and(11) looked(12) out(13) over(14) the(15) ocean(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			Next(1) to(2) the(3) pool(4) area(5) is(6) the(7) bar(8) and(9) restaurant(10) ,(11) which(12) are(13) both(14) open-air(15) and(16) also(17) overlook(18) the(19) ocean(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			The(1) breakfast(2) brunch(3) had(4) a(5) good(6) selection(7) and(8) a(9) very(10) reasonable(11) price(12) .(13) 
+			<opinion polarity="+" feature="price" featWords="12" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="33">
+			Overall(1) ,(2) if(3) you(4) want(5) an(6) okay(7) hotel(8) with(9) a(10) great(11) location(12) and(13) a(14) terrific(15) view(16) ,(17) the(18) Royal_Kona(19) is(20) certainly(21) worth(22) considering(23) --(24) but(25) only(26) if(27) you(28) pay(29) for(30) one(31) of(32) the(33) nicer(34) rooms(35) with(36) a(37) view(38) .(39) 
+			<opinion polarity="+" feature="hotel" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="place" featWords="12" opWords="11"/>
+			<opinion polarity="+" feature="view" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="34">
+			If(1) you(2) 're(3) expecting(4) a(5) modern(6) hotel(7) with(8) a(9) moderately-priced(10) hotel(11) room(12) quality(13) like(14) a(15) Radisson(16) or(17) Hilton(18) ,(19) you(20) 'd(21) better(22) look(23) somewhere(24) else(25) .(26) ((27) Based(28) on(29) the(30) Royal_Kona(31) ,(32) I(33) doubt(34) you(35) could(36) find(37) such(38) a(39) room(40) in(41) this(42) area(43) for(44) under(45) $300(46) per(47) night(48) --(49) more(50) if(51) you(52) want(53) an(54) oceanview(55) with(56) it(57) .(58) )(59) 
+		</sentence>
+	</text>
+</review>

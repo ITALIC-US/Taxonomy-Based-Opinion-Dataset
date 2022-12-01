@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="333" item="Sennheiser HD 25 SP Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Overall(1) ,(2) a(3) pain(4) in(5) the(6) butt(7) to(8) use(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lightweight(1) ,(2) long(3) cord(4) ,(5) replaceable(6) parts(7) 
+			<opinion polarity="+" feature="weight" opWords="1"/>
+			<opinion polarity="+" feature="cord" featWords="4" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Flimsy(1) feel(2) ,(3) bottom-heavy(4) 
+			<opinion polarity="-" feature="comfort" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			These(1) headphones(2) may(3) be(4) a(5) pretty(6) decent(7) choice(8) as(9) a_second(10) pair(11) ,(12) especially(13) for(14) travel(15) ,(16) but(17) not(18) as(19) your(20) main(21) headphones(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			Too(1) many(2) negatives(3) for(4) the(5) price(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) best(2) feature(3) about(4) these(5) headphones(6) is(7) that(8) it(9) 's(10) very(11) lightweight(12) and(13) the(14) material(15) its(16) made(17) of(18) ,(19) including(20) the(21) cord(22) ,(23) appears(24) to(25) be(26) indestructible(27) .(28) 
+			<opinion polarity="+" feature="weight" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="cord" featWords="22" opWords="27"/>
+		</sentence>
+		<sentence id="2">
+			The(1) headphones(2) produces(3) a(4) full(5) bottom(6) but(7) it(8) 's(9) a(10) little(11) too(12) boomy(13) for(14) my(15) taste(16) and(17) the(18) mids(19) stand(20) out(21) a(22) little(23) too(24) much(25) as_well(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			The(1) modular(2) construction(3) is(4) a(5) nice(6) feature(7) but(8) unfortunately(9) it(10) also(11) gives(12) the(13) headphones(14) a(15) really(16) flimsy(17) feel(18) .(19) 
+			<opinion polarity="+" feature="durability" featWords="3" opWords="6"/>
+			<opinion polarity="-" feature="comfort" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="4">
+			The(1) earphones(2) pivots(3) around(4) the(5) headband(6) 360(7) degrees(8) which(9) can(10) be(11) really(12) annoying(13) if(14) you(15) have(16) to(17) have(18) to(19) pull(20) them(21) off(22) your(23) head(24) off(25) and(26) on(27) frequently(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			What(1) I(2) find(3) most(4) annoying(5) is(6) the(7) cord(8) design(9) and(10) the(11) cord(12) itself(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) split-Y(2) design(3) ((4) a(5) separate(6) left(7) and(8) right(9) channel(10) wire(11) )(12) at(13) times(14) can(15) feel(16) like(17) a(18) noose(19) around(20) your(21) neck(22) especially(23) when(24) it(25) gets(26) tangled(27) up(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			Also(1) the(2) tension(3) of(4) the(5) plastic(6) band(7) is(8) tight(9) and(10) the(11) headphones(12) feels(13) uncomfortable(14) around(15) your(16) ears(17) after(18) an(19) hour(20) or(21) so(22) .(23) 
+			<opinion polarity="-" feature="comfort" opWords="14"/>
+		</sentence>
+		<sentence id="8">
+			Even(1) more(2) annoying(3) is(4) the(5) noise(6) from(7) the(8) cord(9) from(10) rubbing(11) against(12) your(13) skin(14) or(15) clothes(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) never(2) experienced(3) this(4) problem(5) with(6) headphones(7) in(8) this(9) class(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			It(1) becomes(2) really(3) bothersome(4) during(5) soft(6) music(7) or(8) working(9) or(10) moving(11) about(12) when(13) the(14) music(15) is(16) shut(17) off(18) temporarily(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			These(1) headphones(2) may(3) be(4) a(5) pretty(6) decent(7) choice(8) as(9) a_second(10) pair(11) ,(12) especially(13) for(14) travel(15) ,(16) but(17) not(18) as(19) your(20) main(21) headphones(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			Too(1) many(2) negatives(3) for(4) the(5) price(6) .(7) 
+		</sentence>
+	</text>
+</review>

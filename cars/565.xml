@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="565" item="2005 Hummer H2" rating="1">
+	<title>
+		<sentence id="1">
+			My(1) $42,000(2) Dollar_Lemon(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Eye-catching(1) ,(2) safe(3) ,(4) Onstar(5) comes(6) with(7) it(8) free(9) for(10) a(11) year(12) if(13) brand(14) new(15) .(16) 
+			<opinion polarity="+" feature="safety" opWords="3"/>
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) mileage(2) is(3) extremely(4) poor(5) .(6) 
+			<opinion polarity="-" feature="gas" featWords="1,2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			Lots(1) of(2) problems(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Insurance(1) premiums(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bottom(1) line(2) is(3) that(4) this(5) has(6) been(7) one(8) expensive(9) toy(10) with(11) a_hundred(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Do(1) not(2) Buy_A_Hummer(3) !(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Truck(2) :(3) I(4) bought(5) a(6) 2005(7) Hummer(8) H2(9) in(10) Early(11) 2006(12) with(13) 5200_miles(14) on(15) it(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) still(2) smelled(3) new(4) !(5) 
+		</sentence>
+		<sentence id="3">
+			My(1) H2(2) is(3) the(4) full(5) SUV(6) version(7) as(8) I(9) have(10) 4(11) kids(12) and(13) the(14) SUT(15) would(16) have(17) been(18) impractical(19) .(20) 
+			<opinion polarity="-" feature="car" opWords="19"/>
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) several(3) eye(4) catching(5) colors(6) to(7) choose(8) from(9) like(10) their(11) bright(12) yellow(13) .(14) 
+			<opinion polarity="+" feature="color" featWords="6" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			My(1) H2(2) is(3) the(4) pewter(5) color(6) which(7) my(8) wife(9) and(10) I(11) feel(12) looks(13) more(14) sophisticated(15) than(16) the(17) rest(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Upgrades(1) when(2) I(3) bought(4) it(5) :(6) When(7) I(8) purchased(9) my(10) Hummer(11) it(12) had(13) a(14) powder(15) coated(16) grille(17) guard(18) and(19) rear(20) tail(21) light(22) guards(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			The(1) spare(2) tire(3) was(4) mounted(5) on(6) the(7) outside(8) and(9) on(10) the(11) back(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			First_Impressions(1) :(2) At(3) first(4) I(5) was(6) riding(7) high(8) in(9) my(10) big(11) bad(12) Hummer(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			I(1) can(2) remember(3) being(4) passed(5) in(6) Scottsdale(7) ,(8) AZ(9) one(10) day(11) by(12) a(13) candy(14) apple(15) red(16) Ferrari(17) and(18) feeling(19) superior(20) to(21) this(22) guy(23) because(24) I(25) could(26) go(27) OVER(28) more(29) things(30) than(31) he(32) could(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) eye(3) catching(4) and(5) to(6) make(7) that(8) part(9) worse(10) we(11) put(12) a(13) wrap(14) on(15) it(16) .(17) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="11">
+			It(1) seems(2) that(3) this(4) is(5) now(6) the(7) thing(8) to(9) do(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Go(1) out(2) buy(3) a(4) Hummer(5) and(6) wrap(7) it(8) with(9) your(10) logo(11) !(12) 
+		</sentence>
+		<sentence id="13">
+			Why(1) ?(2) because(3) it(4) is(5) a(6) great(7) tax(8) right-off(9) of(10) course(11) !(12) 
+		</sentence>
+		<sentence id="14">
+			When(1) we(2) bought(3) one(4) we(5) decided(6) that(7) the(8) spare(9) tire(10) must(11) be(12) mounted(13) on(14) the(15) back(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			The(1) reason(2) for(3) this(4) is(5) that(6) the(7) standard(8) location(9) for(10) the(11) tire(12) is(13) right(14) next(15) to(16) the(17) rear(18) passenger(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			THis(1) great(2) big(3) 35in(4) tire(5) in(6) your(7) face(8) to(9) entire(10) time(11) you(12) are(13) riding(14) in(15) the(16) vehicle(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			What(1) happens(2) when(3) you(4) need(5) to(6) change(7) your(8) tire(9) in(10) the(11) mud(12) ?(13) 
+		</sentence>
+		<sentence id="18">
+			The(1) dirty(2) ,(3) muddy(4) tire(5) needs(6) to(7) come(8) inside(9) and(10) sit(11) right(12) next(13) to(14) that(15) rear(16) passenger(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			Early_Problems(1) :(2) Not(3) long(4) after(5) we(6) bought(7) our(8) Hummer(9) we(10) began(11) to(12) experience(13) problems(14) with(15) our(16) Hummer(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			The(1) transfer(2) case(3) leaked(4) fluids(5) which(6) required(7) a(8) trip(9) to(10) our(11) local(12) Hummer_Dealer(13) to(14) fix(15) it(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			This(1) problem(2) reoccurred(3) another(4) time(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			Not(1) long(2) after(3) that(4) I(5) was(6) pulling(7) into(8) a(9) McDonalds(10) parking(11) lot(12) and(13) the(14) steering(15) just(16) completely(17) gave(18) out(19) on(20) me(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			I(1) nearly(2) smashed(3) into(4) a(5) wall(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			And(1) ther(2) we(3) were(4) back(5) at(6) the(7) dealer(8) again(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			This(1) steering(2) problem(3) was(4) supposedly(5) fixed(6) but(7) it(8) too(9) happened(10) again(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			Then(1) there(2) was(3) the(4) undercarriage(5) coating(6) that(7) just(8) fell(9) off(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			I(1) called(2) my(3) Service(4) coordinator(5) at(6) Hummer(7) ((8) by(9) now(10) we(11) were(12) on(13) a(14) first(15) name(16) basis(17) and(18) I(19) had(20) him(21) on(22) speed(23) dial(24) )(25) Luckily(26) they(27) recoated(28) it(29) at(30) no(31) charge(32) .(33) 
+		</sentence>
+		<sentence id="28">
+			Lemon_Law(1) :(2) The(3) lemon(4) law(5) clearly(6) states(7) that(8) for(9) something(10) to(11) be(12) considered(13) a(14) lemon(15) it(16) had(17) to(18) have(19) the(20) same(21) problems(22) more(23) than(24) three_times(25) .(26) 
+		</sentence>
+		<sentence id="29">
+			Unfortunately(1) everything(2) is(3) happening(4) in(5) pairs(6) with(7) us(8) .(9) 
+		</sentence>
+		<sentence id="30">
+			I(1) did(2) not(3) give(4) up(5) though(6) and(7) I(8) spent(9) days(10) on(11) the(12) phone(13) with(14) Hummer(15) ,(16) GM(17) ,(18) my(19) dealer(20) and(21) anybody(22) else(23) that(24) would(25) listen(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) finally(3) agreed(4) that(5) Hummer(6) would(7) give(8) me(9) an(10) extended(11) Bumper(12) to(13) Bumper(14) warranty(15) until(16) 75000_miles(17) at(18) no(19) charge(20) to(21) me(22) .(23) 
+		</sentence>
+		<sentence id="32">
+			Well(1) that(2) pacified(3) me(4) but(5) I(6) still(7) wish(8) I(9) could(10) get(11) rid(12) of(13) it(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			More(1) Problems(2) :(3) Since(4) we(5) got(6) the(7) new(8) warranty(9) everything(10) seems(11) to(12) be(13) falling(14) apart(15) .(16) 
+		</sentence>
+		<sentence id="34">
+			I(1) have(2) had(3) the(4) Bose(5) multi-disc(6) CD(7) player(8) /(9) XM_Radio(10) combo(11) replaced(12) twice(13) now(14) for(15) not(16) reading(17) CD(18) 's(19) .(20) 
+		</sentence>
+		<sentence id="35">
+			I(1) have(2) had(3) the(4) rear(5) tail(6) lightassembly(7) on(8) the(9) driver(10) 's(11) side(12) replaced(13) because_of(14) a(15) short(16) circuit(17) problem(18) .(19) 
+		</sentence>
+		<sentence id="36">
+			I(1) have(2) three(3) or(4) four(5) recalls(6) on(7) various(8) instrument(9) and(10) computer(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="37">
+			I(1) have(2) had(3) the(4) tacometer(5) replaced(6) for(7) sticking(8) at(9) about(10) 6000(11) RPM(12) 's(13) .(14) 
+		</sentence>
+		<sentence id="38">
+			Ever(1) since(2) I(3) bought(4) it(5) I(6) have(7) complained(8) about(9) a(10) rattle(11) at(12) highway(13) speeds(14) that(15) really(16) distracts(17) me(18) from(19) driving(20) .(21) 
+		</sentence>
+		<sentence id="39">
+			I(1) have(2) told(3) the(4) dealer(5) about(6) and(7) even(8) tried(9) to(10) fix(11) it(12) myself(13) to(14) no(15) avail(16) .(17) 
+		</sentence>
+		<sentence id="40">
+			Currently(1) :(2) It(3) sits(4) !(5) 
+		</sentence>
+		<sentence id="41">
+			I(1) have(2) not(3) even(4) bothered(5) to(6) renew(7) my(8) registration(9) on(10) it(11) because(12) we(13) just(14) do(15) not(16) drive(17) it(18) anymore(19) .(20) 
+		</sentence>
+		<sentence id="42">
+			The(1) price(2) of(3) gas(4) these(5) days(6) and(7) our(8) wonderful(9) 12_miles(10) to(11) a_gallon(12) going(13) downhill(14) with(15) a(16) tail(17) wind(18) keep(19) us(20) from(21) wanting(22) to(23) drive(24) it(25) more(26) .(27) 
+		</sentence>
+		<sentence id="43">
+			What(1) I(2) like(3) :(4) I(5) have(6) replaced(7) the(8) stock(9) rims(10) with(11) some(12) eye-catching(13) 22in(14) rims(15) and(16) low(17) profile(18) tires(19) .(20) 
+		</sentence>
+		<sentence id="44">
+			This(1) set-up(2) makes(3) the(4) Hummer(5) appear(6) really(7) sweet(8) .(9) 
+		</sentence>
+		<sentence id="45">
+			Accident(1) safety(2) if(3) we(4) were(5) to(6) get(7) into(8) an(9) accident(10) .(11) 
+		</sentence>
+		<sentence id="46">
+			Because(1) it(2) is(3) Hummer(4) and(5) I(6) bought(7) from(8) Hummer(9) ,(10) I(11) get(12) free(13) rental(14) car(15) reimbursement(16) and(17) detailing(18) every(19) time(20) I(21) come(22) in(23) and(24) drop(25) it(26) off(27) for(28) repairs(29) .(30) 
+		</sentence>
+		<sentence id="47">
+			I(1) have(2) locked(3) myself(4) out(5) of(6) the(7) Hummer(8) twice(9) now(10) and(11) both(12) times(13) all(14) it(15) took(16) was(17) a(18) phone(19) call(20) and(21) voila(22) the(23) locks(24) were(25) unlocked(26) via(27) satellite(28) .(29) 
+		</sentence>
+		<sentence id="48">
+			Things_I(1) do(2) not(3) like(4) :(5) It(6) is(7) a(8) very(9) expensive(10) pile(11) of(12) Junk(13) that(14) happens(15) to(16) look(17) good(18) at(19) the(20) same(21) time(22) .(23) the(24) Gas(25) mileage(26) is(27) poor(28) at(29) best(30) .(31) 
+			<opinion polarity="-" feature="gas" featWords="25,26" opWords="28"/>
+		</sentence>
+		<sentence id="49">
+			The(1) rear(2) pin(3) to(4) open(5) the(6) tire(7) swing(8) arm(9) gets(10) stuck(11) very(12) easy(13) and(14) it(15) is(16) hard(17) to(18) get(19) it(20) out(21) or(22) put(23) it(24) back(25) in(26) .(27) 
+		</sentence>
+		<sentence id="50">
+			I(1) had(2) a(3) 2005(4) Denali(5) at(6) the(7) same(8) time(9) .(10) 
+		</sentence>
+		<sentence id="51">
+			This(1) is(2) important(3) because(4) they(5) are(6) built(7) off(8) the(9) same(10) chassis(11) as(12) each(13) other(14) .(15) 
+		</sentence>
+		<sentence id="52">
+			They(1) both(2) have(3) identical(4) engines(5) .(6) 
+		</sentence>
+		<sentence id="53">
+			I(1) tow(2) ten_times(3) better(4) in(5) the(6) Denali(7) than(8) in(9) the(10) Hummer(11) .(12) 
+		</sentence>
+		<sentence id="54">
+			It(1) constantly(2) trys(3) to(4) kick(5) into(6) overdrive(7) when(8) climbing(9) hills(10) .(11) 
+		</sentence>
+		<sentence id="55">
+			If(1) I(2) had(3) my(4) way(5) I(6) would(7) never(8) tow(9) with(10) the(11) hummer(12) because(13) it(14) is(15) just(16) too(17) heavy(18) to(19) maintain(20) a_lot_of(21) power(22) .(23) 
+			<opinion polarity="-" feature="weight" opWords="17,18"/>
+		</sentence>
+		<sentence id="56">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 42000.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) Hummer(16) H2(17) 
+		</sentence>
+	</text>
+</review>

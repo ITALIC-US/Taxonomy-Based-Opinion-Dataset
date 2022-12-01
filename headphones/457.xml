@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="457" item="Sony MDR-RF960RK Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Stay(1) away(2) from(3) these(4) ....(5) 
+			<opinion polarity="-" feature="headphones" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) Very(2) comfortable(3) 
+			<opinion polarity="+" feature="comfort" opWords="3" potency="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) Horrible(2) reception(3) -(4) Charging(5) base(6) can(7) be(8) a(9) pain(10) -(11) High(12) price(13) tag(14) 
+			<opinion polarity="-" feature="price" featWords="13" opWords="12"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) after(5) trying(6) them(7) on(8) at(9) the(10) store(11) and(12) thinking(13) they(14) were(15) very(16) comfortable(17) .(18) 
+			<opinion polarity="+" feature="comfort" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) though(2) they(3) were(4) not(5) hooked(6) up(7) to(8) any(9) sound(10) source(11) so_that(12) I(13) could(14) hear(15) the(16) quality(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Not(1) a(2) big(3) fan(4) of(5) Sony_I(6) still(7) figured(8) they(9) could(10) not(11) be(12) that(13) bad(14) and(15) for(16) what(17) I(18) was(19) planning(20) on(21) using(22) them(23) for(24) ((25) listening(26) to(27) music(28) at(29) a(30) low(31) volume(32) while(33) at(34) work(35) )(36) they(37) would(38) at_least(39) be(40) tolerable(41) so(42) I(43) bought(44) them(45) anyway(46) .(47) 
+		</sentence>
+		<sentence id="4">
+			Sadly(1) I(2) was(3) very(4) wrong(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			Only(1) sitting(2) a(3) few(4) feet(5) away(6) from(7) the(8) charging(9) /(10) transmitting(11) base(12) I(13) received(14) a(15) terrible(16) amount(17) of(18) static(19) right(20) from(21) the(22) start(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Almost(1) everytime(2) I(3) would(4) move(5) my(6) head(7) I(8) would(9) also(10) experience(11) a(12) loud(13) hiss(14) or(15) whine(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Occasionally(1) I(2) would(3) even(4) lose(5) the(6) signal(7) entirely(8) and(9) experience(10) an(11) EXTREMELY(12) loud(13) burst(14) of(15) static(16) and(17) would(18) have(19) to(20) hit(21) the(22) tune(23) button(24) in_order_to(25) sync(26) everything(27) back(28) up(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			After(1) trying(2) several(3) different(4) locations(5) for(6) the(7) base(8) I(9) was(10) still(11) very(12) unsatisfied(13) and(14) just(15) returned(16) them(17) .(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="834" item="2004 Nissan Maxima" rating="1">
+	<title>
+		<sentence id="1">
+			My_Third_&_Worst_Maxima(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Car(1) looks(2) nice(3) and(4) is(5) very(6) quick(7) .(8) 
+			<opinion polarity="+" feature="speed" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="design" opWords="2,3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Turning(1) radius(2) of(3) a(4) semi(5) ,(6) erratic(7) acceleration(8) ,(9) and(10) poor(11) traction(12) .(13) 
+			<opinion polarity="-" feature="drive" featWords="12" opWords="11"/>
+			<opinion polarity="-" feature="acceleration" featWords="8" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) previously(2) owned(3) an(4) '(5) 89(6) &(7) '(8) 95(9) Maxima(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			My(1) '(2) 04(3) Maxima(4) looks(5) nice(6) and(7) I(8) receive(9) compliments(10) ,(11) but(12) is(13) has(14) serious(15) flaws(16) :(17) the(18) wheel(19) hub(20) surrounds(21) the(22) wheel(23) causing(24) major(25) problems(26) with(27) snow(28) buildup(29) .(30) 
+			<opinion polarity="+" feature="design" opWords="5,6"/>
+		</sentence>
+		<sentence id="3">
+			Terrible(1) traction(2) in(3) bad(4) weather(5) .(6) 
+			<opinion polarity="-" feature="drive" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Replacing(1) a(2) headlight(3) bulb(4) requires(5) removal(6) of(7) the(8) front(9) tire(10) !(11) 
+		</sentence>
+		<sentence id="5">
+			When(1) I(2) hit(3) my(4) turning(5) signal(6) ,(7) can(8) easily(9) rotate(10) and(11) shutoff(12) the(13) headlights(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			TURNING_RADIUS_IS_WORSE_THAN_ANY_VEHICLE_I_HAVE_EVER_DRIVEN(1) !(2) 
+		</sentence>
+		<sentence id="7">
+			Sound(1) /(2) Noise(3) insulation(4) is(5) very(6) poor(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			The(1) car(2) is(3) very(4) fast(5) and(6) powerful(7) ,(8) but(9) the(10) acceleration(11) is(12) very(13) erratic(14) .(15) 
+			<opinion polarity="-" feature="acceleration" featWords="11" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="horsepower" opWords="7"/>
+			<opinion polarity="+" feature="speed" opWords="5" potency="4"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="377" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Road-warrior_Review(1) ...(2) Bose(3) QC3(4) ,(5) Simply_Superior(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ear(2) pads(3) ,(4) lightweight(5) ,(6) battery(7) is(8) long(9) life(10) and(11) easy(12) recharge(13) ,(14) good(15) ergonomic(16) design(17) 
+			<opinion polarity="+" feature="earpads" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="5"/>
+			<opinion polarity="+" feature="battery" featWords="7" opWords="9,10"/>
+			<opinion polarity="+" feature="battery" featWords="7" opWords="12,13"/>
+			<opinion polarity="+" feature="design" featWords="17" opWords="15"/>
+			<opinion polarity="+" feature="design" featWords="17" opWords="16"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) $(2) $(3) $(4) ,(5) but(6) worth(7) the(8) investment(9) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) need(3) to(4) be(5) wearing(6) these(7) for_good(8) lengths(9) of(10) time(11) and(12) like(13) a(14) lightweight(15) ,(16) comfortable(17) and(18) effective(19) sound(20) ,(21) these(22) are(23) the(24) ones(25) 
+			<opinion polarity="+" feature="weight" opWords="15"/>
+			<opinion polarity="+" feature="comfort" opWords="17"/>
+			<opinion polarity="+" feature="sound quality" featWords="20" opWords="19"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) frequently(2) travel(3) long(4) haul(5) international(6) flights(7) to(8) and(9) from(10) the(11) USA(12) and(13) Asia(14) ,(15) as_well(16) as(17) internal(18) flights(19) in(20) the(21) USA(22) ,(23) and(24) have(25) had(26) experience(27) using(28) the(29) "(30) Noise_Cancelling(31) headphones(32) "(33) in(34) the(35) Boeing(36) 747(37) fit-out(38) ,(39) I(40) have(41) also(42) owned(43) a(44) pair(45) of(46) Sony_Noise(47) cancelling(48) headphones(49) which(50) at(51) the(52) time(53) cost(54) around(55) $100(56) .(57) unfortunately(58) I(59) left(60) my(61) Sonys(62) '(63) on(64) a(65) United_Airlines(66) flight(67) and(68) now(69) someone(70) else(71) has(72) the(73) pleasure(74) of(75) using(76) them(77) ,(78) BUT(79) all(80) things(81) have(82) a(83) silver(84) lining(85) ,(86) I(87) ended(88) up(89) buying(90) a(91) BOSE(92) QC3(93) headphone(94) set(95) and(96) they(97) are(98) simply(99) superior(100) .(101) 
+		</sentence>
+		<sentence id="2">
+			The(1) noise(2) cancelling(3) bandwidth(4) is(5) better(6) ,(7) the(8) ear(9) pads(10) are(11) nice(12) and(13) comfortable(14) and(15) dont(16) numb(17) my(18) ears(19) like(20) the(21) Sony(22) ,(23) the(24) battery(25) pack(26) is(27) a(28) simply(29) plug(30) in(31) and(32) its(33) not(34) a(35) simply(36) AA(37) battery(38) on(39) the(40) over(41) the(42) head(43) part(44) ,(45) or(46) on(47) the(48) plug(49) in(50) lead(51) .(52) 
+			<opinion polarity="+" feature="earpads" featWords="9,10" opWords="12"/>
+			<opinion polarity="+" feature="earpads" featWords="9,10" opWords="14"/>
+		</sentence>
+		<sentence id="3">
+			The(1) battery(2) charger(3) is(4) simple(5) ,(6) elegant(7) and(8) well(9) designed(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) not(3) fault(4) this(5) setup(6) one_bit(7) really(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) case(2) is(3) simple(4) and(5) easy(6) to(7) open(8) and(9) shut(10) ,(11) protecting(12) this(13) expensive(14) bit(15) of(16) kit(17) .(18) 
+			<opinion polarity="+" feature="case" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="case" featWords="2" opWords="6,7,8"/>
+			<opinion polarity="+" feature="case" featWords="2" opWords="6,7,10"/>
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) put(3) my(4) Ipod(5) in(6) the(7) exterior(8) elastic(9) pocket(10) on(11) the(12) storage(13) case(14) and(15) so(16) I(17) have(18) a(19) nice(20) easy(21) package(22) to(23) handle(24) all(25) my(26) stuff(27) with(28) on(29) the(30) plane(31) .(32) 
+		</sentence>
+	</text>
+</review>

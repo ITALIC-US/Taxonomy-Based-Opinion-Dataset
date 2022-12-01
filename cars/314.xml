@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="314" item="2000 Honda Civic" rating="2">
+	<title>
+		<sentence id="1">
+			ai(1) not(2) got(3) what(4) it(5) takes(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) little(2) beginners(3) cars(4) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			do(1) not(2) even(3) try(4) to(5) race(6) a_real(7) sports(8) car(9) or(10) truck(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) friend(2) currently(3) owns(4) a(5) 1989(6) '(7) Honda_Prelude(8) and(9) his(10) dream(11) car(12) is(13) a(14) Honda_Civic_Si(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) not(3) know(4) why(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) understand(2) that(3) they(4) have(5) their(6) little(7) compact(8) car(9) shoot(10) outs(11) ,(12) and(13) I(14) understand(15) why(16) they(17) would(18) want(19) to(20) race(21) OTHER(22) compact(23) cars(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) not(3) know(4) why(5) they(6) want(7) to(8) try(9) to(10) race(11) a(12) Big_Block_Chevy(13) ,(14) like(15) me(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			These(1) guys(2) spend(3) thousands(4) of(5) dollars(6) on(7) mods(8) for(9) their(10) cars(11) and(12) they(13) get(14) 200(15) horsepower(16) out(17) of(18) it(19) ,(20) I(21) do(22) not(23) understand(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			I(1) read(2) in(3) a(4) magazine(5) ,(6) I(7) forget(8) which(9) one(10) ,(11) that(12) they(13) took(14) a(15) 00(16) '(17) Civic_Si(18) and(19) put(20) $8000_dollars(21) in(22) it(23) and(24) got(25) 202(26) horsepower(27) out(28) of(29) it(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			I(1) mean(2) ,(3) mine(4) came(5) w(6) /(7) 240(8) horses(9) and(10) know(11) with(12) no(13) more(14) than(15) $2000(16) in(17) mods(18) ,(19) I(20) am(21) pumping(22) 300(23) horsepower(24) and(25) 480(26) ft(27) .(28) lb(29) of(30) torque(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			I(1) live(2) in(3) a(4) small(5) town(6) and(7) when(8) i(9) go(10) down(11) to(12) Phoenix(13) or(14) Dallas(15) ,(16) all(17) these(18) little(19) rice(20) rockets(21) praying(22) for(23) 200(24) horsepower(25) ,(26) are(27) trying(28) to(29) race(30) me(31) and(32) kick(33) my(34) butt(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			I(1) saw(2) on(3) Horsepower_T._V(4) a(5) rice(6) rocket(7) event(8) with(9) tons(10) of(11) cars(12) there(13) ,(14) and(15) most(16) of(17) them(18) were(19) running(20) low(21) 10(22) 's(23) and(24) high(25) 9(26) 's(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			I(1) thought(2) to(3) myself(4) ,(5) wow(6) ,(7) they(8) are(9) pretty(10) fast(11) ,(12) then(13) at(14) the(15) end(16) of(17) the(18) show(19) ,(20) they(21) were(22) at(23) an(24) 1/8_mile(25) track(26) ,(27) my(28) truck(29) runs(30) that(31) quick(32) stock(33) !(34) 
+			<opinion polarity="+" feature="speed" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="11">
+			Like(1) I(2) always(3) say(4) to(5) these(6) little(7) "(8) golf(9) carts(10) "(11) ,(12) there(13) is(14) no(15) replacement(16) for(17) displacement(18) !(19) 
+		</sentence>
+	</text>
+</review>

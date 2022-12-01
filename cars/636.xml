@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="636" item="2002 Subaru Impreza" rating="1">
+	<title>
+		<sentence id="1">
+			$5300(1) repair(2) bill(3) on(4) 02(5) WRX(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) to(2) drive(3) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			FRAGILE(1) !(2) !(3) !(4) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) had(3) to(4) spend(5) 5300(6) to(7) repair(8) my(9) 02(10) WRX(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Only(1) 62000_miles(2) on(3) it(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			The(1) rod(2) bearings(3) burned(4) out(5) and(6) Subaru(7) will(8) not(9) lend(10) any(11) assistance(12) as(13) my(14) warranty(15) only(16) covers(17) 60,000_miles(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) take(2) good(3) care(4) of(5) and(6) do(7) not(8) drive(9) very(10) hard(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Subaru(1) clearly(2) does(3) not(4) care(5) about(6) their(7) customers(8) at(9) all(10) as(11) it(12) also(13) took(14) them(15) over(16) 6(17) weeks(18) to(19) repair(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) WRX(16) 
+		</sentence>
+	</text>
+</review>

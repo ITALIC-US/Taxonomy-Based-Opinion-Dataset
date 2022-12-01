@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="323" item="Days Inn Miami Airport North" rating="1">
+	<title>
+		<sentence id="1">
+			MIAMI_AIRPORT_NORTH-BAD(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NONE(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			PLEASE(1) ,(2) PLEASE_DO_NOT_STAY_HERE(3) !(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			DO(1) NOT_STAY_HERE(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			IF(1) YOU_HAVE_ANY_TYPE_OF_COMPLAINT(2) ,(3) THE_MANAGER_WILL_NOT_LISTEN_TO_REASON_EVEN_IF_YOU_HAVE_PROOF(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) above(5) Day_'s_Inn(6) 6/24(7) pre-cruise(8) and(9) were(10) supposed(11) to(12) stay(13) again(14) on(15) 6/29(16) post-cruise(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) smelled(3) musty(4) and(5) the(6) receptionist(7) was(8) rude(9) .(10) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="3,4"/>
+			<opinion polarity="-" feature="front desk" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			We(1) stayed(2) here(3) because(4) they(5) advertised(6) free(7) shuttle(8) service(9) to(10) /(11) from(12) the(13) airport(14) AND(15) free(16) shuttle(17) service(18) to(19) /(20) from(21) the(22) Port_of_Miami(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) when(3) we(4) arrived(5) back(6) at(7) the(8) Port_of_Miami(9) and(10) called(11) for(12) the(13) shuttle(14) ,(15) we(16) were(17) told(18) they(19) did(20) not(21) do(22) that(23) anymore(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			We(1) specifically(2) asked(3) this(4) when(5) we(6) made(7) the(8) reservations(9) and(10) their(11) website(12) also(13) indicated(14) that(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			After(1) waiting(2) 2(3) 1/2(4) hours(5) and(6) a_lot_of(7) arguing(8) ,(9) they(10) finally(11) picked(12) us(13) up(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Arriving(1) at(2) the(3) Day_'s_Inn(4) we(5) asked(6) to(7) speak(8) to(9) the(10) manager(11) and(12) after(13) waiting(14) 20(15) minutes(16) for(17) him(18) found(19) out(20) that(21) he(22) was(23) just(24) as(25) rude(26) and(27) "(28) not(29) caring(30) "(31) as(32) everyone(33) else(34) there(35) .(36) 
+		</sentence>
+		<sentence id="8">
+			He(1) even(2) told(3) us(4) we(5) were(6) DUMB(7) people(8) for(9) waiting(10) that(11) long(12) and(13) not(14) calling(15) a(16) cab(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			When(1) asked(2) if(3) he(4) would(5) have(6) paid(7) for(8) a(9) cab(10) ,(11) he(12) replied(13) "(14) absolutely(15) not(16) "(17) When(18) told(19) the(20) rooms(21) smelled(22) musty(23) ,(24) he(25) replied(26) that(27) was(28) not(29) his(30) problem(31) .(32) 
+			<opinion polarity="-" feature="rooms" featWords="21" opWords="22,23"/>
+		</sentence>
+		<sentence id="10">
+			While(1) we(2) were(3) at(4) the(5) front(6) desk(7) ,(8) we(9) witnessed(10) the(11) front(12) desk(13) calling(14) a(15) cab(16) for(17) a(18) couple(19) who(20) had(21) not(22) gotten(23) on(24) the(25) shuttle(26) to(27) the(28) airport(29) as(30) it(31) was(32) full(33) and(34) the(35) front(36) desk(37) paid(38) for(39) the(40) cab(41) !(42) 
+		</sentence>
+		<sentence id="11">
+			When(1) confronting(2) the(3) manager(4) with(5) this(6) ,(7) we(8) denied(9) they(10) did(11) it(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			This(1) was(2) truly(3) a(4) bad(5) place(6) to(7) stay(8) .(9) 
+			<opinion polarity="-" feature="place" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			We(1) ended(2) up(3) staying(4) at(5) a(6) Holiday_Inn(7) and(8) had(9) a(10) wonderful(11) room(12) .(13) 
+			<opinion polarity="+" feature="rooms" featWords="12" opWords="11"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="580" item="2000 Chevrolet Impala" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) all(2) that(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stereo(1) ,(2) roomy(3) 
+			<opinion polarity="+" feature="room" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) hog(2) ,(3) terrible(4) blind(5) spots(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) car(2) was(3) being(4) repaired(5) and(6) received(7) a(8) 2000(9) Chevy_Impala(10) as(11) my(12) rental(13) car(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) absolutely(2) loved(3) the(4) exterior(5) of(6) this(7) car(8) .(9) 
+			<opinion polarity="+" feature="exterior" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) very(4) sleek(5) look(6) .(7) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) also(2) has(3) great(4) trunk(5) capacity(6) .(7) 
+			<opinion polarity="+" feature="trunk" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) is(3) a(4) smooth(5) ride(6) .(7) 
+			<opinion polarity="+" feature="ride quality" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			I(1) did(2) not(3) care(4) for(5) the(6) interior(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			It(1) has(2) cup(3) holders(4) that(5) are(6) very(7) flimsy(8) and(9) the(10) seating(11) material(12) collected(13) lint(14) so(15) bad(16) .(17) 
+			<opinion polarity="-" feature="cup holders" featWords="3,4" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			I(1) did(2) like(3) the(4) car(5) 's(6) stereo(7) .(8) 
+			<opinion polarity="+" feature="sound system" featWords="7" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			It(1) has(2) a(3) volume(4) adjustor(5) ,(6) so(7) when(8) you(9) stop(10) at(11) a(12) traffic(13) light(14) ,(15) the(16) stereo(17) 's(18) volume(19) lowers(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			I(1) also(2) had(3) trouble(4) with(5) blind(6) spots(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) not(3) a(4) fun(5) vehicle(6) to(7) back(8) up(9) in(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,5"/>
+		</sentence>
+		<sentence id="12">
+			My(1) main(2) complaint(3) of(4) this(5) car(6) was(7) the(8) gas(9) mileage(10) that(11) it(12) got(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Within(1) 4(2) days(3) I(4) had(5) to(6) put(7) in_$10(8) worth(9) of(10) gas(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) used(2) $5.00(3) worth(4) of(5) gas(6) just(7) driving(8) to(9) work(10) ,(11) my(12) son(13) 's(14) daycare(15) and(16) back(17) !(18) 
+		</sentence>
+		<sentence id="15">
+			I(1) have(2) a(3) car(4) that(5) is(6) comparible(7) to(8) this(9) car(10) and(11) can(12) put(13) $20(14) in(15) the(16) tank(17) and(18) drive(19) for(20) 2(21) weeks(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) are(3) looking(4) for(5) a(6) vehicle(7) that(8) looks(9) nice(10) ,(11) but(12) eats(13) gas(14) ,(15) this(16) is(17) the(18) car(19) for(20) you(21) .(22) 
+			<opinion polarity="-" feature="gas" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="design" opWords="9,10"/>
+		</sentence>
+	</text>
+</review>

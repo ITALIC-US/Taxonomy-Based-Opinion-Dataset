@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="57" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) only(2) SUV(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) ,(2) Dependable(3) ,(4) Comfortable(5) ,(6) Safe(7) ,(8) 
+			<opinion polarity="+" feature="safety" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="size" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) ,(2) Gas(3) in(4) the(5) Tank(6) ,(7) Where(8) to(9) Park(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) GMC(2) and(3) Chevrolet_Suburban(4) are(5) the(6) only(7) true(8) SUV(9) 's(10) out(11) there(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) purchase(3) Suburbans(4) for(5) transportation(6) of(7) my(8) family(9) and(10) as(11) work(12) vehicles(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) the(3) only(4) stable(5) large(6) SUV(7) on(8) the(9) market(10) .(11) 
+			<opinion polarity="+" feature="size" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Other(1) manufactures(2) have(3) tried(4) to(5) compare(6) their(7) product(8) to(9) the(10) Suburban(11) but(12) they(13) truly(14) can(15) not(16) to(17) compare(18) you(19) need(20) to(21) compare(22) apples(23) to(24) apples(25) not(26) oranges(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Suburbans(1) are(2) large(3) enough(4) to(5) pull(6) your(7) boat(8) or(9) your(10) trailer(11) .(12) 
+			<opinion polarity="+" feature="size" opWords="3,4"/>
+		</sentence>
+		<sentence id="6">
+			They(1) carry(2) up(3) to(4) nine(5) people(6) in(7) comfort(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) leg(2) room(3) allows(4) for(5) what(6) I(7) call(8) the(9) squiggle(10) factor(11) ((12) allows(13) you(14) to(15) shift(16) around(17) well(18) your(19) on(20) the(21) road(22) with(23) out(24) bumping(25) into(26) stuff(27) on(28) the(29) seat(30) beside(31) you(32) )(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			The(1) large(2) size(3) allows(4) you(5) to(6) pack(7) and(8) carry(9) the(10) kitchen(11) sink(12) if(13) you(14) wish(15) .(16) 
+			<opinion polarity="+" feature="size" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) stable(3) on(4) the(5) road(6) in_all(7) types(8) of(9) conditions(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="3"/>
+		</sentence>
+		<sentence id="10">
+			Most(1) of(2) all(3) I(4) must(5) say(6) that(7) they(8) are(9) great(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="8" featRef="car" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			I(1) really(2) can(3) not(4) say(5) much(6) about(7) them(8) that(9) would(10) be(11) negative(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) own(3) many(4) trucks(5) and(6) cars(7) and(8) always(9) return(10) to(11) the(12) Suburban(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Yes(1) they(2) are(3) Big(4) and(5) some(6) times(7) the(8) parking(9) space(10) in(11) front(12) of(13) the(14) store(15) ,(16) well(17) it(18) just(19) will(20) not(21) fit(22) and(23) you(24) will(25) need(26) to(27) drive(28) out(29) to(30) the(31) end(32) of(33) the(34) parking(35) lot(36) to(37) find(38) a(39) spot(40) ,(41) But(42) when(43) you(44) come(45) out(46) with(47) all(48) those(49) new(50) toys(51) you(52) 'll(53) have(54) a(55) place(56) to(57) put(58) them(59) .(60) 
+		</sentence>
+	</text>
+</review>

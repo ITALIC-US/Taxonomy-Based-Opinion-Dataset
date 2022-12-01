@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="558" item="2005 Ford Focus" rating="3">
+	<title>
+		<sentence id="1">
+			Ford(1) 's(2) best(3) stab(4) at(5) Honda(6) and(7) Toyota(8) 's(9) market(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) domestic(2) option(3) for(4) economy(5) ,(6) Good_Quality(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) the(2) best(3) gas(4) mileage(5) for(6) a(7) small(8) car(9) .(10) 
+			<opinion polarity="-" feature="gas" featWords="4,5" opWords="1,3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'd(2) recommend(3) this(4) only(5) to(6) a(7) person(8) who(9) refuses(10) to(11) buy(12) from(13) Honda(14) or(15) Toyota(16) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			For(1) years(2) it(3) seemed(4) that(5) Ford(6) was(7) known(8) as(9) a(10) company(11) who(12) built(13) powerful(14) cars(15) that(16) threw(17) economy(18) into(19) the(20) wind(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			Cars(1) like(2) the(3) Mustang(4) and(5) the(6) F(7) series(8) trucks(9) have(10) been(11) staples(12) of(13) power(14) and(15) size(16) not(17) gas(18) economy(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			But(1) times(2) have(3) changed(4) and(5) so(6) has(7) Ford(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Now_Ford(1) has(2) a(3) new(4) car(5) under(6) its(7) belt(8) and(9) it(10) seems(11) to(12) making(13) its(14) spot(15) in(16) the(17) car(18) industry(19) and(20) that(21) car(22) is(23) the(24) Focus(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			After(1) some(2) rocky(3) years(4) in(5) the(6) beginning(7) ,(8) Ford(9) has(10) brought(11) its(12) little(13) car(14) to(15) a(16) level(17) that(18) starts(19) to(20) nip(21) at(22) the(23) import(24) car(25) company(26) 's(27) heals(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			But(1) let(2) 's(3) get(4) onto(5) the(6) car(7) itself(8) The(9) car(10) I(11) 'm(12) going(13) to(14) be(15) talking(16) about(17) is(18) the(19) 2005(20) Ford_Focus(21) ZX4(22) Things_I(23) like(24) right(25) off(26) the(27) bat(28) :(29) 1(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) although(3) small(4) is(5) tall(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Getting(1) into(2) the(3) car(4) feels(5) more(6) like(7) a(8) natural(9) sit(10) than(11) the(12) "(13) falling(14) into(15) the(16) car(17) "(18) maneuver(19) that(20) I(21) encounter(22) with(23) my(24) 2000(25) Honda_Civic(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			You(1) sit(2) up(3) high(4) and(5) have(6) a(7) commanding(8) view(9) for(10) such(11) a(12) small(13) car(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			The(1) seating(2) height(3) is(4) just(5) as(6) high(7) if_not(8) higher(9) than(10) the(11) position(12) in_the_2002(13) Crown_Victoria(14) we(15) had(16) before(17) this(18) car(19) .(20) 2(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			Ford(1) has(2) updated(3) this(4) car(5) and(6) it(7) 's(8) new(9) looks(10) are(11) edgy(12) and(13) more(14) refined(15) .(16) 
+			<opinion polarity="+" feature="design" featWords="10" opWords="12"/>
+		</sentence>
+		<sentence id="12">
+			The(1) lines(2) are(3) in(4) the(5) right(6) places(7) and(8) its(9) looks(10) have(11) matured(12) well(13) into(14) a(15) prettier(16) package(17) compared(18) to(19) the(20) previous(21) generation(22) of(23) the(24) Focus(25) .(26) 3(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			Everything(1) feels(2) sturdy(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="14">
+			Closing(1) the(2) doors(3) is(4) a(5) gratifing(6) slam(7) that(8) feels(9) healthy(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			For(1) the(2) most(3) part(4) all(5) the(6) little(7) switches(8) and(9) pieces(10) seem(11) strong(12) and(13) feel(14) like(15) they(16) are(17) built(18) to(19) last(20) .(21) 
+			<opinion polarity="+" feature="car" opWords="12"/>
+		</sentence>
+		<sentence id="16">
+			Things_I(1) do(2) not(3) like(4) right(5) off(6) the(7) bat(8) :(9) 1(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			I(1) feel(2) as(3) though(4) Ford(5) stopped(6) early(7) on(8) the(9) fit(10) and(11) finish(12) of(13) the(14) interior(15) of(16) the(17) car(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			There(1) 's(2) exposed(3) seat(4) belt(5) anchors(6) ,(7) Hinges(8) for(9) the(10) folding(11) rear(12) seats(13) ,(14) no(15) rear(16) seat(17) head(18) rests(19) and(20) the(21) rear(22) floor(23) mats(24) resemble(25) tiny(26) carpet(27) samples(28) that(29) barely(30) cover(31) any(32) floor(33) space(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			When(1) you(2) shell(3) out(4) almost(5) $19,000(6) for(7) a(8) car(9) ,(10) you(11) would(12) think(13) it(14) would(15) come(16) with(17) a(18) decent(19) set(20) of(21) floor(22) mats(23) .(24) 2(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			The(1) fact(2) that(3) things(4) like(5) ABS(6) ,(7) Traction(8) control(9) ,(10) and(11) Side(12) airbags(13) are(14) only(15) availible(16) in(17) the(18) more(19) expensive(20) models(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			These(1) options(2) should(3) be(4) standard(5) on(6) all(7) models(8) especially(9) ABS(10) .(11) 3(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			The(1) dashboard(2) is(3) made(4) of(5) this(6) textured(7) plastic(8) that(9) seems(10) to(11) consume(12) everything(13) in(14) the(15) immediate(16) area(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			I(1) feel(2) like(3) it(4) 's(5) taking(6) over(7) the(8) car(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Driving(1) :(2) This(3) car(4) is(5) a(6) very(7) nice(8) ride(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="25">
+			The(1) steering(2) is(3) a(4) little(5) on(6) the(7) heavy(8) side(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			Something(1) that(2) you(3) would(4) normally(5) see(6) in(7) Hondas(8) or(9) Toyotas(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			The(1) car(2) feels(3) tight(4) on(5) the(6) road(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			Although(1) ,(2) bumps(3) can(4) be(5) jarring(6) in(7) this(8) car(9) ,(10) I(11) 'd(12) say(13) this(14) car(15) does(16) a(17) great(18) job(19) of(20) soaking(21) up(22) the(23) road(24) compared(25) to(26) other(27) small(28) cars(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			Road(1) noise(2) is(3) also(4) a(5) problem(6) but(7) then(8) again(9) this(10) is(11) a(12) small(13) economy(14) car(15) and(16) these(17) problems(18) are(19) expected(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			This(1) car(2) may(3) only(4) come(5) with(6) a(7) 2.0(8) liter(9) engine(10) ,(11) but(12) its(13) got(14) some(15) pick(16) up(17) to(18) it(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			It(1) feels(2) on(3) par(4) with(5) my(6) 2000(7) Civic(8) .(9) 
+		</sentence>
+		<sentence id="32">
+			This(1) is(2) a(3) great(4) little(5) car(6) the(7) interior(8) is(9) spaceous(10) and(11) comfortable(12) .(13) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="12"/>
+			<opinion polarity="+" feature="interior" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="33">
+			I(1) 'm(2) 6_feet(3) tall(4) and(5) can(6) sit(7) comfortably(8) in(9) the(10) back(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			The(1) car(2) has(3) great(4) A(5) /(6) C(7) that(8) does(9) not(10) seem(11) to(12) bog(13) down(14) or(15) affect(16) the(17) engine(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="35">
+			My(1) only(2) main(3) problem(4) with(5) this(6) car(7) is(8) the(9) gas(10) mileage(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			This(1) car(2) is(3) rated(4) for(5) 26(6) mpg(7) in(8) the(9) city(10) and(11) 32(12) mpg(13) on(14) the(15) highway(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			I(1) have(2) never(3) come(4) even(5) close(6) the(7) 32(8) mpg(9) even(10) after(11) an(12) entire(13) tank(14) of(15) highway(16) driving(17) .(18) 
+		</sentence>
+		<sentence id="38">
+			This(1) is(2) an(3) annoying(4) fact(5) considering(6) that(7) my(8) 2000(9) Civic(10) gets(11) 38(12) mpg(13) in(14) the(15) city(16) !(17) 
+		</sentence>
+		<sentence id="39">
+			With(1) gas(2) prices(3) increasing(4) the(5) way(6) they(7) are(8) this(9) car(10) hardy(11) seems(12) like(13) a(14) true(15) economy(16) car(17) to(18) me(19) .(20) 
+		</sentence>
+		<sentence id="40">
+			However(1) ,(2) all(3) blemishes(4) aside(5) the(6) one(7) thing(8) Ford(9) has(10) done(11) right(12) with(13) this(14) car(15) is(16) to(17) get(18) a(19) reputation(20) of(21) quality(22) .(23) 
+		</sentence>
+		<sentence id="41">
+			The(1) Focus(2) has(3) been(4) at(5) the(6) top(7) ((8) or(9) close(10) to(11) it(12) )(13) in(14) many(15) car(16) reports(17) and(18) reviews(19) .(20) 
+		</sentence>
+		<sentence id="42">
+			Whether(1) it(2) be(3) in(4) quality(5) of(6) the(7) product(8) ,(9) safety(10) ratings(11) ,(12) or(13) price(14) the(15) Focus(16) line(17) has(18) become(19) a(20) powerful(21) player(22) in(23) the(24) game(25) of(26) the(27) economy(28) compact(29) .(30) 
+		</sentence>
+		<sentence id="43">
+			It(1) comes(2) as(3) no(4) surprise(5) you(6) see(7) more(8) and(9) more(10) of(11) these(12) cars(13) on(14) the(15) road(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) are(3) searching(4) for(5) a(6) domestic(7) economical(8) car(9) then(10) the(11) Focus(12) is(13) the(14) way(15) to(16) go(17) ,(18) however(19) ,(20) I(21) would(22) highly(23) recommend(24) you(25) at_least(26) try(27) a(28) Honda_Civic(29) or(30) a(31) Toyota_Corolla(32) before(33) making(34) your(35) final(36) decision(37) .(38) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="45">
+			Honda(1) has(2) been(3) making(4) the(5) Civic(6) since(7) 1972(8) and(9) the(10) line(11) has(12) matured(13) to(14) the(15) point(16) of(17) almost(18) perfection(19) ,(20) and(21) likewise(22) Toyota(23) has(24) been(25) producing(26) its(27) Corolla(28) since(29) 1966(30) !(31) 
+		</sentence>
+		<sentence id="46">
+			So(1) I(2) urge(3) you(4) to(5) consider(6) these(7) cars(8) .(9) 
+		</sentence>
+		<sentence id="47">
+			Ford(1) has(2) only(3) been(4) producing(5) the(6) Focus(7) in(8) the(9) US(10) for(11) a(12) short(13) time(14) and(15) the(16) line(17) has(18) not(19) had(20) the(21) chance(22) to(23) grow(24) as(25) much(26) as(27) the(28) Civic(29) or(30) the(31) Corolla(32) has(33) .(34) 
+		</sentence>
+		<sentence id="48">
+			Plus(1) also(2) consider(3) the(4) fuel(5) economy(6) ratings(7) the(8) Honda_Civic(9) hybrid(10) is(11) rated(12) at(13) 47/48(14) ((15) hwy(16) /(17) city(18) )(19) and(20) the(21) Toyota_Prius(22) gets(23) even(24) better(25) ratings(26) .(27) 
+		</sentence>
+		<sentence id="49">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 19000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) ZX4(16) Safety_Edition(17) 
+		</sentence>
+	</text>
+</review>

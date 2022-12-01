@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="142" item="1995 Buick LeSabre" rating="4">
+	<title>
+		<sentence id="1">
+			This(1) Buick(2) is(3) comfy(4) and(5) convenient(6) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ride(1) ,(2) comfort(3) ,(4) trunk(5) space(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) handling(2) and(3) fuel(4) efficiency(5) 
+			<opinion polarity="-" feature="gas" featWords="4,5" opWords="1"/>
+			<opinion polarity="-" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) grandmother(2) bought(3) a(4) 1995(5) Buick_LeSabre(6) new(7) ,(8) and(9) despite(10) a(11) few(12) mechanical(13) difficulties(14) ,(15) has(16) proven(17) a(18) great(19) car(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) There(3) have(4) been(5) a_lot(6) more(7) problems(8) with(9) her(10) 1995(11) Lesabre(12) ,(13) than(14) the(15) 1988(16) Park_Avenue(17) that(18) she(19) traded(20) in(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			Already(1) ,(2) the(3) anti-lock(4) brakes(5) went(6) bad(7) ((8) but(9) were(10) replaced(11) for_free(12) under(13) warranty(14) )(15) ,(16) and(17) the(18) battery(19) had(20) to(21) be(22) replaced(23) .(24) 
+			<opinion polarity="-" feature="brakes" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) the(3) abundance(4) of(5) foam(6) in(7) the(8) front(9) seats(10) is(11) starting(12) to(13) sag(14) a_bit(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) is(3) definitely(4) aging(5) faster(6) than(7) the(8) late(9) 80(10) 's(11) Buicks(12) ,(13) but(14) the(15) ride(16) is(17) great(18) ,(19) and(20) the(21) seats(22) are(23) comfy(24) .(25) 
+			<opinion polarity="+" feature="seat" featWords="22" opWords="24"/>
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="18"/>
+		</sentence>
+		<sentence id="6">
+			The(1) climate(2) control(3) system(4) is(5) fast(6) ,(7) and(8) it(9) comes(10) with(11) a(12) power(13) seat(14) ,(15) a(16) 3.8(17) liter(18) V(19) -(20) 6(21) engine(22) ,(23) and(24) electric(25) door(26) locks(27) /(28) windows(29) .(30) 
+			<opinion polarity="+" feature="climate" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) There(3) is(4) no(5) remote(6) trunk(7) opener(8) ,(9) so(10) if(11) you(12) want(13) to(14) open(15) your(16) trunk(17) ,(18) you(19) have(20) to(21) take(22) your(23) key(24) out(25) of(26) the(27) ignition(28) walk(29) outside(30) and(31) open(32) it(33) manually(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			What(1) a(2) nuisance(3) !(4) 
+		</sentence>
+		<sentence id="9">
+			The(1) engine(2) is(3) powerful(4) ,(5) and(6) very(7) quiet(8) .(9) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Developed(1) in_1987(2) ,(3) the(4) GM(5) 3800(6) V(7) -(8) 6(9) has(10) been(11) known(12) to(13) last(14) over(15) 200,000_miles(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) also(3) quiet(4) and(5) smooth(6) ,(7) but(8) fuel(9) efficiency(10) could(11) be(12) better(13) .(14) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			Expect(1) a(2) combined(3) 20(4) mpg(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			Overall(1) ,(2) this(3) is(4) a(5) decent(6) car(7) and(8) should(9) suit(10) people(11) who(12) want(13) a(14) large(15) car(16) with(17) a(18) fair(19) amount(20) features(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="14">
+			Although(1) not(2) quite(3) as(4) luxurious(5) as(6) the(7) Park_Avenue(8) ,(9) the(10) price(11) is(12) right(13) .(14) 
+			<opinion polarity="+" feature="price" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) like(3) the(4) Buick_LeSabre(5) ,(6) you(7) 'll(8) probably(9) like(10) the(11) Ford_Crown_Victoria(12) ,(13) Mercury_Grand_Marquis(14) ,(15) and(16) the(17) Oldsmobile(18) 88(19) .(20) 
+		</sentence>
+	</text>
+</review>

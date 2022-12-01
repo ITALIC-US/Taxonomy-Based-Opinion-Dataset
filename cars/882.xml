@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="882" item="2000 Audi A4" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) 'm(2) glad(3) I(4) leased(5) this(6) piece(7) of(8) junk(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			a(1) very(2) pretty(3) sedan(4) ,(5) awd(6) is(7) great(8) in_all(9) weather(10) situations(11) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+			<opinion polarity="+" feature="design" opWords="3" potency="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) bunch(2) of(3) them(4) ,(5) read(6) more(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) worth(2) the(3) money(4) without(5) problems(6) ,(7) what(8) 's(9) it(10) worth(11) with(12) constant(13) breakdowns(14) ?(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) leased(2) this(3) car(4) for(5) two(6) reasons(7) ,(8) first(9) ,(10) it(11) was(12) my(13) first(14) German(15) car(16) ,(17) and(18) second(19) ,(20) it(21) was(22) a_bit(23) of(24) reach(25) financially(26) for(27) me(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			In(1) hindsight(2) ,(3) leasing(4) it(5) was(6) the(7) smartest(8) automotive(9) move(10) I(11) have(12) ever(13) made(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) got(2) a(3) quattro(4) ,(5) 2.8(6) litre(7) manual(8) example(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) wanted(2) to(3) enjoy(4) the(5) "(6) driving(7) experience(8) "(9) of(10) this(11) car(12) ,(13) so(14) I(15) chose(16) the(17) stick(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) thing(3) I(4) noticed(5) from(6) the(7) minute(8) I(9) drove(10) off(11) the(12) dealer(13) lot(14) was(15) ,(16) "(17) where(18) the(19) hell(20) were(21) the(22) 190(23) horses(24) ?(25) "(26) Even(27) in(28) a(29) stick(30) ,(31) it(32) felt(33) as(34) though(35) I(36) was(37) driving(38) my(39) mazda(40) 626(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			Even(1) my(2) Sentra_Se-R(3) could(4) 've(5) left(6) this(7) car(8) in(9) the(10) dust(11) .(12) to(13) the(14) Audis(15) credit(16) ,(17) the(18) interior(19) is(20) gorgeous(21) for(22) the(23) driver(24) and(25) passenger(26) .(27) 
+			<opinion polarity="+" feature="interior" featWords="19" opWords="21"/>
+		</sentence>
+		<sentence id="7">
+			But(1) no(2) way(3) would(4) I(5) want(6) to(7) be(8) in(9) the(10) back(11) for(12) more(13) than(14) 10(15) minutes(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			There(1) was(2) barely(3) enough(4) room(5) for(6) my(7) son(8) 's(9) child(10) seat(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			On(1) top(2) of(3) that(4) ,(5) the(6) trunk(7) is(8) so(9) small(10) that(11) you(12) have(13) to(14) kitty-corner(15) a(16) set(17) of(18) golf(19) clubs(20) to(21) get(22) them(23) to(24) fit(25) .(26) 
+			<opinion polarity="-" feature="trunk" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="10">
+			Now(1) ,(2) onto(3) my(4) bigest(5) gripe(6) and(7) the(8) reason(9) why(10) I(11) was(12) so(13) happy(14) I(15) leased(16) the(17) vehicle(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			This(1) car(2) breaks(3) down(4) alot(5) !(6) 
+		</sentence>
+		<sentence id="12">
+			Way(1) too(2) often(3) for(4) a(5) $35K(6) vehicle(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			Air(1) sensors(2) went(3) frequently(4) ,(5) the(6) brakes(7) went(8) early(9) ,(10) but(11) the(12) most(13) unbearable(14) problem(15) was(16) the(17) front(18) suspension(19) links(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			They(1) went(2) as_well(3) ,(4) and(5) when(6) they(7) fail(8) every(9) time(10) you(11) turn(12) the(13) wheel(14) a(15) fraction(16) of(17) inch(18) ,(19) it(20) sounds(21) as(22) though(23) you(24) are(25) rubbing(26) a(27) wet(28) balloon(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			On(1) top(2) of(3) that(4) ,(5) Audi(6) was(7) back-ordered(8) on(9) the(10) parts(11) necessary(12) to(13) fix(14) it(15) ((16) gee(17) ,(18) I(19) wonder(20) if(21) they(22) were(23) back-ordered(24) because(25) this(26) was(27) a(28) common(29) problem(30) )(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			My(1) theory(2) on(3) the(4) problem(5) with(6) this(7) car(8) is(9) the(10) brakes(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			They(1) have(2) very(3) large(4) rotored(5) Bosch(6) brakes(7) which(8) work(9) great(10) ,(11) but(12) produce(13) an(14) inordinate(15) amount(16) of(17) brake(18) dust(19) .(20) 
+			<opinion polarity="+" feature="brakes" featWords="7" opWords="9,10"/>
+		</sentence>
+		<sentence id="18">
+			This(1) asbestos(2) ladened(3) material(4) cakes(5) on(6) the(7) wheel(8) ,(9) the(10) suspension(11) ,(12) the(13) brakes(14) themselves(15) and(16) becomes(17) corrosive(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			I(1) would(2) wash(3) the(4) car(5) ,(6) drive(7) it(8) home(9) ,(10) and(11) the(12) brakedust(13) is(14) there(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			This(1) also(2) results(3) in(4) constant(5) brake(6) squealing(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) three(3) friends(4) who(5) own(6) Audis(7) or(8) the(9) comparable(10) VW(11) equivalent(12) the(13) Passat(14) ,(15) and(16) guess(17) what(18) ?(19) 
+		</sentence>
+		<sentence id="22">
+			Each(1) one(2) of(3) them(4) had(5) the(6) front(7) suspension(8) links(9) go(10) !(11) 
+		</sentence>
+		<sentence id="23">
+			Yikes(1) !(2) 
+		</sentence>
+		<sentence id="24">
+			This(1) car(2) is(3) not(4) worth(5) the(6) 35(7) large(8) it(9) costs(10) even(11) without(12) the(13) maintenance(14) problems(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			Take(1) my(2) advice(3) and(4) move(5) on(6) .....(7) Amount_Paid(8) ((9) US(10) $(11) )(12) :(13) 35,000(14) Condition(15) :(16) NewModel_Year(17) :(18) 2000Model(19) and(20) Options(21) :(22) A4(23) 
+		</sentence>
+	</text>
+</review>

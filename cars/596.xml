@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="596" item="2002 Honda Odyssey" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) pay(3) for(4) new(5) tranny(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) van(2) 
+			<opinion polarity="+" feature="van" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Transmission(1) ,(2) transmission(3) ,(4) transmission(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) really(2) liked(3) this(4) car(5) until(6) the(7) transmission(8) started(9) slipping(10) at(11) 55,ooo_miles(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) researched(2) on(3) the(4) net(5) and(6) found(7) that(8) this(9) is(10) happening(11) to(12) thousands(13) of(14) Odyssey(15) 's(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Honda(1) has(2) already(3) extended(4) the(5) warranties(6) on(7) 99(8) -(9) 01(10) models(11) and(12) will(13) probably(14) have(15) to(16) do(17) it(18) to(19) the(20) 02(21) 's(22) soon(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Besides(1) this(2) the(3) van(4) is(5) good(6) -(7) We(8) had(9) the(10) various(11) door(12) problems(13) occasionally(14) ,(15) but(16) I(17) usually(18) got(19) rid(20) of(21) them(22) with(23) grease(24) and(25) oil(26) .(27) 
+			<opinion polarity="+" feature="van" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="5">
+			We(1) are(2) now(3) selling(4) it(5) ((6) supposedly(7) the(8) new(9) transmissions(10) are(11) not(12) the(13) most(14) reliable(15) things(16) either(17) )(18) and(19) my(20) wife(21) never(22) was(23) a(24) minivan(25) person(26) .(27) 
+			<opinion polarity="-" feature="reliability" opWords="12,15"/>
+		</sentence>
+		<sentence id="6">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

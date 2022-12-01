@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="105" item="1996 GMC Sonoma" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) Useful_Truck(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) ,(2) versatile(3) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			minor(1) rattles(2) ,(3) front(4) brake(5) wear(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) small(4) truck(5) that(6) is(7) useful(8) as(9) day(10) to(11) day(12) transportation(13) as_well(14) as(15) occasional(16) hauling(17) .(18) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			The(1) extended(2) cab(3) does(4) not(5) add(6) any(7) real(8) extra(9) passenger(10) capacity(11) ,(12) but(13) it(14) does(15) make(16) it(17) more(18) roomy(19) for(20) the(21) driver(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) extra(2) inside(3) storage(4) is(5) useful(6) .(7) 
+			<opinion polarity="+" feature="trunk space" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			The(1) ride(2) is(3) very(4) comfortable(5) for(6) a(7) small(8) truck(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) optional(2) four(3) wheel-drive(4) is(5) very(6) good(7) in(8) snow(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			The(1) ABS(2) braking(3) also(4) adds(5) confidence(6) in(7) bad(8) weather(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Traction(1) while(2) in(3) two-wheel(4) mode(5) is(6) marginal(7) in(8) wet(9) weather(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			In_38,000(1) miles(2) this(3) truck(4) has(5) been(6) dependable(7) .(8) 
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			Problem(1) areas(2) included(3) :(4) lower(5) ball(6) joints(7) that(8) needed(9) to(10) be(11) replaced(12) at(13) 30,000_miles(14) ,(15) several(16) oil(17) leaks(18) ,(19) and(20) a(21) leaking(22) shock(23) absorber(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			These(1) were(2) all(3) fixed(4) under(5) warranty(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			The(1) serpentine(2) belt(3) needed(4) replacement(5) recently(6) at(7) a(8) cost(9) of(10) $95(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Front(1) brake(2) pads(3) need(4) replacement(5) every(6) 10-12,000_miles(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			The(1) dealer(2) has(3) been(4) generally(5) very(6) good(7) about(8) service(9) and(10) warranty(11) work(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Gas(1) mileage(2) is(3) about(4) 19(5) mpg(6) locally(7) and(8) up(9) to(10) 22(11) mpg(12) on(13) long(14) trips(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			The(1) engine(2) does(3) not(4) use(5) any(6) oil(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			The(1) original(2) tires(3) will(4) need(5) replacement(6) in(7) about(8) 5,000_miles(9) .(10) 
+		</sentence>
+	</text>
+</review>

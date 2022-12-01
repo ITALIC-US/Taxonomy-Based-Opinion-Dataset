@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="897" item="1997 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			Japanese(1) engineering(2) for(3) an(4) American(5) boy(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quick(1) ,(2) agile(3) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) to(2) the(3) ground(4) ,(5) seats(6) made(7) of(8) stone(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) little(2) tin(3) can(4) with(5) bad(6) seats(7) and(8) a(9) high(10) resale(11) value(12) .(13) 
+			<opinion polarity="+" feature="resale value" featWords="11,12" opWords="10"/>
+			<opinion polarity="-" feature="seat" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Go(1) figure(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Our(1) 1997(2) Honda_Accord(3) 4-door(4) sedan(5) was(6) a(7) crash(8) course(9) in(10) Japanese(11) engineering(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) never(3) owned(4) a(5) Japanese(6) car(7) before(8) ,(9) and(10) decided(11) to(12) take(13) home(14) an(15) Accord(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) an(3) LX(4) model(5) with(6) power(7) locks(8) ,(9) windows(10) ,(11) tilt(12) ,(13) cruise(14) ,(15) a(16) tape(17) player(18) ,(19) and(20) manual(21) seats(22) ;(23) a(24) low-frills(25) people(26) mover(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) debated(3) over(4) a(5) 1997(6) Toyota_Camry_LE(7) ,(8) a(9) 1998(10) Maxima(11) ,(12) and(13) this(14) little(15) Honda(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			My(1) wife(2) did(3) not(4) like(5) the(6) looks(7) of(8) the(9) Maxima(10) ,(11) although(12) it(13) was(14) my(15) first(16) choice(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) Camry(2) was(3) loaded(4) up(5) with(6) $2500(7) worth(8) of(9) goodies(10) over(11) the(12) Accord(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			So(1) ,(2) the(3) homely(4) little(5) Honda(6) came(7) home(8) with(9) us(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Hindsight(1) being(2) 20/20(3) ,(4) we(5) should(6) 've(7) brought(8) home(9) the(10) Maxima(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) four(2) cylinder(3) was(4) peppy(5) for(6) such(7) a(8) small(9) engine(10) ,(11) and(12) could(13) get(14) the(15) car(16) moving(17) .(18) 
+			<opinion polarity="-" feature="engine" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			The(1) auto(2) transmission(3) shifted(4) nicely(5) ,(6) and(7) the(8) radio(9) sounded(10) great(11) .(12) 
+			<opinion polarity="+" feature="radio" featWords="9" opWords="10,11"/>
+			<opinion polarity="+" feature="transmission" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="11">
+			Despite(1) the(2) tiny(3) motor(4) ,(5) fuel(6) economy(7) was(8) no(9) better(10) than(11) my(12) Thunderbird(13) -(14) usually(15) 19-20(16) mpg(17) in(18) town(19) .(20) 
+			<opinion polarity="-" feature="engine" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="12">
+			On(1) the(2) highway(3) ,(4) the(5) Honda(6) would(7) get(8) 30-31(9) ,(10) but(11) so(12) can(13) my(14) Buick_Roadmaster(15) and(16) it(17) is(18) FAR(19) more(20) comfortable(21) than(22) the(23) Accord(24) !(25) 
+		</sentence>
+		<sentence id="13">
+			Ride(1) quality(2) was(3) ,(4) in(5) my(6) opinion(7) ,(8) poor(9) .(10) 
+			<opinion polarity="-" feature="ride quality" featWords="1,2" opWords="9"/>
+		</sentence>
+		<sentence id="14">
+			Now_I(1) know(2) what(3) riding(4) in(5) a(6) Campbell(7) 's(8) soup(9) can(10) feels(11) like(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) car(2) sat(3) so(4) low(5) ,(6) you(7) felt(8) like(9) your(10) butt(11) was(12) dragging(13) the(14) ground(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Every(1) bump(2) reverberated(3) up(4) through(5) the(6) car(7) and(8) into(9) my(10) back(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			I(1) believe(2) the(3) seats(4) were(5) made(6) from(7) some(8) type(9) of(10) rock(11) or(12) stone(13) ,(14) with(15) a(16) thin(17) fabric(18) cover(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			With(1) only(2) a(3) manual(4) recline(5) lever(6) ,(7) there(8) was(9) no(10) way(11) to(12) get(13) comfortable(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			Rear(1) seat(2) leg(3) room(4) was(5) about(6) the(7) same(8) as(9) our(10) Mustang_GT(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			On(1) a(2) four(3) door(4) "(5) family(6) "(7) sedan(8) ,(9) that(10) is(11) not(12) a(13) good(14) thing(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			Headroom(1) was(2) ample(3) ,(4) surpassing(5) that(6) of(7) the(8) 1996-99(9) Taurus(10) .(11) 
+			<opinion polarity="+" feature="head room" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="22">
+			Trunk(1) space(2) was(3) adequate(4) ,(5) yet(6) it(7) was(8) no(9) greater(10) than(11) that(12) of(13) my(14) old(15) Mercury_Topaz(16) .(17) 
+			<opinion polarity="+" feature="trunk space" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			Driving(1) the(2) car(3) could(4) be(5) fun(6) ,(7) so(8) long(9) as(10) you(11) did(12) not(13) get(14) run(15) over(16) by(17) larger(18) vehicles(19) ...(20) a(21) VW_Beetle(22) for_instance(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="24">
+			The(1) Accord(2) definitely(3) had(4) what(5) Mazda(6) calls(7) "(8) zoom(9) ,(10) zoom(11) ,(12) zoom(13) .(14) "(15) For(16) a(17) brief(18) second(19) ,(20) you(21) can(22) feel(23) like(24) a(25) Formula(26) 1(27) driver(28) .(29) 
+		</sentence>
+		<sentence id="25">
+			Then(1) ,(2) the(3) 18-wheeler(4) nearly(5) crushes(6) you(7) and(8) you(9) 're(10) jolted(11) back(12) to(13) reality(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			While(1) we(2) had(3) no(4) major(5) problems(6) ,(7) we(8) did(9) only(10) own(11) the(12) car(13) a(14) short(15) while(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Here(1) is(2) something(3) you(4) should(5) DEFINITELY(6) check(7) out(8) before(9) buying(10) an(11) Accord(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			SOME(1) of(2) the(3) Accords(4) have(5) front(6) disks(7) that(8) can(9) not(10) be(11) removed(12) from(13) the(14) car(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			So(1) ,(2) when(3) you(4) go(5) in(6) to(7) get(8) a(9) brake(10) job(11) and(12) have(13) the(14) rotors(15) turned(16) ,(17) they(18) have(19) to(20) use(21) a(22) special(23) machine(24) that(25) fits(26) the(27) rotor(28) while(29) its(30) still(31) on(32) the(33) car(34) .(35) 
+		</sentence>
+		<sentence id="30">
+			That(1) equals(2) more(3) money(4) .(5) 
+		</sentence>
+		<sentence id="31">
+			Not(1) all(2) are(3) like(4) that(5) ...(6) make(7) sure(8) you(9) know(10) if(11) yours(12) is(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			After(1) 3(2) months(3) ,(4) we(5) 'd(6) had(7) enough(8) Japanese(9) engineering(10) and(11) traded(12) the(13) frumpy(14) little(15) Honda(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			I(1) 'd(2) always(3) wondered(4) why(5) people(6) bragged(7) about(8) Accords(9) so(10) much(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			I(1) 'm(2) still(3) wondering(4) .(5) 
+		</sentence>
+		<sentence id="35">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1997Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

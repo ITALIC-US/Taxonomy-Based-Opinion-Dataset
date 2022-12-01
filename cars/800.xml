@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="800" item="1992 Toyota Previa" rating="1">
+	<title>
+		<sentence id="1">
+			1991(1) Previa_Nightmare(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Love(1) the(2) look(3) ,(4) the(5) comfort(6) ,(7) the(8) utility(9) .(10) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			If(1) you(2) engine(3) needs(4) work(5) it(6) will(7) be(8) expensive(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) a(3) used(4) 1991(5) Previa(6) in(7) December_2004(8) with(9) 118K(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			We(1) drove(2) it(3) for(4) about(5) 10K(6) before(7) we(8) lost(9) compression(10) in(11) one(12) cylinder(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			We(1) have(2) not(3) been(4) able(5) to(6) find(7) a(8) new(9) and(10) installed(11) engine(12) for(13) less(14) than(15) $3000(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			We(1) still(2) owe(3) a(4) small(5) amount(6) of(7) money(8) on(9) the(10) van(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Had(1) we(2) known(3) how(4) expensive(5) it(6) was(7) to(8) replace(9) this(10) engine(11) we(12) would(13) never(14) have(15) purchased(16) a(17) used(18) van(19) .(20) 
+			<opinion polarity="-" feature="price" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			Love_the_Previa(1) when(2) it(3) is(4) running(5) but(6) you(7) had(8) better(9) hope(10) you(11) do(12) not(13) blow(14) a(15) cylinder(16) early(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			We(1) are(2) also(3) having(4) trouble(5) finding(6) honest(7) Toyota(8) mechanics(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			They(1) all(2) price(3) engines(4) and(5) labor(6) high(7) and(8) try(9) to(10) get(11) us(12) to(13) sell(14) them(15) the(16) van(17) cheap(18) so(19) they(20) can(21) part(22) it(23) out(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) a(3) bunch(4) of(5) vultures(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			I(1) still(2) believe(3) Toyota(4) makes(5) great(6) cars(7) but(8) this(9) experience(10) has(11) left(12) me(13) frustrated(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 2999(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1991Model(12) and(13) Options(14) :(15) LE(16) ,(17) auto(18) ,(19) dual(20) sunroofs(21) ,(22) air(23) ,(24) pl(25) ,(26) pw(27) ,(28) pd(29) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="132" item="Coby CV-191 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) is(2) NOT(3) a(4) noise(5) canceling(6) headset(7) !(8) 
+		</sentence>
+		<sentence id="2">
+			Do(1) not(2) buy(3) !(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) comes(2) with(3) a(4) AAA(5) battery(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) does(2) not(3) work(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			Do(1) not(2) buy(3) !(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+		<sentence id="3">
+			Do(1) not(2) Buy(3) !(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+		<sentence id="4">
+			Fraud(1) !(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) headset(2) ADDS(3) white(4) noise(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			It(1) does(2) not(3) reduce(4) the(5) amount(6) of(7) noise(8) but(9) increases(10) it(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) unit(2) sounds(3) better(4) turned(5) off(6) !(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) tested(2) this(3) in(4) a(5) airport(6) terminal(7) as_well(8) as(9) on(10) a(11) plane(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) white(2) noise(3) increased(4) as(5) the(6) outside(7) noise(8) increased(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) very(3) bad(4) while(5) in(6) flight(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			Do(1) not(2) buy(3) !(4) 
+			<opinion polarity="-" feature="headphones" opWords="2,3"/>
+		</sentence>
+	</text>
+</review>

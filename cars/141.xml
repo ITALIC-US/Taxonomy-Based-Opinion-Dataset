@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="141" item="1995 Buick LeSabre" rating="4">
+	<title>
+		<sentence id="1">
+			BUICK_IS_THE(1) "(2) BEST_BUY(3) "(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			COMFORTABLE(1) ,(2) RELIABLE(3) ,(4) GREAT_FAMILY_SIZE_VEHICLE(5) 
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			NO(1) 4(2) WHEEL_DRIVE(3) ,(4) DIFFICULT_IN_SNOWY_CONDITIONS(5) .(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) mother(2) has(3) owned(4) a(5) Buick_LeSabre(6) for(7) about(8) a(9) year(10) now(11) and(12) wow(13) what(14) a(15) car(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Driving_a_Buick_LeSabre(1) is(2) like(3) gliding(4) on(5) air(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) like(3) comfortable(4) rides(5) with(6) no(7) bumps(8) or(9) squeaks(10) this(11) is(12) the(13) vehicle(14) to(15) get(16) !(17) 
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			I(1) never(2) thought(3) that(4) as(5) a(6) young(7) adult(8) I(9) 'd(10) like(11) to(12) cruise(13) around(14) in(15) a(16) Buick(17) especially(18) a(19) LeSabre(20) but(21) once(22) you(23) take(24) it(25) for(26) a(27) spin(28) you(29) feel(30) how(31) relaxing(32) it(33) really(34) is(35) !(36) 
+		</sentence>
+		<sentence id="5">
+			Fully(1) loaded(2) ,(3) leather(4) interior(5) ,(6) larger(7) size(8) car(9) that(10) 's(11) a(12) great(13) investment(14) for(15) any(16) size(17) family(18) !(19) 
+			<opinion polarity="+" feature="interior" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) Buick_LeSabre(2) is(3) a(4) fairly(5) priced(6) car(7) with(8) all(9) the(10) extras(11) .(12) 
+			<opinion polarity="+" feature="price" opWords="5,6"/>
+		</sentence>
+		<sentence id="7">
+			Who(1) could(2) ask(3) for(4) anything(5) more(6) ?(7) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) want(3) to(4) enjoy(5) those(6) long(7) trips(8) driving(9) to(10) work(11) ,(12) running(13) errands(14) ,(15) driving(16) to(17) your(18) vacation(19) destination(20) in(21) style(22) and(23) comfort(24) opt(25) for(26) a(27) LaSabre(28) you(29) will(30) not(31) be(32) undersold(33) !(34) 
+		</sentence>
+	</text>
+</review>

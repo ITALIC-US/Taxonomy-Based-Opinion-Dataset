@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="598" item="2002 Honda Odyssey" rating="1">
+	<title>
+		<sentence id="1">
+			Honda(1) reputation(2) tarnished(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) power(2) ,(3) comfortable(4) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			very(1) ,(2) very(3) BAD(4) transmission(5) ,(6) poor(7) gas(8) mileage(9) 
+			<opinion polarity="-" feature="gas" featWords="8,9" opWords="7"/>
+			<opinion polarity="-" feature="transmission" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Odyssey(2) was(3) once(4) the(5) king(6) of(7) minivans(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Now(1) ,(2) everybody(3) else(4) has(5) caught(6) up(7) and(8) some(9) have(10) passed(11) Honda(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Once(1) my(2) warranty(3) was(4) over(5) ,(6) the(7) transmission(8) started(9) slipping(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Based(1) on(2) my(3) vin(4) ,(5) Honda_Canada(6) said(7) there(8) 's(9) nothing(10) wrong(11) with(12) the(13) transmission(14) although(15) a_lot_of(16) other(17) people(18) ((19) 1999-2001(20) ,(21) &(22) 2003(23) )(24) were(25) having(26) problems(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			A(1) new(2) tranny(3) was(4) $4000(5) and(6) Honda_Canada(7) refused(8) to(9) help(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Needless(1) to(2) say(3) ,(4) I(5) 'm(6) not(7) happy(8) with(9) Honda(10) and(11) I(12) 'll(13) be(14) changing(15) over(16) to(17) Toyota_Sienna(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="7,8"/>
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

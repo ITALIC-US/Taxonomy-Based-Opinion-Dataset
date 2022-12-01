@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="480" item="1999 Nissan Maxima" rating="3">
+	<title>
+		<sentence id="1">
+			Finally(1) .(2) .(3) some(4) speed(5) ,(6) but(7) lack(8) exterior(9) design(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Power(1) ,(2) interior(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Body(1) design(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Well(1) the(2) 222(3) horsepower(4) Maxima(5) raises(6) another(7) question(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			How(1) much(2) hp(3) can(4) you(5) shove(6) in(7) to(8) an(9) ugly(10) exterior(11) .(12) 
+			<opinion polarity="-" feature="exterior" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			Quite(1) a(2) few(3) as(4) it(5) turns(6) out(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Anyway(1) ,(2) I(3) personally(4) dont(5) like(6) the(7) exterior(8) body(9) design(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) practically(3) the(4) same(5) as(6) the(7) years(8) before(9) with(10) the(11) exception(12) of(13) the(14) slightly(15) modified(16) rear(17) lights(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) interior(2) is(3) quite(4) nice(5) with(6) the(7) full(8) leather(9) interior(10) option(11) .(12) 
+			<opinion polarity="+" feature="interior" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			But(1) what(2) car(3) is(4) not(5) nice(6) with(7) full(8) interior(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="5,6"/>
+		</sentence>
+		<sentence id="8">
+			Forgive(1) me(2) for(3) not(4) liking(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			By(1) all(2) means(3) its(4) a(5) good(6) car(7) as(8) far(9) as(10) speed(11) and(12) luxury(13) combined(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			But(1) still(2) not(3) good(4) enough(5) to(6) live(7) up(8) to(9) its(10) 26k(11) loaded(12) sticker(13) price(14) tag(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="11">
+			However(1) they(2) managed(3) to(4) put(5) 22(6) more(7) horsepower(8) in(9) to(10) that(11) small(12) v6(13) engine(14) and(15) still(16) get(17) 25mpg(18) which(19) I(20) am(21) quite(22) impressed(23) with(24) seeing(25) as(26) how(27) gas(28) prices(29) seem(30) to(31) keep(32) going(33) up(34) .(35) 
+		</sentence>
+		<sentence id="12">
+			Anyway(1) my(2) overall(3) verdict(4) is(5) Solid(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="13">
+			Very(1) nice(2) interior(3) .(4) 
+			<opinion polarity="+" feature="interior" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="14">
+			Good(1) enough(2) speed(3) .(4) 
+			<opinion polarity="+" feature="speed" featWords="3" opWords="1,2"/>
+		</sentence>
+		<sentence id="15">
+			But(1) ugly(2) body(3) design(4) and(5) lack(6) of(7) thought(8) for(9) the(10) body(11) design(12) .(13) 
+			<opinion polarity="-" feature="design" featWords="3,4" opWords="2"/>
+		</sentence>
+	</text>
+</review>

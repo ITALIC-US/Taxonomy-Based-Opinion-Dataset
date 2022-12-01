@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="310" item="2000 Honda Civic" rating="1">
+	<title>
+		<sentence id="1">
+			WONDERFUL(1) car(2) ,(3) HORRIBLE(4) dealer(5) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) little(2) car(3) ,(4) very(5) '(6) cute(7) '(8) and(9) surprisingly(10) fun(11) to(12) drive(13) ,(14) VERY(15) functional(16) ,(17) great(18) gas(19) mileage(20) 
+			<opinion polarity="+" feature="gas" featWords="19,20" opWords="18"/>
+			<opinion polarity="+" feature="car" opWords="16"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+			<opinion polarity="+" feature="design" opWords="7"/>
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) tachometer(2) ,(3) EVERYTHING(4) is(5) optional(6) ((7) I(8) 'm(9) surprised(10) the(11) TIRES(12) are(13) not(14) counted(15) as(16) an(17) option(18) )(19) ,(20) the(21) most(22) hideous(23) dealer(24) /(25) customer(26) relations(27) on(28) the(29) face(30) of(31) the(32) planet(33) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) in(3) the(4) market(5) for(6) a(7) new(8) car(9) about(10) a(11) month(12) ago(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) past(3) three(4) years(5) I(6) had(7) been(8) driving(9) a(10) 1991(11) CRX(12) which(13) I(14) absolutely(15) loved(16) ,(17) but(18) had(19) accumulated(20) 150,000_miles(21) and(22) was(23) ready(24) to(25) be(26) put(27) out(28) to(29) pasture(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) ,(2) Honda(3) stopped(4) making(5) the(6) CRX(7) a(8) while(9) back(10) ((11) and(12) WHY(13) ?(14) It(15) is(16) such(17) an(18) awesome(19) little(20) car(21) )(22) so(23) I(24) went(25) for(26) what(27) seemed(28) to(29) be(30) the(31) closest(32) brand-new(33) equivalent(34) :(35) the(36) 2000(37) Civic_Hatchback_CX(38) .(39) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="19"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) lucky(3) ,(4) the(5) dealer(6) had(7) ONE(8) car(9) on(10) the(11) entire(12) lot(13) that(14) fit(15) my(16) needs(17) ((18) silver(19) hatchback(20) with(21) a(22) 5-speed(23) )(24) but(25) it(26) was(27) not(28) ready(29) to(30) be(31) test-driven(32) yet(33) so(34) I(35) put(36) up(37) a(38) $50_dollar(39) '(40) security(41) '(42) deposit(43) in_case(44) someone(45) were(46) to(47) try(48) and(49) sneak(50) in(51) and(52) snatch(53) the(54) car(55) from(56) under(57) my(58) nose(59) the(60) next(61) day(62) .(63) 
+		</sentence>
+		<sentence id="5">
+			When(1) I(2) got(3) to(4) drive(5) it(6) I(7) had(8) only(9) one(10) complaint(11) ,(12) and(13) a(14) minor(15) one(16) :(17) the(18) car(19) has(20) no(21) tachometer(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			A(1) tachometer(2) is(3) not(4) available(5) on(6) DX(7) and(8) CX_Civic(9) models(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Amazing(1) .(2) 
+		</sentence>
+		<sentence id="8">
+			One(1) thing(2) Honda(3) does(4) NOT(5) do(6) is(7) give(8) you(9) a(10) bargain(11) in(12) the(13) equipment(14) department(15) ,(16) but(17) that(18) is(19) one(20) of(21) those(22) things(23) you(24) just(25) -(26) accept(27) -(28) because(29) Hondas(30) are(31) arguably(32) the(33) best(34) cars(35) on(36) the(37) road(38) .(39) 
+		</sentence>
+		<sentence id="9">
+			All(1) that(2) did(3) not(4) bother(5) me(6) too(7) much(8) anyway(9) because(10) I(11) have(12) never(13) had(14) a(15) car(16) that(17) was(18) '(19) loaded(20) '(21) in(22) any(23) respect(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			I(1) proceeded(2) to(3) the(4) financing(5) part(6) of(7) the(8) deal(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			And(1) the(2) fur(3) began(4) to(5) fly(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			To(1) begin(2) ,(3) the(4) dealer(5) saw(6) that(7) I(8) am(9) young(10) and(11) assumed(12) that(13) I(14) was(15) a(16) moron(17) with(18) no(19) inkling(20) of(21) how(22) to(23) handle(24) myself(25) in(26) the(27) finance(28) office(29) ,(30) and(31) I(32) expected(33) this(34) ;(35) I(36) know(37) that(38) it(39) is(40) basically(41) the(42) job(43) of(44) the(45) finance(46) manager(47) to(48) try(49) and(50) take(51) you(52) for(53) as(54) much(55) money(56) as(57) he(58) can(59) .(60) 
+		</sentence>
+		<sentence id="13">
+			I(1) do(2) not(3) ,(4) however(5) ,(6) appreciate(7) being(8) flat-out(9) lied(10) to(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Here(1) is(2) the(3) math(4) ,(5) you(6) decide(7) if(8) it(9) makes(10) sense(11) :(12) Total_Price(13) of(14) car(15) ,(16) TTL(17) and(18) all(19) was(20) $16,153(21) Equity(22) on(23) my(24) car(25) was(26) $142(27) which(28) leaves(29) us(30) with(31) $16,011(32) My(33) down(34) Payment(35) was(36) $2000_dollars(37) ,(38) leaving(39) me(40) with(41) a(42) $14,011(43) loan(44) amount(45) .(46) 
+		</sentence>
+		<sentence id="15">
+			I(1) was(2) approved(3) for(4) a(5) 60(6) month(7) note(8) at(9) 10.25_%(10) interest(11) ,(12) not(13) simple(14) interest(15) but(16) a(17) per-diem(18) ((19) which(20) I(21) 'm(22) not(23) sure(24) I(25) understand(26) )(27) loan(28) through(29) none(30) other(31) than(32) American_Honda_Finance(33) .(34) 
+		</sentence>
+		<sentence id="16">
+			Somehow(1) ,(2) my(3) payments(4) were(5) going(6) to(7) be(8) $423(9) per(10) month(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Ummm(1) hello(2) ?(3) ...(4) on(5) a(6) 60(7) month(8) note(9) ...(10) for(11) the(12) cheapest(13) car(14) that(15) Honda(16) sells(17) ,(18) that(19) does(20) not(21) even(22) have(23) a(24) tachometer...$423(25) a(26) month(27) ?(28) !(29) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+		</sentence>
+		<sentence id="18">
+			The(1) finance(2) manager(3) seemed(4) to(5) think(6) this(7) was(8) an(9) excellent(10) deal(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) not(3) all(4) that(5) thrilled(6) about(7) it(8) ,(9) and(10) told(11) mister(12) finance(13) manager(14) that(15) if(16) he(17) came(18) up(19) with(20) a(21) payment(22) near(23) $300(24) a(25) month(26) ((27) give(28) or(29) take(30) $20(31) )(32) I(33) 'd(34) drive(35) off(36) with(37) the(38) car(39) that(40) day(41) .(42) 
+		</sentence>
+		<sentence id="20">
+			He(1) then(2) proceeded(3) to(4) show(5) me(6) my(7) credit(8) report(9) ,(10) and(11) with(12) a(13) red(14) pen(15) circled(16) the(17) '(18) problem(19) areas(20) '(21) of(22) my(23) credit(24) ((25) one(26) 30(27) day(28) late(29) payment(30) and(31) the(32) fact(33) that(34) I(35) have(36) $800_dollars(37) in(38) outstanding(39) balances(40) )(41) and(42) tried(43) to(44) tell(45) me(46) that(47) I(48) have(49) bad(50) credit(51) and(52) this(53) is(54) why(55) the(56) payments(57) were(58) so(59) high(60) .(61) 
+		</sentence>
+		<sentence id="21">
+			Now(1) ,(2) I(3) know(4) I(5) have(6) very(7) good(8) credit(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			I(1) have(2) three(3) credit(4) cards(5) ,(6) over(7) $30,000(8) in(9) available(10) credit(11) ,(12) one(13) late(14) payment(15) in(16) my(17) entire(18) lifetime(19) and(20) otherwise(21) excellent(22) payment(23) history(24) ((25) I(26) usually(27) pay(28) my(29) entire(30) balance(31) at(32) the(33) end(34) of(35) the(36) month(37) )(38) and(39) have(40) paid(41) off(42) two(43) cars(44) previously(45) .(46) 
+		</sentence>
+		<sentence id="23">
+			Buying(1) a(2) tiny(3) Honda(4) ((5) without(6) even(7) a(8) tachometer(9) )(10) should(11) not(12) be(13) a(14) problem(15) for(16) me(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			After(1) about(2) three(3) hours(4) of(5) this(6) ((7) finally(8) got(9) the(10) payment(11) down(12) to(13) $342(14) )(15) I(16) gave(17) up(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			I(1) was(2) tired(3) ,(4) Carmax(5) was(6) across(7) the(8) street(9) ((10) I(11) bought(12) two(13) previous(14) cars(15) there(16) )(17) and(18) the(19) finance(20) man(21) was(22) at(23) this(24) point(25) a(26) complete(27) idiot(28) .(29) 
+		</sentence>
+		<sentence id="26">
+			I(1) told(2) the(3) man(4) I(5) 'd(6) have(7) to(8) '(9) give(10) it(11) another(12) day(13) '(14) and(15) requested(16) my(17) deposit(18) back(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			Things(1) got(2) ugly(3) ,(4) then(5) ...(6) the(7) finance(8) manager(9) stated(10) to(11) me(12) that(13) the(14) deposit(15) that(16) I(17) put(18) on(19) the(20) car(21) was(22) only(23) refunded(24) towards(25) the(26) purchase(27) of(28) a(29) new(30) car(31) ,(32) and(33) that(34) I(35) could(36) not(37) get(38) it(39) back(40) .(41) 
+		</sentence>
+		<sentence id="28">
+			Needless(1) to(2) say(3) ,(4) I(5) was(6) livid(7) .(8) 
+		</sentence>
+		<sentence id="29">
+			I(1) ended(2) up(3) talking(4) to(5) the(6) general(7) manager(8) of(9) the(10) dealership(11) and(12) not(13) only(14) got(15) my(16) deposit(17) back(18) but(19) filled(20) out(21) a(22) *(23) nasty(24) *(25) comment(26) card(27) and(28) 5(29) free(30) oil(31) changes(32) from(33) that(34) Honda(35) dealership(36) which(37) I(38) 'm(39) not(40) even(41) sure(42) if(43) I(44) am(45) going(46) to(47) use(48) .(49) 
+		</sentence>
+		<sentence id="30">
+			My(1) advice(2) :(3) if(4) you(5) want(6) to(7) buy(8) a(9) new(10) Honda(11) ,(12) find(13) the(14) car(15) you(16) want(17) ,(18) get(19) the(20) total(21) price(22) for(23) it(24) ,(25) go(26) to(27) your(28) bank(29) or(30) credit(31) union(32) get(33) financed(34) on(35) your(36) own(37) ...(38) if(39) you(40) have(41) good(42) credit(43) and(44) do(45) not(46) normally(47) have(48) a(49) problem(50) getting(51) approved(52) for(53) loans(54) this(55) will(56) save(57) you(58) a(59) multitude(60) of(61) hassle(62) ,(63) and(64) most(65) likely(66) you(67) 'll(68) get(69) a(70) better(71) interest(72) rate(73) as_well(74) .(75) 
+		</sentence>
+		<sentence id="31">
+			The(1) slight(2) inconvenience(3) of(4) loan-hunting(5) on(6) your(7) own(8) is(9) well(10) worth(11) the(12) benefits(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			I(1) would(2) have(3) bought(4) the(5) car(6) had(7) it(8) not(9) been(10) for(11) the(12) outright(13) hideous(14) treatment(15) that(16) I(17) experienced(18) at(19) the(20) dealer(21) ...(22) be(23) warned(24) !(25) 
+		</sentence>
+		<sentence id="33">
+			Honda(1) dealers(2) know(3) that(4) the(5) cars(6) practically(7) sell(8) themselves(9) ,(10) and(11) that(12) most(13) people(14) who(15) want(16) a(17) Honda(18) are(19) willing(20) to(21) pay(22) more(23) ((24) ie(25) :(26) get(27) shafted(28) )(29) if(30) they(31) really(32) want(33) it(34) .(35) 
+		</sentence>
+		<sentence id="34">
+			You(1) just(2) might(3) be(4) better(5) off(6) going(7) to(8) Carmax(9) ((10) which(11) has(12) the(13) best(14) customer(15) service(16) ANYWHERE(17) )(18) if(19) there(20) is(21) one(22) in(23) your(24) area(25) and(26) finding(27) yourself(28) a(29) nice(30) used(31) Honda(32) .(33) 
+		</sentence>
+	</text>
+</review>

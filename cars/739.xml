@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="739" item="2000 GMC Yukon" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) BUY_IT(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) look(2) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			American(1) car(2) ,(3) brokes(4) down(5) all(6) the(7) time(8) and(9) no(10) one(11) seems(12) to(13) care(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) not(2) buy(3) it(4) ...(5) It(6) will(7) be(8) a(9) huge(10) mistake(11) ...(12) 
+			<opinion polarity="-" feature="car" featWords="4" featRef="car" opWords="2,3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			First(1) at(2) all(3) ,(4) while(5) dealing(6) about(7) buying(8) and(9) on(10) everything(11) GMC(12) was(13) very(14) nice(15) about(16) it(17) ...(18) But(19) it(20) starts(21) after(22) that(23) .(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) a(3) 2000(4) Denali(5) probably(6) 1,5(7) year(8) ago(9) .(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			So(1) the(2) car(3) always(4) break(5) downs(6) .(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) problems(3) on(4) the(5) breaks(6) ,(7) acumulator(8) ,(9) gas(10) depot(11) ,(12) accelaration(13) ,(14) engine(15) ...(16) Everywhere(17) .(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			And(1) no(2) one(3) fixes(4) it(5) ...(6) I(7) 'm(8) sending(9) the(10) car(11) at(12) dealership(13) ,(14) it(15) stays(16) there(17) for(18) days(19) ,(20) they(21) do(22) not(23) give(24) me(25) a(26) rent-a-car(27) and(28) I(29) hate(30) the(31) car(32) ...(33) People(34) are(35) mean(36) .(37) .(38) 
+			<opinion polarity="-" feature="car" featWords="32" opWords="30"/>
+		</sentence>
+		<sentence id="6">
+			They(1) are(2) like(3) "(4) who(5) the(6) hell(7) are(8) you(9) to(10) serve(11) ?(12) "(13) ...(14) Even_though(15) I(16) bought(17) the(18) most(19) expensive(20) car(21) at(22) that(23) dealership(24) ...(25) So(26) my(27) opinion(28) do(29) not(30) buy(31) it(32) ...(33) It(34) will(35) be(36) a(37) huge(38) mistake(39) and(40) a(41) huge(42) waste(43) of(44) money(45) ...(46) Amount_Paid(47) ((48) US(49) $(50) )(51) :(52) 52000(53) Condition(54) :(55) NewModel_Year(56) :(57) 2000Model(58) and(59) Options(60) :(61) Fully(62) loaded(63) ...(64) 
+			<opinion polarity="-" feature="car" featWords="32" featRef="car" opWords="30,31"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="674" item="1998 Honda CR-V" rating="2">
+	<title>
+		<sentence id="1">
+			Gutless(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Honda_Reputation(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) power(2) ,(3) feels(4) dinky(5) 
+			<opinion polarity="-" feature="horsepower" opWords="5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) mother(2) owns(3) one(4) of(5) these(6) ,(7) and(8) I(9) 've(10) been(11) borrowing(12) it(13) for(14) the(15) past(16) couple(17) of(18) days(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			The(1) one(2) she(3) 's(4) got(5) is(6) an(7) automatic(8) ,(9) and(10) I(11) have(12) to(13) offer(14) the(15) opinion(16) that(17) this(18) car(19) has(20) dangerously(21) little(22) power(23) .(24) 
+			<opinion polarity="-" feature="horsepower" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="3">
+			You(1) 're(2) driving(3) 65(4) ,(5) and(6) you(7) want(8) to(9) accelerate(10) to(11) 70(12) ....(13) The(14) only(15) way(16) to(17) do(18) it(19) is(20) to(21) stomp(22) on(23) the(24) gas(25) pedal(26) ,(27) forcing(28) the(29) automatic(30) transmission(31) to(32) downshift(33) ((34) after(35) a(36) 2-second(37) delay(38) )(39) .(40) 
+		</sentence>
+		<sentence id="4">
+			After(1) the(2) downshift(3) ,(4) this(5) toy(6) SUV(7) lurches(8) forward(9) ,(10) screaming(11) in(12) agony(13) ,(14) and(15) really(16) really(17) really(18) wants(19) to(20) upshift(21) again(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Basically(1) ,(2) if(3) you(4) do(5) not(6) floor(7) the(8) gas(9) ,(10) it(11) will(12) upshift(13) and(14) you(15) 'll(16) be(17) out(18) of(19) pickup(20) again(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			People(1) love(2) their(3) Hondas(4) and(5) I(6) 'm(7) not(8) going(9) to(10) mess(11) with(12) that(13) religion(14) ,(15) but(16) for(17) me(18) this(19) little(20) tin(21) can(22) is(23) a(24) pain(25) to(26) drive(27) ((28) and(29) I(30) normally(31) drive(32) a(33) Geo(34) for(35) crying(36) out(37) loud(38) )(39) .(40) 
+		</sentence>
+		<sentence id="7">
+			Maybe(1) it(2) will(3) last(4) forever(5) and(6) have(7) great(8) resale(9) value(10) ,(11) but(12) I(13) would(14) not(15) drive(16) one(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Echoes_of_the_Suzuki_Samurai(1) ....(2) 
+		</sentence>
+	</text>
+</review>

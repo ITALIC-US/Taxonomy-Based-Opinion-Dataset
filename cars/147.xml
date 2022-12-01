@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="147" item="2004 BMW 3 Series" rating="5">
+	<title>
+		<sentence id="1">
+			Almost(1) Perfect(2) 
+			<opinion polarity="+" feature="car" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Tight(1) ,(2) solid(3) ,(4) smooth(5) and(6) super(7) responsive(8) .(9) 
+			<opinion polarity="+" feature="response" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Well(1) built(2) ,(3) 
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Super(1) small(2) trunk(3) ,(4) fold(5) down(6) seats(7) optional(8) .(9) 
+			<opinion polarity="-" feature="trunk" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Limited(1) cabin(2) storage(3) ,(4) tight(5) back(6) seat(7) .(8) 
+			<opinion polarity="-" feature="seat" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Awful(1) stereo(2) 
+			<opinion polarity="-" feature="sound system" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) model(2) is(3) BMWs(4) most(5) reliable(6) and(7) affordable(8) .(9) 
+			<opinion polarity="+" feature="price" opWords="8"/>
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			High(1) resale(2) value(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) no(3) better(4) driving(5) car(6) out(7) there(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			Rear(1) wheel(2) drive(3) ....(4) ahhhhhh(5) love(6) it(7) !(8) 
+			<opinion polarity="+" feature="drive" featWords="3" opWords="6"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			BMW(1) ,(2) once(3) you(4) drive(5) one(6) ,(7) it(8) is(9) hard(10) to(11) drive(12) anything(13) else(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			All(1) systems(2) ,(3) especially(4) steering(5) ,(6) brakes(7) ,(8) and(9) suspension(10) work(11) together(12) to(13) become(14) and(15) extension(16) of(17) your(18) will(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) engines(2) are(3) super(4) smooth(5) as(6) they(7) are(8) what(9) BMWs(10) are(11) most(12) famous(13) for(14) .(15) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			This(1) particular(2) engine(3) is(4) low(5) on(6) torque(7) and(8) horsepower(9) compared(10) to(11) many(12) competitors(13) 6(14) cylinder(15) engines(16) and(17) it(18) needs(19) to(20) be(21) revved(22) to(23) get(24) the(25) hosepower(26) out(27) of(28) it(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) cabin(2) is(3) small(4) and(5) the(6) trunk(7) is(8) very(9) tight(10) .(11) 
+			<opinion polarity="-" feature="trunk" featWords="7" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) unsure(3) as(4) to(5) why(6) the(7) seats(8) do(9) not(10) fold(11) as(12) standard(13) equipment(14) but(15) they(16) were(17) available(18) as(19) an(20) option(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			A(1) base(2) model(3) with(4) automatic(5) as(6) the(7) only(8) option(9) is(10) a(11) great(12) bargain(13) .(14) .(15) seat(16) heaters(17) too(18) are(19) a(20) bargain(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			This(1) car(2) gets(3) very(4) expensive(5) very(6) quickly(7) if(8) one(9) is(10) not(11) judicious(12) in(13) choosing(14) the(15) right(16) equipment(17) .(18) 
+			<opinion polarity="-" feature="price" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) always(3) loved(4) the(5) fact(6) that(7) you(8) can(9) get(10) the(11) Leatherette(12) instead_of(13) leather(14) as(15) it(16) is(17) much(18) more(19) durable(20) and(21) 90(22) percent(23) of(24) the(25) population(26) would(27) never(28) guess(29) it(30) was(31) not(32) real(33) leather(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			The(1) standard(2) features(3) ,(4) upgraded(5) for(6) 2004(7) ,(8) add(9) standard(10) sunroof(11) ,(12) rain(13) sensing(14) wipers(15) and(16) in(17) dash(18) CD(19) player(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Yes(1) ,(2) the(3) seats(4) are(5) "(6) manual(7) "(8) but(9) is(10) power(11) operation(12) REALLY(13) needed(14) ?(15) 
+		</sentence>
+		<sentence id="12">
+			Enjoy(1) this(2) car(3) without(4) loading(5) it(6) with(7) options(8) and(9) it(10) is(11) a(12) great(13) alternative(14) to(15) Japanese(16) /(17) Asian(18) brands(19) and(20) the(21) driving(22) experience(23) and(24) chache(25) is(26) hard(27) to(28) beat(29) .(30) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</text>
+</review>

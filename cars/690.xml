@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="690" item="2003 Dodge Ram" rating="3">
+	<title>
+		<sentence id="1">
+			30,000(1) Mile_Review(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Roomy(1) ,(2) good(3) power(4) for(5) the(6) motor(7) 's(8) size(9) ,(10) no(11) major(12) problems(13) .(14) 
+			<opinion polarity="+" feature="horsepower" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="room" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Boring(1) ,(2) plain(3) ,(4) questionable(5) quality(6) ;(7) below(8) average(9) handling(10) ,(11) suspension(12) ,(13) and(14) steering(15) .(16) 
+			<opinion polarity="-" feature="steering" featWords="15" opWords="8,9"/>
+			<opinion polarity="-" feature="suspension" featWords="12" opWords="8,9"/>
+			<opinion polarity="-" feature="handling" featWords="10" opWords="8,9"/>
+			<opinion polarity="-" feature="car" opWords="3"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) ,(2) the(3) best(4) pickup(5) I(6) 've(7) owned(8) so(9) far(10) but(11) I(12) 'm(13) still(14) slightly(15) disappointed(16) and(17) I(18) am(19) worried(20) about(21) long(22) term(23) durability(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="16" potency="15"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) it(3) 's(4) been(5) OK(6) -(7) but(8) not(9) stellar(10) .(11) 
+			<opinion polarity="-" feature="car" opWords="9,10"/>
+			<opinion polarity="+" feature="car" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			We(1) own(2) 2(3) other(4) vehicles(5) and(6) this(7) has(8) been(9) the(10) least(11) enjoyable(12) of(13) the(14) the(15) 3(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) wife(2) and(3) I(4) also(5) own(6) a(7) Nissan_Murano(8) ((9) our(10) kid(11) hauler(12) and(13) urban(14) SUV(15) )(16) and(17) a(18) Lotus_Elise(19) ((20) our(21) radical(22) weekend(23) toy(24) )(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) interested(4) in(5) our(6) other(7) vehicles(8) ,(9) see(10) our(11) reviews(12) on(13) those(14) as_well(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			This(1) Dodge(2) pickup(3) has(4) been(5) pretty(6) good(7) for(8) me(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) my(3) daily(4) driver(5) and(6) I(7) bought(8) it(9) new(10) in(11) late(12) 2003(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) got(2) a(3) pretty(4) good(5) price(6) on(7) it(8) but(9) do(10) not(11) know(12) that(13) I(14) would(15) recommend(16) the(17) dealer(18) I(19) bought(20) it(21) from(22) .(23) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			I(1) 've(2) always(3) enjoyed(4) pickups(5) and(6) have(7) owned(8) a(9) Ford(10) F150(11) ,(12) Chevy(13) S-10(14) ,(15) and(16) Dodge_Dakota(17) in(18) the(19) past(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			Of(1) those(2) three(3) ,(4) the(5) Dakota(6) was(7) my(8) favorite(9) and(10) most(11) trouble(12) free(13) So(14) ,(15) when(16) I(17) needed(18) a(19) truck(20) with(21) more(22) space(23) after(24) I(25) got(26) married(27) ,(28) I(29) decided(30) to(31) stick(32) with(33) Dodge(34) ,(35) trade(36) in(37) my(38) Dakota(39) and(40) go(41) with(42) a(43) full(44) size(45) four(46) door(47) Ram(48) 1500(49) .(50) 
+		</sentence>
+		<sentence id="10">
+			I(1) purchased(2) a(3) grey(4) four(5) door(6) extended(7) cab(8) with(9) power(10) seats(11) and(12) mirrors(13) ,(14) cloth(15) seats(16) ,(17) 4WD(18) ,(19) the(20) smaller(21) V8(22) motor(23) ,(24) CD(25) player(26) ...(27) and(28) I(29) think(30) that(31) 's(32) about(33) it(34) .(35) 
+		</sentence>
+		<sentence id="11">
+			No(1) tow(2) package(3) ,(4) no(5) rear(6) sliding(7) window(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			The(1) ride(2) has(3) been(4) nice(5) ,(6) it(7) is(8) very(9) roomy(10) ,(11) but(12) there(13) is(14) nothing(15) terribly(16) exciting(17) about(18) it(19) .(20) 
+			<opinion polarity="+" feature="room" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			It(1) does(2) not(3) get(4) very(5) good(6) gas(7) mileage(8) ,(9) but(10) I(11) guess(12) that(13) is(14) to(15) be(16) expected(17) with(18) a(19) V8(20) pickup(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="7,8" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="14">
+			The(1) seats(2) are(3) not(4) very(5) comfortable(6) ,(7) the(8) steering(9) feels(10) a(11) little(12) numb(13) and(14) sloppy(15) ,(16) the(17) stereo(18) is(19) marginal(20) ,(21) and(22) the(23) tires(24) have(25) been(26) a(27) major(28) disappointment(29) .(30) 
+			<opinion polarity="-" feature="steering" featWords="9" opWords="15"/>
+			<opinion polarity="-" feature="steering" featWords="9" opWords="13"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			It(1) could(2) use(3) a(4) stiffer(5) suspension(6) for(7) a(8) pickup(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			Power(1) from(2) the(3) engine(4) is(5) perfectly(6) acceptable(7) for(8) its(9) size(10) .(11) 
+			<opinion polarity="+" feature="horsepower" featWords="1" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="17">
+			After(1) only(2) a(3) few(4) months(5) of(6) ownership(7) ,(8) I(9) had(10) some(11) leaking(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			It(1) rains(2) a_lot(3) where(4) I(5) live(6) ,(7) and(8) in(9) the(10) winter(11) of(12) 2003/2004(13) ,(14) I(15) had(16) quite(17) a(18) trickle(19) of(20) water(21) coming(22) through(23) the(24) right(25) upper(26) corner(27) of(28) the(29) cab(30) and(31) dripping(32) out(33) of(34) the(35) grab(36) handle(37) .(38) 
+		</sentence>
+		<sentence id="19">
+			It(1) took(2) the(3) maintenance(4) department(5) at(6) my(7) dealership(8) 2(9) tries(10) over(11) 6(12) months(13) to(14) get(15) it(16) fixed(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Now(1) ,(2) I(3) am(4) having(5) some(6) problems(7) with(8) very(9) rough(10) idling(11) and(12) need(13) to(14) try(15) to(16) get(17) that(18) taken(19) care(20) of(21) during(22) my(23) next(24) service(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			The(1) tires(2) have(3) been(4) problem(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			Prior(1) to(2) owning(3) this(4) truck(5) ,(6) I(7) 've(8) never(9) had(10) a(11) flat(12) tire(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			With(1) this(2) truck(3) ,(4) I(5) 've(6) had(7) two(8) in(9) a(10) year(11) and(12) a_half(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			One(1) was(2) a(3) rock(4) puncture(5) while(6) off(7) road(8) on(9) a(10) hiking(11) trip(12) -(13) the(14) other(15) was(16) a(17) small(18) screw(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			Could(1) just(2) be(3) dumb(4) luck(5) ,(6) but(7) I(8) think(9) I(10) 'll(11) be(12) getting(13) some(14) tougher(15) rough(16) terrain(17) tires(18) very(19) soon(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			Overall(1) ,(2) this(3) truck(4) has(5) been(6) good(7) ,(8) but(9) not(10) great(11) .(12) 
+			<opinion polarity="-" feature="truck" featWords="4" opWords="10,11"/>
+			<opinion polarity="+" feature="truck" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="27">
+			Since(1) I(2) 'm(3) also(4) not(5) that(6) enthused(7) about(8) Chevy(9) or(10) Ford(11) ,(12) I(13) think(14) I(15) may(16) go(17) with(18) a(19) Nissan_Titan(20) or(21) Honda_Ridgeline(22) as(23) my(24) next(25) truck(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			Our(1) Nissan_Murano(2) has(3) been(4) fantastic(5) ,(6) so(7) I(8) would(9) expect(10) the(11) Titan(12) to(13) be(14) good(15) quality(16) and(17) Ridgline(18) looks(19) cool(20) and(21) it(22) 's(23) a(24) Honda(25) -(26) it(27) will(28) probably(29) run(30) forever(31) with(32) minimal(33) problems(34) .(35) 
+			<opinion polarity="+" feature="design" opWords="19,20"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+		</sentence>
+		<sentence id="29">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003(12) 
+		</sentence>
+	</text>
+</review>

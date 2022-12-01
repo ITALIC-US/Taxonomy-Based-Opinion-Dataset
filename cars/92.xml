@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="92" item="1995 Chevrolet Corvette" rating="5">
+	<title>
+		<sentence id="1">
+			My(1) 1995(2) Corvette(3) 6(4) speed(5) convertible(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			handling(1) ,(2) acceleration(3) &(4) good(5) looks(6) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cargo(1) space(2) ,(3) Only(4) uses(5) Mobile(6) 1(7) motor(8) oil(9) ,(10) opti(11) spark(12) ,(13) water(14) pump(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) pure(2) performance(3) is(4) what(5) your(6) into(7) the(8) corvettes(9) the(10) car(11) to(12) get(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) a(2) ride(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) has(3) it(4) all(5) looks(6) ,(7) speed(8) ,(9) handling(10) comfort(11) &(12) brakes(13) !(14) 
+		</sentence>
+		<sentence id="3">
+			You(1) want(2) a(3) 2002(4) BMW(5) M3(6) Conv(7) ?(8) go(9) ahead(10) ill(11) whip(12) your(13) butt(14) ,(15) You(16) want(17) to(18) get(19) noticed(20) ?(21) after(22) a(23) while(24) your(25) going(26) to(27) notice(28) almost(29) everybody(30) in(31) town(32) knows(33) you(34) including(35) the(36) cops(37) "(38) I(39) 'm(40) not(41) sure(42) if(43) this(44) is(45) a(46) good(47) thing(48) or(49) not(50) "(51) .(52) 
+		</sentence>
+		<sentence id="4">
+			Porsche(1) ?(2) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) need(4) no(5) stinking(6) Porsche(7) ,(8) Besides_I(9) can(10) beat(11) most(12) of(13) them(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Are(1) you(2) worried(3) about(4) a(5) harsh(6) ride(7) ?(8) 
+			<opinion polarity="-" feature="ride quality" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			do(1) not(2) be(3) ,(4) the(5) 95(6) and(7) 96(8) are(9) very(10) smooth(11) ,(12) How(13) about(14) cornering(15) ?(16) 
+			<opinion polarity="+" feature="car" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			Man(1) this(2) car(3) corners(4) like(5) a(6) roller(7) coaster(8) "(9) seriously(10) no(11) kidding(12) "(13) .(14) hear(15) are(16) some(17) corvette(18) facts(19) :(20) The(21) 1984(22) Corvette(23) was(24) a(25) complete(26) redesign(27) in(28) almost(29) every(30) aspect(31) ,(32) Handling(33) considerations(34) dominated(35) and(36) the(37) result(38) was(39) praised(40) by(41) the(42) motoring(43) press(44) as(45) the(46) world(47) 's(48) best(49) cornering(50) automobile(51) .(52) in_1985(53) Suspension(54) rates(55) were(56) lowered(57) ,(58) a(59) result(60) of(61) harsh(62) ride(63) criticism(64) &(65) the(66) Corvette(67) tied(68) for(69) best(70) ((71) with(72) Porsche(73) )(74) in(75) road(76) holding(77) as(78) measured(79) by(80) 0-force(81) skid(82) pad(83) adhesion(84) .(85) 
+		</sentence>
+		<sentence id="9">
+			America(1) was(2) not(3) playing(4) around(5) when(6) it(7) made(8) the(9) 85(10) to(11) 96(12) C4(13) corvettes(14) ,(15) my(16) car(17) is(18) awesome(19) ,(20) I(21) love(22) driving(23) it(24) &(25) I(26) can(27) not(28) be(29) to(30) angry(31) about(32) anything(33) at(34) this(35) point(36) of(37) my(38) life(39) because(40) when(41) I(42) 'm(43) upset(44) I(45) just(46) say(47) to(48) myself(49) "(50) hey(51) man(52) you(53) drive(54) a(55) corvette(56) "(57) And(58) I(59) swear(60) it(61) lowers(62) my(63) blood(64) pressure(65) :(66) )(67) But(68) if(69) looks(70) are(71) what(72) you(73) re(74) into(75) this(76) car(77) gets(78) so(79) many(80) looks(81) after(82) a(83) while(84) its(85) going(86) to(87) bug(88) you(89) .(90) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="19"/>
+		</sentence>
+		<sentence id="10">
+			Their(1) hardly(2) is(3) a(4) time(5) when(6) I(7) go(8) into(9) a(10) gas(11) station(12) without(13) somebody(14) saying(15) something(16) to(17) me(18) about(19) it(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Sometimes(1) I(2) even(3) find(4) myself(5) fending(6) off(7) more(8) than(9) one(10) person(11) at(12) a(13) time(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			Overall(1) ;(2) just(3) read(4) the(5) reviews(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			The(1) LT(2) -(3) 1(4) satisfies(5) Me(6) &(7) every(8) owner(9) of(10) one(11) I(12) have(13) talked(14) to(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			We(1) all(2) agree(3) the(4) car(5) just(6) feels(7) rite(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			If(1) theirs(2) one(3) department(4) this(5) car(6) is(7) lacking(8) in(9) it(10) s(11) off(12) the(13) line(14) traction(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			This(1) is(2) the(3) only(4) reason(5) it(6) does(7) not(8) have(9) upper(10) 4_second(11) 0(12) to(13) 60(14) &(15) lower(16) 13(17) 1/4_mile(18) times(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			But(1) in_all(2) honesty(3) you(4) 're(5) not(6) going(7) to(8) care(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			It(1) 's(2) already(3) fast(4) enough(5) as(6) is(7) ,(8) they(9) are(10) good(11) for(12) a(13) 5.0(14) to(15) 5.3_second(16) 0(17) to(18) 60(19) MPH(20) &(21) consistent(22) 13.6(23) 1/4_mile(24) times(25) regardless_of(26) what(27) some(28) major(29) magazines(30) have(31) posted(32) .(33) 
+			<opinion polarity="+" feature="speed" opWords="4,5"/>
+		</sentence>
+		<sentence id="19">
+			But(1) do(2) not(3) take(4) my(5) word(6) for(7) it(8) check(9) out(10) the(11) info(12) below(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			BTW_There(1) were(2) two(3) heads(4) used(5) on(6) the(7) 350(8) ,(9) one(10) aluminum(11) and(12) one(13) cast(14) iron(15) ,(16) along_with(17) one(18) cast(19) iron(20) head(21) for(22) the(23) 265(24) .(25) 
+		</sentence>
+		<sentence id="21">
+			GM(1) claimed(2) that(3) the(4) original(5) LT1(6) aluminum(7) head(8) had(9) a(10) 15_%(11) increase(12) in(13) airflow(14) as(15) a(16) result(17) of(18) revised(19) port(20) angles(21) and(22) higher(23) port(24) ceilings(25) when(26) compared(27) to(28) the(29) 1991(30) L98(31) head(32) .(33) 
+		</sentence>
+		<sentence id="22">
+			That(1) was(2) impressive(3) in_1992(4) ,(5) but(6) the(7) iron(8) LT1(9) head(10) that(11) came(12) out(13) in_1994(14) was(15) even(16) better(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			It(1) flowed(2) 20_%(3) more(4) on(5) the(6) intake(7) side(8) and(9) made(10) more(11) horsepower(12) on(13) the(14) dyno(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			Convertibles(1) equipped(2) with(3) the(4) hard(5) top(6) are(7) actually(8) 15_%(9) stiffer(10) than(11) the(12) coupe(13) BTW(14) stiffer(15) means(16) better(17) handling(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			Another(1) thing(2) to(3) note(4) about(5) the(6) LT1(7) powered(8) Corvette(9) is(10) that(11) some(12) stock(13) coupes(14) have(15) been(16) documented(17) toping(18) out(19) at(20) 172MPH(21) .(22) compare(23) that(24) to(25) an(26) M3(27) 's(28) governed(29) 155mph(30) .(31) 
+		</sentence>
+		<sentence id="26">
+			C4(1) corvette(2) info(3) http://www.corvettearchive.com/images/1991/CDDec91/199112Car(4) &(5) Driver_vette-p4.jpg(6) http://www.corvettearchive.com/images/1989/CDJun89/198906Car(7) &(8) Driver_VetteVert-p1.jpg(9) http://www.corvettearchive.com/images/1989/CDJun89/198906Car(10) &(11) Driver_VetteVert-p2.jpg(12) http://www.corvettearchive.com/images/1989/CDJun89/198906Car(13) &(14) Driver_VetteVert-p3.jpg(15) Porsche(16) ?(17) 
+		</sentence>
+		<sentence id="27">
+			I(1) do(2) not(3) need(4) no(5) stinking(6) Porsche(7) ;(8) )(9) Look(10) !(11) 
+		</sentence>
+		<sentence id="28">
+			The(1) Porsche(2) carrera(3) 4(4) is(5) 1(6) tenth(7) of(8) a_second(9) quicker(10) than(11) the(12) stock(13) LT1(14) corvette(15) down(16) the(17) 1/4_Mile(18) and(19) cost(20) $49,590.00(21) more(22) than(23) I(24) paid(25) for(26) my(27) vette(28) .(29) http://porsche.jbcarpages.com/911/2000/index3.php(30) Just(31) how(32) much(33) are(34) you(35) willing(36) to(37) pay(38) for(39) a(40) name(41) ,(42) 0.1(43) sec(44) quicker(45) 1/4_mile(46) time(47) ,(48) some(49) serious(50) oil(51) change(52) cost(53) &(54) marginally(55) better(56) craftsmanship(57) ?(58) besides(59) if(60) the(61) craftsmanship(62) really(63) worries(64) you(65) all(66) that(67) much(68) take(69) some(70) of(71) the(72) money(73) you(74) save(75) from(76) not(77) buying(78) the(79) Porsche(80) or(81) Beemer(82) ,(83) have(84) the(85) armrest(86) done(87) in(88) leather(89) ,(90) put(91) a(92) piece(93) of(94) coat(95) hanger(96) into(97) your(98) visor(99) so(100) it(101) won(102) t(103) bend(104) .(105) 
+		</sentence>
+		<sentence id="29">
+			And(1) buy(2) some(3) better(4) carpeting(5) .(6) 
+		</sentence>
+		<sentence id="30">
+			All(1) that(2) will(3) cost(4) you(5) way(6) less(7) than(8) $49,590.00(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			do(1) not(2) sleep(3) on(4) the(5) 92(6) to(7) 96(8) corvettes(9) they(10) are(11) crafted(12) much(13) better(14) than(15) the(16) 84(17) to(18) 90(19) vettes(20) plus(21) the(22) interior(23) is(24) styled(25) better(26) too(27) IMO(28) .(29) 
+		</sentence>
+		<sentence id="32">
+			BTW(1) in(2) 95(3) there(4) were(5) a(6) few(7) key(8) changes(9) .(10) the(11) side(12) fenders(13) got(14) flared(15) ,(16) heavy(17) duty(18) 13(19) "(20) front(21) 12(22) "(23) rear(24) brakes(25) became(26) standard(27) an(28) all(29) models(30) ,(31) A(32) drip(33) tube(34) was(35) designed(36) into(37) the(38) A-pillar(39) weather-strip(40) for(41) improved(42) water(43) intrusion(44) control(45) and(46) extra(47) measures(48) were(49) taken(50) in(51) 95(52) to(53) improve(54) Fit(55) and(56) finish(57) .(58) 
+			<opinion polarity="+" feature="brakes" featWords="25" opWords="17,18"/>
+		</sentence>
+		<sentence id="33">
+			Out(1) of(2) sight(3) were(4) numerous(5) Velcro(6) straps(7) to(8) reduce(9) rattles(10) ,(11) and(12) a(13) stronger(14) radio(15) mount(16) for(17) less(18) CD(19) skipping(20) But(21) in_all(22) fairness(23) &(24) despite(25) all(26) the(27) improvements(28) the(29) 85(30) to(31) 91s(32) still(33) have(34) plenty(35) to(36) offer(37) .(38) 
+		</sentence>
+		<sentence id="34">
+			As(1) a(2) matter(3) of(4) a(5) fact(6) despite(7) the(8) lower(9) hp(10) of(11) the(12) L98(13) engine(14) ,(15) 230/245Hp(16) vs(17) 300HP(18) for(19) the(20) LT1(21) ,(22) they(23) actually(24) feel(25) quicker(26) because_of(27) their(28) higher(29) 345(30) FLbs(31) .(32) vs(33) the(34) 335/340(35) fLbs(36) torque(37) ratings(38) ,(39) so(40) it(41) does(42) not(43) really(44) matter(45) witch(46) 85(47) to(48) 96(49) C4(50) vette(51) you(52) get(53) they(54) all(55) deliver(56) a(57) form(58) of(59) satisfaction(60) &(61) control(62) that(63) makes(64) them(65) fun(66) to(67) drive(68) .(69) 
+			<opinion polarity="+" feature="car" opWords="66"/>
+		</sentence>
+		<sentence id="35">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 16,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) LT(16) -(17) 1(18) 
+		</sentence>
+	</text>
+</review>

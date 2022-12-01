@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="3" item="1999 GMC Suburban" rating="4">
+	<title>
+		<sentence id="1">
+			Suburban_Vs(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Excursions(1) :(2) All(3) in_all(4) ,(5) the(6) Suburban(7) kicks(8) ASS(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) power(2) ,(3) comfort(4) ,(5) and(6) reliability(7) .(8) 
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="reliability" featWords="7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) guzzler(2) ,(3) and(4) higher(5) rollover(6) risk(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) GMC_Suburban(2) is(3) the(4) most(5) reliable(6) SUV_I(7) have(8) ever(9) driven(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) driven(3) all(4) of(5) Ford_'s_SUVs(6) ,(7) and(8) the(9) Suburban(10) topped(11) all(12) of(13) them(14) in(15) almost(16) every(17) category(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			I(1) believe(2) that(3) GMC(4) /(5) Chevrolet(6) make(7) the(8) highest(9) quality(10) SUV(11) ,(12) clearly(13) shown(14) in(15) the(16) Suburban(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="9,10"/>
+		</sentence>
+		<sentence id="4">
+			One(1) thing(2) I(3) like(4) about(5) the(6) Suburban(7) is(8) its(9) substantial(10) amount(11) of(12) power(13) and(14) torque(15) .(16) 
+			<opinion polarity="+" feature="horsepower" featWords="13" opWords="10"/>
+			<opinion polarity="+" feature="torque" featWords="15" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			The(1) Suburban(2) destroys(3) its(4) competition(5) in(6) towing(7) power(8) and(9) comfort(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			The(1) Suburban(2) excels(3) in(4) its(5) towing(6) power(7) ,(8) especially(9) if(10) you(11) have(12) a(13) boat(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			My(1) boat(2) weighs(3) two_tons(4) ,(5) and(6) when(7) I(8) 'm(9) towing(10) it(11) to(12) the(13) lake(14) ,(15) all(16) the(17) torque(18) and(19) power(20) I(21) want(22) and(23) need(24) is(25) on(26) tap(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			Another(1) thing(2) I(3) enjoy(4) about(5) the(6) Suburban(7) ,(8) is(9) that(10) it(11) practically(12) "(13) owns(14) "(15) the(16) road(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			People(1) get(2) out(3) of(4) my(5) way(6) when(7) they(8) see(9) my(10) big(11) a(12) --(13) Suburban(14) coming(15) down(16) the(17) road(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			The(1) Excursion(2) may(3) be(4) bigger(5) ,(6) but(7) it(8) surely(9) does(10) not(11) out-perform(12) the(13) Suburban(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			A(1) drawback(2) of(3) the(4) Suburban(5) though(6) ,(7) as(8) with(9) all(10) SUVs(11) ,(12) is(13) the(14) amount(15) of(16) gas(17) it(18) consumes(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			I(1) spend(2) about(3) 50_dollars(4) and(5) a_half(6) hour(7) at(8) the(9) gas(10) station(11) when(12) I(13) need(14) a(15) full(16) tank(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Because_of(1) its(2) size(3) ,(4) the(5) Suburban(6) does(7) not(8) handle(9) as_well(10) as(11) I(12) would(13) prefer(14) ,(15) but(16) compared(17) to(18) Ford(19) ,(20) and(21) most(22) other(23) cars(24) in(25) its(26) class(27) ,(28) the(29) Suburban(30) rises(31) above(32) the(33) standards(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) want(3) a(4) reliable(5) ,(6) fairly(7) inexpensive(8) SUV(9) ,(10) that(11) has(12) four-wheel(13) standard(14) ,(15) and(16) excellent(17) power(18) ,(19) than(20) the(21) GMC_Suburban(22) is(23) the(24) perfect(25) choice(26) for(27) you(28) .(29) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="price" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="horsepower" featWords="18" opWords="17"/>
+		</sentence>
+	</text>
+</review>

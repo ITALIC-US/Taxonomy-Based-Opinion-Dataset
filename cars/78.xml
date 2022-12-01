@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="78" item="1999 GMC Suburban" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Car(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) and(2) big(3) ,(4) 4(5) wheel(6) drive(7) ,(8) cruise(9) control(10) ,(11) and(12) leather(13) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+			<opinion polarity="+" feature="size" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Suburban(2) is(3) a(4) nice(5) rummy(6) truck(7) .(8) 
+			<opinion polarity="+" feature="truck" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="truck" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) 4(3) wheel(4) drive(5) and(6) superb(7) handling(8) .(9) 
+			<opinion polarity="+" feature="handling" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) big(3) and(4) has(5) room(6) for(7) 8(8) adults(9) .(10) 
+			<opinion polarity="+" feature="size" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) V8,air(4) conditioner(5) ,(6) cruse(7) control(8) ,(9) and(10) 4(11) wheel(12) drive(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			If(1) it(2) snows(3) three(4) or(5) four_feet(6) and(7) you(8) have(9) to(10) get(11) your(12) kids(13) somewhere(14) you(15) put(16) it(17) into(18) neutral(19) then(20) into(21) 4(22) wheel(23) and(24) then(25) go(26) to(27) where(28) you(29) want(30) to(31) go(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			I(1) like(2) this(3) vehicle(4) because(5) it(6) is(7) big(8) and(9) it(10) has(11) great(12) handling(13) .(14) 
+			<opinion polarity="+" feature="handling" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="size" opWords="8"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) need(3) room(4) for(5) your(6) work(7) equipment(8) or(9) your(10) children(11) just(12) get(13) a(14) suburban(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) recomend(3) this(4) car(5) to(6) people(7) who(8) need(9) the(10) space(11) or(12) just(13) want(14) it(15) .(16) --(17) 
+		</sentence>
+	</text>
+</review>

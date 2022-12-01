@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="581" item="2000 Chevrolet Impala" rating="3">
+	<title>
+		<sentence id="1">
+			Nice_Exterior(1) ,(2) Typical_Chevy(3) ((4) i(5) .(6) e(7) .(8) LOUSY(9) )(10) Interior(11) 
+			<opinion polarity="-" feature="interior" featWords="11" opWords="9"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Exterior(1) styling(2) ,(3) handling(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) ,(2) Interior(3) ,(4) Interior(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) had(2) the(3) opportunity(4) to(5) test(6) drive(7) the(8) new(9) Impala(10) last(11) weekend(12) and(13) was(14) somewhat(15) impressed(16) with(17) this(18) vehicle(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="19" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			In(1) fact(2) ,(3) I(4) liked(5) it(6) so(7) much(8) I_ALMOST(9) bought(10) one(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="6" featRef="car" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) ALMOST(3) is(4) as(5) far(6) as(7) I(8) got(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			Let(1) me(2) explain(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) is(3) beautiful(4) ...(5) until(6) you(7) climb(8) inside(9) !(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			True(1) to(2) Chevies(3) of(4) the(5) past(6) ,(7) the(8) Impala(9) 's(10) interior(11) does(12) NOT(13) match(14) the(15) quality(16) of(17) the(18) exterior(19) ((20) I(21) 'll(22) ignore(23) the(24) AWFUL(25) alloy(26) rim(27) design(28) )(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			You(1) basically(2) have(3) two(4) options(5) when(6) choosing(7) an(8) interior(9) on(10) this(11) car(12) ;(13) bench(14) or(15) bucket(16) seats(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) go(3) with(4) the(5) buckets(6) ,(7) the(8) shifter(9) is(10) on(11) the(12) floor(13) and(14) you(15) get(16) a(17) very(18) nice(19) console(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) the(3) seats(4) are(5) not(6) ergonomic(7) ,(8) are(9) very(10) uncomfortable(11) ,(12) and(13) give(14) the(15) appearance(16) of(17) a(18) 70(19) 's(20) Chevy(21) .(22) 
+			<opinion polarity="-" feature="seat" featWords="4" opWords="11" potency="10"/>
+			<opinion polarity="-" feature="seat" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="10">
+			On_the_other_hand(1) ,(2) the(3) bench(4) is(5) designed(6) nicely(7) ,(8) but(9) the(10) shifter(11) is(12) on(13) the(14) column(15) and(16) you(17) get(18) NO(19) console(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Plus(1) ,(2) the(3) cup(4) holders(5) flip(6) out(7) of(8) the(9) armrest(10) ,(11) are(12) very(13) flimsy(14) ,(15) and(16) the(17) sweat(18) from(19) a(20) drink(21) drips(22) on(23) the(24) seat(25) .(26) 
+			<opinion polarity="-" feature="cup holders" featWords="4,5" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="12">
+			VERY(1) poor(2) design(3) .(4) 
+			<opinion polarity="-" feature="design" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="13">
+			The(1) rest(2) of(3) the(4) interior(5) is(6) plain(7) and(8) does(9) nothing(10) to(11) excite(12) me(13) as(14) a(15) buyer(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			When(1) will(2) Chevy(3) figure(4) out(5) that(6) consumers(7) want(8) a(9) nice(10) interior(11) to(12) go(13) with(14) a(15) nice(16) exterior(17) ?(18) !(19) 
+			<opinion polarity="+" feature="exterior" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="interior" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="15">
+			Too(1) bad(2) ;(3) I(4) would(5) 've(6) loved(7) to(8) have(9) driven(10) one(11) home(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			Instead(1) ,(2) I(3) opted(4) for(5) the(6) smaller(7) ,(8) but(9) better(10) apportioned(11) ,(12) Olds_Alero(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Bottom(1) line(2) :(3) If(4) you(5) do(6) not(7) care(8) about(9) the(10) interior(11) ,(12) this(13) is(14) a(15) great(16) car(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="51" item="Sony MDR-NC11 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			worst(1) sony(2) product(3) i(4) ever(5) owned(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			do(1) reduce(2) external(3) noise(4) .(5) sound(6) is(7) OK(8) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			terrible(1) noise(2) distortion(3) as(4) rigid(5) wires(6) touch(7) you(8) while(9) you(10) move(11) .(12) v(13) poorly(14) fitting(15) buds(16) .(17) 
+			<opinion polarity="-" feature="earbuds" featWords="16" opWords="14,15"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) excited(3) to(4) buy(5) these(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) wrong(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) normally(3) a(4) fan(5) of(6) sony(7) ,(8) but(9) these(10) are(11) a_real(12) let(13) down(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) initially(3) unsure(4) about(5) them(6) and(7) the(8) experience(9) got(10) worse(11) and(12) worse(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			I(1) never(2) use(3) them(4) now(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			The(1) ear(2) buds(3) do(4) not(5) fit(6) my(7) ears(8) well(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) mean(2) they(3) do(4) ,(5) kinda(6) ,(7) if(8) i(9) spend(10) minutes(11) putting(12) them(13) in(14) and(15) NEVER(16) move(17) my(18) head(19) !(20) 
+		</sentence>
+		<sentence id="8">
+			Other(1) wise(2) they(3) just(4) work(5) themselves(6) out(7) ,(8) particularly(9) as(10) the(11) wires(12) are(13) so(14) rigid(15) and(16) transmit(17) so(18) much(19) "(20) torque(21) "(22) to(23) the(24) buds(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Maybe(1) others(2) have(3) a(4) better(5) experience(6) fit(7) wise(8) ,(9) though(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			My(1) main(2) problem(3) is(4) that(5) the(6) wiring(7) is(8) rigid(9) and(10) as(11) you(12) move(13) it(14) touches(15) your(16) clothing(17) and(18) transfer(19) maddening(20) clanking(21) noises(22) to(23) the(24) phones(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			It(1) just(2) drove(3) me(4) mad(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			I(1) cant(2) use(3) them(4) even(5) walking(6) or(7) if(8) I(9) plan(10) on(11) turning(12) my(13) head(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Dont(1) even(2) think(3) about(4) using(5) them(6) at(7) the(8) gym(9) or(10) running(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Now_I(1) almost(2) never(3) use(4) them(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			They(1) do(2) deaden(3) external(4) sound(5) ,(6) but(7) that(8) seems(9) like(10) it(11) has(12) more(13) to(14) do(15) with(16) the(17) physical(18) ear(19) plug(20) shape(21) than(22) the(23) technology(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			What(1) a(2) really(3) bad(4) deal(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			And(1) for(2) the(3) money(4) ,(5) what(6) a(7) REALLY_BAD(8) deal(9) !(10) dont(11) bother(12) .(13) 
+		</sentence>
+	</text>
+</review>

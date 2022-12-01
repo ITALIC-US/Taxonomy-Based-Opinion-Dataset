@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="876" item="1999 Mazda Protege" rating="2">
+	<title>
+		<sentence id="1">
+			Just(1) starting(2) out(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			affordable(1) ,(2) gas(3) mileage(4) good(5) 
+			<opinion polarity="+" feature="gas" featWords="3,4" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			uncomfortable(1) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) car(2) is(3) for(4) the(5) person(6) just(7) starting(8) out(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			If(1) it(2) 's(3) luxury(4) you(5) want(6) ,(7) do(8) not(9) consider(10) buying(11) this(12) car(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			It(1) gets(2) good(3) gas(4) mileage(5) and(6) the(7) price(8) is(9) affordable(10) ,(11) but(12) if(13) you(14) live(15) where(16) you(17) have(18) a_lot_of(19) hills(20) and(21) dales(22) then(23) look(24) for(25) something(26) else(27) that(28) will(29) keep(30) it(31) 's(32) speed(33) on(34) those(35) hills(36) and(37) that(38) can(39) make(40) the(41) time(42) pass(43) .(44) 
+			<opinion polarity="+" feature="price" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			I(1) took(2) a(3) two(4) hour(5) drive(6) that(7) felt(8) more(9) like(10) 4(11) hours(12) because(13) it(14) seemed(15) to(16) take(17) so(18) long(19) getting(20) over(21) the(22) mountains(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			I(1) thought(2) I(3) would(4) never(5) get(6) to(7) my(8) destination(9) !(10) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) to(3) stop(4) a(5) couple(6) of(7) times(8) to(9) stretch(10) my(11) legs(12) and(13) get(14) some(15) fresh(16) air(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) lost(2) reception(3) in(4) the(5) mountains(6) and(7) was(8) unable(9) to(10) play(11) my(12) radio(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			It(1) does(2) have(3) a(4) CD(5) so_that(6) 's(7) a(8) good(9) option(10) to(11) have(12) when(13) all(14) else(15) fails(16) .(17) 
+		</sentence>
+	</text>
+</review>

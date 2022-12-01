@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="137" item="1997 Cadillac Eldorado" rating="5">
+	<title>
+		<sentence id="1">
+			1997(1) cadillac(2) el(3) dorado(4) ETC(5) 32(6) valve(7) northstar(8) engine(9) ,(10) pearl(11) white(12) beauty(13) ,(14) with(15) cadillac(16) custome(17) rims(18) .(19) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			very(1) comfortable(2) for(3) 4(4) adults(5) ,(6) plenty_of(7) horsepower(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Has(1) excellent(2) lines(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Like(1) driving(2) in(3) your(4) recliner(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) city(2) mileage(3) .(4) 
+			<opinion polarity="-" feature="gas" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Uses(1) premeuim(2) gas(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			What(1) can(2) I(3) say(4) ,(5) I(6) love(7) this(8) car(9) !(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			very(1) good(2) design(3) ,(4) very(5) contemporary(6) .(7) 
+			<opinion polarity="+" feature="design" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			Two(1) door(2) coupes(3) do(4) not(5) get(6) any(7) bigger(8) than(9) this(10) !(11) 
+		</sentence>
+		<sentence id="3">
+			Big_american(1) car(2) ,(3) with(4) plenty_of(5) get(6) and(7) go(8) !(9) 
+		</sentence>
+		<sentence id="4">
+			Beautiful(1) interior(2) ,(3) you(4) arrive(5) in(6) class(7) .(8) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1997(12) 
+		</sentence>
+	</text>
+</review>

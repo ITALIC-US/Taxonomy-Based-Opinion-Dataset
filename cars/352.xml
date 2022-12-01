@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="352" item="1998 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			Bad_Back(1) ?(2) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) buy(3) this(4) car(5) !(6) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) good(2) ,(3) handles(4) well(5) ,(6) roomy(7) 
+			<opinion polarity="+" feature="room" opWords="7"/>
+			<opinion polarity="+" feature="handling" opWords="4,5"/>
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) seats(2) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			When(1) my(2) Mercury_Sable(3) was(4) totaled(5) ,(6) I(7) began(8) searching(9) for(10) a(11) reliable(12) car(13) and(14) while(15) driving(16) the(17) interim(18) rental(19) ,(20) a(21) Chevrolet_Lumina(22) ,(23) my(24) lower(25) back(26) never(27) felt(28) better(29) .(30) 
+			<opinion polarity="+" feature="reliability" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			Four(1) days(2) after(3) purchasing(4) my(5) 1998(6) Accord(7) ,(8) I(9) was(10) in(11) pain(12) which(13) increases(14) the(15) more(16) time(17) I(18) spend(19) driving(20) this(21) car(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) seats(2) are(3) like(4) boards(5) ,(6) offer(7) insufficient(8) leg(9) and(10) back(11) support(12) and(13) even(14) an(15) upholsterer(16) could(17) not(18) make(19) them(20) more(21) comfortable(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			In(1) fact(2) ,(3) I(4) was(5) told(6) they(7) receive(8) frequent(9) complaints(10) about(11) Honda(12) seats(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Everything(1) else(2) about(3) this(4) car(5) is(6) great(7) -(8) it(9) handles(10) well(11) ,(12) good(13) sound(14) system(15) and(16) is(17) very(18) reliable(19) .(20) 
+			<opinion polarity="+" feature="reliability" opWords="19" potency="18"/>
+			<opinion polarity="+" feature="sound system" featWords="14,15" opWords="13"/>
+			<opinion polarity="+" feature="handling" opWords="10,11"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			But(1) if(2) you(3) have(4) back(5) problems(6) ,(7) keep(8) looking(9) !(10) 
+		</sentence>
+	</text>
+</review>

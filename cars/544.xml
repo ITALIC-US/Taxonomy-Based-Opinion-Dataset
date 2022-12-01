@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="544" item="2002 BMW 5 Series" rating="2">
+	<title>
+		<sentence id="1">
+			BMX(1) 540i(2) 6M(3) Love(4) /(5) Hate(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) ride(2) Great(3) performance(4) luxurious(5) interior(6) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="performance" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			manufacturer(1) 's(2) defects(3) -(4) axles(5) ,(6) power(7) steering(8) ,(9) clutch(10) Substandard_BMW(11) dealer(12) response(13) on(14) related(15) defects(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) car(2) .(3) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Manufacturer(1) 's(2) defects(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			If(1) only(2) BMW(3) would(4) stand(5) by(6) their(7) product(8) ,(9) admit(10) this(11) one(12) is(13) a(14) lemon(15) ((16) or(17) at_least(18) fix(19) the(20) problems(21) at(22) their(23) cost(24) )(25) .(26) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) love(2) my(3) 540i(4) and(5) I(6) hate(7) my(8) 540i(9) .(10) 
+			<opinion polarity="-" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) is(3) amazing(4) when(5) everything(6) is(7) working(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) ride(2) ,(3) acceleration(4) ,(5) braking(6) ,(7) steering(8) ,(9) sound(10) are(11) all(12) phenomenal(13) .(14) 
+			<opinion polarity="+" feature="sound system" featWords="10" opWords="13"/>
+			<opinion polarity="+" feature="steering" featWords="8" opWords="13"/>
+			<opinion polarity="+" feature="brakes" featWords="6" opWords="13"/>
+			<opinion polarity="+" feature="acceleration" featWords="4" opWords="13"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			But(1) how(2) much(3) do(4) you(5) want(6) to(7) push(8) your(9) beautiful(10) vehicle(11) when(12) you(13) 've(14) already(15) had(16) both(17) rear(18) axles(19) replaced(20) -(21) due(22) to(23) manufacturer(24) 's(25) defect(26) ,(27) have(28) had(29) the(30) clutch(31) replaced(32) at(33) 12,000_miles(34) -(35) a(36) current(37) dispute(38) with(39) BMW(40) over(41) the(42) drivetrain(43) /(44) axle(45) impact(46) on(47) the(48) clutch(49) ,(50) and(51) currently(52) have(53) the(54) power(55) steering(56) erratically(57) take(58) a(59) siesta(60) in(61) tight(62) turns(63) .(64) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="5">
+			I(1) find(2) myself(3) driving(4) this(5) amazing(6) vehicle(7) like(8) it(9) were(10) a(11) $59,000(12) minivan(13) -(14) not(15) quite(16) how(17) I(18) envisioned(19) myself(20) 2(21) years(22) ago(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) response(2) from(3) BMW(4) has(5) been(6) much(7) less(8) than(9) I(10) expected(11) from(12) the(13) maker(14) of(15) such(16) "(17) fine(18) "(19) automobiles(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="7">
+			They(1) were(2) very(3) quick(4) to(5) respond(6) when(7) within(8) 3(9) months(10) I(11) had(12) axle(13) problems(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			But(1) when(2) we(3) got(4) to(5) the(6) clutch(7) at(8) 12,000_miles(9) everything(10) changed(11) to(12) "(13) this(14) is(15) a(16) wear(17) item(18) "(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			To(1) think(2) I(3) 've(4) been(5) driving(6) cars(7) with(8) a(9) clutch(10) for(11) over(12) 20(13) years(14) and(15) all(16) of(17) the(18) sudden(19) I(20) do(21) not(22) know(23) how(24) to(25) handle(26) this(27) one(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			Maybe(1) I(2) miraculously(3) turned(4) 16(5) again(6) and(7) was(8) prone(9) to(10) "(11) laying(12) rubber(13) "(14) at(15) every(16) stop(17) sign(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Not(1) quite(2) but(3) that(4) 's(5) the(6) reaction(7) I(8) got(9) from(10) the(11) dealer(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			And(1) when(2) I(3) had(4) the(5) audacity(6) to(7) question(8) the(9) steering(10) 3_times(11) and(12) forced(13) the(14) dealer(15) to(16) test(17) drive(18) the(19) car(20) twice(21) ,(22) I(23) got(24) the(25) "(26) well(27) we(28) have(29) had(30) a(31) rare(32) problem(33) noted(34) on(35) the(36) 7(37) series(38) but(39) never(40) on(41) the(42) 5(43) "(44) .(45) 
+		</sentence>
+		<sentence id="13">
+			We(1) can(2) replace(3) it(4) for(5) you(6) if(7) you(8) want(9) -(10) at(11) your(12) cost(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Needless(1) to(2) say(3) as(4) ,(5) I(6) write(7) this(8) ,(9) I(10) find(11) myself(12) more(13) on(14) the(15) I(16) hate(17) this(18) car(19) .(20) 
+			<opinion polarity="-" feature="car" featWords="19" opWords="17"/>
+		</sentence>
+		<sentence id="15">
+			On(1) a(2) straight(3) away(4) at(5) 80(6) I(7) begin(8) to(9) vacilate(10) towards(11) "(12) I(13) love(14) this(15) car(16) "(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="14"/>
+		</sentence>
+		<sentence id="16">
+			If(1) only(2) BMW(3) would(4) stand(5) by(6) their(7) product(8) ,(9) admit(10) this(11) one(12) is(13) a(14) lemon(15) ((16) or(17) at_least(18) fix(19) the(20) problems(21) at(22) their(23) cost(24) )(25) ,(26) they(27) would(28) make(29) me(30) the(31) life-long(32) customer(33) I(34) should(35) be(36) as(37) I(38) think(39) about(40) my(41) next(42) car(43) ,(44) the(45) M5(46) .(47) 
+		</sentence>
+		<sentence id="17">
+			Or(1) maybe(2) it(3) should(4) be(5) a(6) CLK55(7) -(8) at_least(9) Mercedes(10) stands(11) behind(12) their(13) vehicles(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 59,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) 6(16) speed(17) manual(18) 
+		</sentence>
+	</text>
+</review>

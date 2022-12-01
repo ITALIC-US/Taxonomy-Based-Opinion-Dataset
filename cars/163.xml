@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="163" item="1995 Mitsubishi Diamante" rating="4">
+	<title>
+		<sentence id="1">
+			1995(1) Mitsubishi_Diamante(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) interior(2) comfort(3) ,(4) Nice(5) style(6) ,(7) Good_Fuel_Economy(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="comfort" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) three(2) point(3) belt(4) in(5) the(6) middle(7) rear(8) seat(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Expensive(1) parts(2) for(3) imports(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) car(2) is(3) perfect(4) for(5) family(6) and(7) anyone(8) looking(9) for(10) affordable(11) luxury(12) with(13) european(14) style(15) .(16) 
+			<opinion polarity="+" feature="price" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Dear(1) Reader(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			My(1) aunt(2) that(3) lives(4) in(5) Bristol(6) ,(7) Conneticut(8) owns(9) a(10) 95(11) Mitsubishi_Diamante(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) been(3) driving(4) the(5) car(6) for(7) a(8) couple(9) of(10) weeks(11) since(12) I(13) came(14) here(15) to(16) visit(17) them(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			I(1) must(2) admit(3) ,(4) I(5) felt(6) in(7) love(8) with(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) mean(2) the(3) interior(4) is(5) so(6) spacious(7) ,(8) the(9) trunk(10) is(11) huge(12) ,(13) the(14) seats(15) are(16) incredibly(17) comfortable(18) ,(19) and(20) the(21) comfort(22) features(23) are(24) everywhere(25) .(26) 
+			<opinion polarity="+" feature="seat" featWords="15" opWords="18" potency="17"/>
+			<opinion polarity="+" feature="trunk" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="interior" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			I(1) specially(2) like(3) the(4) Automatic_Transmission(5) modes(6) ,(7) "(8) Economy(9) "(10) or(11) "(12) Power(13) "(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) Air(2) conditioner(3) is(4) extremly(5) cold(6) ,(7) and(8) the(9) lumber(10) support(11) is(12) very(13) good(14) for(15) long(16) trips(17) .(18) 
+			<opinion polarity="+" feature="ac" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="8">
+			I(1) specially(2) like(3) the(4) infinity(5) stereo(6) ,(7) with(8) a(9) very(10) good(11) sound(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) is(3) equiped(4) with(5) the(6) 3.0L(7) V6(8) engine(9) ,(10) and(11) I(12) must(13) say(14) is(15) quite(16) powerful(17) .(18) 
+			<opinion polarity="+" feature="horsepower" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="10">
+			It(1) provides(2) good(3) acceleration(4) and(5) passing(6) power(7) .(8) 
+			<opinion polarity="+" feature="acceleration" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="11">
+			The(1) brakes(2) are(3) four(4) disc(5) with(6) ABS(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			They(1) provide(2) more(3) than(4) enough(5) stopping(6) power(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) is(3) a(4) very(5) for(6) families(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) been(3) driving(4) it(5) around(6) with(7) my(8) cousins(9) and(10) their(11) families(12) ,(13) and(14) the(15) car(16) has(17) been(18) very(19) comfortable(20) in(21) many(22) circumstances(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="15">
+			The(1) fuel(2) economy(3) is(4) great(5) ,(6) the(7) style(8) is(9) nice(10) ,(11) it(12) resembles(13) many(14) european(15) luxury(16) sedans(17) .(18) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			The(1) only(2) problem(3) with(4) this(5) car(6) is(7) the(8) expensive(9) price(10) for(11) repairs(12) .(13) 
+			<opinion polarity="-" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="17">
+			But(1) other(2) than(3) that(4) is(5) a(6) very(7) good(8) economical(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="price" opWords="9"/>
+		</sentence>
+		<sentence id="18">
+			I(1) hope(2) you(3) may(4) find(5) this(6) review(7) very(8) helpful(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			For(1) further(2) information(3) about(4) this(5) car(6) you(7) may(8) contact(9) me(10) at(11) texasaltima@yahoo.com(12) I(13) would(14) be(15) please(16) to(17) answer(18) any(19) questions(20) you(21) may(22) have(23) regarding(24) this(25) car(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			I(1) will(2) continue(3) to(4) enjoy(5) driving(6) this(7) car(8) for(9) two(10) more(11) weeks(12) ,(13) so(14) look(15) for(16) a(17) more(18) update(19) it(20) review(21) of(22) this(23) car(24) in(25) a(26) near(27) future(28) .(29) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 28000(7) 
+		</sentence>
+	</text>
+</review>

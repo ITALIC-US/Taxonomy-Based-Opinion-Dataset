@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="974" item="Hotel Captain Cook" rating="4">
+	<title>
+		<sentence id="1">
+			Anchorage_'s_Superior_Officer(1) ...(2) Hotel_Captain_Cook(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Anchorage(1) 's(2) most(3) ambitious(4) hotel(5) ,(6) pleasant(7) rooms(8) ,(9) good(10) dining(11) and(12) service(13) 
+			<opinion polarity="+" feature="service" featWords="13" opWords="10"/>
+			<opinion polarity="+" feature="food" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) outside(2) is(3) not(4) much(5) to(6) see(7) ,(8) some(9) areas(10) look(11) old(12) 
+			<opinion polarity="-" feature="place" featWords="10" opWords="12"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Hotel_Captain_Cook(2) exudes(3) warmth(4) and(5) comfort(6) in(7) this(8) frigid(9) city(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Excellent(1) dining(2) and(3) athletic(4) club(5) too(6) .(7) 
+			<opinion polarity="+" feature="gym" featWords="4,5" opWords="1"/>
+			<opinion polarity="+" feature="food" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Far(1) better(2) service(3) than(4) anything(5) else(6) in(7) town(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Hotel_Captain_Cook(2) is(3) far(4) and(5) away(6) the(7) best(8) hotel(9) in(10) Anchorage(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Its(1) two(2) bronzed(3) towers(4) are(5) not(6) too(7) exciting(8) on(9) the(10) outside(11) ,(12) but(13) then(14) ,(15) there(16) is(17) very(18) little(19) in(20) downtown(21) Anchorage(22) that(23) survived(24) the(25) earthquake(26) of(27) 1964(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			As(1) a(2) member(3) of(4) Preferred_Hotels(5) and(6) Resorts(7) ,(8) its(9) service(10) is(11) better(12) than(13) anywhere(14) else(15) in(16) town(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) place(2) was(3) built(4) by(5) the(6) colorful(7) former(8) governor(9) Walter_J._Hickel(10) and(11) his(12) family(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			They(1) still(2) own(3) the(4) place(5) and(6) obviously(7) take(8) pride(9) in(10) managing(11) it(12) well(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Our(1) stay(2) here(3) was(4) very(5) brief(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			We(1) checked(2) in(3) at(4) 12:00(5) PM(6) ,(7) and(8) had(9) to(10) leave(11) that(12) night(13) for(14) a(15) 3:00(16) AM(17) flight(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			We(1) did(2) enjoy(3) ourselves(4) though(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			Lobby_The(1) lobby(2) is(3) quite(4) large(5) ,(6) but(7) never(8) manages(9) to(10) feel(11) like(12) more(13) than(14) two(15) grand(16) hallways(17) ,(18) intersecting(19) near(20) the(21) elevators(22) .(23) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			A(1) large(2) portrait(3) of(4) captain(5) Cook(6) himself(7) hangs(8) near(9) the(10) entrance(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Rooms(1) and(2) Suites_The(3) hotel(4) has(5) 586(6) rooms(7) ,(8) including(9) 77(10) suites(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			Your(1) chances(2) of(3) being(4) upgraded(5) here(6) are(7) fairly(8) good(9) !(10) 
+		</sentence>
+		<sentence id="13">
+			Our(1) room(2) was(3) one(4) of(5) 13(6) Executive_Suites(7) on(8) the(9) 12th(10) floor(11) of(12) Tower_II(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			A(1) corner(2) room(3) ,(4) it(5) had(6) lots(7) of(8) light(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			The(1) small(2) drawing(3) room(4) was(5) furnished(6) with(7) lean(8) ,(9) Scandinavian(10) pieces(11) .(12) 
+			<opinion polarity="-" feature="rooms" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="16">
+			Nearly(1) everything(2) was(3) made(4) of(5) polished(6) teak(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			The(1) beds(2) had(3) excellent(4) ,(5) heavy(6) linens(7) and(8) warm(9) down(10) comforters(11) .(12) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			There(1) was(2) a(3) fully(4) stocked(5) wet(6) bar(7) as_well(8) ,(9) but(10) having(11) learned(12) my(13) lessons(14) about(15) such(16) things(17) ,(18) I(19) eyed(20) it(21) warily(22) and(23) imagined(24) the(25) prices(26) within(27) .(28) 
+		</sentence>
+		<sentence id="19">
+			Baths_The(1) suite(2) had(3) two(4) full(5) baths(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			I(1) liked(2) the(3) baths(4) immensely(5) ,(6) if_not(7) for(8) their(9) actual(10) construction(11) ((12) they(13) were(14) not(15) marble(16) ,(17) but(18) polished(19) tile(20) and(21) teak(22) )(23) ,(24) but(25) for(26) the(27) thick(28) ,(29) large(30) towels(31) and(32) robes(33) ,(34) and(35) the(36) generous(37) amenities(38) .(39) 
+			<opinion polarity="+" feature="amenities" featWords="38" opWords="37"/>
+			<opinion polarity="+" feature="towels" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="21">
+			Captain_'s_Deck_Regrettably(1) ,(2) during(3) our(4) brief(5) stay(6) ,(7) these(8) floors(9) ((10) the(11) 16th(12) and(13) 17th(14) )(15) were(16) closed(17) for(18) renovation(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			The(1) lounge(2) was(3) open(4) ,(5) but(6) unattended(7) .(8) 
+		</sentence>
+		<sentence id="23">
+			We(1) were(2) allowed(3) to(4) take(5) our(6) drinks(7) there(8) from(9) Room_Service(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			It(1) was(2) a_bit(3) eerie(4) being(5) the(6) only(7) ones(8) up(9) there(10) ,(11) but(12) the(13) view(14) from(15) the(16) 17th(17) floor(18) of(19) Tower_II(20) was(21) sensational(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			Dining_The(1) best(2) dining(3) room(4) here(5) was(6) also(7) closed(8) ,(9) this(10) being(11) an(12) unusually(13) frozen(14) February_evening(15) in(16) Anchorage(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			I(1) was(2) allowed(3) to(4) go(5) up(6) to(7) have(8) a(9) look(10) at(11) the(12) Crow_'s_Nest(13) ,(14) the(15) restaurant(16) atop(17) Tower_II(18) .(19) 
+		</sentence>
+		<sentence id="27">
+			Its(1) warm(2) teak(3) paneling(4) and(5) shiny(6) brass(7) nautical(8) fixtures(9) all(10) gleamed(11) against(12) the(13) flaming(14) orange(15) sunset(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			I(1) was(2) disappointed(3) that(4) we(5) could(6) not(7) have(8) dinner(9) here(10) ,(11) as(12) the(13) French(14) menu(15) is(16) said(17) to(18) be(19) very(20) good(21) indeed(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			The(1) restaurant(2) has(3) won(4) the(5) DiRoNA(6) award(7) as_well(8) as(9) 4(10) diamonds(11) from(12) the(13) AAA(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			Dinner(1) only(2) .(3) 
+		</sentence>
+		<sentence id="31">
+			We(1) would(2) have(3) to(4) find(5) something(6) downstairs(7) ....(8) We(9) wound(10) up(11) at(12) Fletcher(13) 's(14) ,(15) a(16) slightly(17) contrived(18) ,(19) if(20) attractive(21) restaurant(22) off(23) the(24) main(25) lobby(26) .(27) 
+		</sentence>
+		<sentence id="32">
+			The(1) brick(2) walls(3) ,(4) beaten(5) copper(6) ceiling(7) and(8) marble(9) floor(10) made(11) the(12) Italian(13) menu(14) seem(15) out(16) of(17) place(18) .(19) 
+		</sentence>
+		<sentence id="33">
+			It(1) was(2) good(3) ,(4) nonetheless(5) .(6) 
+		</sentence>
+		<sentence id="34">
+			Entrees(1) might(2) have(3) been(4) somewhere(5) in(6) the(7) neighborhood(8) of(9) $15-$20(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			Lunch(1) and(2) dinner(3) .(4) 
+		</sentence>
+		<sentence id="36">
+			We(1) did(2) not(3) have(4) the(5) time(6) to(7) try(8) the(9) Pantry(10) ,(11) their(12) coffee(13) shop(14) ,(15) also(16) off(17) the(18) lobby(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			Another(1) inviting(2) space(3) ,(4) this(5) one(6) aspired(7) to(8) have(9) a(10) sort(11) of(12) sidewalk(13) cafe(14) look(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			It(1) almost(2) worked(3) .(4) 
+		</sentence>
+		<sentence id="39">
+			They(1) serve(2) breakfast(3) ,(4) lunch(5) and(6) dinner(7) .(8) 
+		</sentence>
+		<sentence id="40">
+			Two(1) places(2) we(3) also(4) did(5) not(6) try(7) were(8) the(9) Whale_'s_Tale(10) a(11) nightclub(12) and(13) jazz(14) spot(15) ,(16) and(17) the(18) Quarterdeck(19) ,(20) mostly(21) for(22) business(23) lunches(24) .(25) 
+		</sentence>
+		<sentence id="41">
+			The(1) place(2) had(3) a(4) big(5) fireplace(6) with(7) a(8) small(9) library(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			I(1) thought(2) about(3) borrowing(4) a(5) book(6) for(7) the(8) flight(9) ....(10) As(11) our(12) flight(13) left(14) at(15) 3:00(16) AM(17) ,(18) we(19) elected(20) to(21) have(22) a(23) light(24) snack(25) from(26) Room_Service(27) before(28) leaving(29) ,(30) as(31) we(32) would(33) not(34) be(35) fed(36) much(37) on(38) the(39) plane(40) .(41) 
+		</sentence>
+		<sentence id="43">
+			The(1) service(2) was(3) swift(4) and(5) attractively(6) done(7) .(8) 
+		</sentence>
+		<sentence id="44">
+			It(1) is(2) available(3) 24(4) hours(5) a(6) day(7) .(8) 
+		</sentence>
+		<sentence id="45">
+			The(1) Captain_Cook_Athletic_Club_This(2) is(3) actually(4) a(5) private(6) club(7) with(8) a(9) strong(10) local(11) membership(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			It(1) is(2) in(3) the(4) basement(5) of(6) the(7) hotel(8) ,(9) and(10) does(11) not(12) have(13) the(14) most(15) attractive(16) entrance(17) .(18) 
+		</sentence>
+		<sentence id="47">
+			One(1) must(2) go(3) through(4) a(5) couple(6) of(7) service(8) areas(9) to(10) get(11) there(12) .(13) 
+		</sentence>
+		<sentence id="48">
+			Maybe(1) this(2) was(3) because_of(4) some(5) renovation(6) they(7) were(8) doing(9) at(10) the(11) time(12) .(13) 
+		</sentence>
+		<sentence id="49">
+			At(1) any(2) rate(3) ,(4) the(5) indoor(6) swimming(7) pool(8) ((9) you(10) thought(11) they(12) would(13) have(14) an(15) outdoor(16) pool(17) here(18) ?(19) )(20) is(21) very(22) large(23) ,(24) and(25) seems(26) larger(27) because_of(28) the(29) low(30) ceiling(31) .(32) 
+			<opinion polarity="+" feature="swimming pool" featWords="7,8" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="50">
+			A(1) whirlpool(2) was(3) just(4) beside(5) it(6) ,(7) and(8) was(9) both(10) hot(11) and(12) powerful(13) .(14) 
+		</sentence>
+		<sentence id="51">
+			The(1) teak(2) deck(3) chairs(4) were(5) set(6) up(7) with(8) pillows(9) and(10) towels(11) ,(12) and(13) waiters(14) will(15) stop(16) by(17) to(18) ask(19) if(20) you(21) want(22) anything(23) to(24) drink(25) .(26) 
+		</sentence>
+		<sentence id="52">
+			There(1) is(2) also(3) a(4) complete(5) exercise(6) room(7) ,(8) men(9) and(10) women(11) 's(12) saunas(13) and(14) steam(15) rooms(16) as_well(17) .(18) 
+			<opinion polarity="+" feature="gym" featWords="6,7" opWords="5"/>
+		</sentence>
+		<sentence id="53">
+			The(1) tanning(2) bed(3) was(4) a(5) popular(6) item(7) with(8) the(9) locals(10) .(11) 
+		</sentence>
+		<sentence id="54">
+			Overall_Probably(1) the(2) most(3) expensive(4) hotel(5) in(6) town(7) ,(8) the(9) Captain_Cook(10) prides(11) itself(12) for(13) its(14) personal(15) service(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="3,4"/>
+		</sentence>
+		<sentence id="55">
+			The(1) staffers(2) are(3) an(4) unusually(5) friendly(6) bunch(7) ,(8) or(9) maybe(10) it(11) was(12) just(13) that(14) there(15) were(16) few(17) tourists(18) at(19) this(20) time(21) of(22) the(23) year(24) .(25) 
+		</sentence>
+		<sentence id="56">
+			Whatever(1) it(2) was(3) ,(4) we(5) left(6) after(7) our(8) all-too-brief(9) stay(10) wearing(11) wide(12) smiles(13) of(14) satisfaction(15) .(16) 
+		</sentence>
+		<sentence id="57">
+			The(1) rate(2) listed(3) here(4) was(5) a(6) Day_Rate(7) .(8) 
+		</sentence>
+		<sentence id="58">
+			As(1) we(2) were(3) leaving(4) in(5) the(6) middle(7) of(8) the(9) night(10) ,(11) the(12) hotel(13) was(14) willing(15) to(16) work(17) with(18) us(19) on(20) the(21) rate(22) .(23) 
+		</sentence>
+		<sentence id="59">
+			This(1) ,(2) however(3) ,(4) is(5) not(6) normal(7) procedure(8) .(9) 
+		</sentence>
+	</text>
+</review>

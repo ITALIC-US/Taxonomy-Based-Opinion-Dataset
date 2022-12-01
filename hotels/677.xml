@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="677" item="Diva Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Hotel_Diva(1) :(2) A(3) cute(4) boutique(5) hotel(6) with(7) a(8) great(9) location(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Location(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			Great_Design(1) !(2) 
+		</sentence>
+		<sentence id="3">
+			Nice_Service(1) !(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) recommend(2) that(3) those(4) visiting(5) San_Francisco(6) who(7) want(8) a(9) great(10) location(11) and(12) a(13) fun(14) hotel(15) ,(16) they(17) should(18) check(19) out(20) the(21) Hotel_Diva(22) 
+			<opinion polarity="+" feature="hotel" opWords="2"/>
+			<opinion polarity="+" feature="place" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="hotel" featWords="15" opWords="14"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) on(2) vacation(3) in(4) San_Francisco(5) with(6) a(7) few(8) friends(9) ,(10) we(11) wanted(12) inexpensive(13) rooms(14) to(15) stay(16) in(17) ,(18) and(19) a(20) hotel(21) that(22) was(23) in(24) a(25) convenient(26) location(27) .(28) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+		</sentence>
+		<sentence id="2">
+			I(1) found(2) information(3) about(4) The_Hotel_Diva(5) through(6) the(7) Personality_Hotels(8) website(9) ,(10) and(11) it(12) seemed(13) like(14) a(15) chiq(16) hotel(17) that(18) would(19) be(20) a_lot_of(21) fun(22) to(23) stay(24) in(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) Hotel_Diva(2) has(3) a(4) wonderful(5) location(6) ,(7) and(8) was(9) with(10) in(11) walking(12) distance(13) from(14) most(15) anywhere(16) we(17) wanted(18) to(19) go(20) .(21) 
+			<opinion polarity="+" feature="place" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) able(3) to(4) comfortably(5) walk(6) to(7) go(8) shopping(9) ,(10) or(11) sight(12) seeing(13) around(14) the(15) city(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) design(2) of(3) the(4) hotel(5) is(6) very(7) modern(8) ,(9) but(10) not(11) overdone(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) rooms(2) are(3) abnormal(4) and(5) fun(6) ,(7) rather(8) than(9) the(10) normal(11) boring(12) flower(13) wall(14) paper(15) and(16) simple(17) '(18) mattress(19) and(20) frame(21) '(22) beds(23) that(24) you(25) get(26) at(27) most(28) other(29) hotels(30) .(31) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			The(1) rooms(2) are(3) elegant(4) ,(5) but(6) still(7) modern(8) ,(9) and(10) contrasting(11) colors(12) keep(13) the(14) stainless(15) steel(16) from(17) seeming(18) hard(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) Diva(2) 's(3) modern(4) style(5) makes(6) you(7) feel(8) like(9) a(10) Diva(11) with(12) out(13) the(14) high(15) price(16) tag(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) service(2) there(3) is(4) very(5) friendly(6) ,(7) and(8) was(9) open(10) to(11) answer(12) any(13) questions(14) we(15) had(16) about(17) where(18) to(19) go(20) in(21) the(22) city(23) ,(24) and(25) where(26) even(27) happy(28) to(29) add(30) in(31) their(32) own(33) opinions(34) .(35) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="10">
+			Check(1) in(2) was(3) rather(4) easy(5) ,(6) which(7) was(8) nice(9) because(10) we(11) were(12) tired(13) from(14) traveling(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			We(1) were(2) escorted(3) to(4) our(5) rooms(6) ,(7) and(8) given(9) directions(10) on(11) how(12) to(13) open(14) our(15) rooms(16) ,(17) and(18) then(19) given(20) a(21) brief(22) tour(23) of(24) the(25) rooms(26) ,(27) and(28) where(29) everything(30) was(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			All(1) in_all(2) I(3) very(4) much(5) enjoyed(6) my(7) stay(8) at(9) The_Hotel_Diva(10) ,(11) and(12) would(13) recommend(14) it(15) to(16) anyone(17) .(18) 
+		</sentence>
+	</text>
+</review>

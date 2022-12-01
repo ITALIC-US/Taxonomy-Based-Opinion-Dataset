@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="511" item="Anchor Inn" rating="3">
+	<title>
+		<sentence id="1">
+			Two(1) Weddings(2) and(3) a(4) Funeral(5) --(6) Our(7) Stay(8) at(9) the(10) Anchor_Inn(11) in(12) Bayside(13) ,(14) NY(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			clean(1) ,(2) safe(3) ,(4) affordable(5) ,(6) conveniently(7) located(8) if(9) you(10) have(11) a(12) car(13) ,(14) nice(15) nearby(16) restaurants(17) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="5"/>
+			<opinion polarity="+" feature="place" opWords="7,8"/>
+			<opinion polarity="+" feature="food" featWords="17" opWords="15"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			dim(1) parking(2) garage(3) ,(4) not(5) centrally(6) located(7) ,(8) tiny(9) gym(10) ,(11) no(12) pool(13) ,(14) cramped(15) hallways(16) 
+			<opinion polarity="-" feature="parking" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="place" opWords="5,6,7"/>
+			<opinion polarity="-" feature="gym" featWords="10" opWords="9"/>
+			<opinion polarity="-" feature="lobby" featWords="16" opWords="15"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) not(3) the(4) Hilton(5) ,(6) but(7) it(8) 's(9) a(10) good(11) "(12) anchor(13) "(14) when(15) visiting(16) family(17) or(18) checking(19) out(20) a(21) Mets(22) game(23) or(24) the(25) U.S._Open(26) .(27) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Anchor_Inn(2) is(3) my(4) family(5) s(6) go-to(7) hotel(8) when(9) we(10) plan(11) on(12) spending(13) an(14) overnight(15) in(16) Queens(17) to(18) visit(19) my(20) family(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			We(1) only(2) live(3) about(4) two(5) hours(6) away(7) but(8) with(9) our(10) little(11) one(12) it(13) gets(14) tough(15) to(16) drive(17) back_and_forth(18) for(19) special(20) engagements(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			We(1) could(2) stay(3) with(4) my(5) family(6) ,(7) but(8) that(9) would(10) make(11) my(12) husband(13) WANT(14) to(15) drive(16) back_and_forth(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			My(1) husband(2) and(3) I(4) have(5) stayed(6) at(7) the(8) Anchor_Inn(9) three_times(10) :(11) once(12) on(13) our(14) honeymoon(15) night(16) ((17) we(18) wanted(19) a(20) place(21) within(22) stumbling(23) distance(24) from(25) our(26) reception(27) hall(28) )(29) ,(30) once(31) for(32) my(33) cousin(34) s(35) wedding(36) ((37) same(38) reason(39) as(40) above(41) but(42) also(43) because(44) we(45) wanted(46) a(47) safe(48) place(49) since(50) we(51) had(52) our(53) daughter(54) in_tow(55) )(56) ,(57) and(58) the(59) third(60) time(61) for(62) a(63) funeral(64) .(65) 
+		</sentence>
+		<sentence id="5">
+			For(1) the(2) latter(3) ,(4) we(5) knew(6) we(7) be(8) driving(9) around(10) Queens(11) to(12) meet(13) with(14) family(15) and(16) go(17) to(18) the(19) funeral(20) home(21) but(22) would(23) need(24) easy(25) access(26) to(27) Long_Island(28) for(29) the(30) burial(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			The(1) Anchor_Inn(2) seemed(3) like(4) a(5) logical(6) choice(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			LOCATION_The_Anchor_Inn(1) is(2) located(3) on(4) a(5) very(6) commercial(7) street(8) in(9) Queens(10) ,(11) NY(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) easily(3) accessible(4) by(5) car(6) ((7) though(8) the(9) subway(10) is(11) quite(12) a(13) schlep(14) from(15) here(16) )(17) because_of(18) its(19) proximity(20) to(21) the(22) Cross_Island_Parkway(23) and(24) Clearview_Expressway(25) ,(26) both(27) of(28) which(29) link(30) up(31) to(32) the(33) Long_Island_Expressway(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			It(1) s(2) within(3) a(4) 15-20(5) minute(6) drive(7) ((8) under(9) normal(10) conditions(11) )(12) from(13) the(14) airports(15) ((16) LaGuardia(17) and(18) JFK(19) )(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			There(1) are(2) many(3) restaurants(4) within(5) walking(6) distance(7) along(8) Northern_Boulevard(9) ,(10) many(11) of(12) which(13) feature(14) great(15) Asian(16) cuisine(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Located(1) between(2) the(3) cities(4) of(5) Bayside(6) and(7) Flushing(8) ,(9) the(10) Anchor_Inn(11) is(12) in(13) a(14) quieter(15) ,(16) though(17) still(18) commercial(19) ,(20) area(21) of(22) NYC(23) with(24) residential(25) housing(26) behind(27) it(28) .(29) ((30) FYI(31) ,(32) there(33) s(34) also(35) a(36) Ramada(37) across(38) the(39) street(40) ,(41) though(42) we(43) ve(44) never(45) felt(46) compelled(47) to(48) stay(49) there(50) .(51) )(52) 215-34(53) Northern_Boulevard_Bayside(54) ,(55) NY(56) 11361(57) ROOMS_The_Anchor_Inn(58) has(59) 66(60) rooms(61) .(62) 
+		</sentence>
+		<sentence id="12">
+			There(1) are(2) four(3) room(4) types(5) :(6) double(7) ,(8) deluxe(9) ,(10) super(11) deluxe(12) ,(13) and(14) kitchenette(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			All(1) rooms(2) come(3) standard(4) with(5) a(6) 25(7) color(8) TV(9) and(10) video(11) cassette(12) player(13) ((14) a(15) scanty(16) selection(17) of(18) videos(19) can(20) be(21) rented(22) near(23) the(24) elevators(25) )(26) ,(27) either(28) a(29) king(30) or(31) two(32) double(33) beds(34) ,(35) two(36) phones(37) with(38) data(39) ports(40) ,(41) electronic(42) key(43) door(44) locks(45) ,(46) air(47) conditioning(48) ,(49) a(50) safe(51) ,(52) hair(53) dryer(54) ,(55) coffee(56) maker(57) ,(58) mini(59) refrigerator(60) ,(61) iron(62) and(63) ironing(64) board(65) ,(66) desk(67) ,(68) and(69) alarm(70) clock(71) radio(72) .(73) 
+		</sentence>
+		<sentence id="14">
+			The(1) deluxe(2) rooms(3) also(4) have(5) oversized(6) whirlpool(7) tubs(8) .(9) 
+			<opinion polarity="+" feature="tub" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="15">
+			The(1) super(2) deluxe(3) rooms(4) come(5) with(6) steam(7) room(8) and(9) whirlpool(10) tub(11) as_well(12) as(13) dual(14) sinks(15) and(16) a(17) skylight(18) .(19) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="16">
+			The(1) kitchenette(2) rooms(3) have(4) a(5) sofa(6) ,(7) a(8) stove(9) ,(10) large(11) refrigerator(12) ,(13) and(14) a(15) microwave(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			AMENITIES_The_Anchor_Inn(1) has(2) the(3) basic(4) amenities(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			There(1) s(2) a(3) fitness(4) room(5) ((6) more(7) like(8) a(9) walk-in(10) closet(11) with(12) three(13) pieces(14) of(15) equipment(16) )(17) ,(18) complimentary(19) garage(20) parking(21) ,(22) continental(23) breakfast(24) ((25) we(26) ve(27) never(28) tried(29) it(30) )(31) ,(32) free(33) high(34) speed(35) Internet(36) access(37) ,(38) fax(39) and(40) copy(41) service(42) ,(43) a(44) meeting(45) room(46) ,(47) and(48) a(49) nearby(50) Starbucks(51) .(52) 
+			<opinion polarity="+" feature="internet" featWords="36" opWords="34"/>
+		</sentence>
+		<sentence id="19">
+			It(1) s(2) not(3) upscale(4) ,(5) but(6) you(7) get(8) what(9) you(10) pay(11) for(12) .(13) 
+			<opinion polarity="-" feature="hotel" featWords="1" featRef="hotel" opWords="3,4"/>
+		</sentence>
+		<sentence id="20">
+			MY_EXPERIENCE_I(1) ve(2) been(3) very(4) happy(5) with(6) my(7) stays(8) at(9) the(10) Anchor_Inn(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			No(1) ,(2) it(3) s(4) not(5) a(6) five-star(7) hotel(8) with(9) a(10) spa(11) and(12) an(13) Olympic-size(14) swimming(15) pool(16) ,(17) but(18) it(19) s(20) clean(21) ,(22) it(23) s(24) safe(25) ,(26) it(27) s(28) affordable(29) ,(30) and(31) it(32) s(33) conveniently(34) located(35) .(36) 
+			<opinion polarity="+" feature="hotel" featWords="19" featRef="hotel" opWords="21"/>
+			<opinion polarity="+" feature="hotel" featWords="23" featRef="hotel" opWords="25"/>
+			<opinion polarity="+" feature="price" opWords="29"/>
+			<opinion polarity="+" feature="place" opWords="34,35"/>
+		</sentence>
+		<sentence id="22">
+			It(1) s(2) close(3) enough(4) to(5) the(6) highways(7) to(8) make(9) travel(10) back_and_forth(11) to(12) Long_Island(13) and(14) Manhattan(15) or(16) just(17) throughout(18) Queens(19) fairly(20) simple(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			Yet(1) it(2) s(3) just(4) far(5) enough(6) from(7) the(8) hustle(9) and(10) bustle(11) to(12) make(13) it(14) a_bit(15) more(16) relaxed(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Affordability(1) is(2) definitely(3) one(4) of(5) its(6) main(7) selling(8) points(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			Each(1) time(2) we(3) ve(4) stayed(5) at(6) the(7) Anchor_Inn(8) ,(9) we(10) ve(11) reserved(12) one(13) of(14) its(15) King_Jacuzzi(16) rooms(17) ((18) king-size(19) bed(20) ,(21) large(22) bathroom(23) with(24) Jacuzzi(25) tub(26) and(27) sliding(28) glass(29) window(30) )(31) for(32) $130(33) a(34) night(35) .(36) 
+			<opinion polarity="+" feature="bathroom" featWords="23" opWords="22"/>
+		</sentence>
+		<sentence id="26">
+			Considering(1) most(2) rooms(3) with(4) double(5) beds(6) will(7) run(8) you(9) at_least(10) $150(11) anywhere(12) in(13) NYC(14) ,(15) I(16) think(17) this(18) is(19) a(20) great(21) bargain(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			I(1) ve(2) found(3) that(4) the(5) cheapest(6) rates(7) are(8) through(9) their(10) site(11) or(12) by(13) calling(14) their(15) front(16) desk(17) directly(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="28">
+			I(1) ve(2) tried(3) Travelocity(4) and(5) other(6) travel(7) sites(8) but(9) calling(10) Anchor(11) usually(12) saves(13) me(14) about(15) $20-30(16) ,(17) plus(18) I(19) get(20) to(21) talk(22) to(23) a(24) live(25) person(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			Safety(1) and(2) cleanliness(3) are(4) two(5) other(6) reasons(7) we(8) ve(9) stuck(10) with(11) the(12) Anchor_Inn(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			From(1) my(2) experience(3) ,(4) many(5) motels(6) and(7) hotels(8) in(9) Queens(10) tend(11) to(12) be(13) of(14) the(15) per-hour(16) variety(17) with(18) guests(19) coming(20) and(21) going(22) all(23) night(24) long(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			This(1) may(2) even(3) be(4) the(5) case(6) with(7) the(8) Anchor_Inn(9) for(10) all(11) I(12) know(13) ,(14) but(15) I(16) haven(17) t(18) seen(19) it(20) that(21) way(22) the(23) three_times(24) I(25) ve(26) been(27) there(28) .(29) 
+		</sentence>
+		<sentence id="32">
+			I(1) have(2) not(3) noticed(4) any(5) sort(6) of(7) drug(8) or(9) hooker-related(10) activity(11) .(12) 
+		</sentence>
+		<sentence id="33">
+			I(1) generally(2) see(3) friendly(4) out-of-towners(5) visiting(6) family(7) in(8) the(9) area(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			We(1) ran(2) into(3) a(4) nice(5) older(6) couple(7) last(8) time(9) we(10) were(11) there(12) .(13) 
+		</sentence>
+		<sentence id="35">
+			The(1) parking(2) garage(3) is(4) a(5) little(6) unnerving(7) .(8) 
+			<opinion polarity="-" feature="parking" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="36">
+			It(1) s(2) located(3) beneath(4) the(5) building(6) but(7) is(8) completely(9) open(10) to(11) trespassers(12) .(13) 
+		</sentence>
+		<sentence id="37">
+			I(1) was(2) a(3) little(4) scared(5) to(6) walk(7) around(8) there(9) at(10) night(11) ,(12) but(13) in(14) the(15) three_times(16) I(17) ve(18) been(19) there(20) I(21) ve(22) never(23) seen(24) anyone(25) loitering(26) .(27) 
+		</sentence>
+		<sentence id="38">
+			There(1) is(2) some(3) parking(4) available(5) outside(6) either(7) in(8) the(9) driveway(10) or(11) on(12) the(13) local(14) streets(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			As(1) far(2) as(3) cleanliness(4) ,(5) this(6) place(7) is(8) more(9) than(10) adequate(11) .(12) 
+		</sentence>
+		<sentence id="40">
+			It(1) s(2) not(3) totally(4) up-to-date(5) and(6) some(7) of(8) the(9) carpeting(10) looks(11) like(12) it(13) needs(14) to(15) be(16) replaced(17) ,(18) but(19) the(20) bathroom(21) was(22) sparkling(23) and(24) the(25) sheets(26) smelled(27) and(28) felt(29) fresh(30) .(31) 
+			<opinion polarity="+" feature="bathroom" featWords="21" opWords="23"/>
+		</sentence>
+		<sentence id="41">
+			The(1) air(2) in(3) the(4) rooms(5) wasn(6) t(7) stale(8) like(9) I(10) ve(11) noticed(12) in(13) some(14) places(15) .(16) 
+		</sentence>
+		<sentence id="42">
+			The(1) last(2) time(3) we(4) stayed(5) ,(6) I(7) specifically(8) requested(9) a(10) smoke-free(11) room(12) ,(13) and(14) even_though(15) there(16) are(17) no(18) smoke-free(19) king-size(20) bedrooms(21) ,(22) management(23) called(24) us(25) up(26) the(27) night(28) before(29) and(30) told(31) us(32) they(33) make(34) sure(35) to(36) run(37) an(38) air(39) purifier(40) overnight(41) for(42) us(43) .(44) 
+		</sentence>
+		<sentence id="43">
+			I(1) was(2) very(3) happy(4) that(5) my(6) highly(7) allergic(8) nose(9) didn(10) t(11) detect(12) any(13) smoke(14) in(15) the(16) room(17) and(18) I(19) woke(20) up(21) breathing(22) well(23) .(24) 
+		</sentence>
+		<sentence id="44">
+			The(1) room(2) type(3) we(4) stay(5) in(6) is(7) very(8) nice(9) .(10) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="45">
+			The(1) mattress(2) has(3) always(4) been(5) comfortable(6) ,(7) the(8) room(9) feels(10) spacious(11) ,(12) and(13) the(14) giant(15) bathroom(16) definitely(17) makes(18) me(19) feel(20) like(21) I(22) m(23) on(24) vacation(25) .(26) 
+			<opinion polarity="+" feature="rooms" featWords="9" opWords="11"/>
+			<opinion polarity="+" feature="bathroom" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="46">
+			Last(1) time(2) ,(3) we(4) even(5) had(6) a(7) skylight(8) in(9) our(10) room(11) .(12) 
+		</sentence>
+		<sentence id="47">
+			I(1) can(2) t(3) comment(4) on(5) the(6) other(7) rooms(8) .(9) 
+		</sentence>
+		<sentence id="48">
+			The(1) hallways(2) can(3) feel(4) a_bit(5) claustrophobic(6) .(7) 
+			<opinion polarity="-" feature="lobby" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="49">
+			They(1) are(2) a_bit(3) cramped(4) and(5) it(6) s(7) sometimes(8) difficult(9) for(10) my(11) husband(12) to(13) navigate(14) his(15) way(16) to(17) our(18) room(19) while(20) carrying(21) two(22) shoulder(23) bags(24) .(25) 
+			<opinion polarity="-" feature="lobby" featWords="1" featRef="lobby" opWords="4"/>
+		</sentence>
+		<sentence id="50">
+			The(1) folks(2) at(3) the(4) front(5) desk(6) are(7) generally(8) pleasant(9) and(10) helpful(11) .(12) 
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="front desk" featWords="5,6" opWords="11"/>
+		</sentence>
+		<sentence id="51">
+			Though(1) we(2) haven(3) t(4) tried(5) it(6) out(7) yet(8) ,(9) I(10) hear(11) the(12) seafood(13) restaurant(14) next(15) door(16) ((17) I(18) believe(19) it(20) s(21) called(22) Pier(23) 25(24) )(25) has(26) some(27) delicious(28) meals(29) .(30) 
+			<opinion polarity="+" feature="food" featWords="29" opWords="28"/>
+		</sentence>
+		<sentence id="52">
+			I(1) m(2) not(3) sure(4) how(5) to(6) rate(7) this(8) hotel(9) overall(10) .(11) 
+		</sentence>
+		<sentence id="53">
+			It(1) s(2) certainly(3) not(4) the(5) hot(6) spot(7) to(8) stay(9) at(10) but(11) it(12) served(13) our(14) needs(15) well(16) .(17) 
+		</sentence>
+		<sentence id="54">
+			There(1) are(2) some(3) shortcomings(4) ((5) poorly(6) lit(7) garage(8) ,(9) tight(10) hallways(11) ,(12) older(13) carpeting(14) ,(15) tiny(16) gym(17) ,(18) no(19) pool(20) )(21) but(22) it(23) is(24) a(25) clean(26) and(27) affordable(28) place(29) to(30) crash(31) if(32) you(33) don(34) t(35) want(36) to(37) impose(38) on(39) your(40) NY(41) relatives(42) .(43) 
+			<opinion polarity="-" feature="lobby" featWords="11" opWords="10"/>
+			<opinion polarity="-" feature="gym" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="place" featWords="29" opWords="26"/>
+			<opinion polarity="+" feature="place" featWords="29" opWords="28"/>
+		</sentence>
+		<sentence id="55">
+			I(1) m(2) sure(3) there(4) ll(5) come(6) a(7) time(8) when(9) I(10) ll(11) be(12) able(13) to(14) change(15) the(16) title(17) of(18) this(19) review(20) to(21) four(22) weddings(23) and(24) a(25) funeral(26) .(27) http://www.theanchorinn.com/(28) 
+		</sentence>
+	</text>
+</review>

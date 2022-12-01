@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="621" item="Anabella Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Anabella(1) is(2) convenient(3) and(4) reasonable(5) for(6) short-term(7) travel(8) .(9) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+			<opinion polarity="+" feature="hotel" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) directly(4) across(5) from(6) Disney_'s_California_Adventure(7) .(8) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Staff(1) very(2) courteous(3) and(4) accommodating(5) .(6) 
+			<opinion polarity="+" feature="staff" featWords="1" opWords="3" potency="2"/>
+			<opinion polarity="+" feature="staff" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			Beautiful(1) property(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Could(1) have(2) been(3) cleaner(4) ,(5) must(6) pay(7) for(8) shuttle(9) service(10) ((11) minimal(12) fee(13) )(14) to(15) resort(16) parks(17) .(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) 'd(2) reccommend(3) the(4) Anabella(5) if(6) you(7) 'd(8) like(9) to(10) stay(11) very(12) close(13) to(14) the(15) resort(16) parks(17) without(18) spending(19) a_lot_of(20) money(21) .(22) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) were(2) pleasantly(3) surprised(4) upon(5) arriving(6) at(7) the(8) Anabella(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) a(3) great(4) location(5) directly(6) across(7) from(8) the(9) Disney_Resort(10) ,(11) and(12) the(13) grounds(14) were(15) beautiful(16) with(17) lush(18) plant(19) life(20) ,(21) flowers(22) and(23) an(24) equally(25) elegant(26) fountain(27) .(28) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="grounds" featWords="14" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			The(1) swimming(2) pool(3) and(4) spa(5) were(6) very(7) nice(8) looking(9) ,(10) although(11) we(12) did(13) not(14) use(15) either(16) as(17) the(18) purpose(19) of(20) our(21) trip(22) was(23) to(24) spend(25) as(26) much(27) time(28) as(29) possible(30) at(31) the(32) Disney_Resort(33) with(34) our(35) family(36) .(37) 
+			<opinion polarity="+" feature="swimming pool" featWords="2,3" opWords="8,9" potency="7"/>
+			<opinion polarity="+" feature="spa" featWords="5" opWords="8,9" potency="7"/>
+		</sentence>
+		<sentence id="4">
+			Our(1) room(2) was(3) nicely(4) decorated(5) with(6) dark(7) wood(8) blinds(9) and(10) burgundy(11) and(12) beige(13) bedding(14) and(15) walls(16) .(17) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) full(2) granite(3) bathroom(4) was(5) nice(6) also(7) .(8) 
+			<opinion polarity="+" feature="bathroom" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			Some(1) other(2) nice(3) features(4) included(5) our(6) room(7) safe(8) and(9) a(10) small(11) refrigerator(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) a(3) restaurant(4) in(5) the(6) hotel(7) called(8) the(9) "(10) Tangerine_Grill(11) "(12) which(13) also(14) offered(15) room(16) service(17) up(18) until(19) 10(20) p.m.(21) We(22) dined(23) in(24) the(25) restaurant(26) ((27) there(28) is(29) a(30) dining(31) patio(32) as_well(33) )(34) ,(35) while(36) the(37) food(38) was(39) satisfactory(40) ,(41) the(42) dining(43) room(44) reminded(45) me(46) of(47) a(48) small(49) cafeteria(50) .(51) 
+			<opinion polarity="+" feature="food" featWords="38" opWords="40"/>
+		</sentence>
+		<sentence id="8">
+			It(1) really(2) did(3) not(4) have(5) a(6) restaurant(7) feel(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			Our(1) children(2) were(3) able(4) to(5) dine(6) for_free(7) in(8) the(9) restaurant(10) as(11) long(12) as(13) we(14) ordered(15) entrees(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			This(1) rule(2) does(3) not(4) apply(5) to(6) room(7) service(8) ,(9) however(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			We(1) ordered(2) room(3) service(4) twice(5) ,(6) and(7) both(8) times(9) our(10) orders(11) arrived(12) sooner(13) than(14) expected(15) and(16) our(17) food(18) was(19) tasty(20) and(21) temperature(22) appropriate(23) .(24) 
+			<opinion polarity="+" feature="food" featWords="18" opWords="20"/>
+		</sentence>
+		<sentence id="12">
+			The(1) Anabella(2) offers(3) its(4) guests(5) shuttle(6) service(7) to(8) resort(9) parks(10) with(11) the(12) "(13) Anaheim_Resort_Transit(14) "(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			While(1) children(2) can(3) ride(4) at(5) no(6) cost(7) ,(8) adults(9) are(10) charged(11) $2.00(12) per(13) day(14) or(15) $5.00(16) each(17) for(18) a(19) 3(20) day(21) pass(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			A(1) few(2) things(3) to(4) note(5) regarding(6) the(7) room(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			The(1) hotel(2) hair(3) dryer(4) had(5) quite(6) a_bit(7) of(8) hair(9) in(10) it(11) from(12) a(13) previous(14) guest(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Also(1) our(2) 1(3) 1/2(4) year(5) old(6) was(7) walking(8) around(9) barefoot(10) in(11) the(12) room(13) ,(14) and(15) after(16) a(17) short(18) time(19) I(20) noticed(21) that(22) her(23) previously(24) clean(25) feet(26) were(27) black(28) with(29) dirt(30) .(31) 
+		</sentence>
+		<sentence id="17">
+			I(1) questioned(2) the(3) cleanliness(4) of(5) the(6) rest(7) of(8) our(9) room(10) after(11) that(12) .(13) 
+		</sentence>
+	</text>
+</review>

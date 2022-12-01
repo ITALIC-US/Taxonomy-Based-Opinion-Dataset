@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="774" item="2001 Nissan Frontier" rating="2">
+	<title>
+		<sentence id="1">
+			Nice(1) but(2) not(3) acceptable(4) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Bold_Look(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			underpowered(1) ,(2) bad(3) gas(4) mileage(5) ,(6) very(7) loud(8) on(9) highway(10) ,(11) 
+			<opinion polarity="-" feature="car" opWords="8" potency="7"/>
+			<opinion polarity="-" feature="gas" featWords="4,5" opWords="3"/>
+			<opinion polarity="-" feature="horsepower" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) this(5) truck(6) to(7) anybody(8) ,(9) if(10) it(11) 's(12) an(13) every(14) day(15) driving(16) vehicle(17) ,(18) maybe(19) as(20) a(21) toy(22) but(23) that(24) 's(25) about(26) it(27) .(28) 
+			<opinion polarity="-" feature="truck" featWords="6" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) 40,000_kilometers(3) on(4) the(5) truck(6) ,(7) it(8) looks(9) and(10) handles(11) great(12) but(13) it(14) 's(15) way(16) underpowered(17) especially(18) for(19) towing(20) ,(21) the(22) gas(23) mileage(24) is(25) terrible(26) your(27) lucky(28) to(29) get(30) 20(31) on(32) the(33) highway(34) and(35) you(36) need(37) premium(38) to(39) make(40) it(41) run(42) properly(43) you(44) do(45) notice(46) the(47) difference(48) .(49) 
+			<opinion polarity="-" feature="gas" featWords="23,24" opWords="26"/>
+			<opinion polarity="-" feature="horsepower" opWords="17"/>
+			<opinion polarity="+" feature="handling" opWords="11,12"/>
+			<opinion polarity="+" feature="design" opWords="9,12"/>
+		</sentence>
+		<sentence id="2">
+			The(1) road(2) noise(3) in(4) this(5) thing(6) is(7) so(8) bad(9) on(10) the(11) highway(12) you(13) have(14) a(15) hard(16) time(17) using(18) a(19) cell(20) phone(21) it(22) 's(23) impossible(24) to(25) use(26) a(27) hands(28) free(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			What(1) 's(2) with(3) the(4) tires(5) ,(6) I(7) bought(8) a(9) 4x4(10) not(11) a(12) car(13) ,(14) and(15) they(16) were(17) wore(18) out(19) by(20) 35,000_kilometers(21) I(22) replaced(23) them(24) with(25) tires(26) off(27) of(28) 2002(29) models(30) at_least(31) their(32) made(33) for(34) being(35) off(36) road(37) somewhat(38) ,(39) you(40) only(41) have(42) to(43) sets(44) of(45) tires(46) that(47) will(48) fit(49) on(50) this(51) truck(52) the(53) Firestone(54) 255/55/17(55) or(56) the(57) BF_Goodrich(58) 265/65/17(59) ,(60) no(61) other(62) tire(63) fits(64) unless(65) you(66) lift(67) the(68) truck(69) .(70) 
+		</sentence>
+		<sentence id="4">
+			The(1) noise(2) that(3) the(4) super(5) charger(6) makes(7) sounds(8) pretty(9) cool(10) on(11) acceleration(12) ,(13) but(14) after(15) you(16) come(17) off(18) the(19) highway(20) it(21) makes(22) the(23) engine(24) sound(25) like(26) it(27) 's(28) going(29) to(30) blow(31) up(32) ,(33) according_to(34) the(35) Nissan(36) mechanics(37) no(38) two(39) trucks(40) sound(41) the(42) same(43) ,(44) so(45) how(46) do(47) you(48) know(49) if(50) your(51) truck(52) is(53) running(54) good(55) or(56) not(57) ?(58) ?(59) 
+		</sentence>
+		<sentence id="5">
+			Customer(1) service(2) with(3) Nissan(4) is(5) terrible(6) just(7) a(8) word(9) of(10) advice(11) HAVE_A_VERY_GOOD_LOOK_AT_THE_PAINT_BEFORE_BUYING(12) ,(13) MINE_WAS_SCREWED_I_AM_NOW_DRIVING_A_REPAINTED_TRUCK_FROM_NISSAN_EVEN_THOU_THEY_KNEW_ABOUT_IT_A_WEEK_AFTER_IT_WAS_PURCHASED(14) ,(15) AND_REFUSED_TO_REPLACE(16) !(17) !(18) 
+			<opinion polarity="-" feature="service" featWords="1,2" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			That(1) 's(2) another(3) story(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			There(1) 's(2) lot(3) 's(4) of(5) these(6) out(7) there(8) ,(9) you(10) will(11) start(12) to(13) notice(14) spots(15) in(16) the(17) paint(18) where(19) you(20) can(21) see(22) the(23) primer(24) through(25) the(26) paint(27) ,(28) mine(29) is(30) a(31) yellow(32) frontier(33) .(34) 
+		</sentence>
+		<sentence id="8">
+			Pros_Some(1) good(2) stuff(3) to(4) say(5) !(6) !(7) 
+		</sentence>
+		<sentence id="9">
+			The(1) truck(2) looks(3) and(4) handles(5) great(6) .(7) 
+			<opinion polarity="+" feature="handling" opWords="5,6"/>
+			<opinion polarity="+" feature="design" opWords="3,6"/>
+		</sentence>
+		<sentence id="10">
+			The(1) leather(2) interior(3) looks(4) great(5) ((6) even_though(7) you(8) can(9) not(10) get(11) heated(12) seats(13) )(14) .(15) 
+			<opinion polarity="+" feature="seat" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="interior" featWords="3" opWords="4,5"/>
+		</sentence>
+		<sentence id="11">
+			The(1) six(2) pack(3) in(4) the(5) dash(6) is(7) great(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Frontier(16) crewcab(17) sc(18) 4x4(19) automatic(20) fully(21) loaded(22) 
+		</sentence>
+	</text>
+</review>

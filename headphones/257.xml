@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="257" item="Bose (017817401494) Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Sound(1) quality(2) disappointing(3) 
+			<opinion polarity="-" feature="sound quality" featWords="1,2" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) build(2) quality(3) ,(4) carrying(5) case(6) .(7) 
+			<opinion polarity="+" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) well(2) balanced(3) :(4) too(5) much(6) bottom(7) ,(8) lack(9) of(10) definition(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Because(1) the(2) Bose(3) over-the-ear(4) phones(5) I(6) tried(7) sounded(8) so(9) good(10) ,(11) I(12) had(13) to(14) give(15) these(16) earbuds(17) a(18) try(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) disappointed(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Compared(1) to(2) the(3) much(4) less(5) pricey(6) JVC_Marshmallow(7) phones(8) I(9) was(10) using(11) ,(12) the(13) Bose(14) units(15) sounded(16) muddy(17) and(18) boomy(19) .(20) 
+			<opinion polarity="-" feature="sound quality" opWords="16,17"/>
+			<opinion polarity="-" feature="sound quality" opWords="16,19"/>
+		</sentence>
+		<sentence id="4">
+			Removing(1) the(2) "(3) bass(4) boost(5) "(6) setting(7) on(8) the(9) player(10) definitely(11) helped(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			But(1) still(2) they(3) lacked(4) the(5) crisp(6) highs(7) and(8) mid-frequency(9) definition(10) that(11) the(12) JVC(13) 's(14) were(15) putting(16) out(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			So(1) ,(2) back(3) to(4) the(5) store(6) they(7) went(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) JVC(2) 's(3) are(4) far(5) from(6) perfect(7) --(8) I(9) have(10) to(11) keep(12) snugging(13) them(14) back(15) into(16) the(17) ear(18) canals(19) to(20) get(21) the(22) bottom(23) end(24) --(25) but(26) I(27) prefer(28) them(29) to(30) the(31) Bose(32) earphones(33) .(34) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="949" item="2003 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Low(1) quality(2) ,(3) unsafe(4) ,(5) flawed(6) designs(7) 
+			<opinion polarity="-" feature="design" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="safety" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) fuel(2) economy(3) 
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			flawed(1) designs(2) 
+			<opinion polarity="-" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Since(1) buying(2) this(3) car(4) ,(5) I(6) have(7) experienced(8) many(9) problems(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			First(1) ,(2) the(3) LCD(4) screen(5) suddenly(6) became(7) dark(8) for(9) no(10) reason(11) in_2004(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) dealer(2) said(3) this(4) is(5) a(6) design(7) defect(8) and(9) replaced(10) it(11) after(12) one(13) month(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			In_2005(1) ,(2) during(3) a(4) regular(5) maintenance(6) in(7) a(8) dealer(9) ,(10) we(11) were(12) told(13) the(14) car(15) was(16) leaking(17) transmission(18) oil(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Last_November(1) ,(2) we(3) went(4) to(5) Chicago(6) at(7) noon(8) and(9) parked(10) on(11) a(12) street(13) ((14) a_lot_of(15) traffic(16) at(17) the(18) time(19) )(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Coming(1) back(2) in(3) half(4) an(5) hour(6) ,(7) we(8) found(9) someone(10) had(11) sneaked(12) into(13) the(14) car(15) and(16) stole(17) all(18) our(19) expensive(20) items(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			No(1) prizing(2) signs(3) on(4) the(5) doors(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Sure(1) ,(2) we(3) locked(4) the(5) car(6) before(7) we(8) left(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			It(1) seems(2) the(3) Honda(4) anti-thief(5) alarm(6) system(7) malfunctioned(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Last(1) ,(2) it(3) was(4) snowing(5) when(6) I(7) drove(8) home(9) on(10) a(11) highway(12) today(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Although(1) I(2) drove(3) very(4) slowly(5) ,(6) my(7) car(8) suddenly(9) spun(10) and(11) lost(12) control(13) for(14) no(15) reason(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			I(1) did(2) not(3) feel(4) ABS(5) was(6) working(7) at(8) all(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			I(1) was(2) hit(3) by(4) a(5) van(6) and(7) the(8) entire(9) back(10) bump(11) and(12) part(13) of(14) the(15) left(16) side(17) body(18) were(19) destroyed(20) ((21) fortunately(22) those(23) big(24) truck(25) managed(26) to(27) avoid(28) hitting(29) my(30) spinning(31) car(32) )(33) .(34) 
+		</sentence>
+		<sentence id="14">
+			I(1) am(2) very(3) disappointed(4) with(5) Honda(6) 's(7) quality(8) and(9) will(10) never(11) buy(12) Honda(13) products(14) any(15) more(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) EX(16) 
+		</sentence>
+	</text>
+</review>

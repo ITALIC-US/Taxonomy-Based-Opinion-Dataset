@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="28" item="1998 Lexus ES 300" rating="5">
+	<title>
+		<sentence id="1">
+			Great_Value_Luxury_Car(1) :(2) Lexus_ES(3) 300(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Well_Built(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) ES300(2) is(3) one(4) of(5) the(6) nicest(7) car(8) in(9) its(10) class(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) similar(3) to(4) numerous(5) other(6) mid-sized(7) luxury(8) cars(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Some(1) may(2) even(3) call(4) it(5) full(6) sized(7) ,(8) but(9) I(10) guess(11) it(12) is(13) all(14) in(15) the(16) eye(17) of(18) the(19) beholder(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) think(2) of(3) even(4) bigger(5) cars(6) when(7) I(8) look(9) at(10) "(11) full-sized(12) "(13) cars(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) Lexus_ES(2) 300(3) is(4) developed(5) along(6) the(7) same(8) line(9) as(10) the(11) Toyota_Camary(12) and(13) the(14) Toyota_Avalon(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Each(1) has(2) different(3) features(4) with(5) the(6) Camary(7) being(8) the(9) base(10) and(11) the(12) Lexus_ES(13) 300(14) being(15) the(16) top(17) of(18) the(19) line(20) in(21) that(22) model(23) /(24) style(25) vehicle(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			The(1) Lexus_ES(2) 300(3) has(4) been(5) around(6) for(7) a(8) while(9) and(10) continues(11) to(12) be(13) a(14) popular(15) seller(16) for(17) Lexus(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			They(1) redesign(2) the(3) car(4) every(5) once(6) in(7) a(8) while(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			In(1) fact(2) ,(3) since(4) we(5) got(6) my(7) wife(8) this(9) car(10) ,(11) it(12) has(13) been(14) redesigned(15) to(16) add(17) a(18) few(19) new(20) features(21) that(22) are(23) more(24) cost(25) effective(26) as(27) technology(28) developments(29) continue(30) to(31) push(32) the(33) price(34) of(35) some(36) features(37) lower(38) .(39) 
+		</sentence>
+		<sentence id="10">
+			The(1) ES(2) 300(3) has(4) a(5) very(6) sporty(7) acceleration(8) .(9) 
+			<opinion polarity="+" feature="acceleration" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			Handling(1) in(2) this(3) car(4) is(5) great(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) gets(3) decent(4) mileage(5) and(6) has(7) a(8) good(9) cruising(10) range(11) .(12) 
+			<opinion polarity="+" feature="cruising range" featWords="10,11" opWords="9"/>
+			<opinion polarity="+" feature="gas" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			My(1) wife(2) and(3) I(4) enjoy(5) driving(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			On(1) long(2) trips(3) the(4) car(5) is(6) comfortable(7) and(8) floats(9) along(10) the(11) road(12) like(13) a(14) magic(15) carpet(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) not(3) hard(4) to(5) drive(6) well(7) above(8) the(9) speed(10) limit(11) and(12) not(13) know(14) ,(15) by(16) feel(17) alone(18) ,(19) that(20) the(21) car(22) is(23) going(24) so(25) fast(26) .(27) 
+			<opinion polarity="+" feature="speed" opWords="26"/>
+		</sentence>
+		<sentence id="16">
+			More(1) than(2) once(3) ,(4) I(5) have(6) looked(7) at(8) the(9) speedometer(10) to(11) realize(12) that(13) I(14) was(15) gliding(16) along(17) at(18) 20(19) +(20) over(21) the(22) limit(23) ,(24) which(25) is(26) not(27) too(28) wise(29) in(30) some(31) parts(32) of(33) Texas(34) .(35) 
+		</sentence>
+		<sentence id="17">
+			The(1) seats(2) are(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			They(1) are(2) full(3) leather(4) ,(5) which(6) is(7) soft(8) to(9) the(10) touch(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="1" featRef="seat" opWords="8"/>
+			<opinion polarity="+" feature="seat" featWords="1" featRef="seat" opWords="3,4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) doors(2) are(3) also(4) appointed(5) with(6) leather(7) as(8) is(9) the(10) steering(11) wheel(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			The(1) dash(2) is(3) much(4) like(5) that(6) in(7) other(8) cars(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			The(1) controls(2) are(3) reasonably(4) easy(5) to(6) reach(7) .(8) 
+			<opinion polarity="+" feature="controls" featWords="2" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="22">
+			With(1) the(2) push(3) of(4) a(5) button(6) you(7) can(8) get(9) the(10) outside(11) temperature(12) as_well(13) as(14) set(15) your(16) climate(17) control(18) system(19) to(20) the(21) desired(22) interior(23) temperature(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			You(1) can(2) easily(3) heat(4) or(5) cool(6) the(7) car(8) to(9) a(10) desired(11) level(12) ,(13) unless(14) you(15) plan(16) to(17) store(18) meat(19) in(20) the(21) car(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			The(1) stereo(2) in(3) this(4) car(5) can(6) really(7) put(8) out(9) the(10) sound(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			You(1) can(2) purchase(3) a(4) CD(5) changer(6) as(7) part(8) of(9) the(10) package(11) ,(12) which(13) I(14) am(15) sure(16) most(17) do(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			The(1) sound(2) quality(3) is(4) great(5) ,(6) especially(7) when(8) playing(9) CDs(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			The(1) CDs(2) sure(3) can(4) make(5) a(6) long(7) trip(8) not(9) seem(10) so(11) long(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			The(1) radio(2) also(3) produces(4) pleasant(5) music(6) if(7) the(8) radio(9) station(10) is(11) putting(12) out(13) a(14) good(15) signal(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) back(2) seat(3) passengers(4) get(5) pretty(6) good(7) leg(8) room(9) when(10) riding(11) in(12) this(13) car(14) .(15) 
+			<opinion polarity="+" feature="leg room" featWords="8,9" opWords="7"/>
+		</sentence>
+		<sentence id="30">
+			They(1) get(2) at_least(3) as(4) much(5) room(6) as(7) you(8) do(9) on(10) any(11) of(12) the(13) major(14) US(15) airlines(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			Their(1) rears(2) are(3) comfy(4) in(5) the(6) leather(7) seats(8) .(9) 
+			<opinion polarity="+" feature="seat" featWords="8" opWords="4"/>
+			<opinion polarity="+" feature="seat" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="32">
+			They(1) have(2) plenty_of(3) head(4) and(5) shoulder(6) room(7) .(8) 
+		</sentence>
+		<sentence id="33">
+			They(1) even(2) have(3) s(4) drink(5) holder(6) that(7) pops(8) out(9) from(10) the(11) center(12) console(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			This(1) console(2) additionally(3) provides(4) them(5) with(6) air(7) conditioning(8) .(9) 
+		</sentence>
+		<sentence id="35">
+			There(1) is(2) even(3) a(4) center(5) arm(6) rest(7) that(8) comes(9) down(10) from(11) middle(12) of(13) the(14) rear(15) back(16) to(17) the(18) seat(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			One(1) can(2) access(3) the(4) trunk(5) through(6) that(7) area(8) also(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			The(1) back(2) seat(3) is(4) great(5) for(6) adding(7) a(8) car(9) seat(10) .(11) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="38">
+			Our(1) little(2) one(3) rides(4) comfortably(5) in(6) her(7) rearward(8) facing(9) car(10) seat(11) .(12) 
+		</sentence>
+		<sentence id="39">
+			She(1) normally(2) falls(3) asleep(4) due(5) to(6) the(7) smooth(8) ride(9) .(10) 
+			<opinion polarity="+" feature="ride quality" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="40">
+			We(1) found(2) that(3) this(4) car(5) works(6) better(7) than(8) our(9) RX(10) 300(11) for(12) securing(13) the(14) car(15) seat(16) for(17) some(18) reason(19) .(20) 
+		</sentence>
+		<sentence id="41">
+			The(1) car(2) seat(3) is(4) not(5) going(6) any(7) where(8) unless(9) we(10) unbelt(11) it(12) which(13) makes(14) me(15) feel(16) safer(17) .(18) 
+		</sentence>
+		<sentence id="42">
+			There(1) are(2) a(3) few(4) downsides(5) to(6) the(7) car(8) .(9) 
+		</sentence>
+		<sentence id="43">
+			The(1) car(2) is(3) a_bit(4) short(5) of(6) headroom(7) if(8) you(9) are(10) tall(11) in(12) the(13) torso(14) .(15) 
+			<opinion polarity="-" feature="head room" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="44">
+			I(1) notice(2) that(3) I(4) sometimes(5) feel(6) like(7) there(8) is(9) not(10) a_lot_of(11) space(12) between(13) my(14) head(15) and(16) the(17) roof(18) when(19) I(20) am(21) driving(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			When(1) I(2) am(3) in(4) the(5) back(6) ,(7) it(8) seems(9) I(10) have(11) additional(12) room(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			I(1) can(2) adjust(3) the(4) seat(5) some(6) and(7) the(8) will(9) help(10) provide(11) a_bit(12) of(13) additional(14) room(15) .(16) 
+		</sentence>
+		<sentence id="47">
+			Just(1) do(2) not(3) pop(4) in(5) with(6) your(7) cowboy(8) hat(9) on(10) as(11) you(12) will(13) not(14) fit(15) .(16) 
+		</sentence>
+		<sentence id="48">
+			Maintenance(1) is(2) expensive(3) at(4) the(5) dealership(6) ,(7) but(8) would(9) you(10) let(11) just(12) anybody(13) work(14) on(15) the(16) car(17) ?(18) 
+			<opinion polarity="-" feature="maintenance" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="49">
+			Lexus(1) provides(2) good(3) service(4) and(5) takes(6) care(7) of(8) their(9) customers(10) .(11) 
+			<opinion polarity="+" feature="service" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="50">
+			We(1) will(2) buy(3) a(4) third(5) Lexus(6) when(7) we(8) need(9) another(10) car(11) .(12) 
+		</sentence>
+		<sentence id="51">
+			We(1) will(2) not(3) give(4) up(5) the(6) two(7) we(8) have(9) now(10) since(11) they(12) both(13) serve(14) us(15) so(16) well(17) .(18) 
+		</sentence>
+		<sentence id="52">
+			Buy(1) an(2) ES300(3) if(4) you(5) need(6) a(7) sedan(8) and(9) you(10) will(11) not(12) be(13) disappointed(14) .(15) 
+		</sentence>
+		<sentence id="53">
+			You(1) instead(2) will(3) be(4) treated(5) to(6) car(7) that(8) is(9) reasonably(10) priced(11) ,(12) provides(13) a(14) great(15) ride(16) ,(17) and(18) can(19) really(20) carry(21) five(22) adults(23) when(24) necessary(25) .(26) 
+			<opinion polarity="+" feature="ride quality" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="price" opWords="10,11"/>
+		</sentence>
+	</text>
+</review>

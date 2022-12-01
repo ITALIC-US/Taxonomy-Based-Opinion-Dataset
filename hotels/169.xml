@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="169" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			stay(1) away(2) from(3) this(4) hotel(5) 
+			<opinion polarity="-" feature="hotel" featWords="5" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			service(1) ,(2) insecurity(3) ,(4) thieves(5) ,(6) a_lot_of(7) drunk(8) teens(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Where(1) do(2) I(3) start(4) ...(5) I(6) went(7) with(8) my(9) 2(10) sisters(11) after(12) saving(13) enough(14) money(15) to(16) have(17) a(18) decent(19) vacation(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) is(3) not(4) 5(5) stars(6) ,(7) starting(8) with(9) the(10) service(11) .(12) .(13) what(14) a(15) horror(16) !(17) !(18) !(19) 
+		</sentence>
+		<sentence id="3">
+			This(1) was(2) a(3) very(4) sad(5) experience(6) for(7) all(8) of(9) us(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			After(1) the(2) second(3) day(4) in(5) the(6) hotel(7) the(8) maid(9) stole(10) from(11) us(12) $2,000(13) and(14) when(15) I(16) went(17) to(18) make(19) the(20) complain(21) the(22) recepcionist(23) basically(24) laughed(25) at(26) me(27) and(28) insulted(29) me(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			Instead_of(1) apologizing(2) for(3) the(4) incident(5) she(6) blamed(7) me(8) for(9) not(10) having(11) spent(12) my(13) money(14) before(15) .(16) .(17) can(18) you(19) believe(20) this(21) ?(22) ?(23) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) to(3) call(4) the(5) police(6) because(7) the(8) staff(9) was(10) definetely(11) not(12) willing(13) to(14) cooperate(15) with(16) the(17) situation(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			I(1) do(2) not(3) want(4) to(5) go(6) back(7) to(8) mexico(9) ever(10) and(11) it(12) 's(13) a(14) shame(15) that(16) the(17) image(18) I(19) have(20) of(21) mexicans(22) have(23) been(24) tainted(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			First(1) the(2) thieve(3) ,(4) and(5) then(6) the(7) rude(8) and(9) insulting(10) staff(11) .(12) 
+			<opinion polarity="-" feature="staff" featWords="11" opWords="8"/>
+			<opinion polarity="-" feature="staff" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			PLease(1) ,(2) Avoid(3) this(4) hotel(5) and(6) always(7) keep(8) your(9) money(10) safe(11) .(12) 
+			<opinion polarity="-" feature="hotel" featWords="5" opWords="3"/>
+		</sentence>
+	</text>
+</review>

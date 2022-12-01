@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="218" item="Bose QuietComfort 2 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Quiet-time(1) for(2) rich(3) folks(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Amazing(1) noise(2) cancelling(3) effect(4) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) ;(2) eats(3) AA(4) batteries(5) for(6) lunch(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Worth(1) the(2) money(3) if(4) you(5) fly(6) a_lot(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) would(2) be(3) pretty(4) amazing(5) for(6) frequent(7) flyers(8) in(9) coach(10) .(11) ((12) Business(13) class(14) and(15) first(16) class(17) on(18) AA(19) get(20) use(21) of(22) these(23) for_free(24) now(25) ...(26) some(27) other(28) airlines(29) will(30) follow(31) suit(32) I(33) am(34) sure(35) .(36) )(37) Slide(38) them(39) on(40) and(41) flick(42) the(43) switch(44) and(45) this(46) subtle(47) hissing(48) ,(49) white(50) noise(51) fills(52) your(53) head(54) and(55) cancels(56) out(57) everything(58) around(59) you(60) .(61) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) leave(3) it(4) like(5) that(6) and(7) sleep(8) ((9) if(10) you(11) can(12) sleep(13) with(14) headphones(15) on(16) your(17) head(18) )(19) or(20) connect(21) to(22) an(23) audio(24) source(25) and(26) get(27) very(28) ,(29) very(30) good(31) sound(32) indeed(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			Never(1) on(2) sale(3) ((4) it(5) 's(6) a(7) Bose(8) tradition(9) )(10) these(11) are(12) pretty(13) effective(14) devices(15) ;(16) the(17) technology(18) is(19) also(20) used(21) in(22) pilot(23) headsets(24) to(25) drown(26) out(27) cockpit(28) noise(29) .(30) 
+			<opinion polarity="+" feature="headphones" featWords="11" featRef="headphones" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="4">
+			The(1) battery(2) pack(3) is(4) a(5) little(6) cumbersome(7) but(8) not(9) awful(10) .(11) 
+			<opinion polarity="-" feature="battery" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="battery" featWords="2" opWords="9,10"/>
+		</sentence>
+		<sentence id="5">
+			I(1) got(2) 24(3) hours(4) out(5) of(6) 4(7) AA(8) batteries(9) ,(10) your(11) mileage(12) may(13) vary(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Rechargeables(1) also(2) work(3) .(4) 
+		</sentence>
+	</text>
+</review>

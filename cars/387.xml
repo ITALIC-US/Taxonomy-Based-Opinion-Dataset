@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="387" item="2000 BMW Z3" rating="3">
+	<title>
+		<sentence id="1">
+			Z3(1) 2.3(2) New_Owner(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) handling(2) 
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Build(1) quality(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) have(5) had(6) the(7) 2000(8) Z3(9) 2.3(10) for(11) 2(12) months(13) and(14) 4500_miles(15) now(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) been(3) to(4) the(5) dealer(6) 2_times(7) for(8) warranty(9) work(10) :(11) top(12) leaks(13) at(14) seal(15) with(16) window(17) ,(18) noise(19) panel(20) above(21) pedals(22) came(23) loose(24) ((25) 2_times(26) )(27) ,(28) power(29) convertible(30) top(31) would(32) not(33) go(34) up(35) ,(36) windshield(37) pillar(38) cover(39) broken(40) ,(41) shift(42) knob(43) loose(44) .(45) 
+		</sentence>
+		<sentence id="3">
+			Also(1) the(2) engine(3) will(4) hang(5) up(6) for(7) 1(8) to(9) 3_seconds(10) when(11) up-shifting(12) ((13) 5(14) speed(15) )(16) ,(17) this(18) does(19) not(20) happen(21) consistently(22) but(23) is(24) very(25) annoying(26) .(27) 
+			<opinion polarity="-" feature="car" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="4">
+			Dealer(1) said(2) it(3) only(4) happens(5) with(6) the(7) 2.3(8) model(9) and(10) is(11) designed(12) in(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Leather(1) seats(2) not(3) overly(4) supportive(5) ((6) highly(7) recommend(8) extra(9) $(10) $(11) $(12) for(13) sport(14) seats(15) )(16) but(17) comfortable(18) for(19) 2(20) or(21) 3(22) hours(23) .(24) 
+			<opinion polarity="+" feature="comfort" opWords="18"/>
+			<opinion polarity="-" feature="seat" featWords="2" opWords="3,5"/>
+			<opinion polarity="+" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="6">
+			Car(1) handles(2) great(3) and(4) steering(5) response(6) could(7) not(8) be(9) better(10) ,(11) had(12) a(13) 92(14) Miata(15) that(16) was(17) more(18) responsive(19) but(20) at(21) high(22) speeds(23) was(24) not(25) as(26) stable(27) .(28) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="7">
+			Would(1) not(2) get(3) 2.3(4) model(5) again(6) but(7) would(8) opt(9) for(10) M_Roadster(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Lined(1) convertible(2) top(3) on(4) 2000(5) models(6) is(7) a(8) definite(9) plus(10) ,(11) as(12) is(13) the(14) 36000_miles(15) of(16) free(17) scheduled(18) maintenance(19) .(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="164" item="1995 Mitsubishi Diamante" rating="5">
+	<title>
+		<sentence id="1">
+			Incredible(1) car(2) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) bargain(2) used(3) car(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			incredible(1) depreciation(2) for(3) the(4) original(5) owner(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) sold(3) my(4) 1989(5) Honda_Civic(6) that(7) I(8) have(9) had(10) for(11) 11(12) years(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) looking(3) for(4) something(5) totally(6) different(7) -(8) a(9) used(10) Legend(11) or(12) Lexus(13) or(14) something(15) like(16) that(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			After(1) driving(2) many(3) different(4) cars(5) including(6) Accords(7) ,(8) Mazdas(9) ,(10) Volkswagens(11) ,(12) I(13) stumbled(14) across(15) a(16) 94(17) Diamante(18) at(19) a(20) used(21) car(22) dealership(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			I(1) fell(2) in(3) love(4) with(5) the(6) car(7) right(8) away(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) exactly(3) what(4) I(5) was(6) looking(7) for(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) amazed(3) that(4) I(5) could(6) buy(7) this(8) car(9) for(10) $7200(11) since(12) the(13) other(14) cars(15) I(16) was(17) looking(18) at(19) offered(20) so(21) much(22) less(23) car(24) for(25) much(26) more(27) money(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			Since(1) I(2) got(3) $2,000(4) for(5) my(6) good(7) ,(8) old(9) Honda(10) with(11) 120K(12) on(13) it(14) ,(15) I(16) ended(17) up(18) spending(19) around(20) $5,000(21) for(22) this(23) beauty(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			The(1) Diamante(2) drives(3) like(4) a(5) dream(6) ,(7) is(8) quiet(9) ,(10) full(11) of(12) wonderful(13) lux(14) touches(15) like(16) power(17) /(18) memory(19) seats(20) ,(21) great(22) sound(23) system(24) ,(25) power(26) everything(27) and(28) a(29) very(30) smooth(31) engine(32) /(33) transmission(34) with(35) plenty_of(36) power(37) .(38) 
+			<opinion polarity="+" feature="transmission" featWords="34" opWords="31" potency="30"/>
+			<opinion polarity="+" feature="engine" featWords="32" opWords="31" potency="30"/>
+			<opinion polarity="+" feature="sound system" featWords="23,24" opWords="22"/>
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+		<sentence id="9">
+			The(1) build(2) quality(3) feels(4) excellent(5) with(6) no(7) squeaks(8) or(9) rattles(10) even(11) after(12) 80,000_miles(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			It(1) looks(2) and(3) feels(4) like(5) a(6) new(7) car-a(8) testament(9) to(10) how(11) well(12) made(13) it(14) feels(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) no(3) idea(4) whether(5) it(6) will(7) have(8) the(9) longevity(10) of(11) my(12) Civic(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			And(1) I(2) feel(3) sorry(4) for(5) the(6) original(7) owner(8) who(9) paid(10) $30,000(11) for(12) the(13) car(14) only(15) to(16) see(17) it(18) depreciate(19) dramatically(20) in(21) 6(22) years(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			But(1) I(2) love(3) driving(4) it(5) and(6) would(7) certainly(8) recommend(9) it(10) as(11) a(12) bargain(13) used(14) car(15) for(16) anyone(17) who(18) is(19) looking(20) for(21) a(22) great(23) handling(24) ,(25) quiet(26) and(27) solid(28) semi-lux(29) car(30) for(31) cheap(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="30" opWords="28"/>
+			<opinion polarity="+" feature="car" opWords="26"/>
+			<opinion polarity="+" feature="handling" featWords="24" opWords="23"/>
+			<opinion polarity="+" feature="car" featWords="10" featRef="car" opWords="9"/>
+		</sentence>
+	</text>
+</review>

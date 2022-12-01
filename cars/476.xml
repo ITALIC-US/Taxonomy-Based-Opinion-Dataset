@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="476" item="2001 Ford F150 Styleside SuperCrew" rating="2">
+	<title>
+		<sentence id="1">
+			F150(1) Supercrew_Very_Disappointing(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks_Good(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reliability(1) ,(2) repairs(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) bought(3) a(4) 2001(5) Ford(6) F150(7) Supercrew(8) 2(9) wheel(10) drive(11) vehicle(12) after(13) Ford(14) bought(15) back(16) my(17) 1995(18) Windstar(19) lemon(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			The(1) supercrew(2) has(3) been(4) very(5) disappointing(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			After(1) 1,500_miles(2) the(3) rear(4) seal(5) leaked(6) oil(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			CD(1) 's(2) in(3) radio(4) become(5) VERY_HOT(6) after(7) using(8) and(9) driving(10) for(11) a(12) couple(13) of(14) hours(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Front(1) driver(2) 's(3) side(4) handle(5) is(6) crooked(7) .(8) ((9) Most(10) at(11) dealer(12) 's(13) lot(14) were(15) ...(16) needs(17) to(18) be(19) replaced(20) .(21) )(22) The(23) interior(24) ride(25) and(26) comfort(27) are(28) very(29) good(30) ...(31) most(32) Ford(33) products(34) are(35) that(36) way(37) .(38) 
+			<opinion polarity="+" feature="comfort" featWords="27" opWords="30" potency="29"/>
+			<opinion polarity="+" feature="ride quality" featWords="25" opWords="30" potency="29"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) had(3) enough(4) of(5) Ford(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			Ford(1) vehicles(2) are(3) NOT(4) reliable(5) .(6) 
+			<opinion polarity="-" feature="reliability" opWords="4,5"/>
+		</sentence>
+		<sentence id="8">
+			The(1) 4.6L(2) V8(3) is(4) adequate(5) for(6) the(7) 2(8) wheel(9) drive(10) but(11) if(12) you(13) get(14) a(15) 4(16) wheel(17) drive(18) you(19) had(20) better(21) opt(22) for(23) the(24) 5.4L(25) V8(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			The(1) 5.4(2) has(3) much(4) more(5) power(6) but(7) it(8) also(9) uses(10) alot(11) more(12) gas(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			One(1) very(2) odd(3) defect(4) in(5) the(6) seats(7) is(8) where(9) the(10) stitching(11) is(12) sewn(13) in(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			On(1) a(2) longer(3) trip(4) you(5) can(6) feel(7) the(8) stitching(9) and(10) it(11) gets(12) to(13) be(14) very(15) uncomfortable(16) .(17) 
+			<opinion polarity="-" feature="comfort" opWords="16"/>
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) on(3) the(4) bench(5) seats(6) ...(7) the(8) captain(9) 's(10) chairs(11) might(12) be(13) different(14) .(15) 
+		</sentence>
+	</text>
+</review>

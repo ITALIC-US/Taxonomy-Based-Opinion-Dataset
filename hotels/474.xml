@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="474" item="Best Western Thunderbird" rating="5">
+	<title>
+		<sentence id="1">
+			Historic_Hotel(1) with(2) a(3) story(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			On(1) the(2) beach(3) ,(4) historic(5) old(6) rat(7) pack(8) haunt(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Good(1) value(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) only(2) got(3) 1-2(4) years(5) before(6) its(7) gone(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Busy(1) on(2) public(3) hols(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bargain_Ocean(1) front(2) views(3) that(4) is(5) currently(6) left(7) on(8) Miami(9) beach(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Rat(1) pack(2) history(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) stayed(3) in(4) this(5) hotel(6) nearly(7) every(8) year(9) since(10) 2000(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) someone(3) who(4) likes(5) my(6) quality(7) hotels(8) or(9) hotels(10) that(11) stand(12) out(13) from(14) the(15) rest(16) ....(17) This(18) one(19) certainly(20) does(21) -(22) there(23) is(24) even(25) a(26) book(27) written(28) about(29) it(30) as(31) it(32) the(33) old(34) '(35) rat(36) pack(37) '(38) haunt(39) with(40) the(41) likes(42) of(43) Frank_Sinatra(44) etc(45) ...(46) I(47) have(48) never(49) in(50) my(51) life(52) returned(53) to(54) a(55) hotel(56) due(57) to(58) liking(59) it(60) so(61) much(62) ,(63) it(64) might(65) not(66) be(67) a(68) 5(69) *(70) but(71) it(72) h(73) an(74) atmosphere(75) ...(76) Everyone(77) who(78) works(79) here(80) is(81) like(82) a(83) family(84) and(85) love(86) it(87) .(88) 
+		</sentence>
+		<sentence id="3">
+			Most(1) are(2) New_Yorkers(3) and(4) related(5) to(6) old(7) '(8) rat(9) pack(10) '(11) era(12) be(13) it(14) Italy(15) or(16) New_York(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) incredibly(3) friendly(4) with(5) many(6) stories(7) to(8) tell(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Trump_&_Dezer(1) condo(2) hotels(3) have(4) bough(5) up(6) the(7) entire(8) stretch(9) of(10) of(11) Miami(12) beach(13) from(14) South_Beach(15) to(16) Hollywood(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			So(1) an(2) ocean(3) view(4) is(5) highly(6) sought(7) after(8) and(9) most(10) over(11) a(12) cool(13) million(14) !(15) 
+		</sentence>
+		<sentence id="7">
+			Yet(1) at(2) the(3) Thunderbird(4) you(5) can(6) upgrade(7) to(8) an(9) ocean(10) front(11) room(12) with(13) huge(14) balcony(15) ,(16) kitchen(17) etc(18) for(19) under(20) 100(21) ....(22) That(23) in(24) itself(25) is(26) priceless(27) ...(28) There(29) are(30) two(31) bars(32) poolside(33) and(34) inside(35) -(36) the(37) inside(38) bar(39) even(40) has(41) an(42) ex(43) bunny(44) girl(45) of(46) 55(47) who(48) looks(49) 30(50) !(51) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) a(3) Public_Supermarket(4) across(5) te(6) road(7) and(8) a(9) some(10) bars(11) and(12) restaurants(13) as_well(14) as(15) KFC(16) etc.(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) free(4) shuttle(5) bus(6) to(7) to(8) Aventura_Mall(9) and(10) South(11) beach(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) a(3) huge(4) pool(5) ,(6) jacuzzi(7) that(8) are(9) always(10) clean(11) and(12) well(13) maintained(14) ,(15) beauty(16) salon(17) ,(18) restaurant(19) with(20) good(21) breakfasts(22) very(23) cheap(24) and(25) its(26) right(27) on(28) the(29) beach(30) .(31) 
+			<opinion polarity="+" feature="swimming pool" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="5" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="jacuzzi" featWords="7" opWords="11"/>
+			<opinion polarity="+" feature="food" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="price" opWords="24" potency="23"/>
+		</sentence>
+		<sentence id="11">
+			The(1) pier(2) with(3) fabulous(4) seafood(5) restaurant(6) is(7) only(8) 10(9) min(10) walk(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			P._Diddy(1) also(2) lives(3) just(4) down(5) the(6) road(7) -(8) well(9) unless(10) he(11) has(12) moved(13) recently(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) thing(3) I(4) would(5) say(6) is(7) that(8) it(9) gets(10) very(11) busy(12) on(13) public(14) holidays(15) with(16) kids(17) and(18) Mexicans(19) so(20) if(21) you(22) like(23) it(24) quiet(25) do(26) not(27) go(28) then(29) ...(30) If(31) you(32) like(33) to(34) hear(35) stories(36) and(37) make(38) friends(39) with(40) great(41) atmosphere(42) where(43) the(44) staff(45) will(46) do(47) anything(48) for(49) you(50) then(51) come(52) here(53) ...(54) However(55) ,(56) this(57) hotel(58) was(59) hoping(60) to(61) be(62) saved(63) as(64) a(65) historic(66) landmark(67) but(68) alas(69) Dezer_&_Trump(70) will(71) bulldoze(72) it(73) soon(74) in(75) the(76) next(77) year(78) or(79) two(80) unless(81) there(82) is(83) miracle(84) and(85) something(86) very(87) special(88) with(89) character(90) and(91) real(92) stories(93) to(94) tell(95) will(96) be(97) lost(98) ....(99) go(100) before(101) it(102) goes(103) ...(104) open(105) your(106) mind(107) and(108) enjoy(109) ....(110) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="137" item="JVC HA-F120 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Best(1) bang(2) for(3) your(4) buck(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) music(2) quality(3) ,(4) Durbaility(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) really(2) .(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) cute(2) little(3) headphones(4) are(5) great(6) !(7) 
+			<opinion polarity="+" feature="appearance" opWords="2"/>
+			<opinion polarity="+" feature="size" opWords="3"/>
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			They(1) come(2) in(3) a(4) variety(5) of(6) colors(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			They(1) have(2) a(3) "(4) Gumy(5) "(6) look(7) and(8) feel(9) to(10) them(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			There(1) a(2) standard(3) length(4) ,(5) slightly(6) longer(7) than(8) the(9) ipod(10) headphones(11) .(12) 
+			<opinion polarity="+" feature="cord" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			They(1) fit(2) in(3) your(4) ear(5) nicly(6) ,(7) if(8) you(9) have(10) small(11) ears(12) you(13) may(14) have(15) to(16) get(17) used(18) to(19) them(20) but(21) once(22) you(23) get(24) past(25) that(26) there(27) great(28) .(29) 
+			<opinion polarity="+" feature="comfort" opWords="2,6"/>
+		</sentence>
+		<sentence id="6">
+			Sound(1) quality(2) is(3) much(4) better(5) than(6) the(7) ipod(8) ones(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) really(3) comforable(4) to(5) use(6) ,(7) and(8) they(9) really(10) bring(11) out(12) everything(13) in(14) the(15) music(16) your(17) listening(18) to(19) .(20) 
+			<opinion polarity="+" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			The(1) different(2) colors(3) is(4) also(5) a(6) nice(7) touch(8) ,(9) so(10) you(11) can(12) make(13) them(14) match(15) or(16) contrast(17) with(18) your(19) MP3(20) player(21) or(22) whatever(23) your(24) use(25) for(26) them(27) is(28) .(29) 
+			<opinion polarity="+" feature="appearance" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="9">
+			For(1) 10(2) bucks(3) at(4) Wal-Mart(5) you(6) can(7) not(8) go(9) wrong(10) .(11) 
+		</sentence>
+	</text>
+</review>

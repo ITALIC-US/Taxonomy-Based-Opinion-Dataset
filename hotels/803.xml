@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="803" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Good(1) services(2) and(3) all(4) reasonably(5) priced(6) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="5,6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Budget(1) hotel(2) ,(3) nice(4) location(5) ,(6) Complementary(7) breakfast(8) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) was(2) nice(3) staying(4) at(5) California_Suites_Hotel(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) can(2) t(3) afford(4) a(5) five(6) star(7) hotel(8) but(9) this(10) hotel(11) was(12) more(13) than(14) what(15) I(16) expected(17) from(18) a(19) budget(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			The(1) rates(2) were(3) good(4) ,(5) the(6) services(7) were(8) prompt(9) and(10) satisfactory(11) .(12) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			My(1) room(2) was(3) not(4) swanky(5) but(6) it(7) had(8) all(9) the(10) amenities(11) to(12) make(13) my(14) stay(15) comfortable(16) .(17) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="5">
+			And(1) since(2) I(3) had(4) booked(5) when(6) their(7) discount(8) offers(9) were(10) on(11) ,(12) I(13) got(14) a(15) 20_%(16) off(17) on(18) my(19) four(20) day(21) stay(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			The(1) breakfast(2) was(3) complementary(4) too(5) so_that(6) was(7) more(8) money(9) saved(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			This(1) hotel(2) will(3) be(4) my(5) first(6) choice(7) whenever(8) I(9) visit(10) San_Diego(11) again(12) .(13) 
+		</sentence>
+	</text>
+</review>

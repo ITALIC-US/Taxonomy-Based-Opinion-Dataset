@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="75" item="2003 Nissan Frontier" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Good_No-frills(2) truck(3) for(4) the(5) money(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) good(2) commute(3) car(4) for(5) the(6) weekdays(7) and(8) junk(9) /(10) dirt(11) /(12) furniture(13) hauler(14) on(15) the(16) weekend(17) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Interior(1) fitment(2) is(3) less(4) than(5) perfect(6) ,(7) no(8) frills(9) ,(10) deteriorating(11) reliability(12) as(13) it(14) ages(15) 
+			<opinion polarity="+" feature="reliability" featWords="12" opWords="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) ,(2) inexpensive(3) truck(4) with(5) no(6) frills(7) .(8) 
+			<opinion polarity="+" feature="price" opWords="3"/>
+			<opinion polarity="+" feature="truck" featWords="4" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			You(1) could(2) trick(3) one(4) out(5) but(6) ours(7) is(8) simple(9) and(10) useful(11) which(12) is(13) what(14) we(15) wanted(16) 
+			<opinion polarity="+" feature="car" opWords="11"/>
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) about(3) as(4) no(5) frills(6) as(7) a(8) truck(9) can(10) be(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Ours(1) is(2) a(3) 2WD(4) 4(5) door(6) without(7) power(8) locks(9) or(10) windows(11) ,(12) its(13) even(14) plain-jane(15) white(16) ((17) although(18) for(19) some(20) reason(21) the(22) dealer(23) optioned(24) it(25) with(26) big(27) flashy(28) alloy(29) wheels(30) )(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			Interior(1) :(2) The(3) interior(4) is(5) no-frills(6) but(7) very(8) nicely(9) done(10) .(11) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="9,10" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			The(1) cloth(2) seats(3) are(4) comfortable(5) and(6) fine(7) for(8) long(9) trips(10) .(11) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="7"/>
+			<opinion polarity="+" feature="seat" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) rear(2) seat(3) is(4) comfortable(5) for(6) medium(7) sized(8) adults(9) but(10) a(11) six-footer(12) is(13) not(14) going(15) to(16) want(17) to(18) sit(19) back(20) there(21) for(22) any(23) extended(24) trips(25) .(26) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			My(1) only(2) complaint(3) about(4) the(5) interior(6) is(7) that(8) some(9) of(10) the(11) fitment(12) on(13) the(14) plastic(15) trim(16) pieces(17) is(18) less(19) than(20) precise(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) stereo(2) is(3) bottom(4) of(5) the(6) line(7) but(8) totally(9) adequate(10) .(11) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="8">
+			The(1) stereo(2) is(3) however(4) a(5) 2-DIN(6) unit(7) which(8) limits(9) aftermarket(10) replacements(11) for(12) people(13) who(14) want(15) sound(16) in(17) their(18) truck(19) ;(20) on_the_other_hand(21) ,(22) most(23) aftermarket(24) car(25) audio(26) makers(27) now(28) make(29) spiffy(30) 2-DIN(31) units(32) .(33) 
+		</sentence>
+		<sentence id="9">
+			Exterior(1) :(2) The(3) exterior(4) is(5) nice(6) if(7) plain(8) .(9) 
+			<opinion polarity="-" feature="exterior" featWords="4" opWords="8"/>
+			<opinion polarity="+" feature="exterior" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) have(3) liked(4) a(5) rub(6) strip(7) along(8) the(9) sides(10) since(11) it(12) seems(13) like(14) that(15) area(16) is(17) vulnerable(18) to(19) dents(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			The(1) truck(2) included(3) a(4) bedliner(5) which(6) is(7) a(8) nice(9) feature(10) since(11) they(12) 're(13) not(14) all(15) that(16) cheap(17) to(18) add(19) on(20) later(21) ((22) $250(23) and(24) up(25) )(26) and(27) are(28) absolutely(29) essential(30) if(31) you(32) really(33) use(34) the(35) truck(36) to(37) carry(38) things(39) .(40) 
+		</sentence>
+		<sentence id="12">
+			My(1) husband(2) put(3) 1000_pounds(4) of(5) garden(6) soil(7) back(8) there(9) with(10) no(11) problem(12) ,(13) couches(14) ,(15) boxes(16) ,(17) file(18) cabinets(19) ...(20) no(21) problem(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Performance(1) :(2) Its(3) a(4) truck(5) .(6) .(7) but(8) it(9) does(10) ride(11) well(12) for(13) one(14) .(15) 
+			<opinion polarity="+" feature="ride quality" opWords="11,12"/>
+		</sentence>
+		<sentence id="14">
+			We(1) have(2) the(3) V6(4) which(5) has(6) totally(7) anemic(8) acceleration(9) and(10) takes(11) a(12) good(13) long(14) while(15) at(16) high(17) RPMs(18) to(19) get(20) to(21) highway(22) speed(23) .(24) 
+			<opinion polarity="-" feature="acceleration" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) want(3) a(4) sport(5) truck(6) then(7) this(8) is(9) not(10) the(11) one(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			A(1) manual(2) transmission(3) might(4) make(5) this(6) engine(7) seem(8) peppier(9) but(10) with(11) the(12) auto(13) its(14) pretty(15) utilitarian(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			Our(1) family(2) also(3) has(4) a(5) couple(6) of(7) other(8) sport(9) and(10) muscle(11) cars(12) that(13) satisfy(14) our(15) need(16) for(17) performance(18) so(19) having(20) a(21) truck(22) to(23) handle(24) the(25) dirty(26) work(27) balances(28) out(29) any(30) lack(31) of(32) performance(33) .(34) 
+		</sentence>
+		<sentence id="18">
+			Economy(1) :(2) Good(3) economy(4) ,(5) this(6) is(7) not(8) an(9) expensive(10) truck(11) ,(12) we(13) got(14) ours(15) for(16) $21K(17) with(18) basically(19) no(20) options(21) except(22) it(23) being(24) the(25) 4(26) door(27) model(28) .(29) 
+			<opinion polarity="+" feature="price" opWords="8,10"/>
+		</sentence>
+		<sentence id="19">
+			have(1) not(2) tried(3) to(4) resell(5) it(6) so_that(7) remains(8) to(9) be(10) seen(11) but(12) they(13) seem(14) to(15) hold(16) their(17) value(18) fairly(19) well(20) looking(21) at(22) ads(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			Gas(1) mileage(2) is(3) quite(4) good(5) for(6) a(7) pickup(8) ,(9) combined(10) city(11) and(12) highway(13) is(14) around(15) 23MPG(16) on(17) 87(18) octane(19) .(20) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="21">
+			UPDATE(1) :(2) Since(3) writing(4) the(5) initial(6) review(7) ,(8) I(9) have(10) become(11) somewhat(12) less(13) happy(14) with(15) the(16) truck(17) now(18) that(19) it(20) has(21) 13K_miles(22) on(23) it(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			First(1) ,(2) the(3) AC(4) compressor(5) self(6) destructed(7) ,(8) and(9) it(10) managed(11) to(12) do(13) so_on(14) a(15) 5(16) hour(17) road(18) trip(19) .(20) 
+			<opinion polarity="+" feature="ac" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="23">
+			Nothing(1) can(2) dim(3) your(4) enthusiasm(5) for(6) a(7) car(8) like(9) 5(10) hours(11) on(12) California_Highway(13) 5(14) with(15) no(16) AC(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			The(1) dealer(2) did(3) replace(4) the(5) compressor(6) under(7) warranty(8) and(9) said(10) they(11) 'd(12) never(13) had(14) another(15) one(16) do(17) that(18) unless(19) it(20) had(21) been(22) struck(23) by(24) road(25) debris(26) ;(27) ours(28) was(29) not(30) ,(31) it(32) just(33) blew(34) .(35) 
+		</sentence>
+		<sentence id="25">
+			Secondly(1) ,(2) the(3) brakes(4) on(5) the(6) car(7) are(8) starting(9) to(10) go(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			When(1) the(2) brakes(3) on(4) a(5) car(6) start(7) to(8) go(9) at(10) 13K(11) ,(12) it(13) tends(14) to(15) indicate(16) that(17) they(18) 're(19) undersized(20) for(21) the(22) weight(23) of(24) the(25) vehicle(26) they(27) 're(28) designed(29) to(30) stop(31) .(32) 
+		</sentence>
+		<sentence id="27">
+			As(1) of(2) now(3) ,(4) the(5) car(6) is(7) essentially(8) undriveable(9) in(10) inclement(11) weather(12) because(13) the(14) current(15) state(16) of(17) the(18) brakes(19) just(20) is(21) not(22) to(23) my(24) safety(25) standards(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			Back(1) to(2) the(3) dealer(4) it(5) goes(6) ...(7) Amount_Paid(8) ((9) US(10) $(11) )(12) :(13) 21000(14) Condition(15) :(16) NewModel_Year(17) :(18) 2003Model(19) and(20) Options(21) :(22) SE(23) V6(24) AT(25) 
+		</sentence>
+	</text>
+</review>

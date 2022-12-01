@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="276" item="Sony MDR-EX51LPP Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good_Sound(1) for(2) the(3) price(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) and(3) bass(4) levels(5) ,(6) affordable(7) noise(8) canceling(9) headphones(10) ,(11) come(12) in(13) black(14) and(15) in(16) white(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bass" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="8,9" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			annoying(1) silicone(2) covers(3) easily(4) fall(5) off(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) recommend(3) these(4) headphones(5) because(6) they(7) are(8) cheap(9) and(10) sound(11) very(12) good(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="9"/>
+			<opinion polarity="+" feature="sound quality" opWords="11,13" potency="12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) the(3) Sony_Fontopia(4) headphones(5) quite(6) a(7) long(8) time(9) ago(10) ,(11) and(12) my(13) initial(14) reaction(15) was(16) "(17) wow(18) .(19) "(20) I(21) could(22) not(23) believe(24) how(25) great(26) the(27) headphones(28) were(29) for(30) the(31) price(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			After(1) a(2) while(3) though(4) ,(5) I(6) realized(7) that(8) the(9) silicone(10) covers(11) on(12) the(13) headphones(14) easily(15) fall(16) off(17) ,(18) which(19) really(20) made(21) me(22) mad(23) because(24) the(25) headphones(26) only(27) came(28) with(29) one(30) pair(31) of(32) replacements(33) for(34) these(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			The(1) replacement(2) silicone(3) covers(4) are(5) 5_dollars(6) on(7) Sony(8) 's(9) website(10) +(11) shipping(12) cost(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) really(2) disappointed(3) me(4) that(5) Sony(6) did(7) this(8) ,(9) they(10) could(11) have(12) easily(13) found(14) a(15) solution(16) for(17) this(18) by(19) creating(20) the(21) holes(22) for(23) the(24) covers(25) a(26) little(27) smaller(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			The(1) sound(2) on(3) these(4) headphones(5) are(6) really(7) great(8) ,(9) and(10) really(11) blocks(12) out(13) background(14) noise(15) well(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="6">
+			The(1) bass(2) is(3) very(4) good(5) ,(6) and(7) can(8) really(9) hit(10) if(11) you(12) turn(13) the(14) volume(15) up(16) .(17) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) only(2) reason(3) I(4) would(5) give(6) these(7) headphones(8) a(9) rating(10) of(11) a(12) 3(13) is(14) because_of(15) the(16) silicone(17) covers(18) I(19) was(20) talking(21) about(22) earlier(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) can(3) make(4) sure(5) that(6) you(7) do(8) not(9) pull(10) them(11) out(12) of(13) your(14) pocket(15) too(16) quick(17) ,(18) I(19) am(20) sure(21) you(22) will(23) have(24) no(25) problems(26) with(27) them(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			The(1) replacement(2) covers(3) that(4) you(5) can(6) buy(7) come(8) in(9) three(10) sizes(11) ,(12) making(13) it(14) easier(15) for(16) people(17) with(18) ears(19) of(20) all(21) sizes(22) to(23) put(24) on(25) the(26) headphones(27) .(28) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="712" item="Tremont Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			My(1) night(2) at(3) the(4) Tremont(5) ((6) Chicago(7) ,(8) IL(9) )(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quaint(1) ,(2) has(3) character(4) ,(5) accomodating(6) staff(7) 
+			<opinion polarity="+" feature="staff" featWords="7" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) rooms(2) ,(3) old(4) building(5) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="building" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) hotel(2) .(3) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) for(2) a(3) romantic(4) getaway(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) not(3) bring(4) my(5) kids(6) there(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) set(2) off(3) for(4) Chicago(5) with(6) high(7) hopes(8) that(9) my(10) husband(11) would(12) enjoy(13) the(14) trip(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			After(1) all(2) ,(3) if(4) he(5) did(6) ,(7) Chicago(8) would(9) make(10) its(11) way(12) on(13) the(14) short(15) list(16) of(17) cities(18) we(19) may(20) move(21) to(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			Anyway(1) ,(2) we(3) wanted(4) to(5) stay(6) close(7) to(8) Michigan_Avenue(9) ,(10) but(11) we(12) were(13) also(14) on(15) a(16) budget(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Enter(1) the(2) Tremont(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			Though(1) we(2) did(3) use(4) a(5) certain(6) name-your-own-price(7) discounter(8) ,(9) the(10) Tremont(11) 's(12) rates(13) were(14) still(15) very(16) reasonable(17) .(18) ((19) The(20) posted(21) rate(22) for(23) a(24) Queen_Bed_Suite(25) is(26) $150(27) --(28) for(29) the(30) location(31) ,(32) this(33) is(34) fabulous(35) )(36) Not(37) knowing(38) what(39) to(40) expect(41) when(42) we(43) arrived(44) ,(45) I(46) can(47) tell(48) you(49) now(50) that(51) the(52) Tremont(53) was(54) very(55) pleasant(56) .(57) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="hotel" opWords="56" potency="55"/>
+		</sentence>
+		<sentence id="6">
+			The(1) staff(2) was(3) friendly(4) and(5) accommodating(6) ((7) We(8) ran(9) into(10) delays(11) and(12) did(13) not(14) arrive(15) in(16) Chicago(17) until(18) nearly(19) 3(20) a.m.(21) )(22) The(23) classic(24) building(25) is(26) charming(27) ,(28) complete(29) with(30) a(31) very(32) elegant(33) sitting(34) room(35) area(36) and(37) an(38) old-fashioned(39) desk(40) .(41) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="building" featWords="25" opWords="27"/>
+			<opinion polarity="+" feature="place" featWords="36" opWords="33" potency="32"/>
+		</sentence>
+		<sentence id="7">
+			The(1) valet(2) and(3) bell(4) staff(5) were(6) extremely(7) helpful(8) and(9) knew(10) a_lot(11) about(12) the(13) area(14) .(15) 
+			<opinion polarity="+" feature="staff" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) are(3) decorated(4) in(5) an(6) elegant(7) ,(8) classic(9) fashion(10) ,(11) though(12) the(13) rooms(14) were(15) small(16) and(17) our(18) particular(19) room(20) had(21) a(22) spectacular(23) view(24) of(25) a(26) brick(27) wall(28) .(29) 
+			<opinion polarity="-" feature="rooms" featWords="14" opWords="16"/>
+			<opinion polarity="+" feature="view" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="9">
+			do(1) not(2) expect(3) any(4) fancy(5) technology(6) either(7) ;(8) the(9) TV(10) and(11) alarm(12) clock(13) were(14) pretty(15) standard(16) ,(17) possibly(18) leaning(19) toward(20) obsolete(21) .(22) 
+			<opinion polarity="+" feature="tv" featWords="10" opWords="16" potency="15"/>
+			<opinion polarity="-" feature="tv" featWords="10" opWords="21"/>
+		</sentence>
+		<sentence id="10">
+			The(1) electrical(2) system(3) seemed(4) old(5) as_well(6) ,(7) and(8) though(9) I(10) was(11) not(12) looking(13) ,(14) I(15) doubt(16) that(17) they(18) have(19) the(20) capacity(21) for(22) the(23) computer(24) hookups(25) and(26) some(27) business(28) travelers(29) may(30) require(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			Be(1) careful(2) :(3) There(4) are(5) two(6) doors(7) for(8) the(9) Tremont(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			One(1) says(2) "(3) Tremont_House(4) "(5) and(6) the(7) other(8) says(9) "(10) Tremont_Hotel(11) "(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) House(2) is(3) the(4) bed(5) and(6) breakfast(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Mike_Ditka(1) 's(2) restaurant(3) is(4) located(5) in(6) the(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			We(1) stopped(2) there(3) for(4) drinks(5) after(6) spending(7) a(8) day(9) in(10) the(11) Chicago(12) cold(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			My(1) personal(2) belief(3) is(4) that(5) Mike(6) 's(7) is(8) overpriced(9) .(10) 
+			<opinion polarity="-" feature="price" opWords="9"/>
+		</sentence>
+		<sentence id="17">
+			It(1) really(2) did(3) not(4) seem(5) that(6) special(7) ,(8) and(9) we(10) spent(11) $28(12) for(13) three(14) well(15) drinks(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) best(2) part(3) about(4) the(5) Tremont(6) is(7) the(8) location(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) Tremont(2) is(3) literally(4) one_half(5) block(6) off(7) Michigan_Ave(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			When(1) you(2) walk(3) out(4) the(5) door(6) ,(7) look(8) left(9) and(10) there(11) 's(12) the(13) Hancock_Center(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			Food(1) ,(2) shopping(3) ,(4) movies(5) ...(6) everything(7) is(8) in(9) walking(10) distance(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			I(1) would(2) stay(3) at(4) the(5) Tremont(6) again(7) .(8) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+		<sentence id="23">
+			I(1) loved(2) the(3) cozy(4) atmosphere(5) and(6) the(7) elegant(8) decor(9) .(10) 
+			<opinion polarity="+" feature="decoration" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="24">
+			I(1) felt(2) like(3) I(4) had(5) entered(6) another(7) world(8) ...(9) one(10) where(11) old-time(12) charm(13) and(14) chivalry(15) still(16) mattered(17) .(18) 
+		</sentence>
+	</text>
+</review>

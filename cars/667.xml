@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="667" item="2001 BMW X5" rating="3">
+	<title>
+		<sentence id="1">
+			Perfect(1) for(2) the(3) person(4) who(5) wants(6) to(7) show(8) off(9) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Luxury(1) items(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			fact(1) that(2) it(3) is(4) an(5) SUV(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) vehicle(2) has(3) the(4) BMW(5) looks(6) and(7) performance(8) ,(9) but(10) in(11) SUV(12) packaging(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			What(1) does(2) that(3) equal(4) ?(5) 
+		</sentence>
+		<sentence id="3">
+			It(1) equals(2) an(3) oversized(4) minivan(5) that(6) everyone(7) wants(8) to(9) own(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) nothing(3) SUV(4) about(5) this(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			Its(1) only(2) purpose(3) is(4) to(5) cart(6) kids(7) and(8) groceries(9) around(10) town(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			Trucks(1) should(2) be(3) for(4) hauling(5) ,(6) towing(7) ,(8) and(9) things(10) like(11) that(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			This(1) thing(2) 's(3) only(4) purpose(5) is(6) as(7) a(8) status(9) symbol(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Here(1) 's(2) a(3) little(4) advice(5) for(6) prospective(7) owners(8) -(9) drive(10) a(11) station(12) wagon(13) or(14) minivan(15) !(16) 
+		</sentence>
+		<sentence id="9">
+			Your(1) kids(2) will(3) be(4) safer(5) and(6) you(7) will(8) save(9) money(10) ,(11) both(12) of(13) which(14) do(15) not(16) seem(17) to(18) be(19) important(20) to(21) you(22) if(23) you(24) are(25) buying(26) one(27) of(28) these(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			THE(1) GOOD(2) :(3) BMW(4) fit(5) and(6) finish(7) ,(8) status(9) that(10) comes(11) with(12) owning(13) a(14) BMW(15) ,(16) reliability(17) THE_BAD(18) :(19) SUVs(20) are(21) not(22) as(23) safe(24) as(25) a(26) comparatively(27) priced(28) BMWs(29) ,(30) Overpriced(31) ,(32) kind(33) of(34) looks(35) like(36) a(37) big(38) BMW(39) station(40) wagon(41) THE_UGLY(42) :(43) This(44) whole(45) SUV(46) craze(47) 
+			<opinion polarity="-" feature="price" opWords="31"/>
+		</sentence>
+	</text>
+</review>

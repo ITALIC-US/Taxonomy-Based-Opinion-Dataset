@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="121" item="2001 Toyota Celica" rating="5">
+	<title>
+		<sentence id="1">
+			"(1) It(2) has(3) six(4) speeds(5) ?(6) ?(7) !(8) !(9) "(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A_lot_of(1) car(2) for(3) the(4) price/180(5) horsepower(6) out(7) of(8) a(9) 4(10) cylinder(11) !(12) !(13) /(14) 6(15) speed(16) transmission(17) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) back(2) seat(3) 
+			<opinion polarity="-" feature="seat" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) car(2) for(3) a(4) great(5) price(6) .(7) 
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Excellent(1) candidate(2) for(3) that(4) guy(5) or(6) girl(7) looking(8) to(9) build(10) a(11) competitive(12) street(13) racer(14) ,(15) or(16) just(17) as(18) a(19) daily(20) driver(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			OK(1) ....(2) so(3) you(4) want(5) a(6) sports(7) car(8) that(9) looks(10) great(11) and(12) performs(13) like(14) a(15) dream(16) ,(17) but(18) you(19) do(20) not(21) want(22) to(23) spend(24) a(25) fortune(26) ?(27) 
+			<opinion polarity="+" feature="design" opWords="10,11"/>
+		</sentence>
+		<sentence id="2">
+			Well(1) my(2) friend(3) ,(4) your(5) prayers(6) have(7) been(8) answered(9) !(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) new(2) Toyota_Celica_GTS(3) is(4) all(5) that(6) and(7) a(8) bag(9) of(10) chips(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) been(3) impressed(4) w(5) /(6) the(7) new(8) Celica(9) since(10) day_one(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) time(3) I(4) saw(5) it(6) on(7) the(8) road(9) I(10) told(11) myself(12) I(13) would(14) have(15) to(16) find(17) out(18) what(19) that(20) car(21) was(22) !(23) 
+		</sentence>
+		<sentence id="6">
+			So(1) since(2) the(3) 2000(4) model(5) I(6) 've(7) wanted(8) one(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			When(1) the(2) 2001(3) model(4) came(5) out(6) ((7) which(8) is(9) the(10) same(11) as(12) the(13) 2000(14) model(15) ,(16) no(17) changes(18) have(19) been(20) made(21) )(22) I(23) decided(24) to(25) go(26) for(27) it(28) !(29) 
+		</sentence>
+		<sentence id="8">
+			Looking(1) at(2) the(3) outside_of(4) the(5) vehicle(6) ,(7) its(8) sharp(9) lines(10) and(11) dramatic(12) look(13) make(14) the(15) car(16) look(17) fast(18) even(19) when(20) standing(21) still(22) .(23) 
+			<opinion polarity="+" feature="design" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) look(3) closely(4) you(5) can(6) tell(7) that(8) Toyota(9) puts(10) great(11) effort(12) into(13) the(14) finished(15) product(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			The(1) fit(2) and(3) finish(4) is(5) absolutely(6) superb(7) .(8) 
+			<opinion polarity="+" feature="finish" featWords="4" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			All(1) lines(2) are(3) perfect(4) ,(5) no(6) slack(7) at(8) all(9) ...(10) everything(11) matches(12) up(13) perfectly(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			Sitting(1) inside(2) the(3) car(4) ,(5) I(6) felt(7) like(8) i(9) was(10) in(11) the(12) cokpit(13) of(14) an(15) F-18(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			Most(1) controls(2) are(3) within(4) good(5) reach(6) with(7) the(8) exception(9) of(10) the(11) hazard(12) light(13) and(14) instrument(15) dimmer(16) switch(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			The(1) quality(2) and(3) textures(4) of(5) materials(6) used(7) are(8) up(9) to(10) standard(11) Toyota(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) one(2) interior(3) feature(4) I(5) admired(6) the(7) most(8) were(9) the(10) Recaro(11) style(12) seats(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			I(1) 'm(2) a(3) tall(4) guy(5) .(6) .(7) and(8) for(9) once(10) a(11) manufacturer(12) has(13) designed(14) a(15) seat(16) that(17) can(18) actually(19) support(20) me(21) ,(22) and(23) have(24) a(25) headrest(26) that(27) actually(28) reaches(29) to(30) my(31) head(32) !(33) 
+		</sentence>
+		<sentence id="17">
+			I(1) went(2) w(3) /(4) the(5) leather(6) interior(7) which(8) is(9) of(10) great(11) quality(12) and(13) comfort(14) .(15) 
+			<opinion polarity="+" feature="interior" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="18">
+			Overall(1) ...(2) the(3) interior(4) makes(5) you(6) feel(7) like(8) you(9) 've(10) just(11) purchased(12) an(13) expensive(14) sports(15) car(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="14"/>
+		</sentence>
+		<sentence id="19">
+			Finally(1) ,(2) the(3) drive(4) !(5) 
+		</sentence>
+		<sentence id="20">
+			As(1) soon(2) as(3) I(4) fired(5) up(6) the(7) engine(8) I(9) knew(10) this(11) was(12) going(13) to(14) be(15) a(16) great(17) ride(18) .(19) 
+			<opinion polarity="+" feature="ride quality" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="21">
+			Toyota(1) is(2) not(3) kidding(4) about(5) the(6) 180(7) hp(8) VVTL-i(9) engine(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			I(1) was(2) actually(3) pushed(4) back(5) in(6) my(7) seat(8) by(9) this(10) little(11) 4(12) cylinder(13) ,(14) which(15) by(16) the(17) way(18) impresses(19) the(20) heck(21) out(22) of(23) import(24) and(25) domestic(26) sports(27) car(28) owners(29) alike(30) .(31) 
+		</sentence>
+		<sentence id="23">
+			With(1) the(2) 180(3) hp(4) engine(5) being(6) linked(7) to(8) a(9) 6(10) speed(11) manual(12) transmission(13) ,(14) the(15) ride(16) only(17) gets(18) better(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			The(1) transmission(2) feels(3) a_lot(4) like(5) the(6) 1995(7) MR2(8) 's(9) ...(10) a(11) short(12) throw(13) ,(14) with(15) solid(16) gear(17) changes(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			The(1) clutch(2) takes(3) a_bit(4) of(5) getting(6) used(7) to(8) ,(9) its(10) not(11) as(12) heavy(13) as(14) most(15) sports(16) cars(17) like(18) it(19) ...(20) but(21) who(22) 's(23) complaining(24) ?(25) 
+		</sentence>
+		<sentence id="26">
+			The(1) suspension(2) is(3) just(4) stiff(5) enough(6) that(7) taking(8) corners(9) at(10) generally(11) high(12) speeds(13) ,(14) yet(15) it(16) does(17) not(18) rock(19) your(20) kidneys(21) on(22) surface(23) streets(24) .(25) 
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="27">
+			The(1) large(2) front(3) ventilated(4) discs(5) w(6) /(7) the(8) optional(9) ABS(10) provides(11) excellent(12) stopping(13) power(14) .(15) 
+			<opinion polarity="+" feature="brakes" featWords="13,14" opWords="12"/>
+		</sentence>
+		<sentence id="28">
+			Now(1) for(2) some(3) bad(4) points(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			The(1) rear(2) seat(3) is(4) a_bit(5) cramped(6) for(7) rear(8) passengers(9) ,(10) but(11) you(12) can(13) not(14) expect(15) too(16) much(17) from(18) a(19) sports(20) car(21) .(22) 
+			<opinion polarity="-" feature="seat" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="30">
+			Also(1) the(2) color(3) of(4) the(5) instrument(6) panel(7) and(8) the(9) center(10) console(11) controls(12) are(13) different(14) ...(15) it(16) would(17) have(18) been(19) nice(20) to(21) have(22) it(23) all(24) match(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			One(1) last(2) down-point(3) is(4) the(5) moon(6) roof(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			It(1) 's(2) a_bit(3) noisy(4) when(5) open(6) since(7) there(8) is(9) no(10) wind(11) deflector(12) .(13) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="33">
+			A(1) nice(2) touch(3) would(4) have(5) been(6) a(7) built(8) in(9) one(10) that(11) pops(12) up(13) like(14) on(15) the(16) BMW(17) 's(18) .(19) 
+		</sentence>
+		<sentence id="34">
+			Overall_I(1) am(2) greatly(3) pleased(4) with(5) my(6) new(7) Celica(8) ,(9) and(10) I(11) feel(12) pretty(13) good(14) about(15) my(16) purchase(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="35">
+			I(1) am(2) always(3) getting(4) complements(5) on(6) the(7) vehicle(8) ,(9) and(10) even(11) better(12) ,(13) I(14) can(15) not(16) stop(17) giving(18) it(19) compliments(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			At(1) a(2) price(3) of(4) $22,788(5) before(6) tax(7) and(8) license(9) ,(10) my(11) pocket(12) book(13) feels(14) pretty(15) good(16) too(17) !(18) 
+		</sentence>
+		<sentence id="37">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 25,017(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GTS(16) ,(17) Leather(18) ,(19) Moonroof(20) ,(21) ABS(22) ,(23) Side-impact(24) airbags(25) ,(26) rear(27) spoiler(28) ,(29) 6(30) speed(31) tran(32) 
+		</sentence>
+	</text>
+</review>

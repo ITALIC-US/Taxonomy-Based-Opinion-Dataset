@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="315" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			Bare(1) bones(2) ,(3) but(4) good(5) bones(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) gas(2) mileage(3) ,(4) nimble(5) suspension(6) ,(7) great(8) looks(9) ,(10) plethora(11) of(12) aftermarket(13) goodies(14) 
+			<opinion polarity="+" feature="design" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="suspension" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) tachometer(2) ...(3) well(4) ...(5) not(6) many(7) options(8) at(9) all(10) .(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bare(1) bones(2) transportation(3) with(4) lots(5) of(6) appeal(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) 2000(4) DX_Hatchback(5) in(6) September(7) as(8) a(9) used(10) vehicle(11) with(12) only(13) 11K(14) on(15) the(16) odometer(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) car(2) was(3) flawless(4) the(5) entire(6) time(7) I(8) owned(9) it(10) ,(11) but(12) had(13) to(14) get(15) rid(16) of(17) the(18) car(19) four(20) months(21) after(22) buying(23) it(24) because(25) I(26) could(27) not(28) sell(29) my(30) other(31) car(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			That(1) 's(2) another(3) story(4) ...(5) No(6) wonder(7) Honda(8) has(9) a(10) reputation(11) for(12) quality(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Not(1) one(2) minor(3) problem(4) with(5) this(6) car(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) put(2) about(3) 5000_miles(4) on(5) the(6) car(7) while(8) I(9) owned(10) it(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) put(2) an(3) aftermarket(4) intake(5) on(6) it(7) ,(8) and(9) it(10) sounded(11) great(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="11,12"/>
+		</sentence>
+		<sentence id="7">
+			A_bit(1) slow(2) however(3) .(4) 
+		</sentence>
+		<sentence id="8">
+			The(1) transmission(2) is(3) geared(4) for(5) economy(6) only(7) ((8) 5-speed(9) )(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			You(1) can(2) do(3) over(4) 70mph(5) in(6) 2nd(7) gear(8) !(9) !(10) !(11) 
+		</sentence>
+		<sentence id="10">
+			Not(1) exactly(2) a(3) great(4) performer(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			However(1) ,(2) the(3) car(4) is(5) very(6) nimble(7) ,(8) and(9) is(10) a(11) great(12) city(13) vehicle(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="12"/>
+			<opinion polarity="+" feature="car" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="12">
+			The(1) build(2) quality(3) of(4) this(5) car(6) was(7) superb(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) was(3) assembled(4) like(5) a(6) much(7) more(8) expensive(9) vehicle(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			However(1) ,(2) there(3) were(4) some(5) things(6) that(7) I(8) did(9) not(10) like(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			Very(1) few(2) options(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			No(1) tach(2) ,(3) no(4) power(5) windows(6) ,(7) locks(8) etc.(9) Biggest(10) annoyance(11) was(12) no(13) cruise(14) control(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			My(1) car(2) did(3) not(4) even(5) have(6) a(7) tape(8) player(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			If(1) you(2) are(3) looking(4) for(5) a(6) very(7) reliable(8) car(9) that(10) is(11) built(12) very(13) good(14) and(15) gets(16) great(17) gas(18) mileage(19) ,(20) look(21) no(22) further(23) than(24) the(25) Civic_DX_Hatchback(26) .(27) 
+			<opinion polarity="+" feature="gas" featWords="18,19" opWords="17"/>
+			<opinion polarity="+" feature="reliability" opWords="8"/>
+		</sentence>
+		<sentence id="19">
+			You(1) can(2) get(3) tons(4) of(5) stuff(6) in(7) it(8) ,(9) and(10) it(11) will(12) not(13) take(14) you(15) to(16) the(17) cleaners(18) price(19) wise(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			However(1) ,(2) it(3) is(4) not(5) a(6) rocket(7) ,(8) nor(9) a(10) luxury(11) car(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13500(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) DX_Hatchback(16) 5-speed(17) 
+		</sentence>
+	</text>
+</review>

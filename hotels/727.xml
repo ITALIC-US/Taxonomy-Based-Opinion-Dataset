@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="727" item="Omni Severin Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) experience(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Downtown(1) location(2) .(3) .(4) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Large(1) room(2) and(3) bathroom(4) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="bathroom" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			valet(1) service(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) spent(2) a(3) Saturday_evening(4) at(5) the(6) Omni(7) downtown(8) Indianapolis(9) thanks(10) to(11) a(12) great(13) price(14) through(15) Priceline(16) .(17) com(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="2">
+			Having(1) stayed(2) at(3) other(4) 4(5) star(6) hotels(7) this(8) ranks(9) up(10) there(11) with(12) just(13) about(14) any(15) I(16) 've(17) overnighted(18) in(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Great(1) service(2) at(3) the(4) front(5) desk(6) upon(7) arrival(8) and(9) checkout(10) .(11) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Had(1) a(2) spacious(3) room(4) with(5) a(6) king(7) sized(8) bed(9) and(10) chair(11) w(12) /(13) ottoman(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="5">
+			And(1) the(2) bathroom(3) in(4) this(5) room(6) was(7) quite(8) large(9) with(10) what(11) appeared(12) to(13) be(14) marble(15) tile(16) and(17) countertop(18) .(19) 
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			Only(1) snag(2) was(3) getting(4) car(5) from(6) the(7) valet(8) service(9) when(10) getting(11) ready(12) to(13) go(14) out(15) on(16) the(17) town(18) Saturday_night(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Which(1) can(2) not(3) be(4) strictly(5) tied(6) to(7) the(8) hotel(9) since(10) valet(11) service(12) is(13) usually(14) operated(15) by(16) an(17) outside(18) contractor(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			But(1) valet(2) service(3) when(4) leaving(5) when(6) all(7) other(8) guest(9) were(10) checking(11) out(12) at(13) the(14) noon(15) checkout(16) time(17) was(18) very(19) timely(20) and(21) friendly(22) despite(23) the(24) number(25) of(26) vehicles(27) being(28) called(29) for(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			Overall(1) great(2) experience(3) and(4) clean(5) hotel(6) with(7) no(8) problems(9) .(10) 
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="10">
+			Great(1) location(2) for(3) the(4) downtown(5) nightlife(6) and(7) convenient(8) location(9) for(10) the(11) RCA(12) dome(13) and(14) downtown(15) mall(16) .(17) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="place" featWords="9" opWords="8"/>
+		</sentence>
+	</text>
+</review>

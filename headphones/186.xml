@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="186" item="RCA  HPNC050 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Effective(1) for(2) wind(3) noise(4) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ;(2) Good(3) for(4) wind(5) noise(6) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mediocre(1) construction(2) ;(3) Not(4) great(5) for(6) music(7) 
+			<opinion polarity="-" feature="durability" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Get(1) these(2) if(3) you(4) need(5) an(6) effective(7) cheap(8) solution(9) to(10) drown(11) out(12) noise(13) from(14) a(15) constant(16) whoosh(17) of(18) air(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Construction(1) -(2) These(3) headphones(4) are(5) not(6) built(7) to(8) last(9) a(10) lifetime(11) ,(12) but(13) neither(14) are(15) they(16) going(17) to(18) fall(19) apart(20) in(21) a(22) day(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Getting(1) two(2) years(3) of(4) occasional(5) use(6) out(7) of(8) them(9) would(10) likely(11) be(12) par(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'd(2) anticipate(3) a(4) six(5) month(6) life(7) if(8) you(9) used(10) them(11) daily(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) quality(2) is(3) roughly(4) similar(5) to(6) the(7) '(8) free(9) '(10) headphones(11) you(12) get(13) with(14) a(15) new(16) computer(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			Storage(1) -(2) The(3) headphones(4) are(5) rather(6) easy(7) to(8) fold(9) and(10) unfold(11) ,(12) but(13) it(14) is(15) not(16) easy(17) to(18) wrap(19) up(20) and(21) stick(22) into(23) the(24) small(25) bag(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			Comfort(1) -(2) Comfort(3) depends(4) a_lot(5) on(6) head(7) size(8) and(9) personal(10) preference(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			I(1) suspect(2) my(3) head(4) size(5) is(6) average(7) ,(8) and(9) I(10) find(11) the(12) headphones(13) comfortable(14) ,(15) though(16) not(17) luxurious(18) by(19) any(20) stretch(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) worn(3) them(4) for(5) over(6) an(7) hour(8) without(9) feeling(10) squeezed(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) no(3) adjustment(4) ,(5) except(6) the(7) typical(8) plastic(9) sliding(10) mechanism(11) found(12) on(13) nearly(14) all(15) cheap(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Noise(1) canceling(2) -(3) These(4) headsets(5) are(6) very(7) effective(8) for(9) wind(10) noise(11) and(12) the(13) the(14) hum(15) of(16) air(17) conditioning(18) systems(19) .(20) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="11">
+			I(1) suspect(2) they(3) would(4) work(5) well(6) on(7) an(8) airplane(9) ,(10) but(11) I(12) have(13) not(14) tried(15) that(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Do(1) not(2) expect(3) these(4) headsets(5) ((6) nor(7) any(8) other(9) low(10) end(11) system(12) )(13) to(14) be(15) the(16) same(17) as(18) wearing(19) ear(20) plugs(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Music(1) -(2) Not(3) bad(4) ,(5) but(6) certainly(7) far(8) from(9) great(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			When(1) noise(2) canceling(3) is(4) on(5) there(6) is(7) a(8) definite(9) drop(10) in(11) the(12) highs(13) /(14) lows(15) and(16) the(17) channel(18) separation(19) .(20) 
+		</sentence>
+	</text>
+</review>

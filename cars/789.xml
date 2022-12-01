@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="789" item="2001 Toyota Sequoia" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) Silver_Toaster(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Car-like(1) ride(2) ,(3) fit(4) and(5) finish(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Will(1) probably(2) last(3) forever(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			High-speed(1) handling(2) ,(3) dent-succeptible(4) exterior(5) ,(6) rear(7) visability(8) ,(9) gas(10) mileage(11) ,(12) high(13) maintenance(14) costs(15) 
+			<opinion polarity="-" feature="maintenance" featWords="14" opWords="13"/>
+			<opinion polarity="-" feature="exterior" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			30k_mile(1) update(2) The(3) vehicle(4) is(5) still(6) unstable(7) at(8) speeds(9) over(10) 70mph(11) ,(12) even(13) with(14) a(15) new(16) set(17) of(18) Michelins(19) and(20) a(21) front(22) end(23) alignment(24) .(25) 
+			<opinion polarity="-" feature="stability" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			So(1) far(2) ,(3) the(4) ABS(5) braking(6) computer(7) ,(8) the(9) front(10) brake(11) assemblies(12) and(13) the(14) rear(15) window(16) motor(17) have(18) been(19) replaced(20) under(21) warranty(22) ,(23) or(24) as(25) the(26) dealer(27) calls(28) them(29) "(30) Campaigns(31) "(32) ((33) which(34) is(35) a(36) fancy(37) word(38) for(39) recalls(40) when(41) the(42) warranty(43) has(44) expired(45) )(46) .(47) 
+		</sentence>
+		<sentence id="3">
+			Check(1) to(2) make(3) sure(4) that(5) your(6) potential(7) rig(8) has(9) had(10) these(11) replaced(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			All(1) of(2) these(3) are(4) big(5) buck(6) items(7) !(8) ((9) Well(10) ,(11) actually(12) about(13) $2,000(14) ea(15) ...(16) )(17) Low-speed(18) passes(19) continue(20) to(21) be(22) unnerving(23) .(24) 
+			<opinion polarity="-" feature="car" opWords="23"/>
+		</sentence>
+		<sentence id="5">
+			Almost(1) as_if(2) the(3) vehicle(4) is(5) running(6) too(7) lean(8) and(9) wants(10) to(11) stall(12) ...(13) Gas(14) mileage(15) still(16) averages(17) 15mpg(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) third(2) row(3) of(4) seats(5) spend(6) a_lot_of(7) time(8) out(9) of(10) the(11) vehicle(12) and(13) on(14) the(15) garage(16) floor(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 42,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Limited(16) ,(17) 2wd(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Leather(1) interior(2) ((3) do(4) not(5) buy(6) cloth(7) if(8) you(9) transport(10) dogs(11) ;(12) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</text>
+</review>

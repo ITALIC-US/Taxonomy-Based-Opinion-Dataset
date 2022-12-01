@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="492" item="West Side Inn" rating="3">
+	<title>
+		<sentence id="1">
+			review(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			bed(1) shakes(2) 
+			<opinion polarity="-" feature="bed" featWords="1" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			neat(1) &(2) clean(3) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			four(1) of(2) us(3) went(4) to(5) new(6) york(7) this(8) spring(9) break(10) and(11) book(12) a(13) room(14) for(15) four(16) bed(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			We(1) stayed(2) there(3) for(4) three(5) days(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			It(1) has(2) a(3) free(4) wireless(5) Internet(6) access(7) ,(8) although(9) some(10) area(11) in(12) this(13) hotel(14) has(15) no(16) signal(17) .(18) anyway(19) ,(20) it(21) 's(22) neat(23) and(24) clean(25) 
+			<opinion polarity="+" feature="internet" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="hotel" featWords="21" featRef="hotel" opWords="23"/>
+			<opinion polarity="+" feature="hotel" featWords="21" featRef="hotel" opWords="25"/>
+		</sentence>
+	</text>
+</review>

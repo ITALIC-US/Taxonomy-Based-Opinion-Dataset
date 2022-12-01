@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="521" item="1993 Nissan Maxima" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) High_Maintenance_Car(2) ...(3) Only_for_the_Truly_Willing(4) !(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Strong(1) acceleration(2) ,(3) comfortable(4) ,(5) good(6) economy(7) for(8) a(9) V(10) -(11) 6(12) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="acceleration" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Complicated(1) and(2) expensive(3) to(4) service(5) ,(6) electrical(7) system(8) prone(9) to(10) failure(11) ,(12) poor(13) service(14) from(15) Nissan(16) 
+			<opinion polarity="-" feature="service" featWords="14" opWords="13"/>
+			<opinion polarity="-" feature="service" featWords="5" opWords="3"/>
+			<opinion polarity="-" feature="service" featWords="5" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) it(4) only(5) to(6) someone(7) who(8) is(9) ready(10) and(11) willing(12) to(13) invest(14) a_lot_of(15) time(16) and(17) money(18) maintaining(19) it(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) this(3) car(4) based(5) largely(6) on(7) reports(8) of(9) its(10) excellent(11) reliability(12) and(13) durability(14) --(15) both(16) in(17) the(18) consumer(19) mags(20) and(21) other(22) sources(23) like(24) epinions(25) .(26) 
+			<opinion polarity="+" feature="reliability" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			Having(1) previously(2) owned(3) a(4) 1988(5) Honda_Accord(6) which(7) served(8) reliably(9) to(10) 200k(11) mi(12) .(13) ((14) lost(15) in(16) an(17) accident(18) )(19) ,(20) I(21) came(22) to(23) expect(24) this(25) car(26) to(27) perform(28) as_well(29) --(30) or(31) nearly(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) been(3) a(4) tremendously(5) disappointing(6) ,(7) frustrating(8) time(9) ...(10) in(11) the(12) space(13) of(14) one(15) year(16) I(17) have(18) had(19) :(20) transmission(21) failure(22) ((23) fortunately(24) did(25) not(26) need(27) a(28) new(29) trans(30) ,(31) only(32) bearings(33) and(34) 2(35) gears(36) replaced(37) )(38) ,(39) fuel(40) line(41) leak(42) ,(43) power(44) steering(45) pump(46) failure(47) ,(48) heater(49) core(50) leak(51) ((52) would(53) have(54) cost(55) $600.00(56) to(57) replace(58) ;(59) had(60) it(61) bypassed(62) instead(63) )(64) ,(65) left(66) front(67) axle(68) replacement(69) ,(70) and(71) most(72) recently(73) --(74) when(75) the(76) car(77) failed(78) to(79) start(80) --(81) spent(82) $600.00(83) to(84) replace(85) a(86) sensor(87) .(88) 
+		</sentence>
+		<sentence id="4">
+			That(1) was(2) supposed(3) to(4) get(5) the(6) car(7) started(8) again(9) ,(10) but(11) the(12) Nissan(13) service(14) department(15) now(16) says(17) that(18) I(19) have(20) to(21) spend(22) $500(23) more(24) to(25) get(26) it(27) running(28) again(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			Assuming(1) the(2) service(3) people(4) are(5) being(6) truthful(7) ((8) which(9) I(10) doubt(11) )(12) ,(13) that(14) 's(15) a(16) sign(17) that(18) this(19) car(20) is(21) too(22) complicated(23) for(24) it(25) 's(26) own(27) --(28) and(29) its(30) owner(31) 's(32) --(33) good(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) had(3) fun(4) driving(5) it(6) ((7) when(8) it(9) 's(10) not(11) in(12) the(13) shop(14) !(15) !(16) )(17) ,(18) and(19) it(20) gets(21) good(22) gas(23) mileage(24) for(25) a(26) heavy(27) car(28) with(29) a(30) large(31) engine(32) .(33) 
+			<opinion polarity="+" feature="gas" featWords="23,24" opWords="22"/>
+		</sentence>
+		<sentence id="7">
+			But(1) the(2) fun(3) can(4) come(5) at(6) a(7) VERY(8) high(9) price(10) .(11) 
+			<opinion polarity="+" feature="price" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 4500.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1993Model(12) and(13) Options(14) :(15) SE(16) ,(17) 5-speed(18) manual(19) ,(20) sunroof(21) ,(22) Bose(23) stereo(24) 
+		</sentence>
+	</text>
+</review>

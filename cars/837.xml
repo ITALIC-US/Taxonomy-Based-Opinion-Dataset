@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="837" item="1999 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			Maybe(1) I(2) have(3) a(4) bad(5) one(6) ,(7) but(8) ....(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) -(2) My_Accord(3) has(4) been(5) terribly(6) unreliable(7) ,(8) uncomfortable(9) and(10) expensive(11) to(12) keep(13) .(14) 
+			<opinion polarity="-" feature="price" opWords="11"/>
+			<opinion polarity="-" feature="comfort" opWords="9"/>
+			<opinion polarity="-" feature="reliability" opWords="7" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			This(1) car(2) has(3) the(4) durability(5) of(6) a(7) potato(8) chip(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) know(4) why(5) Honda(6) has(7) a(8) reputation(9) for(10) reliability(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			My(1) domestic(2) cars(3) have(4) been(5) much(6) better(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) my(3) experience(4) is(5) somewhat(6) different(7) than(8) everyone(9) else(10) 's(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) the(3) car(4) in_2003(5) with(6) 35,000_miles(7) on(8) it(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			As(1) of(2) this(3) writing(4) ,(5) it(6) has(7) 59,300(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) bought(2) it(3) from(4) the(5) local(6) Honda(7) dealer(8) and(9) have(10) had(11) everything(12) serviced(13) at(14) Honda(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Over(1) the(2) past(3) two(4) years(5) ,(6) the(7) car(8) has(9) developed(10) the(11) following(12) problems(13) :(14) 1(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) ball(2) joints(3) had(4) to(5) be(6) replaced(7) at(8) 42,000_miles(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) live(2) in(3) a(4) rural(5) area(6) with(7) really(8) smooth(9) roads(10) and(11) I(12) do(13) not(14) drive(15) aggressively(16) ,(17) so(18) this(19) was(20) some(21) kind(22) of(23) production(24) defect(25) .(26) 2(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			I(1) had(2) to(3) replace(4) the(5) radiator(6) cap(7) within(8) a(9) week(10) of(11) having(12) the(13) cooling(14) system(15) flushed(16) and(17) filled(18) at(19) the(20) Honda(21) dealership(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			This(1) would(2) not(3) have(4) been(5) so(6) bad(7) except(8) that(9) Honda(10) installed(11) two(12) different(13) kinds(14) of(15) radiators(16) in(17) '(18) 99(19) and(20) no(21) one(22) had(23) my(24) cap.(25) I(26) was(27) given(28) the(29) wrong(30) one(31) on(32) several(33) occasions(34) at(35) several(36) different(37) Honda(38) dealers(39) .(40) 3(41) .(42) 
+		</sentence>
+		<sentence id="10">
+			The(1) driver(2) 's(3) side(4) tie(5) rod(6) end(7) had(8) to(9) be(10) replaced(11) ((12) see(13) comment(14) one(15) )(16) .(17) 4(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			The(1) car(2) has(3) a(4) manual(5) transmission(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Sometimes(1) ,(2) it(3) refused(4) to(5) go(6) into(7) first(8) gear(9) unless(10) I(11) let(12) the(13) clutch(14) out(15) while(16) in(17) neutral(18) and(19) try(20) again(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			I(1) had(2) this(3) checked(4) and(5) was(6) told(7) that(8) there(9) was(10) nothing(11) wrong(12) with(13) the(14) transmission(15) .(16) 5(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			The(1) engine(2) RPMs(3) do(4) not(5) go(6) down(7) when(8) I(9) shift(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			When(1) I(2) engage(3) the(4) clutch(5) ,(6) the(7) engine(8) acts(9) as_if(10) I(11) still(12) have(13) my(14) foot(15) on(16) the(17) accelerator(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			I(1) had(2) this(3) checked(4) as_well(5) ;(6) several(7) mechanics(8) at(9) several(10) dealerships(11) noticed(12) this(13) problem(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			Eventually(1) ,(2) after(3) calling(4) American_Honda(5) ,(6) I(7) was(8) told(9) the(10) '(11) 99(12) Accords(13) with(14) manual(15) transmissions(16) have(17) some(18) kind(19) of(20) glitch(21) in(22) the(23) computer(24) that(25) causes(26) "(27) slow(28) spin-down(29) .(30) "(31) Nothing(32) can(33) be(34) done(35) to(36) fix(37) it(38) .(39) 
+		</sentence>
+		<sentence id="18">
+			So(1) ,(2) unless(3) I(4) decelerate(5) before(6) I(7) push(8) the(9) clutch(10) pedal(11) in(12) ,(13) the(14) RPMs(15) stay(16) high(17) and(18) I(19) will(20) chew(21) up(22) my(23) clutch(24) .(25) 6(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			About(1) a(2) year(3) ago(4) ,(5) I(6) engine(7) began(8) to(9) make(10) a(11) metallic(12) clattering(13) while(14) cold(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			I(1) assumed(2) that(3) the(4) valves(5) needed(6) adjustment(7) ,(8) but(9) I(10) was(11) recently(12) told(13) by(14) the(15) Honda(16) dealership(17) that(18) my(19) engine(20) has(21) developed(22) a(23) "(24) piston(25) slap(26) "(27) ,(28) which(29) occurs(30) when(31) the(32) cylinder(33) walls(34) take(35) the(36) shape(37) of(38) an(39) oval(40) due(41) to(42) wear(43) and(44) the(45) piston(46) skirts(47) slap(48) against(49) the(50) cylinder(51) until(52) the(53) engine(54) heats(55) .(56) 
+		</sentence>
+		<sentence id="21">
+			Now(1) ,(2) I(3) have(4) had(5) my(6) oil(7) changed(8) every(9) 2000(10) to(11) 3000_miles(12) only(13) at(14) Honda(15) dealerships(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			I(1) have(2) used(3) their(4) recommended(5) oil(6) and(7) only(8) genuine(9) Honda(10) oil(11) filters(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) no(3) reason(4) why(5) this(6) engine(7) should(8) be(9) so(10) worn(11) after(12) 59,000(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			It(1) has(2) not(3) been(4) abused(5) ,(6) over-revved(7) or(8) neglected(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			I(1) am(2) absolutely(3) fanatical(4) about(5) car(6) maintenance(7) .(8) 7(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			The(1) car(2) pulls(3) to(4) the(5) right(6) .(7) 
+		</sentence>
+		<sentence id="27">
+			I(1) have(2) had(3) the(4) car(5) aligned(6) several(7) times(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			It(1) 's(2) still(3) not(4) fixed(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			I(1) was(2) told(3) the(4) frame(5) is(6) straight(7) and(8) the(9) front(10) end(11) ((12) after(13) replacing(14) the(15) ball(16) joints(17) and(18) tie(19) rod(20) end(21) )(22) are(23) in(24) good(25) shape(26) .(27) 8(28) .(29) 
+		</sentence>
+		<sentence id="30">
+			Recently(1) ,(2) I(3) started(4) smelling(5) gasoline(6) in(7) the(8) oil(9) ,(10) which(11) can(12) indicate(13) piston(14) blow-by(15) or(16) a(17) fuel(18) injector(19) problem(20) .(21) 
+		</sentence>
+		<sentence id="31">
+			Generally(1) ,(2) I(3) 'm(4) not(5) picky(6) about(7) cars(8) .(9) 
+		</sentence>
+		<sentence id="32">
+			I(1) traded(2) my(3) 1992(4) Buick_Century(5) for(6) this(7) car(8) because(9) ,(10) after(11) 11(12) years(13) of(14) use(15) and(16) 125,000_miles(17) ,(18) one(19) problem(20) after(21) another(22) developed(23) .(24) 
+		</sentence>
+		<sentence id="33">
+			I(1) thought(2) that(3) the(4) Honda(5) would(6) be(7) a(8) good(9) ,(10) reliable(11) car(12) that(13) would(14) be(15) relatively(16) cheap(17) to(18) keep(19) .(20) 
+			<opinion polarity="+" feature="price" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="reliability" opWords="11"/>
+			<opinion polarity="+" feature="car" featWords="12" opWords="9"/>
+		</sentence>
+		<sentence id="34">
+			However(1) ,(2) I(3) have(4) spent(5) more(6) money(7) on(8) this(9) thing(10) in(11) two(12) years(13) than(14) I(15) spent(16) in(17) 11(18) on(19) my(20) Buick(21) .(22) 
+		</sentence>
+		<sentence id="35">
+			I(1) do(2) not(3) get(4) it(5) .(6) 
+		</sentence>
+		<sentence id="36">
+			In_addition(1) ,(2) it(3) drives(4) like(5) a(6) truck(7) ,(8) handles(9) poorly(10) and(11) makes(12) a_lot(13) on(14) noise(15) on(16) the(17) highway(18) .(19) 
+			<opinion polarity="-" feature="handling" opWords="9,10"/>
+		</sentence>
+		<sentence id="37">
+			But(1) I(2) would(3) be(4) able(5) to(6) overlook(7) these(8) problems(9) if(10) the(11) car(12) were(13) not(14) such(15) a(16) money(17) pit(18) .(19) 
+		</sentence>
+		<sentence id="38">
+			What(1) 's(2) gonna(3) go(4) wrong(5) next(6) ?(7) 
+		</sentence>
+		<sentence id="39">
+			The(1) mechanic(2) at(3) the(4) Honda(5) dealership(6) said(7) that(8) he(9) thought(10) the(11) clutch(12) was(13) slipping(14) .(15) 
+		</sentence>
+		<sentence id="40">
+			I(1) have(2) not(3) felt(4) anything(5) yet(6) ,(7) but(8) it(9) would(10) not(11) surprise(12) me(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			I(1) can(2) not(3) recommend(4) this(5) car(6) .(7) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+		<sentence id="42">
+			If(1) you(2) already(3) own(4) one(5) ,(6) I(7) hope(8) that(9) you(10) have(11) better(12) luck(13) than(14) I(15) have(16) .(17) 
+		</sentence>
+		<sentence id="43">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

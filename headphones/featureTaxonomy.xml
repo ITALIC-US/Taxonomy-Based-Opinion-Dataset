@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy productClass="headphones">
+	<featureRoot name="headphones" featWords="device,earphone,earphones,head phones,headphone,headphones,headset,headsets,phone,phones,product,set of earbuds,speakers">
+		<feature name="appearance" featWords="aesthetics,appearance,color,colors,look,looks,shape,style,styling"/>
+		<feature name="comfort" featWords="comfort,feel,fit,fitting"/>
+		<feature name="component" featWords="">
+			<feature name="battery" featWords="batteries,battery,charging,charging cycle">
+				<feature name="battery life" featWords="battery life"/>
+			</feature>
+			<feature name="case" featWords="bag,carrying case,case,pouch"/>
+			<feature name="cord" featWords="audio cord,cable,cables,cord,cords,length,wire,wires,wiring"/>
+			<feature name="earbuds" featWords="bud,buds,ear bud,ear buds,ear clip,ear clips,ear pieces,earbud,earbuds,earpieces"/>
+			<feature name="earcups" featWords="cans,cups,ear cup,ear cups,earcups"/>
+			<feature name="earpads" featWords="cushion,cushions,ear pads,earpads,foam,padding,pads,pillows"/>
+			<feature name="headband" featWords="head band,headband"/>
+			<feature name="jack" featWords="conectors,connection,connections,connector,connectors,input jack,jack,jacks,plug"/>
+			<feature name="volume control" featWords="volume control"/>
+		</feature>
+		<feature name="design" featWords="design"/>
+		<feature name="durability" featWords="build,construction,durability,flexibility,strength"/>
+		<feature name="isolation" featWords="isolation,noise blocking,noise cancel,noise cancelation,noise canceling,noise cancellation,noise cancelling,noise isolation,noise reduction,noise stopping,noise-canceling,noise-cancellation,nr,reduction,shielding,sound isolation"/>
+		<feature name="packaging" featWords="package,packaging"/>
+		<feature name="performance" featWords="performance"/>
+		<feature name="portability" featWords="portability"/>
+		<feature name="price" featWords="cost,price,pricing,value"/>
+		<feature name="range" featWords="range,wireless reception"/>
+		<feature name="size" featWords="size"/>
+		<feature name="sound quality" featWords="audio,audio quality,audio reproduction,music,music quality,reproduction,sensitivity,sound,sound performance,sound quality,sound reproduction,sounding,sounds,sounds quality,sq">
+			<feature name="frequency response" featWords="dynamic range,frequency range,frequency response,response">
+				<feature name="bass" featWords="bass,bass reproduction,bass response,bass sound,low,low end,low end frequencies,low frequencies,low frequency range,low range,lows"/>
+				<feature name="highs" featWords="clarity,high,high end,high frequencies,high range,high-end,highend,highs,treble"/>
+				<feature name="mids" featWords="mid,mid range,mid-range,middle,midrange,mids"/>
+			</feature>
+			<feature name="volume" featWords="output,sound output,volume"/>
+		</feature>
+		<feature name="warranty" featWords="warranty"/>
+		<feature name="weight" featWords="weigh,weight"/>
+	</featureRoot>
+</taxonomy>

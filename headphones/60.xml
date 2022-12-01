@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="60" item="Philips SHN2500 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			no(1) Noise(2) cancelling(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) noise(2) cancelling(3) affect(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			No(1) support(2) from(3) Philips(4) when(5) I(6) complained(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) on(4) board(5) an(6) easyjet(7) flight(8) this(9) fall(10) ,(11) despite(12) the(13) fact(14) that(15) I(16) already(17) owned(18) two(19) other(20) sets(21) of(22) noise(23) cancelling(24) headphones(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			The(1) reason(2) was(3) that(4) these(5) are(6) small(7) and(8) easy(9) to(10) carry(11) ,(12) the(13) others(14) are(15) over(16) the(17) ear(18) .(19) 
+			<opinion polarity="+" feature="size" opWords="7"/>
+			<opinion polarity="+" feature="portability" opWords="9,10,11"/>
+		</sentence>
+		<sentence id="3">
+			But(1) these(2) have(3) no(4) noise(5) cancelling(6) at(7) all(8) !(9) 
+		</sentence>
+		<sentence id="4">
+			They(1) just(2) have(3) a(4) small(5) amplifier(6) which(7) boosts(8) the(9) sound(10) ((11) and(12) hums(13) )(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Amazing(1) bit(2) of(3) false(4) advertising(5) from(6) what(7) used(8) to(9) be(10) a(11) reputable(12) company(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Junk(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			Stay(1) away(2) .(3) 
+		</sentence>
+	</text>
+</review>

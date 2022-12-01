@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="29" item="Audio-Technica ATH-M40fs Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			good(1) set(2) of(3) ear(4) goggles(5) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			sound(1) ,(2) feel(3) ,(4) look(5) ,(6) quality(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			theses(1) are(2) great(3) head(4) phones(5) .(6) i(7) user(8) them(9) for(10) live(11) as_well(12) as(13) studio(14) apps(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			My_Experiences(1) .(2) ((3) Mostly(4) very(5) good(6) )(7) Studio(8) :(9) These(10) make(11) awesome(12) monitors(13) ,(14) they(15) are(16) accurate(17) ,(18) and(19) do(20) not(21) bleed(22) back(23) into(24) the(25) mic(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			On(1) top(2) of(3) that(4) they(5) always(6) give(7) the(8) performer(9) what(10) they(11) need(12) to(13) do(14) their(15) thing(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			Live(1) :(2) these(3) phones(4) hold(5) sound(6) out(7) pretty(8) well(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Granted(1) there(2) are(3) sometimes(4) when(5) it(6) is(7) so(8) loud(9) your(10) ear(11) plugs(12) do(13) not(14) do(15) much(16) good(17) ,(18) but(19) I(20) am(21) not(22) talking(23) about(24) that(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Say(1) you(2) re(3) trying(4) to(5) find(6) a(7) sound(8) a(9) drummer(10) will(11) not(12) stop(13) playing(14) ,(15) just(16) strap(17) on(18) and(19) get(20) back(21) to(22) work(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			I(1) got(2) these(3) phones(4) because(5) on(6) of(7) my(8) coworkers(9) had(10) a(11) set(12) and(13) I(14) liked(15) them(16) ,(17) so(18) the(19) next(20) time(21) I(22) was(23) in(24) the(25) market(26) for(27) headphones(28) I(29) snagged(30) these(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			I(1) like(2) the(3) design(4) and(5) performance(6) of(7) this(8) product(9) combined(10) with(11) quality(12) and(13) an(14) ok(15) price(16) .(17) 
+			<opinion polarity="+" feature="design" featWords="4" opWords="2"/>
+			<opinion polarity="+" feature="performance" featWords="6" opWords="2"/>
+		</sentence>
+		<sentence id="9">
+			What(1) I(2) do(3) not(4) like(5) ...(6) Well(7) nothing(8) really(9) they(10) could(11) be(12) a(13) little(14) cheaper(15) .(16) 
+		</sentence>
+	</text>
+</review>

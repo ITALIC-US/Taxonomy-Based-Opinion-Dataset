@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="684" item="2001 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) Lady_'s_Viewpoint(2) ...(3) Toyota(4) or(5) Honda(6) .........(7) HONDA(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) handling(2) and(3) gas(4) mileage(5) ,(6) comfortable(7) front(8) seat(9) .(10) 
+			<opinion polarity="+" feature="seat" featWords="8,9" opWords="7"/>
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="1"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) interior(2) ,(3) unstable(4) in(5) high(6) winds(7) ,(8) small(9) back(10) seat(11) 
+			<opinion polarity="-" feature="seat" featWords="10,11" opWords="9"/>
+			<opinion polarity="-" feature="stability" opWords="4"/>
+			<opinion polarity="-" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) was(2) disappointed(3) with(4) the(5) quality(6) of(7) this(8) vehicle(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="9" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Being_a_Toyota_I(1) expected(2) more(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) to(3) say(4) I(5) 've(6) been(7) spoiled(8) by(9) my(10) 1990(11) Honda_Accord_EX(12) with(13) all(14) power(15) stuff(16) and(17) I(18) truly(19) expected(20) more(21) out(22) of(23) my(24) 2001(25) Corolla(26) ,(27) but(28) it(29) was(30) not(31) meant(32) to(33) be(34) .(35) 
+		</sentence>
+		<sentence id="2">
+			When(1) I(2) first(3) drove(4) this(5) car(6) I(7) loved(8) the(9) way(10) it(11) handled(12) and(13) the(14) pickup(15) it(16) had(17) .(18) ((19) Honda(20) was(21) a(22) little(23) stiff(24) handling(25) and(26) pickup(27) was(28) slower(29) )(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			I(1) did(2) not(3) notice(4) the(5) noise(6) factor(7) until(8) later(9) .(10) ((11) No(12) noise(13) in(14) the(15) Honda(16) )(17) I(18) kept(19) thinking(20) a(21) window(22) was(23) slightly(24) open(25) at(26) first(27) but(28) it(29) was(30) not(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			The(1) temperature(2) control(3) on(4) this(5) car(6) leaves(7) something(8) to(9) be(10) desired(11) .(12) ((13) No(14) problem(15) with(16) control(17) in(18) Honda(19) )(20) If(21) you(22) try(23) to(24) use(25) the(26) air(27) conditioner(28) and(29) do(30) not(31) want(32) it(33) on(34) cold(35) ,(36) the(37) adjustment(38) has(39) a(40) tendency(41) to(42) give(43) you(44) cool(45) air(46) thru(47) the(48) dash(49) vents(50) ,(51) but(52) on(53) the(54) floor(55) you(56) get(57) warm(58) air(59) .(60) 
+		</sentence>
+		<sentence id="5">
+			So(1) when(2) you(3) adjust(4) to(5) get(6) the(7) air(8) on(9) the(10) floor(11) cool(12) enough(13) ,(14) its(15) too(16) cold(17) thru(18) the(19) dash(20) vents(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) you(3) can(4) only(5) close(6) the(7) two(8) outside(9) dash(10) vents(11) ,(12) the(13) two(14) in(15) the(16) middle(17) stay(18) open(19) all(20) the(21) time(22) .(23) ((24) All(25) vents(26) on(27) Honda(28) closed(29) and(30) no(31) problem(32) with(33) air(34) temp(35) .(36) on(37) floor(38) .(39) )(40) The(41) first(42) time(43) I(44) drove(45) it(46) in(47) high(48) winds(49) I(50) thought(51) I(52) had(53) a(54) flat(55) tire(56) .(57) 
+		</sentence>
+		<sentence id="7">
+			First(1) it(2) veered(3) right(4) and(5) then(6) left(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			Well(1) it(2) did(3) not(4) take(5) long(6) to(7) figure(8) out(9) it(10) was(11) because(12) the(13) car(14) is(15) so(16) light(17) .(18) ((19) Great(20) for(21) gas(22) mileage(23) but(24) bad(25) for(26) handling(27) in(28) higher(29) than(30) normal(31) winds(32) .(33) )(34) I(35) never(36) noticed(37) a(38) problem(39) with(40) the(41) wind(42) and(43) the(44) Honda(45) .(46) 
+			<opinion polarity="-" feature="handling" featWords="27" opWords="25"/>
+			<opinion polarity="+" feature="gas" featWords="22,23" opWords="20"/>
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) also(3) disappointed(4) with(5) the(6) fact(7) that(8) the(9) only(10) thing(11) standard(12) in(13) power(14) options(15) was(16) windows(17) &(18) door(19) locks(20) .(21) 
+			<opinion polarity="-" feature="car" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			No(1) power(2) steering(3) ,(4) cruise(5) control(6) ,(7) or(8) power(9) antenna(10) on(11) the(12) LE(13) model(14) I(15) have(16) .(17) ((18) Which(19) the(20) way(21) I(22) read(23) the(24) write-up(25) on(26) this(27) car(28) should(29) have(30) been(31) standard(32) as(33) this(34) was(35) the(36) high(37) end(38) Corolla(39) model(40) .(41) )(42) Small(43) trunk(44) .(45) 
+		</sentence>
+		<sentence id="11">
+			All(1) these(2) things(3) were(4) standard(5) on(6) the(7) Honda(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			Also(1) nothing(2) sporty(3) about(4) it(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) add(3) a(4) spoiler(5) to(6) get(7) the(8) look(9) for(10) about(11) $500.00(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			With(1) all(2) that(3) said(4) there(5) are(6) some(7) good(8) things(9) about(10) it(11) too(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			As(1) I(2) said(3) before(4) it(5) handles(6) great(7) ((8) unless(9) in(10) wind(11) )(12) has(13) great(14) pickup(15) ,(16) corners(17) on(18) a(19) dime(20) ,(21) has(22) a(23) over(24) drive(25) button(26) to(27) help(28) with(29) those(30) times(31) you(32) squeeze(33) in(34) on(35) interstate(36) .(37) 
+			<opinion polarity="+" feature="handling" opWords="6,7"/>
+		</sentence>
+		<sentence id="16">
+			Smooth(1) ride(2) ,(3) comfortable(4) seats(5) &(6) headroom(7) &(8) has(9) map(10) lights(11) .(12) 
+			<opinion polarity="+" feature="head room" featWords="7" opWords="4"/>
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="17">
+			No(1) lighted(2) mirror(3) but(4) has(5) mirror(6) on(7) both(8) driver(9) and(10) passenger(11) side(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			Lots(1) of(2) storage(3) compartments(4) in(5) console(6) ,(7) dash(8) and(9) has(10) cup(11) holder(12) for(13) back(14) seat(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			As(1) everyone(2) else(3) has(4) stated(5) the(6) back(7) seat(8) has(9) very(10) ,(11) very(12) little(13) leg(14) room(15) .(16) 
+			<opinion polarity="-" feature="leg room" featWords="14,15" opWords="13"/>
+		</sentence>
+		<sentence id="20">
+			The(1) only(2) mechanical(3) information(4) I(5) can(6) really(7) give(8) you(9) is(10) the(11) oil(12) stick(13) is(14) easy(15) to(16) get(17) to(18) ,(19) as_well(20) as(21) the(22) radiator(23) and(24) washer(25) fluid(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			Also(1) has(2) locking(3) gas(4) door(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			Did(1) I(2) mention(3) great(4) gas(5) mileage(6) ?(7) 
+			<opinion polarity="+" feature="gas" featWords="5,6" opWords="4"/>
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13,000.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LE(16) ,(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="284" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Bose_QuietComfort(1) 2(2) -(3) Business_Traveler_'s_Best_Friend(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Super(1) quiet(2) ,(3) great(4) case(5) ,(6) perfect(7) acoustics(8) 
+			<opinion polarity="+" feature="sound quality" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="case" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) cheap(2) -(3) but(4) worth(5) it(6) .(7) 
+			<opinion polarity="-" feature="price" opWords="1,2"/>
+		</sentence>
+		<sentence id="2">
+			Must(1) be(2) powered(3) on(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) other(4) headphones(5) that(6) had(7) noise(8) canceling(9) capabilities(10) but(11) none(12) came(13) any(14) where(15) close(16) to(17) this(18) sweet(19) unit(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Plug(1) them(2) in(3) or(4) just(5) use(6) them(7) on(8) their(9) own(10) to(11) kill(12) the(13) sounds(14) of(15) the(16) jet(17) engines(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			You(1) 'll(2) want(3) to(4) travel(5) with(6) a(7) spare(8) AAA(9) battery(10) though(11) as(12) these(13) must(14) be(15) powered(16) on(17) in(18) order(19) for(20) any(21) audio(22) to(23) come(24) through(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Battery(1) dies(2) and(3) you(4) are(5) out(6) of(7) luck(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			On(1) the(2) good(3) side(4) ,(5) I(6) find(7) the(8) battery(9) life(10) exceeds(11) three(12) round(13) trips(14) across(15) the(16) US(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			There(1) 's(2) a(3) convenient(4) pouch(5) inside(6) the(7) case(8) that(9) holds(10) several(11) extra(12) batteries(13) .(14) 
+			<opinion polarity="+" feature="case" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			When(1) used(2) to(3) view(4) on(5) board(6) movies(7) ((8) comes(9) with(10) multiple(11) adapter(12) plugs(13) also(14) store(15) in(16) the(17) case(18) )(19) you(20) can(21) actually(22) enjoy(23) the(24) show(25) !(26) 
+		</sentence>
+		<sentence id="8">
+			There(1) 's(2) room(3) in(4) the(5) case(6) too(7) for(8) my(9) iPod(10) Nano(11) too(12) !(13) 
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) are(3) like(4) me(5) you(6) 'll(7) just(8) be(9) disappointed(10) to(11) hear(12) the(13) cabin(14) crew(15) tell(16) you(17) to(18) stow(19) your(20) electronic(21) devices(22) as(23) suddenly(24) you(25) are(26) reminded(27) of(28) just(29) how(30) noisy(31) the(32) cabin(33) has(34) been(35) during(36) your(37) trip(38) .(39) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="27" item="Burlington-Days Inn  Shelburne" rating="1">
+	<title>
+		<sentence id="1">
+			Mold(1) and(2) indifference(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Staff(1) accomodates(2) requests(3) quickly(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Quiet(1) .(2) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) numerous(2) to(3) summarize(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Please(1) read(2) review(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) this(2) Days_Inn(3) ;(4) it(5) 's(6) unfriendly(7) ,(8) outdated(9) ,(10) overpriced(11) and(12) moldy(13) 
+			<opinion polarity="-" feature="hotel" featWords="5" featRef="hotel" opWords="7"/>
+			<opinion polarity="-" feature="hotel" featWords="5" featRef="hotel" opWords="9"/>
+			<opinion polarity="-" feature="price" opWords="11"/>
+			<opinion polarity="-" feature="hotel" featWords="5" featRef="hotel" opWords="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) were(2) greeted(3) with(4) indifference(5) by(6) the(7) desk(8) clerk(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			My(1) credit(2) card(3) was(4) flipped(5) back(6) to(7) me(8) with(9) the(10) comment(11) :(12) "(13) checkout(14) on(15) Monday_at_11(16) .(17) "(18) A(19) broken(20) back(21) door(22) ((23) the(24) only(25) security(26) is(27) to(28) keep(29) your(30) room(31) door(32) locked(33) --(34) which(35) did(36) not(37) close(38) on(39) its(40) own(41) )(42) preceded(43) a(44) "(45) lobby(46) "(47) with(48) broken(49) and(50) torn(51) pseudo-leather(52) furniture(53) .(54) 
+		</sentence>
+		<sentence id="3">
+			The(1) peeling(2) wallpaper(3) of(4) the(5) lobby(6) was(7) repeated(8) in(9) our(10) room(11) ;(12) the(13) track(14) for(15) the(16) curtains(17) was(18) broken(19) and(20) put(21) up(22) with(23) a(24) safety(25) pin(26) .(27) 
+			<opinion polarity="-" feature="walls" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			My(1) wife(2) swears(3) her(4) feet(5) stuck(6) to(7) the(8) carpet(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) decor(2) was(3) at_least(4) twenty(5) years(6) old(7) :(8) the(9) side(10) veneer(11) had(12) come(13) off(14) the(15) table(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			There(1) was(2) one(3) small(4) mirror(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			When(1) I(2) inspected(3) the(4) bathroom(5) I(6) found(7) the(8) wallpaper(9) had(10) been(11) peeeled(12) off(13) and(14) mold(15) was(16) clearly(17) growing(18) in(19) the(20) area(21) behind(22) the(23) toilet(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			We(1) asked(2) for(3) a(4) different(5) room(6) and(7) were(8) told(9) none(10) was(11) available(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			For(1) this(2) we(3) paid(4) the(5) special(6) weekend(7) rate(8) of(9) $105(10) and(11) had(12) to(13) stay(14) two(15) nights(16) !(17) 
+		</sentence>
+		<sentence id="10">
+			On_the_other_hand(1) ,(2) the(3) room(4) was(5) clean(6) and(7) quiet(8) and(9) the(10) staff(11) did(12) accomodate(13) our(14) requests(15) quickly(16) ((17) when(18) the(19) housekeeping(20) staff(21) forgot(22) to(23) put(24) in(25) new(26) towels(27) for_instance(28) )(29) .(30) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="6"/>
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			This(1) out(2) of(3) date(4) ,(5) unfriendly(6) place(7) stays(8) in(9) business(10) because_of(11) the(12) very(13) popular(14) Shelburns_Museum(15) and(16) farm(17) nearby(18) .(19) 
+			<opinion polarity="-" feature="place" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			But(1) be(2) advised(3) that(4) there(5) are(6) many(7) many(8) other(9) places(10) to(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Book(1) early(2) and(3) avoid(4) this(5) disgrace(6) to(7) the(8) fine(9) Days_Inn(10) corportation(11) that(12) inexplicably(13) allows(14) its(15) franchise(16) to(17) continue(18) .(19) 
+		</sentence>
+	</text>
+</review>

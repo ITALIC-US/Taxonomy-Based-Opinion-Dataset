@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="115" item="Sennheiser RS 110 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Nice(1) ,(2) but(3) not(4) long(5) lasting(6) .(7) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="durability" opWords="4,5,6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent_Sound_Quality(1) ;(2) Extremely_Comfortable(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hard_On_Batteries(1) ,(2) and(3) Transmitter_Failures(4) ,(5) plus(6) interference(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) away(2) if(3) you(4) want(5) top(6) quality(7) ,(8) or(9) purchase(10) an(11) in(12) store(13) warranty(14) so(15) you(16) can(17) be(18) assured(19) you(20) will(21) not(22) be(23) out(24) 100(25) bucks(26) for(27) nothing(28) .(29) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) less(4) than(5) a(6) year(7) ago(8) ,(9) my(10) wife(11) and(12) I(13) decided(14) that(15) instead_of(16) having(17) a(18) stereo(19) system(20) to(21) annoy(22) the(23) neighbors(24) ,(25) we(26) 'd(27) get(28) headsets(29) to(30) watch(31) our(32) movies(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			They(1) worked(2) great(3) up(4) until(5) about(6) 3(7) weeks(8) ago(9) when(10) the(11) transmitter(12) malfunctioned(13) and(14) the(15) sound(16) quality(17) was(18) extremely(19) bad(20) ,(21) with(22) a(23) high(24) pitched(25) whine(26) .(27) 
+			<opinion polarity="-" feature="sound quality" featWords="16,17" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="3">
+			Nothing_I(1) tried(2) with(3) the(4) transmitter(5) worked(6) ,(7) so(8) I(9) dug(10) out(11) the(12) other(13) transmitter(14) because(15) we(16) bought(17) two(18) complete(19) sets(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Problem(1) solved(2) ,(3) for(4) about(5) 3(6) weeks(7) when(8) the(9) second(10) transmitter(11) encountered(12) the(13) same(14) problem(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) trying(3) to(4) deal(5) with(6) customer(7) service(8) to(9) get(10) a(11) new(12) transmitter(13) ,(14) and(15) not(16) having(17) much(18) luck(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) a_lot_of(3) interference(4) during(5) normal(6) use(7) ,(8) but(9) overall(10) the(11) sound(12) quality(13) is(14) great(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="12,13" opWords="15"/>
+		</sentence>
+		<sentence id="7">
+			The(1) headphones(2) do(3) slip(4) off(5) easily(6) as(7) some(8) people(9) noted(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			But(1) the(2) supraural(3) style(4) allows(5) you(6) to(7) wear(8) them(9) for(10) hours(11) and(12) hours(13) on(14) end(15) without(16) headphone(17) ache(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) buy(3) them(4) again(5) simply(6) for(7) the(8) comfort(9) ,(10) but(11) I(12) wish(13) they(14) had(15) less(16) interference(17) and(18) more(19) longevity(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			They(1) also(2) burn(3) through(4) batteries(5) so(6) if(7) you(8) get(9) them(10) consider(11) rechargeables(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Be(1) sure(2) to(3) get(4) the(5) extended(6) warranty(7) as_well(8) because(9) I(10) have(11) to(12) figure(13) if(14) the(15) same(16) thing(17) happened(18) to(19) two(20) transmitters(21) it(22) will(23) happen(24) to(25) others(26) as_well(27) .(28) 
+		</sentence>
+	</text>
+</review>

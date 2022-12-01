@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="809" item="2001 Ford Escort ZX2" rating="1">
+	<title>
+		<sentence id="1">
+			Do(1) not(2) buy(3) this(4) car(5) !(6) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) ,(2) so(3) great(4) price(5) for(6) college(7) students(8) .(9) 
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) and(2) roomy(3) 
+			<opinion polarity="+" feature="room" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) reliable(2) ,(3) rough(4) ride(5) ,(6) many(7) repairs(8) 
+			<opinion polarity="-" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="-" feature="reliability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) not(2) buy(3) this(4) car(5) .(6) 
+			<opinion polarity="-" feature="car" featWords="5" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) inexpensive(2) price(3) tag(4) seems(5) nice(6) ,(7) but(8) with(9) all(10) of(11) the(12) money(13) spent(14) in(15) repairs(16) ,(17) you(18) can(19) get(20) a(21) reliable(22) car(23) .(24) 
+			<opinion polarity="+" feature="reliability" opWords="22"/>
+			<opinion polarity="+" feature="price" featWords="3" opWords="6"/>
+			<opinion polarity="+" feature="price" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) most(4) awful(5) car(6) I(7) have(8) ever(9) owned(10) .(11) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			Right(1) now(2) it(3) has(4) 57,000_miles(5) on(6) it(7) ,(8) so(9) I(10) do(11) not(12) expect(13) it(14) to(15) run(16) like(17) a(18) brand(19) new(20) sports(21) car(22) ,(23) but(24) this(25) is(26) awful(27) !(28) 
+			<opinion polarity="-" feature="car" featWords="22" opWords="27"/>
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) first(3) breakdown(4) was(5) only(6) after(7) 7(8) months(9) ,(10) with(11) only(12) 10,000_miles(13) on(14) it(15) !(16) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) been(3) constantly(4) breaking(5) down(6) ever(7) since(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			Just(1) this(2) month(3) my(4) Escort(5) has(6) broke(7) down(8) 4_times(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			While(1) I(2) do(3) my(4) part(5) to(6) keep(7) it(8) maintained(9) ,(10) my(11) car(12) runs(13) as(14) though(15) it(16) is(17) 20(18) years(19) old(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			It(1) shakes(2) like(3) Satan(4) is(5) under(6) the(7) hood(8) or(9) something(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			It(1) has(2) broken(3) down(4) so(5) many(6) times(7) ((8) mainly(9) warranty(10) repairs(11) luckily(12) )(13) that(14) it(15) scares(16) me(17) to(18) drive(19) long(20) distances(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) service(2) department(3) at(4) Ford(5) is(6) awful(7) .(8) 
+			<opinion polarity="-" feature="service" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			One(1) mechanic(2) actually(3) yelled(4) at(5) me(6) ,(7) saying(8) that(9) if(10) my(11) warranty(12) did(13) not(14) cover(15) the(16) breakdown(17) ,(18) it(19) was(20) going(21) to(22) be(23) extremely(24) expensive(25) .(26) 
+			<opinion polarity="-" feature="price" opWords="25" potency="24"/>
+		</sentence>
+		<sentence id="11">
+			Luckily(1) ,(2) my(3) warranty(4) did(5) cover(6) the(7) problem(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			Another(1) time(2) I(3) took(4) the(5) car(6) in(7) ,(8) they(9) kept(10) my(11) car(12) for(13) a(14) week(15) ,(16) only(17) to(18) tell(19) me(20) that(21) all(22) I(23) needed(24) was(25) a(26) vacuum(27) hose(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			They(1) charged(2) me(3) $280.00(4) for(5) this(6) 3(7) minute(8) repair(9) !(10) 
+		</sentence>
+		<sentence id="14">
+			Less(1) than(2) a(3) week(4) later(5) my(6) car(7) died(8) again(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			I(1) found(2) what(3) the(4) problem(5) had(6) been(7) the(8) whole(9) time(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			What(1) took(2) them(3) a(4) week(5) took(6) me(7) 5(8) minutes(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			I(1) am(2) in(3) the(4) process(5) of(6) getting(7) my(8) money(9) back(10) for(11) this(12) repair(13) ,(14) but(15) now(16) my(17) car(18) will(19) not(20) stop(21) misfiring(22) ,(23) and(24) no(25) one(26) can(27) figure(28) it(29) out(30) ((31) any(32) suggestions(33) ?(34) we(35) tried(36) the(37) spark(38) plugs(39) already(40) )(41) Amount_Paid(42) ((43) US(44) $(45) )(46) :(47) 8,888(48) Condition(49) :(50) NewModel_Year(51) :(52) 2001(53) 
+		</sentence>
+	</text>
+</review>

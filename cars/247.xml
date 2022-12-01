@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="247" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) V6(3) available(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Engine(1) &(2) transmission(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Handling(1) does(2) not(3) match(4) performance(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) engine(2) in(3) this(4) car(5) is(6) what(7) makes(8) it(9) stand(10) out(11) from(12) the(13) crowd(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			With(1) a(2) 0-60(3) time(4) under(5) 7_seconds(6) ,(7) it(8) 's(9) in(10) the(11) realm(12) of(13) sports(14) cars(15) ,(16) with(17) the(18) advantage(19) of(20) four(21) doors(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) engine(2) is(3) strong(4) and(5) pulls(6) all(7) the(8) way(9) to(10) the(11) red(12) line(13) ((14) 6600(15) RPM(16) )(17) .(18) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) best(2) thing(3) is(4) that(5) all(6) Maximas(7) get(8) this(9) engine(10) -(11) there(12) is(13) no(14) watered(15) down(16) version(17) available(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) four(2) speed(3) automatic(4) is(5) smooth(6) ,(7) and(8) quick(9) to(10) downshift(11) for(12) passing(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			I(1) purchased(2) the(3) GXE(4) with(5) the(6) comfort(7) &(8) convenience(9) package(10) ((11) definitely(12) worth(13) the(14) $(15) $(16) )(17) ,(18) which(19) includes(20) the(21) upgraded(22) stereo(23) and(24) 16(25) "(26) tires(27) and(28) wheels(29) .(30) The(31) only(32) negative(33) about(34) the(35) car(36) is(37) the(38) old(39) solid(40) axle(41) type(42) rear(43) suspension(44) ,(45) which(46) has(47) a(48) tendency(49) to(50) be(51) jittery(52) and(53) bouncy(54) on(55) rough(56) roads(57) .(58) For(59) cars(60) in(61) this(62) price(63) range(64) ,(65) this(66) is(67) a(68) problem(69) that(70) should(71) not(72) exist(73) .(74) Cosmetically(75) ,(76) the(77) car(78) is(79) near(80) perfect(81) -(82) no(83) bad(84) design(85) touches(86) or(87) inconveniences(88) ,(89) near(90) perfect(91) assembly(92) .(93) As(94) for(95) the(96) interior(97) ,(98) well(99) thought(100) out(101) and(102) designed(103) ,(104) with(105) an(106) 8-way(107) adjustable(108) power(109) driver(110) 's(111) seat(112) that(113) allows(114) almost(115) anyone(116) to(117) get(118) comfortable(119) .(120) All(121) the(122) gauges(123) are(124) easy(125) to(126) read(127) ,(128) and(129) switches(130) are(131) easy(132) to(133) find(134) and(135) use(136) .(137) On(138) the(139) downside(140) ,(141) however(142) ,(143) the(144) ignition(145) is(146) in(147) an(148) awkward(149) position(150) ((151) the(152) steering(153) wheel(154) blocks(155) it(156) somewhat(157) )(158) ,(159) there(160) is(161) no(162) oil(163) pressure(164) or(165) battery(166) gauge(167) ((168) not(169) necesssary(170) ,(171) but(172) helpful(173) if(174) there(175) 's(176) a(177) problem(178) )(179) and(180) the(181) clock(182) being(183) separate(184) from(185) the(186) radio(187) keeps(188) confusing(189) everybody(190) who(191) gets(192) in(193) my(194) car(195) .(196) All(197) in_all(198) ,(199) if(200) you(201) 're(202) looking(203) for(204) the(205) best(206) performing(207) car(208) in(209) the(210) mid(211) $20k(212) range(213) ,(214) this(215) is(216) the(217) car(218) to(219) have(220) .(221) 
+			<opinion polarity="+" feature="gauges" featWords="123" opWords="125,126,127"/>
+			<opinion polarity="+" feature="interior" featWords="97" opWords="99,103"/>
+			<opinion polarity="+" feature="interior" featWords="97" opWords="99,100,101"/>
+			<opinion polarity="+" feature="car" featWords="78" opWords="81"/>
+		</sentence>
+	</text>
+</review>

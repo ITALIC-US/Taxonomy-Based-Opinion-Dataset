@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="530" item="Koss Porta Pro Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Okay(1) sound(2) ,(3) but(4) not(5) very(6) durable(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="durability" opWords="5,7" potency="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) for(3) the(4) price(5) ,(6) interesting(7) design(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) very(2) comfortable(3) ,(4) not(5) very(6) durable(7) .(8) 
+			<opinion polarity="-" feature="comfort" opWords="1,3" potency="2"/>
+			<opinion polarity="-" feature="durability" opWords="5,7" potency="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) when(5) the(6) foam(7) muffs(8) wore(9) off(10) my(11) old(12) ones(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) a(3) good(4) sound(5) that(6) could(7) handle(8) some(9) bass(10) ,(11) but(12) I(13) did(14) not(15) want(16) to(17) pay(18) much(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			These(1) headphones(2) were(3) --(4) okay(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) ,(4) their(5) design(6) is(7) interesting(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="5">
+			The(1) headband(2) can(3) flip(4) back(5) to(6) go(7) around(8) the(9) back(10) of(11) the(12) head(13) instead_of(14) the(15) front(16) --(17) useful(18) if(19) you(20) 're(21) like(22) me(23) ,(24) and(25) want(26) to(27) listen(28) to(29) headphones(30) in(31) the(32) morning(33) without(34) messing(35) up(36) your(37) still(38) fragile(39) spiked(40) hair(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			This(1) also(2) allows(3) the(4) headphones(5) to(6) fold(7) down(8) into(9) a(10) managable(11) size(12) ,(13) which(14) also(15) protects(16) the(17) muffs(18) when(19) stuffed(20) in(21) a(22) backpack(23) ;(24) a(25) major(26) problem(27) I(28) had(29) had(30) with(31) my(32) previous(33) pair(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			As(1) far(2) as(3) comfort(4) is(5) concerned(6) ,(7) they(8) 're(9) nowhere(10) near(11) as(12) comfortable(13) as(14) a(15) circumaural(16) design(17) ((18) where(19) the(20) headphones(21) go(22) over(23) the(24) ears(25) )(26) ,(27) and(28) so(29) the(30) ears(31) get(32) a_bit(33) irritated(34) after(35) an(36) hour(37) or(38) more(39) .(40) 
+		</sentence>
+		<sentence id="8">
+			Also(1) ,(2) they(3) put(4) a_bit(5) too(6) much(7) pressure(8) on(9) the(10) ears(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) sound(2) is(3) great(4) for(5) the(6) price(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="10">
+			Note(1) that(2) I(3) was(4) listening(5) to(6) these(7) headphones(8) before(9) I(10) became(11) an(12) audiophile(13) ,(14) and(15) since(16) mine(17) do(18) not(19) work(20) anymore(21) ((22) more(23) on(24) that(25) later(26) )(27) ,(28) I(29) can(30) not(31) compare(32) them(33) to(34) my(35) current(36) ,(37) audiophile(38) quality(39) Senneheiser(40) HD265s(41) .(42) 
+		</sentence>
+		<sentence id="11">
+			But(1) if(2) you(3) want(4) a(5) good(6) pair(7) of(8) portable(9) ears(10) without(11) paying(12) too(13) much(14) ,(15) these(16) are(17) pretty(18) good(19) .(20) 
+			<opinion polarity="+" feature="headphones" featWords="16" featRef="headphones" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="12">
+			Needless(1) to(2) say(3) ,(4) they(5) run(6) fine(7) off(8) a(9) regular(10) portable(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			They(1) also(2) come(3) with(4) a(5) 1/4(6) "(7) adapter(8) ,(9) which(10) is(11) useful(12) if(13) you(14) have(15) a(16) component(17) system(18) ,(19) as(20) I(21) do(22) .(23) Finally(24) ,(25) they(26) tend(27) to(28) leak(29) sound(30) a_bit(31) ,(32) but(33) that(34) 's(35) expected(36) for(37) headphones(38) of(39) this(40) size(41) ,(42) even_though(43) they(44) 're(45) sealed(46) .(47) Unfortunately(48) ,(49) mine(50) broke(51) after(52) only(53) five(54) to(55) sixth(56) months(57) .(58) The(59) right(60) element(61) seems(62) to(63) have(64) become(65) damaged(66) somehow(67) ,(68) so(69) every(70) bass(71) note(72) would(73) make(74) the(75) noise(76) you(77) make(78) when(79) you(80) put(81) your(82) tounge(83) between(84) your(85) lips(86) and(87) blow(88) .(89) Or(90) ,(91) in(92) other(93) words(94) ,(95) like(96) a(97) blown(98) out(99) speaker(100) .(101) Anyway(102) ,(103) that(104) was(105) that(106) .(107) Conclusion(108) :(109) These(110) headphones(111) definitely(112) offer(113) good(114) sound(115) for(116) the(117) price(118) ...(119) if(120) I(121) wanted(122) a(123) cheap(124) pair(125) of(126) portable(127) ears(128) I(129) would(130) definitely(131) go(132) with(133) these(134) .(135) They(136) do(137) not(138) offer(139) audiophile(140) sound(141) ,(142) of(143) course(144) ,(145) and(146) they(147) 're(148) not(149) too(150) durable(151) .(152) It(153) 's(154) just(155) a(156) matter(157) of(158) priorities(159) .(160) 
+			<opinion polarity="+" feature="sound quality" featWords="115" opWords="114"/>
+			<opinion polarity="+" feature="price" opWords="124"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="12" item="Bang & Olufsen A8 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) worth(2) it(3) ...(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) design(2) ,(3) Very_Comfortable(4) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ,(2) Awkward(3) to(4) position(5) ,(6) Mids(7) and(8) Lows(9) non-existent(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) design(2) just(3) is(4) not(5) enough(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) get(3) better(4) sounding(5) headphones(6) for(7) a(8) third(9) of(10) the(11) price(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) A8s(2) are(3) beautiful(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="appearance" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Rarely(1) do(2) you(3) see(4) such(5) so(6) thought(7) spent(8) on(9) headphone(10) design(11) ,(12) certainly(13) not(14) for(15) earbud(16) phones(17) !(18) 
+		</sentence>
+		<sentence id="3">
+			Having(1) said(2) that(3) ,(4) I(5) would(6) not(7) recommend(8) these(9) headphones(10) to(11) anyone(12) -(13) unless(14) you(15) only(16) listen(17) to(18) jazz(19) ,(20) classical(21) ,(22) or(23) some(24) other(25) other(26) kind(27) of(28) music(29) that(30) stays(31) on(32) the(33) high(34) end(35) .(36) 
+			<opinion polarity="-" feature="headphones" featWords="10" featRef="headphones" opWords="7,8"/>
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) are(3) very(4) realistic(5) ,(6) highs(7) are(8) clean(9) and(10) clear(11) .(12) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="highs" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="highs" featWords="7" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) ,(2) there(3) 's(4) no(5) depth(6) to(7) the(8) mids(9) or(10) lows(11) -(12) especially(13) the(14) lows(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) compared(2) these(3) side(4) by(5) side(6) to(7) the(8) Sony(9) MDR-EX70s(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) hate(2) to(3) admit(4) it(5) ,(6) but(7) the(8) Sony(9) 's(10) just(11) blew(12) away(13) the(14) A8s(15) !(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) Sony(2) 's(3) sounded(4) lusher(5) and(6) deeper(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			And(1) at(2) $50(3) ,(4) they(5) cost(6) less(7) than(8) a(9) third(10) what(11) the(12) B_&_Os(13) cost(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			I(1) 'm(2) afraid(3) the(4) B_&_Os(5) are(6) going(7) back(8) to(9) the(10) store(11) ...(12) 
+		</sentence>
+	</text>
+</review>

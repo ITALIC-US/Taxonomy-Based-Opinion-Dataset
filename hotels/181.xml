@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="181" item="Hudson" rating="1">
+	<title>
+		<sentence id="1">
+			Size_DOES_Matter(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			First_Impressions(1) do(2) not(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent_Study_of_Design(1) in(2) Small_Spaces(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) ,(2) Tiny(3) ,(4) Teeny(5) ,(6) Microscopic(7) and(8) DIRTY(9) ,(10) Gross_Hallways(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			They(1) should(2) have(3) a(4) "(5) recommended(6) for(7) NO(8) ONE(9) "(10) option(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Instead(1) ,(2) leave(3) this(4) for(5) the(6) Trendy(7) who(8) are(9) not(10) Claustrophobic(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) first(2) impression(3) upon(4) arriving(5) at(6) the(7) Hudson_Hotel(8) was(9) "(10) Wow(11) .(12) "(13) From(14) the(15) funky(16) /(17) chic(18) lime(19) green(20) entrance(21) up(22) the(23) escalator(24) into(25) the(26) huge(27) lobby(28) area(29) with(30) the(31) holographic(32) chandeliers(33) .(34) 
+			<opinion polarity="+" feature="lobby" featWords="28" opWords="27"/>
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) sure(3) I(4) would(5) enjoy(6) this(7) ultra-modern(8) deco(9) hotel(10) .(11) 
+			<opinion polarity="+" feature="hotel" featWords="10" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			We(1) got(2) through(3) the(4) check-in(5) process(6) unscathed(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			We(1) approached(2) the(3) elevators(4) and(5) the(6) enchantment(7) continued(8) as(9) we(10) got(11) in(12) --(13) the(14) interiors(15) of(16) the(17) elevators(18) are(19) textured(20) wood(21) --(22) very(23) cool(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Efficiently(1) they(2) whisked(3) us(4) up(5) to(6) the(7) floor(8) and(9) the(10) doors(11) opened(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) Enchantment_Ended_The(2) halls(3) are(4) very(5) narrow(6) and(7) the(8) carpet(9) is(10) very(11) dingy(12) and(13) soiled(14) .(15) 
+			<opinion polarity="-" feature="lobby" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="carpets" featWords="9" opWords="12" potency="11"/>
+			<opinion polarity="-" feature="carpets" featWords="9" opWords="14"/>
+		</sentence>
+		<sentence id="7">
+			The(1) doors(2) we(3) passed(4) reminded(5) me(6) more(7) of(8) doors(9) of(10) bath(11) house(12) cubicles(13) than(14) doors(15) of(16) hotel(17) rooms(18) --(19) they(20) were(21) narrow(22) ,(23) dirty(24) ,(25) and(26) cheap(27) looking(28) .(29) 
+		</sentence>
+		<sentence id="8">
+			We(1) finally(2) found(3) our(4) room(5) ,(6) and(7) opened(8) the(9) door(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) shocked(3) .(4) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) amazing(3) that(4) someone(5) could(6) take(7) such(8) care(9) to(10) decorate(11) a(12) walk-in(13) closet(14) so(15) beautifully(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Really(1) --(2) the(3) room(4) was(5) no(6) bigger(7) than(8) a(9) walk-in(10) closet(11) ,(12) into(13) which(14) was(15) crammed(16) a(17) bed(18) ,(19) a(20) nightstand(21) ,(22) tiny(23) TV(24) over(25) the(26) built-in(27) safe(28) ,(29) a(30) hanging(31) rack(32) for(33) clothing(34) ,(35) and(36) a(37) bathroom(38) .(39) 
+		</sentence>
+		<sentence id="12">
+			When(1) sitting(2) on(3) the(4) toilet(5) ,(6) you(7) either(8) have(9) to(10) turn(11) sideways(12) or(13) lift(14) your(15) legs(16) to(17) avoid(18) having(19) your(20) knees(21) push(22) through(23) the(24) walls(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) almost(3) like(4) a(5) bad(6) joke(7) --(8) the(9) fixtures(10) and(11) furniture(12) were(13) actually(14) nice(15) /(16) modern(17) /(18) fun(19) --(20) but(21) they(22) crammed(23) into(24) a(25) small(26) space(27) .(28) 
+			<opinion polarity="+" feature="furnishings" featWords="12" opWords="15"/>
+			<opinion polarity="+" feature="furnishings" featWords="12" opWords="17"/>
+			<opinion polarity="+" feature="furnishings" featWords="12" opWords="19"/>
+		</sentence>
+		<sentence id="14">
+			Unfortunately(1) ,(2) it(3) can(4) not(5) even(6) be(7) said(8) that(9) it(10) was(11) a(12) small(13) "(14) quiet(15) "(16) space(17) ,(18) as(19) the(20) huge(21) air(22) conditioning(23) unit(24) was(25) right(26) outside_of(27) our(28) window(29) and(30) churned(31) out(32) its(33) constant(34) humming(35) /(36) banging(37) all(38) day(39) and(40) night(41) .(42) 
+		</sentence>
+		<sentence id="15">
+			At(1) $300(2) a(3) night(4) one(5) could(6) do(7) much(8) better(9) in(10) New_York(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			For_example(1) ,(2) the(3) Marriott_Marquis(4) on(5) Times_Square(6) cost(7) us(8) only(9) $250(10) a(11) night(12) and(13) the(14) room(15) was(16) clean(17) ,(18) spacious(19) ,(20) and(21) the(22) location(23) can(24) not(25) be(26) beat(27) .(28) 
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="17"/>
+			<opinion polarity="+" feature="rooms" featWords="15" opWords="19"/>
+		</sentence>
+	</text>
+</review>

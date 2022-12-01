@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="537" item="1999 Lexus LS 400" rating="2">
+	<title>
+		<sentence id="1">
+			What(1) a(2) Huge_Waste(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) looking(2) ,(3) lots(4) of(5) features(6) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			can(1) be(2) unreliable(3) ,(4) very(5) expensive(6) 
+			<opinion polarity="-" feature="price" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="reliability" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) grandparents(2) recently(3) purchased(4) a(5) 99(6) Lexus(7) and(8) have(9) been(10) complaining(11) ever(12) since(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			They(1) spent(2) a(3) hefty(4) chunk(5) of(6) money(7) for(8) this(9) thing(10) and(11) so(12) far(13) the(14) only(15) positive(16) thing(17) they(18) have(19) said(20) about(21) it(22) is(23) that(24) it(25) has(26) lots(27) of(28) nice(29) features(30) but(31) their(32) model(33) has(34) already(35) run(36) into(37) engine(38) problems(39) and(40) cost(41) them(42) lots(43) more(44) money(45) .(46) 
+		</sentence>
+		<sentence id="3">
+			My(1) grandparents(2) are(3) not(4) rich(5) but(6) they(7) wanted(8) to(9) enjoy(10) their(11) retirement(12) with(13) a(14) luxury(15) car(16) but(17) instead(18) ended(19) up(20) hating(21) their(22) decision(23) to(24) buy(25) it(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) been(3) making(4) a(5) funny(6) clicking(7) sound(8) ever(9) since(10) they(11) got(12) it(13) ,(14) true(15) it(16) could(17) be(18) just(19) bad(20) luck(21) but(22) I(23) would(24) like(25) to(26) worn(27) everyone(28) of(29) these(30) problems(31) so(32) they(33) can(34) hopefully(35) steer(36) clear(37) of(38) this(39) specific(40) model(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			I(1) agree(2) that(3) Lexus(4) makes(5) great(6) cars(7) but(8) I(9) am(10) here(11) to(12) tell(13) you(14) that(15) I(16) have(17) had(18) a(19) bad(20) experience(21) with(22) a(23) Lexus(24) so(25) be(26) careful(27) .(28) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

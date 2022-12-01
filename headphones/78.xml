@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="78" item="Koss The Plug Earbuds Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Definitly(1) not(2) good(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Extremely(1) uneven(2) frequency(3) response(4) .(5) 
+			<opinion polarity="-" feature="frequency response" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Sounds(1) bad(2) in(3) almost(4) all(5) situations(6) .(7) 
+			<opinion polarity="-" feature="sound quality" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			A(1) couple(2) of(3) years(4) ago(5) there(6) were(7) not(8) all(9) that(10) many(11) in-ear(12) headphones(13) to(14) chose(15) from(16) and(17) Koss_Plugs(18) were(19) the(20) only(21) cheap(22) ones(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			At(1) that(2) point(3) there(4) might(5) have(6) been(7) some(8) kind(9) of(10) justification(11) in(12) buying(13) them(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Things(1) have(2) change(3) and(4) now(5) there(6) are(7) numerous(8) in-ear(9) headphones(10) of(11) varying(12) quality(13) available(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Sadly(1) the(2) Koss_Plugs(3) are(4) among(5) the(6) worst(7) of(8) the(9) lot(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			These(1) are(2) the(3) reasons(4) to(5) avoid(6) them(7) :(8) The(9) bass(10) response(11) is(12) massively(13) over-exaggerated(14) .(15) 
+			<opinion polarity="-" feature="bass" featWords="10,11" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="6">
+			This(1) is(2) worsened(3) by(4) the(5) fact(6) that(7) the(8) bass(9) is(10) also(11) very(12) inexact(13) ,(14) i(15) .(16) e(17) .(18) everything(19) in(20) the(21) low(22) frequency(23) span(24) sounds(25) pretty(26) much(27) the(28) same(29) .(30) 
+			<opinion polarity="-" feature="bass" featWords="9" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="7">
+			A(1) drum(2) is(3) a(4) drum(5) ,(6) is(7) a(8) drum(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) treble(2) is(3) OK(4) while(5) the(6) mid(7) range(8) is(9) very(10) muffled(11) .(12) 
+			<opinion polarity="+" feature="highs" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="mids" featWords="7" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="9">
+			The(1) total(2) effect(3) of(4) the(5) uneven(6) response(7) over(8) the(9) frequency(10) range(11) is(12) that(13) music(14) sounds(15) "(16) strange(17) "(18) no(19) matter(20) how(21) much(22) you(23) tweak(24) your(25) player(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			Vocals(1) sound(2) especially(3) bad(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			Bass(1) heavy(2) music(3) is(4) completely(5) destroyed(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Although(1) these(2) headphones(3) cost(4) very(5) little(6) I(7) can(8) not(9) say(10) that(11) they(12) are(13) good(14) value(15) for(16) money(17) .(18) 
+			<opinion polarity="+" feature="price" opWords="4,6" potency="5"/>
+		</sentence>
+	</text>
+</review>

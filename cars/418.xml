@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="418" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) ,(2) Simple(3) ,(4) Dependable(5) 
+			<opinion polarity="+" feature="reliability" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Gas_Mileage(1) ,(2) Sleek_Look(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Low(1) to(2) the(3) Ground(4) ,(5) A(6) little(7) Noisy(8) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) this(2) car(3) as(4) an(5) alternative(6) to(7) the(8) more(9) expensive(10) Camry(11) ,(12) and(13) the(14) boring(15) Taurus(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="15"/>
+		</sentence>
+		<sentence id="2">
+			A(1) safe(2) car(3) for(4) the(5) family(6) .(7) 
+			<opinion polarity="+" feature="safety" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			Good(1) on(2) gas(3) .(4) 
+			<opinion polarity="+" feature="gas" featWords="3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) you(3) have(4) seen(5) a_million(6) of(7) these(8) cars(9) on(10) the(11) road(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Just(1) like(2) the(3) Camry(4) ,(5) and(6) the(7) Taurus(8) ,(9) it(10) seems(11) like(12) everyone(13) owns(14) an(15) Accord(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			And(1) for_good(2) reason(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) handles(3) like(4) a(5) dream(6) ,(7) and(8) drives(9) very(10) smooth(11) .(12) 
+			<opinion polarity="+" feature="ride quality" opWords="9,11" potency="10"/>
+		</sentence>
+		<sentence id="5">
+			One(1) small(2) problem(3) .(4) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) a(4) little(5) noisy(6) .(7) 
+			<opinion polarity="-" feature="car" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) I(3) think(4) that(5) the(6) car(7) is(8) a(9) little(10) low(11) to(12) the(13) ground(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			We(1) own(2) the(3) mid-priced(4) Accord(5) ,(6) not(7) the(8) expensive(9) one(10) with(11) leather(12) and(13) cd-changer(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			Our(1) Accord(2) is(3) silver(4) ,(5) with(6) a(7) cd-player(8) and(9) air(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			Power(1) locks(2) and(3) windows(4) .(5) 
+		</sentence>
+		<sentence id="11">
+			No(1) sun-roof(2) or(3) spoiler(4) ,(5) or(6) moon-roof(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Simple(1) cloth(2) interior(3) .(4) 
+		</sentence>
+		<sentence id="13">
+			Honda(1) makes(2) three(3) basic(4) types(5) of(6) Accord_Sedans(7) ,(8) the(9) DX(10) ,(11) LX(12) ,(13) and(14) EX._The_DX(15) is(16) the(17) basic(18) model(19) ,(20) then(21) the(22) LX(23) is(24) much(25) nicer(26) ,(27) and(28) the(29) EX(30) is(31) the(32) deluxe(33) model(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			We(1) own(2) the(3) LX(4) .(5) 
+		</sentence>
+		<sentence id="15">
+			My(1) sister(2) owns(3) the(4) LX(5) ,(6) and(7) both(8) drive(9) almost(10) exactly(11) the(12) same(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) can(3) do(4) with(5) out(6) the(7) CD-Changer(8) and(9) the(10) Leather(11) ,(12) then(13) stick(14) with(15) the(16) LX(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) want(3) the(4) basic(5) DX(6) ,(7) I(8) would(9) suggest(10) not(11) getting(12) an(13) Accord(14) ,(15) and(16) going(17) with(18) the(19) smaller(20) ,(21) but(22) still(23) nice(24) ,(25) Civic(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			We(1) love(2) our(3) Accord(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="19">
+			It(1) has(2) plenty_of(3) leg-room(4) in(5) the(6) front(7) ,(8) and(9) our(10) 2(11) year(12) old(13) is(14) safe(15) in(16) the(17) back(18) seat(19) in(20) her(21) car(22) seat(23) and(24) child(25) safety(26) features(27) on(28) the(29) doors(30) and(31) windows(32) .(33) 
+		</sentence>
+		<sentence id="20">
+			Great(1) family(2) car(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LX(16) with(17) Auto-Locks(18) and(19) Auto-Windows(20) 
+		</sentence>
+	</text>
+</review>

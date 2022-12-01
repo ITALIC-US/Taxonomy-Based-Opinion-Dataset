@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="453" item="2001 Hyundai Tiburon" rating="4">
+	<title>
+		<sentence id="1">
+			do(1) not(2) second(3) guess(4) the(5) Tiburon(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) Huge(2) surprise(3) ...(4) compared(5) to(6) the(7) old(8) reputation(9) of(10) a(11) Hyundai(12) .(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) back(2) seats(3) maybe(4) a(5) problem(6) for(7) taller(8) passengers(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Affordable(1) ,(2) Reliable(3) ,(4) Sporty(5) .(6) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) can(3) handle(4) under(5) pressure(6) and(7) look(8) good(9) while(10) doing(11) it(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Great_Warranty(1) and(2) virtually(3) maintenance(4) free(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) love(2) it(3) ,(4) I(5) love(6) it(7) ,(8) I(9) love(10) it(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" featRef="car" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="7" featRef="car" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="3" featRef="car" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			I(1) can(2) not(3) rave(4) enough(5) about(6) my(7) Tiburon(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Externally(1) a(2) much(3) more(4) attractive(5) design(6) than(7) it(8) 's(9) previous(10) model(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			As(1) a(2) first(3) time(4) buyer(5) I(6) was(7) warned(8) stay(9) away(10) from(11) Hyundais(12) because(13) according_to(14) friends(15) and(16) family(17) they(18) had(19) a(20) terrible(21) reputation(22) for(23) poor(24) quality(25) of(26) cars(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			But(1) as(2) of(3) yet(4) I(5) fail(6) to(7) see(8) their(9) point(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			For_example(1) ,(2) I(3) did(4) not(5) even(6) have(7) my(8) new(9) license(10) plates(11) and(12) I(13) was(14) rear(15) ended(16) by(17) an(18) intoxicated(19) driver(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			What(1) luck(2) !(3) !(4) 
+		</sentence>
+		<sentence id="8">
+			Straight(1) off(2) the(3) lot(4) and(5) right(6) into(7) an(8) accident(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) my(3) Tuburon(4) took(5) a(6) licking(7) and(8) kept(9) on(10) ticking(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Aside(1) from(2) the(3) expected(4) body(5) damage(6) and(7) minor(8) electrical(9) problems(10) my(11) Tuberon(12) walked(13) away(14) like(15) a(16) champion(17) ,(18) no(19) frame(20) damage(21) or(22) anything(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) other(2) car(3) ,(4) a(5) Toyota(6) which(7) everyone(8) told(9) me(10) I(11) should(12) have(13) bought(14) ,(15) was(16) totalled(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Smashed(1) like(2) a(3) cheap(4) aluminum(5) can(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			The(1) interior(2) is(3) roomy(4) for(5) the(6) passenger(7) and(8) driver(9) with(10) a(11) sleak(12) futuristic(13) design(14) .(15) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="14">
+			Controls(1) are(2) easily(3) accessible(4) and(5) user(6) friendly(7) .(8) 
+			<opinion polarity="+" feature="controls" featWords="1" opWords="6,7"/>
+			<opinion polarity="+" feature="controls" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="15">
+			Comfortable(1) with(2) a(3) great(4) standard(5) sound(6) system(7) .(8) 
+			<opinion polarity="+" feature="sound system" featWords="6,7" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="16">
+			The(1) exterior(2) design(3) is(4) very(5) sleak(6) and(7) attractive(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="17">
+			More(1) importantly(2) it(3) 's(4) driving(5) performance(6) is(7) excellent(8) .(9) 
+			<opinion polarity="+" feature="performance" featWords="6" opWords="8"/>
+		</sentence>
+		<sentence id="18">
+			I(1) needed(2) a(3) car(4) that(5) was(6) gas(7) efficient(8) but(9) strong(10) enough(11) to(12) get(13) me(14) out(15) of(16) messy(17) situations(18) from(19) bad(20) California(21) drivers(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			So(1) far(2) performance(3) wise(4) it(5) has(6) met(7) and(8) exceeded(9) my(10) expectations(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			Maintenance(1) is(2) virtually(3) worry(4) free(5) with(6) it(7) awesome(8) warranties(9) .(10) 
+			<opinion polarity="+" feature="maintenance" featWords="1" opWords="4,5"/>
+		</sentence>
+		<sentence id="21">
+			Now(1) for(2) the(3) downsides(4) .(5) 
+		</sentence>
+		<sentence id="22">
+			Externally(1) ,(2) the(3) paint(4) job(5) is(6) weak(7) in(8) some(9) areas(10) and(11) prone(12) to(13) scratch(14) easily(15) which(16) can(17) be(18) a(19) heartbreaker(20) for(21) car(22) buffs(23) and(24) first(25) time(26) buyers(27) like(28) myself(29) .(30) 
+			<opinion polarity="-" feature="color" featWords="4,5" opWords="14,15"/>
+			<opinion polarity="-" feature="color" featWords="4,5" opWords="7"/>
+		</sentence>
+		<sentence id="23">
+			The(1) interior(2) is(3) great(4) for(5) the(6) front(7) passenger(8) and(9) driver(10) however(11) ,(12) if(13) you(14) have(15) tall(16) friends(17) who(18) need(19) to(20) sit(21) the(22) back(23) ,(24) good(25) luck(26) .(27) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="24">
+			However(1) ,(2) this(3) is(4) to(5) be(6) expected(7) as(8) it(9) 's(10) more(11) of(12) a(13) sports(14) car(15) than(16) SUV(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			During(1) sunny(2) days(3) the(4) radio(5) display(6) in(7) non-visible(8) due(9) to(10) it(11) 's(12) color(13) but(14) that(15) 's(16) small(17) pickings(18) .(19) 
+		</sentence>
+		<sentence id="26">
+			Now(1) to(2) it(3) 's(4) performance(5) .(6) 
+		</sentence>
+		<sentence id="27">
+			The(1) Tiburon(2) is(3) both(4) good(5) performance(6) and(7) gas(8) mileage(9) .(10) 
+			<opinion polarity="+" feature="gas" featWords="8,9" opWords="5"/>
+			<opinion polarity="+" feature="performance" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="28">
+			Remember(1) this(2) car(3) is(4) not(5) a(6) high(7) performance(8) like(9) a(10) BMW(11) or(12) Mercedes(13) so(14) handling(15) corners(16) at(17) high(18) speeds(19) is(20) not(21) it(22) 's(23) forte(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			Sometimes(1) ,(2) I(3) do(4) have(5) difficulties(6) shifting(7) to(8) first(9) at(10) a(11) stop(12) but(13) that(14) is(15) easily(16) resolved(17) by(18) shifting(19) to(20) second(21) than(22) first(23) .(24) 
+		</sentence>
+		<sentence id="30">
+			This(1) problem(2) is(3) new(4) to(5) me(6) as(7) every(8) car(9) I(10) 've(11) ever(12) had(13) was(14) a(15) standard(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			Overall_the_Tuberon(1) is(2) a(3) great(4) buy(5) with(6) it(7) 's(8) warranties(9) and(10) affordable(11) price(12) .(13) 
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="32">
+			All(1) around(2) the(3) car(4) is(5) a(6) great(7) surprise(8) for(9) skeptics(10) of(11) the(12) Hyundai(13) world(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			A(1) good(2) choice(3) for(4) those(5) who(6) want(7) a(8) sporty(9) car(10) and(11) are(12) on(13) a(14) tight(15) budget(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 14,628(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Leather(16) interior(17) 
+			<opinion polarity="+" feature="interior" featWords="17" opWords="16"/>
+		</sentence>
+	</text>
+</review>

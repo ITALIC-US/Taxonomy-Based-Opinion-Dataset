@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="619" item="2003 Honda Pilot" rating="3">
+	<title>
+		<sentence id="1">
+			4(1) WHEEL_DRIVE_STATIONWAGON(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			GAS_MILEAGE(1) /(2) CARGO_ROOM_HANDLING(3) /(4) RELIABILITY_BEING_A_HONDA(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			BODY_STYLE_IS_VERY_BASIC_AND_SUSPENSION_IS_NOT_VERY_GOOD_FOR_A_SUV(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) looking(2) for(3) a(4) moderatly(5) priced(6) ,(7) fuel-efficient(8) ,(9) japanese(10) suv(11) look(12) elsewhere(13) .(14) better(15) off(16) buying(17) the(18) Hyundai_Santa_Fe(19) which(20) is(21) cheaper(22) and(23) even(24) sportier(25) looking(26) ((27) CANT_BEAT_WARRANTY_EITHER(28) )(29) 
+			<opinion polarity="+" feature="gas" opWords="8"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Honda(1) coninues(2) to(3) be(4) a(5) solid(6) car(7) to(8) buy(9) no(10) matter(11) what(12) type(13) of(14) automobile(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Yet(1) I(2) for(3) one(4) am(5) not(6) to(7) impressed(8) with(9) the(10) boring(11) body(12) style(13) of(14) the(15) pilot(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			It(1) looks(2) like(3) many(4) other(5) competing(6) japanese(7) suvs(8) but(9) underperforms(10) them(11) as_well(12) as(13) American(14) suvs(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) price(2) on(3) this(4) 4-wheel(5) drive(6) stationwagon(7) is(8) very(9) steep(10) considering(11) other(12) options(13) in(14) the(15) market(16) and(17) weak(18) body(19) style(20) .(21) 
+			<opinion polarity="-" feature="design" featWords="19,20" opWords="18"/>
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) nothing(3) more(4) than(5) an(6) Accord(7) chasis(8) and(9) engine(10) with(11) a(12) different(13) body(14) and(15) flimsy(16) suspension(17) and(18) tork(19) .(20) 
+			<opinion polarity="-" feature="suspension" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="6">
+			Buyers(1) should(2) definitly(3) look(4) elsewhere(5) for(6) a(7) family(8) or(9) sport(10) suv(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			My(1) suggestions(2) for(3) Japanese_SUVS(4) include(5) :(6) Toyota(7) 4-runner(8) ,(9) Hyundai_Santa_Fe(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			American(1) suggestions(2) :(3) Jeep_Grand_Cherokee(4) ,(5) Chevy_Trailblazer(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 400.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

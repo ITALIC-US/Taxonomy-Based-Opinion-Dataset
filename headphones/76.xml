@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="76" item="Koss The Plug Earbuds Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			The(1) Plug(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) quality(2) is(3) ok(4) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			does(1) not(2) stay(3) in(4) ear(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) idea(2) ,(3) foam(4) is(5) too(6) soft(7) and(8) does(9) not(10) stay(11) in(12) ear(13) well(14) .(15) 
+			<opinion polarity="-" feature="earpads" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="2">
+			Using(1) a(2) denser(3) foam(4) like(5) those(6) used(7) for(8) ear(9) plugs(10) would(11) probably(12) help(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) them(3) for(4) active(5) use(6) ,(7) specifically(8) snowboarding(9) ,(10) but(11) the(12) foam(13) is(14) too(15) soft(16) to(17) form(18) properly(19) to(20) ear(21) and(22) as(23) a(24) result(25) they(26) do(27) not(28) stay(29) in(30) place(31) or(32) block(33) out(34) enough(35) outside(36) noise(37) .(38) 
+			<opinion polarity="-" feature="earpads" featWords="13" opWords="15,16"/>
+		</sentence>
+		<sentence id="2">
+			Using(1) a(2) denser(3) foam(4) like(5) those(6) used(7) in(8) ear(9) plugs(10) would(11) probably(12) help(13) to(14) solve(15) the(16) problem(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Also(1) ,(2) some(3) of(4) the(5) extra(6) foam(7) pieces(8) were(9) not(10) tapered(11) ,(12) making(13) it(14) even(15) more(16) difficult(17) to(18) get(19) them(20) fit(21) in(22) my(23) ear(24) and(25) to(26) keep(27) them(28) in(29) place(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) quality(3) was(4) ok(5) though(6) while(7) they(8) stayed(9) in(10) place(11) and(12) they(13) were(14) fairly(15) comfortable(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			Although(1) a(2) good(3) idea(4) ,(5) they(6) are(7) not(8) worth(9) the(10) money(11) .(12) 
+		</sentence>
+	</text>
+</review>

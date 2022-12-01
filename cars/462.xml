@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="462" item="1999 Lexus RX 300" rating="1">
+	<title>
+		<sentence id="1">
+			Wish_I(1) could(2) get(3) rid(4) of(5) it(6) !(7) !(8) !(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) comfortable(2) ,(3) nice(4) looking(5) ,(6) versatile(7) ,(8) tight(9) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="design" opWords="4,5"/>
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) ride(2) ;(3) short(4) wheel(5) base(6) ,(7) EXPENSIVE_PARTS(8) !(9) !(10) !(11) 
+			<opinion polarity="-" feature="ride quality" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			RUN(1) !(2) !(3) !(4) !(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			Way(1) to(2) much(3) money(4) for(5) upkeep(6) and(7) parts(8) ;(9) Ride(10) is(11) terrible(12) !(13) !(14) !(15) 
+			<opinion polarity="-" feature="ride quality" featWords="10" opWords="12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) always(3) been(4) a(5) Toyota(6) backer(7) ,(8) my(9) last(10) three(11) cars(12) all(13) being(14) Toyota(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) NEVER(3) had(4) any(5) issues(6) with(7) Toyota(8) 's(9) and(10) the(11) parts(12) are(13) always(14) available(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			That(1) lead(2) me(3) to(4) move(5) up(6) to(7) a(8) Lexus(9) RX300(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			I(1) researched(2) and(3) did(4) all(5) my(6) homework(7) on(8) this(9) and(10) thought(11) this(12) vehicle(13) would(14) have(15) no(16) issues(17) taking(18) me(19) to(20) 200k_miles(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			WOW(1) ...(2) what(3) a(4) disappointment(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) my(3) mechanic(4) be(5) very(6) critical(7) with(8) the(9) car(10) ,(11) ensuring(12) that(13) all(14) maintenance(15) is(16) complete(17) and(18) fix(19) anything(20) that(21) needs(22) it(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Fist(1) of(2) all(3) ,(4) many(5) of(6) the(7) parts(8) are(9) Lexus(10) specific(11) where(12) you(13) get(14) screwed(15) the(16) first(17) time(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			The(1) second(2) screwing(3) is(4) when(5) you(6) try(7) to(8) get(9) parts(10) that(11) were(12) only(13) used(14) on(15) the(16) 1999(17) model(18) RX300(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Good(1) luck(2) !(3) !(4) !(5) 
+		</sentence>
+		<sentence id="10">
+			I(1) spend(2) around(3) $400(4) each(5) month(6) to(7) fix(8) the(9) car(10) .(11) .(12) when(13) I(14) can(15) get(16) the(17) parts(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			It(1) had(2) great(3) potential(4) ...(5) a(6) big(7) Camry(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) become(3) an(4) expert(5) in(6) identifying(7) and(8) fixing(9) rattles(10) ...(11) I(12) have(13) so(14) many(15) pieces(16) of(17) folded(18) paper(19) ,(20) tape(21) and(22) what(23) ever(24) else(25) I(26) could(27) use(28) to(29) stop(30) rattles(31) ,(32) and(33) I(34) still(35) have(36) not(37) gotten(38) them(39) all(40) .(41) 
+		</sentence>
+		<sentence id="13">
+			Each(1) month(2) brings(3) a(4) new(5) rattle(6) ...(7) and(8) I(9) 'm(10) only(11) at(12) 80,000_miles(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Stay(1) away(2) from(3) this(4) model(5) ...(6) buy(7) later(8) ,(9) at_least(10) a(11) 2002(12) or(13) later(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) Autotmatic(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="274" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Sports_Car_Disguised(1) as(2) Family_Sedan(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) V6(2) ,(3) Sporty(4) handling(5) ,(6) Roomy_Interior(7) ,(8) Very(9) reliable(10) 
+			<opinion polarity="+" feature="reliability" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Notchy(1) 5-speed(2) ,(3) Exterior(4) styling(5) ,(6) Road(7) noise(8) at(9) highway(10) speeds(11) ,(12) Nightmare(13) in(14) Snow(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			One(1) of(2) the(3) best(4) values(5) in(6) sporty(7) family(8) sedans(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Well(1) ,(2) back(3) in(4) July_of_1999(5) I(6) was(7) on(8) my(9) way(10) to(11) buy(12) a(13) Volkswagon_Passat(14) when(15) I(16) stumbled(17) across(18) a(19) Nissan_Dealer(20) across(21) the(22) street(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			I(1) figured(2) I(3) 'd(4) may(5) as_well(6) take(7) a(8) quick(9) look(10) at(11) the(12) Maxima(13) but(14) expected(15) the(16) price(17) to(18) be(19) out(20) of(21) range(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			To(1) my(2) surprise(3) ,(4) the(5) price(6) of(7) the(8) 2000(9) Maxima_SE(10) was(11) about(12) the(13) same(14) as(15) the(16) 1999(17) Passat(18) with(19) comparable(20) options(21) -(22) with(23) the(24) exception(25) that(26) the(27) Maxima(28) had(29) a(30) V6(31) as(32) opposed(33) to(34) a(35) turbo(36) 4(37) .(38) 
+		</sentence>
+		<sentence id="4">
+			I(1) also(2) weighed(3) in(4) heavily(5) the(6) Maxima(7) 's(8) record(9) of(10) reliability(11) and(12) the(13) rest(14) is(15) history(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) car(2) 's(3) greatest(4) asset(5) is(6) the(7) motor(8) -(9) rated(10) as(11) one(12) of(13) the(14) top(15) V6(16) 's(17) in(18) the(19) industry(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			When(1) you(2) mate(3) it(4) with(5) a(6) 5(7) speed(8) and(9) the(10) sporty(11) handling(12) of(13) the(14) SE(15) model(16) you(17) are(18) going(19) to(20) have(21) some(22) fun(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			This(1) car(2) has(3) a_lot_of(4) power(5) and(6) will(7) keep(8) up(9) with(10) just(11) about(12) anything(13) on(14) the(15) road(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) must(2) say(3) the(4) manual(5) gearbox(6) could(7) be(8) better(9) ,(10) though(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) quite(3) notchy(4) ,(5) especially(6) between(7) second(8) and(9) third(10) gear(11) ,(12) and(13) takes(14) some(15) getting(16) used(17) to(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) despite(3) the(4) front(5) wheel(6) drive(7) ,(8) I(9) do(10) not(11) like(12) the(13) way(14) the(15) car(16) handles(17) in(18) the(19) snow(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			In_all(1) fairness(2) ,(3) this(4) may(5) improve(6) greatly(7) with(8) a(9) good(10) set(11) of(12) snow(13) tires(14) ((15) which(16) I(17) have(18) not(19) tryed(20) yet(21) )(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			When(1) I(2) first(3) bought(4) the(5) car(6) I(7) thought(8) the(9) exterior(10) styling(11) overall(12) was(13) nice(14) and(15) sporty(16) ,(17) despite(18) the(19) strange(20) rear(21) end(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			When(1) the(2) new(3) Altima(4) came(5) out(6) I(7) could(8) not(9) help(10) but(11) to(12) think(13) "(14) that(15) is(16) what(17) my(18) Maxima(19) should(20) look(21) like(22) "(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) Interior(2) styling(3) ,(4) with(5) the(6) cab-forward(7) dash(8) ,(9) is(10) very(11) nice(12) and(13) roomy(14) .(15) 
+			<opinion polarity="+" feature="design" featWords="3" opWords="14"/>
+			<opinion polarity="+" feature="design" featWords="3" opWords="12"/>
+		</sentence>
+		<sentence id="15">
+			The(1) ergonomics(2) are(3) pretty(4) good(5) and(6) the(7) seats(8) are(9) comfortable(10) and(11) supportive(12) .(13) 
+			<opinion polarity="+" feature="seat" featWords="8" opWords="12"/>
+			<opinion polarity="+" feature="seat" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="16">
+			There(1) seems(2) to(3) be(4) some(5) driveline(6) hum(7) at(8) highway(9) speeds(10) -(11) do(12) not(13) remember(14) it(15) being(16) that(17) loud(18) when(19) I(20) first(21) bought(22) the(23) car(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			The(1) car(2) ,(3) with(4) over(5) 53,000_miles(6) now(7) ,(8) has(9) been(10) very(11) reliable(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="18">
+			I(1) have(2) had(3) one(4) problem(5) which(6) is(7) quite(8) annoying(9) ,(10) though(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			When(1) the(2) engine(3) is(4) cold(5) and(6) at(7) a(8) certain(9) RPM(10) ((11) around(12) 2000(13) )(14) the(15) fuel(16) will(17) cut(18) out(19) and(20) the(21) car(22) will(23) buck(24) abruptly(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			Once(1) the(2) engine(3) is(4) warm(5) it(6) is(7) fine(8) .(9) 
+			<opinion polarity="+" feature="engine" featWords="3" opWords="8"/>
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) yet(3) to(4) bring(5) it(6) into(7) the(8) dealer(9) to(10) have(11) it(12) checked(13) out(14) -(15) I(16) just(17) make(18) sure(19) I(20) get(21) that(22) engine(23) warmed(24) up(25) real(26) quick(27) !(28) 
+		</sentence>
+		<sentence id="22">
+			If(1) you(2) are(3) looking(4) for(5) a(6) car(7) to(8) make(9) both(10) you(11) and(12) the(13) family(14) happy(15) ,(16) this(17) just(18) may(19) be(20) the(21) one(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 22,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) 2000(16) Maxima_SE(17) 5-speed(18) 
+		</sentence>
+	</text>
+</review>

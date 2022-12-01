@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="838" item="1999 Honda Accord" rating="2">
+	<title>
+		<sentence id="1">
+			should(1) not(2) have(3) settled(4) for(5) so(6) little(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) to(2) maintain(3) ,(4) lots(5) of(6) space(7) .(8) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) braking(2) and(3) handling(4) .(5) 
+			<opinion polarity="-" feature="handling" featWords="4" opWords="1"/>
+			<opinion polarity="-" feature="brakes" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			With(1) nagging(2) parents(3) and(4) an(5) undeniably(6) good(7) deal(8) from(9) the(10) Honda(11) dealer(12) ,(13) I(14) finally(15) sucked(16) it(17) in(18) and(19) landed(20) myself(21) in(22) a(23) 99(24) Accord_EX_Sedan(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			The(1) Accord(2) has(3) been(4) known(5) to(6) be(7) a(8) hassle-free(9) choice(10) ...(11) great(12) re-sale(13) value(14) ,(15) and(16) as(17) generic(18) as(19) you(20) can(21) get(22) in(23) a(24) family(25) car(26) so(27) I(28) figured(29) it(30) would(31) not(32) hurt(33) .(34) 
+			<opinion polarity="+" feature="resale value" featWords="13,14" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			The(1) EX(2) package(3) comes(4) with(5) a(6) great(7) options(8) package(9) at(10) an(11) unbeatable(12) price(13) ,(14) ABS(15) ,(16) moonroof(17) ,(18) CD_Player(19) ,(20) alarm(21) system(22) ,(23) everything(24) I(25) wanted(26) .(27) 
+			<opinion polarity="+" feature="price" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="package" featWords="9" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			After(1) only(2) 2(3) weeks(4) of(5) owning(6) my(7) new(8) vehicle(9) ,(10) I(11) started(12) hearing(13) a(14) clicking(15) sound(16) on(17) the(18) front(19) wheels(20) while(21) driving(22) /(23) turning(24) at(25) low(26) speeds(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			Hoping(1) it(2) was(3) not(4) a(5) factory(6) defect(7) ,(8) I(9) took(10) it(11) in(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) dealership(2) told(3) me(4) that(5) certain(6) 1999(7) Accord_Sedans(8) that(9) were(10) imported(11) were(12) having(13) engineering(14) problems(15) regarding(16) the(17) fit(18) of(19) the(20) wheels(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			He(1) told(2) me(3) that(4) the(5) Honda(6) engineers(7) were(8) working(9) on(10) the(11) problem(12) ,(13) and(14) when(15) they(16) fix(17) it(18) /(19) come(20) up(21) with(22) a(23) solution(24) they(25) will(26) give(27) me(28) a(29) call(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) been(3) a(4) year(5) and(6) a_half(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) not(3) called(4) back(5) ,(6) but(7) at_least(8) my(9) car(10) stopped(11) clicking(12) after(13) the(14) first(15) 5,000_miles(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			But(1) so(2) far(3) ,(4) we(5) 're(6) off(7) on(8) the(9) wrong(10) foot(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			At(1) the(2) time(3) of(4) purchase(5) ,(6) I(7) also(8) spent(9) some(10) extra(11) cash(12) to(13) get(14) the(15) recommended(16) Paint(17) and(18) Fabric(19) protection(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			It(1) took(2) 2(3) full(4) days(5) to(6) apply(7) the(8) protection(9) that(10) ,(11) in(12) my(13) opinion(14) ,(15) was(16) not(17) needed(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) paint(2) protection(3) was(4) guaranteed(5) to(6) protect(7) against(8) oxidation(9) and(10) /(11) or(12) other(13) deteriorating(14) factors(15) of(16) the(17) paint(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			Let(1) me(2) assure(3) you(4) that(5) you(6) can(7) still(8) see(9) all(10) the(11) spots(12) where(13) I(14) 've(15) had(16) bird(17) droppings(18) on(19) my(20) car(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			The(1) paint(2) is(3) duller(4) in(5) some(6) spots(7) and(8) slight(9) scratches(10) are(11) highly(12) visible(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			Along_with(1) a(2) handful(3) of(4) other(5) friends(6) who(7) drive(8) a(9) 1999(10) Honda_Accord(11) ,(12) we(13) have(14) all(15) engaged(16) in(17) avoidable(18) rear-end(19) situations(20) ...(21) if(22) it(23) were(24) not(25) for(26) the(27) poor(28) mechanics(29) of(30) the(31) breaks(32) on(33) the(34) Accord(35) ,(36) we(37) would(38) all(39) be(40) dent-free(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			Two(1) friends(2) of(3) mine(4) complain(5) about(6) the(7) breaking(8) distance(9) and(10) speed(11) on(12) the(13) Accord(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			The(1) response(2) time(3) lags(4) and(5) it(6) is(7) difficult(8) to(9) avoid(10) quick-break(11) situations(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			As(1) for(2) me(3) ,(4) the(5) ABS(6) has(7) failed(8) on(9) me(10) twice(11) ,(12) and(13) is(14) so(15) loud(16) when(17) activated(18) that(19) it(20) actually(21) sounds(22) like(23) I(24) have(25) already(26) run(27) into(28) the(29) other(30) car(31) .(32) 
+		</sentence>
+		<sentence id="20">
+			As(1) for(2) handling(3) ,(4) at(5) higher(6) speeds(7) the(8) Accord(9) is(10) not(11) ideal(12) for(13) any(14) kind(15) of(16) sudden(17) movements(18) .(19) 
+			<opinion polarity="-" feature="handling" featWords="3" opWords="11,12"/>
+		</sentence>
+		<sentence id="21">
+			Quick(1) lane(2) changes(3) or(4) turns(5) can(6) easily(7) spin(8) the(9) car(10) out(11) of(12) control(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			I(1) know(2) this(3) because(4) it(5) has(6) happened(7) to(8) me(9) a(10) couple(11) times(12) on(13) the(14) freeway(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			I(1) drive(2) in(3) the(4) same(5) manner(6) as(7) I(8) did(9) in(10) my(11) previous(12) cars(13) ((14) Mitsu-Eclipse(15) &(16) Toy-4Runner(17) )(18) and(19) I(20) have(21) never(22) spun(23) out(24) of(25) control(26) .(27) 
+		</sentence>
+		<sentence id="24">
+			After(1) my(2) accident(3) I(4) took(5) my(6) car(7) into(8) the(9) Collision_Center(10) that(11) is(12) authorized(13) by(14) the(15) dealer(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			They(1) get(2) a(3) high(4) number(5) of(6) my(7) year(8) car(9) admitted(10) for(11) body(12) damage(13) because_of(14) spin-out(15) situations(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			The(1) tires(2) are(3) quick(4) to(5) squeal(6) ,(7) even(8) in(9) low(10) speed(11) turns(12) .(13) 
+			<opinion polarity="-" feature="tire" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="27">
+			I(1) have(2) ,(3) however(4) ,(5) been(6) somewhat(7) satisfied(8) with(9) the(10) suspension(11) .(12) 
+			<opinion polarity="+" feature="suspension" featWords="11" opWords="8"/>
+		</sentence>
+		<sentence id="28">
+			I(1) never(2) had(3) to(4) worry(5) about(6) scraping(7) ,(8) and(9) bumps(10) in(11) the(12) road(13) were(14) not(15) too(16) bad(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			However(1) road(2) noise(3) in(4) the(5) car(6) makes(7) it(8) difficult(9) to(10) talk(11) on(12) a(13) cell(14) phone(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			Also(1) I(2) blew(3) out(4) one(5) of(6) the(7) front(8) speakers(9) in(10) 2(11) months(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			I(1) listen(2) to(3) my(4) music(5) at(6) a(7) very(8) moderate(9) volume(10) .(11) 
+		</sentence>
+		<sentence id="32">
+			My(1) friend(2) 's(3) CD(4) player(5) broke(6) in(7) a(8) matter(9) of(10) months(11) ,(12) but(13) mine(14) has(15) been(16) okay(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			The(1) factory(2) CD(3) player(4) has(5) difficulty(6) reading(7) certain(8) burned(9) /(10) home-recorded(11) CDs(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			One(1) advantage(2) of(3) owning(4) the(5) Accord(6) is(7) the(8) low(9) price(10) of(11) maintenance(12) .(13) 
+			<opinion polarity="-" feature="price" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="35">
+			It(1) is(2) NOT(3) a(4) gas(5) guzzler(6) ,(7) and(8) oil(9) changes(10) and(11) replacement(12) parts(13) are(14) relatively(15) cheap(16) .(17) 
+			<opinion polarity="-" feature="price" opWords="16"/>
+		</sentence>
+		<sentence id="36">
+			Another(1) thing(2) I(3) was(4) happy(5) about(6) was(7) the(8) amount(9) of(10) space(11) I(12) had(13) in(14) the(15) car(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			The(1) trunk(2) space(3) is(4) very(5) convenient(6) ,(7) and(8) the(9) backseat(10) is(11) large(12) enough(13) to(14) take(15) a(16) comfortable(17) nap(18) .(19) 
+			<opinion polarity="+" feature="trunk space" featWords="2,3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="38">
+			If(1) you(2) are(3) a(4) very(5) conservative(6) /(7) defensive(8) city(9) driver(10) ,(11) then(12) this(13) is(14) an(15) ideal(16) car(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="39">
+			However(1) if(2) you(3) are(4) looking(5) for(6) performance(7) or(8) a(9) safe(10) car(11) with(12) good(13) handling(14) ,(15) then(16) I(17) suggest(18) you(19) look(20) elsewhere(21) .(22) 
+			<opinion polarity="+" feature="safety" opWords="10"/>
+			<opinion polarity="+" feature="handling" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="40">
+			I(1) was(2) hoping(3) for(4) the(5) Accord(6) to(7) be(8) a(9) keeper(10) ,(11) but(12) you(13) can(14) bet(15) I(16) am(17) looking(18) forward(19) to(20) trading(21) it(22) in(23) !(24) 
+		</sentence>
+	</text>
+</review>

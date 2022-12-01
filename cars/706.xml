@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="706" item="1995 BMW 3 Series" rating="3">
+	<title>
+		<sentence id="1">
+			95(1) 325i(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Engine(1) and(2) Very(3) good(4) handling(5) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Except_for(1) engine(2) ,(3) everything(4) seems(5) to(6) falling(7) apart(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) 325i(3) over(4) 3000(5) GT(6) ,(7) I(8) was(9) dying(10) to(11) get(12) "(13) ANY(14) "(15) BMW(16) at(17) that(18) time(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			Although(1) I(2) was(3) looking(4) forward(5) to(6) buy(7) 3000GT(8) but(9) my(10) mind(11) changed(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) vehicle(3) about(4) 5(5) months(6) ago(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			I(1) really(2) liked(3) it(4) for(5) awhile(6) ,(7) but(8) I(9) noticed(10) that(11) there(12) is(13) another(14) car(15) called(16) M3(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="4" featRef="car" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="5">
+			Then_I(1) realized(2) that(3) I(4) wanted(5) M3(6) not(7) 4(8) dr(9) 325i(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			After(1) I(2) found(3) out(4) that(5) there(6) is(7) M3(8) ,(9) i(10) beginning(11) to(12) question(13) my(14) self(15) that(16) 325i(17) the(18) car(19) I(20) wanted(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			I(1) found(2) that(3) there(4) are(5) things(6) I(7) do(8) not(9) like(10) my(11) car(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="12" opWords="9,10"/>
+		</sentence>
+		<sentence id="8">
+			The(1) bumpers(2) were(3) gray(4) ,(5) making(6) the(7) car(8) look(9) less(10) attractive(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Also(1) ,(2) few(3) weeks(4) passed(5) and(6) my(7) car(8) was(9) just(10) drinking(11) lots(12) of(13) GAS(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			More(1) than(2) my(3) Camry(4) ,(5) it(6) was(7) just(8) making(9) me(10) crazy(11) because(12) I(13) was(14) living(15) in(16) ILLINOIS(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) $2.20(3) per(4) gallon(5) or(6) less(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			I(1) do(2) not(3) remember(4) exactly(5) but(6) I(7) remember(8) that(9) I(10) paid(11) 10_dollars(12) and(13) filled(14) up(15) only(16) 4_gallons(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			But(1) I(2) do(3) admit(4) that(5) I(6) would(7) drive(8) 325i(9) than(10) my(11) 97(12) Camry(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Other(1) thing(2) is(3) that(4) this(5) car(6) has(7) lots(8) of(9) electrical(10) problem(11) and(12) it(13) 's(14) very(15) expensive(16) to(17) maintain(18) it(19) .(20) 
+			<opinion polarity="-" feature="price" opWords="16"/>
+		</sentence>
+		<sentence id="15">
+			I(1) can(2) not(3) use(4) my(5) automatic(6) locks(7) because(8) there(9) seems(10) to(11) be(12) short(13) ,(14) and(15) sometimes(16) the(17) Engine(18) will(19) not(20) start(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			I(1) knew(2) there(3) was(4) short(5) on(6) my(7) car(8) and(9) I(10) took(11) it(12) to(13) BMW(14) dealership(15) and(16) they(17) charged(18) me(19) 82_dollars(20) for(21) just(22) checking(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			One(1) more(2) bad(3) thing(4) about(5) this(6) car(7) is(8) ((9) maybe(10) it(11) 's(12) for(13) only(14) my(15) car(16) )(17) the(18) window(19) moulding(20) and(21) door(22) moulding(23) has(24) been(25) falling(26) apart(27) .(28) 
+		</sentence>
+		<sentence id="18">
+			Although(1) I(2) do(3) not(4) like(5) everything(6) else(7) ,(8) I(9) love(10) driving(11) this(12) car(13) ,(14) every(15) other(16) thing(17) is(18) just(19) not(20) that(21) great(22) .(23) 
+			<opinion polarity="-" feature="car" opWords="20,22"/>
+			<opinion polarity="+" feature="car" featWords="13" opWords="10"/>
+		</sentence>
+		<sentence id="19">
+			Driving(1) this(2) car(3) is(4) just(5) driving(6) a(7) uncomfortable(8) car(9) .(10) 
+			<opinion polarity="-" feature="comfort" opWords="8"/>
+		</sentence>
+		<sentence id="20">
+			It(1) 's(2) not(3) comfy(4) ,(5) even(6) camry(7) is(8) comfortable(9) than(10) this(11) .(12) 
+			<opinion polarity="-" feature="comfort" opWords="3,4"/>
+		</sentence>
+		<sentence id="21">
+			Just(1) remember(2) that(3) if(4) you(5) think(6) this(7) car(8) as(9) a(10) sports(11) car(12) ,(13) you(14) would(15) understand(16) what(17) I(18) am(19) talking(20) about(21) .(22) 
+		</sentence>
+		<sentence id="22">
+			I(1) would(2) not(3) recommend(4) this(5) vehicle(6) to(7) older(8) people(9) ,(10) but(11) around(12) 20-30(13) will(14) probably(15) like(16) it(17) .(18) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="23">
+			For(1) those(2) around(3) 40-older(4) would(5) enjoy(6) driving(7) 5(8) series(9) or(10) 7(11) series(12) .(13) 7(14) series(15) is(16) the(17) best(18) if(19) you(20) are(21) looking(22) for(23) the(24) comfortable(25) car(26) .(27) 
+			<opinion polarity="+" feature="comfort" opWords="25"/>
+		</sentence>
+	</text>
+</review>

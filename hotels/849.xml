@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="849" item="Lc Sheraton Grande Sukhumvit" rating="5">
+	<title>
+		<sentence id="1">
+			Sheraton_Grande_Sukhumvit(1) ...(2) A(3) superb(4) hotel(5) in(6) Bangkok(7) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) rooms(2) are(3) wonderful(4) and(5) the(6) staff(7) is(8) friendly(9) ,(10) polite(11) and(12) attentive(13) without(14) being(15) overwhelming(16) .(17) 
+			<opinion polarity="+" feature="staff" featWords="7" opWords="13"/>
+			<opinion polarity="+" feature="staff" featWords="7" opWords="11"/>
+			<opinion polarity="+" feature="staff" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) think(3) of(4) any(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Unbeatable(1) location(2) !(3) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Hotel(1) service(2) is(3) top-notch(4) ,(5) delivered(6) with(7) a(8) smile(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) breakfast(2) buffet(3) is(4) amazing(5) and(6) the(7) rooms(8) and(9) bathrooms(10) are(11) beautifully(12) well-appointed(13) ,(14) making(15) this(16) hotel(17) an(18) outstanding(19) value(20) !(21) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="bathroom" featWords="10" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) a(4) member(5) of(6) Starwood(7) s(8) Luxury_Collection(9) ,(10) and(11) it(12) truly(13) lives(14) up(15) to(16) its(17) 5-star(18) rating(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) located(3) in(4) a(5) very(6) convenient(7) location(8) ,(9) the(10) heart(11) of(12) Bangkok(13) s(14) business(15) district(16) .(17) 
+			<opinion polarity="+" feature="place" featWords="8" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Asok_Skytrain(2) and(3) the(4) Sukhumvit(5) subway(6) station(7) is(8) only(9) a(10) two-three(11) minutes(12) walk(13) from(14) the(15) hotel(16) ,(17) making(18) it(19) convenient(20) to(21) move(22) about(23) the(24) city(25) .(26) 
+			<opinion polarity="+" feature="hotel" opWords="20"/>
+		</sentence>
+		<sentence id="4">
+			Directly(1) across(2) the(3) street(4) you(5) will(6) find(7) a(8) major(9) shopping(10) center(11) ,(12) another(13) Starwood(14) hotel(15) ,(16) and(17) on(18) Sukhumvit_Road(19) you(20) will(21) find(22) quite(23) an(24) array(25) of(26) restaurants(27) ,(28) bars(29) ,(30) local(31) markets(32) ,(33) etc.(34) In(35) the(36) evenings(37) ,(38) Sukhumvit_Road(39) ,(40) becomes(41) truly(42) alive(43) with(44) people(45) hanging(46) out(47) ,(48) vendors(49) setting(50) their(51) little(52) shops(53) on(54) the(55) sidewalks(56) ,(57) selling(58) all(59) kinds(60) of(61) merchandise(62) as_well(63) as(64) edibles(65) !(66) 
+		</sentence>
+		<sentence id="5">
+			Reservations(1) :(2) I(3) booked(4) four(5) nights(6) at(7) this(8) hotel(9) by(10) calling(11) the(12) Starwood_Customer_Center(13) instead_of(14) booking(15) it(16) online(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) find(2) that(3) sometimes(4) ,(5) one(6) can(7) negotiate(8) better(9) deals(10) when(11) dealing(12) with(13) a(14) human(15) being(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			We(1) negotiated(2) an(3) outstanding(4) corporate(5) rate(6) for(7) a(8) deluxe(9) room(10) ,(11) including(12) buffet(13) breakfast(14) .(15) 
+			<opinion polarity="+" feature="rooms" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			Via(1) email(2) I(3) arranged(4) for(5) airport(6) pickup(7) and(8) as(9) agreed(10) ,(11) we(12) were(13) met(14) by(15) a(16) uniformed(17) chauffeur(18) inside(19) the(20) airport(21) terminal(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			Much(1) to(2) our(3) surprise(4) ,(5) the(6) hotel(7) s(8) car(9) was(10) a(11) Mercedes_Benz(12) sedan(13) and(14) we(15) rode(16) to(17) the(18) hotel(19) in(20) style(21) ,(22) to(23) include(24) the(25) offer(26) of(27) cold(28) beverages(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			When(1) we(2) arrived(3) at(4) the(5) hotel(6) ,(7) we(8) were(9) greeted(10) by(11) a(12) very(13) professional(14) staff(15) and(16) were(17) upgraded(18) ,(19) at(20) no(21) cost(22) ,(23) to(24) the(25) next(26) level(27) ,(28) a(29) grand-deluxe(30) room(31) ,(32) which(33) included(34) evening(35) cocktails(36) at(37) one(38) of(39) the(40) hotel(41) s(42) lounges(43) ,(44) butler(45) service(46) ,(47) free(48) internet(49) access(50) ,(51) free(52) laundry(53) of(54) three(55) items(56) of(57) clothing(58) per(59) person(60) /(61) per(62) day(63) ,(64) a(65) DVD(66) player(67) in(68) the(69) room(70) and(71) we(72) had(73) access(74) to(75) a(76) DVD(77) library(78) if(79) we(80) wanted(81) to(82) borrow(83) movies(84) or(85) music(86) CDs(87) .(88) 
+			<opinion polarity="+" feature="rooms" featWords="31" opWords="30"/>
+			<opinion polarity="+" feature="staff" featWords="15" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="11">
+			The(1) Room(2) :(3) Fresh(4) flowers(5) in(6) a(7) delicate(8) vase(9) were(10) placed(11) on(12) the(13) desk(14) and(15) were(16) replenished(17) daily(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) quite(4) large(5) and(6) the(7) furnishings(8) quite(9) beautiful(10) .(11) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="furnishings" featWords="8" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="13">
+			The(1) bed(2) was(3) extremely(4) comfortable(5) and(6) the(7) linens(8) of(9) the(10) finest(11) cotton(12) .(13) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) bedspread(2) ,(3) pillows(4) and(5) other(6) decorative(7) items(8) ,(9) were(10) made(11) with(12) beautiful(13) Thai(14) silk(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Later_on(1) our(2) arrival(3) day(4) ,(5) the(6) butler(7) delivered(8) a(9) basket(10) of(11) fresh(12) fruits(13) consisting(14) of(15) miniature(16) bananas(17) ,(18) passion(19) fruit(20) and(21) other(22) tropical(23) fruits(24) ;(25) the(26) fruits(27) were(28) also(29) replenished(30) daily(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			The(1) bathroom(2) :(3) It(4) was(5) huge(6) ,(7) marble(8) all(9) around(10) and(11) wonderful(12) toiletries(13) were(14) replenished(15) daily(16) !(17) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="toiletries" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="17">
+			Inside(1) the(2) bathroom(3) there(4) was(5) a(6) large(7) wardrobe(8) ,(9) which(10) is(11) tremendously(12) helpful(13) in(14) keeping(15) your(16) belongings(17) organized(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			Towels(1) are(2) plush(3) and(4) plentiful(5) and(6) I(7) loved(8) the(9) fluffy(10) bathrobes(11) and(12) slippers(13) !(14) 
+		</sentence>
+		<sentence id="19">
+			The(1) bathroom(2) and(3) rooms(4) are(5) kept(6) spotless(7) by(8) housekeeping(9) .(10) 
+			<opinion polarity="+" feature="bathroom" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="20">
+			The(1) breakfast(2) buffet(3) :(4) In(5) other(6) words(7) ,(8) wow(9) !(10) 
+		</sentence>
+		<sentence id="21">
+			It(1) has(2) an(3) amazing(4) selection(5) of(6) every(7) food(8) one(9) could(10) think(11) of(12) :(13) American(14) ,(15) Continental(16) ,(17) Asian(18) ,(19) and(20) the(21) dilemma(22) is(23) which(24) one(25) to(26) select(27) .(28) 
+		</sentence>
+		<sentence id="22">
+			Much(1) to(2) my(3) joy(4) ,(5) they(6) serve(7) a(8) Japanese(9) breakfast(10) ,(11) which(12) includes(13) some(14) sushi(15) ,(16) sashimi(17) and(18) miso(19) soup(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			The(1) bagels(2) are(3) one(4) of(5) the(6) best(7) outside_of(8) NY(9) ((10) wonder(11) how(12) the(13) managed(14) that(15) one(16) ?(17) )(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			A(1) lovely(2) selection(3) of(4) fresh(5) fruits(6) and(7) pastries(8) is(9) also(10) available(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			So(1) much(2) to(3) eat(4) ,(5) so(6) little(7) room(8) in(9) the(10) tummy(11) !(12) 
+		</sentence>
+		<sentence id="26">
+			Hotel_Pool(1) :(2) Is(3) very(4) small(5) BUT(6) the(7) setting(8) is(9) so(10) beautiful(11) that(12) it(13) doesn(14) t(15) matter(16) .(17) 
+			<opinion polarity="-" feature="hotel" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="27">
+			One(1) need(2) just(3) float(4) around(5) and(6) soak(7) in(8) the(9) tropical(10) atmosphere(11) the(12) setting(13) is(14) also(15) quite(16) discreet(17) ,(18) where(19) one(20) can(21) find(22) a(23) lounge(24) chair(25) removed(26) from(27) other(28) guests(29) .(30) 
+		</sentence>
+		<sentence id="28">
+			The(1) Spa(2) :(3) Looked(4) truly(5) beautiful(6) and(7) beckoning(8) we(9) did(10) not(11) obtain(12) any(13) services(14) and(15) the(16) prices(17) seem(18) a_bit(19) high(20) ,(21) but(22) surely(23) are(24) well(25) worth(26) it(27) .(28) 
+			<opinion polarity="+" feature="spa" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="price" featWords="17" opWords="20"/>
+		</sentence>
+		<sentence id="29">
+			The(1) Fitness_Centre(2) :(3) Is(4) well-equipped(5) with(6) modern(7) equipment(8) and(9) there(10) 's(11) a(12) full-time(13) attendant(14) on(15) duty(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			We(1) did(2) not(3) use(4) the(5) facilities(6) but(7) are(8) free(9) of(10) charge(11) to(12) guests(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			The(1) Butler_Service(2) :(3) They(4) are(5) truly(6) at(7) your(8) beck(9) and(10) call(11) and(12) will(13) bring(14) you(15) coffee(16) ,(17) tea(18) ,(19) and(20) cookies(21) any(22) time(23) you(24) call(25) ,(26) at(27) no(28) charge(29) .(30) 
+		</sentence>
+		<sentence id="32">
+			The(1) restaurants(2) :(3) We(4) did(5) not(6) eat(7) at(8) any(9) of(10) the(11) restaurants(12) ,(13) but(14) we(15) did(16) look(17) inside(18) La_Salla(19) and(20) Basils(21) and(22) they(23) are(24) truly(25) beautiful(26) restaurants(27) .(28) 
+			<opinion polarity="+" feature="food" featWords="27" opWords="26" potency="25"/>
+		</sentence>
+		<sentence id="33">
+			If(1) the(2) food(3) is(4) as(5) good(6) as(7) their(8) decor(9) ,(10) all(11) I(12) can(13) say(14) is(15) :(16) BEAUTIFUL(17) !(18) 
+			<opinion polarity="+" feature="food" featWords="3" opWords="17"/>
+		</sentence>
+		<sentence id="34">
+			The(1) bars(2) :(3) There(4) s(5) quite(6) a(7) selection(8) and(9) in(10) fact(11) ,(12) their(13) jazz(14) venue(15) is(16) supposed(17) to(18) be(19) one(20) of(21) the(22) hottest(23) in(24) the(25) city(26) .(27) 
+		</sentence>
+		<sentence id="35">
+			We(1) were(2) too(3) tired(4) to(5) go(6) ,(7) but(8) a(9) quick(10) look(11) into(12) the(13) bar(14) area(15) gave(16) us(17) a(18) glimpse(19) of(20) a(21) lively(22) atmosphere(23) and(24) good(25) ,(26) live(27) music(28) .(29) 
+		</sentence>
+		<sentence id="36">
+			Complimentary_Cocktails(1) :(2) The(3) complimentary(4) ,(5) unlimited(6) evening(7) cocktails(8) are(9) served(10) between(11) 18:00(12) and(13) 20:00(14) to(15) include(16) quite(17) a(18) nice(19) selection(20) of(21) wines(22) ,(23) cocktails(24) ,(25) and(26) beer(27) ;(28) our(29) favorite(30) venue(31) for(32) cocktails(33) was(34) The_Library(35) ,(36) the(37) name(38) of(39) one(40) of(41) their(42) bars(43) .(44) 
+		</sentence>
+		<sentence id="37">
+			As(1) the(2) name(3) implies(4) ,(5) there(6) is(7) a(8) very(9) large(10) selection(11) of(12) international(13) newspaper(14) ,(15) magazines(16) and(17) books(18) ,(19) which(20) may(21) be(22) checked-out(23) .(24) 
+		</sentence>
+		<sentence id="38">
+			The(1) Hotel_Service(2) :(3) Truly(4) impeccable(5) ,(6) always(7) with(8) a(9) smile(10) and(11) I(12) don(13) t(14) think(15) they(16) know(17) the(18) meaning(19) of(20) the(21) word(22) no(23) .(24) 
+		</sentence>
+		<sentence id="39">
+			It(1) s(2) always(3) more(4) like(5) ,(6) let(7) me(8) see(9) what(10) I(11) can(12) do(13) for(14) you(15) .(16) 
+		</sentence>
+		<sentence id="40">
+			Rooms(1) are(2) kept(3) immaculately(4) clean(5) and(6) turn(7) down(8) service(9) is(10) available(11) .(12) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="41">
+			The(1) Concierge(2) :(3) Very(4) helpful(5) and(6) offers(7) advice(8) regarding(9) places(10) to(11) visit(12) ,(13) how(14) to(15) dress(16) for(17) sightseeing(18) temples(19) ,(20) etc.(21) Closing(22) remarks(23) :(24) We(25) kept(26) such(27) a(28) busy(29) sightseeing(30) schedule(31) that(32) we(33) did(34) not(35) really(36) take(37) the(38) time(39) to(40) enjoy(41) most(42) of(43) the(44) hotel(45) amenities(46) ,(47) although(48) ,(49) my(50) husband(51) would(52) not(53) miss(54) the(55) cocktail(56) hour(57) ,(58) which(59) in(60) his(61) opinion(62) ,(63) has(64) been(65) one(66) of(67) the(68) best(69) to(70) date(71) .(72) 
+		</sentence>
+		<sentence id="42">
+			I(1) suggest(2) making(3) time(4) to(5) enjoy(6) what(7) the(8) hotel(9) has(10) to(11) offer(12) .(13) 
+		</sentence>
+		<sentence id="43">
+			The(1) hotel(2) delivers(3) unpretentious(4) ,(5) excellent(6) service(7) and(8) they(9) strive(10) to(11) please(12) every(13) guest(14) to(15) the(16) best(17) of(18) their(19) ability(20) .(21) 
+			<opinion polarity="+" feature="service" featWords="7" opWords="4"/>
+			<opinion polarity="+" feature="service" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="44">
+			I(1) highly(2) recommend(3) this(4) hotel(5) ,(6) be(7) it(8) for(9) business(10) or(11) pleasure(12) .(13) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="45">
+			Please(1) see(2) my(3) Bangkok(4) review(5) :(6) http://www.epinions.com/content_241594764932(7) 
+		</sentence>
+	</text>
+</review>

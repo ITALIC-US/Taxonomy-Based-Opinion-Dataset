@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="386" item="Chesterfield Hotel - South Beach" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) SoBe_Gem(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) great(4) staff(5) ,(6) and(7) beautiful(8) lobby(9) and(10) rooms(11) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="lobby" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="rooms" featWords="11" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) space(2) of(3) the(4) rooms(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) place(3) to(4) stay(5) that(6) will(7) put(8) you(9) smack(10) in(11) the(12) middle(13) of(14) one(15) of(16) the(17) best(18) cities(19) !(20) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) a(3) great(4) time(5) staying(6) at(7) the(8) Chesterfield(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) staff(3) knew(4) exactly(5) where(6) to(7) point(8) us(9) and(10) where(11) we(12) could(13) enjoy(14) the(15) best(16) of(17) the(18) city(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) were(3) great(4) ,(5) but(6) a(7) little(8) small(9) ,(10) but(11) what(12) else(13) can(14) you(15) expect(16) from(17) South_Beach(18) .(19) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			The(1) price(2) was(3) great(4) for(5) the(6) accommodations(7) .(8) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			With(1) the(2) Miami_Alliance_Card(3) we(4) received(5) an(6) additional(7) 10_%(8) discount(9) on(10) our(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) told(3) that(4) you(5) can(6) sign(7) up(8) for_free(9) by(10) calling(11) ((12) 305(13) )(14) 539-2700(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) hotel(2) was(3) lovely(4) and(5) I(6) really(7) do(8) recommend(9) that(10) you(11) visit(12) ,(13) even_if(14) it(15) is(16) to(17) just(18) "(19) hang-out(20) "(21) in(22) the(23) fashionably(24) decorated(25) lobby(26) .(27) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="hotel" opWords="9"/>
+			<opinion polarity="+" feature="lobby" featWords="26" opWords="24,25"/>
+		</sentence>
+	</text>
+</review>

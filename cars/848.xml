@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="848" item="1999 Honda Accord" rating="1">
+	<title>
+		<sentence id="1">
+			SELL_SELL_SELL(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) looking(2) car(3) .(4) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Junk(1) tranny(2) ,(3) does(4) not(5) live(6) up(7) to(8) Honda(9) 's(10) rep(11) .(12) ,(13) BO-RING(14) ,(15) lacks(16) HP(17) .(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) it(2) like(3) smallpox(4) ,(5) too(6) many(7) problems(8) !(9) !(10) !(11) 
+			<opinion polarity="-" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) a(4) Honda(5) ,(6) buy(7) a(8) Civic(9) ,(10) 5-speed(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) traded(2) this(3) car(4) in(5) on(6) a(7) new(8) truck(9) and(10) I(11) could(12) not(13) be(14) happier(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Tranny(1) blew(2) @(3) 79k_miles(4) average(5) driving(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Although(1) Honda(2) did(3) eat(4) a(5) portion(6) of(7) the(8) bill(9) ((10) $6000-no(11) joke(12) )(13) ,(14) no(15) reason(16) to(17) have(18) to(19) put(20) a(21) transmission(22) in(23) a(24) HONDA(25) of(26) all(27) things(28) with(29) under(30) 100k(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			Warranty(1) is(2) crap(3) @(4) 3/36(5) especially(6) with(7) the(8) lemon(9) that(10) I(11) had(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			It(1) hit(2) it(3) 's(4) 70k_mark(5) and(6) went(7) straight(8) to(9) hell(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Since(1) 70k(2) ,(3) struts(4) all(5) around(6) ,(7) aforementioned(8) tranny(9) ,(10) wheel(11) bearings(12) ,(13) and(14) a(15) constant(16) check(17) engine(18) light(19) even(20) after(21) 3(22) different(23) trips(24) to(25) 2(26) different(27) dealerships(28) and(29) over(30) $600(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			Was(1) a(2) pretty(3) good(4) average(5) reliable(6) boring(7) car(8) up(9) until(10) 70k_miles(11) .(12) 
+			<opinion polarity="-" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="reliability" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="8" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			As(1) Hondas(2) flagship(3) vehicle(4) I(5) was(6) terribly(7) disappointed(8) !(9) !(10) !(11) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="9">
+			Would(1) not(2) recommend(3) buying(4) this(5) car(6) used(7) .(8) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="2,3"/>
+		</sentence>
+		<sentence id="10">
+			Especially(1) one(2) close(3) to(4) 60-70k_miles(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Recently(1) Honda(2) came(3) down(4) with(5) a(6) 100k(7) warranty(8) on(9) the(10) auto(11) tranny(12) for(13) the(14) Accords(15) 2000-2002(16) ,(17) but(18) the(19) 98(20) and(21) 99s(22) are(23) being(24) left(25) to(26) rot(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			They(1) say(2) the(3) 2000(4) +(5) had(6) a(7) different(8) tranny(9) manufacturer(10) and(11) that(12) only(13) they(14) were(15) going(16) bad(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Let(1) me(2) be(3) the(4) one(5) to(6) tell(7) you(8) ,(9) horse(10) poop(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Mine(1) and(2) others(3) I(4) have(5) talked(6) to(7) on(8) message(9) boards(10) 98s-99s(11) are(12) garbage(13) as_well(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			For(1) more(2) info(3) see(4) http://www.v6accord.com.(5) If(6) anyone(7) is(8) about(9) to(10) buy(11) one(12) of(13) these(14) and(15) have(16) questions(17) ,(18) feel(19) free(20) to(21) e-mail(22) me(23) :(24) the12popes(25) @(26) yahoo(27) .(28) com(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			I(1) will(2) do(3) my(4) best(5) to(6) talk(7) you(8) out(9) of(10) it(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) EX(16) 2-door(17) coupe(18) 
+		</sentence>
+	</text>
+</review>

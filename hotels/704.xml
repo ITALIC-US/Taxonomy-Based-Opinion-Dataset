@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="704" item="Portland Square Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Portland_Square_Hotel(1) -(2) New_York_City(3) ,(4) The_Great_Hotel_Write-Off(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			For(1) a(2) budget(3) price(4) ,(5) you(6) get(7) a(8) prime(9) location(10) to(11) Broadway_&_Times_Square(12) .(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Keep(1) in(2) mind(3) ,(4) choosing(5) budget(6) =(7) getting(8) budget(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Rooms(1) are(2) small(3) .(4) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) recommend(2) this(3) hotel(4) because_of(5) its(6) excellent(7) location(8) in(9) the(10) heart(11) of(12) Manhattan(13) for(14) all(15) your(16) Broadway(17) needs(18) .(19) 
+			<opinion polarity="+" feature="hotel" featWords="4" opWords="2"/>
+			<opinion polarity="+" feature="place" featWords="8" opWords="7"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Are(1) you(2) planning(3) a(4) trip(5) to(6) New_York_City(7) in(8) the(9) near(10) future(11) ?(12) 
+		</sentence>
+		<sentence id="2">
+			Would(1) you(2) like(3) to(4) stay(5) at(6) a(7) hotel(8) that(9) has(10) a(11) prime(12) location(13) at(14) Times_Square(15) and(16) the(17) Theatre_District(18) at(19) a(20) budget(21) price(22) ?(23) 
+			<opinion polarity="+" feature="place" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="3">
+			Would(1) you(2) like(3) this(4) hotel(5) to(6) be(7) clean(8) with(9) no(10) extra(11) frills(12) to(13) pay(14) for(15) ?(16) 
+		</sentence>
+		<sentence id="4">
+			Do(1) you(2) want(3) this(4) budget(5) hotel(6) to(7) be(8) safe(9) &(10) secure(11) ?(12) 
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="9"/>
+			<opinion polarity="+" feature="hotel" featWords="6" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			Are(1) you(2) willing(3) to(4) OVERLOOK(5) any(6) FLAWS(7) that(8) come(9) with(10) a(11) budget(12) property(13) ?(14) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) answered(3) "(4) yes(5) "(6) to(7) all(8) ,(9) than(10) please(11) read(12) on(13) !(14) 
+		</sentence>
+		<sentence id="7">
+			I(1) recently(2) had(3) the(4) pleasure(5) of(6) staying(7) at(8) the(9) Portland_Square_Hotel(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			An(1) old(2) high(3) rise(4) building(5) from(6) the(7) 1920(8) 's(9) &(10) past(11) home(12) for(13) Theatre(14) personnel(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			MY_BOOKING_PROCEDURE_I(1) made(2) my(3) booking(4) online(5) at(6) WWW(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Portlandsquarehotel(1) .(2) com(3) .(4) 
+		</sentence>
+		<sentence id="11">
+			This(1) was(2) two(3) months(4) before(5) my(6) arrival(7) date(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) able(3) to(4) grab(5) a(6) great(7) internet(8) rate(9) of(10) $89.00(11) per(12) night(13) for(14) a(15) party(16) of(17) three(18) with(19) a(20) private(21) bath(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) the(3) way(4) to(5) go(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Our(1) room(2) rate(3) ,(4) off(5) the(6) street(7) ,(8) was(9) valued(10) at(11) $150.00(12) a(13) night(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			CHECK_IN_I(1) arrived(2) at(3) 11(4) :(5) AM(6) at(7) this(8) building(9) with(10) four(11) white(12) columns(13) on(14) the(15) exterior(16) and(17) entered(18) the(19) premises(20) by(21) a(22) glass(23) door(24) that(25) required(26) a(27) buzz(28) door(29) release(30) to(31) get(32) in(33) from(34) the(35) front(36) desk(37) clerk(38) ((39) this(40) is(41) the(42) safety(43) measure(44) )(45) .(46) 
+		</sentence>
+		<sentence id="16">
+			Check(1) in(2) was(3) not(4) until(5) 3(6) :(7) PM._The(8) front(9) desk(10) clerk(11) ,(12) behind(13) plexy(14) glass(15) ,(16) advised(17) me(18) that(19) there(20) is(21) a(22) room(23) available(24) now(25) if(26) we(27) want(28) a(29) small(30) one(31) ,(32) otherwise(33) to(34) wait(35) until(36) 3(37) :(38) PM(39) for(40) the(41) biggest(42) room(43) available(44) .(45) 
+		</sentence>
+		<sentence id="17">
+			I(1) appreciated(2) his(3) advice(4) and(5) waited(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			I(1) used(2) their(3) locker(4) area(5) to(6) store(7) my(8) baggage(9) at(10) $2.00(11) per(12) locker(13) which(14) were(15) located(16) on(17) the(18) lobby(19) level(20) and(21) the(22) basement(23) level(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			I(1) spent(2) my(3) next(4) few(5) hours(6) time(7) eating(8) lunch(9) and(10) buying(11) theatre(12) tickets(13) around(14) the(15) corner(16) at(17) the(18) NY_Tourist_Bureau(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			LOBBY_Simple(1) ,(2) is(3) the(4) key(5) word(6) here(7) .(8) 
+		</sentence>
+		<sentence id="21">
+			Four(1) tapestry(2) sofas(3) in(4) a(5) corner(6) with(7) pink(8) painted(9) walls(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			The(1) view(2) was(3) four(4) overhead(5) security(6) televisions(7) of(8) the(9) premises(10) for(11) all(12) to(13) enjoy(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			Two(1) vending(2) machines(3) were(4) also(5) available(6) for(7) beverages(8) and(9) a(10) single(11) shared(12) bathroom(13) ,(14) which(15) was(16) clean(17) .(18) 
+			<opinion polarity="-" feature="bathroom" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="bathroom" featWords="13" opWords="17"/>
+		</sentence>
+		<sentence id="24">
+			MY_ROOM_I(1) was(2) assigned(3) the(4) largest(5) room(6) on(7) the(8) floor(9) ,(10) as(11) promised(12) by(13) the(14) front(15) desk(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			The(1) fire(2) escape(3) layout(4) map(5) behind(6) my(7) door(8) supported(9) such(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			I(1) was(2) thankful(3) for(4) this(5) corner(6) room(7) ,(8) because(9) ,(10) it(11) really(12) was(13) not(14) that(15) big(16) !(17) ((18) Hotel(19) of(20) the(21) 1920(22) 's(23) )(24) .(25) 
+		</sentence>
+		<sentence id="27">
+			Entrance(1) into(2) my(3) room(4) had(5) the(6) smell(7) of(8) carpet(9) fresh(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			Lighting(1) was(2) poor(3) and(4) the(5) one(6) window(7) overlooking(8) a(9) fire(10) escape(11) of(12) the(13) next(14) building(15) did(16) not(17) add(18) much(19) light(20) either(21) .(22) 
+		</sentence>
+		<sentence id="29">
+			But(1) ,(2) I(3) am(4) forgiving(5) ,(6) since(7) this(8) is(9) an(10) old(11) building(12) in(13) an(14) old(15) area(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			Colorings(1) were(2) of(3) classic(4) beige(5) bedspreads(6) with(7) matching(8) curtains(9) of(10) tasteful(11) classic(12) patterns(13) with(14) one(15) desk(16) &(17) chair(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			Not(1) much(2) room(3) for(4) walking(5) around(6) left(7) over(8) though(9) after(10) the(11) two(12) double(13) beds(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			Air(1) conditioning(2) &(3) one(4) walk(5) in(6) closet(7) with(8) no(9) lighting(10) inside(11) were(12) also(13) included(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			I(1) did(2) not(3) realize(4) until(5) the(6) middle(7) of(8) my(9) first(10) night(11) while(12) in(13) slumber(14) &(15) woke(16) up(17) sweating(18) ,(19) although(20) temperatures(21) outside(22) were(23) in(24) the(25) 30(26) 's(27) outside(28) ,(29) that(30) my(31) pillow(32) and(33) mattress(34) were(35) covered(36) with(37) plastic(38) lining(39) !(40) 
+		</sentence>
+		<sentence id="34">
+			A(1) first(2) for(3) me(4) !(5) 
+		</sentence>
+		<sentence id="35">
+			The(1) bathroom(2) had(3) a(4) marble(5) step(6) that(7) is(8) easy(9) to(10) trip(11) on(12) ,(13) and(14) ,(15) I(16) did(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			Welcoming(1) me(2) in(3) my(4) bathroom(5) was(6) Breck_Shampoo_&_Conditioner(7) .(8) 
+		</sentence>
+		<sentence id="37">
+			Remember(1) Breck(2) ?(3) 
+		</sentence>
+		<sentence id="38">
+			This(1) brought(2) back(3) my(4) 1970(5) 's(6) memories(7) as(8) a(9) child(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			It(1) is(2) still(3) around(4) !(5) 
+		</sentence>
+		<sentence id="40">
+			Anyway(1) ,(2) the(3) bathroom(4) was(5) clean(6) ,(7) but(8) the(9) plug(10) for(11) my(12) hair(13) dryer(14) was(15) outside(16) the(17) door(18) .(19) 
+			<opinion polarity="+" feature="bathroom" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="41">
+			Darn(1) it(2) ,(3) I(4) did(5) not(6) bring(7) my(8) extension(9) cord(10) ,(11) once(12) again(13) !(14) 
+		</sentence>
+		<sentence id="42">
+			There(1) was(2) also(3) problem(4) with(5) plumbing(6) ,(7) which(8) is(9) o(10) .(11) k(12) .(13) ,(14) ((15) old(16) building(17) )(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			It(1) was(2) at(3) hot(4) &(5) cold(6) extremes(7) for(8) my(9) showering(10) pleasures(11) each(12) and(13) every(14) morning(15) .(16) 
+		</sentence>
+		<sentence id="44">
+			I(1) did(2) tip(3) $3.00(4) a(5) day(6) to(7) the(8) maid(9) each(10) day(11) .(12) 
+		</sentence>
+		<sentence id="45">
+			I(1) have(2) to(3) tip(4) each(5) day(6) so(7) I(8) will(9) be(10) taken(11) care(12) of(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			I(1) choose(2) to(3) do(4) so(5) each(6) day(7) ,(8) than(9) ,(10) rather(11) ,(12) a(13) whole(14) lump(15) sum(16) on(17) my(18) last(19) day(20) .(21) 
+		</sentence>
+		<sentence id="47">
+			This(1) ensures(2) cleanliness(3) and(4) extra(5) towels(6) .(7) 
+		</sentence>
+		<sentence id="48">
+			I(1) did(2) get(3) both(4) .(5) 
+		</sentence>
+		<sentence id="49">
+			AMENITIES(1) /(2) PERKS_Pool-no_Restaurant-no_Bar(3) /(4) lounge-no(5) Gift(6) shop-no(7) Internet(8) computer-yes(9) Question(10) :(11) So(12) are(13) there(14) any(15) minute(16) amenities(17) at(18) all(19) &(20) where(21) are(22) they(23) ?(24) 
+		</sentence>
+		<sentence id="50">
+			Answer(1) :(2) The(3) amenities(4) are(5) located(6) in(7) the(8) basement(9) .(10) 
+		</sentence>
+		<sentence id="51">
+			Here(1) you(2) will(3) find(4) the(5) washers(6) &(7) dryers(8) along_with(9) the(10) sole(11) house(12) iron(13) &(14) ironing(15) board(16) .(17) 
+		</sentence>
+		<sentence id="52">
+			Also(1) ,(2) one(3) piece(4) of(5) exercise(6) equipment(7) .(8) 
+		</sentence>
+		<sentence id="53">
+			The(1) one(2) internet(3) ready(4) computer(5) is(6) on(7) the(8) lobby(9) level(10) though(11) .(12) 
+		</sentence>
+		<sentence id="54">
+			It(1) has(2) a(3) sign(4) beside(5) it(6) that(7) says(8) :(9) "(10) Keep(11) your(12) belongings(13) next(14) to(15) you(16) "(17) ,(18) Enjoy(19) !(20) 
+		</sentence>
+		<sentence id="55">
+			Clientele_I(1) visited(2) in(3) March(4) during(5) the(6) St(7) .(8) 
+		</sentence>
+		<sentence id="56">
+			Patricks_Day(1) weekend(2) festivities(3) .(4) 
+		</sentence>
+		<sentence id="57">
+			Most(1) of(2) the(3) patrons(4) I(5) encountered(6) were(7) in(8) the(9) 20(10) 's(11) from(12) Ireland(13) .(14) 
+		</sentence>
+		<sentence id="58">
+			There(1) was(2) one(3) British(4) family(5) with(6) a(7) couple(8) of(9) kids(10) ,(11) and(12) numerous(13) singles(14) from(15) USA_&_England(16) .(17) 
+		</sentence>
+		<sentence id="59">
+			A(1) mixed(2) crowd(3) ,(4) but(5) mostly(6) a(7) younger(8) crowd(9) .(10) 
+		</sentence>
+		<sentence id="60">
+			Location_I(1) can(2) not(3) stress(4) enough(5) the(6) value(7) of(8) this(9) location(10) .(11) 
+		</sentence>
+		<sentence id="61">
+			It(1) is(2) located(3) between(4) 6th(5) and(6) 7th(7) .(8) 
+		</sentence>
+		<sentence id="62">
+			Address_&_Phone(1) is(2) as(3) follows(4) :(5) 132(6) West(7) 47th(8) Street_New_York(9) ,(10) NY(11) 10036(12) 212(13) 382(14) 0600(15) 800(16) 388(17) 8988(18) You(19) can(20) catch(21) the(22) bus(23) ,(24) catch(25) the(26) subway(27) ,(28) walk(29) to(30) theatres(31) &(32) dining(33) .(34) 
+		</sentence>
+		<sentence id="63">
+			All(1) is(2) at(3) your(4) doorstep(5) while(6) staying(7) here(8) at(9) the(10) Portland_Square_Hotel(11) .(12) 
+		</sentence>
+		<sentence id="64">
+			Bottom_Line_Please(1) do(2) not(3) have(4) high(5) expectations(6) of(7) this(8) property(9) if(10) you(11) choose(12) to(13) stay(14) here(15) .(16) 
+		</sentence>
+		<sentence id="65">
+			Keep(1) in(2) mind(3) ,(4) that(5) if(6) you(7) choose(8) this(9) budget(10) property(11) due(12) to(13) the(14) excellent(15) location(16) ,(17) this(18) is(19) what(20) you(21) will(22) get(23) .(24) 
+			<opinion polarity="+" feature="place" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="66">
+			Amenities(1) are(2) almost(3) non(4) existent(5) .(6) 
+			<opinion polarity="-" feature="amenities" featWords="1" opWords="4,5"/>
+		</sentence>
+		<sentence id="67">
+			But(1) ,(2) what(3) else(4) could(5) you(6) ask(7) for(8) in(9) a(10) budget(11) hotel(12) ?(13) :(14) )(15) 
+		</sentence>
+	</text>
+</review>

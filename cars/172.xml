@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="172" item="1993 Ford Bronco" rating="5">
+	<title>
+		<sentence id="1">
+			Bronco(1) ,(2) the(3) best(4) SUV_Ford(5) has(6) to(7) offer(8) .(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) all-around(2) vehicle(3) .(4) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) cup(2) holders(3) ,(4) BBQes(5) hands(6) ,(7) risk(8) of(9) transmission(10) failure(11) .(12) 
+			<opinion polarity="-" feature="cup holders" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) originally(2) bought(3) my(4) 93(5) Bronco(6) almost(7) a(8) year(9) ago(10) ,(11) and(12) I(13) still(14) love(15) it(16) !(17) 
+			<opinion polarity="+" feature="car" featWords="16" featRef="car" opWords="15"/>
+		</sentence>
+		<sentence id="2">
+			When(1) I(2) was(3) looking(4) for(5) a(6) new(7) vehicle(8) last(9) year(10) I(11) was(12) looking(13) for(14) a(15) truck(16) that(17) can(18) skirt(19) around(20) the(21) California_Commercial_Vehicle(22) tax(23) ,(24) be(25) large(26) enough(27) to(28) haul(29) our(30) racecar(31) and(32) boat(33) ,(34) yet(35) be(36) somewhat(37) smaller(38) and(39) maneuverable(40) .(41) 
+		</sentence>
+		<sentence id="3">
+			After(1) looking(2) and(3) researching(4) I(5) settled(6) on(7) one(8) vehicle(9) ,(10) the(11) Ford_Bronco(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			From(1) my(2) experience(3) over(4) the(5) past(6) year(7) and(8) 30,000_miles(9) I(10) have(11) found(12) the(13) Bronco(14) to(15) be(16) quite(17) more(18) versatile(19) than(20) most(21) other(22) SUVs(23) out(24) there(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Although(1) larger(2) than(3) most(4) cars(5) ,(6) it(7) handles(8) very(9) much(10) like(11) a(12) car(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) turning(2) radius(3) allows(4) me(5) to(6) make(7) U-turns(8) within(9) 2(10) lanes(11) .(12) ((13) Very(14) good(15) for(16) city(17) driving(18) )(19) Although(20) it(21) is(22) a(23) high(24) profile(25) vehicle(26) ,(27) high(28) speed(29) maneuvering(30) is(31) taken(32) with(33) ease(34) .(35) 
+			<opinion polarity="+" feature="car" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="7">
+			You(1) wont(2) be(3) bucked(4) by(5) this(6) Bronco(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			The(1) interior(2) is(3) roomy(4) and(5) functional(6) ,(7) as(8) are(9) the(10) controls(11) ,(12) but(13) the(14) cup(15) holders(16) are(17) too(18) small(19) for(20) anything(21) other(22) than(23) your(24) average(25) 12-ounce(26) cup(27) or(28) soda(29) can(30) .(31) 
+			<opinion polarity="-" feature="cup holders" featWords="15,16" opWords="18,19"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			One(1) other(2) rant(3) I(4) have(5) is(6) the(7) original(8) radio(9) was(10) way(11) underpowered(12) ,(13) and(14) the(15) stocker(16) speakers(17) aren(18) t(19) as(20) good(21) as(22) they(23) could(24) be(25) .(26) 
+			<opinion polarity="-" feature="radio" featWords="9" opWords="12"/>
+		</sentence>
+		<sentence id="10">
+			As(1) for(2) cargo(3) ,(4) the(5) rear(6) seat(7) folds(8) down(9) easily(10) with(11) the(12) pull(13) of(14) 2(15) latches(16) or(17) can(18) come(19) out(20) completely(21) to(22) make(23) the(24) cargo(25) area(26) as(27) big(28) as(29) a(30) short(31) bed(32) pickup(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			The(1) passenger(2) space(3) is(4) ample(5) ,(6) the(7) passenger(8) seat(9) and(10) back(11) seat(12) are(13) an(14) excellent(15) fit(16) for(17) all(18) but(19) the(20) tallest(21) of(22) riders(23) .(24) ((25) The(26) rear(27) seat(28) is(29) elevated(30) about(31) 2_inches(32) )(33) In_addition(34) ,(35) I(36) have(37) never(38) had(39) someone(40) ask(41) ,(42) Can(43) you(44) move(45) the(46) seat(47) up(48) a_bit(49) ?(50) 
+		</sentence>
+		<sentence id="12">
+			The(1) 4-wheel(2) drive(3) is(4) wonderful(5) ;(6) it(7) helped(8) my(9) Bronco(10) handle(11) beautifully(12) on(13) snowy(14) roads(15) .(16) 
+			<opinion polarity="+" feature="drive" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) gotten(3) stuck(4) only(5) a(6) couple(7) times(8) ,(9) but(10) only(11) due(12) to(13) my(14) own(15) idiocy(16) and(17) the(18) fact(19) I(20) have(21) highway(22) tires(23) on(24) the(25) Bronco(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			The(1) pulling(2) power(3) the(4) 5.8(5) ((6) 351(7) ci(8) )(9) motor(10) creates(11) is(12) great(13) .(14) 
+			<opinion polarity="+" feature="horsepower" featWords="3" opWords="13"/>
+		</sentence>
+		<sentence id="15">
+			Weather(1) your(2) dragging(3) a(4) smashed(5) and(6) rolled(7) racecar(8) off(9) of(10) the(11) track(12) ,(13) or(14) pulling(15) the(16) family(17) boat(18) you(19) ll(20) never(21) have(22) to(23) sweat(24) it(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			Self-maintaince(1) is(2) a_bit(3) of(4) a(5) hassle(6) since(7) oil(8) changes(9) are(10) a_bit(11) messy(12) ((13) the(14) drain(15) plug(16) is(17) right(18) over(19) the(20) front(21) axle(22) )(23) and(24) if(25) you(26) value(27) your(28) hands(29) do(30) not(31) do(32) a(33) tune(34) up(35) while(36) the(37) engine(38) is(39) hot(40) .(41) 
+		</sentence>
+		<sentence id="17">
+			So(1) far(2) the(3) only(4) money(5) I(6) have(7) had(8) to(9) put(10) into(11) my(12) Bronco(13) ((14) Which(15) had(16) 87,000_miles(17) on(18) it(19) when(20) I(21) bought(22) it(23) )(24) has(25) been(26) all-voluntary(27) .(28) 
+		</sentence>
+		<sentence id="18">
+			I(1) have(2) yet(3) to(4) have(5) a(6) component(7) go(8) bad(9) on(10) me(11) well(12) ,(13) I(14) take(15) that(16) back(17) I(18) have(19) had(20) a(21) shock(22) snap(23) off(24) the(25) front(26) while(27) I(28) was(29) playing(30) .(31) 
+		</sentence>
+		<sentence id="19">
+			Since(1) the(2) Bronco(3) comes(4) standard(5) with(6) dual(7) shocks(8) on(9) the(10) front(11) its(12) kind(13) of(14) a(15) non-issue(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			Modifications_I(1) can(2) recommend(3) are(4) larger(5) ,(6) less(7) restrictive(8) exhaust(9) ,(10) ((11) I(12) put(13) a(14) 3_inch(15) cat-back(16) with(17) a(18) Flomasteron(19) mine(20) )(21) and(22) a(23) K_&_N(24) air(25) filter(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			Don(1) t(2) take(3) me(4) wrong(5) there(6) are(7) some(8) bad(9) spots(10) about(11) this(12) truck(13) ,(14) the(15) biggest(16) one(17) is(18) the(19) transmission(20) ,(21) the(22) one(23) I(24) have(25) is(26) tired(27) and(28) shifts(29) poorly(30) from(31) 2nd(32) to(33) third(34) .(35) 
+		</sentence>
+		<sentence id="22">
+			In(1) addtion(2) the(3) E4OD(4) Transmission(5) has(6) had(7) a(8) bad(9) history(10) ,(11) but(12) '(13) 93(14) seems(15) to(16) be(17) the(18) best(19) year(20) for(21) them(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			The(1) second(2) biggest(3) is(4) the(5) power(6) band(7) of(8) this(9) truck(10) ,(11) although(12) it(13) is(14) very(15) tourquy(16) in(17) low(18) RPMs(19) ((20) good(21) takeoff(22) )(23) and(24) at(25) high(26) RPMs(27) powerful(28) ,(29) in(30) the(31) midrange(32) where(33) the(34) gears(35) like(36) to(37) rest(38) during(39) highway(40) travel(41) is(42) somewhat(43) gutless(44) .(45) 
+		</sentence>
+		<sentence id="24">
+			Merging(1) into(2) traffic(3) that(4) is(5) going(6) faster(7) takes(8) a_bit(9) of(10) timing(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			The(1) next(2) modification(3) I(4) plan(5) to(6) make(7) ,(8) a(9) Powerchip_I(10) m(11) real(12) sure(13) will(14) fix(15) that(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			I(1) have(2) driven(3) the(4) explorer(5) ,(6) expedition(7) ,(8) ((9) please(10) don(11) t(12) buy(13) this(14) vehicle(15) ,(16) if(17) you(18) drive(19) one(20) you(21) ll(22) understand(23) )(24) Durango(25) ,(26) and(27) Tahoe(28) .(29) 
+		</sentence>
+		<sentence id="27">
+			And(1) by(2) far(3) the(4) Bronco(5) is(6) more(7) maneuverable(8) ,(9) powerful(10) ,(11) road(12) and(13) off-road(14) worthy(15) .(16) 
+		</sentence>
+	</text>
+</review>

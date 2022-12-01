@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="15" item="Bang & Olufsen A8 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) earphones(2) .(3) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			But(1) two_hundred_and(2) WHAT(3) ?(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) sound(2) sound(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			They(1) do(2) not(3) sound(4) like(5) earbuds(6) ,(7) but(8) they(9) feel(10) perfectly(11) light(12) like(13) earbuds(14) .(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			And(1) they(2) are(3) light(4) .(5) 
+			<opinion polarity="+" feature="weight" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			Sturdy(1) ,(2) but(3) light(4) .(5) ((6) they(7) do(8) not(9) feel(10) sturdy(11) )(12) 
+			<opinion polarity="+" feature="durability" opWords="1"/>
+			<opinion polarity="+" feature="weight" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Yes(1) ,(2) in(3) Canadian(4) money(5) ,(6) it(7) comes(8) out(9) to(10) 235(11) bucks(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) find(2) it(3) is(4) an(5) over-the-top(6) price(7) ,(8) considering(9) they(10) are(11) just(12) earphones(13) .(14) 
+			<opinion polarity="-" feature="price" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			So(1) they(2) are(3) pretty(4) much(5) the(6) best(7) earbuds(8) around(9) .(10) 
+			<opinion polarity="+" feature="earbuds" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="4">
+			For(1) me(2) ,(3) a(4) 13(5) year(6) old(7) who(8) just(9) wanted(10) to(11) enjoy(12) his(13) music(14) to(15) the(16) fullest(17) ,(18) it(19) is(20) a(21) strain(22) on(23) the(24) wallet(25) ,(26) but(27) they(28) DO(29) provide(30) great(31) sound(32) .(33) 
+			<opinion polarity="+" feature="sound quality" featWords="32" opWords="31"/>
+		</sentence>
+		<sentence id="5">
+			At_least(1) it(2) comes(3) with(4) a(5) leather(6) pouch(7) !(8) 
+			<opinion polarity="+" feature="case" featWords="7" opWords="6"/>
+		</sentence>
+	</text>
+</review>

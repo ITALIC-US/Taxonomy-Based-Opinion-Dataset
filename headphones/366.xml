@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="366" item="Sony MDR-V700DJ Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Solid(1) electronic(2) equipment(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Bass(1) ,(2) general(3) sound(4) performance(5) ,(6) accessories(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bass(1) is(2) a(3) little(4) overwhelming(5) ,(6) but(7) not(8) that(9) bad(10) .(11) 
+			<opinion polarity="-" feature="bass" featWords="1" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="bass" featWords="1" opWords="8,10"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) read(2) many(3) of(4) the(5) reviews(6) before(7) and(8) I(9) just(10) had(11) to(12) support(13) /(14) negate(15) the(16) other(17) reviews(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			First(1) of(2) all(3) ,(4) the(5) money(6) you(7) spend(8) on(9) these(10) headphones(11) mostly(12) goes(13) to(14) the(15) Sony(16) name(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) noticed(3) that(4) they(5) tend(6) to(7) price(8) their(9) products(10) anywhere(11) between(12) 10(13) to(14) 20_%(15) more(16) than(17) their(18) competitors(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) this(3) pricetag(4) does(5) come(6) with(7) it(8) 's(9) benefits(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Aside(1) from(2) the(3) superficial(4) aspects(5) of(6) the(7) unit(8) ,(9) the(10) headphones(11) do(12) a(13) very(14) good(15) job(16) at(17) sealing(18) the(19) ears(20) and(21) blocking(22) background(23) noise(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) bass(2) is(3) a_bit(4) high(5) and(6) tends(7) to(8) muffle(9) the(10) mids(11) and(12) lows(13) ,(14) but(15) unless(16) you(17) are(18) listening(19) to(20) classical(21) music(22) ,(23) it(24) will(25) not(26) make(27) much(28) difference(29) .(30) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			Most(1) people(2) do(3) not(4) have(5) perfect(6) hearing(7) ;(8) in(9) fact(10) ,(11) if(12) you(13) are(14) one(15) of(16) the(17) millions(18) that(19) have(20) attending(21) a(22) few(23) night(24) clubs(25) or(26) a(27) outdoor(28) music(29) event(30) ,(31) you(32) most(33) likely(34) have(35) lost(36) a(37) good(38) percentage(39) of(40) your(41) hearing(42) already(43) .(44) 
+		</sentence>
+		<sentence id="8">
+			As(1) far(2) as(3) the(4) rest(5) of(6) the(7) package(8) concerns(9) ,(10) the(11) length(12) of(13) the(14) cord(15) is(16) nice(17) ,(18) the(19) bag(20) is(21) handy(22) ,(23) and(24) the(25) additional(26) sized(27) jack(28) is(29) always(30) a(31) nice(32) addition(33) .(34) 
+			<opinion polarity="+" feature="cord" featWords="15" opWords="17"/>
+			<opinion polarity="+" feature="case" featWords="20" opWords="22"/>
+		</sentence>
+		<sentence id="9">
+			Either(1) way(2) ,(3) this(4) is(5) definetly(6) a(7) good(8) product(9) even(10) with(11) the(12) slight(13) expensive(14) nature(15) of(16) Sony(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="9" featRef="product" opWords="8" potency="7"/>
+		</sentence>
+	</text>
+</review>

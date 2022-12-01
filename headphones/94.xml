@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="94" item="Koss UR29 Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Bad_Sound(1) and(2) Fit(3) from(4) Koss(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Maybe(1) the(2) price(3) ?(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) fit(2) ,(3) bad(4) sound(5) ,(6) do(7) not(8) last(9) =(10) ((11) 
+			<opinion polarity="-" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="sound quality" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) used(2) to(3) have(4) these(5) pair(6) of(7) headphones(8) at(9) my(10) school(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) always(2) hated(3) how(4) they(5) felt(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) had(2) no(3) idea(4) what(5) they(6) sounded(7) like(8) because(9) we(10) were(11) just(12) doing(13) learning(14) activities(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			How(1) happy(2) I(3) was(4) to(5) find(6) these(7) under(8) the(9) Christmas(10) tree(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) already(2) hated(3) the(4) fit(5) ,(6) but(7) maybe(8) the(9) sound(10) would(11) be(12) good(13) ?(14) 
+		</sentence>
+		<sentence id="6">
+			No(1) ,(2) not(3) at(4) all(5) ,(6) actually(7) it(8) 's(9) terrible(10) .(11) 
+			<opinion polarity="-" feature="headphones" opWords="10"/>
+		</sentence>
+		<sentence id="7">
+			Barely(1) any(2) bass(3) to(4) speak(5) of(6) ,(7) overpowering(8) mids(9) ,(10) and(11) the(12) high(13) end(14) is(15) lacking(16) and(17) is(18) thin(19) ,(20) like(21) it(22) is(23) only(24) focused(25) on(26) one(27) frequency(28) .(29) 
+			<opinion polarity="-" feature="mids" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="highs" featWords="13" opWords="19"/>
+		</sentence>
+		<sentence id="8">
+			Avoid(1) at(2) all(3) costs(4) !(5) 
+		</sentence>
+	</text>
+</review>

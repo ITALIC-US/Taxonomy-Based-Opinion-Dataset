@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="493" item="Sony MDR-V150 Professional Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			MDR-V150(1) review(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) Audiophile(2) quality(3) ((4) like(5) others(6) have(7) said(8) )(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) phones(2) are(3) OK(4) for(5) low-budget(6) listening(7) ,(8) but(9) definitely(10) not(11) for(12) studio(13) purposes(14) .(15) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Bought(1) these(2) for(3) $19.99(4) at(5) Target(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) advertised(3) as(4) "(5) studio(6) quality(7) phones(8) "(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Ha-ha(1) .(2) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) thing(3) I(4) noticed(5) when(6) I(7) put(8) these(9) on(10) is(11) that(12) they(13) are(14) EXTREMELY(15) uncomfortable(16) .(17) 
+			<opinion polarity="-" feature="comfort" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="5">
+			For(1) extended(2) listening(3) they(4) could(5) become(6) unbearable(7) !(8) 
+		</sentence>
+		<sentence id="6">
+			did(1) not(2) like(3) that(4) they(5) do(6) not(7) cover(8) your(9) ears(10) well(11) ,(12) and(13) the(14) top(15) band(16) digs(17) into(18) the(19) top(20) of(21) your(22) head(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			I(1) listened(2) to(3) some(4) music(5) ,(6) and(7) the(8) bass(9) was(10) actually(11) fairly(12) tight(13) and(14) solid(15) ...(16) However(17) these(18) phones(19) did(20) not(21) impart(22) the(23) expected(24) "(25) crispness(26) "(27) to(28) the(29) high(30) end(31) --(32) indeed(33) the(34) image(35) was(36) muddy(37) ,(38) very(39) muddy(40) --(41) and(42) perhaps(43) even(44) "(45) artificially(46) large(47) "(48) .(49) 
+			<opinion polarity="+" feature="bass" featWords="9" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="bass" featWords="9" opWords="15" potency="12"/>
+		</sentence>
+		<sentence id="8">
+			When(1) comparing(2) with(3) my(4) previous(5) set(6) of(7) ((8) $30(9) Realistic_Optimus(10) )(11) headphones(12) ,(13) material(14) sounded(15) bland(16) and(17) yucchy(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			These(1) phones(2) are(3) not(4) good(5) for(6) true(7) studio(8) work(9) .(10) 
+			<opinion polarity="-" feature="headphones" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="10">
+			Disappointing(1) [(2) but(3) hey(4) what(5) does(6) one(7) expect(8) for(9) 20(10) bucks(11) ?(12) ](13) Back(14) they(15) go(16) to(17) the(18) store(19) !(20) -(21) john(22) 
+		</sentence>
+	</text>
+</review>

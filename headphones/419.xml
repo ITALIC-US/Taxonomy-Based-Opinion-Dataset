@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="419" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Fantastic(1) for(2) long(3) wear(4) ,(5) superb(6) sound(7) and(8) excellent(9) noise(10) cancellation(11) .(12) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="isolation" featWords="10,11" opWords="9"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) for(2) prolonged(3) use(4) ,(5) crystal(6) clear(7) sound(8) !(9) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="8" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) outside(2) non-fluctuating(3) sounds(4) ,(5) still(6) penetrate(7) in(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) wish(2) noise(3) cancellation(4) was(5) even(6) stronger(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Extended_Wear(1) :(2) After(3) searching(4) for(5) 2(6) years(7) for(8) headphones(9) I(10) could(11) wear(12) all(13) day(14) at(15) the(16) office(17) and(18) on(19) long-haul(20) flights(21) ,(22) I(23) can(24) finally(25) stop(26) looking(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Most(1) of(2) the(3) DJ(4) type(5) headphones(6) have(7) good(8) passive(9) noise(10) cancellation(11) ,(12) but(13) make(14) you(15) feel(16) like(17) your(18) head(19) is(20) in(21) a(22) vise(23) after(24) about(25) an(26) hour(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			Not(1) so(2) with(3) these(4) babies(5) ,(6) they(7) make(8) a(9) very(10) soft(11) contact(12) thanks(13) to(14) luxurious(15) pads(16) .(17) 
+			<opinion polarity="+" feature="comfort" opWords="11,12" potency="10"/>
+			<opinion polarity="+" feature="earpads" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="4">
+			Sound(1) :(2) I(3) shed(4) a(5) tear(6) when(7) I(8) turned(9) them(10) on(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Absolutely(1) no(2) distortion(3) or(4) hiss(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			I(1) like(2) the(3) fact(4) that(5) the(6) response(7) is(8) excellent(9) at(10) low(11) volume(12) ,(13) together(14) with(15) noise(16) cancellation(17) they(18) give(19) me(20) the(21) ability(22) to(23) turn(24) off(25) any(26) monotonous(27) sound(28) ,(29) but(30) still(31) have(32) the(33) ability(34) to(35) hear(36) someone(37) speaking(38) to(39) me(40) or(41) when(42) the(43) phone(44) rings(45) .(46) 
+			<opinion polarity="+" feature="frequency response" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			Noise_Cancellation(1) :(2) I(3) do(4) some(5) work(6) in(7) a(8) computer(9) Datacenter(10) ((11) lots(12) of(13) fans(14) )(15) these(16) reduce(17) the(18) noise(19) dramatically(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) recommend(3) them(4) to(5) anyone(6) who(7) wants(8) to(9) protect(10) their(11) hearing(12) ,(13) especially(14) if(15) they(16) spend(17) prolonged(18) time(19) in(20) a(21) noisy(22) environment(23) .(24) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+		</sentence>
+	</text>
+</review>

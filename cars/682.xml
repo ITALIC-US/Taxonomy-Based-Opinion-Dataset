@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="682" item="2001 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			Which(1) one(2) is(3) mine(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			it(1) keeps(2) running(3) ,(4) parks(5) easy(6) ,(7) drives(8) easy(9) .(10) 
+			<opinion polarity="+" feature="ride quality" opWords="8,9"/>
+			<opinion polarity="+" feature="car" opWords="5,6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bland(1) and(2) boring(3) ,(4) expensive(5) repairs(6) ,(7) ugly(8) interior(9) ,(10) slow(11) pick(12) up(13) .(14) 
+			<opinion polarity="-" feature="interior" featWords="9" opWords="8"/>
+			<opinion polarity="-" feature="car" opWords="3"/>
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) myst(3) blend(4) in(5) it(6) 's(7) the(8) one(9) !(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) find(2) it(3) very(4) uninspiring(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) also(3) had(4) way(5) more(6) problems(7) than(8) I(9) 'd(10) think(11) from(12) it(13) 's(14) reputation(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) often(2) have(3) troubles(4) finding(5) my(6) car(7) in(8) the(9) huge(10) parking(11) lots(12) of(13) big(14) malls(15) and(16) retailers(17) ,(18) but(19) somehow(20) my(21) own(22) bright(23) red(24) Ford_Probe(25) almost(26) screams(27) its(28) own(29) name(30) at(31) me(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			My(1) boyfriend(2) s(3) car(4) a(5) 2001(6) Corolla_LE(7) on_the_other_hand(8) ,(9) is(10) usually(11) one(12) of(13) at_least(14) 15(15) others(16) of(17) the(18) exact(19) same(20) model(21) ,(22) and(23) exact(24) same(25) color(26) that(27) pale(28) beige(29) /(30) grayish(31) /(32) taupe(33) mix(34) whatever(35) it(36) is(37) called(38) .(39) 
+		</sentence>
+		<sentence id="3">
+			He(1) bought(2) the(3) car(4) brand(5) new(6) and(7) totally(8) loves(9) it(10) ,(11) and(12) of(13) course(14) intends(15) to(16) buy(17) another(18) one(19) of(20) them(21) ,(22) so(23) I(24) am(25) trying(26) really(27) hard(28) to(29) find(30) a(31) way(32) to(33) make(34) him(35) get(36) something(37) else(38) .(39) 
+		</sentence>
+		<sentence id="4">
+			My(1) brother(2) is(3) a(4) car(5) mechanic(6) for(7) Toyota(8) ,(9) he(10) is(11) on(12) his(13) 3d(14) Corolla(15) ,(16) he(17) swears(18) in(19) these(20) cars(21) ,(22) and(23) won(24) t(25) let(26) anyone(27) buy(28) anything(29) else(30) ,(31) and(32) I(33) am(34) sure(35) he(36) knows(37) what(38) he(39) is(40) talking(41) about(42) .(43) 
+		</sentence>
+		<sentence id="5">
+			I(1) must(2) be(3) honest(4) though(5) I(6) don(7) t(8) hate(9) Toyotas(10) ,(11) but(12) I(13) don(14) t(15) like(16) them(17) either(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) know(2) I(3) am(4) a(5) huge(6) minority(7) on(8) this(9) matter(10) ,(11) and(12) most(13) people(14) find(15) me(16) crazy(17) and(18) still(19) I(20) take(21) my(22) Probe(23) over(24) a(25) corolla(26) any(27) day(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			Most(1) importantly(2) my(3) car(4) is(5) pure(6) fun(7) I(8) love(9) the(10) stick(11) shift(12) ,(13) I(14) love(15) the(16) pick(17) up(18) ,(19) I(20) love(21) the(22) sound(23) it(24) makes(25) ,(26) I(27) love(28) how(29) it(30) corners(31) ,(32) I(33) love(34) being(35) behind(36) the(37) wheel(38) .(39) 
+		</sentence>
+		<sentence id="8">
+			At(1) the(2) same(3) time(4) the(5) Corolla(6) feels(7) like(8) a(9) children(10) s(11) theme(12) park(13) go(14) cart(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) about(3) as(4) uninspiring(5) to(6) drive(7) as(8) it(9) gets(10) ((11) at_least(12) the(13) automatic(14) ,(15) never(16) tried(17) a(18) manual(19) one(20) ,(21) actually(22) never(23) seen(24) one(25) with(26) a(27) manual(28) )(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			It(1) seems(2) like(3) the(4) biggest(5) selling(6) point(7) of(8) Toyota(9) seems(10) to(11) be(12) reliability(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Am(1) I(2) missing(3) something(4) here(5) ,(6) or(7) I(8) don(9) t(10) know(11) Of(12) course(13) I(14) know(15) thousands(16) of(17) people(18) who(19) have(20) Toyotas(21) ,(22) it(23) s(24) impossible(25) not(26) to(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			When(1) and(2) how(3) did(4) they(5) decide(6) that(7) these(8) cars(9) are(10) reliable(11) and(12) cheap(13) to(14) maintain(15) is(16) beyond(17) me(18) .(19) 
+			<opinion polarity="+" feature="price" opWords="13"/>
+			<opinion polarity="+" feature="reliability" opWords="11"/>
+		</sentence>
+		<sentence id="13">
+			So(1) I(2) ve(3) known(4) my(5) boyfriend(6) for(7) about(8) 3(9) years(10) ,(11) and(12) I(13) ve(14) had(15) my(16) Ford(17) for(18) about(19) this(20) much(21) too(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			In(1) this(2) three(3) years(4) all(5) I(6) ve(7) done(8) to(9) my(10) car(11) is(12) change(13) the(14) oil(15) ,(16) and(17) the(18) occasional(19) tire(20) rotation(21) and(22) balance(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			Mind(1) you(2) my(3) car(4) is(5) 1993(6) with(7) about(8) 135000_miles(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			His(1) is(2) 2001(3) with(4) about(5) 120(6) 000(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			In(1) this(2) same(3) time(4) he(5) s(6) had(7) one(8) problem(9) after(10) another(11) ,(12) and(13) every(14) time(15) seems(16) to(17) spend(18) at_least(19) $150(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			First(1) the(2) car(3) s(4) interior(5) started(6) to(7) fall(8) apart(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) plastic(2) pieces(3) around(4) the(5) doors(6) came(7) off(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			The(1) dealer(2) fixed(3) ,(4) don(5) t(6) remember(7) the(8) exact(9) price(10) ,(11) but(12) it(13) was(14) over(15) $150(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			A(1) month(2) later(3) they(4) fell(5) off(6) again(7) ,(8) luckily(9) the(10) dealer(11) fixed(12) them(13) for_free(14) the(15) second(16) time(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			Then(1) the(2) check(3) engine(4) light(5) came(6) on(7) .(8) 
+		</sentence>
+		<sentence id="23">
+			Another(1) $80(2) just(3) for(4) diagnostics(5) ,(6) and(7) hop(8) !(9) 
+		</sentence>
+		<sentence id="24">
+			Another(1) $350(2) for(3) a(4) new(5) catalytic(6) converter(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			Next(1) in(2) line(3) was(4) wind(5) noise(6) from(7) the(8) driver(9) s(10) window(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			My(1) car(2) has(3) frameless(4) windows(5) ,(6) but(7) compared(8) to(9) the(10) Corolla(11) it(12) is(13) almost(14) silent(15) inside(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			This(1) one(2) sounds(3) like(4) a(5) storm(6) is(7) going(8) on(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			The(1) estimate(2) to(3) fix(4) that(5) is(6) $100(7) ,(8) he(9) hasn(10) t(11) done(12) it(13) yet(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			A(1) few(2) months(3) ago(4) he(5) had(6) some(7) routine(8) maintenance(9) on(10) the(11) car(12) it(13) ended(14) up(15) well(16) over(17) $800(18) ,(19) I(20) can(21) t(22) even(23) remember(24) what(25) they(26) did(27) oh(28) yeah(29) ,(30) timing(31) belt(32) ,(33) spark(34) plugs(35) ,(36) cables(37) ,(38) and(39) I(40) pretty(41) sure(42) water(43) pump(44) with(45) the(46) timing(47) belt(48) .(49) 
+		</sentence>
+		<sentence id="30">
+			The(1) latest(2) fun(3) was(4) with(5) the(6) factory(7) installed(8) alarm(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			The(1) remote(2) control(3) broke(4) down(5) and(6) it(7) got(8) stuck(9) with(10) constantly(11) transmitting(12) signals(13) ,(14) so(15) the(16) alarm(17) wouldn(18) t(19) stop(20) until(21) we(22) took(23) the(24) battery(25) out(26) of(27) it(28) .(29) 
+		</sentence>
+		<sentence id="32">
+			Then(1) for(2) some(3) reason(4) the(5) alarm(6) wouldn(7) t(8) let(9) us(10) start(11) the(12) car(13) ,(14) even(15) with(16) the(17) original(18) key(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			Estimate(1) from(2) the(3) dealer(4) -(5) $60(6) for(7) a(8) new(9) remote(10) ,(11) and(12) $35(13) to(14) have(15) it(16) programmed(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			Awesome(1) !(2) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="35">
+			Now(1) the(2) newest(3) problem(4) just(5) came(6) up(7) like(8) a(9) week(10) ago(11) the(12) left(13) half(14) of(15) the(16) instrument(17) panel(18) s(19) lights(20) went(21) out(22) ,(23) so(24) now(25) we(26) can(27) t(28) see(29) the(30) tachometer(31) ,(32) fuel(33) ,(34) door(35) ,(36) and(37) other(38) little(39) lights(40) there(41) .(42) 
+		</sentence>
+		<sentence id="36">
+			Check(1) engine(2) light(3) comes(4) on(5) intermittently(6) again(7) ,(8) he(9) s(10) pretty(11) much(12) given(13) up(14) trying(15) to(16) figure(17) out(18) what(19) s(20) wrong(21) with(22) it(23) anymore(24) ,(25) and(26) just(27) waiting(28) to(29) trade(30) the(31) car(32) in(33) for(34) a(35) new(36) one(37) .(38) 
+		</sentence>
+		<sentence id="37">
+			As(1) far(2) as(3) fuel(4) economy(5) goes(6) ,(7) it(8) doesn(9) t(10) seem(11) that(12) great(13) to(14) me(15) .(16) 
+		</sentence>
+		<sentence id="38">
+			This(1) car(2) is(3) about(4) the(5) same(6) size(7) as(8) my(9) Probe(10) ,(11) but(12) with(13) a(14) smaller(15) engine(16) .(17) 
+		</sentence>
+		<sentence id="39">
+			The(1) gas(2) tank(3) is(4) about(5) the(6) same(7) 12-13_gallons(8) I(9) think(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			His(1) car(2) would(3) barely(4) last(5) 300_miles(6) on(7) the(8) interstate(9) ,(10) mine(11) goes(12) for(13) 380(14) .(15) 
+		</sentence>
+		<sentence id="41">
+			And(1) as(2) I(3) said(4) it(5) is(6) about(7) as(8) bland(9) as(10) a(11) car(12) can(13) be(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			With(1) all(2) these(3) problems(4) he(5) s(6) still(7) thinking(8) about(9) trading(10) it(11) in(12) for(13) another(14) Corolla(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			I(1) think(2) the(3) company(4) is(5) putting(6) some(7) medication(8) in(9) the(10) upholstery(11) and(12) the(13) owners(14) get(15) addicted(16) ,(17) can(18) t(19) explain(20) people(21) s(22) fascination(23) with(24) this(25) brand(26) any(27) other(28) way(29) .(30) 
+		</sentence>
+		<sentence id="44">
+			Go(1) on(2) !(3) 
+		</sentence>
+		<sentence id="45">
+			I(1) am(2) expecting(3) the(4) 100(5) angry(6) comments(7) .(8) 
+		</sentence>
+		<sentence id="46">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) LE(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="688" item="2000 Chrysler 300M" rating="1">
+	<title>
+		<sentence id="1">
+			John_Deere(1) 1910(2) tractor(3) is(4) higher(5) quality(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) none(2) none(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) engineered(2) transmission(3) ,(4) poor(5) quality(6) leather(7) steering(8) wheel(9) ,(10) poor(11) speaker(12) system(13) 
+			<opinion polarity="-" feature="transmission" featWords="3" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Initially(1) purchased(2) the(3) car(4) because_of(5) the(6) nice(7) styling(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			However(1) it(2) has(3) been(4) and(5) still(6) is(7) the(8) worst(9) car(10) I(11) have(12) ever(13) owned(14) ,(15) and(16) the(17) Chrysler(18) dealers(19) give(20) no(21) satisfaction(22) .(23) 
+			<opinion polarity="-" feature="car" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			First(1) the(2) transmission(3) shifts(4) worse(5) then(6) the(7) 1910(8) John_Deere(9) tractor(10) ,(11) lunges(12) from(13) shift(14) to(15) shift(16) ,(17) downshifts(18) when(19) at(20) highway(21) speed(22) when(23) on(24) level(25) ground(26) for(27) no(28) reason(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			I(1) finally(2) convinced(3) a(4) dealer(5) to(6) check(7) the(8) transmission(9) ,(10) and(11) removed(12) and(13) replace(14) burnt(15) clutches(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Still(1) the(2) transmission(3) shifts(4) inferior(5) to(6) other(7) cars(8) in(9) the(10) same(11) class(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) Steering(2) wheel(3) was(4) replaced(5) 3_times(6) ,(7) every(8) 10000_miles(9) ,(10) and(11) needs(12) it(13) again(14) ;(15) the(16) window(17) trim(18) is(19) made(20) of(21) plastic(22) to(23) thin(24) and(25) is(26) 1(27) "(28) away(29) from(30) the(31) door(32) jam(33) ...(34) had(35) it(36) replaced(37) ,(38) still(39) inferior(40) .(41) Right(42) side(43) lower(44) speaker(45) needs(46) replacing(47) ...(48) crackles(49) .(50) I(51) will(52) never(53) by(54) Chrysler(55) again(56) .(57) Amount_Paid(58) ((59) US(60) $(61) )(62) :(63) 24000(64) Condition(65) :(66) NewModel_Year(67) :(68) 2000Model(69) and(70) Options(71) :(72) 300M(73) ,(74) auto(75) ,(76) all(77) power(78) ,(79) moon(80) roof(81) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="129" item="1996 Acura TL Series" rating="4">
+	<title>
+		<sentence id="1">
+			Quick(1) ,(2) reliable(3) ,(4) comfortable(5) :(6) A(7) great(8) car(9) !(10) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sporty(1) ,(2) attractive(3) body(4) ,(5) reliable(6) engine(7) ,(8) comfortable(9) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="engine" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Finnicky(1) climate(2) and(3) volume(4) controls(5) 
+			<opinion polarity="-" feature="controls" featWords="5" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			<(1) This(2) is(3) a(4) rather(5) thorough(6) review(7) ,(8) so(9) if(10) you(11) just(12) want(13) an(14) overall(15) opinion(16) ,(17) skip(18) to(19) the(20) bottom(21) >(22) Background(23) :(24) My(25) parents(26) purchased(27) this(28) vehicle(29) used(30) in(31) August_of_1999(32) as(33) a(34) replacement(35) for(36) our(37) aging(38) 1989(39) Mazda_MPV(40) minivan(41) .(42) 
+		</sentence>
+		<sentence id="2">
+			My(1) mother(2) wanted(3) a(4) newer(5) vehicle(6) for(7) our(8) yearly(9) trip(10) up(11) to(12) Montreal(13) ,(14) Queb�c(15) to(16) drop(17) me(18) off(19) for(20) school(21) at(22) McGill_University(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			She(1) had(2) lost(3) confidence(4) in(5) the(6) Mazda(7) as(8) it(9) was(10) getting(11) on(12) in(13) miles(14) ((15) 150K(16) +(17) )(18) and(19) had(20) lost(21) a(22) belt(23) while(24) I(25) was(26) driving(27) it(28) back(29) from(30) Michigan(31) in(32) May(33) ((34) which(35) I(36) feel(37) is(38) not(39) that(40) surprising(41) for(42) a(43) car(44) of(45) this(46) age(47) ...(48) )(49) .(50) 
+		</sentence>
+		<sentence id="4">
+			Anyway(1) ,(2) now(3) you(4) know(5) the(6) background(7) ,(8) and(9) I(10) can(11) get(12) on(13) with(14) the(15) review(16) --(17) 1996(18) Acura_TL(19) 2.5(20) &(21) 3.2(22) TL_SERIES_HISTORY(23) :(24) The(25) TL(26) series(27) of(28) Acura(29) cars(30) was(31) introduced(32) in_1996(33) to(34) replace(35) the(36) Vigor(37) line(38) of(39) cars(40) which(41) had(42) never(43) sold(44) as_well(45) as(46) the(47) Legend(48) or(49) Integra(50) series(51) .(52) 
+		</sentence>
+		<sentence id="5">
+			The(1) Vigor(2) was(3) meant(4) to(5) be(6) a(7) sporty(8) ,(9) near(10) luxury(11) type(12) of(13) sedan(14) between(15) the(16) sporty(17) Integra(18) and(19) the(20) more(21) staid(22) Legend(23) sedan(24) .(25) 
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) TL(2) ,(3) meant(4) to(5) represent(6) Touring_Luxury(7) ,(8) carries(9) on(10) this(11) line(12) with(13) a(14) strong(15) engine(16) and(17) more(18) hard-tuned(19) suspension(20) .(21) 
+			<opinion polarity="+" feature="engine" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="7">
+			As(1) you(2) may(3) or(4) may(5) not(6) know(7) ,(8) the(9) most(10) recent(11) evolution(12) of(13) the(14) TL(15) series(16) ,(17) introduced(18) in_1999(19) ,(20) has(21) been(22) praised(23) for(24) its(25) hard(26) to(27) beat(28) combination(29) of(30) performance(31) ,(32) luxury(33) ,(34) style(35) ,(36) and(37) value(38) .(39) 
+		</sentence>
+		<sentence id="8">
+			What(1) of(2) the(3) the(4) middle(5) evolutionary(6) step(7) between(8) today(9) 's(10) TL(11) and(12) the(13) earlier(14) Vigors(15) ?(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) 2.5(2) TL(3) comes(4) with(5) a(6) 2.5(7) L_I(8) -(9) 5(10) engine(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			This(1) means(2) the(3) five(4) cylinders(5) are(6) arranged(7) in(8) a(9) straight(10) ,(11) or(12) inline(13) fashion(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) the(3) design(4) of(5) engines(6) used(7) in(8) BMW(9) automobiles(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			The(1) 3.2(2) TL(3) is(4) a(5) V(6) -(7) 6(8) engine(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			The(1) six(2) cylinders(3) on(4) this(5) engine(6) are(7) arranged(8) into(9) two(10) banks(11) of(12) three(13) cylinders(14) each(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			This(1) arrangement(2) is(3) used(4) on(5) many(6) of(7) today(8) 's(9) popular(10) American(11) and(12) foreign(13) cars(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Besides(1) the(2) difference(3) in(4) engines(5) ,(6) the(7) other(8) main(9) differences(10) between(11) the(12) cars(13) are(14) wheel(15) size(16) ((17) 15(18) "(19) vs(20) 16(21) "(22) ,(23) I(24) believe(25) )(26) ,(27) suspension(28) setup(29) ((30) slightly(31) firmer(32) for(33) the(34) '(35) sportier(36) '(37) 2.5(38) )(39) ,(40) and(41) standard(42) cast(43) wheel(44) design(45) .(46) 
+		</sentence>
+		<sentence id="16">
+			Exterior(1) :(2) I(3) feel(4) the(5) exterior(6) of(7) the(8) car(9) is(10) stylish(11) and(12) rather(13) sporty(14) .(15) 
+			<opinion polarity="+" feature="exterior" featWords="6" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="exterior" featWords="6" opWords="11"/>
+		</sentence>
+		<sentence id="17">
+			At(1) four(2) years(3) old(4) ,(5) it(6) no_longer(7) looks(8) like(9) the(10) newest(11) cars(12) off(13) the(14) lots(15) ,(16) it(17) still(18) is(19) an(20) attractive(21) car(22) .(23) ((24) What(25) can(26) one(27) really(28) say(29) about(30) the(31) exterior(32) of(33) a(34) car(35) ?(36) )(37) The(38) ridge(39) which(40) runs(41) forward(42) and(43) down(44) the(45) sides(46) of(47) the(48) car(49) give(50) it(51) an(52) inclined(53) ,(54) sporty(55) look(56) ,(57) though(58) not(59) to(60) the(61) point(62) of(63) '(64) wedgi-ness(65) '(66) .(67) 
+			<opinion polarity="+" feature="design" featWords="56" opWords="55"/>
+			<opinion polarity="+" feature="car" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="18">
+			To(1) compare(2) it(3) to(4) the(5) other(6) cars(7) we(8) looked(9) at(10) when(11) we(12) were(13) shopping(14) for(15) it(16) ,(17) I(18) found(19) it(20) to(21) be(22) more(23) visually(24) appealing(25) than(26) the(27) Infinity(28) I30(29) ,(30) which(31) in(32) my(33) opinion(34) ,(35) is(36) little(37) more(38) than(39) a(40) rebadged(41) and(42) regrilled(43) last(44) generation(45) Nissan_Maxima(46) ,(47) at_least(48) visually(49) .(50) 
+		</sentence>
+		<sentence id="19">
+			The(1) I30(2) is(3) nowhere(4) near(5) the(6) beauty(7) the(8) the(9) previous(10) generation(11) J30(12) was(13) ((14) but(15) that(16) is(17) a(18) story(19) for(20) another(21) time(22) )(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			I(1) also(2) found(3) the(4) car(5) to(6) be(7) much(8) more(9) appealing(10) than(11) the(12) Lexus_ES(13) 300(14) ,(15) in(16) my(17) head(18) the(19) pasteurized(20) cheese(21) of(22) Japanese(23) high-end(24) model(25) cars(26) :(27) reliable(28) in(29) its(30) sameness(31) and(32) lack(33) of(34) excitement(35) .(36) 
+			<opinion polarity="+" feature="reliability" opWords="28"/>
+		</sentence>
+		<sentence id="21">
+			The(1) one(2) car(3) I(4) feel(5) competed(6) with(7) it(8) visually(9) was(10) the(11) Audi(12) A4(13) ((14) or(15) the(16) A6(17) ,(18) a(19) beautiful(20) car(21) ,(22) but(23) easily(24) $15K(25) over(26) what(27) we(28) were(29) shopping(30) for(31) )(32) .(33) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="22">
+			The(1) exterior(2) of(3) the(4) A4(5) resembles(6) a(7) sort(8) of(9) eagerness(10) ,(11) poised(12) ,(13) ready(14) to(15) go(16) ,(17) all(18) in(19) a(20) tidy(21) German(22) package(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			None(1) the(2) less(3) ,(4) the(5) TL(6) is(7) a(8) very(9) attractive(10) car(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="24">
+			Interior(1) :(2) The(3) inside(4) of(5) a(6) car(7) is(8) what(9) makes(10) or(11) breaks(12) it(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			You(1) can(2) have(3) the(4) most(5) beautiful(6) exterior(7) or(8) the(9) most(10) powerful(11) yet(12) refined(13) engine(14) ,(15) but(16) if(17) the(18) interior(19) is(20) not(21) up(22) to(23) snuff(24) ,(25) you(26) will(27) not(28) be(29) selling(30) to(31) anyone(32) beyond(33) those(34) with(35) a(36) true(37) passion(38) or(39) borderline(40) obsession(41) with(42) automobiles(43) .(44) 
+			<opinion polarity="+" feature="exterior" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="26">
+			In(1) this(2) respect(3) ,(4) our(5) TL(6) does(7) very(8) well(9) .(10) 
+		</sentence>
+		<sentence id="27">
+			One(1) or(2) two(3) complaints(4) ,(5) but(6) overall(7) an(8) excellent(9) package(10) .(11) 
+			<opinion polarity="+" feature="package" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="28">
+			Seats(1) :(2) The(3) front(4) seats(5) in(6) the(7) TL(8) are(9) quite(10) comfortable(11) .(12) 
+			<opinion polarity="+" feature="seat" featWords="4,5" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="29">
+			They(1) are(2) both(3) very(4) sculpted(5) ,(6) leather(7) bucket(8) type(9) seats(10) .(11) 
+			<opinion polarity="+" feature="seat" featWords="10" opWords="7"/>
+			<opinion polarity="+" feature="seat" featWords="10" opWords="5"/>
+		</sentence>
+		<sentence id="30">
+			The(1) drivers(2) seat(3) is(4) electronically(5) controlled(6) ,(7) 8-way(8) adjustable(9) by(10) the(11) click(12) of(13) two(14) easy(15) to(16) use(17) switches(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			The(1) front(2) passenger(3) seat(4) has(5) non-electric(6) adjustments(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			A(1) lever(2) in(3) front(4) to(5) adjust(6) lateral(7) movement(8) ,(9) and(10) a(11) handle(12) on(13) the(14) side(15) to(16) control(17) back(18) inclination(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			The(1) rear(2) seats(3) ,(4) also(5) leather(6) ,(7) carry(8) on(9) the(10) bucket(11) seating(12) ,(13) though(14) to(15) a(16) lesser(17) extent(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="34">
+			There(1) is(2) a(3) fold-down(4) arm(5) rest(6) in(7) the(8) middle(9) of(10) the(11) seat(12) with(13) a(14) pass-through(15) to(16) the(17) trunk(18) .(19) 
+		</sentence>
+		<sentence id="35">
+			The(1) foot-room(2) in(3) the(4) rear(5) is(6) more(7) than(8) adequate(9) while(10) still(11) leaving(12) plenty_of(13) foot(14) room(15) for(16) the(17) front(18) seat(19) occupants(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			The(1) rear(2) does(3) accommodate(4) three(5) adults(6) ,(7) though(8) the(9) quarters(10) start(11) to(12) get(13) tight(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			Driver(1) controls(2) :(3) The(4) steering(5) wheel(6) ,(7) probably(8) the(9) most(10) important(11) part(12) of(13) the(14) controls(15) ,(16) is(17) situated(18) a(19) comfortable(20) distance(21) from(22) the(23) driver(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			The(1) angle(2) of(3) the(4) steering(5) wheel(6) is(7) controlled(8) with(9) a(10) lever(11) on(12) it(13) 's(14) right(15) side(16) ,(17) similar(18) to(19) that(20) on(21) the(22) Neon(23) .(24) 
+		</sentence>
+		<sentence id="39">
+			It(1) 's(2) easy(3) to(4) set(5) at(6) a(7) level(8) comfortable(9) for(10) you(11) .(12) 
+		</sentence>
+		<sentence id="40">
+			The(1) wheel(2) has(3) the(4) standard(5) horn(6) buttons(7) on(8) it(9) ,(10) as_well(11) as(12) buttons(13) to(14) accelerate(15) /(16) decelerate(17) the(18) cruise(19) control(20) .(21) 
+		</sentence>
+		<sentence id="41">
+			These(1) buttons(2) are(3) situated(4) so(5) they(6) are(7) easy(8) to(9) use(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			To(1) the(2) left(3) of(4) the(5) steering(6) wheel(7) are(8) controls(9) for(10) the(11) mirrors(12) ,(13) brightness(14) of(15) the(16) displays(17) ,(18) sunroof(19) ,(20) fog-lamps(21) ,(22) and(23) activation(24) of(25) the(26) cruise(27) control(28) .(29) 
+		</sentence>
+		<sentence id="43">
+			To(1) the(2) right(3) of(4) the(5) wheel(6) is(7) the(8) stereo(9) and(10) climate(11) control(12) system(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			The(1) climate(2) control(3) system(4) is(5) controlled(6) by(7) five(8) buttons(9) and(10) one(11) knob(12) .(13) 
+		</sentence>
+		<sentence id="45">
+			The(1) knob(2) sets(3) the(4) interior(5) temperature(6) while(7) the(8) buttons(9) control(10) internal(11) /(12) external(13) ventilation(14) ,(15) vent(16) level(17) ,(18) auto(19) /(20) manual(21) control(22) of(23) the(24) climate(25) ,(26) and(27) the(28) like(29) .(30) 
+		</sentence>
+		<sentence id="46">
+			The(1) knob(2) is(3) simple(4) to(5) use(6) ,(7) while(8) the(9) individual(10) buttons(11) to(12) control(13) the(14) interior(15) are(16) a(17) little(18) small(19) for(20) control(21) while(22) driving(23) but(24) manageble(25) .(26) 
+		</sentence>
+		<sentence id="47">
+			When(1) controlling(2) the(3) fan(4) level(5) ,(6) you(7) must(8) cycle(9) all(10) the(11) way(12) through(13) the(14) system(15) if(16) you(17) want(18) to(19) say(20) ,(21) go(22) from(23) level(24) 2(25) to(26) level(27) 1(28) .(29) 
+		</sentence>
+		<sentence id="48">
+			Small(1) complaint(2) ,(3) but(4) a(5) little(6) annoying(7) .(8) 
+		</sentence>
+		<sentence id="49">
+			The(1) CD(2) /(3) Cassette(4) /(5) Radio(6) controls(7) are(8) under(9) the(10) climate(11) control(12) system(13) .(14) 
+		</sentence>
+		<sentence id="50">
+			The(1) sound(2) of(3) the(4) factory(5) system(6) is(7) very(8) good(9) ,(10) with(11) strong(12) sound(13) from(14) all(15) speakers(16) .(17) 
+			<opinion polarity="+" feature="sound system" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="51">
+			The(1) CD(2) player(3) is(4) controlled(5) by(6) a(7) toggle-type(8) switch(9) ,(10) which(11) you(12) flick(13) up(14) or(15) down(16) to(17) move(18) through(19) the(20) tracks(21) .(22) 
+		</sentence>
+		<sentence id="52">
+			No(1) random(2) or(3) repeat(4) play(5) .(6) 
+		</sentence>
+		<sentence id="53">
+			The(1) cassette(2) player(3) is(4) an(5) auto(6) reverse(7) with(8) the(9) Dolby(10) noise(11) reduction(12) features(13) .(14) 
+		</sentence>
+		<sentence id="54">
+			The(1) radio(2) can(3) have(4) 12(5) FM(6) preset(7) stations(8) ,(9) and(10) 6(11) preset(12) AM(13) stations(14) .(15) 
+		</sentence>
+		<sentence id="55">
+			I(1) find(2) the(3) volume(4) and(5) the(6) bass(7) adjustment(8) knobs(9) to(10) be(11) slightly(12) touchy(13) .(14) 
+			<opinion polarity="-" feature="controls" featWords="9" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="56">
+			The(1) automatic(2) transmission(3) handle(4) ((5) no(6) option(7) for(8) manual(9) )(10) is(11) located(12) between(13) the(14) passengers(15) and(16) is(17) easy(18) to(19) operate(20) ;(21) the(22) same(23) goes(24) for(25) the(26) parking(27) brake(28) .(29) 
+		</sentence>
+		<sentence id="57">
+			There(1) is(2) space(3) for(4) two(5) drink(6) holders(7) under(8) a(9) flip-up(10) cover(11) ,(12) a(13) coin(14) tray(15) in(16) place(17) of(18) an(19) ashtray(20) ,(21) a(22) power(23) outlet(24) /(25) cigarette(26) lighter(27) ,(28) and(29) a(30) split(31) level(32) storage(33) bin(34) between(35) the(36) front(37) seats(38) .(39) 
+		</sentence>
+		<sentence id="58">
+			In(1) the(2) top(3) area(4) is(5) space(6) for(7) pens(8) ,(9) glasses(10) ,(11) small(12) sheets(13) of(14) paper(15) and(16) whatnot(17) .(18) 
+		</sentence>
+		<sentence id="59">
+			Beneath(1) it(2) lie(3) space(4) for(5) larger(6) items(7) ,(8) CDs(9) ,(10) cassettes(11) ,(12) or(13) whatever(14) else(15) you(16) might(17) want(18) to(19) store(20) there(21) .(22) 
+		</sentence>
+		<sentence id="60">
+			In(1) front(2) of(3) the(4) passenger(5) seat(6) is(7) a(8) glove(9) box(10) ((11) which(12) my(13) mom(14) currently(15) has(16) to(17) the(18) point(19) of(20) just(21) barely(22) not(23) overflowing(24) )(25) .(26) 
+		</sentence>
+		<sentence id="61">
+			It(1) is(2) large(3) enough(4) to(5) hold(6) 5(7) -(8) 8(9) CDs(10) or(11) other(12) documents(13) .(14) 
+		</sentence>
+		<sentence id="62">
+			Each(1) door(2) has(3) controls(4) for(5) the(6) electric(7) windows(8) .(9) 
+		</sentence>
+		<sentence id="63">
+			The(1) driver(2) 's(3) door(4) has(5) switches(6) for(7) all(8) four(9) windows(10) ,(11) as_well(12) as(13) a(14) lockout(15) feature(16) .(17) 
+		</sentence>
+		<sentence id="64">
+			The(1) driver(2) door(3) window(4) button(5) also(6) has(7) a(8) one-touch(9) lowering(10) feature(11) .(12) 
+		</sentence>
+		<sentence id="65">
+			On(1) the(2) floor(3) to(4) the(5) left(6) of(7) the(8) driver(9) are(10) controls(11) to(12) remotely(13) open(14) the(15) trunk(16) and(17) the(18) gas(19) door(20) .(21) 
+		</sentence>
+		<sentence id="66">
+			I(1) find(2) the(3) interior(4) of(5) the(6) car(7) quite(8) pleasing(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="4" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="67">
+			Other(1) than(2) the(3) small(4) complaints(5) about(6) the(7) climate(8) and(9) stereo(10) systems(11) ,(12) my(13) only(14) other(15) dislike(16) is(17) the(18) plastic(19) wood(20) used(21) inside(22) .(23) 
+		</sentence>
+		<sentence id="68">
+			Though(1) nowhere(2) near(3) as(4) horrendously(5) awful(6) as(7) that(8) used(9) on(10) American(11) cars(12) ,(13) for(14) the(15) original(16) price(17) of(18) the(19) vehicle(20) ,(21) I(22) feel(23) it(24) could(25) have(26) been(27) real(28) .(29) 
+		</sentence>
+		<sentence id="69">
+			Driving(1) and(2) Riding(3) :(4) I(5) find(6) driving(7) the(8) TL(9) to(10) be(11) quite(12) a(13) pleasure(14) .(15) 
+		</sentence>
+		<sentence id="70">
+			The(1) car(2) is(3) responsive(4) and(5) corners(6) well(7) ;(8) I(9) find(10) it(11) always(12) urging(13) me(14) on(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="6,7"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="71">
+			The(1) engine(2) is(3) not(4) a(5) 5_second(6) 0-60(7) MPH(8) machine(9) ,(10) but(11) it(12) is(13) torquey(14) enough(15) ,(16) and(17) opens(18) up(19) at(20) the(21) top(22) end(23) when(24) you(25) punch(26) the(27) accelerator(28) ,(29) just(30) like(31) all(32) Honda(33) engines(34) do(35) .(36) 
+			<opinion polarity="+" feature="torque" opWords="14,15"/>
+		</sentence>
+		<sentence id="72">
+			It(1) is(2) not(3) a(4) monster(5) like(6) the(7) Lexus_GS(8) 400(9) V8(10) engine(11) is(12) ,(13) but(14) it(15) will(16) certainly(17) get(18) you(19) moving(20) .(21) 
+		</sentence>
+		<sentence id="73">
+			The(1) car(2) shifts(3) reasonably(4) smoothly(5) under(6) acceleration(7) .(8) 
+		</sentence>
+		<sentence id="74">
+			The(1) gauges(2) are(3) well(4) laid(5) out(6) and(7) easy(8) to(9) read(10) while(11) driving(12) .(13) 
+			<opinion polarity="+" feature="gauges" featWords="2" opWords="8,9,10"/>
+			<opinion polarity="+" feature="gauges" featWords="2" opWords="4,5,6"/>
+		</sentence>
+		<sentence id="75">
+			The(1) car(2) cruises(3) comfortably(4) anywhere(5) from(6) 60(7) to(8) 90(9) MPH(10) ((11) not(12) that(13) we(14) ever(15) speed(16) !(17) )(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="76">
+			The(1) power(2) steering(3) is(4) responsive(5) ,(6) and(7) I(8) feel(9) transmits(10) a(11) decent(12) amount(13) of(14) information(15) to(16) the(17) driver(18) .(19) 
+			<opinion polarity="+" feature="power steering" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="77">
+			It(1) is(2) perhaps(3) a(4) very(5) small(6) bit(7) on(8) the(9) light(10) side(11) for(12) the(13) racing(14) driver(15) wanna-be(16) inside(17) me(18) ,(19) but(20) still(21) works(22) very(23) well(24) .(25) 
+			<opinion polarity="+" feature="power steering" opWords="22,24" potency="23"/>
+		</sentence>
+		<sentence id="78">
+			One(1) of(2) my(3) favorite(4) things(5) about(6) driving(7) the(8) car(9) is(10) the(11) excellent(12) visibility(13) available(14) from(15) the(16) drivers(17) seat(18) .(19) 
+			<opinion polarity="+" feature="visibility" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="79">
+			I(1) feel(2) I(3) have(4) an(5) excellent(6) view(7) both(8) forward(9) and(10) behind(11) me(12) .(13) 
+			<opinion polarity="+" feature="visibility" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="80">
+			This(1) is(2) in(3) stark(4) contrast(5) to(6) the(7) feel(8) I(9) get(10) when(11) I(12) 've(13) driven(14) the(15) GS(16) 400(17) .(18) 
+		</sentence>
+		<sentence id="81">
+			That(1) vehicle(2) feels(3) more(4) tank-like(5) ,(6) with(7) high(8) ,(9) fortified(10) sides(11) ,(12) and(13) more(14) restricted(15) point(16) of(17) view(18) .(19) 
+		</sentence>
+		<sentence id="82">
+			Gas(1) mileage(2) for(3) the(4) car(5) is(6) roughly(7) 22(8) mpg(9) city(10) and(11) about(12) 25(13) mpg(14) highway(15) .(16) ((17) These(18) numbers(19) could(20) be(21) off(22) ,(23) but(24) they(25) are(26) what(27) I(28) seem(29) to(30) recall(31) from(32) the(33) trip(34) )(35) My(36) only(37) complaint(38) about(39) driving(40) aspect(41) of(42) the(43) car(44) is(45) the(46) way(47) it(48) stops(49) accelerating(50) when(51) you(52) take(53) your(54) foot(55) off(56) after(57) quick(58) acceleration(59) .(60) 
+		</sentence>
+		<sentence id="83">
+			There(1) is(2) detectable(3) movement(4) forward(5) ,(6) kind(7) of(8) as(9) though(10) the(11) car(12) is(13) saying(14) ,(15) "(16) Oh(17) ,(18) right(19) ,(20) I(21) should(22) back(23) off(24) now(25) .(26) "(27) It(28) 's(29) not(30) a(31) lurch(32) forward(33) ,(34) so(35) to(36) say(37) ,(38) but(39) is(40) still(41) detectable(42) .(43) 
+		</sentence>
+		<sentence id="84">
+			The(1) braking(2) system(3) on(4) the(5) car(6) is(7) a(8) 4(9) disc(10) brake(11) system(12) .(13) 
+		</sentence>
+		<sentence id="85">
+			It(1) stops(2) the(3) car(4) quickly(5) and(6) surely(7) .(8) 
+			<opinion polarity="+" feature="brakes" opWords="2,7"/>
+			<opinion polarity="+" feature="brakes" opWords="2,5"/>
+		</sentence>
+		<sentence id="86">
+			I(1) have(2) never(3) had(4) to(5) use(6) the(7) anti-lock(8) feature(9) of(10) the(11) braking(12) system(13) .(14) 
+		</sentence>
+		<sentence id="87">
+			As(1) a(2) passenger(3) ,(4) the(5) car(6) is(7) very(8) comfortable(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="88">
+			I(1) had(2) no(3) trouble(4) sleeping(5) in(6) the(7) back(8) seat(9) for(10) the(11) 20(12) +(13) hour(14) trip(15) up(16) to(17) Montreal(18) last(19) year(20) .(21) 
+		</sentence>
+		<sentence id="89">
+			As_well(1) ,(2) the(3) front(4) passenger(5) seat(6) is(7) comfy(8) ,(9) snug(10) ,(11) and(12) easy(13) to(14) read(15) or(16) sleep(17) in(18) .(19) 
+			<opinion polarity="+" feature="seat" featWords="5,6" opWords="8"/>
+		</sentence>
+		<sentence id="90">
+			Reliability(1) :(2) Thus(3) far(4) ,(5) we(6) 've(7) had(8) no(9) troubles(10) with(11) the(12) TL(13) ,(14) nor(15) do(16) we(17) expect(18) any(19) ,(20) with(21) the(22) record(23) of(24) reliability(25) Honda(26) /(27) Acura(28) cars(29) have(30) .(31) 
+		</sentence>
+		<sentence id="91">
+			Overall(1) :(2) I(3) would(4) recommend(5) this(6) car(7) to(8) anyone(9) who(10) was(11) looking(12) in(13) the(14) used(15) sedan(16) market(17) .(18) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="92">
+			The(1) TL(2) has(3) proven(4) to(5) be(6) quick(7) ,(8) reliable(9) ,(10) comfortable(11) sedan(12) and(13) has(14) been(15) a(16) wonderful(17) addition(18) to(19) the(20) family(21) garage(22) .(23) 
+			<opinion polarity="+" feature="comfort" opWords="11"/>
+			<opinion polarity="+" feature="speed" opWords="7"/>
+		</sentence>
+		<sentence id="93">
+			All(1) of(2) it(3) 's(4) traits(5) at(6) it(7) 's(8) current(9) street(10) price(11) $12K(12) -(13) $17K(14) depending(15) on(16) milage(17) ,(18) make(19) for(20) a(21) hard(22) to(23) beat(24) value(25) in(26) the(27) used(28) car(29) market(30) .(31) 
+		</sentence>
+	</text>
+</review>

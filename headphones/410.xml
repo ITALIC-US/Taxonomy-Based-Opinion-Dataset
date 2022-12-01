@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="410" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) headphones(3) under(4) $1000(5) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) sound(2) quality(3) ,(4) very(5) comfortable(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) cable(2) connections(3) to(4) the(5) headphones(6) are(7) loose(8) on(9) mine(10) 
+			<opinion polarity="-" feature="jack" featWords="3" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Aside(1) from(2) the(3) loose(4) wires(5) they(6) are(7) the(8) best(9) headphones(10) I(11) have(12) ever(13) used(14) .(15) 
+			<opinion polarity="+" feature="headphones" featWords="10" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) originally(2) bought(3) these(4) with(5) Sennheiser_'s_Lucas(6) surround(7) sound(8) unit(9) and(10) I(11) have(12) never(13) looked(14) back(15) ((16) although(17) the(18) Lucas(19) unit(20) is(21) stuck(22) in(23) a(24) cupboard(25) now(26) :(27) -(28) )(29) The(30) sound(31) is(32) wonderful(33) and(34) it(35) was(36) amazing(37) to(38) hear(39) headphones(40) producing(41) such(42) good(43) bass(44) and(45) treble(46) at(47) the(48) same(49) time(50) .(51) 
+			<opinion polarity="+" feature="sound quality" featWords="31" opWords="33"/>
+			<opinion polarity="+" feature="bass" featWords="44" opWords="43"/>
+			<opinion polarity="+" feature="highs" featWords="46" opWords="43"/>
+		</sentence>
+		<sentence id="2">
+			I(1) spent(2) several(3) hours(4) going(5) through(6) my(7) CD(8) collection(9) with(10) them(11) and(12) it(13) was(14) like(15) listening(16) to(17) some(18) of(19) the(20) music(21) for(22) the(23) first(24) time(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			Upon(1) hearing(2) them(3) a(4) friend(5) of(6) mine(7) rushed(8) out(9) a(10) bought(11) and(12) pair(13) as_well(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			They(1) are(2) of(3) little(4) use(5) as(6) portable(7) units(8) since(9) they(10) are(11) VERY(12) loud(13) to(14) outside(15) listeners(16) and(17) would(18) make(19) you(20) extremely(21) unpopular(22) up(23) on(24) the(25) tube(26) /(27) subway(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			My(1) only(2) complaint(3) is(4) that(5) the(6) connection(7) between(8) the(9) cables(10) and(11) the(12) headphones(13) is(14) loose(15) on(16) my(17) pair(18) and(19) I(20) have(21) to(22) wiggle(23) them(24) occasionally(25) to(26) make(27) the(28) connection(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			My(1) friend(2) 's(3) pair(4) is(5) fine(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			I(1) 've(2) still(3) given(4) them(5) five(6) stars(7) for(8) durability(9) since(10) the(11) cables(12) ((13) along_with(14) the(15) cushions(16) and(17) driver(18) units(19) )(20) can(21) be(22) replaced(23) individually(24) ,(25) thus(26) saving(27) you(28) buying(29) a(30) new(31) pair(32) if(33) something(34) goes(35) wrong(36) .(37) 
+		</sentence>
+	</text>
+</review>

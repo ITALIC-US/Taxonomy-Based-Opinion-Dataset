@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="228" item="Cal-Neva Resort" rating="3">
+	<title>
+		<sentence id="1">
+			THE(1) CAL_NEVA(2) :(3) A_BIT(4) OF_OLD_RENO(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) great(2) 99(3) cent(4) breakfast(5) ,(6) a(7) varied(8) gambling(9) clientele(10) ,(11) including(12) some(13) crusty(14) old(15) timers(16) .(17) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) ,(2) smelly(3) ,(4) a_bit(5) grimy(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			THE(1) CAL_NEVA(2) is(3) worth(4) a(5) visit(6) for(7) its(8) frantic(9) atmosphere(10) ,(11) and(12) for(13) the(14) almost(15) historic(16) 99(17) cent(18) breakfast(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			THE(1) CAL_NEVA(2) reminds(3) one(4) of(5) the(6) Reno(7) found(8) in(9) movies(10) like(11) THE_MISFITS(12) ((13) Huston(14) ,(15) 1962(16) )(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Situated(1) at(2) a(3) crossroads(4) in(5) the(6) center(7) of(8) Downtown(9) ,(10) it(11) is(12) faced(13) on(14) two(15) corners(16) by(17) a(18) glittering(19) pair(20) of(21) Harrah_'s_Clubs(22) ,(23) and(24) on(25) a(26) third(27) corner(28) by(29) a(30) large(31) pawn(32) shop(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			THE(1) CAL_NEVA(2) ,(3) unlike(4) her(5) sister(6) in(7) Lake_Tahoe(8) ,(9) has(10) no(11) lodgings(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) a(3) straight(4) forward(5) casino(6) operation(7) ,(8) very(9) large(10) but(11) not(12) obviously(13) so(14) .(15) 
+			<opinion polarity="+" feature="casino" featWords="6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="5">
+			From(1) your(2) luxury(3) suite(4) in(5) the(6) glittering(7) Flamingo_Hilton(8) or(9) The_Eldorado(10) ,(11) a(12) stroll(13) into(14) THE_CAL_NEVA(15) is(16) like(17) going(18) from(19) the(20) future(21) back(22) into(23) a(24) quaint(25) ,(26) raucous(27) past(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			I(1) cross(2) the(3) slippery(4) ,(5) slushy(6) intersection(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			A(1) rather(2) modest(3) sign(4) beckons(5) from(6) THE_CAL_NEVA(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) mid(3) winter(4) ,(5) and(6) my(7) sight(8) lines(9) reveal(10) the(11) snow(12) brushed(13) tops(14) of(15) the(16) Sierra(17) all(18) around(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Ahead(1) of(2) me(3) ,(4) an(5) old(6) cowboy(7) wearing(8) a(9) Stetson(10) ,(11) a(12) ragged(13) mackinaw(14) ,(15) jeans(16) ,(17) and(18) boots(19) saunters(20) ,(21) a_trifle(22) stiff-legged(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			He(1) is(2) carrying(3) change(4) in(5) a(6) plastic(7) cup(8) marked(9) "(10) Harrah(11) 's(12) .(13) "(14) He(15) pushes(16) open(17) the(18) door(19) of(20) the(21) Neva(22) for(23) me(24) and(25) bows(26) his(27) head(28) ,(29) touching(30) the(31) brim(32) of(33) his(34) hat(35) .(36) 
+		</sentence>
+		<sentence id="11">
+			Inside(1) ,(2) I(3) feel(4) drowned(5) in(6) sound(7) by(8) the(9) cacophony(10) common(11) to(12) all(13) casinos(14) ,(15) but(16) the(17) bells(18) and(19) buzzers(20) have(21) the(22) antique(23) quality(24) of(25) a_thousand(26) rotary(27) telephones(28) requiring(29) my(30) attention(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			The(1) odor(2) of(3) smoke(4) ,(5) sweat(6) ,(7) booze(8) ,(9) something(10) like(11) roasted(12) peanuts(13) ,(14) and(15) electrical(16) circuits(17) assails(18) my(19) sense(20) of(21) smell(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			After(1) the(2) wintry(3) street(4) ,(5) it(6) is(7) like(8) stepping(9) into(10) a(11) warm(12) oven(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) large(2) room(3) has(4) a(5) high(6) ceiling(7) for(8) Reno(9) .(10) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="15">
+			THE(1) CAL_NEVA(2) is(3) cluttered(4) and(5) rather(6) dimly(7) lit(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			Like(1) most(2) casinos(3) ,(4) bank(5) after(6) bank(7) of(8) slot(9) machines(10) stretch(11) ahead(12) ,(13) but(14) these(15) machines(16) ,(17) for(18) the(19) most(20) part(21) ,(22) look(23) and(24) sound(25) old(26) ,(27) a_bit(28) knocked(29) about(30) .(31) 
+		</sentence>
+		<sentence id="17">
+			On(1) my(2) right(3) ,(4) is(5) a(6) large(7) bank(8) of(9) newer(10) machines(11) devoted(12) to(13) an(14) automobile(15) sweepstakes(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			I(1) wade(2) through(3) and(4) slide(5) past(6) scores(7) of(8) patrons(9) until(10) I(11) reach(12) the(13) the(14) gaming(15) tables(16) at(17) the(18) center(19) of(20) the(21) room(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			On(1) my(2) right(3) is(4) an(5) old(6) fashioned(7) bar(8) ,(9) liberally(10) dotted(11) with(12) men(13) and(14) women(15) drinking(16) ,(17) watching(18) one(19) of(20) the(21) TV(22) sets(23) or(24) playing(25) the(26) poker(27) machines(28) set(29) into(30) the(31) bar(32) 's(33) surface(34) .(35) 
+		</sentence>
+		<sentence id="20">
+			From(1) here(2) ,(3) I(4) can(5) observe(6) that(7) a(8) fair(9) portion(10) of(11) the(12) players(13) are(14) 1(15) )(16) older(17) and(18) 2(19) )(20) locals(21) ,(22) in(23) their(24) rough(25) winter(26) gear(27) and(28) sheepskin(29) jackets(30) .(31) 
+		</sentence>
+		<sentence id="21">
+			I(1) wander(2) further_back(3) and(4) encounter(5) again(6) the(7) old(8) cowboy(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			Up(1) close(2) ,(3) he(4) is(5) over(6) seventy(7) ,(8) with(9) a(10) long(11) ,(12) broken(13) nose(14) and(15) a(16) small(17) white(18) moustache(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			He(1) is(2) playing(3) an(4) ancient(5) machine(6) that(7) promises(8) five(9) ,(10) ten(11) and(12) twenty_dollar(13) gold(14) pieces(15) for(16) a(17) quarter(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			I(1) start(2) to(3) play(4) a(5) similar(6) Silver_Dollar(7) machine(8) next(9) to(10) him(11) .(12) "(13) That(14) 's(15) a(16) good(17) one(18) ,(19) "(20) he(21) says(22) .(23) "(24) You(25) 've(26) won(27) a(28) silver(29) dollar(30) ?(31) "(32) I(33) ask(34) .(35) "(36) Sure(37) ,(38) a_lot_of(39) times(40) .(41) One(42) time(43) there(44) was(45) nothing(46) BUT_Silver_Dollars(47) in(48) this(49) town(50) .(51) "(52) "(53) You(54) ever(55) win(56) a(57) gold(58) piece(59) ?(60) "(61) "(62) Never(63) have(64) .(65) "(66) He(67) slams(68) another(69) quarter(70) into(71) the(72) slot(73) and(74) pulls(75) the(76) big(77) handle(78) .(79) "(80) This(81) machine(82) 's(83) the(84) only(85) one(86) left(87) I(88) know(89) off(90) ,(91) gives(92) up(93) gold(94) pieces(95) ,(96) but(97) I(98) never(99) see(100) 'd(101) it(102) paid(103) off(104) .(105) "(106) "(107) Why(108) do(109) you(110) play(111) it(112) ?(113) "(114) "(115) Well(116) ,(117) young(118) man(119) ,(120) I(121) figure(122) ,(123) if(124) I(125) play(126) ten_dollars(127) a(128) time(129) ,(130) I(131) can(132) visit(133) 30_times(134) before(135) I(136) 'm(137) really(138) out(139) money(140) .(141) "(142) Gambler_'s_Logic(143) .(144) 
+		</sentence>
+		<sentence id="25">
+			I(1) go(2) through(3) the(4) back(5) of(6) the(7) room(8) ,(9) across(10) a(11) car(12) port(13) ,(14) into(15) another(16) large(17) room(18) :(19) more(20) machines(21) ,(22) sound(23) ,(24) curious(25) odors(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			Later(1) ,(2) at(3) the(4) bar(5) ,(6) the(7) old(8) cowboy(9) comes(10) along(11) and(12) has(13) a(14) drink(15) with(16) me(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			He(1) used(2) to(3) be(4) a(5) ranch(6) hand(7) ,(8) a(9) miner(10) and(11) even(12) a(13) rodeo(14) rider(15) ,(16) but(17) for(18) the(19) last(20) ten(21) years(22) ,(23) he(24) has(25) turned(26) to(27) building(28) houses(29) for(30) his(31) nephew(32) .(33) 
+		</sentence>
+		<sentence id="28">
+			The(1) City(2) is(3) spreading(4) out(5) on(6) the(7) bowl(8) of(9) the(10) Valley(11) ;(12) hundreds(13) of(14) single(15) family(16) dwellings(17) are(18) rising(19) row(20) upon(21) row(22) like(23) slot(24) machines(25) .(26) 
+		</sentence>
+		<sentence id="29">
+			He(1) prefers(2) the(3) older(4) town(5) ,(6) the(7) older(8) places(9) ,(10) the(11) town(12) Walter_Van_Tilburg_Clark(13) ((14) The(15) Oxbow_Incident(16) )(17) called(18) "(19) The(20) City_of_Trembling(21) [(22) Aspen(23) ](24) Leaves(25) .(26) "(27) "(28) It(29) 'll(30) be(31) all(32) right(33) though(34) ,(35) if(36) we(37) keep(38) gettin(39) '(40) the(41) water(42) ,(43) "(44) he(45) says(46) .(47) "(48) Otherwise(49) ,(50) we(51) 're(52) all(53) goin(54) '(55) to(56) be(57) eatin(58) '(59) dust(60) .(61) "(62) The(63) next(64) morning(65) ,(66) upon(67) his(68) reminder(69) ,(70) I(71) return(72) to(73) THE_CAL_NEVA(74) .(75) .(76) .(77) for(78) the(79) breakfast(80) ,(81) upstairs(82) in(83) the(84) shell-shocked(85) ,(86) crowded(87) dining(88) area(89) :(90) Eggs(91) ,(92) bacon(93) ,(94) hash(95) browns(96) ,(97) toast(98) and(99) jelly(100) for(101) 99(102) cents(103) .(104) 
+		</sentence>
+		<sentence id="30">
+			Coffee(1) extra(2) .(3) 
+		</sentence>
+		<sentence id="31">
+			It(1) is(2) the(3) cheapest(4) ,(5) most(6) serviceable(7) breakfast(8) in(9) Reno(10) .(11) 
+			<opinion polarity="+" feature="food" featWords="8" opWords="4"/>
+			<opinion polarity="+" feature="food" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="32">
+			Downstairs(1) ,(2) on(3) the(4) way(5) out(6) ,(7) I(8) try(9) the(10) Silver_Dollar(11) machine(12) again(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			Twenty_bits(1) in(2) ,(3) an(4) 1878(5) Morgan(6) falls(7) with(8) a(9) thunk(10) into(11) the(12) hopper(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			I(1) would(2) recommend(3) THE_CAL_NEVA(4) to(5) friends(6) just(7) for(8) that(9) experience(10) .(11) 
+			<opinion polarity="+" feature="hotel" opWords="3"/>
+		</sentence>
+	</text>
+</review>

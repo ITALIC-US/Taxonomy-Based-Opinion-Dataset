@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="711" item="1998 Subaru Forester" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) very(2) pleased(3) 
+			<opinion polarity="-" feature="car" opWords="1,3" potency="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			AWD(1) ,(2) Safety(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) ,(2) quality(3) ,(4) craftsmanship(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) vehicle(4) because_of(5) it(6) 's(7) safety(8) awards(9) and(10) the(11) AWD(12) without(13) the(14) height(15) of(16) a(17) SUV(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) power(2) is(3) ok(4) ,(5) good(6) enough(7) to(8) merge(9) on(10) freeways(11) ,(12) and(13) it(14) handles(15) more(16) like(17) a(18) car(19) than(20) a(21) SUV(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="6,7"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			What(1) I(2) hate(3) about(4) this(5) vehicle(6) is(7) the(8) flimsyness(9) of(10) the(11) materials(12) ((13) Ex(14) :(15) visor(16) ,(17) arm(18) rest(19) ,(20) cup(21) holders(22) )(23) .(24) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) first(3) year(4) the(5) a(6) /(7) c(8) would(9) not(10) work(11) ,(12) and(13) it(14) had(15) to(16) be(17) shipped(18) from(19) japan(20) which(21) took(22) over(23) 5(24) months(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Then(1) the(2) head(3) gasket(4) went(5) and(6) was(7) promptly(8) replaced(9) by(10) warranty(11) ,(12) then(13) it(14) went(15) again(16) also(17) replaced(18) by(19) warranty(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			Both(1) wheel(2) bearings(3) went(4) twice(5) from(6) 1998(7) to(8) 2000(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			For(1) $36000(2) CAD(3) ,(4) I(5) think(6) this(7) vehicle(8) should(9) have(10) better(11) quality(12) then(13) this(14) !(15) 
+		</sentence>
+	</text>
+</review>

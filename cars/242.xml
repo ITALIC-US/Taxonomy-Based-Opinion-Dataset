@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="242" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) 2000(2) Maxima_GLE(3) is(4) a(5) great(6) car(7) and(8) worth(9) a(10) look(11) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) car(2) for(3) the(4) money(5) ,(6) powerful(7) engine(8) ,(9) terrific(10) interior(11) and(12) what(13) a(14) stereo(15) 
+			<opinion polarity="+" feature="interior" featWords="11" opWords="10"/>
+			<opinion polarity="+" feature="engine" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bigger(1) and(2) heavier(3) than(4) previous(5) Maxima(6) 's(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			No(1) sport-shift(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Not(1) a(2) BMW(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall_the_Nissan_Maxima(1) is(2) a(3) great(4) car(5) ,(6) great(7) value(8) and(9) should(10) be(11) considered(12) by(13) anyone(14) wanting(15) a(16) mid-priced(17) ,(18) fun(19) ,(20) luxurious(21) sports(22) sedan(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) bought(3) a(4) 2000(5) Maxima_GLE(6) ((7) all(8) options(9) )(10) with(11) 9,500_miles(12) ...(13) at(14) what(15) I(16) think(17) was(18) a(19) hell(20) of(21) a(22) steal(23) of(24) $20,600(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			First(1) off(2) ,(3) I(4) was(5) looking(6) at(7) more(8) "(9) upscale(10) "(11) cars(12) like(13) the(14) BMW(15) 330(16) ,(17) Acura_TL(18) /(19) CL(20) or(21) maybe(22) a(23) new(24) Volvo(25) or(26) Audi(27) ...(28) but(29) at(30) 30K(31) plus(32) I(33) was(34) going(35) to(36) have(37) to(38) lease(39) the(40) car(41) to(42) keep(43) my(44) checkbook(45) happy(46) .(47) 
+		</sentence>
+		<sentence id="3">
+			Then_I(1) thought(2) what(3) about(4) buying(5) a(6) slightly(7) used(8) luxury(9) /(10) sports(11) sedan(12) ?(13) ?(14) ?(15) 
+		</sentence>
+		<sentence id="4">
+			That(1) made(2) more(3) sense(4) and(5) the(6) Maxima(7) fit(8) the(9) bill(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) good(2) :(3) I(4) love(5) the(6) interior(7) of(8) this(9) car(10) .(11) 
+			<opinion polarity="+" feature="interior" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) the(3) tan(4) leather(5) and(6) it(7) just(8) gives(9) an(10) open(11) feeling(12) and(13) with(14) the(15) smooth(16) contour(17) of(18) the(19) dash(20) it(21) is(22) just(23) pretty(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			Hard(1) to(2) find(3) a(4) better(5) looking(6) car(7) from(8) the(9) inside(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			I(1) do(2) favor(3) the(4) tan(5) leather(6) look(7) to(8) the(9) available(10) black(11) and(12) grey(13) ...(14) to(15) each(16) their(17) own(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			The(1) Maxima_GLE(2) has(3) enough(4) luxury(5) perks(6) to(7) keep(8) most(9) happy(10) like(11) great(12) leather(13) seating(14) ,(15) 8(16) way(17) power(18) seats(19) w(20) /(21) lumbar(22) adjustment(23) ,(24) built(25) in(26) antenna(27) in(28) back(29) window(30) ,(31) ((32) 2001(33) has(34) stereo(35) controls(36) on(37) the(38) steering(39) wheel(40) )(41) ,(42) heated(43) seats(44) ((45) like(46) I(47) need(48) those(49) in(50) Miami(51) )(52) ,(53) good(54) looking(55) wood(56) trim(57) unlike(58) some(59) cars(60) that(61) look(62) awful(63) ...(64) and(65) saving(66) the(67) best(68) for(69) last(70) ...(71) the(72) Bose(73) stereo(74) .(75) 
+			<opinion polarity="-" feature="design" opWords="62,63"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="seat" featWords="14" opWords="12"/>
+		</sentence>
+		<sentence id="10">
+			Wow(1) !(2) 
+		</sentence>
+		<sentence id="11">
+			The(1) 200_watt(2) ,(3) 6(4) speaker(5) +(6) subwoofer(7) is(8) terrific(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			I(1) usually(2) have(3) to(4) upgrade(5) the(6) sound(7) system(8) of(9) my(10) cars(11) but(12) not(13) on(14) this(15) one(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			I(1) even(2) thought(3) that(4) I(5) would(6) add(7) an(8) amp(9) and(10) give(11) the(12) sub(13) more(14) clean(15) power(16) ...(17) but(18) it(19) just(20) was(21) not(22) needed(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			It(1) gives(2) a(3) great(4) smooth(5) ,(6) bass(7) filling(8) sound(9) that(10) is(11) just(12) fine(13) as(14) is(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			Do(1) yourself(2) a(3) favor(4) and(5) no(6) matter(7) what(8) model(9) Maxima(10) you(11) get(12) upgrade(13) to(14) the(15) Bose(16) system(17) with(18) the(19) subwoofer(20) Next(21) up(22) the(23) engine(24) and(25) ride(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			The(1) 222(2) hp(3) V6(4) is(5) a(6) wonderful(7) engine(8) that(9) gives(10) power(11) at(12) many(13) different(14) rpm(15) .(16) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="17">
+			Whether(1) you(2) need(3) get(4) up(5) and(6) go(7) from(8) the(9) line(10) or(11) passing(12) speed(13) she(14) can(15) give(16) it(17) to(18) you(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			The(1) car(2) likes(3) to(4) go(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			And(1) because(2) the(3) ride(4) is(5) so(6) smooth(7) and(8) comfortable(9) you(10) better(11) keep(12) and(13) eye(14) on(15) the(16) speedometer(17) or(18) set(19) the(20) cruise(21) control(22) or(23) else(24) you(25) could(26) find(27) your(28) self(29) with(30) flashing(31) lights(32) in(33) the(34) rearview(35) mirror(36) .(37) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+			<opinion polarity="+" feature="ride quality" featWords="4" opWords="7"/>
+		</sentence>
+		<sentence id="20">
+			I(1) find(2) myself(3) going(4) over(5) 90(6) way(7) too(8) often(9) ...(10) and(11) get(12) this(13) my(14) mother(15) in-law(16) ((17) the(18) in-laws(19) drove(20) the(21) car(22) down(23) to(24) Miami(25) from(26) NY(27) for(28) me(29) )(30) she(31) has(32) a(33) lead(34) foot(35) and(36) said(37) when(38) old(39) slow(40) poke(41) went(42) to(43) sleep(44) she(45) got(46) it(47) up(48) to(49) 125mph(50) .(51) 
+		</sentence>
+		<sentence id="21">
+			I(1) would(2) say(3) it(4) is(5) a(6) great(7) cross(8) country(9) cruiser(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			The(1) GLE(2) rides(3) smooth(4) but(5) can(6) still(7) take(8) a(9) turn(10) and(11) give(12) you(13) feel(14) on(15) the(16) highway(17) ,(18) but(19) if(20) you(21) want(22) more(23) of(24) that(25) tight(26) sports(27) car(28) feel(29) you(30) would(31) have(32) to(33) look(34) at(35) the(36) SE(37) .(38) 
+		</sentence>
+		<sentence id="23">
+			The(1) bad(2) :(3) Well(4) ,(5) I(6) guess(7) I(8) would(9) put(10) it(11) this(12) way(13) ...(14) I(15) still(16) have(17) car(18) envy(19) of(20) say(21) a(22) BMW(23) 330(24) ,(25) Acura_CL-S(26) /(27) TL-S(28) or(29) a(30) nice(31) Audi(32) ,(33) Lexus(34) and(35) Volvo(36) .(37) 
+		</sentence>
+		<sentence id="24">
+			But(1) I(2) should(3) ,(4) and(5) in_turn(6) they(7) should(8) be(9) saying(10) why(11) did(12) I(13) spend(14) 10-20K(15) more(16) for(17) a(18) similar(19) ride(20) ,(21) comfort(22) and(23) performance(24) .(25) 
+		</sentence>
+		<sentence id="25">
+			Goes(1) both(2) ways(3) .(4) 
+		</sentence>
+		<sentence id="26">
+			Other(1) negative(2) would(3) be(4) that(5) the(6) car(7) is(8) big(9) and(10) heavy(11) .(12) 
+			<opinion polarity="+" feature="weight" opWords="11"/>
+		</sentence>
+		<sentence id="27">
+			No(1) way(2) around(3) it(4) .(5) 
+		</sentence>
+		<sentence id="28">
+			The(1) flip(2) side(3) is(4) you(5) have(6) a_lot_of(7) room(8) and(9) a(10) substantial(11) feel(12) to(13) the(14) car(15) but(16) that(17) is(18) not(19) always(20) a(21) good(22) thing(23) .(24) 
+		</sentence>
+		<sentence id="29">
+			This(1) is(2) a(3) bigger(4) and(5) heavier(6) Maxima(7) then(8) in(9) year(10) 's(11) past(12) and(13) thus(14) the(15) car(16) is(17) not(18) light(19) on(20) it(21) 's(22) feet(23) .(24) 
+		</sentence>
+		<sentence id="30">
+			Which(1) in_turn(2) leads(3) me(4) to(5) the(6) last(7) negative(8) which(9) is(10) the(11) car(12) can(13) make(14) you(15) feel(16) like(17) you(18) are(19) in(20) your(21) "(22) parent(23) 's(24) car(25) "(26) ie(27) .(28) generic(29) ,(30) nice(31) ,(32) smooth(33) but(34) no(35) frills(36) .(37) 
+			<opinion polarity="+" feature="car" opWords="33"/>
+			<opinion polarity="+" feature="car" opWords="31"/>
+			<opinion polarity="-" feature="car" opWords="29"/>
+		</sentence>
+		<sentence id="31">
+			That(1) 's(2) the(3) case(4) until(5) you(6) crank(7) up(8) the(9) stereo(10) and(11) punch(12) the(13) gas(14) a(15) little(16) .(17) 
+		</sentence>
+		<sentence id="32">
+			Then(1) you(2) are(3) sent(4) back(5) to(6) your(7) sports-luxury(8) sedan(9) Nissan_Maxima(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			The(1) ugly(2) :(3) As(4) for(5) appearance(6) ...(7) I(8) like(9) the(10) looks(11) of(12) the(13) new(14) Maxima(15) .(16) 
+		</sentence>
+		<sentence id="34">
+			Some(1) do(2) not(3) .(4) 
+		</sentence>
+		<sentence id="35">
+			Oh(1) well(2) their(3) loss(4) .(5) 
+		</sentence>
+		<sentence id="36">
+			I(1) think(2) the(3) look(4) is(5) much(6) improved(7) over(8) the(9) last(10) generation(11) Maxima(12) and(13) of(14) course(15) above(16) the(17) ordinary(18) Camary(19) ,(20) Accord(21) ,(22) Tarus(23) ...(24) on(25) par(26) with(27) the(28) Acura_TL(29) ,(30) I30(31) ,(32) Saab(33) ,(34) but(35) not(36) as(37) flashy(38) or(39) pretty(40) as(41) the(42) new(43) Volvo(44) ,(45) Audi(46) ,(47) Lexus(48) or(49) BMW(50) .(51) 
+		</sentence>
+		<sentence id="37">
+			Change(1) :(2) Of(3) course(4) the(5) Maxima(6) could(7) be(8) improved(9) .(10) 
+		</sentence>
+		<sentence id="38">
+			I(1) would(2) like(3) to(4) see(5) it(6) a(7) little(8) lighter(9) or(10) crank(11) that(12) V(13) -(14) 6(15) up(16) to(17) the(18) reported(19) 260hp(20) for(21) next(22) year(23) .(24) 
+		</sentence>
+		<sentence id="39">
+			The(1) car(2) could(3) use(4) a(5) sport-shift(6) for(7) the(8) automatic(9) ,(10) memory(11) for(12) seat(13) /(14) mirrors(15) and(16) "(17) On-Star(18) "(19) or(20) navigation(21) system(22) as(23) an(24) option(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			Close(1) but(2) not(3) perfect(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="41">
+			What(1) it(2) comes(3) down(4) to(5) like(6) most(7) car(8) decisions(9) is(10) price(11) ,(12) performance(13) ,(14) prestige(15) and(16) value(17) .(18) 
+		</sentence>
+		<sentence id="42">
+			Your(1) choice(2) is(3) spend(4) the(5) money(6) and(7) get(8) a(9) Volvo(10) ,(11) Audi(12) ,(13) Lexus(14) ,(15) BMW(16) ...(17) or(18) put(19) that(20) in(21) your(22) stock(23) portfolio(24) ,(25) bank(26) ,(27) college(28) fund(29) etc(30) and(31) look(32) at(33) getting(34) the(35) Nissan_Maxima_GLE(36) or(37) SE(38) .(39) *(40) I(41) can(42) only(43) recommend(44) the(45) GLE(46) or(47) SE(48) with(49) the(50) leather(51) interior(52) as(53) the(54) GXE(55) and(56) cloth(57) seats(58) make(59) this(60) car(61) look(62) well(63) dull(64) and(65) ordinary(66) .(67) 
+			<opinion polarity="+" feature="design" opWords="62,66"/>
+			<opinion polarity="-" feature="design" opWords="62,64"/>
+		</sentence>
+		<sentence id="43">
+			Plus(1) the(2) Bose(3) 200_watt(4) stereo(5) is(6) a(7) must(8) if(9) you(10) opt(11) for(12) the(13) SE(14) ((15) it(16) 's(17) standard(18) on(19) the(20) GLE(21) )(22) .(23) 
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) can(3) find(4) a(5) great(6) condition(7) ,(8) low-miles(9) 2000(10) SE(11) or(12) GLE(13) that(14) is(15) the(16) way(17) to(18) go(19) IMO(20) ,(21) but(22) I(23) would(24) also(25) recommend(26) the(27) 2001(28) under(29) 26K(30) .(31) 
+			<opinion polarity="+" feature="car" opWords="26"/>
+		</sentence>
+		<sentence id="45">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20,600(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) GLE(16) with(17) all(18) the(19) treats(20) 
+		</sentence>
+	</text>
+</review>

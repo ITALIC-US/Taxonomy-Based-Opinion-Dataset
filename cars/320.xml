@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="320" item="2000 Honda Civic" rating="1">
+	<title>
+		<sentence id="1">
+			Should(1) Have_Noticed_All_The_Boy_Racers(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Makes(1) an(2) inexpensive(3) coffin(4) in(5) the(6) event(7) of(8) any(9) accident(10) in(11) it(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) torque(2) ,(3) vague(4) steering(5) ,(6) back(7) end(8) too(9) eager(10) to(11) hop(12) out(13) ,(14) broke(15) down(16) more(17) than(18) a(19) Yugo(20) during(21) the(22) winter(23) ,(24) I(25) 'd(26) rather(27) be(28) struck(29) by(30) a(31) car(32) as(33) a(34) pedestrian(35) than(36) in(37) a(38) Civic(39) piece(40) of(41) tin(42) !(43) 
+			<opinion polarity="-" feature="steering" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) blue(4) Civic_SI(5) for(6) my(7) wife(8) figuring(9) that(10) it(11) was(12) a(13) reliable(14) car(15) .(16) 
+			<opinion polarity="+" feature="reliability" opWords="14"/>
+		</sentence>
+		<sentence id="2">
+			I(1) could(2) not(3) have(4) been(5) more(6) wrong(7) ,(8) within(9) the(10) first(11) month(12) the(13) car(14) had(15) broken(16) down(17) 3_times(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Getting(1) anything(2) out(3) of(4) Honda(5) is(6) like(7) squeezing(8) water(9) from(10) a(11) stone(12) and(13) they(14) insisted(15) that(16) it(17) was(18) being(19) driven(20) too(21) hard(22) during(23) the(24) break(25) in(26) period(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) this(3) is(4) not(5) possible(6) since(7) it(8) spent(9) most(10) of(11) that(12) time(13) on(14) a(15) lift(16) at(17) Honda(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			After(1) the(2) first(3) month(4) it(5) continued(6) to(7) be(8) troubled(9) with(10) transmission(11) and(12) electrical(13) problems(14) daily(15) ,(16) the(17) lemon(18) law(19) finally(20) freed(21) me(22) from(23) the(24) clutches(25) of(26) Honda_Motor_Co._Second(27) time(28) around(29) I(30) bought(31) my(32) wife(33) a(34) 2000(35) Jetta_GLX(36) ,(37) more(38) money(39) but(40) hell(41) of(42) a_lot(43) more(44) car(45) .(46) 
+		</sentence>
+		<sentence id="6">
+			It(1) actually(2) has(3) torque(4) and(5) the(6) redline(7) is(8) not(9) on(10) someother(11) planet(12) making(13) the(14) car(15) too(16) loud(17) and(18) too(19) slow(20) on(21) the(22) highway(23) like(24) in(25) the(26) Honda(27) .(28) 
+			<opinion polarity="-" feature="speed" opWords="19,20"/>
+			<opinion polarity="-" feature="car" featWords="15" opWords="16,17"/>
+		</sentence>
+		<sentence id="7">
+			I(1) should(2) have(3) known(4) that(5) the(6) Civic(7) was(8) junk(9) because(10) too(11) many(12) people(13) modify(14) them(15) at(16) any(17) expense(18) hoping(19) to(20) have(21) a(22) better(23) car(24) in(25) the(26) end(27) ,(28) like(29) the(30) Jetta_GLX(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			In(1) the(2) end(3) though(4) the(5) Jetta(6) is(7) just(8) better(9) ,(10) faster(11) ,(12) and(13) gets(14) way(15) more(16) attention(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Now(1) when(2) i(3) think(4) of(5) Honda_I(6) say(7) ,(8) "(9) do(10) not(11) they(12) make(13) good(14) lawn(15) mowers(16) ?(17) "(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="890" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			Worst_Mistake_Of_My_Life(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			I(1) 'll(2) let(3) you(4) know(5) if(6) I(7) ever(8) find(9) one(10) .(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Car(1) ,(2) Service(3) ,(4) and(5) Company_Headquarters(6) !(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			From(1) the(2) first(3) time(4) I(5) saw(6) the(7) new(8) Beetle(9) ,(10) I(11) wanted(12) one(13) ,(14) but(15) I(16) live(17) by(18) the(19) old(20) rule(21) ,(22) never(23) buy(24) software(25) or(26) cars(27) the(28) first(29) year(30) they(31) come(32) out(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			So(1) I(2) waited(3) and(4) bought(5) a(6) new(7) 2000(8) Beetle(9) in(10) September_of_1999(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) so(3) happy(4) !(5) 
+			<opinion polarity="+" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="4">
+			But(1) as(2) with(3) all(4) good(5) things(6) ,(7) they(8) soon(9) pass(10) .(11) 3(12) months(13) after(14) I(15) bought(16) my(17) '(18) dream(19) '(20) car(21) ,(22) the(23) transmission(24) started(25) slipping(26) .(27) 
+			<opinion polarity="-" feature="transmission" featWords="24" opWords="26"/>
+		</sentence>
+		<sentence id="5">
+			After(1) days(2) of(3) fighting(4) with(5) the(6) service(7) station(8) ,(9) I(10) was(11) able(12) to(13) bring(14) down(15) my(16) car(17) in(18) a(19) week(20) and(21) a_half(22) to(23) have(24) them(25) just(26) look(27) at(28) it(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			Apparently(1) ,(2) '(3) service(4) '(5) with(6) Volkswagen(7) only(8) holds(9) up(10) until(11) the(12) check(13) clears(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			After(1) keeping(2) my(3) BRAND_NEW_CAR(4) for(5) 2(6) weeks(7) ,(8) I(9) finally(10) got(11) it(12) back(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			They(1) replaced(2) the(3) transmission(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			For(1) all(2) of(3) the(4) pain(5) and(6) suffering(7) I(8) and(9) my(10) car(11) went(12) through(13) ,(14) all(15) I(16) requested(17) from(18) VW(19) was(20) and(21) extended(22) warranty(23) ,(24) and(25) I(26) was(27) told(28) by(29) the(30) Corporate_Office_of_VW(31) that(32) they(33) had(34) reviewed(35) my(36) '(37) case(38) '(39) and(40) they(41) could(42) not(43) do(44) anything(45) for(46) me(47) .(48) 
+		</sentence>
+		<sentence id="10">
+			I(1) went(2) 4(3) levels(4) up(5) the(6) food(7) chain(8) at(9) VW(10) 's(11) copr(12) .(13) offices(14) ,(15) and(16) got(17) the(18) same(19) BS(20) story(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			What(1) a(2) waste(3) of(4) time(5) ,(6) and(7) energy(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			As_if(1) that(2) was(3) not(4) bad(5) enough(6) ,(7) should(8) I(9) mention(10) the(11) 6(12) ,(13) yes(14) count(15) em(16) '(17) 6_times(18) they(19) '(20) fixed(21) '(22) my(23) trunk(24) so_that(25) it(26) would(27) open(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			I(1) suppose(2) by(3) now(4) ,(5) you(6) can(7) guess(8) that(9) ...(10) yes(11) my(12) trunk(13) still(14) does(15) not(16) open(17) all(18) the(19) time(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			If(1) I(2) had(3) a(4) chance(5) to(6) go(7) back(8) in(9) time(10) ,(11) I(12) would(13) not(14) buy(15) another(16) VW(17) if(18) my(19) damn(20) life(21) depended(22) on(23) it(24) .(25) 
+			<opinion polarity="-" feature="car" opWords="14,15"/>
+		</sentence>
+		<sentence id="15">
+			The(1) Car(2) is(3) Garbage(4) ,(5) the(6) Service_Sucks(7) ,(8) and(9) the(10) People_the_Run(11) the(12) company(13) are(14) Incompetent(15) .(16) 
+			<opinion polarity="-" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="16">
+			As(1) someone(2) who(3) pretty(4) much(5) set(6) fire(7) to(8) almost(9) $21,000(10) ,(11) do(12) yourself(13) a(14) favor(15) ....(16) do(17) not(18) DO_IT(19) .....(20) YOU_WILL_BE_SORRY(21) !(22) 
+		</sentence>
+	</text>
+</review>

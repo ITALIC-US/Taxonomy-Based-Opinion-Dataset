@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="58" item="Sennheiser HD 280 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			a(1) headphone(2) worthy(3) of(4) its(5) price(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			foldable(1) perfect(2) overall(3) sound(4) with(5) surround(6) feeling(7) fits(8) around(9) ear(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Heavy(1) 
+			<opinion polarity="-" feature="weight" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			They(1) originally(2) retailed(3) for(4) $200(5) ,(6) then(7) discontinued(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Bought(1) under(2) $100(3) they(4) 're(5) a(6) steal(7) and(8) WELL(9) worth(10) every(11) penny(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sennhesier_HD(2) 280(3) PRO(4) is(5) better(6) than(7) the(8) headphones(9) most(10) LA(11) studio(12) recorders(13) use(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) is(3) legitimately(4) unbeatable(5) ,(6) compared(7) to(8) every(9) other(10) piece(11) of(12) equipment(13) I(14) have(15) used(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) bass(2) is(3) ridiculous(4) ,(5) and(6) the(7) overall(8) effect(9) makes(10) music(11) seem(12) live(13) .(14) anything(15) going(16) on(17) outside_of(18) your(19) headphones(20) becomes(21) oblivious(22) to(23) you(24) .(25) yet(26) my(27) favorite(28) feature(29) is(30) that(31) they(32) fold(33) in(34) two(35) ways(36) ...(37) -(38) the(39) sony(40) way(41) ((42) folding(43) in(44) )(45) -(46) the(47) flat(48) way(49) ((50) earpiece(51) swivels(52) to(53) easily(54) store(55) with(56) notebooks(57) in(58) backpack(59) .(60) lastly(61) the(62) 1/4(63) "(64) attachment(65) for(66) receiver(67) use(68) ((69) that(70) attaches(71) to(72) the(73) 1/8(74) "(75) connector(76) )(77) has(78) a(79) screw(80) on(81) feature(82) that(83) minimalizes(84) any(85) chance(86) of(87) bending(88) the(89) '(90) generally(91) most(92) fragile(93) '(94) portion(95) of(96) the(97) headphone(98) .(99) yet(100) if(101) anything(102) were(103) to(104) break(105) ,(106) this(107) pair(108) was(109) meant(110) to(111) be(112) taken(113) apart(114) and(115) easily(116) replace(117) specific(118) parts(119) .(120) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Good(1) luck(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			I(1) love(2) mine(3) .(4) :(5) Also(6) ,(7) you(8) must(9) break(10) them(11) in(12) by(13) playing(14) loud(15) music(16) as(17) much(18) as(19) possible(20) to(21) get(22) clear(23) bass(24) ((25) weird(26) but(27) true(28) )(29) .(30) leave(31) them(32) on(33) for(34) hours(35) on(36) end(37) ,(38) with(39) the(40) music(41) blasting(42) out(43) of(44) them(45) .(46) 
+		</sentence>
+	</text>
+</review>

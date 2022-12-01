@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="1" item="Sennheiser RS 120 Consumer Wireless Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) wireless(2) headphones(3) 
+			<opinion polarity="+" feature="headphones" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reception(1) ,(2) overall(3) design(4) ,(5) battery(6) life(7) ,(8) volume(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bass(1) frequencies(2) ok(3) ,(4) manual(5) tuner(6) .(7) 
+			<opinion polarity="+" feature="bass" featWords="1" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) my(3) first(4) wireless(5) headphones(6) ,(7) so(8) I(9) may(10) be(11) spoiled(12) with(13) the(14) quality(15) sound(16) on(17) wired(18) headphones(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) like(3) the(4) basestation(5) design(6) ,(7) and(8) how(9) it(10) interfaces(11) with(12) the(13) headphones(14) ,(15) the(16) antenna(17) acts(18) as(19) a(20) cradle(21) and(22) is(23) magnetic(24) so(25) the(26) headphones(27) link(28) up(29) and(30) charge(31) easily(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			The(1) battery(2) placement(3) on(4) the(5) headphones(6) is(7) slick(8) ,(9) and(10) it(11) offers(12) really(13) persistent(14) reception(15) for_good(16) distances(17) .(18) 
+			<opinion polarity="+" feature="battery" featWords="2" opWords="8"/>
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) not(3) fond(4) of(5) how(6) the(7) phones(8) fit(9) onto(10) the(11) ear(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			But(1) this(2) is(3) a(4) personal(5) preference(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			The(1) sound(2) quality(3) is(4) not(5) bad(6) ,(7) but(8) the(9) bass(10) sounds(11) a(12) little(13) muffled(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="5,6"/>
+			<opinion polarity="-" feature="bass" featWords="10" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="7">
+			This(1) is(2) not(3) a(4) big(5) deal(6) as(7) long(8) as(9) you(10) are(11) tuned(12) in(13) correctly(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Locking(1) onto(2) the(3) frequency(4) is(5) not(6) too(7) hard(8) ,(9) but(10) an(11) automatic(12) tuner(13) would(14) be(15) really(16) handy(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Especially(1) when(2) trying(3) to(4) fine-tune(5) it(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) plenty_of(3) volume(4) too(5) ,(6) if(7) you(8) want(9) you(10) could(11) damage(12) your(13) ear(14) drums(15) all(16) you(17) want(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			These(1) are(2) not(3) wussy(4) headphones(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="3,4"/>
+		</sentence>
+	</text>
+</review>

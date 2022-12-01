@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="274" item="Bose QuietComfort 2 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Pay(1) attention(2) to(3) DATE(4) of(5) reviews(6) here(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Much-improved(1) sound(2) quality(3) ,(4) very(5) comfortable(6) ,(7) good(8) battery(9) life(10) ,(11) nice(12) case(13) 
+			<opinion polarity="+" feature="comfort" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="battery life" featWords="9,10" opWords="8"/>
+			<opinion polarity="+" feature="case" featWords="13" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cost(1) ((2) though(3) I(4) got(5) mine(6) free(7) through(8) AMEX_Rewards(9) )(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Many(1) of(2) the(3) more(4) negative(5) reviews(6) listed(7) for(8) the(9) QuietComfort(10) 2(11) are(12) actually(13) for(14) the(15) original(16) QuietComfort(17) model(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) QC2(2) is(3) head(4) and(5) shoulders(6) above(7) the(8) original(9) QC(10) ,(11) especially(12) in(13) sound(14) quality(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) think(2) that(3) Bose(4) heard(5) the(6) masses(7) and(8) did(9) their(10) homework(11) on(12) the(13) newer(14) model(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) 'm(2) a_bit(3) of(4) a(5) headphone(6) hog(7) and(8) I(9) have(10) dozens(11) of(12) headphones(13) ,(14) plus(15) at_least(16) eight(17) different(18) types(19) of(20) portable(21) headphone(22) amps(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			One(1) of(2) the(3) noise-cancelling(4) headphones(5) that(6) is(7) constantly(8) compared(9) with(10) the(11) QC2(12) is(13) the(14) Sennheiser(15) PCX-250(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) PCX-250(2) is(3) a(4) good(5) set(6) of(7) noise-canceling(8) cans(9) ,(10) but(11) they(12) are(13) and(14) entirely(15) different(16) style(17) of(18) headphone(19) .(20) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="5"/>
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) supraural(3) ((4) on(5) the(6) ears(7) )(8) as(9) opposed(10) to(11) circumaural(12) ((13) around(14) the(15) ears(16) )(17) like(18) the(19) Bose(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Many(1) people(2) find(3) that(4) supraural(5) headphones(6) are(7) too(8) finicky(9) re(10) position(11) and(12) band(13) tension(14) ,(15) mainly(16) because(17) the(18) cushions(19) rest(20) on(21) your(22) ear(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) QC2(2) cushions(3) rest(4) on(5) the(6) area(7) around(8) your(9) ear(10) ((11) unless(12) you(13) have(14) pretty(15) large(16) ears(17) )(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Try(1) them(2) both(3) out(4) before(5) you(6) buy(7) either(8) one(9) ,(10) but(11) do(12) not(13) skip(14) the(15) QC2(16) because(17) you(18) read(19) a(20) review(21) here(22) that(23) actually(24) references(25) the(26) original(27) QCs(28) .(29) 
+		</sentence>
+	</text>
+</review>

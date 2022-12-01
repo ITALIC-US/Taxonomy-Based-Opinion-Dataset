@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="791" item="1998 Mercury Mountaineer" rating="2">
+	<title>
+		<sentence id="1">
+			I(1) got(2) the(3) lemon(4) !(5) !(6) !(7) !(8) !(9) !(10) !(11) !(12) !(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			looks(1) nice(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			To(1) me(2) atleast(3) ,(4) it(5) was(6) unsafe(7) 
+			<opinion polarity="-" feature="safety" opWords="7"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My_Mountaineer(1) was(2) a(3) 1998(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) to(3) say(4) it(5) was(6) the(7) worst(8) car(9) I(10) ever(11) owned(12) .(13) 
+			<opinion polarity="-" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) a(3) previous(4) Mercury(5) owner(6) for(7) the(8) 4(9) years(10) prior(11) to(12) me(13) leasing(14) this(15) Mountaineer(16) ,(17) and(18) I(19) was(20) very(21) satisfied(22) and(23) have(24) left(25) Ford(26) because_of(27) this(28) experience(29) .(30) 
+			<opinion polarity="+" feature="car" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) first(3) got(4) my(5) suv(6) it(7) would(8) pull(9) severely(10) to(11) the(12) right(13) when(14) I(15) was(16) driving(17) on(18) the(19) highway(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			It(1) would(2) shake(3) and(4) then(5) out(6) of(7) know(8) where(9) tug(10) the(11) right(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			The(1) first(2) 2_times(3) I(4) brought(5) it(6) in(7) for(8) service(9) they(10) kept(11) saying(12) it(13) was(14) the(15) tires(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			Then(1) they(2) finally(3) determined(4) that(5) it(6) was(7) a(8) bent(9) axle(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			They(1) replaced(2) my(3) tires(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			In(1) the(2) year(3) and(4) a_half(5) that(6) I(7) had(8) that(9) car(10) my(11) tires(12) were(13) replaced(14) at_least(15) 2_times(16) on(17) each(18) tire(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			I(1) never(2) felt(3) so(4) unsafe(5) in(6) a(7) vehicle(8) as(9) I(10) did(11) in(12) my(13) Mountaineer(14) .(15) 
+			<opinion polarity="-" feature="safety" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) last(2) straw(3) was(4) when(5) I(6) got(7) a(8) flat(9) tire(10) on(11) I-95(12) in(13) rush(14) hour(15) and(16) I(17) said(18) I(19) could(20) not(21) take(22) it(23) anymore(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			The(1) next(2) day(3) I(4) went(5) and(6) terminated(7) my(8) lease(9) 6(10) months(11) early(12) so_that(13) I(14) could(15) feel(16) safe(17) again(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			It(1) cost(2) me(3) plenty(4) to(5) terminate(6) but(7) it(8) was(9) worth(10) it(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) am(2) also(3) very(4) disappointed(5) in(6) Ford(7) .(8) 
+			<opinion polarity="-" feature="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			I(1) called(2) the(3) presidents(4) office(5) and(6) they(7) would'nt(8) do(9) anything(10) ,(11) they(12) told(13) my(14) I(15) had(16) to(17) go(18) to(19) the(20) dealership(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			I(1) then(2) Wrote(3) to(4) Ford(5) a(6) very(7) extensive(8) letter(9) on(10) why(11) they(12) were(13) loosing(14) a(15) very(16) valuable(17) customer(18) and(19) they(20) did'nt(21) care(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			I(1) would(2) think(3) twice(4) about(5) this(6) vehicle(7) .(8) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="927" item="2000 Volkswagen Beetle" rating="1">
+	<title>
+		<sentence id="1">
+			VMBeetle(1) 30K(2) mi(3) ,(4) HORRIBLE_REOCCURRING_ELECTRICAL_PROBLEMS(5) -(6) ((7) Autobarn(8) ,(9) Evanston(10) ,(11) IL(12) no(13) good(14) )(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) cute(3) .(4) 
+			<opinion polarity="+" feature="design" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) heated(3) seats(4) .(5) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Its(1) easy(2) to(3) park(4) .(5) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			MUST(1) READ_REVIEW(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			HORRIBLE_REOCCURRING_ELECTRICAL_PROBLEMS(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			POOR_VW_SERVICE_AT_DEALERS(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) can(2) not(3) stress(4) enough(5) ,(6) this(7) is(8) a(9) bad(10) car(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) had(3) Pontiacs(4) and(5) Chevys(6) perform(7) better(8) than(9) this(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Scary(1) !(2) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) are(3) thinking(4) about(5) buying(6) a(7) new(8) Beetle(9) ,(10) please(11) stop(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Read(1) this(2) first(3) :(4) I_TAKE_VERY_GOOD_CARE_OF_THIS_CAR(5) ...(6) and(7) its(8) nothing(9) like(10) my(11) old(12) Honda(13) civic(14) !(15) !(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) only(2) has(3) 30K_miles(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			I(1) change(2) my(3) oil(4) every(5) 3(6) months(7) ((8) or(9) 3000(10) mi(11) )(12) ,(13) I(14) drive(15) over(16) bumps(17) slowly(18) ,(19) and(20) I(21) always(22) warm(23) it(24) up(25) before(26) driving(27) it(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Right(1) now(2) ,(3) the(4) battery(5) is(6) dead(7) due(8) to(9) electrical(10) problems(11) with(12) the(13) driver(14) side(15) door(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			All(1) of(2) the(3) chimes(4) stay(5) on(6) when(7) I(8) close(9) the(10) door(11) ,(12) which(13) has(14) drained(15) it(16) twice(17) this(18) week(19) already(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			When(1) I(2) get(3) home(4) from(5) work(6) tonight(7) ,(8) I(9) will(10) try(11) to(12) jump(13) it(14) again(15) and(16) rush(17) into(18) the(19) shop(20) at(21) 7am(22) tomorrow(23) ....(24) Again(25) !(26) !(27) 
+		</sentence>
+		<sentence id="8">
+			How(1) much(2) now(3) ?(4) 
+		</sentence>
+		<sentence id="9">
+			Is(1) it(2) an(3) electrical(4) sensor(5) problem(6) inside(7) the(8) door(9) ?(10) ?(11) 
+		</sentence>
+		<sentence id="10">
+			The(1) latch(2) looks(3) fine(4) and(5) the(6) door(7) closes(8) all(9) the(10) way(11) but(12) the(13) dome(14) light(15) stays(16) on(17) and(18) so(19) does(20) the(21) buzzing(22) sound(23) ((24) like(25) when(26) you(27) leave(28) the(29) keys(30) in(31) when(32) the(33) door(34) is(35) open(36) that(37) headlight(38) buzz(39) stays(40) on(41) too(42) .(43) Ugh(44) .(45) )(46) I(47) took(48) it(49) to(50) a(51) shop(52) last(53) night(54) and(55) they(56) directed(57) me(58) to(59) a(60) body(61) shop(62) .(63) 
+		</sentence>
+		<sentence id="11">
+			The(1) body(2) shop(3) supposedly(4) disconnected(5) the(6) battery(7) until(8) they(9) could(10) get(11) me(12) in(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			The(1) battery(2) still(3) died(4) because(5) they(6) didn(7) t(8) disconnect(9) entirely(10) .(11) ((12) My(13) battery(14) is(15) new(16) ...(17) )(18) What(19) I(20) 'm(21) describing(22) above(23) is(24) one(25) of(26) the(27) many(28) problems(29) I(30) 've(31) had(32) .(33) 
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) taken(3) it(4) to(5) the(6) dealer(7) for(8) the(9) same(10) problems(11) on(12) 5(13) different(14) occasions(15) to(16) fix(17) the(18) drivers(19) side(20) window(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			Everytime(1) ,(2) they(3) say(4) its(5) fixed(6) but(7) its(8) never(9) been(10) fixed(11) !(12) ((13) No(14) thanks(15) to(16) Autobarn(17) in(18) Evanston(19) .(20) .(21) )(22) They(23) apply(24) WD40(25) ((26) make(27) we(28) wait(29) for(30) 2-3(31) hours(32) )(33) and(34) it(35) works(36) for(37) 2(38) days(39) .(40) 
+		</sentence>
+		<sentence id="15">
+			Then(1) goes(2) back(3) to(4) the(5) same(6) old(7) problem(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			If(1) I(2) open(3) the(4) window(5) in(6) winter(7) ,(8) it(9) does(10) not(11) close(12) !(13) ((14) NOT(15) GOOD_IN_THE_CITY(16) )(17) Just(18) today(19) ,(20) I(21) found(22) this(23) on(24) someone(25) else(26) 's(27) posting(28) about(29) the(30) Beetle(31) .(32) 
+		</sentence>
+		<sentence id="17">
+			They(1) quote(2) :(3) "(4) The(5) power(6) window(7) on(8) the(9) driver(10) 's(11) side(12) has(13) been(14) the(15) bane(16) of(17) my(18) existence(19) .(20) It(21) gets(22) out(23) of(24) adjustment(25) very(26) easily(27) and(28) will(29) bind(30) 2/3(31) the(32) way(33) up(34) ,(35) which(36) means(37) it(38) automatically(39) goes(40) all(41) the(42) way(43) down(44) when(45) this(46) happens(47) .(48) I(49) go(50) through(51) a_lot_of(52) toll(53) booths(54) in(55) sub-zero(56) weather(57) ,(58) and(59) now(60) I(61) have(62) to(63) open(64) the(65) door(66) to(67) pay(68) the(69) toll(70) ...(71) lest(72) I(73) stop(74) the(75) car(76) and(77) muscle(78) the(79) window(80) up(81) in(82) cold(83) weather(84) when(85) it(86) will(87) not(88) close(89) .(90) If(91) these(92) parts(93) can(94) not(95) work(96) reliably(97) ,(98) I(99) would(100) prefer(101) a(102) manual(103) window(104) crank(105) for(106) the(107) drivers(108) window(109) which(110) gets(111) 10_times(112) as(113) much(114) use(115) as(116) the(117) other(118) side(119) .(120) This(121) ,(122) again(123) ,(124) is(125) just(126) cheap(127) engineering(128) .(129) This(130) has(131) been(132) a(133) problem(134) since(135) I(136) first(137) bought(138) the(139) car(140) .(141) "(142) This(143) is(144) EXACTLY(145) what(146) I(147) have(148) experience(149) .(150) 
+		</sentence>
+		<sentence id="18">
+			How(1) does(2) VW(3) get(4) away(5) with(6) this(7) ?(8) 
+		</sentence>
+		<sentence id="19">
+			Other(1) electrical(2) related(3) problems(4) :(5) 1(6) )(7) Gas(8) tank(9) rarely(10) opens(11) -(12) I(13) have(14) to(15) pry(16) it(17) open(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			Thanks(1) again(2) ,(3) Autobarn(4) ,(5) for(6) leaving(7) me(8) stranded(9) on(10) "(11) E(12) "(13) at(14) gas(15) stations(16) after(17) you(18) supposedly(19) fixed(20) it(21) with(22) WD40(23) .(24) 2(25) )(26) Trunk(27) does(28) not(29) pop(30) via(31) the(32) switch(33) inside(34) the(35) car(36) .(37) ((38) it(39) only(40) opens(41) via(42) my(43) key(44) or(45) manually(46) )(47) 3(48) )(49) Blinker(50) lights(51) going(52) out(53) constantly(54) .(55) 
+		</sentence>
+		<sentence id="21">
+			Short(1) circuits(2) -(3) blinks(4) fast(5) .(6) 4(7) )(8) Window(9) only(10) goes(11) 2/3(12) way(13) up(14) In(15) winter(16) ,(17) don(18) t(19) even(20) think(21) about(22) opening(23) it(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			It(1) won(2) t(3) go(4) back(5) up(6) !(7) !(8) !(9) 
+		</sentence>
+		<sentence id="23">
+			ATTTENTION(1) 2002(2) BEETLE_OWNERS(3) !(4) !(5) !(6) 
+		</sentence>
+		<sentence id="24">
+			ANYONE_ELSE_HAVING_THESE_SPECIFIC_PROBLEMS(1) ?(2) ?(3) ?(4) 
+		</sentence>
+		<sentence id="25">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 17,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002(12) 
+		</sentence>
+	</text>
+</review>

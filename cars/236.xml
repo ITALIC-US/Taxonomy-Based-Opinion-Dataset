@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="236" item="2000 Nissan Maxima" rating="4">
+	<title>
+		<sentence id="1">
+			Nicest(1) car(2) IN_NY(3) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Speed(1) ,(2) luxury(3) ,(4) sound(5) system(6) ,(7) quietness(8) ,(9) handling(10) overall(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			little(1) bumpy(2) on(3) the(4) road(5) ,(6) some(7) squeeks(8) in(9) the(10) brakes(11) ,(12) handling(13) in(14) the(15) rain(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) had(3) my(4) Maxima(5) since(6) March_1999(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) been(3) the(4) best(5) car(6) I(7) have(8) driven(9) in(10) its(11) class(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) happy(3) with(4) its(5) handling(6) and(7) its(8) ride(9) all(10) around(11) .(12) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) the(3) pick(4) up(5) I(6) like(7) and(8) enough(9) luxury(10) to(11) keep(12) me(13) going(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) truth(2) is(3) that(4) in(5) NY(6) what(7) a(8) guy(9) like(10) me(11) is(12) looking(13) for(14) is(15) a(16) fast(17) car(18) at(19) a(20) good(21) price(22) that(23) has(24) a(25) long(26) lasting(27) quality(28) to(29) it(30) .(31) 
+			<opinion polarity="+" feature="speed" opWords="17"/>
+			<opinion polarity="+" feature="price" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="6">
+			That(1) is(2) exactly(3) what(4) this(5) car(6) is(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			I(1) look(2) around(3) at(4) these(5) guys(6) with(7) there(8) expensive(9) cars(10) and(11) wonder(12) why(13) they(14) choose(15) to(16) suffer(17) with(18) the(19) burden(20) of(21) worrying(22) where(23) to(24) park(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) the(3) best(4) option(5) for(6) someone(7) looking(8) for(9) that(10) sporty(11) and(12) somewhat(13) luxurious(14) car(15) ,(16) and(17) who(18) does(19) not(20) care(21) about(22) its(23) looks(24) .(25) 
+			<opinion polarity="+" feature="car" featWords="15" opWords="14"/>
+			<opinion polarity="+" feature="car" featWords="15" opWords="11"/>
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) not(3) recommend(4) this(5) car(6) for(7) someone(8) is(9) trying(10) to(11) pick(12) up(13) some(14) hotties(15) on(16) a(17) Friday_night(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) for(3) a(4) person(5) who(6) knows(7) how(8) to(9) appreciate(10) a(11) great(12) car(13) for(14) its(15) inside(16) not(17) for(18) its(19) cover(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="11">
+			Of(1) the(2) bad(3) things(4) to(5) note(6) about(7) the(8) car(9) I(10) can(11) not(12) hold(13) back(14) from(15) saying(16) that(17) there(18) is(19) a(20) small(21) problem(22) with(23) the(24) handling(25) in(26) the(27) rain(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			Secondly(1) ,(2) remember(3) to(4) change(5) your(6) oil(7) or(8) you(9) may(10) not(11) be(12) happy(13) with(14) the(15) start(16) up(17) after(18) 3,000_miles(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			Otherwise(1) I(2) have(3) not(4) had(5) any(6) problems(7) ,(8) its(9) been(10) a(11) pleasure(12) .(13) 
+		</sentence>
+	</text>
+</review>

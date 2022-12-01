@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="75" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Happy(1) to(2) have(3) them(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clear(1) sound(2) ,(3) nice(4) design(5) ,(6) features(7) ,(8) comfort(9) ,(10) prize(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) found(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) it(4) to(5) everyone(6) ,(7) who(8) is(9) planning(10) to(11) buy(12) some(13) headphones(14) of(15) this(16) prize(17) level(18) and(19) wants(20) to(21) get(22) perfect(23) sound(24) ,(25) comfort(26) and(27) other(28) advantages(29) .(30) 
+			<opinion polarity="+" feature="headphones" featWords="4" featRef="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Definitely(1) excellent(2) product(3) 
+			<opinion polarity="+" feature="headphones" featWords="3" featRef="headphones" opWords="2" potency="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) collected(2) money(3) for_some_time(4) to(5) buy(6) my(7) first(8) "(9) real(10) headphones(11) "(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) knew(2) one(3) thing(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			It(1) must(2) be(3) Sennheiser_HD(4) 280(5) Pro(6) -(7) design(8) is(9) excellent(10) ,(11) circumaural(12) earcups(13) are(14) very(15) comfortable(16) to(17) wear(18) .(19) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="earcups" featWords="13" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="4">
+			Sound(1) is(2) very(3) clear(4) ,(5) huge(6) and(7) with(8) enough(9) bass(10) and(11) highs...8-25000_Hz(12) is(13) nice(14) frequency(15) response(16) .(17) 
+			<opinion polarity="+" feature="sound quality" featWords="1" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="bass" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="frequency response" featWords="15,16" opWords="14"/>
+		</sentence>
+		<sentence id="5">
+			I(1) saw(2) them(3) in(4) one(5) audiophile(6) magazine(7) and(8) it(9) was(10) the(11) first-look(12) love(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) manipulation(2) is(3) very(4) good(5) ,(6) coiled(7) cable(8) is(9) for(10) me(11) better(12) because_of(13) no(14) knotting(15) problem(16) -(17) i(18) do(19) not(20) spend(21) time(22) unwinding(23) it(24) .(25) 1-3_meters(26) ((27) min-max(28) )(29) is(30) enough(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			Connectors(1) are(2) standard(3) and(4) OK(5) .(6) 
+			<opinion polarity="+" feature="jack" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="jack" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="8">
+			Package(1) is(2) very(3) well(4) equipped(5) -(6) headphones(7) ,(8) nice(9) manual(10) and(11) adapter(12) from(13) small(14) to(15) big(16) jack(17) connector(18) .(19) 
+			<opinion polarity="+" feature="packaging" featWords="1" opWords="4,5" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			I(1) bought(2) them(3) as(4) headphones(5) to(6) the(7) computer(8) ,(9) for(10) accurate(11) and(12) clear(13) MP3(14) and(15) CD(16) playback(17) ,(18) sometimes(19) to(20) use(21) with(22) HiFi(23) system(24) or(25) with(26) portable(27) sources(28) of(29) sound(30) -(31) and(32) for(33) everything(34) these(35) headphones(36) are(37) excellent(38) .(39) 
+			<opinion polarity="+" feature="headphones" featWords="36" opWords="38"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) not(3) impossible(4) to(5) take(6) them(7) out(8) ,(9) listen(10) walking(11) or(12) during(13) a(14) home-school(15) or(16) home-work(17) travel(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			My(1) dream(2) of(3) professional(4) ((5) for(6) me(7) )(8) and(9) clear(10) sounding(11) headphones(12) ,(13) designed(14) to(15) use(16) in(17) studios(18) and(19) for(20) monitoring(21) applications(22) come(23) true(24) :(25) )(26) )(27) 
+			<opinion polarity="+" feature="headphones" featWords="12" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" opWords="10,11"/>
+		</sentence>
+	</text>
+</review>

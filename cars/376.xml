@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="376" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			Luxury(1) or(2) just(3) Overpriced(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fit(1) and(2) finish(3) ,(4) handling(5) ,(6) acceleration(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Radio(1) is(2) poor(3) quality(4) ,(5) and(6) back(7) window(8) gets(9) dirty(10) quite(11) often(12) 
+			<opinion polarity="-" feature="radio" featWords="1" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) handling(2) ,(3) wonderful(4) image(5) ,(6) sexy(7) car(8) with(9) an(10) amazing(11) level(12) of(13) comfort(14) .(15) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="handling" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Summary(1) :(2) I(3) drove(4) a(5) new(6) 3.0(7) Z3(8) from(9) LA(10) to(11) North_Carolina(12) this(13) past(14) weekend(15) and(16) wanted(17) to(18) share(19) some(20) of(21) my(22) impressions(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			My(1) first(2) impression(3) was(4) of(5) the(6) agressive(7) appearance(8) of(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			This(1) one(2) has(3) the(4) sports(5) package(6) with(7) its(8) larger(9) and(10) more(11) performance-oriented(12) wheels(13) ((14) relative(15) to(16) the(17) 2.5(18) )(19) and(20) tires(21) ((22) relative(23) to(24) the(25) non-sports(26) models(27) )(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			It(1) also(2) had(3) the(4) luxury(5) package(6) ,(7) which(8) amounts(9) to(10) heated(11) seats(12) ,(13) mirrors(14) and(15) washer(16) jets(17) and(18) some(19) fancier(20) interior(21) trim(22) .(23) 
+			<opinion polarity="+" feature="seat" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="5">
+			The(1) tires(2) and(3) flared(4) fenders(5) definitely(6) suggest(7) performance(8) and(9) the(10) car(11) lived(12) up(13) to(14) the(15) promise(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Especially(1) nice(2) is(3) the(4) low(5) end(6) torque(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			This(1) makes(2) it(3) very(4) easy(5) to(6) pass(7) or(8) move(9) through(10) traffic(11) without(12) a_lot_of(13) commotion(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			In(1) at_least(2) one(3) situation(4) ,(5) I(6) was(7) potentially(8) saved(9) from(10) a(11) violation(12) during(13) a(14) passing(15) maneuver(16) ((17) woops(18) ,(19) there(20) 's(21) a(22) state(23) police(24) car(25) on(26) the(27) side(28) of(29) the(30) road(31) !(32) )(33) by(34) the(35) fact(36) that(37) I(38) had(39) not(40) downshifted(41) ,(42) was(43) not(44) creating(45) a_lot_of(46) commotion(47) and(48) my(49) rate(50) of(51) speed(52) did(53) not(54) seem(55) that(56) out(57) of(58) line(59) with(60) the(61) rest(62) of(63) the(64) traffic(65) .(66) 
+		</sentence>
+		<sentence id="9">
+			Had(1) I(2) been(3) going(4) the(5) same(6) speed(7) with(8) another(9) 1500(10) RPM(11) on(12) the(13) tach(14) ,(15) I(16) suspect(17) the(18) officer(19) and(20) I(21) would(22) have(23) gotten(24) better(25) acquainted(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			I(1) 've(2) driven(3) performance(4) cars(5) virtually(6) my(7) whole(8) adult(9) life(10) ,(11) ranging(12) from(13) a(14) '(15) 72(16) Datsun(17) 240-Z(18) to(19) a(20) third(21) generation(22) RX(23) -(24) 7(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			The(1) latter(2) still(3) wins(4) as(5) the(6) most(7) fun(8) car(9) I(10) 've(11) owned(12) ,(13) but(14) the(15) BMW(16) is(17) a(18) strong(19) second(20) and(21) may(22) end(23) up(24) in(25) first(26) place(27) over(28) time(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			ALthough(1) I(2) avoided(3) high-RPM(4) gymnastics(5) in(6) deference(7) to(8) the(9) newness(10) of(11) the(12) car(13) ,(14) I(15) clearly(16) recognized(17) its(18) potential(19) as(20) a(21) fine(22) performer(23) and(24) handler(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			The(1) turning(2) radius(3) is(4) surprisingly(5) tight(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Clutch(1) and(2) brakes(3) are(4) progressive(5) and(6) predictable(7) .(8) 
+			<opinion polarity="+" feature="brakes" featWords="3" opWords="7"/>
+			<opinion polarity="+" feature="brakes" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="clutch" featWords="1" opWords="7"/>
+			<opinion polarity="+" feature="clutch" featWords="1" opWords="5"/>
+		</sentence>
+		<sentence id="15">
+			Driven(1) at(2) some(3) safe(4) distance(5) from(6) the(7) limits(8) of(9) traction(10) ,(11) it(12) handled(13) predictably(14) and(15) controllably(16) .(17) 
+			<opinion polarity="+" feature="handling" opWords="13,16"/>
+			<opinion polarity="+" feature="handling" opWords="13,14"/>
+		</sentence>
+		<sentence id="16">
+			I(1) senses(2) that(3) it(4) could(5) have(6) been(7) pushed(8) much(9) harder(10) and(11) would(12) not(13) have(14) misbehaved(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			Over(1) rough(2) pavement(3) ,(4) cowl(5) shake(6) was(7) noticeable(8) but(9) not(10) excessive(11) and(12) the(13) car(14) felt(15) fairly(16) rigid(17) overall(18) ,(19) but(20) not(21) like(22) a(23) fixed-top(24) vehicle(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			Another(1) surprise(2) was(3) the(4) snugness(5) of(6) the(7) top(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			Temperatures(1) were(2) in(3) the(4) low(5) teens(6) at(7) times(8) and(9) at(10) highway(11) speeds(12) ,(13) there(14) was(15) not(16) a(17) draft(18) to(19) be(20) found(21) in(22) the(23) cabin(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			The(1) electric(2) seats(3) worked(4) very(5) well(6) ,(7) which(8) is(9) a(10) good(11) thing(12) ,(13) because(14) the(15) heater(16) took(17) some(18) fiddling(19) around(20) with(21) to(22) get(23) it(24) producing(25) consistent(26) airflow(27) at(28) the(29) desired(30) temperature(31) .(32) 
+			<opinion polarity="+" feature="seat" featWords="3" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="21">
+			In(1) fairness(2) ,(3) though(4) ,(5) the(6) temperature(7) variations(8) between(9) the(10) bright(11) sunlight(12) and(13) shady(14) areas(15) was(16) considerable(17) ,(18) so(19) the(20) heater(21) had(22) a_lot(23) to(24) put(25) up(26) with(27) .(28) 
+		</sentence>
+		<sentence id="22">
+			A(1) couple(2) of(3) gripes(4) I(5) 've(6) seen(7) in(8) other(9) reviews(10) bear(11) mentioning(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			One(1) is(2) the(3) plastic(4) window(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			ALthough(1) I(2) would(3) prefer(4) glass(5) ,(6) I(7) understand(8) why(9) it(10) is(11) not(12) there(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			First(1) ,(2) the(3) window(4) must(5) fold(6) to(7) be(8) stowed(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			Second(1) ,(2) the(3) excellent(4) visibility(5) is(6) achieved(7) by(8) having(9) the(10) rear(11) window(12) wrap(13) around(14) to(15) the(16) sides(17) a_bit(18) .(19) 
+			<opinion polarity="+" feature="visibility" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="27">
+			A(1) rigid(2) pane(3) of(4) that(5) shape(6) would(7) not(8) stow(9) very(10) conveniently(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			Thus(1) far(2) ,(3) at_least(4) ,(5) I(6) consider(7) the(8) greater(9) viewing(10) area(11) an(12) acceptable(13) reason(14) for(15) the(16) plastic(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			I(1) might(2) change(3) my(4) mind(5) if(6) the(7) thing(8) statrs(9) becoming(10) impossible(11) to(12) see(13) through(14) down(15) the(16) road(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			The(1) other(2) gripe(3) worth(4) addressing(5) is(6) the(7) sound(8) system(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			I(1) 'd(2) heard(3) bad(4) things(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			Now(1) ,(2) this(3) was(4) all(5) top-up(6) driving(7) but(8) I(9) found(10) the(11) Harmon_Kardon(12) sound(13) system(14) ((15) with(16) in-dash(17) CD(18) )(19) to(20) work(21) admirably(22) .(23) 
+		</sentence>
+		<sentence id="33">
+			I(1) listened(2) to(3) a(4) variety(5) of(6) music(7) ((8) excluding(9) rap(10) by(11) choioce(12) and(13) heavy(14) rock(15) by(16) availability(17) )(18) including(19) jazz(20) ,(21) classical(22) ,(23) oldies(24) ,(25) contemporary(26) rock(27) ,(28) and(29) folk(30) and(31) all(32) came(33) through(34) clean(35) and(36) clear(37) .(38) 
+		</sentence>
+		<sentence id="34">
+			If(1) anything(2) ,(3) I(4) felt(5) the(6) "(7) flat(8) "(9) setting(10) for(11) the(12) tone(13) controls(14) de-emphasized(15) midrange(16) and(17) boosted(18) treble(19) and(20) bass(21) ,(22) but(23) the(24) settings(25) are(26) adjustable(27) .(28) 
+		</sentence>
+		<sentence id="35">
+			I(1) 've(2) also(3) read(4) that(5) the(6) seats(7) get(8) a_bit(9) uncomfortable(10) after(11) a(12) couple(13) of(14) hours(15) and(16) I(17) concur(18) .(19) 
+			<opinion polarity="-" feature="seat" featWords="7" opWords="10"/>
+		</sentence>
+		<sentence id="36">
+			I(1) have(2) not(3) ridden(4) in(5) too(6) many(7) sports(8) cars(9) where(10) this(11) is(12) not(13) the(14) case(15) .(16) 
+		</sentence>
+		<sentence id="37">
+			Lateral(1) support(2) was(3) excellent(4) .(5) 
+		</sentence>
+		<sentence id="38">
+			The(1) cold(2) weather(3) and(4) new(5) leather(6) made(7) sliding(8) forward(9) in(10) the(11) seat(12) a_bit(13) easier(14) than(15) I(16) 'd(17) prefer(18) but(19) not(20) to(21) the(22) extent(23) of(24) it(25) being(26) a(27) problem(28) .(29) 
+		</sentence>
+		<sentence id="39">
+			I(1) got(2) the(3) car(4) virtually(5) at(6) dealer(7) invoice(8) because(9) there(10) was(11) a(12) factory(13) sales(14) incentive(15) to(16) move(17) them(18) off(19) those(20) cold(21) New_England(22) lots(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			At(1) that(2) price(3) ,(4) I(5) regard(6) the(7) car(8) as(9) an(10) excellent(11) value(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			It(1) was(2) comparable(3) in(4) cost(5) to(6) Honda(7) S2000s(8) ,(9) which(10) are(11) still(12) commanding(13) prices(14) above(15) MSRP(16) .(17) 
+		</sentence>
+		<sentence id="42">
+			The(1) latter(2) are(3) also(4) fine(5) cars(6) but(7) need(8) to(9) be(10) worked(11) at(12) very(13) high(14) revs(15) for(16) maximum(17) performance(18) and(19) suffer(20) badly(21) in(22) the(23) torque(24) department(25) .(26) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="43">
+			I(1) personally(2) prefer(3) a(4) bigger(5) ,(6) less(7) extremely(8) tuned(9) engine(10) that(11) relies(12) on(13) torque(14) rather(15) than(16) revs(17) ,(18) but(19) that(20) 's(21) strictly(22) a(23) personal(24) preference(25) and(26) the(27) Hondas(28) ,(29) by(30) all(31) reports(32) ,(33) are(34) wonderful(35) cars(36) .(37) 
+			<opinion polarity="+" feature="car" featWords="36" opWords="35"/>
+		</sentence>
+		<sentence id="44">
+			They(1) are(2) a_bit(3) thin(4) on(5) creature(6) comforts(7) ,(8) though(9) ,(10) and(11) those(12) are(13) more(14) important(15) to(16) me(17) than(18) they(19) once(20) were(21) .(22) 
+		</sentence>
+		<sentence id="45">
+			For(1) someone(2) looking(3) for(4) an(5) open(6) vehicle(7) that(8) is(9) clearly(10) oriented(11) to(12) performance(13) but(14) that(15) also(16) provides(17) a(18) reasonable(19) level(20) of(21) creature(22) comfort(23) ,(24) I(25) 'd(26) strongly(27) encourage(28) a(29) careful(30) look(31) at(32) the(33) BMW(34) .(35) 
+		</sentence>
+		<sentence id="46">
+			Frankly(1) ,(2) I(3) would(4) have(5) preferred(6) a(7) coupe(8) to(9) a(10) roadster(11) if(12) it(13) were(14) not(15) for(16) the(17) fact(18) that(19) the(20) Z3(21) coupe(22) is(23) ,(24) in(25) my(26) estimation(27) ,(28) one(29) of(30) the(31) least(32) attractive(33) designs(34) ever(35) conceived(36) .(37) 
+		</sentence>
+		<sentence id="47">
+			It(1) looks(2) like(3) a(4) case(5) of(6) "(7) Honey(8) ,(9) I(10) shrunk(11) the(12) station(13) wagon(14) .(15) "(16) But(17) the(18) top(19) on(20) the(21) roadster(22) ((23) even(24) without(25) the(26) removable(27) hardtop(28) which(29) I(30) think(31) will(32) prove(33) superfluous(34) for(35) most(36) drivers(37) )(38) is(39) very(40) tight(41) ,(42) indeed(43) ,(44) and(45) it(46) 's(47) easy(48) to(49) forget(50) that(51) there(52) 's(53) only(54) cloth(55) above(56) your(57) head(58) .(59) 
+		</sentence>
+		<sentence id="48">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 31,300(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

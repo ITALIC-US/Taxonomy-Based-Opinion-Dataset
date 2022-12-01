@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="802" item="1993 Chevrolet Camaro" rating="2">
+	<title>
+		<sentence id="1">
+			Camaro(1) does(2) not(3) go(4) the(5) distance(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun_In_the_Sun(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything_Else(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) a(4) 1993(5) Camaro(6) Z28(7) for(8) about(9) 5(10) years(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) always(3) wanted(4) to(5) own(6) a(7) Camaro(8) as(9) it(10) was(11) the(12) first(13) car(14) my(15) dad(16) drove(17) and(18) I(19) have(20) always(21) wanted(22) a(23) quick(24) car(25) .(26) 
+			<opinion polarity="+" feature="speed" opWords="24"/>
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) bought(3) the(4) car(5) it(6) had(7) about(8) 55,000_miles(9) on(10) it(11) and(12) had(13) 1(14) owner(15) who(16) was(17) a(18) middle(19) age(20) woman(21) who(22) took(23) good(24) care(25) of(26) the(27) car(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			It(1) now(2) has(3) about(4) 100,000_miles(5) on(6) it(7) and(8) I(9) have(10) done(11) nothing(12) but(13) dump(14) money(15) in(16) this(17) car(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Since(1) I(2) have(3) had(4) this(5) car(6) I(7) have(8) replaced(9) the(10) fuel(11) pump(12) costing(13) me(14) over(15) $700(16) ,(17) I(18) have(19) replaced(20) the(21) compressor(22) and(23) almost(24) all(25) parts(26) of(27) the(28) air(29) conditioning(30) costing(31) me(32) well(33) over(34) $1000(35) and(36) now(37) the(38) alternator(39) is(40) going(41) out(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) had(3) a(4) rattle(5) in(6) the(7) back(8) end(9) for(10) over(11) 2(12) years(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			This(1) thumping(2) noise(3) increases(4) and(5) decreases(6) with(7) your(8) speed(9) and(10) is(11) highly(12) annoying(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			The(1) 1993(2) model(3) was(4) the(5) first(6) of(7) this(8) body(9) style(10) so(11) this(12) model(13) does(14) not(15) include(16) some(17) nice(18) options(19) the(20) 1994(21) model(22) has(23) like(24) T-Tops(25) ,(26) keyless(27) entry(28) ,(29) and(30) a(31) standard(32) cd(33) player(34) with(35) subwoofer(36) which(37) would(38) make(39) my(40) 1993(41) a(42) more(43) enjoyable(44) car(45) .(46) 
+		</sentence>
+		<sentence id="9">
+			This(1) car(2) is(3) a(4) nightmare(5) to(6) drive(7) in(8) any(9) kind(10) of(11) poor(12) weather(13) or(14) with(15) any(16) precipitation(17) on(18) the(19) ground(20) and(21) my(22) model(23) is(24) even(25) the(26) automatic(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			Handling(1) is(2) not(3) good(4) and(5) even(6) gets(7) worse(8) with(9) snow(10) on(11) the(12) ground(13) .(14) 
+			<opinion polarity="-" feature="handling" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) to(3) put(4) 80lb(5) sandbags(6) in(7) the(8) small(9) trunk(10) to(11) just(12) make(13) it(14) 2_miles(15) to(16) work(17) in(18) the(19) winter(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			The(1) Z28(2) is(3) real(4) wheel(5) driven(6) and(7) makes(8) driving(9) much(10) more(11) difficult(12) in(13) poor(14) weather(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) other(2) big(3) drawback(4) of(5) the(6) Z28(7) is(8) its(9) need(10) for(11) premium(12) gas(13) which(14) has(15) gotten(16) very(17) expensive(18) in_2000(19) .(20) 
+			<opinion polarity="-" feature="price" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="14">
+			I(1) also(2) want(3) to(4) mention(5) that(6) gas(7) mileage(8) is(9) very(10) poor(11) on(12) the(13) Z28(14) and(15) plan(16) on(17) doubling(18) you(19) annual(20) fuel(21) cost(22) coming(23) from(24) a(25) 6(26) cylinder(27) to(28) this(29) 8(30) cylinder(31) beast(32) .(33) 
+			<opinion polarity="-" feature="gas" featWords="7,8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) way(3) I(4) can(5) suggest(6) owning(7) this(8) car(9) is(10) if(11) you(12) live(13) in(14) a(15) warm(16) climate(17) and(18) have(19) this(20) car(21) for(22) fun(23) and(24) not(25) your(26) primary(27) mode(28) of(29) transportation(30) .(31) 
+		</sentence>
+		<sentence id="16">
+			The(1) Camaro(2) over(3) the(4) year(5) has(6) proven(7) not(8) to(9) be(10) a(11) very(12) durable(13) car(14) and(15) has(16) a(17) high(18) upkeep(19) cost(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="13" potency="12"/>
+		</sentence>
+		<sentence id="17">
+			Handling_And_Control(1) :(2) Poor(3) ;(4) handles(5) like(6) a(7) normal(8) car(9) 
+			<opinion polarity="-" feature="handling" opWords="3"/>
+		</sentence>
+	</text>
+</review>

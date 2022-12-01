@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="57" item="Sony MDR-V300 Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) A(2) Good_Investment(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Can(1) not(2) think(3) of(4) any(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) to(2) wear(3) and(4) very(5) muddy(6) ,(7) bass(8) with(9) too(10) much(11) boom(12) .(13) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+			<opinion polarity="-" feature="bass" featWords="8" opWords="6" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) recommended(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) uncomfortable(3) and(4) the(5) sound(6) quality(7) is(8) poor(9) .(10) 
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+			<opinion polarity="-" feature="sound quality" featWords="6,7" opWords="9"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) read(2) all(3) the(4) reviews(5) on(6) these(7) headphones(8) before(9) deciding(10) on(11) them(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) phones(3) to(4) use(5) with(6) my(7) portable(8) CD(9) that(10) would(11) block(12) out(13) external(14) sounds(15) from(16) TV(17) and(18) other(19) similar(20) sources(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) assumed(2) that(3) the(4) high(5) ratings(6) given(7) to(8) these(9) phones(10) by(11) the(12) majority(13) of(14) reviewers(15) would(16) negate(17) the(18) few(19) poor(20) ratings(21) they(22) received(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) while(3) the(4) ear(5) cups(6) appeared(7) to(8) be(9) small(10) for(11) studio(12) monitors(13) ,(14) I(15) have(16) small(17) ears(18) so(19) I(20) assumed(21) the(22) cups(23) would(24) fit(25) better(26) and(27) render(28) better(29) sound(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) wrong(3) .(4) 
+		</sentence>
+		<sentence id="6">
+			After(1) wearing(2) the(3) MDR(4) V300(5) for(6) 10(7) minutes(8) I(9) became(10) convinced(11) that(12) the(13) poor(14) ratings(15) were(16) more(17) than(18) justified(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) bass(2) is(3) extremely(4) muddy(5) across(6) the(7) whole(8) low(9) frequency(10) range(11) with(12) an(13) annoying(14) boom(15) quality(16) .(17) 
+			<opinion polarity="-" feature="bass" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			Furthermore(1) ,(2) the(3) headphones(4) do(5) not(6) fit(7) well(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			They(1) are(2) too(3) tight(4) and(5) uncomfortable(6) .(7) 
+			<opinion polarity="-" feature="comfort" opWords="3,4"/>
+			<opinion polarity="-" feature="comfort" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			External(1) sounds(2) were(3) not(4) diminished(5) significantly(6) because(7) the(8) ear(9) cup(10) did(11) not(12) fully(13) enclose(14) the(15) ear(16) ,(17) but(18) just(19) rested(20) uncomfortably(21) on(22) the(23) ear(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			I(1) doubt(2) if(3) I(4) could(5) tolerate(6) them(7) for(8) a(9) full(10) CD(11) playing(12) time(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Overall(1) ,(2) the(3) Sony_MRD(4) V300(5) headphones(6) were(7) a(8) big(9) disappointment(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			I(1) would(2) rate(3) the(4) street(5) set(6) that(7) came(8) with(9) my(10) Aiwa_CD(11) player(12) as(13) much(14) better(15) in(16) sound(17) quality(18) and(19) comfort(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			Needless(1) to(2) say(3) ,(4) I(5) returned(6) the(7) V300(8) 's(9) to(10) Best_Buy(11) and(12) thanks(13) to(14) their(15) wonderful(16) return(17) policy(18) ,(19) I(20) got(21) my(22) money(23) back(24) with(25) no(26) questions(27) asked(28) .(29) 
+		</sentence>
+	</text>
+</review>

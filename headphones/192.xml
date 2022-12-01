@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="192" item="Sony MDR-G54LP Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Nice(1) set(2) of(3) phones(4) ,(5) Good(6) sound(7) quality(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="7,8" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Nice(1) behind(2) the(3) ear(4) design(5) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Behind(1) the(2) ear(3) design(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) sounding(2) headphones(3) .(4) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+		</sentence>
+		<sentence id="3">
+			Comfortable(1) to(2) wear(3) for(4) long(5) periods(6) .(7) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) noise(2) canceling(3) 
+			<opinion polarity="-" feature="isolation" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) are(2) a(3) good(4) set(5) of(6) headphones(7) IMHO(8) .(9) 
+			<opinion polarity="+" feature="headphones" featWords="7" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) sound(2) output(3) is(4) good(5) and(6) I(7) like(8) the(9) behind(10) the(11) ear(12) design(13) .(14) 
+			<opinion polarity="+" feature="volume" featWords="2,3" opWords="5"/>
+			<opinion polarity="+" feature="design" featWords="13" opWords="8"/>
+		</sentence>
+		<sentence id="3">
+			I(1) wear(2) glasses(3) and(4) unlike(5) the(6) other(7) reviewer(8) I(9) have(10) no(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) looking(4) for(5) noise(6) blocking(7) these(8) headphones(9) are(10) not(11) for(12) you(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Unless(1) you(2) have(3) a(4) player(5) with(6) high(7) volume(8) ,(9) get(10) a(11) pair(12) of(13) in(14) ear(15) phones(16) .(17) 
+		</sentence>
+	</text>
+</review>

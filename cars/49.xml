@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="49" item="2003 Mercury Marauder" rating="5">
+	<title>
+		<sentence id="1">
+			BIG(1) fun(2) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Engine(1) ,(2) image(3) ,(4) ride(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			weight(1) ?(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fantastic(1) car(2) ,(3) would(4) recommend(5) to(6) anyone(7) in(8) the(9) market(10) for(11) a(12) full(13) sized(14) car(15) .(16) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) preface(3) my(4) review(5) with(6) the(7) following(8) -(9) both(10) my(11) father(12) and(13) brother(14) drive(15) Ford_Crown_Victorias(16) ,(17) and(18) I(19) drive(20) a(21) supercharged(22) and(23) otherwise(24) modified(25) Mustang_Cobra(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			The(1) three(2) of(3) us(4) went(5) out(6) today(7) and(8) test(9) drove(10) a(11) Merc_Marauder(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			I(1) must(2) say(3) that(4) I(5) was(6) pleasantly(7) surprised(8) with(9) the(10) ride(11) quality(12) enhancements(13) over(14) the(15) standard(16) Mercury(17) and(18) Ford(19) big(20) cars(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) one(3) must(4) still(5) remember(6) that(7) this(8) is(9) a(10) big(11) car(12) ,(13) and(14) will(15) not(16) be(17) able(18) to(19) take(20) on(21) the(22) Mustang_GTs(23) ,(24) Chevy_Camaro(25) /(26) Firebird(27) /(28) Corvettes(29) out(30) there(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			First(1) plus(2) is(3) obviously(4) the(5) engine(6) :(7) This(8) DOHC(9) 32V(10) V(11) -(12) 8(13) is(14) a(15) great(16) engine(17) ,(18) quiet(19) at(20) idle(21) and(22) cruising(23) speeds(24) ,(25) but(26) definitely(27) packs(28) a(29) punch(30) when(31) the(32) driver(33) "(34) puts(35) the(36) hammer(37) down(38) "(39) .(40) 
+			<opinion polarity="+" feature="engine" featWords="17" opWords="28,29,30"/>
+			<opinion polarity="+" feature="engine" featWords="17" opWords="19"/>
+			<opinion polarity="+" feature="engine" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="6">
+			Though(1) the(2) heads(3) and(4) cam(5) profiles(6) are(7) slightly(8) different(9) than(10) those(11) in(12) my(13) cobra(14) ,(15) the(16) engines(17) are(18) very(19) similar(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Both(1) do(2) not(3) reach(4) their(5) maximum(6) torque(7) or(8) horsepower(9) ratings(10) until(11) well(12) into(13) the(14) rev-range(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			So(1) ,(2) if(3) one(4) wants(5) to(6) experience(7) the(8) true(9) thrust(10) this(11) engine(12) has(13) ,(14) the(15) driver(16) must(17) put(18) the(19) pedal(20) down(21) and(22) keep(23) it(24) there(25) ,(26) let(27) the(28) car(29) reach(30) into(31) the(32) 5000(33) -(34) 6000(35) RPM(36) range(37) .(38) 
+		</sentence>
+		<sentence id="9">
+			Transmission(1) :(2) this(3) 4(4) speed(5) automatic(6) is(7) very(8) nice(9) ,(10) the(11) shifts(12) are(13) firm(14) ,(15) and(16) I(17) did(18) not(19) notice(20) any(21) problematic(22) downshifts(23) ,(24) nor(25) torque(26) converter(27) "(28) shudder(29) "(30) .(31) 
+			<opinion polarity="+" feature="transmission" featWords="1" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="10">
+			It(1) should(2) be(3) noted(4) that(5) the(6) torque(7) converter(8) is(9) also(10) upgraded(11) with(12) this(13) car(14) ,(15) to(16) a(17) larger(18) unit(19) that(20) has(21) a(22) higher(23) stall(24) setting(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			This(1) really(2) will(3) help(4) out(5) with(6) the(7) transmission(8) 's(9) longevity(10) I(11) 'd(12) assume(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Ride(1) :(2) This(3) car(4) has(5) considerable(6) upgrades(7) from(8) the(9) Crown_Vic(10) /(11) Grand_Marq(12) line(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			First(1) ,(2) there(3) is(4) considerably(5) more(6) road(7) feel(8) ,(9) which(10) is(11) a(12) very(13) good(14) thing(15) in(16) my(17) book(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			You(1) can(2) fell(3) the(4) seams(5) in(6) the(7) roads(8) more(9) ,(10) but(11) they(12) still(13) are(14) not(15) annoying(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			It(1) has(2) a(3) good(4) amount(5) of(6) give(7) when(8) large(9) suspension(10) travel(11) is(12) needed(13) ((14) pot(15) holes(16) ,(17) big(18) bumps(19) )(20) but(21) at(22) the(23) same(24) time(25) ,(26) it(27) gives(28) good(29) road(30) feel(31) to(32) the(33) driver(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			The(1) front(2) end(3) has(4) been(5) upgraded(6) to(7) a(8) coil-over(9) system(10) ,(11) which(12) I(13) am(14) sure(15) is(16) to(17) thank(18) for(19) the(20) better(21) feel(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			Interior(1) :(2) The(3) seats(4) are(5) good(6) ,(7) much(8) better(9) than(10) those(11) found(12) in(13) either(14) the(15) Crown_Vic(16) or(17) the(18) Grand_Marq(19) lines(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="18">
+			The(1) seats(2) are(3) much(4) more(5) firm(6) ,(7) but(8) still(9) "(10) cooshy(11) "(12) enough(13) to(14) feel(15) comfortable(16) taking(17) my(18) grandmother(19) out(20) in(21) it(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			The(1) interior(2) trim(3) exudes(4) the(5) whole(6) car(7) 's(8) image(9) ,(10) with(11) autometer(12) guages(13) for(14) oil(15) pressure(16) and(17) alternator(18) function(19) in(20) front(21) of(22) the(23) floor-mounted(24) transmission(25) shifter(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			Exhaust(1) :(2) The(3) throaty(4) growl(5) comes(6) up(7) as(8) soon(9) as(10) the(11) car(12) is(13) started(14) ,(15) though(16) it(17) is(18) not(19) near(20) as(21) loud(22) as(23) the(24) cobra(25) 's(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			I(1) 'd(2) say(3) it(4) is(5) a(6) little(7) quieter(8) than(9) the(10) Mustang_GT(11) 's(12) exhaust(13) ,(14) but(15) sounds(16) a(17) little(18) better(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			If(1) one(2) revs(3) the(4) engine(5) ,(6) the(7) sound(8) is(9) truly(10) great(11) .(12) 
+			<opinion polarity="+" feature="engine" featWords="5" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="23">
+			Inside(1) ,(2) the(3) exhaust(4) is(5) not(6) too(7) loud(8) ,(9) but(10) loud(11) enough(12) to(13) let(14) riders(15) know(16) it(17) is(18) a(19) special(20) car(21) .(22) 
+			<opinion polarity="+" feature="exhaust" featWords="4" opWords="6,7,8"/>
+		</sentence>
+		<sentence id="24">
+			Other(1) :(2) This(3) car(4) has(5) a(6) great(7) drive(8) line(9) ,(10) a(11) good(12) interior(13) ,(14) and(15) is(16) well(17) put(18) together(19) .(20) 
+			<opinion polarity="+" feature="interior" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="25">
+			The(1) one(2) downfall(3) is(4) the(5) car(6) 's(7) exterior(8) dimensions(9) ,(10) and(11) overall(12) weight(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			The(1) car(2) weighs(3) in(4) at(5) over(6) 4100_pounds(7) ,(8) which(9) hurts(10) the(11) engine(12) 's(13) ability(14) to(15) motivate(16) the(17) car(18) quickly(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			However(1) ,(2) for(3) those(4) who(5) like(6) the(7) idea(8) of(9) a(10) family(11) sized(12) car(13) with(14) a(15) "(16) cool(17) "(18) factor(19) ,(20) and(21) a(22) great(23) american(24) V8(25) ,(26) with(27) the(28) wonderful(29) exhaust(30) sounds(31) that(32) go(33) along_with(34) it(35) ,(36) THIS(37) is(38) the(39) only(40) car(41) that(42) will(43) suffice(44) .(45) 
+		</sentence>
+		<sentence id="28">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34000(7) Model_Year(8) :(9) 2002(10) 
+		</sentence>
+	</text>
+</review>

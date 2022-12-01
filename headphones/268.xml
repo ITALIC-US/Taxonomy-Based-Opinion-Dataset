@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="268" item="Grado SR-60 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Sound(1) ,(2) Slightly_Uncomfortable(3) ,(4) Good_Value(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Sound_Quality(1) ,(2) Grado_Name(3) ,(4) The_True(5) "(6) Above(7) $60(8) "(9) Starter(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) Amazing_Detail(2) ,(3) Uncomfortable(4) 
+			<opinion polarity="-" feature="comfort" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Grado(1) is(2) a(3) very(4) good(5) headphones(6) company(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			As(1) a(2) matter(3) of(4) fact(5) ,(6) some(7) of(8) their(9) headphones(10) go(11) up(12) to(13) $500(14) +(15) ,(16) even(17) names(18) like(19) Koss(20) and(21) Sennheiser(22) do(23) not(24) have(25) headphones(26) above(27) $300-400(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			Anyhow(1) ,(2) these(3) are(4) the(5) entry-level(6) Grado(7) headphones(8) ,(9) and(10) this(11) price(12) range(13) is(14) mostly(15) an(16) entry(17) into(18) real(19) audiphile(20) headphones(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			These(1) are(2) better(3) than(4) a_lot_of(5) the(6) suprisingly(7) poor(8) Sennheisers(9) around(10) this(11) price(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			While(1) these(2) do(3) not(4) produce(5) the(6) clarity(7) of(8) the(9) SR80s(10) that(11) are(12) preferable(13) ,(14) they(15) do(16) have(17) great(18) bass(19) and(20) mids(21) ,(22) and(23) do(24) not(25) at(26) all(27) sound(28) bright(29) .(30) 
+			<opinion polarity="+" feature="bass" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="mids" featWords="21" opWords="18"/>
+		</sentence>
+		<sentence id="6">
+			One(1) issue(2) is(3) that(4) they(5) are(6) uncomfortable(7) to(8) me(9) ,(10) but(11) I(12) suppose(13) this(14) is(15) trivial(16) .(17) 
+			<opinion polarity="-" feature="comfort" opWords="7"/>
+		</sentence>
+		<sentence id="7">
+			Overall(1) ,(2) a(3) good(4) set(5) if(6) sound(7) and(8) value(9) are(10) your(11) top(12) priorities(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="5" featRef="headphones" opWords="4"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="104" item="1996 GMC Sonoma" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) good(2) pickup(3) 
+			<opinion polarity="+" feature="pickup" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) appearance(2) ,(3) powerful(4) V6(5) 
+			<opinion polarity="+" feature="horsepower" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) crash(2) test(3) results(4) 
+			<opinion polarity="-" feature="crash test" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			What(1) a(2) nice(3) truck(4) !(5) 
+			<opinion polarity="+" feature="truck" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Sonoma(2) stands(3) up(4) to(5) all(6) of(7) its(8) competition(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			In(1) many(2) areas(3) this(4) truck(5) excells(6) over(7) its(8) competition(9) .(10) 
+			<opinion polarity="+" feature="truck" featWords="5" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) not(3) emphasize(4) enough(5) the(6) durability(7) of(8) this(9) pickup(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) personally(3) never(4) had(5) any(6) serious(7) problems(8) with(9) the(10) vehicle(11) ,(12) and(13) I(14) 've(15) only(16) received(17) good(18) performance(19) from(20) the(21) truck(22) .(23) 
+			<opinion polarity="+" feature="performance" featWords="19" opWords="18"/>
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) 0-60(3) is(4) only(5) 9_seconds(6) ,(7) but(8) when(9) this(10) is(11) analyzed(12) it(13) is(14) above(15) average(16) from(17) its(18) competitors(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Its(1) main(2) downfall(3) in(4) my(5) opinion(6) is(7) the(8) poor(9) crash(10) test(11) results(12) .(13) 
+			<opinion polarity="-" feature="crash test" featWords="10,11" opWords="9"/>
+		</sentence>
+		<sentence id="8">
+			However(1) I(2) find(3) the(4) body(5) style(6) to(7) be(8) quite(9) attractive(10) .(11) 
+			<opinion polarity="+" feature="design" featWords="5,6" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="9">
+			It(1) can(2) be(3) fitted(4) to(5) suit(6) just(7) about(8) any(9) requirement(10) needed(11) for(12) this(13) powerful(14) V6(15) engine(16) .(17) 
+			<opinion polarity="+" feature="engine" featWords="16" opWords="14"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="545" item="1999 Porsche Boxster" rating="3">
+	<title>
+		<sentence id="1">
+			Who(1) 's(2) The_U_Boat_Commander(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fast(1) ,(2) sleek(3) ,(4) sexy(5) ,(6) a(7) dream(8) come(9) true(10) 
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="design" opWords="3"/>
+			<opinion polarity="+" feature="speed" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) service(2) runaround(3) ,(4) poor(5) customer(6) service(7) on(8) dealer(9) /(10) manufacturer(11) side(12) 
+			<opinion polarity="-" feature="service" featWords="6,7" opWords="5"/>
+			<opinion polarity="-" feature="service" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) am(2) hesitant(3) to(4) recommend(5) this(6) car(7) due(8) to(9) reliability(10) issues(11) alone(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Porsche(1) ,(2) there(3) is(4) no(5) substitute(6) .(7) .(8) for(9) quality(10) customer(11) service(12) !(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Porsche(1) ,(2) a(3) word(4) synonymous(5) with(6) sexy(7) ,(8) fast(9) ,(10) classic(11) and(12) yes(13) ...(14) pricey(15) .(16) 
+			<opinion polarity="-" feature="price" opWords="15"/>
+			<opinion polarity="+" feature="speed" opWords="9"/>
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) are(3) looking(4) to(5) get(6) a(7) practical(8) go(9) to(10) supermarket(11) ,(12) pick(13) up(14) the(15) kids(16) ,(17) get(18) out(19) the(20) minivan(21) ,(22) this(23) one(24) is(25) for(26) thrills(27) alone(28) !(29) 
+		</sentence>
+		<sentence id="3">
+			Seating(1) is(2) limited(3) to(4) 2(5) with(6) a(7) veiled(8) attempt(9) to(10) provide(11) space(12) in(13) the(14) back(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Trunk(1) space(2) ((3) 9.1(4) cu(5) .(6) ft(7) )(8) is(9) at(10) a(11) premium(12) front(13) or(14) rear(15) .(16) passenger(17) space(18) is(19) a(20) little(21) tight(22) as_well(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Large(1) handbags(2) ,(3) briefcases(4) etc(5) ,(6) must(7) go(8) in(9) one(10) of(11) the(12) two(13) trunks(14) with(15) 2(16) passengers(17) aboard(18) .(19) there(20) are(21) pockets(22) on(23) the(24) seatbacks(25) and(26) a(27) tiny(28) little(29) storage(30) box(31) between(32) the(33) seats(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			The(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			Morning(1) coffee(2) will(3) have(4) to(5) ride(6) between(7) your(8) knees(9) ,(10) when(11) you(12) shift(13) ,(14) as(15) there(16) are(17) no(18) cupholders(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			What(1) you(2) do(3) get(4) in(5) trade(6) is(7) a(8) adrenaline(9) rush(10) the(11) likes(12) you(13) have(14) not(15) had(16) in(17) a(18) while(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Yes(1) ,(2) this(3) is(4) one(5) fast(6) car(7) !(8) 
+			<opinion polarity="+" feature="speed" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			I(1) would(2) like(3) to(4) reveal(5) some(6) of(7) the(8) more(9) practical(10) aspects(11) of(12) owning(13) this(14) car(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Yes(1) ,(2) it(3) handles(4) beautifully(5) .(6) .(7) accelerates(8) to(9) take(10) your(11) breath(12) away(13) and(14) it(15) is(16) a(17) showstopper(18) to(19) look(20) at(21) .(22) 
+			<opinion polarity="+" feature="handling" opWords="4,5"/>
+		</sentence>
+		<sentence id="12">
+			The(1) fact(2) of(3) the(4) matter(5) is(6) this(7) automobile(8) is(9) like(10) going(11) out(12) with(13) a(14) really(15) beautiful(16) girl(17) who(18) constantly(19) wants(20) something(21) from(22) you(23) ...(24) yes(25) ...(26) the(27) word(28) is(29) high(30) maintenance(31) The_Porsche_Boxster(32) is(33) a(34) 2.5(35) liter(36) water(37) cooled(38) horizontally(39) opposed(40) ,(41) two(42) seat(43) roadster(44) ,(45) with(46) a(47) 5(48) speed(49) manual(50) transmission(51) .(52) 
+			<opinion polarity="-" feature="maintenance" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="13">
+			The(1) convertible(2) top(3) makes(4) it(5) the(6) sexiest(7) car(8) at(9) the(10) beach(11) and(12) the(13) optional(14) hard(15) top(16) makes(17) it(18) a(19) serious(20) city(21) dweller(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="14">
+			Air(1) bags(2) are(3) located(4) in(5) the(6) steering(7) wheel(8) hub(9) and(10) the(11) instrument(12) panel(13) ,(14) with(15) door(16) mounted(17) side(18) airbags(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			Brakes(1) are(2) disk(3) ,(4) anti-locking(5) with(6) traction(7) control(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) brakes(2) incidentally(3) ,(4) perform(5) magnificently(6) .(7) 
+			<opinion polarity="+" feature="brakes" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="17">
+			I(1) did(2) have(3) to(4) have(5) the(6) car(7) towed(8) form(9) the(10) beach(11) because(12) a(13) stone(14) got(15) lodged(16) in(17) the(18) caliper(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			Cha(1) -(2) ching(3) $125.00(4) tow(5) bill(6) ,(7) car(8) out(9) of(10) commission(11) 3(12) days(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			Right(1) about(2) 5,000_miles(3) a(4) new(5) convertible(6) top(7) needed(8) because(9) the(10) plastic(11) rear(12) window(13) creased(14) ((15) a(16) warranty(17) issue(18) )(19) The_Porsche(20) dealer(21) ordered(22) the(23) top(24) ,(25) and(26) were(27) told(28) the(29) top(30) would(31) go(32) out(33) that(34) day(35) ,(36) be(37) in(38) the(39) dealers(40) in(41) 2(42) and(43) I(44) would(45) have(46) my(47) car(48) that(49) afternoon(50) .(51) 
+		</sentence>
+		<sentence id="20">
+			Not(1) too(2) bad(3) ?(4) 
+		</sentence>
+		<sentence id="21">
+			They(1) had(2) the(3) car(4) in(5) the(6) shop(7) ,(8) took(9) off(10) the(11) top(12) ,(13) sent(14) it(15) back(16) to(17) Porsche(18) and(19) did(20) not(21) receive(22) the(23) replacement(24) for(25) 4(26) weeks(27) !(28) .(29) 4(30) .(31) 
+		</sentence>
+		<sentence id="22">
+			My(1) compensation(2) .....(3) they(4) loaned(5) me(6) a(7) Buick_Skylark(8) !(9) 
+		</sentence>
+		<sentence id="23">
+			I(1) phoned(2) Porsche(3) and(4) complained(5) .(6) .(7) they(8) promised(9) they(10) would(11) do(12) something(13) ...(14) I(15) got(16) a(17) t-shirt(18) .(19) 
+		</sentence>
+		<sentence id="24">
+			The(1) plastic(2) window(3) started(4) to(5) cloud(6) up(7) another(8) 8,000_miles(9) later(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			It(1) still(2) continued(3) to(4) operate(5) smoothly(6) however(7) ,(8) tucking(9) itself(10) away(11) in(12) a(13) tidy15_seconds(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			At(1) 17,500_miles(2) the(3) steering(4) rack(5) went(6) ,(7) ((8) warranty(9) issue(10) )(11) and(12) needed(13) to(14) be(15) replaced(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Porsche(1) took(2) it(3) in(4) ...(5) and(6) I(7) had(8) the(9) pleasure(10) of(11) stopping(12) in(13) to(14) see(15) my(16) car(17) on(18) jacks(19) in(20) the(21) corner(22) of(23) their(24) garage(25) once(26) a(27) week(28) for(29) 5(30) weeks(31) until(32) the(33) parts(34) came(35) in(36) from(37) Germany(38) !(39) 
+		</sentence>
+		<sentence id="28">
+			My(1) reward(2) :(3) I(4) got(5) to(6) drive(7) a(8) loaner(9) .(10) .(11) a(12) Chevy_Malibu(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			I(1) called(2) Porsche(3) ,(4) complained(5) ,(6) they(7) promised(8) they(9) would(10) do(11) something(12) for(13) me(14) ...(15) I(16) got(17) a(18) certificate(19) from(20) the(21) dealer(22) for(23) 15_%(24) off(25) the(26) next(27) scheduled(28) service(29) .(30) .(31) ((32) an(33) oil(34) change(35) )(36) lucky(37) ,(38) lucky(39) me(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			The(1) suspension(2) on(3) this(4) car(5) is(6) nothing(7) short(8) of(9) magnificent(10) !(11) 
+			<opinion polarity="+" feature="suspension" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="31">
+			You(1) are(2) literally(3) glued(4) to(5) the(6) road(7) ,(8) no(9) matter(10) what(11) speed(12) or(13) conditions(14) you(15) are(16) driving(17) under(18) !(19) 
+		</sentence>
+		<sentence id="32">
+			Granted(1) the(2) ride(3) is(4) a(5) stiff(6) one(7) ,(8) as(9) most(10) German(11) engineered(12) cars(13) are(14) ,(15) but(16) the(17) sporty(18) feel(19) of(20) this(21) little(22) missile(23) makes(24) up(25) for(26) any(27) shortcomings(28) here(29) .(30) 
+		</sentence>
+		<sentence id="33">
+			You(1) point(2) right(3) ...(4) it(5) is(6) there(7) !(8) 
+		</sentence>
+		<sentence id="34">
+			Tires(1) for(2) this(3) baby(4) come(5) at(6) a(7) premium(8) also(9) .(10) 
+		</sentence>
+		<sentence id="35">
+			The(1) 205/55-16(2) front(3) ,(4) 225/50-16(5) rear(6) can(7) not(8) be(9) rotated(10) because(11) they(12) are(13) sized(14) differently(15) and(16) will(17) wear(18) faster(19) .(20) 
+		</sentence>
+		<sentence id="36">
+			But(1) when(2) asked(3) ,(4) the(5) dealer(6) just(7) shrugged(8) his(9) shoulders(10) and(11) repeated(12) the(13) old(14) adage(15) ,(16) "(17) If(18) you(19) have(20) to(21) ask(22) .....(23) ((24) you(25) know(26) the(27) rest(28) ...(29) )(30) "(31) .(32) 
+		</sentence>
+		<sentence id="37">
+			Ahh(1) ,(2) the(3) feel(4) of(5) this(6) car(7) ,(8) when(9) it(10) is(11) not(12) in(13) the(14) shop(15) is(16) exhilarating(17) !(18) 
+		</sentence>
+		<sentence id="38">
+			The(1) wind(2) blowing(3) through(4) your(5) hair(6) ,(7) at(8) speeds(9) where(10) it(11) could(12) probably(13) blow(14) out(15) your(16) hair(17) is(18) all(19) the(20) reason(21) to(22) own(23) one(24) !(25) 
+		</sentence>
+		<sentence id="39">
+			The(1) truth(2) is(3) ,(4) this(5) is(6) a(7) fun(8) car(9) to(10) drive(11) ,(12) when(13) you(14) finally(15) get(16) around(17) to(18) it(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="40">
+			It(1) is(2) expensive(3) to(4) upkeep(5) .(6) 
+			<opinion polarity="-" feature="price" opWords="3"/>
+		</sentence>
+		<sentence id="41">
+			This(1) is(2) a(3) great(4) hobby(5) automobile(6) .(7) .(8) or(9) third(10) automobile(11) that(12) you(13) take(14) out(15) and(16) ride(17) ...(18) not(19) to(20) work(21) ...(22) or(23) be(24) on(25) call(26) with(27) ...(28) just(29) to(30) cruise(31) .(32) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="42">
+			The(1) facts(2) are(3) ,(4) when(5) this(6) car(7) is(8) down(9) ...(10) it(11) is(12) D_O_W_N._Consumer(13) reports(14) just(15) put(16) out(17) their(18) automobile(19) issue(20) for(21) 2002(22) and(23) it(24) rates(25) the(26) Porsche(27) miserably(28) on(29) reliability(30) .(31) 
+		</sentence>
+		<sentence id="43">
+			I(1) really(2) wanted(3) to(4) love(5) this(6) car(7) ,(8) I(9) truly(10) did(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="44">
+			The(1) fact(2) was(3) when(4) it(5) was(6) out(7) of(8) the(9) shop(10) ,(11) the(12) experience(13) was(14) wonderful(15) .(16) 
+		</sentence>
+		<sentence id="45">
+			It(1) may(2) be(3) Porsche_America(4) needs(5) to(6) re-evaluate(7) their(8) parts(9) distribution(10) capabilities(11) and(12) work(13) on(14) their(15) customer(16) service(17) which(18) is(19) woefully(20) lacking(21) !(22) 
+		</sentence>
+		<sentence id="46">
+			I(1) did(2) have(3) fun(4) with(5) the(6) car(7) ...(8) I(9) just(10) sold(11) it(12) ...(13) looking(14) forward(15) to(16) delivery(17) of(18) my(19) new(20) Lexus_SC(21) 430(22) .(23) 
+		</sentence>
+		<sentence id="47">
+			I(1) have(2) NEVER(3) had(4) trouble(5) with(6) the(7) Japanese(8) .(9) ((10) Consumers(11) like(12) this(13) car(14) )(15) Oh(16) yeh(17) ...(18) the(19) commander(20) of(21) this(22) U_Boat(23) is(24) Porsche_America(25) ,(26) they(27) run(28) the(29) show(30) here(31) .(32) 
+		</sentence>
+		<sentence id="48">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 39,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LE(16) ,(17) traction(18) control(19) ,(20) hard(21) top(22) ,(23) premium(24) leather(25) ,(26) wheels(27) 
+		</sentence>
+	</text>
+</review>

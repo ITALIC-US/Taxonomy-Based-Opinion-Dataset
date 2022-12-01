@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="936" item="1999 Mercedes-Benz CLK" rating="1">
+	<title>
+		<sentence id="1">
+			A_real(1) piece(2) of(3) junk(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) car(2) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) in(2) terms(3) of(4) reliability(5) 
+			<opinion polarity="-" feature="reliability" featWords="5" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Never(1) before(2) have(3) I(4) ever(5) gone(6) through(7) the(8) headaches(9) of(10) car(11) ownership(12) than(13) I(14) have(15) with(16) this(17) car(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			In(1) the(2) shop(3) 9_times(4) within(5) 1(6) year(7) :(8) 90_%(9) complete(10) engine(11) overhaul(12) after(13) hearing(14) sickening(15) loud(16) metallic(17) hammering(18) ,(19) dead(20) fuel(21) pump(22) upon(23) starting(24) car(25) on(26) the(27) morning(28) of(29) an(30) international(31) flight(32) ,(33) embarrassing(34) loud(35) squeaky(36) frame(37) ,(38) very(39) loud(40) tapping(41) from(42) "(43) normal(44) "(45) vapor(46) removal(47) pump(48) ,(49) metallic(50) squeak(51) from(52) brakes(53) first(54) two(55) months(56) of(57) ownership(58) ,(59) obvious(60) vibrations(61) behind(62) temperature(63) control(64) console(65) ,(66) the(67) occasional(68) slamming(69) into(70) 2nd(71) gear(72) .(73) .(74) et(75) al(76) .(77) 
+		</sentence>
+		<sentence id="3">
+			Mercedes(1) reps(2) from(3) dealer(4) to(5) CEO_Halata(6) refuse(7) to(8) take(9) responsibility(10) for(11) their(12) hugely(13) sub-par(14) product(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 52000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) coupe(16) 
+		</sentence>
+	</text>
+</review>

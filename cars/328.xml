@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="328" item="2000 Honda Civic" rating="4">
+	<title>
+		<sentence id="1">
+			THE(1) WONDERFUL_LITTLE_CIVIC_Si(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sports(1) car(2) style(3) at(4) a(5) compact(6) car(7) 's(8) price(9) ,(10) fun(11) and(12) exciting(13) to(14) drive(15) ....(16) not(17) to(18) forget(19) the(20) 1.6L(21) dohc(22) vtec(23) engine(24) 
+			<opinion polarity="+" feature="car" opWords="13"/>
+			<opinion polarity="+" feature="car" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) ABS(2) ,(3) and(4) to(5) some(6) a(7) con(8) may(9) be(10) that(11) it(12) only(13) comes(14) in(15) a(16) 5(17) speed(18) manual(19) transmission(20) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) purchased(3) a(4) 2000(5) Honda(6) civic(7) Si(8) and(9) I(10) have(11) to(12) say(13) that(14) this(15) is(16) a(17) wonderful(18) compact(19) car(20) for(21) it(22) 's(23) price(24) !(25) 
+			<opinion polarity="+" feature="car" featWords="20" opWords="18"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Civic_Si(2) comes(3) with(4) all(5) the(6) extras(7) at(8) no(9) extra(10) cost(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) extras(2) include(3) a(4) sun(5) /(6) moonroof(7) ,(8) leather(9) wraped(10) shift(11) knob(12) and(13) steering(14) wheel(15) ,(16) a(17) /(18) c(19) ,(20) 6(21) speaker(22) sound(23) system(24) ,(25) cruise(26) control(27) and(28) much(29) much(30) more(31) !(32) 
+		</sentence>
+		<sentence id="4">
+			Although(1) the(2) Civic_Si(3) may(4) not(5) be(6) suitable(7) for(8) everyone(9) since(10) it(11) only(12) comes(13) in(14) as(15) a(16) five(17) speed(18) manual(19) transmission(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			And(1) while(2) it(3) does(4) not(5) have(6) ABS(7) ((8) anti-lock(9) braking(10) system(11) )(12) yet(13) it(14) does(15) have(16) all(17) wheel(18) disks(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) Civic_Si(2) is(3) available(4) in(5) only(6) three(7) colors(8) in(9) the(10) U.S(11) ....(12) black(13) ,(14) red(15) and(16) a(17) blue(18) which(19) has(20) a(21) purple(22) tint(23) to(24) it(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			I(1) bought(2) the(3) blue(4) one(5) :(6) )(7) AS(8) far(9) as(10) the(11) engine(12) well(13) it(14) speaks(15) for(16) itself(17) !(18) 
+		</sentence>
+		<sentence id="8">
+			A(1) dohc(2) v-tec(3) 1.6L(4) engine(5) ,(6) better(7) known(8) as(9) the(10) b16a(11) engine(12) which(13) has(14) a_lot_of(15) potential(16) for(17) upgrading(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			The(1) Si(2) also(3) comes(4) stock(5) with(6) a(7) front(8) struct(9) bar(10) which(11) is(12) another(13) nice(14) little(15) bonus(16) :(17) )(18) I(19) recommend(20) this(21) car(22) to(23) a(24) market(25) of(26) those(27) drivers(28) that(29) want(30) excitement(31) with(32) little(33) cost(34) .(35) 
+			<opinion polarity="+" feature="car" featWords="22" opWords="20"/>
+		</sentence>
+		<sentence id="10">
+			But(1) since(2) the(3) Civic_Si(4) is(5) far(6) from(7) luxury(8) ,(9) if(10) you(11) want(12) leather(13) seats(14) ....(15) well(16) you(17) are(18) out(19) of(20) luck(21) because(22) it(23) is(24) not(25) an(26) option(27) .(28) 
+			<opinion polarity="+" feature="seat" featWords="14" opWords="13"/>
+		</sentence>
+	</text>
+</review>

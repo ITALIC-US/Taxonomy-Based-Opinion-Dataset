@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="102" item="2002 Audi S8" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) refined(2) full-size(3) German(4) hot-rod(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Plentiful(1) power(2) and(3) extraordinary(4) handling(5) that(6) belie(7) its(8) full-size(9) proportions(10) .(11) 
+			<opinion polarity="+" feature="handling" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="horsepower" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Relatively(1) poor(2) fuel(3) economy(4) ((5) but(6) not(7) for(8) a(9) car(10) with(11) this(12) much(13) power(14) )(15) ,(16) understated(17) appearance(18) 
+			<opinion polarity="-" feature="gas" featWords="3,4" opWords="2" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) extraordinary(2) amount(3) of(4) car(5) when(6) new(7) ,(8) but(9) a(10) jaw-dropping(11) deal(12) as(13) a(14) used(15) car(16) buy(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Perhaps(1) the(2) most(3) important(4) feature(5) of(6) this(7) car(8) on(9) the(10) used(11) car(12) market(13) is(14) its(15) jaw-dropping(16) depreciation(17) ,(18) which(19) makes(20) it(21) an(22) exceptional(23) bargain(24) as(25) a(26) used(27) car(28) buy(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			My(1) 2002(2) Audi(3) S8(4) ,(5) with(6) its(7) particular(8) options(9) packages(10) ,(11) would(12) have(13) sold(14) in_2002(15) for(16) right(17) around(18) $80,000(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			I(1) purchased(2) it(3) for(4) $34,000(5) in(6) June_2005(7) with(8) fewer(9) than(10) 48,000_miles(11) on(12) it(13) ,(14) which(15) meant(16) that(17) the(18) car(19) was(20) still(21) under(22) warranty(23) for(24) a(25) couple(26) thousand(27) miles(28) after(29) I(30) bought(31) it(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			The(1) vehicle(2) was(3) only(4) three(5) years(6) old(7) and(8) in(9) nearly(10) perfect(11) condition(12) ,(13) yet(14) $45,000(15) of(16) value(17) had(18) evaporated(19) right(20) off(21) of(22) the(23) car(24) in(25) depreciation(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			What(1) a(2) deal(3) !(4) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) longed(3) for(4) this(5) particular(6) model(7) for(8) a(9) couple(10) of(11) years(12) ,(13) waiting(14) for(15) prices(16) on(17) the(18) used(19) car(20) market(21) to(22) get(23) to(24) an(25) attractive(26) level(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			I(1) already(2) owned(3) an(4) older(5) BMW(6) 740(7) iL(8) ,(9) a(10) very(11) competent(12) and(13) powerful(14) full-size(15) German(16) sedan(17) ,(18) but(19) the(20) Audi(21) feels(22) like(23) twice(24) the(25) car(26) .(27) 
+			<opinion polarity="+" feature="horsepower" opWords="14"/>
+			<opinion polarity="+" feature="car" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="8">
+			The(1) S8(2) is(3) based(4) on(5) the(6) standard(7) wheelbase(8) A8(9) body(10) --(11) not(12) the(13) five-inch(14) longer(15) A8L(16) model(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			But(1) the(2) rear(3) seat(4) legroom(5) on(6) the(7) S8(8) is(9) superior(10) to(11) the(12) standard-wheelbase(13) BMW(14) 7-series(15) of(16) the(17) same(18) vintage(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) extra-long(2) wheelbase(3) version(4) offers(5) limousine-like(6) space(7) ,(8) but(9) the(10) S8(11) 's(12) backseat(13) is(14) perfectly(15) comfortable(16) for(17) two(18) six-foot(19) adults(20) .(21) 
+			<opinion polarity="+" feature="comfort" opWords="16" potency="15"/>
+		</sentence>
+		<sentence id="11">
+			The(1) Audi(2) 's(3) trunk(4) is(5) also(6) superior(7) to(8) the(9) BMW(10) ((11) supposedly(12) about(13) the(14) same(15) volume(16) ,(17) but(18) the(19) Audi(20) 's(21) is(22) much(23) squarer(24) inside(25) ,(26) making(27) it(28) much(29) more(30) usable(31) )(32) .(33) 
+		</sentence>
+		<sentence id="12">
+			Whereas(1) the(2) BMW(3) feels(4) downright(5) slow(6) off(7) the(8) line(9) and(10) generally(11) feels(12) like(13) a(14) heavy(15) ((16) but(17) relatively(18) agile(19) )(20) full-size(21) car(22) ,(23) the(24) Audi(25) feels(26) like(27) it(28) weighs(29) half(30) as(31) much(32) as(33) is(34) half(35) the(36) size(37) .(38) 
+			<opinion polarity="+" feature="car" opWords="19"/>
+			<opinion polarity="-" feature="weight" opWords="15"/>
+		</sentence>
+		<sentence id="13">
+			The(1) S8(2) jumps(3) off(4) the(5) line(6) in(7) a(8) satisfying(9) manner(10) ,(11) and(12) it(13) sounds(14) melodic(15) as(16) its(17) 4.2-liter(18) 40-valve(19) V8(20) soars(21) to(22) its(23) 7,000(24) rpm(25) red-line(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Handling(1) is(2) extraordinary(3) for(4) such(5) a(6) large(7) car(8) ,(9) with(10) extremely(11) controlled(12) body(13) roll(14) on(15) turns(16) ,(17) and(18) fantastic(19) grip(20) under(21) any(22) weather(23) conditions(24) ,(25) thanks(26) to(27) the(28) Audi_Quattro(29) all-wheel(30) drive(31) system(32) .(33) 
+			<opinion polarity="+" feature="grip" featWords="20" opWords="19"/>
+			<opinion polarity="+" feature="body roll" featWords="13,14" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="15">
+			The(1) 5-speed(2) Tiptronic(3) automatic(4) transmission(5) is(6) well(7) matched(8) to(9) the(10) car(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			It(1) downshifts(2) very(3) easily(4) in(5) response(6) to(7) a(8) stomp(9) on(10) the(11) accelerator(12) ,(13) and(14) its(15) relatively(16) low(17) final(18) drive(19) ratio(20) keeps(21) loads(22) of(23) power(24) available(25) on(26) the(27) highway(28) in(29) fifth(30) gear(31) .(32) 
+		</sentence>
+		<sentence id="17">
+			Braking(1) is(2) also(3) exceptional(4) for(5) a(6) large(7) car(8) ,(9) and(10) the(11) extra-firm(12) suspension(13) limits(14) any(15) nose-diving(16) in(17) hard(18) braking(19) .(20) 
+			<opinion polarity="+" feature="suspension" featWords="13" opWords="12"/>
+			<opinion polarity="+" feature="brakes" featWords="1" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			The(1) interior(2) looks(3) and(4) feels(5) extraordinary(6) .(7) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="6"/>
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) had(3) numerous(4) passengers(5) tell(6) me(7) that(8) it(9) has(10) the(11) most(12) comfortable(13) automobile(14) seats(15) that(16) they(17) have(18) ever(19) encountered(20) .(21) 
+			<opinion polarity="+" feature="comfort" opWords="13"/>
+		</sentence>
+		<sentence id="20">
+			Both(1) front(2) seats(3) features(4) 14-way(5) power(6) adjustments(7) ,(8) and(9) even(10) the(11) rear(12) seats(13) are(14) heated(15) and(16) have(17) a(18) power(19) lumbar(20) control(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			The(1) rest(2) of(3) the(4) interior(5) looks(6) and(7) feels(8) very(9) high-class(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			The(1) Alcantara(2) faux-suede(3) that(4) lines(5) the(6) doors(7) is(8) gorgeous(9) and(10) looks(11) and(12) feels(13) like(14) the(15) real(16) thing(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			The(1) cabin(2) is(3) bathed(4) in(5) muted(6) red(7) lighting(8) at(9) night(10) ,(11) with(12) every(13) conceivable(14) knob(15) ,(16) switch(17) ,(18) and(19) dial(20) illuminated(21) .(22) 
+		</sentence>
+		<sentence id="24">
+			The(1) effect(2) looks(3) like(4) a(5) jet(6) 's(7) cockpit(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			The(1) Bose(2) audio(3) system(4) is(5) very(6) good(7) .(8) 
+			<opinion polarity="+" feature="sound system" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="26">
+			The(1) S8s(2) of(3) this(4) generation(5) were(6) virtually(7) identical(8) during(9) the(10) three(11) years(12) that(13) they(14) were(15) imported(16) to(17) the(18) USA(19) ((20) 2001(21) to(22) 2003(23) )(24) ;(25) however(26) ,(27) one(28) very(29) positive(30) development(31) that(32) debuted(33) in_2002(34) was(35) a(36) six-disc(37) in-dash(38) CD(39) changer(40) .(41) 
+		</sentence>
+		<sentence id="27">
+			The(1) Bose(2) audio(3) system(4) is(5) quite(6) good(7) ,(8) but(9) not(10) spectacular(11) .(12) 
+			<opinion polarity="-" feature="sound system" featWords="3,4" opWords="10,11"/>
+			<opinion polarity="+" feature="sound system" featWords="3,4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="28">
+			For(1) a(2) system(3) as(4) smartly(5) engineered(6) as(7) this(8) one(9) presumably(10) was(11) ,(12) it(13) would(14) have(15) been(16) nice(17) to(18) have(19) the(20) bass(21) response(22) better(23) tuned(24) to(25) compensate(26) for(27) normal(28) cabin(29) noise(30) .(31) 
+		</sentence>
+		<sentence id="29">
+			If(1) the(2) car(3) is(4) parked(5) with(6) the(7) engine(8) off(9) ,(10) the(11) bass(12) sounds(13) excellent(14) ((15) not(16) overstated(17) ,(18) but(19) excellently(20) reproduced(21) )(22) ;(23) however(24) ,(25) when(26) cruising(27) down(28) the(29) highway(30) ,(31) much(32) of(33) the(34) bass(35) is(36) lost(37) beneath(38) background(39) road(40) and(41) engine(42) noise(43) --(44) and(45) we(46) 're(47) talking(48) about(49) an(50) uncommonly(51) quiet(52) car(53) .(54) 
+			<opinion polarity="+" feature="car" featWords="53" opWords="52" potency="51"/>
+			<opinion polarity="+" feature="bass" featWords="12" opWords="20,21"/>
+			<opinion polarity="+" feature="bass" featWords="12" opWords="14"/>
+		</sentence>
+		<sentence id="30">
+			My(1) car(2) came(3) with(4) the(5) GPS(6) navigation(7) system(8) ,(9) but(10) this(11) was(12) a(13) very(14) early(15) system(16) ,(17) which(18) does(19) not(20) have(21) a(22) meaningful(23) map(24) screen(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			The(1) system(2) uses(3) the(4) small(5) color(6) LCD(7) display(8) in(9) the(10) instrument(11) cluster(12) for(13) displaying(14) turn-by-turn(15) directions(16) .(17) 
+		</sentence>
+		<sentence id="32">
+			My(1) car(2) was(3) missing(4) the(5) CD(6) or(7) DVD(8) to(9) make(10) the(11) system(12) work(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			I(1) have(2) not(3) yet(4) ordered(5) a(6) replacement(7) disc(8) ,(9) so(10) I(11) have(12) never(13) used(14) the(15) system(16) .(17) 
+		</sentence>
+		<sentence id="34">
+			Complaints(1) are(2) few(3) ,(4) but(5) now(6) that(7) I(8) have(9) driven(10) the(11) car(12) for(13) about(14) 15,000_miles(15) ,(16) there(17) are(18) a(19) few(20) :(21) The(22) climate(23) control(24) system(25) is(26) not(27) perfect(28) .(29) 
+		</sentence>
+		<sentence id="35">
+			I(1) have(2) found(3) that(4) the(5) automatic(6) setting(7) sometimes(8) leaves(9) my(10) feet(11) cold(12) in(13) the(14) winter(15) and(16) creates(17) a(18) fog(19) spot(20) on(21) the(22) windshield(23) in(24) the(25) summer(26) .(27) 
+		</sentence>
+		<sentence id="36">
+			The(1) system(2) can(3) be(4) manually(5) overridden(6) easily(7) enough(8) ,(9) so(10) the(11) system(12) rarely(13) forces(14) me(15) to(16) endure(17) discomfort(18) ,(19) but(20) my(21) 1994(22) Mazda(23) 929(24) had(25) an(26) equally(27) effective(28) and(29) easier(30) to(31) use(32) climate(33) control(34) system(35) .(36) 
+		</sentence>
+		<sentence id="37">
+			The(1) tactile(2) feedback(3) from(4) the(5) buttons(6) on(7) the(8) climate(9) control(10) system(11) and(12) audio(13) system(14) is(15) not(16) very(17) substantial(18) feeling(19) ,(20) but(21) everything(22) works(23) fine(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			The(1) car(2) also(3) has(4) a(5) few(6) squeaks(7) inside(8) the(9) cabin(10) .(11) 
+		</sentence>
+		<sentence id="39">
+			Given(1) the(2) uncommonly(3) tight(4) suspension(5) for(6) a(7) large(8) sedan(9) ,(10) I(11) would(12) expect(13) squeaks(14) to(15) be(16) a(17) little(18) more(19) difficult(20) to(21) hide(22) .(23) 
+			<opinion polarity="+" feature="suspension" featWords="5" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="40">
+			The(1) worst(2) squeak(3) I(4) easily(5) fixed(6) by(7) adding(8) a(9) self-adhesive(10) felt(11) pad(12) to(13) the(14) inside(15) of(16) the(17) glove(18) box(19) ,(20) where(21) plastic-on-plastic(22) rubbing(23) was(24) creating(25) lots(26) of(27) annoying(28) noise(29) .(30) 
+		</sentence>
+		<sentence id="41">
+			Fuel(1) economy(2) is(3) generally(4) in(5) line(6) with(7) my(8) expectations(9) ,(10) and(11) it(12) has(13) exceeded(14) expectations(15) on(16) road(17) trips(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			The(1) car(2) gets(3) 14(4) to(5) 15(6) mpg(7) in(8) stop-and-go(9) driving(10) ,(11) and(12) it(13) is(14) possible(15) to(16) plunge(17) those(18) numbers(19) even(20) lower(21) if(22) the(23) driver(24) is(25) having(26) a(27) really(28) good(29) time(30) with(31) the(32) car(33) .(34) 
+		</sentence>
+		<sentence id="43">
+			I(1) have(2) achieved(3) 23(4) mpg(5) on(6) road(7) trips(8) ,(9) though(10) ,(11) with(12) the(13) car(14) loaded(15) up(16) with(17) many(18) hundreds(19) of(20) pounds(21) of(22) passengers(23) and(24) luggage(25) .(26) 
+		</sentence>
+		<sentence id="44">
+			The(1) newer(2) generation(3) A8(4) gets(5) better(6) fuel(7) economy(8) thanks(9) to(10) an(11) additional(12) gear(13) ratio(14) ((15) but(16) even(17) the(18) new(19) A8(20) is(21) still(22) not(23) as(24) powerful(25) as(26) my(27) older(28) S8(29) )(30) .(31) 
+		</sentence>
+		<sentence id="45">
+			My(1) S8(2) does(3) as_well(4) as(5) one(6) could(7) expect(8) for(9) a(10) full-size(11) car(12) with(13) such(14) screaming-fast(15) performance(16) .(17) 
+		</sentence>
+		<sentence id="46">
+			As(1) a(2) used(3) car(4) buy(5) ,(6) this(7) car(8) is(9) a(10) bargain(11) when(12) compared(13) against(14) its(15) closest(16) competitors(17) --(18) MB(19) S55(20) AMG(21) ,(22) Jaguar_XJR(23) ,(24) BMW(25) 740i(26) Sport(27) --(28) and(29) this(30) is(31) the(32) only(33) car(34) in(35) its(36) class(37) with(38) all-wheel(39) drive(40) and(41) an(42) all-aluminum(43) body(44) and(45) space(46) frame(47) .(48) 
+		</sentence>
+		<sentence id="47">
+			It(1) is(2) an(3) extremely(4) fun(5) and(6) spirited(7) hot-rod(8) that(9) will(10) carry(11) four(12) people(13) and(14) their(15) belongings(16) in(17) exceptional(18) comfort(19) --(20) and(21) it(22) is(23) comfortable(24) doing(25) so(26) when(27) there(28) is(29) snow(30) and(31) ice(32) on(33) the(34) road(35) .(36) 
+			<opinion polarity="+" feature="comfort" opWords="24"/>
+			<opinion polarity="+" feature="comfort" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="car" featWords="1" featRef="car" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="48">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 34000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) 4.2L(16) V8(17) ,(18) 5-speed(19) Tiptronic(20) 
+		</sentence>
+	</text>
+</review>

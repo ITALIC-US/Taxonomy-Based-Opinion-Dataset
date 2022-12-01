@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="775" item="2002 Pontiac Aztek" rating="2">
+	<title>
+		<sentence id="1">
+			Be(1) aware(2) and(3) beware(4) :(5) you(6) will(7) look(8) different(9) in(10) this(11) crossover(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Interior(1) room(2) ,(3) rear(4) seat(5) room(6) ,(7) cargo(8) space(9) ,(10) unique(11) design(12) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fuel(1) economy(2) ,(3) poor(4) reliability(5) ,(6) costly(7) maintenance(8) 
+			<opinion polarity="-" feature="maintenance" featWords="8" opWords="7"/>
+			<opinion polarity="-" feature="reliability" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) to(5) those(6) who(7) can(8) find(9) a(10) good(11) deal(12) on(13) a(14) used(15) Aztek(16) but(17) please(18) set(19) aside(20) a(21) budget(22) for(23) repairs(24) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Aside(1) from(2) the(3) fact(4) that(5) Pontiac_Aztek(6) is(7) one(8) of(9) the(10) strangest(11) looking(12) cars(13) on(14) the(15) road(16) ,(17) it(18) is(19) otherwise(20) a(21) very(22) typical(23) American(24) made(25) SUV(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			My(1) experience(2) with(3) Pontiac_Aztek(4) is(5) controversial(6) as(7) it(8) provides(9) a(10) good(11) sized(12) vehicle(13) with(14) enormous(15) cargo(16) space(17) and(18) very(19) generous(20) rear(21) seating(22) at(23) the(24) expense(25) of(26) reliability(27) and(28) integrity(29) .(30) 
+			<opinion polarity="+" feature="seat" featWords="22" opWords="20"/>
+			<opinion polarity="+" feature="trunk space" featWords="16,17" opWords="15"/>
+			<opinion polarity="+" feature="size" opWords="11,12"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) issues(4) come(5) up(6) with(7) this(8) vehicle(9) to(10) the(11) point(12) where(13) it(14) would(15) require(16) a(17) trip(18) to(19) a(20) shop(21) every(22) two-three(23) months(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			Considering(1) that(2) this(3) is(4) a(5) 2002(6) model(7) and(8) it(9) has(10) 80K_miles(11) on(12) it(13) ,(14) it(15) is(16) very(17) frequent(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) not(3) only(4) oil(5) changes(6) and(7) new(8) tires(9) ,(10) but(11) it(12) also(13) includes(14) frequent(15) Engine(16) light(17) and(18) required(19) a(20) very(21) costly(22) new(23) BCM(24) computer(25) with(26) an(27) expense(28) of(29) $650(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			Diagnostics(1) and(2) troubleshooting(3) is(4) very(5) sophisticated(6) and(7) parts(8) are(9) at(10) premium(11) cost(12) ,(13) dealers(14) are(15) not(16) helpful(17) and(18) charge(19) premium(20) fees(21) for(22) everything(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Overall(1) ,(2) service(3) departments(4) at(5) any(6) Pontiac(7) dealerships(8) I(9) ve(10) ever(11) been(12) to(13) are(14) very(15) poor(16) when(17) it(18) comes(19) to(20) assistance(21) and(22) knowledgeable(23) staff(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			Aside(1) from(2) a(3) large(4) volume(5) of(6) trouble(7) with(8) this(9) vehicle(10) ,(11) when(12) it(13) does(14) run(15) ,(16) it(17) is(18) very(19) smooth(20) and(21) quiet(22) ,(23) great(24) for(25) road(26) trips(27) since(28) it(29) is(30) comfortably(31) seats(32) five(33) and(34) has(35) a(36) relatively(37) powerful(38) 185(39) horsepower(40) 3.4L(41) General_Motors(42) engine(43) .(44) 
+			<opinion polarity="+" feature="horsepower" featWords="40" opWords="38"/>
+			<opinion polarity="+" feature="car" opWords="24"/>
+			<opinion polarity="+" feature="car" opWords="22"/>
+			<opinion polarity="+" feature="car" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="9">
+			Handling(1) is(2) one(3) of(4) a(5) minivan(6) and(7) of(8) course(9) ,(10) as(11) previously(12) mentioned(13) ,(14) Aztek(15) comes(16) in(17) a(18) hexagon(19) unusual(20) shape(21) which(22) makes(23) it(24) easy(25) to(26) find(27) it(28) at(29) any(30) huge(31) Wal-Mart(32) parking(33) lot(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			Fuel(1) economy(2) is(3) average(4) at(5) 25MPG(6) in(7) mixed(8) city(9) and(10) highway(11) driving(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Overall(1) it(2) was(3) a(4) good(5) used(6) car(7) to(8) own(9) but(10) I(11) can(12) t(13) imagine(14) how(15) it(16) would(17) be(18) a(19) good(20) value(21) if(22) it(23) would(24) be(25) bought(26) new(27) .(28) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="12">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 10000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) Aztek(16) 
+		</sentence>
+	</text>
+</review>

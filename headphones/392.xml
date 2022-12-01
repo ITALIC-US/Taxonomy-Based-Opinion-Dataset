@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="392" item="Bose QuietComfort� 3 Acoustic Noise Cancelling� Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Well(1) worth(2) the(3) price(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Superior(1) sound(2) and(3) fantastic(4) noise(5) cancelling(6) feature(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="isolation" featWords="5,6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) .(2) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) these(4) headphones(5) for(6) a(7) few(8) years(9) ,(10) I(11) use(12) them(13) for(14) work(15) and(16) pleasure(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) noise(2) cancelling(3) feature(4) is(5) fantastic(6) for(7) flying(8) or(9) any(10) noisy(11) environment(12) ,(13) until(14) you(15) try(16) them(17) ,(18) it(19) is(20) hard(21) to(22) imagine(23) just(24) how(25) much(26) background(27) noise(28) they(29) reduce(30) .(31) 
+			<opinion polarity="+" feature="isolation" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="3">
+			The(1) quality(2) of(3) sound(4) is(5) superior(6) when(7) listening(8) to(9) music(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="4">
+			I(1) found(2) it(3) amazing(4) just(5) how(6) good(7) they(8) were(9) when(10) I(11) compared(12) them(13) to(14) a(15) rather(16) expensive(17) knock-off(18) brand(19) that(20) I(21) have(22) and(23) loved(24) ....(25) until(26) I(27) got(28) the(29) Bose(30) that(31) is(32) !(33) 
+		</sentence>
+		<sentence id="5">
+			I(1) also(2) use(3) them(4) for(5) the(6) transcription(7) work(8) that(9) I(10) do(11) ,(12) the(13) quality(14) of(15) sound(16) is(17) so(18) superior(19) that(20) I(21) have(22) a(23) much(24) easier(25) time(26) listening(27) to(28) speak(29) ,(30) even(31) hard(32) to(33) understand(34) dialects(35) ,(36) then(37) using(38) any(39) other(40) headphone(41) .(42) 
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) simply(3) lost(4) without(5) them(6) at(7) this(8) point(9) !(10) 
+		</sentence>
+		<sentence id="7">
+			Even(1) with(2) extensive(3) use(4) ,(5) I(6) have(7) never(8) had(9) a(10) problem(11) with(12) them(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			They(1) do(2) use(3) only(4) a(5) bose(6) stereo(7) cord(8) ,(9) no(10) others(11) I(12) 've(13) found(14) will(15) work(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			But(1) even(2) when(3) I(4) 've(5) had(6) to(7) replace(8) this(9) cord(10) ,(11) I(12) received(13) it(14) within(15) 2(16) days(17) ,(18) and(19) the(20) customer(21) service(22) staff(23) at(24) Bose(25) is(26) wonderful(27) to(28) work(29) with(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) have(3) the(4) opportunity(5) to(6) get(7) these(8) headphones(9) ,(10) you(11) will(12) not(13) be(14) sorry(15) .(16) 
+		</sentence>
+	</text>
+</review>

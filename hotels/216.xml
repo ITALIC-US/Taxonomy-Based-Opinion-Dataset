@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="216" item="Imperial Palace Hotel and Casino Biloxi" rating="1">
+	<title>
+		<sentence id="1">
+			Cheaper(1) is(2) not(3) better(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) hotel(2) is(3) within(4) a_mile(5) of(6) the(7) other(8) popular(9) hotels(10) and(11) casino(12) 's(13) .(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) look(2) used(3) ,(4) the(5) service(6) is(7) questionable(8) ,(9) management(10) nor(11) security(12) will(13) be(14) of(15) help(16) .(17) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="3"/>
+			<opinion polarity="-" feature="service" featWords="6" opWords="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) hotel(2) was(3) a(4) disappointment(5) after(6) having(7) visited(8) their(9) casino(10) ,(11) earlier(12) .(13) 
+			<opinion polarity="-" feature="hotel" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) found(2) the(3) management(4) and(5) employees(6) to(7) be(8) unconcerned(9) and(10) rude(11) ,(12) respectively(13) .(14) 
+			<opinion polarity="-" feature="staff" featWords="6" opWords="9"/>
+			<opinion polarity="-" feature="staff" featWords="6" opWords="11"/>
+		</sentence>
+		<sentence id="3">
+			We(1) will(2) not(3) stay(4) there(5) ,(6) again(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) casino(2) and(3) hotel(4) are(5) very(6) close(7) ,(8) and(9) playing(10) in(11) them(12) can(13) be(14) fun(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			But(1) they(2) are(3) very(4) crowded(5) ,(6) and(7) crowds(8) do(9) not(10) move(11) very(12) well(13) through(14) their(15) public(16) areas(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			The(1) casino(2) seems(3) to(4) be(5) marketed(6) more(7) toward(8) the(9) local(10) market(11) ,(12) despite(13) their(14) advertisements(15) touting(16) their(17) ties(18) to(19) Las_Vegas(20) ,(21) and(22) their(23) Oriental(24) motif(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			The(1) rooms(2) are(3) starting(4) to(5) show(6) wear(7) and(8) tear(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Knobs(1) missing(2) on(3) dresser(4) drawers(5) ,(6) spring(7) hinges(8) that(9) no_longer(10) close(11) the(12) room(13) door(14) when(15) you(16) enter(17) and(18) tears(19) in(20) the(21) carpet(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) a(3) fabulous(4) view(5) ,(6) but(7) the(8) outside_of(9) the(10) windows(11) were(12) too(13) dirty(14) to(15) take(16) a(17) picture(18) through(19) without(20) it(21) showing(22) up(23) in(24) the(25) picture(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			On(1) Sunday_afternoon(2) ,(3) one(4) of(5) the(6) elevators(7) to(8) the(9) top(10) half(11) of(12) the(13) hotel(14) got(15) stuck(16) for(17) two(18) hours(19) ,(20) with(21) guests(22) aboard(23) ,(24) then(25) a_second(26) one(27) got(28) stuck(29) ,(30) leaving(31) one(32) elevator(33) for(34) half(35) of(36) the(37) hotel(38) .(39) 
+		</sentence>
+		<sentence id="8">
+			We(1) were(2) on(3) the(4) second(5) elevator(6) when(7) it(8) got(9) stuck(10) and(11) once(12) we(13) got(14) off(15) ,(16) we(17) tried(18) to(19) tell(20) the(21) security(22) guard(23) at(24) the(25) elevators(26) but(27) he(28) became(29) very(30) surly(31) and(32) told(33) us(34) he(35) was(36) a(37) security(38) guard(39) not(40) a(41) maintenance(42) man(43) .(44) 
+		</sentence>
+		<sentence id="9">
+			As(1) we(2) walked(3) away(4) ,(5) he(6) continued(7) his(8) crass(9) comments(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			We(1) tried(2) to(3) talk(4) to(5) the(6) manager(7) on(8) duty(9) but(10) she(11) would(12) not(13) come(14) to(15) the(16) guest(17) services(18) office(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			The(1) person(2) at(3) the(4) guest(5) office(6) did(7) not(8) have(9) much(10) idea(11) about(12) when(13) the(14) elevators(15) would(16) be(17) repaired(18) ,(19) or(20) ,(21) even_if(22) the(23) elevator(24) company(25) was(26) on(27) the(28) property(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			We(1) could(2) not(3) use(4) the(5) stairs(6) because_of(7) the(8) one-way(9) locking(10) doors(11) on(12) each(13) floor(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Since(1) we(2) were(3) unable(4) to(5) return(6) to(7) our(8) rooms(9) ,(10) we(11) were(12) forced(13) to(14) spend(15) our(16) time(17) in(18) the(19) casino(20) ,(21) along_with(22) approx(23) .(24) 300(25) other(26) guests(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			It(1) was(2) too(3) crowded(4) .(5) 
+		</sentence>
+		<sentence id="15">
+			Unfortunately(1) ,(2) all(3) we(4) had(5) to(6) spend(7) was(8) our(9) food(10) money(11) because(12) we(13) could(14) not(15) get(16) to(17) our(18) room(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			Finally(1) ,(2) about(3) an(4) hour(5) or(6) so(7) later(8) ,(9) management(10) opened(11) up(12) the(13) service(14) elevators(15) so(16) people(17) could(18) finally(19) get(20) to(21) their(22) rooms(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			One(1) thing(2) to(3) remember(4) ,(5) if(6) you(7) do(8) decide(9) to(10) stay(11) there(12) and(13) have(14) a(15) problem(16) that(17) you(18) need(19) to(20) take(21) to(22) guest(23) services(24) ,(25) be(26) sure(27) to(28) try(29) the(30) door(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			When(1) we(2) tried(3) to(4) report(5) our(6) problems(7) ,(8) the(9) office(10) was(11) occupied(12) ,(13) but(14) the(15) office(16) lights(17) were(18) turned(19) down(20) low(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			It(1) gave(2) the(3) definite(4) impression(5) that(6) they(7) were(8) closed(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			We(1) made(2) the(3) mistake(4) of(5) eating(6) at(7) the(8) buffet(9) ,(10) but(11) the(12) food(13) was(14) overcooked(15) and(16) bland(17) .(18) 
+			<opinion polarity="-" feature="food" featWords="13" opWords="15"/>
+			<opinion polarity="-" feature="food" featWords="13" opWords="17"/>
+		</sentence>
+		<sentence id="21">
+			It(1) was(2) during(3) the(4) prime(5) dinner(6) hour(7) ,(8) but(9) they(10) did(11) not(12) appear(13) to(14) be(15) expecting(16) the(17) amount(18) of(19) traffic(20) that(21) showed(22) up(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			For_example(1) ,(2) drink(3) glasses(4) ran(5) completely(6) out(7) and(8) people(9) were(10) having(11) to(12) get(13) help(14) from(15) the(16) food(17) servers(18) behind(19) the(20) counter(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			There(1) are(2) some(3) very(4) good(5) buffets(6) in(7) the(8) area(9) and(10) this(11) one(12) is(13) not(14) as(15) competitive(16) as(17) it(18) should(19) be(20) .(21) 
+			<opinion polarity="+" feature="food" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="24">
+			Having(1) found(2) the(3) deal(4) online(5) ,(6) it(7) was(8) our(9) first(10) experience(11) ,(12) in(13) the(14) Biloxi(15) area(16) ,(17) of(18) cheaper(19) not(20) being(21) being(22) better(23) .(24) 
+		</sentence>
+		<sentence id="25">
+			The(1) front(2) desk(3) agents(4) were(5) the(6) only(7) saving(8) element(9) with(10) their(11) courtesy(12) and(13) professionalism(14) ,(15) it(16) 's(17) a(18) pity(19) they(20) can(21) only(22) be(23) found(24) there(25) .(26) 
+		</sentence>
+		<sentence id="26">
+			We(1) will(2) pay(3) more(4) to(5) stay(6) elsewhere(7) on(8) our(9) next(10) trip(11) .(12) 
+		</sentence>
+	</text>
+</review>

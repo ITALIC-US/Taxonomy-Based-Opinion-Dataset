@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="384" item="Hyatt West Hollywood" rating="3">
+	<title>
+		<sentence id="1">
+			Riot_House_Huh(1) ?(2) ?(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rates(1) ,(2) cold(3) pool(4) ,(5) no(6) coffeemaker(7) 
+			<opinion polarity="-" feature="swimming pool" featWords="4" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) location(3) with(4) some(5) rock(6) history(7) but(8) too(9) expensive(10) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="price" opWords="9,10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) returned(2) from(3) a(4) week(5) in(6) Los_Angeles(7) ,(8) and(9) stayed(10) at(11) the(12) West_Hollywood_Hyatt(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) got(2) a(3) rate(4) of(5) $71.00(6) a(7) night(8) from(9) Priceline(10) ,(11) which(12) I(13) thought(14) was(15) an(16) ok(17) price(18) .(19) 
+			<opinion polarity="+" feature="price" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="3">
+			However(1) a(2) search(3) I(4) just(5) did(6) on(7) their(8) website(9) http://westhollywood.hyatt.com/property/index.jhtml(10) reveals(11) rates(12) starting(13) at(14) $179.00(15) I(16) would(17) NOT(18) pay(19) that(20) much(21) to(22) stay(23) here(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) great(4) ,(5) the(6) hotel(7) is(8) located(9) right(10) in(11) the(12) centre(13) of(14) the(15) famous(16) ((17) or(18) infamous(19) )(20) Sunset_Strip(21) .(22) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Right(1) beside(2) the(3) hotel(4) is(5) the(6) very(7) well(8) known(9) comedy(10) club(11) ,(12) the(13) Comedy_Store(14) ,(15) and(16) right(17) across(18) the(19) street(20) is(21) The_House_of_Blues(22) ((23) I(24) highly(25) recommend(26) the(27) Gospel_Brunch(28) on(29) Sundays(30) )(31) The(32) hotel(33) is(34) within(35) walking(36) distance(37) of(38) nearly(39) all(40) the(41) clubs(42) and(43) restaurants(44) you(45) might(46) want(47) .(48) 
+		</sentence>
+		<sentence id="6">
+			A(1) bus(2) ride(3) is(4) required(5) however(6) if(7) you(8) want(9) to(10) visit(11) the(12) Hollywood_Walk_of_Fame(13) located(14) on(15) Hollywood_Blvd(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) bus(2) stop(3) is(4) conveniently(5) located(6) across(7) the(8) street(9) from(10) the(11) hotel(12) ,(13) and(14) runs(15) very(16) regularly(17) .(18) 
+			<opinion polarity="+" feature="place" opWords="5,6"/>
+		</sentence>
+		<sentence id="8">
+			We(1) arrived(2) at(3) the(4) hotel(5) at(6) about(7) 1:00_p.m.(8) and(9) I(10) was(11) a(12) little(13) worried(14) they(15) may(16) not(17) have(18) a(19) room(20) for(21) us(22) yet(23) ,(24) but(25) the(26) clerk(27) was(28) able(29) to(30) find(31) us(32) a(33) room(34) right(35) away(36) .(37) 
+		</sentence>
+		<sentence id="9">
+			Anyone(1) who(2) has(3) read(4) any(5) of(6) my(7) previous(8) hotel(9) reviews(10) will(11) know(12) what(13) a(14) streak(15) of(16) bad(17) luck(18) I(19) have(20) had(21) with(22) views(23) from(24) my(25) hotel(26) rooms(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			The(1) Hyatt(2) did(3) not(4) break(5) that(6) streak(7) ,(8) we(9) had(10) a(11) room(12) on(13) the(14) 4th(15) floor(16) overlooking(17) an(18) ugly(19) parking(20) garage(21) ,(22) and(23) requiring(24) that(25) we(26) keep(27) the(28) windows(29) closed(30) ,(31) and(32) curtains(33) drawn(34) as(35) there(36) was(37) always(38) something(39) going(40) on(41) in(42) the(43) garage(44) .(45) 
+		</sentence>
+		<sentence id="11">
+			The(1) outside_of(2) the(3) hotel(4) looks(5) old(6) ,(7) and(8) it(9) is(10) ,(11) the(12) hotel(13) was(14) a(15) favorite(16) of(17) visiting(18) rock(19) stars(20) ((21) Led(22) Zeppelin(23) used(24) to(25) rent(26) out(27) entire(28) floors(29) for(30) parties(31) ,(32) and(33) ride(34) motorcycles(35) up(36) and(37) down(38) the(39) hallways(40) )(41) ((42) Jim_Morrison(43) lived(44) here(45) until(46) the(47) hotel(48) staff(49) found(50) him(51) hanging(52) by(53) his(54) fingertips(55) from(56) his(57) balcony(58) and(59) threw(60) him(61) out(62) )(63) ((64) Axl_Rose(65) got(66) into(67) trouble(68) for(69) barbequeuing(70) steaks(71) on(72) his(73) balcony(74) ,(75) so(76) started(77) throwing(78) burning(79) hot(80) steaks(81) to(82) Guns_N_Roses(83) fans(84) waiting(85) below(86) )(87) ((88) until(89) recently(90) Little_Richard(91) lived(92) at(93) the(94) hotel(95) )(96) so(97) with(98) all(99) of(100) the(101) rock(102) and(103) roll(104) antics(105) over(106) the(107) years(108) the(109) hotel(110) earned(111) the(112) nickname(113) "(114) The(115) Riot_House(116) "(117) I(118) found(119) it(120) funny(121) then(122) that(123) upon(124) check(125) in(126) you(127) are(128) required(129) to(130) sign(131) a(132) no(133) partying(134) agreement(135) LOL(136) ((137) and(138) you(139) are(140) not(141) allowed(142) to(143) buy(144) alcohol(145) and(146) bring(147) it(148) to(149) your(150) room(151) ,(152) you(153) must(154) buy(155) your(156) alcohol(157) from(158) the(159) hotel(160) at(161) inflated(162) prices(163) )(164) As_I(165) mentioned(166) the(167) hotel(168) does(169) look(170) old(171) from(172) the(173) outside(174) ,(175) however(176) the(177) inside(178) is(179) very(180) modern(181) looking(182) .(183) 
+		</sentence>
+		<sentence id="12">
+			The(1) lobby(2) is(3) very(4) nice(5) ,(6) and(7) has(8) some(9) great(10) photos(11) hanging(12) on(13) the(14) walls(15) .(16) 
+			<opinion polarity="+" feature="lobby" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			To(1) the(2) right(3) of(4) the(5) lobby(6) is(7) the(8) hotels(9) restaurant(10) CHI(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			CHI(1) is(2) owned(3) by(4) Justin_Timberlake(5) ,(6) and(7) is(8) supposed(9) to(10) be(11) a(12) celebrity(13) hot(14) spot(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			The(1) menu(2) is(3) a(4) dim(5) sum(6) inspired(7) offering(8) with(9) an(10) extensive(11) wine(12) list(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			I(1) did(2) not(3) visit(4) CHI(5) as(6) the(7) prices(8) were(9) quite(10) high(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			After(1) checking(2) in(3) we(4) headed(5) to(6) our(7) room(8) ,(9) as(10) mentioned(11) above(12) we(13) had(14) a(15) horrible(16) view(17) ,(18) but(19) the(20) room(21) itself(22) was(23) very(24) nice(25) .(26) 
+			<opinion polarity="-" feature="view" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="rooms" featWords="21" opWords="25" potency="24"/>
+		</sentence>
+		<sentence id="18">
+			It(1) kind(2) of(3) looked(4) like(5) a(6) showroom(7) from(8) Ikea(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			There(1) were(2) 2(3) standard(4) beds(5) ,(6) that(7) had(8) the(9) most(10) comfortable(11) pillows(12) I(13) 've(14) ever(15) slept(16) on(17) .(18) 
+			<opinion polarity="+" feature="bedding" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="20">
+			The(1) comforters(2) on(3) the(4) beds(5) were(6) nice(7) ,(8) and(9) seemed(10) pretty(11) new(12) as_well(13) .(14) 
+			<opinion polarity="+" feature="bedding" featWords="2" opWords="7"/>
+			<opinion polarity="+" feature="bedding" featWords="2" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="21">
+			There(1) was(2) a(3) night(4) table(5) between(6) the(7) beds(8) with(9) a(10) clock(11) radio(12) ,(13) a(14) lamp(15) ,(16) and(17) a(18) telephone(19) ((20) that(21) we(22) had(23) to(24) request(25) be(26) turned(27) on(28) as(29) it(30) was(31) not(32) on(33) for(34) our(35) first(36) day(37) )(38) There(39) was(40) a(41) large(42) shelving(43) unit(44) in(45) the(46) centre(47) of(48) the(49) room(50) that(51) contained(52) the(53) television(54) ((55) standard(56) local(57) channels(58) ,(59) and(60) a(61) few(62) premium(63) channels(64) such(65) as(66) VH1(67) ,(68) HBO(69) ,(70) ESPN(71) )(72) The(73) television(74) remote(75) was(76) very(77) tempermental(78) ,(79) several(80) times(81) I(82) thought(83) it(84) was(85) broken(86) ,(87) but(88) with(89) some(90) persistance(91) it(92) did(93) work(94) .(95) 
+		</sentence>
+		<sentence id="22">
+			On(1) the(2) bottom(3) right(4) hand(5) side(6) of(7) the(8) cabinet(9) there(10) was(11) a(12) room(13) safe(14) available(15) for(16) $5.00(17) a(18) day(19) ((20) we(21) did(22) not(23) use(24) it(25) )(26) Normally(27) in(28) such(29) a(30) cabinet(31) you(32) would(33) find(34) a(35) coffee(36) maker(37) ,(38) but(39) this(40) room(41) did(42) not(43) have(44) one(45) ,(46) luckilly(47) there(48) is(49) a(50) Starbucks(51) 2(52) doors(53) down(54) .(55) 
+		</sentence>
+		<sentence id="23">
+			There(1) was(2) also(3) a(4) small(5) desk(6) with(7) a(8) desk(9) lamp(10) ,(11) and(12) an(13) office(14) chair(15) ((16) there(17) was(18) a(19) plug(20) for(21) those(22) requiring(23) internet(24) access(25) .(26) The(27) room(28) was(29) decorated(30) with(31) more(32) photos(33) of(34) Hollywood(35) attractions(36) .(37) The(38) bathroom(39) was(40) a(41) good(42) size(43) ,(44) and(45) the(46) water(47) pressure(48) was(49) very(50) good(51) .(52) There(53) was(54) not(55) much(56) in(57) the(58) way(59) of(60) soaps(61) .(62) Only(63) 1(64) small(65) bar(66) of(67) no(68) name(69) soap(70) along_with(71) a(72) tiny(73) bottle(74) of(75) shampoo(76) ,(77) and(78) another(79) of(80) conditioner(81) ,(82) and(83) that(84) was(85) it(86) ,(87) no(88) creams(89) ,(90) nothing(91) .(92) Towels(93) were(94) plentiful(95) ,(96) and(97) were(98) very(99) soft(100) and(101) thick(102) .(103) There(104) is(105) a(106) pool(107) available(108) that(109) is(110) located(111) on(112) the(113) roof(114) of(115) the(116) hotel(117) ,(118) we(119) only(120) had(121) one(122) chance(123) to(124) visit(125) it(126) since(127) it(128) was(129) closed(130) for(131) private(132) functions(133) for(134) 2(135) days(136) in(137) a(138) row(139) .(140) The(141) views(142) of(143) the(144) Hollywood_Hills(145) and(146) of(147) The_Sunset_Strip(148) below(149) were(150) incredible(151) ,(152) but(153) when(154) it(155) came(156) time(157) to(158) jump(159) into(160) the(161) water(162) I(163) was(164) not(165) able(166) to(167) ,(168) it(169) was(170) freezing(171) cold(172) !(173) !(174) !(175) !(176) Normally(177) an(178) unheated(179) pool(180) in(181) Hollywood(182) might(183) be(184) a(185) good(186) thing(187) ,(188) but(189) the(190) weather(191) while(192) we(193) were(194) in(195) town(196) was(197) kind(198) of(199) chilly(200) ,(201) so(202) going(203) into(204) a(205) cold(206) pool(207) on(208) a(209) cold(210) day(211) was(212) not(213) a(214) good(215) idea(216) .(217) As(218) mentioned(219) above(220) though(221) ,(222) a(223) trip(224) to(225) the(226) roof(227) is(228) warranted(229) just(230) for(231) the(232) view(233) .(234) About(235) half(236) way(237) through(238) our(239) stay(240) our(241) room(242) keys(243) stopped(244) working(245) ,(246) a(247) quick(248) trip(249) to(250) the(251) front(252) desk(253) fixed(254) this(255) right(256) away(257) .(258) We(259) were(260) not(261) driving(262) so(263) we(264) did(265) not(266) require(267) parking(268) ,(269) but(270) the(271) hotel(272) charges(273) extra(274) for(275) parking(276) ,(277) and(278) offers(279) a(280) valet(281) service(282) for(283) a(284) fee(285) ((286) just(287) like(288) everywhere(289) in(290) Hollywood(291) )(292) Room(293) service(294) is(295) available(296) ,(297) We(298) did(299) not(300) order(301) anything(302) though(303) as(304) the(305) prices(306) were(307) too(308) high(309) ,(310) and(311) there(312) are(313) many(314) great(315) places(316) to(317) eat(318) within(319) walking(320) distance(321) .(322) 
+			<opinion polarity="+" feature="place" featWords="316" opWords="315"/>
+		</sentence>
+		<sentence id="24">
+			In_all(1) I(2) did(3) not(4) love(5) or(6) hate(7) this(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			It(1) 's(2) location(3) is(4) great(5) ,(6) and(7) since(8) I(9) got(10) a(11) good(12) rate(13) on(14) my(15) room(16) I(17) was(18) happy(19) with(20) it(21) ,(22) but(23) if(24) I(25) were(26) paying(27) the(28) normal(29) rate(30) I(31) would(32) have(33) expected(34) much(35) better(36) .(37) 
+			<opinion polarity="+" feature="place" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="26">
+			So(1) if(2) you(3) find(4) a(5) good(6) rate(7) stop(8) in(9) ,(10) otherwise(11) keep(12) looking(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			Thank(1) You(2) for(3) reading(4) .(5) 
+		</sentence>
+		<sentence id="28">
+			This(1) review(2) has(3) been(4) entered(5) in(6) the(7) The_Great_Hotel_Write-Off(8) 2004(9) Details(10) can(11) be(12) found(13) at(14) http://www.angelfire.com/trek/greathotel2004/(15) 
+		</sentence>
+	</text>
+</review>

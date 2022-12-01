@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="622" item="1999 Honda Civic" rating="3">
+	<title>
+		<sentence id="1">
+			Hold(1) on(2) tight(3) were(4) going(5) to(6) try(7) to(8) merge(9) on(10) the(11) highway(12) .(13) .(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) Starts(2) every(3) time(4) I(5) turn(6) the(7) key(8) -(9) It(10) says(11) Honda(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Getting(1) good(2) service(3) is(4) like(5) winning(6) the(7) lottery(8) Terrible(9) brakes(10) Transmission(11) needs(12) service(13) often(14) 
+			<opinion polarity="-" feature="brakes" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="service" featWords="3" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Well(1) it(2) is(3) a(4) Honda(5) ,(6) reliable(7) for(8) the(9) most(10) part(11) ,(12) put(13) mine(14) seems(15) plagued(16) with(17) problems(18) from(19) day_one(20) .(21) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) this(4) car(5) since(6) it(7) was(8) new(9) ((10) October_1999(11) )(12) I(13) can(14) not(15) believe(16) I(17) have(18) not(19) written(20) a(21) review(22) yet(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Well(1) here(2) we(3) go(4) ...(5) My(6) particular(7) Civic(8) is(9) a(10) 1999(11) Taffeta(12) white(13) 4(14) door(15) automatic(16) ,(17) sports(18) car(19) it(20) is(21) not(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			Dependable(1) transportation(2) it(3) is(4) ALMOST(5) you(6) 'll(7) soon(8) see(9) why(10) I(11) say(12) almost(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Price(1) and(2) Impression(3) :(4) When(5) I(6) went(7) out(8) looking(9) at(10) cars(11) ,(12) I(13) drove(14) past(15) all(16) the(17) big(18) guys(19) Mazda(20) ,(21) Nissan(22) ,(23) Chevy(24) ,(25) and(26) Ford(27) and(28) headed(29) straight(30) to(31) Honda(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			At(1) the(2) time(3) of(4) purchase(5) I(6) was(7) driving(8) a(9) 1986(10) Buick_Regal(11) and(12) recently(13) got(14) a(15) job(16) that(17) required(18) a(19) commute(20) ,(21) the(22) Buick(23) served(24) me(25) well(26) but(27) she(28) had(29) 101,000_miles(30) and(31) I(32) just(33) wanted(34) something(35) I(36) knew(37) would(38) last(39) with(40) out(41) weekend(42) shade(43) tree(44) mechanic(45) knowledge(46) :(47) )(48) When(49) I(50) first(51) got(52) to(53) the(54) dealer(55) I(56) was(57) instantly(58) mobbed(59) by(60) a(61) receptionist(62) ?(63) 
+		</sentence>
+		<sentence id="6">
+			Who(1) went(2) and(3) got(4) a(5) sales(6) person(7) who(8) kept(9) trying(10) to(11) sell(12) me(13) cars(14) I(15) was(16) not(17) interested(18) in(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			Then(1) they(2) showed(3) me(4) this(5) "(6) left(7) over(8) "(9) 1999(10) Civic(11) and(12) told(13) me(14) it(15) was(16) on(17) special(18) for(19) 21,000(20) ROFLMAO(21) after(22) walking(23) out(24) several(25) times(26) 4(27) sodas(28) and(29) my(30) own(31) credit(32) union(33) financing(34) me(35) I(36) got(37) the(38) car(39) for(40) 15,500(41) =(42) )(43) Drivability(44) :(45) The(46) car(47) is(48) very(49) easy(50) to(51) drive(52) ,(53) and(54) maneuver(55) ,(56) if(57) you(58) can(59) drive(60) a(61) go(62) cart(63) and(64) not(65) flip(66) it(67) you(68) are(69) well(70) qualified(71) to(72) drive(73) this(74) car(75) .(76) 
+			<opinion polarity="+" feature="car" opWords="50" potency="49"/>
+		</sentence>
+		<sentence id="8">
+			When(1) driving(2) this(3) car(4) you(5) have(6) to(7) understand(8) it(9) was(10) built(11) for(12) daily(13) driving(14) an(15) economy(16) ,(17) not(18) racing(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			When(1) going(2) out(3) into(4) traffic(5) you(6) really(7) better(8) have(9) a(10) heavy(11) foot(12) or(13) wait(14) until(15) the(16) road(17) is(18) pretty(19) clear(20) because(21) this(22) car(23) only(24) has(25) 100(26) horse(27) power(28) and(29) 90_pound(30) feet(31) of(32) torque(33) ,(34) to(35) which(36) it(37) doesn(38) t(39) start(40) making(41) until(42) around(43) 6,500(44) RPM(45) ((46) so(47) there(48) goes(49) economy(50) right(51) out(52) the(53) window(54) )(55) Handling(56) has(57) always(58) been(59) really(60) good(61) with(62) this(63) car(64) ,(65) it(66) is(67) pretty(68) low(69) to(70) the(71) ground(72) ((73) stock(74) I(75) don(76) t(77) know(78) why(79) anyone(80) would(81) lower(82) a(83) civic(84) )(85) steering(86) although(87) power(88) is(89) very(90) tight(91) and(92) has(93) always(94) been(95) that(96) way(97) sense(98) new(99) ,(100) Honda(101) tells(102) me(103) its(104) because(105) its(106) speed(107) sensitive(108) steering(109) which(110) don(111) t(112) make(113) sense(114) to(115) me(116) ,(117) at(118) highway(119) speeds(120) it(121) is(122) really(123) loose(124) and(125) you(126) constantly(127) have(128) to(129) drive(130) this(131) car(132) or(133) you(134) will(135) be(136) in(137) someone(138) else(139) s(140) lane(141) .(142) 
+		</sentence>
+		<sentence id="10">
+			Also(1) with(2) the(3) mention(4) of(5) highway(6) the(7) whole(8) meaning(9) of(10) my(11) title(12) ,(13) I(14) feel(15) like(16) my(17) life(18) is(19) in(20) danger(21) when(22) I(23) try(24) to(25) merge(26) with(27) this(28) car(29) on(30) the(31) highway(32) ,(33) you(34) just(35) put(36) your(37) foot(38) to(39) the(40) floor(41) and(42) prey(43) that(44) someone(45) will(46) slow(47) down(48) enough(49) you(50) will(51) not(52) get(53) killed(54) trying(55) to(56) get(57) on(58) the(59) freeway(60) .(61) 
+		</sentence>
+		<sentence id="11">
+			Reliability(1) :(2) Ah(3) my(4) whole(5) reason(6) for(7) buying(8) this(9) car(10) ,(11) well(12) in_1999(13) I(14) live(15) in(16) South_Florida(17) we(18) had(19) a(20) small(21) hurricane(22) come(23) through(24) I(25) had(26) to(27) work(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			So(1) my(2) car(3) is(4) all(5) of(6) 2(7) days(8) old(9) and(10) I(11) got(12) sent(13) home(14) during(15) the(16) eye(17) of(18) the(19) storm(20) passing(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			I(1) didn(2) t(3) go(4) through(5) any(6) puddles(7) that(8) I(9) didn(10) t(11) think(12) the(13) car(14) could(15) handle(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			The(1) next(2) day(3) I(4) go(5) to(6) get(7) in(8) my(9) brand(10) new(11) car(12) Splash(13) what(14) the(15) ?(16) !(17) ?(18) 
+		</sentence>
+		<sentence id="15">
+			There(1) was(2) standing(3) water(4) in(5) my(6) car(7) !(8) 
+		</sentence>
+		<sentence id="16">
+			I(1) go(2) immediately(3) to(4) Honda(5) and(6) they(7) tell(8) me(9) so(10) sorry(11) you(12) will(13) need(14) to(15) file(16) an(17) insurance(18) claim(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			I(1) told(2) the(3) dealer(4) the(5) car(6) is(7) barely(8) 48(9) hours(10) old(11) and(12) at(13) the(14) time(15) under(16) Florida(17) law(18) I(19) could(20) rip(21) the(22) contract(23) up(24) and(25) hand(26) them(27) the(28) car(29) back(30) .(31) 
+		</sentence>
+		<sentence id="18">
+			So(1) they(2) agreed(3) to(4) fix(5) it(6) .(7) 
+		</sentence>
+		<sentence id="19">
+			They(1) said(2) they(3) took(4) over(5) 2.5_gallons(6) of(7) water(8) out(9) if(10) the(11) car(12) and(13) were(14) not(15) sure(16) what(17) could(18) of(19) happened(20) unless(21) I(22) drove(23) it(24) into(25) a(26) lake(27) !(28) 
+		</sentence>
+		<sentence id="20">
+			Which(1) I(2) did(3) not(4) ,(5) so(6) they(7) replaced(8) the(9) door(10) seals(11) also(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			From(1) there(2) I(3) developed(4) major(5) transmission(6) problems(7) in_2001(8) ,(9) sometimes(10) it(11) would(12) get(13) stuck(14) in(15) low(16) ,(17) sometimes(18) it(19) would(20) shift(21) from(22) first(23) to(24) second(25) so(26) hard(27) that(28) I(29) thought(30) I(31) would(32) be(33) wearing(34) the(35) engine(36) and(37) or(38) picking(39) it(40) up(41) off(42) the(43) ground(44) .(45) 
+		</sentence>
+		<sentence id="22">
+			I(1) go(2) to(3) the(4) same(5) dealer(6) and(7) they(8) tell(9) me(10) that(11) they(12) can(13) not(14) duplicate(15) it(16) !(17) 
+		</sentence>
+		<sentence id="23">
+			So(1) from(2) then(3) forward(4) I(5) found(6) a(7) new(8) dealer(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			This(1) second(2) dealer(3) went(4) to(5) take(6) off(7) for(8) a(9) test(10) drive(11) and(12) immediately(13) turned(14) it(15) around(16) and(17) gave(18) me(19) a(20) loaner(21) for(22) my(23) hassle(24) from(25) the(26) other(27) place(28) .(29) 
+		</sentence>
+		<sentence id="25">
+			They(1) said(2) they(3) had(4) to(5) replace(6) shift(7) valve(8) and(9) rebuilt(10) the(11) transmission(12) .(13) 2003(14) More(15) problems(16) and(17) out(18) of(19) warranty(20) 69.000_miles(21) once(22) car(23) shifted(24) into(25) final(26) gear(27) it(28) would(29) shake(30) uncontrollably(31) ,(32) also(33) it(34) sounded(35) like(36) my(37) engine(38) was(39) attached(40) with(41) rubber(42) bands(43) I(44) could(45) physically(46) hear(47) it(48) move(49) around(50) way(51) further(52) then(53) it(54) was(55) designed(56) to(57) go(58) .(59) 
+		</sentence>
+		<sentence id="26">
+			So(1) I(2) pulled(3) over(4) and(5) had(6) it(7) towed(8) to(9) the(10) dealer(11) that(12) fixed(13) the(14) transmission(15) ((16) POMPANO_HONDA(17) )(18) in(19) the(20) first(21) place(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			They(1) precede(2) to(3) tall(4) me(5) that(6) all(7) three(8) motor(9) mounts(10) have(11) failed(12) and(13) will(14) cost(15) me(16) $600_dollars(17) to(18) replace(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			Well_I(1) was(2) pretty(3) much(4) stuck(5) the(6) tow(7) cost(8) me(9) $75(10) and(11) I(12) wasn(13) t(14) going(15) to(16) tow(17) it(18) anywhere(19) else(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			They(1) told(2) me(3) it(4) will(5) take(6) a(7) few(8) days(9) to(10) get(11) the(12) mounts(13) and(14) install(15) ,(16) also(17) they(18) said(19) your(20) close(21) to(22) the(23) limit(24) we(25) recommend(26) for(27) a(28) timing(29) belt(30) ,(31) so(32) with(33) that(34) they(35) include(36) new(37) belts(38) and(39) a(40) water(41) pump(42) ,(43) that(44) s(45) another(46) thing(47) anyway(48) my(49) water(50) pump(51) had(52) started(53) leaking(54) a(55) few(56) weeks(57) prior(58) to(59) this(60) .(61) 
+		</sentence>
+		<sentence id="30">
+			So_that(1) was(2) another(3) 600(4) ,(5) then(6) they(7) said(8) that(9) something(10) was(11) wrong(12) with(13) the(14) linkage(15) to(16) the(17) fuel(18) injector(19) and(20) the(21) throttle(22) was(23) not(24) closing(25) all(26) the(27) way(28) and(29) that(30) could(31) be(32) hazardous(33) .(34) 
+		</sentence>
+		<sentence id="31">
+			All(1) in_all(2) that(3) entire(4) trip(5) cost(6) me(7) around(8) $1800(9) It(10) gets(11) better(12) 2(13) days(14) later(15) after(16) I(17) get(18) my(19) car(20) back(21) ;(22) it(23) develops(24) this(25) loud(26) screech(27) like(28) the(29) belts(30) are(31) loose(32) ,(33) I(34) take(35) a(36) day(37) off(38) work(39) bring(40) it(41) in(42) .(43) 
+		</sentence>
+		<sentence id="32">
+			They(1) say(2) they(3) fixed(4) it(5) ,(6) 2(7) days(8) go(9) by(10) ,(11) screech(12) returns(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			I(1) go(2) back(3) to(4) the(5) dealer(6) and(7) I(8) m(9) pretty(10) ticked(11) off(12) so(13) they(14) give(15) me(16) a(17) loaner(18) as(19) I(20) told(21) them(22) I(23) am(24) about(25) to(26) loose(27) my(28) job(29) for(30) taking(31) off(32) work(33) so(34) much(35) to(36) bring(37) this(38) in(39) .(40) 
+		</sentence>
+		<sentence id="34">
+			They(1) call(2) me(3) a(4) couple(5) hours(6) later(7) and(8) tell(9) me(10) Sir_I(11) am(12) not(13) sure(14) what(15) we(16) can(17) do(18) for(19) you(20) ,(21) at(22) this(23) point(24) you(25) may(26) want(27) to(28) consider(29) trading(30) the(31) car(32) in(33) ,(34) it(35) is(36) getting(37) old(38) and(39) very(40) high(41) in(42) mileage(43) ((44) 69,000_miles(45) mind(46) you(47) )(48) I(49) was(50) floored(51) by(52) this(53) as(54) the(55) car(56) didn(57) t(58) have(59) that(60) screech(61) when(62) I(63) went(64) in(65) there(66) .(67) 
+		</sentence>
+		<sentence id="35">
+			I(1) do(2) some(3) searching(4) and(5) find(6) the(7) president(8) of(9) the(10) dealer(11) after(12) numerous(13) voice(14) mails(15) a(16) manager(17) calls(18) me(19) and(20) says(21) I(22) m(23) sorry(24) you(25) were(26) told(27) all(28) that(29) ...(30) we(31) found(32) the(33) problem(34) was(35) our(36) mistake(37) please(38) come(39) down(40) return(41) the(42) loaner(43) and(44) get(45) your(46) car(47) .(48) 
+		</sentence>
+		<sentence id="36">
+			Ah(1) Ha_I(2) got(3) smart(4) this(5) time(6) I(7) picked(8) it(9) up(10) I(11) drove(12) a(13) block(14) down(15) the(16) street(17) parked(18) it(19) in(20) parking(21) lot(22) I(23) let(24) it(25) warm(26) up(27) I(28) revved(29) it(30) up(31) a_bit(32) ((33) not(34) high(35) or(36) anything(37) to(38) damage(39) my(40) motor(41) )(42) It(43) s(44) back(45) ,(46) the(47) screech(48) that(49) is(50) people(51) all(52) over(53) the(54) parking(55) lot(56) are(57) glaring(58) at(59) me(60) ,(61) I(62) get(63) at(64) red(65) lights(66) people(67) roll(68) up(69) there(70) windows(71) and(72) give(73) me(74) a(75) dirty(76) look(77) LOL_So_I(78) pull(79) back(80) in(81) to(82) the(83) sales(84) lot(85) this(86) time(87) and(88) I(89) was(90) like(91) hey(92) buy(93) a(94) Honda(95) and(96) get(97) it(98) serviced(99) here(100) and(101) this(102) is(103) what(104) it(105) will(106) sound(107) like(108) O(109) and(110) they(111) will(112) tell(113) you(114) when(115) its(116) only(117) 4.5(118) years(119) old(120) its(121) time(122) for(123) a(124) new(125) car(126) !(127) !(128) 
+		</sentence>
+		<sentence id="37">
+			Well(1) the(2) manager(3) there(4) didn(5) t(6) like(7) that(8) one_bit(9) he(10) took(11) my(12) car(13) to(14) service(15) bay(16) ripped(17) the(18) key(19) off(20) the(21) peg(22) for(23) the(24) loaner(25) said(26) HERE(27) take(28) the(29) loaner(30) I(31) will(32) have(33) my(34) best(35) men(36) on(37) the(38) car(39) till(40) its(41) fixed(42) .(43) 2(44) days(45) later(46) I(47) get(48) a(49) call(50) ,(51) we(52) found(53) the(54) problem(55) the(56) tech(57) that(58) installed(59) the(60) water(61) pump(62) FORGOT(63) to(64) add(65) water(66) pump(67) lubricant(68) to(69) the(70) radiator(71) fluid(72) .(73) 
+		</sentence>
+		<sentence id="38">
+			I(1) thought(2) he(3) was(4) trying(5) to(6) blow(7) smoke(8) up(9) my(10) rear(11) so(12) I(13) said(14) really(15) ,(16) can(17) I(18) have(19) the(20) part(21) number(22) and(23) what(24) is(25) the(26) tech(27) bulletin(28) for(29) this(30) ((31) in(32) utter(33) shock(34) that(35) I(36) knew(37) dealers(38) work(39) off(40) tech(41) bulletins(42) )(43) he(44) scrambled(45) a_bit(46) and(47) gave(48) it(49) to(50) me(51) .(52) 
+		</sentence>
+		<sentence id="39">
+			The(1) part(2) in(3) reference(4) is(5) real(6) ,(7) but(8) the(9) bulletin(10) didn(11) t(12) apply(13) at(14) all(15) to(16) my(17) model(18) year(19) car(20) it(21) was(22) for(23) 1997(24) .(25) 
+		</sentence>
+		<sentence id="40">
+			So(1) who(2) knows(3) if(4) I(5) even(6) have(7) the(8) right(9) pump(10) in(11) my(12) car(13) ?(14) 
+		</sentence>
+		<sentence id="41">
+			Also(1) 2(2) days(3) later(4) the(5) check(6) engine(7) light(8) comes(9) on(10) they(11) wouldn(12) t(13) even(14) look(15) at(16) it(17) with(18) out(19) a(20) diagnose(21) fee(22) of(23) $200(24) so(25) I(26) asked(27) what(28) normally(29) goes(30) wrong(31) on(32) these(33) model(34) year(35) cars(36) with(37) this(38) mileage(39) ,(40) ((41) I(42) know(43) they(44) aren(45) t(46) magicians(47) but(48) they(49) work(50) on(51) these(52) cars(53) day(54) in(55) and(56) day(57) out(58) and(59) they(60) pretty(61) much(62) know(63) were(64) to(65) start(66) )(67) ,(68) so(69) I(70) was(71) advised(72) they(73) think(74) it(75) is(76) the(77) O2(78) sensor(79) .(80) 
+		</sentence>
+		<sentence id="42">
+			I(1) go(2) to(3) my(4) local(5) auto(6) supply(7) shop(8) and(9) the(10) 02(11) sensor(12) was(13) only(14) $70(15) so(16) I(17) put(18) it(19) in(20) my(21) self(22) and(23) the(24) light(25) has(26) gone(27) off(28) and(29) staid(30) off(31) .(32) 
+		</sentence>
+		<sentence id="43">
+			Current(1) :(2) The(3) transmission(4) is(5) worse(6) then(7) ever(8) it(9) shakes(10) when(11) it(12) goes(13) to(14) final(15) again(16) ;(17) the(18) engine(19) slams(20) when(21) it(22) shifts(23) from(24) first(25) to(26) second(27) .(28) 
+			<opinion polarity="-" feature="engine" featWords="19" opWords="20"/>
+		</sentence>
+		<sentence id="44">
+			I(1) have(2) done(3) a(4) tune(5) up(6) on(7) the(8) car(9) for(10) a(11) ruff(12) idle(13) ((14) I(15) replaced(16) the(17) wires(18) with(19) OEM(20) ones(21) from(22) the(23) dealer(24) and(25) put(26) in(27) Bosch(28) platinum(29) plugs(30) )(31) still(32) idling(33) ruff(34) .(35) 
+		</sentence>
+		<sentence id="45">
+			Also(1) the(2) car(3) is(4) on(5) it(6) third(7) set(8) of(9) brake(10) rotors(11) ,(12) for(13) some(14) reason(15) ,(16) and(17) I(18) never(19) had(20) a(21) problem(22) with(23) any(24) other(25) car(26) doing(27) this(28) the(29) rotors(30) warp(31) and(32) cause(33) a(34) vibration(35) in(36) the(37) peddle(38) and(39) the(40) car(41) to(42) shake(43) as(44) it(45) is(46) stopping(47) .(48) 
+		</sentence>
+		<sentence id="46">
+			Also(1) I(2) am(3) on(4) my(5) 5th(6) brake(7) job(8) the(9) first(10) one(11) was(12) at(13) 9,000_miles(14) LOL_MPG(15) :(16) I(17) am(18) getting(19) around(20) 19MPG(21) as(22) of(23) right(24) now(25) with(26) a(27) mix(28) of(29) highway(30) and(31) city(32) driving(33) Fit(34) and(35) Finish(36) :(37) The(38) interior(39) of(40) the(41) car(42) is(43) definitely(44) not(45) up(46) to(47) Honda(48) standards(49) ,(50) There(51) is(52) a(53) plastic(54) cover(55) that(56) covers(57) the(58) fuse(59) box(60) sense(61) day_one(62) keeps(63) falling(64) off(65) on(66) my(67) leg(68) as(69) I(70) drive(71) ...(72) so(73) I(74) threw(75) in(76) the(77) trunk(78) Honda(79) could(80) not(81) fix(82) it(83) the(84) 15_times(85) i(86) asked(87) .(88) 
+		</sentence>
+		<sentence id="47">
+			There(1) is(2) a(3) plastic(4) piece(5) that(6) covers(7) the(8) steering(9) column(10) ,(11) the(12) screws(13) fall(14) out(15) constantly(16) causing(17) it(18) to(19) come(20) off(21) .(22) 
+		</sentence>
+		<sentence id="48">
+			One(1) day(2) going(3) to(4) open(5) my(6) drivers(7) door(8) ,(9) it(10) got(11) stuck(12) I(13) pushed(14) it(15) and(16) the(17) little(18) lever(19) that(20) guides(21) it(22) and(23) hold(24) it(25) open(26) so(27) it(28) does(29) not(30) come(31) back(32) at(33) you(34) broke(35) .(36) 
+		</sentence>
+		<sentence id="49">
+			The(1) car(2) has(3) developed(4) squeaks(5) and(6) rattles(7) in(8) drivers(9) rear(10) ,(11) passenger(12) front(13) and(14) somewhere(15) in(16) the(17) dash(18) .(19) 
+		</sentence>
+		<sentence id="50">
+			Screw(1) that(2) hold(3) the(4) center(5) console(6) together(7) rattled(8) out(9) and(10) caused(11) the(12) center(13) console(14) to(15) come(16) loose(17) ,(18) I(19) found(20) the(21) screws(22) and(23) put(24) back(25) in(26) .(27) 
+		</sentence>
+		<sentence id="51">
+			Body(1) :(2) I(3) have(4) developed(5) some(6) rust(7) on(8) the(9) inside(10) area(11) of(12) the(13) trunk(14) around(15) the(16) area(17) of(18) the(19) weather(20) stripping(21) ,(22) also(23) devolved(24) some(25) rust(26) small(27) spots(28) of(29) rust(30) on(31) the(32) roof(33) .(34) 
+		</sentence>
+		<sentence id="52">
+			The(1) paid(2) still(3) looks(4) good(5) as(6) I(7) try(8) to(9) keep(10) up(11) on(12) washing(13) and(14) waxing(15) .(16) 
+		</sentence>
+		<sentence id="53">
+			Comfort(1) :(2) This(3) is(4) a(5) compact(6) car(7) ,(8) not(9) a(10) luxury(11) car(12) ,(13) and(14) this(15) car(16) reminds(17) you(18) of(19) it(20) every(21) time(22) you(23) drive(24) it(25) .(26) 
+			<opinion polarity="-" feature="car" featWords="12" opWords="9,11"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="54">
+			The(1) seats(2) are(3) fairly(4) comfortable(5) ,(6) but(7) when(8) you(9) shut(10) the(11) door(12) the(13) door(14) is(15) almost(16) against(17) you(18) ,(19) your(20) leg(21) push(22) s(23) against(24) the(25) center(26) console(27) ,(28) and(29) the(30) seating(31) position(32) in(33) the(34) car(35) is(36) really(37) low(38) ,(39) not(40) as(41) bad(42) as(43) a(44) corvette(45) per(46) se(47) but(48) the(49) seats(50) are(51) low(52) ,(53) so(54) it(55) makes(56) getting(57) out(58) of(59) the(60) car(61) hard(62) sometimes(63) .(64) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="55">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 15,500.00(7) Condition(8) :(9) NewModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) LX(16) 
+		</sentence>
+	</text>
+</review>

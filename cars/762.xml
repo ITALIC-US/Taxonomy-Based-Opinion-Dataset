@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="762" item="2000 Chrysler Town & Country" rating="2">
+	<title>
+		<sentence id="1">
+			Rolling_Wreck(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sleek(1) styling(2) ,(3) user(4) friendly(5) ,(6) comfortable(7) interior(8) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="4,5"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Gas(1) mileage(2) not(3) as(4) good(5) as(6) expected(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) not(3) buy(4) another(5) Chrysler_Product(6) if(7) they(8) do(9) not(10) replace(11) this(12) ROLLING_WRECK(13) .(14) 
+			<opinion polarity="-" feature="car" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) the(3) first(4) mini-van(5) I(6) have(7) ever(8) purchased(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) test(2) drove(3) all(4) the(5) different(6) mini-vans(7) on(8) the(9) market(10) prior(11) to(12) purchasing(13) the(14) Chrysler_Town_&_Country(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) the(3) Town_&_Country(4) because(5) it(6) was(7) suppose(8) to(9) be(10) the(11) premiere(12) mini-van(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Let(1) me(2) just(3) say(4) that(5) starting(6) around(7) 9000_miles(8) my(9) problems(10) began(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) been(3) one(4) repair(5) after(6) another(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) repairs(2) have(3) ranged(4) from(5) steering(6) parts(7) to(8) a(9) full(10) front(11) end(12) and(13) suspension(14) replacement(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Yes(1) everything(2) has(3) been(4) taken(5) care(6) of(7) by(8) the(9) warranty(10) however(11) the(12) problems(13) continue(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) recently(2) got(3) my(4) van(5) back(6) from(7) the(8) dealer(9) after(10) major(11) parts(12) replacements(13) which(14) included(15) new(16) brakes(17) and(18) rotors(19) along_with(20) the(21) rest(22) of(23) the(24) front(25) end(26) stuff(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) only(3) put(4) about(5) 500_miles(6) on(7) since(8) this(9) repair(10) and(11) my(12) brakes(13) are(14) again(15) squeaking(16) and(17) grinding(18) .(19) 
+			<opinion polarity="-" feature="brakes" featWords="13" opWords="18"/>
+			<opinion polarity="-" feature="brakes" featWords="13" opWords="16"/>
+		</sentence>
+		<sentence id="10">
+			What(1) gives(2) here(3) ?(4) 
+		</sentence>
+		<sentence id="11">
+			I(1) bought(2) this(3) van(4) thinking(5) that(6) it(7) was(8) the(9) premiere(10) mini-van(11) ,(12) but(13) now(14) I(15) am(16) wondering(17) if(18) that(19) was(20) the(21) wrong(22) choice(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			You(1) be(2) the(3) judge(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			All(1) I(2) know(3) is(4) Chrysler(5) is(6) about(7) to(8) get(9) this(10) ROLLING_WRECK(11) back(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			I(1) hope(2) that(3) this(4) helps(5) in(6) your(7) decision(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 27000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000Model(12) and(13) Options(14) :(15) Chrysler_Town_&_Country_LX(16) 
+		</sentence>
+	</text>
+</review>

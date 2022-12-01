@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="859" item="Hyatt Regency Lake Tahoe" rating="5">
+	<title>
+		<sentence id="1">
+			Warmth(1) and(2) Ambiance(3) to(4) the(5) Highest_Power(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Guest(1) room(2) bed(3) ,(4) Lone_Eagle_Grille(5) ,(6) location(7) ,(8) view(9) ,(10) spa(11) .(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) minimal(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Lobby(1) time-share(2) "(3) barker(4) "(5) ,(6) tight(7) slot(8) machines(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) resort(2) offers(3) everything(4) anyone(5) visiting(6) Lake_Tahoe(7) could(8) possibly(9) want(10) :(11) dining(12) ,(13) views(14) ,(15) wonderful(16) room(17) ,(18) on-site(19) spa(20) and(21) casino(22) ,(23) friendly(24) service(25) ,(26) and(27) proximity(28) to(29) countless(30) entertainment(31) options(32) .(33) 
+			<opinion polarity="+" feature="rooms" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="service" featWords="25" opWords="24"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) a(2) great(3) Tahoe(4) hotel(5) !(6) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			An(1) older(2) resort(3) ,(4) it(5) is(6) nice(7) although(8) somewhat(9) unspectacular(10) when(11) you(12) drive(13) up(14) for(15) the(16) first(17) time(18) .(19) 
+			<opinion polarity="+" feature="hotel" featWords="5" featRef="hotel" opWords="7"/>
+			<opinion polarity="-" feature="hotel" featWords="5" featRef="hotel" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			Then(1) ,(2) when(3) you(4) walk(5) out(6) of(7) the(8) snow(9) and(10) into(11) the(12) lobby(13) ....(14) well(15) ,(16) WOW(17) !(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) expansive(2) lobby(3) area(4) is(5) dark(6) ,(7) warm(8) ,(9) and(10) decorated(11) in(12) beautiful(13) ,(14) rustic(15) ,(16) mountain(17) chic(18) ...(19) with(20) lots(21) of(22) dark(23) wood(24) ,(25) stone(26) ,(27) and(28) high(29) beams(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			Big(1) fireplaces(2) were(3) going(4) with(5) cozy(6) leather(7) furniture(8) groupings(9) around(10) each(11) ,(12) almost(13) begging(14) us(15) to(16) curl(17) up(18) there(19) with(20) a(21) warming(22) libation(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) and(3) I(4) visited(5) the(6) week(7) before(8) Christmas(9) ,(10) and(11) the(12) numerous(13) ,(14) beautifully(15) decorated(16) lobby(17) trees(18) only(19) enhanced(20) the(21) ambiance(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			Service(1) was(2) good(3) ,(4) if(5) rather(6) laid-back(7) .(8) 
+			<opinion polarity="+" feature="service" featWords="1" opWords="3"/>
+			<opinion polarity="-" feature="service" featWords="1" opWords="7"/>
+		</sentence>
+		<sentence id="8">
+			This(1) was(2) not(3) necessarily(4) a(5) bad(6) thing(7) ,(8) but(9) was(10) rather(11) in(12) keeping(13) with(14) the(15) general(16) tone(17) of(18) this(19) quaint(20) ,(21) slow-paced(22) resort(23) town(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) there(3) if(4) you(5) needed(6) it(7) ,(8) but(9) not(10) in(11) the(12) in-your-face-everywhere-you-turn(13) sort(14) of(15) way(16) that(17) it(18) is(19) ,(20) for_instance(21) ,(22) on(23) a(24) cruise(25) ship(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) employees(3) were(4) generally(5) informal(6) ,(7) friendly(8) and(9) helpful(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="staff" featWords="3" opWords="8"/>
+			<opinion polarity="+" feature="staff" featWords="3" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) negative(3) that(4) comes(5) to(6) mind(7) was(8) a(9) kiosk(10) set(11) up(12) near(13) the(14) main(15) elevators(16) from(17) which(18) time-share(19) hawkers(20) continuously(21) beckoned(22) hotel(23) guests(24) as(25) they(26) came(27) to(28) and(29) from(30) their(31) rooms(32) .(33) 
+		</sentence>
+		<sentence id="12">
+			Walking(1) by(2) several(3) times(4) per(5) day(6) was(7) almost(8) unavoidable(9) ,(10) and(11) we(12) were(13) somewhat(14) rabidly(15) solicited(16) about(17) half(18) a(19) dozen(20) times(21) during(22) our(23) 5-night(24) visit(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			We(1) got(2) a(3) King_Hotel_Room(4) ,(5) and(6) we(7) were(8) extremely(9) happy(10) with(11) it(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			It(1) was(2) newly(3) decorated(4) ((5) and(6) looked(7) it(8) )(9) ,(10) furnished(11) in(12) sort(13) of(14) a(15) rustic-yet-contemporary(16) style(17) with(18) an(19) earthtone(20) pallette(21) .(22) 
+			<opinion polarity="+" feature="hotel" featWords="1" featRef="hotel" opWords="3,4"/>
+		</sentence>
+		<sentence id="15">
+			We(1) had(2) a(3) spacious(4) ,(5) well(6) lighted(7) bathroom(8) ((9) always(10) a(11) big(12) plus(13) for(14) me(15) !(16) )(17) ,(18) large(19) closet(20) ,(21) mini-bar(22) ,(23) armoire(24) with(25) television(26) ,(27) work(28) /(29) entertainment(30) table(31) and(32) chairs(33) ,(34) and(35) what(36) was(37) probably(38) the(39) most(40) comfortable(41) hotel(42) bed(43) I(44) have(45) ever(46) slept(47) in(48) .(49) 
+			<opinion polarity="+" feature="bed" featWords="43" opWords="40,41"/>
+			<opinion polarity="+" feature="bathroom" featWords="8" opWords="4"/>
+			<opinion polarity="+" feature="bathroom" featWords="8" opWords="6,7"/>
+			<opinion polarity="+" feature="closet" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="16">
+			The(1) bed(2) had(3) a(4) fantastic(5) mattress(6) and(7) box(8) spring(9) ((10) which(11) is(12) sometimes(13) aggravatingly(14) absent(15) )(16) ,(17) and(18) TWO(19) sheets(20) with(21) a(22) soft(23) ,(24) thermal(25) blanket(26) between(27) them(28) .(29) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) topped(3) with(4) a(5) heavy(6) down(7) comforter(8) ,(9) and(10) was(11) just(12) fabulous(13) to(14) sink(15) into(16) after(17) a(18) day(19) of(20) skiing(21) while(22) the(23) snow(24) swirled(25) and(26) wind(27) howled(28) outside(29) .(30) 
+		</sentence>
+		<sentence id="18">
+			We(1) were(2) on(3) the(4) 7th(5) floor(6) ,(7) and(8) had(9) a(10) breathtaking(11) view(12) from(13) our(14) large(15) windows(16) of(17) both(18) the(19) mountains(20) and(21) lake(22) .(23) 
+			<opinion polarity="+" feature="view" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="19">
+			The(1) resort(2) boasts(3) an(4) absolutely(5) beautiful(6) restaurant(7) and(8) lounge(9) called(10) the(11) Lone_Eagle_Grille(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			You(1) do(2) have(3) a(4) short(5) walk(6) to(7) get(8) to(9) it(10) ,(11) as(12) it(13) is(14) located(15) across(16) the(17) street(18) ((19) directly(20) on(21) the(22) shore(23) of(24) Lake_Tahoe(25) )(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			Well(1) worth(2) the(3) hike(4) ,(5) even(6) in(7) the(8) snow(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			It(1) was(2) built(3) in(4) a(5) 1920(6) 's(7) lakefront(8) lodge(9) style(10) ,(11) and(12) is(13) exquisitely(14) warm(15) and(16) romantic(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			Huge(1) picture(2) windows(3) face(4) out(5) over(6) the(7) lake(8) ,(9) and(10) outdoor(11) fireplaces(12) were(13) burning(14) on(15) the(16) lakefront(17) patio(18) where(19) a(20) well-bundled(21) ,(22) impervious-to-cold(23) crowd(24) sipped(25) cocktails(26) .(27) 
+		</sentence>
+		<sentence id="24">
+			Inside(1) ,(2) large(3) fireplaces(4) burned(5) continuously(6) and(7) more(8) of(9) the(10) vintage(11) mountain(12) decor(13) prevailed(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			On(1) one(2) side(3) ,(4) a(5) light(6) appetizer(7) menu(8) was(9) served(10) along_with(11) an(12) extensive(13) list(14) of(15) martinis(16) and(17) other(18) libations(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			The(1) other(2) side(3) of(4) the(5) lodge(6) is(7) an(8) upscale(9) restaurant(10) ((11) which(12) we(13) did(14) not(15) try(16) ,(17) but(18) looked(19) to(20) be(21) doing(22) a(23) land-office(24) business(25) )(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			I(1) highly(2) recommend(3) a(4) visit(5) to(6) the(7) cocktail(8) lounge(9) side(10) of(11) the(12) Lone_Eagle(13) ,(14) at(15) the(16) very(17) least(18) .(19) 
+			<opinion polarity="+" feature="hotel" opWords="3" potency="2"/>
+		</sentence>
+		<sentence id="28">
+			Try(1) the(2) lobster(3) bisque(4) ...(5) it(6) was(7) some(8) of(9) the(10) best(11) we(12) 'd(13) ever(14) had(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			We(1) did(2) not(3) have(4) many(5) of(6) our(7) meals(8) at(9) the(10) hotel(11) ,(12) but(13) what(14) food(15) we(16) did(17) have(18) was(19) good(20) and(21) fairly(22) priced(23) .(24) 
+			<opinion polarity="+" feature="food" featWords="15" opWords="20"/>
+			<opinion polarity="+" feature="price" opWords="22,23"/>
+		</sentence>
+		<sentence id="30">
+			In_addition(1) to(2) the(3) appetizers(4) we(5) enjoyed(6) at(7) the(8) Lone_Eagle(9) ,(10) we(11) also(12) had(13) lunch(14) and(15) drinks(16) at(17) Cutthroat_'s_Saloon(18) ((19) right(20) off(21) the(22) lobby(23) )(24) .(25) 
+		</sentence>
+		<sentence id="31">
+			It(1) 's(2) one(3) of(4) those(5) Old_West(6) throw-your-peanut-shells-on-the-floor(7) places(8) .(9) it(10) was(11) fun(12) and(13) relaxed(14) ,(15) bartenders(16) were(17) great(18) ((19) thanks(20) ,(21) Jeff(22) !(23) )(24) ,(25) and(26) both(27) food(28) and(29) beverages(30) were(31) delicious(32) and(33) priced(34) right(35) .(36) 
+			<opinion polarity="+" feature="food" featWords="28" opWords="32"/>
+			<opinion polarity="+" feature="drinks" featWords="30" opWords="32"/>
+		</sentence>
+		<sentence id="32">
+			A(1) Cosmopolitan(2) martini(3) was(4) $(5) 5(6) at(7) Cutthroat(8) 's(9) ,(10) as(11) opposed(12) to(13) $7.50(14) at(15) Lone_Eagle(16) ((17) and(18) was(19) quite(20) a_bit(21) larger(22) )(23) .(24) 
+		</sentence>
+		<sentence id="33">
+			One(1) of(2) the(3) Hyatt(4) 's(5) many(6) amenities(7) is(8) a(9) large(10) ,(11) beautiful(12) casino(13) right(14) off(15) the(16) hotel(17) lobby(18) which(19) drew(20) an(21) attractive(22) ,(23) substantial(24) crowd(25) the(26) weekend(27) we(28) were(29) there(30) .(31) 
+			<opinion polarity="+" feature="amenities" featWords="7" opWords="10"/>
+			<opinion polarity="+" feature="casino" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="34">
+			One(1) word(2) of(3) caution(4) ,(5) though(6) ...(7) the(8) slots(9) are(10) EXTREMELY(11) tight(12) at(13) the(14) Hyatt(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			You(1) will(2) very(3) easily(4) run(5) through(6) a(7) $20(8) on(9) a(10) quarter(11) slot(12) machine(13) in(14) less(15) than(16) 10(17) minutes(18) in(19) that(20) casino(21) ((22) this(23) is(24) betting(25) one(26) credit(27) at(28) a(29) time(30) )(31) .(32) 
+		</sentence>
+		<sentence id="36">
+			I(1) would(2) like(3) to(4) add(5) that(6) I(7) fully(8) expect(9) to(10) lose(11) everything(12) I(13) put(14) into(15) a(16) slot(17) machine(18) ,(19) but(20) I(21) would(22) like(23) to(24) get(25) a(26) little(27) entertainment(28) bang(29) for(30) my(31) buck(32) while(33) doing(34) so(35) .(36) 
+		</sentence>
+		<sentence id="37">
+			We(1) drove(2) about(3) 5_miles(4) to(5) the(6) west(7) to(8) Jim_Kelly_'s_Nugget_Casino(9) one(10) night(11) ((12) right(13) on(14) the(15) CA(16) /(17) NV(18) border(19) )(20) and(21) I(22) played(23) for(24) 45(25) minutes(26) with(27) one(28) $20(29) .(30) 
+		</sentence>
+		<sentence id="38">
+			They(1) boast(2) slots(3) that(4) are(5) "(6) 23_%(7) looser(8) "(9) according_to(10) Nevada(11) gambling(12) statistics(13) .(14) 
+		</sentence>
+		<sentence id="39">
+			Based(1) upon(2) my(3) personal(4) experience(5) ,(6) it(7) certainly(8) seemed(9) to(10) be(11) the(12) case(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			This(1) resort(2) also(3) offers(4) a(5) beautiful(6) new(7) spa(8) on-site(9) with(10) almost(11) any(12) treatment(13) imaginable(14) ....(15) from(16) every(17) type(18) of(19) massage(20) ,(21) to(22) hair(23) styling(24) ,(25) to(26) nails(27) ,(28) to(29) skincare(30) .(31) 
+			<opinion polarity="+" feature="spa" featWords="8" opWords="6"/>
+			<opinion polarity="+" feature="spa" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="41">
+			They(1) also(2) have(3) a(4) sauna(5) ,(6) as_well(7) as(8) a(9) large(10) jacuzzi(11) and(12) heated(13) pool(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			My(1) husband(2) enjoyed(3) an(4) 80(5) minute(6) Sierra_Stone_Massage(7) while(8) we(9) were(10) there(11) ,(12) and(13) practically(14) had(15) to(16) be(17) poured(18) back(19) into(20) the(21) room(22) afterward(23) .(24) 
+		</sentence>
+		<sentence id="43">
+			The(1) special(2) services(3) are(4) not(5) inexpensive(6) ,(7) but(8) neither(9) are(10) they(11) outrageous(12) ...(13) and(14) they(15) are(16) performed(17) in(18) a(19) lovely(20) ,(21) relaxing(22) ,(23) professional(24) environment(25) .(26) 
+			<opinion polarity="-" feature="price" opWords="5,6"/>
+		</sentence>
+		<sentence id="44">
+			The(1) Hyatt(2) is(3) located(4) on(5) the(6) North_Shore_of_Lake_Tahoe(7) ,(8) which(9) is(10) the(11) quieter(12) side(13) of(14) the(15) lake(16) .(17) 
+		</sentence>
+		<sentence id="45">
+			There(1) are(2) plenty_of(3) of(4) places(5) to(6) ski(7) all(8) around(9) the(10) lake(11) ,(12) and(13) all(14) are(15) relatively(16) centrally(17) located(18) to(19) the(20) resort(21) .(22) 
+		</sentence>
+		<sentence id="46">
+			You(1) probably(2) will(3) not(4) drive(5) more(6) than(7) 25_miles(8) in(9) either(10) direction(11) to(12) reach(13) the(14) furthermost(15) ski(16) destination(17) you(18) could(19) possibly(20) choose(21) ...(22) and(23) the(24) drive(25) is(26) spectacular(27) whichever(28) way(29) you(30) travel(31) .(32) 
+		</sentence>
+		<sentence id="47">
+			There(1) are(2) more(3) casinos(4) on(5) the(6) South_Shore(7) ((8) and(9) it(10) is(11) also(12) more(13) congested(14) and(15) touristy(16) )(17) ,(18) but(19) having(20) stayed(21) on(22) both(23) sides(24) ,(25) I(26) prefer(27) the(28) more(29) quaint(30) and(31) low-key(32) North_Shore(33) .(34) 
+		</sentence>
+		<sentence id="48">
+			Two(1) restaurant(2) recommendations(3) before(4) I(5) wrap(6) up(7) .(8) 
+		</sentence>
+		<sentence id="49">
+			If(1) you(2) visit(3) Lake_Tahoe(4) ,(5) try(6) The_Blue_Agave(7) on(8) the(9) NW(10) side(11) of(12) the(13) lake(14) .(15) 
+		</sentence>
+		<sentence id="50">
+			They(1) serve(2) up(3) some(4) of(5) the(6) freshest(7) ,(8) tastiest(9) Mexican(10) food(11) my(12) husband(13) and(14) I(15) have(16) ever(17) eaten(18) ((19) and(20) he(21) used(22) to(23) live(24) in(25) Mexico(26) !(27) )(28) .(29) 
+		</sentence>
+		<sentence id="51">
+			It(1) is(2) a(3) lovely(4) restaurant(5) with(6) a(7) beautiful(8) view(9) of(10) the(11) lake(12) ,(13) and(14) is(15) quite(16) inexpensive(17) .(18) 
+			<opinion polarity="+" feature="food" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="view" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="price" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="52">
+			For(1) a(2) memorable(3) dining(4) experience(5) when(6) money(7) is(8) no(9) object(10) ,(11) try(12) Le_Petit_Pier(13) ,(14) located(15) in(16) Tahoe_Vista(17) ((18) about(19) 7_miles(20) west(21) of(22) the(23) Hyatt(24) )(25) .(26) 
+		</sentence>
+		<sentence id="53">
+			It(1) is(2) an(3) adorable(4) French(5) restaurant(6) located(7) right(8) on(9) the(10) lakeshore(11) which(12) has(13) been(14) around(15) for(16) over(17) 30(18) years(19) .(20) 
+		</sentence>
+		<sentence id="54">
+			Le_Petit_Pier(1) has(2) been(3) featured(4) both(5) on(6) the(7) Food_Network(8) and(9) in(10) Wine_Spectator_Magazine(11) and(12) ,(13) after(14) dining(15) there(16) ,(17) I(18) can(19) certainly(20) see(21) why(22) .(23) 
+		</sentence>
+		<sentence id="55">
+			The(1) wine(2) list(3) was(4) outstanding(5) ,(6) and(7) everything(8) we(9) ordered(10) ,(11) from(12) Escargot(13) and(14) Fois_Gras(15) to(16) Lavender_Honey_Glazed_Duck_Breast(17) and(18) Herbed_Rack_of_Lamb(19) ,(20) was(21) spectacular(22) !(23) 
+		</sentence>
+		<sentence id="56">
+			Every(1) taste(2) was(3) an(4) epicurian(5) delight(6) ,(7) right(8) down(9) to(10) the(11) tiny(12) champagne(13) and(14) watermelon(15) sorbet(16) presented(17) as(18) a(19) palate(20) cleanser(21) between(22) courses(23) .(24) 
+		</sentence>
+		<sentence id="57">
+			My(1) husband(2) had(3) the(4) Creme_Brulee(5) ((6) with(7) a(8) surprise(9) berry(10) bottom(11) )(12) for(13) dessert(14) ,(15) and(16) proclaimed(17) that(18) he(19) had(20) enjoyed(21) versions(22) of(23) the(24) custard(25) "(26) in(27) the(28) shadow(29) of(30) the(31) Eiffel_Tower(32) which(33) were(34) not(35) as(36) wonderful(37) "(38) .(39) 
+		</sentence>
+		<sentence id="58">
+			I(1) digress(2) from(3) the(4) purpose(5) of(6) this(7) review(8) ,(9) but(10) the(11) meal(12) was(13) so(14) wonderful(15) and(16) the(17) ambiance(18) so(19) romantic(20) ,(21) I(22) could(23) not(24) help(25) but(26) mention(27) it(28) .(29) 
+			<opinion polarity="+" feature="food" featWords="12" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="59">
+			Be(1) prepared(2) to(3) drop(4) some(5) serious(6) change(7) if(8) you(9) go(10) ,(11) but(12) you(13) will(14) certainly(15) find(16) it(17) well(18) worth(19) it(20) !(21) 
+		</sentence>
+		<sentence id="60">
+			Overall(1) ,(2) I(3) would(4) highly(5) recommend(6) the(7) Hyatt_Regency_Lake_Tahoe_Resort(8) and(9) Casino(10) .(11) 
+			<opinion polarity="+" feature="hotel" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="61">
+			Almost(1) everything(2) you(3) could(4) want(5) is(6) under(7) one(8) roof(9) ,(10) and(11) everything(12) else(13) is(14) mere(15) minutes(16) away(17) .(18) 
+		</sentence>
+		<sentence id="62">
+			A(1) perfect(2) Lake_Tahoe(3) destination(4) !(5) 
+		</sentence>
+	</text>
+</review>

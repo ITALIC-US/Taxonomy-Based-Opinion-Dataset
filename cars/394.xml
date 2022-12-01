@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="394" item="2000 BMW Z3" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) night(2) out(3) on(4) town(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) looks(2) ,(3) comfortable(4) ,(5) and(6) fun(7) to(8) drive(9) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) little(2) expensive(3) 
+			<opinion polarity="-" feature="price" opWords="3" potency="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) a(3) great(4) car(5) to(6) show(7) off(8) to(9) your(10) friends(11) .(12) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Besides(1) being(2) a(3) little(4) to(5) expensive(6) it(7) is(8) an(9) amazing(10) car(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="6"/>
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) seen(3) it(4) in(5) so(6) many(7) colors(8) and(9) they(10) all(11) look(12) super(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) very(4) fine(5) interior(6) ,(7) but(8) it(9) 's(10) not(11) that(12) big(13) ((14) it(15) 's(16) not(17) a(18) family(19) car(20) )(21) but(22) it(23) 's(24) suitable(25) .(26) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			But(1) my(2) favorite(3) part(4) is(5) how(6) this(7) car(8) runs(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			It(1) like(2) gliding(3) on(4) ice(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			How(1) often(2) is(3) it(4) that(5) you(6) see(7) a(8) car(9) with(10) great(11) looks(12) and(13) great(14) running(15) power(16) ?(17) 
+			<opinion polarity="+" feature="design" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="8">
+			I(1) bet(2) almost(3) never(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			This(1) BMW(2) stands(3) out(4) in(5) the(6) crowd(7) ,(8) people(9) notice(10) when(11) one(12) is(13) lurking(14) about(15) on(16) the(17) highway(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Actually(1) probably(2) not(3) lurking(4) ,(5) but(6) going(7) 70MPH(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			If(1) your(2) into(3) cruzing(4) about(5) and(6) going(7) all(8) over(9) the(10) city(11) ,(12) this(13) car(14) is(15) for(16) you(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) do(2) not(3) see(4) how(5) guys(6) in(7) this(8) modern(9) society(10) could(11) pass(12) up(13) an(14) opportunity(15) to(16) grab(17) a(18) hold(19) of(20) these(21) sweet(22) smokin(23) '(24) cars(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			This(1) car(2) also(3) gives(4) you(5) great(6) features(7) ,(8) like(9) a(10) cd(11) player(12) ,(13) am(14) /(15) fm(16) radio(17) and(18) seat(19) adjustments(20) and(21) the(22) top(23) is(24) fairly(25) easy(26) to(27) take(28) down(29) .(30) 
+		</sentence>
+		<sentence id="14">
+			So(1) grab(2) your(3) cash(4) a(5) hop(6) into(7) one(8) of(9) these(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			You(1) will(2) not(3) regret(4) it(5) .(6) 
+		</sentence>
+	</text>
+</review>

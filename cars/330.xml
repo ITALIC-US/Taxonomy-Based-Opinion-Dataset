@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="330" item="1992 Saturn SL" rating="2">
+	<title>
+		<sentence id="1">
+			And(1) it(2) burns(3) burns(4) burns(5) ...(6) That(7) Motor_Oil(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap_Car(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap_Car(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) a(3) Saturn_SL_II(4) in(5) '(6) 92(7) ,(8) just(9) after(10) the(11) car(12) debuted(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			At(1) first(2) I(3) loved(4) the(5) car(6) ,(7) it(8) was(9) great(10) ...(11) but(12) then(13) things(14) started(15) to(16) happen(17) to(18) it(19) .(20) the(21) driver(22) side(23) door(24) lock(25) would(26) not(27) work(28) from(29) the(30) outside(31) ,(32) the(33) car(34) began(35) to(36) rattle(37) all(38) over(39) the(40) place(41) ,(42) the(43) stereo(44) is(45) full(46) of(47) static(48) ,(49) and(50) it(51) burns(52) oil(53) .(54) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="10"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) is(3) only(4) 7(5) years(6) old(7) ,(8) it(9) should(10) not(11) be(12) burning(13) oil(14) yet(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) very(3) disappointed(4) with(5) GM(6) on(7) this(8) one(9) .(10) usually(11) I(12) do(13) not(14) by(15) GM(16) products(17) ,(18) but(19) I(20) figured(21) I(22) would(23) give(24) them(25) a(26) chance(27) with(28) the(29) new(30) car(31) line(32) .(33) 
+			<opinion polarity="-" feature="car" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="5">
+			Big(1) mistake(2) ,(3) this(4) car(5) has(6) been(7) nothing(8) but(9) trouble(10) ,(11) and(12) it(13) is(14) on(15) it(16) 's(17) last(18) leg(19) here(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			In(1) short(2) ,(3) do(4) not(5) buy(6) a(7) Saturn(8) ,(9) better(10) yet(11) ...(12) do(13) not(14) buy(15) GM(16) .(17) 
+			<opinion polarity="-" feature="car" opWords="14,15"/>
+			<opinion polarity="-" feature="car" opWords="5,6"/>
+		</sentence>
+	</text>
+</review>

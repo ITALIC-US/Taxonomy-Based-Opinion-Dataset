@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="157" item="Oasis Cancun - All Inclusive" rating="4">
+	<title>
+		<sentence id="1">
+			Good_Times(1) at(2) Oasis_Cancun(3) ((4) Fase_I(5) )(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) rates(2) ,(3) friendly(4) staff(5) ,(6) good(7) times(8) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sometimes(1) loud(2) ,(3) some(4) restaurants(5) could(6) have(7) been(8) better(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Oasis_Cancun(1) is(2) a(3) great(4) time(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) is(3) friendly(4) ,(5) the(6) rooms(7) are(8) clean(9) ,(10) the(11) food(12) and(13) drinks(14) are(15) decent(16) and(17) the(18) overall(19) cost(20) is(21) very(22) affordable(23) .(24) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="rooms" featWords="7" opWords="9"/>
+			<opinion polarity="+" feature="food" featWords="12" opWords="16"/>
+			<opinion polarity="+" feature="drinks" featWords="14" opWords="16"/>
+			<opinion polarity="+" feature="price" featWords="20" opWords="23" potency="22"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) some(3) of(4) the(5) previous(6) reviews(7) ,(8) I(9) have(10) to(11) say(12) I(13) was(14) a(15) little(16) nervous(17) about(18) my(19) upcoming(20) 7(21) night(22) stay(23) at(24) the(25) Oasis_Cancun(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			First(1) a(2) little(3) about(4) me(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			My(1) girlfriend(2) and(3) I(4) purchased(5) a(6) 7(7) night(8) all-inclusive(9) vacation(10) package(11) from(12) SunTrips(13) for(14) the(15) end(16) of(17) May(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			We(1) 're(2) both(3) in(4) our(5) mid-twenties(6) and(7) live(8) in(9) San_Francisco(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) a(3) great(4) time(5) there(6) ,(7) and(8) experienced(9) none(10) of(11) the(12) problems(13) mentioned(14) in(15) other(16) reviews(17) !(18) 
+		</sentence>
+		<sentence id="6">
+			Our(1) check-in(2) was(3) quick(4) and(5) easy(6) ,(7) no(8) deposit(9) required(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Our(1) room(2) was(3) clean(4) ((5) and(6) cleaned(7) daily(8) )(9) ,(10) however(11) we(12) took(13) travel(14) locks(15) to(16) lock(17) our(18) suitcases(19) when(20) we(21) left(22) the(23) room(24) just(25) to(26) be(27) safe(28) .(29) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			AC(1) worked(2) fine(3) ((4) although(5) we(6) heard(7) a(8) few(9) rooms(10) on(11) the(12) floor(13) above(14) us(15) were(16) having(17) some(18) problems(19) )(20) .(21) 
+			<opinion polarity="+" feature="air conditioning units" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) grounds(3) themselves(4) were(5) very(6) clean(7) and(8) tropical(9) looking(10) .(11) 
+			<opinion polarity="+" feature="grounds" featWords="3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			The(1) majority(2) of(3) the(4) staff(5) was(6) EXTREMELY(7) friendly(8) and(9) helpful(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="5" opWords="8"/>
+			<opinion polarity="+" feature="staff" featWords="5" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			The(1) food(2) was(3) OK(4) ,(5) and(6) we(7) preferred(8) the(9) buffets(10) and(11) the(12) Mexican(13) restaurant(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			Most(1) had(2) very(3) nice(4) fruit(5) and(6) salad(7) bars(8) as_well(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			The(1) Italian(2) restaurant(3) was(4) definitely(5) the(6) worst(7) with(8) slow(9) service(10) and(11) bland(12) food(13) ,(14) and(15) the(16) Chinese(17) restaurant(18) had(19) a(20) Sushi(21) bar(22) but(23) no(24) Soy(25) sauce(26) or(27) wasabi(28) .(29) 
+			<opinion polarity="-" feature="service" featWords="10" opWords="9"/>
+			<opinion polarity="-" feature="food" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="14">
+			We(1) might(2) be(3) a(4) little(5) spoiled(6) living(7) in(8) San_Francisco(9) but(10) what(11) 's(12) up(13) with(14) that(15) ?(16) !(17) 
+		</sentence>
+		<sentence id="15">
+			But(1) overall(2) I(3) would(4) say(5) the(6) food(7) was(8) much(9) better(10) than(11) much(12) of(13) what(14) I(15) 've(16) experienced(17) in(18) other(19) countries(20) I(21) have(22) visited(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			The(1) drinks(2) were(3) also(4) pretty(5) much(6) what(7) you(8) would(9) expect(10) ,(11) cheap(12) alcohol(13) ,(14) but(15) not(16) all(17) that(18) weak(19) ,(20) and(21) considering(22) you(23) could(24) order(25) as(26) many(27) as(28) you(29) wanted(30) ,(31) we(32) had(33) no(34) problem(35) enjoying(36) ourselves(37) .(38) 
+		</sentence>
+		<sentence id="17">
+			Considering(1) the(2) all-inclusive(3) option(4) ended(5) up(6) costing(7) around(8) $15(9) /(10) day(11) ,(12) it(13) was(14) DEFINITELY(15) worth(16) it(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			We(1) ate(2) in(3) town(4) a(5) couple(6) times(7) and(8) the(9) food(10) was(11) no(12) better(13) at(14) those(15) restaurants(16) ((17) in(18) fact(19) OK_Maguey(20) 's(21) was(22) worse(23) )(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			It(1) would(2) also(3) have(4) been(5) a(6) huge(7) inconvenience(8) to(9) have(10) to(11) go(12) into(13) town(14) to(15) eat(16) every(17) meal(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			We(1) also(2) enjoyed(3) the(4) tennis(5) courts(6) which(7) were(8) clean(9) and(10) well-kempt(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			To(1) get(2) some(3) culture(4) we(5) visited(6) the(7) ruins(8) at(9) Chichen-Itza(10) ,(11) Tulum(12) ,(13) and(14) Xel-Ha(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			They(1) were(2) fun(3) excursions(4) and(5) the(6) tour(7) guides(8) were(9) very(10) good(11) ,(12) but(13) a_bit(14) pricey(15) ,(16) especially(17) Xel-Ha(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			The(1) side(2) trip(3) I(4) enjoyed(5) most(6) ,(7) surprisingly(8) to(9) me(10) ,(11) was(12) the(13) Captain_Hook_Pirate_Ship_Dinner_Cruise(14) ,(15) which(16) included(17) pirate(18) skits(19) and(20) a(21) Surf-and-Turf(22) steak(23) and(24) lobster(25) dinner(26) aboard(27) an(28) authentic(29) looking(30) pirate(31) ship(32) .(33) 
+		</sentence>
+		<sentence id="24">
+			In(1) conclusion(2) ,(3) Oasis_Cancun(4) is(5) geared(6) towards(7) the(8) young(9) crowd(10) ,(11) 18(12) -(13) 30(14) somethings(15) ,(16) and(17) if(18) that(19) 's(20) not(21) what(22) you(23) 're(24) looking(25) for(26) you(27) would(28) probably(29) have(30) a(31) better(32) time(33) somewhere(34) else(35) ((36) perhaps(37) Grand_Oasis(38) ,(39) which(40) is(41) the(42) upscale(43) adjacent(44) hotel(45) )(46) .(47) 
+		</sentence>
+		<sentence id="25">
+			If(1) however(2) ,(3) you(4) 're(5) in(6) that(7) age(8) group(9) ((10) physically(11) or(12) mentally(13) )(14) ,(15) I(16) would(17) expect(18) you(19) would(20) have(21) a(22) great(23) time(24) as(25) we(26) did(27) .(28) 
+		</sentence>
+	</text>
+</review>

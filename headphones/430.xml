@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="430" item="Sony MDR-V900 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Comfortable(1) personal(2) sound(3) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) isolation(2) ,(3) good(4) sound(5) ,(6) comfortable(7) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="comfort" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Had(1) to(2) tweak(3) the(4) equalizer(5) to(6) get(7) the(8) sound(9) I(10) wanted(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Kind(1) of(2) expensive(3) but(4) once(5) you(6) get(7) everything(8) tweaked(9) they(10) sound(11) great(12) .(13) 
+			<opinion polarity="-" feature="price" opWords="3" potency="1,2"/>
+			<opinion polarity="+" feature="sound quality" opWords="11,12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) replaced(2) my(3) aging(4) Sony(5) headphones(6) with(7) this(8) model(9) after(10) doing(11) a_lot_of(12) research(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) wanted(2) a(3) "(4) traditional(5) "(6) headphone(7) that(8) would(9) isolate(10) me(11) from(12) the(13) surrounding(14) noise(15) and(16) be(17) very(18) comfortable(19) to(20) wear(21) .(22) 
+			<opinion polarity="+" feature="comfort" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="3">
+			I(1) am(2) using(3) these(4) mainly(5) for(6) my(7) computer(8) gaming(9) so(10) I(11) want(12) comfort(13) and(14) clear(15) sound(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) sensitive(3) to(4) good(5) sound(6) but(7) far(8) from(9) an(10) audiophile(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			I(1) am(2) using(3) my(4) mainboards(5) Nforce2(6) sound(7) chip(8) so(9) I(10) 'm(11) not(12) expecting(13) perfect(14) reproduction(15) of(16) classical(17) music(18) but(19) I(20) do(21) want(22) to(23) hear(24) the(25) enemy(26) 's(27) footsteps(28) in(29) the(30) heat(31) of(32) battle(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			One(1) of(2) my(3) chief(4) complaints(5) on(6) my(7) older(8) Sony(9) headphones(10) is(11) that(12) the(13) ear(14) cup(15) is(16) not(17) very(18) deep(19) and(20) my(21) outer(22) earlobe(23) rubs(24) the(25) inner(26) part(27) of(28) the(29) driver(30) .(31) 
+			<opinion polarity="+" feature="earcups" featWords="14,15" opWords="17,19" potency="18"/>
+		</sentence>
+		<sentence id="7">
+			This(1) causes(2) a(3) headache(4) after(5) a(6) while(7) ((8) and(9) no(10) I(11) do(12) not(13) have(14) Dumbo(15) ears(16) )(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			These(1) new(2) headphones(3) are(4) much(5) deeper(6) and(7) apparently(8) the(9) driver(10) is(11) positioned(12) to(13) feed(14) the(15) sound(16) directly(17) into(18) the(19) ear(20) canal(21) ((22) it(23) is(24) offset(25) at(26) the(27) appropriate(28) angle(29) )(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			I(1) found(2) these(3) headphones(4) to(5) be(6) VERY(7) comfortable(8) ,(9) if_not(10) a_bit(11) bulky(12) .(13) 
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+			<opinion polarity="-" feature="portability" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="10">
+			The(1) Bose_Triport(2) were(3) much(4) lighter(5) but(6) also(7) 50_%(8) more(9) expensive(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) found(2) the(3) sound(4) to(5) be(6) a(7) little(8) muddy(9) but(10) by(11) adjusting(12) my(13) equalizer(14) just(15) a_bit(16) I(17) got(18) the(19) tone(20) that(21) I(22) like(23) .(24) 
+			<opinion polarity="-" feature="sound quality" featWords="4" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="12">
+			There(1) is(2) no(3) problem(4) delivering(5) volume(6) ;(7) I(8) have(9) been(10) very(11) pleased(12) with(13) the(14) level(15) of(16) sound(17) ((18) and(19) the(20) clarity(21) at(22) higher(23) levels(24) )(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			I(1) have(2) not(3) tried(4) these(5) on(6) any(7) portable(8) devices(9) but(10) I(11) would(12) think(13) they(14) would(15) have(16) problems(17) driving(18) the(19) large(20) magnets(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			These(1) were(2) not(3) designed(4) to(5) be(6) worn(7) while(8) working(9) out(10) or(11) any(12) kind(13) of(14) mobile(15) activity(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			For(1) sitting(2) in(3) front(4) of(5) a(6) computer(7) and(8) fragging(9) your(10) enemies(11) ,(12) they(13) are(14) great(15) .(16) 
+			<opinion polarity="+" feature="headphones" opWords="15"/>
+		</sentence>
+		<sentence id="16">
+			Bradman(1) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="876" item="Renaissance London Chancery Court Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Luxury_Accommodations(1) in(2) the(3) Heart_of_London(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) well(2) appointed(3) ,(4) top-notch(5) service(6) ,(7) excellent(8) central(9) London(10) location(11) 
+			<opinion polarity="+" feature="place" featWords="11" opWords="9"/>
+			<opinion polarity="+" feature="place" featWords="11" opWords="8"/>
+			<opinion polarity="+" feature="service" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="hotel" opWords="2,3" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) pricey(2) without(3) a(4) discount(5) rate(6) .(7) 
+			<opinion polarity="-" feature="price" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			Tough(1) to(2) get(3) to(4) Heathrow(5) on(6) Sunday_morning(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) for(2) the(3) budget-minded(4) traveler(5) ,(6) Marriot_'s_Renaissance_Chancery_Court(7) provides(8) luxury(9) accommodations(10) in(11) the(12) heart(13) of(14) London(15) ,(16) within(17) walking(18) distance(19) of(20) the(21) Underground(22) and(23) major(24) attractions(25) .(26) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stumbled(2) upon(3) Marriot_'s_Renaissance_Chancery_Court(4) looking(5) for(6) a(7) simple(8) hotel(9) where(10) I(11) could(12) spend(13) one(14) night(15) in(16) London(17) .(18) 
+			<opinion polarity="+" feature="hotel" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="2">
+			After(1) browsing(2) several(3) travel(4) sites(5) ,(6) I(7) looked(8) back(9) at(10) the(11) hotel(12) loyalty(13) program(14) cards(15) I(16) had(17) ,(18) and(19) compared(20) the(21) offers(22) on(23) the(24) various(25) websites(26) of(27) those(28) companies(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			I(1) found(2) the(3) best(4) value(5) at(6) the(7) Chancery_Court(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			The(1) Chancery_Court(2) is(3) a(4) very(5) new(6) hotel(7) .(8) 
+			<opinion polarity="+" feature="hotel" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			I(1) did(2) not(3) have(4) directions(5) from(6) Heathrow(7) ,(8) rather(9) ,(10) I(11) sort(12) of(13) fudged(14) things(15) on(16) the(17) Underground(18) ,(19) taking(20) the(21) Chancery_Lane(22) stop(23) ,(24) and(25) wandering(26) around(27) from(28) there(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			This(1) was(2) 7:30_in_the_morning(3) on(4) a(5) Saturday(6) ,(7) so(8) there(9) was(10) no(11) one(12) around(13) to(14) ask(15) for(16) directions(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			After(1) 40(2) minutes(3) of(4) aimless(5) searching(6) ,(7) I(8) found(9) a(10) police(11) station(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			This(1) is(2) where(3) I(4) figured(5) out(6) how(7) new(8) the(9) hotel(10) was(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Neither(1) of(2) the(3) officers(4) knew(5) of(6) the(7) hotel(8) ,(9) although(10) they(11) did(12) direct(13) me(14) to(15) a(16) Kinko(17) 's(18) just(19) three(20) blocks(21) down(22) the(23) street(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			After(1) finding(2) the(3) address(4) by(5) going(6) to(7) Marriot(8) 's(9) site(10) ,(11) I(12) was(13) informed(14) by(15) the(16) person(17) working(18) at(19) Kinko(20) 's(21) that(22) I(23) had(24) only(25) two(26) more(27) blocks(28) to(29) go(30) on(31) the(32) same(33) street(34) !(35) 
+		</sentence>
+		<sentence id="11">
+			Arriving(1) by(2) foot(3) or(4) car(5) at(6) the(7) Chancery_Court(8) ,(9) you(10) pass(11) through(12) an(13) arched(14) gateway(15) and(16) into(17) a(18) central(19) courtyard(20) that(21) is(22) about(23) 75_feet(24) by(25) 100_feet(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			The(1) hotel(2) is(3) by(4) no(5) means(6) a(7) small(8) building(9) .(10) 
+			<opinion polarity="-" feature="building" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="13">
+			In(1) the(2) courtyard(3) ,(4) I(5) was(6) directed(7) by(8) a(9) very(10) friendly(11) bellman(12) into(13) the(14) main(15) entrance(16) ,(17) where(18) I(19) went(20) to(21) the(22) front(23) desk(24) to(25) check(26) in(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			Now(1) we(2) come(3) to(4) the(5) first(6) point(7) in(8) which(9) the(10) Chancery_Court(11) really(12) wow-ed(13) me(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Many(1) hotels(2) have(3) check-in(4) times(5) as(6) early(7) as(8) noon(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			I(1) was(2) able(3) to(4) get(5) into(6) the(7) room(8) I(9) had(10) reserved(11) for(12) one(13) night(14) at(15) 9:00_AM.(16) It(17) was(18) as_if(19) they(20) knew(21) I(22) would(23) be(24) arriving(25) from(26) an(27) overnight(28) flight(29) ,(30) and(31) were(32) expecting(33) to(34) see(35) me(36) check(37) right(38) in(39) .(40) 
+		</sentence>
+		<sentence id="17">
+			Declining(1) the(2) services(3) of(4) the(5) bellhop(6) ((7) at(8) this(9) time(10) ,(11) I(12) was(13) just(14) carrying(15) a(16) small(17) overnight(18) bag(19) )(20) ,(21) I(22) took(23) the(24) nicely(25) appointed(26) elevator(27) to(28) my(29) room(30) .(31) 
+			<opinion polarity="+" feature="elevator" featWords="27" opWords="25,26"/>
+		</sentence>
+		<sentence id="18">
+			The(1) only(2) thing(3) that(4) disappointed(5) me(6) about(7) the(8) Chancery_Court(9) is(10) the(11) time(12) I(13) wasted(14) looking(15) for(16) the(17) light(18) switch(19) .(20) 
+		</sentence>
+		<sentence id="19">
+			When(1) I(2) entered(3) the(4) room(5) ,(6) nothing(7) but(8) the(9) TV(10) worked(11) ,(12) and(13) I(14) was(15) just(16) about(17) to(18) call(19) the(20) front(21) desk(22) for(23) help(24) ,(25) when(26) I(27) noticed(28) a(29) panel(30) inside(31) the(32) door(33) that(34) appeared(35) to(36) be(37) about(38) the(39) size(40) of(41) the(42) door(43) card(44) .(45) 
+		</sentence>
+		<sentence id="20">
+			I(1) would(2) have(3) been(4) a(5) little(6) happier(7) had(8) the(9) front(10) desk(11) told(12) me(13) of(14) that(15) earlier(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			Sure(1) enough(2) I(3) inserted(4) the(5) card(6) in(7) that(8) panel(9) ,(10) and(11) every(12) light(13) in(14) the(15) room(16) went(17) on(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			What(1) I(2) found(3) was(4) the(5) nicest(6) hotel(7) room(8) I(9) have(10) ever(11) been(12) in(13) .(14) 
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="23">
+			Everywhere(1) it(2) made(3) sense(4) ,(5) things(6) were(7) finished(8) in(9) fine(10) marble(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			The(1) bedclothes(2) included(3) two(4) comforters(5) and(6) about(7) 8(8) pillows(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			The(1) bathroom(2) surpassed(3) description(4) --(5) it(6) was(7) palatial(8) ,(9) finished(10) in(11) a(12) beautiful(13) green(14) stone(15) ((16) it(17) might(18) have(19) been(20) marble(21) ,(22) granite(23) ,(24) or(25) something(26) else(27) ,(28) I(29) was(30) not(31) sure(32) )(33) ,(34) and(35) there(36) was(37) a(38) speaker(39) in(40) the(41) ceiling(42) that(43) let(44) you(45) listen(46) to(47) whatever(48) was(49) on(50) the(51) television(52) .(53) 
+		</sentence>
+		<sentence id="26">
+			Even(1) little(2) things(3) like(4) the(5) shampoo(6) and(7) matches(8) were(9) high(10) quality(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			The(1) toiletries(2) were(3) supplied(4) by(5) Bath(6) and(7) Body(8) works(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			The(1) matches(2) ,(3) while(4) being(5) in(6) book(7) form(8) ,(9) were(10) actually(11) wooden(12) matches(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			I(1) did(2) not(3) try(4) the(5) restaurant(6) or(7) room(8) service(9) ,(10) but(11) I(12) found(13) the(14) concierge(15) to(16) be(17) extremely(18) helpful(19) .(20) 
+		</sentence>
+		<sentence id="30">
+			In(1) the(2) morning(3) ,(4) I(5) was(6) able(7) to(8) get(9) directions(10) to(11) the(12) nearby(13) British_Museum(14) ,(15) and(16) in(17) the(18) evening(19) ,(20) after(21) I(22) discovered(23) a(24) little(25) snag(26) with(27) my(28) flight(29) the(30) next(31) morning(32) ((33) see(34) my(35) review(36) on(37) British_Airways(38) for(39) more(40) details(41) )(42) ,(43) he(44) was(45) extremely(46) helpful(47) in(48) contacting(49) the(50) airline(51) to(52) explore(53) options(54) .(55) 
+		</sentence>
+		<sentence id="31">
+			I(1) learned(2) from(3) talking(4) to(5) him(6) that(7) the(8) building(9) had(10) previously(11) been(12) used(13) for(14) the(15) offices(16) of(17) a(18) foundation(19) of(20) some(21) sort(22) ,(23) but(24) had(25) also(26) been(27) used(28) as(29) a(30) movie(31) set(32) .(33) 
+		</sentence>
+		<sentence id="32">
+			I(1) believe(2) I(3) remember(4) The_Remains_of_the_Day(5) coming(6) up(7) in(8) that(9) conversation(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			Looking(1) at(2) the(3) place(4) ,(5) I(6) could(7) see(8) why(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			Jet(1) lag(2) ,(3) and(4) having(5) to(6) be(7) up(8) at(9) 4:00(10) AM(11) to(12) catch(13) a(14) cab(15) to(16) the(17) airport(18) ,(19) prevented(20) me(21) from(22) getting(23) the(24) best(25) sleep(26) at(27) the(28) Chancery_Court(29) ,(30) but(31) I(32) am(33) confident(34) I(35) would(36) sleep(37) well(38) indeed(39) there(40) if(41) I(42) were(43) on(44) a(45) stay(46) longer(47) than(48) one(49) night(50) .(51) 
+		</sentence>
+		<sentence id="35">
+			Talking(1) to(2) the(3) cabbie(4) on(5) the(6) way(7) to(8) the(9) airport(10) ,(11) I(12) found(13) I(14) had(15) gotten(16) a(17) great(18) deal(19) on(20) the(21) room(22) ,(23) as_well(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			He(1) felt(2) that(3) the(4) hotel(5) was(6) probably(7) a(8) 250_pound(9) ((10) $390(11) )(12) per(13) night(14) hotel(15) .(16) 
+		</sentence>
+		<sentence id="37">
+			I(1) paid(2) 99_pounds(3) ((4) $155(5) )(6) .(7) 
+		</sentence>
+		<sentence id="38">
+			This(1) certainly(2) was(3) not(4) the(5) least(6) expensive(7) hotel(8) I(9) 've(10) ever(11) visited(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			If(1) I(2) had(3) paid(4) full(5) price(6) ,(7) it(8) would(9) have(10) been(11) quite(12) costly(13) indeed(14) ,(15) but(16) if(17) I(18) 'm(19) going(20) to(21) London(22) again(23) on(24) a(25) big(26) budget(27) ,(28) the(29) Chancery_Court(30) will(31) be(32) the(33) first(34) place(35) I(36) think(37) of(38) .(39) 
+		</sentence>
+		<sentence id="40">
+			Between(1) the(2) luxurious(3) accommodations(4) ,(5) and(6) the(7) very(8) good(9) staff(10) ,(11) this(12) is(13) a(14) top-notch(15) hotel(16) .(17) 
+			<opinion polarity="+" feature="staff" featWords="10" opWords="9" potency="8"/>
+			<opinion polarity="+" feature="hotel" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

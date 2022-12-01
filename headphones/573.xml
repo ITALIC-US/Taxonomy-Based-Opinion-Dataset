@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="573" item="Bose TriPort Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Triport(1) are(2) Junk(3) 
+			<opinion polarity="-" feature="headphones" featWords="1" featRef="headphones" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great_Sound(1) ,(2) that(3) all(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Inferior(1) product(2) design(3) ,(4) product(5) will(6) eventually(7) break(8) on(9) headband(10) .(11) 
+			<opinion polarity="-" feature="design" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) experience(2) is(3) POOR(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			I(1) purchased(2) the(3) product(4) for(5) quality(6) sound(7) and(8) I(9) do(10) love(11) the(12) sound(13) ,(14) however(15) the(16) Engineers(17) at(18) Bose_Corp.(19) should(20) be(21) fired(22) !(23) 
+			<opinion polarity="+" feature="sound quality" featWords="13" opWords="11"/>
+		</sentence>
+		<sentence id="3">
+			I(1) loved(2) the(3) sound(4) of(5) my(6) first(7) pair(8) so(9) much(10) that(11) I(12) purchased(13) my(14) second(15) set(16) of(17) head(18) phones(19) -(20) shortly(21) after(22) this(23) my(24) nightmare(25) began(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			In(1) a(2) year(3) and(4) a_half(5) ,(6) I(7) have(8) had(9) to(10) send(11) both(12) pairs(13) of(14) Triport(15) headphones(16) back(17) to(18) Bose_Corp.(19) and(20) not(21) just(22) once(23) but(24) twice(25) !(26) 
+		</sentence>
+		<sentence id="5">
+			This(1) product(2) is(3) JUNK(4) ,(5) but(6) it(7) does(8) sound(9) good(10) .(11) 
+			<opinion polarity="-" feature="headphones" featWords="2" featRef="headphones" opWords="4"/>
+			<opinion polarity="+" feature="sound quality" opWords="9,10"/>
+		</sentence>
+		<sentence id="6">
+			I(1) urge(2) anyone(3) who(4) has(5) purchased(6) a(7) pair(8) ,(9) to(10) send(11) them(12) back(13) if(14) they(15) can(16) because(17) eventually(18) they(19) will(20) break(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			I(1) also(2) urge(3) anyone(4) who(5) has(6) a(7) pair(8) that(9) is(10) broken(11) to(12) send(13) them(14) back(15) .(16) 
+		</sentence>
+	</text>
+</review>

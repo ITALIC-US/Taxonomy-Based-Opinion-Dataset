@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="539" item="1995 Ford Bronco" rating="3">
+	<title>
+		<sentence id="1">
+			my(1) bronco(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) ,(2) power(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			repairs(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) my(3) 1995(4) Bronco_XLT(5) used(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) it(3) for(4) the(5) reason(6) that(7) I(8) do(9) not(10) like(11) driving(12) cars(13) and(14) I(15) have(16) always(17) been(18) a(19) truck(20) person(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			I(1) love(2) my(3) Bronco(4) to(5) death(6) ,(7) but(8) I(9) have(10) had(11) my(12) share(13) of(14) problems(15) with(16) it(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) owned(3) it(4) now(5) for(6) about(7) 2(8) years(9) and(10) I(11) have(12) dumped(13) over(14) $2600.00(15) into(16) it(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) had(3) major(4) front(5) end(6) repairs(7) to(8) it(9) as_well(10) as(11) rear-end(12) repairs(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			These(1) repairs(2) were(3) not(4) due(5) to(6) the(7) fact(8) that(9) I(10) drive(11) my(12) Bronco(13) hard(14) because(15) I(16) do(17) not(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			I(1) have(2) had(3) my(4) Bronco(5) for(6) 2(7) years(8) and(9) have(10) put(11) about(12) 45000_miles(13) on(14) it(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) latest(2) thing(3) to(4) go(5) wrong(6) with(7) it(8) is(9) my(10) ABS(11) pump(12) needs(13) to(14) be(15) replaced(16) and(17) at(18) a(19) cost(20) of(21) over(22) $900.00(23) it(24) is(25) something(26) that(27) is(28) going(29) to(30) take(31) a(32) back(33) seat(34) for_now(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			My_Bronco(1) was(2) not(3) abused(4) prior(5) to(6) me(7) owning(8) it(9) because(10) the(11) past(12) owners(13) happened(14) to(15) be(16) friends(17) of(18) some(19) of(20) my(21) relatives(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			So(1) with(2) all(3) said(4) ,(5) I(6) do(7) still(8) love(9) my(10) Bronco(11) for(12) looks(13) and(14) features(15) but(16) I(17) have(18) had(19) my(20) share(21) of(22) expenses(23) with(24) it(25) ,(26) that(27) has(28) dampened(29) my(30) feeling(31) on(32) it(33) a_bit(34) .(35) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+	</text>
+</review>

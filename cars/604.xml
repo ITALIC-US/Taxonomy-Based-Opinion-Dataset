@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="604" item="2000 Toyota Sienna" rating="2">
+	<title>
+		<sentence id="1">
+			Sienna_Engine_Sludge(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) well(3) thought(4) out(5) interior(6) .(7) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="3,4,5"/>
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Easy(1) to(2) reconfigure(3) seats(4) .(5) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Many(1) owners(2) reporting(3) engine(4) sludge(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) car(2) except_for(3) the(4) engine(5) sludge(6) .(7) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) absolutely(2) loved(3) my(4) car(5) until(6) the(7) engine(8) quit(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) my(3) case(4) was(5) just(6) bad(7) luck(8) because(9) I(10) have(11) always(12) had(13) good(14) experience(15) with(16) Toyota(17) cars(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			After(1) conducting(2) some(3) preliminary(4) research(5) ,(6) I(7) have(8) discovered(9) that(10) the(11) problem(12) is(13) more(14) widespread(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) engine(2) sludge(3) problems(4) are(5) not(6) covered(7) by(8) the(9) manufacturers(10) warranty(11) because(12) the(13) company(14) attributes(15) the(16) problem(17) to(18) poor(19) vehicle(20) maintenance(21) by(22) the(23) owner(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) suggest(3) prospective(4) buyers(5) seek(6) out(7) detailed(8) information(9) on(10) this(11) developing(12) problem(13) prior(14) to(15) making(16) a(17) final(18) purchase(19) decision(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) did(3) my(4) research(5) prior(6) to(7) purchasing(8) this(9) vehicle(10) ,(11) I(12) did(13) not(14) notice(15) any(16) bad(17) reviews(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			During(1) my(2) most(3) recent(4) research(5) ,(6) there(7) are(8) numerous(9) references(10) to(11) the(12) problems(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			The(1) most(2) recent(3) reference(4) was(5) made(6) by(7) Vince_Reynolds(8) in(9) an(10) August_02_,_2001(11) review(12) of(13) Honda(14) versus(15) Toyota(16) minivans(17) at(18) the(19) Epinions(20) .(21) com(22) website(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 29000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2000(12) 
+		</sentence>
+	</text>
+</review>

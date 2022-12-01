@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="370" item="1998 Honda Accord" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) Accord(2) as(3) a(4) family(5) car(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) size(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wind_Noise(1) ,(2) acceleration(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Pros(1) :(2) More(3) interior(4) room(5) than(6) most(7) cars(8) in(9) its(10) class(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) for(2) five(3) adults(4) .(5) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Excellent(1) resale(2) .(3) 
+		</sentence>
+		<sentence id="4">
+			Good(1) mileage(2) .(3) 
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="5">
+			Warranty(1) acceptable(2) .(3) 
+		</sentence>
+		<sentence id="6">
+			Repair(1) cost(2) is(3) low(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			Car(1) is(2) reliable(3) and(4) inexpensive(5) to(6) operate(7) .(8) 
+			<opinion polarity="+" feature="price" opWords="5"/>
+			<opinion polarity="+" feature="reliability" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			Cons(1) :(2) To(3) much(4) wind(5) noise(6) when(7) driving(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			If(1) one(2) moves(3) from(4) city(5) driving(6) to(7) freeway(8) traffic(9) ,(10) you(11) must(12) turn(13) the(14) radio(15) way(16) up(17) to(18) hear(19) it(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			The(1) car(2) has(3) a(4) lurch(5) in(6) the(7) shifting(8) when(9) one(10) slows(11) down(12) and(13) then(14) accelerates(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			It(1) acts(2) like(3) a(4) delay(5) to(6) get(7) fuel(8) to(9) the(10) engine(11) and(12) then(13) jerks(14) forward(15) in(16) an(17) unacceptable(18) manner(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) has(3) been(4) checked(5) at(6) three(7) different(8) dealers(9) and(10) is(11) set(12) an(13) what(14) Honda(15) calls(16) an(17) acceptable(18) tolerance(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			Have(1) discussed(2) this(3) with(4) other(5) Accord(6) owners(7) and(8) they(9) have(10) the(11) same(12) complaint(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Exterior(1) paint(2) finish(3) is(4) low(5) quality(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			It(1) does(2) not(3) hold(4) up(5) to(6) normal(7) wear(8) and(9) tear(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			Consensus(1) :(2) Would(3) not(4) purchase(5) another(6) Honda(7) product(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			Their(1) reputation(2) is(3) better(4) than(5) the(6) current(7) product(8) .(9) 
+		</sentence>
+	</text>
+</review>

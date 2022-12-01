@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="253" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Nissan_Maxima_Specs(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) car(2) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			expensive(1) 
+			<opinion polarity="-" feature="price" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			EXTERIOR(1) :(2) 7(3) Okay(4) ,(5) so(6) it(7) 's(8) a(9) little(10) boring(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			In(1) fact(2) ,(3) my(4) friend(5) at(6) the(7) Honda(8) /(9) Acura(10) dealer(11) was(12) a(13) little(14) surprised(15) I(16) did(17) not(18) want(19) to(20) see(21) the(22) new(23) S2000(24) instead(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			But(1) the(2) Accord_DOES(3) look(4) stately(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			Maybe(1) classy(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			Add(1) some(2) alloy(3) wheels(4) and(5) it(6) looks(7) almost(8) like(9) an(10) entry-level(11) luxury(12) sedan(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			To(1) demonstrate(2) :(3) glance(4) at(5) the(6) Lexus(7) ES300(8) on(9) this(10) site(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Then(1) quickly(2) look(3) at(4) the(5) Accord(6) again(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			I(1) may(2) be(3) speaking(4) heresy(5) ,(6) but(7) at(8) a(9) glance(10) ,(11) the(12) two(13) look(14) remarkably(15) similar(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Overall(1) ,(2) the(3) exterior(4) implies(5) dependability(6) ,(7) functionality(8) ,(9) and(10) maybe(11) a(12) little(13) fun(14) ,(15) if(16) you(17) look(18) hard(19) enough(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			INTERIOR(1) :(2) 9(3) The(4) interior(5) of(6) the(7) Honda_Accord(8) is(9) nearly(10) flawless(11) .(12) 
+			<opinion polarity="+" feature="interior" featWords="5" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="11">
+			The(1) seats(2) are(3) comfy(4) ,(5) and(6) the(7) dash(8) is(9) the(10) cleanest(11) layout(12) I(13) have(14) yet(15) to(16) see(17) in(18) a(19) car(20) .(21) 
+			<opinion polarity="+" feature="seat" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="12">
+			Everything(1) is(2) perfectly(3) situated(4) ,(5) and(6) easy(7) to(8) operate(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			A(1) few(2) quirks(3) exist(4) ,(5) like(6) oddly(7) placed(8) sunroof(9) controls(10) ,(11) a(12) dash(13) dimmer(14) that(15) sits(16) BEHIND(17) the(18) wheel(19) ,(20) and(21) cup(22) holders(23) that(24) open(25) AWAY(26) from(27) you(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			But(1) I(2) 'll(3) forgive(4) that(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) plenty_of(3) passenger(4) room(5) all(6) around(7) ,(8) even(9) in(10) the(11) back(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			The(1) trunk(2) has(3) been(4) enlarged(5) to(6) hold(7) 14_cubic_feet(8) of(9) cargo(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			The(1) climate(2) control(3) system(4) is(5) powerful(6) with(7) logical(8) dials(9) .(10) 
+			<opinion polarity="+" feature="climate" featWords="2,3" opWords="6"/>
+		</sentence>
+		<sentence id="18">
+			The(1) sound(2) system(3) is(4) good(5) for(6) factory(7) ,(8) but(9) an(10) upgrade(11) would(12) not(13) hurt(14) ,(15) as(16) I(17) say(18) for(19) all(20) Hondas(21) .(22) 
+			<opinion polarity="+" feature="sound system" featWords="2,3" opWords="5"/>
+		</sentence>
+		<sentence id="19">
+			Still(1) ,(2) I(3) 'm(4) sure(5) this(6) interior(7) is(8) the(9) envy(10) of(11) many(12) car(13) manufacturers(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			ENGINE(1) :(2) 8(3) The(4) 3.0L(5) 200(6) HP(7) V6(8) engine(9) gives(10) out(11) 195(12) lb(13) .(14) -(15) ft(16) .(17) of(18) torque(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			While(1) this(2) is(3) no(4) sports(5) car(6) ,(7) the(8) engine(9) has(10) plenty_of(11) juice(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			This(1) engine(2) is(3) better(4) classified(5) as(6) refined(7) than(8) sporty(9) ,(10) anyway(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			Sure(1) ,(2) it(3) gives(4) you(5) a(6) little(7) kick(8) if(9) you(10) floor(11) it(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			But(1) the(2) shifting(3) is(4) incredibly(5) smooth(6) .(7) 
+			<opinion polarity="+" feature="shifter" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="25">
+			Highway(1) passing(2) is(3) not(4) a(5) problem(6) .(7) 
+		</sentence>
+		<sentence id="26">
+			My(1) gripe(2) with(3) the(4) V6(5) model(6) is(7) that(8) no(9) manual(10) transmission(11) is(12) available(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			Only(1) the(2) four-bangers(3) have(4) it(5) .(6) ((7) BUT(8) -(9) if(10) you(11) get(12) a(13) manual(14) tranny(15) you(16) can(17) not(18) get(19) ABS(20) !(21) ai(22) not(23) that(24) something(25) ?(26) )(27) HANDLING(28) :(29) 7(30) If_the_Accord(31) has(32) any(33) parallels(34) to(35) its(36) pedestrian(37) exterior(38) ,(39) it(40) 's(41) the(42) handling(43) .(44) 
+		</sentence>
+		<sentence id="28">
+			Not(1) too(2) fun(3) .(4) 
+		</sentence>
+		<sentence id="29">
+			While(1) the(2) steering(3) is(4) impeccable(5) ,(6) the(7) Accord(8) is(9) not(10) the(11) best(12) dance(13) partner(14) .(15) 
+			<opinion polarity="+" feature="steering" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="30">
+			On(1) hard(2) turns(3) ,(4) the(5) tires(6) give(7) out(8) and(9) the(10) rest(11) of(12) the(13) body(14) dips(15) sharply(16) as_if(17) to(18) say(19) "(20) HEY(21) !(22) You(23) got(24) me(25) to(26) go(27) from(28) point(29) A(30) to(31) point(32) B(33) ,(34) remember(35) ?(36) "(37) It(38) 's(39) not(40) terrible(41) ((42) 7_out_of_10(43) ai(44) not(45) bad(46) )(47) -(48) but(49) I(50) still(51) expected(52) better(53) .(54) 
+		</sentence>
+		<sentence id="31">
+			In(1) short(2) ,(3) it(4) handles(5) like(6) a(7) sedan(8) ((9) surprise(10) )(11) but(12) is(13) not(14) much(15) fun(16) to(17) drive(18) .(19) 
+			<opinion polarity="-" feature="car" opWords="14,16"/>
+		</sentence>
+		<sentence id="32">
+			RIDE(1) :(2) 8(3) The_Accord(4) rides(5) smoothly(6) ,(7) *(8) solidly(9) *(10) ,(11) and(12) handles(13) irregularities(14) of(15) city(16) roads(17) quite(18) well(19) .(20) 
+			<opinion polarity="+" feature="ride quality" opWords="5,9"/>
+			<opinion polarity="+" feature="ride quality" opWords="5,6"/>
+		</sentence>
+		<sentence id="33">
+			Pavement(1) creases(2) on(3) highway(4) bridges(5) are(6) nicely(7) muffled(8) .(9) 
+		</sentence>
+		<sentence id="34">
+			The(1) Accord(2) rides(3) very(4) much(5) like(6) a(7) luxury(8) car(9) .(10) 
+		</sentence>
+		<sentence id="35">
+			The(1) only(2) exception(3) is(4) the(5) excessive(6) road(7) hum(8) at(9) cruising(10) speeds(11) ,(12) and(13) perhaps(14) just(15) a(16) pinch(17) too(18) much(19) engine(20) noise(21) .(22) 
+		</sentence>
+		<sentence id="36">
+			RELIABILITY(1) :(2) 10(3) I(4) do(5) not(6) think(7) I(8) have(9) to(10) tell(11) you(12) that(13) Accords(14) have(15) always(16) had(17) exemplary(18) reliability(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			No(1) matter(2) how(3) many(4) generations(5) of(6) the(7) Accord(8) go(9) by(10) ((11) this(12) is(13) the(14) sixth(15) )(16) ,(17) the(18) Accord(19) stays(20) true(21) to(22) its(23) promise(24) of(25) dependability(26) .(27) 
+		</sentence>
+		<sentence id="38">
+			Even(1) despite(2) the(3) fact(4) that(5) it(6) 's(7) put(8) together(9) here(10) in(11) the(12) US(13) of(14) A(15) ((16) Marysville(17) ,(18) OH(19) )(20) .(21) 
+		</sentence>
+		<sentence id="39">
+			VALUE(1) :(2) 8(3) The_Accord(4) will(5) withstand(6) the(7) test(8) of(9) time(10) ...(11) that(12) 's(13) the(14) car(15) 's(16) main(17) selling(18) point(19) .(20) 
+		</sentence>
+		<sentence id="40">
+			Only(1) problem(2) is(3) :(4) you(5) 're(6) buying(7) into(8) the(9) Honda(10) name(11) ,(12) which(13) gets(14) you(15) fewer(16) features(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			Base_Accords(1) come(2) in(3) pretty(4) bare(5) compared(6) to(7) competitors(8) that(9) cost(10) less(11) ,(12) offer(13) extra(14) goodies(15) ,(16) and(17) even(18) have(19) more(20) ...(21) panache(22) ,(23) let(24) 's(25) say(26) .(27) 
+		</sentence>
+		<sentence id="42">
+			Meanwhile(1) ,(2) however(3) ,(4) 4.8_million(5) Accords(6) have(7) been(8) sold(9) since(10) its(11) conception(12) ,(13) which(14) says(15) a_lot(16) about(17) which(18) selling(19) points(20) matter(21) most(22) .(23) ((24) Millions_of_Elvis(25) fans(26) can(27) not(28) be(29) wrong(30) ,(31) right(32) ?(33) )(34) Honda_Accord(35) vs(36) .(37) 
+		</sentence>
+		<sentence id="43">
+			Toyota_Camry(1) :(2) The(3) only(4) car(5) in(6) this(7) class(8) that(9) enjoys(10) the(11) same(12) reliability(13) as(14) the(15) Accord(16) is(17) the(18) Toyota_Camry(19) .(20) 
+		</sentence>
+		<sentence id="44">
+			But(1) ,(2) it(3) costs(4) more(5) than(6) the(7) Accord(8) ,(9) and(10) in(11) my(12) opinion(13) ,(14) is(15) even(16) MORE(17) boring(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			do(1) not(2) get(3) me(4) wrong(5) -(6) the(7) Camry(8) is(9) a(10) FINE(11) car(12) and(13) may(14) even(15) have(16) the(17) more(18) refined(19) ride(20) of(21) the(22) two(23) .(24) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="46">
+			But(1) if(2) I(3) had(4) to(5) pick(6) ,(7) I(8) 'd(9) take(10) the(11) Honda(12) .(13) 
+		</sentence>
+		<sentence id="47">
+			THE(1) VERDICT(2) :(3) AN(4) EXCELLENT_ALL-AROUNDER_Whether(5) or(6) not(7) you(8) agree(9) that(10) the(11) Accord(12) is(13) a(14) little(15) lackluster(16) ,(17) the(18) fact(19) remains(20) that(21) this(22) car(23) is(24) a(25) very(26) smart(27) buy(28) .(29) 
+		</sentence>
+		<sentence id="48">
+			So(1) ,(2) I(3) submit(4) this(5) recommendation(6) to(7) you(8) if(9) you(10) are(11) looking(12) for(13) a(14) dependable(15) vehicle(16) for(17) yourself(18) ,(19) your(20) family(21) ,(22) or(23) someone(24) who(25) you(26) 'd(27) like(28) to(29) do(30) the(31) sensible(32) thing(33) .(34) 
+		</sentence>
+		<sentence id="49">
+			AVERAGE_SCORE(1) :(2) 8.14_out_of_10(3) VARA(4) '(5) S_PERSONAL_RATING(6) :(7) 8.5_out_of_10(8) Comfort(9) :(10) Could(11) live(12) in(13) seats(14) Quality(15) :(16) Relatively(17) quiet(18) ride(19) Roominess(20) :(21) Very(22) roomy(23) ,(24) even(25) in(26) back(27) Condition(28) :(29) New_Model_Year(30) :(31) 1999(32) Model(33) and(34) options(35) :(36) EX(37) V6(38) Sedan_Recommends(39) to(40) friends(41) ?(42) 
+			<opinion polarity="+" feature="ride quality" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="room" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="50">
+			Yes(1) 
+		</sentence>
+	</text>
+</review>

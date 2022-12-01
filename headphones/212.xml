@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="212" item="Sennheiser HD 200 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			HD-200(1) 's(2) good(3) for(4) DJ(5) mixing(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) shielding(2) from(3) external(4) sound(5) Fair(6) sound(7) quality(8) .(9) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" featWords="7,8" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			Cable(1) is(2) a(3) modular(4) design(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) moulding(2) on(3) the(4) jacks(5) is(6) weak(7) and(8) broke(9) easily(10) 
+			<opinion polarity="-" feature="jack" featWords="5" opWords="7"/>
+			<opinion polarity="-" feature="jack" featWords="5" opWords="9" potency="10"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) headphones(2) ,(3) especially(4) for(5) mixing(6) ,(7) but(8) you(9) could(10) probably(11) get(12) better(13) sound(14) for(15) the(16) money(17) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) headphones(2) are(3) pretty(4) good(5) for(6) mixing(7) dance(8) music(9) ,(10) which(11) is(12) what(13) they(14) were(15) sold(16) to(17) me(18) for(19) .(20) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			They(1) hold(2) bass(3) beats(4) fairly(5) well(6) and(7) have(8) good(9) shielding(10) from(11) the(12) ambient(13) sound(14) because(15) they(16) enclose(17) the(18) whole(19) ear(20) .(21) 
+			<opinion polarity="+" feature="bass" featWords="3" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="isolation" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) lightweight(3) and(4) come(5) with(6) a(7) very(8) long(9) cable(10) ((11) which(12) broke(13) for(14) me(15) because(16) it(17) was(18) so(19) long(20) it(21) was(22) hard(23) not(24) to(25) trip(26) on(27) )(28) ,(29) but(30) can(31) be(32) changed(33) .(34) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="cord" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			But(1) for(2) 50(3) ,(4) they(5) are(6) quite(7) expensive(8) ,(9) so(10) unless(11) you(12) really(13) need(14) the(15) ear(16) surrounding(17) design(18) ,(19) you(20) could(21) find(22) a(23) better(24) set(25) of(26) cans(27) for(28) the(29) money(30) .(31) 
+			<opinion polarity="-" feature="price" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) i(3) recommend(4) them(5) for(6) mixing(7) ,(8) they(9) really(10) do(11) the(12) job(13) for(14) this(15) .(16) 
+			<opinion polarity="+" feature="headphones" opWords="4"/>
+			<opinion polarity="+" feature="headphones" opWords="11,12,13"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="108" item="1996 GMC Sonoma" rating="5">
+	<title>
+		<sentence id="1">
+			96(1) gmc(2) sonoma(3) sle(4) 2x4(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) engine(2) smooth(3) carlike(4) ride(5) ac(6) ice(7) cold(8) 
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="3"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) base(2) tires(3) odd(4) cooling(5) characteristics(6) 
+			<opinion polarity="-" feature="tire" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			first(1) truck(2) have(3) owned(4) and(5) now(6) can(7) not(8) go(9) back(10) to(11) cars(12) ...(13) this(14) truck(15) sold(16) me(17) on(18) it(19) ,(20) very(21) good(22) with(23) forgiveable(24) quirks(25) 
+			<opinion polarity="+" feature="truck" opWords="22" potency="21"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) truck(4) after(5) my(6) 89(7) toyota(8) trecel(9) gave(10) out(11) .(12) it(13) came(14) with(15) a(16) camper(17) shell(18) that(19) looks(20) real(21) nice(22) and(23) makes(24) the(25) truck(26) look(27) bigger(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) a(3) 4.3(4) liter(5) vortec(6) v6(7) engine(8) with(9) auto(10) came(11) with(12) 80,000miles(13) which(14) i(15) am(16) told(17) is(18) not(19) alot(20) for(21) its(22) age(23) .(24) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) it(4) for(5) a(6) year(7) and(8) well(9) it(10) has(11) been(12) a(13) pretty(14) good(15) working(16) truck(17) .(18) 
+			<opinion polarity="+" feature="truck" featWords="17" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="4">
+			It(1) rides(2) and(3) runs(4) a(5) quiet(6) as(7) a(8) car(9) .(10) the(11) fit(12) and(13) finish(14) was(15) very(16) good(17) .(18) paibt(19) is(20) perfect(21) .(22) 
+			<opinion polarity="+" feature="finish" featWords="14" opWords="17" potency="16"/>
+			<opinion polarity="+" feature="comfort" featWords="12" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="5">
+			One(1) factor(2) about(3) it(4) is(5) it(6) is(7) very(8) tough(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			I(1) rearended(2) a(3) F150(4) .(5) and(6) only(7) damage(8) to(9) mine(10) was(11) a(12) loose(13) head(14) light(15) and(16) scratched(17) grill(18) wich(19) i(20) replaced(21) for(22) 30(23) bucks(24) .(25) the(26) hood(27) ,(28) bumper(29) ,(30) and(31) engine(32) were(33) fine(34) .(35) 
+			<opinion polarity="+" feature="engine" featWords="32" opWords="34"/>
+		</sentence>
+		<sentence id="7">
+			Now(1) the(2) down(3) sides(4) very(5) few(6) and(7) probably(8) not(9) super(10) important(11) .(12) extended(13) cab(14) is(15) small(16) which(17) i(18) think(19) is(20) the(21) same(22) all(23) around(24) with(25) small(26) truck(27) that(28) are(29) not(30) 4(31) full(32) size(33) doors(34) .(35) eats(36) gas(37) but(38) is(39) a(40) fair(41) trade(42) for(43) engine(44) size(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			Only(1) "(2) problem(3) "(4) i(5) had(6) really(7) was(8) water(9) pump(10) went(11) out(12) but(13) it(14) never(15) over(16) heated(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) live(2) in(3) the(4) desert(5) and(6) the(7) truck(8) 's(9) cooling(10) system(11) could(12) be(13) better(14) ...(15) but(16) the(17) ac(18) is(19) ice(20) cold(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			Also(1) standard(2) size(3) tires(4) are(5) small(6) there(7) is(8) so(9) much(10) room(11) left(12) in(13) the(14) wheel(15) well(16) and(17) trucks(18) look(19) better(20) with(21) bigger(22) tires(23) .(24) but(25) overall(26) a(27) great(28) truck(29) thinking(30) of(31) getting(32) a(33) canyon(34) after(35) i(36) pay(37) this(38) off(39) .(40) hopelly(41) by(42) then(43) they(44) will(45) have(46) a(47) v6(48) .(49) 
+			<opinion polarity="+" feature="truck" featWords="29" opWords="28"/>
+			<opinion polarity="-" feature="tire" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="11">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 4,000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1996Model(12) and(13) Options(14) :(15) 2x4(16) sle(17) v6(18) power(19) everything(20) 
+		</sentence>
+	</text>
+</review>

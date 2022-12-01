@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="492" item="Sony MDR-V150 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Cubicle(1) music(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) decent(3) quality(4) for(5) the(6) price(7) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="headphones" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) for(2) serious(3) listening(4) ,(5) headband(6) a(7) little(8) tight(9) 
+			<opinion polarity="-" feature="headband" featWords="6" opWords="9" potency="8"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) for(2) listening(3) to(4) MP3s/radio(5) in(6) cubicles(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Not(1) comfortable(2) enough(3) to(4) wear(5) all(6) day(7) though(8) .(9) 
+			<opinion polarity="-" feature="comfort" opWords="1,2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Good(1) for(2) listening(3) to(4) MP3s(5) or(6) the(7) radio(8) on(9) the(10) workplace(11) where(12) you(13) do(14) not(15) want(16) to(17) disturb(18) everyone(19) else(20) around(21) you(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			That(1) 's(2) about(3) it(4) ;(5) I(6) would(7) not(8) want(9) to(10) sit(11) through(12) a(13) DVD(14) with(15) these(16) on(17) nor(18) would(19) I(20) consider(21) them(22) to(23) be(24) anywhere(25) close(26) to(27) a(28) pair(29) of(30) "(31) good(32) "(33) headphones(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			The(1) headband(2) is(3) a(4) little(5) on(6) the(7) tight(8) side(9) ;(10) earpieces(11) are(12) not(13) that(14) comfortable(15) but(16) are(17) padded(18) enough(19) to(20) be(21) able(22) to(23) listen(24) without(25) any(26) pain(27) for(28) a(29) few(30) hours(31) .(32) 
+			<opinion polarity="-" feature="earbuds" featWords="11" opWords="13,15" potency="14"/>
+		</sentence>
+		<sentence id="4">
+			The(1) little(2) longer-than-average(3) cord(4) is(5) good(6) .(7) 
+		</sentence>
+		<sentence id="5">
+			But(1) they(2) are(3) cheap(4) and(5) do(6) the(7) job(8) that(9) they(10) ((11) supposedly(12) )(13) are(14) supposed(15) to(16) do(17) .(18) 
+			<opinion polarity="+" feature="price" opWords="4"/>
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="6,7,8"/>
+		</sentence>
+	</text>
+</review>

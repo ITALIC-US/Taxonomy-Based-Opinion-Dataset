@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="26" item="1998 Buick Regal" rating="5">
+	<title>
+		<sentence id="1">
+			Super_Car(1) at(2) a(3) Super_Price(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) mileage(2) ,(3) power(4) ,(5) good(6) handling(7) with(8) GT(9) package(10) ,(11) roomy(12) ,(13) styling(14) ,(15) never(16) been(17) in(18) the(19) shop(20) 
+			<opinion polarity="+" feature="room" opWords="12"/>
+			<opinion polarity="+" feature="handling" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="horsepower" featWords="4" opWords="1"/>
+			<opinion polarity="+" feature="gas" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cup(1) holders(2) are(3) not(4) sturdy(5) ,(6) no(7) manual(8) trunk(9) release(10) 
+			<opinion polarity="-" feature="cup holders" featWords="1,2" opWords="4,5"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) my(2) opinion(3) ,(4) this(5) car(6) is(7) the(8) best(9) in(10) its(11) class(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="9"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) classy(3) ,(4) economical(5) ,(6) reliable(7) ,(8) and(9) fun(10) to(11) drive(12) .(13) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+			<opinion polarity="+" feature="price" opWords="5"/>
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 23,700(7) Condition(8) :(9) NewModel_Year(10) :(11) 1998Model(12) and(13) Options(14) :(15) Regal_LX(16) ,(17) moon(18) roof(19) ,(20) loaded(21) 
+		</sentence>
+	</text>
+</review>

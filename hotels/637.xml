@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="637" item="Sheraton Boston" rating="3">
+	<title>
+		<sentence id="1">
+			Sheraton_Boston_Hotel(1) .....(2) Welcome(3) to(4) the(5) Rabbit_Warren(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) if(2) you(3) are(4) attending(5) a(6) convention(7) there(8) ,(9) good(10) renovation(11) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheerless(1) ,(2) ugly(3) box(4) of(5) a(6) hotel(7) ...(8) remember(9) your(10) name(11) tag(12) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommended(1) only(2) for(3) conventions(4) and(5) meetings(6) .(7) 
+			<opinion polarity="+" feature="hotel" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Everyone(1) else(2) will(3) get(4) lost(5) in(6) the(7) shuffle(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sheraton_Boston(2) is(3) one(4) of(5) those(6) big(7) box(8) hotels(9) which(10) manages(11) to(12) radiate(13) frigidity(14) ,(15) even(16) on(17) a(18) blazing(19) summer(20) 's(21) day(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) nothing(3) wrong(4) with(5) the(6) hotel(7) in(8) many(9) respects(10) ,(11) so(12) I(13) do(14) not(15) wish(16) to(17) dismiss(18) it(19) merely(20) because_of(21) its(22) bad(23) architecture(24) ,(25) but(26) one(27) must(28) harbor(29) no(30) illusions(31) about(32) the(33) place(34) before(35) venturing(36) inside(37) this(38) miniature(39) city(40) .(41) 
+		</sentence>
+		<sentence id="3">
+			The(1) Building_Planned(2) as(3) the(4) Hotel_America(5) by(6) the(7) Hotel_Corporation_of_America(8) ((9) known(10) today(11) as(12) the(13) Sonesta_Corporation(14) )(15) in_1966(16) ,(17) the(18) hotel(19) is(20) a(21) good(22) ((23) or(24) bad(25) ,(26) depending(27) upon(28) your(29) taste(30) in(31) architecture(32) )(33) example(34) of(35) the(36) brutalist(37) phase(38) of(39) the(40) Modern_Movement(41) in(42) architecture(43) .(44) 
+			<opinion polarity="+" feature="hotel" featWords="19" opWords="22"/>
+			<opinion polarity="-" feature="hotel" featWords="19" opWords="25"/>
+		</sentence>
+		<sentence id="4">
+			Picture(1) two(2) slabs(3) of(4) concrete(5) and(6) glass(7) and(8) you(9) have(10) a(11) fairly(12) good(13) idea(14) of(15) what(16) this(17) hotel(18) is(19) all(20) about(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			The(1) second(2) tower(3) was(4) added(5) in(6) the(7) late(8) 1980(9) 's(10) ,(11) but(12) it(13) offers(14) little(15) distraction(16) from(17) the(18) first(19) tower(20) ,(21) a(22) mind-numbing(23) block(24) of(25) concrete(26) and(27) glass(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			Only(1) the(2) fripperies(3) added(4) by(5) I.M._Pei(6) ,(7) most(8) notably(9) the(10) glowing(11) entrance(12) canopy(13) ,(14) added(15) any(16) sort(17) of(18) architectural(19) diversion(20) ,(21) and(22) even(23) these(24) were(25) swept(26) away(27) like(28) old(29) leaves(30) in(31) the(32) most(33) recent(34) renovation(35) of(36) the(37) exterior(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			The(1) Lobby_Huge(2) ,(3) low-ceilinged(4) and(5) impersonal(6) ,(7) this(8) lobby(9) is(10) not(11) one(12) of(13) Boston(14) 's(15) better(16) public(17) spaces(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) nothing(3) either(4) monumental(5) or(6) inviting(7) about(8) it(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			One(1) or(2) the(3) other(4) might(5) have(6) made(7) it(8) a(9) success(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			Betwixt(1) is(2) a(3) space(4) of(5) unpleasantly(6) vast(7) dimensions(8) and(9) a(10) low(11) ceiling(12) ,(13) hardly(14) a(15) recipe(16) for(17) felicitous(18) public(19) space(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Recent(1) attempts(2) at(3) giving(4) it(5) some(6) vim(7) and(8) vigor(9) ,(10) with(11) blue(12) and(13) gold(14) diamond(15) patterned(16) carpeting(17) and(18) new(19) furniture(20) have(21) made(22) it(23) fresh(24) ,(25) but(26) not(27) exactly(28) warm(29) or(30) inviting(31) .(32) 
+			<opinion polarity="+" feature="furnishings" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="12">
+			The(1) requisite(2) marble(3) floors(4) and(5) expanses(6) of(7) wood(8) paneling(9) do(10) not(11) enliven(12) the(13) space(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Take(1) note(2) of(3) the(4) vast(5) reception(6) desk(7) and(8) pray(9) that(10) there(11) will(12) not(13) be(14) a(15) long(16) line(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Chances(1) are(2) ,(3) there(4) will(5) certainly(6) be(7) one(8) waiting(9) for(10) you(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			To(1) circumvent(2) this(3) ,(4) you(5) might(6) try(7) the(8) express(9) check-in(10) option(11) ,(12) something(13) available(14) to(15) Starwood_Preferred_Guest(16) members(17) ,(18) even(19) those(20) at(21) the(22) lowliest(23) levels(24) ,(25) to(26) the(27) depths(28) of(29) which(30) I(31) have(32) recently(33) been(34) relegated(35) .(36) 
+		</sentence>
+		<sentence id="16">
+			Don(1) ''(2) t(3) you(4) just(5) love(6) being(7) demoted(8) ?(9) 
+		</sentence>
+		<sentence id="17">
+			My_Sheraton(1) stays(2) have(3) dropped(4) off(5) quite(6) a_lot(7) lately(8) .(9) 
+		</sentence>
+		<sentence id="18">
+			The(1) staff(2) are(3) efficient(4) ,(5) if_not(6) especially(7) warm(8) .(9) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="19">
+			With(1) luck(2) ,(3) you(4) may(5) find(6) yourself(7) on(8) one(9) of(10) the(11) Club_Floors(12) ,(13) not(14) as(15) jealously(16) guarded(17) as(18) their(19) old(20) Towers(21) floors(22) once(23) were(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			The(1) former(2) Towers(3) floors(4) have(5) been(6) integrated(7) into(8) the(9) rest(10) of(11) their(12) executive(13) levels(14) ,(15) so(16) they(17) do(18) not(19) try(20) as(21) hard(22) to(23) keep(24) you(25) out(26) anymore(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			Rooms_On(1) my(2) most(3) recent(4) stay(5) ,(6) I(7) was(8) given(9) a(10) suite(11) on(12) the(13) Club_Level(14) ,(15) a(16) pleasant(17) suite(18) ,(19) if_not(20) one(21) with(22) a(23) terrific(24) view(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			In(1) fact(2) ,(3) I(4) looked(5) directly(6) into(7) the(8) cement(9) wall(10) of(11) another(12) building(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			There(1) was(2) a(3) grudging(4) bit(5) of(6) river(7) view(8) ,(9) but(10) only(11) at(12) the(13) corner(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			What(1) you(2) really(3) want(4) to(5) have(6) here(7) is(8) a(9) river(10) view(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			If(1) you(2) are(3) going(4) to(5) stay(6) here(7) ,(8) you(9) might(10) as_well(11) have(12) a(13) view(14) of(15) the(16) Charles(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			It(1) 's(2) much(3) better(4) than(5) overlooking(6) the(7) Christian_Science_Center(8) next(9) door(10) ,(11) another(12) klunky(13) piece(14) of(15) Modernist(16) exuberance(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			My(1) suite(2) was(3) pleasant(4) ,(5) if_not(6) inspired(7) .(8) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="28">
+			I(1) have(2) also(3) stayed(4) here(5) in(6) a(7) standard(8) room(9) ,(10) and(11) advise(12) you(13) to(14) at_least(15) get(16) a(17) room(18) on(19) the(20) Club_Level(21) if(22) at(23) all(24) possible(25) .(26) 
+		</sentence>
+		<sentence id="29">
+			Most(1) rooms(2) here(3) ,(4) while(5) they(6) have(7) had(8) a(9) spunky(10) new(11) renovation(12) recently(13) ,(14) are(15) still(16) very(17) average(18) in(19) size(20) and(21) amenities(22) .(23) 
+			<opinion polarity="-" feature="rooms" featWords="2" opWords="18" potency="17"/>
+		</sentence>
+		<sentence id="30">
+			do(1) not(2) forget(3) that(4) this(5) is(6) a(7) vast(8) convention(9) hotel(10) ((11) with(12) no(13) less(14) than(15) 1,215(16) rooms(17) )(18) ,(19) and(20) you(21) are(22) but(23) a(24) cog(25) in(26) the(27) wheels(28) of(29) name(30) tags(31) which(32) make(33) this(34) place(35) turn(36) day(37) and(38) night(39) .(40) 
+		</sentence>
+		<sentence id="31">
+			The(1) rooms(2) have(3) recently(4) been(5) upgraded(6) to(7) match(8) the(9) corporate(10) specifications(11) dictated(12) by(13) Starwood(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			As(1) such(2) ,(3) the(4) rooms(5) are(6) clean(7) and(8) fairly(9) crisp(10) .(11) 
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="7"/>
+			<opinion polarity="+" feature="rooms" featWords="5" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="33">
+			Attention(1) has(2) been(3) paid(4) to(5) the(6) beds(7) ,(8) more(9) notably(10) a(11) preoccupation(12) of(13) Westin(14) ((15) another(16) Starwood(17) brand(18) )(19) ,(20) to(21) the(22) extent(23) that(24) they(25) are(26) actually(27) comfortable(28) .(29) 
+			<opinion polarity="+" feature="bed" featWords="7" opWords="28" potency="27"/>
+		</sentence>
+		<sentence id="34">
+			This(1) was(2) a(3) big(4) improvement(5) from(6) my(7) first(8) stay(9) here(10) ((11) albeit(12) in(13) a(14) regular(15) room(16) )(17) where(18) the(19) bed(20) was(21) like(22) a(23) slag(24) heap(25) with(26) a(27) coverlet(28) .(29) 
+		</sentence>
+		<sentence id="35">
+			The(1) furniture(2) has(3) been(4) improved(5) too(6) .(7) 
+		</sentence>
+		<sentence id="36">
+			Out(1) went(2) the(3) old(4) ,(5) neo-Georgian(6) cheap(7) stuff(8) ,(9) and(10) in(11) came(12) the(13) streamlined(14) ,(15) slightly(16) more(17) expensive(18) furniture(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			It(1) will(2) not(3) knock(4) your(5) socks(6) off(7) ,(8) but(9) it(10) will(11) likely(12) be(13) sufficient(14) for(15) the(16) duration(17) of(18) your(19) meeting(20) or(21) business(22) in(23) town(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			Harbor(1) no(2) notions(3) of(4) lolling(5) about(6) in(7) the(8) lap(9) of(10) luxury(11) .(12) 
+		</sentence>
+		<sentence id="39">
+			If(1) you(2) crave(3) luxury(4) ,(5) this(6) is(7) not(8) the(9) hotel(10) for(11) you(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			The(1) new(2) furniture(3) is(4) far(5) better(6) than(7) the(8) old(9) ,(10) and(11) does(12) not(13) offend(14) .(15) 
+			<opinion polarity="+" feature="furnishings" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="41">
+			They(1) have(2) paid(3) particular(4) attention(5) to(6) the(7) desk(8) areas(9) ,(10) so(11) one(12) can(13) actually(14) work(15) at(16) the(17) desks(18) now(19) .(20) 
+		</sentence>
+		<sentence id="42">
+			Closet(1) space(2) is(3) minimal(4) ,(5) unless(6) you(7) happen(8) to(9) be(10) in(11) a(12) suite(13) ,(14) where(15) you(16) may(17) find(18) it(19) adequate(20) ,(21) if_not(22) enormous(23) .(24) 
+		</sentence>
+		<sentence id="43">
+			The(1) great(2) advantage(3) that(4) most(5) suites(6) here(7) do(8) have(9) is(10) floor(11) space(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			Most(1) of(2) the(3) suites(4) are(5) at_least(6) double(7) the(8) size(9) of(10) the(11) rooms(12) ,(13) ensuring(14) that(15) you(16) will(17) have(18) the(19) space(20) to(21) swing(22) a(23) cat(24) ,(25) should(26) you(27) desire(28) .(29) 
+		</sentence>
+		<sentence id="45">
+			Leave(1) kitty(2) at(3) home(4) if(5) you(6) are(7) going(8) to(9) a(10) regular(11) room(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			Remember(1) that(2) the(3) rooms(4) on(5) the(6) Club_Level(7) offer(8) no(9) more(10) space(11) than(12) the(13) serried(14) ranks(15) of(16) rooms(17) below(18) .(19) 
+		</sentence>
+		<sentence id="47">
+			Bath_Remarkably(1) cramped(2) ,(3) the(4) baths(5) are(6) at_least(7) attractively(8) refurbished(9) .(10) 
+		</sentence>
+		<sentence id="48">
+			The(1) amenities(2) are(3) standard(4) ,(5) and(6) come(7) packaged(8) in(9) un-alluring(10) little(11) bottles(12) .(13) 
+			<opinion polarity="+" feature="amenities" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="49">
+			While(1) miniscule(2) ,(3) the(4) baths(5) at_least(6) have(7) marble(8) trim(9) and(10) magnifying(11) mirrors(12) ,(13) scales(14) and(15) the(16) baths(17) themselves(18) are(19) fresh(20) ,(21) not(22) tired(23) ,(24) as(25) they(26) had(27) been(28) on(29) my(30) first(31) stay(32) .(33) 
+			<opinion polarity="-" feature="tub" featWords="5" opWords="2"/>
+			<opinion polarity="+" feature="tub" featWords="17" opWords="20"/>
+			<opinion polarity="+" feature="tub" featWords="17" opWords="22,23"/>
+		</sentence>
+		<sentence id="50">
+			Club_Level_Lounge_Perhaps(1) it(2) ought(3) to(4) be(5) called(6) Mr._MacGregor_'s_Garden(7) .(8) 
+		</sentence>
+		<sentence id="51">
+			At(1) any(2) rate(3) ,(4) you(5) may(6) find(7) carrots(8) and(9) celery(10) sticks(11) aplenty(12) .(13) 
+		</sentence>
+		<sentence id="52">
+			The(1) best(2) thing(3) about(4) the(5) room(6) is(7) the(8) view(9) of(10) the(11) Charles(12) you(13) will(14) enjoy(15) from(16) its(17) expansive(18) walls(19) of(20) glass(21) .(22) 
+		</sentence>
+		<sentence id="53">
+			The(1) space(2) itself(3) is(4) ordinary(5) ,(6) and(7) very(8) often(9) crowded(10) .(11) 
+		</sentence>
+		<sentence id="54">
+			Legions(1) of(2) travelers(3) will(4) be(5) lining(6) up(7) for(8) their(9) granola(10) before(11) you(12) stumble(13) into(14) the(15) room(16) ,(17) so(18) just(19) be(20) patient(21) .(22) 
+		</sentence>
+		<sentence id="55">
+			They(1) may(2) even(3) run(4) out(5) of(6) your(7) favorite(8) cereal(9) .(10) 
+		</sentence>
+		<sentence id="56">
+			Club_Level(1) or(2) not(3) ,(4) this(5) hotel(6) is(7) most(8) emphatically(9) not(10) about(11) personal(12) service(13) ,(14) so(15) do(16) leave(17) such(18) expectations(19) behind(20) when(21) pinning(22) on(23) your(24) plastic(25) name(26) tag(27) .(28) 
+		</sentence>
+		<sentence id="57">
+			Get(1) here(2) early(3) in(4) the(5) evening(6) if(7) you(8) want(9) to(10) savor(11) the(12) mini-quiche(13) in(14) various(15) flavors(16) of(17) rubber(18) .(19) 
+		</sentence>
+		<sentence id="58">
+			I(1) arrived(2) late(3) once(4) and(5) found(6) the(7) stocks(8) totally(9) depleted(10) .(11) 
+		</sentence>
+		<sentence id="59">
+			Dining_I(1) wish(2) I(3) had(4) better(5) news(6) for(7) you(8) .(9) 
+		</sentence>
+		<sentence id="60">
+			The(1) restaurant(2) here(3) ,(4) Apropos(5) ,(6) is(7) an(8) uninteresting(9) one(10) ,(11) and(12) is(13) best(14) avoided(15) .(16) 
+		</sentence>
+		<sentence id="61">
+			While(1) far(2) better(3) than(4) the(5) old(6) one(7) ,(8) it(9) is(10) still(11) a(12) large(13) and(14) anonymous(15) cafe(16) .(17) 
+		</sentence>
+		<sentence id="62">
+			They(1) have(2) got(3) rid(4) of(5) the(6) more(7) formal(8) dining(9) rooms(10) in(11) favor(12) of(13) a(14) sort(15) of(16) corporate(17) mush(18) offering(19) "(20) New_England(21) cuisine(22) .(23) "(24) do(25) not(26) believe(27) it(28) for(29) a(30) minute(31) .(32) 
+		</sentence>
+		<sentence id="63">
+			Carry(1) yourself(2) off(3) to(4) a_real(5) restaurant(6) ((7) there(8) are(9) plenty(10) nearby(11) )(12) and(13) only(14) use(15) the(16) place(17) if(18) you(19) can(20) not(21) get(22) complimentary(23) Cheerios(24) upstairs(25) at(26) breakfast(27) time(28) .(29) 
+		</sentence>
+		<sentence id="64">
+			Bar_Rather(1) like(2) the(3) restaurant(4) ,(5) in(6) that(7) it(8) is(9) large(10) and(11) impersonal(12) ,(13) the(14) enormous(15) lobby(16) lounge(17) takes(18) up(19) huge(20) areas(21) of(22) the(23) wasteland(24) of(25) the(26) lobby(27) .(28) 
+			<opinion polarity="+" feature="food" featWords="4" opWords="10"/>
+			<opinion polarity="+" feature="food" featWords="4" opWords="12"/>
+			<opinion polarity="+" feature="lobby" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="65">
+			I(1) am(2) surprised(3) that(4) the(5) cocktail(6) servers(7) do(8) not(9) have(10) GPS(11) systems(12) to(13) remember(14) their(15) way(16) back(17) to(18) your(19) table(20) .(21) 
+		</sentence>
+		<sentence id="66">
+			Drinks(1) are(2) on(3) the(4) expensive(5) side(6) ,(7) so(8) why(9) bother(10) ?(11) 
+		</sentence>
+		<sentence id="67">
+			Pool(1) and(2) Fitness_The(3) pool(4) is(5) one(6) of(7) the(8) brighter(9) lights(10) of(11) the(12) Warren(13) .(14) 
+		</sentence>
+		<sentence id="68">
+			In(1) season(2) ,(3) they(4) open(5) it(6) to(7) the(8) sky(9) ,(10) so(11) it(12) is(13) sometimes(14) cheerful(15) .(16) 
+		</sentence>
+		<sentence id="69">
+			What(1) 's(2) best(3) about(4) it(5) is(6) that(7) one_may(8) actually(9) do(10) laps(11) in(12) the(13) pool(14) .(15) 
+		</sentence>
+		<sentence id="70">
+			The(1) pool(2) is(3) significantly(4) larger(5) than(6) most(7) in(8) Boston(9) .(10) 
+		</sentence>
+		<sentence id="71">
+			Their(1) workout(2) area(3) is(4) well(5) maintained(6) ,(7) though(8) a_trifle(9) antiseptic(10) .(11) 
+		</sentence>
+		<sentence id="72">
+			It(1) even(2) smelled(3) like(4) some(5) sort(6) of(7) liniment(8) .(9) 
+		</sentence>
+		<sentence id="73">
+			Notwithstanding(1) ,(2) they(3) have(4) loaded(5) it(6) with(7) all(8) the(9) new(10) machines(11) your(12) muscles(13) can(14) possibly(15) withstand(16) .(17) 
+		</sentence>
+		<sentence id="74">
+			The(1) attendants(2) are(3) helpful(4) too(5) .(6) 
+		</sentence>
+		<sentence id="75">
+			Shopping_Odd(1) that(2) I(3) should(4) mention(5) shopping(6) ?(7) 
+		</sentence>
+		<sentence id="76">
+			Not(1) when(2) the(3) hotel(4) is(5) part(6) of(7) the(8) Prudential_Center(9) ,(10) with(11) a(12) large(13) number(14) of(15) shops(16) at_hand(17) .(18) 
+		</sentence>
+		<sentence id="77">
+			do(1) not(2) get(3) too(4) excited(5) ,(6) most(7) of(8) them(9) are(10) on(11) the(12) ordinary(13) /(14) meretricious(15) side(16) of(17) things(18) .(19) 
+		</sentence>
+		<sentence id="78">
+			Think_Warner_Brothers_Studio_Store(1) and(2) you(3) have(4) an(5) idea(6) of(7) the(8) mall(9) .(10) 
+		</sentence>
+		<sentence id="79">
+			The(1) hotel(2) is(3) directly(4) connected(5) to(6) the(7) Pru(8) by(9) skywalks(10) ,(11) so(12) one(13) need(14) not(15) venture(16) outside(17) .(18) 
+		</sentence>
+		<sentence id="80">
+			Be(1) absolutely(2) sure(3) to(4) avoid(5) the(6) terrible(7) restaurant(8) at(9) the(10) top(11) of(12) the(13) Prudential(14) building(15) .(16) .(17) 
+		</sentence>
+		<sentence id="81">
+			A(1) new(2) Mandarin_Oriental(3) hotel(4) and(5) even(6) more(7) exclusive(8) shops(9) are(10) soon(11) to(12) be(13) springing(14) up(15) in(16) the(17) Prudential_Center(18) ,(19) so(20) keep(21) your(22) eyes(23) peeled(24) for(25) it(26) all(27) to(28) happen(29) in(30) a(31) few(32) years(33) '(34) time(35) .(36) 
+		</sentence>
+		<sentence id="82">
+			Getting(1) There_The(2) hotel(3) is(4) convenient(5) to(6) much(7) of(8) the(9) Back_Bay(10) area(11) of(12) Boston(13) ,(14) with(15) its(16) many(17) shops(18) and(19) stores(20) .(21) 
+			<opinion polarity="+" feature="hotel" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="83">
+			The(1) hotel(2) can(3) be(4) reached(5) easily(6) on(7) the(8) T(9) ((10) subway(11) --(12) green(13) line(14) )(15) as_well(16) .(17) 
+		</sentence>
+		<sentence id="84">
+			The(1) hotel(2) has(3) a(4) huge(5) garage(6) with(7) acres(8) of(9) parking(10) ,(11) though(12) parking(13) can(14) be(15) expensive(16) here(17) .(18) 
+			<opinion polarity="-" feature="price" opWords="16"/>
+		</sentence>
+		<sentence id="85">
+			Service_This(1) brings(2) us(3) to(4) service(5) .(6) 
+		</sentence>
+		<sentence id="86">
+			In(1) a(2) corporate(3) hotel(4) of(5) over(6) a_thousand(7) rooms(8) ,(9) one(10) would(11) do(12) well(13) to(14) lower(15) expectations(16) .(17) 
+		</sentence>
+		<sentence id="87">
+			Given(1) the(2) size(3) of(4) the(5) place(6) ,(7) service(8) is(9) actually(10) faster(11) than(12) one(13) might(14) reasonably(15) expect(16) .(17) 
+		</sentence>
+		<sentence id="88">
+			That(1) does(2) not(3) always(4) mean(5) that(6) service(7) comes(8) with(9) a(10) smile(11) .(12) 
+		</sentence>
+		<sentence id="89">
+			There(1) is(2) an(3) air(4) of(5) the(6) merely(7) perfunctory(8) here(9) .(10) 
+		</sentence>
+		<sentence id="90">
+			One(1) can(2) almost(3) sense(4) the(5) heavy(6) hand(7) of(8) the(9) corporate(10) guidelines(11) at(12) work(13) here(14) .(15) 
+		</sentence>
+		<sentence id="91">
+			Servers(1) will(2) stammer(3) out(4) rehearsed(5) lines(6) ,(7) the(8) desk(9) agents(10) will(11) happily(12) tell(13) you(14) NO(15) in(16) the(17) matter-of-fact(18) way(19) of(20) nearly(21) all(22) convention(23) hotels(24) .(25) 
+		</sentence>
+		<sentence id="92">
+			The(1) hotel(2) 's(3) great(4) popularity(5) has(6) not(7) done(8) it(9) any(10) favors(11) in(12) terms(13) of(14) customer(15) service(16) .(17) 
+		</sentence>
+		<sentence id="93">
+			All(1) the(2) new(3) furniture(4) in(5) the(6) world(7) will(8) not(9) substitute(10) for(11) perfunctory(12) service(13) .(14) 
+		</sentence>
+		<sentence id="94">
+			In(1) short(2) ,(3) they(4) have(5) some(6) distance(7) to(8) travel(9) down(10) the(11) road(12) to(13) perfection(14) .(15) 
+		</sentence>
+		<sentence id="95">
+			Cost_Here(1) is(2) the(3) good(4) news(5) .(6) 
+		</sentence>
+		<sentence id="96">
+			While(1) rack(2) rates(3) here(4) are(5) stratospherically(6) high(7) on(8) average(9) ,(10) one(11) can(12) usually(13) secure(14) a(15) good(16) rate(17) if(18) with(19) a(20) group(21) or(22) convention(23) .(24) 
+			<opinion polarity="+" feature="price" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="97">
+			The(1) really(2) bad(3) news(4) is(5) that(6) they(7) are(8) not(9) particularly(10) known(11) for(12) discounting(13) outside(14) the(15) realm(16) of(17) group(18) bookings(19) ,(20) at_least(21) not(22) notably(23) so(24) .(25) 
+		</sentence>
+		<sentence id="98">
+			If(1) you(2) spend(3) hours(4) scouring(5) the(6) discounters(7) ,(8) you(9) may(10) well(11) come(12) up(13) with(14) a(15) rate(16) you(17) can(18) live(19) with(20) here(21) .(22) 
+		</sentence>
+		<sentence id="99">
+			Otherwise(1) ,(2) you(3) will(4) be(5) far(6) better(7) off(8) at(9) a(10) more(11) elaborate(12) property(13) .(14) 
+		</sentence>
+		<sentence id="100">
+			Do(1) not(2) pay(3) the(4) rack(5) rate(6) here(7) ,(8) or(9) you(10) will(11) come(12) away(13) feeling(14) cheated(15) .(16) 
+		</sentence>
+		<sentence id="101">
+			You(1) might(2) consider(3) using(4) up(5) some(6) Starwood(7) or(8) even(9) airline(10) points(11) here(12) .(13) 
+		</sentence>
+		<sentence id="102">
+			I(1) paid(2) $185.00(3) for(4) a(5) suite(6) ,(7) though(8) I(9) paid(10) a(11) much(12) lower(13) rate(14) for(15) the(16) standard(17) room(18) on(19) my(20) first(21) stay(22) .(23) 
+		</sentence>
+		<sentence id="103">
+			The(1) "(2) rack(3) rates(4) "(5) are(6) over(7) $400.00(8) ,(9) a(10) foolish(11) expenditure(12) for(13) a(14) hotel(15) such(16) as(17) this(18) ,(19) but(20) one(21) can(22) easily(23) get(24) a(25) rate(26) of(27) about(28) $150.00(29) without(30) trying(31) too(32) hard(33) .(34) 
+		</sentence>
+		<sentence id="104">
+			Sheraton_Boston_Hotel(1) in(2) the(3) Prudential_Center(4) 39(5) Dalton_Street_Boston(6) ,(7) MA(8) 02199(9) Tel.(10) ((11) 617(12) )(13) -236-2000(14) FAX(15) ((16) 617(17) )(18) -625-5104(19) Toll(20) free(21) ((22) 900(23) )(24) -325-3535(25) Sheraton_Reservations_Want(26) to(27) join(28) the(29) Great_Hotel_Write-Off(30) ?(31) 
+		</sentence>
+		<sentence id="105">
+			Here(1) 's(2) the(3) link(4) ....(5) http://www.angelfire.com/moon/lyagushka/index.html(6) 
+		</sentence>
+	</text>
+</review>

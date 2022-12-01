@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="542" item="2001 Saab 9-5" rating="3">
+	<title>
+		<sentence id="1">
+			Saab(1) 9-5(2) SE(3) V6(4) Turbo(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Huge(1) trunk(2) ;(3) Monster_V(4) -(5) 6(6) turbo(7) engine(8) is(9) efficient(10) ;(11) Loaded(12) with(13) features(14) 
+			<opinion polarity="+" feature="engine" featWords="8" opWords="10"/>
+			<opinion polarity="+" feature="trunk" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sleeper(1) styling(2) ;(3) Firm(4) ride(5) ;(6) reliability(7) of(8) the(9) V6(10) ;(11) below(12) average(13) resale(14) value(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) roomy(2) sedan(3) has(4) among(5) the(6) largest(7) trunk(8) and(9) rear(10) leg(11) room(12) combined(13) with(14) a(15) smooth(16) and(17) fast(18) engine(19) .(20) 
+			<opinion polarity="+" feature="engine" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="engine" featWords="19" opWords="16"/>
+			<opinion polarity="+" feature="room" opWords="2"/>
+		</sentence>
+		<sentence id="2">
+			My(1) car(2) was(3) unreliable(4) ,(5) but(6) try(7) the(8) 4(9) cylinder(10) .(11) 
+			<opinion polarity="-" feature="reliability" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) my(3) 2001(4) 9-5(5) 3.0(6) Turbo(7) as(8) a(9) certified(10) used(11) vehicle(12) with(13) 32K_miles(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) traded(2) a(3) V8(4) Explorer(5) and(6) needed(7) a(8) large(9) trunk(10) and(11) better(12) mileage(13) ,(14) which(15) the(16) 9-5(17) definitely(18) has(19) .(20) 
+			<opinion polarity="+" feature="trunk" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="3">
+			After(1) test(2) driving(3) the(4) Acura(5) 3.2TL(6) ((7) tiny(8) trunk(9) and(10) bland(11) )(12) ,(13) Lexus(14) 300GS(15) ((16) small(17) trunk(18) and(19) expensive(20) )(21) ,(22) and(23) Audi(24) A6(25) ((26) huge(27) trunk(28) ,(29) expensive(30) ,(31) and(32) a_bit(33) slow(34) )(35) ,(36) I(37) was(38) left(39) wondering(40) if(41) any(42) sedan(43) with(44) a(45) large(46) trunk(47) would(48) meet(49) my(50) needs(51) .(52) 
+			<opinion polarity="+" feature="trunk" featWords="47" opWords="46"/>
+			<opinion polarity="-" feature="speed" opWords="34"/>
+			<opinion polarity="-" feature="price" opWords="30"/>
+			<opinion polarity="+" feature="trunk" featWords="28" opWords="27"/>
+			<opinion polarity="-" feature="price" opWords="20"/>
+			<opinion polarity="-" feature="trunk" featWords="18" opWords="17"/>
+			<opinion polarity="-" feature="trunk" featWords="9" opWords="11"/>
+			<opinion polarity="-" feature="trunk" featWords="9" opWords="8"/>
+		</sentence>
+		<sentence id="4">
+			In(1) fact(2) only(3) the(4) Audi(5) A6(6) swallowed(7) our(8) baby(9) jogger(10) ...(11) until(12) I(13) drove(14) the(15) big(16) Saab(17) !(18) 
+		</sentence>
+		<sentence id="5">
+			When(1) I(2) first(3) pressed(4) the(5) throttle(6) on(7) the(8) 9-5(9) 's(10) V(11) -(12) 6(13) turbo(14) I(15) immediately(16) smiled(17) and(18) suspected(19) my(20) troubles(21) were(22) over(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			With(1) mild(2) throttle(3) the(4) 3.0(5) V(6) -(7) 6(8) had(9) more(10) low(11) end(12) torque(13) than(14) the(15) Audi(16) 's(17) smaller(18) 2.8(19) V(20) -(21) 6(22) ((23) non-turbo(24) )(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			Next(1) ,(2) I(3) clicked(4) the(5) transmission(6) into(7) Sport(8) mode(9) ,(10) turned(11) onto(12) some(13) curvy(14) roads(15) and(16) suddenly(17) the(18) tires(19) spun(20) at(21) about(22) 30(23) MPH(24) on(25) an(26) uphill(27) dry(28) section(29) of(30) road(31) and(32) the(33) car(34) roared(35) ahead(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			The(1) steering(2) is(3) tight(4) ,(5) nicely(6) weighted(7) ,(8) and(9) has(10) terrific(11) self-centering(12) .(13) 
+			<opinion polarity="+" feature="steering" featWords="2" opWords="6,7"/>
+		</sentence>
+		<sentence id="9">
+			A_real(1) driver(2) 's(3) car(4) .(5) 
+		</sentence>
+		<sentence id="10">
+			I(1) purchased(2) the(3) car(4) immediately(5) with(6) a(7) set(8) of(9) 4(10) snow(11) tires(12) on(13) mounted(14) BBS(15) wheels(16) and(17) a(18) 100,000_mile(19) warranty(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			The(1) car(2) gets(3) 24-25(4) mpg(5) highway(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			At(1) elevated(2) cruising(3) speeds(4) ((5) 80(6) mph(7) )(8) this(9) aerodynamic(10) Swede(11) still(12) returns(13) great(14) mileage(15) .(16) 
+			<opinion polarity="+" feature="gas" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="13">
+			That(1) HUGE(2) trunk(3) is(4) truly(5) wagon(6) /(7) small(8) SUV(9) sized(10) .(11) 
+			<opinion polarity="+" feature="trunk" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="14">
+			The(1) interior(2) is(3) comfortable(4) ,(5) in(6) fact(7) much(8) more(9) comfortable(10) than(11) my(12) wife(13) 's(14) 2003(15) Audi(16) A4(17) .(18) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) nine(2) speaker(3) stereo(4) ,(5) front(6) and(7) rear(8) heated(9) seat(10) ,(11) refrigerated(12) glove(13) box(14) ,(15) heated(16) mirrors(17) ,(18) headlight(19) wipers(20) ,(21) six(22) jet(23) windshield(24) wipers(25) ,(26) winter(27) and(28) sport(29) mode(30) transmission(31) ,(32) traction(33) control(34) ,(35) and(36) sumptuous(37) leather(38) seats(39) are(40) all(41) premium(42) car(43) quality(44) .(45) 
+			<opinion polarity="+" feature="seat" featWords="39" opWords="38"/>
+		</sentence>
+		<sentence id="16">
+			It(1) deserves(2) a(3) test(4) drive(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			While(1) the(2) GM(3) based(4) V6(5) turbo(6) is(7) fast(8) ,(9) it(10) is(11) less(12) proven(13) than(14) the(15) 4(16) cyl(17) turbo(18) .(19) 
+			<opinion polarity="+" feature="speed" opWords="8"/>
+		</sentence>
+		<sentence id="18">
+			The(1) Saab(2) dealer(3) ((4) Halfmoon(5) ,(6) NY(7) )(8) has(9) blundered(10) more(11) than(12) one(13) unscheduled(14) service(15) but(16) they(17) fixed(18) most(19) repairs(20) by(21) the(22) second(23) or(24) third(25) return(26) trip(27) and(28) the(29) warranty(30) has(31) covered(32) everything(33) .(34) 
+		</sentence>
+		<sentence id="19">
+			I(1) sold(2) the(3) car(4) after(5) ten(6) months(7) and(8) 8(9) trips(10) to(11) the(12) Saab(13) dealer(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			Overall(1) ,(2) I(3) am(4) reluctant(5) to(6) recommend(7) this(8) big(9) ,(10) safe(11) ,(12) fast(13) ,(14) and(15) well(16) appointed(17) Euro-sedan(18) due(19) to(20) reliability(21) concerns(22) .(23) 
+			<opinion polarity="+" feature="car" opWords="16,17"/>
+			<opinion polarity="+" feature="speed" opWords="13"/>
+			<opinion polarity="+" feature="safety" opWords="11"/>
+		</sentence>
+		<sentence id="21">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 20000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) 9-5(16) SE(17) V6(18) Turbo_Auto(19) 
+		</sentence>
+	</text>
+</review>

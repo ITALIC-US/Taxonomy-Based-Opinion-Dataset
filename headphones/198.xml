@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="198" item="Advent AW-791 Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Sizzle(1) to(2) spare(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) easy(3) to(4) tune(5) with(6) the(7) sending(8) unit(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Punchy(1) .(2) 
+			<opinion polarity="+" feature="sound quality" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Way(1) way(2) way(3) way(4) way(5) WAY(6) too(7) much(8) high(9) end(10) !(11) 
+			<opinion polarity="-" feature="highs" featWords="9" opWords="7,8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) headphones(4) for(5) my(6) "(7) home(8) "(9) pair(10) after(11) buying(12) a(13) pair(14) of(15) inexpensive(16) Advent(17) 720(18) wireless(19) for(20) use(21) at(22) work(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			I(1) love(2) the(3) sound(4) of(5) the(6) Advents(7) so(8) I(9) was(10) jazzed(11) about(12) getting(13) the(14) ARs(15) ...(16) more(17) expensive(18) =(19) better(20) sound(21) ,(22) right(23) ?(24) 
+		</sentence>
+		<sentence id="3">
+			When(1) they(2) arrived(3) they(4) were(5) simple(6) to(7) set(8) up(9) ,(10) with(11) the(12) frequency(13) locking(14) in(15) automatically(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) gave(2) them(3) a(4) listen(5) and(6) instantly(7) realized(8) they(9) were(10) way(11) WAY(12) too(13) "(14) bright(15) "(16) for(17) my(18) tastes(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) high(2) end(3) was(4) sharp(5) and(6) shrill(7) ...(8) I(9) backed(10) down(11) the(12) equalizer(13) and(14) even(15) tried(16) the(17) high(18) pass(19) filter(20) on(21) my(22) preamp(23) to(24) get(25) them(26) to(27) a(28) "(29) flat(30) "(31) tone(32) .(33) 
+			<opinion polarity="-" feature="highs" featWords="2" opWords="5"/>
+			<opinion polarity="-" feature="highs" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="6">
+			Still(1) there(2) was(3) too(4) much(5) high(6) end(7) .(8) 
+			<opinion polarity="-" feature="highs" featWords="6" opWords="4,5"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bass(2) was(3) satisfying(4) ,(5) but(6) if(7) you(8) overdrive(9) the(10) output(11) to(12) the(13) ARs(14) the(15) circuitry(16) steps(17) in(18) and(19) halts(20) the(21) signal(22) for(23) a(24) few(25) seconds(26) ,(27) leaving(28) a(29) big(30) silent(31) gap(32) .(33) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			I(1) wound(2) up(3) giving(4) them(5) away(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			I(1) could(2) not(3) handle(4) that(5) much(6) zing(7) in(8) my(9) music(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			I(1) replaced(2) them(3) with(4) the(5) Advent(6) 770s(7) ((8) also(9) made(10) by(11) Recoton(12) )(13) and(14) I(15) 'm(16) a_lot(17) happier(18) ...(19) even_though(20) they(21) look(22) nearly(23) the(24) same(25) .(26) 
+		</sentence>
+	</text>
+</review>

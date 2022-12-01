@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="248" item="Sennheiser HD 570 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Alright_I(1) guess(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) sound(2) ,(3) although(4) a(5) little(6) light(7) on(8) lower(9) frequencies(10) in(11) the(12) 15-28_Hz(13) range(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Require(1) alot(2) of(3) power(4) to(5) drive(6) them(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			They(1) 're(2) not(3) suitable(4) for(5) portable(6) devices(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			For(1) all(2) intents(3) and(4) purposes(5) ,(6) I(7) have(8) very(9) particular(10) sound(11) tastes(12) because(13) since(14) the(15) age(16) of(17) 17(18) ,(19) I(20) have(21) played(22) for(23) an(24) orchestra(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			I(1) liked(2) these(3) headphones(4) ;(5) however(6) ,(7) I(8) did(9) not(10) like(11) how(12) much(13) power(14) the(15) HD570s(16) used(17) .(18) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="2"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) Micro_Seiki(3) electrostatics(4) ,(5) and(6) well(7) ,(8) they(9) 're(10) better(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			I(1) wanted(2) a(3) decent(4) set(5) of(6) headphones(7) to(8) which(9) I(10) can(11) listen(12) to(13) portable(14) music(15) on(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			These(1) did(2) not(3) fit(4) the(5) bill(6) at(7) all(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Their(1) inefficiency(2) bothered(3) me(4) so(5) much(6) ,(7) I(8) brought(9) them(10) back(11) and(12) I(13) got(14) the(15) more(16) efficient(17) HD500s(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) HD570s(2) are(3) a(4) good(5) headphone(6) overall(7) ,(8) a(9) little(10) light(11) on(12) low(13) end(14) frequencies(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="bass" featWords="13,14,15" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) are(3) looking(4) for(5) something(6) portable(7) ,(8) get(9) the(10) HD500s(11) .(12) 
+		</sentence>
+	</text>
+</review>

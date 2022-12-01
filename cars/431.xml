@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="431" item="1996 Toyota Camry" rating="4">
+	<title>
+		<sentence id="1">
+			great(1) family(2) car(3) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			very(1) safe(2) ,(3) easy(4) to(5) drive(6) ,(7) good(8) price(9) ,(10) great(11) family(12) car(13) 
+			<opinion polarity="+" feature="car" featWords="13" opWords="11"/>
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="safety" opWords="2" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) all(2) that(3) great(4) for(5) younger(6) generation(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) had(3) plenty_of(4) experience(5) dealing(6) with(7) Toyota_Camries(8) ,(9) seeing(10) as(11) how(12) my(13) parents(14) own(15) two(16) of(17) them(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) Camry(2) was(3) the(4) car(5) I(6) learned(7) how(8) to(9) drive(10) in(11) ,(12) and(13) it(14) made(15) it(16) very(17) easy(18) for(19) me(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Everything(1) in(2) the(3) Camry(4) is(5) easy(6) to(7) find(8) and(9) operate(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) 's(2) a(3) pretty(4) good(5) car(6) ,(7) with(8) a(9) fair(10) amount(11) of(12) room(13) inside(14) ,(15) and(16) a_lot_of(17) trunk(18) space(19) too(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			We(1) rarely(2) ever(3) take(4) the(5) car(6) to(7) the(8) shop(9) ;(10) only(11) one(12) of(13) the(14) two(15) has(16) ever(17) been(18) to(19) the(20) shop(21) ,(22) as(23) I(24) can(25) recall(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) is(3) great(4) for(5) the(6) average(7) sized(8) family(9) .(10) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			Its(1) built(2) for(3) exactly(4) that(5) ,(6) however(7) it(8) is(9) pretty(10) powerful(11) for(12) a(13) family(14) car(15) ,(16) if(17) I(18) do(19) say(20) so(21) myself(22) .(23) 
+			<opinion polarity="+" feature="horsepower" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			We(1) own(2) two(3) LE(4) models(5) of(6) the(7) Toyota_Camry(8) ,(9) and(10) they(11) both(12) have(13) V6(14) engines(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			So(1) even_though(2) they(3) 're(4) a(5) practical(6) car(7) ,(8) its(9) still(10) a(11) pretty(12) good(13) car(14) for(15) all(16) you(17) racers(18) out(19) there(20) .(21) 
+			<opinion polarity="+" feature="car" featWords="14" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="10">
+			The(1) Toyota_Camry(2) was(3) also(4) rated(5) as(6) just(7) about(8) the(9) safest(10) car(11) out(12) there(13) for(14) about(15) the(16) past(17) two(18) years(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="11" opWords="10"/>
+		</sentence>
+		<sentence id="11">
+			I(1) do(2) feel(3) pretty(4) secure(5) driving(6) this(7) car(8) ,(9) and(10) so(11) far(12) have(13) not(14) really(15) had(16) any(17) problems(18) with(19) it(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Honestly(1) ,(2) I(3) think(4) this(5) car(6) is(7) best(8) for(9) parents(10) ,(11) anyone(12) who(13) has(14) a(15) family(16) ,(17) or(18) anyone(19) thats(20) about(21) middle(22) aged(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			True(1) ,(2) its(3) a(4) great(5) car(6) ,(7) but(8) I(9) would(10) not(11) recommend(12) this(13) car(14) for(15) the(16) younger(17) generation(18) .(19) 
+			<opinion polarity="-" feature="car" featWords="14" opWords="11,12"/>
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="14">
+			I(1) 'm(2) looking(3) into(4) buying(5) a(6) car(7) right(8) now(9) ,(10) and(11) I(12) would(13) not(14) really(15) focus(16) on(17) the(18) Camry(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			Maybe(1) its(2) because(3) I(4) 'm(5) so(6) used(7) to(8) it(9) ,(10) but(11) it(12) just(13) does(14) not(15) appeal(16) to(17) me(18) as(19) a(20) car(21) I(22) 'd(23) be(24) willling(25) to(26) buy(27) for(28) myself(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) as(3) for(4) recommending(5) it(6) to(7) others(8) ,(9) this(10) one(11) 's(12) definitely(13) a(14) good(15) car(16) to(17) consider(18) .(19) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

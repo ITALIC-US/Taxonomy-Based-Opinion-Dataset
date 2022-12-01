@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="188" item="2001 Lexus LX 470" rating="5">
+	<title>
+		<sentence id="1">
+			the(1) best(2) SUV(3) out(4) there(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			luxurious(1) interior(2) .(3) powerful(4) engine(5) .(6) gadgets(7) ,(8) very(9) reliable(10) truck(11) .(12) 
+			<opinion polarity="+" feature="reliability" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="engine" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nothing(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) is(2) no(3) competition(4) for(5) the(6) LX470(7) I(8) checked(9) the(10) BMW(11) X5(12) 4.4(13) ,(14) the(15) RANGE_ROVER_HSE(16) ,(17) the(18) CADILLAC_ESCALADE(19) ,(20) LEXUS(21) LX470(22) is(23) the(24) best(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			Got(1) the(2) money(3) ?(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Safe(1) and(2) luxurious(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+			<opinion polarity="+" feature="safety" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Awesome(1) .(2) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Powerful(1) and(2) great(3) interior(4) and(5) exterior(6) .(7) 
+			<opinion polarity="+" feature="exterior" featWords="6" opWords="3"/>
+			<opinion polarity="+" feature="interior" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="horsepower" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Beautiful(1) nose(2) ,(3) leather(4) is(5) very(6) soft(7) and(8) nice(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) LX(2) 470(3) has(4) many(5) gadgets(6) to(7) make(8) rides(9) very(10) comfortable(11) .(12) 
+			<opinion polarity="+" feature="ride quality" opWords="9,11"/>
+		</sentence>
+		<sentence id="6">
+			Maybe(1) the(2) gas(3) mileage(4) is(5) not(6) the(7) best(8) ,(9) but(10) if(11) you(12) have(13) $65000(14) to(15) spend(16) ,(17) you(18) must(19) have(20) the(21) money(22) to(23) maintain(24) it(25) .(26) 
+			<opinion polarity="-" feature="gas" featWords="3,4" opWords="6,8"/>
+		</sentence>
+		<sentence id="7">
+			I(1) bought(2) mine(3) here(4) in(5) north(6) NJ(7) and(8) its(9) been(10) 10(11) days(12) since(13) I(14) got(15) it(16) and(17) everyday(18) I(19) 'm(20) happier(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			The(1) LX(2) 470(3) is(4) a(5) truck(6) that(7) has(8) the(9) ability(10) to(11) behave(12) like(13) a(14) car(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			But(1) if(2) truck(3) driving(4) is(5) desired(6) ,(7) with(8) the(9) touch(10) of(11) a(12) button(13) ,(14) transmission(15) and(16) suspension(17) change(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Got(1) the(2) money(3) ?(4) 
+		</sentence>
+		<sentence id="11">
+			Do(1) what(2) I(3) did(4) ,(5) buy(6) it(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" featRef="car" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			And(1) start(2) enjoying(3) the(4) best(5) SUV(6) out(7) there(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 62000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) loaded(16) ,(17) top(18) of(19) the(20) line(21) 
+		</sentence>
+	</text>
+</review>

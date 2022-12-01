@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="183" item="Hudson" rating="4">
+	<title>
+		<sentence id="1">
+			I(1) was(2) shocked(3) to(4) find(5) that(6) I(7) liked(8) it(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stylish(1) design(2) ,(3) nice(4) bar(5) with(6) great(7) cocktails(8) ,(9) outdoor(10) terrace(11) with(12) fab(13) views(14) and(15) comfy(16) rooms(17) .(18) 
+			<opinion polarity="+" feature="food" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="view" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="rooms" featWords="17" opWords="16"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Huge(1) ((2) 1000(3) rooms(4) )(5) ,(6) Can(7) be(8) a_tad(9) loud(10) ,(11) rooms(12) and(13) bathrooms(14) are(15) quite(16) small(17) .(18) 
+			<opinion polarity="-" feature="rooms" featWords="12" opWords="17" potency="16"/>
+			<opinion polarity="-" feature="bathroom" featWords="14" opWords="17" potency="16"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Perfect(1) for(2) people(3) who(4) want(5) a(6) fun(7) ,(8) young(9) environment(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) ,(3) service(4) and(5) atmosphere(6) were(7) all(8) far(9) better(10) than(11) I(12) 'd(13) expected(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			And(1) do(2) not(3) miss(4) the(5) pineapple(6) caipirinhas(7) at(8) the(9) bar(10) !(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) booked(2) the(3) Hudson(4) hotel(5) on(6) Expedia(7) for(8) a(9) last(10) minute(11) weekend(12) holiday(13) in(14) New_York(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) did(2) not(3) know(4) anything(5) about(6) it(7) but(8) they(9) had(10) special(11) rates(12) on(13) offer(14) and(15) I(16) 'd(17) heard(18) of(19) Ian_Schrager(20) so(21) I(22) figured(23) '(24) How(25) bad(26) can(27) it(28) be(29) ?(30) '(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			After(1) I(2) 'd(3) booked(4) ((5) and(6) pre-paid(7) )(8) I(9) had(10) a(11) quick(12) search(13) on(14) the(15) internet(16) to(17) see(18) whether(19) anyone(20) had(21) written(22) anything(23) about(24) it(25) and(26) I(27) came(28) across(29) nothing(30) but(31) appalling(32) reviews(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			The(1) other(2) 2(3) reviews(4) on(5) epinions(6) in_particular(7) scared(8) the(9) hell(10) out(11) of(12) me(13) to(14) the(15) point(16) where(17) I(18) even(19) tried(20) to(21) cancel(22) -(23) but(24) I(25) could(26) not(27) because(28) I(29) 'd(30) prepaid(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			My(1) husband(2) and(3) I(4) decided(5) to(6) brave(7) it(8) ,(9) not(10) take(11) any(12) rubbish(13) from(14) the(15) '(16) snooty(17) staff(18) '(19) we(20) 'd(21) read(22) about(23) and(24) try(25) and(26) enjoy(27) our(28) weekend(29) despite(30) the(31) hellish(32) experience(33) and(34) microscopic(35) rooms(36) we(37) had(38) been(39) told(40) to(41) expect(42) .(43) 
+		</sentence>
+		<sentence id="6">
+			When(1) we(2) arrived(3) in(4) our(5) taxi(6) from(7) JFK(8) we(9) thought(10) the(11) hotel(12) with(13) its(14) green-lit(15) glass(16) facade(17) looked(18) really(19) cool(20) -(21) so(22) far(23) so(24) good(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			As(1) we(2) got(3) out(4) of(5) the(6) cab(7) we(8) were(9) immediately(10) approached(11) by(12) a(13) porter(14) to(15) help(16) us(17) with(18) our(19) luggage(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			We(1) went(2) up(3) the(4) escalator(5) up(6) to(7) the(8) reception(9) and(10) were(11) checked(12) in(13) by(14) a(15) very(16) friendly(17) guy(18) who(19) gave(20) us(21) our(22) '(23) Hudson(24) cards(25) '(26) and(27) told(28) us(29) where(30) all(31) the(32) hotel(33) bars(34) and(35) restaurants(36) were(37) where(38) we(39) could(40) use(41) them(42) .(43) 
+		</sentence>
+		<sentence id="9">
+			We(1) were(2) really(3) surprised(4) at(5) how(6) friendly(7) and(8) helpful(9) the(10) staff(11) were(12) considering(13) how(14) horrible(15) the(16) experiences(17) of(18) some(19) other(20) reviewers(21) were(22) .(23) 
+			<opinion polarity="+" feature="staff" featWords="11" opWords="7"/>
+			<opinion polarity="+" feature="staff" featWords="11" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			When(1) we(2) got(3) to(4) our(5) room(6) ,(7) we(8) did(9) think(10) it(11) was(12) small(13) but(14) it(15) was(16) well(17) designed(18) ,(19) had(20) a(21) big(22) window(23) behind(24) the(25) bed(26) and(27) was(28) very(29) clean(30) .(31) 
+			<opinion polarity="-" feature="rooms" featWords="6" opWords="13"/>
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="17,18"/>
+			<opinion polarity="+" feature="rooms" featWords="6" opWords="30" potency="29"/>
+		</sentence>
+		<sentence id="11">
+			Unless(1) you(2) are(3) planning(4) to(5) spend(6) a_lot_of(7) time(8) in(9) your(10) hotel(11) room(12) when(13) in(14) NYC_I(15) think(16) the(17) room(18) size(19) is(20) not(21) a(22) problem(23) at(24) all(25) at(26) the(27) Hudson(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			During(1) our(2) 3(3) night(4) stay(5) we(6) tried(7) the(8) bar(9) which(10) had(11) fantastic(12) cocktails(13) ((14) try(15) the(16) pineapple(17) caipirinha(18) )(19) ,(20) visited(21) the(22) outdoor(23) terrace(24) on(25) one(26) of(27) the(28) upper(29) floors(30) for(31) sunset(32) views(33) and(34) really(35) enjoyed(36) our(37) stay(38) .(39) 
+		</sentence>
+		<sentence id="13">
+			We(1) slept(2) like(3) babies(4) in(5) the(6) comfy(7) beds(8) ,(9) had(10) nice(11) hot(12) showers(13) in(14) the(15) mornings(16) ,(17) and(18) there(19) were(20) always(21) lots(22) of(23) toiletries(24) and(25) fluffy(26) towels(27) in(28) the(29) room(30) .(31) 
+			<opinion polarity="+" feature="bed" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="towels" featWords="27" opWords="26"/>
+		</sentence>
+		<sentence id="14">
+			A(1) complimentary(2) copy(3) of(4) Time_Out(5) and(6) a(7) CD(8) player(9) in(10) the(11) room(12) gave(13) us(14) enough(15) entertainment(16) in(17) the(18) hour(19) or(20) so_that(21) we(22) spent(23) in(24) the(25) room(26) each(27) night(28) before(29) we(30) fell(31) asleep(32) .(33) 
+		</sentence>
+		<sentence id="15">
+			I(1) think(2) that(3) if(4) someone(5) wants(6) a_bit(7) of(8) style(9) and(10) a(11) young(12) ,(13) fun(14) environment(15) at(16) a(17) great(18) price(19) for(20) New_York(21) ,(22) I(23) 'd(24) totally(25) recommend(26) the(27) Hudson(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			Its(1) weekend(2) rates(3) are(4) fantastic(5) value(6) and(7) it(8) has(9) everything(10) you(11) 'd(12) expect(13) from(14) a(15) big(16) ,(17) busy(18) hotel(19) but(20) with(21) a(22) refreshing(23) twist(24) .(25) 
+			<opinion polarity="+" feature="hotel" featWords="19" opWords="16"/>
+			<opinion polarity="-" feature="hotel" featWords="19" opWords="18"/>
+		</sentence>
+	</text>
+</review>

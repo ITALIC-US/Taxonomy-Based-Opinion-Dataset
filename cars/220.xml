@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="220" item="2001 Volkswagen Jetta TDI" rating="4">
+	<title>
+		<sentence id="1">
+			I(1) 'll(2) have(3) a(4) Wolfsburger(5) to(6) go(7) ,(8) please(9) .(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) interior(2) ,(3) smooth(4) ride(5) ,(6) nice(7) shifting(8) ,(9) sweet(10) 16(11) ''(12) alloys(13) ,(14) huge(15) trunk(16) 
+			<opinion polarity="+" feature="trunk" featWords="16" opWords="15"/>
+			<opinion polarity="+" feature="shifter" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dealer(1) experience(2) ,(3) no(4) 6(5) speed(6) ,(7) no(8) standard(9) CD(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) love(3) VW(4) ,(5) love(6) power(7) ,(8) and(9) a(10) safe(11) ,(12) gas(13) friendly(14) car(15) ,(16) the(17) Jetta(18) is(19) the(20) best(21) in(22) it(23) 's(24) class(25) ...(26) way(27) better(28) than(29) a(30) Civic(31) .(32) 
+			<opinion polarity="+" feature="gas" opWords="13,14"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Pro(1) :(2) 1.8(3) T(4) engine(5) very(6) smooth(7) Great(8) gas(9) mileage(10) Wolfsburg_Edition(11) is(12) awesome(13) :(14) all(15) leather(16) ,(17) sport(18) seats(19) ,(20) nice(21) suspension(22) Great(23) safety(24) features(25) and(26) record(27) Very(28) cool(29) looking(30) .(31) ((32) not(33) just(34) a(35) chick(36) car(37) !(38) )(39) Cons(40) :(41) Make(42) sure(43) you(44) get(45) a(46) great(47) dealer(48) .(49) 
+			<opinion polarity="+" feature="design" opWords="29,30"/>
+			<opinion polarity="+" feature="safety" featWords="24" opWords="23"/>
+			<opinion polarity="+" feature="suspension" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="gas" featWords="9,10" opWords="8"/>
+			<opinion polarity="+" feature="engine" featWords="5" opWords="7"/>
+		</sentence>
+		<sentence id="2">
+			Poor(1) warranty(2) ,(3) so(4) you(5) have(6) to(7) spring(8) for(9) an(10) extended(11) warranty(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			First(1) car(2) over(3) 20K(4) to(5) NOT(6) have(7) a(8) CD(9) player(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Might(1) as_well(2) be(3) an(4) 8-track(5) 6(6) Speed(7) needed(8) .(9) 2002(10) Jettas(11) will(12) have(13) them(14) After(15) driving(16) this(17) car(18) for(19) it(20) 's(21) first(22) 1300_miles(23) ,(24) the(25) right(26) turn(27) signal(28) stopped(29) working(30) properly(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			I(1) called(2) my(3) dealer(4) ,(5) and(6) they(7) informed(8) me(9) that(10) they(11) 're(12) no_longer(13) open(14) on(15) Saturdays(16) to(17) fix(18) it(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			That(1) was(2) a(3) big(4) selling(5) point(6) in(7) buying(8) the(9) car(10) ,(11) since(12) I(13) live(14) over(15) an(16) hour(17) away(18) from(19) the(20) dealership(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			I(1) went(2) over(3) there(4) on(5) a(6) week(7) day(8) and(9) they(10) fixed(11) the(12) light(13) very(14) quickly(15) and(16) professionally(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			One(1) problem(2) :(3) The(4) guy(5) who(6) replaced(7) the(8) bulb(9) accidentally(10) put(11) the(12) headlight(13) out(14) of(15) alignment(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			I(1) did(2) not(3) realize(4) it(5) until(6) it(7) got(8) dark(9) hours(10) after(11) I(12) left(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			I(1) called(2) the(3) next(4) day(5) ,(6) told(7) the(8) dealership(9) ,(10) and(11) they(12) said(13) just(14) bring(15) it(16) in(17) anytime(18) and(19) they(20) 'll(21) fix(22) it(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			I(1) tried(2) to(3) bring(4) it(5) in(6) last_Friday(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			I(1) called(2) them(3) ,(4) just(5) to(6) make(7) sure(8) they(9) were(10) open(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			The(1) same(2) lady(3) who(4) told(5) me(6) to(7) "(8) just(9) bring(10) it(11) in(12) "(13) told(14) me(15) that(16) they(17) were(18) too(19) busy(20) to(21) do(22) it(23) that(24) day(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			AAARRRGGHH(1) .(2) 
+		</sentence>
+		<sentence id="15">
+			My(1) headlight(2) is(3) still(4) "(5) lazy(6) "(7) looking(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			If(1) /(2) When(3) you(4) buy(5) a(6) car(7) ,(8) make(9) sure(10) it(11) 's(12) from(13) a(14) really(15) good(16) dealer(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			That(1) 's(2) my(3) only(4) bad(5) experience(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 19,600(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) GLS_Wolfsburg(16) 
+		</sentence>
+	</text>
+</review>

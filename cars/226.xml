@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="226" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			GOD_BLESS_JAPAN(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Japanese(1) ,(2) Styling(3) ,(4) Acceleration(5) ,(6) Fuel_Injectors(7) ,(8) POWERFUL_Engine(9) ,(10) Everything(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) previously(3) owned(4) a(5) 1997(6) Nissan_Maxima_GXE(7) ,(8) and(9) a(10) 1992(11) Maxima(12) before(13) that(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) decided(2) to(3) trade(4) in(5) my(6) 97(7) for(8) a(9) brand(10) new(11) 2000(12) Maxima(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) hoping(3) to(4) get(5) an(6) experience(7) similar(8) to(9) those(10) of(11) my(12) previous(13) Maximas(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			Well(1) ,(2) I(3) got(4) a_lot(5) more(6) than(7) i(8) hoped(9) for(10) !(11) 
+		</sentence>
+		<sentence id="5">
+			Here(1) 's(2) what(3) I(4) found(5) with(6) the(7) 2000(8) Nissan_Maxima_GXE(9) :(10) Price(11) :(12) Well(13) ...(14) The(15) price(16) varies(17) pretty(18) much(19) on(20) the(21) dealer(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			You(1) can(2) get(3) a(4) GXE(5) ((6) Basic(7) all(8) out(9) model(10) )(11) from(12) the(13) upper(14) $19000s(15) to(16) $21000s(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			But(1) for(2) what(3) you(4) get(5) with(6) the(7) car(8) ,(9) it(10) 's(11) very(12) well(13) worth(14) it(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) engine(2) DOHC(3) was(4) named(5) a(6) top(7) 10(8) engine(9) at(10) one(11) point(12) ,(13) and(14) the(15) car(16) is(17) filled(18) with(19) great(20) sexy(21) styling(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			Both(1) on(2) the(3) exterior(4) and(5) interior(6) .(7) ~(8) $20000(9) for(10) the(11) Nissan_Maxima(12) is(13) a(14) great(15) price(16) for(17) such(18) a(19) high(20) quality(21) ,(22) and(23) hey(24) !(25) 
+			<opinion polarity="+" feature="price" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="10">
+			IT(1) '(2) S_JAPANESE(3) !(4) 
+		</sentence>
+		<sentence id="11">
+			The(1) Maximas(2) are(3) built(4) in(5) Japan(6) ,(7) Japan(8) has(9) very(10) good(11) cars(12) and(13) high(14) quality(15) parts(16) .(17) 
+			<opinion polarity="+" feature="car" featWords="12" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="12">
+			Warranty(1) :(2) It(3) depends(4) on(5) the(6) dealer(7) and(8) where(9) you(10) buy(11) it(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			They(1) all(2) offer(3) different(4) things(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			I(1) got(2) a(3) life-time(4) oil(5) replacement(6) from(7) my(8) dealer(9) ,(10) and(11) a(12) 5(13) year(14) parts(15) &(16) labor(17) warranty(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Styling(1) :(2) The(3) 2000(4) Nissan_Maxima_GXE(5) has(6) great(7) looks(8) .(9) 
+			<opinion polarity="+" feature="design" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="16">
+			It(1) 's(2) very(3) well(4) rounded(5) ,(6) and(7) the(8) curves(9) give(10) it(11) a(12) very(13) sleek(14) look(15) .(16) 
+			<opinion polarity="+" feature="design" featWords="15" opWords="14" potency="13"/>
+			<opinion polarity="+" feature="car" opWords="4,5" potency="3"/>
+		</sentence>
+		<sentence id="17">
+			Chrome(1) hubcaps(2) look(3) great(4) on(5) this(6) car(7) ,(8) they(9) give(10) it(11) a(12) true(13) sporty(14) and(15) superior(16) look(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			I(1) also(2) love(3) the(4) lights(5) on(6) this(7) car(8) ,(9) they(10) are(11) futuristic(12) looking(13) ,(14) and(15) look(16) like(17) those(18) of(19) the(20) Lexus(21) GS300/400s(22) .(23) 
+			<opinion polarity="+" feature="lights" featWords="5" opWords="12,13"/>
+		</sentence>
+		<sentence id="19">
+			Engine(1) :(2) The(3) engine(4) is(5) a(6) DOHC_V(7) -(8) 6(9) 190HP(10) !(11) !(12) !(13) 
+		</sentence>
+		<sentence id="20">
+			That(1) 's(2) a(3) whole(4) lot(5) of(6) power(7) for(8) such(9) a(10) car(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			Along_with(1) the(2) Maxima(3) 's(4) great(5) fuel(6) injectors(7) ,(8) you(9) can(10) accelerate(11) and(12) cruise(13) the(14) road(15) at(16) very(17) high(18) speeds(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			This(1) is(2) probably(3) the(4) best(5) engine(6) that(7) I(8) have(9) seen(10) on(11) a(12) sedan(13) in(14) the(15) Maxima(16) 's(17) price(18) range(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			Acceleration(1) :(2) When(3) I(4) took(5) my(6) Maxima(7) out(8) onto(9) the(10) open(11) roads(12) in(13) Indiana(14) ,(15) I(16) was(17) able(18) to(19) get(20) from(21) 0-60mph(22) in(23) about(24) ~(25) 7_seconds(26) ((27) sorry(28) about(29) before(30) with(31) my(32) 10_seconds(33) ,(34) I(35) was(36) only(37) estimating(38) .(39) The(40) acceleration(41) was(42) purely(43) incredible(44) on(45) the(46) Nissan_Maxima(47) .(48) It(49) can(50) go(51) really(52) fast(53) when(54) you(55) push(56) it(57) .(58) It(59) can(60) really(61) thrill(62) you(63) .(64) Response_Rate(65) :(66) The(67) Nissan_Maxima(68) has(69) a(70) very(71) strong(72) response(73) rate(74) ,(75) and(76) will(77) react(78) very(79) smoothly(80) with(81) your(82) controls(83) .(84) It(85) will(86) move(87) abruptly(88) when(89) it(90) 's(91) supposed(92) to(93) ,(94) and(95) will(96) start(97) to(98) brake(99) as(100) soon(101) as(102) you(103) hit(104) the(105) brake(106) pedal(107) .(108) Steering(109) is(110) easy(111) ,(112) and(113) the(114) Nissan_Maxima(115) again(116) reacts(117) very(118) smoothly(119) and(120) accordingly(121) with(122) the(123) steering(124) wheel(125) .(126) It(127) 's(128) a(129) very(130) responsive(131) car(132) ,(133) it(134) wont(135) fail(136) you(137) .(138) Braking(139) :(140) The(141) Nissan_Maxima(142) can(143) brake(144) very(145) easily(146) .(147) I(148) have(149) never(150) had(151) problems(152) with(153) it(154) stopping(155) before(156) .(157) It(158) does(159) not(160) have(161) any(162) problems(163) with(164) stopping(165) on(166) ice(167) or(168) anything(169) ,(170) the(171) brakes(172) on(173) the(174) Nissan_Maxima(175) are(176) very(177) strong(178) ,(179) and(180) they(181) wont(182) wear(183) off(184) for(185) a(186) long(187) time(188) .(189) Stopping(190) is(191) very(192) easy(193) .(194) Ride(195) :(196) The(197) Nissan_Maxima(198) has(199) great(200) shock(201) absorbers(202) and(203) wont(204) be(205) shaking(206) or(207) anything(208) .(209) You(210) would(211) not(212) feel(213) the(214) road(215) below(216) you(217) or(218) any(219) bumps(220) .(221) 
+			<opinion polarity="+" feature="brakes" featWords="172" opWords="178" potency="177"/>
+			<opinion polarity="+" feature="brakes" opWords="144,146"/>
+			<opinion polarity="+" feature="response" opWords="131"/>
+			<opinion polarity="+" feature="response" featWords="73" opWords="72"/>
+			<opinion polarity="+" feature="acceleration" featWords="41" opWords="44"/>
+		</sentence>
+		<sentence id="24">
+			I(1) have(2) found(3) the(4) Maxima(5) to(6) have(7) very(8) good(9) suspension(10) ,(11) and(12) very(13) easy(14) on(15) you(16) .(17) 
+			<opinion polarity="+" feature="suspension" featWords="10" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="25">
+			It(1) 's(2) a(3) very(4) comfortable(5) car(6) to(7) simply(8) ride(9) in(10) .(11) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="26">
+			It(1) moves(2) across(3) the(4) road(5) very(6) softly(7) and(8) swiftly(9) ,(10) you(11) can(12) fall(13) asleep(14) in(15) it(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			Suspension(1) :(2) As(3) I(4) have(5) mentioned(6) before(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			The(1) shocks(2) are(3) very(4) absorbant(5) ,(6) and(7) will(8) make(9) your(10) car(11) run(12) smoother(13) over(14) the(15) road(16) .(17) they(18) are(19) excellent(20) quality(21) shocks(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			Some(1) of(2) the(3) best(4) that(5) i(6) have(7) seen(8) on(9) a(10) car(11) .(12) the(13) shocks(14) on(15) older(16) Maximas(17) were(18) also(19) great(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			But(1) the(2) shocks(3) on(4) the(5) 2000/1(6) Nissan_Maxima(7) give(8) you(9) a(10) truly(11) soft(12) and(13) easy(14) ride(15) .(16) 
+			<opinion polarity="+" feature="ride quality" featWords="15" opWords="14"/>
+		</sentence>
+		<sentence id="31">
+			Mileage(1) and(2) Fuel_Economy(3) :(4) I(5) was(6) able(7) to(8) get(9) plenty_of(10) miles(11) on(12) this(13) car(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			It(1) is(2) not(3) the(4) most(5) efficient(6) car(7) in(8) it(9) 's(10) class(11) ,(12) but(13) it(14) 's(15) really(16) not(17) all(18) that(19) expensive(20) to(21) run(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="33">
+			You(1) can(2) make(3) many(4) miles(5) on(6) a(7) full(8) tank(9) of(10) gas(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			Filling(1) up(2) a(3) full(4) tank(5) with(6) premium(7) gas(8) is(9) around(10) $22(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			I(1) found(2) the(3) Nissan_Maxima(4) to(5) be(6) quite(7) fuel(8) efficient(9) ,(10) but(11) not(12) the(13) most(14) efficient(15) in(16) its(17) class(18) though(19) .(20) 
+			<opinion polarity="+" feature="gas" featWords="8" opWords="9"/>
+		</sentence>
+		<sentence id="36">
+			You(1) can(2) still(3) get(4) a(5) couple(6) hundred(7) miles(8) with(9) a(10) full(11) tank(12) of(13) gas(14) ,(15) the(16) highway(17) fuel(18) efficiency(19) is(20) great(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="18,19" opWords="21"/>
+		</sentence>
+		<sentence id="37">
+			Comfort(1) :(2) The(3) seats(4) on(5) the(6) Nissan_Maxima(7) are(8) quite(9) wide(10) and(11) very(12) comfortable(13) .(14) 
+			<opinion polarity="+" feature="seat" featWords="4" opWords="13" potency="12"/>
+			<opinion polarity="+" feature="seat" featWords="4" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="38">
+			I(1) could(2) sit(3) in(4) the(5) seats(6) the(7) whole(8) day(9) if(10) I(11) 'd(12) want(13) to(14) .(15) 
+		</sentence>
+		<sentence id="39">
+			They(1) are(2) much(3) softer(4) and(5) fuller(6) than(7) those(8) of(9) the(10) Honda_Accord(11) or(12) Toyota_Camry(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			The(1) Nissan_Maxima(2) is(3) a(4) very(5) comfortable(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="41">
+			There(1) is(2) also(3) plenty_of(4) leg(5) room(6) to(7) stretch(8) out(9) your(10) legs(11) .(12) 
+		</sentence>
+		<sentence id="42">
+			The(1) Nissan_Maxima(2) has(3) a(4) roomy(5) and(6) very(7) stylish(8) interior(9) .(10) 
+			<opinion polarity="+" feature="interior" featWords="9" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="interior" featWords="9" opWords="5"/>
+		</sentence>
+		<sentence id="43">
+			Sound_System(1) :(2) The(3) Nissan_Maxima(4) is(5) souped(6) up(7) with(8) a(9) powerful(10) Bose(11) stereo(12) system(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			The(1) sound(2) and(3) bass(4) is(5) incredibly(6) strong(7) that(8) comes(9) from(10) the(11) speakers(12) .(13) they(14) are(15) located(16) throughout(17) the(18) vehicle(19) ,(20) and(21) have(22) a(23) supreme(24) surround(25) sound(26) affect(27) .(28) 
+			<opinion polarity="+" feature="sound system" featWords="2" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="45">
+			These(1) are(2) very(3) high(4) quality(5) speakers(6) that(7) will(8) enrich(9) your(10) car(11) with(12) great(13) music(14) and(15) sound(16) .(17) 
+		</sentence>
+		<sentence id="46">
+			Interior_Styling(1) :(2) The(3) Nissan_Maxima(4) has(5) a(6) fine(7) interior(8) .(9) 
+		</sentence>
+		<sentence id="47">
+			There(1) are(2) some(3) wood(4) finishes(5) within(6) it(7) ,(8) and(9) the(10) speedometer(11) looks(12) great(13) .(14) 
+		</sentence>
+		<sentence id="48">
+			The(1) interior(2) is(3) great(4) looking(5) ,(6) and(7) it(8) feels(9) great(10) to(11) be(12) in(13) the(14) car(15) .(16) 
+			<opinion polarity="+" feature="interior" featWords="2" opWords="4,5"/>
+		</sentence>
+		<sentence id="49">
+			Very(1) stylish(2) and(3) well(4) made(5) interior(6) ,(7) truly(8) eye(9) candy(10) .(11) 
+			<opinion polarity="+" feature="interior" featWords="6" opWords="4,5"/>
+			<opinion polarity="+" feature="interior" featWords="6" opWords="2" potency="1"/>
+		</sentence>
+		<sentence id="50">
+			Reliability(1) :(2) I(3) have(4) had(5) no(6) problems(7) at(8) all(9) with(10) my(11) 2000(12) Nissan_Maxima(13) .(14) 
+		</sentence>
+		<sentence id="51">
+			It(1) is(2) very(3) reliable(4) .(5) 
+			<opinion polarity="+" feature="reliability" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="52">
+			I(1) have(2) not(3) taken(4) it(5) to(6) the(7) shop(8) for(9) any(10) problems(11) yet(12) ...(13) The(14) Nissan_Maxima(15) is(16) built(17) very(18) strong(19) ,(20) and(21) wont(22) let(23) you(24) down(25) .(26) 
+		</sentence>
+		<sentence id="53">
+			The(1) Nissan_Maxima(2) is(3) one(4) truly(5) solid(6) car(7) .(8) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5,6"/>
+		</sentence>
+		<sentence id="54">
+			The(1) Verdict(2) :(3) The(4) 2000(5) Nissan_Maxima(6) is(7) a(8) great(9) car(10) .(11) 
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="55">
+			It(1) is(2) the(3) best(4) in(5) its(6) class(7) ,(8) and(9) it(10) outperforms(11) all(12) competitors(13) in(14) every(15) aspect(16) .(17) 
+		</sentence>
+		<sentence id="56">
+			It(1) has(2) tremendous(3) strength(4) beneath(5) the(6) hood(7) ,(8) and(9) will(10) really(11) impress(12) you(13) with(14) its(15) high(16) agility(17) and(18) performance(19) .(20) 
+		</sentence>
+		<sentence id="57">
+			The(1) price(2) is(3) unbelievable(4) ,(5) starting(6) at(7) $19000(8) !(9) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="58">
+			That(1) 's(2) great(3) ,(4) for(5) everything(6) that(7) you(8) get(9) with(10) the(11) Nissan_Maxima(12) .(13) 
+		</sentence>
+		<sentence id="59">
+			The(1) Nissan_Maxima(2) is(3) without(4) any(5) doubt(6) a(7) best(8) buy(9) ,(10) and(11) it(12) is(13) truly(14) eye(15) candy(16) that(17) will(18) impress(19) everyone(20) .(21) 
+		</sentence>
+	</text>
+</review>

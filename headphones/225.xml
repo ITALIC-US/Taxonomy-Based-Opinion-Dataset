@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="225" item="Creative Technology HN-505 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Poor(1) sound(2) even(3) for(4) the(5) price(6) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Big(1) bass(2) .(3) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Folding(1) design(2) .(3) 
+			<opinion polarity="+" feature="design" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Cheap(1) as(2) heck(3) .(4) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Muddy(1) sound(2) .(3) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Ugly(1) overall(2) look(3) .(4) 
+			<opinion polarity="-" feature="appearance" featWords="3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) broke(2) my(3) Sennheiser(4) PXC-150s(5) and(6) wanted(7) a(8) cheaper(9) alternative(10) to(11) replacing(12) them(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Based(1) on(2) some(3) reviews(4) elsewhere(5) on(6) the(7) web(8) I(9) ordered(10) these(11) from(12) Cambridge_Soundworks(13) .(14) com(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			After(1) listening(2) to(3) them(4) for(5) a(6) few(7) songs(8) I(9) realized(10) I(11) simply(12) could(13) not(14) put(15) up(16) with(17) the(18) poor(19) sound(20) quality(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Also(1) ,(2) I(3) was(4) mocked(5) at(6) work(7) for(8) the(9) bulky(10) look(11) of(12) the(13) headphones(14) ((15) my(16) boss(17) said(18) "(19) You(20) look(21) like(22) a(23) pilot(24) "(25) )(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'm(2) not(3) a(4) vain(5) person(6) but(7) I(8) do(9) not(10) like(11) overly(12) bulky(13) headphones(14) .(15) 
+			<opinion polarity="-" feature="size" opWords="13" potency="12"/>
+		</sentence>
+	</text>
+</review>

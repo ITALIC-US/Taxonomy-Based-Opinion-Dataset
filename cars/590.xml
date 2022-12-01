@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="590" item="2000 Chevrolet Silverado" rating="3">
+	<title>
+		<sentence id="1">
+			Missed(1) the(2) Quality_Mark(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Generally(1) sturdy(2) truck(3) 
+			<opinion polarity="+" feature="truck" featWords="3" opWords="2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nuisance(1) items(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) truck(2) performed(3) well(4) until(5) it(6) hit(7) about(8) 700_miles(9) .(10) 
+			<opinion polarity="+" feature="performance" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			During(1) a(2) vacation(3) trip(4) the(5) drive(6) shaft(7) snapped(8) off(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) 800(2) assistance(3) number(4) was(5) not(6) reachable(7) at(8) 6am(9) on(10) a(11) Saturday(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			When(1) receiving(2) a(3) new(4) truck(5) one(6) would(7) think(8) that(9) the(10) quality(11) control(12) check(13) list(14) includes(15) placing(16) a(17) cap(18) on(19) the(20) differential(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			This(1) was(2) apparently(3) missing(4) which(5) cause(6) the(7) fluid(8) to(9) splash(10) out(11) over(12) time(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			That(1) caused(2) the(3) friction(4) and(5) subsequent(6) snapping(7) of(8) the(9) drive(10) shaft(11) ((12) and(13) fire(14) )(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) the(3) problem(4) resolution(5) of(6) the(7) people(8) at(9) a(10) suburban(11) Chevy(12) dealer(13) was(14) outstanding(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			We(1) are(2) now(3) finding(4) that(5) little(6) items(7) such(8) as(9) the(10) seat(11) belt(12) guard(13) will(14) not(15) stay(16) in(17) place(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			The(1) cup(2) holder(3) will(4) not(5) stay(6) in(7) place(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) a(3) need(4) to(5) make(6) trips(7) for(8) maintenance(9) on(10) items(11) that(12) should(13) just(14) work(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) quality(2) control(3) at(4) the(5) factory(6) seems(7) to(8) be(9) lacking(10) .(11) 
+		</sentence>
+	</text>
+</review>

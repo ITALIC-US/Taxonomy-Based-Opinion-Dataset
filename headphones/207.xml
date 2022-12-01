@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="207" item="RCA HP150 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Paid(1) only(2) $20(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			cheap(1) ((2) if(3) less(4) than(5) $20(6) )(7) sturdy(8) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+			<opinion polarity="+" feature="durability" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			poor(1) sound(2) hiss(3) not(4) very(5) comfortable(6) need(7) to(8) buy(9) your(10) own(11) NiMH(12) batteries(13) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) at(4) Geeks(5) .(6) com(7) for(8) less(9) than(10) $20(11) shipped(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			At(1) this(2) price(3) ,(4) these(5) phones(6) are(7) worth(8) while(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			What(1) everyone(2) says(3) about(4) tuning(5) and(6) hiss(7) are(8) true(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) got(2) them(3) to(4) watch(5) TV(6) on(7) the(8) treadmill(9) and(10) they(11) 're(12) fine(13) enough(14) to(15) be(16) able(17) to(18) discern(19) dialog(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			There(1) 's(2) a(3) profound(4) hiss(5) and(6) they(7) are(8) a_bit(9) difficult(10) to(11) tune(12) but(13) it(14) 's(15) not(16) annoying(17) enough(18) to(19) just(20) watch(21) a(22) TV(23) show(24) without(25) waking(26) the(27) kids(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) say(3) that(4) they(5) are(6) extremely(7) poor(8) quality(9) for(10) music(11) listening(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			They(1) do(2) have(3) decent(4) broadcast(5) range(6) but(7) the(8) hiss(9) is(10) there(11) at(12) all(13) ranges(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) was(2) able(3) to(4) go(5) around(6) 200_feet(7) before(8) I(9) lost(10) the(11) signal(12) .(13) 
+		</sentence>
+	</text>
+</review>

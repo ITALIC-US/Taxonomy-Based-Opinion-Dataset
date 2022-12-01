@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="151" item="1995 Ford F350" rating="5">
+	<title>
+		<sentence id="1">
+			Good_Work_Truck(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) engine(2) .(3) 
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) hauling(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			High(1) load(2) limit(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Air(1) conditioner(2) problems(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) gas(2) mileage(3) .(4) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) driving(2) truck(3) .(4) 
+			<opinion polarity="+" feature="truck" featWords="3" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Lots(1) of(2) comfort(3) for(4) a(5) working(6) person(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Hauls(1) heavy(2) loads(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) used(2) to(3) drive(4) this(5) Ford(6) F-350(7) truck(8) at(9) work(10) to(11) make(12) deliveries(13) and(14) pick(15) ups(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) say(2) used(3) to(4) because(5) I(6) no_longer(7) work(8) there(9) because(10) they(11) laid(12) me(13) off(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) drove(2) the(3) Ford(4) F-350(5) pick(6) up(7) truck(8) for(9) over(10) three(11) years(12) and(13) about(14) fifty_thousand_miles(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			We(1) would(2) regularly(3) load(4) it(5) down(6) with(7) over(8) three_thousand_pounds(9) of(10) liquid(11) chemicals(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Then(1) drive(2) it(3) three(4) to(5) four(6) hours(7) one(8) way(9) to(10) make(11) our(12) deliveries(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) return(2) trips(3) would(4) normally(5) be(6) empty(7) or(8) a(9) light(10) one_hundred(11) to(12) two_hundred_pound(13) load(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			A(1) regular(2) trip(3) might(4) take(5) up(6) to(7) a(8) day(9) and(10) cover(11) about(12) three_hundred_and_fifty_miles(13) to(14) five_hundred_and_fifty_miles(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) weather(2) would(3) range(4) from(5) near(6) zero(7) degrees(8) in(9) the(10) winter(11) time(12) to(13) one_hundred_and_twenty(14) degrees(15) or(16) higher(17) in(18) the(19) summer(20) time(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			There(1) were(2) about(3) seven(4) of(5) us(6) that(7) had(8) our(9) commercial(10) driver(11) 's(12) license(13) to(14) deliver(15) the(16) chemicals(17) in(18) this(19) truck(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			So(1) we(2) took(3) turns(4) driving(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Through(1) all(2) that(3) the(4) engine(5) blew(6) only(7) once(8) in(9) seven(10) years(11) .(12) 
+			<opinion polarity="-" feature="engine" featWords="5" opWords="6"/>
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) not(3) driving(4) it(5) when(6) the(7) engine(8) blew(9) .(10) 
+			<opinion polarity="-" feature="engine" featWords="8" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			But(1) the(2) guy(3) that(4) was(5) said(6) that(7) the(8) outside(9) temperature(10) was(11) about(12) one_hundred_and_ten(13) degrees(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			He(1) had(2) the(3) truck(4) loaded(5) with(6) two_thousand_pounds(7) and(8) he(9) was(10) driving(11) through(12) the(13) North_Georgia(14) mountains(15) when(16) the(17) engine(18) blew(19) .(20) 
+			<opinion polarity="-" feature="engine" featWords="18" opWords="19"/>
+		</sentence>
+		<sentence id="15">
+			At(1) that(2) point(3) in(4) time(5) the(6) truck(7) 's(8) original(9) engine(10) had(11) over(12) one_hundred_and_sixty_thousand_miles(13) on(14) it(15) and(16) no(17) major(18) work(19) had(20) ever(21) been(22) done(23) to(24) it(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			This(1) company(2) truck(3) ran(4) off(5) of(6) gasoline(7) and(8) was(9) two(10) wheel(11) drive(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			Our(1) truck(2) had(3) two(4) fuel(5) tanks(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			One(1) tank(2) held(3) about(4) fifteen(5) gallons(6) and(7) the(8) other(9) fuel(10) tank(11) could(12) hold(13) about(14) fourteen_gallons(15) of(16) gas(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			There(1) was(2) a(3) switch(4) on(5) the(6) dash(7) to(8) switch(9) between(10) these(11) two(12) fuel(13) tanks(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			The(1) gas(2) mileage(3) was(4) not(5) so(6) good(7) .(8) 
+			<opinion polarity="-" feature="gas" featWords="2,3" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="21">
+			I(1) could(2) get(3) about(4) eleven_miles(5) per(6) gallon(7) in(8) the(9) city(10) and(11) if(12) I(13) was(14) lucky(15) I(16) could(17) get(18) about(19) fifteen(20) miles(21) per(22) gallon(23) on(24) the(25) highway(26) when(27) it(28) was(29) loaded(30) down(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			I(1) noticed(2) that(3) even(4) when(5) the(6) truck(7) was(8) empty(9) or(10) near(11) empty(12) it(13) only(14) got(15) about(16) one(17) or(18) two(19) more(20) miles(21) per(22) gallon(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			The(1) truck(2) had(3) a(4) V(5) eight(6) cylinder(7) engine(8) .(9) 
+		</sentence>
+		<sentence id="24">
+			It(1) gave(2) us(3) all(4) the(5) power(6) we(7) needed(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			At(1) the(2) time(3) I(4) was(5) laid(6) off(7) due(8) to(9) lack(10) of(11) work(12) last_August_two_thousand_and_two(13) the(14) truck(15) had(16) over(17) two_hundred_and_seventy_thousand_miles(18) on(19) it(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			About(1) one_hundred_and_ten_thousand_miles(2) on(3) it(4) 's(5) new(6) engine(7) and(8) it(9) was(10) still(11) working(12) hard(13) and(14) being(15) worked(16) hard(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18,000(7) Condition(8) :(9) NewModel_Year(10) :(11) 1995Model(12) and(13) Options(14) :(15) Automatic(16) 
+		</sentence>
+	</text>
+</review>

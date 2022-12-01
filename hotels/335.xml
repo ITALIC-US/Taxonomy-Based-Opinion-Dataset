@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="335" item="Howard Johnson At Airport" rating="1">
+	<title>
+		<sentence id="1">
+			Airport_Hojo(1) or(2) No(3) ?(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Shuttle(1) to(2) /(3) from(4) the(5) airport(6) ,(7) Shuttle(8) to(9) /(10) from(11) the(12) Strip(13) ,(14) On(15) site(16) deli(17) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needs(1) remodeling(2) and(3) a(4) good(5) cleaning(6) ,(7) Charge(8) for(9) 1-800(10) calls(11) made(12) from(13) your(14) room(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Las_Vegas(1) has(2) plenty_of(3) hotels(4) ,(5) many(6) with(7) shuttle(8) service(9) ,(10) stay(11) elsewhere(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) dirty(2) rooms(3) and(4) general(5) shabbiness(6) make(7) this(8) hotel(9) uncomfortable(10) .(11) 
+			<opinion polarity="-" feature="rooms" featWords="3" opWords="2"/>
+			<opinion polarity="-" feature="hotel" featWords="9" opWords="10"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) staying(5) at(6) the(7) "(8) Howard_Johnson(9) "(10) Airport(11) .(12) 
+			<opinion polarity="-" feature="hotel" opWords="3,4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) price(2) is(3) fair(4) ,(5) and(6) you(7) may(8) find(9) travel(10) coupons(11) ,(12) but(13) the(14) condition(15) of(16) the(17) hotel(18) is(19) not(20) worth(21) the(22) money(23) .(24) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			My(1) family(2) was(3) stranded(4) at(5) the(6) airport(7) and(8) chose(9) this(10) hotel(11) for(12) its(13) shuttle(14) service(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Upon(1) arrival(2) ,(3) I(4) was(5) told(6) that(7) the(8) non-smoking(9) rooms(10) were(11) not(12) available(13) but(14) that(15) I(16) could(17) have(18) a(19) smoking(20) room(21) ,(22) that(23) had(24) recently(25) been(26) "(27) cleaned(28) "(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) condition(2) of(3) the(4) room(5) is(6) not(7) what(8) I(9) would(10) expect(11) from(12) Hojo(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) window(2) to(3) my(4) room(5) does(6) not(7) lock(8) and(9) is(10) flimsy(11) enough(12) to(13) be(14) easily(15) broken(16) into(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) floor(2) is(3) so(4) filthy(5) that(6) my(7) infant(8) 's(9) hands(10) and(11) knees(12) were(13) black(14) from(15) crawling(16) on(17) it(18) .(19) 
+			<opinion polarity="-" feature="grounds" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			There(1) was(2) garbage(3) left(4) in(5) my(6) room(7) including(8) used(9) Q-Tips(10) ,(11) wrappers(12) ,(13) and(14) ashes(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) dirty(4) rag(5) ,(6) left(7) from(8) the(9) last(10) guest(11) ,(12) hung(13) over(14) the(15) shower(16) and(17) what(18) looked(19) like(20) dried(21) blood(22) in(23) the(24) bath(25) tub(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) remote(2) control(3) for(4) the(5) TV(6) was(7) missing(8) ,(9) and(10) a(11) drawer(12) was(13) broken(14) and(15) hung(16) on(17) one(18) hinge(19) .(20) 
+			<opinion polarity="-" feature="drawers" featWords="12" opWords="14"/>
+		</sentence>
+		<sentence id="11">
+			In(1) general(2) ,(3) the(4) place(5) needed(6) a(7) good(8) cleaning(9) and(10) remodeling(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			When(1) I(2) complained(3) to(4) the(5) Howard_Johnson(6) company(7) regarding(8) this(9) hotel(10) ,(11) I(12) was(13) told(14) that(15) the(16) "(17) Howard_Johnson(18) "(19) at(20) 5100(21) Paradise_Road(22) is(23) not(24) part(25) of(26) the(27) Howard_Johnson(28) franchise(29) ,(30) and(31) has(32) no(33) affiliation(34) Howard_Johnson(35) hotels(36) .(37) 
+		</sentence>
+		<sentence id="13">
+			I(1) then(2) told(3) the(4) representative(5) that(6) this(7) hotel(8) has(9) a(10) Howard_Johnson(11) sign(12) on(13) its(14) property(15) ,(16) and(17) the(18) invoice(19) carries(20) a(21) Howard_Johnson(22) logo(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			And(1) asked(2) her(3) how(4) do(5) I(6) tell(7) a_real(8) Hojo(9) hotel(10) ((11) that(12) is(13) part(14) of(15) the(16) franchise(17) )(18) from(19) one(20) that(21) is(22) not(23) ?(24) 
+		</sentence>
+		<sentence id="15">
+			I(1) received(2) no(3) reply(4) .(5) 
+		</sentence>
+	</text>
+</review>

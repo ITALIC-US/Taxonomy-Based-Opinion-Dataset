@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="657" item="Hotel Del Coronado" rating="5">
+	<title>
+		<sentence id="1">
+			Del_Coronado(1) :(2) The(3) Best_Place(4) to(5) Stay_In_Southern_California(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) beaches(2) ,(3) haunted(4) ,(5) San_Diego(6) weather(7) ,(8) first(9) class(10) service(11) and(12) amenities(13) 
+			<opinion polarity="+" feature="beach" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) afford(4) to(5) stay(6) here(7) ,(8) do(9) it(10) !(11) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) can(3) not(4) ,(5) just(6) come(7) to(8) visit(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			This(1) place(2) is(3) wonderful(4) !(5) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Hotel_Del_Coronado(2) ,(3) known(4) by(5) locals(6) as(7) "(8) The(9) Hotel_Del(10) ,(11) "(12) or(13) simply(14) as(15) "(16) The(17) Del(18) "(19) is(20) located(21) just(22) outside_of(23) San_Diego(24) at(25) 1500(26) Orange_Avenue(27) in(28) Coronado(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			To(1) get(2) in(3) touch(4) with(5) them(6) ,(7) you(8) just(9) dial(10) ((11) 800(12) )(13) HOTELDEL(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Life(1) does(2) not(3) get(4) much(5) easier(6) than(7) that(8) !(9) 
+		</sentence>
+		<sentence id="4">
+			The(1) Del(2) is(3) 112(4) years(5) old(6) ,(7) and(8) is(9) listed(10) as(11) a(12) historic(13) building(14) on(15) the(16) National_Register(17) .(18) 
+			<opinion polarity="+" feature="building" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a(3) wooden(4) Victorian(5) structure(6) ,(7) and(8) yet(9) ,(10) it(11) has(12) been(13) modernized(14) to(15) have(16) all(17) the(18) latest(19) amenities(20) .(21) 
+			<opinion polarity="+" feature="amenities" featWords="20" opWords="19"/>
+		</sentence>
+		<sentence id="6">
+			You(1) might(2) remember(3) having(4) seen(5) this(6) hotel(7) in(8) the(9) movie(10) "(11) Some(12) Like_It_Hot(13) "(14) with(15) Tony_Curtis(16) ,(17) Jack_Lemmon(18) and(19) Marilyn_Monroe(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Rooms(1) in(2) the(3) towers(4) and(5) the(6) cabana(7) rooms(8) are(9) all(10) outfitted(11) in(12) beautiful(13) sea-tones(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) also(3) a(4) beach(5) house(6) available(7) which(8) gives(9) you(10) an(11) incredible(12) private(13) oceanfront(14) experience(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			All(1) the(2) rooms(3) come(4) stocked(5) with(6) fluffy(7) terry(8) cloth(9) robes(10) ,(11) irons(12) ,(13) ironing(14) boards(15) ,(16) hair(17) dryers(18) ,(19) HBO(20) and(21) pay-per-view(22) movies(23) ,(24) in-room(25) safe(26) and(27) a(28) mini-bar(29) .(30) 
+		</sentence>
+		<sentence id="10">
+			This(1) is(2) a(3) luxury(4) hotel(5) ,(6) so(7) you(8) can(9) also(10) have(11) in-room(12) dining(13) all(14) day(15) long(16) ,(17) airport(18) shuttle(19) ,(20) dry(21) cleaning(22) ,(23) and(24) babysitting(25) services(26) .(27) 
+			<opinion polarity="+" feature="hotel" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			Frankly(1) ,(2) the(3) concierge(4) at(5) the(6) Del(7) is(8) all(9) about(10) customer(11) service(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Just(1) about(2) anything(3) legal(4) you(5) ask(6) for(7) ,(8) they(9) will(10) try(11) to(12) help(13) you(14) find(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Room(1) availability(2) can(3) be(4) checked(5) nearly(6) a(7) year(8) in(9) advance(10) at(11) the(12) Del(13) 's(14) web(15) site(16) .(17) ((18) www.hoteldel.com)(19) These(20) rooms(21) have(22) played(23) host(24) to(25) the(26) hoi(27) poloi(28) of(29) the(30) last(31) century(32) .(33) Marilyn_Monroe(34) ,(35) Charles_Lindbergh(36) ,(37) and(38) the(39) Reagans(40) have(41) all(42) stayed(43) here(44) .(45) Still(46) in(47) residence(48) ,(49) according_to(50) some(51) ,(52) is(53) the(54) ghost(55) of(56) Kate_Morgan(57) who(58) arrived(59) in_1892(60) .(61) She(62) had(63) a(64) quarrel(65) with(66) her(67) husband(68) and(69) committed(70) suicide(71) on(72) the(73) beach(74) .(75) Some(76) believe(77) she(78) still(79) has(80) not(81) left(82) .(83) While(84) I(85) have(86) not(87) had(88) any(89) personal(90) run-ins(91) with(92) Ms._Morgan(93) ,(94) I(95) have(96) friends(97) who(98) work(99) at(100) the(101) hotel(102) who(103) assure(104) me(105) that(106) she(107) is(108) real(109) .(110) My(111) friend(112) Greg(113) says(114) he(115) never(116) believed(117) in(118) ghosts(119) before(120) working(121) here(122) ,(123) but(124) is(125) now(126) convinced(127) .(128) The(129) weather(130) in(131) San_Diego(132) is(133) glorious(134) and(135) the(136) Del(137) gets(138) the(139) best(140) of(141) it(142) .(143) Unfortunately(144) ,(145) if(146) there(147) is(148) a(149) problem(150) with(151) water(152) quality(153) ((154) sometimes(155) things(156) float(157) up(158) from(159) Mexico(160) )(161) the(162) beach(163) here(164) can(165) be(166) closed(167) .(168) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) the(3) only(4) real(5) drawback(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) hard(3) to(4) give(5) any(6) information(7) on(8) prices(9) at(10) the(11) Del(12) as(13) they(14) change(15) with(16) the(17) season(18) and(19) the(20) variety(21) of(22) rooms(23) go(24) for(25) a(26) wide(27) range(28) of(29) prices(30) ((31) from(32) expensive(33) to(34) outrageous(35) !(36) )(37) Even_if(38) you(39) can(40) not(41) afford(42) to(43) stay(44) at(45) the(46) Del(47) ,(48) it(49) is(50) possible(51) to(52) come(53) and(54) visit(55) .(56) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) often(3) concerts(4) and(5) activities(6) here(7) that(8) are(9) open(10) to(11) the(12) public(13) ((14) for(15) a(16) price(17) )(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			On(1) Valentine(2) 's(3) day(4) ,(5) there(6) is(7) a(8) tradition(9) of(10) many(11) people(12) marrying(13) at(14) the(15) Del(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			The(1) Del(2) features(3) 3(4) restaurants(5) on(6) its(7) premises(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			There(1) is(2) the(3) Prince_of_Wales(4) ,(5) which(6) is(7) the(8) most(9) romantic(10) of(11) the(12) four(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			It(1) has(2) an(3) outdoor(4) terrace(5) for(6) dining(7) under(8) the(9) stars(10) ((11) bring(12) a(13) sweater(14) .(15) It(16) gets(17) cold(18) here(19) at(20) night(21) .(22) )(23) The(24) menu(25) is(26) seasonal(27) and(28) changes(29) ,(30) but(31) tends(32) towards(33) classic(34) preparations(35) .(36) 
+		</sentence>
+		<sentence id="21">
+			Jazz(1) music(2) is(3) featured(4) here(5) nightly(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			The(1) wine(2) list(3) here(4) is(5) extensive(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			The(1) Babcock_&_Story_Bar(2) features(3) drinks(4) and(5) tapas(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			There(1) is(2) entertainment(3) here(4) nightly(5) .(6) 
+		</sentence>
+		<sentence id="25">
+			It(1) 's(2) a(3) fun(4) place(5) to(6) unwind(7) .(8) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="26">
+			It(1) also(2) has(3) a(4) giftshop(5) associated(6) with(7) it(8) ,(9) so(10) if(11) you(12) do(13) not(14) spend(15) enough(16) on(17) the(18) food(19) and(20) drink(21) ,(22) you(23) can(24) buy(25) all(26) kinds(27) of(28) other(29) touristy(30) doodads(31) ,(32) gimmyjicks(33) ,(34) and(35) thing-a-mabobs(36) ,(37) as_well(38) as(39) books(40) ,(41) garden(42) stuff(43) and(44) the(45) appropriate(46) t-shirts(47) .(48) 
+		</sentence>
+		<sentence id="27">
+			Finally(1) ,(2) there(3) 's(4) the(5) Sheerwater(6) which(7) has(8) California(9) coastal(10) cuisine(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			It(1) shines(2) with(3) fresh(4) and(5) elegant(6) preparations(7) that(8) let(9) the(10) taste(11) of(12) the(13) foods(14) shine(15) through(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) Del(2) is(3) a(4) wonderful(5) place(6) to(7) stay(8) if(9) you(10) can(11) afford(12) it(13) ,(14) and(15) a(16) wonderful(17) place(18) to(19) visit(20) even_if(21) you(22) can(23) not(24) .(25) 
+		</sentence>
+		<sentence id="30">
+			This(1) is(2) a(3) definite(4) must(5) see(6) when(7) you(8) 're(9) in(10) San_Diego(11) .(12) 
+		</sentence>
+		<sentence id="31">
+			You(1) can(2) get(3) to(4) Coronado(5) itself(6) by(7) a(8) ferry(9) that(10) leaves(11) from(12) San_Diego_'s_B-Street_Pier(13) or(14) over(15) the(16) beautiful(17) Coronado_Bay_Bridge(18) .(19) 
+		</sentence>
+		<sentence id="32">
+			From(1) either(2) access(3) ,(4) just(5) ask(6) the(7) locals(8) how(9) to(10) get(11) to(12) the(13) Del(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			And(1) do(2) not(3) forget(4) to(5) wander(6) around(7) Coronado(8) itself(9) ,(10) San_Diego(11) 's(12) beautiful(13) ,(14) relaxed(15) ,(16) up-scale(17) next-door(18) neighbor(19) .(20) 
+		</sentence>
+	</text>
+</review>

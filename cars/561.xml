@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="561" item="2005 Ford Focus" rating="3">
+	<title>
+		<sentence id="1">
+			focus(1) wagon(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Interior(1) space(2) ,(3) quietness(4) ,(5) rebates(6) and(7) incentives(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			attention(1) to(2) detail(3) lacking(4) along_with(5) interior(6) storage(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Ford(1) rebates(2) and(3) incentives(4) are(5) hard(6) to(7) ignore(8) ,(9) and(10) there(11) is(12) not(13) anything(14) glaringly(15) wrong(16) ,(17) so(18) ...(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) traded(2) in(3) a(4) Subaru_Forester_Turbo(5) for(6) this(7) wagon(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Partly(1) for(2) a(3) cheaper(4) payment(5) and(6) partly(7) for(8) the(9) better(10) gas(11) mileage(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Besides(1) those(2) two(3) things(4) ,(5) the(6) biggest(7) noticeable(8) improvement(9) in(10) the(11) switch(12) was(13) that(14) the(15) Focus(16) was(17) noticeably(18) bigger(19) inside(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			A(1) practical(2) test(3) :(4) our(5) daughter(6) 's(7) stroller(8) will(9) fit(10) lengthwise(11) in(12) the(13) hatch(14) area(15) whereas(16) it(17) would(18) not(19) in(20) the(21) Subaru(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Nice(1) parts(2) also(3) include(4) being(5) relatively(6) quiet(7) on(8) the(9) highway(10) ,(11) most(12) ,(13) not(14) all(15) of(16) the(17) controls(18) are(19) logically(20) placed(21) ,(22) the(23) automatic(24) transmisson(25) works(26) very(27) well(28) .(29) 
+			<opinion polarity="+" feature="car" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) engine(2) is(3) not(4) too(5) loud(6) ,(7) has(8) adequate(9) power(10) ,(11) and(12) acceptable(13) gas(14) mileage(15) .(16) 
+			<opinion polarity="+" feature="gas" featWords="14,15" opWords="13"/>
+			<opinion polarity="+" feature="horsepower" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="7">
+			The(1) a(2) /(3) c(4) seems(5) to(6) be(7) very(8) effective(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Now(1) to(2) everyone(3) 's(4) favorite(5) part(6) :(7) the(8) dislikes(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			I(1) have(2) yet(3) to(4) see(5) a(6) revision(7) of(8) a(9) car(10) that(11) kept(12) the(13) good(14) parts(15) and(16) just(17) fixed(18) the(19) bad(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			Carmakers(1) invariably(2) feel(3) the(4) need(5) to(6) change(7) everything(8) which(9) tends(10) to(11) bring(12) new(13) problems(14) that(15) were(16) not(17) there(18) before(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			The(1) hatch(2) has(3) three(4) ways(5) to(6) open(7) it(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			There(1) is(2) a(3) small(4) rubber(5) covered(6) button(7) above(8) the(9) license(10) plate(11) that(12) activates(13) a(14) motorized(15) latch(16) which(17) is(18) difficult(19) to(20) find(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			However(1) you(2) can(3) use(4) a(5) button(6) on(7) the(8) key(9) fob(10) ,(11) which(12) makes(13) up(14) for(15) it(16) ,(17) and(18) a(19) button(20) on(21) the(22) dashboard(23) opens(24) it(25) as_well(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			I(1) 've(2) read(3) another(4) review(5) commenting(6) on(7) how(8) the(9) doors(10) lock(11) themselves(12) after(13) you(14) get(15) moving(16) ,(17) but(18) therein(19) lies(20) the(21) trouble(22) with(23) writing(24) a(25) review(26) only(27) having(28) rented(29) the(30) car(31) and(32) not(33) actually(34) owning(35) it(36) .(37) 
+		</sentence>
+		<sentence id="15">
+			As(1) stated(2) in(3) the(4) owner(5) 's(6) manual(7) ,(8) it(9) is(10) possible(11) to(12) deactivate(13) that(14) automatic(15) locking(16) ,(17) which(18) I(19) did(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) cupholders(2) are(3) not(4) very(5) useful(6) .(7) 
+			<opinion polarity="-" feature="cup holders" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="17">
+			The(1) two(2) middle(3) ones(4) my(5) are(6) right(7) where(8) your(9) leg(10) wants(11) to(12) be(13) ,(14) and(15) the(16) ones(17) in(18) the(19) doors(20) are(21) too(22) small(23) to(24) hold(25) anything(26) but(27) bottled(28) water(29) .(30) 
+			<opinion polarity="-" feature="door" featWords="20" opWords="22,23"/>
+		</sentence>
+		<sentence id="18">
+			Storage(1) space(2) is(3) not(4) so(5) good(6) either(7) .(8) 
+		</sentence>
+		<sentence id="19">
+			The(1) center(2) console(3) is(4) shallow(5) ,(6) a(7) small(8) bin(9) under(10) the(11) HVAC(12) controls(13) is(14) very(15) unacessable(16) ,(17) and(18) a(19) compartment(20) for(21) CDs(22) in(23) front(24) of(25) the(26) driver(27) 's(28) left(29) leg(30) has(31) holes(32) in(33) the(34) bottom(35) ,(36) so(37) you(38) could(39) not(40) put(41) change(42) in(43) it(44) .(45) 
+		</sentence>
+		<sentence id="20">
+			A(1) sunglasses(2) holder(3) on(4) the(5) ceiling(6) is(7) nice(8) ,(9) but(10) a_second(11) compartment(12) supposedly(13) to(14) hold(15) a(16) garage(17) door(18) opener(19) is(20) unuseable(21) for(22) anything(23) else(24) if(25) you(26) do(27) not(28) happen(29) to(30) have(31) one(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) also(3) noticed(4) that(5) the(6) assembly(7) quality(8) is(9) not(10) as(11) good(12) as(13) our(14) 2003(15) Hyundai_Elantra(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			Certain(1) little(2) things(3) such(4) as(5) outside(6) trim(7) pieces(8) pulling(9) away(10) slightly(11) ,(12) the(13) feel(14) of(15) the(16) carpet(17) used(18) is(19) noticeable(20) cheaper(21) and(22) a(23) general(24) lack(25) of(26) attention(27) to(28) detail(29) .(30) 
+		</sentence>
+		<sentence id="23">
+			Nothing(1) big(2) ,(3) but(4) little(5) things(6) tend(7) to(8) separate(9) the(10) average(11) from(12) the(13) above(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 18400(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) SE(16) 
+		</sentence>
+	</text>
+</review>

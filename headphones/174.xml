@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="174" item="Sennheiser HD 497 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Outstanding(1) .(2) .(3) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			quality(1) of(2) construction(3) ,(4) sound(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) that(2) I(3) 've(4) found(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) very(4) high(5) quality(6) product(7) that(8) should(9) give(10) you(11) many(12) years(13) of(14) service(15) .(16) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="5,6" potency="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) using(2) my(3) Senn(4) 's(5) for(6) about(7) six(8) months(9) ,(10) I(11) decided(12) to(13) write(14) a(15) review(16) for(17) them(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			These(1) headphones(2) are(3) truly(4) excellent(5) .(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			I(1) searched(2) audiophile(3) websites(4) when(5) I(6) was(7) looking(8) to(9) purchase(10) a(11) set(12) of(13) headphones(14) and(15) many(16) reviewers(17) spoke(18) highly(19) of(20) Sennheiser(21) 's(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			They(1) were(2) not(3) incorrect(4) ,(5) these(6) things(7) have(8) excellent(9) sound(10) .(11) 
+			<opinion polarity="+" feature="sound quality" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			Crisp(1) high(2) treble(3) ,(4) with(5) bass(6) performance(7) that(8) usually(9) is(10) only(11) gotten(12) on(13) speakers(14) or(15) much(16) higher(17) quality(18) headphones(19) .(20) 
+			<opinion polarity="+" feature="highs" featWords="3" opWords="1"/>
+			<opinion polarity="+" feature="highs" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) initially(3) concerned(4) about(5) the(6) fit(7) of(8) these(9) as(10) they(11) seemed(12) perhaps(13) too(14) tight(15) when(16) I(17) first(18) put(19) them(20) on(21) my(22) head(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Not(1) to(2) worry(3) ,(4) I(5) got(6) used(7) to(8) them(9) and(10) they(11) feel(12) natural(13) on(14) my(15) head(16) for(17) hours(18) at(19) a(20) time(21) and(22) I(23) have(24) a(25) massive(26) cranium(27) ((28) 7(29) 3/4(30) hat(31) size(32) with(33) Dumbo(34) ears(35) )(36) .(37) 
+		</sentence>
+		<sentence id="8">
+			The(1) long(2) cord(3) is(4) great(5) for(6) watching(7) tv(8) when(9) my(10) spouse(11) is(12) sleeping(13) .(14) 
+			<opinion polarity="+" feature="cord" featWords="3" opWords="2"/>
+			<opinion polarity="+" feature="cord" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) only(2) problem(3) I(4) have(5) is(6) that(7) my(8) wife(9) loves(10) these(11) headphones(12) so(13) much(14) that(15) she(16) wants(17) to(18) borrow(19) them(20) all(21) the(22) time(23) and(24) I(25) need(26) a_second(27) pair(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			She(1) actually(2) uses(3) them(4) with(5) here(6) portable(7) CD(8) player(9) on(10) the(11) subway(12) and(13) since(14) they(15) cover(16) your(17) ears(18) ,(19) they(20) actually(21) serve(22) dual(23) purpose(24) as(25) earmuffs(26) !(27) .(28) .(29) believe(30) it(31) or(32) not(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			My(1) advice(2) :(3) buy(4) em(5) ,(6) you(7) can(8) not(9) go(10) wrong(11) .(12) 
+			<opinion polarity="+" feature="headphones" featWords="5" featRef="headphones" opWords="4"/>
+		</sentence>
+	</text>
+</review>

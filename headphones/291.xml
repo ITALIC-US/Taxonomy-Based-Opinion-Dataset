@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="291" item="V-Moda VM-501 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			WOW(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			On(1) so(2) many(3) levels(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Look(1) ,(2) feel(3) and(4) GREAT(5) overall(6) response(7) 
+			<opinion polarity="+" feature="frequency response" featWords="7" opWords="5" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) that(2) I(3) can(4) tell(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Spend(1) the(2) money(3) and(4) return(5) others(6) you(7) have(8) tried(9) ...(10) these(11) look(12) awesome(13) and(14) sound(15) even(16) better(17) !(18) 
+			<opinion polarity="+" feature="appearance" opWords="12,13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			OK(1) -(2) I(3) have(4) been(5) quite(6) picky(7) on(8) finding(9) the(10) "(11) perfect(12) "(13) earbud(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) done(3) the(4) IEM(5) ((6) in(7) ear(8) monitors(9) )(10) that(11) TOTALLY(12) close(13) off(14) your(15) ear(16) canal(17) and(18) cancel(19) all(20) sound(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			The(1) idea(2) is(3) great(4) ,(5) but(6) kind(7) of(8) "(9) wigs(10) "(11) me(12) out(13) !(14) 
+		</sentence>
+		<sentence id="4">
+			I(1) had(2) a(3) pair(4) of(5) Sony(6) Ex51s(7) and(8) they(9) sounded(10) really(11) good(12) ,(13) but(14) the(15) wiring(16) was(17) way(18) too(19) thin(20) and(21) began(22) to(23) break(24) .(25) 
+			<opinion polarity="+" feature="sound quality" opWords="10,12" potency="11"/>
+		</sentence>
+		<sentence id="5">
+			I(1) then(2) went(3) to(4) the(5) Shure(6) 3s(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Nice(1) ,(2) but(3) expensive(4) and(5) I(6) did(7) not(8) find(9) them(10) comfortable(11) at(12) all(13) .(14) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+			<opinion polarity="-" feature="price" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			I(1) went(2) old(3) school(4) with(5) a(6) pair(7) of(8) Sennheiser(9) 200s(10) and(11) they(12) sounded(13) awful(14) ...(15) TOTAL(16) sound(17) leakage(18) ((19) they(20) are(21) not(22) in-ears(23) or(24) buds(25) ...(26) they(27) go(28) on(29) top(30) of(31) your(32) ears(33) )(34) and(35) they(36) also(37) had(38) NO(39) bass(40) response(41) at(42) all(43) .(44) 
+		</sentence>
+		<sentence id="8">
+			So(1) ,(2) I(3) read(4) about(5) 100(6) more(7) reviews(8) online(9) and(10) decided(11) on(12) these(13) V-Moda_Vibes(14) ((15) in(16) gunmetal(17) )(18) and(19) absolutely(20) LOVE(21) them(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			I(1) got(2) them(3) via(4) Amazon(5) for(6) $80(7) expedited(8) shipping(9) and(10) they(11) rock(12) !(13) 
+			<opinion polarity="+" feature="headphones" opWords="12"/>
+		</sentence>
+		<sentence id="10">
+			They(1) fit(2) alot(3) like(4) my(5) Sony(6) 's(7) did(8) ...(9) ear(10) buds(11) that(12) make(13) a(14) seal(15) for_good(16) bass(17) response(18) and(19) some(20) noise(21) cancellation(22) ,(23) but(24) do(25) not(26) make(27) so(28) much(29) of(30) a(31) seal(32) that(33) you(34) feel(35) like(36) there(37) is(38) a(39) suction(40) cup(41) on(42) your(43) ear(44) .(45) 
+		</sentence>
+		<sentence id="11">
+			They(1) are(2) also(3) VERY(4) light(5) and(6) comfortable(7) .(8) 
+			<opinion polarity="+" feature="weight" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="comfort" opWords="7"/>
+		</sentence>
+		<sentence id="12">
+			I(1) was(2) slightly(3) concerned(4) when(5) I(6) saw(7) that(8) they(9) were(10) made(11) of(12) metal(13) ,(14) but(15) they(16) not(17) look(18) AWESOME(19) ,(20) they(21) feel(22) great(23) ,(24) too(25) .(26) 
+			<opinion polarity="-" feature="appearance" opWords="17,18,19"/>
+			<opinion polarity="+" feature="comfort" opWords="22,23"/>
+		</sentence>
+		<sentence id="13">
+			Overall(1) ,(2) I(3) feel(4) you(5) will(6) be(7) pleased(8) with(9) the(10) look(11) ,(12) the(13) feel(14) and(15) ,(16) most(17) importantly(18) ,(19) the(20) SOUND(21) !(22) 
+		</sentence>
+	</text>
+</review>

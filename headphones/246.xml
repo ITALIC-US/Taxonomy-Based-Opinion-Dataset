@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="246" item="Sennheiser HD 570 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Excellent(1) headphones(2) -(3) short(4) review(5) ,(6) my(7) 2(8) cents(9) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) quality(2) ,(3) sturdy(4) design(5) 
+			<opinion polarity="+" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) sound(2) quality(3) for(4) a(5) home(6) theater(7) or(8) computer(9) !(10) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) not(3) a(4) big(5) fan(6) of(7) headphones(8) ,(9) but(10) I(11) wanted(12) a(13) pair(14) that(15) I(16) could(17) use(18) with(19) my(20) computer(21) and(22) a(23) new(24) high-end(25) sound(26) card(27) I(28) purchased(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			It(1) turns(2) out(3) these(4) headphones(5) are(6) so(7) good(8) ,(9) that(10) I(11) can(12) now(13) hear(14) the(15) flaws(16) in_mp3s(17) and(18) weaknesses(19) in(20) my(21) Sound_Blaster_Audigy(22) 's(23) design(24) .(25) 
+			<opinion polarity="+" feature="headphones" featWords="5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="3">
+			These(1) headphones(2) use(3) a(4) cup-the-ear(5) approach(6) ((7) see(8) the(9) other(10) reviews(11) )(12) rather(13) than(14) rest-on-the-ear(15) approach(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) heard(3) this(4) can(5) be(6) annoying(7) for(8) those(9) who(10) wear(11) glasses(12) since(13) the(14) headphones(15) need(16) to(17) cup(18) the(19) ear(20) and(21) glasses(22) get(23) in(24) the(25) way(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			These(1) are(2) not(3) very(4) portable(5) at(6) all(7) --(8) you(9) would(10) not(11) want(12) to(13) try(14) to(15) carry(16) these(17) around(18) .(19) 
+			<opinion polarity="-" feature="portability" opWords="3,5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) have(2) also(3) used(4) them(5) with(6) a(7) sound(8) board(9) at(10) a(11) choir(12) performance(13) for(14) tuning(15) the(16) board(17) /(18) mics(19) for(20) soloists(21) .(22) 
+		</sentence>
+	</text>
+</review>

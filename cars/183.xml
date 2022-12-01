@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="183" item="2003 Mercury Grand Marquis" rating="5">
+	<title>
+		<sentence id="1">
+			would(1) have(2) thought(3) it(4) was(5) a(6) Cadillac(7) ,(8) but(9) better(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			fuel(1) economy(2) ,(3) handling(4) ,(5) appearance(6) inside(7) and(8) out(9) .(10) feels(11) like(12) a(13) luxury(14) car(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			very(1) little(2) storage(3) room(4) inside(5) 
+			<opinion polarity="-" feature="trunk space" featWords="3,4" opWords="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) bottom(2) line(3) is(4) that(5) i(6) suggest(7) this(8) car(9) for(10) anyone(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			You(1) might(2) feel(3) like(4) an(5) old(6) person(7) driving(8) it(9) ,(10) but(11) you(12) will(13) enjoy(14) every(15) minute(16) of(17) it(18) .(19) 
+			<opinion polarity="+" feature="car" opWords="14"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) still(2) own(3) a(4) 1992(5) Grand_Marquis(6) and(7) the(8) 2003(9) is(10) all(11) around(12) better(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Every(1) complaint(2) I(3) had(4) about(5) the(6) old(7) one(8) was(9) fixed(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) handling(2) on(3) the(4) 2003(5) has(6) improved(7) greatly(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) take(3) tight(4) turn(5) at(6) a(7) high(8) speed(9) without(10) the(11) feel(12) of(13) the(14) car(15) falling(16) apart(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) ride(2) is(3) a(4) little(5) more(6) rigid(7) than(8) the(9) 92(10) model(11) but(12) it(13) hugs(14) the(15) road(16) much(17) better(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			The(1) fuel(2) economy(3) in(4) the(5) city(6) is(7) still(8) the(9) same(10) apx(11) .(12) 17(13) but(14) the(15) highway(16) mileage(17) has(18) improved(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			On(1) a(2) good(3) day(4) the(5) old(6) one(7) got(8) 26-27(9) ,(10) the(11) '(12) 03(13) gets(14) about(15) 30-33(16) on(17) the(18) highway(19) going(20) between(21) 65-70mph(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			The(1) comfort(2) has(3) improved(4) and(5) the(6) new(7) interior(8) is(9) appealing(10) to(11) the(12) eye(13) .(14) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			It(1) has(2) a(3) keypad(4) so(5) you(6) will(7) never(8) lock(9) your(10) keys(11) in(12) the(13) car(14) !(15) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) the(3) dual(4) visors(5) are(6) a(7) plus(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			The(1) factory(2) tinted(3) windows(4) are(5) a(6) plus(7) as(8) they(9) keep(10) the(11) car(12) cooler(13) during(14) the(15) summer(16) time(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) fun(3) to(4) drive(5) and(6) I(7) will(8) not(9) never(10) buy(11) anything(12) but(13) another(14) Grand_Marquis(15) .(16) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) fun(3) to(4) drive(5) in(6) town(7) and(8) you(9) will(10) feel(11) like(12) king(13) of(14) the(15) highway(16) !(17) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="14">
+			I(1) bought(2) this(3) car(4) because(5) I(6) love(7) my(8) old(9) one(10) and(11) the(12) improvements(13) in(14) this(15) one_won(16) me(17) the(18) second(19) I(20) drove(21) it(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 8500.00(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) GS(16) 
+		</sentence>
+	</text>
+</review>

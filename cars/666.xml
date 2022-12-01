@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="666" item="2001 BMW X5" rating="2">
+	<title>
+		<sentence id="1">
+			BMW(1) X5(2) VS(3) "(4) SUV(5) "(6) Market(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Style(1) and(2) performance(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Handling(1) and(2) Sport_Package(3) suspension(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) a(2) $48000(3) S.U.V._BMW(4) still(5) needing(6) improvement(7) in(8) this(9) segment(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) automaker(3) out(4) there(5) that(6) for(7) less(8) are(9) building(10) way(11) better(12) SUV(13) out(14) there(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) BMW(2) X5(3) impress(4) me(5) during(6) a(7) test(8) drive(9) two(10) weeks(11) ago(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) model(2) included(3) the(4) 4.4i(5) V8(6) engine(7) ,(8) putting(9) me(10) at(11) 60(12) under(13) 7_seconds(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			Very(1) impressive(2) compering(3) it(4) to(5) 11.5_second(6) in(7) my(8) mothers(9) excursion(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) interior(2) takes(3) time(4) to(5) understand(6) and(7) is(8) ugly(9) .(10) 
+			<opinion polarity="-" feature="design" opWords="9"/>
+		</sentence>
+		<sentence id="5">
+			The(1) radio(2) controls(3) are(4) the(5) worst(6) ,(7) it(8) took(9) me(10) 10(11) minutes(12) to(13) figure(14) out(15) the(16) radio(17) .(18) 
+			<opinion polarity="-" feature="controls" featWords="3" opWords="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) Sport_Package(2) is(3) not(4) my(5) beloved(6) $2000(7) expectation(8) ,(9) since(10) it(11) 's(12) so(13) firm(14) that(15) the(16) wheels(17) do(18) not(19) absorb(20) anything(21) .(22) "(23) You(24) move(25) with(26) everything(27) on(28) the(29) road(30) "(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			During(1) the(2) test(3) drive(4) the(5) dealer(6) salesmen(7) actually(8) hit(9) the(10) passenger(11) side(12) window(13) while(14) I(15) make(16) a(17) sudden(18) turn(19) to(20) test(21) the(22) suspension(23) ,(24) but(25) somehow(26) I(27) manage(28) to(29) get(30) offer(31) by(32) him(33) a(34) 2500(35) discount(36) on(37) the(38) whooping(39) 48,000(40) sticker(41) price(42) at(43) the(44) dealer(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			The(1) navigation(2) system(3) is(4) nothing(5) more(6) than(7) a(8) DVD-disc(9) from(10) a(11) playstation2(12) with(13) the(14) USA(15) streets(16) in(17) detail(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			NOTE(1) -(2) Only(3) detail(4) as(5) long(6) the(7) State(8) do(9) not(10) make(11) detour(12) ,(13) repairs(14) ,(15) or(16) new(17) street(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			If(1) there(2) are(3) update(4) in(5) the(6) streets(7) you(8) must(9) buy(10) an(11) more(12) updated(13) DVD(14) for(15) $35(16) at(17) your(18) local(19) BMW(20) dealer(21) ,(22) which(23) you(24) do(25) not(26) see(27) in(28) every(29) corner(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			This(1) dealer(2) is(3) located(4) 50_miles(5) away(6) from(7) home(8) and(9) its(10) the(11) closest(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			I(1) will(2) recommend(3) the(4) X5(5) to(6) anyone(7) that(8) likes(9) a(10) SUV(11) but(12) which(13) to(14) have(15) and(16) M3(17) .(18) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 48,000(7) test(8) Condition(9) :(10) NewModel_Year(11) :(12) 2001Model(13) and(14) Options(15) :(16) BMW(17) X5-4.4i(18) V8(19) 
+		</sentence>
+	</text>
+</review>

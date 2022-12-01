@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="964" item="1999 Volkswagen Passat" rating="1">
+	<title>
+		<sentence id="1">
+			WAY_TOO_MANY_PROBLEMS(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) on(2) Gas(3) ,(4) Quiet(5) ,(6) smooth(7) ride(8) ...(9) 
+			<opinion polarity="+" feature="ride quality" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			TOO(1) MANY_PROBLEMS_TO_DEAL_WITH(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) buy(3) one(4) .(5) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="2">
+			A(1) car(2) should(3) not(4) have(5) this(6) many(7) problems(8) with(9) such(10) little(11) miles(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			What(1) a(2) waste(3) of(4) money(5) for(6) such(7) a(8) low(9) quality(10) car(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			To(1) begin(2) ,(3) I(4) bought(5) this(6) car(7) from(8) a(9) woman(10) who(11) 's(12) father(13) ran(14) a(15) VW(16) dealership(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			It(1) had(2) 50,000_miles(3) on(4) it(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) probably(3) a(4) mistake(5) to(6) buy(7) it(8) in(9) the(10) first(11) place(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) owned(3) Volvo(4) 's(5) ,(6) Ford(7) 's(8) ,(9) and(10) Jeep(11) 's(12) ,(13) and(14) this(15) '(16) 99(17) VW_Passat(18) was(19) by(20) far(21) the(22) worst(23) car(24) I(25) have(26) ever(27) owned(28) .(29) 
+			<opinion polarity="-" feature="car" featWords="24" opWords="23"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) only(3) owned(4) this(5) car(6) for(7) 7(8) months(9) ,(10) SEVEN(11) MONTHS(12) !(13) ,(14) and(15) the(16) following(17) has(18) been(19) a(20) problem(21) :(22) 1(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) blinkers(2) stopped(3) working(4) ,(5) needed(6) a(7) new(8) switch(9) inside(10) steering(11) wheel(12) .(13) 2(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) windshield(2) wipers(3) stopped(4) working(5) ,(6) had(7) to(8) replace(9) engines(10) .(11) 3(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Check(1) engine(2) light(3) on(4) ,(5) failed(6) vehicle(7) emmissions(8) testing(9) .(10) 4(11) .(12) 
+			<opinion polarity="-" feature="car" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="9">
+			Injector(1) broke(2) in(3) engine(4) ,(5) had(6) to(7) replace(8) ,(9) fuel(10) was(11) leaking(12) into(13) the(14) cylinders(15) .(16) 5(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Check(1) engine(2) light(3) has(4) come(5) back(6) on(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) put(3) about(4) $1,400(5) worth(6) of(7) stupid(8) repairs(9) on(10) this(11) vehicle(12) since(13) October_2005(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			The(1) car(2) drives(3) nice(4) on(5) the(6) highway(7) ,(8) very(9) quiet(10) &(11) smooth(12) ,(13) incredible(14) gas(15) mileage(16) .(17) 
+			<opinion polarity="+" feature="gas" featWords="15,16" opWords="14"/>
+			<opinion polarity="+" feature="car" opWords="12"/>
+			<opinion polarity="+" feature="car" opWords="10" potency="9"/>
+			<opinion polarity="+" feature="car" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) 4(2) cylinder(3) GLS(4) that(5) I(6) own(7) has(8) absolutely(9) no(10) pick-up(11) or(12) power(13) ,(14) do(15) not(16) expect(17) to(18) buy(19) a(20) quick(21) little(22) car(23) ,(24) because(25) it(26) is(27) slow(28) .(29) 
+			<opinion polarity="+" feature="speed" opWords="21"/>
+			<opinion polarity="-" feature="speed" opWords="28"/>
+		</sentence>
+		<sentence id="14">
+			This(1) car(2) has(3) been(4) in(5) the(6) shop(7) 3_times(8) in(9) the(10) past(11) 2(12) months(13) ,(14) I(15) am(16) sick(17) of(18) the(19) little(20) problems(21) with(22) this(23) car(24) -(25) just(26) waiting(27) for(28) my(29) power(30) windows(31) to(32) stop(33) working(34) or(35) my(36) lights(37) to(38) stop(39) working(40) ,(41) or(42) something(43) else(44) that(45) should(46) not(47) break(48) on(49) a(50) car(51) after(52) 50,000_miles(53) .(54) 
+		</sentence>
+		<sentence id="15">
+			Good(1) luck(2) with(3) you(4) VW(5) ,(6) I(7) 'll(8) never(9) drive(10) one(11) again(12) !(13) 
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 9000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) GLS(16) 
+		</sentence>
+	</text>
+</review>

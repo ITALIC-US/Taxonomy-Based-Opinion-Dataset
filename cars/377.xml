@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="377" item="1992 Saturn SL" rating="3">
+	<title>
+		<sentence id="1">
+			Small_Saturns(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			stylish(1) 
+			<opinion polarity="+" feature="design" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) engine(2) ,(3) undependable(4) 
+			<opinion polarity="-" feature="reliability" opWords="4"/>
+			<opinion polarity="-" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) most(2) likely(3) would(4) not(5) own(6) another(7) Saturn(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) came(3) into(4) the(5) possession(6) of(7) a(8) used(9) 1992(10) Saturn(11) SL1(12) ,(13) and(14) I(15) have(16) been(17) very(18) disappointed(19) with(20) this(21) car(22) .(23) 
+			<opinion polarity="-" feature="car" featWords="22" opWords="19" potency="18"/>
+		</sentence>
+		<sentence id="2">
+			First(1) of(2) all(3) it(4) 's(5) not(6) the(7) sportiest(8) looking(9) car(10) ,(11) even_though(12) it(13) was(14) probably(15) stylish(16) at(17) the(18) time(19) it(20) 's(21) just(22) not(23) the(24) best(25) looking(26) car(27) .(28) 
+			<opinion polarity="-" feature="design" opWords="23,25,26"/>
+			<opinion polarity="+" feature="design" opWords="16"/>
+			<opinion polarity="-" feature="design" opWords="6,8,9"/>
+		</sentence>
+		<sentence id="3">
+			The(1) insides(2) are(3) very(4) small(5) ,(6) I(7) have(8) trouble(9) getting(10) in(11) and(12) out(13) of(14) this(15) car(16) and(17) when(18) I(19) 'm(20) inside(21) there(22) is(23) hardly(24) any(25) room(26) to(27) move(28) around(29) in(30) the(31) front(32) and(33) I(34) almost(35) do(36) not(37) fit(38) in(39) the(40) back(41) .(42) 
+			<opinion polarity="-" feature="interior" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			Another(1) problem(2) with(3) the(4) interior(5) of(6) this(7) car(8) is(9) that(10) there(11) is(12) not(13) a(14) cup(15) holder(16) or(17) even(18) room(19) to(20) install(21) one(22) ,(23) I(24) have(25) tried(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			The(1) engine(2) is(3) a(4) very(5) tiny(6) four(7) cylinder(8) and(9) offers(10) very(11) little(12) horsepower(13) ,(14) and(15) it(16) is(17) a(18) front(19) wheel(20) drive(21) car(22) .(23) 
+			<opinion polarity="-" feature="engine" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) got(3) the(4) car(5) I(6) was(7) disappointed(8) in(9) finding(10) out(11) that(12) the(13) moon(14) roof(15) did(16) not(17) work(18) ,(19) and(20) neither(21) did(22) the(23) air(24) conditioning(25) .(26) 
+			<opinion polarity="-" feature="car" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			The(1) cars(2) alternator(3) went(4) bad(5) within(6) two(7) months(8) after(9) I(10) bought(11) the(12) car(13) ,(14) so(15) I(16) had(17) to(18) get(19) that(20) fixed(21) and(22) get(23) a(24) new(25) battery(26) ,(27) and(28) almost(29) immediatley(30) after(31) I(32) fixed(33) that(34) ,(35) the(36) transmission(37) died(38) ,(39) I(40) have(41) not(42) gotten(43) this(44) fixed(45) yet(46) because(47) I(48) do(49) not(50) have(51) the(52) $1500(53) plus(54) labor(55) to(56) get(57) this(58) taken(59) care(60) of(61) .(62) 
+		</sentence>
+		<sentence id="8">
+			The(1) one(2) thing(3) that(4) I(5) really(6) like(7) about(8) this(9) car(10) is(11) that(12) it(13) is(14) a(15) very(16) small(17) gas(18) tank(19) only(20) taking(21) $12(22) to(23) fill(24) up(25) and(26) it(27) gets(28) decent(29) gas(30) mileage(31) for(32) a(33) nine(34) year(35) old(36) car(37) .(38) 
+			<opinion polarity="-" feature="gas tank" featWords="18,19" opWords="17"/>
+		</sentence>
+		<sentence id="9">
+			Also(1) I(2) like(3) the(4) fact(5) that(6) the(7) rear(8) seats(9) fold(10) down(11) into(12) the(13) trunk(14) giving(15) you(16) a_lot_of(17) extra(18) trunk(19) space(20) ,(21) I(22) can(23) fit(24) my(25) bmx(26) bike(27) in(28) there(29) and(30) get(31) the(32) trunk(33) closed(34) when(35) I(36) take(37) my(38) bike(39) down(40) to(41) the(42) park(43) .(44) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) these(2) are(3) the(4) only(5) good(6) things(7) about(8) this(9) car(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			I(1) bought(2) this(3) car(4) because(5) I(6) was(7) told(8) they(9) were(10) very(11) reliable(12) by(13) numerous(14) friends(15) ,(16) and(17) my(18) Grandparents(19) own(20) a(21) 1992(22) Saturn(23) SL1(24) also(25) .(26) 
+			<opinion polarity="+" feature="reliability" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="12">
+			I(1) would(2) reccomend(3) buying(4) a(5) newer(6) Saturn(7) or(8) at_least(9) taking(10) a(11) better(12) look(13) at(14) the(15) car(16) before(17) you(18) buy(19) it(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 3000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1992Model(12) and(13) Options(14) :(15) SL1(16) ,(17) Automatic(18) 
+		</sentence>
+	</text>
+</review>

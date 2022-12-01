@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="466" item="Sony MDR-7506 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			great(1) headphones(2) ,(3) good(4) price(5) too(6) 
+			<opinion polarity="+" feature="headphones" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			value(1) ,(2) great(3) bass(4) ,(5) crystal(6) clear(7) ,(8) easy(9) to(10) drive(11) 
+			<opinion polarity="+" feature="bass" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" opWords="6,7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Highs(1) can(2) get(3) shrill(4) ;(5) can(6) be(7) revealing(8) ,(9) so(10) i(11) would(12) not(13) buy(14) if(15) you(16) like(17) MP3s(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Highly(1) recommended(2) ,(3) but(4) not(5) if(6) you(7) 're(8) big(9) on(10) MP3(11) 's(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Great(1) sound(2) quality(3) ,(4) great(5) value(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="price" featWords="6" opWords="5"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) got(2) these(3) in(4) Stockholm(5) at(6) a(7) rip-off(8) price(9) ,(10) ((11) around(12) 160(13) euro(14) /(15) dollars(16) )(17) ,(18) but(19) i(20) needed(21) them(22) rapidly(23) for(24) the(25) flight(26) home(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			And(1) I(2) 'm(3) not(4) at(5) all(6) regretting(7) the(8) purchase(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) bought(2) them(3) ,(4) let(5) them(6) play(7) a(8) looped(9) MD(10) for(11) 2(12) days(13) ,(14) and(15) then(16) left(17) Sweden(18) ,(19) the(20) 6(21) hour(22) journey(23) from(24) Norrkoping(25) to(26) Dublin(27) was(28) Fantastic(29) thanks(30) to(31) these(32) phones(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) is(3) phenomenal(4) ,(5) the(6) midrange(7) and(8) highs(9) are(10) crystal(11) clear(12) ,(13) and(14) the(15) bass(16) is(17) extrardinary(18) !(19) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="mids" featWords="7" opWords="11,12"/>
+			<opinion polarity="+" feature="highs" featWords="9" opWords="11,12"/>
+			<opinion polarity="+" feature="bass" featWords="16" opWords="18"/>
+		</sentence>
+		<sentence id="5">
+			While(1) listening(2) to(3) techno(4) its(5) the(6) closest(7) to(8) being(9) in(10) a(11) Club(12) that(13) you(14) can(15) be(16) with(17) headphones(18) ,(19) I(20) 've(21) never(22) heard(23) such(24) fantastic(25) bass(26) out(27) of(28) any(29) set(30) of(31) headphones(32) ,(33) and(34) that(35) 's(36) including(37) higher(38) end(39) Sennheiser(40) models(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			The(1) only(2) downside(3) is(4) that(5) the(6) Highs(7) can(8) be(9) a_bit(10) too(11) sharp(12) and(13) revealing(14) ,(15) but(16) if(17) you(18) have(19) an(20) EQ(21) on(22) your(23) player(24) ,(25) then(26) these(27) ARE(28) the(29) perfect(30) headphones(31) ,(32) they(33) truly(34) are(35) Reference(36) headphones(37) .(38) 
+			<opinion polarity="-" feature="highs" featWords="7" opWords="11,12" potency="10"/>
+			<opinion polarity="-" feature="highs" featWords="7" opWords="14"/>
+			<opinion polarity="+" feature="headphones" featWords="31" opWords="30"/>
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) need(3) closed(4) headphones(5) ,(6) look(7) no(8) further(9) ,(10) if(11) you(12) just(13) need(14) headphones(15) ,(16) i(17) 'd(18) still(19) pick(20) these(21) over(22) any(23) grados(24) ,(25) they(26) have(27) the(28) classic(29) reference(30) quality(31) of(32) sound(33) the(34) grados(35) have(36) ,(37) except(38) with(39) good(40) bass(41) .(42) 
+		</sentence>
+		<sentence id="8">
+			I(1) certainly(2) would(3) pick(4) them(5) out(6) over(7) the(8) closed(9) Senheiser(10) models(11) ,(12) which(13) are(14) not(15) quite(16) good(17) enough(18) sound(19) wise(20) ,(21) And_i(22) would(23) pick(24) them(25) out(26) over(27) Sennheiser(28) for(29) portable(30) audio(31) too(32) ,(33) because(34) they(35) are(36) so(37) easily(38) driven(39) .(40) 
+		</sentence>
+		<sentence id="9">
+			Thats(1) it(2) really(3) ,(4) great(5) sound(6) ,(7) industrial(8) construction(9) ,(10) great(11) value(12) even(13) when(14) you(15) 're(16) paying(17) double(18) the(19) normal(20) price(21) ...(22) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="durability" featWords="9" opWords="8"/>
+			<opinion polarity="+" feature="price" featWords="12" opWords="11"/>
+		</sentence>
+	</text>
+</review>

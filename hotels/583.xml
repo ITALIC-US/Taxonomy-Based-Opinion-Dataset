@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="583" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) if(2) you(3) need(4) to(5) save(6) money(7) but(8) ....(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Low(1) prices(2) ,(3) OK(4) location(5) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) ,(2) smaller(3) ,(4) a_bit(5) dilapidated(6) as(7) a(8) whole(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) do(2) not(3) think(4) the(5) price(6) difference(7) is(8) all(9) that(10) great(11) between(12) the(13) San_Remo(14) and(15) the(16) Tropicana(17) or(18) the(19) Excalibur(20) ,(21) and(22) if(23) I(24) were(25) on(26) a(27) budget(28) ,(29) I(30) 'd(31) stay(32) at(33) the(34) Trop(35) or(36) the(37) Excalibur(38) instead(39) because_of(40) their(41) location(42) ,(43) size(44) ,(45) and(46) number(47) of(48) amenities(49) .(50) 
+		</sentence>
+		<sentence id="2">
+			The(1) San_Remo(2) is(3) located(4) behind(5) the(6) Tropicana(7) hotel(8) ,(9) about(10) one(11) very(12) long(13) block(14) away(15) from(16) an(17) active(18) ,(19) interesting(20) part(21) of(22) the(23) Strip(24) ((25) the(26) "(27) Four(28) Corners(29) "(30) =(31) Tropicana(32) ,(33) MGM_Grand(34) ,(35) New_York-New_York(36) ,(37) and(38) Excalibur(39) all(40) at(41) the(42) intersection(43) of(44) Tropicana_Avenue(45) and(46) Las_Vegas_Blvd(47) .(48) )(49) If(50) you(51) 're(52) not(53) driving(54) ,(55) the(56) daily(57) walks(58) to(59) and(60) from(61) the(62) hotel(63) will(64) wear(65) you(66) down(67) .(68) 
+		</sentence>
+		<sentence id="3">
+			Other(1) than(2) that(3) ,(4) the(5) San_Remo(6) is(7) a(8) much(9) smaller(10) hotel(11) than(12) most(13) on(14) the(15) Strip(16) ,(17) it(18) has(19) a(20) small(21) casino(22) ,(23) bars(24) ,(25) a(26) few(27) restaurants(28) ,(29) and(30) even(31) a(32) show(33) at(34) most(35) times(36) .(37) 
+			<opinion polarity="-" feature="casino" featWords="22" opWords="21"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) not(3) however(4) a(5) place(6) where(7) you(8) want(9) to(10) spend(11) the(12) bulk(13) of(14) your(15) vacation(16) ,(17) mostly(18) because(19) there(20) are(21) bigger(22) ,(23) better(24) ,(25) and(26) nicer(27) properties(28) nearby(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) are(3) surprisingly(4) decent(5) enough(6) so(7) if(8) you(9) 're(10) looking(11) to(12) save(13) some(14) bucks(15) and(16) you(17) 'll(18) use(19) the(20) hotel(21) mostly(22) for(23) sleeping(24) ,(25) this(26) is(27) a(28) good(29) choice(30) .(31) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			But(1) it(2) is(3) worth(4) checking(5) out(6) the(7) prices(8) at(9) the(10) Trop(11) and(12) Excalibur(13) at(14) the(15) same(16) time(17) because(18) there(19) may(20) not(21) be(22) a(23) big(24) difference(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			The(1) Trop(2) tends(3) to(4) have(5) a_bit(6) of(7) an(8) older(9) crowd(10) ,(11) the(12) Excalibur(13) gets(14) a_lot_of(15) families(16) ,(17) and(18) the(19) San_Remo(20) gets(21) a_lot_of(22) Japanese(23) tourists(24) .(25) 
+		</sentence>
+	</text>
+</review>

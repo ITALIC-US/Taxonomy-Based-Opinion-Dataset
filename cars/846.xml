@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="846" item="2003 Acura 3.2TL" rating="1">
+	<title>
+		<sentence id="1">
+			2003(1) 3.2(2) TL_Type_S_Acura_Transmission(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fabulous(1) engine(2) power(3) ,(4) great(5) handling(6) ,(7) wonderful(8) options(9) including(10) the(11) navagational(12) system(13) .(14) 
+			<opinion polarity="+" feature="handling" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="horsepower" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) am(2) fearful(3) that(4) transmission(5) will(6) fail(7) and(8) I(9) will(10) be(11) stranded(12) .(13) 
+			<opinion polarity="-" feature="transmission" featWords="5" opWords="7"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) recommend(4) this(5) car(6) because_of(7) the(8) inability(9) of(10) Honda(11) to(12) solve(13) the(14) transmission(15) problem(16) .(17) 
+			<opinion polarity="-" feature="car" featWords="6" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) to(3) say(4) everything(5) about(6) the(7) quality(8) of(9) the(10) TL-S(11) is(12) true(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) so(3) is(4) the(5) problem(6) with(7) the(8) transmission(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) had(3) 2(4) new(5) transmissions(6) installed(7) in(8) my(9) car(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) first(2) one(3) failed(4) at(5) 77K_miles(6) after(7) Acura(8) installed(9) a(10) secondary(11) oil(12) pump(13) for(14) 2nd(15) gear(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) main(2) problem(3) is(4) that(5) the(6) service(7) manager(8) will(9) not(10) take(11) the(12) owner(13) 's(14) word(15) that(16) the(17) transmission(18) is(19) failing(20) ,(21) unless(22) he(23) can(24) duplicate(25) the(26) problem(27) himself(28) .(29) 
+			<opinion polarity="-" feature="transmission" featWords="18" opWords="20"/>
+		</sentence>
+		<sentence id="6">
+			Because_of(1) this(2) it(3) took(4) me(5) 15K_miles(6) to(7) finally(8) convince(9) the(10) service(11) manager(12) of(13) Curry_Acura_of_Scarsdale(14) ,(15) New_York(16) that(17) it(18) was(19) failing(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			After(1) this(2) replacement(3) ,(4) I(5) could(6) not(7) convince(8) him(9) that(10) the(11) second(12) one(13) was(14) also(15) failing(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			And(1) so(2) ,(3) on(4) a(5) 260_mile(6) trip(7) to(8) Maryland(9) from(10) Ossining_NY(11) ,(12) my(13) transmission(14) completely(15) blew(16) out(17) on(18) route(19) I95(20) while(21) driving(22) 70(23) MPH(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) my(3) opinion(4) that(5) with(6) the(7) history(8) of(9) this(10) transmission(11) ,(12) the(13) service(14) manager(15) should(16) take(17) the(18) owner(19) 's(20) word(21) for(22) it(23) that(24) the(25) tranny(26) is(27) failing(28) .(29) 
+		</sentence>
+		<sentence id="10">
+			This(1) should(2) not(3) have(4) happened(5) to(6) me(7) -(8) it(9) endangered(10) my(11) life(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) lucky(3) that(4) I(5) was(6) able(7) to(8) coast(9) over(10) to(11) the(12) right(13) side(14) shoulder(15) from(16) the(17) high(18) speed(19) lane(20) when(21) this(22) failure(23) happened(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) to(3) say(4) that(5) Castle_Acura_of_New_Castle(6) ,(7) Delaware(8) had(9) me(10) towed(11) to(12) their(13) showroom(14) ,(15) gave(16) me(17) a(18) new(19) loaner(20) and(21) had(22) me(23) on(24) my(25) way(26) in(27) a(28) matter(29) of(30) 3(31) hours(32) and(33) I(34) gave(35) them(36) a(37) very(38) high(39) service(40) rating(41) .(42) 
+		</sentence>
+		<sentence id="13">
+			However(1) ,(2) I(3) think(4) that(5) Acura(6) ((7) Honda_of_America(8) )(9) should(10) have(11) solved(12) this(13) terriblel(14) problem(15) over(16) a(17) period(18) of(19) 5(20) years(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) a(3) terrible(4) record(5) of(6) performance(7) and(8) I(9) hesitate(10) whether(11) I(12) will(13) ever(14) buy(15) another(16) Honda(17) /(18) Acura(19) product(20) again(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) also(3) like(4) to(5) add(6) that(7) I(8) have(9) had(10) 2(11) Honda_Preludes(12) before(13) this(14) model(15) and(16) both(17) of(18) them(19) were(20) exemplary(21) in(22) every(23) way(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			They(1) both(2) had(3) manual(4) transmissions(5) though(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 31,500(7) Condition(8) :(9) NewModel_Year(10) :(11) 2003Model(12) and(13) Options(14) :(15) 3.2(16) TL_Type_S(17) 
+		</sentence>
+	</text>
+</review>

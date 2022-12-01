@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="93" item="Shure E3C Consumer Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) ,(2) But_There(3) 's(4) One(5) Canalphone(6) That(7) Sounds_Just_As_Good(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good_Sound(1) ,(2) Small(3) ,(4) Comfy(5) ,(6) Loud(7) 
+			<opinion polarity="+" feature="size" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+			<opinion polarity="+" feature="volume" opWords="7"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			There(1) Is_No_Big_Improvement_Over_The(2) E2C(3) To_Spend_Another(4) $80(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			These(1) E3c(2) canalphones(3) give(4) you(5) the(6) best(7) of(8) both(9) words(10) ,(11) small(12) and(13) sound(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) small(3) enough(4) to(5) put(6) in(7) your(8) pocket(9) yet(10) have(11) big(12) enough(13) sound(14) to(15) blow(16) you(17) away(18) .(19) 
+			<opinion polarity="+" feature="size" opWords="3" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			These(1) E3C(2) 's(3) do(4) that(5) ,(6) with(7) a(8) decent(9) bass(10) response(11) ,(12) good(13) mids(14) ,(15) and(16) good(17) treble(18) without(19) brightness(20) .(21) 
+			<opinion polarity="+" feature="bass" featWords="10,11" opWords="9"/>
+			<opinion polarity="+" feature="mids" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="highs" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="4">
+			Though(1) ,(2) I(3) do(4) think(5) they(6) sound(7) to(8) much(9) like(10) the(11) ...(12) Shure(13) E2C(14) ,(15) which(16) is(17) more(18) than(19) twice(20) as(21) inexpensive(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) little(3) improvement(4) between(5) the(6) two(7) ,(8) other(9) than(10) these(11) are(12) slightly(13) more(14) bassier(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			They(1) 're(2) still(3) comfortable(4) ,(5) and(6) small(7) enough(8) to(9) carry(10) in(11) your(12) pocket(13) .(14) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+			<opinion polarity="+" feature="size" opWords="7" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			Though(1) ,(2) I(3) 'd(4) highly(5) recommedn(6) the(7) E2Cs(8) over(9) these(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) very(3) little(4) improvement(5) between(6) that(7) model(8) ,(9) yet(10) that(11) other(12) model(13) costs(14) $100(15) compare(16) to(17) these(18) which(19) are(20) $180(21) .(22) 
+		</sentence>
+	</text>
+</review>

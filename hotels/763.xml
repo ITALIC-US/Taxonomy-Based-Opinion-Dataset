@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="763" item="Ramada Inn Hollywood Beach" rating="4">
+	<title>
+		<sentence id="1">
+			What(1) is(2) the(3) problem(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			beach(1) ,(2) pool(3) ,(4) o'malleys(5) ,(6) beach(7) free(8) wireless(9) internet(10) all(11) over(12) the(13) hotel(14) even(15) in(16) your(17) room(18) .(19) 
+			<opinion polarity="+" feature="internet" featWords="10" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hotel(1) is(2) just(3) old(4) 
+			<opinion polarity="-" feature="hotel" featWords="1" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			my(1) wife(2) and(3) i(4) stayed(5) here(6) for(7) six(8) 6(9) nights(10) over(11) the(12) super(13) bowl(14) week-end(15) and(16) after(17) .(18) after(19) seeing(20) all(21) kind(22) of(23) bad(24) reviews(25) we(26) were(27) going(28) to(29) check(30) out(31) on(32) monday(33) after(34) the(35) super(36) bowl(37) as(38) this(39) was(40) one(41) of(42) the(43) few(44) hotels(45) we(46) could(47) find(48) .(49) we(50) decided(51) to(52) stay(53) after(54) we(55) saw(56) no(57) real(58) big(59) problems(60) with(61) this(62) hotel(63) .(64) the(65) worst(66) thing(67) about(68) this(69) hotel(70) is(71) that(72) it(73) is(74) old(75) ,(76) but(77) we(78) knew(79) that(80) going(81) in(82) .(83) we(84) had(85) an(86) ocean(87) front(88) room(89) that(90) was(91) very(92) nice(93) .(94) the(95) front(96) office(97) and(98) all(99) hotel(100) service(101) people(102) were(103) very(104) nice(105) .(106) the(107) pool(108) was(109) nice(110) and(111) being(112) right(113) on(114) the(115) ocean(116) ,(117) you(118) could(119) not(120) beat(121) it(122) .(123) o'malleys(124) was(125) great(126) and(127) there(128) are(129) a_lot_of(130) places(131) to(132) eat(133) within(134) walking(135) distance(136) and(137) all(138) kind(139) of(140) shops(141) are(142) around(143) .(144) you(145) need(146) to(147) remember(148) this(149) is(150) not(151) a(152) 5(153) star(154) hotel(155) but(156) we(157) had(158) a(159) great(160) time(161) at(162) this(163) hotel(164) .(165) yes(166) ,(167) would(168) go(169) back(170) 
+			<opinion polarity="+" feature="rooms" featWords="89" opWords="93" potency="92"/>
+			<opinion polarity="+" feature="service" featWords="101" opWords="105" potency="104"/>
+		</sentence>
+	</text>
+</review>

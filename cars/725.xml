@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="725" item="1999 Subaru Legacy" rating="1">
+	<title>
+		<sentence id="1">
+			Lemon(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) nice(2) 
+			<opinion polarity="+" feature="design" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) trust(3) it(4) to(5) go(6) to(7) town(8) and(9) get(10) back(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) 1999(4) Subaru_Legacy(5) outback(6) at(7) 45,000_miles(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Since(1) then(2) I(3) have(4) had(5) to(6) spend(7) $1500(8) for(9) a(10) rebuilt(11) manual(12) transmission(13) ,(14) $1400(15) to(16) get(17) new(18) front(19) axles(20) ,(21) and(22) now(23) it(24) has(25) a(26) blown(27) head(28) gasket(29) that(30) will(31) cost(32) me(33) $2000(34) to(35) replace(36) ,(37) or(38) if(39) it(40) took(41) the(42) engine(43) with(44) it(45) ,(46) about(47) $4000(48) for(49) a(50) new(51) engine(52) .(53) 
+		</sentence>
+		<sentence id="3">
+			Blue(1) book(2) value(3) is(4) about(5) %5000(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			Do(1) the(2) math(3) and(4) tell(5) me(6) why(7) i(8) would(9) ever(10) go(11) near(12) another(13) Subaru(14) .(15) ((16) Plus(17) the(18) local(19) dealer(20) is(21) uncooperative(22) ,(23) arrogant(24) )(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) $8000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 1999Model(12) and(13) Options(14) :(15) manual(16) transmission(17) 
+		</sentence>
+	</text>
+</review>

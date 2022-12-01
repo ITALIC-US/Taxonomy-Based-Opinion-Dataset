@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="533" item="Concord-Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			worn(1) and(2) dirty(3) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+			<opinion polarity="-" feature="hotel" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			easy(1) to(2) find(3) ,(4) next(5) to(6) interstate(7) .(8) check-out(9) was(10) fast(11) .(12) free(13) breakfast(14) available(15) 
+			<opinion polarity="+" feature="hotel" opWords="1,2,3"/>
+			<opinion polarity="+" feature="food" featWords="14" opWords="13"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			room(1) worn(2) and(3) dirty(4) .(5) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="2"/>
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="4"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			stayed(1) at(2) this(3) hotel(4) oct(5) 2005(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Mix-up(1) at(2) check-in(3) that(4) was(5) handled(6) slowly(7) ((8) misspelled(9) name(10) should(11) not(12) cause(13) a(14) 10(15) min.(16) delay(17) )(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Room(1) very(2) worn(3) :(4) old(5) towels(6) ,(7) sheets(8) ,(9) carpet(10) ,(11) drapes(12) .(13) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="3" potency="2"/>
+			<opinion polarity="-" feature="towels" featWords="6" opWords="5"/>
+			<opinion polarity="-" feature="bedding" featWords="8" opWords="5"/>
+			<opinion polarity="-" feature="carpets" featWords="10" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			Hair(1) in(2) tub(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			Could(1) hear(2) noise(3) from_outside(4) more(5) at(6) this(7) hotel(8) than(9) most(10) others(11) I(12) have(13) stayed(14) at(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Overall(1) poor(2) stay(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			Room(1) below(2) par(3) when(4) compared(5) to(6) similar(7) priced(8) hotels(9) in(10) this(11) location(12) .(13) 
+			<opinion polarity="-" feature="rooms" featWords="1" opWords="2,3"/>
+		</sentence>
+	</text>
+</review>

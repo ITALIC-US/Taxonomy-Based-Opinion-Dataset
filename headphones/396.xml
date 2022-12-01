@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="396" item="Sennheiser RS 120 Consumer Wireless Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) bad(2) ,(3) but(4) wait(5) for(6) better(7) ...(8) 
+			<opinion polarity="+" feature="headphones" opWords="1,2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clear(1) sound(2) at(3) moderate(4) volume(5) levels(6) .(7) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Wireless_Range(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Large(1) ,(2) and(3) unattractive(4) design(5) .(6) 
+			<opinion polarity="-" feature="size" opWords="1"/>
+			<opinion polarity="-" feature="design" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="2">
+			Can(1) only(2) be(3) used(4) where(5) the(6) wireless(7) base(8) is(9) plugged(10) in(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Try(1) to(2) find(3) a(4) bluetooth(5) headset(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			It(1) will(2) be(3) worth(4) the(5) money(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) owned(3) this(4) set(5) of(6) headphones(7) for(8) about(9) 6(10) months(11) now(12) ,(13) and(14) as(15) far(16) as(17) getting(18) the(19) job(20) done(21) ,(22) they(23) do(24) well(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			The(1) range(2) on(3) these(4) headphones(5) is(6) amazing(7) ((8) About(9) 100(10) ft(11) )(12) ,(13) but(14) as(15) you(16) get(17) further(18) and(19) further(20) away(21) from(22) the(23) base(24) ,(25) sound(26) quality(27) flickers(28) in(29) and(30) out(31) .(32) 
+			<opinion polarity="+" feature="range" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) first(3) listened(4) to(5) these(6) headphones(7) ,(8) I(9) was(10) amazed(11) at(12) the(13) sound(14) quality(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Now(1) ,(2) I(3) just(4) wish(5) they(6) could(7) have(8) designed(9) them(10) better(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			First(1) ,(2) the(3) headphones(4) are(5) CLUNKY(6) ,(7) LARGE(8) ,(9) and(10) UGLY(11) .(12) 
+			<opinion polarity="-" feature="appearance" opWords="6"/>
+			<opinion polarity="-" feature="size" opWords="8"/>
+			<opinion polarity="-" feature="appearance" opWords="11"/>
+		</sentence>
+		<sentence id="6">
+			Not(1) to(2) mention(3) that(4) they(5) can(6) be(7) uncomfortable(8) at(9) times(10) as_well(11) .(12) 
+			<opinion polarity="-" feature="comfort" opWords="8"/>
+		</sentence>
+		<sentence id="7">
+			Second(1) ,(2) the(3) base(4) for(5) them(6) doubles(7) as(8) a(9) battery(10) charger(11) -(12) which(13) is(14) a(15) good(16) idea(17) ,(18) but(19) the(20) base(21) needs(22) to(23) be(24) plugged(25) in(26) to(27) the(28) wall(29) for(30) you(31) to(32) use(33) your(34) wireless(35) headphones(36) -(37) eliminating(38) the(39) hope(40) for(41) you(42) to(43) take(44) these(45) headphones(46) on(47) the(48) go(49) with(50) you(51) ((52) working(53) out(54) at(55) the(56) gym(57) ,(58) or(59) using(60) them(61) with(62) a(63) portable(64) mp3(65) player(66) )(67) .(68) 
+		</sentence>
+		<sentence id="8">
+			As(1) far(2) as(3) sound(4) quality(5) goes(6) ,(7) it(8) is(9) great(10) ,(11) and(12) the(13) volume(14) can(15) be(16) turned(17) up(18) very(19) loud(20) ((21) with(22) the(23) sacrifice(24) of(25) sound(26) quality(27) )(28) .(29) 
+			<opinion polarity="+" feature="sound quality" featWords="4,5" opWords="10"/>
+			<opinion polarity="+" feature="volume" featWords="14" opWords="20" potency="19"/>
+		</sentence>
+		<sentence id="9">
+			When(1) the(2) batteries(3) die(4) down(5) ,(6) the(7) volume(8) gets(9) lower(10) and(11) lower(12) until(13) it(14) fizzes(15) out(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Also(1) ,(2) the(3) volume(4) and(5) the(6) tuner(7) knobs(8) are(9) close(10) to(11) each(12) other(13) -(14) which(15) results(16) in(17) you(18) hitting(19) the(20) wrong(21) knobs(22) sometimes(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			Overall(1) ,(2) not(3) a(4) bad(5) set(6) of(7) headphones(8) ,(9) but(10) I(11) am(12) sure(13) that(14) new(15) technology(16) will(17) work(18) out(19) all(20) the(21) quirks(22) .(23) 
+			<opinion polarity="+" feature="headphones" featWords="8" opWords="3,5"/>
+		</sentence>
+		<sentence id="12">
+			A(1) suggestion(2) would(3) be(4) to(5) check(6) out(7) bluetooth(8) wireless(9) headphones(10) .(11) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="171" item="JVC HA-X570 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Pretty(1) bad(2) sound(3) 
+			<opinion polarity="-" feature="sound quality" featWords="3" opWords="2" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			gold(1) jack(2) 
+			<opinion polarity="+" feature="jack" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bad(1) sound(2) quality(3) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) these(3) at(4) a(5) local(6) store(7) of(8) mine(9) for(10) 15(11) bucks(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			When(1) I(2) saw(3) these(4) headphones(5) ,(6) I(7) thought(8) I(9) was(10) gonna(11) get(12) some(13) serious(14) good(15) sound(16) because_of(17) the(18) size(19) .(20) 
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="14"/>
+			<opinion polarity="+" feature="sound quality" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) bought(3) it(4) and(5) test(6) it(7) out(8) ,(9) they(10) really(11) disappoint(12) me(13) .(14) 
+			<opinion polarity="-" feature="headphones" featWords="10" featRef="headphones" opWords="12" potency="11"/>
+		</sentence>
+		<sentence id="4">
+			The(1) sound(2) was(3) terrible(4) !(5) !(6) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) sounded(2) like(3) it(4) was(5) coming(6) out(7) of(8) a(9) tin(10) can(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			There(1) was(2) no(3) midrange(4) at(5) all(6) .(7) 
+			<opinion polarity="-" feature="mids" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bass(2) is(3) pretty(4) good(5) ,(6) it(7) will(8) thump(9) ,(10) but(11) not(12) good(13) enough(14) for(15) it(16) 's(17) size(18) .(19) 
+			<opinion polarity="+" feature="bass" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			My(1) previous(2) headphone(3) ,(4) which(5) is(6) a(7) present(8) from(9) my(10) friend(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			With(1) only(2) one(3) third(4) of(5) these(6) headphone(7) 's(8) size(9) ,(10) they(11) soud(12) a_lot(13) better(14) and(15) the(16) bass(17) was(18) a(19) little(20) bit(21) better(22) than(23) these(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			I(1) still(2) can(3) not(4) believe(5) these(6) headphones(7) say(8) "(9) super(10) bass(11) "(12) Not(13) a(14) good(15) buy(16) .(17) ((18) I(19) can(20) not(21) find(22) the(23) brand(24) of(25) my(26) previous(27) headphone(28) ,(29) I(30) looked(31) everywhere(32) .(33) )(34) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="383" item="Logitech (980415) Consumer Wireless Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			logitech(1) headphone(2) break(3) EASILY(4) 
+			<opinion polarity="-" feature="durability" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			OK_SOUND(1) ,(2) GOOD_RECEPTION(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			HUGE_RECIEVER(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			BREAKS_EASILY(1) ,(2) UNCOMFORTABLE(3) ,(4) POORLY_DESIGNED(5) 
+			<opinion polarity="-" feature="comfort" opWords="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			THESE(1) HEADPHONES_ARE_VERY_WEAK_AROUND_THE_NECK(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			LOOK_AT_THE_PICTURE(1) ,(2) THE_BRIDGE_IS_JUST_PLASTIC_AND_VERY_THIN(3) !(4) 
+		</sentence>
+		<sentence id="3">
+			SINCE(1) STRETCHING_THEM_TO_PUT_ON_OR_TAKE_OFF_IS_REQUIRED_THEY_SIMPLY(2) can(3) not(4) TAKE_IT(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			THEY(1) SHOULD_HAVE_BEEN_REINFORCED(2) ,(3) VERY_POOR_DESIGN(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			THE(1) SOUND_IS_GOOD_BUT_THEY_ARE_SO_FLIMSY(2) ?(3) @(4) #(5) $(6) !(7) 
+		</sentence>
+		<sentence id="6">
+			IF(1) YOU_BUY_SAVE_YOUR_RECIEPT(2) !(3) 
+		</sentence>
+		<sentence id="7">
+			BUYY_FROM_A_PLACE(1) THAT(2) HAS_A_GOOD_RETURN_POLICY(3) .(4) 
+		</sentence>
+		<sentence id="8">
+			ONE(1) OTHER_THING(2) ,(3) LOGITECH_CUSTOMER_SERVICE_IS_LONG_DISTANCE(4) ?(5) !(6) @(7) ?(8) >(9) #(10) $(11) THE_ONLY_COMPANY_I_KNOW_OF(12) THAT(13) SIZE(14) THAT(15) IS(16) !(17) 
+		</sentence>
+		<sentence id="9">
+			WHAT(1) A(2) MESS(3) !(4) 
+		</sentence>
+	</text>
+</review>

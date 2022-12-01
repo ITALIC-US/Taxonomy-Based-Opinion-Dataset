@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="584" item="JBL Reference 410 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			My(1) everyday(2) headphones(3) .(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Small(1) ,(2) compact(3) ,(4) great(5) sound(6) ,(7) punchy(8) bass(9) 
+			<opinion polarity="+" feature="size" opWords="1"/>
+			<opinion polarity="+" feature="size" opWords="3"/>
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="bass" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Somewhat(1) uncomfortable(2) 
+			<opinion polarity="-" feature="comfort" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy(1) it(2) from(3) a(4) retailer(5) ,(6) see(7) if(8) it(9) 's(10) comfortable(11) ,(12) if(13) it(14) is(15) not(16) return(17) it(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			As(1) for(2) myself(3) ,(4) I(5) 'm(6) happy(7) with(8) it(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) use(2) these(3) headphones(4) everyday(5) ,(6) but(7) they(8) 're(9) really(10) small(11) and(12) somewhat(13) hot(14) .(15) 
+			<opinion polarity="+" feature="size" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="2">
+			These(1) probably(2) could(3) stand(4) up(5) to(6) the(7) Bose(8) on-ear(9) headphones(10) If(11) you(12) 're(13) a(14) heavy(15) listener(16) ,(17) I(18) would(19) not(20) get(21) these(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			After(1) about(2) 10(3) minutes(4) they(5) heat(6) up(7) and(8) get(9) uncomfortable(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			Nice(1) padding(2) and(3) adjustable(4) cups(5) Brand(6) name(7) .(8) 
+			<opinion polarity="+" feature="earpads" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="earcups" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			Design(1) flaw(2) ((3) Really(4) small(5) cups(6) )(7) I(8) tried(9) to(10) do(11) some(12) yard(13) work(14) ,(15) I(16) bent(17) to(18) pick(19) something(20) up(21) ,(22) they(23) flew(24) to(25) the(26) ground(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			Poorly(1) made(2) wiring(3) ((4) They(5) could(6) rip(7) off(8) if(9) you(10) 're(11) in(12) a(13) scenario(14) where(15) you(16) 're(17) using(18) them(19) ,(20) your(21) iPod(22) 's(23) in(24) your(25) pocket(26) and(27) the(28) wire(29) gets(30) caught(31) on(32) something(33) )(34) If(35) you(36) buy(37) them(38) ,(39) use(40) electric(41) tape(42) to(43) support(44) them(45) .(46) 
+		</sentence>
+		<sentence id="7">
+			I(1) got(2) these(3) for(4) about(5) $14(6) off(7) Ebay(8) myself(9) ,(10) so(11) it(12) 's(13) worth(14) the(15) buck(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Amazing(1) sound(2) for(3) the(4) size(5) and(6) price(7) .(8) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="9">
+			Compact(1) enough(2) to(3) fold(4) into(5) a(6) standard(7) pocket(8) Punchy(9) bass(10) .(11) 
+			<opinion polarity="+" feature="bass" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="10">
+			So(1) far(2) no(3) big(4) problems(5) ,(6) good(7) for(8) taking(9) a(10) long(11) walk(12) ((13) But(14) no(15) running(16) ,(17) they(18) 'll(19) fall(20) off(21) your(22) ear(23) in(24) instant(25) .(26) Probably(27) good(28) for(29) laptop(30) and(31) desktop(32) use(33) .(34) If(35) you(36) listen(37) to(38) hip(39) hop(40) ,(41) rap(42) ,(43) rock(44) ,(45) and(46) punk(47) ,(48) these(49) make(50) a(51) pretty(52) nice(53) fill(54) ,(55) especially(56) if(57) you(58) 're(59) into(60) great(61) sound(62) .(63) Hope(64) this(65) review(66) helped(67) -(68) thanks(69) for(70) looking(71) .(72) Have(73) a(74) nice(75) day(76) :(77) )(78) 
+		</sentence>
+	</text>
+</review>

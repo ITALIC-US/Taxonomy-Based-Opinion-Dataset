@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="878" item="Renaissance London Chancery Court Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) week(2) in(3) London(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) service(2) ,(3) safe(4) ,(5) quiet(6) ,(7) central(8) location(9) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+			<opinion polarity="+" feature="hotel" opWords="6"/>
+			<opinion polarity="+" feature="place" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_bit(1) expensive(2) 
+			<opinion polarity="-" feature="price" opWords="2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) hotel(2) is(3) in(4) a(5) large(6) stone(7) building(8) on(9) High_Holborn(10) ,(11) a(12) few(13) blocks(14) from(15) the(16) British(17) museum(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			It(1) took(2) a_bit(3) of(4) time(5) to(6) get(7) there(8) from(9) Paddington(10) by(11) taxi(12) ,(13) but(14) once(15) there(16) ,(17) we(18) were(19) one(20) or(21) two(22) stops(23) on(24) the(25) tube(26) from(27) almost(28) all(29) of(30) the(31) museums(32) and(33) churches(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			St(1) .(2) 
+		</sentence>
+		<sentence id="4">
+			Paul(1) 's(2) ,(3) the(4) Tower(5) ,(6) London(7) ,(8) Bank_of_England(9) ,(10) British_Museum(11) a(12) short(13) walk(14) ,(15) the(16) Tates(17) ,(18) the(19) Courtauld(20) ,(21) you(22) name(23) it(24) ,(25) it(26) was(27) easy(28) access(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			The(1) linens(2) were(3) fabulous(4) ,(5) the(6) laundry(7) was(8) expensive(9) ,(10) but(11) our(12) clothes(13) have(14) never(15) been(16) treated(17) so(18) well(19) .(20) 
+			<opinion polarity="+" feature="bedding" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) staff(2) was(3) unobtrusive(4) ,(5) but(6) entirely(7) prompt(8) and(9) helpful(10) .(11) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="staff" featWords="2" opWords="10"/>
+			<opinion polarity="-" feature="staff" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="7">
+			We(1) wanted(2) to(3) go(4) to(5) a(6) show(7) and(8) they(9) took(10) care(11) of(12) it(13) on(14) the(15) spot(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) Pearl_Restaurant(2) was(3) ,(4) again(5) ,(6) on(7) the(8) expensive(9) side(10) ,(11) but(12) extremely(13) good(14) ,(15) with(16) delicious(17) innovative(18) food(19) and(20) excellent(21) service(22) --(23) possibly(24) our(25) best(26) dining(27) experience(28) in(29) our(30) six(31) nights(32) in(33) London(34) ,(35) a(36) tie(37) with(38) the(39) Hunan(40) over(41) in(42) Chelsea(43) .(44) 
+			<opinion polarity="+" feature="service" featWords="22" opWords="21"/>
+			<opinion polarity="+" feature="food" featWords="19" opWords="18"/>
+			<opinion polarity="+" feature="food" featWords="19" opWords="17"/>
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) surrounds(3) an(4) inner(5) courtyard(6) and(7) keeps(8) a(9) doorman(10) at(11) the(12) street(13) entrances(14) at(15) all(16) times(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) never(3) felt(4) safer(5) staying(6) at(7) an(8) inner(9) city(10) hotel(11) .(12) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="719" item="1993 Toyota Camry" rating="3">
+	<title>
+		<sentence id="1">
+			it(1) 's(2) a(3) mom(4) car(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reliable(1) ,(2) comfortable(3) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="reliability" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) attractive(2) 
+			<opinion polarity="-" feature="design" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) this(3) car(4) from(5) my(6) mom(7) about(8) six(9) months(10) ago(11) and(12) I(13) finally(14) figured(15) out(16) the(17) reason(18) she(19) had(20) it(21) and(22) loved(23) it(24) so(25) much(26) .(27) 
+			<opinion polarity="+" feature="car" featWords="24" featRef="car" opWords="23"/>
+		</sentence>
+		<sentence id="2">
+			This(1) car(2) is(3) a(4) very(5) reliable(6) and(7) comfortable(8) car(9) but(10) no(11) matter(12) how(13) much(14) I(15) tried(16) to(17) fix(18) it(19) up(20) and(21) put(22) rims(23) on(24) it(25) and(26) lower(27) it(28) ,(29) it(30) still(31) looks(32) like(33) a(34) family(35) car(36) .(37) 
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+			<opinion polarity="+" feature="reliability" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			This(1) does(2) not(3) tend(4) to(5) happen(6) with(7) civics(8) or(9) accords(10) or(11) anything(12) else(13) that(14) 's(15) in(16) the(17) same(18) class(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			I(1) keep(2) telling(3) myself(4) that(5) I(6) should(7) have(8) gotten(9) a(10) prelude(11) but(12) my(13) mom(14) insists(15) that(16) I(17) got(18) the(19) best(20) deal(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Whatever(1) ,(2) that(3) 's(4) boring(5) .(6) 
+			<opinion polarity="-" feature="car" opWords="5"/>
+		</sentence>
+	</text>
+</review>

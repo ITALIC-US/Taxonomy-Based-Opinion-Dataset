@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="114" item="Stonehedge Inn" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) Ready_for_Prime_Time(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) grounds(2) and(3) restaurant(4) are(5) beautiful(6) 
+			<opinion polarity="+" feature="grounds" featWords="2" opWords="6"/>
+			<opinion polarity="+" feature="food" featWords="4" opWords="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Entire(1) staff(2) needs(3) intensive(4) training(5) in(6) service(7) ,(8) sanitary(9) standards(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			To(1) say(2) we(3) were(4) disappointed(5) is(6) an(7) understatement(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) spa(2) rooms(3) were(4) dirty(5) with(6) cob(7) webs(8) on(9) the(10) windows(11) ,(12) dirty(13) work(14) tables(15) and(16) floors(17) .(18) 
+			<opinion polarity="-" feature="rooms" featWords="3" opWords="5"/>
+			<opinion polarity="-" feature="tables" featWords="15" opWords="13"/>
+			<opinion polarity="-" feature="grounds" featWords="17" opWords="13"/>
+		</sentence>
+		<sentence id="3">
+			The(1) room(2) was(3) spacious(4) but(5) our(6) sheets(7) were(8) old(9) ,(10) worn(11) ,(12) paper(13) thin(14) and(15) stained(16) !(17) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="bedding" featWords="7" opWords="9"/>
+			<opinion polarity="-" feature="bedding" featWords="7" opWords="11"/>
+			<opinion polarity="-" feature="bedding" featWords="7" opWords="13,14"/>
+			<opinion polarity="-" feature="bedding" featWords="7" opWords="16"/>
+		</sentence>
+		<sentence id="4">
+			The(1) dining(2) room(3) was(4) beautiful(5) but(6) the(7) atrium(8) was(9) very(10) dark(11) making(12) the(13) menu(14) difficult(15) to(16) read(17) .(18) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="5">
+			Our(1) meals(2) were(3) good(4) but(5) all(6) aspects(7) of(8) the(9) service(10) were(11) appalling(12) and(13) unacceptable(14) since(15) the(16) restaurant(17) was(18) not(19) very(20) busy(21) .(22) 
+			<opinion polarity="+" feature="food" featWords="2" opWords="4"/>
+			<opinion polarity="-" feature="service" featWords="10" opWords="12"/>
+			<opinion polarity="-" feature="service" featWords="10" opWords="14"/>
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) an(3) extremely(4) expensive(5) regrettable(6) weekend(7) that(8) failed(9) to(10) meet(11) basic(12) services(13) any(14) guest(15) would(16) expect(17) and(18) would(19) not(20) recommend(21) The_Stonehedge_Inn(22) to(23) anyone(24) .(25) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="346" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) solid(2) vehicle(3) indeed(4) ,(5) it(6) would(7) seem(8) 
+			<opinion polarity="+" feature="car" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) gas(2) mileage(3) ,(4) great(5) car(6) for(7) its(8) year(9) and(10) type(11) ,(12) and(13) for(14) the(15) beginner(16) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="2,3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) cupholders(2) are(3) the(4) only(5) notable(6) issue(7) I(8) 've(9) encountered(10) thus(11) far(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) very(2) solid(3) buy(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Decent(1) longevity(2) ,(3) economical(4) ,(5) and(6) an(7) undeniable(8) workhorse(9) for(10) new(11) drivers(12) ,(13) students(14) ,(15) and(16) similar(17) demographics(18) .(19) 
+			<opinion polarity="+" feature="price" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) live(2) in(3) Canada(4) ,(5) and(6) this(7) here(8) is(9) my(10) first(11) vehicle(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) an(3) 18(4) year(5) old(6) student(7) ,(8) and(9) my(10) 1992(11) Saturn(12) SL1(13) was(14) a(15) hand-me-down(16) from(17) my(18) mom(19) ,(20) who(21) bought(22) a(23) 2004(24) Honda_Accord(25) in_2004(26) ,(27) and(28) kindly(29) decided(30) to(31) give(32) me(33) her(34) old(35) car(36) ,(37) rather(38) than(39) sell(40) it(41) for(42) money(43) .(44) 
+		</sentence>
+		<sentence id="3">
+			Being(1) my(2) first(3) vehicle(4) and(5) my(6) first(7) real(8) driving(9) experience(10) ,(11) I(12) undoubtedly(13) lack(14) the(15) veteran(16) 's(17) experience(18) to(19) pass(20) down(21) major(22) judgements(23) ,(24) as(25) this(26) car(27) relates(28) to(29) others(30) ,(31) but(32) I(33) can(34) say(35) from(36) the(37) limited(38) perspective(39) that(40) I(41) have(42) ,(43) that(44) this(45) is(46) undoubtedly(47) a(48) quality(49) vehicle(50) ,(51) particularly(52) for(53) someone(54) of(55) my(56) age(57) range(58) .(59) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) just(3) a(4) shade(5) under(6) 114,000_kilometers(7) on(8) it(9) now(10) ,(11) and(12) ,(13) after(14) having(15) made(16) some(17) minor(18) and(19) expectable(20) repairs(21) to(22) get(23) it(24) truly(25) roadworthy(26) ,(27) it(28) 's(29) been(30) operating(31) smoothly(32) ,(33) quietly(34) ,(35) and(36) in(37) a(38) completely(39) dependable(40) manner(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) installed(3) a(4) CD(5) deck(6) in(7) there(8) ,(9) and(10) it(11) 's(12) superb(13) for(14) trucking(15) to(16) work(17) and(18) school(19) ,(20) or(21) for(22) skimming(23) around(24) the(25) city(26) with(27) friends(28) on(29) the(30) weekends(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			I(1) do(2) not(3) mind(4) the(5) "(6) auto(7) "(8) seatbelts(9) as(10) much(11) as(12) some(13) seem(14) to(15) ,(16) though(17) I(18) certainly(19) do(20) not(21) see(22) them(23) as(24) necessary(25) in(26) any(27) way(28) ((29) they(30) have(31) not(32) frozen(33) on(34) me(35) yet(36) ,(37) luckily(38) )(39) .(40) 
+		</sentence>
+		<sentence id="7">
+			It(1) handles(2) well(3) and(4) ,(5) while(6) lacking(7) in(8) horsepower(9) in(10) comparison(11) to(12) some(13) other(14) cars(15) ,(16) seems(17) to(18) handle(19) all(20) required(21) speeds(22) just(23) fine(24) ,(25) whether(26) it(27) be(28) a(29) residential(30) area(31) ,(32) or(33) a(34) main(35) highway(36) .(37) 
+			<opinion polarity="+" feature="handling" opWords="2,3"/>
+		</sentence>
+		<sentence id="8">
+			Gas(1) mileage(2) is(3) commendable(4) ,(5) given(6) that(7) ,(8) even(9) as(10) high(11) as(12) gas(13) prices(14) are(15) nowadays(16) ,(17) it(18) costs(19) me(20) no(21) more(22) than(23) 25(24) or(25) 30_dollars(26) ((27) Canadian(28) )(29) to(30) fill(31) the(32) tank(33) to(34) the(35) brim(36) ,(37) which(38) lasts(39) for(40) a(41) week(42) or(43) more(44) ((45) and(46) I(47) do(48) drive(49) quite(50) a_bit(51) )(52) .(53) 
+			<opinion polarity="+" feature="gas" featWords="1,2" opWords="4"/>
+		</sentence>
+		<sentence id="9">
+			Dissapointments(1) thus(2) far(3) are(4) few(5) ,(6) one(7) being(8) the(9) vehicle(10) 's(11) lack(12) of(13) cupholders(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			My(1) transmission(2) is(3) on(4) the(5) fritz(6) to(7) a(8) slight(9) degree(10) ,(11) as(12) it(13) '(14) sticks(15) '(16) slightly(17) when(18) I(19) switch(20) in(21) to(22) reverse(23) ((24) I(25) have(26) to(27) wait(28) for(29) a_second(30) or(31) two(32) after(33) shifting(34) in(35) to(36) reverse(37) ,(38) before(39) pressing(40) the(41) gas(42) ,(43) giving(44) it(45) the(46) extra(47) time(48) it(49) needs(50) to(51) shift(52) over(53) )(54) ,(55) but(56) this(57) is(58) a(59) problem(60) likely(61) related(62) to(63) wear(64) and(65) tear(66) over(67) the(68) course(69) of(70) 13(71) years(72) ,(73) rather(74) than(75) a(76) severe(77) design(78) flaw(79) with(80) the(81) car(82) itself(83) .(84) 
+		</sentence>
+		<sentence id="11">
+			All(1) in_all(2) ,(3) I(4) recommend(5) this(6) car(7) to(8) anyone(9) who(10) 's(11) deadset(12) on(13) this(14) price(15) range(16) ,(17) and(18) on(19) this(20) vehicle(21) class(22) .(23) 
+			<opinion polarity="+" feature="car" featWords="7" opWords="5"/>
+		</sentence>
+		<sentence id="12">
+			Condition(1) :(2) UsedModel_Year(3) :(4) 1992Model(5) and(6) Options(7) :(8) SL1(9) ,(10) Automatic(11) 
+		</sentence>
+	</text>
+</review>

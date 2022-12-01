@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="562" item="Bahia Mar Resort" rating="5">
+	<title>
+		<sentence id="1">
+			Go(1) there(2) ,(3) it(4) 's(5) great(6) .(7) 
+			<opinion polarity="+" feature="hotel" featWords="4" featRef="hotel" opWords="6"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean_GREAT(1) service(2) right(3) on(4) the(5) beach(6) large(7) rooms(8) two(9) pools(10) large(11) hot(12) tub(13) 
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="tub" featWords="13" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) that(2) I(3) could(4) see(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) got(3) everything(4) and(5) it(6) 's(7) the(8) best(9) for(10) the(11) money(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Bahia_Mar(5) during(6) the(7) latter(8) part(9) of(10) June(11) ,(12) and(13) had(14) a(15) wonderful(16) week(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) staff(3) was(4) very(5) pleasant(6) and(7) remembered(8) our(9) name(10) after(11) just(12) being(13) told(14) once(15) .(16) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			Everything(1) was(2) very(3) clean(4) and(5) the(6) maid(7) service(8) were(9) super(10) fast(11) and(12) discreet(13) .(14) 
+			<opinion polarity="+" feature="hotel" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="room service" featWords="7" opWords="11" potency="10"/>
+			<opinion polarity="+" feature="room service" featWords="7" opWords="13"/>
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) good(4) for(5) people(6) who(7) do(8) not(9) want(10) to(11) be(12) in(13) the(14) middle(15) of(16) things(17) .(18) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) right(3) on(4) the(5) main(6) drive(7) ,(8) but(9) it(10) 's(11) the(12) last(13) hotel(14) ,(15) so(16) there(17) 's(18) something(19) of(20) a(21) noise(22) buffer(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) dining(3) room(4) was(5) wonderful(6) .(7) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="6"/>
+		</sentence>
+		<sentence id="7">
+			We(1) ended(2) up(3) eating(4) there(5) most(6) nights(7) ,(8) and(9) all(10) breakfasts(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			For(1) ten(2) bucks(3) you(4) could(5) get(6) all(7) you(8) would(9) want(10) to(11) eat(12) ,(13) including(14) traditional(15) mexican(16) items(17) and(18) waffles(19) made(20) to(21) order(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) rooms(3) were(4) modern(5) and(6) large(7) .(8) 
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="5"/>
+			<opinion polarity="+" feature="rooms" featWords="3" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			They(1) included(2) hair(3) dryers(4) ,(5) irons(6) ,(7) a(8) mini(9) fridge(10) and(11) coffee(12) machines(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			There(1) were(2) vending(3) machines(4) available(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			There(1) are(2) loads(3) of(4) places(5) near(6) by(7) to(8) eat(9) and(10) shop(11) ,(12) as_well(13) as(14) dune(15) buggy(16) rentals(17) and(18) dolphin(19) watching(20) tours(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			Less(1) than(2) a_mile(3) away(4) is(5) a(6) Sea_Turtle_Rescue(7) site(8) where(9) you(10) can(11) interact(12) with(13) the(14) turtles(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) hotel(2) sits(3) on(4) a(5) huge(6) amount(7) of(8) property(9) and(10) includes(11) tennis(12) courts(13) ,(14) basketball(15) and(16) a(17) wonderful(18) lagoon(19) and(20) river(21) walk(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			There(1) is(2) also(3) a(4) bar(5) and(6) karokee(7) area(8) ,(9) as_well(10) as(11) several(12) large(13) areas(14) to(15) just(16) sit(17) and(18) relax(19) .(20) 
+			<opinion polarity="+" feature="place" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="16">
+			They(1) also(2) have(3) a(4) trendy(5) club(6) ,(7) but(8) I(9) did(10) not(11) go(12) inside(13) ,(14) so(15) I(16) really(17) have(18) no(19) idea(20) what(21) that(22) was(23) like(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			I(1) really(2) can(3) not(4) say(5) enough(6) about(7) this(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			I(1) really(2) did(3) not(4) want(5) to(6) leave(7) ,(8) and(9) can(10) not(11) wait(12) to(13) go(14) back(15) .(16) 
+		</sentence>
+	</text>
+</review>

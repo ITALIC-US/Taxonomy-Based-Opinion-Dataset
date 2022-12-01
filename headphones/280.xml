@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="280" item="Sony MDR-EX51LPP Consumer Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			SONY(1) MDR-EX51LP(2) Fontopia_Earphones(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) and(2) they(3) stay(4) on(5) your(6) ear(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) sounds(2) ,(3) cheap(4) craftmanship(5) .(6) 
+			<opinion polarity="-" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) worth(2) the(3) money(4) !(5) !(6) !(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Ok(1) let(2) me(3) start(4) by(5) saying(6) that(7) these(8) earphones(9) suck(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) bought(2) them(3) thinking(4) they(5) are(6) from(7) Sony(8) but(9) the(10) sounds(11) that(12) come(13) out(14) of(15) these(16) is(17) lame(18) ,(19) weak(20) and(21) at(22) times(23) distorted(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			Also(1) when(2) checking(3) out(4) the(5) craftmanship(6) they(7) look(8) very(9) cheap(10) .(11) 
+			<opinion polarity="-" feature="appearance" opWords="8,10" potency="9"/>
+		</sentence>
+		<sentence id="4">
+			I(1) got(2) them(3) on-line(4) for(5) about(6) half(7) the(8) price(9) of(10) retail(11) and(12) still(13) did(14) not(15) get(16) my(17) moneys(18) worth(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			I(1) bought(2) a(3) different(4) type(5) of(6) earbud(7) called(8) Live(9) and(10) they(11) sound(12) a(13) heck(14) of(15) a_lot(16) better(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) also(3) gonna(4) look(5) for(6) the(7) Shure(8) E2C(9) which(10) are(11) a_bit(12) more(13) expensive(14) to(15) compare(16) with(17) the(18) Live(19) one(20) and(21) see(22) which(23) one(24) is(25) better(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			So(1) if(2) you(3) are(4) looking(5) for(6) a(7) nice(8) pair(9) of(10) earphones(11) with(12) great(13) sounds(14) DO_NOT(15) get(16) this(17) ones(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) be(3) doing(4) yourself(5) a(6) favor(7) .(8) 
+		</sentence>
+	</text>
+</review>

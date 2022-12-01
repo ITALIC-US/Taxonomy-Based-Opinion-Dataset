@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="647" item="Belleview Biltmore Resort & Spa" rating="3">
+	<title>
+		<sentence id="1">
+			This(1) Old_Dame_Has_Character(2) ,(3) But_Lacks_The_Luster(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) staff(2) ,(3) heated(4) indoor(5) pool(6) with(7) huge(8) built-in(9) whirlpool(10) ,(11) pretty(12) outdoor(13) pool(14) with(15) waterfall(16) .(17) 
+			<opinion polarity="+" feature="staff" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="swimming pool" featWords="6" opWords="4"/>
+			<opinion polarity="+" feature="swimming pool" featWords="10" opWords="8"/>
+			<opinion polarity="+" feature="swimming pool" featWords="14" opWords="12"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ongoing(1) renovations(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			This(1) property(2) needs(3) a(4) major(5) cash(6) infusion(7) to(8) live(9) up(10) to(11) its(12) reputation(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Current(1) room(2) prices(3) reflect(4) the(5) fact(6) that(7) this(8) property(9) is(10) not(11) quite(12) up(13) to(14) par(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) some(3) of(4) the(5) amenities(6) might(7) make(8) your(9) stay(10) worthwhile(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Of(1) all(2) the(3) hotels(4) we(5) have(6) frequented(7) over(8) the(9) years(10) ,(11) this(12) one(13) will(14) perhaps(15) be(16) the(17) most(18) difficult(19) to(20) categorize(21) and(22) rate(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Quite(1) frankly(2) ,(3) we(4) came(5) away(6) with(7) very(8) mixed(9) emotions(10) about(11) this(12) once(13) grand(14) and(15) elegant(16) resort(17) ,(18) as(19) we(20) weighed(21) the(22) many(23) shortcomings(24) against(25) feelings(26) of(27) nostalgia(28) and(29) appreciation(30) for(31) its(32) interesting(33) history(34) .(35) 
+			<opinion polarity="+" feature="hotel" featWords="17" opWords="14"/>
+			<opinion polarity="+" feature="hotel" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) no(3) denying(4) that(5) despite(6) years(7) of(8) neglect(9) ,(10) this(11) place(12) has(13) retained(14) its(15) character(16) and(17) charm(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			In(1) fact(2) ,(3) you(4) would(5) be(6) hard(7) pressed(8) to(9) find(10) anything(11) remotely(12) close(13) to(14) it(15) elsewhere(16) on(17) Florida(18) shores(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Built(1) in_1896(2) by(3) the(4) railroad(5) magnate(6) Henry_Plant(7) ,(8) the(9) Belleview_Biltmore(10) has(11) a(12) prominent(13) location(14) on(15) a(16) bluff(17) adjacent(18) to(19) the(20) Intracoastal_Waterway(21) ,(22) not(23) far(24) from(25) the(26) Clearwater_Beach(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			Although(1) the(2) initial(3) sweeping(4) water(5) views(6) have(7) been(8) reduced(9) to(10) a(11) mere(12) glimpse(13) by(14) surrounding(15) buildings(16) ,(17) the(18) setting(19) is(20) still(21) beautiful(22) on(23) 22_acres(24) of(25) lawns(26) and(27) trees(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			Several(1) additions(2) have(3) turned(4) this(5) Victorian(6) structure(7) into(8) a(9) sprawling(10) complex(11) which(12) ,(13) today(14) ,(15) houses(16) 244(17) rooms(18) and(19) suites(20) ,(21) and(22) over(23) 30,000_square_feet(24) of(25) meeting(26) facilities(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			The(1) fact(2) that(3) the(4) Belleview(5) has(6) earned(7) a(8) spot(9) on(10) the(11) "(12) National_Registry_of_Historic_Places(13) "(14) does(15) not(16) seem(17) to(18) have(19) prevented(20) years(21) of(22) neglect(23) by(24) previous(25) owners(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			Although(1) ongoing(2) renovations(3) are(4) starting(5) to(6) make(7) a(8) dent(9) in(10) the(11) general(12) run(13) down(14) condition(15) of(16) this(17) hotel(18) ,(19) it(20) would(21) take(22) huge(23) amounts(24) of(25) money(26) to(27) bring(28) it(29) back(30) to(31) its(32) original(33) grandeur(34) ,(35) and(36) one(37) would(38) have(39) to(40) seriously(41) question(42) the(43) feasibility(44) .(45) 
+		</sentence>
+		<sentence id="10">
+			The(1) exterior(2) is(3) in(4) dire(5) need(6) of(7) a(8) complete(9) overhaul(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			The(1) roof(2) is(3) pock-marked(4) by(5) countless(6) missing(7) shingles(8) ,(9) which(10) is(11) especially(12) noticeable(13) from(14) the(15) pool(16) area(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Sadly(1) ,(2) and(3) probably(4) some(5) years(6) ago(7) ,(8) the(9) unfortunate(10) decision(11) was(12) made(13) to(14) have(15) the(16) wood(17) exterior(18) covered(19) with(20) white(21) aluminum(22) siding(23) ,(24) which(25) is(26) now(27) dirty(28) and(29) showing(30) considerable(31) wear(32) and(33) tear(34) .(35) 
+		</sentence>
+		<sentence id="13">
+			The(1) wood(2) window(3) frames(4) and(5) ornate(6) gingerbread(7) Victorian(8) trim(9) have(10) been(11) unattended(12) for(13) quite(14) some(15) time(16) and(17) are(18) in(19) desperate(20) need(21) of(22) scraping(23) and(24) painting(25) ,(26) which(27) will(28) come(29) to(30) the(31) dismay(32) of(33) the(34) resident(35) colonies(36) of(37) wasps(38) .(39) 
+		</sentence>
+		<sentence id="14">
+			And(1) ,(2) the(3) shrubbery(4) has(5) grown(6) long(7) past(8) maturity(9) and(10) needs(11) some(12) serious(13) attention(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Just(1) recently(2) ,(3) in(4) late(5) January_2003(6) ,(7) we(8) decided(9) to(10) spend(11) a(12) week-end(13) in(14) the(15) Tampa_Bay(16) area(17) with(18) my(19) son(20) and(21) his(22) girl(23) friend(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			Searching(1) for(2) rooms(3) on(4) the(5) internet(6) ,(7) I(8) stumbled(9) across(10) the(11) Belleview_Biltmore_Resort(12) and(13) Spa(14) ,(15) which(16) immediately(17) sparked(18) my(19) interest(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			Rates(1) were(2) reasonable(3) enough(4) ,(5) especially(6) with(7) all(8) of(9) the(10) amenities(11) mentioned(12) ,(13) and(14) I(15) spontaneously(16) booked(17) two(18) rooms(19) .(20) 
+			<opinion polarity="+" feature="price" featWords="1" opWords="3,4"/>
+		</sentence>
+		<sentence id="18">
+			Only(1) then(2) did(3) I(4) read(5) the(6) single(7) and(8) very(9) negative(10) review(11) about(12) this(13) resort(14) here(15) at(16) epinions(17) ,(18) which(19) gave(20) immediate(21) cause(22) for(23) alarm(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			Tempted(1) to(2) cancel(3) the(4) reservations(5) ,(6) I(7) first(8) called(9) the(10) resort(11) with(12) questions(13) about(14) the(15) condition(16) of(17) the(18) rooms(19) and(20) was(21) assured(22) that(23) they(24) had(25) undergone(26) renovations(27) ,(28) such(29) as(30) painting(31) ,(32) new(33) carpeting(34) ,(35) and(36) new(37) bedding(38) .(39) 
+			<opinion polarity="+" feature="carpets" featWords="34" opWords="33"/>
+			<opinion polarity="+" feature="bedding" featWords="38" opWords="37"/>
+		</sentence>
+		<sentence id="20">
+			Succumbing(1) to(2) my(3) sense(4) of(5) adventure(6) and(7) still(8) intrigued(9) by(10) the(11) history(12) of(13) the(14) place(15) ,(16) I(17) decided(18) to(19) take(20) a(21) chance(22) after(23) all(24) ,(25) although(26) not(27) quite(28) sure(29) exactly(30) what(31) to(32) expect(33) .(34) 
+		</sentence>
+		<sentence id="21">
+			The(1) Belleview_Biltmore(2) is(3) located(4) on(5) Belleview_Boulevard(6) in(7) Clearwater(8) ,(9) about(10) 3_miles(11) from(12) the(13) intersection(14) of(15) Gulf-to-Bay_Boulevard(16) and(17) the(18) Beaches_Bypass(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			Entering(1) the(2) premises(3) requires(4) passing(5) through(6) a(7) security(8) gate(9) ,(10) where(11) one(12) is(13) issued(14) an(15) entrance(16) pass(17) for(18) the(19) duration(20) of(21) the(22) stay(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) ample(3) parking(4) ,(5) free(6) of(7) charge(8) .(9) 
+			<opinion polarity="+" feature="parking" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="parking" featWords="4" opWords="6,7,8"/>
+		</sentence>
+		<sentence id="24">
+			The(1) contemporary(2) lobby(3) ,(4) a(5) late(6) and(7) somewhat(8) odd(9) addition(10) to(11) the(12) otherwise(13) Victorian(14) architecture(15) ,(16) seems(17) out(18) of(19) place(20) with(21) all(22) of(23) its(24) glass(25) ,(26) soaring(27) ceilings(28) ,(29) and(30) somewhat(31) sparse(32) furnishings(33) .(34) 
+			<opinion polarity="-" feature="furnishings" featWords="33" opWords="32"/>
+		</sentence>
+		<sentence id="25">
+			And(1) the(2) ATM(3) machine(4) right(5) next(6) to(7) the(8) check-in(9) counter(10) struck(11) an(12) even(13) stranger(14) note(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			But(1) the(2) staff(3) was(4) extremely(5) friendly(6) ,(7) and(8) even_though(9) we(10) arrived(11) in(12) the(13) morning(14) ,(15) several(16) hours(17) before(18) the(19) normal(20) 3:00_p.m.(21) check-in(22) time(23) ,(24) we(25) were(26) quickly(27) accommodated(28) .(29) 
+			<opinion polarity="+" feature="staff" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="27">
+			It(1) gets(2) interesting(3) from(4) here(5) as(6) you(7) step(8) back(9) into(10) turn-of-the-century(11) ambience(12) and(13) find(14) yourself(15) absorbed(16) by(17) the(18) intriguing(19) history(20) .(21) 
+		</sentence>
+		<sentence id="28">
+			It(1) 's(2) almost(3) eerie(4) ,(5) if_not(6) spooky(7) ,(8) and(9) immediately(10) the(11) movie(12) '(13) The(14) Shining(15) '(16) came(17) to(18) mind(19) ,(20) which(21) could(22) easily(23) have(24) been(25) filmed(26) here(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			Long(1) ,(2) creaky(3) hallways(4) ,(5) dark(6) carpeting(7) ,(8) high(9) ceilings(10) ,(11) winding(12) stair(13) cases(14) ,(15) and(16) lots(17) of(18) alcoves(19) which(20) could(21) be(22) used(23) as(24) hiding(25) places(26) .(27) 
+			<opinion polarity="+" feature="lobby" featWords="4" opWords="1"/>
+			<opinion polarity="-" feature="lobby" featWords="4" opWords="3"/>
+			<opinion polarity="-" feature="carpets" featWords="7" opWords="6"/>
+		</sentence>
+		<sentence id="30">
+			Even(1) the(2) old(3) elevators(4) clicked(5) and(6) sputtered(7) on(8) the(9) way(10) up(11) to(12) our(13) rooms(14) on(15) the(16) third(17) floor(18) ,(19) adding(20) to(21) the(22) suspense(23) .(24) 
+			<opinion polarity="-" feature="elevator" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="31">
+			As(1) my(2) son(3) 's(4) girl(5) friend(6) contemplated(7) ghostly(8) visitors(9) during(10) the(11) upcoming(12) nights(13) she(14) uttered(15) with(16) a(17) shiver(18) "(19) I(20) could(21) never(22) stay(23) here(24) by(25) myself(26) "(27) .(28) 
+		</sentence>
+		<sentence id="32">
+			But(1) the(2) rooms(3) turned(4) out(5) to(6) be(7) much(8) better(9) than(10) expected(11) ,(12) at_least(13) for(14) the(15) most(16) part(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			Both(1) were(2) large(3) ,(4) almost(5) swallowing(6) the(7) king(8) size(9) bed(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			The(1) furnishings(2) were(3) of(4) dark(5) mahogany(6) wood(7) ,(8) walls(9) were(10) freshly(11) painted(12) ,(13) and(14) carpet(15) ,(16) bedspreads(17) and(18) curtains(19) were(20) fairly(21) new(22) .(23) 
+			<opinion polarity="+" feature="walls" featWords="9" opWords="11,12"/>
+			<opinion polarity="+" feature="carpets" featWords="15" opWords="22" potency="21"/>
+			<opinion polarity="+" feature="bedding" featWords="17" opWords="22" potency="21"/>
+		</sentence>
+		<sentence id="35">
+			The(1) room(2) is(3) equipped(4) with(5) TV(6) /(7) remote(8) and(9) a(10) coffee(11) maker(12) ,(13) and(14) the(15) closet(16) ((17) with(18) ironing(19) board(20) and(21) iron(22) )(23) is(24) so(25) large(26) it(27) could(28) be(29) its(30) own(31) separate(32) room(33) .(34) 
+		</sentence>
+		<sentence id="36">
+			We(1) found(2) the(3) wall(4) heating(5) /(6) AC(7) unit(8) mounted(9) too(10) high(11) between(12) the(13) windows(14) ,(15) making(16) it(17) tough(18) to(19) read(20) the(21) settings(22) .(23) 
+		</sentence>
+		<sentence id="37">
+			The(1) piping(2) for(3) the(4) sprinkler(5) system(6) is(7) exposed(8) which(9) is(10) not(11) very(12) attractive(13) ,(14) but(15) there(16) really(17) are(18) not(19) many(20) options(21) for(22) such(23) an(24) installation(25) in(26) an(27) old(28) building(29) .(30) 
+		</sentence>
+		<sentence id="38">
+			Each(1) room(2) is(3) equipped(4) with(5) a(6) ceiling(7) fan(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			The(1) windows(2) are(3) painted(4) shut(5) and(6) ,(7) unfortunately(8) ,(9) they(10) never(11) bothered(12) to(13) remove(14) the(15) dusty(16) screens(17) on(18) the(19) outside(20) ,(21) which(22) are(23) no_longer(24) useful(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			The(1) room(2) itself(3) was(4) clean(5) and(6) there(7) were(8) no(9) offensive(10) musty(11) odors(12) .(13) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="5"/>
+		</sentence>
+		<sentence id="41">
+			The(1) bathroom(2) was(3) not(4) particularly(5) user(6) friendly(7) ,(8) with(9) minimal(10) renovations(11) and(12) no(13) exhaust(14) fan(15) .(16) 
+			<opinion polarity="-" feature="bathroom" featWords="2" opWords="4,6,7" potency="5"/>
+		</sentence>
+		<sentence id="42">
+			Flooring(1) was(2) white(3) ceramic(4) tile(5) and(6) the(7) walls(8) sported(9) 60(10) 's(11) baby(12) blue(13) and(14) pink(15) tiles(16) and(17) a(18) tiny(19) vanity(20) with(21) little(22) room(23) to(24) put(25) your(26) toiletries(27) .(28) 
+		</sentence>
+		<sentence id="43">
+			The(1) tub(2) /(3) shower(4) combination(5) was(6) okay(7) ,(8) but(9) the(10) toilet(11) was(12) not(13) secured(14) properly(15) and(16) one(17) had(18) to(19) sit(20) down(21) gingerly(22) !(23) 
+			<opinion polarity="-" feature="bathroom" featWords="11" opWords="13,14,15"/>
+		</sentence>
+		<sentence id="44">
+			Hot(1) water(2) for(3) us(4) was(5) plentiful(6) and(7) the(8) pressure(9) was(10) good(11) ,(12) but(13) my(14) son(15) was(16) not(17) so(18) lucky(19) and(20) finished(21) at_least(22) one(23) shower(24) in(25) the(26) cold(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			There(1) was(2) a(3) supply(4) of(5) shampoo(6) ,(7) lotion(8) ,(9) and(10) conditioner(11) ,(12) the(13) hair(14) dryer(15) was(16) stored(17) inside(18) the(19) vanity(20) cabinet(21) ,(22) and(23) the(24) towels(25) were(26) large(27) and(28) fluffy(29) ,(30) with(31) a(32) more(33) than(34) ample(35) supply(36) .(37) 
+		</sentence>
+		<sentence id="46">
+			All(1) of(2) us(3) slept(4) remarkably(5) well(6) ,(7) putting(8) to(9) rest(10) earlier(11) fears(12) of(13) ghosts(14) or(15) spirits(16) !(17) 
+		</sentence>
+		<sentence id="47">
+			The(1) hotel(2) was(3) extremely(4) quiet(5) at(6) night(7) ,(8) perhaps(9) because(10) it(11) was(12) only(13) sparsely(14) occupied(15) the(16) week-end(17) we(18) were(19) there(20) .(21) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="48">
+			With(1) all(2) of(3) its(4) meeting(5) facilities(6) ,(7) the(8) Belleview_Biltmore(9) caters(10) to(11) large(12) groups(13) and(14) is(15) popular(16) for(17) weddings(18) ,(19) seminars(20) ,(21) and(22) area(23) events(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			Numerous(1) banquet(2) halls(3) ,(4) such(5) as(6) the(7) Belleair_Amphitheater(8) ,(9) Tiffany(10) ,(11) Starlight(12) ,(13) and(14) Candlelight_Rooms(15) ,(16) to(17) mention(18) just(19) a(20) few(21) ,(22) can(23) accommodate(24) just(25) about(26) any(27) size(28) group(29) .(30) 
+		</sentence>
+		<sentence id="50">
+			Some(1) of(2) these(3) rooms(4) are(5) beautifully(6) appointed(7) ,(8) especially(9) the(10) Tiffany_Ballroom(11) with(12) its(13) stained(14) glass(15) ceiling(16) and(17) beautiful(18) old(19) chandeliers(20) .(21) 
+			<opinion polarity="+" feature="rooms" featWords="4" opWords="6,7"/>
+		</sentence>
+		<sentence id="51">
+			Several(1) boutiques(2) offer(3) everything(4) from(5) golfing(6) attire(7) to(8) fine(9) jewelry(10) and(11) Florida(12) souvenirs(13) .(14) 
+		</sentence>
+		<sentence id="52">
+			We(1) found(2) them(3) open(4) only(5) sporadically(6) and(7) never(8) could(9) figure(10) out(11) their(12) hours(13) of(14) operation(15) .(16) 
+		</sentence>
+		<sentence id="53">
+			The(1) resort(2) boast(3) a(4) 14,000(5) sq(6) .(7) ft(8) .(9) spa(10) ((11) Eclips_Health_Spa(12) )(13) offering(14) just(15) about(16) any(17) treatment(18) or(19) pampering(20) your(21) heart(22) desires(23) ,(24) including(25) a(26) variety(27) of(28) wellness(29) programs(30) .(31) 
+		</sentence>
+		<sentence id="54">
+			We(1) found(2) the(3) prices(4) to(5) be(6) a_bit(7) steep(8) and(9) ,(10) instead(11) ,(12) spent(13) time(14) in(15) their(16) wonderful(17) indoor(18) heated(19) pool(20) with(21) a(22) huge(23) built-in(24) whirlpool(25) ,(26) large(27) enough(28) to(29) seat(30) 25(31) to(32) 30(33) people(34) .(35) 
+			<opinion polarity="-" feature="price" featWords="4" opWords="8"/>
+			<opinion polarity="+" feature="swimming pool" featWords="20" opWords="17"/>
+			<opinion polarity="+" feature="swimming pool" featWords="20" opWords="19"/>
+			<opinion polarity="+" feature="swimming pool" featWords="25" opWords="23"/>
+		</sentence>
+		<sentence id="55">
+			This(1) alone(2) made(3) the(4) stay(5) worthwhile(6) and(7) ,(8) at_least(9) for(10) us(11) ,(12) made(13) the(14) hotel(15) 's(16) shortcomings(17) less(18) significant(19) .(20) 
+		</sentence>
+		<sentence id="56">
+			The(1) Terrace_Cafe(2) ,(3) which(4) offers(5) both(6) indoor(7) and(8) outdoor(9) seating(10) ,(11) is(12) the(13) only(14) restaurant(15) on(16) the(17) premises(18) .(19) 
+		</sentence>
+		<sentence id="57">
+			We(1) only(2) had(3) one(4) breakfast(5) there(6) .(7) 
+		</sentence>
+		<sentence id="58">
+			The(1) buffet(2) ,(3) at(4) $8.95(5) ,(6) was(7) disappointing(8) ,(9) with(10) just(11) a(12) limited(13) selection(14) of(15) lukewarm(16) dishes(17) such(18) as(19) scrambled(20) eggs(21) ,(22) home(23) fries(24) ,(25) bacon(26) ,(27) and(28) sausage(29) .(30) 
+		</sentence>
+		<sentence id="59">
+			Other(1) foods(2) ,(3) such(4) as(5) sweet(6) rolls(7) ,(8) cereal(9) ,(10) yoghurt(11) ,(12) and(13) fruit(14) ,(15) were(16) just(17) run(18) of(19) the(20) mill(21) with(22) nothing(23) out(24) of(25) the(26) ordinary(27) .(28) 
+		</sentence>
+		<sentence id="60">
+			The(1) service(2) ,(3) however(4) ,(5) was(6) excellent(7) .(8) 
+			<opinion polarity="+" feature="service" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="61">
+			In(1) fact(2) ,(3) all(4) of(5) the(6) hotel(7) 's(8) staff(9) was(10) extremely(11) helpful(12) and(13) courteous(14) throughout(15) our(16) stay(17) .(18) 
+			<opinion polarity="+" feature="staff" featWords="9" opWords="12" potency="11"/>
+			<opinion polarity="+" feature="staff" featWords="9" opWords="14"/>
+		</sentence>
+		<sentence id="62">
+			A(1) big(2) attraction(3) is(4) the(5) The_Donald_Ross(6) designed(7) golf(8) course(9) which(10) dates(11) back(12) to(13) 1925(14) .(15) 
+		</sentence>
+		<sentence id="63">
+			It(1) has(2) recently(3) undergone(4) a(5) complete(6) face(7) lift(8) and(9) is(10) the(11) home(12) of(13) the(14) Ken_Venturi_Golf_Academy(15) .(16) 
+		</sentence>
+		<sentence id="64">
+			The(1) naturally(2) rolling(3) terrain(4) of(5) this(6) course(7) is(8) unusual(9) for(10) Florida(11) and(12) makes(13) it(14) a(15) local(16) favorite(17) .(18) 
+		</sentence>
+		<sentence id="65">
+			Golf_Package(1) rates(2) start(3) at(4) $115(5) per(6) night(7) ,(8) with(9) complimentary(10) shuttle(11) service(12) to(13) the(14) Clubhouse(15) .(16) 
+		</sentence>
+		<sentence id="66">
+			There(1) are(2) several(3) red(4) clay(5) tennis(6) courts(7) which(8) seem(9) to(10) be(11) in(12) good(13) condition(14) .(15) 
+		</sentence>
+		<sentence id="67">
+			As(1) an(2) avid(3) tennis(4) player(5) ,(6) I(7) was(8) sorry(9) that(10) time(11) was(12) too(13) short(14) to(15) make(16) use(17) of(18) them(19) .(20) 
+		</sentence>
+		<sentence id="68">
+			And(1) ,(2) since(3) we(4) visited(5) during(6) a(7) severe(8) cold(9) snap(10) ,(11) the(12) magnificent(13) outdoor(14) pool(15) with(16) its(17) cascading(18) waterfall(19) was(20) off(21) limits(22) as_well(23) .(24) 
+		</sentence>
+		<sentence id="69">
+			Soon(1) ,(2) the(3) hotel(4) will(5) offer(6) complimentary(7) shuttle(8) service(9) ((10) by(11) boat(12) )(13) from(14) its(15) own(16) private(17) pier(18) to(19) the(20) Clearwater_Beach(21) ,(22) every(23) hour(24) on(25) the(26) hour(27) .(28) 
+		</sentence>
+		<sentence id="70">
+			At(1) 11:00_a.m.(2) daily(3) ,(4) the(5) hotel(6) offers(7) a(8) historical(9) tour(10) of(11) the(12) resort(13) for(14) $5.00(15) ((16) $15.00(17) with(18) lunch(19) )(20) .(21) 
+		</sentence>
+		<sentence id="71">
+			We(1) did(2) not(3) partake(4) ,(5) especially(6) since(7) the(8) receptionist(9) told(10) us(11) at(12) check-in(13) that(14) some(15) of(16) the(17) claims(18) made(19) by(20) the(21) guide(22) can(23) not(24) be(25) substantiated(26) .(27) 
+		</sentence>
+		<sentence id="72">
+			Nevertheless(1) ,(2) it(3) might(4) be(5) an(6) interesting(7) tour(8) since(9) it(10) takes(11) you(12) through(13) many(14) of(15) the(16) fabulous(17) rooms(18) such(19) as(20) the(21) Tiffany(22) and(23) Starlight(24) ,(25) even(26) to(27) the(28) underground(29) railway(30) and(31) the(32) Historical_Museum(33) ,(34) and(35) points(36) out(37) the(38) many(39) wonderful(40) antiquities(41) found(42) on(43) the(44) premises(45) .(46) 
+			<opinion polarity="+" feature="rooms" featWords="18" opWords="17"/>
+		</sentence>
+		<sentence id="73">
+			Our(1) experiences(2) at(3) this(4) hotel(5) were(6) so(7) conflicting(8) that(9) I(10) find(11) it(12) difficult(13) to(14) give(15) a(16) recommendation(17) .(18) 
+		</sentence>
+		<sentence id="74">
+			If(1) you(2) are(3) the(4) type(5) of(6) person(7) who(8) can(9) get(10) caught(11) up(12) in(13) the(14) history(15) of(16) a(17) place(18) and(19) who(20) appreciates(21) a(22) taste(23) of(24) the(25) old(26) ,(27) you(28) will(29) enjoy(30) a(31) stay(32) at(33) the(34) Belleview(35) ,(36) in(37) spite(38) of(39) the(40) many(41) deficiencies(42) .(43) 
+		</sentence>
+		<sentence id="75">
+			Quite(1) frankly(2) ,(3) it(4) is(5) in(6) a(7) class(8) of(9) its(10) own(11) and(12) so(13) unlike(14) today(15) 's(16) typical(17) hotel(18) .(19) 
+		</sentence>
+		<sentence id="76">
+			Our(1) room(2) price(3) was(4) $73(5) ((6) excluding(7) taxes(8) )(9) per(10) night(11) ,(12) which(13) included(14) a(15) 15_%(16) discount(17) for(18) a(19) 3(20) night(21) stay(22) ,(23) an(24) internet(25) rate(26) offered(27) through(28) hotels(29) .(30) com(31) .(32) 
+		</sentence>
+		<sentence id="77">
+			I(1) expect(2) that(3) ,(4) thanks(5) to(6) a(7) new(8) owner(9) ,(10) renovations(11) will(12) continue(13) and(14) ,(15) just(16) maybe(17) ,(18) this(19) once(20) elegant(21) and(22) prominent(23) hotel(24) will(25) shine(26) again(27) some(28) day(29) ,(30) at(31) which(32) time(33) a(34) room(35) price(36) of(37) $73(38) will(39) long(40) be(41) history(42) !(43) 
+		</sentence>
+		<sentence id="78">
+			Belleview_Biltmore_Resort(1) and(2) Spa(3) 25(4) Belleview_Boulevard_Clearwater(5) ,(6) Florida(7) 33756(8) ((9) 727(10) )(11) 442-6171(12) FAX(13) :(14) ((15) 727(16) )(17) 441-4173(18) ((19) 800(20) )(21) 237-8947(22) U.S.(23) or(24) Canada(25) 
+		</sentence>
+	</text>
+</review>

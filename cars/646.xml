@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="646" item="2001 Volkswagen Jetta TDI" rating="3">
+	<title>
+		<sentence id="1">
+			Runs_Good(1) ...(2) but(3) there(4) are(5) downfalls(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Runs(1) great(2) ,(3) reliable(4) ,(5) powerful(6) .(7) 
+			<opinion polarity="+" feature="horsepower" opWords="6"/>
+			<opinion polarity="+" feature="reliability" opWords="4"/>
+			<opinion polarity="+" feature="car" opWords="1,2"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cheap(1) plastic(2) parts(3) on(4) the(5) inside(6) ,(7) interior(8) cloth(9) stains(10) very(11) easily(12) .(13) 
+			<opinion polarity="+" feature="interior" featWords="8" opWords="10,12" potency="11"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Overall(1) ,(2) runs(3) great(4) and(5) is(6) reliable(7) ,(8) but(9) cheaply(10) made(11) interior(12) .(13) 
+			<opinion polarity="-" feature="interior" featWords="12" opWords="10,11"/>
+			<opinion polarity="+" feature="reliability" opWords="7"/>
+			<opinion polarity="+" feature="car" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) searching(2) for(3) my(4) "(5) dream(6) "(7) car(8) I(9) decided(10) in_2000(11) to(12) buy(13) a(14) 2001(15) VW_Jetta(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) my(3) first(4) new(5) car(6) buy(7) and(8) I(9) know(10) VW(11) has(12) a(13) good(14) reputation(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) runs(3) great(4) !(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="3,4"/>
+		</sentence>
+		<sentence id="4">
+			There(1) have(2) been(3) a(4) couple(5) of(6) recalls(7) and(8) they(9) were(10) taken(11) care(12) of(13) promptly(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) VW(3) has(4) failed(5) to(6) have(7) recalls(8) on(9) several(10) problems(11) that(12) I(13) know(14) are(15) occuring(16) on(17) many(18) VW_Jettas(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			I(1) take(2) good(3) care(4) of(5) my(6) car(7) ,(8) however(9) the(10) plastics(11) used(12) on(13) the(14) interior(15) of(16) the(17) car(18) just(19) will(20) not(21) hold(22) up(23) ,(24) no(25) matter(26) how(27) careful(28) you(29) are(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			So(1) far(2) the(3) plastic(4) coating(5) used(6) on(7) the(8) interior(9) door(10) handles(11) has(12) peeled(13) off(14) ,(15) a(16) plastic(17) cover(18) of(19) the(20) seatbelt(21) has(22) fallen(23) off(24) for(25) no(26) reason(27) ,(28) and(29) my(30) glovebox(31) door(32) ((33) the(34) glovebox(35) is(36) empty(37) )(38) just(39) fell(40) off(41) out(42) of(43) no(44) where(45) one(46) day(47) when(48) I(49) was(50) driving(51) .(52) 
+		</sentence>
+		<sentence id="8">
+			The(1) plastic(2) pieces(3) are(4) cheaply(5) made(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			I(1) made(2) the(3) mistake(4) of(5) getting(6) tan(7) cloth(8) interior(9) and(10) although(11) have(12) not(13) spilled(14) anything(15) -(16) they(17) are(18) horribly(19) stained(20) just(21) from(22) everyday(23) use(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) had(3) to(4) buy(5) seat(6) covers(7) to(8) cover(9) the(10) stains(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Now(1) ,(2) onto(3) the(4) way(5) the(6) car(7) runs(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) powerful(3) ,(4) sounds(5) great(6) ,(7) and(8) is(9) reliable(10) .(11) 
+			<opinion polarity="+" feature="reliability" opWords="10"/>
+			<opinion polarity="+" feature="car" opWords="5,6"/>
+			<opinion polarity="+" feature="horsepower" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			There(1) is(2) a(3) check(4) engine(5) light(6) that(7) comes(8) on(9) for(10) almost(11) any(12) reason(13) ((14) a(15) good(16) warning(17) light(18) ,(19) however(20) mine(21) has(22) been(23) on(24) for(25) about(26) a(27) month(28) and(29) no(30) mechanic(31) can(32) figure(33) out(34) why(35) )(36) .(37) 
+		</sentence>
+		<sentence id="14">
+			I(1) live(2) 200_miles(3) from(4) the(5) nearest(6) VW(7) dealer(8) and(9) can(10) not(11) make(12) it(13) there(14) yet(15) for(16) them(17) to(18) get(19) the(20) light(21) off(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			Overall(1) -(2) if(3) you(4) are(5) looking(6) for(7) a(8) car(9) that(10) will(11) get(12) you(13) where(14) you(15) need(16) to(17) go(18) ,(19) and(20) run(21) good(22) and(23) reliably(24) ,(25) however(26) will(27) fall(28) apart(29) on(30) the(31) inside(32) -(33) this(34) is(35) it(36) .(37) 
+			<opinion polarity="+" feature="car" opWords="21,24"/>
+			<opinion polarity="+" feature="car" opWords="21,22"/>
+		</sentence>
+		<sentence id="16">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 21000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2001Model(12) and(13) Options(14) :(15) Jetta_Sedan(16) 
+		</sentence>
+	</text>
+</review>

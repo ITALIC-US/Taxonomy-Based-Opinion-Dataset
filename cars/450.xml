@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="450" item="1999 Lexus RX 300" rating="4">
+	<title>
+		<sentence id="1">
+			lexus(1) RX(2) 300(3) :(4) pros(5) and(6) cons(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			everything(1) but(2) cup-holders(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cup-holders(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Having(1) already(2) owned(3) a(4) Lexus(5) sedan(6) ,(7) and(8) with(9) my(10) growing(11) family(12) I(13) decided(14) to(15) purchase(16) their(17) SUV(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Although(1) the(2) price(3) is(4) a(5) little(6) steep(7) for(8) a(9) first(10) car(11) ,(12) or(13) for(14) small(15) families(16) ((17) $31,483-$33,905(18) )(19) ;(20) the(21) value(22) is(23) well(24) worth(25) it(26) .(27) 
+			<opinion polarity="-" feature="price" featWords="3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="3">
+			In_addition(1) to(2) the(3) smooth(4) ride(5) ,(6) sleek(7) contour(8) ,(9) and(10) assorted(11) extra(12) goodies(13) ;(14) its(15) recognition(16) with(17) affluence(18) and(19) the(20) name(21) Lexus(22) makes(23) it(24) somewhat(25) of(26) a(27) status(28) symbol(29) .(30) 
+			<opinion polarity="+" feature="ride quality" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="4">
+			Its(1) few(2) drawbacks(3) are(4) minor(5) and(6) correctable(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Its(1) primary(2) shortcomings(3) are(4) :(5) the(6) lack(7) of(8) cup-holders(9) ,(10) solvable(11) with(12) a(13) minor(14) purchase(15) ;(16) its(17) cop-appeal(18) or(19) seeming(20) magnetic(21) attraction(22) of(23) police(24) radar(25) guns(26) due(27) again(28) to(29) its(30) recognition(31) with(32) luxury(33) and(34) performance(35) machines(36) ;(37) and(38) ((39) ironically(40) enough(41) )(42) its(43) excessively(44) too(45) smooth(46) ride(47) ((48) far(49) too(50) many(51) times(52) have(53) I(54) been(55) pulled(56) over(57) by(58) a(59) police(60) officer(61) and(62) asked(63) if(64) I(65) knew(66) that(67) I(68) was(69) going(70) ninety(71) in(72) a(73) thirty(74) zone(75) ,(76) when(77) it(78) seems(79) as_if(80) I(81) was(82) barely(83) breaking(84) twenty-five(85) )(86) .(87) 
+			<opinion polarity="-" feature="ride quality" featWords="47" opWords="45,46"/>
+		</sentence>
+		<sentence id="6">
+			However(1) ,(2) its(3) innumerable(4) pro(5) s(6) ,(7) such(8) as(9) the(10) tight(11) steering(12) and(13) acceleration(14) and(15) the(16) automatic(17) seat(18) adjustment(19) feature(20) ,(21) far(22) outweigh(23) the(24) trivial(25) disadvantages(26) ((27) which(28) are(29) in(30) part(31) due(32) to(33) my(34) need(35) for(36) speed(37) )(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			I(1) would(2) recommend(3) this(4) car(5) to(6) any(7) buyer(8) seeking(9) an(10) SUV(11) that(12) still(13) retains(14) the(15) cultured(16) precision(17) of(18) luxury(19) .(20) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</text>
+</review>

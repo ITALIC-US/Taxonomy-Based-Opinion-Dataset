@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="368" item="1992 Saturn SL" rating="4">
+	<title>
+		<sentence id="1">
+			200,000(1) and(2) still(3) strong(4) !(5) 
+			<opinion polarity="+" feature="car" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Looks(1) ;(2) power(3) ;(4) durability(5) ;(6) gas(7) mileage(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Back(1) seat(2) cramped(3) for(4) long(5) trips(6) .(7) 
+			<opinion polarity="-" feature="seat" featWords="1,2" opWords="3"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bye(1) !(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Bought(1) this(2) dark(3) blue(4) Saturn(5) with(6) the(7) DOHC(8) engine(9) because(10) my(11) wife(12) did(13) not(14) think(15) her(16) Toyota(17) had(18) enough(19) power(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			This(1) SL2(2) 5-speed(3) will(4) run(5) circles(6) around(7) the(8) Camry(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) later(3) given(4) to(5) my(6) son(7) and(8) now(9) has(10) 210,000_miles(11) on(12) it(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) does(2) not(3) sit(4) still(5) very(6) often(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Have(1) had(2) it(3) in(4) the(5) shop(6) only(7) two_times(8) for(9) repair(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			First(1) time(2) to(3) replace(4) a(5) constant(6) velocity(7) joint(8) in(9) the(10) drive(11) train(12) and(13) the(14) second(15) to(16) replace(17) the(18) alternator(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) a(3) joy(4) to(5) drive(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="4,5,6"/>
+		</sentence>
+		<sentence id="8">
+			Handles(1) great(2) ,(3) lots(4) of(5) power(6) and(7) still(8) gets(9) 35(10) mpg(11) on(12) the(13) highway(14) .(15) 
+			<opinion polarity="+" feature="handling" opWords="1,2"/>
+		</sentence>
+		<sentence id="9">
+			can(1) not(2) beat(3) it(4) .(5) 
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) using(3) a(4) little(5) oil(6) now(7) ((8) quart(9) every(10) 1500_miles(11) )(12) ,(13) but(14) otherwise(15) ,(16) everything(17) still(18) works(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			Plastic(1) body(2) parts(3) finish(4) is(5) still(6) like(7) new(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			He(1) plans(2) on(3) 300,000(4) and(5) I(6) think(7) it(8) will(9) make(10) it(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Would(1) buy(2) another(3) one(4) without(5) hesitation(6) .(7) 
+			<opinion polarity="+" feature="car" opWords="2"/>
+		</sentence>
+		<sentence id="14">
+			Well(1) ,(2) this(3) is(4) the(5) end(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			The(1) clutch(2) ((3) original(4) )(5) finally(6) wore(7) out(8) and(9) just(10) could(11) not(12) justify(13) the(14) $700(15) repair(16) bill(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			So(1) after(2) 250,000_miles(3) ,(4) the(5) Saturn(6) was(7) sold(8) for(9) $500(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) using(3) more(4) oil(5) ,(6) but(7) still(8) ran(9) great(10) .(11) 
+			<opinion polarity="+" feature="car" opWords="10"/>
+		</sentence>
+		<sentence id="18">
+			Still(1) would(2) buy(3) another(4) !(5) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="921" item="The Oriental Bangkok" rating="4">
+	<title>
+		<sentence id="1">
+			Old(1) style-has(2) it(3) 's(4) own(5) niche(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			History(1) ,(2) style(3) ,(4) the(5) spa(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			lacks(1) some(2) amenities(3) that(4) newer(5) hotels(6) can(7) build(8) in(9) .(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) historic(4) property-which(5) also(6) means(7) tolerating(8) some(9) old(10) building(11) quirks(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) one(4) of(5) the(6) older(7) hotels(8) in(9) Bangkok-and_I(10) mean(11) that(12) in(13) a(14) good(15) way(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) got(3) a_lot_of(4) colonial(5) British(6) flavor(7) and(8) style(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) is(2) a(3) small(4) shopping(5) arcade(6) that(7) was(8) fun(9) to(10) wander(11) through(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) spa(2) across(3) the(4) river(5) ((6) part(7) of(8) the(9) hotel(10) though(11) )(12) was(13) really(14) beautiful(15) and(16) the(17) services(18) and(19) cooking(20) classes(21) were(22) appealing(23) but(24) if(25) you(26) want(27) a(28) bigger(29) view(30) or(31) nice(32) pool(33) this(34) may(35) not(36) be(37) the(38) right(39) choice(40) .(41) 
+			<opinion polarity="+" feature="swimming pool" featWords="33" opWords="32"/>
+		</sentence>
+		<sentence id="5">
+			For(1) a(2) family(3) I(4) would(5) probably(6) go(7) with(8) the(9) Shangri_La(10) ,(11) or(12) for(13) a(14) romantic(15) getaway(16) I(17) would(18) try(19) the(20) Peninsula(21) or(22) here(23) at(24) the(25) Oriental(26) depending(27) on(28) your(29) style(30) and(31) interests(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			The(1) lobby(2) left(3) a(4) little(5) to(6) be(7) desired(8) but(9) there(10) may(11) be(12) nooks(13) and(14) corners(15) I(16) did(17) not(18) find(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			I(1) do(2) not(3) think(4) any(5) rooms(6) have(7) balconies(8) but(9) neither(10) does(11) the(12) Peninsula(13) and(14) they(15) are(16) new(17) .(18) ((19) but(20) the(21) Peninsula(22) does(23) have(24) huge(25) bay(26) windows(27) in(28) the(29) rooms(30) )(31) The(32) bathrooms(33) at(34) the(35) Peninsula(36) beat(37) out(38) everyone(39) in(40) the(41) area(42) !(43) 
+		</sentence>
+		<sentence id="8">
+			Soaking(1) tubs(2) ,(3) marble(4) tile(5) ,(6) more(7) telephones(8) than(9) my(10) home(11) ,(12) TV(13) to(14) watch(15) while(16) using(17) the(18) tub(19) ,(20) big(21) elaborate(22) shower(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			I(1) do(2) not(3) have(4) much(5) more(6) to(7) say(8) because(9) I(10) 've(11) had(12) to(13) evaluate(14) a_lot_of(15) hotels(16) for(17) my(18) work(19) and(20) they(21) begin(22) to(23) become(24) a(25) blur(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			I(1) can(2) say(3) that(4) I(5) 'd(6) be(7) surprised(8) if(9) someone(10) booked(11) this(12) and(13) did(14) not(15) enjoy(16) it(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) exception(3) I(4) can(5) think(6) of(7) is(8) someone(9) who(10) is(11) only(12) accustomed(13) to(14) new(15) hotels(16) rather(17) than(18) historic(19) properties(20) .(21) 
+			<opinion polarity="+" feature="hotel" featWords="16" opWords="15"/>
+		</sentence>
+	</text>
+</review>

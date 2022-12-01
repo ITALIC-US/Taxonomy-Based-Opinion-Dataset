@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="253" item="Sheraton World" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) hotel(2) near(3) WDW(4) area(5) ,(6) quiet(7) ,(8) &(9) spacious(10) !(11) 
+			<opinion polarity="+" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spacious(1) resort-like(2) quality(3) ,(4) pretty(5) grounds(6) ,(7) 3(8) pools(9) ,(10) 10(11) minute(12) drive(13) from(14) Disney(15) 
+			<opinion polarity="+" feature="grounds" featWords="6" opWords="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			More(1) like(2) a(3) hotel(4) +(5) +(6) than(7) a(8) resort(9) ,(10) no(11) tennis(12) courts(13) ,(14) no(15) full(16) spa(17) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) 'll(2) have(3) a(4) nice(5) vacation(6) and(7) will(8) appreciate(9) the(10) quiet(11) and(12) attractiveness(13) of(14) the(15) grounds(16) .(17) 
+			<opinion polarity="+" feature="grounds" featWords="16" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			I(1) 'd(2) stay(3) here(4) over(5) the(6) Disney(7) resorts(8) any(9) day(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) there(3) May(4) 12-19(5) ,(6) 2001(7) for(8) $40/night(9) through(10) Priceline(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) nothing(3) but(4) good(5) things(6) to(7) say(8) about(9) this(10) resort(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) this(3) resort(4) is(5) more(6) like(7) a(8) good(9) 3(10) *(11) hotel(12) and(13) is(14) not(15) given(16) the(17) resort(18) rating(19) by(20) priceline(21) as(22) it(23) does(24) not(25) have(26) all(27) of(28) the(29) extras(30) that(31) resorts(32) tend(33) to(34) have(35) .(36) 
+		</sentence>
+		<sentence id="4">
+			Nonetheless(1) it(2) 's(3) a(4) quality(5) property(6) and(7) I(8) was(9) very(10) pleased(11) with(12) my(13) stay(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) requested(3) a(4) fully(5) handicapped(6) accessible(7) room(8) with(9) 2(10) double(11) beds(12) but(13) it(14) turned(15) out(16) that(17) the(18) only(19) rooms(20) they(21) had(22) like(23) that(24) were(25) the(26) ones(27) with(28) the(29) king(30) bed(31) which(32) did(33) not(34) suit(35) us(36) ,(37) went(38) back(39) to(40) the(41) desk(42) and(43) they(44) switched(45) me(46) to(47) a(48) partially(49) accessible(50) room(51) which(52) still(53) suited(54) my(55) needs(56) with(57) no(58) problem(59) .(60) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) larger(4) than(5) the(6) other(7) one(8) with(9) a(10) smaller(11) bathroom(12) but(13) there(14) were(15) rails(16) everywhere(17) in(18) the(19) bathroom(20) and(21) the(22) tub(23) had(24) a(25) low(26) lip(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) beds(2) were(3) big(4) and(5) not(6) too(7) hard(8) ,(9) the(10) pillows(11) were(12) big(13) .(14) 
+			<opinion polarity="+" feature="bed" featWords="2" opWords="4"/>
+			<opinion polarity="+" feature="bed" featWords="2" opWords="6,7,8"/>
+			<opinion polarity="+" feature="bedding" featWords="11" opWords="13"/>
+		</sentence>
+		<sentence id="8">
+			We(1) were(2) only(3) 2(4) ,(5) but(6) the(7) rooms(8) are(9) very(10) big(11) in(12) this(13) resort(14) and(15) could(16) easily(17) fit(18) four(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="8" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) a(3) round(4) table(5) and(6) chairs(7) plus(8) another(9) small(10) desk(11) and(12) chair(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			There(1) 's(2) also(3) free(4) coffee(5) /(6) tea(7) and(8) a(9) USA_Today(10) paper(11) daily(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			The(1) room(2) also(3) had(4) a(5) fridge(6) free(7) of(8) charge(9) which(10) was(11) very(12) helpful(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) right(4) in(5) front(6) of(7) the(8) parking(9) lot(10) so(11) we(12) had(13) easy(14) access(15) to(16) our(17) car(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) drive(2) to(3) Disney(4) takes(5) around(6) 10-15(7) minutes(8) and(9) there(10) 's(11) a(12) free(13) shuttle(14) that(15) stops(16) by(17) the(18) hotel(19) 4_times(20) to(21) pick(22) up(23) and(24) 4_times(25) to(26) drop(27) off(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			For(1) those(2) with(3) wheelchairs(4) you(5) have(6) to(7) call(8) at_least(9) 24(10) hours(11) in(12) advance(13) to(14) the(15) shuttle(16) place(17) and(18) tell(19) them(20) when(21) and(22) to(23) which(24) ((25) Disney(26) )(27) park(28) you(29) 're(30) going(31) and(32) they(33) 'll(34) provide(35) you(36) with(37) a(38) special(39) van(40) free(41) of(42) charge(43) as_well(44) .(45) 
+		</sentence>
+		<sentence id="15">
+			We(1) did(2) not(3) do(4) this(5) since(6) we(7) rented(8) a(9) car(10) but(11) it(12) looked(13) good(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			The(1) hotel(2) has(3) three(4) good(5) sized(6) pools(7) ,(8) a(9) little(10) kiddie(11) pool(12) ,(13) and(14) a(15) jacuzzi(16) .(17) 
+			<opinion polarity="+" feature="swimming pool" featWords="7" opWords="5,6"/>
+		</sentence>
+		<sentence id="17">
+			One(1) of(2) the(3) pools(4) has(5) a(6) little(7) waterfall(8) which(9) looks(10) cool(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			The(1) grounds(2) are(3) all(4) nicely(5) landscaped(6) with(7) plenty_of(8) flowers(9) giving(10) off(11) the(12) same(13) lovely(14) aroma(15) as(16) is(17) felt(18) in(19) the(20) rooms(21) .(22) 
+			<opinion polarity="+" feature="grounds" featWords="2" opWords="5,6"/>
+		</sentence>
+		<sentence id="19">
+			There(1) are(2) also(3) two(4) laundry(5) rooms(6) ,(7) an(8) arcade(9) game(10) room(11) ,(12) a(13) playground(14) on(15) sand(16) ,(17) a(18) restaurant(19) ,(20) two(21) bars(22) ,(23) and(24) a(25) deli(26) on(27) property(28) ((29) overpriced(30) )(31) as_well(32) as(33) many(34) little(35) tiki(36) huts(37) to(38) sit(39) in(40) and(41) relax(42) .(43) 
+		</sentence>
+		<sentence id="20">
+			Speaking(1) of(2) the(3) deli(4) ,(5) we(6) ate(7) there(8) twice(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			One(1) time(2) was(3) for(4) a(5) quick(6) breakfast(7) which(8) was(9) extremely(10) expensive(11) .(12) 
+			<opinion polarity="-" feature="price" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="22">
+			I(1) 'm(2) from(3) NYC(4) and(5) am(6) used(7) to(8) high(9) prices(10) but(11) not(12) so(13) high(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			It(1) was(2) around(3) $(4) 8(5) for(6) a(7) small(8) single(9) serve(10) cereal(11) ,(12) a(13) single(14) serving(15) milk(16) bottle(17) ,(18) a(19) bagel(20) and(21) coffee(22) !(23) 
+		</sentence>
+		<sentence id="24">
+			The(1) other(2) time(3) I(4) went(5) there(6) was(7) to(8) get(9) myself(10) a(11) sandwich(12) for(13) lunch(14) since(15) they(16) carry(17) New_York(18) style(19) deli(20) sandwiches(21) ---(22) or(23) so(24) I(25) thought(26) .(27) 
+		</sentence>
+		<sentence id="25">
+			I(1) ordered(2) a(3) roast(4) beef(5) sandwich(6) and(7) to(8) my(9) horror(10) the(11) girl(12) put(13) about(14) a(15) dozen(16) pieces(17) of(18) beef(19) on(20) Wonderbread(21) ,(22) not(23) a(24) roll(25) ,(26) not(27) a(28) hero(29) ,(30) not(31) even(32) toast(33) ,(34) but(35) Wonderbread(36) .(37) 
+		</sentence>
+		<sentence id="26">
+			Thst(1) came(2) out(3) to(4) about(5) $(6) 9(7) !(8) 
+		</sentence>
+		<sentence id="27">
+			Definately(1) avoid(2) the(3) deli(4) .(5) 
+			<opinion polarity="-" feature="hotel" opWords="2"/>
+		</sentence>
+		<sentence id="28">
+			There(1) 's(2) a(3) great(4) pizza(5) place(6) across(7) the(8) street(9) next(10) to(11) the(12) gas(13) station(14) called(15) Flipper_'s_Pizza(16) and(17) they(18) make(19) their(20) pizza(21) and(22) Italian(23) dinners(24) in(25) a(26) brick(27) oven(28) .(29) 
+		</sentence>
+	</text>
+</review>

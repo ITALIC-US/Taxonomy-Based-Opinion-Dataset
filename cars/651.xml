@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="651" item="2001 Plymouth Prowler" rating="3">
+	<title>
+		<sentence id="1">
+			Dissapointing(1) 
+			<opinion polarity="-" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Head(1) turner(2) ,(3) great(4) sound(5) system(6) .(7) 
+			<opinion polarity="+" feature="sound system" featWords="5,6" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Uncomfortable(1) seats(2) ,(3) poor(4) visability(5) .(6) 
+			<opinion polarity="-" feature="seat" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Need(1) to(2) attract(3) attention(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Buy(1) the(2) prowler(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Just(1) do(2) not(3) try(4) to(5) drag(6) race(7) anyone(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Plymouth(2) brand(3) was(4) dropped(5) from(6) the(7) Prowler(8) name(9) ,(10) and(11) it(12) became(13) a(14) Chrysler(15) last(16) year(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			To(1) mark(2) the(3) change(4) ,(5) a(6) new(7) "(8) Mulholland_Edition(9) "(10) was(11) introduced(12) in(13) a(14) dark(15) blue(16) with(17) white(18) pin(19) striping(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Also(1) new(2) was(3) the(4) two(5) new(6) paint(7) schemes(8) for(9) its(10) over-the-top(11) Prowler(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) top(2) of(3) the(4) car(5) being(6) black(7) and(8) the(9) sides(10) are(11) silver(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) "(2) Black_Tie_Edition(3) "(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			It(1) also(2) includes(3) a(4) silver(5) instrument(6) cluster(7) bezel(8) &(9) silver(10) floor(11) mats(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Theres(1) a(2) new(3) color(4) ,(5) Prowler_Orange(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Silver(1) will(2) still(3) be(4) offered(5) ,(6) but(7) red(8) ,(9) yellow(10) ,(11) black(12) and(13) purple(14) are(15) discontinued(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Someone(1) commented(2) as(3) to(4) the(5) reason(6) for(7) the(8) new(9) paint(10) schemes(11) ;(12) "(13) Chrysler(14) might(15) figure(16) it(17) can(18) create(19) more(20) interest(21) if(22) it(23) brings(24) out(25) different(26) colored(27) versions(28) --(29) like(30) Beanie_Babies(31) "(32) .(33) 
+		</sentence>
+		<sentence id="10">
+			Wish(1) it(2) 's(3) performance(4) matched(5) its(6) looks(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) does(2) not(3) live(4) up(5) to(6) expectations(7) on(8) the(9) road(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Modeled(1) after(2) traditional(3) hot(4) rods(5) of(6) the(7) 1950s(8) ,(9) the(10) Prowler(11) is(12) equipped(13) with(14) massive(15) 20-inch(16) chrome(17) wheels(18) in(19) back(20) ,(21) fronts(22) are(23) 17_inch(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			With(1) its(2) extremely(3) high(4) beltline(5) ,(6) you(7) 'll(8) feel(9) like(10) you(11) 're(12) a(13) toddler(14) in(15) a(16) bath(17) tub(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			With(1) the(2) top(3) up(4) ,(5) there(6) is(7) no(8) visibility(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			The(1) retro(2) aluminum(3) bodywork(4) is(5) wrapped(6) around(7) an(8) all-aluminum(9) frame(10) supported(11) by(12) an(13) aluminum(14) four-wheel(15) independent(16) suspension(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Welcomed(1) adjustable(2) dampers(3) let(4) you(5) soften(6) the(7) ride(8) ,(9) as(10) this(11) roadster(12) tends(13) to(14) ride(15) harshly(16) .(17) 
+			<opinion polarity="-" feature="ride quality" opWords="15,16"/>
+		</sentence>
+		<sentence id="17">
+			V6(1) engine(2) ,(3) 253(4) hp(5) and(6) 255(7) foot-pounds(8) of(9) torque(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			No(1) V8(2) and(3) NO_STICK(4) !(5) 
+		</sentence>
+		<sentence id="19">
+			If(1) the(2) styling(3) is(4) not(5) attracting(6) enough(7) attention(8) ,(9) you(10) can(11) crank(12) up(13) the(14) 320-watt(15) Infinity(16) sound(17) system(18) ,(19) with(20) speed-compensated(21) volume(22) control(23) ,(24) to(25) make(26) sure(27) everyone(28) notices(29) you(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			So(1) if(2) youre(3) an(4) old(5) fart(6) ,(7) who(8) needs(9) to(10) attract(11) attention(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Buy(1) the(2) prowler(3) .(4) 
+		</sentence>
+		<sentence id="22">
+			Just(1) do(2) not(3) try(4) to(5) drag(6) race(7) anyone(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 39000(7) Condition(8) :(9) UsedModel_Year(10) :(11) 2001(12) 
+		</sentence>
+	</text>
+</review>

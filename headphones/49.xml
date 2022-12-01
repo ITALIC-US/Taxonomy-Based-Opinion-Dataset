@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="49" item="Sennheiser HD 280 Professional Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) sound(2) isolating(3) headphones(4) that(5) I(6) would(7) not(8) wear(9) in(10) public(11) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Rich(1) sound(2) ,(3) well(4) cushioned(5) ,(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			In(1) my(2) opinion(3) ,(4) extremely(5) ugly(6) and(7) too(8) big(9) to(10) be(11) worn(12) in(13) public(14) 
+			<opinion polarity="-" feature="appearance" opWords="6" potency="5"/>
+			<opinion polarity="-" feature="size" opWords="8,9"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) set(2) for(3) home(4) use(5) if(6) you(7) do(8) not(9) want(10) to(11) be(12) disturbed(13) by(14) extra(15) noise(16) or(17) disturb(18) others(19) ((20) no(21) leaked(22) sound(23) )(24) .(25) 
+			<opinion polarity="+" feature="headphones" featWords="2" featRef="headphones" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Sound(1) quality(2) is(3) phenomenal(4) .(5) 
+			<opinion polarity="+" feature="sound quality" featWords="1,2" opWords="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sennheiser_HD(2) 280(3) Pro(4) headphones(5) sound(6) amazing(7) for(8) their(9) price(10) .(11) 
+			<opinion polarity="+" feature="sound quality" opWords="6,7"/>
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) a(3) big(4) bit(5) and(6) heavy(7) ,(8) and(9) some(10) of(11) my(12) friends(13) have(14) complained(15) that(16) prolonged(17) use(18) of(19) them(20) can(21) put(22) pressure(23) on(24) your(25) head(26) as_well(27) as(28) make(29) your(30) ears(31) a(32) little(33) sweaty(34) .(35) 
+			<opinion polarity="-" feature="weight" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			They(1) are(2) over(3) the(4) ear(5) headphones(6) and(7) do(8) a(9) good(10) job(11) of(12) keeping(13) external(14) noise(15) out(16) and(17) keeping(18) the(19) sound(20) coming(21) out(22) of(23) the(24) headphones(25) in(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			The(1) pads(2) are(3) very(4) large(5) and(6) well(7) cushioned(8) and(9) make(10) for(11) an(12) enjoyable(13) listening(14) experience(15) .(16) 
+			<opinion polarity="+" feature="size" opWords="5" potency="4"/>
+			<opinion polarity="+" feature="earpads" featWords="2" opWords="7,8"/>
+		</sentence>
+		<sentence id="5">
+			The(1) downside(2) of(3) this(4) pair(5) of(6) headphones(7) is(8) their(9) size(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			They(1) are(2) a_bit(3) heavy(4) and(5) they(6) come(7) with(8) a(9) very(10) long(11) telephone(12) style(13) coiled(14) cord(15) .(16) 
+			<opinion polarity="-" feature="weight" opWords="4" potency="3"/>
+			<opinion polarity="+" feature="cord" featWords="15" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="7">
+			Great(1) for(2) home(3) use(4) ,(5) but(6) I(7) would(8) not(9) connect(10) it(11) to(12) my(13) ipod(14) .(15) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+		<sentence id="8">
+			Actually(1) ,(2) with(3) the(4) Sennheiser_HD(5) 280(6) Pros(7) ,(8) you(9) connect(10) your(11) ipod(12) to(13) the(14) headphones(15) ,(16) not(17) vice_versa(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Like(1) the(2) Grado(3) SR-60s(4) ,(5) I(6) keep(7) these(8) for(9) use(10) on(11) the(12) computer(13) and(14) home(15) stereo(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Smaller(1) ,(2) more(3) portable(4) headphones(5) are(6) better(7) for(8) the(9) road(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			Grados(1) stay(2) home(3) because_of(4) the(5) long(6) wire(7) ,(8) however(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Also(1) ,(2) the(3) arch(4) of(5) the(6) headphones(7) is(8) huge(9) !(10) 
+			<opinion polarity="+" feature="size" opWords="9"/>
+		</sentence>
+		<sentence id="13">
+			When(1) I(2) am(3) wearing(4) them(5) ,(6) the(7) arch(8) sticks(9) out(10) from(11) my(12) head(13) about(14) 2_inches(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			You(1) can(2) imagine(3) this(4) looks(5) very(6) funny(7) when(8) you(9) 're(10) walking(11) around(12) on(13) the(14) street(15) wearing(16) these(17) headphones(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			It(1) is(2) a(3) great(4) set(5) to(6) keep(7) at(8) home(9) .(10) 
+			<opinion polarity="+" feature="headphones" featWords="5" featRef="headphones" opWords="4"/>
+		</sentence>
+	</text>
+</review>

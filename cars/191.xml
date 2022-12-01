@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="191" item="2002 Toyota Land Cruiser" rating="4">
+	<title>
+		<sentence id="1">
+			Can(1) you(2) afford(3) it(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) SUV(2) is(3) an(4) 8(5) seater(6) with(7) a(8) V8(9) engine(10) and(11) a(12) smooth(13) ride(14) .(15) 
+			<opinion polarity="+" feature="ride quality" featWords="14" opWords="13"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) price(2) of(3) the(4) SUV(5) and(6) that(7) it(8) does(9) not(10) come(11) with(12) a(13) V6(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great_SUV(1) if(2) you(3) have(4) the(5) money(6) to(7) spend(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Land_Cruiser(2) is(3) a(4) great(5) vehicle(6) with(7) a_lot_of(8) horse(9) power(10) but(11) it(12) is(13) very(14) bulky(15) in(16) size(17) and(18) only(19) comes(20) in(21) a(22) V8(23) which(24) a(25) V6(26) would(27) be(28) nice(29) for(30) the(31) customers(32) that(33) does(34) not(35) want(36) all(37) the(38) horse(39) and(40) the(41) low(42) gas(43) mileage(44) with(45) the(46) V8(47) .(48) 
+			<opinion polarity="+" feature="car" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="gas" featWords="43,44" opWords="42"/>
+		</sentence>
+		<sentence id="2">
+			I(1) rented(2) this(3) vehicle(4) once(5) when(6) I(7) was(8) in(9) Vegas(10) and(11) I(12) was(13) really(14) drawn(15) to(16) it(17) but(18) then(19) I(20) realized(21) every(22) couple(23) of(24) days(25) I(26) had(27) to(28) put(29) gas(30) in(31) it(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			Ouch(1) !(2) !(3) !(4) 
+		</sentence>
+		<sentence id="4">
+			Toyota(1) has(2) done(3) a(4) great(5) job(6) on(7) this(8) SUV(9) and(10) I(11) feel(12) that(13) it(14) is(15) worth(16) every(17) penny(18) but(19) beware(20) that(21) you(22) must(23) be(24) ready(25) to(26) put(27) more(28) into(29) gas(30) than(31) before(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 2000(7) 
+		</sentence>
+	</text>
+</review>

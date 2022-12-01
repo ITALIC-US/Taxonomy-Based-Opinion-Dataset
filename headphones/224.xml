@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="224" item="AKG K 270S Professional Headphones" rating="1">
+	<title>
+		<sentence id="1">
+			Horrible(1) 
+			<opinion polarity="-" feature="appearance" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hollow(1) ,(2) thin(3) sounding(4) ,(5) technically(6) inferior(7) ,(8) specs(9) on(10) website(11) do(12) not(13) agree(14) with(15) box(16) 
+			<opinion polarity="-" feature="sound quality" opWords="1,4"/>
+			<opinion polarity="-" feature="sound quality" opWords="3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Worst(1) piece(2) of(3) electronics(4) ever(5) to(6) come(7) into(8) my(9) experience(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Who(1) are(2) they(3) kidding(4) ?(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Do(1) not(2) ,(3) for(4) any(5) reason(6) ,(7) buy(8) these(9) headphones(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Not(1) even(2) for(3) a(4) fraction(5) of(6) their(7) outrageous(8) published(9) price(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'm(2) a(3) professional(4) musician(5) ,(6) and(7) these(8) things(9) are(10) about(11) as(12) bad(13) as(14) you(15) can(16) imagine(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			They(1) sound(2) like(3) you(4) are(5) listening(6) through(7) a(8) cheap(9) telephone(10) ear(11) piece(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) to(3) turn(4) up(5) my(6) amplifier(7) volume(8) ,(9) then(10) my(11) bass(12) and(13) treble(14) EQ(15) 's(16) ,(17) and(18) they(19) still(20) sounded(21) like(22) trash(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			A(1) little(2) more(3) volume(4) caused(5) them(6) to(7) distort(8) and(9) crackle(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			They(1) come(2) with(3) a(4) mini-plug(5) and(6) an(7) adaptor(8) to(9) turn(10) it(11) into(12) 1/4(13) "(14) plug(15) .(16) This(17) is(18) really(19) cheap(20) .(21) I(22) returned(23) them(24) in(25) a(26) heartbeat(27) .(28) Moreso(29) ,(30) the(31) AKG(32) website(33) states(34) they(35) have(36) a(37) frequency(38) response(39) of(40) 20(41) -(42) 28,000(43) htz(44) ,(45) but(46) the(47) paper(48) specs(49) in(50) the(51) box(52) state(53) it(54) as(55) 20(56) -(57) 20,000(58) htz(59) .(60) Big(61) difference(62) .(63) I(64) still(65) do(66) not(67) know(68) which(69) is(70) the(71) truth(72) .(73) People(74) who(75) claim(76) these(77) headphones(78) are(79) good(80) ,(81) or(82) even(83) decent(84) ,(85) do(86) NOT(87) know(88) what(89) they(90) are(91) talking(92) about(93) ,(94) or(95) have(96) NO(97) frame(98) of(99) reference(100) for(101) sound(102) .(103) IF(104) you(105) gave(106) them(107) to(108) me(109) ,(110) I(111) would(112) throw(113) them(114) away(115) .(116) 
+			<opinion polarity="+" feature="headphones" featWords="78" opWords="80"/>
+		</sentence>
+	</text>
+</review>

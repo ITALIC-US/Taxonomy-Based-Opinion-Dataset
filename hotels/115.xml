@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="115" item="Bev.Garlands Holiday Inn" rating="2">
+	<title>
+		<sentence id="1">
+			Rather(1) far(2) from(3) almost(4) everything(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) Universal_Studios(3) ,(4) cheaper(5) than(6) Hilton(7) or(8) Sheraton(9) ,(10) shuttle(11) to(12) Universal(13) .(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dark(1) ,(2) not(3) close(4) to(5) other(6) potential(7) LA(8) attractions(9) 
+			<opinion polarity="-" feature="hotel" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) going(4) to(5) Universal(6) ,(7) it(8) 's(9) a(10) cheap(11) place(12) to(13) stay(14) .(15) 
+			<opinion polarity="+" feature="price" opWords="11"/>
+		</sentence>
+		<sentence id="2">
+			It(1) might(2) not(3) be(4) worth(5) it(6) though(7) ,(8) as(9) the(10) park(11) 's(12) not(13) that(14) big(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			On(1) a(2) 3(3) day(4) trip(5) to(6) Los_Angeles(7) ,(8) my(9) mom(10) ,(11) brother(12) and(13) I(14) reserved(15) 2(16) rooms(17) through(18) AAA(19) in(20) hopes(21) of(22) seeing(23) Chinatown(24) ,(25) the(26) Walt_Disney_Concert_Hall(27) ,(28) the(29) Getty_Center(30) and(31) Universal_Studios(32) .(33) 
+		</sentence>
+		<sentence id="2">
+			As(1) the(2) last(3) was(4) the(5) main(6) reason(7) why(8) we(9) were(10) going(11) ,(12) we(13) were(14) given(15) this(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Finding_the_Holiday_Inn(1) was(2) relatively(3) painless(4) ,(5) as(6) the(7) sign(8) was(9) seen(10) almost(11) immediately(12) after(13) the(14) freeway(15) exit(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			However(1) ,(2) I(3) have(4) to(5) agree(6) with(7) the(8) other(9) review(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) atmosphere(2) is(3) dark(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			I(1) 'd(2) have(3) thought(4) for(5) Hollywood(6) the(7) lighting(8) would(9) be(10) better(11) ,(12) but(13) the(14) colors(15) were(16) of(17) mahogany(18) wood(19) ,(20) red(21) carpet(22) ,(23) etc.(24) It(25) was(26) just(27) dark(28) .(29) 
+			<opinion polarity="-" feature="hotel" featWords="25" featRef="hotel" opWords="28"/>
+		</sentence>
+		<sentence id="7">
+			The(1) building(2) seems(3) to(4) be(5) older(6) too(7) ,(8) but(9) in(10) good(11) condition(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Check(1) in(2) time(3) was(4) 3(5) PM._My(6) mother(7) dropped(8) me(9) and(10) my(11) brother(12) off(13) to(14) wait(15) at(16) the(17) hotel(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			After(1) he(2) and(3) I(4) returned(5) ,(6) we(7) found(8) it(9) a(10) little(11) difficult(12) to(13) find(14) the(15) room(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Neither(1) the(2) hotel(3) directory(4) nor(5) did(6) the(7) papers(8) with(9) our(10) key(11) card(12) indicate(13) which(14) building(15) we(16) would(17) be(18) in(19) ,(20) either(21) the(22) Portola(23) or(24) El_Dorado(25) .(26) ((27) El_Dorado(28) has(29) rooms(30) with(31) numbers(32) 00-49(33) ,(34) Portola(35) 50-99(36) )(37) Minor(38) inconvinience(39) ,(40) but(41) it(42) could(43) not(44) have(45) hurt(46) to(47) indicate(48) that(49) when(50) given(51) our(52) key(53) cards(54) !(55) 
+		</sentence>
+		<sentence id="11">
+			It(1) also(2) turned(3) out(4) that(5) since(6) we(7) could(8) not(9) check(10) in(11) at(12) first(13) ,(14) the(15) hotel(16) took(17) our(18) luggage(19) to(20) put(21) in(22) our(23) rooms(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			My(1) mom(2) found(3) out(4) the(5) rooms(6) had(7) been(8) mixed(9) up(10) and(11) our(12) luggage(13) was(14) in(15) the(16) wrong(17) rooms(18) !(19) !(20) 
+		</sentence>
+		<sentence id="13">
+			After(1) our(2) luggage(3) had(4) been(5) moved(6) it(7) turned(8) out(9) the(10) Holiday_Inn(11) could(12) not(13) give(14) us(15) an(16) adjoining(17) room(18) despite(19) the(20) booking(21) through(22) AAA(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) room(2) my(3) brother(4) and(5) I(6) were(7) in(8) were(9) adequate(10) .(11) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="15">
+			More(1) than(2) enough(3) towels(4) and(5) cups(6) ,(7) 2(8) spacious(9) beds(10) and(11) an(12) adequate(13) view(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Everything(1) seemed(2) relatively(3) clean(4) .(5) 
+			<opinion polarity="+" feature="hotel" opWords="4"/>
+		</sentence>
+		<sentence id="17">
+			The(1) only(2) oddity(3) my(4) brother(5) and(6) I(7) found(8) was(9) that(10) there(11) was(12) a(13) sink(14) inside(15) AND(16) outside(17) the(18) bathroom(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			Why(1) have(2) 2(3) ?(4) 
+		</sentence>
+		<sentence id="19">
+			It(1) just(2) seemed(3) strange(4) ,(5) although(6) typically(7) the(8) room(9) was(10) for(11) 4(12) people(13) ,(14) at_least(15) according_to(16) the(17) bed(18) size(19) .(20) 
+		</sentence>
+		<sentence id="20">
+			This(1) Holiday_Inn(2) indicates(3) it(4) does(5) its(6) best(7) to(8) conserve(9) water(10) and(11) detergent(12) by(13) changing(14) rooms(15) for(16) those(17) staying(18) beyond(19) 1(20) night(21) every(22) 3(23) days(24) .(25) 
+		</sentence>
+		<sentence id="21">
+			You(1) can(2) indicate(3) you(4) wish(5) your(6) room(7) to(8) be(9) cleaned(10) by(11) putting(12) a(13) sign(14) outside(15) the(16) door(17) ,(18) and(19) we(20) found(21) the(22) maid(23) would(24) do(25) so(26) accordingly(27) .(28) 
+		</sentence>
+		<sentence id="22">
+			The(1) hotel(2) restaurant(3) ,(4) the(5) Paradise(6) ,(7) had(8) decent(9) food(10) .(11) 
+			<opinion polarity="+" feature="food" featWords="10" opWords="9"/>
+		</sentence>
+		<sentence id="23">
+			Not(1) great(2) ,(3) but(4) edible(5) and(6) good(7) for(8) the(9) price(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			The(1) servers(2) are(3) friendly(4) ,(5) but(6) when(7) busy(8) it(9) can(10) be(11) hard(12) to(13) get(14) someone(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			We(1) ate(2) there(3) for(4) dinner(5) once(6) and(7) breakfast(8) twice(9) ,(10) and(11) found(12) the(13) food(14) generally(15) good(16) .(17) 
+			<opinion polarity="+" feature="food" featWords="14" opWords="16"/>
+		</sentence>
+		<sentence id="26">
+			The(1) front(2) desk(3) staff(4) was(5) very(6) friendly(7) and(8) helpful(9) in(10) giving(11) directions(12) to(13) the(14) various(15) locations(16) we(17) needed(18) to(19) go-Universal(20) Studios(21) ,(22) Chinatown(23) ,(24) Mann_'s_Chinese_Theatre(25) and(26) the(27) Walk_of_Fame(28) ,(29) the(30) Getty_Center(31) ,(32) the(33) Walt_Disney_Music_Hall(34) and(35) Los_Angeles_International_Airport(36) .(37) 
+			<opinion polarity="+" feature="staff" featWords="4" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="staff" featWords="4" opWords="9"/>
+		</sentence>
+		<sentence id="27">
+			They(1) have(2) little(3) printed(4) squares(5) of(6) paper(7) that(8) give(9) you(10) step(11) by(12) step(13) instructions(14) and(15) are(16) happy(17) to(18) draw(19) it(20) out(21) on(22) a(23) map(24) for(25) you(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			Amenities(1) include(2) a(3) pool(4) ,(5) spa(6) and(7) workout(8) room(9) .(10) 
+		</sentence>
+		<sentence id="29">
+			Key(1) cards(2) are(3) needed(4) for(5) access(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			There(1) is(2) a(3) Rite-Aid(4) ,(5) a(6) grocery(7) store(8) ,(9) Togos(10) ,(11) Starbucks(12) ,(13) Baskin_Robbins(14) along(15) the(16) way(17) to(18) Universal(19) from(20) the(21) Holiday_Inn(22) ,(23) so_that(24) was(25) helpful(26) when(27) we(28) got(29) sick(30) of(31) fast(32) /(33) hotel(34) food(35) .(36) 
+		</sentence>
+		<sentence id="31">
+			Except_for(1) Universal_Studios(2) ,(3) everything(4) else(5) was(6) pretty(7) far(8) away(9) and(10) needed(11) the(12) freeways(13) to(14) get(15) to(16) .(17) 
+		</sentence>
+		<sentence id="32">
+			The(1) shuttle(2) to(3) Universal_Studios(4) runs(5) continuously(6) throughout(7) the(8) day(9) ,(10) starting(11) from(12) 9(13) AM(14) to(15) 8(16) PM(17) ,(18) although(19) we(20) had(21) trouble(22) locating(23) the(24) returning(25) one(26) at(27) Universal(28) .(29) 
+		</sentence>
+		<sentence id="33">
+			I(1) would(2) not(3) really(4) recommend(5) it(6) if(7) your(8) point(9) is(10) going(11) to(12) Universal_Studios(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			The(1) park(2) is(3) relatively(4) small(5) in(6) comparison(7) to(8) say(9) Disneyland(10) or(11) Great_America(12) ,(13) so(14) you(15) might(16) spend(17) a(18) day(19) at(20) the(21) most(22) there(23) ,(24) but(25) I(26) suppose(27) it(28) depends(29) how(30) interested(31) you(32) are(33) in(34) Universal(35) 's(36) movies(37) .(38) 
+		</sentence>
+		<sentence id="35">
+			As(1) of(2) this(3) writing(4) ,(5) they(6) still(7) had(8) attractions(9) that(10) tied(11) into(12) the(13) following(14) movies(15) including(16) :(17) The(18) Mummy(19) ,(20) The_Chronicles_of_Riddick(21) ,(22) Jurassic_Park(23) ,(24) Waterworld(25) ,(26) etc.(27) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="251" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Buy(1) it(2) ,(3) Love(4) it(5) ,(6) Need(7) it(8) 
+			<opinion polarity="+" feature="car" featWords="5" featRef="car" opWords="4"/>
+			<opinion polarity="+" feature="car" featWords="2" featRef="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			style(1) ,(2) power(3) ,(4) comfort(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			speeding(1) tickets(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) needed(3) a(4) new(5) car(6) this(7) summer(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Her(1) 95(2) '(3) Grand_Am(4) was(5) getting(6) a(7) few(8) miles(9) on(10) it(11) ,(12) and(13) was(14) ready(15) for(16) a(17) trade(18) in(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			We(1) went(2) out(3) looking(4) for(5) a(6) vehicle(7) that(8) was(9) a(10) step(11) or(12) two(13) up(14) from(15) this(16) one(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			We(1) concentrated(2) on(3) the(4) Toyota_Camry(5) ,(6) Mazda(7) 626(8) ,(9) Honda_Accord(10) ,(11) Nissan_Maxima(12) ,(13) and(14) a(15) few(16) GM(17) models(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			It(1) did(2) not(3) take(4) long(5) to(6) see(7) that(8) the(9) Maxima(10) was(11) head(12) and(13) shoulders(14) above(15) the(16) rest(17) of(18) them(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			This(1) car(2) had(3) more(4) power(5) ,(6) style(7) ,(8) room(9) ,(10) and(11) most(12) importantly(13) ,(14) attitude(15) than(16) anything(17) else(18) in(19) its(20) class(21) or(22) price(23) range(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			With(1) over(2) 220hp(3) ,(4) you(5) 'd(6) never(7) know(8) this(9) car(10) is(11) a(12) four(13) door(14) sedan(15) !(16) 
+		</sentence>
+		<sentence id="8">
+			I(1) could(2) not(3) believe(4) how(5) much(6) power(7) this(8) car(9) has(10) on(11) tap(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			It(1) runs(2) like(3) a(4) sports(5) car(6) ,(7) seats(8) 5(9) people(10) without(11) being(12) crowded(13) ,(14) and(15) still(16) manages(17) to(18) get(19) excellent(20) mileage(21) .(22) 
+			<opinion polarity="+" feature="gas" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="10">
+			The(1) ride(2) is(3) nice(4) and(5) especially(6) quiet(7) .(8) 
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="ride quality" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			You(1) will(2) not(3) be(4) feeling(5) tar(6) strips(7) or(8) hear(9) the(10) wind(11) shreaking(12) by(13) in(14) the(15) Maxima(16) !(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) other(2) thing(3) that(4) makes(5) this(6) car(7) stand(8) out(9) is(10) its(11) aggressive(12) styling(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Nissan(1) managed(2) to(3) give(4) this(5) car(6) a(7) look(8) that(9) is(10) the(11) perfect(12) balance(13) between(14) "(15) luxury(16) "(17) and(18) "(19) sporty(20) "(21) .(22) 
+		</sentence>
+		<sentence id="14">
+			Personally(1) ,(2) Camry(3) 's(4) put(5) me(6) to(7) sleep(8) with(9) their(10) looks(11) ,(12) and(13) the(14) Accord(15) is(16) not(17) too(18) far(19) ahead(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			The(1) Maxima(2) just(3) shouts(4) "(5) let(6) go(7) ,(8) right(9) now(10) !(11) !(12) !(13) "(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			If(1) your(2) looking(3) for(4) a(5) four(6) door(7) for(8) yourself(9) or(10) your(11) spouse(12) that(13) will(14) not(15) make(16) you(17) feel(18) like(19) your(20) getting(21) old(22) ,(23) this(24) is(25) it(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			do(1) not(2) buy(3) it(4) if(5) your(6) looking(7) to(8) tone(9) down(10) your(11) image(12) ,(13) or(14) your(15) heart(16) rate(17) !(18) 
+		</sentence>
+		<sentence id="18">
+			I(1) 'd(2) have(3) to(4) rate(5) this(6) as(7) the(8) best(9) combination(10) grocery(11) getter(12) /(13) sports(14) car(15) I(16) 've(17) seen(18) .(19) 
+		</sentence>
+	</text>
+</review>

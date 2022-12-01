@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="462" item="Sennheiser HD 25 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Designed(1) with(2) the(3) DJ(4) in(5) mind(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Full(1) immersion(2) in(3) a(4) big(5) sound(6) ,(7) comfortable(8) ,(9) flexible(10) ((11) literally(12) )(13) ,(14) durable(15) .(16) 
+			<opinion polarity="+" feature="sound quality" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="comfort" opWords="8"/>
+			<opinion polarity="+" feature="durability" opWords="10"/>
+			<opinion polarity="+" feature="durability" opWords="15"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) to(2) speak(3) of(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Superb(1) sound(2) quality(3) ,(4) comfort(5) and(6) flexibility(7) for(8) DJs(9) ,(10) either(11) professionals(12) or(13) enthusiasts(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="+" feature="comfort" featWords="5" opWords="1"/>
+			<opinion polarity="+" feature="durability" featWords="7" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) any(2) DJ(3) worth(4) his(5) reputation(6) knows(7) ,(8) the(9) headphones(10) you(11) use(12) are(13) almost(14) as(15) important(16) as(17) the(18) records(19) you(20) play(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Although(1) you(2) can(3) pretty(4) much(5) use(6) any(7) pair(8) of(9) '(10) phones(11) for(12) monitoring(13) your(14) mixing(15) ,(16) there(17) are(18) certain(19) factors(20) that(21) optimise(22) the(23) experience(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			It(1) just(2) so(3) happens(4) that(5) the(6) HD(7) 25s(8) are(9) excellent(10) in(11) the(12) areas(13) I(14) speak(15) of(16) :(17) Comfort(18) :(19) the(20) band(21) at(22) the(23) top(24) of(25) the(26) headphones(27) is(28) flat(29) and(30) quite(31) wide(32) ,(33) making(34) it(35) comfortable(36) on(37) even(38) the(39) baldest(40) head(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			The(1) cans(2) themselves(3) have(4) very(5) soft(6) padding(7) around(8) the(9) rims(10) so(11) they(12) sit(13) well(14) on(15) the(16) ears(17) .(18) 
+			<opinion polarity="+" feature="earpads" featWords="7" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			After(1) wearing(2) them(3) consistently(4) for(5) a(6) number(7) of(8) hours(9) ,(10) my(11) ears(12) did(13) begin(14) to(15) ache(16) a_bit(17) but(18) that(19) 's(20) true(21) of(22) any(23) headphone(24) -(25) you(26) do(27) need(28) to(29) move(30) them(31) around(32) occasionally(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			Flexibility(1) :(2) heads(3) come(4) in_all(5) sort(6) of(7) shapes(8) and(9) sizes(10) and(11) ,(12) to(13) cope(14) with(15) this(16) ,(17) the(18) HD(19) 25s(20) can(21) be(22) moulded(23) to(24) suit(25) your(26) particular(27) ((28) or(29) maybe(30) peculiar(31) )(32) bonce(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			The(1) band(2) across(3) the(4) top(5) can(6) be(7) split(8) and(9) the(10) two(11) sections(12) rotate(13) about(14) the(15) cans(16) ((17) as(18) illustrated(19) in(20) the(21) picture(22) )(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) distance(2) between(3) the(4) top(5) of(6) the(7) band(8) and(9) the(10) cans(11) themselves(12) can(13) also(14) be(15) adjusted(16) to(17) accommodate(18) the(19) biggest(20) DJ(21) 's(22) ego(23) ...(24) er(25) ,(26) I(27) mean(28) head(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			Additionally(1) ,(2) one(3) of(4) the(5) cans(6) can(7) be(8) rotated(9) so_that(10) it(11) does(12) not(13) cover(14) one(15) ear(16) ,(17) an(18) interesting(19) feature(20) which(21) takes(22) some(23) getting(24) used(25) to(26) if(27) you(28) do(29) the(30) more(31) common(32) '(33) one(34) on(35) the(36) ear(37) ,(38) one(39) on(40) the(41) cheek(42) '(43) method(44) .(45) 
+		</sentence>
+		<sentence id="10">
+			Sound_Quality(1) /(2) Response(3) :(4) These(5) are(6) the(7) best(8) pair(9) of(10) headphones(11) I(12) 've(13) experienced(14) when(15) it(16) comes(17) to(18) frequency(19) response(20) and(21) ,(22) once(23) again(24) ,(25) they(26) prove(27) they(28) 've(29) been(30) made(31) with(32) the(33) DJ(34) in(35) mind(36) .(37) 
+			<opinion polarity="+" feature="headphones" featWords="11" opWords="8"/>
+		</sentence>
+		<sentence id="11">
+			Of(1) course(2) the(3) most(4) important(5) element(6) of(7) the(8) sound(9) for(10) a(11) dance(12) DJ(13) particularly(14) is(15) the(16) bass(17) kick(18) and(19) the(20) HD(21) 25s(22) reproduce(23) the(24) sound(25) with(26) aplomb(27) .(28) 
+		</sentence>
+		<sentence id="12">
+			The(1) sound(2) is(3) never(4) dull(5) or(6) blurred(7) -(8) it(9) 's(10) sharp(11) and(12) punchy(13) .(14) the(15) high-end(16) response(17) is(18) less(19) impressive(20) but(21) that(22) matters(23) less(24) in(25) this(26) environment(27) .(28) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4,5"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="4,7"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="11"/>
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="13"/>
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) definitely(3) a(4) pair(5) of(6) headphones(7) you(8) 'll(9) wear(10) inside(11) -(12) you(13) 'll(14) look(15) like(16) a(17) try-hand(18) wally(19) if(20) you(21) wear(22) them(23) on(24) the(25) train(26) ((27) not(28) that(29) I(30) 've(31) tried(32) ...(33) )(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) they(3) do(4) a(5) superb(6) job(7) specifically(8) as(9) DJ(10) monitors(11) and(12) also(13) for(14) use(15) with(16) a(17) computer(18) -(19) the(20) soundscape(21) created(22) by(23) the(24) HD(25) 25s(26) makes(27) them(28) superb(29) for(30) games(31) playing(32) .(33) 
+		</sentence>
+		<sentence id="15">
+			Less(1) expensive(2) that(3) the(4) really(5) high-end(6) equipment(7) but(8) perfect(9) for(10) the(11) enthusiast(12) .(13) 
+		</sentence>
+	</text>
+</review>

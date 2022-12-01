@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="208" item="Creative Technology HN-700 Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Creative_Labs(1) HN700(2) Headphones(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Folds(1) up(2) ,(3) removable(4) audio(5) cord(6) ,(7) inexpensive(8) 
+			<opinion polarity="+" feature="portability" opWords="1,2"/>
+			<opinion polarity="+" feature="cord" featWords="5,6" opWords="4"/>
+			<opinion polarity="+" feature="price" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) audio(2) quality(3) ,(4) poor(5) noise(6) cancelling(7) ,(8) uncomfortable(9) 
+			<opinion polarity="-" feature="sound quality" featWords="2,3" opWords="1"/>
+			<opinion polarity="-" feature="isolation" featWords="6,7" opWords="5"/>
+			<opinion polarity="-" feature="comfort" opWords="9"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) changes(2) one(3) kind(4) of(5) noise(6) to(7) another(8) kind(9) of(10) noise(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			It(1) creates(2) its(3) own(4) ambient(5) background(6) shhhhhh(7) /(8) hiss(9) type(10) white(11) noise(12) that(13) is(14) always(15) apparent(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Even(1) when(2) used(3) in(4) an(5) environment(6) where(7) it(8) 's(9) already(10) very(11) quiet(12) ,(13) the(14) HN700(15) circuitry(16) is(17) busy(18) generating(19) noise(20) ,(21) hence(22) detracting(23) from(24) its(25) usefulness(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			When(1) the(2) HN700(3) is(4) off(5) ,(6) music(7) sounds(8) dull(9) /(10) muffled(11) as_if(12) a(13) pillow(14) were(15) covering(16) the(17) speakers(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Highs(1) seem(2) improved(3) when(4) the(5) device(6) is(7) activated(8) but(9) sound(10) quality(11) is(12) overall(13) pretty(14) bad(15) .(16) 
+			<opinion polarity="-" feature="sound quality" featWords="10,11" opWords="15" potency="14"/>
+		</sentence>
+		<sentence id="6">
+			One(1) thing(2) about(3) noise(4) cancelling(5) headphones(6) is(7) that(8) you(9) 're(10) likely(11) to(12) be(13) wearing(14) them(15) for(16) a(17) awhile(18) ,(19) and(20) so(21) comfort(22) issues(23) become(24) critical(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			The(1) HN700(2) 's(3) were(4) tight(5) around(6) my(7) head(8) and(9) made(10) my(11) ears(12) hurt(13) after(14) an(15) hour(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			There(1) was(2) no(3) way(4) to(5) adjust(6) the(7) squeeze(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			Would(1) be(2) nice(3) if(4) the(5) plug-in(6) jack(7) was(8) on(9) both(10) sides(11) of(12) the(13) headphones(14) to(15) accomodate(16) different(17) seating(18) /(19) equipment(20) arrangements(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			Would(1) be(2) nice(3) if(4) the(5) device(6) turned(7) itself(8) off(9) if(10) it(11) was(12) not(13) on(14) your(15) head(16) for(17) a(18) period(19) of(20) time(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			The(1) instruction(2) manual(3) is(4) nothing(5) more(6) than(7) a(8) few(9) blurbs(10) on(11) a(12) cardboard(13) insert(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			No(1) mention(2) of(3) the(4) noise(5) cancelling(6) capability(7) or(8) battery(9) life(10) expectancy(11) .(12) 
+		</sentence>
+	</text>
+</review>

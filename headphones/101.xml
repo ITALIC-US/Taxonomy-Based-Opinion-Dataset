@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="101" item="Sennheiser HD 280 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) price(2) for(3) such(4) great(5) headphones(6) !(7) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="headphones" featWords="6" opWords="5"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sound(1) ,(2) Comfortable(3) ,(4) good(5) range(6) ,(7) good(8) price(9) 
+			<opinion polarity="+" feature="comfort" opWords="3"/>
+			<opinion polarity="+" feature="range" featWords="6" opWords="5"/>
+			<opinion polarity="+" feature="price" featWords="9" opWords="8"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) portable(2) 
+			<opinion polarity="-" feature="portability" opWords="1,2"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) just(2) bought(3) these(4) headphones(5) recently(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			At(1) first(2) they(3) are(4) not(5) very(6) comfortable(7) because(8) the(9) ear(10) cups(11) feel(12) real(13) hard(14) .(15) 
+			<opinion polarity="-" feature="comfort" opWords="5,7" potency="6"/>
+		</sentence>
+		<sentence id="3">
+			After(1) breaking(2) into(3) them(4) ,(5) they(6) are(7) super(8) comfortable(9) .(10) 
+			<opinion polarity="+" feature="comfort" opWords="9"/>
+		</sentence>
+		<sentence id="4">
+			These(1) headphones(2) are(3) pretty(4) big(5) though(6) .(7) 
+			<opinion polarity="-" feature="size" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			That(1) is(2) the(3) only(4) downside(5) to(6) it(7) as(8) I(9) see(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Comparing(1) these(2) to(3) some(4) Sony_DJ(5) headphones(6) ,(7) they(8) provide(9) better(10) bass(11) and(12) overall(13) just(14) better(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			For(1) a(2) price(3) of(4) %85.00(5) ,(6) it(7) sure(8) is(9) worth(10) it(11) !(12) !(13) 
+		</sentence>
+	</text>
+</review>

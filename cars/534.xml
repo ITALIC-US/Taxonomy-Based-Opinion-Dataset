@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="534" item="2000 Jaguar XK" rating="3">
+	<title>
+		<sentence id="1">
+			Jaguar_XK_Series(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Jaguar_XK_Series_If(1) your(2) going(3) to(4) spend(5) this(6) much(7) on(8) a(9) Jag_Coupe(10) or(11) Convertible(12) go(13) for(14) the(15) XKR(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) an(3) awesome(4) 370(5) horse(6) power(7) Super_Charged(8) V8(9) engine(10) that(11) 's(12) a_real(13) screamer(14) .(15) 
+			<opinion polarity="+" feature="engine" featWords="10" opWords="4"/>
+		</sentence>
+		<sentence id="3">
+			And(1) the(2) performance(3) is(4) great(5) too(6) ,(7) 0-60(8) in(9) 5.0_seconds(10) for(11) the(12) coupe(13) and(14) convertible(15) .(16) 
+			<opinion polarity="+" feature="performance" featWords="3" opWords="5"/>
+		</sentence>
+		<sentence id="4">
+			And(1) the(2) interior(3) is(4) all(5) british(6) with(7) it(8) 's(9) burl(10) waltnut(11) dash(12) and(13) conolly(14) leather(15) seats(16) .(17) 
+			<opinion polarity="+" feature="seat" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="5">
+			And(1) get(2) the(3) Navigation(4) system(5) because(6) it(7) looks(8) like(9) a(10) James_Bond_Car(11) with(12) the(13) LCD(14) in(15) the(16) center(17) of(18) the(19) Burl_Walnut_Dashboard(20) ((21) It(22) 's(23) sweet(24) !(25) )(26) The(27) only(28) set(29) back(30) is(31) the(32) price(33) !(34) !(35) 
+			<opinion polarity="+" feature="car" opWords="24"/>
+		</sentence>
+		<sentence id="6">
+			IT(1) IS_WAY_WAY_WAY_WAY_WAY_TOO_HIGH(2) !(3) !(4) !(5) !(6) !(7) 
+		</sentence>
+	</text>
+</review>

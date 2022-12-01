@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="570" item="Bose TriPort Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) cheap(4) construction(5) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="durability" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) sound(2) ,(3) great(4) reputation(5) .(6) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) components(2) /(3) plastic(4) where(5) there(6) should(7) be(8) nylon(9) or(10) metal(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Bought(1) these(2) as(3) a(4) gift(5) for(6) my(7) son(8) who(9) loves(10) listening(11) to(12) music(13) on(14) his(15) computer(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			He(1) 's(2) delivered(3) them(4) to(5) me(6) twice(7) in(8) the(9) last(10) month(11) ,(12) with(13) the(14) plastic(15) head(16) band(17) in(18) one(19) hand(20) ,(21) the(22) earpiece(23) in(24) the(25) other(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			Cheap(1) plastic(2) headband(3) attachments(4) which(5) can(6) not(7) hold(8) up(9) under(10) stress(11) ((12) I(13) think(14) my(15) plastic(16) spoon(17) in(18) my(19) lunch(20) box(21) is(22) better(23) quality(24) !(25) )(26) .(27) 
+			<opinion polarity="-" feature="headband" featWords="3" opWords="1"/>
+			<opinion polarity="-" feature="headband" featWords="3" opWords="2"/>
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) sent(3) an(4) email(5) to(6) Bose(7) ,(8) as(9) I(10) 'm(11) not(12) the(13) type(14) that(15) keeps(16) receipts(17) and(18) warranty(19) cards(20) on(21) things(22) I(23) believe(24) to(25) be(26) high(27) quality(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			My(1) mistake(2) .(3) 
+		</sentence>
+		<sentence id="6">
+			Would(1) probably(2) be(3) great(4) for(5) a(6) small(7) child(8) ,(9) with(10) a(11) small(12) head(13) ,(14) who(15) acted(16) like(17) a(18) 60(19) year(20) old(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Anyone(1) with(2) a(3) large(4) head(5) ,(6) forget(7) it(8) .(9) 
+		</sentence>
+	</text>
+</review>

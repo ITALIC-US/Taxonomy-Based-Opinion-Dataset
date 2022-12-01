@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="527" item="Sennheiser HDC 451 Consumer Headphones" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) attenuation(2) in(3) noisy(4) environs(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) good(2) NC(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			do(1) not(2) sound(3) good(4) in(5) quiet(6) environment(7) ;(8) they(9) 'll(10) buffet(11) in(12) a(13) breeze(14) 
+			<opinion polarity="-" feature="sound quality" opWords="2,3,4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Recommend(1) them(2) if(3) you(4) know(5) and(6) understand(7) the(8) noisy(9) environment(10) they(11) 're(12) intended(13) to(14) be(15) used(16) in(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) owned(3) the(4) Noisebuster(5) and(6) the(7) Sony_NC(8) headphones(9) ,(10) and(11) bought(12) these(13) to(14) replace(15) a(16) B(17) /(18) O_Noisebuster(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) needed(2) a(3) pair(4) to(5) hear(6) quiet(7) music(8) while(9) going(10) for(11) a(12) walk(13) on(14) noisy(15) streets(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			These(1) work(2) adequately(3) for(4) that(5) purpose(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			For(1) my(2) noisy(3) office(4) ((5) lots(6) of(7) computer(8) fan(9) noise(10) )(11) they(12) work(13) very(14) well(15) ,(16) outperforming(17) the(18) other(19) two(20) brands(21) .(22) 
+			<opinion polarity="+" feature="headphones" featWords="12" featRef="headphones" opWords="13,15" potency="14"/>
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) to(3) modify(4) them(5) for(6) walking(7) in(8) a(9) gentle(10) breeze(11) because(12) the(13) NC(14) microphones(15) are(16) located(17) on(18) the(19) outside_of(20) the(21) earcups(22) and(23) pick(24) up(25) the(26) wind(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			I(1) bought(2) a(3) pair(4) of(5) earphone(6) cushions(7) for(8) $(9) 3(10) at(11) RatShack(12) and(13) cut(14) and(15) glued(16) the(17) pads(18) to(19) the(20) outside_of(21) the(22) cups(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			Problem(1) solved(2) .(3) 
+		</sentence>
+		<sentence id="8">
+			The(1) listening(2) is(3) not(4) good(5) enough(6) for(7) a(8) quiet(9) environment(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			A(1) male(2) singing(3) voice(4) is(5) attenuated(6) too(7) much(8) from(9) what(10) it(11) 's(12) supposed(13) to(14) be(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			For(1) the(2) purpose(3) they(4) 're(5) intended(6) ,(7) they(8) are(9) very(10) satisfactory(11) !(12) 
+			<opinion polarity="+" feature="headphones" featWords="8" featRef="headphones" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="11">
+			The(1) cord(2) is(3) a(4) little(5) short(6) though(7) .(8) 
+			<opinion polarity="-" feature="cord" featWords="2" opWords="6" potency="5"/>
+		</sentence>
+	</text>
+</review>

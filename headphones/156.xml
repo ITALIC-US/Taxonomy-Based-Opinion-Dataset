@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="156" item="Philips HP-170 Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			OK(1) for(2) the(3) money(4) -(5) but(6) spend(7) more(8) !(9) 
+			<opinion polarity="+" feature="headphones" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Long(1) cord(2) ,(3) stereo(4) /(5) mono(6) switch(7) ,(8) fairly(9) comfortable(10) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="comfort" opWords="10" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) a(2) snug(3) fit(4) ,(5) sound(6) is(7) so-so(8) 
+			<opinion polarity="-" feature="sound quality" featWords="6" opWords="8"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) purchased(2) these(3) based(4) on(5) the(6) other(7) opinions(8) here(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Great(1) sound(2) at(3) around(4) 20(5) bucks(6) sounds(7) nice(8) .(9) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 'm(2) kind(3) of(4) disappointed(5) in(6) them(7) though(8) ,(9) so(10) I(11) 'm(12) taking(13) them(14) back(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			If(1) the(2) bass(3) is(4) turned(5) up(6) slightly(7) and(8) the(9) treble(10) is(11) turned(12) up(13) quite(14) a_bit(15) ,(16) they(17) sound(18) pretty(19) nice(20) .(21) 
+			<opinion polarity="+" feature="sound quality" opWords="18,20" potency="19"/>
+		</sentence>
+		<sentence id="5">
+			Listening(1) to(2) them(3) flat(4) though(5) ,(6) they(7) sound(8) muddy(9) to(10) me(11) .(12) 
+			<opinion polarity="-" feature="sound quality" opWords="8,9"/>
+		</sentence>
+		<sentence id="6">
+			The(1) highs(2) are(3) not(4) as(5) crisp(6) as(7) I(8) would(9) like(10) and(11) the(12) mid-lows(13) are(14) overwhelming(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			They(1) have(2) a(3) 9.8_foot(4) cord(5) that(6) I(7) like(8) quite(9) a_bit(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			They(1) are(2) light(3) and(4) comfortable(5) ,(6) but(7) they(8) do(9) not(10) have(11) a(12) snug(13) fit(14) and(15) there(16) are(17) gaps(18) between(19) the(20) phones(21) and(22) my(23) head(24) which(25) may(26) account(27) for(28) some(29) lacking(30) sound(31) .(32) 
+			<opinion polarity="+" feature="weight" opWords="3"/>
+			<opinion polarity="+" feature="comfort" opWords="5"/>
+		</sentence>
+	</text>
+</review>

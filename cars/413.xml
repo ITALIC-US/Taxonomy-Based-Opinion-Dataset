@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="413" item="2001 Honda Accord" rating="4">
+	<title>
+		<sentence id="1">
+			What(1) a(2) great(3) little(4) car(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Gas(1) mileage(2) .(3) maneuverability(4) ,(5) comfort(6) ,(7) roomy(8) seating(9) area(10) ,(11) HUGE(12) trunk(13) .(14) 
+			<opinion polarity="+" feature="trunk" featWords="13" opWords="12"/>
+		</sentence>
+		<sentence id="2">
+			Sun(1) /(2) Moon(3) roof(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cup(1) holder(2) placement(3) ,(4) no(5) tinted(6) glass(7) ,(8) mirrors(9) could(10) be(11) taller(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Higher(1) insurance(2) rate(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) vehicle(2) .(3) 
+			<opinion polarity="+" feature="car" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) value(2) and(3) gas(4) mileage(5) .(6) 
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Looks(1) and(2) runs(3) great(4) .(5) 
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+			<opinion polarity="+" feature="design" opWords="1,4"/>
+		</sentence>
+		<sentence id="4">
+			Fun(1) to(2) drive(3) .(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			7/5/07(1) -(2) UPDATED(3) REVIEW(4) :(5) After(6) having(7) an(8) accident(9) that(10) totaled(11) out(12) the(13) 1999(14) Chevy_Silverado(15) that(16) I(17) was(18) driving(19) ,(20) ((21) which(22) ,(23) by(24) the(25) way(26) was(27) a(28) good(29) truck(30) )(31) in_order_to(32) save(33) some(34) money(35) on(36) gas(37) ,(38) I(39) bought(40) a(41) 2001(42) Honda_Accord_EX_Sedan(43) .(44) 
+		</sentence>
+		<sentence id="2">
+			What(1) a(2) great(3) little(4) car(5) !(6) 
+			<opinion polarity="+" feature="car" featWords="5" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			I(1) 've(2) not(3) had(4) it(5) very(6) long(7) ,(8) but(9) my(10) husband(11) has(12) decided(13) that(14) when(15) the(16) little(17) Ford_Escort(18) he(19) drives(20) bites(21) the(22) dust(23) ,(24) he(25) 's(26) going(27) to(28) get(29) an(30) Accord(31) as_well(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			This(1) car(2) had(3) 93,519_miles(4) when(5) I(6) bought(7) it(8) and(9) it(10) drove(11) and(12) rode(13) like(14) a(15) brand(16) new(17) car(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) doors(2) sounded(3) like(4) they(5) were(6) on(7) a(8) brand(9) new(10) vehicle(11) when(12) you(13) shut(14) them(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) was(2) just(3) looking(4) for(5) something(6) economical(7) to(8) get(9) back_and_forth(10) to(11) work(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			I(1) was(2) lucky(3) to(4) get(5) it(6) at(7) about(8) $1,500(9) under(10) book(11) price(12) from(13) an(14) individual(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			He(1) had(2) just(3) bought(4) a(5) new(6) one(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			I(1) think(2) he(3) said(4) the(5) new(6) one(7) he(8) bought(9) was(10) his(11) 6th(12) Honda_Accord(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			The(1) Accord(2) looks(3) good(4) and(5) is(6) very(7) comfortable(8) .(9) 
+			<opinion polarity="+" feature="comfort" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="design" opWords="3,4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) m(2) impressed(3) with(4) the(5) paint(6) on(7) this(8) vehicle(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Ours(1) is(2) midnight(3) black(4) ,(5) I(6) think(7) it(8) s(9) called(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			It(1) kind(2) of(3) has(4) like(5) a(6) blue(7) pearly-frosty(8) looking(9) kind(10) of(11) stuff(12) in(13) the(14) black(15) paint(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			The(1) paint(2) is(3) really(4) nice(5) on(6) the(7) car(8) and(9) has(10) a(11) really(12) nice(13) glossy(14) ,(15) shiny(16) finish(17) .(18) 
+			<opinion polarity="+" feature="finish" featWords="17" opWords="13"/>
+			<opinion polarity="+" feature="color" featWords="2" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			It(1) washes(2) up(3) really(4) nice(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			The(1) Suburban(2) we(3) have(4) is(5) black(6) and(7) the(8) Accord(9) makes(10) that(11) paint(12) look(13) dull(14) and(15) flat(16) .(17) 
+		</sentence>
+		<sentence id="17">
+			There(1) is(2) plenty_of(3) comfortable(4) seating(5) room(6) ,(7) and(8) the(9) trunk(10) -(11) I(12) can(13) not(14) believe(15) the(16) room(17) in(18) the(19) trunk(20) !(21) 
+			<opinion polarity="+" feature="seat" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="18">
+			There(1) seems(2) to(3) be(4) a_lot_of(5) room(6) in(7) the(8) trunk(9) of(10) this(11) car(12) ,(13) however(14) ,(15) it(16) doesn(17) t(18) take(19) any(20) thing(21) away(22) from(23) any(24) seating(25) area(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			The(1) thing(2) about(3) comfortable(4) seating(5) and(6) roominess(7) of(8) this(9) car(10) -(11) I(12) am(13) not(14) a(15) little(16) person(17) ,(18) short(19) ,(20) yes(21) ,(22) but(23) not(24) little(25) ((26) more(27) than(28) 50_pounds(29) overweight(30) )(31) ,(32) and(33) I(34) tend(35) to(36) get(37) a(38) little(39) claustrophobic(40) in(41) tight(42) places(43) .(44) 
+		</sentence>
+		<sentence id="20">
+			I(1) don(2) t(3) feel(4) at(5) all(6) cramped(7) in(8) any(9) way(10) in(11) this(12) car(13) ,(14) and(15) I(16) don(17) t(18) feel(19) like(20) I(21) m(22) sitting(23) on(24) the(25) ground(26) ,(27) like(28) I(29) do(30) in(31) the(32) Ford_Escort(33) my(34) husband(35) drives(36) .(37) 
+		</sentence>
+		<sentence id="21">
+			I(1) feel(2) more(3) comfortable(4) driving(5) and(6) riding(7) in(8) the(9) Accord(10) than(11) I(12) did(13) in(14) the(15) Ford_Crown_Victoria(16) that(17) my(18) mother(19) used(20) to(21) drive(22) -(23) that(24) car(25) had(26) plenty_of(27) room(28) ,(29) but(30) I(31) always(32) felt(33) that(34) the(35) seats(36) were(37) low(38) to(39) the(40) ground(41) compared(42) to(43) the(44) size(45) vehicle(46) it(47) was(48) .(49) 
+		</sentence>
+		<sentence id="22">
+			I(1) ve(2) felt(3) more(4) cramped(5) in(6) some(7) of(8) the(9) smaller(10) SUVs_I(11) ve(12) test(13) driven(14) over(15) the(16) years(17) ,(18) and(19) truthfully(20) ,(21) I(22) feel(23) more(24) comfortable(25) the(26) drivers(27) and(28) passenger(29) seats(30) of(31) the(32) Accord(33) than(34) I(35) do(36) in(37) my(38) daughter(39) s(40) 2001(41) Dodge_Grand_Caravan(42) .(43) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) much(3) more(4) interior(5) room(6) than(7) in(8) the(9) Escort(10) ,(11) too(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			I(1) sit(2) with(3) the(4) seat(5) back(6) farther(7) than(8) most(9) people(10) of(11) my(12) height(13) ,(14) and(15) farther(16) back(17) than(18) my(19) 6(20) ft(21) .(22) tall(23) husband(24) likes(25) to(26) sit(27) .(28) .(29) .(30) 
+		</sentence>
+		<sentence id="25">
+			I(1) don(2) t(3) like(4) to(5) feel(6) like(7) I(8) m(9) sitting(10) on(11) top(12) of(13) the(14) steering(15) wheel(16) .(17) .(18) .(19) and(20) there(21) is(22) plenty_of(23) room(24) in(25) the(26) back(27) for(28) the(29) kids(30) legs(31) and(32) for(33) them(34) to(35) sit(36) comfortably(37) .(38) 
+		</sentence>
+		<sentence id="26">
+			I(1) 've(2) got(3) the(4) 4(5) cylinder(6) model(7) ,(8) but(9) it(10) has(11) plenty_of(12) pep(13) -(14) especially(15) since(16) I(17) 'm(18) used(19) to(20) driving(21) something(22) that(23) 's(24) bigger(25) ,(26) heavier(27) and(28) that(29) has(30) a(31) big(32) 8(33) cyl(34) .(35) engine(36) .(37) ((38) A(39) 3/4_ton(40) Chevy_Suburban(41) that(42) I(43) drove(44) often(45) and(46) that(47) we(48) use(49) to(50) pull(51) our(52) travel(53) trailer(54) .(55) )(56) The(57) acceleration(58) on(59) the(60) Accord(61) is(62) decent(63) ,(64) but(65) I(66) ve(67) had(68) vehicles(69) that(70) are(71) faster(72) out(73) of(74) the(75) hole(76) ,(77) but(78) ,(79) it(80) s(81) good(82) enough(83) considering(84) I(85) m(86) not(87) using(88) it(89) as(90) a(91) race(92) car(93) ,(94) but(95) it(96) s(97) not(98) a(99) slacker(100) ,(101) either(102) .(103) 
+			<opinion polarity="+" feature="acceleration" featWords="58" opWords="63"/>
+		</sentence>
+		<sentence id="27">
+			It(1) 's(2) fun(3) to(4) drive(5) .(6) 
+			<opinion polarity="+" feature="car" opWords="3"/>
+		</sentence>
+		<sentence id="28">
+			I(1) thought(2) I(3) 'd(4) have(5) a(6) really(7) hard(8) time(9) getting(10) used(11) to(12) driving(13) a(14) smaller(15) car(16) ,(17) but(18) this(19) car(20) is(21) so(22) enjoyable(23) that(24) it(25) 's(26) really(27) been(28) easy(29) to(30) get(31) used(32) to(33) .(34) 
+			<opinion polarity="+" feature="car" featWords="20" opWords="23" potency="22"/>
+		</sentence>
+		<sentence id="29">
+			It(1) rides(2) really(3) smooth(4) and(5) the(6) brakes(7) work(8) well(9) .(10) 
+			<opinion polarity="+" feature="brakes" featWords="7" opWords="8,9"/>
+			<opinion polarity="+" feature="ride quality" opWords="2,4" potency="3"/>
+		</sentence>
+		<sentence id="30">
+			They(1) aren(2) t(3) touchy(4) ,(5) and(6) they(7) don(8) t(9) leave(10) you(11) wondering(12) if(13) you(14) will(15) be(16) able(17) to(18) stop(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			It(1) gets(2) good(3) gas(4) mileage(5) -(6) much(7) better(8) than(9) I(10) was(11) used(12) to(13) -(14) YEA(15) !(16) and(17) it(18) is(19) really(20) easy(21) to(22) maneuver(23) .(24) 
+			<opinion polarity="+" feature="car" opWords="21"/>
+			<opinion polarity="+" feature="gas" featWords="4,5" opWords="3"/>
+		</sentence>
+		<sentence id="32">
+			I(1) get(2) around(3) 24(4) mpg(5) which(6) is(7) mostly(8) in-town(9) driving(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			We(1) haven(2) t(3) taken(4) it(5) on(6) any(7) trips(8) to(9) see(10) what(11) I(12) ll(13) get(14) for(15) highway(16) driving(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			Compared(1) to(2) what(3) I(4) was(5) driving(6) ,(7) there(8) are(9) hardly(10) any(11) blind(12) spots(13) ,(14) either(15) .(16) 
+		</sentence>
+		<sentence id="35">
+			The(1) controls(2) are(3) placed(4) very(5) well(6) and(7) were(8) easy(9) to(10) get(11) used(12) to(13) .(14) 
+			<opinion polarity="+" feature="controls" featWords="2" opWords="4,6" potency="5"/>
+		</sentence>
+		<sentence id="36">
+			I(1) don(2) t(3) have(4) to(5) really(6) look(7) for(8) them(9) -(10) they(11) are(12) just(13) there(14) in(15) a(16) place(17) that(18) makes(19) sense(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			The(1) only(2) thing(3) I(4) had(5) to(6) get(7) used(8) to(9) was(10) that(11) the(12) headlights(13) are(14) on(15) a(16) stick(17) on(18) the(19) column(20) and(21) not(22) on(23) the(24) dash(25) .(26) 
+		</sentence>
+		<sentence id="38">
+			I_LOVE(1) the(2) power(3) Sun(4) /(5) Moon(6) roof(7) -(8) which(9) DOES_NOT_LEAK(10) after(11) 6(12) years(13) !(14) 
+		</sentence>
+		<sentence id="39">
+			We(1) ve(2) had(3) some(4) pretty(5) good(6) hard(7) rains(8) here(9) lately(10) and(11) I(12) ve(13) taken(14) it(15) to(16) a(17) high(18) power(19) car(20) wash(21) a(22) couple(23) of(24) times(25) ,(26) and(27) it(28) hasn(29) t(30) leaked(31) even(32) a(33) tiny(34) little(35) bit(36) .(37) 
+		</sentence>
+		<sentence id="40">
+			There(1) are(2) a(3) couple(4) of(5) things(6) I(7) would(8) change(9) if(10) I(11) could(12) -(13) like(14) the(15) cup(16) holder(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			It(1) is(2) kind(3) of(4) in(5) an(6) awkward(7) place(8) ,(9) and(10) the(11) mirrors(12) could(13) be(14) a(15) little(16) taller(17) so(18) you(19) could(20) see(21) more(22) behind(23) you(24) .(25) 
+		</sentence>
+		<sentence id="42">
+			Tinted(1) windows(2) in(3) the(4) back(5) would(6) be(7) nice(8) ,(9) too(10) ,(11) but(12) that(13) s(14) something(15) I(16) m(17) used(18) to(19) in(20) the(21) Suburban(22) and(23) the(24) Silverado(25) that(26) we(27) had(28) -(29) both(30) have(31) ((32) had(33) )(34) privacy(35) glass(36) in(37) the(38) back(39) .(40) 
+		</sentence>
+		<sentence id="43">
+			The(1) seats(2) seem(3) to(4) be(5) made(6) well(7) ,(8) but(9) there(10) is(11) something(12) about(13) the(14) door(15) panels(16) that(17) looks(18) cheaper(19) than(20) the(21) rest(22) of(23) the(24) car(25) .(26) 
+		</sentence>
+		<sentence id="44">
+			I(1) haven(2) t(3) quite(4) figured(5) out(6) what(7) that(8) is(9) yet(10) .(11) 
+		</sentence>
+		<sentence id="45">
+			This(1) is(2) the(3) first(4) foreign(5) car(6) that(7) we(8) have(9) ever(10) bought(11) .(12) 
+		</sentence>
+		<sentence id="46">
+			I(1) was(2) kind(3) of(4) hesitant(5) ,(6) but(7) from(8) the(9) first(10) test(11) drive(12) ,(13) I(14) was(15) sold(16) .(17) 
+		</sentence>
+		<sentence id="47">
+			My(1) husband(2) 's(3) comment(4) about(5) it(6) after(7) he(8) drove(9) it(10) was(11) that(12) we(13) 'd(14) have(15) to(16) be(17) stupid(18) to(19) pass(20) it(21) up(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			I(1) called(2) my(3) mechanic(4) about(5) Honda(6) 's(7) and(8) asked(9) if(10) he(11) worked(12) on(13) them(14) and(15) if(16) he(17) would(18) or(19) would(20) not(21) recommend(22) them(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			I(1) also(2) asked(3) him(4) about(5) comparable(6) American(7) cars(8) .(9) 
+		</sentence>
+		<sentence id="50">
+			His(1) response(2) surprised(3) me(4) -(5) I(6) 've(7) known(8) him(9) for(10) a(11) long(12) time(13) and(14) his(15) dad(16) was(17) a(18) head(19) mechanic(20) at(21) a(22) Chevrolet(23) dealership(24) before(25) he(26) retired(27) and(28) opened(29) the(30) shop(31) where(32) they(33) work(34) .(35) 
+		</sentence>
+		<sentence id="51">
+			He(1) told(2) me(3) that(4) he(5) does(6) work(7) on(8) Honda(9) 's(10) ,(11) but(12) ,(13) more(14) over(15) ,(16) he(17) told(18) me(19) that(20) he(21) recommended(22) them(23) very(24) highly(25) for(26) several(27) reasons(28) .(29) 
+		</sentence>
+		<sentence id="52">
+			One(1) being(2) Honda(3) 's(4) view(5) on(6) maintenance(7) .(8) 
+		</sentence>
+		<sentence id="53">
+			He(1) said(2) Honda(3) highly(4) encourages(5) regular(6) maintenance(7) on(8) vehicles(9) to(10) help(11) them(12) perform(13) well(14) and(15) last(16) long(17) .(18) 
+			<opinion polarity="+" feature="reliability" opWords="16,17"/>
+			<opinion polarity="+" feature="performance" opWords="13,14"/>
+		</sentence>
+		<sentence id="54">
+			To(1) me(2) ,(3) that(4) makes(5) them(6) seem(7) very(8) sincere(9) about(10) their(11) product(12) and(13) the(14) reliability(15) of(16) their(17) product(18) ,(19) but(20) says(21) ,(22) hey(23) ,(24) it(25) 's(26) also(27) up(28) to(29) you(30) to(31) help(32) take(33) care(34) of(35) it(36) properly(37) .(38) 
+		</sentence>
+		<sentence id="55">
+			His(1) other(2) response(3) that(4) surprised(5) me(6) was(7) that(8) he(9) said(10) that(11) compared(12) to(13) the(14) Honda(15) ,(16) I(17) would(18) be(19) taking(20) a(21) step(22) down(23) in(24) quality(25) and(26) reliability(27) in(28) an(29) American(30) car(31) of(32) the(33) same(34) class(35) ,(36) and(37) that(38) the(39) Honda(40) would(41) outlast(42) the(43) American(44) cars(45) -(46) that(47) 's(48) coming(49) from(50) someone(51) who(52) was(53) raised(54) with(55) a(56) great(57) loyalty(58) to(59) the(60) Chevrolet(61) ,(62) and(63) still(64) really(65) likes(66) them(67) .(68) 
+		</sentence>
+		<sentence id="56">
+			So(1) ,(2) considering(3) his(4) words(5) ,(6) I(7) bought(8) it(9) .(10) 
+		</sentence>
+		<sentence id="57">
+			It(1) runs(2) well(3) ,(4) is(5) fun(6) to(7) drive(8) and(9) definitely(10) seems(11) worth(12) the(13) price(14) .(15) 
+			<opinion polarity="+" feature="car" opWords="6"/>
+			<opinion polarity="+" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="58">
+			My(1) insurance(2) is(3) a(4) little(5) higher(6) than(7) it(8) would(9) be(10) for(11) an(12) American(13) car(14) ((15) not(16) because_of(17) the(18) accident(19) -(20) haven(21) t(22) got(23) that(24) part(25) of(26) the(27) rate(28) hike(29) yet(30) -(31) but(32) because(33) they(34) said(35) that(36) the(37) Honda(38) is(39) a(40) little(41) more(42) expensive(43) to(44) repair(45) than(46) an(47) American(48) car(49) .(50) I(51) probably(52) need(53) to(54) check(55) around(56) with(57) other(58) insurers(59) ,(60) too(61) .(62) If(63) you(64) buy(65) one(66) ,(67) you(68) should(69) check(70) with(71) your(72) insurer(73) if(74) insurance(75) costs(76) are(77) an(78) issue(79) for(80) you(81) before(82) you(83) buy(84) it(85) -(86) or(87) any(88) other(89) car(90) for(91) that(92) matter(93) .(94) Amount_Paid(95) ((96) US(97) $(98) )(99) :(100) 8,500(101) Condition(102) :(103) UsedModel_Year(104) :(105) 2001Model(106) and(107) Options(108) :(109) EX(110) ,(111) Automatic(112) ,(113) power(114) sun(115) roof(116) ,(117) power(118) everything(119) ,(120) 6(121) CD(122) changer(123) ,(124) 4(125) cyl(126) .(127) 
+		</sentence>
+	</text>
+</review>

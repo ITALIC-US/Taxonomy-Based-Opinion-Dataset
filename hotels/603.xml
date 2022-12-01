@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="603" item="New Yorker Ramada" rating="5">
+	<title>
+		<sentence id="1">
+			Comfort(1) with(2) a(3) great(4) location(5) !(6) 
+			<opinion polarity="+" feature="place" featWords="5" opWords="4"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) room(2) .(3) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) view(2) of(3) the(4) city(5) .(6) 
+			<opinion polarity="+" feature="view" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="3">
+			Great(1) location(2) .(3) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Affordable(1) price(2) .(3) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A_lot_of(1) people(2) outside(3) ((4) Maybe(5) its(6) the(7) holiday(8) season(9) )(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) went(2) with(3) my(4) family(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			My(1) son(2) recommended(3) us(4) ,(5) he(6) was(7) there(8) for(9) business(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Its(1) comfortable(2) ,(3) has(4) a(5) great(6) location(7) ,(8) and(9) a(10) very(11) affordable(12) price(13) .(14) 
+			<opinion polarity="+" feature="hotel" opWords="2"/>
+			<opinion polarity="+" feature="place" featWords="7" opWords="6"/>
+			<opinion polarity="+" feature="price" featWords="13" opWords="12" potency="11"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) was(2) my(3) 4th(4) time(5) to(6) New_York(7) and(8) I(9) got(10) to(11) say(12) the(13) New_Yorker_Hotel(14) is(15) by(16) far(17) the(18) best(19) hotel(20) I(21) 've(22) been(23) in(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			Everyone(1) there(2) was(3) very(4) accommodating(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) has(3) great(4) amenities(5) ,(6) excellent(7) location(8) and(9) a(10) great(11) view(12) ((13) from(14) our(15) rooms(16) )(17) .(18) 
+			<opinion polarity="+" feature="amenities" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="place" featWords="8" opWords="7"/>
+			<opinion polarity="+" feature="view" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) right(3) in(4) front(5) of(6) Penn_Station(7) ,(8) so(9) getting(10) in(11) and(12) out(13) of(14) the(15) city(16) was(17) a(18) breeze(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			Madison_Square_Garden(1) was(2) right(3) next(4) door(5) and(6) we(7) got(8) to(9) see(10) a(11) couple(12) of(13) great(14) shows(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) major(2) shopping(3) area(4) ((5) Herald(6) Square(7) )(8) is(9) only(10) a(11) block(12) away(13) ((14) Great(15) for(16) my(17) wife(18) )(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			We(1) also(2) got(3) a(4) chance(5) to(6) check(7) out(8) Empire_State_Building(9) which(10) is(11) only(12) 1(13) block(14) away(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Speaking(1) to(2) the(3) concierge(4) ,(5) he(6) told(7) me(8) they(9) refurbished(10) the(11) hotel(12) a(13) while(14) ago(15) and(16) it(17) shows(18) in(19) the(20) amenities(21) they(22) offer(23) .(24) 
+			<opinion polarity="+" feature="hotel" featWords="12" opWords="10"/>
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) a(3) gym(4) ,(5) ballrooms(6) ,(7) meeting(8) rooms(9) ,(10) two(11) restaurants(12) and(13) a(14) beautiful(15) lobby(16) with(17) a(18) gorgeous(19) ceiling(20) .(21) 
+			<opinion polarity="+" feature="lobby" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="10">
+			The(1) room(2) we(3) got(4) was(5) a(6) plaza(7) suite(8) with(9) a(10) great(11) view(12) .(13) 
+			<opinion polarity="+" feature="view" featWords="12" opWords="11"/>
+		</sentence>
+		<sentence id="11">
+			There(1) are(2) breakfast(3) and(4) drinks(5) available(6) in(7) a(8) place(9) they(10) call(11) the(12) Sky_Lounge(13) ((14) which(15) has(16) one(17) of(18) the(19) best(20) view(21) of(22) the(23) city(24) )(25) Overall(26) the(27) experience(28) was(29) great(30) .(31) 
+			<opinion polarity="+" feature="view" featWords="21" opWords="20"/>
+		</sentence>
+		<sentence id="12">
+			We(1) really(2) headed(3) to(4) New_York(5) for(6) the(7) holidays(8) to(9) see(10) families(11) ,(12) and(13) the(14) stay(15) was(16) very(17) comfortable(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) last(2) thing(3) we(4) wanted(5) to(6) worry(7) about(8) was(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			If(1) anyone(2) is(3) headed(4) to(5) NY(6) in(7) the(8) future(9) and(10) does(11) not(12) want(13) to(14) travel(15) far(16) from(17) the(18) hotel(19) to(20) enjoy(21) the(22) NY(23) experience(24) ,(25) try(26) the(27) New_Yorker(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			I(1) know(2) I(3) will(4) ((5) again(6) )(7) .(8) 
+		</sentence>
+	</text>
+</review>

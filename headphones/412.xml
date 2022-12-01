@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="412" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Good_Cans(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			comfortable(1) ,(2) sound(3) great(4) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+			<opinion polarity="+" feature="sound quality" opWords="3,4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			kind(1) of(2) expensive(3) 
+			<opinion polarity="-" feature="price" opWords="3" potency="1,2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Sound_Great(1) ,(2) Very_Comfortable(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Purchased(1) new(2) on(3) eBay(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Sound(1) great(2) ,(3) very(4) comfortable(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2"/>
+			<opinion polarity="+" feature="sound quality" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) I(2) can(3) not(4) be(5) too(6) specific(7) since(8) I(9) can(10) only(11) compare(12) them(13) with(14) fairly(15) inexpensive(16) Koss(17) and(18) Sony(19) headphones(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) Sennheiser(2) 600s(3) are(4) unquestionably(5) much(6) better(7) than(8) anything(9) I(10) have(11) listened(12) to(13) before(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			No(1) need(2) for(3) A(4) /(5) B(6) testing(7) and(8) double(9) blind(10) tests(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			I(1) purchased(2) a(3) Creek(4) OBH-11(5) headphone(6) amp(7) at(8) the(9) same(10) time(11) ,(12) largely(13) based(14) on(15) reviews(16) I(17) read(18) online(19) which(20) stated(21) that(22) the(23) Sennheiser(24) 600s(25) have(26) unusually(27) low(28) output(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) I(3) have(4) found(5) that(6) my(7) sound(8) card(9) ((10) both(11) Creative_Extigy(12) and(13) built-in(14) T23(15) Crystal_WDM(16) chipset(17) )(18) develops(19) enough(20) output(21) for(22) most(23) situations(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) not(3) yet(4) got(5) a(6) handle(7) on(8) more(9) subtle(10) audiophile(11) issues(12) like(13) differences(14) in(15) sound(16) quality(17) between(18) sound-cards(19) ,(20) signal(21) sources(22) and(23) any(24) effect(25) the(26) amplifier(27) has(28) beyond(29) simple(30) volume(31) .(32) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="277" item="Best Western Plaza International" rating="3">
+	<title>
+		<sentence id="1">
+			Average(1) motel(2) in(3) a(4) big(5) town(6) 
+			<opinion polarity="-" feature="hotel" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) ,(3) not(4) expensive(5) .(6) 
+			<opinion polarity="+" feature="place" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="price" opWords="4,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Big(1) complex(2) of(3) 4(4) buildings(5) ,(6) a_bit(7) noisy(8) from(9) adjacent(10) interstate(11) ((12) even(13) in(14) courtyard(15) )(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) do(3) not(4) care(5) about(6) traffic(7) noise(8) it(9) is(10) ok(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) not(3) any(4) problems(5) and(6) did(7) feel(8) safe(9) and(10) rooms(11) were(12) not(13) that(14) bad(15) as(16) somewhere(17) else(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Best_Western_International_Plaza_Orlando_Right(1) between(2) International_Drive(3) and(4) I(5) 4(6) ,(7) in(8) Orlando(9) ,(10) close(11) to(12) Seaworld(13) and(14) Universal_Studios(15) this(16) is(17) a(18) big(19) motel(20) ,(21) consisting(22) of(23) 4(24) big(25) buildings(26) with(27) 4(28) floors(29) ,(30) surrounding(31) a(32) very(33) spacious(34) area(35) that(36) includes(37) parking(38) lot(39) ,(40) gardens(41) ,(42) a(43) big(44) guest-laundry(45) building(46) ,(47) tiki(48) bar(49) and(50) pool(51) with(52) jacuzzi(53) .(54) 
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) more(3) parking(4) lots(5) around(6) ,(7) I(8) think(9) hotel(10) has(11) about(12) 300(13) rooms(14) or(15) so(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Buildings(1) are(2) white(3) with(4) blue(5) roofs(6) and(7) really(8) look(9) nice(10) .(11) 
+			<opinion polarity="+" feature="building" featWords="1" opWords="10"/>
+		</sentence>
+		<sentence id="4">
+			You(1) reach(2) your(3) room(4) by(5) elevator(6) or(7) stairs(8) ,(9) corridors(10) are(11) outdoors(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) place(2) is(3) a_bit(4) noisy(5) due(6) to(7) Interstate(8) 4(9) ,(10) windows(11) aren(12) t(13) soundproof(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Lobby(1) is(2) spacious(3) ,(4) there(5) is(6) an(7) information(8) desk(9) where(10) you(11) can(12) buy(13) themepark(14) tickets(15) .(16) 
+			<opinion polarity="+" feature="lobby" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="7">
+			Check-in(1) was(2) quick(3) ,(4) you(5) get(6) a(7) floorplan(8) to(9) find(10) your(11) room(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			In(1) the(2) lobby(3) they(4) have(5) 2(6) computers(7) with(8) internet(9) ,(10) no(11) free(12) access(13) ,(14) pay(15) with(16) credit(17) card(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) shop(4) too(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Rooms(1) are(2) spacious(3) with(4) closets(5) ,(6) big(7) TV(8) ,(9) table(10) and(11) chairs(12) ,(13) iron(14) and(15) hairdryer(16) .(17) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="tv" featWords="8" opWords="7"/>
+		</sentence>
+		<sentence id="11">
+			We(1) had(2) no(3) problems(4) with(5) this(6) stuff(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			Unfortunately(1) there(2) was(3) no(4) fridge(5) or(6) microwave(7) ,(8) neither(9) a(10) working(11) desk(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Sink(1) is(2) in(3) the(4) room(5) ,(6) toilet(7) and(8) tub(9) in(10) an(11) extra(12) bathroom(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			You(1) get(2) shampoo(3) and(4) soap(5) and(6) towels(7) are(8) fluffy(9) .(10) 
+			<opinion polarity="+" feature="towels" featWords="7" opWords="9"/>
+		</sentence>
+		<sentence id="15">
+			Four(1) lamps(2) did(3) not(4) make(5) the(6) room(7) really(8) bright(9) I(10) wished(11) to(12) have(13) more(14) light(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Beds(1) are(2) ok(3) ,(4) not(5) too(6) hard(7) ,(8) but(9) lower(10) matrasses(11) were(12) torn(13) and(14) stained(15) .(16) 
+			<opinion polarity="+" feature="bed" featWords="1" opWords="3"/>
+			<opinion polarity="+" feature="bed" featWords="1" opWords="5,6,7"/>
+		</sentence>
+		<sentence id="17">
+			Many(1) hotels(2) /(3) motels(4) cover(5) them(6) with(7) linens(8) and(9) that(10) would(11) have(12) been(13) better(14) too(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			Does(1) not(2) make(3) you(4) feel(5) comfortable(6) to(7) look(8) at(9) those(10) stains(11) ,(12) as_well(13) as(14) to(15) see(16) the(17) stains(18) on(19) the(20) carpets(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			All(1) the(2) rest(3) was(4) ok(5) ,(6) walls(7) seem(8) to(9) be(10) painted(11) currently(12) ,(13) and(14) furniture(15) did(16) not(17) look(18) dated(19) as_well(20) .(21) 
+			<opinion polarity="+" feature="furnishings" featWords="15" opWords="17,19"/>
+		</sentence>
+		<sentence id="20">
+			Bathroom(1) was(2) clean(3) too(4) and(5) tiles(6) are(7) new(8) and(9) nice(10) .(11) 
+			<opinion polarity="+" feature="bathroom" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="21">
+			Room(1) was(2) not(3) damp(4) and(5) did(6) smell(7) ok(8) ,(9) there(10) is(11) good(12) but(13) noisy(14) ventilation(15) in(16) the(17) bathroom(18) as_well(19) .(20) 
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="3,4"/>
+			<opinion polarity="+" feature="rooms" featWords="1" opWords="8"/>
+		</sentence>
+		<sentence id="22">
+			You(1) will(2) not(3) get(4) free(5) breakfast(6) ,(7) you(8) can(9) buy(10) one(11) at(12) the(13) tiki(14) bar(15) or(16) go(17) to(18) adjacent(19) Ponderosa(20) ,(21) where(22) you(23) get(24) a(25) discount(26) by(27) showing(28) your(29) roomkey(30) .(31) 
+		</sentence>
+		<sentence id="23">
+			You(1) can(2) easily(3) walk(4) to(5) several(6) restaurants(7) and(8) shops(9) on(10) International_Drive(11) .(12) 
+		</sentence>
+	</text>
+</review>

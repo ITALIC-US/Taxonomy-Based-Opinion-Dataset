@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="6" item="Amerisuites Busch Gardens" rating="1">
+	<title>
+		<sentence id="1">
+			Welcome(1) to(2) the(3) Life-Size_Roach_Motel(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Swimming(1) pool(2) is(3) nice(4) ,(5) and(6) there(7) are(8) a_lot_of(9) stores(10) /(11) restaurants(12) within(13) walking(14) distance(15) .(16) 
+			<opinion polarity="+" feature="swimming pool" featWords="1,2" opWords="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) 'd(2) be(3) better(4) off(5) sleeping(6) outside(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) here(3) in(4) March_2002(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Upon(1) checking-in(2) we(3) noticed(4) small(5) cock-roaches(6) crawling(7) on(8) counter(9) in(10) our(11) kitchenette(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			We(1) called(2) the(3) front-desk(4) and(5) they(6) sent(7) the(8) hotel(9) repairman(10) up(11) to(12) spray(13) our(14) room(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			We(1) went(2) to(3) the(4) pool(5) for(6) several(7) hours(8) and(9) returned(10) to(11) find(12) the(13) roaches(14) still(15) alive(16) and(17) running(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			When(1) we(2) called(3) the(4) front-desk(5) again(6) ,(7) they(8) sent(9) us(10) our(11) very(12) own(13) can(14) of(15) Raid_Bug_Spray(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			We(1) needed(2) to(3) open(4) our(5) window(6) in_order_to(7) use(8) the(9) bug(10) spray(11) ,(12) but(13) there(14) was(15) a(16) large(17) wasp(18) nest(19) attached(20) to(21) the(22) outer(23) windowsill(24) ,(25) so(26) we(27) waited(28) until(29) nighttime(30) to(31) spray(32) ((33) what(34) do(35) you(36) do(37) when(38) you(39) have(40) to(41) choose(42) between(43) wasps(44) and(45) cockroaches(46) ?(47) ?(48) ?(49) )(50) .(51) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) looked(3) like(4) it(5) had(6) never(7) been(8) vacuumed(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			A(1) former(2) guest(3) had(4) dropped(5) a(6) full(7) ashtray(8) behind(9) the(10) nightstand(11) and(12) a(13) fake(14) fingernail(15) was(16) found(17) under(18) the(19) sofa(20) table(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Our(1) bed(2) was(3) made(4) up(5) with(6) only(7) flat(8) sheets(9) ,(10) so(11) by(12) morning(13) we(14) were(15) usually(16) lying(17) on(18) a(19) bare(20) mattress(21) ((22) which(23) was(24) stained(25) by(26) a(27) substance(28) resembling(29) ketchup(30) ....(31) at_least(32) that(33) 's(34) what(35) I(36) 'd(37) like(38) to(39) believe(40) it(41) was(42) )(43) .(44) 
+		</sentence>
+		<sentence id="10">
+			My(1) daughter(2) was(3) trapped(4) in(5) the(6) bathroom(7) when(8) the(9) door(10) handle(11) fell(12) off(13) from(14) the(15) inside(16) ((17) we(18) were(19) able(20) to(21) coach(22) her(23) through(24) the(25) door(26) to(27) safety(28) )(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			All(1) of(2) the(3) surrounding(4) hotels(5) were(6) sold(7) out(8) during(9) our(10) stay(11) ,(12) but(13) we(14) did(15) tour(16) The_Doubletree_Hotel(17) next(18) door(19) ,(20) and(21) it(22) seemed(23) really(24) nice(25) and(26) clean(27) .(28) 
+			<opinion polarity="+" feature="hotel" featWords="22" featRef="hotel" opWords="25" potency="24"/>
+			<opinion polarity="+" feature="hotel" featWords="22" featRef="hotel" opWords="27" potency="24"/>
+		</sentence>
+		<sentence id="12">
+			I(1) wish(2) someone(3) would(4) have(5) posted(6) a(7) review(8) earlier(9) so(10) we(11) could(12) have(13) avoided(14) this(15) nightmare(16) of(17) a(18) hotel(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			We(1) will(2) never(3) again(4) patronize(5) an(6) Amerisuites_Hotel(7) ,(8) and(9) hope(10) that(11) none(12) of(13) the(14) wildlife(15) from(16) our(17) "(18) suite(19) "(20) came(21) home(22) in(23) our(24) luggage(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			We(1) mailed(2) a(3) letter(4) of(5) complaint(6) to(7) the(8) Amerisuites_Home_Office(9) and(10) have(11) never(12) received(13) a(14) response(15) .(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="211" item="Sennheiser HD 200 Professional Headphones" rating="3">
+	<title>
+		<sentence id="1">
+			Studio_Phones(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) isolation(2) 
+			<opinion polarity="+" feature="isolation" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bass(1) response(2) a_bit(3) boomy(4) 
+			<opinion polarity="-" feature="bass" featWords="1,2" opWords="4" potency="3"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) work(2) at(3) a(4) recording(5) studio(6) and(7) recently(8) did(9) a(10) "(11) live(12) "(13) gig(14) at(15) a(16) church(17) where(18) isolation(19) from(20) the(21) players(22) was(23) key(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			The(1) HD(2) 270(3) 's(4) worked(5) great(6) and(7) provided(8) accurate(9) ,(10) if(11) a(12) little(13) bass-y(14) ,(15) reproduction(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) also(3) found(4) them(5) useful(6) in(7) the(8) studio(9) both(10) as(11) a(12) critical(13) listening(14) pair(15) and(16) a(17) great(18) tracking(19) set(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) bass(2) response(3) is(4) a(5) little(6) much(7) as(8) is(9) the(10) case(11) with(12) all(13) closed(14) phones(15) ,(16) but(17) can(18) provide(19) a(20) good(21) comparison(22) to(23) acoustically(24) "(25) dead(26) "(27) rooms(28) like(29) the(30) mixdown(31) and(32) mastering(33) booth(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			As(1) for(2) comfort(3) and(4) aesthetics(5) ,(6) the(7) HD(8) 270(9) 's(10) are(11) mediocre(12) .(13) 
+			<opinion polarity="-" feature="comfort" featWords="3" opWords="12"/>
+			<opinion polarity="-" feature="appearance" featWords="5" opWords="12"/>
+		</sentence>
+		<sentence id="6">
+			Not(1) the(2) most(3) comfortable(4) but(5) definitely(6) easy(7) to(8) wear(9) for(10) a(11) 3-4(12) hours(13) while(14) mixing(15) .(16) 
+			<opinion polarity="-" feature="comfort" opWords="1,4"/>
+			<opinion polarity="+" feature="comfort" opWords="7,8,9" potency="6"/>
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) a_bit(3) bulky(4) ,(5) but(6) the(7) single(8) sided(9) cord(10) makes(11) for(12) easy(13) tracking(14) with(15) all(16) our(17) clients(18) .(19) 
+			<opinion polarity="-" feature="comfort" opWords="4" potency="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="379" item="Sennheiser PX 200 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) closed(3) headphones(4) for(5) portable(6) audio(7) .(8) 
+			<opinion polarity="+" feature="headphones" featWords="4" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clear(1) sound(2) ,(3) good(4) volume(5) ,(6) great(7) carrying(8) case(9) ,(10) lightweight(11) .(12) 
+			<opinion polarity="+" feature="sound quality" featWords="2" opWords="1"/>
+			<opinion polarity="+" feature="volume" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="case" featWords="9" opWords="7"/>
+			<opinion polarity="+" feature="weight" opWords="11"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tricky(1) to(2) seal(3) to(4) ears(5) ,(6) needs(7) a_bit(8) of(9) bass(10) boost(11) .(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Trust(1) me(2) on(3) this(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			I(1) own(2) 12(3) different(4) sets(5) of(6) headphones(7) ,(8) including(9) several(10) sets(11) of(12) noise-canceling(13) headphones(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			For(1) the(2) price(3) ,(4) you(5) can(6) not(7) beat(8) these(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) fit(2) is(3) comfortable(4) ,(5) though(6) you(7) will(8) have(9) to(10) play(11) with(12) them(13) a_bit(14) to(15) get(16) them(17) to(18) seal(19) correctly(20) .(21) 
+			<opinion polarity="+" feature="comfort" featWords="2" opWords="4"/>
+		</sentence>
+		<sentence id="5">
+			They(1) are(2) very(3) efficient(4) and(5) will(6) play(7) at(8) any(9) volume(10) level(11) you(12) choose(13) .(14) 
+			<opinion polarity="+" feature="headphones" featWords="1" featRef="headphones" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			The(1) cute(2) plastic(3) carrying(4) case(5) is(6) a(7) big(8) plus(9) .(10) 
+			<opinion polarity="+" feature="case" featWords="5" opWords="2"/>
+			<opinion polarity="+" feature="case" featWords="5" opWords="9" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			I(1) found(2) it(3) very(4) easy(5) to(6) get(7) them(8) back(9) in(10) the(11) case(12) and(13) I(14) use(15) it(16) all(17) the(18) time(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) crushproof(3) and(4) no(5) larger(6) than(7) an(8) eyeglasses(9) case(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			I(1) use(2) mine(3) primarily(4) with(5) my(6) Sony(7) minidisc(8) player(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) do(3) not(4) have(5) a(6) player(7) with(8) tone(9) controls(10) ,(11) you(12) may(13) be(14) a_bit(15) disappointed(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			I(1) boost(2) the(3) bass(4) a_bit(5) to(6) suit(7) my(8) tastes(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			But(1) the(2) clear(3) high-end(4) and(5) mid-range(6) are(7) well(8) worth(9) it(10) .(11) 
+			<opinion polarity="+" feature="highs" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="mids" featWords="6" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			If(1) ,(2) on_the_other_hand(3) ,(4) you(5) are(6) looking(7) for(8) a(9) set(10) of(11) open(12) headphones(13) ,(14) add(15) a(16) few(17) $(18) $(19) $(20) and(21) go(22) for(23) the(24) Grado(25) SR60(26) headphones(27) .(28) 
+		</sentence>
+		<sentence id="14">
+			They(1) are(2) even(3) more(4) efficient(5) and(6) sound(7) beautiful(8) with(9) any(10) portable(11) audio(12) player(13) .(14) 
+		</sentence>
+	</text>
+</review>

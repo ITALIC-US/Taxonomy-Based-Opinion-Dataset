@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="505" item="1995 Toyota Corolla" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) too(2) pricey(3) for(4) the(5) family(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) price(2) 
+			<opinion polarity="+" feature="price" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) needed(5) a(6) vehicle(7) that(8) was(9) comfortable(10) to(11) move(12) passengers(13) from(14) place(15) to(16) place(17) but(18) we(19) did(20) not(21) want(22) to(23) pay(24) the(25) same(26) price(27) we(28) did(29) for(30) your(31) first(32) home(33) .(34) 
+			<opinion polarity="+" feature="comfort" opWords="10"/>
+		</sentence>
+		<sentence id="2">
+			We(1) found(2) comfort(3) and(4) affordability(5) in(6) our(7) Toyota_Corolla(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			For(1) a(2) compact(3) car(4) there(5) is(6) more(7) than(8) enough(9) room(10) for(11) legs(12) .(13) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) not(3) a(4) bump(5) in(6) the(7) middle(8) of(9) the(10) back(11) seat(12) as(13) some(14) cars(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) a(3) feature(4) I(5) look(6) for(7) since(8) we(9) transport(10) my(11) parents(12) places(13) and(14) I(15) end(16) up(17) in(18) the(19) middle(20) back(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			We(1) were(2) in(3) a(4) fender(5) bender(6) a(7) month(8) ago(9) and(10) the(11) fender(12) took(13) the(14) impact(15) well(16) ,(17) barely(18) dented(19) it(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			The(1) fender(2) protected(3) the(4) rest(5) of(6) the(7) vehicle(8) since(9) it(10) wraps(11) around(12) the(13) sides(14) of(15) the(16) car(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			We(1) came(2) out(3) with(4) little(5) damage(6) but(7) you(8) should(9) see(10) the(11) other(12) car(13) !(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) price(2) is(3) right(4) for(5) any(6) one(7) and(8) I_Toyota(9) makes(10) cars(11) which(12) last(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Our(1) last(2) Toyota(3) had(4) over(5) 200,000_miles(6) on(7) it(8) and(9) was(10) 15(11) years(12) old(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			No(1) problems(2) .(3) 
+		</sentence>
+		<sentence id="12">
+			Our(1) Corolla(2) is(3) a(4) CE(5) model(6) with(7) an(8) automatic(9) transmission(10) so(11) the(12) cost(13) was(14) a(15) little(16) extra(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Because(1) my(2) husband(3) and(4) I(5) are(6) very(7) different(8) in(9) height(10) and(11) weight(12) we(13) got(14) the(15) tilt(16) steering(17) which(18) comes(19) only(20) in(21) the(22) CE(23) and(24) LE(25) models(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Of(1) course(2) the(3) LE(4) comes(5) with(6) everything(7) like(8) a(9) 60/40(10) split(11) folding(12) rear(13) seat(14) ,(15) wheel(16) covers(17) and(18) an(19) AM(20) /(21) FM(22) stereo(23) with(24) cassette(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			White(1) seems(2) to(3) be(4) the(5) color(6) these(7) days(8) but(9) let(10) me(11) give(12) you(13) a(14) pro(15) and(16) con(17) on(18) the(19) color(20) white(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			do(1) not(2) buy(3) white(4) unless(5) you(6) are(7) faithful(8) in(9) washing(10) your(11) car(12) once(13) a(14) week(15) .(16) 
+			<opinion polarity="-" feature="car" opWords="2,3"/>
+		</sentence>
+		<sentence id="17">
+			However(1) ,(2) white(3) keeps(4) cooler(5) than(6) the(7) darker(8) models(9) so(10) but(11) then(12) there(13) is(14) air(15) conditioning(16) .(17) 
+		</sentence>
+	</text>
+</review>

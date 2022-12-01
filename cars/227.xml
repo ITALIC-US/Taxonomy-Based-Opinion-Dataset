@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="227" item="2000 Nissan Maxima" rating="5">
+	<title>
+		<sentence id="1">
+			Tears(1) of(2) joy(3) .(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Powerfull(1) ,(2) Handling(3) ,(4) Room(5) ,(6) Comfort(7) ,(8) Quiet(9) 
+			<opinion polarity="+" feature="car" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) memory(2) settings(3) of(4) seat(5) /(6) wheel(7) positions(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) recently(3) purchased(4) the(5) Nissan_Maxima(6) 2000(7) SE(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) took(2) my(3) time(4) in(5) researching(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			After(1) test(2) driving(3) many(4) other(5) cars(6) ,(7) I(8) finally(9) sat(10) in(11) a(12) silver(13) Maxima_SE(14) and(15) stepped(16) on(17) the(18) gas(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			I(1) could(2) not(3) believe(4) I(5) was(6) in(7) a(8) 4-door(9) luxury(10) car(11) that(12) cost(13) <(14) $30,000(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			This(1) car(2) screamed(3) ,(4) turned(5) and(6) felt(7) like(8) an(9) expensive(10) sports(11) car(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Here(1) are(2) the(3) important(4) points(5) I(6) need(7) to(8) point(9) out(10) about(11) this(12) car(13) :(14) #(15) 1(16) All(17) though(18) its(19) a(20) "(21) new(22) "(23) model(24) ,(25) the(26) engine(27) in(28) this(29) car(30) is(31) the(32) same(33) engine(34) used(35) in(36) the(37) 300zx(38) for(39) its(40) lifetime(41) so(42) do(43) not(44) feel(45) afraid(46) of(47) the(48) engine(49) having(50) the(51) same(52) problems(53) most(54) "(55) new(56) "(57) models(58) have(59) .(60) #(61) 2(62) This(63) car(64) does(65) not(66) HAVE(67) a(68) 4-cylinder(69) option(70) .(71) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) designed(3) from(4) the(5) ground(6) up(7) to(8) be(9) the(10) most(11) exciting(12) v6(13) 4-door(14) sedan(15) you(16) can(17) find(18) .(19) #(20) 3(21) The(22) dash(23) board(24) is(25) great(26) and(27) easy(28) to(29) use(30) .(31) ((32) I_LOVE(33) the(34) speed(35) and(36) tachometer(37) dials(38) ,(39) they(40) invert(41) black(42) /(43) white(44) at(45) night(46) )(47) #(48) 4(49) The(50) comfort(51) is(52) amazing(53) .(54) 
+			<opinion polarity="+" feature="comfort" featWords="51" opWords="53"/>
+			<opinion polarity="+" feature="dash" featWords="23,24" opWords="28,29,30"/>
+			<opinion polarity="+" feature="dash" featWords="23,24" opWords="26"/>
+		</sentence>
+		<sentence id="8">
+			I(1) cant(2) imagine(3) enjoying(4) a(5) ride(6) better(7) in(8) a(9) car(10) that(11) costs(12) less(13) than(14) $60,000(15) #(16) 5(17) I(18) was(19) worried(20) that(21) an(22) automatic(23) would(24) behave(25) poorly(26) on(27) such(28) a(29) performance(30) car(31) ,(32) but(33) it(34) behaves(35) predictably(36) and(37) quickly(38) .(39) #(40) 6(41) It(42) is(43) incredibly(44) roomy(45) .(46) 
+			<opinion polarity="+" feature="room" opWords="45" potency="44"/>
+		</sentence>
+		<sentence id="9">
+			I(1) am(2) 6(3) '(4) 2(5) and(6) 4(7) people(8) my(9) size(10) can(11) comfortably(12) fit(13) in(14) this(15) car(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			That(1) does(2) not(3) even(4) touch(5) how(6) much(7) trunk(8) space(9) there(10) is(11) .(12) #(13) 7(14) The(15) car(16) is(17) so(18) quiet(19) you(20) might(21) forget(22) its(23) on(24) .(25) #(26) 8(27) There(28) is(29) an(30) AUTO_UP(31) !(32) !(33) feature(34) for(35) the(36) driver(37) 's(38) window(39) .(40) how(41) many(42) times(43) have(44) you(45) used(46) the(47) auto-down(48) to(49) get(50) drive(51) through(52) or(53) to(54) let(55) air(56) in(57) then(58) you(59) have(60) to(61) hold(62) down(63) up(64) .(65) 
+			<opinion polarity="+" feature="car" featWords="16" opWords="19"/>
+		</sentence>
+		<sentence id="11">
+			I(1) kept(2) thinking(3) what(4) about(5) just(6) closing(7) the(8) window(9) for(10) me(11) ?(12) 
+		</sentence>
+		<sentence id="12">
+			This(1) car(2) will(3) .(4) 
+		</sentence>
+		<sentence id="13">
+			Its(1) a(2) small(3) part(4) I(5) know(6) but(7) I(8) smile(9) every(10) time(11) I(12) use(13) it(14) .(15) #(16) 9(17) Bose(18) stereo(19) with(20) Sub-woofer(21) sounds(22) great(23) !(24) 
+			<opinion polarity="+" feature="sound system" opWords="22,23"/>
+		</sentence>
+		<sentence id="14">
+			Whenever(1) I(2) get(3) done(4) with(5) even(6) a(7) trip(8) to(9) the(10) store(11) I(12) almost(13) cry(14) with(15) tears(16) of(17) joy(18) at(19) how(20) much(21) fun(22) and(23) carefree(24) the(25) trip(26) was(27) .(28) 
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) have(3) the(4) means(5) I(6) highly(7) recommend(8) the(9) Nissan_Maxima(10) 2000(11) .(12) ((13) Silver(14) is(15) a(16) nice(17) color(18) also(19) )(20) 
+			<opinion polarity="+" feature="color" featWords="18" opWords="17"/>
+			<opinion polarity="+" feature="car" opWords="8"/>
+		</sentence>
+	</text>
+</review>

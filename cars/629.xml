@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="629" item="2002 Subaru Impreza" rating="1">
+	<title>
+		<sentence id="1">
+			2002(1) Subaru_Imprezza_WRX(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) engine(2) ,(3) reasonable(4) mileage(5) ((6) for(7) a(8) sporty(9) car(10) )(11) ,(12) excellent(13) handling(14) ((15) particularly(16) in(17) cold(18) weather(19) )(20) 
+			<opinion polarity="+" feature="handling" featWords="14" opWords="13"/>
+			<opinion polarity="+" feature="car" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="gas" featWords="5" opWords="4"/>
+			<opinion polarity="+" feature="engine" featWords="2" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rotten(1) transmission(2) ,(3) paint(4) seems(5) to(6) scratch(7) very(8) easily(9) .(10) 
+			<opinion polarity="-" feature="color" featWords="4" opWords="7,9" potency="8"/>
+			<opinion polarity="+" feature="transmission" featWords="2" opWords="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) this(2) car(3) -(4) transmission(5) problems(6) are(7) a(8) deal-killer(9) .(10) 
+			<opinion polarity="-" feature="car" featWords="3" opWords="1"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) driving(4) this(5) car(6) for(7) about(8) 42000_miles(9) now(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) first(3) 30,000(4) I(5) was(6) pleased(7) as(8) punch(9) .(10) 
+			<opinion polarity="+" feature="car" opWords="7"/>
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) was(3) everything(4) I(5) wanted(6) and(7) expected(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			FWIW(1) ,(2) I(3) drive(4) fairly(5) conservatively(6) -(7) I(8) rarely(9) rev(10) the(11) engine(12) above(13) 4000(14) rpm(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) race(4) ,(5) drive(6) all(7) that(8) fast(9) ,(10) or(11) do(12) "(13) stoplight(14) drag(15) "(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) four(2) wheel(3) drive(4) on(5) the(6) car(7) is(8) very(9) good(10) -(11) you(12) have(13) to(14) really(15) work(16) at(17) it(18) to(19) get(20) the(21) car(22) to(23) come(24) unhitched(25) from(26) the(27) pavement(28) ,(29) regardless_of(30) weather(31) conditions(32) .(33) 
+			<opinion polarity="+" feature="drive" featWords="4" opWords="10" potency="9"/>
+		</sentence>
+		<sentence id="7">
+			Power(1) is(2) limited(3) at(4) low(5) rpm(6) ,(7) and(8) very(9) good(10) at(11) high(12) rpms(13) .(14) 
+			<opinion polarity="+" feature="horsepower" featWords="1" opWords="10" potency="9"/>
+			<opinion polarity="-" feature="horsepower" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="8">
+			I(1) know(2) this(3) has(4) caused(5) other(6) reviewers(7) to(8) pan(9) the(10) car(11) ,(12) but(13) I(14) like(15) it(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			It(1) gives(2) the(3) car(4) a(5) kind(6) of(7) split(8) personality(9) -(10) when(11) your(12) in(13) the(14) mood(15) to(16) GO(17) ,(18) you(19) keep(20) the(21) rpm(22) up(23) and(24) power(25) is(26) plentiful(27) .(28) 
+			<opinion polarity="+" feature="horsepower" featWords="25" opWords="27"/>
+		</sentence>
+		<sentence id="10">
+			When(1) you(2) are(3) just(4) driving(5) around(6) ,(7) you(8) keep(9) the(10) rpm(11) low(12) and(13) get(14) decent(15) mileage(16) .(17) 
+			<opinion polarity="+" feature="gas" featWords="16" opWords="15"/>
+		</sentence>
+		<sentence id="11">
+			Works(1) for(2) me(3) .(4) 
+		</sentence>
+		<sentence id="12">
+			After(1) the(2) 30,000_miles(3) service(4) ,(5) however(6) ,(7) things(8) began(9) to(10) go(11) downhill(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) car(2) developed(3) a(4) hitch(5) when(6) trying(7) to(8) shift(9) from(10) second(11) gear(12) to(13) first(14) while(15) moving(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			Subaru(1) will(2) not(3) warranty(4) this(5) -(6) their(7) response(8) to(9) this(10) was(11) that(12) the(13) car(14) was(15) not(16) designed(17) to(18) shift(19) from(20) second(21) to(22) first(23) while(24) moving(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) not(3) mentioned(4) in(5) the(6) owners(7) manual(8) ,(9) and(10) was(11) not(12) a(13) problem(14) for(15) the(16) first(17) 30,000_miles(18) ,(19) nor(20) was(21) it(22) mentioned(23) by(24) the(25) saleman(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			This(1) would(2) be(3) an(4) important(5) caveat(6) for(7) a(8) car(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			I(1) would(2) not(3) have(4) purchased(5) the(6) car(7) if(8) this(9) were(10) a(11) limitation(12) that(13) had(14) been(15) divulged(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Since(1) that(2) time(3) ,(4) the(5) transmission(6) has(7) continued(8) to(9) deteriorate(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			It(1) now(2) has(3) problems(4) shifting(5) from(6) neutral(7) to(8) first(9) as_well(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Checking(1) around(2) ,(3) this(4) seems(5) to(6) be(7) a(8) widespread(9) problem(10) with(11) at_least(12) the(13) early(14) WRX(15) transmissions(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			Additionally(1) ,(2) the(3) car(4) produces(5) an(6) overwhelming(7) gas(8) odor(9) during(10) very(11) cold(12) weather(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			Subaru(1) has(2) a(3) service(4) bulletin(5) for(6) this(7) ,(8) but(9) does(10) not(11) consider(12) it(13) a(14) recall-level(15) issue(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 24000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) WRX(16) ,(17) standard(18) transmission(19) 
+		</sentence>
+	</text>
+</review>

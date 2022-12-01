@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="329" item="Audio-Technica ATH-WM5 Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) great(2) as(3) expected(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) comfortable(2) Self-winding(3) cord(4) Take(5) up(6) little(7) space(8) Clear(9) middle(10) and(11) highs(12) Perfect(13) vocal(14) 
+			<opinion polarity="+" feature="comfort" opWords="2" potency="1"/>
+			<opinion polarity="+" feature="cord" featWords="4" opWords="3"/>
+			<opinion polarity="+" feature="mids" featWords="10" opWords="9"/>
+			<opinion polarity="+" feature="highs" featWords="12" opWords="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) real(2) sound(3) proofing(4) Only(5) low(6) volume(7) efficient(8) Not(9) enough(10) bass(11) Low(12) price(13) /(14) quality(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			New_Audio-Technica(1) WM5(2) is(3) very(4) comfortable(5) headphones(6) .(7) 
+			<opinion polarity="+" feature="comfort" opWords="5" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) very(3) light(4) and(5) do(6) not(7) put(8) pressure(9) on(10) ears(11) at(12) all(13) .(14) 
+			<opinion polarity="+" feature="weight" opWords="4" potency="3"/>
+		</sentence>
+		<sentence id="3">
+			Self-winding(1) cord(2) makes(3) them(4) great(5) for(6) a(7) portable(8) player(9) and(10) it(11) 's(12) easy(13) to(14) put(15) them(16) in(17) the(18) pocket(19) .(20) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="4">
+			Their(1) sound(2) proofing(3) is(4) not(5) that(6) you(7) can(8) rely(9) on(10) ,(11) while(12) listening(13) at(14) high(15) volume(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Sound(1) ...(2) I(3) do(4) not(5) know(6) how(7) to(8) explain(9) ,(10) but(11) you(12) can(13) not(14) use(15) these(16) headphones(17) to(18) listen(19) music(20) loudly(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Especially(1) rock(2) music(3) ((4) R.E.M.(5) for_example(6) )(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			Metallic(1) sound(2) is(3) bursting(4) into(5) your(6) ears(7) and(8) you(9) feel(10) them(11) blocked(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) strange(3) ,(4) because(5) you(6) also(7) want(8) to(9) turn(10) the(11) volume(12) up(13) a(14) little(15) ...(16) The(17) bass(18) is(19) not(20) enough(21) ((22) as(23) usually(24) for(25) Audio-Technica(26) )(27) ,(28) but(29) electronic(30) music(31) sounds(32) well(33) ,(34) just(35) try(36) to(37) use(38) your(39) equalizer(40) .(41) 
+		</sentence>
+		<sentence id="9">
+			The(1) middle(2) and(3) highs(4) are(5) very(6) clear(7) .(8) 
+			<opinion polarity="+" feature="mids" featWords="2" opWords="7" potency="6"/>
+			<opinion polarity="+" feature="highs" featWords="4" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			Vocals(1) listening(2) will(3) be(4) great(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			So(1) ,(2) I(3) would(4) not(5) like(6) to(7) recommend(8) you(9) these(10) headphones(11) ,(12) i(13) dare(14) to(15) say(16) they(17) cost(18) too(19) much(20) for(21) their(22) sound(23) .(24) 
+		</sentence>
+	</text>
+</review>

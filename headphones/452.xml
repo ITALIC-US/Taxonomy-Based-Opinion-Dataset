@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="452" item="Creative Technology EP-630 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) earbuds(3) for(4) the(5) money(6) .(7) 
+			<opinion polarity="+" feature="earbuds" featWords="3" opWords="2"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			noise(1) isolation(2) at(3) a(4) cheap(5) price(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			they(1) are(2) not(3) free(4) ?(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) a(4) good(5) pair(6) of(7) earbuds(8) spend(9) the(10) money(11) to(12) get(13) these(14) noise(15) isolation(16) ones(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			These(1) little(2) earbuds(3) are(4) simply(5) amazing(6) .(7) 
+			<opinion polarity="+" feature="earbuds" featWords="3" opWords="6" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			I(1) hate(2) traditional(3) earbuds(4) because(5) they(6) lack(7) the(8) sound(9) performance(10) and(11) they(12) hurt(13) my(14) ears(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			These(1) are(2) ear(3) canal(4) earbuds(5) which(6) means(7) that(8) they(9) stick(10) right(11) in(12) your(13) ear(14) canal(15) and(16) no(17) sound(18) is(19) lost(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			Because(1) they(2) are(3) snug(4) fit(5) you(6) get(7) what(8) is(9) called(10) noise(11) isolation(12) which(13) blocks(14) out(15) the(16) outside(17) noise(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Noise(1) isolation(2) is(3) better(4) than(5) noise(6) cancellation(7) in(8) my(9) opinion(10) because(11) it(12) is(13) cheaper(14) and(15) it(16) does(17) not(18) use(19) batteries(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			These(1) earbuds(2) come(3) with(4) three(5) types(6) of(7) rubber(8) heads(9) depending(10) on(11) the(12) size(13) of(14) your(15) ear(16) canal(17) :(18) small(19) ,(20) medium(21) and(22) large(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			The(1) sound(2) performance(3) is(4) more(5) than(6) I(7) expected(8) and(9) because(10) I(11) picked(12) these(13) up(14) so(15) cheap(16) I(17) really(18) did(19) not(20) expect(21) to(22) find(23) a(24) good(25) sound(26) quality(27) .(28) 
+			<opinion polarity="+" feature="sound quality" featWords="26,27" opWords="25"/>
+		</sentence>
+		<sentence id="8">
+			The(1) cable(2) is(3) coated(4) with(5) this(6) rubbery(7) surface(8) that(9) does(10) not(11) bend(12) easily(13) which(14) is(15) very(16) nice(17) because(18) it(19) helps(20) the(21) cable(22) stay(23) more(24) straight(25) than(26) curled(27) up(28) .(29) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="17" potency="16"/>
+		</sentence>
+		<sentence id="9">
+			These(1) earbuds(2) are(3) still(4) very(5) small(6) yet(7) the(8) noise(9) isolation(10) that(11) they(12) offer(13) is(14) amazing(15) .(16) 
+			<opinion polarity="+" feature="earbuds" featWords="2" opWords="6" potency="5"/>
+			<opinion polarity="+" feature="isolation" featWords="9,10" opWords="15"/>
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) use(3) it(4) cycling(5) ,(6) at(7) the(8) gym(9) while(10) working(11) out(12) or(13) simply(14) while(15) you(16) take(17) a(18) walk(19) through(20) the(21) park(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			Be(1) careful(2) though(3) because(4) you(5) will(6) not(7) hear(8) outside(9) noises(10) if(11) you(12) have(13) music(14) playing(15) .(16) 
+		</sentence>
+	</text>
+</review>

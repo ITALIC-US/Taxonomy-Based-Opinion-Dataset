@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="144" item="1995 Buick LeSabre" rating="5">
+	<title>
+		<sentence id="1">
+			Hubby(1) 's(2) favorite(3) car(4) of(5) all(6) time(7) *(8) 
+			<opinion polarity="+" feature="car" featWords="4" opWords="3"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ride(1) ,(2) comfort(3) ,(4) readable(5) instrument(6) panel(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			fuel(1) mileage(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) a(3) 1995(4) Buick_LeSabre(5) used(6) from(7) a(8) dealership(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) love(3) at(4) first(5) sight(6) for(7) my(8) husband(9) ,(10) and(11) so(12) with(13) a(14) good(15) trade-in(16) it(17) came(18) home(19) with(20) us(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			The(1) car(2) rides(3) like(4) a(5) dream(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			We(1) drove(2) 1000_miles(3) round-trip(4) on(5) a(6) visit(7) ,(8) and(9) felt(10) refreshed(11) not(12) tired(13) when(14) we(15) stopped(16) for(17) fuel(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) not(3) an(4) economy(5) car(6) but(7) is(8) reasonably(9) fuel(10) efficient(11) on(12) the(13) highway(14) .(15) 
+			<opinion polarity="+" feature="gas" opWords="9,10,11"/>
+		</sentence>
+		<sentence id="6">
+			It(1) came(2) with(3) all(4) the(5) bells(6) and(7) whistles(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Gauges(1) are(2) easy(3) to(4) read(5) .(6) 
+			<opinion polarity="+" feature="gauges" featWords="1" opWords="3,4,5"/>
+		</sentence>
+		<sentence id="8">
+			Horn(1) is(2) easy(3) to(4) find(5) in(6) a(7) hurry(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			Hubby(1) says(2) he(3) 's(4) never(5) driving(6) a(7) clunker(8) again(9) !(10) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) a(3) great(4) car(5) for(6) those(7) who(8) like(9) a_bit(10) of(11) luxury(12) ,(13) and(14) probably(15) would(16) make(17) a(18) good(19) family(20) car(21) .(22) 
+			<opinion polarity="+" feature="car" featWords="21" opWords="19"/>
+			<opinion polarity="+" feature="car" featWords="5" opWords="4"/>
+		</sentence>
+		<sentence id="11">
+			I(1) have(2) no(3) kids(4) so(5) can(6) not(7) be(8) sure(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			It(1) also(2) may(3) be(4) a_bit(5) too(6) big(7) for(8) a(9) small(10) person(11) to(12) handle(13) well(14) .(15) 
+			<opinion polarity="-" feature="size" opWords="6,7"/>
+		</sentence>
+	</text>
+</review>

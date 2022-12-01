@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="86" item="Panasonic RP-HC70K Consumer Headphones" rating="2">
+	<title>
+		<sentence id="1">
+			Buy_the_Sennheiser(1) PX-200s(2) instead(3) .(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Noise(1) canceling(2) is(3) marginally(4) effective(5) ,(6) unit(7) folds(8) up(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) fit(2) ,(3) poor(4) sound(5) quality(6) ,(7) external(8) circuit(9) box(10) is(11) a(12) pain(13) .(14) 
+			<opinion polarity="-" feature="comfort" featWords="2" opWords="1"/>
+			<opinion polarity="-" feature="sound quality" featWords="5,6" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Buy_the_Sennheiser(1) PX-200s(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) own(2) 12(3) sets(4) of(5) headphones(6) for(7) portable(8) audio(9) ,(10) including(11) several(12) other(13) sets(14) of(15) nose-canceling(16) headphones(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			These(1) are(2) adequate(3) ,(4) but(5) just(6) barely(7) .(8) 
+			<opinion polarity="+" feature="headphones" opWords="3"/>
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) fairly(3) difficult(4) to(5) get(6) these(7) to(8) seat(9) properly(10) on(11) your(12) ears(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			If(1) they(2) do(3) not(4) seat(5) properly(6) ,(7) you(8) have(9) very(10) little(11) bass(12) .(13) 
+			<opinion polarity="-" feature="bass" featWords="12" opWords="11" potency="10"/>
+		</sentence>
+		<sentence id="5">
+			Even_if(1) they(2) do(3) seat(4) properly(5) ,(6) the(7) high-end(8) and(9) mid-range(10) are(11) rather(12) muted(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) sense(2) of(3) musical(4) presence(5) is(6) completely(7) absent(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) noise(2) canceling(3) feature(4) is(5) pretty(6) weak(7) .(8) 
+			<opinion polarity="-" feature="isolation" featWords="2,3" opWords="7" potency="6"/>
+		</sentence>
+		<sentence id="8">
+			If(1) you(2) put(3) these(4) on(5) in(6) a(7) quiet(8) room(9) and(10) switch(11) the(12) noise-canceling(13) on(14) and(15) then(16) off(17) ,(18) you(19) will(20) notice(21) a(22) significant(23) decrease(24) in(25) the(26) sound(27) quality(28) when(29) the(30) circuit(31) is(32) active(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			Yes(1) ,(2) the(3) noise(4) canceling(5) DOES(6) mute(7) some(8) continuous(9) ,(10) low-level(11) background(12) noise(13) ,(14) but(15) it(16) is(17) not(18) a(19) good(20) bargain(21) when(22) the(23) music(24) deteriorates(25) so(26) badly(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			The(1) noise-canceling(2) circuit(3) is(4) contained(5) in(6) an(7) exterior(8) box(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) a_real(3) pain(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) heavy(3) enough(4) ((5) with(6) battery(7) )(8) to(9) irritate(10) you(11) ,(12) but(13) you(14) can(15) not(16) really(17) do(18) anything(19) with(20) it(21) .(22) there(23) 's(24) no(25) clip(26) to(27) attach(28) it(29) to(30) anything(31) and(32) if(33) yo(34) try(35) to(36) put(37) it(38) in(39) a(40) pocket(41) ,(42) the(43) volume(44) wheel(45) will(46) get(47) turned(48) .(49) 
+			<opinion polarity="-" feature="weight" opWords="3" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			Not(1) recommended(2) .(3) 
+		</sentence>
+		<sentence id="14">
+			For(1) just(2) a(3) few(4) $(5) $(6) more(7) ,(8) get(9) the(10) Sennheiser(11) PX-200s(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			They(1) do(2) not(3) have(4) the(5) noise-canceling(6) feature(7) ,(8) but(9) they(10) DO(11) have(12) great(13) sound(14) .(15) 
+			<opinion polarity="+" feature="sound quality" featWords="14" opWords="13"/>
+		</sentence>
+		<sentence id="16">
+			They(1) are(2) also(3) much(4) more(5) comfortable(6) .(7) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="722" item="2002 Mazda Protege" rating="3">
+	<title>
+		<sentence id="1">
+			Adequate(1) -(2) nothing(3) more(4) 
+			<opinion polarity="+" feature="car" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pleasant(1) interior(2) ,(3) excellent(4) value(5) for(6) money(7) ,(8) spacious(9) .(10) 
+			<opinion polarity="+" feature="room" opWords="9"/>
+			<opinion polarity="+" feature="car" opWords="4"/>
+			<opinion polarity="+" feature="interior" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Usual_Mazda(1) reliablity(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor_Mechanical_Refinement(1) ,(2) so-so(3) ride(4) and(5) unexciting(6) handling(7) .(8) 
+			<opinion polarity="-" feature="handling" featWords="7" opWords="6"/>
+			<opinion polarity="-" feature="ride quality" featWords="4" opWords="3"/>
+		</sentence>
+		<sentence id="2">
+			Rubbery(1) gearchange(2) and(3) dead(4) steering(5) .(6) 
+			<opinion polarity="-" feature="steering" featWords="5" opWords="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) dependable(2) runaround(3) -(4) Japanese(5) style(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			A(1) fridge(2) on(3) wheels(4) if(5) you(6) like(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Keen(1) drivers(2) need(3) not(4) apply(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			First(1) of(2) all(3) ,(4) a(5) confession(6) ....(7) I(8) actually(9) drove(10) the(11) Mazda(12) 323F(13) ,(14) which(15) is(16) the(17) hatchback(18) version(19) of(20) the(21) Protege(22) that(23) is(24) not(25) sold(26) in(27) the(28) USA(29) ,(30) but(31) putting(32) that(33) aside(34) ,(35) this(36) review(37) will(38) concentrate(39) on(40) my(41) experiences(42) with(43) this(44) vehicle(45) .(46) 
+		</sentence>
+		<sentence id="2">
+			I(1) will(2) start(3) off(4) with(5) what(6) I(7) liked(8) ;(9) which(10) was(11) the(12) very(13) spacious(14) and(15) user-friendly(16) interior(17) .(18) 
+			<opinion polarity="+" feature="interior" featWords="17" opWords="16"/>
+			<opinion polarity="+" feature="room" opWords="14" potency="13"/>
+		</sentence>
+		<sentence id="3">
+			At(1) long(2) last(3) Mazda(4) has(5) learnt(6) how(7) to(8) make(9) high-quality(10) interiors(11) that(12) do(13) not(14) resemble(15) the(16) aftermath(17) of(18) an(19) explosion(20) in(21) a(22) plastic(23) factory(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) seat(2) fabrics(3) and(4) carpets(5) are(6) made(7) from(8) good(9) quality(10) materials(11) and(12) the(13) plastic(14) moldings(15) are(16) equally(17) well(18) textured(19) and(20) chunky(21) looking(22) .(23) 
+			<opinion polarity="+" feature="material" opWords="18,19"/>
+		</sentence>
+		<sentence id="5">
+			But(1) while(2) the(3) "(4) plasticky(5) "(6) Japanese(7) look(8) may(9) have(10) gone(11) ,(12) the(13) dashboard(14) is(15) ergonomically(16) flawed(17) with(18) switches(19) scattered(20) all(21) over(22) the(23) place(24) ,(25) some(26) low(27) down(28) and(29) out(30) of(31) sight(32) .(33) 
+			<opinion polarity="-" feature="comfort" opWords="16,17"/>
+		</sentence>
+		<sentence id="6">
+			The(1) Protege(2) also(3) loses(4) marks(5) for(6) its(7) angle-only(8) adjusting(9) steering(10) wheel(11) and(12) low(13) ceiling(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Mind(1) you(2) the(3) luggage(4) area(5) is(6) generous(7) ,(8) as(9) is(10) rear(11) seat(12) space(13) ,(14) and(15) I(16) am(17) not(18) going(19) to(20) complain(21) about(22) the(23) excellent(24) air(25) conditioning(26) ,(27) hi-fi(28) system(29) and(30) clear(31) ,(32) easy-to-read(33) instruments(34) .(35) 
+			<opinion polarity="+" feature="ac" featWords="25,26" opWords="24"/>
+		</sentence>
+		<sentence id="8">
+			But(1) sadly(2) do(3) not(4) expect(5) any(6) rushes(7) of(8) adrenaline(9) from(10) behind(11) the(12) wheel(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			As(1) soon(2) as(3) the(4) engine(5) is(6) started(7) you(8) notice(9) unpleasant(10) vibrations(11) coming(12) through(13) the(14) gear(15) stick(16) ,(17) the(18) pedals(19) and(20) the(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			And(1) that(2) gearshift(3) ....(4) the(5) manual(6) shifter(7) feels(8) rubbery(9) and(10) imprecise(11) and(12) is(13) not(14) a(15) pleasure(16) to(17) use(18) at(19) all(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			At_least(1) the(2) clutch(3) feeds(4) in(5) progressively(6) ,(7) and(8) throttle(9) reponse(10) from(11) the(12) 1.6(13) litre(14) ,(15) twin-cam(16) 16-valve(17) engine(18) is(19) willing(20) enough(21) if_not(22) fantastic(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			Handling(1) is(2) safe(3) and(4) secure(5) ,(6) but(7) never(8) exciting(9) .(10) 
+			<opinion polarity="+" feature="handling" featWords="1" opWords="5"/>
+			<opinion polarity="+" feature="handling" featWords="1" opWords="3"/>
+		</sentence>
+		<sentence id="13">
+			The(1) tiller(2) is(3) lifeless(4) and(5) dead(6) ,(7) and(8) it(9) just(10) does(11) not(12) encourage(13) you(14) to(15) drive(16) the(17) Mazda(18) with(19) any(20) degree(21) of(22) gusto(23) at(24) all(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			But(1) if(2) all(3) you(4) want(5) is(6) a(7) solid(8) ,(9) dependable(10) runaround(11) to(12) drive(13) to(14) the(15) grocery(16) store(17) ,(18) then(19) you(20) could(21) do(22) a_lot(23) worse(24) ,(25) the(26) Protege(27) is(28) well(29) made(30) ,(31) reliable(32) and(33) easy(34) to(35) live(36) with(37) ,(38) but(39) in(40) the(41) crucial(42) areas(43) of(44) driving(45) enjoyment(46) and(47) refinement(48) ,(49) it(50) lags(51) behind(52) the(53) class(54) leader(55) -(56) the(57) Ford_Focus(58) ,(59) which(60) is(61) where(62) I(63) recommend(64) you(65) put(66) your(67) money(68) if(69) you(70) are(71) a(72) keen(73) driver(74) .(75) 
+			<opinion polarity="+" feature="reliability" opWords="32"/>
+			<opinion polarity="+" feature="car" opWords="29,30"/>
+		</sentence>
+		<sentence id="15">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 13000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2002Model(12) and(13) Options(14) :(15) 1.6(16) GX(17) 
+		</sentence>
+	</text>
+</review>

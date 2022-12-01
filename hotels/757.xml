@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="757" item="Plaza Hotel (The)" rating="3">
+	<title>
+		<sentence id="1">
+			Bingo(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Economical(1) ;(2) laid(3) back(4) gaming(5) floor(6) ;(7) live(8) bingo(9) games(10) 
+			<opinion polarity="+" feature="price" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) surroundings(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			As(1) long(2) as(3) you(4) set(5) your(6) expectations(7) appropriately(8) ,(9) The_Plaza(10) is(11) a(12) decent(13) place(14) to(15) eat(16) and(17) sleep(18) in(19) downtown(20) Las_Vegas(21) .(22) 
+			<opinion polarity="+" feature="place" featWords="14" opWords="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) long(2) as(3) you(4) set(5) your(6) expectations(7) accordingly(8) ,(9) The_Plaza(10) can(11) be(12) an(13) economical(14) and(15) clean(16) place(17) to(18) rest(19) your(20) head(21) at(22) night(23) ,(24) especially(25) if(26) that(27) 's(28) all(29) you(30) really(31) expect(32) your(33) hotel(34) room(35) in(36) Vegas(37) to(38) provide(39) .(40) 
+			<opinion polarity="+" feature="price" opWords="14"/>
+			<opinion polarity="+" feature="place" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="2">
+			Even_if(1) you(2) 've(3) never(4) been(5) to(6) Las_Vegas(7) ,(8) you(9) may(10) have(11) already(12) seen(13) the(14) distinctive(15) circular(16) driveway(17) of(18) The_Plaza_Hotel(19) in(20) the(21) background(22) on(23) TV(24) shows(25) such(26) as(27) CSI(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			Like(1) most(2) of(3) the(4) downtown(5) Las_Vegas(6) area(7) ,(8) The_Plaza(9) has(10) quite(11) a_bit(12) of(13) history(14) behind(15) it(16) ,(17) which(18) is(19) also(20) a(21) nice(22) way(23) of(24) saying(25) that(26) it(27) 's(28) quite(29) old(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			The(1) Plaza(2) is(3) also(4) the(5) only(6) casino(7) downtown(8) that(9) offers(10) live(11) bingo(12) games(13) ,(14) along_with(15) surprisingly(16) large(17) bingo(18) tournaments(19) three_times(20) a(21) year(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			That(1) alone(2) should(3) indicate(4) the(5) more(6) senior(7) clientele(8) the(9) The_Plaza(10) appeals(11) to(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			That(1) 's(2) not(3) a(4) bad(5) thing(6) ,(7) as(8) the(9) slower(10) ,(11) more(12) laid(13) back(14) feeling(15) in(16) the(17) casino(18) makes(19) gambling(20) almost(21) relaxing(22) ((23) assuming(24) you(25) 're(26) winning(27) ,(28) of(29) course(30) )(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			There(1) was(2) a(3) good(4) assortment(5) of(6) slot(7) machines(8) on(9) the(10) gaming(11) floor(12) ,(13) with(14) the(15) penny(16) machines(17) making(18) up(19) a(20) majority(21) of(22) the(23) newer(24) machines(25) available(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			One(1) note(2) :(3) they(4) recently(5) closed(6) the(7) live(8) keno(9) ,(10) so(11) if(12) that(13) 's(14) your(15) game(16) ,(17) you(18) 'll(19) need(20) to(21) check(22) out(23) the(24) Cal(25) or(26) the(27) Fremont(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			In(1) terms(2) of(3) dining(4) options(5) ,(6) there(7) is(8) a(9) small(10) food(11) court(12) that(13) offers(14) a(15) McDonalds(16) ,(17) a(18) Seattle_'s_Best(19) coffee(20) shop(21) ,(22) and(23) pizza(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			The(1) buffet(2) in(3) the(4) middle(5) of(6) the(7) casino(8) had(9) a(10) surprisingly(11) good(12) breakfast(13) assortment(14) with(15) not-too-soggy(16) waffles(17) ,(18) strawberry(19) and(20) blueberry(21) toppings(22) ,(23) and(24) frozen(25) vanilla(26) custard(27) being(28) some(29) of(30) the(31) best(32) I(33) 've(34) had(35) downtown(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) an(3) Italian(4) restaurant(5) on(6) the(7) second(8) floor(9) ,(10) which(11) I(12) did(13) not(14) try(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			My(1) room(2) in(3) the(4) South_Tower(5) was(6) relatively(7) clean(8) and(9) spacious(10) .(11) 
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="8" potency="7"/>
+			<opinion polarity="+" feature="rooms" featWords="2" opWords="10"/>
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) minor(3) problems(4) were(5) a(6) tub(7) that(8) was(9) slow(10) to(11) drain(12) and(13) an(14) overwhelming(15) smell(16) of(17) Febreze(18) when(19) I(20) first(21) opened(22) the(23) door(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			Again(1) ,(2) do(3) not(4) expect(5) five-star(6) ((7) or(8) even(9) three(10) or(11) four(12) star(13) )(14) quality(15) in(16) terms(17) of(18) the(19) bedding(20) materials(21) or(22) the(23) appearance(24) of(25) the(26) bathroom(27) and(28) you(29) 'll(30) be(31) fine(32) .(33) 
+		</sentence>
+	</text>
+</review>

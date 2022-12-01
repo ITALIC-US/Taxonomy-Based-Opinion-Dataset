@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="508" item="Sony MDR-V600 Professional Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			Good(1) bang(2) for(3) the(4) buck(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Comfortable(1) ,(2) Bang_for_the_Buck(3) 
+			<opinion polarity="+" feature="comfort" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sound(1) is(2) not(3) comparable(4) to(5) more(6) pricey(7) headphones(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) bought(2) a(3) pair(4) of(5) these(6) headphones(7) about(8) 7(9) or(10) 8(11) years(12) ago(13) for(14) a(15) hair(16) under(17) $90(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) still(3) going(4) strong(5) under(6) near(7) daily(8) use(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			Originally(1) designed(2) to(3) help(4) me(5) ignore(6) my(7) nagging(8) parents(9) ((10) way(11) back(12) then(13) )(14) ,(15) they(16) now(17) serve(18) to(19) shutout(20) ambient(21) office(22) noise(23) quite(24) nicely(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			At(1) times(2) they(3) even(4) doubled(5) as(6) earmuffs(7) in(8) the(9) cold(10) Michigan(11) winters(12) on(13) my(14) way(15) to(16) classes(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) fully(2) sealed(3) earpieces(4) block(5) you(6) off(7) from(8) the(9) outside(10) world(11) quite(12) nicely(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			I(1) can(2) literally(3) wear(4) these(5) headphones(6) all(7) day(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) that(3) comfortable(4) .(5) 
+			<opinion polarity="+" feature="comfort" opWords="4"/>
+		</sentence>
+		<sentence id="8">
+			They(1) have(2) nice(3) large(4) padded(5) earpieces(6) that(7) swivel(8) along(9) several(10) different(11) axes(12) .(13) 
+			<opinion polarity="+" feature="earbuds" featWords="6" opWords="3"/>
+			<opinion polarity="+" feature="size" opWords="4"/>
+			<opinion polarity="+" feature="earbuds" featWords="6" opWords="5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) cord(2) is(3) also(4) nice(5) and(6) long(7) ((8) 10ft(9) or(10) so(11) )(12) and(13) coiled(14) ,(15) so(16) you(17) can(18) use(19) them(20) while(21) needing(22) to(23) walk(24) across(25) the(26) room(27) and(28) whatnot(29) .(30) 
+			<opinion polarity="+" feature="cord" featWords="2" opWords="5"/>
+			<opinion polarity="+" feature="cord" featWords="2" opWords="7"/>
+		</sentence>
+		<sentence id="10">
+			Sound(1) quality(2) is(3) better(4) than(5) anything(6) I(7) have(8) heard(9) in(10) the(11) price(12) range(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			It(1) does(2) not(3) compare(4) to(5) the(6) Sennheiser(7) 600(8) that(9) my(10) roommate(11) uses(12) ,(13) but(14) that(15) also(16) costs(17) a_lot(18) more(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			They(1) are(2) great(3) at(4) isolating(5) most(6) background(7) noise(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Plane(1) rides(2) and(3) co-workers(4) '(5) telephone(6) conversations(7) are(8) easily(9) filtered(10) out(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Just(1) beware(2) of(3) people(4) that(5) think(6) you(7) are(8) ignoring(9) them(10) .(11) =(12) )(13) 
+		</sentence>
+	</text>
+</review>

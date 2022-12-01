@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="411" item="Sennheiser HD 600 Consumer Headphones" rating="5">
+	<title>
+		<sentence id="1">
+			If(1) you(2) are(3) interested(4) in(5) headphones(6) ,(7) as(8) I(9) am.(10) .(11) .(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Outstanding(1) musical(2) detail(3) and(4) rendition(5) .(6) 
+			<opinion polarity="+" feature="sound quality" opWords="1,2,3"/>
+			<opinion polarity="+" feature="sound quality" opWords="1,5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) care(3) about(4) fidelity(5) ,(6) have(7) already(8) spent(9) money(10) on(11) a(12) good(13) system(14) ,(15) want(16) headphones(17) ,(18) and(19) are(20) willing(21) to(22) spend(23) over(24) $200(25) on(26) them(27) ,(28) these(29) are(30) a(31) bargain(32) .(33) 
+			<opinion polarity="+" feature="price" opWords="32"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) picked(2) these(3) up(4) new(5) on(6) from(7) a(8) dealer(9) on(10) eBay(11) for(12) more(13) than(14) $200(15) ,(16) but(17) less(18) than(19) the(20) prices(21) listed(22) here(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Are(1) they(2) worth(3) it(4) ?(5) 
+		</sentence>
+		<sentence id="3">
+			Yes(1) ,(2) indeed(3) ,(4) but(5) only(6) if(7) you(8) are(9) interested(10) in(11) headphones(12) in(13) the(14) first(15) place(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) a(4) loudspeaker(5) purist(6) ,(7) and(8) believe(9) that(10) your(11) music(12) is(13) "(14) too(15) good(16) to(17) be(18) bottled(19) up(20) ,(21) "(22) you(23) may(24) as_well(25) skip(26) headphones(27) altogether(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			On_the_other_hand(1) ,(2) if(3) you(4) already(5) have(6) a(7) good(8) system(9) and(10) you(11) are(12) willing(13) to(14) listen(15) to(16) headphones(17) as_well(18) as(19) loudspeakers(20) ((21) enabling(22) you(23) to(24) co-exist(25) with(26) other(27) humans(28) late(29) at(30) night(31) if(32) that(33) matters(34) to(35) you(36) )(37) ,(38) you(39) will(40) not(41) be(42) disappointed(43) with(44) these(45) .(46) 
+		</sentence>
+		<sentence id="6">
+			Because(1) the(2) impedance(3) is(4) 300(5) ohms(6) ,(7) you(8) will(9) be(10) driving(11) a(12) pair(13) of(14) "(15) headspeakers(16) ,(17) "(18) and(19) will(20) need(21) either(22) a(23) separate(24) headphone(25) amp(26) or(27) a(28) preamp(29) with(30) a(31) built-in(32) headphone(33) amp(34) ((35) I(36) have(37) the(38) latter(39) )(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			Of(1) course(2) ,(3) you(4) can(5) spend(6) even(7) more(8) on(9) the(10) high-end(11) Grado(12) phones(13) ((14) also(15) reputedly(16) outstanding(17) )(18) ,(19) and(20) a_lot(21) more(22) on(23) tube-based(24) sets(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			Your(1) money(2) ,(3) and(4) your(5) choice(6) .(7) 
+		</sentence>
+	</text>
+</review>

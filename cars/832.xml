@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="832" item="2005 Chevrolet Uplander" rating="1">
+	<title>
+		<sentence id="1">
+			2005(1) CRAP(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) in(2) the(3) beginning(4) ....(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) ....(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Flickering(1) headlights(2) ,(3) moaning(4) awd(5) ,(6) turns(7) like(8) the(9) Queen_Mary(10) .(11) 
+			<opinion polarity="-" feature="headlights" featWords="2" opWords="1"/>
+		</sentence>
+		<sentence id="2">
+			Transmission(1) ,(2) door(3) motor(4) and(5) rotors(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			Oh(1) and(2) the(3) radio(4) station(5) changing(6) on(7) its(8) own(9) ?(10) ?(11) 
+		</sentence>
+		<sentence id="4">
+			How(1) can(2) you(3) turn(4) and(5) resurface(6) warped(7) rotars(8) and(9) why(10) would(11) you(12) need(13) to(14) replace(15) them(16) again(17) after(18) less(19) than(20) a(21) year(22) !(23) 
+		</sentence>
+		<sentence id="5">
+			Partially(1) its(2) the(3) car(4) ,(5) but(6) I(7) am(8) having(9) trouble(10) with(11) my(12) dealership(13) too(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) called(2) the(3) national(4) CS(5) at(6) Chevy(7) .(8) com(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			We(1) 'll(2) see(3) if(4) we(5) get(6) anywhere(7) this(8) time(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 33000(7) Condition(8) :(9) NewModel_Year(10) :(11) 2005Model(12) and(13) Options(14) :(15) AWD(16) 
+		</sentence>
+	</text>
+</review>

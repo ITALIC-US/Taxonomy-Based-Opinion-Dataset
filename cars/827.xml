@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="827" item="2005 Chevrolet Uplander" rating="2">
+	<title>
+		<sentence id="1">
+			Nice(1) room(2) ,(3) functions(4) ,(5) poor(6) build(7) quality(8) 
+			<opinion polarity="+" feature="room" featWords="2" opWords="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Love(1) the(2) room(3) ,(4) body(5) style(6) ,(7) handling(8) ,(9) power(10) is(11) good(12) .(13) 
+			<opinion polarity="+" feature="horsepower" featWords="10" opWords="12"/>
+			<opinion polarity="+" feature="room" featWords="3" opWords="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Keeps(1) breaking(2) down(3) ,(4) gets(5) depressing(6) ,(7) this(8) is(9) new(10) ,(11) shouldnt(12) be(13) happening(14) .(15) 
+			<opinion polarity="-" feature="car" opWords="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) this(5) van(6) ,(7) after(8) my(9) own(10) personal(11) experience(12) .(13) 
+			<opinion polarity="-" feature="van" featWords="6" opWords="3,4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) bought(2) this(3) van(4) instead_of(5) a(6) trailblazer(7) ,(8) wish(9) we(10) would(11) 've(12) opted(13) for(14) the(15) trailblazer(16) now(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) Van(2) does(3) have(4) a_lot_of(5) room(6) inside(7) with(8) seating(9) for(10) 7(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) dvd(2) and(3) sound(4) system(5) are(6) really(7) good(8) .(9) 
+			<opinion polarity="+" feature="sound system" featWords="4,5" opWords="8" potency="7"/>
+		</sentence>
+		<sentence id="4">
+			It(1) handles(2) and(3) accelerates(4) great(5) ,(6) the(7) wider(8) 17(9) "(10) tires(11) help(12) in(13) this(14) area(15) .(16) Power(17) sliding(18) door(19) is(20) a(21) great(22) convienince(23) ,(24) I(25) love(26) it(27) .(28) Fold(29) flat(30) seats(31) in(32) back(33) are(34) neat(35) ,(36) just(37) wish(38) could(39) remove(40) them(41) .(42) Our(43) van(44) has(45) 7500_miles(46) on(47) it(48) now(49) ,(50) we(51) 've(52) had(53) it(54) 9(55) months(56) so(57) far(58) .(59) Now(60) as(61) for(62) whats(63) wrong(64) with(65) it(66) ,(67) the(68) body(69) moulding(70) was(71) coming(72) off(73) right(74) from(75) the(76) day(77) we(78) picked(79) it(80) up(81) ,(82) had(83) to(84) wait(85) for(86) dealer(87) to(88) order(89) it(90) .(91) The(92) computer(93) had(94) to(95) be(96) reset(97) ,(98) something(99) wrong(100) with(101) the(102) codes(103) being(104) mixed(105) up(106) .(107) A(108) speed(109) sensor(110) quit(111) working(112) about(113) a(114) month(115) after(116) we(117) had(118) it(119) .(120) The(121) horn(122) wasnt(123) installed(124) correctly(125) at(126) the(127) assembly(128) plant(129) ((130) extremely(131) hard(132) to(133) push(134) )(135) Had(136) to(137) wait(138) for(139) parts(140) for(141) that(142) too(143) .(144) The(145) alternator(146) quit(147) working(148) and(149) had(150) to(151) be(152) replaced(153) .(154) Now(155) the(156) new(157) one(158) is(159) causing(160) high(161) pitched(162) whining(163) noises(164) corresonding(165) to(166) engine(167) rpm(168) .(169) One(170) of(171) the(172) brakes(173) is(174) squeaking(175) loudly(176) ,(177) I(178) would(179) think(180) brake(181) shoes(182) should(183) last(184) longer(185) than(186) 7500_miles(187) .(188) The(189) dealer(190) has(191) yet(192) to(193) fix(194) orlook(195) at(196) that(197) issue(198) for(199) me(200) yet(201) ,(202) I(203) 'm(204) getting(205) tired(206) of(207) taking(208) it(209) back(210) there(211) so(212) much(213) .(214) We(215) really(216) like(217) the(218) van(219) itself(220) ,(221) but(222) time(223) will(224) tell(225) if(226) we(227) keep(228) it(229) after(230) the(231) warranty(232) period(233) is(234) done(235) ,(236) it(237) seems(238) to(239) be(240) one(241) thing(242) after(243) another(244) is(245) going(246) wrong(247) with(248) it(249) .(250) Amount_Paid(251) ((252) US(253) $(254) )(255) :(256) 28000(257) Condition(258) :(259) NewModel_Year(260) :(261) 2005Model(262) and(263) Options(264) :(265) uplander(266) LS(267) 
+			<opinion polarity="-" feature="brakes" featWords="173" opWords="175"/>
+			<opinion polarity="+" feature="acceleration" opWords="4,5"/>
+			<opinion polarity="+" feature="handling" opWords="2,5"/>
+		</sentence>
+	</text>
+</review>

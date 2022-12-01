@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review id="665" item="2001 BMW X5" rating="3">
+	<title>
+		<sentence id="1">
+			Good_Family_Vehicle(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) is(2) not(3) an(4) SUV(5) it(6) is(7) an(8) SAV(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			BMW(1) has(2) not(3) worked(4) the(5) bugs(6) out(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Wait(1) until(2) the(3) 2002(4) 's(5) come(6) out(7) then(8) maybe(9) they(10) will(11) have(12) been(13) on(14) the(15) American(16) market(17) long(18) enough(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) BMW(2) X5(3) is(4) a(5) great(6) family(7) vehicle(8) .(9) 
+			<opinion polarity="+" feature="car" featWords="8" opWords="6"/>
+		</sentence>
+		<sentence id="2">
+			It(1) has(2) a_lot_of(3) room(4) on(5) the(6) inside(7) and(8) has(9) all(10) of(11) the(12) modern(13) conveniences(14) of(15) the(16) BMW(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			This(1) vehicle(2) has(3) the(4) ability(5) to(6) come(7) equiped(8) with(9) the(10) Navigation(11) system(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) all(3) of(4) the(5) little(6) features(7) that(8) tell(9) you(10) when(11) something(12) is(13) wrong(14) with(15) the(16) car(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			It(1) even(2) has(3) an(4) indicator(5) telling(6) you(7) that(8) the(9) headlights(10) and(11) brakelights(12) are(13) out(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) full(2) package(3) comes(4) with(5) the(6) Xenon(7) headlights(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) one(3) annoying(4) problem(5) which(6) all(7) of(8) the(9) higher(10) end(11) vehicles(12) are(13) suffering(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) check(2) engine(3) light(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			The(1) check(2) engine(3) light(4) is(5) directly(6) related(7) to(8) the(9) emission(10) control(11) system(12) of(13) the(14) vehicle(15) so(16) if(17) you(18) are(19) polluting(20) the(21) air(22) ((23) for(24) exampoe(25) a(26) loose(27) gas(28) cap(29) )(30) the(31) check(32) engine(33) light(34) comes(35) on(36) .(37) 
+		</sentence>
+		<sentence id="10">
+			Do(1) not(2) be(3) alarmed(4) this(5) is(6) not(7) damaging(8) the(9) vehicle(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			Call(1) your(2) nearest(3) dealership(4) and(5) make(6) an(7) appointment(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			If(1) it(2) seems(3) I(4) know(5) a_lot(6) mechanically(7) about(8) the(9) car(10) it(11) is(12) because(13) I(14) am(15) a(16) service(17) advisor(18) for(19) BMW(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			The(1) downside(2) to(3) a(4) vehicle(5) that(6) is(7) only(8) on(9) the(10) market(11) although(12) this(13) is(14) a(15) nice(16) vehicle(17) is(18) that(19) not(20) all(21) of(22) the(23) bugs(24) have(25) been(26) worked(27) out(28) .(29) 
+			<opinion polarity="+" feature="car" featWords="17" opWords="16"/>
+		</sentence>
+		<sentence id="14">
+			The(1) first(2) year(3) many(4) people(5) had(6) suspension(7) problems(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			The(1) second(2) year(3) there(4) was(5) a(6) major(7) problem(8) with(9) the(10) telescopic(11) steering(12) squeaking(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			Hopefully(1) now(2) that(3) the(4) 2002(5) 's(6) are(7) coming(8) out(9) these(10) things(11) will(12) be(13) improved(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			The(1) one(2) good(3) thing(4) about(5) BMW(6) if(7) they(8) have(9) had(10) many(11) complaints(12) about(13) one(14) thing(15) they(16) find(17) a(18) fix(19) for(20) it(21) no(22) matter(23) what(24) it(25) takes(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			Amount_Paid(1) ((2) US(3) $(4) )(5) :(6) 45,000(7) 
+		</sentence>
+	</text>
+</review>
